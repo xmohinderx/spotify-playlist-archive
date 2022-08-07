@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-403 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+404 songs - 21 hr 52 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Go Home](https://open.spotify.com/track/0e7Ana1Q5SrYM0Va7z2V7i) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH) | [Go Home](https://open.spotify.com/album/6izq0ZIJydzdk4eTG36bWZ) | 3:12 | 2022-01-14 | 2022-03-05 |
 | [Go Off](https://open.spotify.com/track/7peXYPvAVHw77scTuY5TWL) | [Haterade](https://open.spotify.com/artist/57mNUYCvfPsEKFMrA678JH), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:05 | 2022-06-16 |  |
 | [Go on Then, Love](https://open.spotify.com/track/4QlkNEiOQGYcc9t2q2EgEE) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:21 | 2022-03-08 | 2022-06-04 |
+| [Go On Then, Love \- ODEA Remix](https://open.spotify.com/track/20H50sMwMszFJ9cEGaDJUI) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [ODEA](https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:08 | 2022-08-07 |  |
 | [Gold](https://open.spotify.com/track/6aZzok123rnnw99xgYwsz7) | [DRK\-LVL](https://open.spotify.com/artist/2n2ti1Du4TpAMhDIXIWomu) | [Gold](https://open.spotify.com/album/7m1UWpRO8FV5fDqTXPnmqe) | 2:39 | 2022-08-05 |  |
 | [Golden Ticket](https://open.spotify.com/track/66Uf5wWeuWHCodwoFy1uXX) | [Matstubs](https://open.spotify.com/artist/0chxndMxE0AhAeYED1Ay9d), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:04 | 2022-06-16 |  |
 | [Good Riddance](https://open.spotify.com/track/3SIHY3CKoi145PnjT963un) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY), [Maryqueen](https://open.spotify.com/artist/76mi6FwuDiWbKgxlt8v22l) | [Good Riddance](https://open.spotify.com/album/29hy0wwzXvXBZRdEJTT9J8) | 3:43 | 2022-06-03 | 2022-07-02 |

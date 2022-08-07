@@ -1,12 +1,12 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 21099,
+  "num_followers": 21197,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzg1MTgxMSwwMDAwMDAwMDgwZWM4OWQzZGMyMzI3N2Q1ZjlkNjQwN2U2ZDU4OWE2",
+  "snapshot_id": "MTYzNzg1MTgxMSwwMDAwMDAwMDM0ZjQ1ZDFjNGI4MzkzNTZiMTQyZjIzMTU2MWQ4OTM0",
   "tracks": [
     {
       "added_at": "2021-11-25 14:50:11",
@@ -211,6 +211,22 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
+        "name": "Men in Salsa",
+        "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "Tu Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
+    },
+    {
+      "added_at": "2021-11-25 14:50:11",
+      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 306453,
       "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
-    },
-    {
-      "added_at": "2021-11-25 14:50:11",
-      "album": {
-        "name": "Men in Salsa",
-        "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "Tu Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
     },
     {
       "added_at": "2021-11-25 14:50:11",
@@ -619,18 +619,18 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Reg\u00e1lame Una Noche",
-        "url": "https://open.spotify.com/album/1VXQXHRTUD5kaCQotZhuvW"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 276346,
-      "name": "Reg\u00e1lame una Noche",
-      "url": "https://open.spotify.com/track/2URe3fGSKuCh8v0d49lsNU"
+      "duration_ms": 321200,
+      "name": "Casi Te Envidio",
+      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
     },
     {
       "added_at": "2021-11-25 14:50:11",
@@ -671,18 +671,18 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
+        "name": "Reg\u00e1lame Una Noche",
+        "url": "https://open.spotify.com/album/1VXQXHRTUD5kaCQotZhuvW"
       },
       "artists": [
         {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 321200,
-      "name": "Casi Te Envidio",
-      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
+      "duration_ms": 276346,
+      "name": "Reg\u00e1lame una Noche",
+      "url": "https://open.spotify.com/track/2URe3fGSKuCh8v0d49lsNU"
     },
     {
       "added_at": "2021-11-25 14:50:11",

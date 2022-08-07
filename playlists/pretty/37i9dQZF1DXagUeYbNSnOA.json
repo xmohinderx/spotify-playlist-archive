@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Mayra C\u00e1rdenas on cover.",
-  "num_followers": 166081,
+  "num_followers": 166083,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyMTc4MSwwMDAwMDAwMDQ0OTFhZjVmYzQ4MzViYmQ3MWUzOTM3NmE5OTZkMDcw",
+  "snapshot_id": "MTY1OTYyMTc4MSwwMDAwMDAwMGRlNjI3ZDk1NTExNmM3MDBkZDYxOGJmZmEwYTYwMWQz",
   "tracks": [
     {
       "added_at": "2022-08-04 14:03:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-08-04 14:03:00",
       "album": {
-        "name": "Aprendiendo por las Malas",
-        "url": "https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3"
-      },
-      "artists": [
-        {
-          "name": "Doris Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "Aprendiendo por las Malas",
-      "url": "https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF"
-    },
-    {
-      "added_at": "2022-08-04 14:03:00",
-      "album": {
         "name": "toxic",
         "url": "https://open.spotify.com/album/4M9iAW1b6ko9riHb1utBDD"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 161039,
       "name": "toxic",
       "url": "https://open.spotify.com/track/0hNFItiR6gG6HggDP8yxyj"
+    },
+    {
+      "added_at": "2022-08-04 14:03:00",
+      "album": {
+        "name": "Aprendiendo por las Malas",
+        "url": "https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3"
+      },
+      "artists": [
+        {
+          "name": "Doris Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "Aprendiendo por las Malas",
+      "url": "https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF"
     },
     {
       "added_at": "2022-08-04 14:03:00",
@@ -359,42 +359,6 @@
     {
       "added_at": "2022-08-04 14:03:00",
       "album": {
-        "name": "Otra Temporada",
-        "url": "https://open.spotify.com/album/7rhPutrEYnhtontH4puTpJ"
-      },
-      "artists": [
-        {
-          "name": "Media Hermana",
-          "url": "https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE"
-        },
-        {
-          "name": "Santiago Palacios",
-          "url": "https://open.spotify.com/artist/5qMJSUGULtqZMQ1nTXNB2I"
-        }
-      ],
-      "duration_ms": 241083,
-      "name": "Otra Temporada",
-      "url": "https://open.spotify.com/track/6QLWfSMC5xy7l3RN02IkdF"
-    },
-    {
-      "added_at": "2022-08-04 14:03:00",
-      "album": {
-        "name": "Cables",
-        "url": "https://open.spotify.com/album/4lnhke8dhD04dReOJt39Vy"
-      },
-      "artists": [
-        {
-          "name": "BICHA",
-          "url": "https://open.spotify.com/artist/1vKbeZ75wHSMkcw2CisYbl"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Cables",
-      "url": "https://open.spotify.com/track/0Xu5v9Ip6EM4zlQPMpbt1P"
-    },
-    {
-      "added_at": "2022-08-04 14:03:00",
-      "album": {
         "name": "Todos los males del mundo",
         "url": "https://open.spotify.com/album/7IuScTr4oggpnAse4t8G4m"
       },
@@ -419,6 +383,26 @@
     {
       "added_at": "2022-08-04 14:03:00",
       "album": {
+        "name": "Otra Temporada",
+        "url": "https://open.spotify.com/album/7rhPutrEYnhtontH4puTpJ"
+      },
+      "artists": [
+        {
+          "name": "Media Hermana",
+          "url": "https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE"
+        },
+        {
+          "name": "Santiago Palacios",
+          "url": "https://open.spotify.com/artist/5qMJSUGULtqZMQ1nTXNB2I"
+        }
+      ],
+      "duration_ms": 241083,
+      "name": "Otra Temporada",
+      "url": "https://open.spotify.com/track/6QLWfSMC5xy7l3RN02IkdF"
+    },
+    {
+      "added_at": "2022-08-04 14:03:00",
+      "album": {
         "name": "Vivo, Nasty",
         "url": "https://open.spotify.com/album/7BQfeXcKCpnyCMB62DTthq"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 205971,
       "name": "Vivo, Nasty",
       "url": "https://open.spotify.com/track/0FB4hbyCJsask8UEFwmTct"
+    },
+    {
+      "added_at": "2022-08-04 14:03:00",
+      "album": {
+        "name": "Cables",
+        "url": "https://open.spotify.com/album/4lnhke8dhD04dReOJt39Vy"
+      },
+      "artists": [
+        {
+          "name": "BICHA",
+          "url": "https://open.spotify.com/artist/1vKbeZ75wHSMkcw2CisYbl"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Cables",
+      "url": "https://open.spotify.com/track/0Xu5v9Ip6EM4zlQPMpbt1P"
     },
     {
       "added_at": "2022-08-04 14:03:00",
@@ -523,22 +523,22 @@
     {
       "added_at": "2022-08-04 14:03:00",
       "album": {
-        "name": "El Poder de Lola",
-        "url": "https://open.spotify.com/album/5XXj66VxuFuj1atm0pKWse"
+        "name": "ipanema",
+        "url": "https://open.spotify.com/album/7E6zdvwanjHQ4GNVSS6Waq"
       },
       "artists": [
         {
-          "name": "Neck Talese",
-          "url": "https://open.spotify.com/artist/3AELbAjHI0SeWsXUVZMXZA"
+          "name": "musica gratis",
+          "url": "https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G"
         },
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
         }
       ],
-      "duration_ms": 334000,
-      "name": "Quebranto",
-      "url": "https://open.spotify.com/track/6qOnahK31RK7v4YTxpZIvP"
+      "duration_ms": 189708,
+      "name": "ipanema",
+      "url": "https://open.spotify.com/track/1YvcKJxETEMFUEGY65NmdS"
     },
     {
       "added_at": "2022-08-04 14:03:00",
@@ -559,22 +559,22 @@
     {
       "added_at": "2022-08-04 14:03:00",
       "album": {
-        "name": "ipanema",
-        "url": "https://open.spotify.com/album/7E6zdvwanjHQ4GNVSS6Waq"
+        "name": "El Poder de Lola",
+        "url": "https://open.spotify.com/album/5XXj66VxuFuj1atm0pKWse"
       },
       "artists": [
         {
-          "name": "musica gratis",
-          "url": "https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G"
+          "name": "Neck Talese",
+          "url": "https://open.spotify.com/artist/3AELbAjHI0SeWsXUVZMXZA"
         },
         {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
         }
       ],
-      "duration_ms": 189708,
-      "name": "ipanema",
-      "url": "https://open.spotify.com/track/1YvcKJxETEMFUEGY65NmdS"
+      "duration_ms": 334000,
+      "name": "Quebranto",
+      "url": "https://open.spotify.com/track/6qOnahK31RK7v4YTxpZIvP"
     },
     {
       "added_at": "2022-08-04 14:03:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-08-04 14:03:00",
       "album": {
+        "name": "Ecos",
+        "url": "https://open.spotify.com/album/4Yojme5Y0iF4NDmsbUuRfZ"
+      },
+      "artists": [
+        {
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+        }
+      ],
+      "duration_ms": 212210,
+      "name": "Ecos",
+      "url": "https://open.spotify.com/track/5Ap6XYlUXlyDyEXdP70htc"
+    },
+    {
+      "added_at": "2022-08-04 14:03:00",
+      "album": {
         "name": "Marisol",
         "url": "https://open.spotify.com/album/2EuAUwiVcfAFrVQaKmHFtJ"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2022-08-04 14:03:00",
       "album": {
-        "name": "Ecos",
-        "url": "https://open.spotify.com/album/4Yojme5Y0iF4NDmsbUuRfZ"
+        "name": "El Modo",
+        "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
       },
       "artists": [
         {
-          "name": "Cerro Dubl\u00edn",
-          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
         }
       ],
-      "duration_ms": 212210,
-      "name": "Ecos",
-      "url": "https://open.spotify.com/track/5Ap6XYlUXlyDyEXdP70htc"
+      "duration_ms": 256120,
+      "name": "El Modo",
+      "url": "https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T"
     },
     {
       "added_at": "2022-08-04 14:03:00",
@@ -735,18 +751,18 @@
     {
       "added_at": "2022-08-04 14:03:00",
       "album": {
-        "name": "El Modo",
-        "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
+        "name": "ENVIDIA",
+        "url": "https://open.spotify.com/album/0o5KxfeXVNlPuKedwJ5stP"
       },
       "artists": [
         {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+          "name": "Gallard\u00eda",
+          "url": "https://open.spotify.com/artist/0yP5P5C0GfMQ8Nlpq3lFBY"
         }
       ],
-      "duration_ms": 256120,
-      "name": "El Modo",
-      "url": "https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T"
+      "duration_ms": 188000,
+      "name": "ENVIDIA",
+      "url": "https://open.spotify.com/track/5OaJ7CyykcSB5bKPz840Df"
     },
     {
       "added_at": "2022-08-04 14:03:00",
@@ -771,22 +787,6 @@
     {
       "added_at": "2022-08-04 14:03:00",
       "album": {
-        "name": "ENVIDIA",
-        "url": "https://open.spotify.com/album/0o5KxfeXVNlPuKedwJ5stP"
-      },
-      "artists": [
-        {
-          "name": "Gallard\u00eda",
-          "url": "https://open.spotify.com/artist/0yP5P5C0GfMQ8Nlpq3lFBY"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "ENVIDIA",
-      "url": "https://open.spotify.com/track/5OaJ7CyykcSB5bKPz840Df"
-    },
-    {
-      "added_at": "2022-08-04 14:03:00",
-      "album": {
         "name": "Huellas",
         "url": "https://open.spotify.com/album/38UERNdl2Pv6EQhTssNU4X"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 165578,
       "name": "Olvid\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/2wfEFwqtVL7GtyukdM111K"
+    },
+    {
+      "added_at": "2022-08-04 14:03:00",
+      "album": {
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/7GXHP9ky24SraHw4kuCC2k"
+      },
+      "artists": [
+        {
+          "name": "Gletcher",
+          "url": "https://open.spotify.com/artist/1koh2JIk9Q42FNn0llOpdi"
+        }
+      ],
+      "duration_ms": 222783,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/6zMrs96ltfF9YrXDuaGbku"
     },
     {
       "added_at": "2022-08-04 14:03:00",
@@ -831,22 +847,6 @@
       "duration_ms": 202478,
       "name": "FR3N3S1",
       "url": "https://open.spotify.com/track/4gs4CAPYyhnxgLUIBqLCw7"
-    },
-    {
-      "added_at": "2022-08-04 14:03:00",
-      "album": {
-        "name": "Humo",
-        "url": "https://open.spotify.com/album/7GXHP9ky24SraHw4kuCC2k"
-      },
-      "artists": [
-        {
-          "name": "Gletcher",
-          "url": "https://open.spotify.com/artist/1koh2JIk9Q42FNn0llOpdi"
-        }
-      ],
-      "duration_ms": 222783,
-      "name": "Humo",
-      "url": "https://open.spotify.com/track/6zMrs96ltfF9YrXDuaGbku"
     },
     {
       "added_at": "2022-08-04 14:03:00",

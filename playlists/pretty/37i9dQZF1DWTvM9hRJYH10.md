@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,999 likes - 134 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,010 likes - 134 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

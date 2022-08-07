@@ -4,10 +4,11 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Thiruchitrambalam
 
-75 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+76 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aafat \(Tamil\) \[From "Liger \(Tamil\)"\]](https://open.spotify.com/track/09FMB1sTmFrqTa4sPKyjYg) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Aafat \(Tamil\) \[From "Liger \(Tamil\)"\]](https://open.spotify.com/album/0O3S5Epuz2DEESAH4YXav2) | 2:43 | 2022-08-06 |  |
 | [Aagoozhilae](https://open.spotify.com/track/1lFaBr3FHJ50muREghdg5C) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/5giXKnWYxmiHDn2Aky5tPc) | 3:53 | 2022-03-16 |  |
 | [Adhirudha \- From "Navarasa"](https://open.spotify.com/track/1f8ogmapCUpWELZYbCKJmp) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Adhirudha \(From "Navarasa"\)](https://open.spotify.com/album/4WFgbYD0mb8c6O88sNznVv) | 2:03 | 2021-11-29 |  |
 | [Adiye \- From "Bachelor"](https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Adiye \(From "Bachelor"\)](https://open.spotify.com/album/1vPj6t2spMcJkrtlDsFaC8) | 4:32 | 2021-11-29 |  |

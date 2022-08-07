@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 425263,
+  "num_followers": 425499,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcwMDgwMCwwMDAwMDAwMGY3NmE1YzI4MDAxMTA5MzUzMTQ0YjRmYTA4ZmEwMzY3",
+  "snapshot_id": "MTY1OTcwMDgwMCwwMDAwMDAwMDk0MjI0YTc3ZGMzYWRmODUyNjdlZjBlNTIxOWU2OGQ0",
   "tracks": [
     {
       "added_at": "2022-08-05 12:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Once In a While (Acoustic)",
-        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
-      },
-      "artists": [
-        {
-          "name": "Timeflies",
-          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
-        }
-      ],
-      "duration_ms": 231582,
-      "name": "Once In a While - Acoustic",
-      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "I Cry When I Laugh",
         "url": "https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 265381,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Once In a While (Acoustic)",
+        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
+      },
+      "artists": [
+        {
+          "name": "Timeflies",
+          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
+        }
+      ],
+      "duration_ms": 231582,
+      "name": "Once In a While - Acoustic",
+      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "I'll Never Love",
+      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
         "name": "Know-It-All (Deluxe)",
         "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 228000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "I'll Never Love",
-      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Wish I Was Right For You",
-        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
-      },
-      "artists": [
-        {
-          "name": "jens",
-          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
-        }
-      ],
-      "duration_ms": 182562,
-      "name": "Wish I Was Right For You",
-      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/6vAgHrX0THw3dFEpk1Cjt3"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Wish I Was Right For You",
+        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
+      },
+      "artists": [
+        {
+          "name": "jens",
+          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
+        }
+      ],
+      "duration_ms": 182562,
+      "name": "Wish I Was Right For You",
+      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Entwined",
-        "url": "https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94"
-      },
-      "artists": [
-        {
-          "name": "Elias",
-          "url": "https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf"
-        }
-      ],
-      "duration_ms": 248895,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6NqWkjJYrl0btI44T9dTjg"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 221612,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Entwined",
+        "url": "https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf"
+        }
+      ],
+      "duration_ms": 248895,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6NqWkjJYrl0btI44T9dTjg"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -2359,18 +2359,18 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "My Forever",
-        "url": "https://open.spotify.com/album/3ZaJWZD6PWBwamO1m2Gfkb"
+        "name": "Amari' SZN 1",
+        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
       },
       "artists": [
         {
-          "name": "Ajuki",
-          "url": "https://open.spotify.com/artist/04Og4FnZhjF2p1kCwkUnIe"
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
         }
       ],
-      "duration_ms": 217566,
-      "name": "My Forever",
-      "url": "https://open.spotify.com/track/227G6rcO65LFq39h8yKBqS"
+      "duration_ms": 182248,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -2391,18 +2391,18 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Amari' SZN 1",
-        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
+        "name": "My Forever",
+        "url": "https://open.spotify.com/album/3ZaJWZD6PWBwamO1m2Gfkb"
       },
       "artists": [
         {
-          "name": "Amari Noelle",
-          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+          "name": "Ajuki",
+          "url": "https://open.spotify.com/artist/04Og4FnZhjF2p1kCwkUnIe"
         }
       ],
-      "duration_ms": 182248,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
+      "duration_ms": 217566,
+      "name": "My Forever",
+      "url": "https://open.spotify.com/track/227G6rcO65LFq39h8yKBqS"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -2475,22 +2475,18 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Something Like This",
-        "url": "https://open.spotify.com/album/4NXuzbjVQkBzDXMrbb2rfv"
+        "name": "Send Nudes",
+        "url": "https://open.spotify.com/album/2m2vD5swUKoiHQvNVNcjoV"
       },
       "artists": [
         {
-          "name": "Carley Bearden",
-          "url": "https://open.spotify.com/artist/3c8xof9mx6WTi7UHyJ2WhZ"
-        },
-        {
-          "name": "Taka$",
-          "url": "https://open.spotify.com/artist/3nkQI11P6Ukhe3LClNZxNs"
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
         }
       ],
-      "duration_ms": 194634,
-      "name": "Something Like This",
-      "url": "https://open.spotify.com/track/71RHfbbUVoYNKNFtRomycM"
+      "duration_ms": 204374,
+      "name": "Send Nudes",
+      "url": "https://open.spotify.com/track/4U5Hgk4yDeLklzJb8Ypy8Y"
     }
   ],
   "unique_name": "Spooning",

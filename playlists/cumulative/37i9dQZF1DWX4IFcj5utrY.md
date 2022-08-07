@@ -4,7 +4,7 @@
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=clOlPuP0RJuz3\_yN21vJXg">Oscar Mbo</a>
 
-478 songs - 1 day 23 hr 58 min - [published](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
+479 songs - 2 day 0 hr 6 min - [published](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Bush Doctor](https://open.spotify.com/track/279N45NJ5dAwk7wzhNeUpE) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [Bush Doctor Ep](https://open.spotify.com/album/0qI7ugsoLIIMh8QGUpJsbx) | 7:25 | 2022-01-20 | 2022-04-23 |
 | [Buttons](https://open.spotify.com/track/4TCo0NzoUyplO0D5eVyeLL) | [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Outta Year](https://open.spotify.com/album/0DipomglZpZwNDgK5vCfxU) | 4:01 | 2022-01-06 | 2022-02-04 |
 | [Buya Faana \- Radio Edit](https://open.spotify.com/track/4P7aEf4m8TSZiB5Xz4gH3M) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [Buya Faana \(Radio Edit\)](https://open.spotify.com/album/5OlrfX1Opvw9NaSEILuUmk) | 4:38 | 2022-06-23 |  |
+| [Buya Faanaa](https://open.spotify.com/track/7ekBzUvEIfjA97jEfRN7QF) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Coolkruger](https://open.spotify.com/artist/4QetKXwMztESdkPNuBy1Wu) | [Groovy Since 90 Sumthin'](https://open.spotify.com/album/6RICRX15ckBZRTkleAgyPX) | 7:47 | 2022-08-05 |  |
 | [C'mon \- Main HT](https://open.spotify.com/track/50gzIrPluIjBKHPUjp7pXU) | [HyperSOUL\-X](https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os) | [C'mon \(Main HT\)](https://open.spotify.com/album/4dSJexV2ZVjOunTjpvlT5r) | 5:27 | 2022-01-20 | 2022-03-04 |
 | [Calls of the Mother Nature](https://open.spotify.com/track/34dLj9m7dSDxssf00EVsrS) | [Alison Maseko](https://open.spotify.com/artist/6oqK40P4bsIP4zVc0vhpPO) | [Calls of the Mother Nature](https://open.spotify.com/album/7cUxHdGp3nZsnK0vw7xC9H) | 5:53 | 2022-02-03 | 2022-02-24 |
 | [Camagu \- Original Mix](https://open.spotify.com/track/4C2E3vB1s5zprIEbtbVjs5) | [Dj Jim Mastershine](https://open.spotify.com/artist/63xZCjmz39rg3enEgZ5A6u), [Afro Brotherz](https://open.spotify.com/artist/7aZsBuyymTdGv9ozv2CJr7) | [Thriller EP](https://open.spotify.com/album/1DBxz3VepMSLDPCncXvdcv) | 6:31 | 2022-06-23 | 2022-07-08 |

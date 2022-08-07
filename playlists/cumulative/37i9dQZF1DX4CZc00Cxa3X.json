@@ -1048,6 +1048,24 @@
     },
     {
       "album": {
+        "name": "Lumi",
+        "url": "https://open.spotify.com/album/0PaJNCdv9ME8mJkrI1OX0W"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Lumi",
+      "url": "https://open.spotify.com/track/4JwgaqEc7cFmKsBxhNqRSt"
+    },
+    {
+      "album": {
         "name": "Antiphonals",
         "url": "https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh"
       },
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 138564,
       "name": "Ozu",
       "url": "https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK"

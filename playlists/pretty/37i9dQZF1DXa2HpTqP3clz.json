@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Tray Wellington",
-  "num_followers": 108324,
+  "num_followers": 108372,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNjcwOCwwMDAwMDAwMGY1MjI2MjM3NDNhOGE1NTA2MmEwMGYzODcxMTE2MmJm",
+  "snapshot_id": "MTY1OTEwNjcwOCwwMDAwMDAwMDBiZGFkNWRjODllY2UwMTdkYTI5MzUwYzcyY2I2ZTkw",
   "tracks": [
     {
       "added_at": "2022-07-29 14:58:28",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-07-29 14:58:28",
       "album": {
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Edges Run",
+      "url": "https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x"
+    },
+    {
+      "added_at": "2022-07-29 14:58:28",
+      "album": {
         "name": "Harder Than Steel",
         "url": "https://open.spotify.com/album/3pei7yQ2k0a5pgcRZkCjBr"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 249000,
       "name": "Harder Than Steel",
       "url": "https://open.spotify.com/track/03xIPbTIXnqTJnElXpDYjY"
-    },
-    {
-      "added_at": "2022-07-29 14:58:28",
-      "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Edges Run",
-      "url": "https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x"
     },
     {
       "added_at": "2022-07-29 14:58:28",
@@ -855,22 +855,18 @@
     {
       "added_at": "2022-07-29 14:58:28",
       "album": {
-        "name": "Crooked Tree",
-        "url": "https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2"
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct"
       },
       "artists": [
         {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 232827,
-      "name": "Crooked Tree",
-      "url": "https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG"
+      "duration_ms": 268413,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm"
     },
     {
       "added_at": "2022-07-29 14:58:28",
@@ -891,18 +887,22 @@
     {
       "added_at": "2022-07-29 14:58:28",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct"
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 268413,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm"
+      "duration_ms": 232827,
+      "name": "Crooked Tree",
+      "url": "https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG"
     },
     {
       "added_at": "2022-07-29 14:58:28",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-07-29 14:58:28",
       "album": {
+        "name": "Seasons Don't Change",
+        "url": "https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr"
+      },
+      "artists": [
+        {
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Seasons Don't Change",
+      "url": "https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR"
+    },
+    {
+      "added_at": "2022-07-29 14:58:28",
+      "album": {
         "name": "When It All Falls Apart",
         "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 275746,
       "name": "Narrow Line",
       "url": "https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn"
-    },
-    {
-      "added_at": "2022-07-29 14:58:28",
-      "album": {
-        "name": "Seasons Don't Change",
-        "url": "https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr"
-      },
-      "artists": [
-        {
-          "name": "Town Mountain",
-          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Seasons Don't Change",
-      "url": "https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR"
     },
     {
       "added_at": "2022-07-29 14:58:28",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-07-29 14:58:28",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
-      },
-      "artists": [
-        {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
-    },
-    {
-      "added_at": "2022-07-29 14:58:28",
-      "album": {
         "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
         "url": "https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 255369,
       "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
       "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
+    },
+    {
+      "added_at": "2022-07-29 14:58:28",
+      "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
     },
     {
       "added_at": "2022-07-29 14:58:28",
@@ -1355,18 +1355,26 @@
     {
       "added_at": "2022-07-29 14:58:28",
       "album": {
-        "name": "How It Ends",
-        "url": "https://open.spotify.com/album/2FftzfiRpzlPwSXpKgisJi"
+        "name": "Charm School (feat. Billy Strings & Chris Thile)",
+        "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
       },
       "artists": [
         {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
         }
       ],
-      "duration_ms": 199840,
-      "name": "How It Ends",
-      "url": "https://open.spotify.com/track/0QNGlcB83H133AoEFggtRP"
+      "duration_ms": 483442,
+      "name": "Charm School (feat. Billy Strings & Chris Thile)",
+      "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
     },
     {
       "added_at": "2022-07-29 14:58:28",
@@ -1403,6 +1411,22 @@
     {
       "added_at": "2022-07-29 14:58:28",
       "album": {
+        "name": "How It Ends",
+        "url": "https://open.spotify.com/album/2FftzfiRpzlPwSXpKgisJi"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 199840,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/0QNGlcB83H133AoEFggtRP"
+    },
+    {
+      "added_at": "2022-07-29 14:58:28",
+      "album": {
         "name": "Spirit to the Sea",
         "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
       },
@@ -1415,30 +1439,6 @@
       "duration_ms": 239346,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
-    },
-    {
-      "added_at": "2022-07-29 14:58:28",
-      "album": {
-        "name": "Charm School (feat. Billy Strings & Chris Thile)",
-        "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 483442,
-      "name": "Charm School (feat. Billy Strings & Chris Thile)",
-      "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
     },
     {
       "added_at": "2022-07-29 14:58:28",
@@ -1543,18 +1543,26 @@
     {
       "added_at": "2022-07-29 14:58:28",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/7q9msRiLtqEhNAfBmyHc2e"
+        "name": "My Bluegrass Heart",
+        "url": "https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR"
       },
       "artists": [
         {
-          "name": "We Banjo 3",
-          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
         }
       ],
-      "duration_ms": 225504,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/4DlXQQanDfpRKxUSMOsxmL"
+      "duration_ms": 369571,
+      "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
+      "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
     },
     {
       "added_at": "2022-07-29 14:58:28",
@@ -1571,6 +1579,22 @@
       "duration_ms": 165213,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
+    },
+    {
+      "added_at": "2022-07-29 14:58:28",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/7q9msRiLtqEhNAfBmyHc2e"
+      },
+      "artists": [
+        {
+          "name": "We Banjo 3",
+          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
+        }
+      ],
+      "duration_ms": 225504,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/4DlXQQanDfpRKxUSMOsxmL"
     },
     {
       "added_at": "2022-07-29 14:58:28",
@@ -1607,30 +1631,6 @@
       "duration_ms": 180960,
       "name": "Better 'N You",
       "url": "https://open.spotify.com/track/0HP0RauLuehBQ04kPJAb5l"
-    },
-    {
-      "added_at": "2022-07-29 14:58:28",
-      "album": {
-        "name": "My Bluegrass Heart",
-        "url": "https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 369571,
-      "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
-      "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
     },
     {
       "added_at": "2022-07-29 14:58:28",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2022-07-29 14:58:28",
       "album": {
+        "name": "Open The Road",
+        "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
+      },
+      "artists": [
+        {
+          "name": "We Banjo 3",
+          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
+        }
+      ],
+      "duration_ms": 178182,
+      "name": "Alive With You",
+      "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
+    },
+    {
+      "added_at": "2022-07-29 14:58:28",
+      "album": {
         "name": "Honey Chile",
         "url": "https://open.spotify.com/album/3lQq46iProBNWmiadw2zRA"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 204106,
       "name": "Fire Song",
       "url": "https://open.spotify.com/track/6JW7S2jU3rnm9rQmbOzdIY"
-    },
-    {
-      "added_at": "2022-07-29 14:58:28",
-      "album": {
-        "name": "Open The Road",
-        "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
-      },
-      "artists": [
-        {
-          "name": "We Banjo 3",
-          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
-        }
-      ],
-      "duration_ms": 178182,
-      "name": "Alive With You",
-      "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
     },
     {
       "added_at": "2022-07-29 14:58:28",

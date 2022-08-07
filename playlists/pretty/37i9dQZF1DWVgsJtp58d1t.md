@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,373 likes - 89 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,429 likes - 89 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

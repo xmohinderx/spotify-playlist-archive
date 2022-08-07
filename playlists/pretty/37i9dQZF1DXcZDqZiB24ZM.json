@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 5914,
+  "num_followers": 5912,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMGM4MzZjZGQ2MzcxZWVlMzA0MmQwN2YwZGMwNGUyYzRm",
+  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMDU2MTQwYTc1YjdmNzk5OWEzYTIxYWQzZTQxMTdiODI1",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -971,22 +971,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Jean-Talon",
-        "url": "https://open.spotify.com/album/7EOTPOGsZYkBpKmqSTwYfE"
+        "name": "Dis moi",
+        "url": "https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW"
       },
       "artists": [
         {
-          "name": "Calamine",
-          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
-        },
-        {
-          "name": "Liamliamliam",
-          "url": "https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw"
+          "name": "Corops",
+          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
         }
       ],
-      "duration_ms": 175262,
-      "name": "Jean-Talon",
-      "url": "https://open.spotify.com/track/4iyjztJtT9o5N6ka7grAdq"
+      "duration_ms": 247170,
+      "name": "Dis Moi",
+      "url": "https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Dis moi",
-        "url": "https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW"
+        "name": "Jean-Talon",
+        "url": "https://open.spotify.com/album/7EOTPOGsZYkBpKmqSTwYfE"
       },
       "artists": [
         {
-          "name": "Corops",
-          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
+          "name": "Calamine",
+          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
+        },
+        {
+          "name": "Liamliamliam",
+          "url": "https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw"
         }
       ],
-      "duration_ms": 247170,
-      "name": "Dis Moi",
-      "url": "https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H"
+      "duration_ms": 175262,
+      "name": "Jean-Talon",
+      "url": "https://open.spotify.com/track/4iyjztJtT9o5N6ka7grAdq"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Mafia",
-        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Fugueuse",
-      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Non Merci",
         "url": "https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 211970,
       "name": "Non Merci",
       "url": "https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "Fugueuse",
+      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Free Cdf2",
+        "url": "https://open.spotify.com/album/1j1pDD3I8KnwFepYoybEnh"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Astral Drill",
+      "url": "https://open.spotify.com/track/3P2nTvpN0ehBz8etebwtam"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Encore Des Histoires De Trap",
         "url": "https://open.spotify.com/album/5f27f4CYjasBqMXVn6nbuw"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 251228,
       "name": "Xoxo",
       "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Free Cdf2",
-        "url": "https://open.spotify.com/album/1j1pDD3I8KnwFepYoybEnh"
-      },
-      "artists": [
-        {
-          "name": "Rowjay",
-          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Astral Drill",
-      "url": "https://open.spotify.com/track/3P2nTvpN0ehBz8etebwtam"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "On Frap",
+        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "IMPR\u00c9VU",
         "url": "https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 261890,
       "name": "Sang Sur les Mains",
       "url": "https://open.spotify.com/track/0T3Fsro25pwNhZ4iVDnIiC"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "On Frap",
-        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
-      },
-      "artists": [
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Diamant",
-      "url": "https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK"
-      },
-      "artists": [
-        {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
-        }
-      ],
-      "duration_ms": 212579,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "wesh",
         "url": "https://open.spotify.com/album/12eqi4scCGaiOQRJkR2ZfF"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 170351,
       "name": "back",
       "url": "https://open.spotify.com/track/5TyT9YnF3S0Z4DfqUSO96b"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "duration_ms": 212579,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
-      },
-      "artists": [
-        {
-          "name": "O.Z",
-          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "On Frap",
         "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
       },
@@ -1659,22 +1643,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "wesh",
-        "url": "https://open.spotify.com/album/12eqi4scCGaiOQRJkR2ZfF"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
       },
       "artists": [
         {
-          "name": "Kirouac",
-          "url": "https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt"
-        },
-        {
-          "name": "Kodakludo",
-          "url": "https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ"
+          "name": "O.Z",
+          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
         }
       ],
-      "duration_ms": 168421,
-      "name": "bixi",
-      "url": "https://open.spotify.com/track/4BaaTvGLZHZRUosJqkzkDO"
+      "duration_ms": 210976,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1695,6 +1675,22 @@
       "duration_ms": 252259,
       "name": "\u00c7a fait mal",
       "url": "https://open.spotify.com/track/1sAB7fCrQ4YUIdoP24qlO1"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Aujourd'hui ou jamais",
+        "url": "https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J"
+      },
+      "artists": [
+        {
+          "name": "YH",
+          "url": "https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5"
+        }
+      ],
+      "duration_ms": 261537,
+      "name": "Fanny",
+      "url": "https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1723,6 +1719,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "wesh",
+        "url": "https://open.spotify.com/album/12eqi4scCGaiOQRJkR2ZfF"
+      },
+      "artists": [
+        {
+          "name": "Kirouac",
+          "url": "https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt"
+        },
+        {
+          "name": "Kodakludo",
+          "url": "https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "bixi",
+      "url": "https://open.spotify.com/track/4BaaTvGLZHZRUosJqkzkDO"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Irr\u00e9versible",
         "url": "https://open.spotify.com/album/5AHWRtchHWxLyQcCD6hflC"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 257544,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/3fioUBORpFuvNIL8RIwuGU"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Aujourd'hui ou jamais",
-        "url": "https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J"
-      },
-      "artists": [
-        {
-          "name": "YH",
-          "url": "https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5"
-        }
-      ],
-      "duration_ms": 261537,
-      "name": "Fanny",
-      "url": "https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Fake Luv",
-        "url": "https://open.spotify.com/album/723W1rmkMCSHkG40BH7Z1N"
-      },
-      "artists": [
-        {
-          "name": "Russkov",
-          "url": "https://open.spotify.com/artist/6DXBBeEw1TcRH8ySfUa3Oo"
-        }
-      ],
-      "duration_ms": 211931,
-      "name": "Fake Luv",
-      "url": "https://open.spotify.com/track/3AmKh1INyknTqxwQABZ1Oc"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Aliens",
         "url": "https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 180983,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Fake Luv",
+        "url": "https://open.spotify.com/album/723W1rmkMCSHkG40BH7Z1N"
+      },
+      "artists": [
+        {
+          "name": "Russkov",
+          "url": "https://open.spotify.com/artist/6DXBBeEw1TcRH8ySfUa3Oo"
+        }
+      ],
+      "duration_ms": 211931,
+      "name": "Fake Luv",
+      "url": "https://open.spotify.com/track/3AmKh1INyknTqxwQABZ1Oc"
     }
   ],
   "unique_name": "Les nouveaux classiques",

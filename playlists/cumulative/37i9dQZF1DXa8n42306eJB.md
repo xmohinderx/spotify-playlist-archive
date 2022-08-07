@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-86 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+87 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 | 2021-08-24 |  |
 | [Corona and Lime](https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Corona and Lime](https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH) | 3:19 | 2021-08-24 | 2022-07-29 |
 | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW) | 3:34 | 2021-08-24 |  |
-| [DJs](https://open.spotify.com/track/05u6c3jCVNewXt0rFUw7p4) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [The House That Bradley Built \(Deluxe Edition\)](https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg) | 3:24 | 2022-06-09 |  |
+| [DJs](https://open.spotify.com/track/05u6c3jCVNewXt0rFUw7p4) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [The House That Bradley Built \(Deluxe Edition\)](https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg) | 3:24 | 2022-06-09 | 2022-08-07 |
 | [DJs](https://open.spotify.com/track/53jbCI3T7Enf0ts76ySNYn) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [DJs](https://open.spotify.com/album/7xMJkHig1DBtwA6um5ltM1) | 3:24 | 2021-08-24 | 2022-07-29 |
 | [Do Anything](https://open.spotify.com/track/0RPWvTmpHCKp46eyjVZCWm) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/7mOChcsSzAoc1TjQr6TRRt) | 2:57 | 2021-08-24 |  |
 | [Down With You](https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT) | 3:30 | 2022-06-09 |  |
@@ -49,6 +49,7 @@
 | [Jah Rastafari](https://open.spotify.com/track/3XJy1qvLFMV42kL0lf73Po) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Jah Rydem](https://open.spotify.com/album/0ZNNCpmGRNiKsIs7xFdcqV) | 4:00 | 2021-08-24 |  |
 | [Just Dance](https://open.spotify.com/track/1iJ2W8I5UDk03gZyJwHPr8) | [Rellek Brown](https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME) | [Just Dance](https://open.spotify.com/album/74C01fAZNbDVApi4YNcRXk) | 2:34 | 2021-08-24 |  |
 | [Keep On Going](https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Hussla D](https://open.spotify.com/artist/5fsptY9U01KKG6YbjrSnaf), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Keep On Going](https://open.spotify.com/album/49G044qCj857V1GK5M8jhn) | 3:09 | 2021-08-24 |  |
+| [Killing It Off](https://open.spotify.com/track/3y00AWgTQV4VOR130fHnpi) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Killing It Off](https://open.spotify.com/album/1ctFVQRVfSdmXqni7wGgzr) | 2:49 | 2022-08-07 |  |
 | [Lonely Days](https://open.spotify.com/track/3iV6YZ2YC9m8BpifEHC3BZ) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/2bT0tABmD8OSkWAXOBIdmK) | 3:43 | 2022-06-09 |  |
 | [Lonely Days \(feat\. J Boogs\)](https://open.spotify.com/track/4a6TfJDJdjuVCKJJWRSM4V) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boogs](https://open.spotify.com/artist/6pLdgn9Cd1lc2QJHxrDYdX) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/4rVspDthKkUZ7OM5C0fD5j) | 3:42 | 2021-08-24 | 2022-07-29 |
 | [Love & Reggae](https://open.spotify.com/track/1XZVwke6skZtveoKAR1lCz) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/0P3wyKb8NvfomTSG9ez9D8) | 3:33 | 2021-08-24 | 2022-07-29 |

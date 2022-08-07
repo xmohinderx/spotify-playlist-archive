@@ -1,12 +1,12 @@
 {
   "description": "The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 412304,
+  "num_followers": 412381,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyNTIwMCwwMDAwMDAwMDg2YWVkZjc4MzFkNTZlYzQ5Zjc1OGYwZDVlZGVjMWRj",
+  "snapshot_id": "MTY1OTYyNTIwMCwwMDAwMDAwMDczYzIxYzJkY2U4NjNkOThhM2ZjZjgxMjkyMjNlM2I1",
   "tracks": [
     {
       "added_at": "2022-08-04 15:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Spiritual State",
-        "url": "https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "The Champloo",
-          "url": "https://open.spotify.com/artist/2qhjN0fdlNPZtCiP3MALRH"
-        }
-      ],
-      "duration_ms": 417506,
-      "name": "Spiritual State",
-      "url": "https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 146666,
       "name": "special",
       "url": "https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "Spiritual State",
+        "url": "https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "The Champloo",
+          "url": "https://open.spotify.com/artist/2qhjN0fdlNPZtCiP3MALRH"
+        }
+      ],
+      "duration_ms": 417506,
+      "name": "Spiritual State",
+      "url": "https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Bar counter",
-        "url": "https://open.spotify.com/album/6iwVxTLfB1mu2pSHt34STB"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 112340,
-      "name": "Tequila at midnight",
-      "url": "https://open.spotify.com/track/6LybfPtenqFNvld1swgrKU"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "WAVE",
         "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
+        "name": "Bar counter",
+        "url": "https://open.spotify.com/album/6iwVxTLfB1mu2pSHt34STB"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 112340,
+      "name": "Tequila at midnight",
+      "url": "https://open.spotify.com/track/6LybfPtenqFNvld1swgrKU"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
         "name": "Toucan",
         "url": "https://open.spotify.com/album/1AybPKANweher1ysHuXOC7"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 214000,
       "name": "Toucan",
       "url": "https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
-        "name": "easy",
-        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
-      },
-      "artists": [
-        {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "easy",
-      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -583,6 +567,22 @@
       "duration_ms": 164817,
       "name": "City Dreams",
       "url": "https://open.spotify.com/track/2tvPXvthQHFMHclfIGThnl"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "ameagari",
-        "url": "https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv"
-      },
-      "artists": [
-        {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 252473,
-      "name": "ameagari",
-      "url": "https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Watermelon",
         "url": "https://open.spotify.com/album/1mt3jX9uZ0t7o6hWzeQBko"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 144950,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "ameagari",
+        "url": "https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 252473,
+      "name": "ameagari",
+      "url": "https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1087,26 +1087,26 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/2HLb7alHJmqkOWgmwMO67C"
+        "name": "Nicely Nostalgic",
+        "url": "https://open.spotify.com/album/5Qi3p41NKuIZRQY8M2dpJr"
       },
       "artists": [
         {
-          "name": "Idyllic",
-          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
+          "name": "Shou",
+          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
         },
         {
           "name": "Komorebi",
           "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
         },
         {
-          "name": "Shou",
-          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
+          "name": "Idyllic",
+          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
         }
       ],
-      "duration_ms": 111000,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/1LqzGzXbbACe015fKzCsax"
+      "duration_ms": 114155,
+      "name": "Nicely Nostalgic",
+      "url": "https://open.spotify.com/track/5fFZlk4YnpPJkCHllhCXvq"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1131,26 +1131,26 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Nicely Nostalgic",
-        "url": "https://open.spotify.com/album/5Qi3p41NKuIZRQY8M2dpJr"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/2HLb7alHJmqkOWgmwMO67C"
       },
       "artists": [
         {
-          "name": "Shou",
-          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
+          "name": "Idyllic",
+          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
         },
         {
           "name": "Komorebi",
           "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
         },
         {
-          "name": "Idyllic",
-          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
+          "name": "Shou",
+          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
         }
       ],
-      "duration_ms": 114155,
-      "name": "Nicely Nostalgic",
-      "url": "https://open.spotify.com/track/5fFZlk4YnpPJkCHllhCXvq"
+      "duration_ms": 111000,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/1LqzGzXbbACe015fKzCsax"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Waterfall Dreams",
-        "url": "https://open.spotify.com/album/2swHxeQeuQjjBpS7i0ANsA"
+        "name": "Another Dream",
+        "url": "https://open.spotify.com/album/6sTcGK7CQiZPCmpE5ENpl8"
       },
       "artists": [
         {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        },
+        {
+          "name": "Lucid Green",
+          "url": "https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs"
         }
       ],
-      "duration_ms": 114000,
-      "name": "Ryukyu",
-      "url": "https://open.spotify.com/track/71V8pJTnwxmHFUW2U1VK16"
+      "duration_ms": 171785,
+      "name": "Another Dream",
+      "url": "https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Another Dream",
-        "url": "https://open.spotify.com/album/6sTcGK7CQiZPCmpE5ENpl8"
+        "name": "Waterfall Dreams",
+        "url": "https://open.spotify.com/album/2swHxeQeuQjjBpS7i0ANsA"
       },
       "artists": [
         {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
-        },
-        {
-          "name": "Lucid Green",
-          "url": "https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs"
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
         }
       ],
-      "duration_ms": 171785,
-      "name": "Another Dream",
-      "url": "https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV"
+      "duration_ms": 114000,
+      "name": "Ryukyu",
+      "url": "https://open.spotify.com/track/71V8pJTnwxmHFUW2U1VK16"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Libration",
-        "url": "https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Libration",
-      "url": "https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "BIG BLUE",
         "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 166392,
       "name": "BIG BLUE",
       "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "Libration",
+        "url": "https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Libration",
+      "url": "https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Spring Fever",
-        "url": "https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk"
-      },
-      "artists": [
-        {
-          "name": "VIDEOTAPEMUSIC",
-          "url": "https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ"
-        }
-      ],
-      "duration_ms": 243696,
-      "name": "Spring Fever",
-      "url": "https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Breakin' up",
         "url": "https://open.spotify.com/album/5BFxVlpvsWgSV3yv0fDr5H"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 96333,
       "name": "Breakin' up",
       "url": "https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "Spring Fever",
+        "url": "https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk"
+      },
+      "artists": [
+        {
+          "name": "VIDEOTAPEMUSIC",
+          "url": "https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ"
+        }
+      ],
+      "duration_ms": 243696,
+      "name": "Spring Fever",
+      "url": "https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
+      },
+      "artists": [
+        {
+          "name": "DJ Ryow a.k.a. Smooth Current",
+          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
+        }
+      ],
+      "duration_ms": 189902,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
         "name": "tasty greens",
         "url": "https://open.spotify.com/album/4JzSspBnbceWs3F6qexRSR"
       },
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
-      },
-      "artists": [
-        {
-          "name": "DJ Ryow a.k.a. Smooth Current",
-          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
-        }
-      ],
-      "duration_ms": 189902,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Late Summer",
         "url": "https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF"
       },
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "HYDRANGEA",
-        "url": "https://open.spotify.com/album/4F4tkDJKGcQT9vIwAROUGC"
+        "name": "Sometime Somewhere",
+        "url": "https://open.spotify.com/album/2ubohjSJIZdbI3cgd9hMBC"
       },
       "artists": [
         {
-          "name": "gummy3000",
-          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+          "name": "Auto&mst",
+          "url": "https://open.spotify.com/artist/0hvzMAPeK2gZ1HewTUXNwz"
         }
       ],
-      "duration_ms": 114533,
-      "name": "HYDRANGEA",
-      "url": "https://open.spotify.com/track/2Sv8cR8tKnqr8LpyavcFeK"
+      "duration_ms": 289748,
+      "name": "Warm Day of Winter",
+      "url": "https://open.spotify.com/track/1sK6GyrSJJJ0ZBQtAyaz2p"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Sometime Somewhere",
-        "url": "https://open.spotify.com/album/2ubohjSJIZdbI3cgd9hMBC"
-      },
-      "artists": [
-        {
-          "name": "Auto&mst",
-          "url": "https://open.spotify.com/artist/0hvzMAPeK2gZ1HewTUXNwz"
-        }
-      ],
-      "duration_ms": 289748,
-      "name": "Warm Day of Winter",
-      "url": "https://open.spotify.com/track/1sK6GyrSJJJ0ZBQtAyaz2p"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Ria",
         "url": "https://open.spotify.com/album/6lNB21mNIhFWjo0RMDGi9s"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 123739,
       "name": "Ria",
       "url": "https://open.spotify.com/track/5ySEjcNGL8my5N9rYr52J2"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "HYDRANGEA",
+        "url": "https://open.spotify.com/album/4F4tkDJKGcQT9vIwAROUGC"
+      },
+      "artists": [
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "duration_ms": 114533,
+      "name": "HYDRANGEA",
+      "url": "https://open.spotify.com/track/2Sv8cR8tKnqr8LpyavcFeK"
     },
     {
       "added_at": "2022-08-04 15:00:00",

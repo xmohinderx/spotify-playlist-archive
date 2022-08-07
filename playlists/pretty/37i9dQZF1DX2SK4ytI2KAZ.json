@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 668639,
+  "num_followers": 668745,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5OTE3MiwwMDAwMDAwMDEyYTQwMGMxMGQyZTliOGVhMzlkMGYwNzRjZGMyYmEy",
+  "snapshot_id": "MTY1OTA5OTE3MiwwMDAwMDAwMDQwYzExMWUwMGEzMDdjYmEyYzM1MzM4ODVmMjRlMGE4",
   "tracks": [
     {
       "added_at": "2022-07-29 12:52:52",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "DEAR MISS HOLLOWAY",
         "url": "https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 209906,
       "name": "DEAR MISS HOLLOWAY",
       "url": "https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Another Man's Jeans",
-        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 165067,
-      "name": "Another Man's Jeans",
-      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "sail away",
+      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Coming of Age",
         "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "tryhard",
-        "url": "https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Daphne Blue",
-      "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "sail away",
-        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+        "name": "tryhard",
+        "url": "https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1"
       },
       "artists": [
         {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
         }
       ],
-      "duration_ms": 179000,
-      "name": "sail away",
-      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+      "duration_ms": 182840,
+      "name": "Daphne Blue",
+      "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Moment In The Sun",
-        "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
-      },
-      "artists": [
-        {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
-        }
-      ],
-      "duration_ms": 189634,
-      "name": "Moment In The Sun",
-      "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "Orca",
         "url": "https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 218025,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Moment In The Sun",
+        "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 189634,
+      "name": "Moment In The Sun",
+      "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Bank On The Funeral",
+        "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Go Easy",
+      "url": "https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "take it back (feat. Beck)",
         "url": "https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 145718,
       "name": "take it back (feat. Beck)",
       "url": "https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Bank On The Funeral",
-        "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Go Easy",
-      "url": "https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Brighter Day",
+        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Brighter Day",
+      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "I Wanna Be Your High",
         "url": "https://open.spotify.com/album/3XUe0l63TUAhtxrA0WPqVU"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 187500,
       "name": "I Wanna Be Your High",
       "url": "https://open.spotify.com/track/7CkeYEfGBL8SYAq63Z72oh"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Brighter Day",
-        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Brighter Day",
-      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Young Rising Sons",
-        "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
-      },
-      "artists": [
-        {
-          "name": "Young Rising Sons",
-          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "High",
-      "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "2 Heads",
         "url": "https://open.spotify.com/album/7l6O4yFBhc8t0rs0C3MAcP"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 228466,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Young Rising Sons",
+        "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
+      },
+      "artists": [
+        {
+          "name": "Young Rising Sons",
+          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "High",
+      "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1487,6 +1487,30 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/6GG2d6j3ELpLafcUoaJw6T"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+        }
+      ],
+      "duration_ms": 167556,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/7fioUXJZrCUn91UZJV2mQD"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Petals For Armor",
         "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
       },
@@ -1503,22 +1527,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "i h8 that i still feel bad for u",
-        "url": "https://open.spotify.com/album/0poCuOTE8PbLmxMeIickpd"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 175029,
-      "name": "i h8 that i still feel bad for u",
-      "url": "https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "landline",
         "url": "https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op"
       },
@@ -1531,6 +1539,22 @@
       "duration_ms": 183933,
       "name": "landline",
       "url": "https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "i h8 that i still feel bad for u",
+        "url": "https://open.spotify.com/album/0poCuOTE8PbLmxMeIickpd"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 175029,
+      "name": "i h8 that i still feel bad for u",
+      "url": "https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1615,46 +1639,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Pep Talks",
-        "url": "https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 233976,
-      "name": "Why Did You Run?",
-      "url": "https://open.spotify.com/track/2xrRl0h13K2kqBpJN6P98Y"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/6GG2d6j3ELpLafcUoaJw6T"
-      },
-      "artists": [
-        {
-          "name": "THE DRIVER ERA",
-          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
-        },
-        {
-          "name": "Ross Lynch",
-          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
-        },
-        {
-          "name": "Rocky",
-          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
-        }
-      ],
-      "duration_ms": 167556,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/7fioUXJZrCUn91UZJV2mQD"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
         "url": "https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 271441,
       "name": "Thunder Clatter",
       "url": "https://open.spotify.com/track/39Cv9mq0PPrsJ5jtVb2Hiu"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 233976,
+      "name": "Why Did You Run?",
+      "url": "https://open.spotify.com/track/2xrRl0h13K2kqBpJN6P98Y"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+      },
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Gimme Twice",
+      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Head Up High",
         "url": "https://open.spotify.com/album/0NcUgJYxrZwbrccKZLbmqD"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 203666,
       "name": "Pretty Way to Fight",
       "url": "https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
-      },
-      "artists": [
-        {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Gimme Twice",
-      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Silver Dream",
-        "url": "https://open.spotify.com/album/7y2IFkozp4IVZrh7PBrnrJ"
-      },
-      "artists": [
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Hometown Heroes",
-      "url": "https://open.spotify.com/track/3g9T8Enufnw3IFfCaBZTRp"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "JR JR",
         "url": "https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 227506,
       "name": "Gone",
       "url": "https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Silver Dream",
+        "url": "https://open.spotify.com/album/7y2IFkozp4IVZrh7PBrnrJ"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Hometown Heroes",
+      "url": "https://open.spotify.com/track/3g9T8Enufnw3IFfCaBZTRp"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "High Again",
-        "url": "https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK"
+        "name": "Come To The Beach",
+        "url": "https://open.spotify.com/album/7zvkLdqZGE4L68lf37t53G"
       },
       "artists": [
         {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+          "name": "Winnetka Bowling League",
+          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
         }
       ],
-      "duration_ms": 175820,
-      "name": "High Again",
-      "url": "https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic"
+      "duration_ms": 178920,
+      "name": "Come To The Beach",
+      "url": "https://open.spotify.com/track/3cwrYbdU4eJkVXiH2USGid"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Come To The Beach",
-        "url": "https://open.spotify.com/album/7zvkLdqZGE4L68lf37t53G"
+        "name": "High Again",
+        "url": "https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK"
       },
       "artists": [
         {
-          "name": "Winnetka Bowling League",
-          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
         }
       ],
-      "duration_ms": 178920,
-      "name": "Come To The Beach",
-      "url": "https://open.spotify.com/track/3cwrYbdU4eJkVXiH2USGid"
+      "duration_ms": 175820,
+      "name": "High Again",
+      "url": "https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -2099,6 +2099,26 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "I Like to Hide in the Bathroom at Parties",
+        "url": "https://open.spotify.com/album/0E5jbLqzY4KozTUhavTbdT"
+      },
+      "artists": [
+        {
+          "name": "Winnetka Bowling League",
+          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 166910,
+      "name": "I Like to Hide in the Bathroom at Parties",
+      "url": "https://open.spotify.com/track/5AlbjaOF6CTcAOcuav3pv1"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Can You Feel The Sun",
         "url": "https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq"
       },
@@ -2127,26 +2147,6 @@
       "duration_ms": 217617,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "I Like to Hide in the Bathroom at Parties",
-        "url": "https://open.spotify.com/album/0E5jbLqzY4KozTUhavTbdT"
-      },
-      "artists": [
-        {
-          "name": "Winnetka Bowling League",
-          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 166910,
-      "name": "I Like to Hide in the Bathroom at Parties",
-      "url": "https://open.spotify.com/track/5AlbjaOF6CTcAOcuav3pv1"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Castlecomer",
+        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
+      },
+      "artists": [
+        {
+          "name": "Castlecomer",
+          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "If I Could Be Like You",
+      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Don't Take The Money",
         "url": "https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y"
       },
@@ -2251,18 +2267,18 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Castlecomer",
-        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
+        "name": "Mixtape 2003",
+        "url": "https://open.spotify.com/album/2QcJ99k8skz7nxF2l4D4IH"
       },
       "artists": [
         {
-          "name": "Castlecomer",
-          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
         }
       ],
-      "duration_ms": 166920,
-      "name": "If I Could Be Like You",
-      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
+      "duration_ms": 204453,
+      "name": "Mixtape 2003",
+      "url": "https://open.spotify.com/track/4TICpB1Y6C8b6EK2Ga275x"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -2279,22 +2295,6 @@
       "duration_ms": 238924,
       "name": "Rebel Heart",
       "url": "https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Mixtape 2003",
-        "url": "https://open.spotify.com/album/2QcJ99k8skz7nxF2l4D4IH"
-      },
-      "artists": [
-        {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Mixtape 2003",
-      "url": "https://open.spotify.com/track/4TICpB1Y6C8b6EK2Ga275x"
     },
     {
       "added_at": "2022-07-29 12:52:52",

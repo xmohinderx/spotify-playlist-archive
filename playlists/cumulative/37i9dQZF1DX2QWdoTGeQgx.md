@@ -4,7 +4,7 @@
 
 > Sit back and unwind to the most selamba songs around.
 
-239 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/7538s5dwa1woUVGGycWJCO)
+240 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/7538s5dwa1woUVGGycWJCO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Good Goodbye](https://open.spotify.com/track/44YADxNo3TdpkwEr5DvV2B) | [Joanna Dong](https://open.spotify.com/artist/6uxDuPWsZwqC5tLhmoaAFZ) | [A Good Goodbye](https://open.spotify.com/album/6RG4OSNR3OfIj9R3GiHWiZ) | 3:33 | 2022-06-03 | 2022-07-29 |
 | [A Letter To My Best Friend](https://open.spotify.com/track/5LigKEFa9fmv5wU59gqwfQ) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [A Letter To My Best Friend](https://open.spotify.com/album/3D6nIbAy9AAno9QemT8arp) | 3:53 | 2022-06-10 | 2022-06-17 |
 | [A Little Bit Patient](https://open.spotify.com/track/13eVfN1euUur28OoD5s86X) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [A Little Bit Patient](https://open.spotify.com/album/5KQKBocUoSXhXpqHVvUNzJ) | 2:58 | 2022-05-27 | 2022-07-29 |
-| [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 | 2022-07-10 |  |
+| [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 | 2022-07-10 | 2022-08-07 |
 | [All That I Need](https://open.spotify.com/track/7ziBvMT017ycfAxit7j7kf) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [All That I Need](https://open.spotify.com/album/2qfFZJTEuNg6YSpNzoUiIc) | 3:41 | 2022-06-25 |  |
 | [All That Matters](https://open.spotify.com/track/4KehwAKQP0Sl31aOmDZ5Hg) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [All That Matters](https://open.spotify.com/album/7im1alWyGUV9lSXxPUFz7r) | 3:57 | 2022-06-10 | 2022-06-17 |
 | [Already Home](https://open.spotify.com/track/5T8p20bTxBbMbCzwCpmMna) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [A Sea That Never Stops](https://open.spotify.com/album/0HzLcxaTQkEdWSEraRAvKZ) | 3:03 | 2022-06-10 | 2022-06-15 |
@@ -118,6 +118,7 @@
 | [iwbwy](https://open.spotify.com/track/583uuDYBVzaJ7D6mD53gX2) | [Hashy](https://open.spotify.com/artist/4Jmv1DRK6zstwBwF2W91D1) | [iwbwy](https://open.spotify.com/album/6w9LzECJXjTyLdhd9LdmH6) | 2:56 | 2022-06-03 | 2022-07-27 |
 | [juice](https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [juice](https://open.spotify.com/album/6DY3UVNU1qvSjY4HIiLkP2) | 3:15 | 2022-07-10 |  |
 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 | 2022-05-27 |  |
+| [Kotak Hati](https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48) | [Hujan](https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A) | [Lonely Soldier Boy](https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL) | 4:52 | 2022-07-10 |  |
 | [La Di Da](https://open.spotify.com/track/2LW6Tgz0V7wkgu2MyYQ0gT) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Slow Life](https://open.spotify.com/album/0EFFIox3JkWPvueHyF2mII) | 2:37 | 2022-06-03 | 2022-06-06 |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-06-03 | 2022-07-20 |
 | [Let Me In \(feat\. Alex Ungku\)](https://open.spotify.com/track/6SpMbveatQv0WXiG1ryZAO) | [Bil Musa](https://open.spotify.com/artist/6tWZW3i1byYPxPNW7EZmr9), [Alex Ungku](https://open.spotify.com/artist/5gpbyaQl7qJCX95BM6rA9N) | [Let Me In](https://open.spotify.com/album/2pjwjrCpO2h87Fhpn3WaEU) | 3:57 | 2022-05-27 | 2022-07-20 |

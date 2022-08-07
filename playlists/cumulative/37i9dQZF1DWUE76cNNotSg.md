@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-307 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
+308 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Hémisphère](https://open.spotify.com/track/2xIUT6emYrLwuQLhLBf7PH) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Hémisphère / Je m'ennuie](https://open.spotify.com/album/500EIkxZ1MFSKHESVxWR0k) | 7:13 | 2020-12-22 | 2022-04-18 |
 | [I Can Change](https://open.spotify.com/track/4yhslVvynysGhexambPGcy) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [I Can Change](https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT) | 5:31 | 2020-12-22 |  |
 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-05-13 |  |
+| [I Do \- Vandelux Remix](https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Do \(Vandelux Remix\)](https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif) | 3:16 | 2022-07-29 |  |
 | [I Don't Think So](https://open.spotify.com/track/1BczdgS6s8ofRNMZPtbMF1) | [Ben Phipps](https://open.spotify.com/artist/4gdU6QYD0tktQA9AHdcNn4) | [I Don't Think So](https://open.spotify.com/album/4bfsgolAhKBm4BUrZBNx7P) | 3:05 | 2020-12-22 | 2022-04-18 |
 | [I Feel High \(with DRAMA\)](https://open.spotify.com/track/0OEuPpfFyTP90MmfSua2np) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [I Feel High \(with DRAMA\)](https://open.spotify.com/album/2W2SWNTnopIJ7kd5JBEWVt) | 2:52 | 2021-03-19 | 2022-07-29 |
 | [I Leave Again](https://open.spotify.com/track/4e9lUyz9lB7QRP9OLRpbbw) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/15yBff9ZnXVgnO3v6vfCw5) | 3:58 | 2020-12-22 | 2022-04-19 |
@@ -210,7 +211,7 @@
 | [pH](https://open.spotify.com/track/2seFcLiWwxHZ72EYFezJmJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy), [Nick Dorian](https://open.spotify.com/artist/60tZRF2LOOUONoZXo2ATtd) | [pH](https://open.spotify.com/album/62ncbg3U5IWrpf5SOqvwyj) | 2:50 | 2020-12-22 | 2022-07-29 |
 | [PHILOSOPHY! \- Crazy P Remix](https://open.spotify.com/track/1Ud1hy0OhFP8v9JoDNyCSL) | [Baio](https://open.spotify.com/artist/50lhyY7UVI9NyVHl79rVgk) | [Grooves Of The World](https://open.spotify.com/album/6jda6rG402uYNM5DBzTLYv) | 7:27 | 2020-12-22 | 2022-04-18 |
 | [Phoenix \- Little Dragon Remix](https://open.spotify.com/track/6pvaaT4yfmW6sEUBiSfmWD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Phoenix \(Little Dragon Remix\)](https://open.spotify.com/album/2y5peGciDbqnB7ujZ62QY6) | 4:43 | 2020-12-22 | 2022-04-21 |
-| [Pili Pili](https://open.spotify.com/track/74N9cnVOhruZpoZUt4Ky5z) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/10H4nbqjbmrGo4bG23dfWK) | 4:10 | 2020-12-22 |  |
+| [Pili Pili](https://open.spotify.com/track/74N9cnVOhruZpoZUt4Ky5z) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/10H4nbqjbmrGo4bG23dfWK) | 4:10 | 2020-12-22 | 2022-08-07 |
 | [Pink & Blue](https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Weather](https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis) | 4:19 | 2020-12-22 | 2022-04-19 |
 | [Pizza Guy](https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790) | 5:49 | 2020-12-22 |  |
 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2020-12-22 | 2022-05-11 |

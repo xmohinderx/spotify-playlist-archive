@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: LATENIGHTJIGGY
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,534 likes - 86 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,553 likes - 86 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 30 | [Mañana](https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr) | [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO), [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Mañana](https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL) | 2:52 |
 | 31 | [The 1](https://open.spotify.com/track/4RZyqmqauYuQlvB4NfElJc) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:56 |
 | 32 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 |
-| 33 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 |
-| 34 | [Me Duele \(Suceso 2\)](https://open.spotify.com/track/2K9fZ87LZyBNmLFeldootY) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Me Duele \(Suceso 2\)](https://open.spotify.com/album/1h08JW9Wa6FbpaeWDyQ9zR) | 3:20 |
-| 35 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 |
-| 36 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 |
+| 33 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 |
+| 34 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 |
+| 35 | [Me Duele \(Suceso 2\)](https://open.spotify.com/track/2K9fZ87LZyBNmLFeldootY) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Me Duele \(Suceso 2\)](https://open.spotify.com/album/1h08JW9Wa6FbpaeWDyQ9zR) | 3:20 |
+| 36 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 |
 | 37 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 |
 | 38 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
 | 39 | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O) | 3:03 |
@@ -67,21 +67,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 57 | [Lento](https://open.spotify.com/track/6yqNBRl1bcAqjVjkVVIv58) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Lento](https://open.spotify.com/album/5XsAVBTFabbMC9lGGsIcKV) | 3:06 |
 | 58 | [Vicio](https://open.spotify.com/track/0gbxXSs8uAopxh4XczYmmi) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Bahía Margarita](https://open.spotify.com/album/57HpVjbxNxCsSGiotd1Fq1) | 4:10 |
 | 59 | [No Pero Sí \(feat\. InnerCut\)](https://open.spotify.com/track/2KU8HMDJ1efeuADnnIF2fc) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [No Pero Sí \(feat\. InnerCut\)](https://open.spotify.com/album/6ablYVrbrL5FfO04HAotjF) | 2:40 |
-| 60 | [Hurricane Season](https://open.spotify.com/track/4SSCjm47y2uA41sEy60Niv) | [JCZR](https://open.spotify.com/artist/5H5QptnwdQ3RNGpzftlR7D) | [Hurricane Season](https://open.spotify.com/album/6TUBj8dnlXvtmL0i5gWG7j) | 2:47 |
-| 61 | [NUEVE \(Intro\)](https://open.spotify.com/track/3wQmfMVbq6VM5QVt2470ch) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE \(Intro\)](https://open.spotify.com/album/3bkn35vgb3b4IR4WrDGaJn) | 4:04 |
+| 60 | [NUEVE \(Intro\)](https://open.spotify.com/track/3wQmfMVbq6VM5QVt2470ch) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE \(Intro\)](https://open.spotify.com/album/3bkn35vgb3b4IR4WrDGaJn) | 4:04 |
+| 61 | [Hurricane Season](https://open.spotify.com/track/4SSCjm47y2uA41sEy60Niv) | [JCZR](https://open.spotify.com/artist/5H5QptnwdQ3RNGpzftlR7D) | [Hurricane Season](https://open.spotify.com/album/6TUBj8dnlXvtmL0i5gWG7j) | 2:47 |
 | 62 | [EX\-CUCHAME](https://open.spotify.com/track/3PZqZblMEUrdNFfIpMnbEe) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [EX\-CUCHAME](https://open.spotify.com/album/4IBp5uFdjpBJoQyWCWvwed) | 2:36 |
 | 63 | [Matando \(feat\. Vic Mirallas\)](https://open.spotify.com/track/2rEqcZX1epDxWwhOZN3UnS) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:20 |
-| 64 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
-| 65 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
+| 64 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
+| 65 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
 | 66 | [Baja confirmada](https://open.spotify.com/track/2IaZrh7RPuJy9QX9OTzxuC) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Mumbai Moon](https://open.spotify.com/artist/46n3zvHyU1ch6l6rFS9iQb) | [Baja confirmada](https://open.spotify.com/album/3OiAtL4xHgcvGloSkKrkY7) | 2:28 |
 | 67 | [Flow Lavoe](https://open.spotify.com/track/1QLpTmTwY3bD2RSJsNykDO) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Flow Lavoe](https://open.spotify.com/album/0y11D9VF8RzosySuQ2YgDD) | 3:39 |
 | 68 | [No Es Cierto](https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 4:33 |
 | 69 | [Anillo al dedo](https://open.spotify.com/track/0uaJS9jWxVe3VAYDOCBS4g) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Anillo al dedo](https://open.spotify.com/album/1GDnI83EYCQAn7SCCKE2pB) | 2:21 |
-| 70 | [P.O.V.](https://open.spotify.com/track/1KkwYF9KdyosZE8XBxCyvO) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [P.O.V.](https://open.spotify.com/album/3Wiwt3U5W7O37Kka9vg0nQ) | 2:36 |
-| 71 | [Que Hago Si Se Cae Todo?](https://open.spotify.com/track/55CweWwujSeAIHh8WTl7XF) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [SAFEPLACE \(Safer Edition\)](https://open.spotify.com/album/4K32T8piHzWlyfdRE4yXPK) | 1:32 |
-| 72 | [Huellas](https://open.spotify.com/track/6zAnj2RqKMo16ioTmwpM0s) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Huellas](https://open.spotify.com/album/3XuSgPkpzVPVaYD0n0a8Pd) | 2:58 |
-| 73 | [Chiquita](https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv) | 2:29 |
-| 74 | [Demasiado Bueno](https://open.spotify.com/track/1fSMeXMW5SroNe3sWJY641) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Demasiado Bueno](https://open.spotify.com/album/68AuP2wn7UsQilOkovf6eN) | 2:46 |
+| 70 | [Que Hago Si Se Cae Todo?](https://open.spotify.com/track/55CweWwujSeAIHh8WTl7XF) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [SAFEPLACE \(Safer Edition\)](https://open.spotify.com/album/4K32T8piHzWlyfdRE4yXPK) | 1:32 |
+| 71 | [Huellas](https://open.spotify.com/track/6zAnj2RqKMo16ioTmwpM0s) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Huellas](https://open.spotify.com/album/3XuSgPkpzVPVaYD0n0a8Pd) | 2:58 |
+| 72 | [Chiquita](https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv) | 2:29 |
+| 73 | [Demasiado Bueno](https://open.spotify.com/track/1fSMeXMW5SroNe3sWJY641) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Demasiado Bueno](https://open.spotify.com/album/68AuP2wn7UsQilOkovf6eN) | 2:46 |
+| 74 | [P.O.V.](https://open.spotify.com/track/1KkwYF9KdyosZE8XBxCyvO) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [P.O.V.](https://open.spotify.com/album/3Wiwt3U5W7O37Kka9vg0nQ) | 2:36 |
 | 75 | [cold feet](https://open.spotify.com/track/16Q5CS1hO8nTybYOj4ibsP) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN), [ELLIE](https://open.spotify.com/artist/0niZWQWN4icezT9adyLj4w) | [cold feet](https://open.spotify.com/album/4vx4AhMfe8CoH4jdzxorCw) | 2:59 |
 | 76 | [Consentida \(Feat\. Kat Dahlia\)](https://open.spotify.com/track/0zfARgJv86XwO9sjrDs4uq) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc), [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [Consentida \(Kat Dahlia Duet\)](https://open.spotify.com/album/4KgFDZMY6jSFHZVDEq7CTf) | 4:11 |
 | 77 | [IDWLH \(I Don't Wanna Love Him\)](https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX) | [Agina](https://open.spotify.com/artist/110VVB3iCHBH7R8C9iEEhD) | [IDWLH \(I Don't Wanna Love Him\)](https://open.spotify.com/album/5mfgYGWt86iLrLye6pJRSr) | 2:53 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 85 | [Bad Guy](https://open.spotify.com/track/673ubniw51MnNmQt6eX8ba) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [Bad Guy](https://open.spotify.com/album/0peE24D1ZM89EqVswUhSFr) | 3:06 |
 | 86 | [Perderme](https://open.spotify.com/track/6lMW8lLquI5brwfYIVymn8) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [No Pueden Contra Mi](https://open.spotify.com/album/2X7Q5CvyfWbYdGygU1kVZ5) | 2:55 |
 
-Snapshot ID: `MTY1OTcyNzg2NywwMDAwMDAwMGFjMDVlMzAzZGNjMGQ3OTk5YjFhYWEwYTRhMmNkNGI1`
+Snapshot ID: `MTY1OTcyNzg2NywwMDAwMDAwMGM5MTA4M2U0YmExNWQyYmIyMGQ4N2ZkZjY5NTVjY2Zj`

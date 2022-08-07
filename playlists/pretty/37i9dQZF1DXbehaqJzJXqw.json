@@ -1,29 +1,13 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a jazz band plays somewhere in the background. ",
-  "num_followers": 145809,
+  "num_followers": 146322,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQxODU2MywwMDAwMDAwMDJhOWUzMTA3YjY3YTVkMzhkYTIwOGQyY2RlOTRlOTE1",
+  "snapshot_id": "MTY1NjQxODU2MywwMDAwMDAwMGViZGQwZDg5OTA2OTkyYzVkNmI4Y2ZlMjVmYTNkYzZm",
   "tracks": [
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 163186,
-      "name": "Petite fleur",
-      "url": "https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67"
-    },
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
@@ -51,6 +35,22 @@
       "duration_ms": 201056,
       "name": "Ces petits riens",
       "url": "https://open.spotify.com/track/1f5RkzhoRnzCO6AzMhkhdY"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 163186,
+      "name": "Petite fleur",
+      "url": "https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -187,26 +187,6 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "All the Way (feat. Jordan Officer)",
-        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
-      },
-      "artists": [
-        {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        },
-        {
-          "name": "Jordan Officer",
-          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "Un jour de diff\u00e9rence",
-      "url": "https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
         "name": "Raconte-moi... (Bonus Edition)",
         "url": "https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 218190,
       "name": "Les eaux de mars",
       "url": "https://open.spotify.com/track/32FfL5hpFQdweMkxg8Z55o"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "All the Way (feat. Jordan Officer)",
+        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        },
+        {
+          "name": "Jordan Officer",
+          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
+        }
+      ],
+      "duration_ms": 203160,
+      "name": "Un jour de diff\u00e9rence",
+      "url": "https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "J'ai Deux Amours",
-        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
+        "name": "Le Paris De ... Montand",
+        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
       },
       "artists": [
         {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
         }
       ],
-      "duration_ms": 201013,
-      "name": "De Temps en Temps",
-      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
+      "duration_ms": 174773,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Le Paris De ... Montand",
-        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
+        "name": "J'ai Deux Amours",
+        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
       },
       "artists": [
         {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
         }
       ],
-      "duration_ms": 174773,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
+      "duration_ms": 201013,
+      "name": "De Temps en Temps",
+      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Ilo Veyou",
-        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
+        "name": "Les ronds de carotte",
+        "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
       },
       "artists": [
         {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+          "name": "Thomas Fersen",
+          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
         }
       ],
-      "duration_ms": 223880,
-      "name": "Que je t'aime",
-      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
+      "duration_ms": 245226,
+      "name": "Au caf\u00e9 de la paix",
+      "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Les ronds de carotte",
-        "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
+        "name": "Ilo Veyou",
+        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
       },
       "artists": [
         {
-          "name": "Thomas Fersen",
-          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
         }
       ],
-      "duration_ms": 245226,
-      "name": "Au caf\u00e9 de la paix",
-      "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
+      "duration_ms": 223880,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Merle Noir",
-        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
-      },
-      "artists": [
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
-        }
-      ],
-      "duration_ms": 289413,
-      "name": "Menilmontant",
-      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
         "name": "chambre avec vue",
         "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+        "name": "Merle Noir",
+        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
       },
       "artists": [
         {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
         }
       ],
-      "duration_ms": 172293,
-      "name": "Salle des pas perdus",
-      "url": "https://open.spotify.com/track/1yi77TrGsSLuR0rKY6TXsq"
+      "duration_ms": 289413,
+      "name": "Menilmontant",
+      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -1531,6 +1515,22 @@
       "duration_ms": 265426,
       "name": "Assedic",
       "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Salle des pas perdus",
+      "url": "https://open.spotify.com/track/1yi77TrGsSLuR0rKY6TXsq"
     },
     {
       "added_at": "2022-06-28 12:16:03",

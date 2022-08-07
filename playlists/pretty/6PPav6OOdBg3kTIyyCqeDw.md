@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 > A collection of Hip Hop hits and viral trends featuring Lil Baby, J.Cole, Doechii &amp; more\. Updated weekly!  Cover: Kid Cudi
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 12,049 likes - 60 songs - 3 hr 24 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 12,051 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

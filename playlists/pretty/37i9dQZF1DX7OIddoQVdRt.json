@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 597699,
+  "num_followers": 597748,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMGU2Njg5ZmZhY2U4OTdlYTM3YjJkNTc5ZTc5ZTgxMmM0",
+  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDcwOTQzMjM0NDM5ODc4NTgwYWM0ZjE3N2VkMGE4MjFj",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Jesus Is Born",
-        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
-      },
-      "artists": [
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        }
-      ],
-      "duration_ms": 185439,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
         "name": "Just Like God",
         "url": "https://open.spotify.com/album/0U8ujczkuAHZ9NJ4Z1qkvj"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 180946,
       "name": "Just Like God",
       "url": "https://open.spotify.com/track/56rwjJ8kxKhVs16jjfLIbG"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 185439,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I"
     },
     {
       "added_at": "2021-06-25 06:54:59",

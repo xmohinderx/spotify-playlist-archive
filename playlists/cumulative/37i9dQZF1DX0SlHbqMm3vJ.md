@@ -4,7 +4,7 @@
 
 > A collection of old and new R&B cuts from West Africa’s finest artists.
 
-246 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
+247 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Paralysed](https://open.spotify.com/track/0xj0FbSGbOmSsryG7K5beu) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Paralysed](https://open.spotify.com/album/0dL3l4iXTpt1eQA6mFFAMG) | 4:09 | 2021-10-14 | 2022-02-07 |
 | [Peace of Mind](https://open.spotify.com/track/6NtOTnvDhbzaxpxkjBEx8x) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Peace of Mind](https://open.spotify.com/album/0RioIfaQpJxkbm9USMJ1fU) | 2:02 | 2021-10-14 | 2022-03-22 |
 | [Personal](https://open.spotify.com/track/5ssk3dDkHdrwmPveDQivd7) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Personal](https://open.spotify.com/album/2E7XGBsMRwSvpvY2O6OuPB) | 2:47 | 2022-02-10 | 2022-02-14 |
+| [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 |  |
 | [PRESS](https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:43 | 2022-03-11 | 2022-03-25 |
 | [Pure Addiction](https://open.spotify.com/track/5oZcubd8fQ1hL0z9aZ2mXz) | [C Natty](https://open.spotify.com/artist/0g4GWaSMj5jwBHltATPXzX) | [Pure Addiction](https://open.spotify.com/album/5nwzBIrwY5wftCq6jLKr6j) | 3:15 | 2022-04-07 | 2022-04-21 |
 | [Red Wine](https://open.spotify.com/track/3apid5UMNNRrjjtmVW1zFA) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Red Wine](https://open.spotify.com/album/10HjmKJgNyzSuJ8SzRLjJ7) | 3:15 | 2022-02-10 | 2022-03-12 |
@@ -221,7 +222,7 @@
 | [The Tree](https://open.spotify.com/track/6c2umqQ4F1T25KnEmMHdH2) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [TiwaDara](https://open.spotify.com/artist/1Jfw9YM2tAEb83GAEyiDvo) | [The Tree](https://open.spotify.com/album/13j4qj9QUkDjcUA8TNsKwP) | 3:00 | 2021-11-18 | 2022-02-18 |
 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 | 2021-10-14 |  |
 | [THINKING](https://open.spotify.com/track/41XqpDcepbryNYVyLzpVMa) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Love & Isolation](https://open.spotify.com/album/4sMkAZXTXdtFikLhLqviyZ) | 2:29 | 2021-10-14 | 2022-02-07 |
-| [Tinkerbell \(feat\. Wizkid\)](https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:03 | 2021-11-25 |  |
+| [Tinkerbell \(feat\. Wizkid\)](https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:03 | 2021-11-25 | 2022-08-07 |
 | [Too Many Women](https://open.spotify.com/track/19l8i6cV0tUIn3ON8duR4r) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Make E No Cause Fight 2](https://open.spotify.com/album/7DrAPijhoId90XunG5KAMy) | 3:21 | 2021-10-14 | 2022-07-29 |
 | [Toxic](https://open.spotify.com/track/3sIksJyo81gKpR5GyT1c8m) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 4:01 | 2022-04-21 |  |
 | [Toxic Love](https://open.spotify.com/track/09YR7RkTuIjWl6vKwFGTe5) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Toxic Love](https://open.spotify.com/album/1UFB4rx4pD2A93XxU1Ff5w) | 2:15 | 2022-02-10 | 2022-02-14 |

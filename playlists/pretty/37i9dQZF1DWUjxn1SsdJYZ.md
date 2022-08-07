@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best Hip Hop coming out of Australia\. Cover: HP Boyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,841 likes - 97 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,865 likes - 97 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

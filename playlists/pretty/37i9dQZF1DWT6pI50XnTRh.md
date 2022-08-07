@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,627 likes - 42 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,714 likes - 42 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 26 | [Love Is the Message \(feat\. The Three Degrees\)](https://open.spotify.com/track/7jPcmkRtO3BPBEAA9Q58AN) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 6:36 |
 | 27 | [Unconditional Love](https://open.spotify.com/track/6rX8XrnLLIggn6ItYWnoMM) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 4:44 |
 | 28 | [Running Away](https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 4:00 |
-| 29 | [Still in the Groove](https://open.spotify.com/track/4AaB8loejHKcwAQN0MT72B) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK), [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [A Woman Needs Love \(Expanded Edition\)](https://open.spotify.com/album/38993ejU6at3J4b0fxIien) | 6:21 |
-| 30 | [Untitled Instrumental](https://open.spotify.com/track/2aUHr9nibVhoYHoKFlEw1T) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Motherlode](https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f) | 3:22 |
+| 29 | [Untitled Instrumental](https://open.spotify.com/track/2aUHr9nibVhoYHoKFlEw1T) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Motherlode](https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f) | 3:22 |
+| 30 | [Still in the Groove](https://open.spotify.com/track/4AaB8loejHKcwAQN0MT72B) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK), [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [A Woman Needs Love \(Expanded Edition\)](https://open.spotify.com/album/38993ejU6at3J4b0fxIien) | 6:21 |
 | 31 | [Ohue \- Frankie Francis & Simbad Edit](https://open.spotify.com/track/6mpWzzeF15T39cCZFCsvh0) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sofrito: Tropical Discotheque](https://open.spotify.com/album/5AOELfqelmBhaAV5PsHHYr) | 5:34 |
 | 32 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
 | 33 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 41 | [Ojah Awake](https://open.spotify.com/track/5XRkdF0BOrqlN3jV0pYNhy) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4LK4xmWEuNYYEn5oPrQUpD) | 4:54 |
 | 42 | [The Warrior](https://open.spotify.com/track/1yRixw5ysrrgR8a2ZeU806) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4LK4xmWEuNYYEn5oPrQUpD) | 3:47 |
 
-Snapshot ID: `MTU2MTc0MDc2OCwwMDAwMDAwMGUyYjQyMzIyYTQ0NWJjYTQ4NjM0OGZkNjdlMzllMTg4`
+Snapshot ID: `MTU2MTc0MDc2OCwwMDAwMDAwMDVhYTRlMTE0ZGNmZWU5YjIwMjE1MWJiN2ZjMzYyN2I0`

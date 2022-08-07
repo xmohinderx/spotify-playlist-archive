@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-157 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
+158 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,8 +87,9 @@
 | [Lovely Morning](https://open.spotify.com/track/6efsCy6jKzBN6oz9xQEgKj) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo?](https://open.spotify.com/album/2prkEzgitQ8uM26lIjWLT3) | 3:53 | 2021-11-24 | 2022-07-29 |
 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 | 2022-07-28 |  |
 | [Make It on Your Own](https://open.spotify.com/track/6g3h5Me9cAPMZVlGWZbXlN) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Make It on Your Own](https://open.spotify.com/album/6ZrAnpp2UrLMB3EHoTGEgt) | 2:55 | 2021-11-24 |  |
-| [Mind Games \- Single Version](https://open.spotify.com/track/5RTWrfRc2uAppjSBoFhwDV) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/5P3WYWP8vfv9nxpyrcchEo) | 3:02 | 2022-06-03 |  |
+| [Mind Games \- Single Version](https://open.spotify.com/track/5RTWrfRc2uAppjSBoFhwDV) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/5P3WYWP8vfv9nxpyrcchEo) | 3:02 | 2022-06-03 | 2022-08-07 |
 | [Mind Games \- Single Version](https://open.spotify.com/track/5p2QPQGojxx1vvr9RO90Zc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Mind Games](https://open.spotify.com/album/46hD6fRkBdOTynFXoxgT8y) | 3:02 | 2021-11-24 | 2022-07-29 |
+| [Mind Games \- Single Version](https://open.spotify.com/track/7tn4PbBRi6zJZrjj6FYGXg) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:02 | 2022-06-03 |  |
 | [Mind Made Up](https://open.spotify.com/track/5wrDrajYZSJqta7rJBvcJV) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Mind Made Up](https://open.spotify.com/album/4f01RCCz0A0NmtT6LuWH92) | 2:32 | 2021-11-24 |  |
 | [Molly](https://open.spotify.com/track/7mUc6lgV0QBDriecrOHAQ0) | [Pauwel](https://open.spotify.com/artist/38V9jML2xuaNlknJUhoLQG) | [Molly](https://open.spotify.com/album/7JN3FZdAdd9b0z6JjecOJs) | 2:01 | 2021-11-24 |  |
 | [Morning Light](https://open.spotify.com/track/58FDKxg4uUVEOV0lSRHnQf) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Morning Light](https://open.spotify.com/album/61RZZpsBP6RXUofd4uv5NZ) | 3:14 | 2021-11-24 |  |

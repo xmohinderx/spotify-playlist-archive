@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 4589,
+  "num_followers": 4638,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGZjMTllN2U5Y2QxYTY5NTA2ZjY4Y2Q1MWRiNTkyYmQw",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDFjZjhmOTY4NjcwYjBkMDQyODgzNDI2Nzg2OTQ0ZmE3",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-06-03 18:11:27",
       "album": {
-        "name": "Whispers In The Wind",
-        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 368852,
-      "name": "Whispers In The Wind",
-      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
         "name": "Otto's Chant",
         "url": "https://open.spotify.com/album/3suaEss6InlgqN8pf51Sa5"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 369836,
       "name": "Otto's Chant",
       "url": "https://open.spotify.com/track/3j8PXtq0NN7QQVdNwkoFBe"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 368852,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
     },
     {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "So Hot EP",
-        "url": "https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Orpi",
-          "url": "https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "So Hot",
-      "url": "https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM"
-    },
-    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Crayzee",
@@ -621,6 +605,22 @@
       "url": "https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "So Hot EP",
+        "url": "https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Orpi",
+          "url": "https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "So Hot",
+      "url": "https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM"
+    },
+    {
       "added_at": "2022-07-08 17:12:43",
       "album": {
         "name": "Kick It EP",
@@ -635,22 +635,6 @@
       "duration_ms": 422250,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Kill The Soundboy",
-        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
-      },
-      "artists": [
-        {
-          "name": "Denney",
-          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "Kill The Soundboy",
-      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -673,36 +657,20 @@
       "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Welcome EP",
-        "url": "https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh"
+        "name": "Kill The Soundboy",
+        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
       },
       "artists": [
         {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+          "name": "Denney",
+          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
         }
       ],
-      "duration_ms": 407000,
-      "name": "DJ Lover - Original Mix",
-      "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "The True Secrets",
-        "url": "https://open.spotify.com/album/6b3y486Y43QZ5VFmaNI5WH"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 384115,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/2D5nRs0qDWXwcHveTsMHmE"
+      "duration_ms": 404000,
+      "name": "Kill The Soundboy",
+      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -725,6 +693,54 @@
       "url": "https://open.spotify.com/track/1sZw1rvxMeIacX91qTRYzr"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Welcome EP",
+        "url": "https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "DJ Lover - Original Mix",
+      "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
+    },
+    {
+      "added_at": "2022-06-10 14:45:01",
+      "album": {
+        "name": "Superfly",
+        "url": "https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 177780,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "The True Secrets",
+        "url": "https://open.spotify.com/album/6b3y486Y43QZ5VFmaNI5WH"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 384115,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/2D5nRs0qDWXwcHveTsMHmE"
+    },
+    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Stutter EP",
@@ -745,20 +761,20 @@
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
     },
     {
-      "added_at": "2022-06-10 14:45:01",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Superfly",
-        "url": "https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ"
+        "name": "Fuck The Regs EP",
+        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
       },
       "artists": [
         {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
         }
       ],
-      "duration_ms": 177780,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB"
+      "duration_ms": 204836,
+      "name": "Fuck The Regs",
+      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -795,18 +811,18 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Fuck The Regs EP",
-        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/1AmayXL6NWVTfnapZuoqcr"
       },
       "artists": [
         {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+          "name": "Alexander Aurel",
+          "url": "https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF"
         }
       ],
-      "duration_ms": 204836,
-      "name": "Fuck The Regs",
-      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
+      "duration_ms": 460800,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/5rwiInzM1WFq06CvCr8m1j"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -823,22 +839,6 @@
       "duration_ms": 255000,
       "name": "Rok The House",
       "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/1AmayXL6NWVTfnapZuoqcr"
-      },
-      "artists": [
-        {
-          "name": "Alexander Aurel",
-          "url": "https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF"
-        }
-      ],
-      "duration_ms": 460800,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/5rwiInzM1WFq06CvCr8m1j"
     },
     {
       "added_at": "2022-07-15 04:00:00",

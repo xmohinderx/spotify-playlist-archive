@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281,622 likes - 125 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,282,876 likes - 125 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 106 | [We Rock](https://open.spotify.com/track/4cMKvXUOLFbC6lRLCz5HPg) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [The Last in Line](https://open.spotify.com/album/4XAy5hk5sgMdDlORiNrVM9) | 4:35 |
 | 107 | [Children of the Earth](https://open.spotify.com/track/0un0EK8Qvd3eNYh7BJz2OF) | [Praying Mantis](https://open.spotify.com/artist/7rWdpyAaKzEA0jdP0WgLG0) | [Time Tells No Lies](https://open.spotify.com/album/4LXymJcEmn1Hw9GmfEqmem) | 5:37 |
 | 108 | [Riding the Storm \- 2017 \- Remaster](https://open.spotify.com/track/4Tak05pxFRYnHBsvxrVmag) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Death or Glory \(Expanded Version; 2017 \- Remaster\)](https://open.spotify.com/album/5qWs6LYzk0YpSGmkUBE5sp) | 6:28 |
-| 109 | [Can U Deliver](https://open.spotify.com/track/25kORdST1xzG4WXOnzJCKV) | [Armored Saint](https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN) | [March Of The Saint](https://open.spotify.com/album/0VkxN0pWwuaPeZuLq2aLx1) | 3:35 |
-| 110 | [Armed and Ready \- 2000 Remaster](https://open.spotify.com/track/4r299IW4ua73XaiXYFtLwP) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Michael Schenker Group](https://open.spotify.com/album/6QqK1XqWiU2fSVuLUXgdeR) | 4:09 |
+| 109 | [Armed and Ready \- 2000 Remaster](https://open.spotify.com/track/4r299IW4ua73XaiXYFtLwP) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Michael Schenker Group](https://open.spotify.com/album/6QqK1XqWiU2fSVuLUXgdeR) | 4:09 |
+| 110 | [Can U Deliver](https://open.spotify.com/track/25kORdST1xzG4WXOnzJCKV) | [Armored Saint](https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN) | [March Of The Saint](https://open.spotify.com/album/0VkxN0pWwuaPeZuLq2aLx1) | 3:35 |
 | 111 | [Swords and Tequila](https://open.spotify.com/track/3lJqE5AKrrFDFdhDyB0kqx) | [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Fire Down Under](https://open.spotify.com/album/5yygmFcqz4aOo36rLXyNXO) | 3:20 |
 | 112 | [Curse of the Pharaohs](https://open.spotify.com/track/0mobywrA15c3nHS5qzarlu) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58) | 3:57 |
 | 113 | [Under Jolly Roger](https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Under Jolly Roger](https://open.spotify.com/album/1PgXFAY89grykiyk18pB2P) | 4:42 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 124 | [Phantom of the Opera \- 2015 Remaster](https://open.spotify.com/track/5dtdDxI45qW6GRr2YyC0mX) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 \- Remaster\)](https://open.spotify.com/album/5nyyw7ThJdClJ0jPisOta3) | 7:21 |
 | 125 | [Tomorrow's Dream \- 2021 Remaster](https://open.spotify.com/track/07f9Uh1cWqH8ggfcEYeC1l) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Tomorrow's Dream \(2021 Remaster\)](https://open.spotify.com/album/6Zzss0gwhwdizR2JIoSUa7) | 3:08 |
 
-Snapshot ID: `MTY1Nzc1NjgwMCwwMDAwMDAwMDkzZGJkOTEwYWE3N2UwMzUxYTBlN2Y5M2RhODA2ODBk`
+Snapshot ID: `MTY1Nzc1NjgwMCwwMDAwMDAwMDg3ZTZiZDYyM2VhODRlZjdhNWNkNmRjY2VkOTdhNDYz`

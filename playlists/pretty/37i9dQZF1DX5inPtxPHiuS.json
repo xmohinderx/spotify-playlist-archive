@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Oh'laville",
-  "num_followers": 77796,
+  "num_followers": 77813,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMDRlZGQ3NWRmM2NhMjRhNjA4NjE5NGFlZDQ2Mzg0ZTBj",
+  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMGM0OWM0NWY5MzIxOGZkZDQ2ZmVlY2Y5MTBhMjcyZDkx",
   "tracks": [
     {
       "added_at": "2022-06-24 05:15:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Te Valgo",
-        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "Te Valgo",
-      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 249965,
       "name": "B\u00fahoz",
       "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Te Valgo",
+        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "Te Valgo",
+      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
     },
     {
       "added_at": "2022-06-24 05:15:00",

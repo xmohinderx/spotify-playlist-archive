@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6416094,
+  "num_followers": 6417392,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4NDI3NCwwMDAwMDAwMDZiNDM4NjJiZTkyZTc2ZGM3YzIwOTFlZTQxMGEwMzk1",
+  "snapshot_id": "MTY1OTY4NDI3NCwwMDAwMDAwMDJiZTY3YjMxZTZmODFkZmUyYTBjZmIyMTk4OWJiZDQx",
   "tracks": [
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Insomnia (Rework)",
-        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        },
-        {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Insomnia - Rework",
-      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Are You OK? (feat. ILIRA)",
         "url": "https://open.spotify.com/album/6CXKk17m3VB5S08HGPdTTJ"
       },
@@ -1587,6 +1567,26 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
+        "name": "Insomnia (Rework)",
+        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Insomnia - Rework",
+      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/0L0hYTNmafl7CqN2l20ZL1"
       },
@@ -1599,6 +1599,26 @@
       "duration_ms": 170666,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/4GvHfRUyNfNz86FbnDThDl"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 247896,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1655,26 +1675,6 @@
       "duration_ms": 159617,
       "name": "Tension",
       "url": "https://open.spotify.com/track/2mozbqXyO5NOmpOZc9O5s9"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 247896,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
+        "name": "ARIZONA",
+        "url": "https://open.spotify.com/album/4QoSFoqrV492dG1b1zqKh8"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 131803,
+      "name": "ARIZONA",
+      "url": "https://open.spotify.com/track/3SgTZxicV78GmXYlSnNedh"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
         "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/1h9SeQDYy4kq59zk5Xcztz"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 147096,
       "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) - Steve Void Edit",
       "url": "https://open.spotify.com/track/7vUROW0qSrg2HACYL3rglZ"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
-        "name": "ARIZONA",
-        "url": "https://open.spotify.com/album/4QoSFoqrV492dG1b1zqKh8"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 131803,
-      "name": "ARIZONA",
-      "url": "https://open.spotify.com/track/3SgTZxicV78GmXYlSnNedh"
     },
     {
       "added_at": "2022-08-04 22:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 133085,
+  "num_followers": 133118,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMyMjE1NSwwMDAwMDAwMDcxMzhlNjhlOGY4ZjExNjMyMTEyMTIzMDA2YjYzOWY4",
+  "snapshot_id": "MTY1OTMyMjE1NSwwMDAwMDAwMDJjZDc3ZjNjYzAwMTcwMzg0Yzk5ZTk0NDA2MzkwYmVi",
   "tracks": [
     {
       "added_at": "2022-08-01 02:49:15",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 245840,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "Amniotic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 274138,
-      "name": "Outgrown",
-      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 200000,
       "name": "Time",
       "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
+        "name": "Amniotic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 274138,
+      "name": "Outgrown",
+      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
         "name": "Y1",
         "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 169818,
       "name": "Fuck Love",
       "url": "https://open.spotify.com/track/32p7kD1kyWiy78wuQoICRu"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "Trying Not To Cry (feat. Cavetown)",
-        "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
+        "name": "The Juice: Vol. I",
+        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
       },
       "artists": [
         {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
         }
       ],
-      "duration_ms": 142310,
-      "name": "Trying Not To Cry (feat. Cavetown)",
-      "url": "https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f"
+      "duration_ms": 199040,
+      "name": "Built That Way",
+      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1207,18 +1203,22 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "The Juice: Vol. I",
-        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
+        "name": "Trying Not To Cry (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 199040,
-      "name": "Built That Way",
-      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
+      "duration_ms": 142310,
+      "name": "Trying Not To Cry (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "From You",
-        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "From You",
-      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
         "name": "2021",
         "url": "https://open.spotify.com/album/0wsQ9WVVhr3P9xZBEgdaPG"
       },
@@ -1339,22 +1319,22 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "Two Sides",
-        "url": "https://open.spotify.com/album/03ir5ImoetQFACvTPTn4sK"
+        "name": "From You",
+        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         },
         {
-          "name": "Charlie Lim",
-          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 226195,
-      "name": "Two Sides",
-      "url": "https://open.spotify.com/track/0HN3K1Y4sRJIHZmI2s5pU1"
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1379,6 +1359,26 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
+        "name": "Two Sides",
+        "url": "https://open.spotify.com/album/03ir5ImoetQFACvTPTn4sK"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        }
+      ],
+      "duration_ms": 226195,
+      "name": "Two Sides",
+      "url": "https://open.spotify.com/track/0HN3K1Y4sRJIHZmI2s5pU1"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
@@ -1391,22 +1391,6 @@
       "duration_ms": 208053,
       "name": "Feel A Way",
       "url": "https://open.spotify.com/track/0Nt3UdaA4KrHEUSNwq9nCI"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 163146,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+        "name": "Real",
+        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
         }
       ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+      "duration_ms": 163146,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1455,6 +1439,22 @@
       "duration_ms": 265185,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2022-08-01 02:49:15",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "Keep Me Up",
-        "url": "https://open.spotify.com/album/27CHocZopHED9uvae877j3"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 198359,
-      "name": "Keep Me Up",
-      "url": "https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE"
-    },
-    {
-      "added_at": "2022-08-01 02:49:15",
-      "album": {
         "name": "heights",
         "url": "https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j"
       },
@@ -1699,18 +1683,34 @@
     {
       "added_at": "2022-08-01 02:49:15",
       "album": {
-        "name": "Ugly Season",
-        "url": "https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L"
+        "name": "Keep Me Up",
+        "url": "https://open.spotify.com/album/27CHocZopHED9uvae877j3"
       },
       "artists": [
         {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
         }
       ],
-      "duration_ms": 305186,
-      "name": "Pop Song",
-      "url": "https://open.spotify.com/track/6tDbJIKGcfSWElhmtt6665"
+      "duration_ms": 198359,
+      "name": "Keep Me Up",
+      "url": "https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE"
+    },
+    {
+      "added_at": "2022-08-01 02:49:15",
+      "album": {
+        "name": "Something to Feel",
+        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 213535,
+      "name": "Something to Feel",
+      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

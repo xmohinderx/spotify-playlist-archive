@@ -1,12 +1,12 @@
 {
   "description": "Always come in 1st.",
-  "num_followers": 81136,
+  "num_followers": 81455,
   "original_name": "Nitroboost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyMzI2OSwwMDAwMDAwMGU0ODAwMTdhNThmNmEyMjIzODcyODViZWNmMWE2NDk1",
+  "snapshot_id": "MTY1OTYyMzI2OSwwMDAwMDAwMDVhNzBjMzU2OGVlOTEwZTY0NTRkNTJlZmRlYWM5OTdh",
   "tracks": [
     {
       "added_at": "2022-08-01 13:53:22",
@@ -371,26 +371,6 @@
     {
       "added_at": "2022-08-01 13:53:22",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
-      },
-      "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
-    },
-    {
-      "added_at": "2022-08-01 13:53:22",
-      "album": {
         "name": "House of Wax",
         "url": "https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 168780,
       "name": "Issa Vibe",
       "url": "https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz"
+    },
+    {
+      "added_at": "2022-08-01 13:53:22",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
     },
     {
       "added_at": "2022-08-01 13:53:22",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-08-01 13:53:22",
       "album": {
+        "name": "Vex",
+        "url": "https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        }
+      ],
+      "duration_ms": 235172,
+      "name": "Vex",
+      "url": "https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1"
+    },
+    {
+      "added_at": "2022-08-01 13:53:22",
+      "album": {
         "name": "Symbiosis Remixed Part 1",
         "url": "https://open.spotify.com/album/4Ms4XIRdvfXibLNhtvqs0U"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 286059,
       "name": "Sentient - Joe Ford Remix",
       "url": "https://open.spotify.com/track/37tWPZAM7MJwB3l4bbuLG8"
-    },
-    {
-      "added_at": "2022-08-01 13:53:22",
-      "album": {
-        "name": "Vex",
-        "url": "https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML"
-      },
-      "artists": [
-        {
-          "name": "Bensley",
-          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
-        }
-      ],
-      "duration_ms": 235172,
-      "name": "Vex",
-      "url": "https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1"
     },
     {
       "added_at": "2022-08-01 13:53:22",

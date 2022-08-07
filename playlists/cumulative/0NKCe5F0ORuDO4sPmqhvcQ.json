@@ -424,6 +424,28 @@
     },
     {
       "album": {
+        "name": "Bad Girl Like Me",
+        "url": "https://open.spotify.com/album/2toy13E6wMIWqa2nf9fS9M"
+      },
+      "artists": [
+        {
+          "name": "Sabby Sousa",
+          "url": "https://open.spotify.com/artist/4wGT7z6uSZfL2KdmUtG8d6"
+        },
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204314,
+      "name": "Bad Girl Like Me",
+      "url": "https://open.spotify.com/track/6J9A9BonPgsE2zH1bEe2QC"
+    },
+    {
+      "album": {
         "name": "Be Some Body",
         "url": "https://open.spotify.com/album/1T2D4Si1kGylfXkPj7VjyW"
       },

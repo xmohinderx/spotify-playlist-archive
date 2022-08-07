@@ -4,7 +4,7 @@
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>怎麼先熾熱的卻先變冷了，慢熱的卻停不了還在沸騰著。
 
-133 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/2SCoxCvdP1evPUUya0Z55H)
+134 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/2SCoxCvdP1evPUUya0Z55H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,8 +119,9 @@
 | [誤解](https://open.spotify.com/track/0QZ0jknc0bVPCPpX7WDAld) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [误解](https://open.spotify.com/album/16PJhCnEFw1ZX3ANVuQX7S) | 4:16 | 2022-06-01 | 2022-07-28 |
 | [說了再見](https://open.spotify.com/track/2jlT98PnJTq5uwo8AdTpa7) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:40 | 2022-06-01 | 2022-07-26 |
 | [說好的幸福呢](https://open.spotify.com/track/6W2tmkeuHKaedHhdTPnyVs) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/6pmapc89HjY4f16ARzrmBB) | 4:14 | 2022-06-01 |  |
+| [說散就散](https://open.spotify.com/track/2XFrRuy9Gpu4GuYHTNeHiC) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [Album 1](https://open.spotify.com/album/2AjWUJJJekECU7JAezYTIV) | 3:50 | 2022-06-01 |  |
 | [變廢為寶](https://open.spotify.com/track/2XkFoLQSE7zVpVQNNsOhEn) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [變廢為寶](https://open.spotify.com/album/5Bq0pyne4UuCPCkoHWLR0C) | 4:39 | 2022-06-01 | 2022-07-28 |
-| [趁早](https://open.spotify.com/track/5HWiTu6zgcALuSgdqTZRJm) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [不顧一切](https://open.spotify.com/album/3MokYdeopJkDZKCY4sOW8Y) | 5:24 | 2022-06-01 |  |
+| [趁早](https://open.spotify.com/track/5HWiTu6zgcALuSgdqTZRJm) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [不顧一切](https://open.spotify.com/album/3MokYdeopJkDZKCY4sOW8Y) | 5:24 | 2022-06-01 | 2022-08-07 |
 | [趁早](https://open.spotify.com/track/0g8tpuOO9HD5yCFXGbL7Cr) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [不顧一切](https://open.spotify.com/album/2ldMMJMTQ3X4LlAB8M3yk9) | 5:24 | 2022-06-01 | 2022-07-29 |
 | [身後](https://open.spotify.com/track/5AI9vJ8S0wtuqJNrgH1Oyi) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2FrS5zUSyIGBCOk8JyerbY) | 4:26 | 2022-06-01 | 2022-07-29 |
 | [輸了你贏了世界又如何 \- Remastered](https://open.spotify.com/track/49cQrDwSaX54JXdkYhNzwt) | [優客李林](https://open.spotify.com/artist/6FAeDq0UGuzHeLiUzz45mA) | [精選優客李林 \(Remastered\)](https://open.spotify.com/album/6TQfsq3PDCnistVJUPmOH0) | 4:18 | 2022-06-01 | 2022-07-25 |

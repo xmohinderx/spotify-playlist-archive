@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 112768,
+  "num_followers": 112942,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTU4NiwwMDAwMDAwMDhkYzdhYzg2YjRmOWJlOWVmNmYwZmQ2Yjk3MmI2ZDQx",
+  "snapshot_id": "MTY1OTEwNTU4NiwwMDAwMDAwMDM3M2Q0OGNhYTNiZmRlYjg0ZTBiMzM3NTJkNWYxMzRl",
   "tracks": [
     {
       "added_at": "2022-07-29 14:39:46",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-07-29 14:39:46",
       "album": {
+        "name": "Crazy Sun",
+        "url": "https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE"
+      },
+      "artists": [
+        {
+          "name": "JT Coldfire",
+          "url": "https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j"
+        }
+      ],
+      "duration_ms": 323253,
+      "name": "She's Crazy",
+      "url": "https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT"
+    },
+    {
+      "added_at": "2022-07-29 14:39:46",
+      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 277200,
       "name": "Whiskey And Wimmen'",
       "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
-    },
-    {
-      "added_at": "2022-07-29 14:39:46",
-      "album": {
-        "name": "Crazy Sun",
-        "url": "https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE"
-      },
-      "artists": [
-        {
-          "name": "JT Coldfire",
-          "url": "https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j"
-        }
-      ],
-      "duration_ms": 323253,
-      "name": "She's Crazy",
-      "url": "https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT"
     },
     {
       "added_at": "2022-07-29 14:39:46",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-07-29 14:39:46",
       "album": {
+        "name": "Hoodoo (Commentary Version)",
+        "url": "https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 268946,
+      "name": "Who You Gonna Hoodoo Now?",
+      "url": "https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe"
+    },
+    {
+      "added_at": "2022-07-29 14:39:46",
+      "album": {
         "name": "Willie's Blues",
         "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 354573,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK"
-    },
-    {
-      "added_at": "2022-07-29 14:39:46",
-      "album": {
-        "name": "Hoodoo (Commentary Version)",
-        "url": "https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 268946,
-      "name": "Who You Gonna Hoodoo Now?",
-      "url": "https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe"
     },
     {
       "added_at": "2022-07-29 14:39:46",

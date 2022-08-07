@@ -4,7 +4,7 @@
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Allison Russell
 
-241 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/1P9OyTiTUDz0lOylvWtrf5)
+242 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/1P9OyTiTUDz0lOylvWtrf5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [For You](https://open.spotify.com/track/4HVP9LguwC1S5VzkMhzhqW) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU) | 3:27 | 2022-04-15 | 2022-07-29 |
 | [Fragments \- From The Film "The Smog Of The Sea"](https://open.spotify.com/track/2eVKwKivluiYn67kLtZ3d7) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:41 | 2022-07-27 |  |
 | [Freedom](https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Only Pieces of the Truth](https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG) | 4:21 | 2022-04-15 |  |
-| [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 | 2022-04-15 |  |
+| [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 | 2022-04-15 | 2022-08-07 |
 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 | 2022-04-15 |  |
 | [Full Size Render](https://open.spotify.com/track/13YkIo5DIQwpJvPjEzgY3D) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/1ITm7iuEyilyq4EDMMzzRN) | 2:58 | 2022-04-15 | 2022-07-25 |
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2022-04-15 |  |
@@ -125,6 +125,7 @@
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2022-07-27 |  |
 | [judas](https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM) | 2:41 | 2022-05-12 | 2022-07-29 |
 | [Juniper](https://open.spotify.com/track/65hfmtV2gkBmqXf9t03Zxk) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Juniper](https://open.spotify.com/album/5unMWK0sodWWS6KxrBO6Sc) | 2:39 | 2022-04-15 | 2022-07-25 |
+| [Juniper](https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 2:39 | 2022-07-27 |  |
 | [Keep a Light On](https://open.spotify.com/track/5SMBlrCVXZeV4A4Yr7FPDP) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L) | [Keep a Light On](https://open.spotify.com/album/2PZuGXv5nGWMk92tfXCe8I) | 3:06 | 2022-04-15 | 2022-07-29 |
 | [Keeping Time](https://open.spotify.com/track/2dzeI4sQBhKRyWSGVZwpFa) | [Sam Lynch](https://open.spotify.com/artist/3gIjrIxD8n3BSYH9OqkHLL) | [Little Disappearance](https://open.spotify.com/album/0gMlHbUyWtTK9WjERopNjh) | 4:24 | 2022-04-15 | 2022-07-29 |
 | [Kitchen Sink](https://open.spotify.com/track/0baEuNfCAnahq2e5PhJPrn) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [Kitchen Sink](https://open.spotify.com/album/37dYaICna8tdlgYU7kUz6u) | 3:38 | 2022-07-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Sandy, Wanessa Camargo",
-  "num_followers": 398346,
+  "num_followers": 398458,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY2ODQwMCwwMDAwMDAwMDk4ZjFlNWQ1ZmFiZTk0MzViNzEwYTg0MjE4MjMzY2Y0",
+  "snapshot_id": "MTY1OTY2ODQwMCwwMDAwMDAwMGZmNDNkOTFiYjI1ODQ4MzBiNzU1YTgxMDIwODgyODdi",
   "tracks": [
     {
       "added_at": "2022-08-05 03:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
+        "name": "Intensamente",
+        "url": "https://open.spotify.com/album/2mw6JHE5nJ6H0aAelxwFGh"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "duration_ms": 167808,
+      "name": "Intensamente",
+      "url": "https://open.spotify.com/track/3j4l4Yndeoi8DdVmd1CgEh"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
         "name": "No Mesmo Tom",
         "url": "https://open.spotify.com/album/4Lrv9Ock8oIOYrQks34vrV"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 139058,
       "name": "Qual Fita",
       "url": "https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "Intensamente",
-        "url": "https://open.spotify.com/album/2mw6JHE5nJ6H0aAelxwFGh"
-      },
-      "artists": [
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        }
-      ],
-      "duration_ms": 167808,
-      "name": "Intensamente",
-      "url": "https://open.spotify.com/track/3j4l4Yndeoi8DdVmd1CgEh"
     },
     {
       "added_at": "2022-08-05 03:00:00",

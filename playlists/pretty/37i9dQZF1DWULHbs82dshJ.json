@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.",
-  "num_followers": 45316,
+  "num_followers": 45325,
   "original_name": "Dia de Chuva",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMDlmODI1ZGM4NDk1MmU3ZjU5Yjg3NDk5MDE1OTNjOWE2",
+  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMGZjNTZhMDIwYzE5ZWY3ZmQ2ZDk5N2IzYWQ1YzNlMDY2",
   "tracks": [
     {
       "added_at": "2021-12-15 15:42:19",
@@ -467,6 +467,22 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 243213,
+      "name": "Like A Star",
+      "url": "https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
         "name": "Atlantic 60th: Soul, Sweat And Strut",
         "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 262813,
       "name": "Will You Still Love Me Tomorrow? - 2011",
       "url": "https://open.spotify.com/track/0LbK1bodGLc9xmV1cS9jvL"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 243213,
-      "name": "Like A Star",
-      "url": "https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk"
     },
     {
       "added_at": "2021-12-15 15:42:19",

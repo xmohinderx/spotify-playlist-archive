@@ -3480,6 +3480,24 @@
     },
     {
       "album": {
+        "name": "\u8ac7\u6200\u611b\u751a\u9ebd\u6642\u5019\u8b8a\u6210\u4e00\u5834\u6bd4\u8cfd",
+        "url": "https://open.spotify.com/album/7FTK6VQCBzjwapvrZFU931"
+      },
+      "artists": [
+        {
+          "name": "Nj Ho",
+          "url": "https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176072,
+      "name": "\u8ac7\u6200\u611b\u751a\u9ebd\u6642\u5019\u8b8a\u6210\u4e00\u5834\u6bd4\u8cfd",
+      "url": "https://open.spotify.com/track/2S0jex9nwUk6rRB0kByFjL"
+    },
+    {
+      "album": {
         "name": "\u8e7a\u8e4a",
         "url": "https://open.spotify.com/album/3IzhNtnRhc5SbBgLtCpmXJ"
       },

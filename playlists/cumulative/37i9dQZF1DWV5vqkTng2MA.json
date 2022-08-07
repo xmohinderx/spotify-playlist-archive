@@ -1769,7 +1769,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 182800,
       "name": "Little Record Girl",
       "url": "https://open.spotify.com/track/5K467049SloeEJHvMhJDcl"
@@ -1953,6 +1953,24 @@
       "duration_ms": 198293,
       "name": "Midnight Wine",
       "url": "https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI"
+    },
+    {
+      "album": {
+        "name": "Monterey",
+        "url": "https://open.spotify.com/album/2ttSZFH721F5dC6fbZznTb"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "Monterey",
+      "url": "https://open.spotify.com/track/6naEBVsSQonTSqTOsquBA9"
     },
     {
       "album": {

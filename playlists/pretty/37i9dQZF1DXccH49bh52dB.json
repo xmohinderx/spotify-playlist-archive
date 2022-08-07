@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 349808,
+  "num_followers": 350096,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDRkNGYxZjU0ZmY3MmUzNmUxZTNmMWZkYmVhZjU4MjFl",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGUyMWY1OWQ3NTA0OWUxN2E4YTBlZTRlYTE1ZGU0NzI1",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -839,30 +839,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Runaways (feat. Teemu)",
-        "url": "https://open.spotify.com/album/0cvwZJlRI7a6aUY3CB24dj"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Teemu",
-          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Runaways (feat. Teemu)",
-      "url": "https://open.spotify.com/track/7N3KIPb2x4FzKUeonhw9sd"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "A Moment Apart",
         "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 237140,
       "name": "Line Of Sight (feat. WYNNE & Mansionair)",
       "url": "https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Runaways (feat. Teemu)",
+        "url": "https://open.spotify.com/album/0cvwZJlRI7a6aUY3CB24dj"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Teemu",
+          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Runaways (feat. Teemu)",
+      "url": "https://open.spotify.com/track/7N3KIPb2x4FzKUeonhw9sd"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Strawtown",
-        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 188846,
-      "name": "On The Beach",
-      "url": "https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Talk About It",
         "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 164536,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Strawtown",
+        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 188846,
+      "name": "On The Beach",
+      "url": "https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Arcade (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/7asdrrGPiGUgv50OATAorX"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 153488,
-      "name": "Arcade - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Elohim (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6tbzSO8UHnbvsPFG449fb2"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 202886,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/1Wvzo4EotLEh4W3OVcQoDO"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Arcade (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/7asdrrGPiGUgv50OATAorX"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 153488,
+      "name": "Arcade - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1"
     },
     {
       "added_at": "2022-01-18 14:54:04",

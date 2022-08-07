@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 124160,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
@@ -3763,6 +3763,24 @@
       "duration_ms": 208000,
       "name": "Stay (feat. Eris Ford) - Remix",
       "url": "https://open.spotify.com/track/6jxmiJbjn6pH8nxEKCFw72"
+    },
+    {
+      "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/3g9G4l7NCOiuKeiIVtMaB5"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202057,
+      "name": "STICKS & STONES",
+      "url": "https://open.spotify.com/track/1XsVqOChsThIrhuLZcSCkT"
     },
     {
       "album": {

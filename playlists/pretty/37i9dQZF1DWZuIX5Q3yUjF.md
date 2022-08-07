@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Palmaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,913 likes - 111 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,924 likes - 111 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

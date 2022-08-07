@@ -4,7 +4,7 @@
 
 > Top Sufi tracks of Coke Studio Pakistan\. Cover: Rahat Fateh Ali Khan
 
-55 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/0TDkgFavNJdJUa4b2z7oKf)
+56 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/0TDkgFavNJdJUa4b2z7oKf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Tajdar\-E\-Haram](https://open.spotify.com/track/5euB7CZQXxjqe2s2Bb8KWl) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 10:16 | 2022-01-16 |  |
 | [Tu Jhoom](https://open.spotify.com/track/0X5jMLCYWZjuXHRc1zp0G6) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a) | [Tu Jhoom](https://open.spotify.com/album/61yLyqdz6hdZiAHMk4Bxxi) | 6:37 | 2022-01-16 | 2022-07-29 |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-01-16 |  |
+| [Tu Kuja Man Kuja](https://open.spotify.com/track/10FMebRh92qPZdO7wLtcJL) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy), [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 8:42 | 2022-01-16 |  |
 | [Tu Kuja Man Kuja](https://open.spotify.com/track/1xiUhnLrA23Nmi9OkKkPj6) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy), [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 8:42 | 2022-01-16 | 2022-07-29 |
 | [Uddi Ja](https://open.spotify.com/track/292P5VtgDClMCzKpgSZVbt) | [Mohsin Abbas Haider](https://open.spotify.com/artist/3AkuJRCDsbBy5tftVMtJOT), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:02 | 2022-01-16 | 2022-07-29 |
 | [Uddi Ja \(Coke Studio Season 9\)](https://open.spotify.com/track/4zppewvc7dMM9P7fwywsGR) | [Mohsin Abbas Haider](https://open.spotify.com/artist/3AkuJRCDsbBy5tftVMtJOT) | [Uddi Ja \(Coke Studio Season 9\)](https://open.spotify.com/album/3zgwUPaPsKjTvDmIetSIm3) | 7:02 | 2022-01-16 |  |

@@ -5428,6 +5428,24 @@
     },
     {
       "album": {
+        "name": "Transitory",
+        "url": "https://open.spotify.com/album/0NH5ptXUhDmNKKeAyqdWma"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301960,
+      "name": "Transitory",
+      "url": "https://open.spotify.com/track/52peIXHrnQpSuANcws9IBr"
+    },
+    {
+      "album": {
         "name": "Ondertitel",
         "url": "https://open.spotify.com/album/3tapqXnaQbQkFNEXQ3PFfC"
       },
@@ -5773,7 +5791,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 246996,
       "name": "Warehouse",
       "url": "https://open.spotify.com/track/2wER3gVMMIWPusxOjoWlcQ"

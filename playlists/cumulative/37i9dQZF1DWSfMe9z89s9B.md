@@ -4,7 +4,7 @@
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Dreamer Isioma
 
-545 songs - 1 day 5 hr 55 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+546 songs - 1 day 5 hr 59 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Baby Powder](https://open.spotify.com/track/7t4ihBlcMdkyUeO6W1DfYH) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Baby Powder](https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1) | 3:00 | 2021-03-19 | 2022-07-23 |
 | [Back & Forth \(feat\. Vince Staples\)](https://open.spotify.com/track/4g9pJvaoIVrj89XWQ6HRqr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:22 | 2021-06-11 | 2022-04-16 |
 | [Back on the Fence](https://open.spotify.com/track/4l9ySYsdTRMiUZdNfI0iLR) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM), [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Back on the Fence](https://open.spotify.com/album/2GHFkUpqWavyXAVfy6xwLF) | 3:51 | 2021-03-19 | 2022-01-29 |
-| [Backwards](https://open.spotify.com/track/2LUvEI9tnkp9Wrq0fFl2H1) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Backwards](https://open.spotify.com/album/0xB9fmB7FwD6MRmSHCXEEt) | 3:33 | 2022-06-10 |  |
+| [Backwards](https://open.spotify.com/track/2LUvEI9tnkp9Wrq0fFl2H1) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Backwards](https://open.spotify.com/album/0xB9fmB7FwD6MRmSHCXEEt) | 3:33 | 2022-06-10 | 2022-08-07 |
 | [BAD bad](https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:49 | 2022-04-01 |  |
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-24 |  |
 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 | 2021-11-05 |  |
@@ -376,6 +376,7 @@
 | [Pieces](https://open.spotify.com/track/3uxvPA68MMOEdkxS4QdlPg) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Pieces](https://open.spotify.com/album/3BsWqi1hnJEpOthdL1wMtk) | 2:44 | 2021-11-19 | 2022-01-27 |
 | [pieces](https://open.spotify.com/track/5tnpSQClW40rHRfMvCqijS) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:44 | 2022-07-15 | 2022-07-29 |
 | [Pine](https://open.spotify.com/track/1xTrwHzhHuNb5URVfuBp0f) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Pine](https://open.spotify.com/album/0zIwjAV2L0o6pGpgMD7XWt) | 3:30 | 2021-03-19 | 2022-04-25 |
+| [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ) | 3:53 | 2022-08-05 |  |
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-05-13 | 2022-05-20 |
 | [PLAYGOD](https://open.spotify.com/track/5H9NsCxxAnLQhT2usGd35N) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [PLAYGOD](https://open.spotify.com/album/0ie2yzXuB8Uu2TIefJfzao) | 4:03 | 2022-04-01 | 2022-04-15 |
 | [Playlist](https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Playlist](https://open.spotify.com/album/3Dh8wVPKowAxy0aGYZIVAA) | 2:50 | 2022-04-01 | 2022-04-13 |

@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-324 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+325 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Make Peace with That](https://open.spotify.com/track/2Ps3rsuD8K52laHDdQLIJw) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 2:02 | 2021-11-12 | 2022-07-27 |
 | [Making Money](https://open.spotify.com/track/70oSPnAI8gRb2fSXtELKuV) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Making Money](https://open.spotify.com/album/0zEIPCC2rC06oAOK39afBs) | 2:31 | 2022-06-22 | 2022-06-28 |
 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 | 2021-11-12 | 2022-07-28 |
+| [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 | 2022-08-05 |  |
 | [Me and My Friends](https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Me and My Friends](https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd) | 3:20 | 2022-03-19 | 2022-04-14 |
 | [meander](https://open.spotify.com/track/6dDWdTZXJuDb5aMD3MC4eX) | [Elizabeth](https://open.spotify.com/artist/4PeDuiJ3tM8So1Ai7c5szN) | [meander](https://open.spotify.com/album/00eGAQRl5LIvW55uPmKRY6) | 3:20 | 2021-11-12 | 2022-07-20 |
 | [Melody of Love](https://open.spotify.com/track/48q7Pc3Zm2nPPVJPsfG30B) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [A Bath Full of Ecstasy](https://open.spotify.com/album/6lkUImwpLYQnkiygVaMoAJ) | 4:18 | 2022-03-19 | 2022-04-16 |
@@ -307,7 +308,7 @@
 | [Violet Light](https://open.spotify.com/track/0r9yhCdISMtd5dV63ts8Ju) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Violet Light](https://open.spotify.com/album/4qvtHR2G888pOiWntewVeG) | 3:21 | 2022-03-09 | 2022-06-06 |
 | [Waitin' \- Edit](https://open.spotify.com/track/0kBAFAVajRjCX8kXneVsZI) | [Boy Azooga](https://open.spotify.com/artist/4S2f4BosAW2oF9AfGEK8ZL) | [Waitin' \(Edit\)](https://open.spotify.com/album/68aYjlcWtBfK47iXFa0QA0) | 3:25 | 2022-03-19 | 2022-04-15 |
 | [Wallflower](https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI) | [Latir](https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr) | [Wallflower](https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y) | 3:04 | 2021-11-12 | 2022-07-29 |
-| [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 | 2021-11-12 |  |
+| [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 | 2021-11-12 | 2022-08-07 |
 | [welcome to the sidelines](https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [is that all there is?](https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK) | 2:57 | 2022-04-08 | 2022-04-16 |
 | [What A Life](https://open.spotify.com/track/5fwr3bqXrW7ZTlaknYQ4Rv) | [Gabe Coulter](https://open.spotify.com/artist/5o8S3BWm7IgBj9nhPMGLP9) | [What A Life](https://open.spotify.com/album/75MvOLCBpMhKrqNclL3mi9) | 3:15 | 2022-03-19 | 2022-04-16 |
 | [What Are We Doing?](https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [What Are We Doing?](https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC) | 3:13 | 2021-11-12 | 2022-07-15 |

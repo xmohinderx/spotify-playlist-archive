@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgPVq1ydgmS.md) - [plain]
 
 > 'Tis the season to be melancholy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,260 likes - 26 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,259 likes - 26 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

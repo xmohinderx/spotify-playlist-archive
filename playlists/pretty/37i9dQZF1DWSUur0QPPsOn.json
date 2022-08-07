@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Issa Rae, Kamillion, Aida Osman & Jonica Booth #RapSh!t",
-  "num_followers": 213336,
+  "num_followers": 213460,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1ODg5NCwwMDAwMDAwMGExYjYzMmUwZDFlZGZkYmQ5ZGYxNDI3NzZjMDI0MTMy",
+  "snapshot_id": "MTY1OTQ1ODg5NCwwMDAwMDAwMDVkOGU0NzY0MzNlYzQzMTNlM2FlZTkxNDAxZmEyNGRj",
   "tracks": [
     {
       "added_at": "2022-08-01 04:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-08-01 04:00:00",
       "album": {
+        "name": "Shape Up",
+        "url": "https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "duration_ms": 213613,
+      "name": "Carry Anne",
+      "url": "https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm"
+    },
+    {
+      "added_at": "2022-08-01 04:00:00",
+      "album": {
         "name": "Sneaky Link Shemix",
         "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 98795,
       "name": "Sneaky Link Shemix",
       "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
-    },
-    {
-      "added_at": "2022-08-01 04:00:00",
-      "album": {
-        "name": "Shape Up",
-        "url": "https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi"
-      },
-      "artists": [
-        {
-          "name": "Leikeli47",
-          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
-        }
-      ],
-      "duration_ms": 213613,
-      "name": "Carry Anne",
-      "url": "https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm"
     },
     {
       "added_at": "2022-08-01 04:00:00",

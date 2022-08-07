@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Gambi au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,764 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,512 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 19 | [Beretta](https://open.spotify.com/track/3K1H0IDdVpvwEbKicv0vfk) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 3:36 |
 | 20 | [Dans le Réseau](https://open.spotify.com/track/6D5R8LKkeTmQveLoUKrK0D) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Dans le Réseau](https://open.spotify.com/album/4V2hxSDKR1ftk7AUybMAQG) | 2:24 |
 | 21 | [N.I](https://open.spotify.com/track/4H1CfsnXQonWnJeHzHuVUz) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [N.I](https://open.spotify.com/album/0LsSz4wemYvMIr5l0AUUR9) | 2:59 |
-| 22 | [Redescends](https://open.spotify.com/track/1kXFslzdPEkOs5QC5GkdN4) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends](https://open.spotify.com/album/5lmmRtv80XbKm3EqS1AReB) | 2:39 |
+| 22 | [Redescends \(feat Tiakola\)](https://open.spotify.com/track/0hveTnaqO8nXDMwwsJGJI3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends \(feat Tiakola\)](https://open.spotify.com/album/4KaUWIjzjEyF5KZTKcHQCh) | 2:39 |
 | 23 | [AQUA](https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [AQUA](https://open.spotify.com/album/3m7eqvX5vta22BqOYUDahn) | 2:35 |
 | 24 | [Fixette](https://open.spotify.com/track/5sLfmuQHJtPjSORQF2sbrJ) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Fixette](https://open.spotify.com/album/6Y4OKe6gdIgxaVfJrASQzE) | 3:33 |
 | 25 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Parapluie \(feat\. Maes\)](https://open.spotify.com/track/7AXGvNJ6kcnMuNhE9KhvaI) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [A l'aube](https://open.spotify.com/album/09ObghqbDSf17hSctgsO2Z) | 3:14 |
 | 40 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 |
 
-Snapshot ID: `MTY1OTY1MDQwMCwwMDAwMDAwMDE5MWNhMDdlYmJhOTA3ZTBhNjc1MGFkNDdiNzc1ZjI3`
+Snapshot ID: `MTY1OTY1MDQwMCwwMDAwMDAwMDI0YzEyMDE1ZDY0NDJmYWYzNjlkYjAyYjdhOWY0NzU0`

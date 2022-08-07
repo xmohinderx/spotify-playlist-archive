@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 4324,
+  "num_followers": 4326,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUwOTgyNywwMDAwMDAwMDk5ZDg2MjI1M2JmOTNiYjYzZjI1YTA5NzhkYmE3YWI0",
+  "snapshot_id": "MTY1OTUwOTgyNywwMDAwMDAwMDk5ZmJmYmJkODBiNDFmZGRhY2E4ODI0MDE3YTY2NTkz",
   "tracks": [
     {
       "added_at": "2022-08-03 06:57:07",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-08-03 06:57:07",
       "album": {
-        "name": "WHISTLE",
-        "url": "https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 172177,
-      "name": "WHISTLE",
-      "url": "https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut"
-    },
-    {
-      "added_at": "2022-08-03 06:57:07",
-      "album": {
         "name": "HALO",
         "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 233013,
       "name": "Til I Die",
       "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
+    },
+    {
+      "added_at": "2022-08-03 06:57:07",
+      "album": {
+        "name": "WHISTLE",
+        "url": "https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "duration_ms": 172177,
+      "name": "WHISTLE",
+      "url": "https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut"
     },
     {
       "added_at": "2022-08-03 06:57:07",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-08-03 06:57:07",
       "album": {
-        "name": "Never give up, Pt. 6 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "My dream",
-      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
-    },
-    {
-      "added_at": "2022-08-03 06:57:07",
-      "album": {
         "name": "Future Boy",
         "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 124263,
       "name": "Future Boy",
       "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
+    },
+    {
+      "added_at": "2022-08-03 06:57:07",
+      "album": {
+        "name": "Never give up, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "My dream",
+      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
     },
     {
       "added_at": "2022-08-03 06:57:07",

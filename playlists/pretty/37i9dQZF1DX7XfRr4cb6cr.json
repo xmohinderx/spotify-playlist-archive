@@ -1,12 +1,12 @@
 {
   "description": "Hymns for darker hours.",
-  "num_followers": 44586,
+  "num_followers": 44754,
   "original_name": "Dark Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzY0MiwwMDAwMDAwMGVkOTM1MGY0ZmMxNzVlNTcwYjVlZjJjMTk3OWQ5YzA1",
+  "snapshot_id": "MTY1OTcxNzY0MiwwMDAwMDAwMGNmYjRkNzNhYjljOWM2ZmRhNzUzZTFjMGE3YjkxZjli",
   "tracks": [
     {
       "added_at": "2022-08-05 16:40:42",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-05 16:40:42",
       "album": {
-        "name": "Hyna Ruje",
-        "url": "https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 338431,
-      "name": "Hyna Ruje",
-      "url": "https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n"
-    },
-    {
-      "added_at": "2022-08-05 16:40:42",
-      "album": {
         "name": "The Walk (Piano Noir Rework)",
         "url": "https://open.spotify.com/album/3bXyE5FNCRHuHwWT6Vx4OL"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 274666,
       "name": "The Walk - Piano Noir Rework",
       "url": "https://open.spotify.com/track/52oDFJBhX0QMwUiPUFIl1p"
+    },
+    {
+      "added_at": "2022-08-05 16:40:42",
+      "album": {
+        "name": "Hyna Ruje",
+        "url": "https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 338431,
+      "name": "Hyna Ruje",
+      "url": "https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -514,15 +514,27 @@
         {
           "name": "Space Afrika",
           "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
-        },
-        {
-          "name": "HforSpirit",
-          "url": "https://open.spotify.com/artist/3EFHV7IDQxHCNlFljVrMUu"
         }
       ],
-      "duration_ms": 231592,
-      "name": "Honest Labour (feat. HforSpirit)",
-      "url": "https://open.spotify.com/track/3reCdVXmx9UVQlLhzqAh8H"
+      "duration_ms": 126259,
+      "name": "Meet Me At Sachas",
+      "url": "https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm"
+    },
+    {
+      "added_at": "2022-08-05 16:40:42",
+      "album": {
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -543,22 +555,6 @@
       "duration_ms": 267871,
       "name": "Enerhodar",
       "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
-    },
-    {
-      "added_at": "2022-08-05 16:40:42",
-      "album": {
-        "name": "Our True Nature",
-        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        }
-      ],
-      "duration_ms": 343666,
-      "name": "Abandoned Places",
-      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -610,11 +606,15 @@
         {
           "name": "Space Afrika",
           "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+        },
+        {
+          "name": "HforSpirit",
+          "url": "https://open.spotify.com/artist/3EFHV7IDQxHCNlFljVrMUu"
         }
       ],
-      "duration_ms": 126259,
-      "name": "Meet Me At Sachas",
-      "url": "https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm"
+      "duration_ms": 231592,
+      "name": "Honest Labour (feat. HforSpirit)",
+      "url": "https://open.spotify.com/track/3reCdVXmx9UVQlLhzqAh8H"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-08-05 16:40:42",
       "album": {
-        "name": "That Kind Of Faint Hope / Excerpts, Outtakes & Radio Edits",
-        "url": "https://open.spotify.com/album/2DsMCUTjNIg5VV9yp4DuG0"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Amara",
-          "url": "https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9"
-        }
-      ],
-      "duration_ms": 188875,
-      "name": "Piano II",
-      "url": "https://open.spotify.com/track/5Vo3BHCbOgELMAsxLayMZr"
-    },
-    {
-      "added_at": "2022-08-05 16:40:42",
-      "album": {
         "name": "The Practice Of Surrender",
         "url": "https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 300521,
       "name": "Vi \u00e4r \u00f6verallt",
       "url": "https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG"
+    },
+    {
+      "added_at": "2022-08-05 16:40:42",
+      "album": {
+        "name": "That Kind Of Faint Hope / Excerpts, Outtakes & Radio Edits",
+        "url": "https://open.spotify.com/album/2DsMCUTjNIg5VV9yp4DuG0"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Amara",
+          "url": "https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9"
+        }
+      ],
+      "duration_ms": 188875,
+      "name": "Piano II",
+      "url": "https://open.spotify.com/track/5Vo3BHCbOgELMAsxLayMZr"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -723,22 +723,6 @@
       "duration_ms": 196634,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8"
-    },
-    {
-      "added_at": "2022-08-05 16:40:42",
-      "album": {
-        "name": "All We Can't See / An Image",
-        "url": "https://open.spotify.com/album/6LU399jo756EUFEHFQDhJF"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 116013,
-      "name": "All We Can't See",
-      "url": "https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -775,6 +759,22 @@
       "duration_ms": 241663,
       "name": "Gleam - Stilhed Rework",
       "url": "https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu"
+    },
+    {
+      "added_at": "2022-08-05 16:40:42",
+      "album": {
+        "name": "All We Can't See / An Image",
+        "url": "https://open.spotify.com/album/6LU399jo756EUFEHFQDhJF"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 116013,
+      "name": "All We Can't See",
+      "url": "https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-05 16:40:42",
       "album": {
-        "name": "Waves (Oliver Doerell & Helga Raimondi Rework)",
-        "url": "https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB"
-      },
-      "artists": [
-        {
-          "name": "Vetle N\u00e6r\u00f8",
-          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
-        }
-      ],
-      "duration_ms": 314454,
-      "name": "Waves - Oliver Doerell & Helga Raimondi Rework",
-      "url": "https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4"
-    },
-    {
-      "added_at": "2022-08-05 16:40:42",
-      "album": {
         "name": "0011000",
         "url": "https://open.spotify.com/album/62nXuvzH4ECThotjQqPAhI"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 508000,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws"
+    },
+    {
+      "added_at": "2022-08-05 16:40:42",
+      "album": {
+        "name": "Waves (Oliver Doerell & Helga Raimondi Rework)",
+        "url": "https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB"
+      },
+      "artists": [
+        {
+          "name": "Vetle N\u00e6r\u00f8",
+          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
+        }
+      ],
+      "duration_ms": 314454,
+      "name": "Waves - Oliver Doerell & Helga Raimondi Rework",
+      "url": "https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-08-05 16:40:42",
       "album": {
-        "name": "Shadow Box",
-        "url": "https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T"
-      },
-      "artists": [
-        {
-          "name": "Vanity Productions",
-          "url": "https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI"
-        }
-      ],
-      "duration_ms": 518000,
-      "name": "Melts All Your Memories",
-      "url": "https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I"
-    },
-    {
-      "added_at": "2022-08-05 16:40:42",
-      "album": {
         "name": "Quarter Turns over a Living Line",
         "url": "https://open.spotify.com/album/7C5ER3q2bZF6ZH3nVkhQwg"
       },
@@ -951,6 +935,38 @@
       "duration_ms": 270260,
       "name": "Passed over Trail",
       "url": "https://open.spotify.com/track/4IsZMk8X6etGsQB9fFB2U9"
+    },
+    {
+      "added_at": "2022-08-05 16:40:42",
+      "album": {
+        "name": "Stumhetens toner",
+        "url": "https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd"
+      },
+      "artists": [
+        {
+          "name": "Isorinne",
+          "url": "https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc"
+        }
+      ],
+      "duration_ms": 304832,
+      "name": "T\u00e5rl\u00f6s sorg",
+      "url": "https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f"
+    },
+    {
+      "added_at": "2022-08-05 16:40:42",
+      "album": {
+        "name": "Shadow Box",
+        "url": "https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T"
+      },
+      "artists": [
+        {
+          "name": "Vanity Productions",
+          "url": "https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI"
+        }
+      ],
+      "duration_ms": 518000,
+      "name": "Melts All Your Memories",
+      "url": "https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -975,22 +991,6 @@
     {
       "added_at": "2022-08-05 16:40:42",
       "album": {
-        "name": "Stumhetens toner",
-        "url": "https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd"
-      },
-      "artists": [
-        {
-          "name": "Isorinne",
-          "url": "https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc"
-        }
-      ],
-      "duration_ms": 304832,
-      "name": "T\u00e5rl\u00f6s sorg",
-      "url": "https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f"
-    },
-    {
-      "added_at": "2022-08-05 16:40:42",
-      "album": {
         "name": "Bardo Landscape",
         "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 203424,
       "name": "Bardo Landscape",
       "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
-    },
-    {
-      "added_at": "2022-08-05 16:40:42",
-      "album": {
-        "name": "is this nature escape",
-        "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
-      },
-      "artists": [
-        {
-          "name": "Katharine Petkovski",
-          "url": "https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA"
-        }
-      ],
-      "duration_ms": 212848,
-      "name": "is this nature escape",
-      "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2022-08-05 16:40:42",
       "album": {
-        "name": "Slowdown",
-        "url": "https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y"
+        "name": "is this nature escape",
+        "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
       },
       "artists": [
         {
-          "name": "Thomas Brett",
-          "url": "https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz"
+          "name": "Katharine Petkovski",
+          "url": "https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA"
         }
       ],
-      "duration_ms": 497009,
-      "name": "Slowdown",
-      "url": "https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM"
+      "duration_ms": 212848,
+      "name": "is this nature escape",
+      "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2022-08-05 16:40:42",
       "album": {
-        "name": "Grafts (Expanded Reissue)",
-        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
+        "name": "Slowdown",
+        "url": "https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y"
       },
       "artists": [
         {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+          "name": "Thomas Brett",
+          "url": "https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz"
         }
       ],
-      "duration_ms": 617500,
-      "name": "Moments In Love",
-      "url": "https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd"
+      "duration_ms": 497009,
+      "name": "Slowdown",
+      "url": "https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -1103,6 +1087,22 @@
       "duration_ms": 176000,
       "name": "Floor Position",
       "url": "https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1"
+    },
+    {
+      "added_at": "2022-08-05 16:40:42",
+      "album": {
+        "name": "Grafts (Expanded Reissue)",
+        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 617500,
+      "name": "Moments In Love",
+      "url": "https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-08-05 16:40:42",
       "album": {
-        "name": "Northern Spirit",
-        "url": "https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL"
-      },
-      "artists": [
-        {
-          "name": "Alyas",
-          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Northern Spirit",
-      "url": "https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ"
-    },
-    {
-      "added_at": "2022-08-05 16:40:42",
-      "album": {
         "name": "Landing in the Dark",
         "url": "https://open.spotify.com/album/5hikXXB7OtS3LS19ge7J6w"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 264343,
       "name": "Landing in the Dark",
       "url": "https://open.spotify.com/track/4b1KcrVXtUox5yDx23BSYw"
+    },
+    {
+      "added_at": "2022-08-05 16:40:42",
+      "album": {
+        "name": "Northern Spirit",
+        "url": "https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL"
+      },
+      "artists": [
+        {
+          "name": "Alyas",
+          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Northern Spirit",
+      "url": "https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ"
     },
     {
       "added_at": "2022-08-05 16:40:42",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-08-05 16:40:42",
       "album": {
-        "name": "Only Love From Now On",
-        "url": "https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 302400,
-      "name": "Future Memory",
-      "url": "https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ"
-    },
-    {
-      "added_at": "2022-08-05 16:40:42",
-      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 564100,
       "name": "Saints And Sinners",
       "url": "https://open.spotify.com/track/1d2NFYfJCzOdv0wJal2ecV"
+    },
+    {
+      "added_at": "2022-08-05 16:40:42",
+      "album": {
+        "name": "Only Love From Now On",
+        "url": "https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "duration_ms": 302400,
+      "name": "Future Memory",
+      "url": "https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ"
     }
   ],
   "unique_name": "Dark Ambient",

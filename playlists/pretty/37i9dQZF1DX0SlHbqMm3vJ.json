@@ -1,12 +1,12 @@
 {
   "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists.",
-  "num_followers": 157383,
+  "num_followers": 157503,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4MzQwNSwwMDAwMDAwMGEyZjQ3ZDllNjc3NmRlZGY4ZGQ3YmJiYzdlZTc1YTE2",
+  "snapshot_id": "MTY1OTY4MzQwNSwwMDAwMDAwMGFjN2U2ZjZlYjczN2IzZjI0YWI1NzkyNzhhY2IzOTAw",
   "tracks": [
     {
       "added_at": "2022-05-12 23:00:00",
@@ -481,6 +481,26 @@
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
     },
     {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 262973,
+      "name": "Blessed (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
+    },
+    {
       "added_at": "2022-03-11 00:00:00",
       "album": {
         "name": "Beauty In The Madness",
@@ -503,26 +523,6 @@
       "duration_ms": 223668,
       "name": "Beauty In The Madness",
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Blessed (feat. Damian Marley)",
-      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/5PHyvWrp5vtBS8lma8IWRo"
     },
     {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Fashion Killer",
-      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
-    },
-    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Ijo (Laba Laba)",
@@ -591,6 +575,22 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Fashion Killer",
+      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
       "added_at": "2022-08-05 07:10:05",
@@ -609,20 +609,28 @@
       "url": "https://open.spotify.com/track/2S5dAgNweHQogi41SuAdkf"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
+      "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "EX BOYFRIEND",
-        "url": "https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "Raybekah",
-          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 134546,
-      "name": "EX BOYFRIEND",
-      "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
+      "duration_ms": 247333,
+      "name": "True Love (feat. Tay Iwar & Projexx)",
+      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -685,28 +693,20 @@
       "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
     },
     {
-      "added_at": "2022-01-21 06:44:52",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+        "name": "EX BOYFRIEND",
+        "url": "https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq"
       },
       "artists": [
         {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
         }
       ],
-      "duration_ms": 247333,
-      "name": "True Love (feat. Tay Iwar & Projexx)",
-      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
+      "duration_ms": 134546,
+      "name": "EX BOYFRIEND",
+      "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
     },
     {
       "added_at": "2022-03-31 23:00:00",
@@ -1221,6 +1221,26 @@
       "url": "https://open.spotify.com/track/6L0owZVOkCYYajP9ChDHdX"
     },
     {
+      "added_at": "2022-07-22 04:14:23",
+      "album": {
+        "name": "Wickedest (feat. Haile)",
+        "url": "https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Haile",
+          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
+        }
+      ],
+      "duration_ms": 195976,
+      "name": "Wickedest (feat. Haile)",
+      "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"
+    },
+    {
       "added_at": "2022-01-21 06:44:52",
       "album": {
         "name": "Seed - EP",
@@ -1255,26 +1275,6 @@
       "duration_ms": 190993,
       "name": "Balance",
       "url": "https://open.spotify.com/track/2GWkmTjlEtBN6n6POjqLWP"
-    },
-    {
-      "added_at": "2022-07-22 04:14:23",
-      "album": {
-        "name": "Wickedest (feat. Haile)",
-        "url": "https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Haile",
-          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
-        }
-      ],
-      "duration_ms": 195976,
-      "name": "Wickedest (feat. Haile)",
-      "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -1477,24 +1477,20 @@
       "url": "https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b"
     },
     {
-      "added_at": "2022-01-21 06:44:52",
+      "added_at": "2022-08-05 07:10:05",
       "album": {
-        "name": "Back 2 Basics",
-        "url": "https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB"
+        "name": "Personal Baby",
+        "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 183499,
-      "name": "Tinkerbell (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"
+      "duration_ms": 173646,
+      "name": "Personal Baby",
+      "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
     }
   ],
   "unique_name": "Ginger Me",

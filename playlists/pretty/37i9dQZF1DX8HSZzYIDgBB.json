@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Pahua en portada.",
-  "num_followers": 23518,
+  "num_followers": 23557,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3Nzk4NywwMDAwMDAwMGE2MzM2NzY5YTE2ZTAxMTQ5MGY5OTllMmE3MDkxNjA2",
+  "snapshot_id": "MTY1OTQ3Nzk4NywwMDAwMDAwMDEzMmU1ZjYyYmU2OTQzMGNjY2NhYzAxOWY2MGU0OTFi",
   "tracks": [
     {
       "added_at": "2021-10-05 16:26:53",
@@ -157,74 +157,6 @@
       "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "El Traketeo",
-        "url": "https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 202368,
-      "name": "El Traketeo",
-      "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
-    },
-    {
-      "added_at": "2022-07-13 15:48:37",
-      "album": {
-        "name": "Siempre Sim\u00f3n y Nunca Nel",
-        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 241616,
-      "name": "Siempre Sim\u00f3n y Nunca Nel",
-      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
-    },
-    {
-      "added_at": "2022-05-27 19:08:44",
-      "album": {
-        "name": "EP II",
-        "url": "https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 223482,
-      "name": "T\u00e1rtaro",
-      "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
-    },
-    {
       "added_at": "2022-07-11 18:35:10",
       "album": {
         "name": "Morena",
@@ -247,6 +179,74 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "El Traketeo",
+        "url": "https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "El Traketeo",
+      "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp"
+    },
+    {
+      "added_at": "2022-05-27 19:08:44",
+      "album": {
+        "name": "EP II",
+        "url": "https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 223482,
+      "name": "T\u00e1rtaro",
+      "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
+    },
+    {
+      "added_at": "2022-07-13 15:48:37",
+      "album": {
+        "name": "Siempre Sim\u00f3n y Nunca Nel",
+        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 241616,
+      "name": "Siempre Sim\u00f3n y Nunca Nel",
+      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
     },
     {
+      "added_at": "2022-07-11 18:36:36",
+      "album": {
+        "name": "Me mandaron por tortillas",
+        "url": "https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Me mandaron por tortillas",
+      "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
+    },
+    {
       "added_at": "2022-04-20 05:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -337,26 +353,6 @@
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
-      "added_at": "2022-06-24 16:07:34",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "M\u00fasica Para Pick Up",
@@ -377,6 +373,26 @@
       "url": "https://open.spotify.com/track/1lTgSM8RrTANbfPwx9ipif"
     },
     {
+      "added_at": "2022-06-24 16:07:34",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
       "added_at": "2022-02-15 01:38:18",
       "album": {
         "name": "Tempo",
@@ -391,22 +407,6 @@
       "duration_ms": 145746,
       "name": "Oiseau Sauvage",
       "url": "https://open.spotify.com/track/0A48wzUVDrN0t3JaOrui2a"
-    },
-    {
-      "added_at": "2022-07-11 18:36:36",
-      "album": {
-        "name": "Me mandaron por tortillas",
-        "url": "https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Me mandaron por tortillas",
-      "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
-    },
-    {
       "added_at": "2021-11-12 02:37:14",
       "album": {
         "name": "Aguaepanela Fant\u00e1stica",
@@ -643,6 +627,22 @@
       "duration_ms": 255227,
       "name": "Aguaepanela Fant\u00e1stica",
       "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
     },
     {
       "added_at": "2022-04-20 18:21:19",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "donde nadie m\u00e1s Respira",
-        "url": "https://open.spotify.com/album/4GNjJLSkWed2DAg8fI6AsE"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 190204,
-      "name": "donde nadie m\u00e1s Respira",
-      "url": "https://open.spotify.com/track/704ciKlOY43h1RU5DMtJgD"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 189778,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "donde nadie m\u00e1s Respira",
+        "url": "https://open.spotify.com/album/4GNjJLSkWed2DAg8fI6AsE"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 190204,
+      "name": "donde nadie m\u00e1s Respira",
+      "url": "https://open.spotify.com/track/704ciKlOY43h1RU5DMtJgD"
     },
     {
       "added_at": "2022-03-30 03:09:53",
@@ -945,26 +945,6 @@
       "url": "https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu"
     },
     {
-      "added_at": "2022-02-25 02:12:10",
-      "album": {
-        "name": "Para todo mal",
-        "url": "https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3"
-      },
-      "artists": [
-        {
-          "name": "La Furia con Lujuria Sonidera",
-          "url": "https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU"
-        },
-        {
-          "name": "Dr. Shenka",
-          "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
-        }
-      ],
-      "duration_ms": 240871,
-      "name": "Para todo mal",
-      "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
-    },
-    {
       "added_at": "2022-02-18 04:21:33",
       "album": {
         "name": "De los L\u00edmites",
@@ -983,6 +963,26 @@
       "duration_ms": 253591,
       "name": "De los L\u00edmites",
       "url": "https://open.spotify.com/track/0v3lS1moJvRrPHrULPTWNf"
+    },
+    {
+      "added_at": "2022-02-25 02:12:10",
+      "album": {
+        "name": "Para todo mal",
+        "url": "https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3"
+      },
+      "artists": [
+        {
+          "name": "La Furia con Lujuria Sonidera",
+          "url": "https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU"
+        },
+        {
+          "name": "Dr. Shenka",
+          "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
+        }
+      ],
+      "duration_ms": 240871,
+      "name": "Para todo mal",
+      "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "\u00datera",
-        "url": "https://open.spotify.com/album/0t49uyMILALgWUltHuraYc"
-      },
-      "artists": [
-        {
-          "name": "Kaleema",
-          "url": "https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW"
-        }
-      ],
-      "duration_ms": 250769,
-      "name": "Portales",
-      "url": "https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3"
-    },
-    {
       "added_at": "2022-07-25 03:37:28",
       "album": {
         "name": "Contenta",
@@ -1359,6 +1343,22 @@
       "duration_ms": 215347,
       "name": "Contenta",
       "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "\u00datera",
+        "url": "https://open.spotify.com/album/0t49uyMILALgWUltHuraYc"
+      },
+      "artists": [
+        {
+          "name": "Kaleema",
+          "url": "https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW"
+        }
+      ],
+      "duration_ms": 250769,
+      "name": "Portales",
+      "url": "https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Coidar dunhas Colmeas",
-        "url": "https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9boa",
-          "url": "https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8"
-        }
-      ],
-      "duration_ms": 238069,
-      "name": "Coidar dunhas Colmeas",
-      "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
         "name": "El Cabr\u00f3n",
         "url": "https://open.spotify.com/album/3408tnJWJPhB79M3m1wJnq"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 222333,
       "name": "El Cabr\u00f3n - Radio Edit",
       "url": "https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Coidar dunhas Colmeas",
+        "url": "https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9boa",
+          "url": "https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8"
+        }
+      ],
+      "duration_ms": 238069,
+      "name": "Coidar dunhas Colmeas",
+      "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
     },
     {
       "added_at": "2021-10-05 16:26:53",

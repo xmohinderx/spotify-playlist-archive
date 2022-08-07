@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 108008,
+  "num_followers": 108074,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyODgwMCwwMDAwMDAwMDUxMjc2NDg0MGE1ZTkwOTI4N2JiYzg2YWYxMWJmZWUy",
+  "snapshot_id": "MTY1OTYyODgwMCwwMDAwMDAwMDc4ZDViYTBlZjZlYmE1YjUwNTIwMzQ3YmNlODA3NWQ1",
   "tracks": [
     {
       "added_at": "2022-08-04 16:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
+        "name": "\u6177\u6168",
+        "url": "https://open.spotify.com/album/2FGVVZHWr2Fs3iaUz2wIYg"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "duration_ms": 274022,
+      "name": "\u6177\u6168",
+      "url": "https://open.spotify.com/track/5JowA7cy6M1j3Wv6hhmKsC"
+    },
+    {
+      "added_at": "2022-08-04 16:00:00",
+      "album": {
         "name": "\u4f60\u8981\u7684\u611b (\u5fc3\u52d5\u7248)",
         "url": "https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a"
       },
@@ -155,18 +171,18 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "\u6177\u6168",
-        "url": "https://open.spotify.com/album/2FGVVZHWr2Fs3iaUz2wIYg"
+        "name": "\u623f\u9593\u88e1\u7684\u5927\u8c61",
+        "url": "https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG"
       },
       "artists": [
         {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
         }
       ],
-      "duration_ms": 274022,
-      "name": "\u6177\u6168",
-      "url": "https://open.spotify.com/track/5JowA7cy6M1j3Wv6hhmKsC"
+      "duration_ms": 205371,
+      "name": "\u6b63\u60f3\u8457\u4f60\u5462",
+      "url": "https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -183,22 +199,6 @@
       "duration_ms": 277800,
       "name": "\u61f8\u65e5",
       "url": "https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf"
-    },
-    {
-      "added_at": "2022-08-04 16:00:00",
-      "album": {
-        "name": "\u623f\u9593\u88e1\u7684\u5927\u8c61",
-        "url": "https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG"
-      },
-      "artists": [
-        {
-          "name": "Chih Siou",
-          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
-        }
-      ],
-      "duration_ms": 205371,
-      "name": "\u6b63\u60f3\u8457\u4f60\u5462",
-      "url": "https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "The Joy Of Sorrow",
-        "url": "https://open.spotify.com/album/0xShV7TaXhCZ2WTwwFtwT9"
-      },
-      "artists": [
-        {
-          "name": "\u67ef\u667a\u68e0",
-          "url": "https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd"
-        }
-      ],
-      "duration_ms": 207434,
-      "name": "The Joy Of Sorrow",
-      "url": "https://open.spotify.com/track/78oPAwgoMFL9QxnueTuNwy"
-    },
-    {
-      "added_at": "2022-08-04 16:00:00",
-      "album": {
         "name": "\u504f\u504f\u6211\u537b\u90fd\u8a18\u5f97",
         "url": "https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 287010,
       "name": "\u6211\u591a\u60f3\u8b8a\u6210\u5979",
       "url": "https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz"
+    },
+    {
+      "added_at": "2022-08-04 16:00:00",
+      "album": {
+        "name": "The Joy Of Sorrow",
+        "url": "https://open.spotify.com/album/0xShV7TaXhCZ2WTwwFtwT9"
+      },
+      "artists": [
+        {
+          "name": "\u67ef\u667a\u68e0",
+          "url": "https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd"
+        }
+      ],
+      "duration_ms": 207434,
+      "name": "The Joy Of Sorrow",
+      "url": "https://open.spotify.com/track/78oPAwgoMFL9QxnueTuNwy"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "\u7121\u4eba\u77e5\u66c9",
-        "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "\u7686\u53ef",
-      "url": "https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR"
-    },
-    {
-      "added_at": "2022-08-04 16:00:00",
-      "album": {
         "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
         "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
+        "name": "\u7121\u4eba\u77e5\u66c9",
+        "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "\u7686\u53ef",
+      "url": "https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR"
+    },
+    {
+      "added_at": "2022-08-04 16:00:00",
+      "album": {
         "name": "\u6211\u9019\u500b\u4eba (\u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 290022,
       "name": "\u6211\u9019\u500b\u4eba - \u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24"
+    },
+    {
+      "added_at": "2022-08-04 16:00:00",
+      "album": {
+        "name": "!!!!",
+        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
+      },
+      "artists": [
+        {
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+        }
+      ],
+      "duration_ms": 216689,
+      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
+      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -463,22 +479,6 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "!!!!",
-        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
-      },
-      "artists": [
-        {
-          "name": "Chih Siou",
-          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
-        }
-      ],
-      "duration_ms": 216689,
-      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
-      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
-    },
-    {
-      "added_at": "2022-08-04 16:00:00",
-      "album": {
         "name": "\u76f8\u53cd\u7684\u662f",
         "url": "https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 247324,
       "name": "\u597d\u5f37",
       "url": "https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC"
+    },
+    {
+      "added_at": "2022-08-04 16:00:00",
+      "album": {
+        "name": "\u518a\u8449\u4e00:\u4e00\u8207\u4e00",
+        "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u9752\u5cf0",
+          "url": "https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8"
+        }
+      ],
+      "duration_ms": 295025,
+      "name": "\u5e74\u8f2a\u8aaa",
+      "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -511,22 +527,6 @@
       "duration_ms": 189176,
       "name": "\u670b\u53cb (feat. \u58de\u7279 ?te)",
       "url": "https://open.spotify.com/track/3cfBqHxoVxSx65sNZwazzx"
-    },
-    {
-      "added_at": "2022-08-04 16:00:00",
-      "album": {
-        "name": "\u518a\u8449\u4e00:\u4e00\u8207\u4e00",
-        "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
-      },
-      "artists": [
-        {
-          "name": "\u5433\u9752\u5cf0",
-          "url": "https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8"
-        }
-      ],
-      "duration_ms": 295025,
-      "name": "\u5e74\u8f2a\u8aaa",
-      "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "\u96d9\u68f2\u52d5\u7269",
-        "url": "https://open.spotify.com/album/6g9c1fHNzNIVHZPP9YpDaF"
-      },
-      "artists": [
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "duration_ms": 293833,
-      "name": "\u96d9\u68f2\u52d5\u7269",
-      "url": "https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d"
-    },
-    {
-      "added_at": "2022-08-04 16:00:00",
-      "album": {
         "name": "\u73fe\u5728\u662f\u4ec0\u9ebc\u6642\u8fb0\u4e86",
         "url": "https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 239711,
       "name": "\u73fe\u5728\u662f\u4ec0\u9ebc\u6642\u8fb0\u4e86",
       "url": "https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx"
+    },
+    {
+      "added_at": "2022-08-04 16:00:00",
+      "album": {
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "\u966a\u8457\u4f60",
+      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+        "name": "\u96d9\u68f2\u52d5\u7269",
+        "url": "https://open.spotify.com/album/6g9c1fHNzNIVHZPP9YpDaF"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
         }
       ],
-      "duration_ms": 310933,
-      "name": "\u966a\u8457\u4f60",
-      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
+      "duration_ms": 293833,
+      "name": "\u96d9\u68f2\u52d5\u7269",
+      "url": "https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d"
     },
     {
       "added_at": "2022-08-04 16:00:00",

@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-505 songs - 1 day 6 hr 58 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+506 songs - 1 day 7 hr 1 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [ELECTRICITY](https://open.spotify.com/track/45evb9qLvaZipMbpwIz9eN) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [ELECTRICITY](https://open.spotify.com/album/335otQsODkCfcukSFGUYoG) | 3:30 | 2021-07-19 | 2022-04-09 |
 | [End Summer](https://open.spotify.com/track/1OQEF0LsL7KMQmBZSiUcdE) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Mt\. Bachelor](https://open.spotify.com/album/5bFaZT8zirGQc0VmiL3uty) | 4:30 | 2020-10-05\* | 2022-05-24 |
 | [Estrangers](https://open.spotify.com/track/1yZxKqkxctrFSkCXb8BLKV) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Estrangers](https://open.spotify.com/album/1rAPIqo0fRO0QiBiBLpmvS) | 3:19 | 2020-10-05\* | 2022-04-10 |
-| [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2022-06-01 |  |
+| [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2022-06-01 | 2022-08-07 |
 | [Eventually](https://open.spotify.com/track/4IwbqQGvPYSJBSK5HhuPnF) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Eventually](https://open.spotify.com/album/6sVYppY4S9GYbjqU45jgsZ) | 2:41 | 2021-06-04 | 2022-04-03 |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 | 2020-10-16 | 2022-04-09 |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 | 2022-07-25 |  |
@@ -203,6 +203,7 @@
 | [Gone](https://open.spotify.com/track/2f8Rbm4F9RtcO3KubofP6N) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/7FSIgCkJqoayiLPaNvmESo) | 3:32 | 2021-05-04 | 2022-04-16 |
 | [Gonna Be](https://open.spotify.com/track/0RaSHv2oNQAVYjpPpejdTN) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI), [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y) | [Son](https://open.spotify.com/album/2jotDXhKd5px6kOEaxPUcK) | 4:11 | 2021-11-19 | 2022-07-29 |
 | [good connection](https://open.spotify.com/track/6SdjacnbT4YCCTSZ4kZM23) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [good connection](https://open.spotify.com/album/055Lz66jZK65hYlxnyWSfF) | 2:35 | 2021-06-04 | 2022-04-02 |
+| [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 | 2022-08-05 |  |
 | [Gretel](https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 3:10 | 2022-05-31 | 2022-06-01 |
 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 | 2020-10-16 | 2022-04-17 |
 | [Half Life](https://open.spotify.com/track/3Rmld8jmFs7VbpeeGrNrDt) | [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Half Life](https://open.spotify.com/album/0hN61WMhZ4dPKR6ReAj0UO) | 3:07 | 2021-06-04 | 2022-07-29 |

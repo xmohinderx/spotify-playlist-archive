@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-205 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
+206 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Báilame](https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Báilame](https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1) | 2:59 | 2022-04-08 |  |
 | [Bésame Morenita](https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Tú](https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc) | 3:15 | 2022-04-08 |  |
 | [Cajita De Cartón](https://open.spotify.com/track/2PxkdGhTb8VLY9M2ImvGZD) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Siempre Latino Vol\. 2](https://open.spotify.com/album/2biVVTc1nnyO1UdLKfUROk) | 3:03 | 2022-04-08 |  |
+| [Celoso](https://open.spotify.com/track/0xU51LYplHOaoMZBVEyK56) | [Secretto](https://open.spotify.com/artist/5xYXMAIUWaDlx0HCYFWiek) | [Celoso](https://open.spotify.com/album/2RlJUly5goABBFR5bXKSFv) | 3:21 | 2022-04-08 |  |
 | [Celoso](https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Celoso](https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj) | 3:21 | 2022-04-08 | 2022-08-03 |
 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 | 2022-04-08 |  |
 | [Chiquilla Cariñosa](https://open.spotify.com/track/2UV1TAfnGEITP4xspHUcBG) | [Los Rancheritos Del Topo Chico](https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv) | [15 Exitos](https://open.spotify.com/album/6niRn6fcyQMbjHbtySnT08) | 2:26 | 2022-04-08 |  |
@@ -98,7 +99,7 @@
 | [Huapangos De Barrio \- En Vivo](https://open.spotify.com/track/2TCBdixeX6MvqCxfvhslhE) | [Antidoto](https://open.spotify.com/artist/2DyXcyLK08q2b7UpBpKIyr) | [Huapangos De Barrio \(En Vivo\)](https://open.spotify.com/album/23v3ofFxa0A2gJZcwfOggx) | 4:20 | 2022-04-08 | 2022-07-29 |
 | [Huapangos Perros](https://open.spotify.com/track/0gur2lhu5GZlSWzgm6JPjy) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH) | 5:09 | 2022-04-08 |  |
 | [Huapangos Perros](https://open.spotify.com/track/1MVngYgNoqiISUr26Pht4n) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/58cA3whU8aeZpjqKLNuZvM) | 5:09 | 2022-04-08 | 2022-07-29 |
-| [Huapangos popurrí](https://open.spotify.com/track/0uVWICxtZLCsSmahudDYIi) | [Estilo Chihuahua](https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw) | [Simple y Sencillamente](https://open.spotify.com/album/5gUXeDZJNSAbv8Kdwytqht) | 5:14 | 2022-04-08 |  |
+| [Huapangos popurrí](https://open.spotify.com/track/0uVWICxtZLCsSmahudDYIi) | [Estilo Chihuahua](https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw) | [Simple y Sencillamente](https://open.spotify.com/album/5gUXeDZJNSAbv8Kdwytqht) | 5:14 | 2022-04-08 | 2022-08-07 |
 | [Jambalaya](https://open.spotify.com/track/35iVqFnqmcqbIckOYoFnrn) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Arrasando Con Fuego](https://open.spotify.com/album/4gDcs5NsKydsBzvcskgs2g) | 2:35 | 2022-04-08 |  |
 | [Jambalaya](https://open.spotify.com/track/1MDa6p9XrN9IMvKqS4PEm3) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 2:37 | 2022-04-08 | 2022-07-29 |
 | [Jinetes en el Cielo](https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Desquítate Conmigo](https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S) | 3:30 | 2022-04-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mari Fernandez e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,836 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,858 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 14 | [Homem É Tudo Igual \- Ao Vivo](https://open.spotify.com/track/0FV4eVWzSAglihmcJPECiE) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Bar Das Coleguinhas 2](https://open.spotify.com/album/6o7dyRbOOXaXH6SPbrJyFO) | 2:24 |
 | 15 | [Ex De Ninguém \- Ao Vivo](https://open.spotify.com/track/1ZZJNyNnTXQS0siCpnWNUL) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:31 |
 | 16 | [Fiquei Careta](https://open.spotify.com/track/5YQzu3kIQmcS2PebmQZcEa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y) | [Fiquei Careta](https://open.spotify.com/album/3q5vBTu20xJkVziypKNPgk) | 2:23 |
-| 17 | [Ainda Não Tô Pronta \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/0ZBQ5PAD9XjUJOc1VxRQri) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Ainda Não Tô Pronta \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/7h71zpFKYayNlr2sRGSf00) | 2:25 |
-| 18 | [Me Trata Como Ex \- Ao Vivo](https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Me Trata Como Ex \(Ao Vivo\)](https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ) | 2:44 |
+| 17 | [Me Trata Como Ex \- Ao Vivo](https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Me Trata Como Ex \(Ao Vivo\)](https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ) | 2:44 |
+| 18 | [Ainda Não Tô Pronta \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/0ZBQ5PAD9XjUJOc1VxRQri) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Ainda Não Tô Pronta \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/7h71zpFKYayNlr2sRGSf00) | 2:25 |
 | 19 | [Perigosinha "Louquinha"](https://open.spotify.com/track/0L3b6sD84Py9h9r6RnoJt4) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Perigosinha "Louquinha"](https://open.spotify.com/album/7w4dcc9ArowJKqX7BmBIw3) | 2:37 |
 | 20 | [Duas Caras](https://open.spotify.com/track/4OXWpVtae6WxWUPKApp66r) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Duas Caras](https://open.spotify.com/album/0kNvywWv6Hf5y0l2p4OBUq) | 2:42 |
 | 21 | [Como Eu Quero](https://open.spotify.com/track/20Mxqxf2u0Q6gNteDiViGm) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Como Eu Quero](https://open.spotify.com/album/1GomGMvKxYmMKapaPa1UKO) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [A de Casa Ou a da Rua \- Ao Vivo](https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 2:49 |
 | 50 | [Eu Não](https://open.spotify.com/track/4LoEqYbhvAsOihCKJBfEP0) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:30 |
 
-Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMGJjYzc3YjRiOTZiYjA4OWU5ZjFhMzBkM2YxMjNjYzgw`
+Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMDM0ZDdhODA0ODk1MzAzMjNjYTNjNDI3YTIyMzdhOWRh`

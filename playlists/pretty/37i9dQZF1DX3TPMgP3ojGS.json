@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 286837,
+  "num_followers": 286971,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM4NDg1MywwMDAwMDAwMDdjMmE1ZjI5ZDRhZTI2YmZhMmZlNmIyZjhhOTAwYTll",
+  "snapshot_id": "MTY1OTM4NDg1MywwMDAwMDAwMGZjMjRjYzBiMTY5OTQxMzViNWYyM2UxZmNlMjZmODE1",
   "tracks": [
     {
       "added_at": "2022-08-01 20:14:12",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
+        "name": "Pour Vous",
+        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Pour Vous",
+      "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
         "name": "A bed of tulips",
         "url": "https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "Pour Vous",
-        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
-      },
-      "artists": [
-        {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Pour Vous",
-      "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
         "name": "Il lago",
         "url": "https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "Before your eyes",
-        "url": "https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t"
-      },
-      "artists": [
-        {
-          "name": "Mirta da Silva",
-          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
-        }
-      ],
-      "duration_ms": 180777,
-      "name": "Before your eyes",
-      "url": "https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
         "name": "Wake with me",
         "url": "https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 135647,
       "name": "Wake with me",
       "url": "https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
+        "name": "Before your eyes",
+        "url": "https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t"
+      },
+      "artists": [
+        {
+          "name": "Mirta da Silva",
+          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
+        }
+      ],
+      "duration_ms": 180777,
+      "name": "Before your eyes",
+      "url": "https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1"
     },
     {
       "added_at": "2022-08-01 20:14:12",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "Tone of Love",
-        "url": "https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "Tone of Love",
-      "url": "https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
         "name": "Testimony (EP)",
         "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 164000,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
+        "name": "Tone of Love",
+        "url": "https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp"
+      },
+      "artists": [
+        {
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+        }
+      ],
+      "duration_ms": 198952,
+      "name": "Tone of Love",
+      "url": "https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW"
     },
     {
       "added_at": "2022-08-01 20:14:12",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "In the meadow",
-        "url": "https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn"
-      },
-      "artists": [
-        {
-          "name": "Eve Dennison",
-          "url": "https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "In the meadow",
-      "url": "https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
         "name": "Ocean Heart",
         "url": "https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 172000,
       "name": "Ocean Heart",
       "url": "https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
+        "name": "In the meadow",
+        "url": "https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn"
+      },
+      "artists": [
+        {
+          "name": "Eve Dennison",
+          "url": "https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "In the meadow",
+      "url": "https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU"
     },
     {
       "added_at": "2022-08-01 20:14:12",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "Ala",
-        "url": "https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        }
-      ],
-      "duration_ms": 120741,
-      "name": "Ala",
-      "url": "https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
         "name": "Impuissance",
         "url": "https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "My Absence",
-        "url": "https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV"
+        "name": "Ala",
+        "url": "https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa"
       },
       "artists": [
         {
-          "name": "Giselle Guarezi",
-          "url": "https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy"
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
         }
       ],
-      "duration_ms": 118270,
-      "name": "My Absence",
-      "url": "https://open.spotify.com/track/60aQ47g6775vmbN3yMntql"
+      "duration_ms": 120741,
+      "name": "Ala",
+      "url": "https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF"
     },
     {
       "added_at": "2022-08-01 20:14:12",
@@ -951,6 +935,22 @@
       "duration_ms": 114000,
       "name": "Matin",
       "url": "https://open.spotify.com/track/1TWlhhICPR0UpyIJhxPiEx"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
+        "name": "My Absence",
+        "url": "https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV"
+      },
+      "artists": [
+        {
+          "name": "Giselle Guarezi",
+          "url": "https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy"
+        }
+      ],
+      "duration_ms": 118270,
+      "name": "My Absence",
+      "url": "https://open.spotify.com/track/60aQ47g6775vmbN3yMntql"
     },
     {
       "added_at": "2022-08-01 20:14:12",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
+        "name": "How It Was Supposed To Be",
+        "url": "https://open.spotify.com/album/6nXaOSyRzfPnlVXRV57LBe"
+      },
+      "artists": [
+        {
+          "name": "Stanley Roth",
+          "url": "https://open.spotify.com/artist/2Fhp37XLUy07ghDlap2h7O"
+        }
+      ],
+      "duration_ms": 134731,
+      "name": "How It Was Supposed To Be",
+      "url": "https://open.spotify.com/track/7y39ldlFRK27CYlYM2kIy5"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc"
       },
@@ -1195,18 +1211,34 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "How It Was Supposed To Be",
-        "url": "https://open.spotify.com/album/6nXaOSyRzfPnlVXRV57LBe"
+        "name": "The Greek",
+        "url": "https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb"
       },
       "artists": [
         {
-          "name": "Stanley Roth",
-          "url": "https://open.spotify.com/artist/2Fhp37XLUy07ghDlap2h7O"
+          "name": "Miguel P\u00e9rez",
+          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
         }
       ],
-      "duration_ms": 134731,
-      "name": "How It Was Supposed To Be",
-      "url": "https://open.spotify.com/track/7y39ldlFRK27CYlYM2kIy5"
+      "duration_ms": 164999,
+      "name": "The Greek",
+      "url": "https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
+        "name": "Longest days",
+        "url": "https://open.spotify.com/album/5jQDQGF85HaPrqvrVQBAMi"
+      },
+      "artists": [
+        {
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+        }
+      ],
+      "duration_ms": 165898,
+      "name": "Longest days",
+      "url": "https://open.spotify.com/track/1fyoUmAZLx9tLmXA99Uxs4"
     },
     {
       "added_at": "2022-08-01 20:14:12",
@@ -1239,38 +1271,6 @@
       "duration_ms": 120000,
       "name": "Mis\u00e9rable",
       "url": "https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
-        "name": "Longest days",
-        "url": "https://open.spotify.com/album/5jQDQGF85HaPrqvrVQBAMi"
-      },
-      "artists": [
-        {
-          "name": "Biba Dupont",
-          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
-        }
-      ],
-      "duration_ms": 165898,
-      "name": "Longest days",
-      "url": "https://open.spotify.com/track/1fyoUmAZLx9tLmXA99Uxs4"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
-        "name": "The Greek",
-        "url": "https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb"
-      },
-      "artists": [
-        {
-          "name": "Miguel P\u00e9rez",
-          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
-        }
-      ],
-      "duration_ms": 164999,
-      "name": "The Greek",
-      "url": "https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM"
     },
     {
       "added_at": "2022-08-01 20:14:12",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "Sibylline",
-        "url": "https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ"
-      },
-      "artists": [
-        {
-          "name": "Corinne Blanchard",
-          "url": "https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Sibylline",
-      "url": "https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
         "name": "Love Theme",
         "url": "https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "Silent Side",
-        "url": "https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk"
+        "name": "Sibylline",
+        "url": "https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ"
       },
       "artists": [
         {
-          "name": "Emilia Branco",
-          "url": "https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz"
+          "name": "Corinne Blanchard",
+          "url": "https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG"
         }
       ],
-      "duration_ms": 162777,
-      "name": "Silent Side",
-      "url": "https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL"
+      "duration_ms": 131400,
+      "name": "Sibylline",
+      "url": "https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P"
     },
     {
       "added_at": "2022-08-01 20:14:12",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
+        "name": "Contemplation",
+        "url": "https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb"
+      },
+      "artists": [
+        {
+          "name": "Sorrel Hauer",
+          "url": "https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo"
+        }
+      ],
+      "duration_ms": 184240,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
         "name": "The Question",
         "url": "https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU"
       },
@@ -1403,34 +1403,18 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "Emeralds",
-        "url": "https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg"
+        "name": "Silent Side",
+        "url": "https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk"
       },
       "artists": [
         {
-          "name": "Pontus De Bjorn",
-          "url": "https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl"
+          "name": "Emilia Branco",
+          "url": "https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz"
         }
       ],
-      "duration_ms": 165773,
-      "name": "Emeralds",
-      "url": "https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
-        "name": "Contemplation",
-        "url": "https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb"
-      },
-      "artists": [
-        {
-          "name": "Sorrel Hauer",
-          "url": "https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Contemplation",
-      "url": "https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K"
+      "duration_ms": 162777,
+      "name": "Silent Side",
+      "url": "https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL"
     },
     {
       "added_at": "2022-08-01 20:14:12",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
+        "name": "Emeralds",
+        "url": "https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg"
+      },
+      "artists": [
+        {
+          "name": "Pontus De Bjorn",
+          "url": "https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "Emeralds",
+      "url": "https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
         "name": "Me Donner Un Essai",
         "url": "https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue"
       },
@@ -1463,38 +1463,6 @@
       "duration_ms": 117423,
       "name": "Me Donner Un Essai",
       "url": "https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
-        "name": "Le notti rosse",
-        "url": "https://open.spotify.com/album/0iugzmYeYMj76R1NztVDHr"
-      },
-      "artists": [
-        {
-          "name": "Marinella Necchi",
-          "url": "https://open.spotify.com/artist/4mnHDSsBjWQAaMr7zYXKnh"
-        }
-      ],
-      "duration_ms": 134595,
-      "name": "Le notti rosse",
-      "url": "https://open.spotify.com/track/5axUCaGmmqMGXyAg8BF1FF"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
-        "name": "Glass Stone",
-        "url": "https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF"
-      },
-      "artists": [
-        {
-          "name": "Lekk",
-          "url": "https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj"
-        }
-      ],
-      "duration_ms": 152908,
-      "name": "Wurzeln",
-      "url": "https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14"
     },
     {
       "added_at": "2022-08-01 20:14:12",
@@ -1515,66 +1483,34 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs"
+        "name": "Glass Stone",
+        "url": "https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF"
       },
       "artists": [
         {
-          "name": "Sanna Aalto",
-          "url": "https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg"
+          "name": "Lekk",
+          "url": "https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj"
         }
       ],
-      "duration_ms": 133874,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI"
+      "duration_ms": 152908,
+      "name": "Wurzeln",
+      "url": "https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14"
     },
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "Feeling Free",
-        "url": "https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB"
+        "name": "Le notti rosse",
+        "url": "https://open.spotify.com/album/0iugzmYeYMj76R1NztVDHr"
       },
       "artists": [
         {
-          "name": "Andreas Monta",
-          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
+          "name": "Marinella Necchi",
+          "url": "https://open.spotify.com/artist/4mnHDSsBjWQAaMr7zYXKnh"
         }
       ],
-      "duration_ms": 126374,
-      "name": "Feeling Free",
-      "url": "https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd"
-      },
-      "artists": [
-        {
-          "name": "Jan Thiel",
-          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Cosmos",
-      "url": "https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f"
-    },
-    {
-      "added_at": "2022-08-01 20:14:12",
-      "album": {
-        "name": "Une chambre",
-        "url": "https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7"
-      },
-      "artists": [
-        {
-          "name": "Ferdinand Lapointe",
-          "url": "https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Une chambre",
-      "url": "https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu"
+      "duration_ms": 134595,
+      "name": "Le notti rosse",
+      "url": "https://open.spotify.com/track/5axUCaGmmqMGXyAg8BF1FF"
     },
     {
       "added_at": "2022-08-01 20:14:12",
@@ -1595,18 +1531,82 @@
     {
       "added_at": "2022-08-01 20:14:12",
       "album": {
-        "name": "The Chapel",
-        "url": "https://open.spotify.com/album/6D6v2edEjUDk5OMVcvzbGO"
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd"
       },
       "artists": [
         {
-          "name": "Edgar De Vries",
-          "url": "https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD"
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
         }
       ],
-      "duration_ms": 210000,
-      "name": "The Chapel",
-      "url": "https://open.spotify.com/track/4Vuegf7MFlYZ5h8WK973O3"
+      "duration_ms": 159500,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
+        "name": "Feeling Free",
+        "url": "https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB"
+      },
+      "artists": [
+        {
+          "name": "Andreas Monta",
+          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
+        }
+      ],
+      "duration_ms": 126374,
+      "name": "Feeling Free",
+      "url": "https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
+        "name": "Une chambre",
+        "url": "https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7"
+      },
+      "artists": [
+        {
+          "name": "Ferdinand Lapointe",
+          "url": "https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Une chambre",
+      "url": "https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs"
+      },
+      "artists": [
+        {
+          "name": "Sanna Aalto",
+          "url": "https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg"
+        }
+      ],
+      "duration_ms": 133874,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI"
+    },
+    {
+      "added_at": "2022-08-01 20:14:12",
+      "album": {
+        "name": "Dans",
+        "url": "https://open.spotify.com/album/5Sb7Qg4vPm2ximin3n4ypK"
+      },
+      "artists": [
+        {
+          "name": "Frode Gjermundsen",
+          "url": "https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ"
+        }
+      ],
+      "duration_ms": 142124,
+      "name": "Dans",
+      "url": "https://open.spotify.com/track/32M1PQzEcQ3QayteUcZDrD"
     }
   ],
   "unique_name": "Coffee and Piano",

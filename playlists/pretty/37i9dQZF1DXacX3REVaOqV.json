@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 131183,
+  "num_followers": 131329,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAzMjYwMCwwMDAwMDAwMDI4MjhmNTczNjllYmFhMGU1ZWRmNTZhYTBkOTllZDUy",
+  "snapshot_id": "MTY1OTAzMjYwMCwwMDAwMDAwMDdhYWM1ZDFlMjQ3MWVkNGI2NjU2MzdhMDczYTNkZGE5",
   "tracks": [
     {
       "added_at": "2022-07-28 18:23:20",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Domino Remixes",
-        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
-      },
-      "artists": [
-        {
-          "name": "Oxia",
-          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
-        }
-      ],
-      "duration_ms": 435266,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Want You In My Soul",
         "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Domino Remixes",
+        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
+      },
+      "artists": [
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "duration_ms": 435266,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/7h4QbMGJ5KIsxVVjJIu8k7"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 224548,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/5FCzMiHrGRayOu12J65Syp"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/4THASIy2X16riMpZINnTTz"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 547244,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/1IbNYr8ByXsgwGbmOxLBXP"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -927,22 +943,6 @@
       "duration_ms": 193859,
       "name": "Love Is A State Of Mind (feat. Ramona Renea)",
       "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/4THASIy2X16riMpZINnTTz"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 547244,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/1IbNYr8ByXsgwGbmOxLBXP"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
+      },
+      "artists": [
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        }
+      ],
+      "duration_ms": 158639,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "You're in My System (Dennis Quin Remixes)",
         "url": "https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 365853,
       "name": "You're in My System - Dennis Quin Vocal Mix",
       "url": "https://open.spotify.com/track/7uRqCJHRsrkBU5W3RG0cnL"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
-      },
-      "artists": [
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        }
-      ],
-      "duration_ms": 158639,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Lay It On Me",
-        "url": "https://open.spotify.com/album/2BdsJUemIZQAcxmNG0z8yL"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Guy Burns",
-          "url": "https://open.spotify.com/artist/6AS3IV2KvA4SZ1GAayMWmU"
-        }
-      ],
-      "duration_ms": 170258,
-      "name": "Lay It On Me",
-      "url": "https://open.spotify.com/track/2EfhczOa9X8ju9hg5IWEQD"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Leko Remixes",
         "url": "https://open.spotify.com/album/2c1dSyxxTwetuIYUfWky09"
       },
@@ -1547,18 +1527,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Cada Vez (Ultimate Mix Collection)",
-        "url": "https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD"
+        "name": "Lay It On Me",
+        "url": "https://open.spotify.com/album/2BdsJUemIZQAcxmNG0z8yL"
       },
       "artists": [
         {
-          "name": "Negrocan",
-          "url": "https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS"
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Guy Burns",
+          "url": "https://open.spotify.com/artist/6AS3IV2KvA4SZ1GAayMWmU"
         }
       ],
-      "duration_ms": 232058,
-      "name": "Cada Vez - Grant Nelson Radio Edit",
-      "url": "https://open.spotify.com/track/6NYctBsuODhva162XjwYq5"
+      "duration_ms": 170258,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/2EfhczOa9X8ju9hg5IWEQD"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1575,6 +1559,22 @@
       "duration_ms": 212724,
       "name": "When U Go - Edit",
       "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Cada Vez (Ultimate Mix Collection)",
+        "url": "https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD"
+      },
+      "artists": [
+        {
+          "name": "Negrocan",
+          "url": "https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS"
+        }
+      ],
+      "duration_ms": 232058,
+      "name": "Cada Vez - Grant Nelson Radio Edit",
+      "url": "https://open.spotify.com/track/6NYctBsuODhva162XjwYq5"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Dancing Queen",
-        "url": "https://open.spotify.com/album/4aMPmrlaiwuMxxq57bMFZB"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 174208,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/2ogG50cmJxJ6P8aRnQ8u7s"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "It's Yours (feat. E-Man)",
         "url": "https://open.spotify.com/album/4yCaK8gEFWjAHxCuNRzWwQ"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 428254,
       "name": "It's Yours (feat. E-Man) - Distant Music Mix",
       "url": "https://open.spotify.com/track/1PrrP9oAtJTmNJDHWrctY5"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/4aMPmrlaiwuMxxq57bMFZB"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 174208,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/2ogG50cmJxJ6P8aRnQ8u7s"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Bon Bini EP",
-        "url": "https://open.spotify.com/album/40BvOscZc5SsyKTAKmSsgF"
+        "name": "Marvins Touch",
+        "url": "https://open.spotify.com/album/63nZDkAJQqNz41aHF9d4CD"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "T.Markakis",
+          "url": "https://open.spotify.com/artist/5hmp0NIkvK7MBXw4lHNCZu"
         }
       ],
-      "duration_ms": 389133,
-      "name": "OK - Cool - Aight feat. Conquer Jones",
-      "url": "https://open.spotify.com/track/1Fp1C2kQBNPNL7nWgQ7hVs"
+      "duration_ms": 333220,
+      "name": "Marvins Touch",
+      "url": "https://open.spotify.com/track/2AuKpfuRP1UYeKsXLXr6no"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Marvins Touch",
-        "url": "https://open.spotify.com/album/63nZDkAJQqNz41aHF9d4CD"
+        "name": "Bon Bini EP",
+        "url": "https://open.spotify.com/album/40BvOscZc5SsyKTAKmSsgF"
       },
       "artists": [
         {
-          "name": "T.Markakis",
-          "url": "https://open.spotify.com/artist/5hmp0NIkvK7MBXw4lHNCZu"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 333220,
-      "name": "Marvins Touch",
-      "url": "https://open.spotify.com/track/2AuKpfuRP1UYeKsXLXr6no"
+      "duration_ms": 389133,
+      "name": "OK - Cool - Aight feat. Conquer Jones",
+      "url": "https://open.spotify.com/track/1Fp1C2kQBNPNL7nWgQ7hVs"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Drop the Bomb",
-        "url": "https://open.spotify.com/album/4RpvpREGer9W8sxjwnNK6q"
-      },
-      "artists": [
-        {
-          "name": "Mattei & Omich",
-          "url": "https://open.spotify.com/artist/5qNEoHUXKgmtpA2hwKwRVC"
-        }
-      ],
-      "duration_ms": 406859,
-      "name": "Drop the Bomb",
-      "url": "https://open.spotify.com/track/5Bi80GhP7fd0bBcNTZRYnm"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "It\u2019s Alright",
         "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
@@ -2139,6 +2123,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Drop the Bomb",
+        "url": "https://open.spotify.com/album/4RpvpREGer9W8sxjwnNK6q"
+      },
+      "artists": [
+        {
+          "name": "Mattei & Omich",
+          "url": "https://open.spotify.com/artist/5qNEoHUXKgmtpA2hwKwRVC"
+        }
+      ],
+      "duration_ms": 406859,
+      "name": "Drop the Bomb",
+      "url": "https://open.spotify.com/track/5Bi80GhP7fd0bBcNTZRYnm"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "Jungle Trip (Edit Versions)",
         "url": "https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg"
       },
@@ -2159,22 +2159,18 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Mary Go Wild! (Franky Rizardo \u201897 Remix)",
-        "url": "https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM"
+        "name": "Testify / Can't U",
+        "url": "https://open.spotify.com/album/2dtu0vms59TWMfLYCfzuit"
       },
       "artists": [
         {
-          "name": "Grooveyard",
-          "url": "https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf"
-        },
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Sameed",
+          "url": "https://open.spotify.com/artist/0wnRXxrm2uHNau9KLzQONa"
         }
       ],
-      "duration_ms": 215648,
-      "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
-      "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
+      "duration_ms": 353899,
+      "name": "Dusty Jazz",
+      "url": "https://open.spotify.com/track/3JpvBva0TwiWMVFebNqtTL"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2203,38 +2199,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Testify / Can't U",
-        "url": "https://open.spotify.com/album/2dtu0vms59TWMfLYCfzuit"
+        "name": "Mary Go Wild! (Franky Rizardo \u201897 Remix)",
+        "url": "https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM"
       },
       "artists": [
         {
-          "name": "Sameed",
-          "url": "https://open.spotify.com/artist/0wnRXxrm2uHNau9KLzQONa"
-        }
-      ],
-      "duration_ms": 353899,
-      "name": "Dusty Jazz",
-      "url": "https://open.spotify.com/track/3JpvBva0TwiWMVFebNqtTL"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "HOUSE",
-        "url": "https://open.spotify.com/album/2JqgwH2ZRmGhnwRJU4HWbi"
-      },
-      "artists": [
-        {
-          "name": "Gettoblaster",
-          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+          "name": "Grooveyard",
+          "url": "https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf"
         },
         {
-          "name": "Missy",
-          "url": "https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4"
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
         }
       ],
-      "duration_ms": 342136,
-      "name": "HOUSE - Original Mix",
-      "url": "https://open.spotify.com/track/4HUKkJ0VWYcYPj3E40WYgJ"
+      "duration_ms": 215648,
+      "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
+      "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2255,6 +2235,26 @@
       "duration_ms": 269666,
       "name": "Red Alert - Grant Nelson Remix - Edit",
       "url": "https://open.spotify.com/track/3uYz0ZtiATdgOU8TItF0vD"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "HOUSE",
+        "url": "https://open.spotify.com/album/2JqgwH2ZRmGhnwRJU4HWbi"
+      },
+      "artists": [
+        {
+          "name": "Gettoblaster",
+          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+        },
+        {
+          "name": "Missy",
+          "url": "https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4"
+        }
+      ],
+      "duration_ms": 342136,
+      "name": "HOUSE - Original Mix",
+      "url": "https://open.spotify.com/track/4HUKkJ0VWYcYPj3E40WYgJ"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2291,6 +2291,30 @@
       "duration_ms": 398598,
       "name": "Starry Night - Original Mix",
       "url": "https://open.spotify.com/track/3N56XgwOdeaZytLkQWyQ4A"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Petu EP",
+        "url": "https://open.spotify.com/album/29wgJs8snld8eLbNkcjI70"
+      },
+      "artists": [
+        {
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
+        },
+        {
+          "name": "Nonku Phiri",
+          "url": "https://open.spotify.com/artist/3bvppKM40kKBkO2zZECrBV"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+        }
+      ],
+      "duration_ms": 365806,
+      "name": "Petu - Masalo Remix",
+      "url": "https://open.spotify.com/track/2pc9WL236HA0GekuhMw8f7"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2355,26 +2379,18 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Petu EP",
-        "url": "https://open.spotify.com/album/29wgJs8snld8eLbNkcjI70"
+        "name": "krypt. vol2",
+        "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
       },
       "artists": [
         {
-          "name": "Palms Trax",
-          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
-        },
-        {
-          "name": "Nonku Phiri",
-          "url": "https://open.spotify.com/artist/3bvppKM40kKBkO2zZECrBV"
-        },
-        {
-          "name": "Masalo",
-          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
         }
       ],
-      "duration_ms": 365806,
-      "name": "Petu - Masalo Remix",
-      "url": "https://open.spotify.com/track/2pc9WL236HA0GekuhMw8f7"
+      "duration_ms": 348000,
+      "name": "Olvidar",
+      "url": "https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2399,22 +2415,6 @@
       "duration_ms": 218880,
       "name": "Spiritual Thing",
       "url": "https://open.spotify.com/track/4FvJTqvTXr0e4reHF6CKH8"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "krypt. vol2",
-        "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
-      },
-      "artists": [
-        {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Olvidar",
-      "url": "https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2511,6 +2511,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Nice To Arise",
+        "url": "https://open.spotify.com/album/5mWUjINeG8lLczGG7NOXKf"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        }
+      ],
+      "duration_ms": 241875,
+      "name": "Nice To Arise - Edit",
+      "url": "https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "Yours & Mine",
         "url": "https://open.spotify.com/album/6HhKMcTgZZ5c6lTHH7yIkP"
       },
@@ -2527,22 +2543,6 @@
       "duration_ms": 340946,
       "name": "Yours - Original Version",
       "url": "https://open.spotify.com/track/1FmbxvoTGhUODN92oVFf2o"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "Nice To Arise",
-        "url": "https://open.spotify.com/album/5mWUjINeG8lLczGG7NOXKf"
-      },
-      "artists": [
-        {
-          "name": "Sem Jacobs",
-          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
-        }
-      ],
-      "duration_ms": 241875,
-      "name": "Nice To Arise - Edit",
-      "url": "https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2727,22 +2727,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Move On Up",
-        "url": "https://open.spotify.com/album/0Y036kJi773Vx3ibIsAehS"
-      },
-      "artists": [
-        {
-          "name": "Roog",
-          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
-        }
-      ],
-      "duration_ms": 217741,
-      "name": "Move On Up",
-      "url": "https://open.spotify.com/track/2IOwbfcWNtA80y2ib0iy5Z"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Savane Colour EP",
         "url": "https://open.spotify.com/album/7ztOnf2el2HVw3xnUe1r53"
       },
@@ -2771,6 +2755,22 @@
       "duration_ms": 281824,
       "name": "Sunset Jam",
       "url": "https://open.spotify.com/track/4P5PgzROl9jfv7mHTjS2MM"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Move On Up",
+        "url": "https://open.spotify.com/album/0Y036kJi773Vx3ibIsAehS"
+      },
+      "artists": [
+        {
+          "name": "Roog",
+          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
+        }
+      ],
+      "duration_ms": 217741,
+      "name": "Move On Up",
+      "url": "https://open.spotify.com/track/2IOwbfcWNtA80y2ib0iy5Z"
     },
     {
       "added_at": "2022-07-28 18:23:20",

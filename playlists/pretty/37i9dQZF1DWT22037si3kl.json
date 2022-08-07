@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Salaga, Clara Lima",
-  "num_followers": 51325,
+  "num_followers": 51436,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY2ODQ2MCwwMDAwMDAwMGNkMDhkMzIwYTgzNTJkZGQyNTQ3ZGRjODc4NmYyYTg1",
+  "snapshot_id": "MTY1OTY2ODQ2MCwwMDAwMDAwMGMyM2FiMDEwNTZlZTYzOTUwYjc2OWIyOWE0MWZiZTE5",
   "tracks": [
     {
       "added_at": "2022-08-05 03:01:00",
@@ -427,26 +427,6 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "Abusad\u00e3o",
-        "url": "https://open.spotify.com/album/0vlgBzPeKCjpXXVEN2D6a6"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 176814,
-      "name": "Abusad\u00e3o",
-      "url": "https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
         "name": "Hugo Boss",
         "url": "https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 214500,
       "name": "Hugo Boss",
       "url": "https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
+        "name": "Abusad\u00e3o",
+        "url": "https://open.spotify.com/album/0vlgBzPeKCjpXXVEN2D6a6"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 176814,
+      "name": "Abusad\u00e3o",
+      "url": "https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -743,30 +743,6 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "Panamera",
-        "url": "https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Elenko Music",
-          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Panamera",
-      "url": "https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
         "name": "Quadriciclo",
         "url": "https://open.spotify.com/album/4HsEBX999Dg4OHYPAWULJC"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 156521,
       "name": "Quadriciclo",
       "url": "https://open.spotify.com/track/0J8LV0mKp1a2mBeiJTv1xZ"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -843,6 +843,30 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
+        "name": "Preto e Dinheiro",
+        "url": "https://open.spotify.com/album/1nLXyI7gsmzdfU3Il7kaTk"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 197380,
+      "name": "Preto e Dinheiro",
+      "url": "https://open.spotify.com/track/3kHxuY36nCmcKJ4GddBjIe"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
         "name": "Nova Fase",
         "url": "https://open.spotify.com/album/5CcnLJwMVyZBlDRxUzffWo"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 212728,
       "name": "Nova Fase",
       "url": "https://open.spotify.com/track/2V4uzJ0zujKhwlhVQ0NAQH"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
-        "name": "Preto e Dinheiro",
-        "url": "https://open.spotify.com/album/1nLXyI7gsmzdfU3Il7kaTk"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 197380,
-      "name": "Preto e Dinheiro",
-      "url": "https://open.spotify.com/track/3kHxuY36nCmcKJ4GddBjIe"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "Corre das Notas",
-        "url": "https://open.spotify.com/album/2nWaDrdvQyYsULVDcEZt5T"
-      },
-      "artists": [
-        {
-          "name": "Daprata",
-          "url": "https://open.spotify.com/artist/0TNwnZ9FoxBDnbWDGM4NIx"
-        },
-        {
-          "name": "Kaeni Mc",
-          "url": "https://open.spotify.com/artist/7ClbJj6Is5f1XDvYHQgeBd"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Corre das Notas",
-      "url": "https://open.spotify.com/track/7LObCoP4wxMuZojWAfj4aU"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
         "name": "Volvo",
         "url": "https://open.spotify.com/album/4YyGlum109B6TRYQaIinWc"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 151384,
       "name": "Volvo",
       "url": "https://open.spotify.com/track/2MfvRyM7Z8MVj8XSRBFEsR"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
+        "name": "Corre das Notas",
+        "url": "https://open.spotify.com/album/2nWaDrdvQyYsULVDcEZt5T"
+      },
+      "artists": [
+        {
+          "name": "Daprata",
+          "url": "https://open.spotify.com/artist/0TNwnZ9FoxBDnbWDGM4NIx"
+        },
+        {
+          "name": "Kaeni Mc",
+          "url": "https://open.spotify.com/artist/7ClbJj6Is5f1XDvYHQgeBd"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Corre das Notas",
+      "url": "https://open.spotify.com/track/7LObCoP4wxMuZojWAfj4aU"
     }
   ],
   "unique_name": "O Drip",

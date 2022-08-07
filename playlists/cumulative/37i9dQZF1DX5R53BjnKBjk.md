@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Julia Joia\. Arte: Isu Kim
 
-134 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+135 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [DEPRIMIDA](https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g) | [Julia Joia](https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ) | [DEPRIMIDA](https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp) | 2:35 | 2022-07-29 |  |
 | [Desamor](https://open.spotify.com/track/0ALH6Nj9I5t3DkYTvg0And) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Refúgio](https://open.spotify.com/album/3nP5WWMB5Wgx4lX752C1dC) | 2:46 | 2022-02-04 | 2022-04-02 |
 | [Desejos de um Leão](https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U) | [Uiu Lopes](https://open.spotify.com/artist/3weJGyLwPPBBvrarb0XjSZ), [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Desejos de um Leão](https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2) | 3:13 | 2022-07-22 |  |
-| [Desembaraços](https://open.spotify.com/track/7rJ0UpsDeeJWFR9lDrv29R) | [Igor Caracas](https://open.spotify.com/artist/5hF7UKIfUgP7ugeFGSGJDT) | [Desembaraços](https://open.spotify.com/album/4tspLrfQxmhj8KXYKI4z3F) | 3:13 | 2022-08-05 |  |
+| [Desembaraços](https://open.spotify.com/track/7rJ0UpsDeeJWFR9lDrv29R) | [Igor Caracas](https://open.spotify.com/artist/5hF7UKIfUgP7ugeFGSGJDT) | [Desembaraços](https://open.spotify.com/album/4tspLrfQxmhj8KXYKI4z3F) | 3:13 | 2022-08-05 | 2022-08-07 |
 | [Deslize de Delírio Inconsequente](https://open.spotify.com/track/7afauHi7fLtMLLqLVTzg5J) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Deslize de Delírio Inconsequente](https://open.spotify.com/album/2CJXL6hmyqNaS3ogixCUY1) | 3:56 | 2022-01-07 | 2022-07-23 |
 | [Diga\-me](https://open.spotify.com/track/1NuJEGUFkcygXNjcSMcbdP) | [FREELION](https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX), [Gibi8](https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Salamanka](https://open.spotify.com/artist/0TpzpzpahCAoko5pXwQAYA), [Tainã Troccoli](https://open.spotify.com/artist/41AuzbTV7cdahoooXbRlRc) | [Diga\-me](https://open.spotify.com/album/6NrL8zeO6CKcwdFnC2ooS0) | 3:19 | 2022-01-07 |  |
 | [Do Jeito Mais Simples](https://open.spotify.com/track/2sEraN3oLThZaCErn0Ru4e) | [Lili Novais](https://open.spotify.com/artist/1gkJzrL4lWQidUjGXnTZ7L) | [Do Jeito Mais Simples](https://open.spotify.com/album/6Ss5f7BqspeOWZAf6cJW12) | 2:31 | 2022-05-16 |  |
@@ -59,6 +59,7 @@
 | [Impermanência](https://open.spotify.com/track/4OPNAQW0lPQNqcd8DQBfOL) | [Maria Ó](https://open.spotify.com/artist/5m4ExqaQ9Z2JMzgzKZVSgc) | [Quantas Vezes a Gente Nasce?](https://open.spotify.com/album/1fuKrMfIn0bVrTyMZHPr3D) | 4:38 | 2022-01-07 |  |
 | [Indireta](https://open.spotify.com/track/7Fz357zrN9hTOPIEMPMuLl) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Indireta](https://open.spotify.com/album/4MiV3izcJfRtjeSB6qO7eF) | 2:26 | 2022-01-07 |  |
 | [Jeans](https://open.spotify.com/track/1zsBY8Emjx26JITLCYYdvM) | [Faria](https://open.spotify.com/artist/4zfzBqS0U8lWOTPOdYlUhC) | [JEANS](https://open.spotify.com/album/6q3WFg7vBmD1S72mS7p9US) | 3:40 | 2022-01-28 | 2022-04-29 |
+| [Jogo Da Paixão](https://open.spotify.com/track/3jq4KUkGLeNDyj7qqjfFmI) | [BEATRICE](https://open.spotify.com/artist/5Y6zeMMMmXGYYuLEPrqVLP) | [Jogo Da Paixão](https://open.spotify.com/album/6iFt6AWDNpxI4SR0qVCq1U) | 2:55 | 2022-08-05 |  |
 | [Jugular](https://open.spotify.com/track/6qS637G3oCuG08pPKr37sb) | [Guma](https://open.spotify.com/artist/0ZzAWoYMZEgOwz3jz4LbQF) | [Jugular](https://open.spotify.com/album/6TMwFsEmP5ZppKaAWkXnmL) | 4:19 | 2022-01-07 | 2022-08-06 |
 | [Lapsos de Bom Senso](https://open.spotify.com/track/5TwnPuEz9Vsggp61eSFIKl) | [Jeza da Pedra](https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh), [Riko Viana](https://open.spotify.com/artist/5ZLJi4zyqFbgmR1CNbdmEc), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Lapsos de Bom Senso](https://open.spotify.com/album/7aNR2Wrfm0sI78Xq1KxX3d) | 3:34 | 2022-01-07 | 2022-01-15 |
 | [Liberté](https://open.spotify.com/track/4Ex9N3XgKbI2nqd5mT6boP) | [L’HOMME STATUE](https://open.spotify.com/artist/42F37rpvkh8TIjfqO4HX3u) | [SER](https://open.spotify.com/album/0jSZiAeRCBxajLsNBC2onT) | 4:10 | 2022-01-07 | 2022-01-29 |

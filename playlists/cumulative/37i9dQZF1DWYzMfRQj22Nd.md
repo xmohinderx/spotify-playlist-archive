@@ -4,7 +4,7 @@
 
 > Taking the big steps with Drum & Bass.
 
-359 songs - 1 day 1 hr 16 min - [published](https://open.spotify.com/playlist/302liozpy9kx91eTyMB6S5)
+360 songs - 1 day 1 hr 20 min - [published](https://open.spotify.com/playlist/302liozpy9kx91eTyMB6S5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Follow Me](https://open.spotify.com/track/1MKUYM2oiCX4AtyuEocHBe) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Follow Me](https://open.spotify.com/album/6oCNo9UETb5NQEKipTZL1F) | 3:50 | 2021-11-12 | 2022-07-27 |
 | [Follow Me](https://open.spotify.com/track/54Tm26Pv3efwgeuzlN5A1m) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Follow Me](https://open.spotify.com/album/2dYo7nAOBIy2kFewd9m0ct) | 3:50 | 2022-07-15 |  |
 | [Follow Me \- Blanke Remix](https://open.spotify.com/track/4vyuKMu7g0QviiOCYzhhjW) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Follow Me \(Blanke Remix\)](https://open.spotify.com/album/7wHmCiBY8g7oFQQuIuwyZe) | 4:25 | 2021-11-12 | 2022-07-29 |
-| [Follow Me \- Blanke Remix](https://open.spotify.com/track/7H5GF7ufsRpIPtvupChNyf) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Follow Me \(Blanke Remix\)](https://open.spotify.com/album/1xfBGwa4medXAZKFd3DMX4) | 4:25 | 2022-07-15 |  |
+| [Follow Me \- Blanke Remix](https://open.spotify.com/track/7H5GF7ufsRpIPtvupChNyf) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Follow Me \(Blanke Remix\)](https://open.spotify.com/album/1xfBGwa4medXAZKFd3DMX4) | 4:25 | 2022-07-15 | 2022-08-07 |
 | [Footprints](https://open.spotify.com/track/6YeUIUIFPpRKWsMU4IBZ7U) | [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW) | [Shadows & Silhouettes](https://open.spotify.com/album/76fjFCjvGJzelaxyCvhEO8) | 4:05 | 2021-11-12 | 2022-06-08 |
 | [Forever](https://open.spotify.com/track/01eMF8CpbCNrSFbwaHTPJ1) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Zoe Moon](https://open.spotify.com/artist/2WmLMQQCzPESCJbOA0Lnd9) | [Forever](https://open.spotify.com/album/4ZxVJccJY1xsqdeMWOA8ZO) | 4:23 | 2022-02-18 | 2022-05-29 |
 | [Foundations](https://open.spotify.com/track/1bFt5xEMykfnFzxihNE42V) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [Foundations](https://open.spotify.com/album/3nUu4xvjLF79AsQ32fpuq9) | 3:54 | 2022-02-18 | 2022-04-19 |
@@ -282,6 +282,7 @@
 | [Reflections](https://open.spotify.com/track/7si4ZB2cShPmL7Du5qhGsQ) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Reflections](https://open.spotify.com/album/7yGXQOpOfxPK1OknMsCyPv) | 4:27 | 2022-07-15 |  |
 | [RELOAD](https://open.spotify.com/track/6zCNAB1z3QdxklS8Hpo8yA) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [RELOAD](https://open.spotify.com/album/1ufueDEIU7GYmBgjRYXHqp) | 3:01 | 2021-11-12 | 2022-07-24 |
 | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/track/1Ojk0XlwKxvqByaHq6Uviz) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/album/54Ulib16eKnja2K1oXKD5p) | 3:20 | 2021-11-12 |  |
+| [Remember](https://open.spotify.com/track/3XejA5R4AptKcmGPXnwAhD) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Remember](https://open.spotify.com/album/09pPQEIYPuyy350ccJBU4L) | 3:35 | 2022-08-05 |  |
 | [Resistance](https://open.spotify.com/track/1NqU6CTAsobTbzf7lEv9vf) | [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [Resistance \(feat\. Unglued\)](https://open.spotify.com/album/4MzOyVbFOM5SmToerlYAOW) | 5:02 | 2022-02-18 | 2022-04-19 |
 | [Right Now](https://open.spotify.com/track/52IcDtVT9Jngeh43s6ILew) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Right Now](https://open.spotify.com/album/0YYqZtp4p32T9CimmjKRHG) | 3:45 | 2022-05-27 |  |
 | [Rock It \(Wilkinson Remix\)](https://open.spotify.com/track/7aYilD8vBLICtiJ7Pt6XLY) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Rock It \(Wilkinson Remix\)](https://open.spotify.com/album/3fJUuqlf7uesC5yvmTkoZY) | 4:32 | 2021-11-12 |  |

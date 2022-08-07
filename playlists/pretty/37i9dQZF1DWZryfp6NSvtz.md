@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,492 likes - 62 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,671 likes - 63 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 51 | [Moment](https://open.spotify.com/track/4OwL6wx20XzC7OCpbwLJva) | [Mercury.](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Moment](https://open.spotify.com/album/1QWh1gzONi6q4u44t3GlnV) | 1:53 |
 | 52 | [Washed Away \- version française](https://open.spotify.com/track/5Ij4IwxzMEP4EKNmsNlJPQ) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH), [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Washed Away](https://open.spotify.com/album/1IBzsKl6M0hAimieKpHT1E) | 3:20 |
 | 53 | [Wood Panel Prince](https://open.spotify.com/track/3F5ELUHaAU7xKEsDMAvScS) | [Stay Outside](https://open.spotify.com/artist/2ryTEYHBsD0Ks4nytV1wle) | [Wood Panel Prince](https://open.spotify.com/album/1KLfzcYM4aDejy6WXQGj2Q) | 3:16 |
-| 54 | [Tongue](https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Tongue](https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho) | 3:34 |
-| 55 | [high school sweetheart](https://open.spotify.com/track/0aKl3Zli1NFxFW9plYyFMb) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [haer](https://open.spotify.com/artist/0b6GRvY09PvzEGXcLEEeED) | [high school sweetheart](https://open.spotify.com/album/4UmH1RiQplsaUYyH4gIGHq) | 2:59 |
-| 56 | [I'm Spent](https://open.spotify.com/track/1BTwIFALFVHpYmY095VTce) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [I'm Spent](https://open.spotify.com/album/1427sQIWO01YnU7ODCFqpk) | 2:32 |
-| 57 | [In Between Days](https://open.spotify.com/track/4PyLHUS61lAkuyZTYC74g7) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [Jane Inc.](https://open.spotify.com/artist/2J6C8xyR4gSZGiXKoSd0jP) | [In Between Days](https://open.spotify.com/album/6Crpa9aM0TnbjDU4WLkhwX) | 3:06 |
-| 58 | [Mark on You](https://open.spotify.com/track/3Ics7Qw1rxe121mHDLhRWD) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Mark on You](https://open.spotify.com/album/5KEz2iS9UFDIjfwdfsiuzN) | 2:21 |
-| 59 | [atonement](https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [atonement](https://open.spotify.com/album/3Ji5YWQMAtYwMi9YRnnNlE) | 3:51 |
-| 60 | [Stay Please](https://open.spotify.com/track/7MErMDoBHxRvAn4ptZDNf9) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Stay Please](https://open.spotify.com/album/4X8VBL1hTwgs08Tj1jjiKg) | 3:00 |
-| 61 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 |
-| 62 | [Hell in a Heatwave](https://open.spotify.com/track/6kID43p9PHZhVJqikKXfh5) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Hell in a Heatwave](https://open.spotify.com/album/6VM8uSej9Xd0EgRX2goU54) | 2:54 |
+| 54 | [Saturday Night](https://open.spotify.com/track/6hAkxcnjEMi0QaNhHht4hp) | [Lemondrop](https://open.spotify.com/artist/7sbagdU2jg3fyzcIUGTyYd) | [Saturday Night](https://open.spotify.com/album/0BYauQgZyBrA8dlMFDfBO3) | 3:39 |
+| 55 | [Tongue](https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Tongue](https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho) | 3:34 |
+| 56 | [high school sweetheart](https://open.spotify.com/track/0aKl3Zli1NFxFW9plYyFMb) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [haer](https://open.spotify.com/artist/0b6GRvY09PvzEGXcLEEeED) | [high school sweetheart](https://open.spotify.com/album/4UmH1RiQplsaUYyH4gIGHq) | 2:59 |
+| 57 | [I'm Spent](https://open.spotify.com/track/1BTwIFALFVHpYmY095VTce) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [I'm Spent](https://open.spotify.com/album/1427sQIWO01YnU7ODCFqpk) | 2:32 |
+| 58 | [In Between Days](https://open.spotify.com/track/4PyLHUS61lAkuyZTYC74g7) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [Jane Inc.](https://open.spotify.com/artist/2J6C8xyR4gSZGiXKoSd0jP) | [In Between Days](https://open.spotify.com/album/6Crpa9aM0TnbjDU4WLkhwX) | 3:06 |
+| 59 | [Mark on You](https://open.spotify.com/track/3Ics7Qw1rxe121mHDLhRWD) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Mark on You](https://open.spotify.com/album/5KEz2iS9UFDIjfwdfsiuzN) | 2:21 |
+| 60 | [atonement](https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [atonement](https://open.spotify.com/album/3Ji5YWQMAtYwMi9YRnnNlE) | 3:51 |
+| 61 | [Stay Please](https://open.spotify.com/track/7MErMDoBHxRvAn4ptZDNf9) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Stay Please](https://open.spotify.com/album/4X8VBL1hTwgs08Tj1jjiKg) | 3:00 |
+| 62 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 |
+| 63 | [Hell in a Heatwave](https://open.spotify.com/track/6kID43p9PHZhVJqikKXfh5) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Hell in a Heatwave](https://open.spotify.com/album/6VM8uSej9Xd0EgRX2goU54) | 2:54 |
 
-Snapshot ID: `MTY1OTcyMDIxNiwwMDAwMDAwMDUzYjgzMDM3NGQzOTQ2MTY5ZTRiNWY0YWExMGNmOTAz`
+Snapshot ID: `MTY1OTcyMDIxNiwwMDAwMDAwMDE2MzE0OTliMzE2OTk4YjdkZjNiZGQ1ODM3OTY3MjMz`

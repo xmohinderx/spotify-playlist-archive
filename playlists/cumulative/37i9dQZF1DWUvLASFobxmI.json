@@ -394,6 +394,24 @@
     },
     {
       "album": {
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/4z8sLfNnAf8Th8B8EwcTQ4"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT"
+    },
+    {
+      "album": {
         "name": "De Cuando Ac\u00e1",
         "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
       },
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 167866,
       "name": "Nuestra Profec\u00eda",
       "url": "https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9"

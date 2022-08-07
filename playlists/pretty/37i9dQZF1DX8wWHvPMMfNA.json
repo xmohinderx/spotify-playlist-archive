@@ -1,12 +1,12 @@
 {
   "description": "Soft instrumental jazz for your focus time.",
-  "num_followers": 193797,
+  "num_followers": 193839,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQ4OTY4NSwwMDAwMDAwMGI5YmU2MjQ1OGMzYWJmMzBkYzQwNzQ4NDkyNzdiM2Ey",
+  "snapshot_id": "MTY1NjQ4OTY4NSwwMDAwMDAwMDZlOWQ5NTUwN2MxNWEwY2NkMmJkOWE0ZWQ4NWZlOThj",
   "tracks": [
     {
       "added_at": "2022-06-29 08:01:25",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-06-29 08:01:25",
       "album": {
+        "name": "Kenny Drew And His Progressive Piano",
+        "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
+      },
+      "artists": [
+        {
+          "name": "Kenny Drew",
+          "url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY"
+        }
+      ],
+      "duration_ms": 273040,
+      "name": "Chartreuse",
+      "url": "https://open.spotify.com/track/3AF40YsNhI8LfFnxKvcgGB"
+    },
+    {
+      "added_at": "2022-06-29 08:01:25",
+      "album": {
         "name": "Pres & Teddy",
         "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 460000,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/6gwOTHR7B1YyWlnAiMBoT0"
-    },
-    {
-      "added_at": "2022-06-29 08:01:25",
-      "album": {
-        "name": "Kenny Drew And His Progressive Piano",
-        "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
-      },
-      "artists": [
-        {
-          "name": "Kenny Drew",
-          "url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY"
-        }
-      ],
-      "duration_ms": 273040,
-      "name": "Chartreuse",
-      "url": "https://open.spotify.com/track/3AF40YsNhI8LfFnxKvcgGB"
     },
     {
       "added_at": "2022-06-29 08:01:25",

@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 13564,
+  "num_followers": 13581,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGVhZGZlNzQyYjQwNDBlZTBhNDU1MDVhMDAxYjJlZjEz",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDU2ZDg4ZGU2NWQ0MDVkNDRmNmE4MzJjZTA5NDU3YTE4",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -991,6 +991,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Fool's Gold (Ti\u00ebsto 24 Karat Gold Edition)",
+        "url": "https://open.spotify.com/album/6JH8j1mf1tfS98iKOgRgeW"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164377,
+      "name": "Fool's Gold - Ti\u00ebsto 24 Karat Gold Edition",
+      "url": "https://open.spotify.com/track/5KzNyiM73vv9EuYELrVpDq"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Goodbye (James Hype Remix)",
         "url": "https://open.spotify.com/album/0juzFtdyALU3bVvLeeONT4"
       },
@@ -1011,6 +1031,26 @@
       "duration_ms": 178095,
       "name": "Goodbye - James Hype Remix",
       "url": "https://open.spotify.com/track/03P46zY3Wf8i2d7X03lHvC"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "I Want Love (Cat Dealers Remix)",
+        "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "I Want Love - Cat Dealers Remix",
+      "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1039,46 +1079,6 @@
       "duration_ms": 210860,
       "name": "Hearts on Fire - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/6a1e2CD4FjOhk6bDnzlg15"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "I Want Love (Cat Dealers Remix)",
-        "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 221904,
-      "name": "I Want Love - Cat Dealers Remix",
-      "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Fool's Gold (Ti\u00ebsto 24 Karat Gold Edition)",
-        "url": "https://open.spotify.com/album/6JH8j1mf1tfS98iKOgRgeW"
-      },
-      "artists": [
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164377,
-      "name": "Fool's Gold - Ti\u00ebsto 24 Karat Gold Edition",
-      "url": "https://open.spotify.com/track/5KzNyiM73vv9EuYELrVpDq"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Rise (twocolors Remix)",
-        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Rise - twocolors Remix",
-      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Wasted Love (feat. Lagique) [Remixes]",
         "url": "https://open.spotify.com/album/76nwXh66BDZT9SVEDCAB9b"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 240000,
       "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
       "url": "https://open.spotify.com/track/3kHaYCI60ExyeSh4I9MVEv"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Rise (twocolors Remix)",
+        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Rise - twocolors Remix",
+      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2215,26 +2215,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Lifetime Remixes",
-        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "Lifetime - Jayda G Baleen Mix",
-      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Thing Called Love (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
       },
@@ -2255,6 +2235,26 @@
       "duration_ms": 338442,
       "name": "Thing Called Love - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "Lifetime - Jayda G Baleen Mix",
+      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",

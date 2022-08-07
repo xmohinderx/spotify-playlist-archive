@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata. Cover: Ivy Queen ",
-  "num_followers": 1816907,
+  "num_followers": 1817102,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3NjMyNCwwMDAwMDAwMDkyZTNiYzZhODY2NmQ0ZjgyZWM2ODhmMWY5Yzc1MDE5",
+  "snapshot_id": "MTY1OTY3NjMyNCwwMDAwMDAwMGNkY2I3YTFiYWY1OGU5Mzk0OGYyYjJkMTNmNDA4OGI1",
   "tracks": [
     {
       "added_at": "2022-08-05 05:12:04",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Soltera",
-        "url": "https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 182212,
-      "name": "Soltera",
-      "url": "https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "50/50",
         "url": "https://open.spotify.com/album/7pqN4Gjy61BPFqpbJ8Vqjf"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 226730,
       "name": "50/50",
       "url": "https://open.spotify.com/track/6OMRRYsSxvwAfFxkFfzn4L"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 182212,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Toby Love",
-        "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6aKN4CGU6ZC3at6PwB2K7s"
       },
       "artists": [
         {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        },
+        {
+          "name": "Lirow",
+          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
         }
       ],
-      "duration_ms": 258866,
-      "name": "Tengo un Amor",
-      "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
+      "duration_ms": 204344,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/35hNtYsDTSNEGwCcIGH2TV"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6aKN4CGU6ZC3at6PwB2K7s"
+        "name": "Toby Love",
+        "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
       },
       "artists": [
         {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        },
-        {
-          "name": "Lirow",
-          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
         }
       ],
-      "duration_ms": 204344,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/35hNtYsDTSNEGwCcIGH2TV"
+      "duration_ms": 258866,
+      "name": "Tengo un Amor",
+      "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Con El Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/0K9TfhxcGsjOBOLrf2C4Wj"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 220986,
-      "name": "Tu Veneno",
-      "url": "https://open.spotify.com/track/42jedyDXAZydzL3OrslfUp"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "Bailando Bachata",
         "url": "https://open.spotify.com/album/2eIfWmj7khob6SiDVlr5Uo"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 188055,
       "name": "Bailando Bachata",
       "url": "https://open.spotify.com/track/4jCiC3KDKNk1x8y16tupUb"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "Con El Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/0K9TfhxcGsjOBOLrf2C4Wj"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 220986,
+      "name": "Tu Veneno",
+      "url": "https://open.spotify.com/track/42jedyDXAZydzL3OrslfUp"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "My Destiny",
-        "url": "https://open.spotify.com/album/2DjM5pDh6eQxjHOKRSg29X"
-      },
-      "artists": [
-        {
-          "name": "Manny Rod",
-          "url": "https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv"
-        }
-      ],
-      "duration_ms": 209942,
-      "name": "El Gui\u00f3n",
-      "url": "https://open.spotify.com/track/50BYSpPCSxT9Uy5ZjarBMt"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "Reina de Corazones",
         "url": "https://open.spotify.com/album/4eOWxODa9H1NC52716pnSR"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 236330,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/4omcHHXj5vuzHSlR7Ono8d"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "My Destiny",
+        "url": "https://open.spotify.com/album/2DjM5pDh6eQxjHOKRSg29X"
+      },
+      "artists": [
+        {
+          "name": "Manny Rod",
+          "url": "https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv"
+        }
+      ],
+      "duration_ms": 209942,
+      "name": "El Gui\u00f3n",
+      "url": "https://open.spotify.com/track/50BYSpPCSxT9Uy5ZjarBMt"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Rompe Corazones",
-        "url": "https://open.spotify.com/album/2u5LpbdpT26zsaKYBfsxT0"
-      },
-      "artists": [
-        {
-          "name": "Bachata Heightz",
-          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Rompe Corazones",
-      "url": "https://open.spotify.com/track/273PhAJBPwivxS10XzU8NA"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "Momentos de Cine",
         "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 210527,
       "name": "Batalla Perdida",
       "url": "https://open.spotify.com/track/1Nk2GBBfdskHJgEgATcHkz"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "Rompe Corazones",
+        "url": "https://open.spotify.com/album/2u5LpbdpT26zsaKYBfsxT0"
+      },
+      "artists": [
+        {
+          "name": "Bachata Heightz",
+          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Rompe Corazones",
+      "url": "https://open.spotify.com/track/273PhAJBPwivxS10XzU8NA"
     },
     {
       "added_at": "2022-08-05 05:12:04",

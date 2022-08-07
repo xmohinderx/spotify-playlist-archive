@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: TINI TINI TINI.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Marama.",
   "name": "Dame M\u00e1s Cumbia",
   "published_playlist_ids": [
     "7vDusSvVBxYbBiawprvkqw"
@@ -4366,6 +4366,24 @@
     },
     {
       "album": {
+        "name": "Resaca",
+        "url": "https://open.spotify.com/album/24dXMmQ2y8B7GAeNcZwHtt"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135728,
+      "name": "Resaca",
+      "url": "https://open.spotify.com/track/1yz9PtGQrEwvTCYvvFKq4g"
+    },
+    {
+      "album": {
         "name": "Rey de Copas",
         "url": "https://open.spotify.com/album/2ARvKiDnoUZGuA4MWWwVVR"
       },
@@ -4469,7 +4487,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Se Pone Loca",
       "url": "https://open.spotify.com/track/0FVuUna31PTRmWGLs8W1o4"
@@ -4765,7 +4783,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 204813,
       "name": "Simplemente Amigos / Eclipse Total",
       "url": "https://open.spotify.com/track/09O1Ve5IytaVPzPGZlDe54"
@@ -4787,6 +4805,24 @@
       "duration_ms": 169381,
       "name": "Sin Respuestas",
       "url": "https://open.spotify.com/track/3INVByGTLMiv8p3Jax1w98"
+    },
+    {
+      "album": {
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/2jREwOReGpbsTX3sTyPyas"
+      },
+      "artists": [
+        {
+          "name": "El Arrebato",
+          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/2s6Msf6JuH7rQP6QauANU1"
     },
     {
       "album": {
@@ -4987,7 +5023,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 367481,
       "name": "Te Conozco / Te Extra\u00f1o Te Olvido Te Amo / Me Dedique a Perderte",
       "url": "https://open.spotify.com/track/5LtwSwkkWZ3QGdrpcf6gHh"
@@ -5227,7 +5263,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 159587,
       "name": "Todo a la Vez",
       "url": "https://open.spotify.com/track/2tuKnCgbscxmebC7vN9X1i"

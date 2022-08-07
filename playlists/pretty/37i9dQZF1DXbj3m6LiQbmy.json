@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4229,
+  "num_followers": 4241,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODM5Mjk0MiwwMDAwMDAwMGQ3ODM4ZTU0ZGMxOGI3NDI0MDU5OThiODZmYzY2YjA2",
+  "snapshot_id": "MTY1ODM5Mjk0MiwwMDAwMDAwMGE4NTI4NzZmNmQ0MmVjNzhlZDMxZDAxYzQ0Nzk3ZmI0",
   "tracks": [
     {
       "added_at": "2022-07-21 08:42:22",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-07-21 08:42:22",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Supino",
-          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
-    },
-    {
-      "added_at": "2022-07-21 08:42:22",
-      "album": {
         "name": "Sumikko Gurashi 2.0",
         "url": "https://open.spotify.com/album/6UWPDKMxhkCZIDEfvAsddg"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 91966,
       "name": "Sumikko Gurashi 2.0",
       "url": "https://open.spotify.com/track/02ddENFyhzjTaeUkL35QeB"
+    },
+    {
+      "added_at": "2022-07-21 08:42:22",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
     },
     {
       "added_at": "2022-07-21 08:42:22",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-07-21 08:42:22",
       "album": {
-        "name": "Discodelic Edits Vol.1",
-        "url": "https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e"
-      },
-      "artists": [
-        {
-          "name": "Peter LC",
-          "url": "https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8"
-        }
-      ],
-      "duration_ms": 371705,
-      "name": "Tentami & Rubami",
-      "url": "https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy"
-    },
-    {
-      "added_at": "2022-07-21 08:42:22",
-      "album": {
         "name": "Comet",
         "url": "https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 261795,
       "name": "Comet",
       "url": "https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST"
+    },
+    {
+      "added_at": "2022-07-21 08:42:22",
+      "album": {
+        "name": "Discodelic Edits Vol.1",
+        "url": "https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e"
+      },
+      "artists": [
+        {
+          "name": "Peter LC",
+          "url": "https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8"
+        }
+      ],
+      "duration_ms": 371705,
+      "name": "Tentami & Rubami",
+      "url": "https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy"
     },
     {
       "added_at": "2022-07-21 08:42:22",

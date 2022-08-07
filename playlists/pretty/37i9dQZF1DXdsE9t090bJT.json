@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 13089,
+  "num_followers": 13137,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGNjZWFlZmQ0OWM5ODZlMjY1MjE4NGE0MGVlMGRhMTdi",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGQ4MjQwNjgxMjY2ZDgwMTdhOTYyZmM3Y2UyNDVhNDJj",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Del Corazon",
-        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 245201,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Todo Depende De Ti",
         "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 188413,
       "name": "Ni\u00f1a De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Del Corazon",
+        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 245201,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/2QUyaN7C939RpX11Zz1dQA"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 191692,
-      "name": "Ten\u00eda Que Ser As\u00ed",
-      "url": "https://open.spotify.com/track/0pEHlTn2r3JD3trdrZpmZG"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Porque Te Amo",
         "url": "https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 186462,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/2QUyaN7C939RpX11Zz1dQA"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 191692,
+      "name": "Ten\u00eda Que Ser As\u00ed",
+      "url": "https://open.spotify.com/track/0pEHlTn2r3JD3trdrZpmZG"
     },
     {
       "added_at": "2022-02-11 20:24:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: Aarattu
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,447 likes - 66 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,570 likes - 66 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

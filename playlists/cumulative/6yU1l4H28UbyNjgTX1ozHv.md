@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-125 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
+126 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Say Something \- Live from Spotify NYC](https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Spotify Sessions](https://open.spotify.com/album/4ipsAUmKH4ieH5Yh9tln9t) | 4:03 | 2019-10-13 |  |
 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 | 2019-10-13 |  |
 | [She's Electric \- Acoustic](https://open.spotify.com/track/7Fqmr5xwLksBUgku1bfBFO) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [She's Electric \(Acoustic\)](https://open.spotify.com/album/1vdMBDG6eCCsInfSiIqc0E) | 3:36 | 2021-04-08 |  |
-| [Show Me Love \- Acoustic](https://open.spotify.com/track/3K6XGKHABwuTGex94DRZuy) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Show Me Love \(Acoustic\)](https://open.spotify.com/album/1pKNXryic0E9p65bLM25MP) | 3:11 | 2019-10-13 |  |
+| [Show Me Love \- Acoustic](https://open.spotify.com/track/3K6XGKHABwuTGex94DRZuy) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Show Me Love \(Acoustic\)](https://open.spotify.com/album/1pKNXryic0E9p65bLM25MP) | 3:11 | 2019-10-13 | 2022-08-07 |
 | [Sit Down \- Acoustic](https://open.spotify.com/track/5dGgyreFnyXsYTRW7vV7Xy) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Sit Down \(Acoustic\)](https://open.spotify.com/album/58BKYmicaHsxUzmIfjkJvo) | 2:47 | 2021-08-01 |  |
 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 | 2019-10-13 |  |
 | [Smells Like Teen Spirit \- Acoustic](https://open.spotify.com/track/5Y0X7NxowxPpvDb4vzq1Hr) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Smells Like Teen Spirit \(Acoustic\)](https://open.spotify.com/album/4Si5kpHAc3ec1bB07qwxJu) | 2:30 | 2021-04-13 |  |
@@ -117,6 +117,7 @@
 | [Three Little Birds \- Acoustic](https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Three Little Birds \(Acoustic\)](https://open.spotify.com/album/1ub9a49YbbCbmJOlcoPSjl) | 2:24 | 2022-03-25 |  |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/6yjWw8pTnhYM4y4jfbGSFY) | 3:40 | 2019-10-13 |  |
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2019-10-13 |  |
+| [Unchained Melody \- Acoustic](https://open.spotify.com/track/3dpAowl81OJz8CinXr46Mn) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Unchained Melody \(Acoustic\)](https://open.spotify.com/album/5H9nvMZwoWBFHuHdoI1PpY) | 3:29 | 2022-08-06 |  |
 | [Walking On Sunshine](https://open.spotify.com/track/1O91HwI2LMA8RglnZ2hbNH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Walking On Sunshine](https://open.spotify.com/album/2xDMfqErOWYK71uDc4FvVE) | 2:31 | 2019-12-21 |  |
 | [Walking on Sunshine \- Acoustic](https://open.spotify.com/track/2kOE6vW8uWheLITP2JYRPD) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Walking on Sunshine \(Acoustic\)](https://open.spotify.com/album/2jOhaWAGLkqVFBK2kTI7fX) | 2:59 | 2021-10-11 |  |
 | [We Are Stars \- Acoustic](https://open.spotify.com/track/5IHFSRi1mCCjt4z1Xrht5t) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [We Are Stars \- EP](https://open.spotify.com/album/2ZVs4ZGT7loGJinxPciE94) | 3:19 | 2019-10-13 |  |

@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Killer Mike
 
-309 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
+310 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Coastin'](https://open.spotify.com/track/40cVE3AmG0BSU4IgxfVqVa) | [KXNG Crooked](https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1), [Joell Ortiz](https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq), [Traxx Sanders](https://open.spotify.com/artist/39hYtulYdIhaHAWXrAdlJy) | [Rise & Fall of Slaughterhouse](https://open.spotify.com/album/0zQGSKJi3TcAQF5jXzSvtp) | 4:00 | 2022-03-11 | 2022-07-04 |
 | [Cocky Humble](https://open.spotify.com/track/0fIYXOOFWKMOnULDcQPEru) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Cocky Humble](https://open.spotify.com/album/2oAFxSW959Vqnk9X0k6udM) | 2:18 | 2022-04-15 | 2022-07-29 |
 | [Continental Breakfast](https://open.spotify.com/track/5Kz3x2O7Zfbikh9xuUeUWU) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Dollar Menu 2](https://open.spotify.com/album/1aJVIX0L3bfgUatWdSnPzh) | 1:19 | 2022-04-01 | 2022-07-22 |
-| [CORSA](https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [CORSA](https://open.spotify.com/album/69qqSrvZB2mnCOeiyHA19d) | 3:09 | 2022-06-17 |  |
+| [CORSA](https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [CORSA](https://open.spotify.com/album/69qqSrvZB2mnCOeiyHA19d) | 3:09 | 2022-06-17 | 2022-08-07 |
 | [CRITIQUA](https://open.spotify.com/track/6h9atUDhTFazxUSgXywDzS) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp5000](https://open.spotify.com/album/2NbXyRbMzqaiE548rmj9qW) | 1:49 | 2022-02-04 | 2022-04-14 |
 | [Crystal Ball](https://open.spotify.com/track/50bGW8Z9qGXlWC1CpOORr1) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Crystal Ball](https://open.spotify.com/album/79N96g4sh8QwGGp09VMJZN) | 1:58 | 2021-09-03 | 2022-07-20 |
 | [Dangerookipawaa Freestyle](https://open.spotify.com/track/0yL0He951vlMYygPzSEEJ0) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Dangerookipawaa Freestyle](https://open.spotify.com/album/3f53BJvrCgMNXuyju8EBUi) | 3:47 | 2021-09-03 | 2022-07-20 |
@@ -133,6 +133,7 @@
 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 | 2022-06-17 |  |
 | [INDEPENDENT](https://open.spotify.com/track/1eUrzqzNIJ1AUDpIK4hJFZ) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [INDEPENDENT](https://open.spotify.com/album/29zVAQcXogzcfBQI6Y5jG6) | 2:33 | 2021-09-03 | 2022-04-21 |
 | [INDUSTRY GAMES](https://open.spotify.com/track/6HRUomAomV72oMArAAHEIT) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/5pbCz1rWV7zB6mgR3VBfbz) | 2:16 | 2021-09-03 | 2022-04-19 |
+| [Is This Love \('09\) \(feat\. 50 Cent\)](https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtain Call 2](https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n) | 3:32 | 2022-08-05 |  |
 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 | 2022-06-17 |  |
 | [Isis \- Remix](https://open.spotify.com/track/2hf7qisR1NhP3MuedFyOkp) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj), [Catra](https://open.spotify.com/artist/7clv57AT6aP2cMrphyksAb), [Lex Bratcher](https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf), [Kvng Moses](https://open.spotify.com/artist/6bke0iSCUylKssEtk3Ltr2) | [Isis \(Remix\)](https://open.spotify.com/album/2FKqCFX8YuORASp2wON4iQ) | 4:56 | 2022-07-15 |  |
 | [Jaguar](https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Cocodrillo Turbo](https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c) | 2:55 | 2022-04-29 |  |

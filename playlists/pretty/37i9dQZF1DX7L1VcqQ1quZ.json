@@ -1,12 +1,12 @@
 {
   "description": "All 90s, all ballads. Cover: Shania Twain",
-  "num_followers": 236990,
+  "num_followers": 237203,
   "original_name": "90s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk1ODE0NiwwMDAwMDAwMDc4OGRiN2E3OGYyOTVjZGFlYzVhMjYzMzE3Y2NhNTIw",
+  "snapshot_id": "MTY1ODk1ODE0NiwwMDAwMDAwMDgzYzk1NmFhM2QxNTA2YjM0MTU5ZmM1MjZhNDVjYzA0",
   "tracks": [
     {
       "added_at": "2022-07-27 21:42:26",
@@ -807,22 +807,18 @@
     {
       "added_at": "2022-07-27 21:42:26",
       "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 296266,
-      "name": "Every Time I Close My Eyes (with Kenny G)",
-      "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
+      "duration_ms": 265333,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj"
     }
   ],
   "unique_name": "90s Ballads",

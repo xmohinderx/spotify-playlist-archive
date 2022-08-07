@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-3,563 songs - 7 day 18 hr 32 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+3,565 songs - 7 day 18 hr 37 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 | 2022-07-14 | 2022-07-22 |
 | [Cannot Hold You](https://open.spotify.com/track/5Eadc2hUSIlMplOAlVRyXr) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Electric One \(Presented by Doctor P & Flux Pavilion\)](https://open.spotify.com/album/5HCQdplWU4I05JG8COOnbX) | 4:12 | 2022-08-04 |  |
 | [Canyon](https://open.spotify.com/track/4Rt8dAYRr0ofi9cPodqjKM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Canyon](https://open.spotify.com/album/5ej7HHVxtcxjPxx3cljKge) | 4:05 | 2022-04-07 | 2022-04-15 |
+| [Capishe](https://open.spotify.com/track/3be1khBL4692zorEmb7F69) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Capishe](https://open.spotify.com/album/3IbaNoob48YS3cNojGGhdC) | 2:22 | 2022-08-05 |  |
 | [Capitano](https://open.spotify.com/track/1QGxDySCmChe56eRQr3EUd) | [Madi Banja](https://open.spotify.com/artist/0LdzDrRc2RESpGqwyhbE3t) | [Capitano](https://open.spotify.com/album/1TUQbu2gs8FFENZlf7sCUp) | 3:20 | 2022-03-17 | 2022-03-25 |
 | [Carmel Beach](https://open.spotify.com/track/5MrKnDEWYcx4jq3pyAPa0d) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Mavidavilon](https://open.spotify.com/album/4f9DlXWKfDsR9ZlF4hI6Qz) | 3:29 | 2022-06-02 | 2022-06-10 |
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-24 | 2022-07-01 |
@@ -3564,6 +3565,7 @@
 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 | 2022-01-06 | 2022-01-14 |
 | [Zoo](https://open.spotify.com/track/7tuPdKiqInoAO6LJ0rN5YQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Zoo](https://open.spotify.com/album/3Yo9TFSeGrUPaXqEo81P2l) | 2:22 | 2022-03-24 | 2022-04-01 |
 | [Zuckerpunch](https://open.spotify.com/track/6c9HQATXAVBT9zSf1EAOzp) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Zuckerpunch](https://open.spotify.com/album/05Zrv0PnoaREUU16icFl9n) | 2:30 | 2022-02-24 | 2022-03-04 |
+| [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 | 2022-08-05 |  |
 | [Är det kärlek du behöver \- N!NE EPA Remix](https://open.spotify.com/track/1KRcokkLCrwMPFWeP5Hroa) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:54 | 2021-12-30 | 2022-01-07 |
 | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI) | 2:59 | 2022-05-05 | 2022-05-13 |
 | [Åh maj](https://open.spotify.com/track/5ybpiXNHx0H2FqAEOeUrwU) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL) | [Åh maj](https://open.spotify.com/album/6g02MYlKBLLsOPQVsELSVP) | 2:50 | 2022-05-26 | 2022-06-03 |

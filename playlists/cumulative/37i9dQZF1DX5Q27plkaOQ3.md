@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Zomboy.
 
-214 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+215 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Cut Throat](https://open.spotify.com/track/4x1SZsoKaJGOCEgg9EF4Uz) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut) | [Cut Throat](https://open.spotify.com/album/3UkvAjIq7eO6ic2CvAOWnI) | 2:38 | 2021-12-17 | 2022-03-12 |
 | [Dawn Of The Dead \- Radio Edit](https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Dawn Of The Dead](https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV) | 3:42 | 2022-04-01 |  |
 | [Dead Man Walking](https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Dead Man Walking Pt\. 1](https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD) | 4:47 | 2022-07-22 |  |
-| [Death's Parade](https://open.spotify.com/track/4I0aTM1IBacOAnBpWTDaFG) | [Outcry](https://open.spotify.com/artist/4cni7thSCD6KeWMHdbRPFd), [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Death's Parade](https://open.spotify.com/album/0pFWrdhqNypSkJzpG6GMEg) | 3:31 | 2021-12-17 |  |
+| [Death's Parade](https://open.spotify.com/track/4I0aTM1IBacOAnBpWTDaFG) | [Outcry](https://open.spotify.com/artist/4cni7thSCD6KeWMHdbRPFd), [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Death's Parade](https://open.spotify.com/album/0pFWrdhqNypSkJzpG6GMEg) | 3:31 | 2021-12-17 | 2022-08-07 |
 | [Degrader](https://open.spotify.com/track/2y0sRxtiJblGeiLopVbYlU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Degrader EP](https://open.spotify.com/album/3oyCL9NZzD5JMfTPG54xXN) | 3:02 | 2022-03-04 |  |
 | [Demisaur](https://open.spotify.com/track/6cY37yS9qRbBNgkt52z86V) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Demisaur](https://open.spotify.com/album/1QEheTpJtOjBk1AO7yevtF) | 3:32 | 2021-12-17 | 2022-05-07 |
 | [Desire](https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Revive EP](https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r) | 3:08 | 2022-07-22 |  |
@@ -178,6 +178,7 @@
 | [Shimmer](https://open.spotify.com/track/1zk2MkgS2evrY0py2bWjiT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Shimmer](https://open.spotify.com/album/5mqADkilFicbY2DXyWemZe) | 3:25 | 2022-07-22 |  |
 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-13 |  |
 | [Shook](https://open.spotify.com/track/3EZqBIdUYKPUJ4nL35vufg) | [Greg Gatsby](https://open.spotify.com/artist/5BVhWcIwApmOFHiLT7OJS5), [CRVNTIS](https://open.spotify.com/artist/0vtUbzii1Zwoc5IIwQQ1v3), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Shook](https://open.spotify.com/album/0nnRW1mmT4N6jOOHFR1Cw5) | 3:02 | 2021-12-17 | 2022-02-12 |
+| [Silver](https://open.spotify.com/track/0qNl3TYeofPSRrTwPeHUpd) | [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [Silver](https://open.spotify.com/album/3RH3p20romGgGgkp4G18Bo) | 3:48 | 2022-08-05 |  |
 | [Sin](https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Sin](https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1) | 2:11 | 2021-12-17 | 2022-03-12 |
 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 | 2022-06-10 |  |
 | [Sleep \(with Calcium\)](https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Sleep \(with Calcium\)](https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6) | 3:34 | 2022-06-17 |  |

@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-554 songs - 1 day 13 hr 17 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+555 songs - 1 day 13 hr 22 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [crossing field](https://open.spotify.com/track/5RsRhryZD9FdTmxsAaZ2mM) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5aKVOZqJWL30JXGpimjifo) | 4:08 | 2022-06-07 | 2022-07-29 |
 | [Crossing Road](https://open.spotify.com/track/1YeBw3L2tN8alXnpDqDm6r) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [Crossing Road](https://open.spotify.com/album/2XqvjIiZNCzhgiHOKLHNZm) | 5:10 | 2022-06-07 | 2022-07-29 |
 | [CRY](https://open.spotify.com/track/6MYk0grHaGj5c8Qargw2Dg) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [Chaos Drifters / CRY](https://open.spotify.com/album/41JUXjJKB1dcPdxReup9ld) | 4:25 | 2022-06-07 | 2022-07-29 |
+| [CRY](https://open.spotify.com/track/66QkNeeHYxNCXIp48W4qcv) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 4:25 | 2022-06-07 |  |
 | [Cry Baby](https://open.spotify.com/track/6wDntdm888mDo458RaYjGl) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 4:01 | 2022-06-07 | 2022-07-29 |
 | [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 | 2022-06-07 |  |
 | [D\-tecnoLife](https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 3:53 | 2022-06-07 |  |
@@ -361,7 +362,7 @@
 | [ガムシャラ](https://open.spotify.com/track/3D9yweVjHsSyfINp2Kbyx8) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ガムシャラ](https://open.spotify.com/album/5xSqBRiOF07Ho37CzrdxoS) | 3:17 | 2022-06-07 |  |
 | [キミがいたしるし](https://open.spotify.com/track/1sjGycrfx7Fru2aezbqS1N) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [キミがいたしるし](https://open.spotify.com/album/4pDyNpKYsjejt8N5JD6hGg) | 3:52 | 2022-06-07 | 2022-07-28 |
 | [キミの隣](https://open.spotify.com/track/6r2b4eY23IX7ONftGlzPpM) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [キミの隣](https://open.spotify.com/album/6m56HhrFWKBFTTkAqyJaxm) | 4:39 | 2022-06-07 | 2022-07-29 |
-| [キョリ感](https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [キョリ感](https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq) | 3:51 | 2022-06-07 |  |
+| [キョリ感](https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [キョリ感](https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq) | 3:51 | 2022-06-07 | 2022-08-07 |
 | [キリフダ](https://open.spotify.com/track/0E7t1CSCWQaSqLvJo0tNHE) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [キリフダ](https://open.spotify.com/album/7HqGIrY65zULGtgwDfTe9b) | 2:29 | 2022-06-07 | 2022-07-25 |
 | [ケアレス](https://open.spotify.com/track/3TOu6gUa0EXmbYth06kR3e) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ケアレス](https://open.spotify.com/album/3oQVyEMEzbgROnz0MK3DiN) | 4:16 | 2022-06-07 | 2022-07-28 |
 | [コガネゾラ](https://open.spotify.com/track/5IOg7tk7Kx7PXDvdoEwTmR) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ](https://open.spotify.com/album/4CINcYYU40D6bmu0Pyfxgy) | 3:23 | 2022-06-07 | 2022-07-25 |

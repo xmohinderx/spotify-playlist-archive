@@ -4,7 +4,7 @@
 
 > baby all i wanna do is coast cover: Hailee Steinfeld
 
-1,207 songs - 2 day 14 hr 34 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,208 songs - 2 day 14 hr 38 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-01 |  |
 | [asshole](https://open.spotify.com/track/5XF5930PecOpR4E60wmkK8) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [asshole](https://open.spotify.com/album/4Ne1eeeJkUdQ45hGlmtW87) | 2:36 | 2021-03-20 | 2021-05-28 |
 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 | 2021-03-07 | 2021-10-10 |
+| [Athena](https://open.spotify.com/track/7GgO1gxHBjmnMGTkv5RlKX) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Athena](https://open.spotify.com/album/1u6z7qZdHPtBF4eKGMA5Z9) | 3:58 | 2022-08-01 |  |
 | [Automatic Driver \- Tyler, The Creator Remix](https://open.spotify.com/track/59S3SiDxj914oyXd25zt3j) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Automatic Driver \(Tyler, The Creator Remix\)](https://open.spotify.com/album/57PHygGtLqa9kJRE3rUy15) | 3:30 | 2021-02-26 | 2021-07-31 |
 | [autumn](https://open.spotify.com/track/6MaZfHpY4EbxiLcEoZMjtO) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [autumn](https://open.spotify.com/album/2prJ7eqFdaGHq95cJdDjzj) | 2:47 | 2021-02-22 | 2021-12-04 |
 | [avoiding](https://open.spotify.com/track/33n7ILhPNDsTjksq15o4qJ) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [avoiding](https://open.spotify.com/album/2O8CTOf7Urxw9curxCraoY) | 4:07 | 2019-07-27 | 2020-04-15 |
@@ -623,7 +624,7 @@
 | [Let's Go](https://open.spotify.com/track/05J6B8Mei5yhX84mrUDa7U) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Let's Go](https://open.spotify.com/album/3AsiOVv4RrFwgSXFch8wP9) | 2:22 | 2021-12-24 | 2022-03-26 |
 | [Let's Go Out](https://open.spotify.com/track/4o7IJJZdZG9blmt9Czt1lI) | [Berly](https://open.spotify.com/artist/6U9EnTzy0ihpx4mgs9mfud) | [Let's Go Out](https://open.spotify.com/album/2BJnr6QdGtXYV36KhoKrgg) | 3:07 | 2020-04-21 | 2020-09-25 |
 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 | 2021-11-05 |  |
-| [let's run away](https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Orion Song](https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [let's run away](https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk) | 3:25 | 2022-07-08 |  |
+| [let's run away](https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Orion Song](https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [let's run away](https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk) | 3:25 | 2022-07-08 | 2022-08-07 |
 | [Leta](https://open.spotify.com/track/0XdYJ2mMOTRV2s7Y555Hw2) | [Intelligency](https://open.spotify.com/artist/6DdgtZYlUGNzjqkdCqvmfB) | [Leta](https://open.spotify.com/album/4mvdViANsdmhvbvHYmpunp) | 3:58 | 2021-05-03 | 2021-05-28 |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-03-25 | 2022-04-20 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-03-18 | 2022-04-21 |

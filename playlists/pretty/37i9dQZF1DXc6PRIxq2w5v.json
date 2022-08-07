@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Asaph, BIG THE KIID",
-  "num_followers": 90563,
+  "num_followers": 90595,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODgzMSwwMDAwMDAwMGE5ZjU1M2U4ZTRjNTM2YWJlMmU5MWYyYmQ5YTc1NjVh",
+  "snapshot_id": "MTY1NjY0ODgzMSwwMDAwMDAwMGJhNzdlMGZlYWM1MDZmMzZlYzhiNjY5NmNhZDMzZjgx",
   "tracks": [
     {
       "added_at": "2022-07-01 04:13:51",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-07-01 04:13:51",
       "album": {
-        "name": "Certo pelo Certo",
-        "url": "https://open.spotify.com/album/7L18ztvmZsozx9krJeGllU"
-      },
-      "artists": [
-        {
-          "name": "Yudi Tamashiro",
-          "url": "https://open.spotify.com/artist/50SZQeduT8mcE3v60Datpg"
-        }
-      ],
-      "duration_ms": 181920,
-      "name": "Certo pelo Certo",
-      "url": "https://open.spotify.com/track/2AQyyybOb5o1hLKkJegGSV"
-    },
-    {
-      "added_at": "2022-07-01 04:13:51",
-      "album": {
         "name": "Primeiro e U\u0301ltimo",
         "url": "https://open.spotify.com/album/75fiLD9CFlKt2JOCth6LLW"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 162036,
       "name": "Primeiro e U\u0301ltimo",
       "url": "https://open.spotify.com/track/72UhDf5qi1m7KaufxMnL5F"
+    },
+    {
+      "added_at": "2022-07-01 04:13:51",
+      "album": {
+        "name": "Certo pelo Certo",
+        "url": "https://open.spotify.com/album/7L18ztvmZsozx9krJeGllU"
+      },
+      "artists": [
+        {
+          "name": "Yudi Tamashiro",
+          "url": "https://open.spotify.com/artist/50SZQeduT8mcE3v60Datpg"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "Certo pelo Certo",
+      "url": "https://open.spotify.com/track/2AQyyybOb5o1hLKkJegGSV"
     },
     {
       "added_at": "2022-07-01 04:13:51",
@@ -359,26 +359,22 @@
     {
       "added_at": "2022-07-01 04:13:51",
       "album": {
-        "name": "Vai Ficar Tudo Bem",
-        "url": "https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS"
+        "name": "Tudo E\u0301 Vaidade",
+        "url": "https://open.spotify.com/album/3HUEAsnvTveLPcRPIEaWCm"
       },
       "artists": [
         {
-          "name": "Ca\u00edque Ribeiro",
-          "url": "https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7"
+          "name": "Arthur Pompeo",
+          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
         },
         {
-          "name": "Asaph",
-          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+          "name": "Cefas Music",
+          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
         }
       ],
-      "duration_ms": 220279,
-      "name": "Vai Ficar Tudo Bem",
-      "url": "https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH"
+      "duration_ms": 205440,
+      "name": "Tudo E\u0301 Vaidade",
+      "url": "https://open.spotify.com/track/6nnDsAsZLFLrAja13FlHbk"
     },
     {
       "added_at": "2022-07-01 04:13:51",
@@ -403,22 +399,26 @@
     {
       "added_at": "2022-07-01 04:13:51",
       "album": {
-        "name": "Tudo E\u0301 Vaidade",
-        "url": "https://open.spotify.com/album/3HUEAsnvTveLPcRPIEaWCm"
+        "name": "Vai Ficar Tudo Bem",
+        "url": "https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS"
       },
       "artists": [
         {
-          "name": "Arthur Pompeo",
-          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
+          "name": "Ca\u00edque Ribeiro",
+          "url": "https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7"
         },
         {
-          "name": "Cefas Music",
-          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Tudo E\u0301 Vaidade",
-      "url": "https://open.spotify.com/track/6nnDsAsZLFLrAja13FlHbk"
+      "duration_ms": 220279,
+      "name": "Vai Ficar Tudo Bem",
+      "url": "https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH"
     },
     {
       "added_at": "2022-07-01 04:13:51",

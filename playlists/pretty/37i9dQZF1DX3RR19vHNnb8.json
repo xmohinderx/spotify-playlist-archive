@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 3463,
+  "num_followers": 3473,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4NjEzNCwwMDAwMDAwMGUyNzYzY2I2NmQ0YzY1NGVlMTA3NTZjZTIxNTgyZmZj",
+  "snapshot_id": "MTY1OTY4NjEzNCwwMDAwMDAwMGM5YzFkNGVkOGQ5NTg3NTdkNjdkNWU4NjYyMTBmOWI1",
   "tracks": [
     {
       "added_at": "2022-07-28 23:00:00",
@@ -389,26 +389,6 @@
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Bigger Than Life",
-        "url": "https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Bigger Than Life",
-      "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
-    },
-    {
       "added_at": "2021-10-01 05:37:36",
       "album": {
         "name": "Want It All (feat. Polo G)",
@@ -427,6 +407,26 @@
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Bigger Than Life",
+        "url": "https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Bigger Than Life",
+      "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
     },
     {
       "added_at": "2021-12-09 23:01:00",
@@ -789,6 +789,30 @@
       "url": "https://open.spotify.com/track/0lgUn1bN5txujF60W7YAbv"
     },
     {
+      "added_at": "2022-08-05 07:55:34",
+      "album": {
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/2i9q4Ax4pXU62uNOJHy2qo"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
+    },
+    {
       "added_at": "2022-04-14 23:00:00",
       "album": {
         "name": "Two-Face Bang 2",
@@ -829,6 +853,26 @@
       "url": "https://open.spotify.com/track/0be1HYcKx12wNtKMV8u9RE"
     },
     {
+      "added_at": "2021-09-17 04:29:51",
+      "album": {
+        "name": "Green With Envy",
+        "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "duration_ms": 258950,
+      "name": "Loyal (feat. NSG)",
+      "url": "https://open.spotify.com/track/5XDJOlzaw1FCsz75I6Vjuh"
+    },
+    {
       "added_at": "2021-12-02 23:01:00",
       "album": {
         "name": "Holy F4k",
@@ -859,26 +903,6 @@
       "duration_ms": 195428,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/6PTiCTZVL30tsXGh22Yga1"
-    },
-    {
-      "added_at": "2021-09-17 04:29:51",
-      "album": {
-        "name": "Green With Envy",
-        "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        }
-      ],
-      "duration_ms": 258950,
-      "name": "Loyal (feat. NSG)",
-      "url": "https://open.spotify.com/track/5XDJOlzaw1FCsz75I6Vjuh"
     },
     {
       "added_at": "2021-11-18 23:01:00",
@@ -979,22 +1003,6 @@
       "duration_ms": 197538,
       "name": "The Guy",
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
-    },
-    {
-      "added_at": "2021-10-08 04:40:38",
-      "album": {
-        "name": "Big Bidness",
-        "url": "https://open.spotify.com/album/0sWBFDpM7sClqlK9sHm9q4"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "Big Bidness",
-      "url": "https://open.spotify.com/track/24Sdq5vT5sdZTeQmvb8zCd"
     }
   ],
   "unique_name": "Pump it Up ",

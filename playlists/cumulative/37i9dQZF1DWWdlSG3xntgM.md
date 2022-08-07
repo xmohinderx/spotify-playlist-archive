@@ -4,7 +4,7 @@
 
 > Những nhạc phẩm đi vào lòng người từ nhiều thế hệ\. Ảnh bìa: Như Quỳnh
 
-167 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/5boFF0xUKGFIqrQ0wirWdC)
+168 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/5boFF0xUKGFIqrQ0wirWdC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Thành phố buồn](https://open.spotify.com/track/2kpiGWlWgD6HJCG6VVSNpQ) | [Chế Thanh](https://open.spotify.com/artist/0yabY6VvvYy5b558Kn63zu) | [Thói đời](https://open.spotify.com/album/1l615bbvZ0DfDKUg2oJS2i) | 5:06 | 2022-03-11 |  |
 | [Thành Phố Buồn](https://open.spotify.com/track/16QjGUB7VQ5jjdRCpwWEA3) | [Lan Anh](https://open.spotify.com/artist/5VhQoey05lkMjriwWxJe0b) | [Thành Phố Buồn](https://open.spotify.com/album/4f2Gq8bnPOj22OeQVgwVIu) | 6:05 | 2022-03-11 | 2022-07-24 |
 | [Thành Phố Buồn](https://open.spotify.com/track/61Lqq5mQRyDhaaqs0Rz0Km) | [Lan Anh](https://open.spotify.com/artist/5VhQoey05lkMjriwWxJe0b) | [Thành Phố Buồn](https://open.spotify.com/album/2ZN48rHtm9j3ISWDMgWioy) | 6:05 | 2022-03-11 |  |
+| [Thành Phố Buồn](https://open.spotify.com/track/3Mj0vd5trSMH7hdH8NVIOO) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad) | [Qua Cơn Mê](https://open.spotify.com/album/4kbT3PLXiKQ6IGcIDeeDSf) | 5:43 | 2022-03-11 |  |
 | [Thành Phố Buồn \(feat\. Hồng Ngọc\)](https://open.spotify.com/track/03j8uDduVIOZ0GDHKcz0Pk) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad), [Hồng Ngọc](https://open.spotify.com/artist/2i3XtByBV8r0uYU5FP6AAP) | [Qua Cơn Mê](https://open.spotify.com/album/5e8L4OFh0PSEKzWYKY9uAK) | 5:43 | 2022-03-11 | 2022-07-14 |
 | [Thói đời](https://open.spotify.com/track/283pZAMU2awKhsGFWHep0e) | [Đạt Võ](https://open.spotify.com/artist/3QFgKz8AHtlfjq237cwjoq) | [Cát bụi cuộc đời \- Đạt võ giọng ca lạ](https://open.spotify.com/album/0WwXeueJei8GibI5x0rIHf) | 5:08 | 2022-03-11 | 2022-07-23 |
 | [Thôi Em Về Đi Em](https://open.spotify.com/track/1PJddQl5TY07mKRnh0Rj0H) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP), [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Thôi Em Về Đi Em](https://open.spotify.com/album/4RKVjK4tsSDQjqECBtDNze) | 3:58 | 2022-03-11 | 2022-07-07 |
@@ -166,7 +167,7 @@
 | [Xót Xa](https://open.spotify.com/track/3iCgmCxnEaDWv1FVoemabY) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/2HFaqIATiNQLae9NBySEoS) | 4:58 | 2022-03-11 |  |
 | [Đắp Mộ Cuộc Tình](https://open.spotify.com/track/1hGexH7KKW1QsN3UJK5U7H) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn), [Bằng Kiều](https://open.spotify.com/artist/0KWdVd7ZYhtlm0CLHIFBya), [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Nhịp Cầu Tri Âm](https://open.spotify.com/album/3CpUiRoMBxPSTlaklbTPXk) | 5:53 | 2022-03-11 |  |
 | [Đêm Tiền Đồn](https://open.spotify.com/track/3L8gdgw9NsBwsVVYxdbATT) | [Phương Ý](https://open.spotify.com/artist/39rzQretQQ5JFkeigPdhcg) | [Đêm Tiền Đồn](https://open.spotify.com/album/41r121vcZn2s6kcfj5jGzu) | 4:31 | 2022-03-11 | 2022-07-29 |
-| [Đôi Mắt Người Xưa](https://open.spotify.com/track/3tewtecu6SK1cCZSngNkVv) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:03 | 2022-03-11 |  |
+| [Đôi Mắt Người Xưa](https://open.spotify.com/track/3tewtecu6SK1cCZSngNkVv) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:03 | 2022-03-11 | 2022-08-07 |
 | [Đôi ngả chia ly](https://open.spotify.com/track/6QvOnwQ1wkSV7ZAyQnaqH2) | [Huong Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn), [Duy Quang](https://open.spotify.com/artist/0mK6ypkGLYJ1P4J1fP4Jcf) | [Đôi ngả chia ly](https://open.spotify.com/album/0gVz8sikwaHvh9LPN3EZMf) | 5:03 | 2022-03-11 | 2022-06-26 |
 | [Đắp mộ cuộc tình](https://open.spotify.com/track/1HXh20m8PFMAhKhJFOWm4z) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tạ từ trong đêm](https://open.spotify.com/album/6IBdjS3dP91761rRBuTtCs) | 5:48 | 2022-03-11 | 2022-07-29 |
 | [Đắp mộ cuộc tình](https://open.spotify.com/track/3T5ebvfNzgtvFzi1CuKKui) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Đắp Mộ Cuộc Tình](https://open.spotify.com/album/06gVRXKGJdHRRWHq9acZH6) | 5:35 | 2022-03-11 |  |

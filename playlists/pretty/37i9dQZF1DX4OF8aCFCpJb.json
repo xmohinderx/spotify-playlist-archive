@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 65032,
+  "num_followers": 65046,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMDFmOTQ4MTZlMTIzM2JjZjJmOWZlMmRjZTRkZWI5NTM1",
+  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMDg5N2Y5NjZkZDg2ZTc4NDQzMjk4NThkM2RjOWI4YmUx",
   "tracks": [
     {
       "added_at": "2022-07-15 14:16:50",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Underh\u00e5llningsmaskinen",
-        "url": "https://open.spotify.com/album/4NXk3Z5mg1PPos62yeJAQX"
-      },
-      "artists": [
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Vakter Och Polis Med Jr Erik, Eye'n`l & Kapten R\u00f6d",
-      "url": "https://open.spotify.com/track/4UtcOmB3ZqgtZiABLYCBSI"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
         "name": "\u00d6ver Min D\u00f6da",
         "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "K\u00e4rlek & Revolt",
-        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
+        "name": "Underh\u00e5llningsmaskinen",
+        "url": "https://open.spotify.com/album/4NXk3Z5mg1PPos62yeJAQX"
       },
       "artists": [
         {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
         }
       ],
-      "duration_ms": 231473,
-      "name": "En God V\u00e4n",
-      "url": "https://open.spotify.com/track/38UKbt0qxGxnwYLGKKxyLi"
+      "duration_ms": 240146,
+      "name": "Vakter Och Polis Med Jr Erik, Eye'n`l & Kapten R\u00f6d",
+      "url": "https://open.spotify.com/track/4UtcOmB3ZqgtZiABLYCBSI"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -815,6 +799,22 @@
       "duration_ms": 251000,
       "name": "Mediak\u00e5t feat. Timbuktu",
       "url": "https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
+        "name": "K\u00e4rlek & Revolt",
+        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        }
+      ],
+      "duration_ms": 231473,
+      "name": "En God V\u00e4n",
+      "url": "https://open.spotify.com/track/38UKbt0qxGxnwYLGKKxyLi"
     },
     {
       "added_at": "2022-07-15 14:16:50",

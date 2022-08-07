@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: The Interrupters
 
-1,619 songs - 3 day 20 hr 57 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,620 songs - 3 day 21 hr 0 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1180,6 +1180,7 @@
 | [Satellite](https://open.spotify.com/track/0lgvqpT2iQ5pQx2IBBtCMu) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [The Second Principle](https://open.spotify.com/album/2zbLsqlj4m61R0xBpMx3Dw) | 3:29 | 2022-04-22 | 2022-04-29 |
 | [Saturation \(Strange Love\)](https://open.spotify.com/track/3USDxKVLG1hbnAnY3zGXL4) | [Grey Daze](https://open.spotify.com/artist/1OPyWvWWkx18pqGjugyxrl) | [Saturation \(Strange Love\)](https://open.spotify.com/album/6IxQJ1qcKfSmDWVZ4Nniox) | 3:55 | 2022-04-14 | 2022-04-22 |
 | [Saturday City](https://open.spotify.com/track/7ipcAFnEn92OC9weOUe0tI) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/1VrI6y38tqIwZc01YRFh2G) | 4:09 | 2022-06-30 | 2022-07-09 |
+| [Saturday Night](https://open.spotify.com/track/6hAkxcnjEMi0QaNhHht4hp) | [Lemondrop](https://open.spotify.com/artist/7sbagdU2jg3fyzcIUGTyYd) | [Saturday Night](https://open.spotify.com/album/0BYauQgZyBrA8dlMFDfBO3) | 3:39 | 2022-08-05 |  |
 | [Save Me from Myself](https://open.spotify.com/track/72JETKVAqfC7yX09OvfYOm) | [Kingdom Collapse](https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4) | [Save Me from Myself](https://open.spotify.com/album/6pDwGlXF2GPESFDaeeA7Iu) | 3:04 | 2022-03-10 | 2022-03-18 |
 | [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-24 | 2022-07-01 |
 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-23 | 2022-06-25 |

@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-181 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+182 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Skin on Skin](https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av) | 3:03 | 2021-12-14 |  |
 | [Slow Down \(feat\. Jorja Smith\) \- Vintage Culture & Slow Motion Remix](https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Slow Down \(feat\. Jorja Smith\) \[Vintage Culture & Slow Motion Remix\]](https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b) | 3:01 | 2022-07-25 |  |
 | [slumber](https://open.spotify.com/track/3Z6LBHVcNXuAEpXrKwUEAS) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [slumber](https://open.spotify.com/album/4Q4b9Ti4hXcyItDQC9KKR8) | 2:53 | 2022-05-03 | 2022-07-29 |
-| [Smoking Section](https://open.spotify.com/track/3YYSTOsem7yFoAU7QqeRkP) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [Smoking Section](https://open.spotify.com/album/6Epl0VfGd5Ao5iZ0tR2wAK) | 3:48 | 2022-05-03 |  |
+| [Smoking Section](https://open.spotify.com/track/3YYSTOsem7yFoAU7QqeRkP) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [Smoking Section](https://open.spotify.com/album/6Epl0VfGd5Ao5iZ0tR2wAK) | 3:48 | 2022-05-03 | 2022-08-07 |
 | [Sneak Away With Me](https://open.spotify.com/track/0DnMu0Q9X3yCPMUD5PP3P9) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Sneak Away With Me](https://open.spotify.com/album/7GcPAdmhtF0duAlDydss28) | 5:06 | 2021-12-14 | 2022-07-27 |
 | [Soaked](https://open.spotify.com/track/4zIiarkbaDt2cm6sukb1Xt) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 4:00 | 2021-12-14 |  |
 | [soda stain](https://open.spotify.com/track/3RbKJKBWHBBPkNZ3BaCKfj) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [soda stain](https://open.spotify.com/album/4ZEAc4gemVxICjPks2GyQD) | 1:56 | 2021-08-05 | 2022-07-29 |
@@ -179,6 +179,7 @@
 | [We're All Falling Apart](https://open.spotify.com/track/7uhPrSyqbRDSwWd0JBTsA7) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [We're All Falling Apart](https://open.spotify.com/album/35IjLV9YXGSRULuZlhqAO1) | 3:02 | 2021-11-12 | 2022-07-16 |
 | [Weekend](https://open.spotify.com/track/0qPeakaeFndczx9OhJIFp6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/5vREvSe0O7QJeXhT3OaTLS) | 3:08 | 2021-08-05 | 2022-07-29 |
 | [Weekend](https://open.spotify.com/track/4Zc6fjadh1ONHDtec9poAD) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve) | 3:08 | 2022-07-25 |  |
+| [What Does That Make Me?](https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [What Does That Make Me?](https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60) | 2:53 | 2022-08-04 |  |
 | [When the Night Calls...](https://open.spotify.com/track/4XvSnrSeyzG4ucLFfi2wAT) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [When the Night Calls...](https://open.spotify.com/album/6yzAG8NancCqVFG41yo88Z) | 4:43 | 2021-08-05 | 2022-07-29 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Moonlight](https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn) | 3:45 | 2022-07-25 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 | 2021-10-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Lo que suena en la noche.",
-  "num_followers": 205126,
+  "num_followers": 205240,
   "original_name": "Andando De Noche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjU5OTA4MCwwMDAwMDAwMGE4ZTgzYzUyOWY4NzNmMjVhNDIyOTBiM2VjNTcyYmNh",
+  "snapshot_id": "MTY1NjU5OTA4MCwwMDAwMDAwMDkwODY4MDQzYTRkNzkyOTc0OTNiMmU3M2Q5MzRkMGM1",
   "tracks": [
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "Suave (Remix)",
         "url": "https://open.spotify.com/album/3L9hvsc3Ga0I1EQVHHPZgh"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 203000,
       "name": "Suave - Remix",
       "url": "https://open.spotify.com/track/6K7V47wFpfam2aeE893rbL"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1743,30 +1743,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/3LArmTMKYPLs79L4v628ga"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 317440,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/36dhj3CSJ2gsED35rBswno"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
         "url": "https://open.spotify.com/album/1ZriaC9kT8i4L51al45sgZ"
       },
@@ -1799,6 +1775,30 @@
       "duration_ms": 308133,
       "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
       "url": "https://open.spotify.com/track/2opYh9ZmKbiVrzEuPgrCTX"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3LArmTMKYPLs79L4v628ga"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 317440,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/36dhj3CSJ2gsED35rBswno"
     },
     {
       "added_at": "2022-06-30 14:24:40",

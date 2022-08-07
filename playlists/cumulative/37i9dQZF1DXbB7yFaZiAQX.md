@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-392 songs - 1 day 3 hr 43 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
+393 songs - 1 day 3 hr 46 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Help You Ann](https://open.spotify.com/track/22zOTz6PaXcvCUqFz6yFC6) | [Lyres](https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml) | [On Fyre](https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f) | 2:30 | 2020-05-06 | 2022-07-12 |
 | [Here Comes the Rain Again \- Remastered Version](https://open.spotify.com/track/10X1RP2I6DL8Q0xs2FfImV) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Touch](https://open.spotify.com/album/4m9XbflfyP66irnWo3hwZs) | 4:54 | 2018-12-12 | 2022-07-29 |
 | [Here Comes the Rain Again \- Remastered Version](https://open.spotify.com/track/78RIER8V6EhrqVPOBi2GYa) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Touch \(Reissue \- Deluxe Edition\)](https://open.spotify.com/album/4pGwe5BW8GVtIP8ruoa1jB) | 4:54 | 2018-12-12 |  |
-| [Homosapien](https://open.spotify.com/track/7gBZxDfVolYTmpJ8eBCU68) | [Pete Shelley](https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8) | [Homosapien](https://open.spotify.com/album/59sf1CK6QyJ5DDaeru4xqG) | 4:34 | 2018-12-12 |  |
+| [Homosapien](https://open.spotify.com/track/7gBZxDfVolYTmpJ8eBCU68) | [Pete Shelley](https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8) | [Homosapien](https://open.spotify.com/album/59sf1CK6QyJ5DDaeru4xqG) | 4:34 | 2018-12-12 | 2022-08-07 |
 | [Homosapien](https://open.spotify.com/track/36XJWjuNKBax6KqdzpH7Wb) | [Pete Shelley](https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8) | [Homosapien](https://open.spotify.com/album/2ADodHRpsTpPnd8PASc4i8) | 4:35 | 2018-12-12 | 2022-07-27 |
 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 | 2018-12-12 |  |
 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 | 2018-12-12 |  |
@@ -240,6 +240,7 @@
 | [Original Sin](https://open.spotify.com/track/1jM23jASF0JrhgqYhqCZfl) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [INXS Remastered](https://open.spotify.com/album/7CJvhqb2PJq5fBcY6eKqjl) | 5:17 | 2019-08-02 | 2022-07-29 |
 | [Our Darkness](https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL) | [Joined Up Writing/The Sitting Room](https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ) | 5:24 | 2018-12-12 |  |
 | [Our Lips Are Sealed](https://open.spotify.com/track/5xZSbzCVTp0qQt2K6Dfe0V) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/6jTIp3eB8Oqm1bfWr8ZhzZ) | 2:51 | 2018-12-12 | 2022-07-29 |
+| [Our Lips Are Sealed](https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx) | 2:51 | 2018-12-12 |  |
 | [P: Machinery](https://open.spotify.com/track/4YIZE6Z4UWVk9wCtE6m3Rv) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Deluxe Edition\)](https://open.spotify.com/album/435EGjWSVjq9b8cggdh5yM) | 3:51 | 2019-08-02 | 2022-04-21 |
 | [p:Machinery](https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Analogue Sequence\)](https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW) | 3:48 | 2019-08-02 |  |
 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 | 2018-12-12 |  |

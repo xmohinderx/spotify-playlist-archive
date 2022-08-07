@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 
 > Come on, man\. Just smile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,165 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,248 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 44 | [Jah Is There](https://open.spotify.com/track/05aGKJ2UcIjF9DetAnU0qF) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible Project \- 5th Anniversary \(Deluxe Edition\)](https://open.spotify.com/album/3T5KaIlXqSnWUlnM99mOjv) | 4:17 |
 | 45 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 |
 | 46 | [Fix It](https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5) | [Clinton Fearon](https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd) | [Fix It](https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p) | 3:02 |
-| 47 | [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 |
-| 48 | [100 Pound a Kali](https://open.spotify.com/track/4ueCKMfynKI8B2SzoPJaTr) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Cut Stone](https://open.spotify.com/artist/2n90OvLEoTFhRC0AT0bS48), [Kali Blaxx](https://open.spotify.com/artist/6847AhFVSj1r1KknNDt6uz) | [100 Pound a Kali \(feat\. Kali Blaxx\) \- Single](https://open.spotify.com/album/2gpLJUMuesqNvhRWastDjC) | 2:39 |
-| 49 | [Well Excellent](https://open.spotify.com/track/7uX7niEFrJFmj3SFHsnwkL) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Jr\. Demus](https://open.spotify.com/artist/2P7kXO4UzC2NHSHRmtdWlb) | [Well Excellent](https://open.spotify.com/album/4of34K5GjdYXRcfLKwjHKG) | 3:36 |
+| 47 | [100 Pound a Kali](https://open.spotify.com/track/4ueCKMfynKI8B2SzoPJaTr) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Cut Stone](https://open.spotify.com/artist/2n90OvLEoTFhRC0AT0bS48), [Kali Blaxx](https://open.spotify.com/artist/6847AhFVSj1r1KknNDt6uz) | [100 Pound a Kali \(feat\. Kali Blaxx\) \- Single](https://open.spotify.com/album/2gpLJUMuesqNvhRWastDjC) | 2:39 |
+| 48 | [Well Excellent](https://open.spotify.com/track/7uX7niEFrJFmj3SFHsnwkL) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Jr\. Demus](https://open.spotify.com/artist/2P7kXO4UzC2NHSHRmtdWlb) | [Well Excellent](https://open.spotify.com/album/4of34K5GjdYXRcfLKwjHKG) | 3:36 |
+| 49 | [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 |
 | 50 | [Do You See](https://open.spotify.com/track/5YRQDSlUCBFcevXm3CMpr8) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H) | [Do You See](https://open.spotify.com/album/2k8B3PeBWVB1y2RQx0ADav) | 3:55 |
 
-Snapshot ID: `MTY1NTc0NTYyNCwwMDAwMDAwMDM2MmZiZGY2MzliMmNjYWJiYjQzOTExZTNlNDY2N2Nl`
+Snapshot ID: `MTY1NTc0NTYyNCwwMDAwMDAwMDA0ZDMyZDExOTM2YWVlYmZhYTdhMWQ5ZGYzMjM5MjIw`

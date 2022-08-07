@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 624928,
+  "num_followers": 625004,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5ODQ2OSwwMDAwMDAwMGUyYWY4YzA2ZjllMDdjNzBhOTE2YjlhNDkyOWIxMjE1",
+  "snapshot_id": "MTY1ODQ5ODQ2OSwwMDAwMDAwMDEwZDYyOTBhNTJjNmQ5NWRjNDVmYjUwNzc4ZDc2ZDcw",
   "tracks": [
     {
       "added_at": "2022-07-22 14:01:09",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-07-22 14:01:09",
       "album": {
-        "name": "Yoga Meditation",
-        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
-      },
-      "artists": [
-        {
-          "name": "Zen Wuan",
-          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
-        }
-      ],
-      "duration_ms": 163730,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
-    },
-    {
-      "added_at": "2022-07-22 14:01:09",
-      "album": {
         "name": "Turiya",
         "url": "https://open.spotify.com/album/7gHrv87n4GoqcFZ7foXlLu"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 120300,
       "name": "Turiya",
       "url": "https://open.spotify.com/track/0LpC3dt5L0hw2FT6aModNK"
+    },
+    {
+      "added_at": "2022-07-22 14:01:09",
+      "album": {
+        "name": "Yoga Meditation",
+        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
+      },
+      "artists": [
+        {
+          "name": "Zen Wuan",
+          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
+        }
+      ],
+      "duration_ms": 163730,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
     },
     {
       "added_at": "2022-07-22 14:01:09",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-07-22 14:01:09",
       "album": {
-        "name": "Serum",
-        "url": "https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT"
-      },
-      "artists": [
-        {
-          "name": "Cieri",
-          "url": "https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Serum",
-      "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
-    },
-    {
-      "added_at": "2022-07-22 14:01:09",
-      "album": {
         "name": "Stilhed",
         "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 199106,
       "name": "Stilhed",
       "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
+    },
+    {
+      "added_at": "2022-07-22 14:01:09",
+      "album": {
+        "name": "Serum",
+        "url": "https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT"
+      },
+      "artists": [
+        {
+          "name": "Cieri",
+          "url": "https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Serum",
+      "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
     },
     {
       "added_at": "2022-07-22 14:01:09",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-07-22 14:01:09",
       "album": {
-        "name": "Charcoal",
-        "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 329773,
-      "name": "Such Owls As You",
-      "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
-    },
-    {
-      "added_at": "2022-07-22 14:01:09",
-      "album": {
         "name": "Son\u00e1mbulos",
         "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 192000,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
+    },
+    {
+      "added_at": "2022-07-22 14:01:09",
+      "album": {
+        "name": "Charcoal",
+        "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
+      },
+      "artists": [
+        {
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+        }
+      ],
+      "duration_ms": 329773,
+      "name": "Such Owls As You",
+      "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
     },
     {
       "added_at": "2022-07-22 14:01:09",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-07-22 14:01:09",
       "album": {
-        "name": "Myriads",
-        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
-      },
-      "artists": [
-        {
-          "name": "12dust",
-          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Myriads",
-      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
-    },
-    {
-      "added_at": "2022-07-22 14:01:09",
-      "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 195306,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
+    },
+    {
+      "added_at": "2022-07-22 14:01:09",
+      "album": {
+        "name": "Myriads",
+        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
+      },
+      "artists": [
+        {
+          "name": "12dust",
+          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Myriads",
+      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
     },
     {
       "added_at": "2022-07-22 14:01:09",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-07-22 14:01:09",
       "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
-      },
-      "artists": [
-        {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
-        }
-      ],
-      "duration_ms": 205505,
-      "name": "Oriental Journey",
-      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
-    },
-    {
-      "added_at": "2022-07-22 14:01:09",
-      "album": {
         "name": "Luminescent",
         "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 264000,
       "name": "Luminescent",
       "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
+    },
+    {
+      "added_at": "2022-07-22 14:01:09",
+      "album": {
+        "name": "Meditations for Woods & Winds",
+        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
+      },
+      "artists": [
+        {
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+        }
+      ],
+      "duration_ms": 205505,
+      "name": "Oriental Journey",
+      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
     },
     {
       "added_at": "2022-07-22 14:01:09",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-07-22 14:01:09",
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
+      },
+      "artists": [
+        {
+          "name": "They Dream By Day",
+          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
+        }
+      ],
+      "duration_ms": 134210,
+      "name": "We Are Forever",
+      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
+    },
+    {
+      "added_at": "2022-07-22 14:01:09",
+      "album": {
         "name": "Into Gratitude",
         "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
       },
@@ -847,18 +863,34 @@
     {
       "added_at": "2022-07-22 14:01:09",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
       },
       "artists": [
         {
-          "name": "They Dream By Day",
-          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
+          "name": "Fahda Mohamed",
+          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
         }
       ],
-      "duration_ms": 134210,
-      "name": "We Are Forever",
-      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
+      "duration_ms": 188000,
+      "name": "Takamatsu",
+      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
+    },
+    {
+      "added_at": "2022-07-22 14:01:09",
+      "album": {
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
+      },
+      "artists": [
+        {
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     },
     {
       "added_at": "2022-07-22 14:01:09",
@@ -883,22 +915,6 @@
     {
       "added_at": "2022-07-22 14:01:09",
       "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
-      },
-      "artists": [
-        {
-          "name": "FANAR",
-          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
-    },
-    {
-      "added_at": "2022-07-22 14:01:09",
-      "album": {
         "name": "The Shortest Flight",
         "url": "https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 118600,
       "name": "The Shortest Flight",
       "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
-    },
-    {
-      "added_at": "2022-07-22 14:01:09",
-      "album": {
-        "name": "Arrivals",
-        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
-      },
-      "artists": [
-        {
-          "name": "Fahda Mohamed",
-          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Takamatsu",
-      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
     },
     {
       "added_at": "2022-07-22 14:01:09",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-07-22 14:01:09",
       "album": {
-        "name": "Song For Wermland",
-        "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Jenzen",
-          "url": "https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc"
-        }
-      ],
-      "duration_ms": 226862,
-      "name": "Song For Wermland",
-      "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
-    },
-    {
-      "added_at": "2022-07-22 14:01:09",
-      "album": {
         "name": "Healing Keys of Light",
         "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 308000,
       "name": "Healing Keys of Light",
       "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
+    },
+    {
+      "added_at": "2022-07-22 14:01:09",
+      "album": {
+        "name": "Song For Wermland",
+        "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Jenzen",
+          "url": "https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc"
+        }
+      ],
+      "duration_ms": 226862,
+      "name": "Song For Wermland",
+      "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
     },
     {
       "added_at": "2022-07-22 14:01:09",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-07-22 14:01:09",
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
+      },
+      "artists": [
+        {
+          "name": "Astro.Not",
+          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
+    },
+    {
+      "added_at": "2022-07-22 14:01:09",
+      "album": {
         "name": "Ambientes",
         "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 137796,
       "name": "Sunny & Cloudy",
       "url": "https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0"
-    },
-    {
-      "added_at": "2022-07-22 14:01:09",
-      "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
-      },
-      "artists": [
-        {
-          "name": "Astro.Not",
-          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
     },
     {
       "added_at": "2022-07-22 14:01:09",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-07-22 14:01:09",
       "album": {
-        "name": "Purity 432hz",
-        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Purity 432hz",
-      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
-    },
-    {
-      "added_at": "2022-07-22 14:01:09",
-      "album": {
         "name": "Darashinai Beach",
         "url": "https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 219090,
       "name": "Darashinai Beach",
       "url": "https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW"
+    },
+    {
+      "added_at": "2022-07-22 14:01:09",
+      "album": {
+        "name": "Purity 432hz",
+        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Purity 432hz",
+      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
     },
     {
       "added_at": "2022-07-22 14:01:09",

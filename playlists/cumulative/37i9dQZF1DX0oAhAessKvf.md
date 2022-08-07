@@ -4,7 +4,7 @@
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-161 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/5hf1hQSZw5PUaTleXUee3L)
+162 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/5hf1hQSZw5PUaTleXUee3L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Ella Se Arrebata](https://open.spotify.com/track/4anadMQQwSaxYn4aoKMRC8) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Ella Se Arrebata](https://open.spotify.com/album/7BLa1dyeDRqeYMvyloc4VH) | 3:31 | 2021-12-20 | 2022-07-29 |
 | [En La Cama](https://open.spotify.com/track/0smQWysb4n7WOVGv5YMLnF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Haciendo Escante](https://open.spotify.com/album/018XQ1P5cLeJPhIeH4xL4l) | 2:37 | 2021-12-20 | 2022-07-29 |
 | [En La Cama \(feat\. Daddy Yankee\)](https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Exitos](https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB) | 2:37 | 2021-12-20 |  |
-| [Encendio](https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp) | [Falo](https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 | 2021-12-20 |  |
+| [Encendio](https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp) | [Falo](https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 | 2021-12-20 | 2022-08-07 |
 | [Eres Tú](https://open.spotify.com/track/7Fp2EJFwuAgNm1Ea8fRilz) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gargolas 2](https://open.spotify.com/album/4au8VGPKvHYnrVeEPY3ouJ) | 3:03 | 2021-12-20 | 2022-07-27 |
 | [Esa Chica No Me Puede Vacilar](https://open.spotify.com/track/3EOw3VEjwmWftsGhNoYwhZ) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [House Merengue / Rap](https://open.spotify.com/album/7G8yBokZdxJIFo0n9JySYq) | 4:18 | 2021-12-20 | 2022-07-27 |
 | [Estan Locos](https://open.spotify.com/track/0yEPNpM5OwxcoSKe1zPEJM) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Playero DJ Live](https://open.spotify.com/album/0zgWFTduXHeUH0eWkM96Su) | 3:01 | 2021-12-20 | 2022-07-28 |
@@ -61,6 +61,7 @@
 | [Guatauba Mix](https://open.spotify.com/track/4ax3uC1v0Q0KahskLq5iit) | [Mexicano](https://open.spotify.com/artist/5LsvX0qNNtRQgnkzJlKbwL), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt), [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU), [Pirin](https://open.spotify.com/artist/6QkUmyShyQsKoC16c2upmN) | [Playero Presenta Exitos 97](https://open.spotify.com/album/0Wov4Aki0B8z6b5kERzGka) | 3:23 | 2021-12-20 | 2022-07-28 |
 | [Guayando](https://open.spotify.com/track/0CZCEd8zOAO5KYok8009vb) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [El Cangri.com](https://open.spotify.com/album/6R1lHlXtA12JRU6Fh0hj6h) | 3:02 | 2021-12-20 | 2022-07-28 |
 | [Guayando](https://open.spotify.com/track/5KfTXVRme8sMRFOqHUlWYo) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [El Cangri.com](https://open.spotify.com/album/1u6jqoJEVYSDlpDduLlXYk) | 3:02 | 2021-12-20 |  |
+| [Hot This Year](https://open.spotify.com/track/0Pp9uh741YQbUAcAJlb2RJ) | [Dirtsman](https://open.spotify.com/artist/3WkWip0kyAQjb91nEJjUgs) | [Reggae Hits, Vol\. 11](https://open.spotify.com/album/2JimbOB089I6bUYDvPLY6P) | 3:29 | 2021-12-20 |  |
 | [Hot This Year](https://open.spotify.com/track/2Ox7sfm30b1Qo7IiRK1W3d) | [Dirtsman](https://open.spotify.com/artist/3WkWip0kyAQjb91nEJjUgs) | [Reggae Hits, Vol\. 11](https://open.spotify.com/album/2zatc6dFsi9q3wBQAX44de) | 3:29 | 2021-12-20 | 2022-08-04 |
 | [Hot This Year](https://open.spotify.com/track/18OALxXikwZDG2zdSAxyCt) | [Dirtsman](https://open.spotify.com/artist/3WkWip0kyAQjb91nEJjUgs) | [Dancehall 101 Vol\. 3](https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH) | 3:42 | 2021-12-20 | 2022-07-29 |
 | [Interlude \- Don Che Tra Mix](https://open.spotify.com/track/6CBjYv25BAXI0cyPuHwnRI) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:38 | 2021-12-20 | 2022-07-29 |

@@ -1,44 +1,36 @@
 {
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Fivio Foreign",
-  "num_followers": 1899270,
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Vory",
+  "num_followers": 1899359,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEyNjE3NSwwMDAwMDAwMDcyMmM5YmRjNzIxZGM1OTgzZTJmYzM2MDNiZjg4ODky",
+  "snapshot_id": "MTY1OTgxMzM1NywwMDAwMDAwMDQ5NjYxMGYzNGYyMDIyMWNhMmJkMWQzYjIxZTdlYWY1",
   "tracks": [
     {
-      "added_at": "2022-07-15 04:01:00",
+      "added_at": "2022-08-06 19:15:57",
       "album": {
-        "name": "Love is\u2026",
-        "url": "https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg"
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
       "artists": [
         {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 230016,
-      "name": "Love is...",
-      "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
-    },
-    {
-      "added_at": "2022-07-29 20:22:55",
-      "album": {
-        "name": "DIE FOR MY BITCH",
-        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
-      },
-      "artists": [
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 172672,
-      "name": "HONEST",
-      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
     },
     {
       "added_at": "2022-04-29 19:58:09",
@@ -77,6 +69,42 @@
       "url": "https://open.spotify.com/track/2yLDniiA2kYECf7IE3f2bd"
     },
     {
+      "added_at": "2022-06-03 04:00:00",
+      "album": {
+        "name": "Lost Souls",
+        "url": "https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 209185,
+      "name": "Lesson Learned",
+      "url": "https://open.spotify.com/track/0h55heB6xDNh4hpWmtH71v"
+    },
+    {
+      "added_at": "2022-08-06 19:15:57",
+      "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203917,
+      "name": "My Go To (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/17GwUSpTy04lYWHHmwMvTD"
+    },
+    {
       "added_at": "2022-07-22 04:00:00",
       "album": {
         "name": "Light Breeze",
@@ -91,6 +119,30 @@
       "duration_ms": 158350,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
+    },
+    {
+      "added_at": "2022-04-29 19:58:09",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -113,52 +165,20 @@
       "url": "https://open.spotify.com/track/1hs54MGy1J69I52GvzsrbB"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
+      "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Who is Nardo Wick?? (Deluxe)",
-        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
+        "name": "Love is\u2026",
+        "url": "https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg"
       },
       "artists": [
         {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
         }
       ],
-      "duration_ms": 228278,
-      "name": "Baby Wyd (Remix) (feat. Latto & Lakeyah)",
-      "url": "https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR"
-    },
-    {
-      "added_at": "2022-07-22 19:12:45",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        }
-      ],
-      "duration_ms": 222773,
-      "name": "Welcome Back",
-      "url": "https://open.spotify.com/track/6lhlzSra6YxSPWw5lzv7hG"
+      "duration_ms": 230016,
+      "name": "Love is...",
+      "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -175,6 +195,22 @@
       "duration_ms": 174786,
       "name": "No Mop",
       "url": "https://open.spotify.com/track/74d9XLd9OMpvb4RaXCmeVM"
+    },
+    {
+      "added_at": "2022-08-06 19:15:57",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3zSACdYWSh5TPr5fn0YO0T"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 174616,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/1gHamNXNt8OjoynRvGhg1a"
     },
     {
       "added_at": "2022-07-29 20:22:55",
@@ -221,24 +257,24 @@
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
+      "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "No Stoppin ft. Blxst",
-        "url": "https://open.spotify.com/album/0BCSnOx8yJpY9TPeRILEUz"
+        "name": "Only Us (feat. Babyface Ray)",
+        "url": "https://open.spotify.com/album/70JVltVkQblqp2cuoCfeMV"
       },
       "artists": [
         {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
         },
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
         }
       ],
-      "duration_ms": 177627,
-      "name": "No Stoppin ft. Blxst",
-      "url": "https://open.spotify.com/track/3Jo34FHsqVDp7QLP9Ahw2n"
+      "duration_ms": 204200,
+      "name": "Only Us (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/2ui0S7VkIT47mTGLlioGsw"
     },
     {
       "added_at": "2022-07-29 20:22:55",
@@ -275,6 +311,22 @@
       "duration_ms": 158350,
       "name": "Can't Stop Won't Stop (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0"
+    },
+    {
+      "added_at": "2022-07-29 20:22:55",
+      "album": {
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 172672,
+      "name": "HONEST",
+      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -317,64 +369,24 @@
       "url": "https://open.spotify.com/track/2DxrPZi0nxaIrGciFmErTW"
     },
     {
-      "added_at": "2022-04-29 19:58:09",
+      "added_at": "2022-01-07 05:00:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         }
       ],
-      "duration_ms": 189893,
-      "name": "WAIT FOR U (feat. Drake & Tems)",
-      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Only Us (feat. Babyface Ray)",
-        "url": "https://open.spotify.com/album/70JVltVkQblqp2cuoCfeMV"
-      },
-      "artists": [
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Only Us (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/2ui0S7VkIT47mTGLlioGsw"
-    },
-    {
-      "added_at": "2022-06-03 04:00:00",
-      "album": {
-        "name": "Lost Souls",
-        "url": "https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 209185,
-      "name": "Lesson Learned",
-      "url": "https://open.spotify.com/track/0h55heB6xDNh4hpWmtH71v"
+      "duration_ms": 144373,
+      "name": "you & me",
+      "url": "https://open.spotify.com/track/6f9GhvtmiQR6JNXRZJKYlj"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -413,6 +425,46 @@
       "url": "https://open.spotify.com/track/46cBzfiGyZetFFC9P9LATk"
     },
     {
+      "added_at": "2022-07-22 19:12:45",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        }
+      ],
+      "duration_ms": 222773,
+      "name": "Welcome Back",
+      "url": "https://open.spotify.com/track/6lhlzSra6YxSPWw5lzv7hG"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Lost Souls",
+        "url": "https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 217218,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/7Itze7sYhdjEQ4yD1qS1Ox"
+    },
+    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "Medusa",
@@ -447,6 +499,26 @@
       "duration_ms": 159263,
       "name": "Toxic Traits (with KB Mike)",
       "url": "https://open.spotify.com/track/3ip51s5ui2OEur1fzCKsaJ"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "No Stoppin ft. Blxst",
+        "url": "https://open.spotify.com/album/0BCSnOx8yJpY9TPeRILEUz"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 177627,
+      "name": "No Stoppin ft. Blxst",
+      "url": "https://open.spotify.com/track/3Jo34FHsqVDp7QLP9Ahw2n"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -503,6 +575,30 @@
       "duration_ms": 212639,
       "name": "SHOWING OFF HER BODY (with Davido)",
       "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 228278,
+      "name": "Baby Wyd (Remix) (feat. Latto & Lakeyah)",
+      "url": "https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -681,22 +777,6 @@
       "url": "https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Lost Souls",
-        "url": "https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 217218,
-      "name": "Mind Games",
-      "url": "https://open.spotify.com/track/7Itze7sYhdjEQ4yD1qS1Ox"
-    },
-    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "New York",
@@ -827,26 +907,6 @@
       "duration_ms": 176850,
       "name": "Every Good Girl",
       "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
-    },
-    {
-      "added_at": "2022-01-07 05:00:00",
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 144373,
-      "name": "you & me",
-      "url": "https://open.spotify.com/track/6f9GhvtmiQR6JNXRZJKYlj"
     },
     {
       "added_at": "2022-05-06 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1488993,
+  "num_followers": 1489001,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyNTIwMCwwMDAwMDAwMDBjNzU4ZWUyM2IzNzY4ZTgyYzI5YTg4MTk3ZDdhYWY2",
+  "snapshot_id": "MTY1OTYyNTIwMCwwMDAwMDAwMDEyMzhkN2MxYTBhYTU5YThjZDkxYTlkMTIzNTA0MmM5",
   "tracks": [
     {
       "added_at": "2022-08-04 15:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
+        "name": "Mental Acupuncture",
+        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
+      },
+      "artists": [
+        {
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Mental Acupuncture",
+      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
         "name": "Fantastic Farewell (2021 Remastered)",
         "url": "https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 179570,
       "name": "Dream In - TiMT Remix",
       "url": "https://open.spotify.com/track/7yA5bPUdlZnsEdVqhBqJFs"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
-        "name": "Mental Acupuncture",
-        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
-      },
-      "artists": [
-        {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Mental Acupuncture",
-      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "The Valley",
-        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
-      },
-      "artists": [
-        {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "easy",
-        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
       },
       "artists": [
         {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+          "name": "SamTRax",
+          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
         }
       ],
-      "duration_ms": 203500,
-      "name": "easy",
-      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
+      "duration_ms": 166588,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 88279,
       "name": "White Tea",
       "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
+        "name": "Tiny Grains of Guilt",
+        "url": "https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP"
+      },
+      "artists": [
+        {
+          "name": "Handbook",
+          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
+        }
+      ],
+      "duration_ms": 124044,
+      "name": "Tiny Grains of Guilt",
+      "url": "https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
         "name": "Travels",
         "url": "https://open.spotify.com/album/4vDCdhC1ue2saRJMSkuWho"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Tiny Grains of Guilt",
-        "url": "https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP"
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw"
       },
       "artists": [
         {
-          "name": "Handbook",
-          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
+          "name": "n o r m a l",
+          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
         }
       ],
-      "duration_ms": 124044,
-      "name": "Tiny Grains of Guilt",
-      "url": "https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ"
+      "duration_ms": 135357,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Dimensions",
-        "url": "https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw"
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd"
       },
       "artists": [
         {
-          "name": "n o r m a l",
-          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
+          "name": "Epifania",
+          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
         }
       ],
-      "duration_ms": 135357,
-      "name": "waves",
-      "url": "https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA"
+      "duration_ms": 88000,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1267,42 +1283,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Smiling World",
-        "url": "https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS"
-      },
-      "artists": [
-        {
-          "name": "Mujo",
-          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
-        },
-        {
-          "name": "Hakone",
-          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
-        }
-      ],
-      "duration_ms": 126076,
-      "name": "Smiling World",
-      "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd"
-      },
-      "artists": [
-        {
-          "name": "Epifania",
-          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
-        }
-      ],
-      "duration_ms": 88000,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Fog\u00e0o Love",
         "url": "https://open.spotify.com/album/4Xjr5RmALk2CSpiXlY1gmi"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 104506,
       "name": "Fog\u00e0o Love",
       "url": "https://open.spotify.com/track/6MchsyWFhj6EAiD1nY0y5J"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "Smiling World",
+        "url": "https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        },
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
+        }
+      ],
+      "duration_ms": 126076,
+      "name": "Smiling World",
+      "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
+        "name": "Power Jump",
+        "url": "https://open.spotify.com/album/6T8iwt5cPRxybDlVlwD7my"
+      },
+      "artists": [
+        {
+          "name": "Sakura",
+          "url": "https://open.spotify.com/artist/2GVCb0xxbe56KahmO90QnD"
+        }
+      ],
+      "duration_ms": 142349,
+      "name": "dreams",
+      "url": "https://open.spotify.com/track/0mmnXGa5hBUWWn7AdVNeY9"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
         "name": "Jazz Apple",
         "url": "https://open.spotify.com/album/3HS9hq92Zdyuh6i52kmn0w"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Power Jump",
-        "url": "https://open.spotify.com/album/6T8iwt5cPRxybDlVlwD7my"
+        "name": "High Jazz",
+        "url": "https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj"
       },
       "artists": [
         {
-          "name": "Sakura",
-          "url": "https://open.spotify.com/artist/2GVCb0xxbe56KahmO90QnD"
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
         }
       ],
-      "duration_ms": 142349,
-      "name": "dreams",
-      "url": "https://open.spotify.com/track/0mmnXGa5hBUWWn7AdVNeY9"
+      "duration_ms": 116905,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6SEzAZ2Uq0h5oncDuRRxTZ"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1423,22 +1439,6 @@
       "duration_ms": 168000,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/0RZDD0fZ1C0gKU1ca1Vibm"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
-        "name": "High Jazz",
-        "url": "https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj"
-      },
-      "artists": [
-        {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
-        }
-      ],
-      "duration_ms": 116905,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/6SEzAZ2Uq0h5oncDuRRxTZ"
     }
   ],
   "unique_name": "Mellow Beats",

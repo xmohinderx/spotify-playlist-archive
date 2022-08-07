@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Aafat (Tamil) [From \"Liger (Tamil)\"]",
+        "url": "https://open.spotify.com/album/0O3S5Epuz2DEESAH4YXav2"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Haripriya",
+          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Aafat (Tamil) [From \"Liger (Tamil)\"]",
+      "url": "https://open.spotify.com/track/09FMB1sTmFrqTa4sPKyjYg"
+    },
+    {
+      "album": {
         "name": "Radhe Shyam",
         "url": "https://open.spotify.com/album/5giXKnWYxmiHDn2Aky5tPc"
       },
@@ -2447,7 +2473,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 187200,
       "name": "Mashooka (Tamil) [feat. Rakul Preet Singh]",
       "url": "https://open.spotify.com/track/0RHBdFlKMpvsWJGMsPuFkI"
@@ -2779,6 +2805,28 @@
       "duration_ms": 227692,
       "name": "Mudhala",
       "url": "https://open.spotify.com/track/4zywnVmS2ecmQNlmpzf8Cj"
+    },
+    {
+      "album": {
+        "name": "Vattakara",
+        "url": "https://open.spotify.com/album/6kONnIdT4QiHjfAaS8344w"
+      },
+      "artists": [
+        {
+          "name": "Jithin Raj",
+          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
+        },
+        {
+          "name": "Priya Maali",
+          "url": "https://open.spotify.com/artist/2YGuIP2PKnCPfBqRjq0xK7"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199327,
+      "name": "Naa Onkitta Onnu Sollanum",
+      "url": "https://open.spotify.com/track/4uGs2qgtHQTOBmNDrank2S"
     },
     {
       "album": {
@@ -3497,7 +3545,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 295997,
       "name": "Rum Bum Bum - From \"Coffee With Kadhal\"",
       "url": "https://open.spotify.com/track/2cbiTkaQ6x1Di9x0EwKI6x"
@@ -4393,7 +4441,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 258437,
       "name": "Vaadi Vaasal",
       "url": "https://open.spotify.com/track/7B2UXJ94o0eeD6NN9V74KW"

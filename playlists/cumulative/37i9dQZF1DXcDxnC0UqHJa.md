@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-211 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
+212 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Down To You \- Live](https://open.spotify.com/track/0Gn207mWAoAztT808PNoYK) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Joni 75: A Joni Mitchell Birthday Celebration \(Live\)](https://open.spotify.com/album/1YTSVDA02Rm7YKZkxQrQYY) | 5:50 | 2021-12-13 | 2022-07-28 |
 | [Driver 8](https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Driver 8](https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu) | 3:35 | 2021-12-13 | 2022-07-29 |
 | [Dust Cain't Kill Me](https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Dust Cain't Kill Me](https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA) | 3:20 | 2021-12-13 |  |
-| [El Paso \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7AhhqaHd3ad4qgr6GZ39sg) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/6vF9azZbi8E19Vw48hdtaB) | 5:21 | 2021-12-13 |  |
+| [El Paso \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7AhhqaHd3ad4qgr6GZ39sg) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/6vF9azZbi8E19Vw48hdtaB) | 5:21 | 2021-12-13 | 2022-08-07 |
 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 | 2022-06-03 |  |
 | [everything i wanted](https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [everything i wanted](https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB) | 4:35 | 2021-12-13 | 2022-07-19 |
 | [Everything Is Free](https://open.spotify.com/track/3aBawHB7qLLxfC7Taph74U) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Don't Dream It's Over / Everything Is Free](https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v) | 4:17 | 2022-06-03 |  |
@@ -198,6 +198,7 @@
 | [This Land Is Your Land](https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9) | 3:40 | 2022-06-03 |  |
 | [This Land Is Your Land](https://open.spotify.com/track/5VYafNKWKEbNr2BsYoABDo) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/5gDWqAaDpMooblBYFpUq5l) | 3:40 | 2021-12-13 | 2022-07-28 |
 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 | 2021-12-13 |  |
+| [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 | 2022-06-03 |  |
 | [To Love Somebody](https://open.spotify.com/track/4QSydVI5rxWfRYlWHjF1Rd) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [To Love Somebody](https://open.spotify.com/album/1i2I4jCH7ISfrITKPp1vsd) | 3:26 | 2021-12-13 | 2022-07-29 |
 | [To Ramona](https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [To Ramona](https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU) | 3:37 | 2021-12-13 |  |
 | [Traveling After Dark](https://open.spotify.com/track/7aPgZfsBEFutmKygEEZWTk) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Traveling After Dark](https://open.spotify.com/album/1xDzNoxT7dn9bG3uyjHRUn) | 3:49 | 2021-12-13 | 2022-07-27 |

@@ -4,7 +4,7 @@
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-292 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
+293 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [To The Ground](https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [To The Ground](https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL) | 3:53 | 2021-05-07 |  |
 | [To the Sea \- Einmusik Remix](https://open.spotify.com/track/6RCT4geaXTmDmtiwFLJv8j) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [To the Sea](https://open.spotify.com/album/5mIRtNHm2HMi6vsxIS1QGl) | 7:32 | 2021-05-07 |  |
 | [Touch \- Dezza Remix](https://open.spotify.com/track/1at5qehGeavNrpmcHgfekA) | [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [Pipa Moran](https://open.spotify.com/artist/5z88TAITDhRS122WMh0ORA), [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik) | [Touch](https://open.spotify.com/album/6tjU7pfLjIX3ADSMLDvuSa) | 4:04 | 2021-05-07 | 2022-07-27 |
+| [Transitory](https://open.spotify.com/track/52peIXHrnQpSuANcws9IBr) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Transitory](https://open.spotify.com/album/0NH5ptXUhDmNKKeAyqdWma) | 5:01 | 2022-07-29 |  |
 | [Trechter](https://open.spotify.com/track/6fJuBz3USd1yPzmMLtouE2) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Ondertitel](https://open.spotify.com/album/3tapqXnaQbQkFNEXQ3PFfC) | 6:48 | 2022-01-28 | 2022-07-29 |
 | [Turning Away](https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Turning Away](https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c) | 4:04 | 2022-07-22 |  |
 | [Twin Souls](https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Twin Souls](https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm) | 4:29 | 2021-05-07 |  |
@@ -289,7 +290,7 @@
 | [Vommuli](https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Vommuli](https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL) | 3:52 | 2021-08-20 |  |
 | [Voye](https://open.spotify.com/track/54GMmWJvKU8o1BrGB1NaqO) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Voye/Culture Is Chaos](https://open.spotify.com/album/5SGkJqdh31fCP50j2boyrv) | 4:34 | 2021-05-07 | 2022-04-17 |
 | [Waiting For You](https://open.spotify.com/track/67cSFn3SLBoKqGW20bswdw) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Waiting For You](https://open.spotify.com/album/6nNwHKu6VPH8XNSoLXOyGg) | 3:45 | 2021-07-30 | 2022-07-28 |
-| [Warehouse](https://open.spotify.com/track/2wER3gVMMIWPusxOjoWlcQ) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Warehouse](https://open.spotify.com/album/5nMBgawIQbyTWNeQ5HVXxK) | 4:06 | 2021-05-07 |  |
+| [Warehouse](https://open.spotify.com/track/2wER3gVMMIWPusxOjoWlcQ) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Warehouse](https://open.spotify.com/album/5nMBgawIQbyTWNeQ5HVXxK) | 4:06 | 2021-05-07 | 2022-08-07 |
 | [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 | 2022-07-29 |
 | [Way I Feel](https://open.spotify.com/track/56zUjcO1ep1a2tS6G1gjla) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Way I Feel](https://open.spotify.com/album/6ouvdn2AWrVovdXIbGaqOi) | 3:57 | 2021-11-19 | 2022-07-26 |
 | [Weight Of The World](https://open.spotify.com/track/7tjxcrVxHH7fPvkTdcqFcB) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Danny Dearden](https://open.spotify.com/artist/52kE0a8ilvPQop3NN7tplj) | [Weight Of The World](https://open.spotify.com/album/2KR80RxGPkUTDb9o2aPPH5) | 3:30 | 2021-05-07 | 2022-04-18 |

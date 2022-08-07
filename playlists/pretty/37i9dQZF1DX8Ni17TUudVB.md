@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,835 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,860 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 39 | [Kill Me Slow](https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [New Rave](https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml) | 3:28 |
 | 40 | [Turn Back Time](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Turn Back Time](https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ) | 2:27 |
 | 41 | [Take Me \(feat\. Gloria Kim\)](https://open.spotify.com/track/4G4CdyOtmmRXJUpV6l2Q8b) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [Take Me \(feat\. Gloria Kim\)](https://open.spotify.com/album/2iKMMT8wYcCKuXjftgtlGn) | 4:00 |
-| 42 | [Your Love](https://open.spotify.com/track/0OyM0Z2wdidouJdqQKT4e7) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Your Love](https://open.spotify.com/album/5HzqkCHI7AFVhTjvozMnXj) | 4:10 |
-| 43 | [Physical \- Alok Remix](https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Physical \(Alok Remix\)](https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh) | 3:09 |
+| 42 | [Physical \- Alok Remix](https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Physical \(Alok Remix\)](https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh) | 3:09 |
+| 43 | [Your Love](https://open.spotify.com/track/0OyM0Z2wdidouJdqQKT4e7) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Your Love](https://open.spotify.com/album/5HzqkCHI7AFVhTjvozMnXj) | 4:10 |
 | 44 | [SICKO MODE \- Skrillex Remix](https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SICKO MODE \(Skrillex Remix\)](https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa) | 5:04 |
 | 45 | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/05y860js7tl7pqqleQz1Ib) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Strange Fruits Music](https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP) | 2:13 |
 | 46 | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/track/1K7WzjKDcDdVbKNGrB0gej) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/album/6A0SAv8tSkXHGzIlgFIhSy) | 2:34 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 86 | [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 |
 | 87 | [Light Me Up](https://open.spotify.com/track/6xfT4ubp1ETiqfDtUbdYHI) | [SNO](https://open.spotify.com/artist/3qTRZI4zjqH8jPXvmUNu10) | [Light Me Up](https://open.spotify.com/album/4EohvRPYKOWpgugn2n3DTi) | 3:04 |
 | 88 | [Beast](https://open.spotify.com/track/74ipYItMMW9NRBhVBXrM6Q) | [Onderkoffer](https://open.spotify.com/artist/6gce3osfgmB2RCMqoKfwFe) | [Get Trapped, Vol\. 1](https://open.spotify.com/album/0K2EUEJo5TH95rs1lCDZTP) | 3:32 |
-| 89 | [El Pana Dero](https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I) | 2:44 |
-| 90 | [El Bass](https://open.spotify.com/track/5pbXHUL7749iMpgqEx6Tyf) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [El Bass](https://open.spotify.com/album/6DUQATiBCcvw1AIqKWeubX) | 3:10 |
+| 89 | [El Bass](https://open.spotify.com/track/5pbXHUL7749iMpgqEx6Tyf) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [El Bass](https://open.spotify.com/album/6DUQATiBCcvw1AIqKWeubX) | 3:10 |
+| 90 | [El Pana Dero](https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I) | 2:44 |
 
-Snapshot ID: `MTY1ODgyMzQ0OCwwMDAwMDAwMDlmMTBkZGJlNDQyMWU3Zjk4OGUwY2YzOWRmMzcxZjlj`
+Snapshot ID: `MTY1ODgyMzQ0OCwwMDAwMDAwMGI4ZjBlYjhjMWViMGY5OGY3OGViNjA4NzhkMmIzOWI5`

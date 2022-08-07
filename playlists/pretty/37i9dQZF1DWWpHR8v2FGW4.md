@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,136 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,455 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 16 | [Snake Eyes](https://open.spotify.com/track/08ypS6EF8F13l8EUa5I2J4) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [CoMa](https://open.spotify.com/artist/3OAmPUVxyAIpRfmo4xiS5A) | [Snake Eyes](https://open.spotify.com/album/0nDZ9Ro4SA0P7d2992xC98) | 4:24 |
 | 17 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 |
 | 18 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
-| 19 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
-| 20 | [Issa Vibe](https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [House of Wax](https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW) | 2:48 |
+| 19 | [Issa Vibe](https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [House of Wax](https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW) | 2:48 |
+| 20 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
 | 21 | [LIFT YOU UP](https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [LIFT YOU UP](https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp) | 3:01 |
 | 22 | [This Feeling](https://open.spotify.com/track/2UZtyw4ItKKKB3Rw0sfWsG) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [This Feeling](https://open.spotify.com/album/2uB9v0HVBalbQLwlQpn1MH) | 4:21 |
 | 23 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 40 | [HOT DRUM](https://open.spotify.com/track/0gcPFlSLjkVqz84RcDhyJk) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [HOT DRUM](https://open.spotify.com/album/4mIPs9KZN79m1Gjx97rs3E) | 4:26 |
 | 41 | [BARRICADE](https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [BARRICADE](https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq) | 3:20 |
 | 42 | [Overdrive](https://open.spotify.com/track/3zSiHJI0ZCidNR8ygDXQGh) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH), [Emma McGann](https://open.spotify.com/artist/7i99rgVJyrVbho0pfVUtzF) | [Overdrive](https://open.spotify.com/album/09r2n9j4tHxMPuCXYdzXBG) | 3:51 |
-| 43 | [Sentient \- Joe Ford Remix](https://open.spotify.com/track/37tWPZAM7MJwB3l4bbuLG8) | [Droptek](https://open.spotify.com/artist/4Pn0zmbERg32YIOjl2nOQf), [Joe Ford](https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF) | [Symbiosis Remixed Part 1](https://open.spotify.com/album/4Ms4XIRdvfXibLNhtvqs0U) | 4:46 |
-| 44 | [Vex](https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Vex](https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML) | 3:55 |
+| 43 | [Vex](https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Vex](https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML) | 3:55 |
+| 44 | [Sentient \- Joe Ford Remix](https://open.spotify.com/track/37tWPZAM7MJwB3l4bbuLG8) | [Droptek](https://open.spotify.com/artist/4Pn0zmbERg32YIOjl2nOQf), [Joe Ford](https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF) | [Symbiosis Remixed Part 1](https://open.spotify.com/album/4Ms4XIRdvfXibLNhtvqs0U) | 4:46 |
 | 45 | [Dreams](https://open.spotify.com/track/6Q6PUsRgFVjKNEw9Q9NoK6) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/7fE0SknwuDfgzXdiO2JaTB) | 3:08 |
 | 46 | [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 |
 | 47 | [Gang](https://open.spotify.com/track/1HYIxT29a0gtzhqGjVQule) | [Phil Gonzo](https://open.spotify.com/artist/5MOUpeSR9eHImHFNg78RCU) | [Gang](https://open.spotify.com/album/644tRu2KsOn25hE87qFsEf) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [Breathe](https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Breathe](https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh) | 4:08 |
 | 50 | [Feed The Addiction](https://open.spotify.com/track/1nqUi4wKalk5jFoFfQET2n) | [ILS](https://open.spotify.com/artist/5IS3dbDJPbnJBUEjQdJhPF) | [Bohemia](https://open.spotify.com/album/14Nq4D67l9s1biXa9t575G) | 4:38 |
 
-Snapshot ID: `MTY1OTYyMzI2OSwwMDAwMDAwMGU0ODAwMTdhNThmNmEyMjIzODcyODViZWNmMWE2NDk1`
+Snapshot ID: `MTY1OTYyMzI2OSwwMDAwMDAwMDVhNzBjMzU2OGVlOTEwZTY0NTRkNTJlZmRlYWM5OTdh`

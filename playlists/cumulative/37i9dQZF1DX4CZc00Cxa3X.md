@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-124 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+125 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 | 2022-03-17 |  |
 | [Lil Bub's Story](https://open.spotify.com/track/6910PssSMId7YtYot1aI43) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Nothing Much Happens](https://open.spotify.com/album/67fSoRFG74IY2PfXeFkhGH) | 7:02 | 2022-03-17 |  |
 | [Love Is The Tune](https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Love Is The Tune](https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ) | 3:40 | 2022-03-17 |  |
+| [Lumi](https://open.spotify.com/track/4JwgaqEc7cFmKsBxhNqRSt) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Lumi](https://open.spotify.com/album/0PaJNCdv9ME8mJkrI1OX0W) | 2:44 | 2022-08-05 |  |
 | [Magdalena](https://open.spotify.com/track/3gxRNUi2suxMo7QV7maZcu) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 10:19 | 2022-03-30 |  |
 | [Marmara Beach II](https://open.spotify.com/track/1faNqUo9262FCCAx6kPb5Y) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Multi Natural](https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh) | 1:18 | 2022-03-30 | 2022-07-26 |
 | [Melt](https://open.spotify.com/track/7FHrGr96veyiK4WtdohNTv) | [MLO](https://open.spotify.com/artist/5tdfcn1EwWqTKoxHyv9G6g) | [Oumuamua](https://open.spotify.com/album/7bfDO9ymlhD1LaTxShxHwJ) | 4:22 | 2022-05-18 | 2022-07-29 |
@@ -82,7 +83,7 @@
 | [Overture](https://open.spotify.com/track/0O3ZV9RJJ7MQtyumv1YKGW) | [Christopher Bissonnette](https://open.spotify.com/artist/6bwtwprpOLicmBqwV8ZsqW) | [Wayfinding](https://open.spotify.com/album/7Gei5qiMLZqlhQOpSV5cs4) | 4:24 | 2022-07-08 | 2022-07-19 |
 | [Oxy](https://open.spotify.com/track/2RJ7GPeSQpQ7aB7hYQRgtY) | [Oli Bayston](https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H) | [Bomani](https://open.spotify.com/album/0nUNrbg1HfP1COqD1AdR84) | 7:55 | 2022-03-30 | 2022-07-28 |
 | [Ozu](https://open.spotify.com/track/0RTRJxsKOSWzmfLnrsgW4i) | [Arp](https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX) | [Zebra](https://open.spotify.com/album/7fMlt5bR4ddUnzLnMR91Qf) | 2:18 | 2022-03-30 | 2022-07-29 |
-| [Ozu](https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK) | [Arp](https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX) | [ZEBRA](https://open.spotify.com/album/5trQl5XvIPRgpl2zjmIBb0) | 2:18 | 2022-07-08 |  |
+| [Ozu](https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK) | [Arp](https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX) | [ZEBRA](https://open.spotify.com/album/5trQl5XvIPRgpl2zjmIBb0) | 2:18 | 2022-07-08 | 2022-08-07 |
 | [Prue Lewarne](https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB) | [Aix Em Klemm](https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma) | [Aix Em Klemm](https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ) | 7:19 | 2022-03-30 |  |
 | [Resolve](https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Resolve](https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [rest](https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 2:53 | 2022-03-30 | 2022-07-27 |

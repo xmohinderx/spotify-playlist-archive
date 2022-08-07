@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 788193,
+  "num_followers": 788511,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY5MDYwNywwMDAwMDAwMGZmMzM2ODYxMGFjN2ZiYmY3OGZkNzRjMGI1NDg1NDM0",
+  "snapshot_id": "MTY1OTY5MDYwNywwMDAwMDAwMDUwMmQwOWNiY2FlZmMyMjZkZDk4OGJlOGQwZWQyODhk",
   "tracks": [
     {
       "added_at": "2022-08-02 13:08:53",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-08-02 13:08:53",
       "album": {
+        "name": "Fun Machine EP",
+        "url": "https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 217920,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F"
+    },
+    {
+      "added_at": "2022-08-02 13:08:53",
+      "album": {
         "name": "TAKE A CHANCE (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 264412,
       "name": "TAKE A CHANCE (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
-    },
-    {
-      "added_at": "2022-08-02 13:08:53",
-      "album": {
-        "name": "Fun Machine EP",
-        "url": "https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F"
     },
     {
       "added_at": "2022-08-02 13:08:53",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-08-02 13:08:53",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 269815,
-      "name": "South of the River",
-      "url": "https://open.spotify.com/track/5w3yxRRxy5pvZdUvBJF6ve"
-    },
-    {
-      "added_at": "2022-08-02 13:08:53",
-      "album": {
         "name": "A Day in the Life",
         "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 280880,
       "name": "Georgy Porgy (feat. Faith Evans)",
       "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
+    },
+    {
+      "added_at": "2022-08-02 13:08:53",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 269815,
+      "name": "South of the River",
+      "url": "https://open.spotify.com/track/5w3yxRRxy5pvZdUvBJF6ve"
     },
     {
       "added_at": "2022-08-02 13:08:53",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-08-02 13:08:53",
       "album": {
+        "name": "Avery*sunshine Album",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "I Got Sunshine",
+      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
+    },
+    {
+      "added_at": "2022-08-02 13:08:53",
+      "album": {
         "name": "Limbo/Lagune",
         "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 226840,
       "name": "Over You",
       "url": "https://open.spotify.com/track/64WxLGjquEiDypddXZgggY"
-    },
-    {
-      "added_at": "2022-08-02 13:08:53",
-      "album": {
-        "name": "Avery*sunshine Album",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "I Got Sunshine",
-      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
     },
     {
       "added_at": "2022-08-02 13:08:53",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-08-02 13:08:53",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 196484,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/5Sr3ppJ2yQEHPTjKPHbKuU"
-    },
-    {
-      "added_at": "2022-08-02 13:08:53",
-      "album": {
         "name": "The Ecleftic -2 Sides II A Book",
         "url": "https://open.spotify.com/album/3FDZZk861xfI9wPNAlgrhm"
       },
@@ -1651,6 +1635,38 @@
       "duration_ms": 259333,
       "name": "911 (feat. Mary J. Blige)",
       "url": "https://open.spotify.com/track/28hgx2bWXcaBJeC9zVwrBq"
+    },
+    {
+      "added_at": "2022-08-02 13:08:53",
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 196484,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/5Sr3ppJ2yQEHPTjKPHbKuU"
+    },
+    {
+      "added_at": "2022-08-02 13:08:53",
+      "album": {
+        "name": "Limbo/Lagune",
+        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
     },
     {
       "added_at": "2022-08-02 13:08:53",
@@ -1683,22 +1699,6 @@
       "duration_ms": 238066,
       "name": "M.P.B.",
       "url": "https://open.spotify.com/track/0w4QlIOtXEJEPvftQo9VSe"
-    },
-    {
-      "added_at": "2022-08-02 13:08:53",
-      "album": {
-        "name": "Limbo/Lagune",
-        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
     },
     {
       "added_at": "2022-08-02 13:08:53",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-08-02 13:08:53",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Have A Talk With God",
-      "url": "https://open.spotify.com/track/5grvrZh5z2jsPjCOy1d8fP"
-    },
-    {
-      "added_at": "2022-08-02 13:08:53",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/67W4biyQmCea38iD3vxlEV"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 205951,
       "name": "Windy",
       "url": "https://open.spotify.com/track/6xraWJ8FdIJ8c8HpwXhNgs"
+    },
+    {
+      "added_at": "2022-08-02 13:08:53",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Have A Talk With God",
+      "url": "https://open.spotify.com/track/5grvrZh5z2jsPjCOy1d8fP"
     },
     {
       "added_at": "2022-08-02 13:08:53",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-08-02 13:08:53",
       "album": {
-        "name": "Say Yes",
-        "url": "https://open.spotify.com/album/3jxR2bYhFJ20oyolM7ran4"
-      },
-      "artists": [
-        {
-          "name": "Phil Perry",
-          "url": "https://open.spotify.com/artist/3wg6B0I3YwsARsBONWWAXL"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/2cCwacOhxyfbk7sHKC5yLF"
-    },
-    {
-      "added_at": "2022-08-02 13:08:53",
-      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 272211,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"
+    },
+    {
+      "added_at": "2022-08-02 13:08:53",
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/3jxR2bYhFJ20oyolM7ran4"
+      },
+      "artists": [
+        {
+          "name": "Phil Perry",
+          "url": "https://open.spotify.com/artist/3wg6B0I3YwsARsBONWWAXL"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2cCwacOhxyfbk7sHKC5yLF"
     },
     {
       "added_at": "2022-08-02 13:08:53",
@@ -1971,18 +1971,22 @@
     {
       "added_at": "2022-08-02 13:08:53",
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/3nPTKsx1v2lGffS8IRJZYA"
+        "name": "Du\u00f1e x Crayon",
+        "url": "https://open.spotify.com/album/2BOCtXCE1T1MywQ5YuZZa5"
       },
       "artists": [
         {
-          "name": "Elias Boussnina",
-          "url": "https://open.spotify.com/artist/3VBjLrfRolCjRRPN5y5XIU"
+          "name": "Du\u00f1e",
+          "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
         }
       ],
-      "duration_ms": 202560,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/3LgPy7zNzoSl2VKjx1o0Pp"
+      "duration_ms": 188411,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/2czhrDhRNZVSslq8KC1mKm"
     },
     {
       "added_at": "2022-08-02 13:08:53",
@@ -2003,22 +2007,18 @@
     {
       "added_at": "2022-08-02 13:08:53",
       "album": {
-        "name": "Du\u00f1e x Crayon",
-        "url": "https://open.spotify.com/album/2BOCtXCE1T1MywQ5YuZZa5"
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/3nPTKsx1v2lGffS8IRJZYA"
       },
       "artists": [
         {
-          "name": "Du\u00f1e",
-          "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+          "name": "Elias Boussnina",
+          "url": "https://open.spotify.com/artist/3VBjLrfRolCjRRPN5y5XIU"
         }
       ],
-      "duration_ms": 188411,
-      "name": "So Bad",
-      "url": "https://open.spotify.com/track/2czhrDhRNZVSslq8KC1mKm"
+      "duration_ms": 202560,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/3LgPy7zNzoSl2VKjx1o0Pp"
     },
     {
       "added_at": "2022-08-02 13:08:53",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2022-08-02 13:08:53",
       "album": {
-        "name": "Between Thought And Expression",
-        "url": "https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Walk on the Wild Side",
-      "url": "https://open.spotify.com/track/3V0dGluD6yXFk3gfAKzDEF"
-    },
-    {
-      "added_at": "2022-08-02 13:08:53",
-      "album": {
         "name": "Weird Invitations",
         "url": "https://open.spotify.com/album/0dIYBkNpcKisysENNEnNWh"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 211146,
       "name": "Chunks",
       "url": "https://open.spotify.com/track/3lFCbvyrJ7soEgTjIkELMT"
+    },
+    {
+      "added_at": "2022-08-02 13:08:53",
+      "album": {
+        "name": "Between Thought And Expression",
+        "url": "https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Walk on the Wild Side",
+      "url": "https://open.spotify.com/track/3V0dGluD6yXFk3gfAKzDEF"
     },
     {
       "added_at": "2022-08-02 13:08:53",
@@ -2219,26 +2219,6 @@
     {
       "added_at": "2022-08-02 13:08:53",
       "album": {
-        "name": "Midnight Crisis",
-        "url": "https://open.spotify.com/album/3VPsgf2GvKiZ1rQCrre6H2"
-      },
-      "artists": [
-        {
-          "name": "Lex One",
-          "url": "https://open.spotify.com/artist/4uFMon5FkPfetnykzWLI1K"
-        },
-        {
-          "name": "Lucian White",
-          "url": "https://open.spotify.com/artist/2lx7WaSe8fxpIGRwwVaHwF"
-        }
-      ],
-      "duration_ms": 230907,
-      "name": "Starlight Groove",
-      "url": "https://open.spotify.com/track/5RPUpFwaH93p5o0Vxujxv9"
-    },
-    {
-      "added_at": "2022-08-02 13:08:53",
-      "album": {
         "name": "Club Classics Vol. One",
         "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
@@ -2255,6 +2235,26 @@
       "duration_ms": 362600,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/4NMtuxWfOPR6yNjAX0AWrR"
+    },
+    {
+      "added_at": "2022-08-02 13:08:53",
+      "album": {
+        "name": "Midnight Crisis",
+        "url": "https://open.spotify.com/album/3VPsgf2GvKiZ1rQCrre6H2"
+      },
+      "artists": [
+        {
+          "name": "Lex One",
+          "url": "https://open.spotify.com/artist/4uFMon5FkPfetnykzWLI1K"
+        },
+        {
+          "name": "Lucian White",
+          "url": "https://open.spotify.com/artist/2lx7WaSe8fxpIGRwwVaHwF"
+        }
+      ],
+      "duration_ms": 230907,
+      "name": "Starlight Groove",
+      "url": "https://open.spotify.com/track/5RPUpFwaH93p5o0Vxujxv9"
     },
     {
       "added_at": "2022-08-02 13:08:53",

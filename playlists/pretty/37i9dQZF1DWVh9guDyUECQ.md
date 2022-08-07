@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Jaydan
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,758 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,813 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 61 | [Kingdom Babii](https://open.spotify.com/track/7E9BKOc3DPivAlUwBriAXA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [El Babii](https://open.spotify.com/album/79oL8wQzMJfmaymXyG9InS) | 2:16 |
 | 62 | [Yo Te Mire](https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Yo Te Miré](https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu) | 4:06 |
 | 63 | [Flow Cristiano](https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Flow Cristiano](https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv) | 3:30 |
-| 64 | [La Cumbia del Pueblo](https://open.spotify.com/track/47DqucSNOYX7TCehMcsuhj) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [La Cumbia del Pueblo](https://open.spotify.com/album/22jwCbokKmKS8nJWJU2Cyv) | 3:27 |
-| 65 | [Los Haters](https://open.spotify.com/track/63WZuf7UX6NS0OEqQTrbFS) | [Mesianico](https://open.spotify.com/artist/1UNM4KxpdpffcCWFYqkTdL), [New Generation Music](https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v) | [Los Haters](https://open.spotify.com/album/3U1OJJtrmrMkK9mnTUZBcU) | 2:32 |
+| 64 | [Los Haters](https://open.spotify.com/track/63WZuf7UX6NS0OEqQTrbFS) | [Mesianico](https://open.spotify.com/artist/1UNM4KxpdpffcCWFYqkTdL), [New Generation Music](https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v) | [Los Haters](https://open.spotify.com/album/3U1OJJtrmrMkK9mnTUZBcU) | 2:32 |
+| 65 | [La Cumbia del Pueblo](https://open.spotify.com/track/47DqucSNOYX7TCehMcsuhj) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [La Cumbia del Pueblo](https://open.spotify.com/album/22jwCbokKmKS8nJWJU2Cyv) | 3:27 |
 | 66 | [Gozo Yo Quería](https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF) | [Jinys](https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Gozo Yo Quería](https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN) | 3:08 |
 | 67 | [Soy Tan Feliz](https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db) | [Soy Tan Feliz](https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap) | 4:26 |
 | 68 | [Sin Gravedad](https://open.spotify.com/track/5jh1Vw7bhJJDGqpPxETFfO) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa), [JAVI](https://open.spotify.com/artist/50TBxDRKXkx8BffKq4NKlK) | [Sin Gravedad](https://open.spotify.com/album/3wUhVULJ1PdkhaENsajf7b) | 3:00 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 77 | [Valiente Y Sereno](https://open.spotify.com/track/0xAdyFFIGkRyeVacoJfF3r) | [Yowcend la Igriega](https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mateo 10:16](https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd) | 3:02 |
 | 78 | [Sin Exigir](https://open.spotify.com/track/2ryqtwvpQWCsys0DAXl1In) | [Juan Aponte](https://open.spotify.com/artist/0ygYfTO9oILMIWw0vEpCuJ), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Sin Exigir](https://open.spotify.com/album/6wWz7xuIroiNesMDa22SBd) | 3:33 |
 | 79 | [Por Si Me Muero](https://open.spotify.com/track/293nGU8oq5WSSawV3Mk4S5) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Gerardito La Promesa](https://open.spotify.com/artist/4EFZEWdVUPMkMGAp75LISF) | [Blanco\|Negro](https://open.spotify.com/album/1EryW4CnFqsvPWVWOOS4cI) | 4:26 |
-| 80 | [A Tu Manera](https://open.spotify.com/track/7B2CuqBGNI1m7lf8ES6dVf) | [Mr Eduard](https://open.spotify.com/artist/0B4bg6OcwQeBmsyQANbobd), [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9) | [A Tu Manera](https://open.spotify.com/album/2f96IzR5mHpjwIgMKOafuP) | 3:11 |
+| 80 | [Pila De Versos](https://open.spotify.com/track/4NF7mdvxEAttDKo36bVaz1) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Eich Nothingness](https://open.spotify.com/artist/6cFqhnt1xZwIl7cR3Y7R2i), [New Generation Music](https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v) | [Pila De Versos](https://open.spotify.com/album/27rveY6PeFcs0Ipjwb67FT) | 2:53 |
 
-Snapshot ID: `MTY1MTIyMjA5NiwwMDAwMDAwMDFmNTg0MDNmNjEyZWQ5ODlkYTFmMDQ4MTJkZGIyNmIy`
+Snapshot ID: `MTY1MTIyMjA5NiwwMDAwMDAwMDIyNDIzOGEyYjQzZDFlNzY1Yzg2YjkxMjgxY2RjY2Y1`

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-281 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+282 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ascend \(Reload\)](https://open.spotify.com/track/6IB4pkRzElFPRudm6ANKpu) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Ascend \(Reload\)](https://open.spotify.com/album/6S4jvKUaVD3meKXB2nCwVm) | 5:37 | 2022-01-14 |  |
 | [aywhat + supasoaka](https://open.spotify.com/track/7bfUCyvnGwly51E5Qx1XE2) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [VVYELLOW](https://open.spotify.com/album/4s2XWWnnkZEF1BtVB5HrgL) | 2:34 | 2022-04-18 | 2022-07-23 |
 | [bad dream](https://open.spotify.com/track/1rNivTOt4vBbta3vYWruTL) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd) | [bad dream](https://open.spotify.com/album/7eL4zkRptGACvb00H6wjvv) | 2:53 | 2022-01-21 | 2022-02-05 |
+| [Bad Girl Like Me](https://open.spotify.com/track/6J9A9BonPgsE2zH1bEe2QC) | [Sabby Sousa](https://open.spotify.com/artist/4wGT7z6uSZfL2KdmUtG8d6), [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Bad Girl Like Me](https://open.spotify.com/album/2toy13E6wMIWqa2nf9fS9M) | 3:24 | 2022-08-06 |  |
 | [Be Some Body](https://open.spotify.com/track/25etNFi42QQx8lc97rLp55) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Be Some Body](https://open.spotify.com/album/1T2D4Si1kGylfXkPj7VjyW) | 3:01 | 2022-06-24 |  |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-31 | 2022-03-10 |
 | [Best Part About You](https://open.spotify.com/track/3dxIrAJ1fp8c8rOscz0VLa) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:29 | 2022-07-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 78425,
+  "num_followers": 78478,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxOTMxNywwMDAwMDAwMDY2NTMzZTQ5MWNhODYwOWNkZThlMTBiYTllZWQxMjM0",
+  "snapshot_id": "MTY1OTcxOTMxNywwMDAwMDAwMDNjYjhjNWRlY2IwOWM1MTI1YTFlY2ZiNzg2NGM0NTZl",
   "tracks": [
     {
       "added_at": "2022-08-05 17:08:37",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-08-05 17:08:37",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        }
-      ],
-      "duration_ms": 133671,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
-    },
-    {
-      "added_at": "2022-08-05 17:08:37",
-      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 205000,
       "name": "On It",
       "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
+    },
+    {
+      "added_at": "2022-08-05 17:08:37",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "duration_ms": 133671,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
     },
     {
       "added_at": "2022-08-05 17:08:37",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-08-05 17:08:37",
       "album": {
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+    },
+    {
+      "added_at": "2022-08-05 17:08:37",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 247426,
       "name": "Voicemail (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD"
-    },
-    {
-      "added_at": "2022-08-05 17:08:37",
-      "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2022-08-05 17:08:37",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-08-05 17:08:37",
       "album": {
-        "name": "moonlit room",
-        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 250679,
-      "name": "moonlit room",
-      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
-    },
-    {
-      "added_at": "2022-08-05 17:08:37",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2022-08-05 17:08:37",
+      "album": {
+        "name": "moonlit room",
+        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 250679,
+      "name": "moonlit room",
+      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
       "added_at": "2022-08-05 17:08:37",
@@ -695,6 +695,22 @@
       "duration_ms": 174636,
       "name": "Good Morning Gorgeous (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
+    },
+    {
+      "added_at": "2022-08-05 17:08:37",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "All That Matters - Spotify Singles",
+      "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
     },
     {
       "added_at": "2022-08-05 17:08:37",
@@ -907,22 +923,6 @@
     {
       "added_at": "2022-08-05 17:08:37",
       "album": {
-        "name": "Chocolate Covered Strawberries",
-        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
-      },
-      "artists": [
-        {
-          "name": "Shelley FKA DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Chocolate Covered Strawberries",
-      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
-    },
-    {
-      "added_at": "2022-08-05 17:08:37",
-      "album": {
         "name": "Love and Be Loved",
         "url": "https://open.spotify.com/album/1JdumfPmZjNT9Efr35Wc7a"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 207203,
       "name": "Love and Be Loved",
       "url": "https://open.spotify.com/track/48Zho9HnU486cLIOYegCBI"
+    },
+    {
+      "added_at": "2022-08-05 17:08:37",
+      "album": {
+        "name": "Chocolate Covered Strawberries",
+        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
+      },
+      "artists": [
+        {
+          "name": "Shelley FKA DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Chocolate Covered Strawberries",
+      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
     },
     {
       "added_at": "2022-08-05 17:08:37",
@@ -1031,22 +1047,6 @@
       "duration_ms": 224543,
       "name": "Exposure",
       "url": "https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y"
-    },
-    {
-      "added_at": "2022-08-05 17:08:37",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "All That Matters - Spotify Singles",
-      "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
     },
     {
       "added_at": "2022-08-05 17:08:37",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-08-05 17:08:37",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Comeback.",
-      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
-    },
-    {
-      "added_at": "2022-08-05 17:08:37",
-      "album": {
         "name": "Nu Beginning",
         "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 234943,
       "name": "Nu Beginning",
       "url": "https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4"
+    },
+    {
+      "added_at": "2022-08-05 17:08:37",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Comeback.",
+      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
     },
     {
       "added_at": "2022-08-05 17:08:37",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-08-05 17:08:37",
       "album": {
+        "name": "Midnight Snacks",
+        "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Midnight Snacks",
+      "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
+    },
+    {
+      "added_at": "2022-08-05 17:08:37",
+      "album": {
         "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] (KAYTRANADA Remix)",
         "url": "https://open.spotify.com/album/7HRqZplSpqWZnL05hUJCcH"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 227132,
       "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/5A3aEJL7HkijkxLFXMv7FN"
-    },
-    {
-      "added_at": "2022-08-05 17:08:37",
-      "album": {
-        "name": "Midnight Snacks",
-        "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Midnight Snacks",
-      "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
     },
     {
       "added_at": "2022-08-05 17:08:37",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-08-05 17:08:37",
       "album": {
+        "name": "Ology",
+        "url": "https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "Bone + Tissue",
+      "url": "https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE"
+    },
+    {
+      "added_at": "2022-08-05 17:08:37",
+      "album": {
         "name": "No Love Song",
         "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 188797,
       "name": "Genius",
       "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
-    },
-    {
-      "added_at": "2022-08-05 17:08:37",
-      "album": {
-        "name": "Ology",
-        "url": "https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Bone + Tissue",
-      "url": "https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE"
     },
     {
       "added_at": "2022-08-05 17:08:37",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-08-05 17:08:37",
       "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Organic",
+      "url": "https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8"
+    },
+    {
+      "added_at": "2022-08-05 17:08:37",
+      "album": {
         "name": "chuu",
         "url": "https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 253346,
       "name": "chuu",
       "url": "https://open.spotify.com/track/6KBafFD2vzzXjMLSBISNNw"
-    },
-    {
-      "added_at": "2022-08-05 17:08:37",
-      "album": {
-        "name": "Organic",
-        "url": "https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Organic",
-      "url": "https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8"
     },
     {
       "added_at": "2022-08-05 17:08:37",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2022-08-05 17:08:37",
       "album": {
+        "name": "Wait On Me (Pt. 2 / Remix)",
+        "url": "https://open.spotify.com/album/3B3tvV3KG3MUdOUN7Jn0vN"
+      },
+      "artists": [
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "name": "GeorgiaReign",
+          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Wait On Me - Pt. 2 / Remix",
+      "url": "https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC"
+    },
+    {
+      "added_at": "2022-08-05 17:08:37",
+      "album": {
         "name": "Look At You",
         "url": "https://open.spotify.com/album/2dZvOTKtZXs9v8AzdnO9pZ"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 165962,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO"
-    },
-    {
-      "added_at": "2022-08-05 17:08:37",
-      "album": {
-        "name": "Wait On Me (Pt. 2 / Remix)",
-        "url": "https://open.spotify.com/album/3B3tvV3KG3MUdOUN7Jn0vN"
-      },
-      "artists": [
-        {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        },
-        {
-          "name": "GeorgiaReign",
-          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Wait On Me - Pt. 2 / Remix",
-      "url": "https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC"
     },
     {
       "added_at": "2022-08-05 17:08:37",

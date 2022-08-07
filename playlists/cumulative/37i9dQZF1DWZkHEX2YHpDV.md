@@ -4,7 +4,7 @@
 
 > Pop\-punk, emo, post\-hardcore, alternative \- it's whatever you want it to be\. Cover: Sueco
 
-796 songs - 1 day 18 hr 45 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+797 songs - 1 day 18 hr 47 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Home](https://open.spotify.com/track/5gy1YIqLHga0NlBz9ngrFX) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Home](https://open.spotify.com/album/655ZAOVJuY5GK6aND5rkzR) | 3:19 | 2022-01-14 | 2022-07-13 |
 | [Honeymoon](https://open.spotify.com/track/7jZBhvdYb5oMBqkHR9VKtb) | [Not My Weekend](https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X) | [Honeymoon](https://open.spotify.com/album/7FLjZ71F6COhXCoRa8xhod) | 2:45 | 2022-02-04 | 2022-05-26 |
 | [Horoscope](https://open.spotify.com/track/0GdurIUMGkwNPQCLWYj9Y3) | [Thick Skin](https://open.spotify.com/artist/6daSwa3QR61QH1s8t426c2) | [Horoscope](https://open.spotify.com/album/1m1cehDYl8Nt3xqMmKWxAk) | 3:41 | 2022-04-01 | 2022-04-21 |
+| [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 | 2022-08-05 |  |
 | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/track/2ymOJYGe3noIiQF83yAysV) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E), [Lydia Night](https://open.spotify.com/artist/0J5n8cS1rKCAZ7eJek1uYK) | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/album/6JMXuj7c10IpXdwHWp7ZHd) | 3:12 | 2021-12-10 | 2022-07-12 |
 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-04-29 |  |
 | [How It Feels to Be Lost](https://open.spotify.com/track/3A1jkLwsYjaH30J0v6oZCF) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:38 | 2021-12-10 | 2022-07-04 |
@@ -703,7 +704,7 @@
 | [this song wasn't good enough for the album](https://open.spotify.com/track/7dtA0P7PCmk5PTKdjwM0UZ) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [this song wasn't good enough for the album](https://open.spotify.com/album/2sRrWxFSpi25cno0LwmHYo) | 2:52 | 2021-12-10 | 2022-07-19 |
 | [Three Years, Still Counting](https://open.spotify.com/track/1jIkH7ks6XNlK46vfCfG02) | [Dusty Miller](https://open.spotify.com/artist/43iKuF1Cf7G4jp0N9mOnTP) | [Three Years, Still Counting](https://open.spotify.com/album/7ubtt5TsH3phFvK9dqxdKu) | 3:33 | 2022-03-25 | 2022-04-15 |
 | [Throat](https://open.spotify.com/track/39AM4AnMoqolKZab3kgUiu) | [Salem](https://open.spotify.com/artist/71seHBxiwcD6QOoSZ9P8Tf) | [Salem](https://open.spotify.com/album/7oiCbdoGYOiO9KSOplsCej) | 3:27 | 2021-12-10 | 2022-07-26 |
-| [Thunder](https://open.spotify.com/track/3Ox1FeECWvX8BmwXLLEJKY) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Thunder](https://open.spotify.com/album/5jSQOUFKYWTsnAKpLsesib) | 4:23 | 2022-07-08 |  |
+| [Thunder](https://open.spotify.com/track/3Ox1FeECWvX8BmwXLLEJKY) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Thunder](https://open.spotify.com/album/5jSQOUFKYWTsnAKpLsesib) | 4:23 | 2022-07-08 | 2022-08-07 |
 | [thē kĭñg](https://open.spotify.com/track/6zPe4JTeky23spsnuqG4Lu) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [thē kĭñg](https://open.spotify.com/album/7hRRdRCPsoWCF2gJr7yPZR) | 2:48 | 2022-03-25 | 2022-04-18 |
 | [Time to Go](https://open.spotify.com/track/2mVqLqex0vHfhlXU0954AX) | [Kulick](https://open.spotify.com/artist/1rwaNYO0jV0TYiZm4SQTOe) | [Time to Go](https://open.spotify.com/album/0eBu0veYovXuYd5fqgnRBI) | 3:01 | 2021-12-10 | 2022-07-28 |
 | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU) | 3:02 | 2022-07-08 |  |

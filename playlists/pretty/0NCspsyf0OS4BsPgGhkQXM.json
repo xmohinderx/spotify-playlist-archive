@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2036212,
+  "num_followers": 2036114,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTIwOTQsODUxNTMzZjJhZWJkYWI4Y2NlZGY1ZjRmZTM5Y2EyOTU3M2FiMjVhYQ==",
+  "snapshot_id": "MTIwOTYsZDQ1Zjk0ZmJiY2MyZWU5NTBmYTZhNThmZTJkY2Q5NjNiYWMxZDAwMg==",
   "tracks": [
     {
       "added_at": "2022-08-05 18:05:56",
@@ -59,6 +59,30 @@
       "duration_ms": 158774,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4ebr5AnOETSAEA44d7WPRq"
+    },
+    {
+      "added_at": "2022-08-07 00:10:39",
+      "album": {
+        "name": "Sentiment (The Remixes)",
+        "url": "https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "ODEA",
+          "url": "https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd"
+        }
+      ],
+      "duration_ms": 188005,
+      "name": "Go On Then, Love - ODEA Remix",
+      "url": "https://open.spotify.com/track/20H50sMwMszFJ9cEGaDJUI"
     },
     {
       "added_at": "2022-08-05 18:05:56",

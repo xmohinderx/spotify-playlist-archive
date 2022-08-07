@@ -3898,6 +3898,28 @@
     },
     {
       "album": {
+        "name": "Street Dancer (Sgt Slick's Discotizer 2022 Remix)",
+        "url": "https://open.spotify.com/album/2fhQ63mzH0H68B0xpIbLqC"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173161,
+      "name": "Street Dancer - Sgt Slick's Discotizer 2022 Remix",
+      "url": "https://open.spotify.com/track/5DLEOfuHbW3S6YXNKUX8h8"
+    },
+    {
+      "album": {
         "name": "Street Rave EP",
         "url": "https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon"
       },
@@ -4223,7 +4245,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 205592,
       "name": "Tutto va bene quando facciamo l'amore",
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"

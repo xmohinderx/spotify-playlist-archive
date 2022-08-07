@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 6892,
+  "num_followers": 6907,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDAzNmYzYzA3Yzg4YThhNjkxNGU5YTc1M2IxZjI0OWJi",
+  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDRkNTA4Mzc4MGY2M2VjYWQyNDU2YTRkY2Y0NTgxYjVj",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "On Fyre",
+        "url": "https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f"
+      },
+      "artists": [
+        {
+          "name": "Lyres",
+          "url": "https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml"
+        }
+      ],
+      "duration_ms": 265973,
+      "name": "Trying Just to Please You",
+      "url": "https://open.spotify.com/track/44Q7Xmxm0oeASUEQsxHnn1"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "The Blackout",
         "url": "https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 161426,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "On Fyre",
-        "url": "https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f"
-      },
-      "artists": [
-        {
-          "name": "Lyres",
-          "url": "https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "Trying Just to Please You",
-      "url": "https://open.spotify.com/track/44Q7Xmxm0oeASUEQsxHnn1"
     },
     {
       "added_at": "2022-03-28 20:14:58",

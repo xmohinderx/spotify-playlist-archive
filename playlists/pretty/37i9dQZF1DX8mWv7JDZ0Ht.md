@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Sandy, Wanessa Camargo
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,346 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,458 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 68 | [Melhor Forma](https://open.spotify.com/track/4LX6iqSAIIQPdpy3L9PZpr) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY), [Arielly Porto](https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1) | [Melhor Forma](https://open.spotify.com/album/2qL2huOv6H8Yz3rUaxW5c9) | 2:24 |
 | 69 | [Tá Difícil Entender](https://open.spotify.com/track/7ykfm9VGxKAjdqFh9yh4Od) | [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj), [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [jay](https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m) | [Tá Difícil Entender](https://open.spotify.com/album/4BO1RnFXPHscnuoLtcp5Vq) | 2:30 |
 | 70 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 |
-| 71 | [No Mesmo Tom](https://open.spotify.com/track/0I4vL4Z2MZyZzhFxBktvdR) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [No Mesmo Tom](https://open.spotify.com/album/4Lrv9Ock8oIOYrQks34vrV) | 3:19 |
-| 72 | [Fim do Mundo](https://open.spotify.com/track/6ZIylywjoQtsAbUhvrtwuH) | [Mathias](https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28) | [Fim do Mundo](https://open.spotify.com/album/3cJTbDY2c0qiaUEjshzblz) | 3:00 |
-| 73 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 |
-| 74 | [Intensamente](https://open.spotify.com/track/3j4l4Yndeoi8DdVmd1CgEh) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Intensamente](https://open.spotify.com/album/2mw6JHE5nJ6H0aAelxwFGh) | 2:47 |
+| 71 | [Intensamente](https://open.spotify.com/track/3j4l4Yndeoi8DdVmd1CgEh) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Intensamente](https://open.spotify.com/album/2mw6JHE5nJ6H0aAelxwFGh) | 2:47 |
+| 72 | [No Mesmo Tom](https://open.spotify.com/track/0I4vL4Z2MZyZzhFxBktvdR) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [No Mesmo Tom](https://open.spotify.com/album/4Lrv9Ock8oIOYrQks34vrV) | 3:19 |
+| 73 | [Fim do Mundo](https://open.spotify.com/track/6ZIylywjoQtsAbUhvrtwuH) | [Mathias](https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28) | [Fim do Mundo](https://open.spotify.com/album/3cJTbDY2c0qiaUEjshzblz) | 3:00 |
+| 74 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 |
 | 75 | [Frágil](https://open.spotify.com/track/1ip9nlulNilWezhKViKTRh) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Frágil](https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U) | 2:53 |
 | 76 | [Flores pro inferno](https://open.spotify.com/track/6WRKgKQFhybwMlucl5liHs) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Flores pro inferno](https://open.spotify.com/album/3ZMbYlXfb4zy79Nv6MegvO) | 3:13 |
 | 77 | [Sem Filtro](https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Sem Filtro](https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1) | 3:49 |
 | 78 | [Embriagado de Saudade](https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Embriagado de Saudade](https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX) | 2:35 |
 | 79 | [Faz Frio Aqui no Sul](https://open.spotify.com/track/13CbrA1hFYQE7gJUcLY99L) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk) | [Faz Frio Aqui no Sul](https://open.spotify.com/album/0H6AIKJCX6yj8NCnM9qaNS) | 2:48 |
 
-Snapshot ID: `MTY1OTY2ODQwMCwwMDAwMDAwMDk4ZjFlNWQ1ZmFiZTk0MzViNzEwYTg0MjE4MjMzY2Y0`
+Snapshot ID: `MTY1OTY2ODQwMCwwMDAwMDAwMGZmNDNkOTFiYjI1ODQ4MzBiNzU1YTgxMDIwODgyODdi`

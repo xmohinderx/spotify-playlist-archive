@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-677 songs - 1 day 12 hr 51 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
+678 songs - 1 day 12 hr 53 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Love To Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love To Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 | 2021-12-28 | 2022-01-01 |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP) | 2:30 | 2022-03-27 | 2022-04-07 |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-02-22 | 2022-03-02 |
+| [Lyfe](https://open.spotify.com/track/50caE2T5nlhVH6d6A46HId) | [kidthvldd](https://open.spotify.com/artist/4Q77EuSKGAPhE8KatUekHx) | [Lyfe](https://open.spotify.com/album/6Ihu75dkfTryER3dvDgnAC) | 1:39 | 2022-08-06 |  |
 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 | 2022-04-26 | 2022-05-04 |
 | [Magic City \(feat\. Quavo\)](https://open.spotify.com/track/0vpteuDN1xMXqjy3tZaJXM) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 2:38 | 2022-04-12 | 2022-04-15 |
 | [MAGIC WITH MUSTARD](https://open.spotify.com/track/7jN5Abri3a1crehbnlWa1F) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 3:46 | 2022-04-14 | 2022-04-17 |
@@ -619,7 +620,7 @@
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-31 | 2022-07-20 |
 | [Vegas \(I Wanna Ride\)](https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5) | [Joseline Hernandez](https://open.spotify.com/artist/2PRMdXcZ3cQu57agSO2zDn) | [Vegas \(I Wanna Ride\)](https://open.spotify.com/album/0Jjnv5tSd8p8HW7PCwSiHa) | 3:40 | 2022-05-05 | 2022-05-28 |
 | [Vegeta x Awaken Rare Hardstyle](https://open.spotify.com/track/4CcrinmQse1i2V99go1OdM) | [AniLifts](https://open.spotify.com/artist/3u5NpLsIdNfTcvOTRGD5CR), [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e) | [Vegeta x Awaken Rare Hardstyle](https://open.spotify.com/album/18vKrd3vMirdARIP7EERm7) | 3:21 | 2022-07-31 | 2022-08-02 |
-| [Vegeta x Awaken Rare Hardstyle](https://open.spotify.com/track/0y9BCqoDEVR6tuoyNATJTJ) | [sykoman](https://open.spotify.com/artist/342GicfLWQXXutLBFWwJaa) | [Vegeta x Awaken Rare Hardstyle](https://open.spotify.com/album/0iPWK7CrTsgLFhRPZJ4AKO) | 3:21 | 2022-08-01 |  |
+| [Vegeta x Awaken Rare Hardstyle](https://open.spotify.com/track/0y9BCqoDEVR6tuoyNATJTJ) | [sykoman](https://open.spotify.com/artist/342GicfLWQXXutLBFWwJaa) | [Vegeta x Awaken Rare Hardstyle](https://open.spotify.com/album/0iPWK7CrTsgLFhRPZJ4AKO) | 3:21 | 2022-08-01 | 2022-08-07 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-06-18 |  |
 | [Vengeance](https://open.spotify.com/track/0qAktUtpfc635ytpHOuNJD) | [deprezz](https://open.spotify.com/artist/2YV6hV8dVnaav4JQb5dnfT) | [Vengeance](https://open.spotify.com/album/17128RKRyMUmKpbM6e9baA) | 3:03 | 2022-04-27 | 2022-04-29 |
 | [Vicious](https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:29 | 2022-07-26 | 2022-07-28 |

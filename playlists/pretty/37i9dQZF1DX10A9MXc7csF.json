@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Polo Gonzalez",
-  "num_followers": 93195,
+  "num_followers": 93216,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGIwMGFhMThlZGFlNDI2MTc2ZTI3NjExYTAxNjA1NDE3",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDNhN2ZiNjExMmNjOGY0YzdiYWQ1MWZlMDJhNGJjMDE5",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Me Cans\u00e9",
-        "url": "https://open.spotify.com/album/7nVUBzcGrEISaNM2iHGwr7"
-      },
-      "artists": [
-        {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
-        }
-      ],
-      "duration_ms": 301642,
-      "name": "Me Cans\u00e9",
-      "url": "https://open.spotify.com/track/3H5l8J3Jqxjz17l5T3r1hI"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "El Buda",
         "url": "https://open.spotify.com/album/2sBSqEuw7BFMhMVjRt7hO0"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 305654,
       "name": "El Buda",
       "url": "https://open.spotify.com/track/6mjZRYz56d4j1tMpcj6ysL"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Me Cans\u00e9",
+        "url": "https://open.spotify.com/album/7nVUBzcGrEISaNM2iHGwr7"
+      },
+      "artists": [
+        {
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+        }
+      ],
+      "duration_ms": 301642,
+      "name": "Me Cans\u00e9",
+      "url": "https://open.spotify.com/track/3H5l8J3Jqxjz17l5T3r1hI"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Dejen Les Cuento",
-        "url": "https://open.spotify.com/album/7Br2HuJLhswrEjiTlETGY5"
-      },
-      "artists": [
-        {
-          "name": "Chris Hermosillo",
-          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
-        },
-        {
-          "name": "Colocho y Su Eminencia",
-          "url": "https://open.spotify.com/artist/6c61IOPGx9WFbMgtHvm8wz"
-        }
-      ],
-      "duration_ms": 171625,
-      "name": "Dejen Les Cuento",
-      "url": "https://open.spotify.com/track/5t65YQyrgDPPmgT8Z4Iy7M"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Morro Loco",
         "url": "https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c"
       },
@@ -839,6 +819,42 @@
       "duration_ms": 191944,
       "name": "Morro Loco",
       "url": "https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Dejen Les Cuento",
+        "url": "https://open.spotify.com/album/7Br2HuJLhswrEjiTlETGY5"
+      },
+      "artists": [
+        {
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+        },
+        {
+          "name": "Colocho y Su Eminencia",
+          "url": "https://open.spotify.com/artist/6c61IOPGx9WFbMgtHvm8wz"
+        }
+      ],
+      "duration_ms": 171625,
+      "name": "Dejen Les Cuento",
+      "url": "https://open.spotify.com/track/5t65YQyrgDPPmgT8Z4Iy7M"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "G. Blanco",
+        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
+      },
+      "artists": [
+        {
+          "name": "GiGi",
+          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "G. Blanco",
+      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -927,22 +943,6 @@
       "duration_ms": 180451,
       "name": "Esperame",
       "url": "https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "G. Blanco",
-        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
-      },
-      "artists": [
-        {
-          "name": "GiGi",
-          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "G. Blanco",
-      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "2:26am",
+        "url": "https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF"
+      },
+      "artists": [
+        {
+          "name": "El Proyecto",
+          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
+        }
+      ],
+      "duration_ms": 201804,
+      "name": "2:26am",
+      "url": "https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Las Guerras de Califas",
         "url": "https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "2:26am",
-        "url": "https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF"
+        "name": "me olvidaste",
+        "url": "https://open.spotify.com/album/4qoeo1Oc7rWrHxpUoIhpke"
       },
       "artists": [
         {
-          "name": "El Proyecto",
-          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 201804,
-      "name": "2:26am",
-      "url": "https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO"
+      "duration_ms": 135069,
+      "name": "me olvidaste",
+      "url": "https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1107,38 +1123,6 @@
       "duration_ms": 170625,
       "name": "En Las Nubes",
       "url": "https://open.spotify.com/track/7w33jezcbBOsxHDYlDIFpm"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "me olvidaste",
-        "url": "https://open.spotify.com/album/4qoeo1Oc7rWrHxpUoIhpke"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 135069,
-      "name": "me olvidaste",
-      "url": "https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "TMP",
-        "url": "https://open.spotify.com/album/429thKPz8y0s5sgOivSWBx"
-      },
-      "artists": [
-        {
-          "name": "Chris Hermosillo",
-          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
-        }
-      ],
-      "duration_ms": 173379,
-      "name": "TMP",
-      "url": "https://open.spotify.com/track/4hJdqI4ZFPrgdFuNbQbpdp"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "La Tormenta",
-        "url": "https://open.spotify.com/album/02yUE3GbV3gY6PtkiH9VQt"
+        "name": "TMP",
+        "url": "https://open.spotify.com/album/429thKPz8y0s5sgOivSWBx"
       },
       "artists": [
         {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
         }
       ],
-      "duration_ms": 206304,
-      "name": "La Tormenta",
-      "url": "https://open.spotify.com/track/1ecycLcCRq2rIozFogvsoq"
+      "duration_ms": 173379,
+      "name": "TMP",
+      "url": "https://open.spotify.com/track/4hJdqI4ZFPrgdFuNbQbpdp"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1223,6 +1207,38 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Versaci",
+        "url": "https://open.spotify.com/album/6RyZd7QCleEPsG8YROucAQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nueva Sensacion",
+          "url": "https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb"
+        }
+      ],
+      "duration_ms": 158980,
+      "name": "Versaci",
+      "url": "https://open.spotify.com/track/3io4JByoRElfacv61ulr0E"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/02yUE3GbV3gY6PtkiH9VQt"
+      },
+      "artists": [
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        }
+      ],
+      "duration_ms": 206304,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/1ecycLcCRq2rIozFogvsoq"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Renacido",
         "url": "https://open.spotify.com/album/69smyPeNaxRkiBahOoKNLo"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 201508,
       "name": "En Un Deportivo Voy",
       "url": "https://open.spotify.com/track/5tjAFuUzHkOlTfL7eX8T6B"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "El Piyi",
-        "url": "https://open.spotify.com/album/2ivT6bwCAYwa61GlEqTiuq"
-      },
-      "artists": [
-        {
-          "name": "Alta Autoridad",
-          "url": "https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "El Piyi",
-      "url": "https://open.spotify.com/track/5KjBaGZIszO9tpGTRB1mm2"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Versaci",
-        "url": "https://open.spotify.com/album/6RyZd7QCleEPsG8YROucAQ"
+        "name": "El Piyi",
+        "url": "https://open.spotify.com/album/2ivT6bwCAYwa61GlEqTiuq"
       },
       "artists": [
         {
-          "name": "Grupo Nueva Sensacion",
-          "url": "https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb"
+          "name": "Alta Autoridad",
+          "url": "https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB"
         }
       ],
-      "duration_ms": 158980,
-      "name": "Versaci",
-      "url": "https://open.spotify.com/track/3io4JByoRElfacv61ulr0E"
+      "duration_ms": 162500,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/5KjBaGZIszO9tpGTRB1mm2"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Due\u00f1a De Mi Amor",
-        "url": "https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x"
-      },
-      "artists": [
-        {
-          "name": "Jesus Dimas",
-          "url": "https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g"
-        }
-      ],
-      "duration_ms": 167525,
-      "name": "Una En Un Millon",
-      "url": "https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "420",
         "url": "https://open.spotify.com/album/0mxVZYQLp1WYMn05tMbEiD"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 226999,
       "name": "Esta Herencia",
       "url": "https://open.spotify.com/track/2agHIeWkGuwxLw4UzLZr2Z"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Due\u00f1a De Mi Amor",
+        "url": "https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x"
+      },
+      "artists": [
+        {
+          "name": "Jesus Dimas",
+          "url": "https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g"
+        }
+      ],
+      "duration_ms": 167525,
+      "name": "Una En Un Millon",
+      "url": "https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Gabriel Ornelas",
+        "url": "https://open.spotify.com/album/7I5YLRrLqHPeXLwcbPTjDQ"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Ar\u00e1mbula",
+          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
+        }
+      ],
+      "duration_ms": 187430,
+      "name": "Gabriel Ornelas",
+      "url": "https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Archive Muzik Vol. 1",
         "url": "https://open.spotify.com/album/5r16VPYF9XXsjhTGzeuKVC"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Gabriel Ornelas",
-        "url": "https://open.spotify.com/album/7I5YLRrLqHPeXLwcbPTjDQ"
-      },
-      "artists": [
-        {
-          "name": "Lluvia Ar\u00e1mbula",
-          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
-        }
-      ],
-      "duration_ms": 187430,
-      "name": "Gabriel Ornelas",
-      "url": "https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Quiero Estar Contigo",
         "url": "https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 271922,
       "name": "Quiero Estar Contigo",
       "url": "https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        }
-      ],
-      "duration_ms": 166512,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "La Tarde",
-        "url": "https://open.spotify.com/album/7DNoBF6mIiJZxol7rpNJKa"
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy"
       },
       "artists": [
         {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
         }
       ],
-      "duration_ms": 216006,
-      "name": "La Tarde",
-      "url": "https://open.spotify.com/track/1CFBRxQEXXVYwNnMAYXUzh"
+      "duration_ms": 166512,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1563,6 +1547,22 @@
       "duration_ms": 162693,
       "name": "A Darle Con Todo - En Vivo",
       "url": "https://open.spotify.com/track/7kMnOMAVYzFnJXRqU6cvqD"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "La Tarde",
+        "url": "https://open.spotify.com/album/7DNoBF6mIiJZxol7rpNJKa"
+      },
+      "artists": [
+        {
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        }
+      ],
+      "duration_ms": 216006,
+      "name": "La Tarde",
+      "url": "https://open.spotify.com/track/1CFBRxQEXXVYwNnMAYXUzh"
     },
     {
       "added_at": "2022-08-05 04:00:00",

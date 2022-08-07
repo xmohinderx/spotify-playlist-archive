@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-388 songs - 1 day 3 hr 25 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
+389 songs - 1 day 3 hr 29 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Gardermoen](https://open.spotify.com/track/1WEGB2t1ZYHjQODNPaiftb) | [Julia Kent](https://open.spotify.com/artist/2YJXo1ERQAO7r4hQtu2vFc) | [Delay](https://open.spotify.com/album/5E7fIzAOnhdt3mSyjUYb1j) | 4:10 | 2021-02-06 | 2021-02-12 |
 | [Glimmer](https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Modulations: EP2](https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut) | 3:21 | 2021-05-29 | 2022-07-24 |
 | [Gloaming](https://open.spotify.com/track/2mqSvQ8XCWa0uoMVx6RmO9) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Gloaming](https://open.spotify.com/album/4kiOHWOmNCzJsjidp4XvDz) | 5:59 | 2020-10-20\* | 2022-05-04 |
-| [Glow \- Foam and Sand Rework](https://open.spotify.com/track/6TuQKHMMawk2rswRisvV9J) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Glow \(Foam and Sand Rework\)](https://open.spotify.com/album/5CEIDLZZdmlacCspDjYNYJ) | 4:15 | 2022-04-15 |  |
+| [Glow \- Foam and Sand Rework](https://open.spotify.com/track/6TuQKHMMawk2rswRisvV9J) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Glow \(Foam and Sand Rework\)](https://open.spotify.com/album/5CEIDLZZdmlacCspDjYNYJ) | 4:15 | 2022-04-15 | 2022-08-07 |
 | [Glyph II \- Julia Kent Rework](https://open.spotify.com/track/6RPrKKDJ97PPFUntqvhc5W) | [Michael A\. Muller](https://open.spotify.com/artist/2jNobg3ln4Ylaokr4C3qoU), [Julia Kent](https://open.spotify.com/artist/2YJXo1ERQAO7r4hQtu2vFc) | [Lower River Reworks](https://open.spotify.com/album/2WSbqHIN889Lsp595Jf8ft) | 4:08 | 2020-10-20\* | 2022-04-21 |
 | [Glühwürmchen \(Piano Vision\)](https://open.spotify.com/track/6UonjQJl4bd6V9D6ukyPkk) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Glühwürmchen \(Piano Vision\)](https://open.spotify.com/album/1QuZ4mXB5Ya01m9KQwRvxn) | 2:27 | 2022-07-01 | 2022-07-29 |
 | [Gnossienne: No.1 \(Satie Reworks\) \- Spotify Singles](https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 2:39 | 2022-03-25 |  |
@@ -214,6 +214,7 @@
 | [Lørdag](https://open.spotify.com/track/0Z5pSKgPVk3UFIZnYxajzX) | [Søndag Søndag](https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H) | [Lørdag](https://open.spotify.com/album/3tZ1iqJfrths705Vlb782o) | 1:52 | 2020-12-11 | 2022-04-18 |
 | [Mahler Remix 4 \- Live](https://open.spotify.com/track/31ittJiCPkK2D8cXwZ2XSi) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Mahler Remix](https://open.spotify.com/album/2DVV5Yk0sfWbnF1KAUI5gd) | 10:38 | 2021-02-06 | 2021-02-12 |
 | [Mauer Blues](https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [By the Deep Sea](https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82) | 4:01 | 2021-02-23 | 2021-03-14 |
+| [Mayday](https://open.spotify.com/track/2GeZQx0L3RpCEMsSo3iVdp) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO) | [May Day](https://open.spotify.com/album/5xtqIfLqO7eokuv2QJSoDx) | 3:13 | 2022-08-05 |  |
 | [Mayday](https://open.spotify.com/track/5b6rOFv35qB3NUWAzHzX6s) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO) | [Mayday](https://open.spotify.com/album/7nAz8DbeMfEydzNvktje9E) | 3:13 | 2020-10-20\* | 2022-07-29 |
 | [Meant To Be](https://open.spotify.com/track/7oTmFx6P6v6ul1vemi20Ng) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Meant To Be](https://open.spotify.com/album/1zGNymSjtn37rA11ua8bcQ) | 3:55 | 2022-03-25 | 2022-07-23 |
 | [Mirror](https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Mirror](https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8) | 3:14 | 2022-03-14 |  |

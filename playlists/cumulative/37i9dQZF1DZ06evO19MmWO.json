@@ -78,6 +78,32 @@
     },
     {
       "album": {
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271240,
+      "name": "Bo Diddley",
+      "url": "https://open.spotify.com/track/3rg2bVskW2yFWkQoPVYMsa"
+    },
+    {
+      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -89,10 +115,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 181106,
       "name": "Can't Hold Out Much Longer - Alternate Take",
       "url": "https://open.spotify.com/track/65bVvI81AMpqEzdLZj3ovs"
+    },
+    {
+      "album": {
+        "name": "Blues With A Feeling",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185133,
+      "name": "Come Back Baby",
+      "url": "https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh"
     },
     {
       "album": {
@@ -143,7 +187,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 121306,
       "name": "Crazy Mixed Up World - Alternate Take",
       "url": "https://open.spotify.com/track/1mzIGcHiEagCiaLKb4YIvM"
@@ -165,6 +209,24 @@
       "duration_ms": 179920,
       "name": "Don't Have To Hunt No More",
       "url": "https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S"
+    },
+    {
+      "album": {
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188413,
+      "name": "Driftin'",
+      "url": "https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8"
     },
     {
       "album": {
@@ -277,7 +339,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 151360,
       "name": "I Love You So (Oh Baby)",
       "url": "https://open.spotify.com/track/3AijQtIulnf9lr4x1QFmrb"
@@ -343,10 +405,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 160186,
       "name": "Joliet Blues",
       "url": "https://open.spotify.com/track/28AUjQQLabQ80nRG37TnOF"
+    },
+    {
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144493,
+      "name": "Just Your Fool",
+      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
     },
     {
       "album": {
@@ -451,7 +531,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 158440,
       "name": "Mellow Down Easy",
       "url": "https://open.spotify.com/track/2ZEzJC5b9H6BrDfavP3Sr9"
@@ -481,6 +561,42 @@
       "duration_ms": 236160,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr"
+    },
+    {
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "Off The Wall",
+      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
+    },
+    {
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164880,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/5KwLUjZ2PSU9myBbhX9qox"
     },
     {
       "album": {
@@ -529,9 +645,45 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "date_added": "2022-08-05",
+      "date_added": "2022-08-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Sad Hours",
+      "url": "https://open.spotify.com/track/2H1TMxIvORol1QFBwOQh1E"
+    },
+    {
+      "album": {
+        "name": "Blues With A Feeling",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165560,
+      "name": "Shake Dancer",
+      "url": "https://open.spotify.com/track/6Lsl9B1z3Sq02pK3usoOmq"
+    },
+    {
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-07",
       "duration_ms": 168400,
       "name": "Tell Me Mama",
       "url": "https://open.spotify.com/track/4ZWk2MpXBIQv0hd5KO8VwE"
@@ -643,7 +795,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 143840,
       "name": "Who",
       "url": "https://open.spotify.com/track/3tQULiAweMvxtwadRonAER"
@@ -687,7 +839,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 138360,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"

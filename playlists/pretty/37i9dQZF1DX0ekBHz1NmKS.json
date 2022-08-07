@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 116684,
+  "num_followers": 116703,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTU2NywwMDAwMDAwMGFhOGEyNWI2NDNhODQxNjc2OGEzNGRiMzdiODE1NzY3",
+  "snapshot_id": "MTY1OTA0NTU2NywwMDAwMDAwMDY1MjRhZDdmNjM1NDkzMGFlOTQzZDFhMTk5ZDFjNjg5",
   "tracks": [
     {
       "added_at": "2022-07-28 21:59:27",
@@ -235,6 +235,26 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
+        "name": "V\u00e4lkommen \u00c5ter",
+        "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        },
+        {
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "V\u00e4lkommen \u00c5ter",
+      "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
         "name": "The Days",
         "url": "https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 183764,
       "name": "Heaven med dig",
       "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
-        "name": "V\u00e4lkommen \u00c5ter",
-        "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        },
-        {
-          "name": "Junie",
-          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "V\u00e4lkommen \u00c5ter",
-      "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "MER",
-        "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 153987,
-      "name": "MER",
-      "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 234548,
       "name": "Aska",
       "url": "https://open.spotify.com/track/7IDJTVebvZSHH5coPgvxIq"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "MER",
+        "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 153987,
+      "name": "MER",
+      "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "EYEYE",
-        "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "5D",
-      "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
         "name": "Lyckligt slut",
         "url": "https://open.spotify.com/album/5v523vH6jETswE88qO1I79"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 183406,
       "name": "Lyckligt slut",
       "url": "https://open.spotify.com/track/3hWx0kVkf9NGvsSAVJTztH"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "EYEYE",
+        "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "5D",
+      "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "F\u00f6rst\u00e5r Det Nu",
-        "url": "https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp"
-      },
-      "artists": [
-        {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
-        }
-      ],
-      "duration_ms": 232976,
-      "name": "F\u00f6rst\u00e5r Det Nu",
-      "url": "https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
         "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
         "url": "https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 180787,
       "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
       "url": "https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "F\u00f6rst\u00e5r Det Nu",
+        "url": "https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "duration_ms": 232976,
+      "name": "F\u00f6rst\u00e5r Det Nu",
+      "url": "https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
+        "name": "DEVIL",
+        "url": "https://open.spotify.com/album/6HOOTUts12Z7zQSzy9y7nD"
+      },
+      "artists": [
+        {
+          "name": "DREAMDNVR",
+          "url": "https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb"
+        }
+      ],
+      "duration_ms": 155819,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2XPnzZU93OyQlyAqEf8UPG"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
         "name": "Santiago",
         "url": "https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 223346,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/4F2qj7XKsBZWgyyrchAPJO"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
-        "name": "DEVIL",
-        "url": "https://open.spotify.com/album/6HOOTUts12Z7zQSzy9y7nD"
-      },
-      "artists": [
-        {
-          "name": "DREAMDNVR",
-          "url": "https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb"
-        }
-      ],
-      "duration_ms": 155819,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2XPnzZU93OyQlyAqEf8UPG"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1183,6 +1183,22 @@
       "duration_ms": 176640,
       "name": "Aldrig mer tillbaka",
       "url": "https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 151816,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 151816,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
         "name": "Gold Rush",
         "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 284970,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "PS jag hatar dig",
+        "url": "https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Avundsjuk p\u00e5 regnet",
+      "url": "https://open.spotify.com/track/08jUQzPgECVJW9eQDHOiz7"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1331,22 +1347,6 @@
       "duration_ms": 213289,
       "name": "Cause In The End You Know That Everybody Dies",
       "url": "https://open.spotify.com/track/2KnhQusDtv6RVE9iJXiYyE"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
-        "name": "PS jag hatar dig",
-        "url": "https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "Avundsjuk p\u00e5 regnet",
-      "url": "https://open.spotify.com/track/08jUQzPgECVJW9eQDHOiz7"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1379,6 +1379,22 @@
       "duration_ms": 239678,
       "name": "P\u00e5 l\u00e5tsas",
       "url": "https://open.spotify.com/track/0APTVcLFgMI85RIIpX0h0P"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
+        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 143212,
+      "name": "H\u00f6ghusdr\u00f6mmar",
+      "url": "https://open.spotify.com/track/6CGWB5faFPh4S7uItTb0Yx"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
-        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 143212,
-      "name": "H\u00f6ghusdr\u00f6mmar",
-      "url": "https://open.spotify.com/track/6CGWB5faFPh4S7uItTb0Yx"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
         "name": "Dr\u00e4nker mina tankar",
         "url": "https://open.spotify.com/album/46Z7Ia77aU9iT95eQjaewX"
       },
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "HARD",
-        "url": "https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA"
+        "name": "Isabelle",
+        "url": "https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P"
       },
       "artists": [
         {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
         }
       ],
-      "duration_ms": 158285,
-      "name": "Cool Me Down",
-      "url": "https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp"
+      "duration_ms": 215818,
+      "name": "Isabelle",
+      "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
+        "name": "HARD",
+        "url": "https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 158285,
+      "name": "Cool Me Down",
+      "url": "https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
         "name": "S\u00e4g det som du menar det",
         "url": "https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 140973,
       "name": "S\u00e4g det som du menar det",
       "url": "https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
-        "name": "Isabelle",
-        "url": "https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 215818,
-      "name": "Isabelle",
-      "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo"
+        "name": "Bara bby",
+        "url": "https://open.spotify.com/album/3plhQIEFllsYNv708OaENV"
       },
       "artists": [
         {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N"
         }
       ],
-      "duration_ms": 234420,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62"
+      "duration_ms": 155026,
+      "name": "Hon har dig",
+      "url": "https://open.spotify.com/track/02twVAfoDG1podz5ns885c"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "Bara bby",
-        "url": "https://open.spotify.com/album/3plhQIEFllsYNv708OaENV"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo"
       },
       "artists": [
         {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N"
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
         }
       ],
-      "duration_ms": 155026,
-      "name": "Hon har dig",
-      "url": "https://open.spotify.com/track/02twVAfoDG1podz5ns885c"
+      "duration_ms": 234420,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62"
     },
     {
       "added_at": "2022-07-28 21:59:27",

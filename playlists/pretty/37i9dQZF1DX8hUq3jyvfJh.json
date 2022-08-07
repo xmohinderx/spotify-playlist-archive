@@ -1,12 +1,12 @@
 {
   "description": "Mari Fernandez e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 121836,
+  "num_followers": 121858,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5NTYwMCwwMDAwMDAwMGJjYzc3YjRiOTZiYjA4OWU5ZjFhMzBkM2YxMjNjYzgw",
+  "snapshot_id": "MTY1OTQ5NTYwMCwwMDAwMDAwMDM0ZDdhODA0ODk1MzAzMjNjYTNjNDI3YTIyMzdhOWRh",
   "tracks": [
     {
       "added_at": "2022-08-03 03:00:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
+        "name": "Me Trata Como Ex (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ"
+      },
+      "artists": [
+        {
+          "name": "Day e Lara",
+          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
+        }
+      ],
+      "duration_ms": 164757,
+      "name": "Me Trata Como Ex - Ao Vivo",
+      "url": "https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
         "name": "Ainda N\u00e3o T\u00f4 Pronta (Ao Vivo No Casa Filtr)",
         "url": "https://open.spotify.com/album/7h71zpFKYayNlr2sRGSf00"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 145472,
       "name": "Ainda N\u00e3o T\u00f4 Pronta - Ao Vivo No Casa Filtr",
       "url": "https://open.spotify.com/track/0ZBQ5PAD9XjUJOc1VxRQri"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
-        "name": "Me Trata Como Ex (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ"
-      },
-      "artists": [
-        {
-          "name": "Day e Lara",
-          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
-        }
-      ],
-      "duration_ms": 164757,
-      "name": "Me Trata Como Ex - Ao Vivo",
-      "url": "https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp"
     },
     {
       "added_at": "2022-08-03 03:00:00",

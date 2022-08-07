@@ -1896,6 +1896,32 @@
     },
     {
       "album": {
+        "name": "Groovy Since 90 Sumthin'",
+        "url": "https://open.spotify.com/album/6RICRX15ckBZRTkleAgyPX"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        },
+        {
+          "name": "C-Blak",
+          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+        },
+        {
+          "name": "Coolkruger",
+          "url": "https://open.spotify.com/artist/4QetKXwMztESdkPNuBy1Wu"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467120,
+      "name": "Buya Faanaa",
+      "url": "https://open.spotify.com/track/7ekBzUvEIfjA97jEfRN7QF"
+    },
+    {
+      "album": {
         "name": "C'mon (Main HT)",
         "url": "https://open.spotify.com/album/4dSJexV2ZVjOunTjpvlT5r"
       },

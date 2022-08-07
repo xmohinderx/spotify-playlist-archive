@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 1986534,
+  "num_followers": 1987091,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzNTQ4NCwwMDAwMDAwMDFiMmI1MDkwMzc4NTQ2OGY1MzliMzZjZWY1MWFhMDQ5",
+  "snapshot_id": "MTY1ODkzNTQ4NCwwMDAwMDAwMGQ0NTlhYmE4N2UzY2M0NzBmNGZkOGMzNTY3YmU0NjZh",
   "tracks": [
     {
       "added_at": "2022-06-17 05:27:54",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 289560,
       "name": "Nookie",
       "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
     },
     {
+      "added_at": "2022-07-13 15:59:27",
+      "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 272665,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
+    },
+    {
       "added_at": "2022-06-17 05:27:54",
       "album": {
         "name": "TRAUMA",
@@ -591,22 +607,6 @@
     {
       "added_at": "2022-07-13 15:59:27",
       "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 272665,
-      "name": "Is There Anybody Out There?",
-      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
-    },
-    {
-      "added_at": "2022-07-13 15:59:27",
-      "album": {
         "name": "Disgusting",
         "url": "https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 213576,
       "name": "In Between",
       "url": "https://open.spotify.com/track/03jdl5GTBhKsgB1Yw8mVPh"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
-        "name": "Parasite Eve",
-        "url": "https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 291812,
-      "name": "Parasite Eve",
-      "url": "https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR"
     },
     {
       "added_at": "2022-07-13 15:59:27",
@@ -651,6 +635,22 @@
       "duration_ms": 230127,
       "name": "Laid to Rest",
       "url": "https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Parasite Eve",
+        "url": "https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 291812,
+      "name": "Parasite Eve",
+      "url": "https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -1235,30 +1235,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Dead Inside (feat. David Draiman of Disturbed)",
-        "url": "https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w"
-      },
-      "artists": [
-        {
-          "name": "Nita Strauss",
-          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
-        },
-        {
-          "name": "David Draiman",
-          "url": "https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1"
-        },
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 240689,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "Five",
         "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
       },
@@ -1291,6 +1267,30 @@
       "duration_ms": 175603,
       "name": "Scars That I'm Hiding (feat. Anders Frid\u00e9n of In Flames)",
       "url": "https://open.spotify.com/track/0UOtF2ojhKGYEjvZ28ZA6d"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Dead Inside (feat. David Draiman of Disturbed)",
+        "url": "https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w"
+      },
+      "artists": [
+        {
+          "name": "Nita Strauss",
+          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
+        },
+        {
+          "name": "David Draiman",
+          "url": "https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1"
+        },
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 240689,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-07-13 15:59:27",
       "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/7b2MbEhzi3TMgbKn5Fkjqb"
+        "name": "Vale",
+        "url": "https://open.spotify.com/album/41QjsjJv2WbNgmPkD6dxpv"
       },
       "artists": [
         {
-          "name": "Adelitas Way",
-          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
         }
       ],
-      "duration_ms": 170177,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/5PZo9NMyNLxOlpEFoYo611"
+      "duration_ms": 162093,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/3WnrxWNTHDGyCVCwfMJPtR"
     },
     {
       "added_at": "2022-07-13 15:59:27",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-07-13 15:59:27",
       "album": {
-        "name": "Vale",
-        "url": "https://open.spotify.com/album/41QjsjJv2WbNgmPkD6dxpv"
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/7b2MbEhzi3TMgbKn5Fkjqb"
       },
       "artists": [
         {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/3WnrxWNTHDGyCVCwfMJPtR"
+      "duration_ms": 170177,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/5PZo9NMyNLxOlpEFoYo611"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -1565,6 +1565,22 @@
       "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
     },
     {
+      "added_at": "2022-07-13 15:59:27",
+      "album": {
+        "name": "Nonpoint",
+        "url": "https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "That Day",
+      "url": "https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga"
+    },
+    {
       "added_at": "2022-06-17 05:27:54",
       "album": {
         "name": "Warrior",
@@ -1587,22 +1603,6 @@
       "duration_ms": 167034,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/0KBRMpZVUTxrU8blRUBfm3"
-    },
-    {
-      "added_at": "2022-07-13 15:59:27",
-      "album": {
-        "name": "Nonpoint",
-        "url": "https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "That Day",
-      "url": "https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Violent Noise",
-        "url": "https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 191440,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Violent Noise",
+        "url": "https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 183437,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/2KJwci3DPtYbfg7pxczvWf"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "Above It All",
         "url": "https://open.spotify.com/album/1W4gkbpOg5Creo0WsUnEF8"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 199433,
       "name": "Above It All",
       "url": "https://open.spotify.com/track/3GYRXFfWTV2U1gIs8yIipx"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 183437,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/2KJwci3DPtYbfg7pxczvWf"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -2013,22 +2013,6 @@
       "url": "https://open.spotify.com/track/5J1tThACf3JLPc3cC1neEH"
     },
     {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
-        "name": "Violent Allies",
-        "url": "https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW"
-      },
-      "artists": [
-        {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        }
-      ],
-      "duration_ms": 180691,
-      "name": "The Shift",
-      "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
-    },
-    {
       "added_at": "2022-07-13 15:59:27",
       "album": {
         "name": "Around the Fur",
@@ -2043,6 +2027,22 @@
       "duration_ms": 162866,
       "name": "Rickets",
       "url": "https://open.spotify.com/track/7Ca5yTC81P0AtRnNKHKzwJ"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Violent Allies",
+        "url": "https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        }
+      ],
+      "duration_ms": 180691,
+      "name": "The Shift",
+      "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -2125,22 +2125,6 @@
       "url": "https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU"
     },
     {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 200310,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb"
-    },
-    {
       "added_at": "2022-07-13 15:59:27",
       "album": {
         "name": "Requiem",
@@ -2155,6 +2139,22 @@
       "duration_ms": 219613,
       "name": "Let The Dark Do The Rest",
       "url": "https://open.spotify.com/track/7aZsMvEdZBsZHUG3OGbPpD"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 200310,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -2193,6 +2193,22 @@
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
     },
     {
+      "added_at": "2022-07-13 15:59:27",
+      "album": {
+        "name": "La G\u00e1rgola",
+        "url": "https://open.spotify.com/album/6ctiVzuLDrwlsHkgsatIqg"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 258946,
+      "name": "Take Out the Gunman",
+      "url": "https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP"
+    },
+    {
       "added_at": "2022-06-17 05:27:54",
       "album": {
         "name": "Warrior / Underrated",
@@ -2211,22 +2227,6 @@
       "duration_ms": 165891,
       "name": "Warrior (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz"
-    },
-    {
-      "added_at": "2022-07-13 15:59:27",
-      "album": {
-        "name": "La G\u00e1rgola",
-        "url": "https://open.spotify.com/album/6ctiVzuLDrwlsHkgsatIqg"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 258946,
-      "name": "Take Out the Gunman",
-      "url": "https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -2319,6 +2319,22 @@
     {
       "added_at": "2022-07-13 15:59:27",
       "album": {
+        "name": "SLEEPS SOCIETY",
+        "url": "https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 176695,
+      "name": "SYSTEMATIC",
+      "url": "https://open.spotify.com/track/7LRotHDhVHU9FE7oWhuFTL"
+    },
+    {
+      "added_at": "2022-07-13 15:59:27",
+      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL"
       },
@@ -2335,22 +2351,6 @@
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
-    },
-    {
-      "added_at": "2022-07-13 15:59:27",
-      "album": {
-        "name": "SLEEPS SOCIETY",
-        "url": "https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1"
-      },
-      "artists": [
-        {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        }
-      ],
-      "duration_ms": 176695,
-      "name": "SYSTEMATIC",
-      "url": "https://open.spotify.com/track/7LRotHDhVHU9FE7oWhuFTL"
     },
     {
       "added_at": "2022-06-17 05:27:54",

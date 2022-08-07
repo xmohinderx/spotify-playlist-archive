@@ -4,7 +4,7 @@
 
 > Get your bassface on with these classic Dubstep tracks.
 
-85 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/2qzn7ImjgDrhmEL5jaeO3u)
+86 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/2qzn7ImjgDrhmEL5jaeO3u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,11 +67,12 @@
 | [Night Vision](https://open.spotify.com/track/3q9d18SYJ0JDfvFCZAtBow) | [Distance](https://open.spotify.com/artist/1FvQZpPhaVvSoQnpslxnvb) | [My Demons](https://open.spotify.com/album/0OunwPdyQkPtategY8yonA) | 6:09 | 2020-10-03 | 2022-07-29 |
 | [Organ Donor](https://open.spotify.com/track/6s5ka9t96DN6StuzMk5U0l) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Game Time EP](https://open.spotify.com/album/07aAyO7CyO7b4QqDQzroiY) | 3:58 | 2020-10-03 |  |
 | [Organ Donor](https://open.spotify.com/track/7kZ7HsK9XD6X6e9Yb5zBTn) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [UKF Dubstep 2011](https://open.spotify.com/album/3IKzKR31XJ3fuQVeeJEbaH) | 3:58 | 2020-10-03 | 2022-07-28 |
+| [Perfect Stranger \(feat\. Katy B\)](https://open.spotify.com/track/45pKLqudtUxyytI3xPBap7) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 5:57 | 2020-10-03 |  |
 | [Perfect Stranger \(feat\. Magnetic Man\)](https://open.spotify.com/track/6ZqBQWfrmYqk5F9yi9S36O) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:13 | 2020-10-03 |  |
 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 | 2020-10-03 |  |
 | [Promises](https://open.spotify.com/track/4UZifG6wVTl3dFIeHKLi8y) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality](https://open.spotify.com/album/6GazPcWYAUnvB83tXIbs97) | 4:17 | 2020-10-03 | 2022-07-29 |
 | [Punisher](https://open.spotify.com/track/7qVGSVC8gXA8boXAvHePQS) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [Punisher](https://open.spotify.com/album/2hiFjT0WLuuXKoNhvr7yze) | 4:24 | 2020-10-03 | 2022-07-29 |
-| [Purple City](https://open.spotify.com/track/07OgaXz5dFCeLIVvPpZs7M) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Ginz](https://open.spotify.com/artist/64QoeJG6EusbNsBxzkqoOv) | [Purple City / Re\-Up](https://open.spotify.com/album/4sgN1XtBJLaE06fcqo5SoV) | 4:24 | 2020-10-03 |  |
+| [Purple City](https://open.spotify.com/track/07OgaXz5dFCeLIVvPpZs7M) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Ginz](https://open.spotify.com/artist/64QoeJG6EusbNsBxzkqoOv) | [Purple City / Re\-Up](https://open.spotify.com/album/4sgN1XtBJLaE06fcqo5SoV) | 4:24 | 2020-10-03 | 2022-08-07 |
 | [Ruffhouse \(feat\. Rod Azlan\)](https://open.spotify.com/track/7CrJEJxN8IX52KgHYxVsP4) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Rod Azlan](https://open.spotify.com/artist/5ifCekzNY9aSB2RExCeDTW) | [J:Kenzo](https://open.spotify.com/album/4RWMR22mHQEbhOfjNO7GFv) | 5:33 | 2020-10-03 | 2022-07-28 |
 | [Running](https://open.spotify.com/track/1qZO1LW9wVoxBSXF3M1N0S) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than A Lot \(New Edition\)](https://open.spotify.com/album/2q0wnAh21oFg9I2sznnPSA) | 4:47 | 2020-10-03 | 2022-07-27 |
 | [Running](https://open.spotify.com/track/5BW2ieMFF1MhCgdUvbCmP3) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 4:47 | 2020-10-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Favorite rock and gems.",
-  "num_followers": 63900,
+  "num_followers": 63966,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDA3ZDFjM2Q5NDI3Mzg1NzVjMWNlMzNjYTEzODU0OGM1",
+  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDI4Mzc4Njc1YmFiOWMzYTY0ZDVmMDIwYjY4OWQ5MGU0",
   "tracks": [
     {
       "added_at": "2022-06-23 14:53:44",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Keep Telling Myself It's Alright",
-        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
-      },
-      "artists": [
-        {
-          "name": "ASHES dIVIDE",
-          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Stone",
-      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Buds",
         "url": "https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 97543,
       "name": "Baby Shea",
       "url": "https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Keep Telling Myself It's Alright",
+        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
+      },
+      "artists": [
+        {
+          "name": "ASHES dIVIDE",
+          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Stone",
+      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Springtime and Blind",
-        "url": "https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw"
-      },
-      "artists": [
-        {
-          "name": "Fiddlehead",
-          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
-        }
-      ],
-      "duration_ms": 166101,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "The Remote Part",
         "url": "https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 143760,
       "name": "A Modern Way of Letting Go",
       "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Springtime and Blind",
+        "url": "https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw"
+      },
+      "artists": [
+        {
+          "name": "Fiddlehead",
+          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
+        }
+      ],
+      "duration_ms": 166101,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Promise Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
+        "name": "Shed",
+        "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
       },
       "artists": [
         {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+          "name": "Title Fight",
+          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
         }
       ],
-      "duration_ms": 222040,
-      "name": "Aquasun",
-      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
+      "duration_ms": 136826,
+      "name": "Shed",
+      "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Here And Nowhere Else",
-        "url": "https://open.spotify.com/album/4mbQAXtP8Kuhq04oriFyYy"
+        "name": "Promise Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
       "artists": [
         {
-          "name": "Cloud Nothings",
-          "url": "https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT"
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 275308,
-      "name": "I'm Not Part Of Me",
-      "url": "https://open.spotify.com/track/10Sj9At8dFsEabJcQzOSqu"
+      "duration_ms": 222040,
+      "name": "Aquasun",
+      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Shed",
-        "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
+        "name": "Here And Nowhere Else",
+        "url": "https://open.spotify.com/album/4mbQAXtP8Kuhq04oriFyYy"
       },
       "artists": [
         {
-          "name": "Title Fight",
-          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+          "name": "Cloud Nothings",
+          "url": "https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT"
         }
       ],
-      "duration_ms": 136826,
-      "name": "Shed",
-      "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
+      "duration_ms": 275308,
+      "name": "I'm Not Part Of Me",
+      "url": "https://open.spotify.com/track/10Sj9At8dFsEabJcQzOSqu"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Finelines",
-        "url": "https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R"
-      },
-      "artists": [
-        {
-          "name": "My Vitriol",
-          "url": "https://open.spotify.com/artist/75SjeTpGbsxZDpwPeVGERn"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "Always: Your Way",
-      "url": "https://open.spotify.com/track/3CxozMCXI2BBT58uQYXK7q"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Mint 400",
         "url": "https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 207000,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Finelines",
+        "url": "https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R"
+      },
+      "artists": [
+        {
+          "name": "My Vitriol",
+          "url": "https://open.spotify.com/artist/75SjeTpGbsxZDpwPeVGERn"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "Always: Your Way",
+      "url": "https://open.spotify.com/track/3CxozMCXI2BBT58uQYXK7q"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "I'm Not Well",
-        "url": "https://open.spotify.com/album/39GHKYD9zdoF78P1Ms0xgB"
-      },
-      "artists": [
-        {
-          "name": "Black Foxxes",
-          "url": "https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT"
-        }
-      ],
-      "duration_ms": 158435,
-      "name": "Husk",
-      "url": "https://open.spotify.com/track/4J7GZ0QWuLsbL94nNZyn7S"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Pinkerton - Deluxe Edition",
         "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 126093,
       "name": "Why Bother?",
       "url": "https://open.spotify.com/track/4W3uLgQTUl4fXAIdAvFRzK"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "I'm Not Well",
+        "url": "https://open.spotify.com/album/39GHKYD9zdoF78P1Ms0xgB"
+      },
+      "artists": [
+        {
+          "name": "Black Foxxes",
+          "url": "https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT"
+        }
+      ],
+      "duration_ms": 158435,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/4J7GZ0QWuLsbL94nNZyn7S"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Pushing the Senses",
-        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
-      },
-      "artists": [
-        {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Pushing The Senses",
-      "url": "https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "VINYL: THE ESSENTIALS: BEST OF SEASON 1",
         "url": "https://open.spotify.com/album/77era7gZSj4bR9olUpIcJu"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 167466,
       "name": "Where Are You Now?",
       "url": "https://open.spotify.com/track/7w53ucikSIdig3nLCi29a9"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Pushing the Senses",
+        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Pushing The Senses",
+      "url": "https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Workbook",
-        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
-      },
-      "artists": [
-        {
-          "name": "Bob Mould",
-          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "See A Little Light",
-      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Third Chain",
         "url": "https://open.spotify.com/album/1t5YBAvPGnaUBbRSmLaU2y"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 186000,
       "name": "Misplaced",
       "url": "https://open.spotify.com/track/0fmbchkYzQHMQHRKJmX2uu"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Workbook",
+        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
+      },
+      "artists": [
+        {
+          "name": "Bob Mould",
+          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "See A Little Light",
+      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1"
+      },
+      "artists": [
+        {
+          "name": "Demob Happy",
+          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/6ueu2LGKB7iuUZ6Gyz44CX"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 237893,
       "name": "Grey Flap",
       "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1"
-      },
-      "artists": [
-        {
-          "name": "Demob Happy",
-          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
+        "name": "Drenge",
+        "url": "https://open.spotify.com/album/0Wrn6T6l8C2zPtnuOUQtmB"
       },
       "artists": [
         {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
+          "name": "Drenge",
+          "url": "https://open.spotify.com/artist/1bqX4oZFTWIQFk90AwKfnC"
         }
       ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
+      "duration_ms": 152106,
+      "name": "Bloodsports",
+      "url": "https://open.spotify.com/track/2zn3hrsi0nrTe42JJxMgC8"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Cedric Burnside",
-  "num_followers": 412808,
+  "num_followers": 412877,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGQzYmQzZGI2M2E5MjIxNTRiM2I1MWIyYTMxNzA3NmE1",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDFlYmUwOGUzNmE0ZTA3ZThjOWUwM2NlYzdjYTU3N2Y2",
   "tracks": [
     {
       "added_at": "2022-07-26 14:55:05",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Malibu Man",
-      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
         "name": "The Dip Delivers",
         "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 174520,
       "name": "Sure Don't Miss You",
       "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Malibu Man",
+      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -613,6 +613,22 @@
       "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
     },
     {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Lonesome as a Shadow",
+        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Ain't Gotta Worry Child",
+      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Hit 'Em Back",
@@ -641,20 +657,20 @@
       "url": "https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-07-26 14:55:05",
       "album": {
-        "name": "Lonesome as a Shadow",
-        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 185280,
-      "name": "Ain't Gotta Worry Child",
-      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
+      "duration_ms": 187027,
+      "name": "More Than Love",
+      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -671,22 +687,6 @@
       "duration_ms": 277675,
       "name": "Empty Me Out",
       "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
-    },
-    {
-      "added_at": "2022-07-26 14:55:05",
-      "album": {
-        "name": "Bloodline Maintenance",
-        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "More Than Love",
-      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Amen",
@@ -787,6 +771,22 @@
       "duration_ms": 247478,
       "name": "Amen",
       "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -835,22 +835,6 @@
       "duration_ms": 130276,
       "name": "Knew The Day Was Comin'",
       "url": "https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -931,6 +915,22 @@
       "duration_ms": 165727,
       "name": "Don't Let The Devil Ride",
       "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "S\u00edminn+Spotify Session",
         "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 352720,
       "name": "Neon Experience - Live from Vatnagar\u00f0ar",
       "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1181,20 +1181,20 @@
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+        "name": "Racing To A Red Light",
+        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "duration_ms": 184826,
-      "name": "History Repeats",
-      "url": "https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7"
+      "duration_ms": 264066,
+      "name": "Racing To A Red Light",
+      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "History Repeats",
+      "url": "https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
         "name": "Southern Avenue",
         "url": "https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 232600,
       "name": "What Did I Do",
       "url": "https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Racing To A Red Light",
-        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Racing To A Red Light",
-      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
     }
   ],
   "unique_name": "Blues Roots",

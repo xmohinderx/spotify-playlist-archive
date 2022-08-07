@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42071,
+  "num_followers": 42081,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDBjOTM5NmE5NGUyNmU1MzMyOWJjNDgxOTk0YTc2MDQ0",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGMxNjY4MDZiM2U0NzU2OWNjNWQyYmY3ZWFhODNmMjc5",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -911,6 +911,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Leaving Shadowland",
+        "url": "https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE"
+      },
+      "artists": [
+        {
+          "name": "Seeker & Servant",
+          "url": "https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Where Would I Be",
+      "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "I Am One",
         "url": "https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 250409,
       "name": "I Am One",
       "url": "https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Leaving Shadowland",
-        "url": "https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE"
-      },
-      "artists": [
-        {
-          "name": "Seeker & Servant",
-          "url": "https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Where Would I Be",
-      "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
     },
     {
       "added_at": "2020-12-18 06:02:14",

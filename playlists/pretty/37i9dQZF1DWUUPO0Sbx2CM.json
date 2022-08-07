@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 100650,
+  "num_followers": 100705,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDA2MjM4OTg1N2JjYTU0ZmEzNTZiZGZmMGMxOTVkNjhk",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGEzNzhmYThjZmMzZDMzM2QzMWFlYTEwNDEyODU3YTYx",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -375,6 +375,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 168000,
       "name": "Close (feat. Steven Furtick)",
       "url": "https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -735,18 +735,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+        "name": "Give Up On Love",
+        "url": "https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
         }
       ],
-      "duration_ms": 201093,
-      "name": "Lifer",
-      "url": "https://open.spotify.com/track/1fAfbJtiwvTh76blPg4hEA"
+      "duration_ms": 202790,
+      "name": "Give Up On Love",
+      "url": "https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -763,6 +763,70 @@
       "duration_ms": 200133,
       "name": "Free",
       "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Lifer",
+      "url": "https://open.spotify.com/track/1fAfbJtiwvTh76blPg4hEA"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        }
+      ],
+      "duration_ms": 180469,
+      "name": "SLINGSHOT",
+      "url": "https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Every Move I Make",
+        "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
+      },
+      "artists": [
+        {
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+        }
+      ],
+      "duration_ms": 132255,
+      "name": "Every Move I Make",
+      "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -791,38 +855,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Every Move I Make",
-        "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
-      },
-      "artists": [
-        {
-          "name": "Edgar Sandoval Jr",
-          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
-        }
-      ],
-      "duration_ms": 132255,
-      "name": "Every Move I Make",
-      "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
-      },
-      "artists": [
-        {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
-        }
-      ],
-      "duration_ms": 180469,
-      "name": "SLINGSHOT",
-      "url": "https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "One More Day",
         "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
       },
@@ -835,38 +867,6 @@
       "duration_ms": 194798,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Never Have I Ever",
-      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Give Up On Love",
-        "url": "https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 202790,
-      "name": "Give Up On Love",
-      "url": "https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Revival (Live)",
+        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Way Truth Life - Live",
+      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "How Far",
         "url": "https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Revival (Live)",
-        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Way Truth Life - Live",
-      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/6ptypNaGR4S2XJOPvrXKtY"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 196835,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 221368,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1cscp6VyUW7xxk5miGbtN1"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 196835,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/7BpeLRl1PyJkIjQ8sZ5U9x"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 223308,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/3AoFd9WAOOCjnkXh5PsmYG"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1zF2M4uUPg8qrKDzOkOYJy"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 227379,
       "name": "Without You - Abe Parker Remix",
       "url": "https://open.spotify.com/track/4zSnb8fvewyGGV1U4R9Dx0"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Silhouettes",
-        "url": "https://open.spotify.com/album/7BpeLRl1PyJkIjQ8sZ5U9x"
-      },
-      "artists": [
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 223308,
-      "name": "Silhouettes",
-      "url": "https://open.spotify.com/track/3AoFd9WAOOCjnkXh5PsmYG"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/3g9G4l7NCOiuKeiIVtMaB5"
       },
       "artists": [
         {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
         }
       ],
-      "duration_ms": 124160,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
+      "duration_ms": 202057,
+      "name": "STICKS & STONES",
+      "url": "https://open.spotify.com/track/1XsVqOChsThIrhuLZcSCkT"
     }
   ],
   "unique_name": "Christian Dance Party",

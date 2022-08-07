@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 156088,
+  "num_followers": 156121,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU0NDAyOCwwMDAwMDAwMGU4OThhODFkNDJjODZmNGNhMWM1YWQxNGQxN2MxMTQw",
+  "snapshot_id": "MTY1OTU0NDAyOCwwMDAwMDAwMGRmN2RkZDI4OGRkMWNhYzYwMzIyY2JlNWNhOTMxNmRm",
   "tracks": [
     {
       "added_at": "2022-08-03 16:27:08",
@@ -395,6 +395,26 @@
     {
       "added_at": "2022-08-03 16:27:08",
       "album": {
+        "name": "Problem\u00f3n",
+        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+    },
+    {
+      "added_at": "2022-08-03 16:27:08",
+      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
-    },
-    {
-      "added_at": "2022-08-03 16:27:08",
-      "album": {
-        "name": "Problem\u00f3n",
-        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
     },
     {
       "added_at": "2022-08-03 16:27:08",
@@ -903,30 +903,6 @@
     {
       "added_at": "2022-08-03 16:27:08",
       "album": {
-        "name": "La Playa (Remix)",
-        "url": "https://open.spotify.com/album/3qppmBh6lM8UXGTZF0dyTD"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 250333,
-      "name": "La Playa - Remix",
-      "url": "https://open.spotify.com/track/70zg99pT51vB4wlMS7e4q7"
-    },
-    {
-      "added_at": "2022-08-03 16:27:08",
-      "album": {
         "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) [Remix]",
         "url": "https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 310588,
       "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
       "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
+    },
+    {
+      "added_at": "2022-08-03 16:27:08",
+      "album": {
+        "name": "La Playa (Remix)",
+        "url": "https://open.spotify.com/album/3qppmBh6lM8UXGTZF0dyTD"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 250333,
+      "name": "La Playa - Remix",
+      "url": "https://open.spotify.com/track/70zg99pT51vB4wlMS7e4q7"
     },
     {
       "added_at": "2022-08-03 16:27:08",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2022-08-03 16:27:08",
       "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+        "name": "Apaga la Luz",
+        "url": "https://open.spotify.com/album/4UfXhzN4scJjic6pl8AkAF"
       },
       "artists": [
         {
@@ -1332,9 +1332,9 @@
           "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+      "duration_ms": 191223,
+      "name": "Apaga la Luz",
+      "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
     },
     {
       "added_at": "2022-08-03 16:27:08",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-08-03 16:27:08",
       "album": {
+        "name": "Canciones Pa Mi Ex Vol.1",
+        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 148149,
+      "name": "Fue Lindo",
+      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
+    },
+    {
+      "added_at": "2022-08-03 16:27:08",
+      "album": {
         "name": "Cu\u00e1ntas veces",
         "url": "https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB"
       },
@@ -1491,24 +1507,8 @@
     {
       "added_at": "2022-08-03 16:27:08",
       "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 148149,
-      "name": "Fue Lindo",
-      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
-    },
-    {
-      "added_at": "2022-08-03 16:27:08",
-      "album": {
-        "name": "Apaga la Luz",
-        "url": "https://open.spotify.com/album/4UfXhzN4scJjic6pl8AkAF"
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
       },
       "artists": [
         {
@@ -1520,9 +1520,9 @@
           "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 191223,
-      "name": "Apaga la Luz",
-      "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
       "added_at": "2022-08-03 16:27:08",
@@ -1563,18 +1563,26 @@
     {
       "added_at": "2022-08-03 16:27:08",
       "album": {
-        "name": "Carita Bonita",
-        "url": "https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd"
+        "name": "Angelito",
+        "url": "https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw"
       },
       "artists": [
         {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
         }
       ],
-      "duration_ms": 226981,
-      "name": "Carita Bonita",
-      "url": "https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR"
+      "duration_ms": 227513,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
     }
   ],
   "unique_name": "Tranqui",

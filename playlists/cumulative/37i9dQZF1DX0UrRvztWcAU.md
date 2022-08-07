@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these awesome, happy songs!
 
-377 songs - 21 hr 15 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
+378 songs - 21 hr 18 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-01-28 | 2022-05-31 |
 | [Anywhere](https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Anywhere](https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO) | 3:25 | 2021-12-16 | 2022-07-22 |
 | [Back Together](https://open.spotify.com/track/3VKDOXkmTHt4Xa78U4dbDp) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Back Together](https://open.spotify.com/album/4NwBWom1WMTNFHa2G7NaHm) | 3:03 | 2021-12-16 | 2022-07-29 |
+| [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-05 |  |
 | [Bad Vibrations](https://open.spotify.com/track/6zTKuNMEU3svBn65L6u88M) | [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Bad Vibrations](https://open.spotify.com/album/29q8kyiWQBvu9kJ3kJ859E) | 3:19 | 2021-12-16 | 2022-07-29 |
 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ) | 3:17 | 2021-12-16 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 | 2021-12-16 |  |
@@ -115,7 +116,7 @@
 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 | 2022-07-08 |  |
 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [The Essential Kenny Loggins](https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect) | 3:46 | 2022-04-11 | 2022-04-21 |
 | [Forgive Me Friend](https://open.spotify.com/track/6LS5QB8GW8raREqEEQPEMs) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90), [Swedish Jam Factory](https://open.spotify.com/artist/599aGczoZFptUe5tbS43LT) | [Forgive Me Friend](https://open.spotify.com/album/4CIX8ETHN8XMY8t2UAOzlR) | 3:36 | 2021-12-16 | 2022-07-29 |
-| [Forgive Me Friend \(feat\. Swedish Jam Factory\)](https://open.spotify.com/track/3OOCTo40A47WiXqMu6NDi2) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90), [Swedish Jam Factory](https://open.spotify.com/artist/599aGczoZFptUe5tbS43LT) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:36 | 2022-07-08 |  |
+| [Forgive Me Friend \(feat\. Swedish Jam Factory\)](https://open.spotify.com/track/3OOCTo40A47WiXqMu6NDi2) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90), [Swedish Jam Factory](https://open.spotify.com/artist/599aGczoZFptUe5tbS43LT) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:36 | 2022-07-08 | 2022-08-07 |
 | [Free To Go](https://open.spotify.com/track/172BxPrgDzSgLzFK6jfGpz) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Free To Go](https://open.spotify.com/album/7jzjE2PLzwwQoMtXpOvydb) | 3:37 | 2021-12-16 | 2022-06-04 |
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2022-04-05 |  |
 | [Friday](https://open.spotify.com/track/1d1Pq1VibEtroYdFevtF56) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Friday](https://open.spotify.com/album/7hZmbkX2BTTPIujT3p1WCk) | 2:31 | 2021-12-16 | 2022-07-29 |

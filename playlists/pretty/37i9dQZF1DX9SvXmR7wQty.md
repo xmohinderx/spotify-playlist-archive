@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Richard Séguin
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,724 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,727 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 45 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 |
 | 46 | [Le Décompte](https://open.spotify.com/track/0EcVzr8bLeBwBqq7TKhYcm) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Le Décompte](https://open.spotify.com/album/5lGhQFyuPnQU9pjAF6cQio) | 2:58 |
 | 47 | [Carbo \(feat\. Enima\)](https://open.spotify.com/track/7cKs255Ja2MpjL4ecfIHvS) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Avant la fête](https://open.spotify.com/album/3bseLT6nZqX9Aap9UMY7SJ) | 2:26 |
-| 48 | [Redescends](https://open.spotify.com/track/1kXFslzdPEkOs5QC5GkdN4) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends](https://open.spotify.com/album/5lmmRtv80XbKm3EqS1AReB) | 2:39 |
+| 48 | [Redescends \(feat Tiakola\)](https://open.spotify.com/track/0hveTnaqO8nXDMwwsJGJI3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends \(feat Tiakola\)](https://open.spotify.com/album/4KaUWIjzjEyF5KZTKcHQCh) | 2:39 |
 | 49 | [Bizarre](https://open.spotify.com/track/2IrTgjztzr7vjmVHQVeX36) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Bizarre](https://open.spotify.com/album/7MccU2BmWKV2ZdIuNLfSML) | 3:12 |
 | 50 | [Ici c’est Toulouse](https://open.spotify.com/track/0D050w2EIJMwDAFPqh7IUQ) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/1DO9NnnNHJHstVla096ryH) | 3:03 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMDFlYmE5NTY3YzE2ZjdhMGM4MzRiYzVjMTQ4Mjc2NWU1`
+Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMDIxYzY3NTU3Y2QyOTVhZmEyMTNhOTEyMWQxNGM5OTE3`

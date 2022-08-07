@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 136443,
+  "num_followers": 136487,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGMyZTI3Y2EwMDY3MjZjYzdjM2JmOGFkOTFkM2I0Y2Fi",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDI5Yjk1NDA5ZTNjZmQ0Mjc1ZjczODNkMmI3Yjg3OTU4",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -219,22 +219,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Las No. 1 Instrumentales",
-        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
-      },
-      "artists": [
-        {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
-        }
-      ],
-      "duration_ms": 283573,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Legge Dei Gangsters",
         "url": "https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 167314,
       "name": "Crepuscolo Sul Mare",
       "url": "https://open.spotify.com/track/3c07yD1n2fRvcD9wY638hg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Las No. 1 Instrumentales",
+        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+      },
+      "artists": [
+        {
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+        }
+      ],
+      "duration_ms": 283573,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -939,18 +939,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sue\u00f1o azul",
-        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
       "artists": [
         {
-          "name": "Robson Miguel y grupo",
-          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        },
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
         }
       ],
-      "duration_ms": 142040,
-      "name": "Concierto para una sola voz",
-      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
+      "duration_ms": 260200,
+      "name": "Lily Was Here (feat. Candy Dulfer)",
+      "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -971,22 +975,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "90s 100 Hits",
-        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+        "name": "Sue\u00f1o azul",
+        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
       },
       "artists": [
         {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
-        },
-        {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+          "name": "Robson Miguel y grupo",
+          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
         }
       ],
-      "duration_ms": 260200,
-      "name": "Lily Was Here (feat. Candy Dulfer)",
-      "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
+      "duration_ms": 142040,
+      "name": "Concierto para una sola voz",
+      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Ferrante & Teicher Collection",
-        "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
-      },
-      "artists": [
-        {
-          "name": "Ferrante & Teicher",
-          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
-        }
-      ],
-      "duration_ms": 403466,
-      "name": "Ravel's Bolero",
-      "url": "https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Fiesta Mexicana de Pepe Jaramillo",
         "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 111200,
       "name": "Capullito de Alel\u00ed",
       "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Ferrante & Teicher Collection",
+        "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
+      },
+      "artists": [
+        {
+          "name": "Ferrante & Teicher",
+          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
+        }
+      ],
+      "duration_ms": 403466,
+      "name": "Ravel's Bolero",
+      "url": "https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Unforgettable Sounds of Esquivel",
-        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
-      },
-      "artists": [
-        {
-          "name": "Mr. Ho's Orchestrotica",
-          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
-        }
-      ],
-      "duration_ms": 161773,
-      "name": "Andalucia",
-      "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Norwegian Rain",
         "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 293853,
       "name": "The Approaching Storm",
       "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Unforgettable Sounds of Esquivel",
+        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ho's Orchestrotica",
+          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
+        }
+      ],
+      "duration_ms": 161773,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
     },
     {
       "added_at": "2020-12-08 19:02:01",

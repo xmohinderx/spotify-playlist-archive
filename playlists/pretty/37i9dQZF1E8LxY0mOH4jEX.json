@@ -1,105 +1,13 @@
 {
-  "description": "With Bruno Mars, Bueno, Wobble Baby Wobble Baby, Dawin and more",
-  "num_followers": 3794,
+  "description": "With Bruno Mars, Bueno, Tito Jackson, Nevada and more",
+  "num_followers": 3799,
   "original_name": "24K Magic Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTc0OTQxMiwwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4",
+  "snapshot_id": "MTY1OTgzNjIxMiwwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "6 Am (feat. Bruno Mars) [Remix]",
-        "url": "https://open.spotify.com/album/5monV5a5nOHtp6R0zVzQrc"
-      },
-      "artists": [
-        {
-          "name": "Bueno",
-          "url": "https://open.spotify.com/artist/0YAO9P4v43mlSAgZE5oa55"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "6 Am (feat. Bruno Mars) - Remix",
-      "url": "https://open.spotify.com/track/5dgF9BQYF1AVOk3YvyUzLD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wobble",
-        "url": "https://open.spotify.com/album/0dHZEedQuDzAmj0xJ19Zou"
-      },
-      "artists": [
-        {
-          "name": "Wobble Baby Wobble Baby",
-          "url": "https://open.spotify.com/artist/4n8LAhTVrHsnpYlnJN54ud"
-        }
-      ],
-      "duration_ms": 226105,
-      "name": "Wobble",
-      "url": "https://open.spotify.com/track/1SG18kW0egXcvFS1vmpA62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd"
-      },
-      "artists": [
-        {
-          "name": "Dawin",
-          "url": "https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu"
-        }
-      ],
-      "duration_ms": 189280,
-      "name": "Sidekick",
-      "url": "https://open.spotify.com/track/0X85L0csrSMt6mt4qgvd20"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Watch Me (Whip / Nae Nae) [Remixes]",
-        "url": "https://open.spotify.com/album/15iuVx60KdBgECADSwojhr"
-      },
-      "artists": [
-        {
-          "name": "Silent\u00f3",
-          "url": "https://open.spotify.com/artist/7juKTDFlPesGeWQ1GmjmOv"
-        },
-        {
-          "name": "Wild Style",
-          "url": "https://open.spotify.com/artist/5k2RGrnyuitw9rqnbvw9OI"
-        },
-        {
-          "name": "Richard Vission",
-          "url": "https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Watch Me (Whip / Nae Nae) - Richard Vission Remix / Radio Edit",
-      "url": "https://open.spotify.com/track/1ZLHsifmLBIViwejzZdYNg"
-    },
     {
       "added_at": null,
       "album": {
@@ -112,9 +20,29 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 186973,
-      "name": "Chunky",
-      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI"
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maloof Money, Vol. 3 (Executive Decisions)",
+        "url": "https://open.spotify.com/album/5i3gZ67HmViGlk369MjsQw"
+      },
+      "artists": [
+        {
+          "name": "Bueno",
+          "url": "https://open.spotify.com/artist/0YAO9P4v43mlSAgZE5oa55"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "6am (feat. Bruno Mars) - Bonus Track",
+      "url": "https://open.spotify.com/track/2xzX9MdxN2e36BQkNwYzxH"
     },
     {
       "added_at": null,
@@ -126,63 +54,123 @@
         {
           "name": "Tito Jackson",
           "url": "https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP"
+        }
+      ],
+      "duration_ms": 159757,
+      "name": "Get It Baby (Radio Mix Version)",
+      "url": "https://open.spotify.com/track/5gfmTZ1G6IwwO0WbjxRozk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mack",
+        "url": "https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn"
+      },
+      "artists": [
+        {
+          "name": "Nevada",
+          "url": "https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT"
         },
         {
-          "name": "Big Daddy Kane",
-          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
         }
       ],
-      "duration_ms": 176848,
-      "name": "Get It Baby (feat. Big Daddy Kane)",
-      "url": "https://open.spotify.com/track/6dDhMwFhsm5gkXZC1GBS3P"
+      "duration_ms": 167038,
+      "name": "The Mack",
+      "url": "https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "When the Girls Talk Boys",
-        "url": "https://open.spotify.com/album/4IS6DEVTjpJLeNiKPSWGSY"
+        "name": "This Is How We Do It",
+        "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
       "artists": [
         {
-          "name": "DJ Drive",
-          "url": "https://open.spotify.com/artist/6XGpiU0NtnGdCx8khAEDz4"
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        },
+        {
+          "name": "Wino",
+          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
         }
       ],
-      "duration_ms": 214000,
-      "name": "When the Girls Talk Boys",
-      "url": "https://open.spotify.com/track/4M3k0XrM1KUgf7SvkBiZUL"
+      "duration_ms": 238800,
+      "name": "This Is How We Do It",
+      "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I'm Italiano",
-        "url": "https://open.spotify.com/album/3lfMYIOM2JacwsWmJ5vBTh"
+        "name": "Finesse (Remix) [feat. Cardi B]",
+        "url": "https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p"
       },
       "artists": [
         {
-          "name": "Jo Brown",
-          "url": "https://open.spotify.com/artist/3zjy0Q1PfphiDKhr1RrZaN"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 189694,
-      "name": "Yes I'm Cool",
-      "url": "https://open.spotify.com/track/4ttPEYf8X5FYwUvYDKX7TA"
+      "duration_ms": 217288,
+      "name": "Finesse - Remix; feat. Cardi B",
+      "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Don't Be Cruel (Expanded Edition)",
-        "url": "https://open.spotify.com/album/45h9TCnlSKB4P2ytSKxKSf"
+        "name": "I'm With You Every Single Weekend",
+        "url": "https://open.spotify.com/album/1NMCaTUp5HE1hgRAPQ5zEV"
       },
       "artists": [
         {
-          "name": "Bobby Brown",
-          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+          "name": "When It's the End",
+          "url": "https://open.spotify.com/artist/4x717uKDCxQxuNPBSL5qtN"
         }
       ],
-      "duration_ms": 538000,
-      "name": "Every Little Hit Mega Mix - Club Version",
-      "url": "https://open.spotify.com/track/3t226jklJ7icPHPUY4DlBm"
+      "duration_ms": 215839,
+      "name": "I Can't Feel My Face",
+      "url": "https://open.spotify.com/track/7pnXbHoMwKgixpsK2ikFVR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Stop the Feeling",
+        "url": "https://open.spotify.com/album/67TKBOI36cMhyAQLM88DiM"
+      },
+      "artists": [
+        {
+          "name": "James Timber",
+          "url": "https://open.spotify.com/artist/0VfKmIFE9J4ahYak0oXFZT"
+        }
+      ],
+      "duration_ms": 236095,
+      "name": "Can't Stop the Feeling",
+      "url": "https://open.spotify.com/track/77j7GafMj2Rqd8YCOry3b8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Her Kiss",
+        "url": "https://open.spotify.com/album/0gu0TJatirlAYgN8pnLegh"
+      },
+      "artists": [
+        {
+          "name": "Boris Ren\u00e9",
+          "url": "https://open.spotify.com/artist/4DJBzPgrGYBZSY3uCv8HMJ"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Her Kiss",
+      "url": "https://open.spotify.com/track/6X6kCTsrpTZFDDfrlH2wLV"
     },
     {
       "added_at": null,
@@ -223,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd"
+      },
+      "artists": [
+        {
+          "name": "Dawin",
+          "url": "https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "Jumpshot",
+      "url": "https://open.spotify.com/track/5GTNt44FIgCax5hjsrqNaB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -232,25 +236,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Stop the Feeling",
-        "url": "https://open.spotify.com/album/67TKBOI36cMhyAQLM88DiM"
-      },
-      "artists": [
-        {
-          "name": "James Timber",
-          "url": "https://open.spotify.com/artist/0VfKmIFE9J4ahYak0oXFZT"
-        }
-      ],
-      "duration_ms": 236095,
-      "name": "Can't Stop the Feeling",
-      "url": "https://open.spotify.com/track/77j7GafMj2Rqd8YCOry3b8"
+      "duration_ms": 186973,
+      "name": "Chunky",
+      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI"
     },
     {
       "added_at": null,
@@ -271,34 +259,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Her Kiss",
-        "url": "https://open.spotify.com/album/0gu0TJatirlAYgN8pnLegh"
+        "name": "Time for a Change",
+        "url": "https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu"
       },
       "artists": [
         {
-          "name": "Boris Ren\u00e9",
-          "url": "https://open.spotify.com/artist/4DJBzPgrGYBZSY3uCv8HMJ"
+          "name": "Cupid",
+          "url": "https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM"
         }
       ],
-      "duration_ms": 183493,
-      "name": "Her Kiss",
-      "url": "https://open.spotify.com/track/6X6kCTsrpTZFDDfrlH2wLV"
+      "duration_ms": 231360,
+      "name": "Cupid Shuffle",
+      "url": "https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd"
+        "name": "THE KIDS",
+        "url": "https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF"
       },
       "artists": [
         {
-          "name": "Dawin",
-          "url": "https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu"
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Light Of Day",
-      "url": "https://open.spotify.com/track/6JOjzjMV6bbpHDrnoZEj4p"
+      "duration_ms": 298746,
+      "name": "STAY TUNE",
+      "url": "https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7"
     },
     {
       "added_at": null,
@@ -319,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd"
+      },
+      "artists": [
+        {
+          "name": "Dawin",
+          "url": "https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "Sidekick",
+      "url": "https://open.spotify.com/track/0X85L0csrSMt6mt4qgvd20"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -328,41 +332,33 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 210053,
-      "name": "Perm",
-      "url": "https://open.spotify.com/track/1I6pKIyaBp4OebTGLJpCCC"
+      "duration_ms": 261240,
+      "name": "Versace on the Floor",
+      "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Keep It Moving",
-        "url": "https://open.spotify.com/album/4e88nitoDHDZflJ1FLG1sY"
+        "name": "Future Is Mine (feat. Chromeo & Wale)",
+        "url": "https://open.spotify.com/album/4UTaihSVC8GRiMgN6ZAcrP"
       },
       "artists": [
         {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        }
-      ],
-      "duration_ms": 196999,
-      "name": "Keep It Moving",
-      "url": "https://open.spotify.com/track/1R7wEQ4AMgcNzSN7GkGuid"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cha Cha",
-        "url": "https://open.spotify.com/album/7LGH5NCcJBdL9Eqpbv2Ty4"
-      },
-      "artists": [
+          "name": "DJ Cassidy",
+          "url": "https://open.spotify.com/artist/1xLOb1CC0N70wA28T7Q5uE"
+        },
         {
-          "name": "Sonny",
-          "url": "https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb"
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 190293,
-      "name": "Cha Cha",
-      "url": "https://open.spotify.com/track/6oAuBtKkk3dCSBJmiFLBez"
+      "duration_ms": 277520,
+      "name": "Future Is Mine (feat. Chromeo & Wale)",
+      "url": "https://open.spotify.com/track/1885hHFhy3F04ZedxT6oHN"
     },
     {
       "added_at": null,
@@ -391,110 +387,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mack",
-        "url": "https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn"
+        "name": "Baby Be Real",
+        "url": "https://open.spotify.com/album/6cyLEnxyiUIjb9UN7SY2Xv"
       },
       "artists": [
         {
-          "name": "Nevada",
-          "url": "https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT"
+          "name": "Wolfgang Gartner",
+          "url": "https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK"
         },
         {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+          "name": "John Oates",
+          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Baby Be Real - Radio Edit",
+      "url": "https://open.spotify.com/track/7HfHkdQYGZqgtGISmSsN4j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Watch Me (Whip / Nae Nae) [Remixes]",
+        "url": "https://open.spotify.com/album/15iuVx60KdBgECADSwojhr"
+      },
+      "artists": [
+        {
+          "name": "Silent\u00f3",
+          "url": "https://open.spotify.com/artist/7juKTDFlPesGeWQ1GmjmOv"
         },
         {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 167038,
-      "name": "The Mack",
-      "url": "https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd"
-      },
-      "artists": [
-        {
-          "name": "Dawin",
-          "url": "https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "Jumpshot",
-      "url": "https://open.spotify.com/track/5GTNt44FIgCax5hjsrqNaB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Finesse (Remix) [feat. Cardi B]",
-        "url": "https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Wild Style",
+          "url": "https://open.spotify.com/artist/5k2RGrnyuitw9rqnbvw9OI"
         },
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Richard Vission",
+          "url": "https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt"
         }
       ],
-      "duration_ms": 217288,
-      "name": "Finesse - Remix; feat. Cardi B",
-      "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trying to Do What Lovers Do (Am I Lucky or Not to Have You Love Me)",
-        "url": "https://open.spotify.com/album/4F3lYJkuj5ASje2kGpViuk"
-      },
-      "artists": [
-        {
-          "name": "Jared Munzie",
-          "url": "https://open.spotify.com/artist/1ewJAj4KOH3uWU734zLGCH"
-        }
-      ],
-      "duration_ms": 212112,
-      "name": "I Don't Wanna Know",
-      "url": "https://open.spotify.com/track/5S9i5lKK0S5r45BwtpuWMS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cash Me Outside (#CashMeOutside)",
-        "url": "https://open.spotify.com/album/7iaWvU7PIRzOytw75sVshU"
-      },
-      "artists": [
-        {
-          "name": "DJ Suede The Remix God",
-          "url": "https://open.spotify.com/artist/7z7kN3prU5FQJk32gTDYAW"
-        }
-      ],
-      "duration_ms": 129384,
-      "name": "Cash Me Outside (#CashmeOutside)",
-      "url": "https://open.spotify.com/track/1r6cyaW7yMykwSyxTuwcuM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play That Sax",
-        "url": "https://open.spotify.com/album/04bfW53yt0aBRq0RCjxOcS"
-      },
-      "artists": [
-        {
-          "name": "Dj Rehan",
-          "url": "https://open.spotify.com/artist/65Kc7tMrZdlUzHzluFTpIl"
-        }
-      ],
-      "duration_ms": 233898,
-      "name": "Play That Sax",
-      "url": "https://open.spotify.com/track/34AUM3kk7eOBzTZUvpC9fR"
+      "duration_ms": 204761,
+      "name": "Watch Me (Whip / Nae Nae) - Richard Vission Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/1ZLHsifmLBIViwejzZdYNg"
     },
     {
       "added_at": null,
@@ -515,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+        "name": "Treasure Remix EP",
+        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
       },
       "artists": [
         {
@@ -524,97 +456,57 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 189109,
-      "name": "The Lazy Song",
-      "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
+      "duration_ms": 178757,
+      "name": "Treasure - Robert DeLong Radio Edit",
+      "url": "https://open.spotify.com/track/3SReOm0IHFtzUGNEfpWH1V"
     },
     {
       "added_at": null,
       "album": {
-        "name": "THE KIDS",
-        "url": "https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF"
+        "name": "HipHop Workout",
+        "url": "https://open.spotify.com/album/4J52BvcYNAHbNT4aHNjy1V"
       },
       "artists": [
         {
-          "name": "Suchmos",
-          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+          "name": "Metrixx",
+          "url": "https://open.spotify.com/artist/3dpG6M91e9gkMArlQ5hSha"
         }
       ],
-      "duration_ms": 298746,
-      "name": "STAY TUNE",
-      "url": "https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7"
+      "duration_ms": 125715,
+      "name": "JuJu On The Beat",
+      "url": "https://open.spotify.com/track/2ghQDsYSb74mc8iAIYdAck"
     },
     {
       "added_at": null,
       "album": {
-        "name": "SPOTLIGHT",
-        "url": "https://open.spotify.com/album/2xRT553IRqyGSpGzPrusIJ"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/10rghVhG8fMgjDPwy6uoZn"
       },
       "artists": [
         {
-          "name": "Samuel",
-          "url": "https://open.spotify.com/artist/0dtXsO617bBzBwDLWC6HXt"
-        },
-        {
-          "name": "Silent\u00f3",
-          "url": "https://open.spotify.com/artist/7juKTDFlPesGeWQ1GmjmOv"
+          "name": "Daniel Skye",
+          "url": "https://open.spotify.com/artist/1pqYQmeqnqQU7X3DbuA7So"
         }
       ],
-      "duration_ms": 186383,
-      "name": "SPOTLIGHT",
-      "url": "https://open.spotify.com/track/24COKej9WJzxhMvlai0Hsu"
+      "duration_ms": 159416,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/38SMnh6mMS6ss1tEpD0Aun"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Red Lips",
-        "url": "https://open.spotify.com/album/6huDs4K7QvGIkFvHBYbfd1"
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/7t2q7sadshoX7BBMwnHUQA"
       },
       "artists": [
         {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        },
-        {
-          "name": "Brendan Reilly",
-          "url": "https://open.spotify.com/artist/5JO2xhC4QRDrMam4oJHx4z"
+          "name": "Austin Mahone",
+          "url": "https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z"
         }
       ],
-      "duration_ms": 216097,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/6wS1Gy6As0gt7s8LAdb7E7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rolex",
-        "url": "https://open.spotify.com/album/1bHj528aZfYOKq0ve5AHMr"
-      },
-      "artists": [
-        {
-          "name": "Ayo & Teo",
-          "url": "https://open.spotify.com/artist/27mFvqQj8KpjmdKIqcw1mG"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Rolex",
-      "url": "https://open.spotify.com/track/0pSBuHjILhNEo55xK1zrRt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just the Way You Are (Remix)",
-        "url": "https://open.spotify.com/album/7BzP09BlvvE4ioNgvdLrdm"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 337762,
-      "name": "Just the Way You Are - Simon Steur Club Mix",
-      "url": "https://open.spotify.com/track/30nRBCh0wGhKiTLNWN3k3L"
+      "duration_ms": 187872,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/28duVDTZdcQ9ppAoVauGlB"
     },
     {
       "added_at": null,
@@ -639,54 +531,90 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Way (version deluxe)",
-        "url": "https://open.spotify.com/album/73WPXCMYBBiyg7mCx7nuEL"
+        "name": "That's What I Like (PARTYNEXTDOOR Remix)",
+        "url": "https://open.spotify.com/album/2xclonI4faQWl6lhqecGM5"
       },
       "artists": [
         {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "Cette ann\u00e9e-l\u00e0",
-      "url": "https://open.spotify.com/track/6hjxxrJOmYVV9k3a1mJYKn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/10rghVhG8fMgjDPwy6uoZn"
-      },
-      "artists": [
-        {
-          "name": "Daniel Skye",
-          "url": "https://open.spotify.com/artist/1pqYQmeqnqQU7X3DbuA7So"
-        }
-      ],
-      "duration_ms": 159416,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/38SMnh6mMS6ss1tEpD0Aun"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn Break Crash",
-        "url": "https://open.spotify.com/album/0CPlVPSMOTZhJSAzyn6s0b"
-      },
-      "artists": [
-        {
-          "name": "Aanysa",
-          "url": "https://open.spotify.com/artist/5MPOKeJJi86inlu2dvewah"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         },
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 225352,
-      "name": "Burn Break Crash",
-      "url": "https://open.spotify.com/track/7J9kqM3KFem6P3uSsyitIZ"
+      "duration_ms": 206696,
+      "name": "That's What I Like - PARTYNEXTDOOR Remix",
+      "url": "https://open.spotify.com/track/64TkpV7m7f09JY7K436pju"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Gurl",
+        "url": "https://open.spotify.com/album/0u3QrcyeCo4q1OuY0RXXxW"
+      },
+      "artists": [
+        {
+          "name": "Shuicide Holla",
+          "url": "https://open.spotify.com/artist/57AbcVI3fgs1xo17mYUtFz"
+        }
+      ],
+      "duration_ms": 200202,
+      "name": "Pretty Gurl",
+      "url": "https://open.spotify.com/track/4ge9eogeGjDfPrQGGYjtbl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call On Me (Remixes)",
+        "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
+      },
+      "artists": [
+        {
+          "name": "Starley",
+          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Call on Me - Ryan Riback Remix",
+      "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not so Dangerous",
+        "url": "https://open.spotify.com/album/2NoOEdfsBxscn8GmBR0UrP"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "duration_ms": 241164,
+      "name": "Not so Dangerous",
+      "url": "https://open.spotify.com/track/5l7B3iSi9yeQP1g26KhHgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Errors",
+        "url": "https://open.spotify.com/album/1SeE8DELoGzTFiPkNlw934"
+      },
+      "artists": [
+        {
+          "name": "Dawin",
+          "url": "https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu"
+        }
+      ],
+      "duration_ms": 184169,
+      "name": "Cut 'Em off",
+      "url": "https://open.spotify.com/track/75JHpiDVO2jeDNXPQuS3M1"
     },
     {
       "added_at": null,
@@ -700,87 +628,175 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 230192,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
+      "duration_ms": 189109,
+      "name": "The Lazy Song",
+      "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "At Night, Alone.",
-        "url": "https://open.spotify.com/album/1Tz3Ai1guEFf4hV3d9i17K"
+        "name": "Sweet Talker (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
       },
       "artists": [
         {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         },
         {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 197933,
-      "name": "I Took A Pill In Ibiza - Seeb Remix",
-      "url": "https://open.spotify.com/track/1MtUq6Wp1eQ8PC6BbPCj8P"
+      "duration_ms": 199386,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+        "name": "Rolex",
+        "url": "https://open.spotify.com/album/1bHj528aZfYOKq0ve5AHMr"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "James Corden",
-          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
-        },
-        {
-          "name": "Zooey Deschanel",
-          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
-        },
-        {
-          "name": "Ron Funches",
-          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
-        },
-        {
-          "name": "Caroline Hjelt",
-          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
-        },
-        {
-          "name": "Aino Jawo",
-          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
-        },
-        {
-          "name": "Christopher Mintz-Plasse",
-          "url": "https://open.spotify.com/artist/32Y2h6dku6Q2wNpZjj0bHj"
-        },
-        {
-          "name": "Kunal Nayyar",
-          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+          "name": "Ayo & Teo",
+          "url": "https://open.spotify.com/artist/27mFvqQj8KpjmdKIqcw1mG"
         }
       ],
-      "duration_ms": 237400,
-      "name": "CAN'T STOP THE FEELING! - Film Version",
-      "url": "https://open.spotify.com/track/4sQmCQUZcnBPaVm4dEUKv7"
+      "duration_ms": 238586,
+      "name": "Rolex",
+      "url": "https://open.spotify.com/track/0pSBuHjILhNEo55xK1zrRt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dirty Work",
-        "url": "https://open.spotify.com/album/7t2q7sadshoX7BBMwnHUQA"
+        "name": "Funk Ain't Ova",
+        "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+        },
+        {
+          "name": "Papa Dee",
+          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
+        },
+        {
+          "name": "Desmond Foster",
+          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
+        },
+        {
+          "name": "Anna Brooks",
+          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "Dance Or Die",
+      "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trying to Do What Lovers Do (Am I Lucky or Not to Have You Love Me)",
+        "url": "https://open.spotify.com/album/4F3lYJkuj5ASje2kGpViuk"
+      },
+      "artists": [
+        {
+          "name": "Jared Munzie",
+          "url": "https://open.spotify.com/artist/1ewJAj4KOH3uWU734zLGCH"
+        }
+      ],
+      "duration_ms": 212112,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/5S9i5lKK0S5r45BwtpuWMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 233478,
+      "name": "Locked out of Heaven",
+      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "There's Nothing Holdin' Me Back",
+      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red Lips",
+        "url": "https://open.spotify.com/album/6huDs4K7QvGIkFvHBYbfd1"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Brendan Reilly",
+          "url": "https://open.spotify.com/artist/5JO2xhC4QRDrMam4oJHx4z"
+        }
+      ],
+      "duration_ms": 216097,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/6wS1Gy6As0gt7s8LAdb7E7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5VaPp9QI1v98ufjYZlN49c"
       },
       "artists": [
         {
@@ -788,89 +804,45 @@
           "url": "https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z"
         }
       ],
-      "duration_ms": 187872,
-      "name": "Dirty Work",
-      "url": "https://open.spotify.com/track/28duVDTZdcQ9ppAoVauGlB"
+      "duration_ms": 173946,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2ep1sGywR95t1fwy6aiC53"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Supergirl",
-        "url": "https://open.spotify.com/album/31uZcWxWOo89m4zVoAP4m5"
-      },
-      "artists": [
-        {
-          "name": "Alex Hoyer",
-          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Supergirl",
-      "url": "https://open.spotify.com/track/1NsG7hqfculs9CCUxeZVwh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gorilla (feat. R. Kelly And Pharrell) [G-Mix]",
-        "url": "https://open.spotify.com/album/07OCQAUAQaZmKORKt2StFm"
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
       "artists": [
         {
           "name": "Bruno Mars",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "R Kelly And Pharrell",
-          "url": "https://open.spotify.com/artist/5QZeesTo3iO4bNkJLawgJm"
         }
       ],
-      "duration_ms": 265837,
-      "name": "Gorilla (feat. R. Kelly and Pharrell) - G-Mix",
-      "url": "https://open.spotify.com/track/7uVKvaDWDpss7Ldj9kypLX"
+      "duration_ms": 210053,
+      "name": "Perm",
+      "url": "https://open.spotify.com/track/1I6pKIyaBp4OebTGLJpCCC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Work The Middle",
-        "url": "https://open.spotify.com/album/5MrC4D9xrd2hxRuUiLhzfP"
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd"
       },
       "artists": [
         {
-          "name": "Alex Aiono",
-          "url": "https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4"
+          "name": "Dawin",
+          "url": "https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu"
+        },
+        {
+          "name": "R. City",
+          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
         }
       ],
-      "duration_ms": 213112,
-      "name": "Work The Middle",
-      "url": "https://open.spotify.com/track/42rB0s3mv8BpSKVBVkULvY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Me Love You (Tropkillaz & Mc Livinho Remix)",
-        "url": "https://open.spotify.com/album/63O5bl36Cbat55B7AigAKr"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 216280,
-      "name": "Let Me Love You - Tropkillaz & Mc Livinho Remix",
-      "url": "https://open.spotify.com/track/6hLyfWFe42YtHONpJZDt4p"
+      "duration_ms": 227240,
+      "name": "Bikini Body",
+      "url": "https://open.spotify.com/track/0mM39ptTtRKkeSfwsFKFxt"
     },
     {
       "added_at": null,
@@ -891,24 +863,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "HipHop Workout",
-        "url": "https://open.spotify.com/album/4J52BvcYNAHbNT4aHNjy1V"
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
       "artists": [
         {
-          "name": "Metrixx",
-          "url": "https://open.spotify.com/artist/3dpG6M91e9gkMArlQ5hSha"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 125715,
-      "name": "JuJu On The Beat",
-      "url": "https://open.spotify.com/track/2ghQDsYSb74mc8iAIYdAck"
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        "name": "Jordan Fisher",
+        "url": "https://open.spotify.com/album/6zc8a8V90y4SOtcZT6mbOx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        }
+      ],
+      "duration_ms": 165665,
+      "name": "Lookin' Like That",
+      "url": "https://open.spotify.com/track/49WkAn1PXc5IbfXGiBIjIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just the Way You Are (Remix)",
+        "url": "https://open.spotify.com/album/7BzP09BlvvE4ioNgvdLrdm"
       },
       "artists": [
         {
@@ -916,33 +904,25 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 206693,
-      "name": "That's What I Like",
-      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+      "duration_ms": 337762,
+      "name": "Just the Way You Are - Simon Steur Club Mix",
+      "url": "https://open.spotify.com/track/30nRBCh0wGhKiTLNWN3k3L"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
+        "name": "Diggy",
+        "url": "https://open.spotify.com/album/0kYtfexGsDpywS0HbQLus0"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kylie Auldist",
-          "url": "https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4"
-        },
-        {
-          "name": "Lenno",
-          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+          "name": "Spencer Ludwig",
+          "url": "https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ"
         }
       ],
-      "duration_ms": 190261,
-      "name": "Mind Made Up (feat. Kylie Auldist) - Lenno vs. Cookin' on 3 Burners",
-      "url": "https://open.spotify.com/track/4Pm08Vpue3cRX7NOCqGm25"
+      "duration_ms": 201433,
+      "name": "Diggy",
+      "url": "https://open.spotify.com/track/6RotBIo70VVzEcOhvgJGPC"
     }
   ],
   "unique_name": "24K Magic Radio",

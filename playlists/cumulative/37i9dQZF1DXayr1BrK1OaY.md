@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-166 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
+167 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Help Me Lose My Mind](https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:04 | 2021-04-02 |  |
 | [Here Comes The Rain \- Original Mix](https://open.spotify.com/track/0Od7e4432IiprdYvvdzJe4) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Deniz Kurtel](https://open.spotify.com/artist/6dXNn1zUugObsf4HRSnZJs) | [Here Comes The Rain](https://open.spotify.com/album/6wRCN5SbBHS406L4hUrSJz) | 7:16 | 2022-04-12 | 2022-04-19 |
 | [Hide and Seek \- Le Youth Remix](https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Hide and Seek \(Le Youth Remix\)](https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO) | 3:51 | 2022-04-12 |  |
+| [HISTORY](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [HISTORY](https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78) | 2:56 | 2022-08-05 |  |
 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 | 2021-05-21 | 2022-07-29 |
 | [How Could I Ever \(feat\. Shungudzo\)](https://open.spotify.com/track/1vq1KgeHuDaS3qyhwfpF0P) | [KUU](https://open.spotify.com/artist/6TGsaPbyXTM7FAeHi68yp7), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [How Could I Ever \(feat\. Shungudzo\)](https://open.spotify.com/album/0I2CCe2F2enbpGd3ScGkad) | 4:07 | 2021-04-02 | 2022-07-29 |
 | [I Want You \(feat\. braev\)](https://open.spotify.com/track/4erSEnRWE2diyHCfEjzW5Z) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [I Want You \(feat\. braev\)](https://open.spotify.com/album/5tsdkY0jtsruBtZ27vVU8a) | 4:18 | 2021-04-02 |  |
@@ -129,7 +130,7 @@
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2021-04-02 |  |
 | [Share a Little Love \(feat\. LOWES\)](https://open.spotify.com/track/1rt1whcFaJIXfOMiFL0GZG) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Share a Little Love \(feat\. LOWES\)](https://open.spotify.com/album/7rLnOU4bFcVx35GSNMqDTt) | 3:31 | 2021-07-30 | 2022-07-23 |
 | [She Loves Me](https://open.spotify.com/track/5oSPxL7HL9TmZdEC11mYd4) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [She Loves Me](https://open.spotify.com/album/3RWu10vRzLgRiw7X9hwijw) | 4:08 | 2021-08-13 | 2022-07-29 |
-| [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 | 2021-05-14 |  |
+| [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 | 2021-05-14 | 2022-08-07 |
 | [Sirens](https://open.spotify.com/track/0EudqIdrpZjHZ1pnSuBKgA) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [This Must Be The Place](https://open.spotify.com/album/01WcFlWlj9ie3YTNSKr3OP) | 4:15 | 2021-05-29 |  |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2021-04-02 |  |
 | [So Sorry](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [So Sorry](https://open.spotify.com/album/6Gh16B4dzfS0mqlxKTkyVz) | 3:51 | 2021-07-16 | 2022-07-28 |

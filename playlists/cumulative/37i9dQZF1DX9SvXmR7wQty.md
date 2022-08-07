@@ -4,7 +4,7 @@
 
 > Les nouveautés francophones de la semaine\. Photo: Richard Séguin
 
-965 songs - 2 day 3 hr 41 min - [published](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
+966 songs - 2 day 3 hr 44 min - [published](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,7 +724,8 @@
 | [RDP](https://open.spotify.com/track/553uCqkS9RD2hnhnvxZhan) | [Frenetik](https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21) | [RDP](https://open.spotify.com/album/3UwnArHpmB61a4WDqnktXQ) | 2:41 | 2022-01-14 | 2022-01-29 |
 | [Real & Riche](https://open.spotify.com/track/47vfWmPJrB4sIETbjwbh86) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Real & Riche](https://open.spotify.com/album/4mFTgcDkx8lOxI2ZmFVcJ1) | 2:24 | 2022-05-27 | 2022-06-11 |
 | [Recuerdo](https://open.spotify.com/track/5tEJxtL0ekv8F9ZJ2ufMM4) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Recuerdo](https://open.spotify.com/album/6AWsIZ9x7uwfLpGbhc35WQ) | 3:21 | 2022-02-18 | 2022-03-05 |
-| [Redescends](https://open.spotify.com/track/1kXFslzdPEkOs5QC5GkdN4) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends](https://open.spotify.com/album/5lmmRtv80XbKm3EqS1AReB) | 2:39 | 2022-07-15 |  |
+| [Redescends](https://open.spotify.com/track/1kXFslzdPEkOs5QC5GkdN4) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends](https://open.spotify.com/album/5lmmRtv80XbKm3EqS1AReB) | 2:39 | 2022-07-15 | 2022-08-07 |
+| [Redescends \(feat Tiakola\)](https://open.spotify.com/track/0hveTnaqO8nXDMwwsJGJI3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends \(feat Tiakola\)](https://open.spotify.com/album/4KaUWIjzjEyF5KZTKcHQCh) | 2:39 | 2022-08-05 |  |
 | [Reflet](https://open.spotify.com/track/4m5OzPNw4iiWpWhMxvsbh0) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da) | [Reflet](https://open.spotify.com/album/5ONvgYzq53eti8xESa6iM5) | 2:34 | 2022-03-11 | 2022-03-26 |
 | [Regard menaçant](https://open.spotify.com/track/1CtwzMlNDHv3GjHvRzaaaH) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Regard menaçant](https://open.spotify.com/album/1ST9CdLPLoxoEWbGbmTJmf) | 2:25 | 2022-06-10 | 2022-06-18 |
 | [Regarde\-moi](https://open.spotify.com/track/312NJPBF5AnIminBmVeDFa) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Regarde\-moi](https://open.spotify.com/album/6Ki3oJtG4MQ1AQhfxgzETj) | 3:11 | 2022-01-07 | 2022-01-22 |

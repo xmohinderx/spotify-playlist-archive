@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Luna Is A Bep
 
-191 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+192 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [褐色的眼睛](https://open.spotify.com/track/2ih823m7ZUJg9omTJXlSJX) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [dy](https://open.spotify.com/artist/11dkaOJSGGuwn9QsItqyzm) | [褐色的眼睛](https://open.spotify.com/album/3A2uWD7yUHzoBmKHdu3Xud) | 3:22 | 2022-05-26 | 2022-06-10 |
 | [西方極樂](https://open.spotify.com/track/1BaWtTnOgSXSEaDzpFTU2p) | [Rawtrack](https://open.spotify.com/artist/2rtmiGX447uwtb0bcQ5bDE) | [西方極樂](https://open.spotify.com/album/1ZsJDmzCevkMRPZFs5NiXa) | 4:06 | 2022-06-30 |  |
 | [要怎麼書寫](https://open.spotify.com/track/04lt7lHdDr1rrY4WclNxTp) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [如是我聞](https://open.spotify.com/album/65XUM0Ky3AYlOoLC62l1Du) | 2:29 | 2022-08-04 |  |
+| [談戀愛甚麽時候變成一場比賽](https://open.spotify.com/track/2S0jex9nwUk6rRB0kByFjL) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m) | [談戀愛甚麽時候變成一場比賽](https://open.spotify.com/album/7FTK6VQCBzjwapvrZFU931) | 2:56 | 2022-08-04 |  |
 | [蹺蹊](https://open.spotify.com/track/4o3T8OsWSj25ZBujlPapff) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [蹺蹊](https://open.spotify.com/album/3IzhNtnRhc5SbBgLtCpmXJ) | 2:58 | 2022-05-26 | 2022-06-10 |
 | [輕不著地](https://open.spotify.com/track/2mun9hZy8ZOLEHNf0kgJwy) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [輕不著地](https://open.spotify.com/album/2Qp2UULxgZ99HMarRRctbn) | 4:58 | 2022-05-26 | 2022-07-29 |
 | [這晚更壞](https://open.spotify.com/track/11fMLk7ru6mnuMofTf9f4L) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [這晚更壞](https://open.spotify.com/album/5tqLPLqNgumAMFmD1pZo1X) | 3:01 | 2022-05-26 | 2022-07-29 |

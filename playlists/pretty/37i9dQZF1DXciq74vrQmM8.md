@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. yungblud
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,521 likes - 79 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,649 likes - 79 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

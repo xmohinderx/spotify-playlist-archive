@@ -362,6 +362,24 @@
     },
     {
       "album": {
+        "name": "Aktar Mn El Sekout",
+        "url": "https://open.spotify.com/album/09xFJJod4MFAHNsk2CDBi9"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Kamel",
+          "url": "https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236874,
+      "name": "Aktar Mn El Sekout",
+      "url": "https://open.spotify.com/track/2hHb8MMgeDIxCiyQUTYANq"
+    },
+    {
+      "album": {
         "name": "Akwa Mix",
         "url": "https://open.spotify.com/album/2GjJAqIOP1x5MUqEJp4Rks"
       },
@@ -785,6 +803,32 @@
       "duration_ms": 142999,
       "name": "Awadeeh",
       "url": "https://open.spotify.com/track/6X3T09NqZfGACrko9EYN7r"
+    },
+    {
+      "album": {
+        "name": "Bad Decisions (with BTS & Snoop Dogg)",
+        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172714,
+      "name": "Bad Decisions (with BTS & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
     },
     {
       "album": {
@@ -7931,7 +7975,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 218254,
       "name": "\u062a\u0644\u064a\u0641\u0648\u0646\u0649 \u0644\u0644\u0633\u0624\u0627\u0644",
       "url": "https://open.spotify.com/track/6gbjsT7U7b1I0iARVPUoy8"
@@ -8391,7 +8435,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 161519,
       "name": "\u0639\u0631\u0641\u0629",
       "url": "https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX"

@@ -1,12 +1,12 @@
 {
   "description": "Post-hardcore. Post-punk. Post-rock. Post-everything. Cover: Metz",
-  "num_followers": 14651,
+  "num_followers": 14744,
   "original_name": "All Things Post",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODY4MjAyMiwwMDAwMDAwMGJlNDkwMTdhMmE2OTkyZmIzZjY4MmNjMTcwNmI1YTFm",
+  "snapshot_id": "MTY0ODY4MjAyMiwwMDAwMDAwMDE1YTcwZmJhMjhmNWUwODVjZGM4Yzc0YTc1MmE5YWZj",
   "tracks": [
     {
       "added_at": "2021-09-02 23:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Put Yourself Back Together",
-        "url": "https://open.spotify.com/album/3G8a4ZUKQ5b2dEzXbeZ9LZ"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 201473,
-      "name": "Late Nights in My Car",
-      "url": "https://open.spotify.com/track/3kCZKH1qZrZhGP75w1tNtZ"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Hyperview",
         "url": "https://open.spotify.com/album/1xRsnyytuSTf1rIxWV8m2r"
       },
@@ -379,18 +363,34 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+        "name": "Put Yourself Back Together",
+        "url": "https://open.spotify.com/album/3G8a4ZUKQ5b2dEzXbeZ9LZ"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
         }
       ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+      "duration_ms": 201473,
+      "name": "Late Nights in My Car",
+      "url": "https://open.spotify.com/track/3kCZKH1qZrZhGP75w1tNtZ"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "RARE",
+        "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
+      },
+      "artists": [
+        {
+          "name": "Hundredth",
+          "url": "https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Neurotic",
+      "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "RARE",
-        "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
       },
       "artists": [
         {
-          "name": "Hundredth",
-          "url": "https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0"
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Neurotic",
-      "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Disease (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 237202,
+      "name": "Threat to Society",
+      "url": "https://open.spotify.com/track/00zufsVHXnIuVcMeau4pOO"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Manticore",
         "url": "https://open.spotify.com/album/3LCtriKbXKi5rp2604MqhM"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 204000,
       "name": "Manticore",
       "url": "https://open.spotify.com/track/5U4TMT28sQlLxiwAbCcgJM"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Disease (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 237202,
-      "name": "Threat to Society",
-      "url": "https://open.spotify.com/track/00zufsVHXnIuVcMeau4pOO"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5v1nEWLED30iSsHfkrF34f"
+      },
+      "artists": [
+        {
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+        }
+      ],
+      "duration_ms": 191728,
+      "name": "Elektra",
+      "url": "https://open.spotify.com/track/0C9JzWHcKsyY8AzgCM97h0"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Nine Lives",
         "url": "https://open.spotify.com/album/0DO2NuNQplgtc2DVyCUdgA"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 184087,
       "name": "Nine Lives",
       "url": "https://open.spotify.com/track/7uv7lkQBgkhqHezQam0fQ6"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5v1nEWLED30iSsHfkrF34f"
-      },
-      "artists": [
-        {
-          "name": "Refused",
-          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
-        }
-      ],
-      "duration_ms": 191728,
-      "name": "Elektra",
-      "url": "https://open.spotify.com/track/0C9JzWHcKsyY8AzgCM97h0"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Body Crash / Sempre Delusione",
-        "url": "https://open.spotify.com/album/2gAaXkw8fF499AgOSKyXDT"
-      },
-      "artists": [
-        {
-          "name": "His Electro Blue Voice",
-          "url": "https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Body Crash",
-      "url": "https://open.spotify.com/track/5XsJi5tEp7kSqhcMm7z5gq"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Raised in a Doomsday Cult",
         "url": "https://open.spotify.com/album/5CQ9bMt8pYh6h2npK6Cv0L"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 438185,
       "name": "If You Weren't My Son I'd Hug You",
       "url": "https://open.spotify.com/track/7afC0Ls0m5vPeUrIC2499V"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Body Crash / Sempre Delusione",
+        "url": "https://open.spotify.com/album/2gAaXkw8fF499AgOSKyXDT"
+      },
+      "artists": [
+        {
+          "name": "His Electro Blue Voice",
+          "url": "https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Body Crash",
+      "url": "https://open.spotify.com/track/5XsJi5tEp7kSqhcMm7z5gq"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "We Will All Be Gone",
+        "url": "https://open.spotify.com/album/3s3TMBbNiBIEzASYKcgPgp"
+      },
+      "artists": [
+        {
+          "name": "Good Tiger",
+          "url": "https://open.spotify.com/artist/4vIQLq68LtKcCjdvhobTYl"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Such a Kind Stranger",
+      "url": "https://open.spotify.com/track/7HDSZpItnbye4ZuDiUeVuy"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/24iKaJJHxW48IvK02VVDKf"
       },
@@ -1387,38 +1403,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "California Hotel",
-        "url": "https://open.spotify.com/album/3zMGSCuomcDFApAIwtO2af"
-      },
-      "artists": [
-        {
-          "name": "Trans Am",
-          "url": "https://open.spotify.com/artist/1YFIyRFTa7povIpq08DcCA"
-        }
-      ],
-      "duration_ms": 226139,
-      "name": "I Hear Fake Voices",
-      "url": "https://open.spotify.com/track/4mnaS8Tk6XCwliSyJGIv8d"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "We Will All Be Gone",
-        "url": "https://open.spotify.com/album/3s3TMBbNiBIEzASYKcgPgp"
-      },
-      "artists": [
-        {
-          "name": "Good Tiger",
-          "url": "https://open.spotify.com/artist/4vIQLq68LtKcCjdvhobTYl"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Such a Kind Stranger",
-      "url": "https://open.spotify.com/track/7HDSZpItnbye4ZuDiUeVuy"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Ain't Nice",
         "url": "https://open.spotify.com/album/1A8sXhfgBcSCR1jV59E6A4"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 212968,
       "name": "Ain't Nice",
       "url": "https://open.spotify.com/track/5p0PGpq1k7lEGSCmmHP8WG"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Equivalency",
+        "url": "https://open.spotify.com/album/3G4cHtqrodOd8owrtcorRZ"
+      },
+      "artists": [
+        {
+          "name": "Hotel Books",
+          "url": "https://open.spotify.com/artist/0PsTewblEJFN5oC1Qb7IwX"
+        }
+      ],
+      "duration_ms": 222763,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/2HAwnoXI9tIMFPjI8MQxxN"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Equivalency",
-        "url": "https://open.spotify.com/album/3G4cHtqrodOd8owrtcorRZ"
+        "name": "California Hotel",
+        "url": "https://open.spotify.com/album/3zMGSCuomcDFApAIwtO2af"
       },
       "artists": [
         {
-          "name": "Hotel Books",
-          "url": "https://open.spotify.com/artist/0PsTewblEJFN5oC1Qb7IwX"
+          "name": "Trans Am",
+          "url": "https://open.spotify.com/artist/1YFIyRFTa7povIpq08DcCA"
         }
       ],
-      "duration_ms": 222763,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/2HAwnoXI9tIMFPjI8MQxxN"
+      "duration_ms": 226139,
+      "name": "I Hear Fake Voices",
+      "url": "https://open.spotify.com/track/4mnaS8Tk6XCwliSyJGIv8d"
     },
     {
       "added_at": "2021-09-02 23:00:00",

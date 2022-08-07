@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-239 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/3vMk9zjuuRtPgQLPS55xS3)
+240 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/3vMk9zjuuRtPgQLPS55xS3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Grave](https://open.spotify.com/track/3rGriClqmR0c8MzSJ1hhhG) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Grave](https://open.spotify.com/album/42nhJXXpTWPfkAw1RvU7ly) | 2:55 | 2021-10-31 | 2022-07-27 |
 | [Gravity](https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Gravity](https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc) | 3:22 | 2021-10-31 | 2022-05-14 |
 | [Hallelujah’s Song \(Psalm 103\) \- FRANKLIN Remix](https://open.spotify.com/track/6CyjgYf2MXZwKdSKkCAmaK) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Caleb Chapman](https://open.spotify.com/artist/2O7QprwEkB7axelpXQa7Th), [Will Chapman](https://open.spotify.com/artist/5QUtZ4R2ZxWxOSrrvxj4jU) | [Bangerz](https://open.spotify.com/album/4PiXo9M3VrAlP5fG0auMcx) | 4:18 | 2021-10-31 | 2022-07-06 |
-| [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 | 2021-10-31 |  |
+| [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 | 2021-10-31 | 2022-08-07 |
 | [Happy Sad](https://open.spotify.com/track/4tC5zD76WwY6ibqphFAL9X) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [Happy Sad](https://open.spotify.com/album/12lfy14lzxVSkgYZE5DkpN) | 2:26 | 2021-10-31 | 2022-07-13 |
 | [Headspace](https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 2:57 | 2021-10-31 |  |
 | [Headspace \- GOLDHOUSE Remix](https://open.spotify.com/track/7HcnT1waFtSq0Ul3kXwflW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Headspace](https://open.spotify.com/album/7y8Dzogy270AzjyhZU204y) | 3:08 | 2021-10-31 | 2022-07-29 |
@@ -199,6 +199,7 @@
 | [Stages](https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Stages](https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2) | 3:08 | 2021-10-31 | 2022-07-29 |
 | [State Of Mind \- Live](https://open.spotify.com/track/4x92BLwZCXLS5JGvYO6Cbl) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:41 | 2021-10-31 | 2022-07-28 |
 | [Stay \(feat\. Eris Ford\) \- Remix](https://open.spotify.com/track/6jxmiJbjn6pH8nxEKCFw72) | [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z), [GIDI](https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Stay \(Remix\) \[feat\. Eris Ford\]](https://open.spotify.com/album/6cZRxLsUIWMricmggksk3T) | 3:28 | 2021-10-31 | 2022-07-22 |
+| [STICKS & STONES](https://open.spotify.com/track/1XsVqOChsThIrhuLZcSCkT) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [GENESIS](https://open.spotify.com/album/3g9G4l7NCOiuKeiIVtMaB5) | 3:22 | 2021-10-31 |  |
 | [Stranger](https://open.spotify.com/track/1PqDvk6t4pI1kAWWjvxVYU) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Stranger](https://open.spotify.com/album/4VBXA24rGMiOJEviWRofgS) | 3:19 | 2021-10-31 | 2022-07-27 |
 | [Streams](https://open.spotify.com/track/5pGOK0d3Ls6ikio9oQYkLC) | [Austin & Lindsey Adamec](https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r) | [Streams](https://open.spotify.com/album/2UZ3kOA1L3lJapkpfPzbBV) | 4:00 | 2021-10-31 | 2022-04-30 |
 | [Stuck Inside My Head \- Single Mix](https://open.spotify.com/track/4G4IZFfD1gyUCYDt8MKccy) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Stuck Inside My Head](https://open.spotify.com/album/4YOdEJwb4cA5iR7drggxud) | 3:17 | 2021-10-31 | 2022-07-29 |

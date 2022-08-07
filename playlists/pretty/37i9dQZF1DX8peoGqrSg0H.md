@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: LUSS feat\. Patrickananda
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,246 likes - 95 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,349 likes - 95 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡MC Davo; Nicky Jam; Tokischa y Eladio Carrion; Kenia OS; Eminem y 50 Cent; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,695 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,859 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

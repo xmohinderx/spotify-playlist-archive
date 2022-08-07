@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: DOMi & JD BECK",
-  "num_followers": 729861,
+  "num_followers": 730028,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcyMDIzMiwwMDAwMDAwMGE1NmNjODgyZmM5YjAwYzUxNjNlZTIxZTZlNDNlMjU1",
+  "snapshot_id": "MTY1OTcyMDIzMiwwMDAwMDAwMGYxMzYwNjQyM2U1OTM4YzhjZDQwYTAzY2M5NDdlNDQx",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "duration_ms": 148194,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Rainforest",
         "url": "https://open.spotify.com/album/00tnsObPbrXxDLTPBHhzbH"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 176940,
       "name": "SUNRISE",
       "url": "https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        }
-      ],
-      "duration_ms": 148194,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 247000,
       "name": "Still",
       "url": "https://open.spotify.com/track/7lBNPNIewZf6d1DJjRtlj8"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
-      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Panic Attacks",
+        "url": "https://open.spotify.com/album/1gqvcmURwj0ktp54MhK8Ic"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Panic Attacks",
+      "url": "https://open.spotify.com/track/4NmJwBU0Pc2JdblEfJPGo3"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 160506,
       "name": "For South",
       "url": "https://open.spotify.com/track/7K2HB4II7aUmaRchf9I2Yh"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Panic Attacks",
-        "url": "https://open.spotify.com/album/1gqvcmURwj0ktp54MhK8Ic"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Panic Attacks",
-      "url": "https://open.spotify.com/track/4NmJwBU0Pc2JdblEfJPGo3"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+        "name": "I'll Be Loving You",
+        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
         }
       ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+      "duration_ms": 246144,
+      "name": "I'll Be Loving You",
+      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1043,22 +1059,6 @@
       "duration_ms": 230000,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/0HOyjfrsAUktL1MeMxP9Fo"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "I'll Be Loving You",
-        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "I'll Be Loving You",
-      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Athletic Progression",
+        "url": "https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6"
+      },
+      "artists": [
+        {
+          "name": "Athletic Progression",
+          "url": "https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I"
+        }
+      ],
+      "duration_ms": 271250,
+      "name": "WHITE CRAYON",
+      "url": "https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 219451,
       "name": "Stranger (feat. Saba & Jarreau Vandal)",
       "url": "https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Athletic Progression",
-        "url": "https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6"
-      },
-      "artists": [
-        {
-          "name": "Athletic Progression",
-          "url": "https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I"
-        }
-      ],
-      "duration_ms": 271250,
-      "name": "WHITE CRAYON",
-      "url": "https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Know",
+        "url": "https://open.spotify.com/album/2i0YV5xzjVa51onaAMtuBi"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 180011,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/4uij1uhS9gnTFfg4kPIRfN"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Gold Plated",
         "url": "https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB"
       },
@@ -1195,6 +1211,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Wind Parade",
+        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "Wind Parade",
+      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "X-Rated (feat. Benny The Butcher)",
         "url": "https://open.spotify.com/album/0YwprYa1UzKLlS3J2nlcPF"
       },
@@ -1211,38 +1243,6 @@
       "duration_ms": 231529,
       "name": "X-Rated (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/4XbTG98iWToBSfPrnd1sYB"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Know",
-        "url": "https://open.spotify.com/album/2i0YV5xzjVa51onaAMtuBi"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 180011,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/4uij1uhS9gnTFfg4kPIRfN"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Wind Parade",
-        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "Wind Parade",
-      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Law of Automata: Valid",
-        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
-      },
-      "artists": [
-        {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "3 Words (feat. Leven Kali)",
-      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "MOVIN'",
         "url": "https://open.spotify.com/album/0Oe48uUpgy05WBgAdYqthi"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Law of Automata: Valid",
+        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
+      },
+      "artists": [
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "3 Words (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Studio Monk",
         "url": "https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ"
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
         }
       ],
-      "duration_ms": 207986,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR"
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Doubt Nothing",
         "url": "https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
-      },
-      "artists": [
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        }
-      ],
-      "duration_ms": 154768,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Sober EP",
         "url": "https://open.spotify.com/album/637BqG5QCMGQArqYDelpbV"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 194744,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/3OiBUTN46KTEHAGr1bfoQU"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
+      },
+      "artists": [
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 154768,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Thin Lines",
+        "url": "https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 171016,
+      "name": "Thin Lines",
+      "url": "https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Eldorado",
         "url": "https://open.spotify.com/album/5cjB2vtGhbo12x1gAdJvvY"
       },
@@ -1807,26 +1823,6 @@
       "duration_ms": 198323,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/3ZOlgtwwhbYskdH7hJ21Bu"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Soulmate",
-        "url": "https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr"
-      },
-      "artists": [
-        {
-          "name": "City Fidelia",
-          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
-        },
-        {
-          "name": "Shelley FKA DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Soulmate",
-      "url": "https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN"
     }
   ],
   "unique_name": "BUTTER",

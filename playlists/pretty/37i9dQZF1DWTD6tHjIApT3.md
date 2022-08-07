@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: 佐藤千亜妃
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,997 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,020 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 91 | [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 |
 | 92 | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/track/754uqLwH2sy5PlVSjluNRB) | [Tomoko Ikeda × TENDRE](https://open.spotify.com/artist/2OFTI9ZTwbhY8cT0k7HU2P) | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/album/0feblWhwtVCFblpekmrmjJ) | 5:01 |
 | 93 | [FiNAL SHiTS](https://open.spotify.com/track/0t3Aho5s4jnyU3q3g61ygp) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [FiNAL SHiTS](https://open.spotify.com/album/3UFM7yNZ0Rndf5KtjGNM7U) | 4:39 |
-| 94 | [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 |
-| 95 | [愛はもう](https://open.spotify.com/track/633VJ4gaIGcKrAt5fvZ7Mm) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [愛はもう](https://open.spotify.com/album/5xyPLgqYuuDIuKr5hpB9bi) | 3:08 |
-| 96 | [私の真心](https://open.spotify.com/track/5ZZzoCTdBPAMog1IyljHac) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [私の真心](https://open.spotify.com/album/0MGw3b3E2012pYRo0Rh94F) | 7:01 |
+| 94 | [愛はもう](https://open.spotify.com/track/633VJ4gaIGcKrAt5fvZ7Mm) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [愛はもう](https://open.spotify.com/album/5xyPLgqYuuDIuKr5hpB9bi) | 3:08 |
+| 95 | [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 |
+| 96 | [people](https://open.spotify.com/track/47hcYZ2WMLTzArFYLpvgUr) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [people](https://open.spotify.com/album/4FzOMTCyWwAfrXFtEvDzAZ) | 4:50 |
 | 97 | [なんでもないよ、](https://open.spotify.com/track/2Xrt2feI7KpAi2UEmWuHef) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [それを愛と呼ぶなら](https://open.spotify.com/album/0Ej3EgTBPQ5QR9zD1aV0rl) | 3:25 |
-| 98 | [people](https://open.spotify.com/track/47hcYZ2WMLTzArFYLpvgUr) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [people](https://open.spotify.com/album/4FzOMTCyWwAfrXFtEvDzAZ) | 4:50 |
-| 99 | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/album/3vggBvyxFXRR6xCnkRxmRR) | 3:05 |
-| 100 | [Sentimental \- Neon Mix](https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7) | [Sentimental \(Neon Mix\)](https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr) | 3:23 |
+| 98 | [Sentimental \- Neon Mix](https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7) | [Sentimental \(Neon Mix\)](https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr) | 3:23 |
+| 99 | [私の真心](https://open.spotify.com/track/5ZZzoCTdBPAMog1IyljHac) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [私の真心](https://open.spotify.com/album/0MGw3b3E2012pYRo0Rh94F) | 7:01 |
+| 100 | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/album/3vggBvyxFXRR6xCnkRxmRR) | 3:05 |
 
-Snapshot ID: `MTY1OTY5MDMyNiwwMDAwMDAwMGUwZTMwNDc1OGVhODY3ZDNjOTkyM2NkZjg2ZTc5ZDc2`
+Snapshot ID: `MTY1OTY5MDMyNiwwMDAwMDAwMDczYmJhZDU5MDU1YmU1MTYyM2NlNjFhMTRhNjM2YzA5`

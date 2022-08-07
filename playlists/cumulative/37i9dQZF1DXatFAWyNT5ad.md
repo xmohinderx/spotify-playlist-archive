@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-490 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+491 songs - 1 day 1 hr 49 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 | 2022-03-17 | 2022-07-27 |
 | [Bones](https://open.spotify.com/track/7zwQ9mduS7Fzf4PlirJxuO) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [DDMN 1.2](https://open.spotify.com/album/3XDnwKSA0JXsygKK3ILJto) | 3:27 | 2022-03-24 | 2022-04-16 |
 | [Born for This](https://open.spotify.com/track/4Rnoh5o8CINTEkz9r86SbL) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [This Is Not the End](https://open.spotify.com/album/4mgBj6yfX8hVbBZUJTxQxT) | 2:19 | 2022-03-24 | 2022-04-01 |
+| [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2022-08-05 |  |
 | [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 | 2022-06-03 | 2022-06-26 |
 | [Break My Baby](https://open.spotify.com/track/5NnFkbEjahUGx5T3qxbNCW) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Want More / Break My Baby](https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY) | 4:25 | 2022-03-24 | 2022-04-19 |
 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 | 2022-03-24 | 2022-04-20 |
@@ -222,7 +223,7 @@
 | [How Not To Drown \(feat\. Robert Smith\)](https://open.spotify.com/track/0gNnngLmd8zSikRqUGt2DU) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [How Not To Drown](https://open.spotify.com/album/3QDXgEZ8LfC1CxkZpETteX) | 5:31 | 2022-03-24 | 2022-04-17 |
 | [Hurts So Bad](https://open.spotify.com/track/2lTSM4v2Xm6lsu4NqyGl9K) | [GREYSKIES](https://open.spotify.com/artist/5zp72ZM5DdxHbMPIt7EEtX) | [Hurts So Bad](https://open.spotify.com/album/5hYGk2apMXzBI2Wg5T4tlf) | 3:04 | 2022-03-24 | 2022-07-14 |
 | [I Can Hardly Speak](https://open.spotify.com/track/5eMySoI30MSqHDv74PlZ63) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Can Hardly Speak](https://open.spotify.com/album/3HSnfEUIR7zor3xrYQ1TcL) | 3:59 | 2022-03-24 | 2022-04-13 |
-| [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 | 2022-07-07 |  |
+| [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 | 2022-07-07 | 2022-08-07 |
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2022-03-17 |  |
 | [I Like It](https://open.spotify.com/track/6cp6fkCPOy1a58TawF2wRl) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [I Like It](https://open.spotify.com/album/5AspCQiOmN7yTWOVz5sxYu) | 3:13 | 2022-03-24 | 2022-04-18 |
 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 | 2022-03-24 | 2022-04-19 |

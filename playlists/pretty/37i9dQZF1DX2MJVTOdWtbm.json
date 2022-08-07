@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del R&B Latino. Fresh R&B Latin tracks. Cover: Destiny Rogers",
-  "num_followers": 99132,
+  "num_followers": 99150,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDU1NmQzOWZlYzE4M2NmYTYxM2Y4ZTg5M2QwMDMxNTUw",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDMzNjlmMTQwOTA5ZDhlMjVhMzdhMzVjOWE2ZmI5YTFl",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Amor de red social",
-        "url": "https://open.spotify.com/album/5o7YnXMx2NM6LtbnfiIIqz"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 230766,
-      "name": "Amor de red social",
-      "url": "https://open.spotify.com/track/5kMrgSeV3kYYyOyEAC7Ugf"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Chimbita",
         "url": "https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 165508,
       "name": "Chimbita",
       "url": "https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Amor de red social",
+        "url": "https://open.spotify.com/album/5o7YnXMx2NM6LtbnfiIIqz"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 230766,
+      "name": "Amor de red social",
+      "url": "https://open.spotify.com/track/5kMrgSeV3kYYyOyEAC7Ugf"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "SUPERSTICIONES",
-        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 188890,
-      "name": "Supersticiones",
-      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "\u00c1mate",
         "url": "https://open.spotify.com/album/5gnlVxxdWhPoGs63rKZtv3"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 189762,
       "name": "\u00c1mate",
       "url": "https://open.spotify.com/track/6yMDseBOe0gWib8CSr20Lc"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "SUPERSTICIONES",
+        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 188890,
+      "name": "Supersticiones",
+      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "SAMURAI",
-        "url": "https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f"
-      },
-      "artists": [
-        {
-          "name": "K-efe",
-          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "SAMURAI",
-      "url": "https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Chiquita",
         "url": "https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 149318,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "SAMURAI",
+        "url": "https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f"
+      },
+      "artists": [
+        {
+          "name": "K-efe",
+          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
+        }
+      ],
+      "duration_ms": 200963,
+      "name": "SAMURAI",
+      "url": "https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "IDWLH (I Don't Wanna Love Him)",
+        "url": "https://open.spotify.com/album/5mfgYGWt86iLrLye6pJRSr"
+      },
+      "artists": [
+        {
+          "name": "Agina",
+          "url": "https://open.spotify.com/artist/110VVB3iCHBH7R8C9iEEhD"
+        }
+      ],
+      "duration_ms": 173156,
+      "name": "IDWLH (I Don't Wanna Love Him)",
+      "url": "https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Desilusion\u00e1ndome",
         "url": "https://open.spotify.com/album/1uJ1YdzDnJ3ghyv0sltJAJ"
       },
@@ -1271,38 +1287,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "IDWLH (I Don't Wanna Love Him)",
-        "url": "https://open.spotify.com/album/5mfgYGWt86iLrLye6pJRSr"
-      },
-      "artists": [
-        {
-          "name": "Agina",
-          "url": "https://open.spotify.com/artist/110VVB3iCHBH7R8C9iEEhD"
-        }
-      ],
-      "duration_ms": 173156,
-      "name": "IDWLH (I Don't Wanna Love Him)",
-      "url": "https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "sed de ti",
-        "url": "https://open.spotify.com/album/2LkgT4vephhVSHnoAu5wr3"
-      },
-      "artists": [
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "sed de ti",
-      "url": "https://open.spotify.com/track/05cjfY52W42O47Y1kljg2c"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "C.A.T.",
         "url": "https://open.spotify.com/album/1Vj9qMFet03QxbDwdptIms"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "sed de ti",
+        "url": "https://open.spotify.com/album/2LkgT4vephhVSHnoAu5wr3"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "sed de ti",
+      "url": "https://open.spotify.com/track/05cjfY52W42O47Y1kljg2c"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Desnuda",
         "url": "https://open.spotify.com/album/2dDKG1kDQma3aqHhYh13Px"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "De Uno a Otro",
-        "url": "https://open.spotify.com/album/09MaOaqsHgjjUO6bJOL2Ms"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 137775,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/4dUd1p3ipkV5rNoCjPeu75"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 243411,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "De Uno a Otro",
+        "url": "https://open.spotify.com/album/09MaOaqsHgjjUO6bJOL2Ms"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 137775,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/4dUd1p3ipkV5rNoCjPeu75"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "MANQUE",
-        "url": "https://open.spotify.com/album/18ZdVMvxaRkcqy1mBvNRlY"
-      },
-      "artists": [
-        {
-          "name": "Taylor DeBlock",
-          "url": "https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD"
-        }
-      ],
-      "duration_ms": 173482,
-      "name": "SLOW",
-      "url": "https://open.spotify.com/track/64HetK6UsMjOxAZGedxGpU"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Ya Lo S\u00e9",
         "url": "https://open.spotify.com/album/6LeSg3ycOJT7k8QLpjZ6Ls"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 182447,
       "name": "Ya Lo S\u00e9",
       "url": "https://open.spotify.com/track/10L8N4aP9oCPaEbD0s2ain"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "MANQUE",
+        "url": "https://open.spotify.com/album/18ZdVMvxaRkcqy1mBvNRlY"
+      },
+      "artists": [
+        {
+          "name": "Taylor DeBlock",
+          "url": "https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD"
+        }
+      ],
+      "duration_ms": 173482,
+      "name": "SLOW",
+      "url": "https://open.spotify.com/track/64HetK6UsMjOxAZGedxGpU"
     },
     {
       "added_at": "2022-08-05 04:00:00",

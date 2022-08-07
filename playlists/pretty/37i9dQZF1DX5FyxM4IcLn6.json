@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64rd GRAMMY Awards.",
-  "num_followers": 121506,
+  "num_followers": 121502,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDU3MWY5MjdiMGUwMWI3OTJjMTdjZGNiYzA4MTU0YjQ5",
+  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMGY1MzkwYTZkODc2N2ZkYmY2ODA2MmM1MGJmM2UyNGYw",
   "tracks": [
     {
       "added_at": "2022-03-29 19:11:15",
@@ -315,6 +315,26 @@
     {
       "added_at": "2022-03-29 19:11:15",
       "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 121572,
       "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
     },
     {
       "added_at": "2022-03-29 22:42:51",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-03-29 19:11:15",
       "album": {
-        "name": "If I Can\u2019t Have Love, I Want Power (Extended)",
-        "url": "https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 231998,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/12ZCF1YHZTtygHyl1h0wEe"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
         "name": "Medicine At Midnight",
         "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 253840,
       "name": "Waiting On A War",
       "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "If I Can\u2019t Have Love, I Want Power (Extended)",
+        "url": "https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 231998,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/12ZCF1YHZTtygHyl1h0wEe"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C"
     },
     {
-      "added_at": "2022-03-29 22:42:51",
-      "album": {
-        "name": "The Blessing (Live)",
-        "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 556844,
-      "name": "First Love - Live",
-      "url": "https://open.spotify.com/track/3rqhtNTYBbUxQ2j4NaG0Qx"
-    },
-    {
       "added_at": "2022-03-29 19:11:15",
       "album": {
         "name": "Gold-Diggers Sound",
@@ -1219,6 +1203,22 @@
       "duration_ms": 223248,
       "name": "Born Again (feat. Robert Glasper)",
       "url": "https://open.spotify.com/track/15EnrATZ5wMy8fqA5QF6KV"
+    },
+    {
+      "added_at": "2022-03-29 22:42:51",
+      "album": {
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 556844,
+      "name": "First Love - Live",
+      "url": "https://open.spotify.com/track/3rqhtNTYBbUxQ2j4NaG0Qx"
     },
     {
       "added_at": "2022-03-29 19:11:15",

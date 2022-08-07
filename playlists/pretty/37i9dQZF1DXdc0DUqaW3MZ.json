@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 278943,
+  "num_followers": 279068,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGY3ODYzNzVlZDU0Yjk5Yjc4YmY4YzhlOTE2ZjllN2Ux",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDU1OWM1NWI1NjU2NTFiZWMzMDc2Yzk3MmM3NWYwMDYy",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Sweating",
-        "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        }
-      ],
-      "duration_ms": 204685,
-      "name": "Sweating",
-      "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "ADOLESCENCE",
         "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 240924,
       "name": "Mine",
       "url": "https://open.spotify.com/track/3LU1LzDmm5siz3WExknlil"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Sweating",
+        "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "duration_ms": 204685,
+      "name": "Sweating",
+      "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Passion Controller",
-        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
-      },
-      "artists": [
-        {
-          "name": "Khazali",
-          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
-        }
-      ],
-      "duration_ms": 172219,
-      "name": "Passion Controller",
-      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "FYO",
         "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 164963,
       "name": "FYO",
       "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Passion Controller",
+        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
+      },
+      "artists": [
+        {
+          "name": "Khazali",
+          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+        }
+      ],
+      "duration_ms": 172219,
+      "name": "Passion Controller",
+      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -851,26 +851,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "La Linda",
-        "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
-      },
-      "artists": [
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 251053,
-      "name": "Even If It Hurts",
-      "url": "https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "LowKey (feat. Jayd Ink)",
         "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 173420,
       "name": "LowKey (feat. Jayd Ink)",
       "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "La Linda",
+        "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 251053,
+      "name": "Even If It Hurts",
+      "url": "https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW"
-      },
-      "artists": [
-        {
-          "name": "Becca Hatch",
-          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "What Kinda Music (Bonus Tracks)",
         "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 189683,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Lost Time EP",
-        "url": "https://open.spotify.com/album/5dKSpFOUope79HvRizNhMX"
-      },
-      "artists": [
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "Lost Time",
-      "url": "https://open.spotify.com/track/2kf4G153Qt8MR6Hv6t7NzS"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Fourth Wall",
         "url": "https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 223300,
       "name": "You (1000 Beasts Remix)",
       "url": "https://open.spotify.com/track/1TzakCl94k0i561dxoNZWs"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Lost Time EP",
+        "url": "https://open.spotify.com/album/5dKSpFOUope79HvRizNhMX"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Lost Time",
+      "url": "https://open.spotify.com/track/2kf4G153Qt8MR6Hv6t7NzS"
     }
   ],
   "unique_name": "Soultronic",

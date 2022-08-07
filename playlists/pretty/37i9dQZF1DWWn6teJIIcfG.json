@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 110897,
+  "num_followers": 111122,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMGMyMTM0NThhM2RhMWFjYzU1NzUwNmJjNjRiNjA4YWUy",
+  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDdhZTcyMjU3ZTFiYWFkYjQ2ODU4YTI4MTEyM2ZmMmRh",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -895,6 +895,34 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Fantasia on Greensleeves",
+        "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Nicholas Kraemer",
+          "url": "https://open.spotify.com/artist/62XyYkSHbu9foTpnNFWdpT"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "duration_ms": 144266,
+      "name": "Capriol Suite: 5. Pied-en- l'air",
+      "url": "https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Field: Complete Nocturnes",
         "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
       },
@@ -935,34 +963,6 @@
       "duration_ms": 291013,
       "name": "\u4e16\u4fd7\u30ab\u30f3\u30bf\u30fc\u30bf, BWV 208: ''\u7f8a\u306f\u5b89\u3089\u304b\u306b\u8349\u3092\u306f\u307f''",
       "url": "https://open.spotify.com/track/6qhic2KXq2evfe8KkXJcCr"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Fantasia on Greensleeves",
-        "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
-      },
-      "artists": [
-        {
-          "name": "Peter Warlock",
-          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        },
-        {
-          "name": "Nicholas Kraemer",
-          "url": "https://open.spotify.com/artist/62XyYkSHbu9foTpnNFWdpT"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        }
-      ],
-      "duration_ms": 144266,
-      "name": "Capriol Suite: 5. Pied-en- l'air",
-      "url": "https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Handel: Apollo e Dafne, HWV 122 & Armida abbandonata, HWV 105",
+        "url": "https://open.spotify.com/album/2jvPVlIwiKJvoU5p8kA6tO"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Il Pomo D'oro",
+          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+        },
+        {
+          "name": "Francesco Corti",
+          "url": "https://open.spotify.com/artist/0UqPgVQCLfkuRbaqXWPkY2"
+        }
+      ],
+      "duration_ms": 117372,
+      "name": "Almira, HWV 1 (Excerpts): Sarabande",
+      "url": "https://open.spotify.com/track/5TGdpgBRF0XI21gSWowd7y"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "The Scottish Baroque Ensemble in Concert",
         "url": "https://open.spotify.com/album/4Q7sZi75sNNcRyU1d3TqaE"
       },
@@ -1171,26 +1195,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Handel: Apollo e Dafne, HWV 122 & Armida abbandonata, HWV 105",
-        "url": "https://open.spotify.com/album/2jvPVlIwiKJvoU5p8kA6tO"
+        "name": "Are You Still Somewhere?",
+        "url": "https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         },
         {
-          "name": "Il Pomo D'oro",
-          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
-        },
-        {
-          "name": "Francesco Corti",
-          "url": "https://open.spotify.com/artist/0UqPgVQCLfkuRbaqXWPkY2"
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
         }
       ],
-      "duration_ms": 117372,
-      "name": "Almira, HWV 1 (Excerpts): Sarabande",
-      "url": "https://open.spotify.com/track/5TGdpgBRF0XI21gSWowd7y"
+      "duration_ms": 146360,
+      "name": "Saman",
+      "url": "https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1223,26 +1243,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Are You Still Somewhere?",
-        "url": "https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Lavinia Meijer",
-          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Saman",
-      "url": "https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "The Flemish Piano Sonatina in the 20th Century",
         "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
       },
@@ -1259,6 +1259,26 @@
       "duration_ms": 112000,
       "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
       "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Baroque Conversations",
+        "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "David Greilsammer",
+          "url": "https://open.spotify.com/artist/03DDDfXOjkqWelBJntrTpX"
+        }
+      ],
+      "duration_ms": 96293,
+      "name": "Suite in D Minor, HWV 447: Allemande",
+      "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1331,26 +1351,6 @@
       "duration_ms": 234000,
       "name": "Deux Arabesques L. 66: No. 1 Andante con moto",
       "url": "https://open.spotify.com/track/5eRfljNo9nICHm8i77T1rA"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Chopin: Music for Concentration",
-        "url": "https://open.spotify.com/album/6x4mkl6b5i8PDDYgVfU1oT"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "H\u00e9l\u00e8ne Grimaud",
-          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
-        }
-      ],
-      "duration_ms": 292080,
-      "name": "Berceuse in D Flat Major, Op. 57",
-      "url": "https://open.spotify.com/track/4bID51YYMOp42TnKwKJRjs"
     }
   ],
   "unique_name": "Creative Focus",

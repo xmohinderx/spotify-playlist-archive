@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 14346,
+  "num_followers": 14784,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMGU5MDIyMjM0Njc3NzkzMmU3OTJhMzgzOWQ3MDgzZmY4",
+  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMDQwMDk0YWYzYjhjNzNmYjU5MDk5ZjJmYjBjN2IyZDYx",
   "tracks": [
     {
       "added_at": "2022-07-29 06:24:48",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
         "name": "String Theory",
         "url": "https://open.spotify.com/album/64nnxFO6ZeVn19b7fGqOgN"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 261230,
       "name": "String Theory",
       "url": "https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Driving Mad",
-        "url": "https://open.spotify.com/album/1yZvuAfsG01K9gad20PbqF"
-      },
-      "artists": [
-        {
-          "name": "Carbon",
-          "url": "https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK"
-        },
-        {
-          "name": "Lampe",
-          "url": "https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq"
-        }
-      ],
-      "duration_ms": 360007,
-      "name": "Driving Mad",
-      "url": "https://open.spotify.com/track/6MZ7wWLT1jd2oF21p3TPKl"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "Light + Shadow Remixes, Vol. 1",
         "url": "https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 370750,
       "name": "Flash - Marco Faraone Remix",
       "url": "https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Driving Mad",
+        "url": "https://open.spotify.com/album/1yZvuAfsG01K9gad20PbqF"
+      },
+      "artists": [
+        {
+          "name": "Carbon",
+          "url": "https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK"
+        },
+        {
+          "name": "Lampe",
+          "url": "https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq"
+        }
+      ],
+      "duration_ms": 360007,
+      "name": "Driving Mad",
+      "url": "https://open.spotify.com/track/6MZ7wWLT1jd2oF21p3TPKl"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Hela",
-        "url": "https://open.spotify.com/album/0adQoVV6Qbg358KdIy0Yqn"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 305538,
-      "name": "Hela",
-      "url": "https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "Back for Rave",
         "url": "https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 438790,
       "name": "Back for Rave - Original Mix",
       "url": "https://open.spotify.com/track/3XZOviqLQTQdVrLlCOH8Ji"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Hela",
+        "url": "https://open.spotify.com/album/0adQoVV6Qbg358KdIy0Yqn"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 305538,
+      "name": "Hela",
+      "url": "https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Huys",
-        "url": "https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK"
-      },
-      "artists": [
-        {
-          "name": "Anahit Vardanyan",
-          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
-        }
-      ],
-      "duration_ms": 440454,
-      "name": "Huys",
-      "url": "https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/5KtMtbhmpG2mqjJepSttRA"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 376615,
       "name": "Nova",
       "url": "https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Huys",
+        "url": "https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK"
+      },
+      "artists": [
+        {
+          "name": "Anahit Vardanyan",
+          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
+        }
+      ],
+      "duration_ms": 440454,
+      "name": "Huys",
+      "url": "https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        }
+      ],
+      "duration_ms": 400172,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/2G1zDCzWRHxouEiscYuz6D"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 214606,
       "name": "Switch Play",
       "url": "https://open.spotify.com/track/095b9aJegbMOGNFHFAUGEC"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
-      },
-      "artists": [
-        {
-          "name": "Teenage Mutants",
-          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
-        }
-      ],
-      "duration_ms": 400172,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
     },
     {
       "added_at": "2022-07-29 06:24:48",

@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 61661,
+  "num_followers": 61683,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMyNDQ1MCwwMDAwMDAwMDA4MDZkMWExOTE1MWZmZDQ5ZWU2OGJhZGJlNTJiN2Yw",
+  "snapshot_id": "MTY1OTMyNDQ1MCwwMDAwMDAwMGNlNzVkZDgyZWI3OGU1NDdkMDY4YzZlNmNiZTI2OWFm",
   "tracks": [
     {
       "added_at": "2022-08-01 03:27:30",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-08-01 03:27:30",
       "album": {
-        "name": "Little Giant",
-        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Tiger Striped Sky",
-      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
-    },
-    {
-      "added_at": "2022-08-01 03:27:30",
-      "album": {
         "name": "Mariposa (Acoustic)",
         "url": "https://open.spotify.com/album/7vvn3NdaYY08BixfhVaA5L"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 216612,
       "name": "Mariposa - Acoustic",
       "url": "https://open.spotify.com/track/64o1r6z5k2HmTglC2D4IKm"
+    },
+    {
+      "added_at": "2022-08-01 03:27:30",
+      "album": {
+        "name": "Little Giant",
+        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Tiger Striped Sky",
+      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
     },
     {
       "added_at": "2022-08-01 03:27:30",

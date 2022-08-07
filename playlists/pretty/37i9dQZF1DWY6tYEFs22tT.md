@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from DJ Khaled ft\. Drake & Lil Baby, Eminem and Trippie Redd is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,647 likes - 72 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,794 likes - 72 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

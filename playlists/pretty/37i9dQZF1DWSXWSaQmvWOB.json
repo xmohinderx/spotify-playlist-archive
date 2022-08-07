@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Cory Henry",
-  "num_followers": 417784,
+  "num_followers": 417882,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMGFhNGEyMDc4Y2M4NWIzYTNmMDhjYWI1ZGRlNGYwYTFj",
+  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMGE1NTNiMTAxNTU5ZGUyNjNiMjExZTVhYzFlZDY2NDIy",
   "tracks": [
     {
       "added_at": "2022-07-28 22:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5G16B3RQcCPZ7LDVf3TwQ4"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 206579,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/4oU2j4VgtKXkYAM8xg6lrU"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "WE ARE (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 223815,
       "name": "ADULTHOOD",
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5G16B3RQcCPZ7LDVf3TwQ4"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 206579,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/4oU2j4VgtKXkYAM8xg6lrU"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Vehicle - From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "TOINE",
         "url": "https://open.spotify.com/album/2vHgzKe4ndu3ePIBvKF7xS"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN"
       },
       "artists": [
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+      "duration_ms": 175086,
+      "name": "Vehicle - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -883,6 +867,22 @@
       "duration_ms": 119975,
       "name": "Need To Know Basis",
       "url": "https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Operation Funk",
+        "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 276401,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Operation Funk",
-        "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 276401,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "L.A.B V",
         "url": "https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7"
       },
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Heat of the Moon",
-        "url": "https://open.spotify.com/album/6XSrcNSa2Bnl4vkWROSF0e"
+        "name": "Woman Like Me",
+        "url": "https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf"
       },
       "artists": [
         {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 205201,
-      "name": "Heat of the Moon",
-      "url": "https://open.spotify.com/track/7GmSvY6pk87MO2GaMnXLLN"
+      "duration_ms": 202832,
+      "name": "Woman Like Me",
+      "url": "https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1207,6 +1207,22 @@
       "duration_ms": 194724,
       "name": "My Favourite",
       "url": "https://open.spotify.com/track/4jTDyGLrDTt0nj7kjNVTaJ"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Heat of the Moon",
+        "url": "https://open.spotify.com/album/6XSrcNSa2Bnl4vkWROSF0e"
+      },
+      "artists": [
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "duration_ms": 205201,
+      "name": "Heat of the Moon",
+      "url": "https://open.spotify.com/track/7GmSvY6pk87MO2GaMnXLLN"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 204909,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2TH9Y6gYm8PJWdjIdUNT77"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "L.A.B V",
         "url": "https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7"
       },
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Woman Like Me",
-        "url": "https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf"
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 202832,
-      "name": "Woman Like Me",
-      "url": "https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl"
+      "duration_ms": 204909,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2TH9Y6gYm8PJWdjIdUNT77"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Honesty (Deluxe Version)",
-        "url": "https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "These Fires",
-      "url": "https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/5Jr1eGcMKChuU0gQdxeF5b"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 252253,
       "name": "Go",
       "url": "https://open.spotify.com/track/2VXoiz9P6W9jG48Gv3bTHO"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Honesty (Deluxe Version)",
+        "url": "https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "These Fires",
+      "url": "https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "deeper / stoned love",
-        "url": "https://open.spotify.com/album/4AHLaggnEuQA4rbv5xG3hG"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 279453,
-      "name": "deeper",
-      "url": "https://open.spotify.com/track/6sh4ZklLayp1PRAGPq1G2H"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/0GlHeseuowxs1NOGdPm3nI"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 238577,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/3NBweAfNWhU9Zu1xDLHAR8"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "deeper / stoned love",
+        "url": "https://open.spotify.com/album/4AHLaggnEuQA4rbv5xG3hG"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 279453,
+      "name": "deeper",
+      "url": "https://open.spotify.com/track/6sh4ZklLayp1PRAGPq1G2H"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "No Tears In My Champagne",
+        "url": "https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "duration_ms": 136644,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Misdirection",
-        "url": "https://open.spotify.com/album/6QjHmbqyjwJGAdCAFHbJDD"
-      },
-      "artists": [
-        {
-          "name": "Leonard Luka",
-          "url": "https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Misdirection",
-      "url": "https://open.spotify.com/track/6W4aKypGDzibPr3rEnPBOa"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "No Tears In My Champagne",
-        "url": "https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF"
+        "name": "Misdirection",
+        "url": "https://open.spotify.com/album/6QjHmbqyjwJGAdCAFHbJDD"
       },
       "artists": [
         {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+          "name": "Leonard Luka",
+          "url": "https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew"
         }
       ],
-      "duration_ms": 136644,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX"
+      "duration_ms": 209640,
+      "name": "Misdirection",
+      "url": "https://open.spotify.com/track/6W4aKypGDzibPr3rEnPBOa"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6q39FZTCwg8y91KKQUTBq5"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/3kbY4SqxaeCKE9ulx71AS1"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Hard Up (Deluxe Version)",
         "url": "https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 251993,
       "name": "If Not Now (Then When) [feat. Durand Jones]",
       "url": "https://open.spotify.com/track/7MhkwPZyMipIvAyiXtJ9uC"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/6q39FZTCwg8y91KKQUTBq5"
-      },
-      "artists": [
-        {
-          "name": "Sam Wills",
-          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Lay Down",
-      "url": "https://open.spotify.com/track/3kbY4SqxaeCKE9ulx71AS1"
     },
     {
       "added_at": "2022-07-28 22:00:00",

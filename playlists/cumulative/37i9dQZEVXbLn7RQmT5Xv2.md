@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-468 songs - 1 day 2 hr 35 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
+470 songs - 1 day 2 hr 41 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Agans](https://open.spotify.com/track/5biDlrBER5BUecUfzsCf1E) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [اجانص مع كسار](https://open.spotify.com/album/3jVvYkqbknlDjduLr6cBxS) | 3:25 | 2021-03-27\* | 2021-05-14 |
 | [Ahkelak](https://open.spotify.com/track/60gNtG4TeY7YQxbxx9mUwU) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Ahkelak](https://open.spotify.com/album/30DzaAannug4aragLVhSMA) | 3:16 | 2022-03-23 | 2022-05-21 |
 | [Akhouya](https://open.spotify.com/track/4JyeFbF9RB2m24QhJ8ab8f) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ras Shitan](https://open.spotify.com/album/5xs1hPBH7vjLHf8UY7TxDY) | 2:59 | 2022-07-07 | 2022-07-11 |
+| [Aktar Mn El Sekout](https://open.spotify.com/track/2hHb8MMgeDIxCiyQUTYANq) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Aktar Mn El Sekout](https://open.spotify.com/album/09xFJJod4MFAHNsk2CDBi9) | 3:56 | 2022-08-06 |  |
 | [Akwa Mix](https://open.spotify.com/track/6gWWe46JPVjiHXbgTpyKGO) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Akwa Mix](https://open.spotify.com/album/2GjJAqIOP1x5MUqEJp4Rks) | 3:10 | 2022-02-09 | 2022-02-17 |
 | [Ala Ba'ady](https://open.spotify.com/track/37Qs3XrDloB2ocXfAhVnmL) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Ala Ba'ady](https://open.spotify.com/album/1p9ij7JhwWj4vQrfMcUc12) | 4:07 | 2021-03-27\* | 2021-10-01 |
 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2022-02-22 |  |
@@ -50,6 +51,7 @@
 | [Astronaut in the Ocean](https://open.spotify.com/track/27ErCu5vx463lPyabA87oi) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Astronaut in the Ocean](https://open.spotify.com/album/4JupiYe3WiIJwzA0BxXvXl) | 2:14 | 2021-04-03 | 2021-04-04 |
 | [Atary](https://open.spotify.com/track/082HYgmGx9V6hG5tpwwpp7) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:24 | 2021-03-31 | 2021-10-06 |
 | [Awadeeh](https://open.spotify.com/track/6X3T09NqZfGACrko9EYN7r) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Awadeeh](https://open.spotify.com/album/6mf7g9yvxZmfLVVLVB0dyv) | 2:22 | 2021-09-02 | 2022-02-20 |
+| [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 |  |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-28 | 2021-07-28 |
 | [Bahebak](https://open.spotify.com/track/6a4l9CrvajT9qtcFAY9oxk) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Bahebak](https://open.spotify.com/album/12IyIdjFQNAWCrKXbtEunW) | 3:26 | 2021-07-25 | 2021-07-27 |
 | [Bahr Shar](https://open.spotify.com/track/1AZjgKOrI1MVwoDKYlZIdF) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Houda Bondok](https://open.spotify.com/artist/3h9whENZphIzFOkg0brmgK) | [Bahr Shar](https://open.spotify.com/album/60jBCD1LI5FDHxPQV3mef5) | 2:51 | 2021-04-19 | 2021-06-20 |
@@ -416,7 +418,7 @@
 | [بوغاتي](https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [بوغاتي](https://open.spotify.com/album/4DpbKWBZKyvuSKDL33ija7) | 2:34 | 2022-03-24 | 2022-04-17 |
 | [تاني](https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تاني](https://open.spotify.com/album/0fBTcx8BchMZh0UyFqDmIn) | 2:46 | 2021-08-07 | 2022-02-23 |
 | [تراك الموسم](https://open.spotify.com/track/6ACKR9iNKxeBAc7fs52pHa) | [Tameem Youness](https://open.spotify.com/artist/6aEJ5aiBVWtoRnmaHhwz54) | [تراك الموسم](https://open.spotify.com/album/6VHyM1P7H6Q7qzl50DZWHx) | 3:07 | 2022-02-01 | 2022-02-07 |
-| [تليفونى للسؤال](https://open.spotify.com/track/6gbjsT7U7b1I0iARVPUoy8) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [تليفونى للسؤال](https://open.spotify.com/album/3hzCVYGtdd3YzDcmFw53ll) | 3:38 | 2022-08-02 |  |
+| [تليفونى للسؤال](https://open.spotify.com/track/6gbjsT7U7b1I0iARVPUoy8) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [تليفونى للسؤال](https://open.spotify.com/album/3hzCVYGtdd3YzDcmFw53ll) | 3:38 | 2022-08-02 | 2022-08-07 |
 | [ثرثرة](https://open.spotify.com/track/1PN1vuSWAW9mlIZSgFrQ7y) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [بلان بي](https://open.spotify.com/album/32rH8RDPdrKhR2Unq1FEKU) | 2:58 | 2021-03-27\* | 2022-01-27 |
 | [حدوته ألماني](https://open.spotify.com/track/2bXrayhgyX8nvNNxMjFT0b) | [Hussein Black](https://open.spotify.com/artist/2iPEr3Uk3Nvikdnx4e3ELe) | [حدوته ألماني](https://open.spotify.com/album/2TeKtE9myzBTuM0MmrlGkl) | 2:35 | 2022-07-16 | 2022-07-28 |
 | [حدوته المانى](https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 2:37 | 2022-07-13 |  |
@@ -440,7 +442,7 @@
 | [طلقاتى راشقه](https://open.spotify.com/track/4iYtRR9CT61D5pLQDx24BO) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/3Tua3fOucXngD1nxbFqWtJ) | 3:58 | 2022-04-06 | 2022-05-07 |
 | [طلقاتى راشقه](https://open.spotify.com/track/4zMOcP4as07aQl2MY14Raf) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/2l85aOtYtkfIecw0UJDnRW) | 3:58 | 2021-12-27 | 2022-04-07 |
 | [ع الصامت](https://open.spotify.com/track/1csotZQdK0em4MN66s3yRS) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [بلان بي](https://open.spotify.com/album/32rH8RDPdrKhR2Unq1FEKU) | 3:30 | 2021-03-27 | 2021-03-31 |
-| [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2021-09-16 |  |
+| [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2021-09-16 | 2022-08-07 |
 | [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-07-30 |  |
 | [عصفورة \- بتنقل الكلام دى مش رجوله](https://open.spotify.com/track/4Y0HYqCtlXqSCZp3C2UoaY) | [Mohamed Zizo](https://open.spotify.com/artist/3h9YTec0GeWBcIFCFJRDgG), [Za3blawy](https://open.spotify.com/artist/7BkpFKhw7N5aeZ3doZ2k8V) | [عصفورة \(بتنقل الكلام دى مش رجوله\)](https://open.spotify.com/album/61ErcbWUlflfi766DtCkG2) | 3:33 | 2021-05-03 | 2021-05-22 |
 | [عطشان وبستنى تغيير](https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير](https://open.spotify.com/album/7oT3KutU3W3hLFp1kHdSQ8) | 1:27 | 2022-06-29 | 2022-07-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Cozy and sweet songs guaranteed to shield you from the blues. ",
-  "num_followers": 47382,
+  "num_followers": 47380,
   "original_name": "Sunday Scaries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM2NTY2MywwMDAwMDAwMGQ4YTQ0ZmY3MjA0OGMyODc0NWQ0MTU3MzcwZGVhNzMw",
+  "snapshot_id": "MTY1OTM2NTY2MywwMDAwMDAwMDYxODA4MzNmOWI3ZWRmMDY1M2FjN2QxZTE2ZTg3NTQ1",
   "tracks": [
     {
       "added_at": "2020-08-18 17:48:46",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6"
     },
     {
-      "added_at": "2022-07-21 19:17:29",
-      "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono / 1997 Remastered",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
       "added_at": "2020-08-18 17:48:46",
       "album": {
         "name": "The Shepherd's Dog",
@@ -487,6 +471,22 @@
       "duration_ms": 241917,
       "name": "Flightless Bird, American Mouth",
       "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
+    },
+    {
+      "added_at": "2022-07-21 19:17:29",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono / 1997 Remastered",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2022-07-21 19:17:29",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx"
     },
     {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Sweet Baby James - 2019 Remaster",
-      "url": "https://open.spotify.com/track/17PXXzOygMyXXUNLngVN5u"
-    },
-    {
       "added_at": "2022-07-21 19:17:29",
       "album": {
         "name": "Crimson & Clover / Some Kind of Love",
@@ -1059,6 +1043,22 @@
       "duration_ms": 208666,
       "name": "Crimson & Clover - Single Version; Mono",
       "url": "https://open.spotify.com/track/1qTfHUVPsZTnrmvwQrAQdW"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Sweet Baby James - 2019 Remaster",
+      "url": "https://open.spotify.com/track/17PXXzOygMyXXUNLngVN5u"
     },
     {
       "added_at": "2022-07-21 19:17:29",

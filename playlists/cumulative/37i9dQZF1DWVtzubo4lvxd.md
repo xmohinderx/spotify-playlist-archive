@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-189 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+190 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Getting Lost](https://open.spotify.com/track/2qu7wb9uya6Kh1YqgHyxOy) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Getting Lost](https://open.spotify.com/album/37kZUfnuctnnWXvDEATO21) | 3:52 | 2022-04-15 | 2022-07-29 |
 | [go away](https://open.spotify.com/track/0fXfA8rpomAF4jMx58zs67) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [go away](https://open.spotify.com/album/6vtdKV232OX7c3KHCcgeLD) | 2:12 | 2022-04-15 | 2022-07-29 |
 | [gold](https://open.spotify.com/track/58LtMOwgUsR2RH70Du6hiK) | [Flux The Cynic](https://open.spotify.com/artist/7KVnt5tFYViqLUPgUkkDoF), [Chill Children](https://open.spotify.com/artist/1HIUSy6Z18XvHfvsGPSWYx) | [flux the cynic](https://open.spotify.com/album/298IErQJY2iMNJxzJrEGtF) | 1:47 | 2022-04-15 | 2022-07-17 |
+| [Green Stamps](https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Spotless Minds](https://open.spotify.com/album/502M2AoaTM2CDYghPlH0Mn) | 2:37 | 2022-04-15 |  |
 | [hammock](https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [hometown](https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq) | 1:56 | 2022-04-15 |  |
 | [hand of god](https://open.spotify.com/track/5BkpjyhjGiptuzxI2n5L67) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:43 | 2022-04-15 | 2022-06-04 |
 | [Here There](https://open.spotify.com/track/2uKCULX5fviDo0PspMcxRs) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Romance](https://open.spotify.com/album/2v8fJtNbT42y6huBvyyvIT) | 1:59 | 2022-04-15 | 2022-07-29 |
@@ -152,7 +153,7 @@
 | [Summer Love](https://open.spotify.com/track/4t9khFSydC1VwzVxjsgt63) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Summer Jazz](https://open.spotify.com/album/1TVi6bHOSXFHOIkCD8I3tM) | 3:22 | 2022-04-15 | 2022-07-29 |
 | [summer nights.](https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [Nion](https://open.spotify.com/artist/7J1oHSQmZhh69nOXC3RiM0) | [summer nights.](https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc) | 1:24 | 2022-04-15 |  |
 | [sunday morning vibes](https://open.spotify.com/track/4K6aHm8TzVYm55b6bPM6eb) | [IKE](https://open.spotify.com/artist/6A3a14zZMLZUo87xtzzKJt) | [sunday morning vibes](https://open.spotify.com/album/5lRvO7AufpEDUZH2uNt2pK) | 1:30 | 2022-04-15 | 2022-07-29 |
-| [sunday morning vibes](https://open.spotify.com/track/5tQ5qokHOPrk0sySwuijrq) | [IKE](https://open.spotify.com/artist/6A3a14zZMLZUo87xtzzKJt) | [sunday morning vibes](https://open.spotify.com/album/0az7EHTxxaCsSHzCaZKeJw) | 1:30 | 2022-04-15 |  |
+| [sunday morning vibes](https://open.spotify.com/track/5tQ5qokHOPrk0sySwuijrq) | [IKE](https://open.spotify.com/artist/6A3a14zZMLZUo87xtzzKJt) | [sunday morning vibes](https://open.spotify.com/album/0az7EHTxxaCsSHzCaZKeJw) | 1:30 | 2022-04-15 | 2022-08-07 |
 | [sunny](https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [sunny](https://open.spotify.com/album/0enwhVDrDgNf2QpeleSUSZ) | 2:19 | 2022-04-15 |  |
 | [Sunset \(Dedicated to J Dilla\)](https://open.spotify.com/track/3lxeK9XIrzMlxLgrG60BK5) | [Siirbaz](https://open.spotify.com/artist/7xURIiVo2JwZ1wIBLE2tYs) | [Sunset \(Dedicated to J Dilla\)](https://open.spotify.com/album/14rRku6dlxMwOrvocRe6B7) | 1:10 | 2022-04-15 | 2022-07-29 |
 | [sunset drive](https://open.spotify.com/track/6HVnsENMWuewoZvCGMsghQ) | [nytø](https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [sunset drive](https://open.spotify.com/album/19UjFDsYwAY4vJvCpgR2Pu) | 2:17 | 2022-04-15 | 2022-07-29 |

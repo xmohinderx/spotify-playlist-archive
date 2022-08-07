@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Luis Eduardo Aute",
-  "num_followers": 247451,
+  "num_followers": 247570,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYxOTIwMCwwMDAwMDAwMDRiZDkxZWQyNzlkZTkxNDU0YWIwZmZlOWQyYWVlN2Uw",
+  "snapshot_id": "MTY1NjYxOTIwMCwwMDAwMDAwMGViMzBjMDc1ODE5NjgyNGYyMTViMjkzNzk4NmQxNmYx",
   "tracks": [
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1047,110 +1047,6 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
-        "name": "26 Grandes Canciones Y Una Nube Blanca",
-        "url": "https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7"
-      },
-      "artists": [
-        {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
-        }
-      ],
-      "duration_ms": 317733,
-      "name": "El Hombre del Piano",
-      "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "50 Palos",
-        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 185743,
-      "name": "Humo",
-      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
-        "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Pablo L\u00f3pez",
-          "url": "https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ"
-        }
-      ],
-      "duration_ms": 390861,
-      "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
-      "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "Mi Chile Lindo",
-        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
-      },
-      "artists": [
-        {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "Qui\u00e9reme Bien (feat. Leiva)",
-        "url": "https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 281095,
-      "name": "Qui\u00e9reme Bien (feat. Leiva)",
-      "url": "https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
         "name": "Mujeres de Fina Estampa",
         "url": "https://open.spotify.com/album/5YmzTZ5AVgpJmKLTfSviCF"
       },
@@ -1195,6 +1091,110 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
+        "name": "50 Palos",
+        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 185743,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
+        "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
+        "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Pablo L\u00f3pez",
+          "url": "https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ"
+        }
+      ],
+      "duration_ms": 390861,
+      "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
+      "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
+        "name": "Qui\u00e9reme Bien (feat. Leiva)",
+        "url": "https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 281095,
+      "name": "Qui\u00e9reme Bien (feat. Leiva)",
+      "url": "https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
+        "name": "26 Grandes Canciones Y Una Nube Blanca",
+        "url": "https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        }
+      ],
+      "duration_ms": 317733,
+      "name": "El Hombre del Piano",
+      "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
         "name": "T\u00fa Ve",
         "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
       },
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
+        "name": "Este Tren",
+        "url": "https://open.spotify.com/album/4UNcJ7hdl45wESaNuZEhkh"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 196287,
+      "name": "Este Tren",
+      "url": "https://open.spotify.com/track/4zSpfYHyf6bN2jJVO0so03"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
         "name": "Maldita Vocaci\u00f3n",
         "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 285341,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "Este Tren",
-        "url": "https://open.spotify.com/album/4UNcJ7hdl45wESaNuZEhkh"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 196287,
-      "name": "Este Tren",
-      "url": "https://open.spotify.com/track/4zSpfYHyf6bN2jJVO0so03"
     },
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
-        "name": "Amelie",
-        "url": "https://open.spotify.com/album/3MkPfEHkVyRAsZ4NjpzWKc"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 199750,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/2KtWiCqg2tGyFfTAfHmPZo"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
         "name": "Cuando el R\u00edo Suena...",
         "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 234743,
       "name": "Antes De Verte (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
+        "name": "Amelie",
+        "url": "https://open.spotify.com/album/3MkPfEHkVyRAsZ4NjpzWKc"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 199750,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/2KtWiCqg2tGyFfTAfHmPZo"
     },
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
         "name": "Tributo a Sabina. Ni Tan Joven Ni Tan Viejo",
         "url": "https://open.spotify.com/album/0aiLwoe2jZ7TWjbspnBn8K"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 157386,
       "name": "Contigo en la Distancia",
       "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2022-06-30 20:00:00",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2022-06-30 20:00:00",
       "album": {
-        "name": "En la memoria de la piel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6y8CK0GDX37BxdQfXixXQt"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 247028,
-      "name": "No olvidarme de olvidar (feat. Carlos Rivera)",
-      "url": "https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy"
-    },
-    {
-      "added_at": "2022-06-30 20:00:00",
-      "album": {
         "name": "Conviene Saber (feat. Rozal\u00e9n)",
         "url": "https://open.spotify.com/album/3Ip09RVhwrMrf6oIzhZTiU"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 250302,
       "name": "Conviene Saber (feat. Rozal\u00e9n)",
       "url": "https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU"
+    },
+    {
+      "added_at": "2022-06-30 20:00:00",
+      "album": {
+        "name": "En la memoria de la piel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6y8CK0GDX37BxdQfXixXQt"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 247028,
+      "name": "No olvidarme de olvidar (feat. Carlos Rivera)",
+      "url": "https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy"
     },
     {
       "added_at": "2022-06-30 20:00:00",

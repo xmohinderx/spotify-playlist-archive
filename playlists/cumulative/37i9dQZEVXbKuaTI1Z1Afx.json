@@ -6872,6 +6872,24 @@
     },
     {
       "album": {
+        "name": "Lyfe",
+        "url": "https://open.spotify.com/album/6Ihu75dkfTryER3dvDgnAC"
+      },
+      "artists": [
+        {
+          "name": "kidthvldd",
+          "url": "https://open.spotify.com/artist/4Q77EuSKGAPhE8KatUekHx"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99408,
+      "name": "Lyfe",
+      "url": "https://open.spotify.com/track/50caE2T5nlhVH6d6A46HId"
+    },
+    {
+      "album": {
         "name": "Omnium Gatherum",
         "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
       },
@@ -12025,7 +12043,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 201154,
       "name": "Vegeta x Awaken Rare Hardstyle",
       "url": "https://open.spotify.com/track/0y9BCqoDEVR6tuoyNATJTJ"

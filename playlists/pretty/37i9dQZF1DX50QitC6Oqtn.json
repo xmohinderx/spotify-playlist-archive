@@ -1,12 +1,12 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3470984,
+  "num_followers": 3471082,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNjM5ODkxNywwMDAwMDAwMDljNWE2ZWIyNjk3MmVkZDU5ZGY3ZjczY2QzZmE4NGJm",
+  "snapshot_id": "MTYzNjM5ODkxNywwMDAwMDAwMGI1MDNiOGZlNjllM2Y0ZjM3M2I3MWRhYzJmZjA1YmIy",
   "tracks": [
     {
       "added_at": "2021-11-08 19:15:17",
@@ -891,6 +891,22 @@
     {
       "added_at": "2021-11-08 19:15:17",
       "album": {
+        "name": "Camino Palmero",
+        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "added_at": "2021-11-08 19:15:17",
+      "album": {
         "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
         "url": "https://open.spotify.com/album/4i7GEsKuuCtECD5l0VUctL"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 218293,
       "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
       "url": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV"
-    },
-    {
-      "added_at": "2021-11-08 19:15:17",
-      "album": {
-        "name": "Camino Palmero",
-        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
       "added_at": "2021-11-08 19:15:17",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2021-11-08 19:15:17",
       "album": {
+        "name": "Lie To Me (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 149877,
+      "name": "Lie To Me (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3"
+    },
+    {
+      "added_at": "2021-11-08 19:15:17",
+      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 234106,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2021-11-08 19:15:17",
-      "album": {
-        "name": "Lie To Me (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 149877,
-      "name": "Lie To Me (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3"
     },
     {
       "added_at": "2021-11-08 19:15:17",
@@ -1703,18 +1703,22 @@
     {
       "added_at": "2021-11-08 19:15:17",
       "album": {
-        "name": "Turn Back Time",
-        "url": "https://open.spotify.com/album/1NuCGiddS5MLz3XU2QViaK"
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
       "artists": [
         {
-          "name": "Daniel Schulz",
-          "url": "https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
         }
       ],
-      "duration_ms": 223561,
-      "name": "Turn Back Time",
-      "url": "https://open.spotify.com/track/4KnnWpUyPfQD6X5SQSTlH3"
+      "duration_ms": 251760,
+      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
     }
   ],
   "unique_name": "Love Pop",

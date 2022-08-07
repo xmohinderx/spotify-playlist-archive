@@ -1,12 +1,12 @@
 {
   "description": "The wave of U.S. Latinos in Hip-Hop. Cover: Coyote",
-  "num_followers": 14897,
+  "num_followers": 14911,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMGM1MWFlZGJhMDE2MTE0ZGYyZmNlZWYwNGQ4ZTc1ZWJi",
+  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDUwNmZhNjA2MTU0MjRkZjRjYTU5NjhkNzg3ZjIwNmI2",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Ain't Done",
-        "url": "https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0"
-      },
-      "artists": [
-        {
-          "name": "SpyBoii",
-          "url": "https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4"
-        },
-        {
-          "name": "YeloHill",
-          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
-        }
-      ],
-      "duration_ms": 171934,
-      "name": "Ain't Done",
-      "url": "https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/1HngEDkNBmQs4Pe5VR4K5I"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 157703,
       "name": "Bang",
       "url": "https://open.spotify.com/track/0WzLVl71WS4NKgZdNGwr5i"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Ain't Done",
+        "url": "https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0"
+      },
+      "artists": [
+        {
+          "name": "SpyBoii",
+          "url": "https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4"
+        },
+        {
+          "name": "YeloHill",
+          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
+        }
+      ],
+      "duration_ms": 171934,
+      "name": "Ain't Done",
+      "url": "https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ"
     },
     {
       "added_at": "2022-07-15 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 227029,
+  "num_followers": 227082,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDMxMmNmMTA1MzAzNjFkZDdlNGQ3MjM2ZDE2OGZhNTA5",
+  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMGZmNGQ5ZTc5OGFkMjA3NmU5YTM4ZTAxZmU2ZGY0N2Vl",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -115,26 +115,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Einaudi: Full Moon (Arr. Lewin for Guitar)",
-        "url": "https://open.spotify.com/album/6iCGjccGJ4ia9mZC6PFEdH"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        },
-        {
-          "name": "Milo\u0161 Karadagli\u0107",
-          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "Full Moon (Arr. Lewin for Guitar)",
-      "url": "https://open.spotify.com/track/1eqyKmkcp7b2s1PU9fEZRS"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Ravel: Orchestral Works, Vol. 5",
         "url": "https://open.spotify.com/album/1YyXhW5uqF7aloforW4aQr"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 65960,
       "name": "Antar (After N. Rimsky-Korsakov): No. 7. Ravel: Allegretto",
       "url": "https://open.spotify.com/track/0Ee9oam0N0ZzxZSN9nogTQ"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Einaudi: Full Moon (Arr. Lewin for Guitar)",
+        "url": "https://open.spotify.com/album/6iCGjccGJ4ia9mZC6PFEdH"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "Full Moon (Arr. Lewin for Guitar)",
+      "url": "https://open.spotify.com/track/1eqyKmkcp7b2s1PU9fEZRS"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "P\u00e4rt: Tabula Rasa",
         "url": "https://open.spotify.com/album/1uFbf5bzNZKrVPrmGls0BY"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 544653,
       "name": "P\u00e4rt: Spiegel im Spiegel",
       "url": "https://open.spotify.com/track/0Oqu3THqxi4dL1LfowsFog"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Field: Complete Nocturnes",
-        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
-      },
-      "artists": [
-        {
-          "name": "John Field",
-          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
-        },
-        {
-          "name": "Elizabeth Joy Roe",
-          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
-        }
-      ],
-      "duration_ms": 191853,
-      "name": "Nocturne No. 2 in C Minor, H.25",
-      "url": "https://open.spotify.com/track/0r4MwV7YMWcQQdWgWIn9c9"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Fantasia on Greensleeves",
         "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 144266,
       "name": "Capriol Suite: 5. Pied-en- l'air",
       "url": "https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Field: Complete Nocturnes",
+        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
+      },
+      "artists": [
+        {
+          "name": "John Field",
+          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
+        },
+        {
+          "name": "Elizabeth Joy Roe",
+          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
+        }
+      ],
+      "duration_ms": 191853,
+      "name": "Nocturne No. 2 in C Minor, H.25",
+      "url": "https://open.spotify.com/track/0r4MwV7YMWcQQdWgWIn9c9"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1127,30 +1127,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "The Scottish Baroque Ensemble in Concert",
-        "url": "https://open.spotify.com/album/4Q7sZi75sNNcRyU1d3TqaE"
-      },
-      "artists": [
-        {
-          "name": "Franz Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "The Scottish Baroque Ensemble",
-          "url": "https://open.spotify.com/artist/3SoX23B99MUwEpfYNdLlav"
-        },
-        {
-          "name": "Leonard Friedman",
-          "url": "https://open.spotify.com/artist/5Ev9SoBzNe0BV3R9qgaeoH"
-        }
-      ],
-      "duration_ms": 89400,
-      "name": "Haydn: Twelve Little Divertimenti: Menuet: Un poco allegretto",
-      "url": "https://open.spotify.com/track/2K01jEOja47eLwJsh1j3ZK"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Handel: Apollo e Dafne, HWV 122 & Armida abbandonata, HWV 105",
         "url": "https://open.spotify.com/album/2jvPVlIwiKJvoU5p8kA6tO"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 117372,
       "name": "Almira, HWV 1 (Excerpts): Sarabande",
       "url": "https://open.spotify.com/track/5TGdpgBRF0XI21gSWowd7y"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "The Scottish Baroque Ensemble in Concert",
+        "url": "https://open.spotify.com/album/4Q7sZi75sNNcRyU1d3TqaE"
+      },
+      "artists": [
+        {
+          "name": "Franz Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "The Scottish Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/3SoX23B99MUwEpfYNdLlav"
+        },
+        {
+          "name": "Leonard Friedman",
+          "url": "https://open.spotify.com/artist/5Ev9SoBzNe0BV3R9qgaeoH"
+        }
+      ],
+      "duration_ms": 89400,
+      "name": "Haydn: Twelve Little Divertimenti: Menuet: Un poco allegretto",
+      "url": "https://open.spotify.com/track/2K01jEOja47eLwJsh1j3ZK"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1243,22 +1243,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Baroque Conversations",
+        "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "David Greilsammer",
+          "url": "https://open.spotify.com/artist/03DDDfXOjkqWelBJntrTpX"
         }
       ],
-      "duration_ms": 188229,
-      "name": "S\u0153ur Monique: 18\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5CBXjtjqToJ3sw0nCPdVDU"
+      "duration_ms": 96293,
+      "name": "Suite in D Minor, HWV 447: Allemande",
+      "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1283,46 +1283,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Baroque Conversations",
-        "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
         },
         {
-          "name": "David Greilsammer",
-          "url": "https://open.spotify.com/artist/03DDDfXOjkqWelBJntrTpX"
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
         }
       ],
-      "duration_ms": 96293,
-      "name": "Suite in D Minor, HWV 447: Allemande",
-      "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Baroque Masterpieces",
-        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Bach, JS / Orch. Marriner: Was mir behagt, ist nur die muntre Jagd, BWV 208: IX. Schafe k\u00f6nnen sicher weiden",
-      "url": "https://open.spotify.com/track/3l6N2ekLMeS8sCkrPDX3o0"
+      "duration_ms": 188229,
+      "name": "S\u0153ur Monique: 18\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5CBXjtjqToJ3sw0nCPdVDU"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1347,6 +1323,30 @@
       "duration_ms": 155826,
       "name": "Carmen Suite No. 1: Intermezzo",
       "url": "https://open.spotify.com/track/7bf93oDYxqU36lyBhEa3mB"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Baroque Masterpieces",
+        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Bach, JS / Orch. Marriner: Was mir behagt, ist nur die muntre Jagd, BWV 208: IX. Schafe k\u00f6nnen sicher weiden",
+      "url": "https://open.spotify.com/track/3l6N2ekLMeS8sCkrPDX3o0"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
-        "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
-        }
-      ],
-      "duration_ms": 83960,
-      "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
-      "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Carl Philipp Emanuel Bach: Der Fr\u00fchling",
         "url": "https://open.spotify.com/album/6NQDbn1lNvG0A4tzIOjxA0"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 173640,
       "name": "Sinfonia in A Minor for Two Violins and Basso Continuo, Wq. 156: II. Andantino",
       "url": "https://open.spotify.com/track/1vp2VskZV3pl0nM1BaU1ol"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1511,22 +1511,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
+        "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
         }
       ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+      "duration_ms": 83960,
+      "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
+      "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Ravel: Complete Music for Piano Solo/Piano Concertos",
-        "url": "https://open.spotify.com/album/1fey9cYZHl1RsMMZci7GOw"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Werner Haas",
-          "url": "https://open.spotify.com/artist/4iOVIMcUg6zfAPv2Dz01eq"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "A la mani\u00e8re de. . . Chabrier",
-      "url": "https://open.spotify.com/track/0MvyO1DgIlbK4DPoAs1xlE"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Brasil Piano",
         "url": "https://open.spotify.com/album/2iZUelWbdDCPrAJAazJ5Ku"
       },
@@ -1703,26 +1683,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Myslive\u010dek: Symphonies",
-        "url": "https://open.spotify.com/album/3YlNBtwjqIqsDxbrLGY5c5"
+        "name": "Ravel: Complete Music for Piano Solo/Piano Concertos",
+        "url": "https://open.spotify.com/album/1fey9cYZHl1RsMMZci7GOw"
       },
       "artists": [
         {
-          "name": "Josef Myslive\u010dek",
-          "url": "https://open.spotify.com/artist/6wEimu9Okp11rTY8nbbTtR"
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Matthias Bamert",
-          "url": "https://open.spotify.com/artist/0GlFlZLYjxYakEMBgiYvu9"
-        },
-        {
-          "name": "London Mozart Players",
-          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
+          "name": "Werner Haas",
+          "url": "https://open.spotify.com/artist/4iOVIMcUg6zfAPv2Dz01eq"
         }
       ],
-      "duration_ms": 175320,
-      "name": "Symphony in D Major, F. 29: II. Andante grazioso",
-      "url": "https://open.spotify.com/track/1hfm2e2HgCnaYdYnvasxea"
+      "duration_ms": 145000,
+      "name": "A la mani\u00e8re de. . . Chabrier",
+      "url": "https://open.spotify.com/track/0MvyO1DgIlbK4DPoAs1xlE"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1747,6 +1723,30 @@
       "duration_ms": 78066,
       "name": "Kesaillan idylli (Summer Night's Idyll) , Op. 16, No. 2 (arr. J. Panula)",
       "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Myslive\u010dek: Symphonies",
+        "url": "https://open.spotify.com/album/3YlNBtwjqIqsDxbrLGY5c5"
+      },
+      "artists": [
+        {
+          "name": "Josef Myslive\u010dek",
+          "url": "https://open.spotify.com/artist/6wEimu9Okp11rTY8nbbTtR"
+        },
+        {
+          "name": "Matthias Bamert",
+          "url": "https://open.spotify.com/artist/0GlFlZLYjxYakEMBgiYvu9"
+        },
+        {
+          "name": "London Mozart Players",
+          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Symphony in D Major, F. 29: II. Andante grazioso",
+      "url": "https://open.spotify.com/track/1hfm2e2HgCnaYdYnvasxea"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1927,30 +1927,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Almeida: Il trionfo d'amore",
-        "url": "https://open.spotify.com/album/0fGQaihEq7H9sCzNJD9LdR"
-      },
-      "artists": [
-        {
-          "name": "Francisco Ant\u00f3nio de Almeida",
-          "url": "https://open.spotify.com/artist/3AtmOk1lJXMpUth0djfUsx"
-        },
-        {
-          "name": "Os M\u00fasicos do Tejo",
-          "url": "https://open.spotify.com/artist/1A3JCJVu1EVTaMl8MMjns2"
-        },
-        {
-          "name": "Marcos Magalhaes",
-          "url": "https://open.spotify.com/artist/4Bpdg6qEaZGeBQupDLnLkV"
-        }
-      ],
-      "duration_ms": 248826,
-      "name": "Il trionfo d'amore, Introduzione: Introduzione: Sinfonia: Andante",
-      "url": "https://open.spotify.com/track/32OVVEsCddMUoQKoCmiI0r"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Early One Morning",
         "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
@@ -1971,6 +1947,30 @@
       "duration_ms": 180066,
       "name": "Valse lente, Op. 33 (arr. for orchestra)",
       "url": "https://open.spotify.com/track/6t2UFULQXc3N0oO0ujaK39"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Almeida: Il trionfo d'amore",
+        "url": "https://open.spotify.com/album/0fGQaihEq7H9sCzNJD9LdR"
+      },
+      "artists": [
+        {
+          "name": "Francisco Ant\u00f3nio de Almeida",
+          "url": "https://open.spotify.com/artist/3AtmOk1lJXMpUth0djfUsx"
+        },
+        {
+          "name": "Os M\u00fasicos do Tejo",
+          "url": "https://open.spotify.com/artist/1A3JCJVu1EVTaMl8MMjns2"
+        },
+        {
+          "name": "Marcos Magalhaes",
+          "url": "https://open.spotify.com/artist/4Bpdg6qEaZGeBQupDLnLkV"
+        }
+      ],
+      "duration_ms": 248826,
+      "name": "Il trionfo d'amore, Introduzione: Introduzione: Sinfonia: Andante",
+      "url": "https://open.spotify.com/track/32OVVEsCddMUoQKoCmiI0r"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2171,26 +2171,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Schumann: Album for the Young",
-        "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Vladimir Feltsman",
-          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
-        }
-      ],
-      "duration_ms": 76746,
-      "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
-      "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
         "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
       },
@@ -2211,6 +2191,26 @@
       "duration_ms": 198333,
       "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
       "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Schumann: Album for the Young",
+        "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Feltsman",
+          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
+        }
+      ],
+      "duration_ms": 76746,
+      "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
+      "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
     },
     {
       "added_at": "2022-07-22 04:01:00",

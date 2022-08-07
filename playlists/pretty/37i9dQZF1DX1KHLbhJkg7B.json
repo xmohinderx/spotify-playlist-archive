@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Ashley McBryde",
-  "num_followers": 75231,
+  "num_followers": 75309,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGJkYTA2NTI3YzlkOGUxMGZlZDY0NzZmZjc5MWFiNDIw",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGFiZmRlOWI4NmY4ZGZmMDQ3ZWNmYzhkYjdmM2Q3NDk3",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "rainbow",
-        "url": "https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 202835,
-      "name": "rainbow",
-      "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 212666,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "rainbow",
+        "url": "https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 202835,
+      "name": "rainbow",
+      "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
-      },
-      "artists": [
-        {
-          "name": "Rayne Johnson",
-          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 217659,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
+      },
+      "artists": [
+        {
+          "name": "Rayne Johnson",
+          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "No Holdin' Back",
-        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "It's Just a Matter of Time",
-      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Die a Happy Man",
         "url": "https://open.spotify.com/album/2HL3GgGShK9spfzvhGcHM4"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 214495,
       "name": "Die a Happy Man",
       "url": "https://open.spotify.com/track/1mExCoXAGKI6abLGXoG7O3"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "No Holdin' Back",
+        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "It's Just a Matter of Time",
+      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
     },
     {
       "added_at": "2022-08-05 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A soft and slow jazz soundtrack to play in the background to all your activities.",
-  "num_followers": 34029,
+  "num_followers": 34133,
   "original_name": "Soft Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjQwMCwwMDAwMDAwMDJiODgwY2ZlNmI3NWU2ZmM0MGUzZWRkOTRjMDY3OGI1",
+  "snapshot_id": "MTY1NjYyNjQwMCwwMDAwMDAwMDNiMTQyNDVjMWU1NzllYWRmM2Y4NzQ1MzA3NTA0MDIw",
   "tracks": [
     {
       "added_at": "2022-06-30 22:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-06-30 22:00:00",
       "album": {
+        "name": "See You At The Fair",
+        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 282840,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/69XmGDda7Gd8UITZ80n1HD"
+    },
+    {
+      "added_at": "2022-06-30 22:00:00",
+      "album": {
         "name": "Times Revisited",
         "url": "https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 340360,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/3grDvmv5ZBQhcVoAXAjlB1"
-    },
-    {
-      "added_at": "2022-06-30 22:00:00",
-      "album": {
-        "name": "See You At The Fair",
-        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 282840,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/69XmGDda7Gd8UITZ80n1HD"
     },
     {
       "added_at": "2022-06-30 22:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-06-30 22:00:00",
       "album": {
-        "name": "At The Blue Note",
-        "url": "https://open.spotify.com/album/6sJLTN1J3PhPQ0OybVsqVz"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 549093,
-      "name": "How Long Has This Been Going On",
-      "url": "https://open.spotify.com/track/4SVw0yf2lf4JwtXAoTkbmB"
-    },
-    {
-      "added_at": "2022-06-30 22:00:00",
-      "album": {
         "name": "The Now",
         "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 302640,
       "name": "The Wind In The Night",
       "url": "https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN"
+    },
+    {
+      "added_at": "2022-06-30 22:00:00",
+      "album": {
+        "name": "At The Blue Note",
+        "url": "https://open.spotify.com/album/6sJLTN1J3PhPQ0OybVsqVz"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 549093,
+      "name": "How Long Has This Been Going On",
+      "url": "https://open.spotify.com/track/4SVw0yf2lf4JwtXAoTkbmB"
     },
     {
       "added_at": "2022-06-30 22:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-06-30 22:00:00",
       "album": {
+        "name": "Stay Now",
+        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "duration_ms": 190634,
+      "name": "Down and Out",
+      "url": "https://open.spotify.com/track/61oeoAAPUXdhZZjq9F93g0"
+    },
+    {
+      "added_at": "2022-06-30 22:00:00",
+      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 299046,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/0GGvzr8DvHlwkkDsxX97Mm"
-    },
-    {
-      "added_at": "2022-06-30 22:00:00",
-      "album": {
-        "name": "Stay Now",
-        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
-      },
-      "artists": [
-        {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        }
-      ],
-      "duration_ms": 190634,
-      "name": "Down and Out",
-      "url": "https://open.spotify.com/track/61oeoAAPUXdhZZjq9F93g0"
     },
     {
       "added_at": "2022-06-30 22:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-06-30 22:00:00",
       "album": {
+        "name": "Plays Charles Mingus",
+        "url": "https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f"
+      },
+      "artists": [
+        {
+          "name": "Peter Nordahl Trio",
+          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
+        }
+      ],
+      "duration_ms": 191518,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/77BESrsUN386SrjEA7siB5"
+    },
+    {
+      "added_at": "2022-06-30 22:00:00",
+      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/2ZBNoT9NQK9zv6xFDuk2z8"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 445520,
       "name": "Round Midnight",
       "url": "https://open.spotify.com/track/0ZXeZe8avZyPZIhfGJdt4I"
-    },
-    {
-      "added_at": "2022-06-30 22:00:00",
-      "album": {
-        "name": "For Lonely Lovers",
-        "url": "https://open.spotify.com/album/7C0U90ZfIzSYNpPu4gFyzD"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "The Sun Forgot To Shine This Morning",
-      "url": "https://open.spotify.com/track/1PFa49yuGnGXRrHcuvE3Fx"
     },
     {
       "added_at": "2022-06-30 22:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-06-30 22:00:00",
       "album": {
-        "name": "Plays Charles Mingus",
-        "url": "https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f"
+        "name": "For Lonely Lovers",
+        "url": "https://open.spotify.com/album/7C0U90ZfIzSYNpPu4gFyzD"
       },
       "artists": [
         {
-          "name": "Peter Nordahl Trio",
-          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 191518,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/77BESrsUN386SrjEA7siB5"
+      "duration_ms": 160000,
+      "name": "The Sun Forgot To Shine This Morning",
+      "url": "https://open.spotify.com/track/1PFa49yuGnGXRrHcuvE3Fx"
     },
     {
       "added_at": "2022-06-30 22:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-06-30 22:00:00",
       "album": {
-        "name": "But Beautiful",
-        "url": "https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 170693,
-      "name": "For Heaven's Sake",
-      "url": "https://open.spotify.com/track/4kAwnSBZKNrCVwjwZnVNgf"
-    },
-    {
-      "added_at": "2022-06-30 22:00:00",
-      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 187500,
       "name": "It Might As Well Be Spring",
       "url": "https://open.spotify.com/track/2ZEkwS2dzMcOlBbl8Twr3h"
+    },
+    {
+      "added_at": "2022-06-30 22:00:00",
+      "album": {
+        "name": "But Beautiful",
+        "url": "https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 170693,
+      "name": "For Heaven's Sake",
+      "url": "https://open.spotify.com/track/4kAwnSBZKNrCVwjwZnVNgf"
     },
     {
       "added_at": "2022-06-30 22:00:00",
@@ -1731,30 +1731,6 @@
     {
       "added_at": "2022-06-30 22:00:00",
       "album": {
-        "name": "TRIO",
-        "url": "https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj"
-      },
-      "artists": [
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
-        },
-        {
-          "name": "Bill Cunliffe",
-          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
-        }
-      ],
-      "duration_ms": 328542,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/1ho1wV4HROG8ZzJwLrMe3E"
-    },
-    {
-      "added_at": "2022-06-30 22:00:00",
-      "album": {
         "name": "Yesterdays",
         "url": "https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX"
       },
@@ -1775,6 +1751,30 @@
       "duration_ms": 475213,
       "name": "You've Changed - Live",
       "url": "https://open.spotify.com/track/7HleoJP6ECvm5m7AJBDwgT"
+    },
+    {
+      "added_at": "2022-06-30 22:00:00",
+      "album": {
+        "name": "TRIO",
+        "url": "https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj"
+      },
+      "artists": [
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        },
+        {
+          "name": "Bill Cunliffe",
+          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
+        }
+      ],
+      "duration_ms": 328542,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/1ho1wV4HROG8ZzJwLrMe3E"
     },
     {
       "added_at": "2022-06-30 22:00:00",
@@ -1843,42 +1843,6 @@
     {
       "added_at": "2022-06-30 22:00:00",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 233920,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/6R9A3kC2pDbqUe2FpUZW4D"
-    },
-    {
-      "added_at": "2022-06-30 22:00:00",
-      "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 618733,
-      "name": "My Old Flame",
-      "url": "https://open.spotify.com/track/5yZSSjUOsrp36P5uKdvuj8"
-    },
-    {
-      "added_at": "2022-06-30 22:00:00",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
       },
@@ -1891,6 +1855,22 @@
       "duration_ms": 447813,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/1MuKiBMhJ1vuK2HGGyQkDS"
+    },
+    {
+      "added_at": "2022-06-30 22:00:00",
+      "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/6R9A3kC2pDbqUe2FpUZW4D"
     },
     {
       "added_at": "2022-06-30 22:00:00",
@@ -1931,6 +1911,26 @@
     {
       "added_at": "2022-06-30 22:00:00",
       "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 618733,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/5yZSSjUOsrp36P5uKdvuj8"
+    },
+    {
+      "added_at": "2022-06-30 22:00:00",
+      "album": {
         "name": "Duke's In Bed",
         "url": "https://open.spotify.com/album/39Q7MYB7Mlx4I6JW3Sjuqu"
       },
@@ -1943,6 +1943,30 @@
       "duration_ms": 380933,
       "name": "Black And Tan Fantasy",
       "url": "https://open.spotify.com/track/1catkf1CzRuytuhmGmq1EO"
+    },
+    {
+      "added_at": "2022-06-30 22:00:00",
+      "album": {
+        "name": "Golden Treasures",
+        "url": "https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4"
+      },
+      "artists": [
+        {
+          "name": "Ari Hoenig",
+          "url": "https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz"
+        },
+        {
+          "name": "Gadi Lehavi",
+          "url": "https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o"
+        },
+        {
+          "name": "Ben Tiberio",
+          "url": "https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos"
+        }
+      ],
+      "duration_ms": 382840,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/0sS3JwPSdyWg3d52KnPLsJ"
     },
     {
       "added_at": "2022-06-30 22:00:00",
@@ -1975,30 +1999,6 @@
       "duration_ms": 136800,
       "name": "Lullaby In Rhythm",
       "url": "https://open.spotify.com/track/25zqKQdQJhxFus3X0BPWD3"
-    },
-    {
-      "added_at": "2022-06-30 22:00:00",
-      "album": {
-        "name": "Golden Treasures",
-        "url": "https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4"
-      },
-      "artists": [
-        {
-          "name": "Ari Hoenig",
-          "url": "https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz"
-        },
-        {
-          "name": "Gadi Lehavi",
-          "url": "https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o"
-        },
-        {
-          "name": "Ben Tiberio",
-          "url": "https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos"
-        }
-      ],
-      "duration_ms": 382840,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/0sS3JwPSdyWg3d52KnPLsJ"
     },
     {
       "added_at": "2022-06-30 22:00:00",

@@ -4,7 +4,7 @@
 
 > New music from DJ Khaled featuring Drake and Lil Baby.
 
-1,297 songs - 2 day 18 hr 48 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,298 songs - 2 day 18 hr 51 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,8 @@
 | [Flux Capacitor](https://open.spotify.com/track/1PL4eTnRS9bdjDtPJrmj3Y) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 3:26 | 2020-03-14 | 2020-03-20 |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2019-10-26 | 2020-01-27 |
 | [FOR A NUT \(feat\. Gunna & Young Thug\)](https://open.spotify.com/track/7HCX1Ch3mklJyEdpwPZBFW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:27 | 2022-04-29 | 2022-05-03 |
-| [FOR FUN](https://open.spotify.com/track/7f9dQeHzjzIrYScfX2qUYI) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/3kHCoyDcYW8ey4NXliEIEd) | 3:08 | 2022-07-29 |  |
+| [FOR FUN](https://open.spotify.com/track/60PTOzcoFycWBICdumIsFQ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/4aTdfh8F07U59ClqhljKHp) | 3:08 | 2022-07-29 |  |
+| [FOR FUN](https://open.spotify.com/track/7f9dQeHzjzIrYScfX2qUYI) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/3kHCoyDcYW8ey4NXliEIEd) | 3:08 | 2022-07-29 | 2022-08-07 |
 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 | 2020-07-03 | 2020-12-04 |
 | [For The Record](https://open.spotify.com/track/3lX5UcFfiktbeuIzYSBUlQ) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [For The Record](https://open.spotify.com/album/2vtPJRJkknLhVrZnMJQJsD) | 3:09 | 2021-10-02 | 2021-10-08 |
 | [For The Record](https://open.spotify.com/track/7muCbQ50cXlYgDuYQo4fr4) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [For The Record](https://open.spotify.com/album/18zJI0OjYmtDjG8qzn1G7x) | 3:09 | 2021-10-08 | 2021-10-09 |

@@ -4,7 +4,7 @@
 
 > Late night chilled vibes, for those intimate moments.
 
-189 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
+190 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [I Want Babies](https://open.spotify.com/track/1ecFat6lAhe05vVZZwCxLJ) | [Yasmin Green](https://open.spotify.com/artist/2UWEzvq7cBIcPt5Z9AwD1Y) | [After All These Years](https://open.spotify.com/album/2EuxgPxmcwNwtemgDrmtJV) | 3:26 | 2022-03-21 | 2022-06-07 |
 | [I Want It](https://open.spotify.com/track/2m8IJNtx07QEeLI9XBW9Ql) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [I Want It](https://open.spotify.com/album/0Qunl0uObzKqJcxU9T99h8) | 2:48 | 2022-07-12 |  |
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2022-07-17 |  |
+| [if you got a problem](https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 | 2022-07-17 |  |
 | [if you got a problem](https://open.spotify.com/track/6SA3uHu5KES0z0xhTc9kwW) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [if you got a problem](https://open.spotify.com/album/1UBnfxwTJCoMzc8pSveyR2) | 3:06 | 2022-03-21 | 2022-07-22 |
 | [Im Workin \(feat\. Jorja Smith\)](https://open.spotify.com/track/4cqjB1MFbHYmCzN6ENAbOV) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Now Or Never](https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT) | 5:19 | 2022-03-21 | 2022-06-08 |
 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 | 2022-07-17 |  |
@@ -171,7 +172,7 @@
 | [Take a Trip](https://open.spotify.com/track/36tukOcb9HLucoY7hmZjxd) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i) | [Take a Trip](https://open.spotify.com/album/1M2cYEp1MdaWmuEz2OHFsG) | 2:52 | 2022-07-12 | 2022-07-18 |
 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 | 2022-03-21 | 2022-07-27 |
 | [The Most Beautiful Thing](https://open.spotify.com/track/5unXHHcSQLGO19RuVqZB6d) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:55 | 2022-07-17 |  |
-| [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/album/5aCUZAQz1bDC3txTnqDm5N) | 4:04 | 2022-03-21 |  |
+| [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/album/5aCUZAQz1bDC3txTnqDm5N) | 4:04 | 2022-03-21 | 2022-08-07 |
 | [To Taste The Divine](https://open.spotify.com/track/1nVNewVFnEgwduK6Q5iDve) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Taste The Divine](https://open.spotify.com/album/3bs6w2b6yMTGOfz0A0WNib) | 2:40 | 2022-03-21 | 2022-07-28 |
 | [Two Steps](https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM) | 4:02 | 2022-03-21 | 2022-07-29 |
 | [Uh Huh Okay \(Remix\)](https://open.spotify.com/track/5vLBaq5dQezK5rDb6KMzv3) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Uh Huh Okay \(Remix\)](https://open.spotify.com/album/7rdHBe5L4dFHtLjzdUuYhW) | 4:14 | 2022-03-21 | 2022-07-04 |

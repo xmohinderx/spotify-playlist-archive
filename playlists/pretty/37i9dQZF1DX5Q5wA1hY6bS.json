@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1475153,
+  "num_followers": 1475182,
   "original_name": "Wild + Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY4NDczNywwMDAwMDAwMGE3N2YxZjJlMGRiYzljOGUyYzU1OTA5MDg2MTk0OGMy",
+  "snapshot_id": "MTY1MzY4NDczNywwMDAwMDAwMDFkMzg1OGUyOGRhOTQ5YmVkMDJjMmY1OWFmNzg4YmUx",
   "tracks": [
     {
       "added_at": "2022-05-27 20:52:17",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
+        "name": "Happier Than Me",
+        "url": "https://open.spotify.com/album/37Zn2PTvO7PWLyI9oAAghf"
+      },
+      "artists": [
+        {
+          "name": "Cereus Bright",
+          "url": "https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/0xMap5BgUlVMGJLa1d7x5P"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
         "name": "I Forget Myself (feat. Darlingside)",
         "url": "https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 212146,
       "name": "I Forget Myself (feat. Darlingside)",
       "url": "https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
-        "name": "Happier Than Me",
-        "url": "https://open.spotify.com/album/37Zn2PTvO7PWLyI9oAAghf"
-      },
-      "artists": [
-        {
-          "name": "Cereus Bright",
-          "url": "https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Stella",
-      "url": "https://open.spotify.com/track/0xMap5BgUlVMGJLa1d7x5P"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
         "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
         "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 291533,
       "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
       "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
-        "name": "Let's Be Still",
-        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -1051,6 +1051,38 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 142840,
+      "name": "Loose Change",
+      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -1099,54 +1131,6 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
-      },
-      "artists": [
-        {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 142840,
-      "name": "Loose Change",
-      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/58GSV5f6YqrgpWOpAku2Ic"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Never Be Ourselves",
-      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 151906,
       "name": "Lottery",
       "url": "https://open.spotify.com/track/5F3QLG5Vnc1kT02PM9Mk37"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Never Be Ourselves",
+      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
         "name": "The Order Of Time",
         "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 166440,
       "name": "Shakedown",
       "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "Saturn Return",
-        "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 257167,
-      "name": "Hand Over My Heart",
-      "url": "https://open.spotify.com/track/0aZWB3kDIqotHPJcUZZkvC"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
         "name": "Dancing For The Answers - EP",
         "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 216753,
       "name": "Punta Cometa - Dancing For The Answers Alt Version",
       "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 257167,
+      "name": "Hand Over My Heart",
+      "url": "https://open.spotify.com/track/0aZWB3kDIqotHPJcUZZkvC"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 254245,
-      "name": "A Random Act Of Kindness",
-      "url": "https://open.spotify.com/track/5GepgBdAV6eI3RoijuHZua"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
         "name": "The Pool",
         "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 190600,
       "name": "Like a Wave",
       "url": "https://open.spotify.com/track/0p3bGYYZTf75CskrmGwpVi"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 254245,
+      "name": "A Random Act Of Kindness",
+      "url": "https://open.spotify.com/track/5GepgBdAV6eI3RoijuHZua"
     },
     {
       "added_at": "2022-05-27 20:52:17",

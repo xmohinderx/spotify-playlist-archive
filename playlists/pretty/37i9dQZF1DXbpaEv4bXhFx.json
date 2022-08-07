@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 3911,
+  "num_followers": 3960,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2MzE4NSwwMDAwMDAwMGUyN2IyMDIyMzVhYzk1NjM4NzBlNTljMWJjYjM4ZWMz",
+  "snapshot_id": "MTY1OTQ2MzE4NSwwMDAwMDAwMDA4MDVhODQwOTRiNWZhYmE3OTkzZWRkNTMxZDRiOWUx",
   "tracks": [
     {
       "added_at": "2022-08-02 17:59:45",
@@ -487,18 +487,18 @@
     {
       "added_at": "2022-08-02 17:59:45",
       "album": {
-        "name": "Rain Song",
-        "url": "https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi"
+        "name": "Fall in Love Again",
+        "url": "https://open.spotify.com/album/6udqW4k67GIeTy0M7alLZX"
       },
       "artists": [
         {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Rain Song",
-      "url": "https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq"
+      "duration_ms": 218700,
+      "name": "Fall in Love Again",
+      "url": "https://open.spotify.com/track/3HjKfAEeG40jBKIuUlJlGK"
     },
     {
       "added_at": "2022-08-02 17:59:45",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-08-02 17:59:45",
       "album": {
-        "name": "Fall in Love Again",
-        "url": "https://open.spotify.com/album/6udqW4k67GIeTy0M7alLZX"
+        "name": "Rain Song",
+        "url": "https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi"
       },
       "artists": [
         {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
         }
       ],
-      "duration_ms": 218700,
-      "name": "Fall in Love Again",
-      "url": "https://open.spotify.com/track/3HjKfAEeG40jBKIuUlJlGK"
+      "duration_ms": 241440,
+      "name": "Rain Song",
+      "url": "https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq"
     },
     {
       "added_at": "2022-08-02 17:59:45",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-02 17:59:45",
       "album": {
-        "name": "Oh, My Sun",
-        "url": "https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi"
-      },
-      "artists": [
-        {
-          "name": "Kevin Oh",
-          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
-        }
-      ],
-      "duration_ms": 287386,
-      "name": "Oh, My Sun",
-      "url": "https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW"
-    },
-    {
-      "added_at": "2022-08-02 17:59:45",
-      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
+    },
+    {
+      "added_at": "2022-08-02 17:59:45",
+      "album": {
+        "name": "Oh, My Sun",
+        "url": "https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi"
+      },
+      "artists": [
+        {
+          "name": "Kevin Oh",
+          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
+        }
+      ],
+      "duration_ms": 287386,
+      "name": "Oh, My Sun",
+      "url": "https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW"
     },
     {
       "added_at": "2022-08-02 17:59:45",

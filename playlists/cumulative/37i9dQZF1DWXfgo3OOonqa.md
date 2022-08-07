@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-500 songs - 22 hr 30 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+503 songs - 22 hr 36 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [C'est La Vie](https://open.spotify.com/track/3NUHbbHRlfmPrplPfs0bMk) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [C'est La Vie](https://open.spotify.com/album/4TetvRlfTHlzTuBYK5L86P) | 3:09 | 2022-05-26 | 2022-06-17 |
 | [Ca Va](https://open.spotify.com/track/2rLLw6DD88EnLrRfVk0fhu) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [Ca Va/Pa](https://open.spotify.com/album/0YqOBA39Otp1yUfrTqGRPo) | 2:36 | 2022-06-17 | 2022-07-08 |
 | [CANADA](https://open.spotify.com/track/7ClsPaYYi8mKrV8YT813gI) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [BIG CITY DREAMS](https://open.spotify.com/album/6GBUPkV6xLo5YLa8GyamBS) | 2:59 | 2021-12-16 | 2022-01-07 |
+| [Capishe](https://open.spotify.com/track/3be1khBL4692zorEmb7F69) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Capishe](https://open.spotify.com/album/3IbaNoob48YS3cNojGGhdC) | 2:22 | 2022-08-05 |  |
 | [Capitano](https://open.spotify.com/track/1QGxDySCmChe56eRQr3EUd) | [Madi Banja](https://open.spotify.com/artist/0LdzDrRc2RESpGqwyhbE3t) | [Capitano](https://open.spotify.com/album/1TUQbu2gs8FFENZlf7sCUp) | 3:20 | 2022-03-16 | 2022-04-22 |
 | [Casa de papel \(feat\. Asme\)](https://open.spotify.com/track/6GJS8UQTS1UGwKXlpbmpzC) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:28 | 2021-12-16 | 2022-01-20 |
 | [Casa Mia De Papel](https://open.spotify.com/track/3XZhVezhJfhsxEXA6JF70P) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [Casa Mia De Papel](https://open.spotify.com/album/6xPQrZUhVQy46O4LKwmcco) | 2:16 | 2022-07-07 |  |
@@ -477,6 +478,7 @@
 | [Vacker](https://open.spotify.com/track/0lIUJSC8eyYXwCbf9chmNY) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:29 | 2022-04-28 | 2022-05-12 |
 | [VAD E DE HÄR?](https://open.spotify.com/track/30wWZkgDfUCugZlBiaDCax) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [VAD E DE HÄR?](https://open.spotify.com/album/7c5UGlBUaND72lQ8lMesHv) | 2:41 | 2022-07-14 |  |
 | [Vant Mig](https://open.spotify.com/track/3cJA0GAQorbqIIZcOU5iNi) | [Karim Alger](https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW) | [KARIMO](https://open.spotify.com/album/6dmKNqyiMgp26yJ3EIyuvq) | 2:33 | 2022-01-20 | 2022-03-05 |
+| [Vara jag](https://open.spotify.com/track/4uNqbRT4aZDcVQMfrg6RUP) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Vara jag](https://open.spotify.com/album/2rgcBjdReUbm1x0q219YtJ) | 2:06 | 2022-08-05 |  |
 | [VCFlow](https://open.spotify.com/track/00rbTsnO3TzW6nOa1Ka9Od) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [VCFlow](https://open.spotify.com/album/1NZqbv9DLeea5t7gQCXP2q) | 3:02 | 2022-01-25 | 2022-03-25 |
 | [Vcflow2](https://open.spotify.com/track/09WFWi9nnZwP8jTLmFOgCA) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Young&Strapped](https://open.spotify.com/album/5jQeVs9qODgBoddT5zsowp) | 2:51 | 2022-06-01 | 2022-06-03 |
 | [Vem](https://open.spotify.com/track/0cRbjCCSelwAXsBOwnbbm7) | [Darwish](https://open.spotify.com/artist/4zXkg84gmjznoYg1ueWoc2) | [Vem](https://open.spotify.com/album/0vNQlUIkZqkBAMqcnqRxHM) | 3:00 | 2022-07-21 |  |
@@ -506,6 +508,7 @@
 | [Young 22](https://open.spotify.com/track/3e5A5YzIZ8RqieoVYkJHbD) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Young 22](https://open.spotify.com/album/6Luyszm1YWHAhptPEynPgt) | 2:30 | 2022-01-20 | 2022-04-15 |
 | [YSL](https://open.spotify.com/track/24eYDhsJKJXf0KS3z2uYkX) | [Ozzy](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [YSL](https://open.spotify.com/album/1fDZ5ZSpl2V4u9vXAfDQGB) | 3:11 | 2022-05-12 | 2022-07-08 |
 | [Zoo](https://open.spotify.com/track/7tuPdKiqInoAO6LJ0rN5YQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Zoo](https://open.spotify.com/album/3Yo9TFSeGrUPaXqEo81P2l) | 2:22 | 2022-03-24 | 2022-04-22 |
+| [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 | 2022-08-05 |  |
 | [Ängel](https://open.spotify.com/track/1dQhhmvIBkiLUlcyABE5OZ) | [SEEY](https://open.spotify.com/artist/6lrja2wwYPKdLR1jNP9xyI) | [Ängel](https://open.spotify.com/album/616mjtw8nEIon8hxSt6tzV) | 2:04 | 2022-06-02 | 2022-06-10 |
 | [ÅSKAN](https://open.spotify.com/track/4khoHMcdF6vOB2AOHSMD5m) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [ÅSKAN](https://open.spotify.com/album/7sg6Iv0G5Xj4VjUUaSbm7t) | 2:53 | 2021-12-16 | 2022-02-11 |
 

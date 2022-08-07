@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🌸
 
-249 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
+250 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Coffee Breath](https://open.spotify.com/track/2I9zHCCeKJRKMgJ6UJFN9W) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/7q0mdGYnuhBbn1hb4rNmG4) | 2:43 | 2021-06-08 | 2022-07-29 |
 | [Coffee Stained Smile](https://open.spotify.com/track/3VmuRlPx5dLJEmZcIiY6LQ) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Coffee Stained Smile](https://open.spotify.com/album/3VsVKGZW2klawfXy08IsZm) | 3:00 | 2021-12-10 | 2022-07-28 |
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2021-12-23 | 2022-07-29 |
-| [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 | 2021-06-08 |  |
+| [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 | 2021-06-08 | 2022-08-07 |
 | [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 1:48 | 2021-06-08 | 2022-04-16 |
 | [Corduroy Dreams](https://open.spotify.com/track/02tvc9CFnTyHuSRlGeNv9w) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 3:26 | 2021-06-08 |  |
 | [Cotton Candy Skies](https://open.spotify.com/track/4yWCiMOk150jbE3NPuhXHu) | [Esthie](https://open.spotify.com/artist/5IrblMK9l8xH7vPTkN8SxR) | [Cotton Candy Skies](https://open.spotify.com/album/10SexaHKbNzujvSr4FItnk) | 2:00 | 2021-06-08 | 2022-04-14 |
@@ -233,6 +233,7 @@
 | [Tomorrow](https://open.spotify.com/track/7BKwEybys8ZWeYCMykvUrL) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Tomorrow](https://open.spotify.com/album/77Xaj1yittcrI9g7PWbXxq) | 2:08 | 2021-08-20 | 2022-06-04 |
 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 | 2021-09-17 | 2022-07-28 |
 | [Ultimately](https://open.spotify.com/track/0I0ZackSSk90oGUJtfKnJd) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Autumn's End](https://open.spotify.com/album/2tGYgOBYVwd8N1e5jBmJqY) | 2:22 | 2021-06-08 | 2022-04-21 |
+| [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-19 |  |
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-08-27 | 2022-07-22 |
 | [virgo](https://open.spotify.com/track/6DG3LXLQjz8Z9QvWGkf6gS) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc) | [virgo](https://open.spotify.com/album/76y9hFJoA7pgX2upWuwcE5) | 1:01 | 2021-06-08 | 2022-04-17 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2021-06-08 |  |

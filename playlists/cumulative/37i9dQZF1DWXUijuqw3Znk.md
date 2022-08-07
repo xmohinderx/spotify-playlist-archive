@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-320 songs - 18 hr 45 min - [published](https://open.spotify.com/playlist/2ficOkbgvrKWFtT4FiaV9N)
+321 songs - 18 hr 48 min - [published](https://open.spotify.com/playlist/2ficOkbgvrKWFtT4FiaV9N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Drama \(prod\. Kidstone\)](https://open.spotify.com/track/1O7B5qXJNerHlouNYQnNFK) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Never](https://open.spotify.com/album/7Ch8RqlX6xkhKOO13YaFcn) | 3:06 | 2022-05-11 | 2022-07-28 |
 | [Dream Chaser](https://open.spotify.com/track/0xhgq74P8mfT91TWat0fZV) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/0jwKufwplmqcfVNSFdm5co) | 4:33 | 2022-05-11 | 2022-07-26 |
 | [Dream Chaser](https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9) | 4:33 | 2022-07-22 |  |
-| [dreamin'](https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:20 | 2022-05-11 |  |
+| [dreamin'](https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:20 | 2022-05-11 | 2022-08-07 |
 | [El Dorado \(Feat\. Swervy\)](https://open.spotify.com/track/5irjZILh9ts7fWwpqU2DiU) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:18 | 2022-07-22 | 2022-07-28 |
 | [ENGINE](https://open.spotify.com/track/7m0AVCxRcpR8Q5j1tUICVT) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/4vDAFQNHJfcpq8sK4Ggop2) | 3:40 | 2022-05-11 | 2022-07-29 |
 | [ENGINE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1) | 3:40 | 2022-07-22 |  |
@@ -110,6 +110,7 @@
 | [GNGB](https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:14 | 2022-05-11 | 2022-07-29 |
 | [Go, dude !](https://open.spotify.com/track/1YWO7jS4KEyIW8aZvHcba2) | [ChaMane](https://open.spotify.com/artist/2jyURAEr7r2UfWMpFQDOQd) | [26](https://open.spotify.com/album/4S72a69hZrCFmoPzclt3QR) | 2:28 | 2022-05-11 | 2022-07-28 |
 | [Going Home \(feat\. Koonta\)](https://open.spotify.com/track/3eNvKpsWbefSkN2PReDxPf) | [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Going Home](https://open.spotify.com/album/4Bhx96JxhZK8hiEhIpCNA0) | 3:17 | 2022-05-11 | 2022-07-27 |
+| [Going Home \(feat\. Koonta\)](https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq) | [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Going Home](https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG) | 3:17 | 2022-07-22 |  |
 | [Goliath](https://open.spotify.com/track/2Bt8coDMy6hRHlI0pblFJO) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Goliath](https://open.spotify.com/album/0HicYrogMGpsUABO8atO2q) | 3:11 | 2022-05-11 | 2022-07-29 |
 | [Good Day](https://open.spotify.com/track/72F9GGy4X7Q1EwagZdvNcU) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 777 \(Episode 1\)](https://open.spotify.com/album/3Heh3t93xHF918mqcIi0QB) | 4:26 | 2022-05-11 | 2022-07-29 |
 | [Good Day \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/6CxxgFhfvh5uz6h4l0ltzP) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 777 Episode 1](https://open.spotify.com/album/6yr53YySD8G0GRwveBg835) | 4:26 | 2022-07-22 |  |

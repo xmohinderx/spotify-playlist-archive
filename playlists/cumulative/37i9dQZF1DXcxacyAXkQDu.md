@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-756 songs - 1 day 20 hr 53 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+757 songs - 1 day 20 hr 59 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Focus](https://open.spotify.com/track/5ChQHJhW6RHf10bmmmrTsB) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:14 | 2021-12-21 | 2022-07-21 |
 | [Follow My Voice](https://open.spotify.com/track/6J5XDjKMhyWbIBW8JkLXFL) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1fA7zjpDoE4aBNSgGQ7dVa) | 4:02 | 2022-03-24 | 2022-04-21 |
 | [Fool For You](https://open.spotify.com/track/4eECaktwFUcoBwdhuukv6d) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 3:16 | 2021-12-21 |  |
-| [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 | 2022-07-08 |  |
+| [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 | 2022-07-08 | 2022-08-07 |
 | [Fool's Gold](https://open.spotify.com/track/7kAxc7ZfkPiCWSZBD5ed6F) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Fool's Gold](https://open.spotify.com/album/0EaZIiPjCpZoODnTuzSroH) | 4:14 | 2022-03-24 | 2022-04-21 |
 | [Footprints](https://open.spotify.com/track/6W1WqOE3Wd5AnZbL149Xfy) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Footprints](https://open.spotify.com/album/5vk7PQrawbv5FJtWHYUK9i) | 4:13 | 2022-03-24 | 2022-04-20 |
 | [For a While](https://open.spotify.com/track/4w051WDUnlgzmR1IZeSgLL) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:54 | 2022-07-08 |  |
@@ -695,6 +695,7 @@
 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 | 2021-12-21 | 2022-02-08 |
 | [Until The Hurting Is Gone](https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:17 | 2021-12-21 |  |
 | [Us \- Acoustic](https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Us \(Acoustic\)](https://open.spotify.com/album/4RZ3Ux3PeYeKXXH8MuEuu4) | 3:55 | 2022-01-07 | 2022-07-29 |
+| [Used To Be Friends](https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Used To Be Friends](https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix) | 5:35 | 2022-08-05 |  |
 | [Vagabond](https://open.spotify.com/track/3HAgxyWGeJtIVabS2mTREt) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/4bYZ9xpRDgpOn6qUWLngTr) | 2:09 | 2022-03-24 | 2022-03-28 |
 | [Velvet Rope](https://open.spotify.com/track/2u6dedaqZJeVFvqCTA0Qdm) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Velvet Rope](https://open.spotify.com/album/1URgkN0S62c0OW4kjpYFiZ) | 3:55 | 2021-12-21 | 2022-07-26 |
 | [Voyage V3](https://open.spotify.com/track/2Rh8cdeHwcKZk6wk0BbhhF) | [Savastino Contempi](https://open.spotify.com/artist/0V6bVTzVmG0nTi8rczvOrp), [Marcos](https://open.spotify.com/artist/2l6mY4VmNc4dImbNilgd5O) | [By The Seaside \(Vol 2\)](https://open.spotify.com/album/0g8FK5yjAMJoUiZDPi8bYX) | 5:23 | 2022-03-24 | 2022-04-12 |

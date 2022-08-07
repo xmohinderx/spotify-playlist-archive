@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-870 songs - 1 day 20 hr 40 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+871 songs - 1 day 20 hr 43 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,7 +675,8 @@
 | [Rapina \(feat\. Neima Ezza\)](https://open.spotify.com/track/6DQeNYWn9lbwxeYAXzu7IE) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 4:34 | 2021-05-16 | 2021-05-20 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-06-04 | 2021-07-04 |
 | [READY \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Geolier\)](https://open.spotify.com/track/5Qx8VrR6QozxZEspfWNLuC) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [READY \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Geolier\)](https://open.spotify.com/album/13JGTDaeD5wsixzkFSTPGq) | 3:52 | 2021-11-28 | 2021-11-30 |
-| [Regina del Block](https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Regina del Block](https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD) | 3:18 | 2022-08-05 |  |
+| [Regina del Block](https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Regina del Block](https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD) | 3:18 | 2022-08-05 | 2022-08-07 |
+| [Regina del Block](https://open.spotify.com/track/5PsnJqZWXfBqcXYCVTIZhZ) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 3:18 | 2022-08-06 |  |
 | [REPLAY](https://open.spotify.com/track/66b96Q6ljSGILgrtgqvPMH) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:11 | 2022-04-09 | 2022-04-18 |
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-05-25 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-10 | 2021-12-27 |

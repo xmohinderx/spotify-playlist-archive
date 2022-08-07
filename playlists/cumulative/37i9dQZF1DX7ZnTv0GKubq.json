@@ -1624,6 +1624,24 @@
     },
     {
       "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
+    },
+    {
+      "album": {
         "name": "if you got a problem",
         "url": "https://open.spotify.com/album/1UBnfxwTJCoMzc8pSveyR2"
       },
@@ -3241,7 +3259,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-07",
       "duration_ms": 244883,
       "name": "The Other Lover (Little Dragon & Moses Sumney)",
       "url": "https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc"

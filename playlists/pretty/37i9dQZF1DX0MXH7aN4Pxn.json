@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 688151,
+  "num_followers": 688190,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTcyODg2NiwwMDAwMDAwMGExMTg2NzZkNjc0NzQ2NGMwMGYzMjJhNjUwMWVlYmNj",
+  "snapshot_id": "MTY1NTcyODg2NiwwMDAwMDAwMDMyMzE1NjYxZTBjNmIxYzhkMmQxNzVkOWEyZThmZjc5",
   "tracks": [
     {
       "added_at": "2022-06-20 12:41:06",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "Bad Habits (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 194331,
-      "name": "Bad Habits - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
         "name": "My Humps",
         "url": "https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 186124,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
+        "name": "Bad Habits (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 194331,
+      "name": "Bad Habits - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -1391,6 +1391,30 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 169108,
+      "name": "Come Around Again",
+      "url": "https://open.spotify.com/track/5pr0RW6itk3yEfJHkg4DIF"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
         "name": "Pump the Brakes",
         "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
       },
@@ -1427,30 +1451,6 @@
       "duration_ms": 168289,
       "name": "Everybody Dance (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 169108,
-      "name": "Come Around Again",
-      "url": "https://open.spotify.com/track/5pr0RW6itk3yEfJHkg4DIF"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/55kAr1O53DgjDiEdM0E8fc"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 216000,
       "name": "Foolish (feat. Tom Zanetti)",
       "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
+        "name": "I Don\u2019t Wanna Know",
+        "url": "https://open.spotify.com/album/5tnwqNjGJpYhDOCwQ5EQP0"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 165093,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
         "name": "Summer In Love",
         "url": "https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp"
       },
@@ -1827,22 +1843,6 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "I Don\u2019t Wanna Know",
-        "url": "https://open.spotify.com/album/5tnwqNjGJpYhDOCwQ5EQP0"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 165093,
-      "name": "I Don't Wanna Know",
-      "url": "https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
         "name": "There For You",
         "url": "https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK"
       },
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "Sad Songs (feat. L Devine)",
-        "url": "https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5"
-      },
-      "artists": [
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        },
-        {
-          "name": "L Devine",
-          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
-        }
-      ],
-      "duration_ms": 191612,
-      "name": "Sad Songs (feat. L Devine)",
-      "url": "https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
         "name": "The Music",
         "url": "https://open.spotify.com/album/4msQOmIlkiNfRYacIgk0fj"
       },
@@ -1923,6 +1903,26 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
+        "name": "Sad Songs (feat. L Devine)",
+        "url": "https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "L Devine",
+          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
+        }
+      ],
+      "duration_ms": 191612,
+      "name": "Sad Songs (feat. L Devine)",
+      "url": "https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
         "name": "tonight belongs to you",
         "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
       },
@@ -1935,26 +1935,6 @@
       "duration_ms": 147075,
       "name": "tonight belongs to you",
       "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        },
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        }
-      ],
-      "duration_ms": 163957,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -1975,6 +1955,26 @@
       "duration_ms": 164975,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/6qLkMLUIkdtX34gHF9sPFL"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "duration_ms": 163957,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd"
     },
     {
       "added_at": "2022-06-20 12:41:06",

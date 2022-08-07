@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Opium G",
-  "num_followers": 55080,
+  "num_followers": 55082,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU0NDQ5NSwwMDAwMDAwMDUzOGFjMzI5MTYxNzI5MjIzOTQ1ZjM1ZWJmYzcyNWM1",
+  "snapshot_id": "MTY1OTU0NDQ5NSwwMDAwMDAwMGM4Y2Q4OTI1MWViMjRhYjNlOGI0ZWVjOWYwY2QzNjI0",
   "tracks": [
     {
       "added_at": "2022-08-03 16:34:55",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-08-03 16:34:55",
       "album": {
-        "name": "Jake Long",
-        "url": "https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Jake Long",
-      "url": "https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U"
-    },
-    {
-      "added_at": "2022-08-03 16:34:55",
-      "album": {
         "name": "SESENTAYNUEVE",
         "url": "https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 122986,
       "name": "SESENTAYNUEVE",
       "url": "https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs"
+    },
+    {
+      "added_at": "2022-08-03 16:34:55",
+      "album": {
+        "name": "Jake Long",
+        "url": "https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Jake Long",
+      "url": "https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U"
     },
     {
       "added_at": "2022-08-03 16:34:55",

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u4f50\u85e4\u5343\u4e9c\u5983",
-  "num_followers": 81997,
+  "num_followers": 82020,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY5MDMyNiwwMDAwMDAwMGUwZTMwNDc1OGVhODY3ZDNjOTkyM2NkZjg2ZTc5ZDc2",
+  "snapshot_id": "MTY1OTY5MDMyNiwwMDAwMDAwMDczYmJhZDU5MDU1YmU1MTYyM2NlNjFhMTRhNjM2YzA5",
   "tracks": [
     {
       "added_at": "2022-08-05 09:05:26",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-08-05 09:05:26",
       "album": {
+        "name": "\u611b\u306f\u3082\u3046",
+        "url": "https://open.spotify.com/album/5xyPLgqYuuDIuKr5hpB9bi"
+      },
+      "artists": [
+        {
+          "name": "satomoka",
+          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
+        }
+      ],
+      "duration_ms": 188245,
+      "name": "\u611b\u306f\u3082\u3046",
+      "url": "https://open.spotify.com/track/633VJ4gaIGcKrAt5fvZ7Mm"
+    },
+    {
+      "added_at": "2022-08-05 09:05:26",
+      "album": {
         "name": "MAO",
         "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
       },
@@ -1599,34 +1615,18 @@
     {
       "added_at": "2022-08-05 09:05:26",
       "album": {
-        "name": "\u611b\u306f\u3082\u3046",
-        "url": "https://open.spotify.com/album/5xyPLgqYuuDIuKr5hpB9bi"
+        "name": "people",
+        "url": "https://open.spotify.com/album/4FzOMTCyWwAfrXFtEvDzAZ"
       },
       "artists": [
         {
-          "name": "satomoka",
-          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
         }
       ],
-      "duration_ms": 188245,
-      "name": "\u611b\u306f\u3082\u3046",
-      "url": "https://open.spotify.com/track/633VJ4gaIGcKrAt5fvZ7Mm"
-    },
-    {
-      "added_at": "2022-08-05 09:05:26",
-      "album": {
-        "name": "\u79c1\u306e\u771f\u5fc3",
-        "url": "https://open.spotify.com/album/0MGw3b3E2012pYRo0Rh94F"
-      },
-      "artists": [
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
-        }
-      ],
-      "duration_ms": 421203,
-      "name": "\u79c1\u306e\u771f\u5fc3",
-      "url": "https://open.spotify.com/track/5ZZzoCTdBPAMog1IyljHac"
+      "duration_ms": 290915,
+      "name": "people",
+      "url": "https://open.spotify.com/track/47hcYZ2WMLTzArFYLpvgUr"
     },
     {
       "added_at": "2022-08-05 09:05:26",
@@ -1647,18 +1647,38 @@
     {
       "added_at": "2022-08-05 09:05:26",
       "album": {
-        "name": "people",
-        "url": "https://open.spotify.com/album/4FzOMTCyWwAfrXFtEvDzAZ"
+        "name": "Sentimental (Neon Mix)",
+        "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
       },
       "artists": [
         {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u7af9\u5185\u7f8e\u5ba5",
+          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
         }
       ],
-      "duration_ms": 290915,
-      "name": "people",
-      "url": "https://open.spotify.com/track/47hcYZ2WMLTzArFYLpvgUr"
+      "duration_ms": 203588,
+      "name": "Sentimental - Neon Mix",
+      "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
+    },
+    {
+      "added_at": "2022-08-05 09:05:26",
+      "album": {
+        "name": "\u79c1\u306e\u771f\u5fc3",
+        "url": "https://open.spotify.com/album/0MGw3b3E2012pYRo0Rh94F"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 421203,
+      "name": "\u79c1\u306e\u771f\u5fc3",
+      "url": "https://open.spotify.com/track/5ZZzoCTdBPAMog1IyljHac"
     },
     {
       "added_at": "2022-08-05 09:05:26",
@@ -1679,26 +1699,6 @@
       "duration_ms": 185181,
       "name": "\u3084\u3055\u3057\u3044\u602a\u7269 feat. \u6ce3\u304d\u866b",
       "url": "https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G"
-    },
-    {
-      "added_at": "2022-08-05 09:05:26",
-      "album": {
-        "name": "Sentimental (Neon Mix)",
-        "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "\u7af9\u5185\u7f8e\u5ba5",
-          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
-        }
-      ],
-      "duration_ms": 203588,
-      "name": "Sentimental - Neon Mix",
-      "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
     }
   ],
   "unique_name": "Women's Voice",
