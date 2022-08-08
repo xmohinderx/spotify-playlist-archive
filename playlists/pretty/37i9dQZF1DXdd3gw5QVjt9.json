@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1222084,
+  "num_followers": 1222098,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTIyMjA4MywwMDAwMDAwMDY0NDNhZDVjMDhmNmJiZTJlM2EyOTg5OTg4ZGQxZjVj",
+  "snapshot_id": "MTY1NTIyMjA4MywwMDAwMDAwMGM4OGVkZWJiYjgyZGI0YTViOTM1ZjAwMzQ1MGU5MWJi",
   "tracks": [
     {
       "added_at": "2022-06-14 15:34:50",
@@ -207,6 +207,26 @@
     {
       "added_at": "2022-06-14 15:34:50",
       "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
+    },
+    {
+      "added_at": "2022-06-14 15:34:50",
+      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -219,22 +239,6 @@
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2022-06-14 15:34:50",
-      "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "People Change",
-      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
     },
     {
       "added_at": "2022-06-14 15:34:50",
@@ -259,22 +263,18 @@
     {
       "added_at": "2022-06-14 15:34:50",
       "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 193133,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
+      "duration_ms": 212853,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
     },
     {
       "added_at": "2022-06-14 15:34:50",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-06-14 15:34:50",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2022-06-14 15:34:50",
-      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/70ozU7uYRApcu4Dluq0xMV"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 224445,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0jX7GLf5pVGZpchy64sluA"
+    },
+    {
+      "added_at": "2022-06-14 15:34:50",
+      "album": {
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
     },
     {
       "added_at": "2022-06-14 15:34:50",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-06-14 15:34:50",
       "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/7qmlNHyFmBSZQllaVRBQq7"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Steamroller",
-      "url": "https://open.spotify.com/track/5Wl4pLOHAi7MuCjhSIe6LM"
-    },
-    {
-      "added_at": "2022-06-14 15:34:50",
-      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 178346,
       "name": "Virginia May",
       "url": "https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF"
+    },
+    {
+      "added_at": "2022-06-14 15:34:50",
+      "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/7qmlNHyFmBSZQllaVRBQq7"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Steamroller",
+      "url": "https://open.spotify.com/track/5Wl4pLOHAi7MuCjhSIe6LM"
     },
     {
       "added_at": "2022-06-14 15:34:50",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-06-14 15:34:50",
       "album": {
-        "name": "Better Way",
-        "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 356522,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
-    },
-    {
-      "added_at": "2022-06-14 15:34:50",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 209426,
       "name": "When Creation Was Young",
       "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
+    },
+    {
+      "added_at": "2022-06-14 15:34:50",
+      "album": {
+        "name": "Better Way",
+        "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 356522,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
     }
   ],
   "unique_name": "Morning Acoustic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p?si=q0vJwxXwRCOr7B0n66OzUA" > Jae5 </a>, <a href="https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK?si=MGmorvkESEy2IEuQBNsnfA" > Dave </a> and <a href="https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=5pgDQyLCSx62BCzPvuporQ" > BNXN </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,756 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,775 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

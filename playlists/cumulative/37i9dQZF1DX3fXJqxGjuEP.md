@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-394 songs - 23 hr 43 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+395 songs - 23 hr 47 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Boogaloo Arizona](https://open.spotify.com/track/5kQMrsgCreLtq5DBPwuHfg) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:03 | 2021-10-20 | 2022-04-20 |
 | [Bossa & People](https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Beatriz](https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR) | 5:02 | 2021-10-20 |  |
 | [Brasil](https://open.spotify.com/track/1l4ef3sRHMVUzLzvt3FkWH) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Brasil](https://open.spotify.com/album/40OPW58oS9yfhzPuyCA8oI) | 3:50 | 2021-10-20 | 2022-07-29 |
+| [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 | 2021-10-20 |  |
 | [Buen Viaje](https://open.spotify.com/track/53Jf3ChStU9gJy69jUYRVw) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Traspasa](https://open.spotify.com/album/4SgkWnlMfXsXPJcYArOYTl) | 3:33 | 2021-10-20 |  |
 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 | 2021-10-20 |  |
 | [Cafecito](https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH) | [La Ciencia de Juancho Valencia](https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9) | [La Fórmula del Mambo](https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK) | 4:19 | 2021-10-20 |  |
@@ -180,7 +181,7 @@
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-10-20 | 2022-07-25 |
 | [Hawaii Aloha](https://open.spotify.com/track/5Fv4AzFmKNNRdBqhlu0ryR) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [Hawaii Aloha](https://open.spotify.com/album/4SzbVzN1N053iakcxwG3dq) | 3:55 | 2021-10-20 | 2022-05-21 |
 | [Helado de Mango](https://open.spotify.com/track/3h3L1IArPewYKXLgb6YLX1) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/5fd7vj3legWUCGUdEhM6S8) | 3:28 | 2021-10-20 | 2022-07-29 |
-| [Helado de Mango](https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub) | 3:28 | 2021-10-20 |  |
+| [Helado de Mango](https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub) | 3:28 | 2021-10-20 | 2022-08-08 |
 | [High Tide](https://open.spotify.com/track/4LAsGHxgNj7iylCek7Rr1a) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [High Tide](https://open.spotify.com/album/4x411PuFnRrYYAJkSLi4Im) | 3:10 | 2022-03-17 | 2022-04-23 |
 | [Hoy Como Siempre](https://open.spotify.com/track/5pQXW3nrM4KEDTK4iD3Iu9) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Hoy Como Siempre](https://open.spotify.com/album/2wDRsuHc2loxSQykUIbt3v) | 4:09 | 2021-10-20 | 2022-07-29 |
 | [Hoy Es Mañana](https://open.spotify.com/track/1lTgSM8RrTANbfPwx9ipif) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [The Caribbean Ravers](https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd) | [Música Para Pick Up](https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo) | 3:32 | 2021-10-20 | 2022-07-27 |

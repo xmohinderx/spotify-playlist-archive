@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 10868,
+  "num_followers": 10875,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA0NDkzNywwMDAwMDAwMGQ0NjcwZWEzOTA1OGMzN2E3NzgyMmE0ZDdmNmQ1MzBm",
+  "snapshot_id": "MTY1MzA0NDkzNywwMDAwMDAwMDBlOTdmMjc0ODQyZDU1M2MyMThjYzE3NWMyMmE4NWJh",
   "tracks": [
     {
       "added_at": "2022-05-20 11:08:57",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "The Wild Card",
-        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 257013,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "More Moore Mixtape",
         "url": "https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 159640,
       "name": "In-between",
       "url": "https://open.spotify.com/track/1KVSfVRzSi7gTp7NFvoDZZ"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "The Wild Card",
+        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 257013,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Same Girl",
-        "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
-      },
-      "artists": [
-        {
-          "name": "Tess Henley",
-          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
-        }
-      ],
-      "duration_ms": 182751,
-      "name": "Same Girl",
-      "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Black Pumas",
         "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 289706,
       "name": "OCT 33",
       "url": "https://open.spotify.com/track/4YKSJHezbvr4e0026rz8Zo"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Same Girl",
+        "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
+      },
+      "artists": [
+        {
+          "name": "Tess Henley",
+          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
+        }
+      ],
+      "duration_ms": 182751,
+      "name": "Same Girl",
+      "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Somewhere In-Between",
-        "url": "https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/1CQlDfBet6ji4BT8EkrvY6"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "If You Want Me To Stay (with Anthony Ramos)",
         "url": "https://open.spotify.com/album/1LVNteRODRZanmsjy2cXYO"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 187605,
       "name": "If You Want Me To Stay (with Anthony Ramos)",
       "url": "https://open.spotify.com/track/177Gk50xMUz4QMiEXLARFP"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Somewhere In-Between",
+        "url": "https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1CQlDfBet6ji4BT8EkrvY6"
     },
     {
       "added_at": "2022-05-20 11:08:57",

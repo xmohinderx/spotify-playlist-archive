@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: beabadoobee.",
-  "num_followers": 243389,
+  "num_followers": 243475,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGEwZWY2YzkwZjJkNDg1YzViYWM2MDA1NGQzMTQyYzMx",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDg1NTlmMjlmNGY0YTE1ZGJiOWMzODI3YWUxOTNkOWZk",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1Mut1YA6ZxKZ7F6MKsMSQu"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Hello 2.0 (Legends Only) [feat. \u00d8ZI]",
         "url": "https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
-        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+        "name": "liar",
+        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
       },
       "artists": [
         {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 254800,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/1Mut1YA6ZxKZ7F6MKsMSQu"
+      "duration_ms": 134000,
+      "name": "liar",
+      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "liar",
-        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
+      "duration_ms": 146184,
+      "name": "Savage Good Boy",
+      "url": "https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1363,22 +1379,6 @@
       "duration_ms": 179571,
       "name": "so wrong but so right.",
       "url": "https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 146184,
-      "name": "Savage Good Boy",
-      "url": "https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "oh to be in love",
-        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 222167,
-      "name": "Bad Haircut (feat. JVKE)",
-      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Grade A (feat. JAWNY)",
         "url": "https://open.spotify.com/album/55yLoYwGsnb7tCg10LmKIJ"
       },
@@ -1451,18 +1431,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "EXPIRED",
-        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
+        "name": "oh to be in love",
+        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
       "artists": [
         {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 146739,
-      "name": "EXPIRED",
-      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
+      "duration_ms": 222167,
+      "name": "Bad Haircut (feat. JVKE)",
+      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1487,22 +1471,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "honest (feat. moon tang)",
-        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
+        "name": "EXPIRED",
+        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
       },
       "artists": [
         {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        },
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
         }
       ],
-      "duration_ms": 177818,
-      "name": "honest (feat. moon tang)",
-      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
+      "duration_ms": 146739,
+      "name": "EXPIRED",
+      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1519,6 +1499,26 @@
       "duration_ms": 145173,
       "name": "Shapeshift",
       "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "honest (feat. moon tang)",
+        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        },
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "honest (feat. moon tang)",
+      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Old Her",
-        "url": "https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc"
-      },
-      "artists": [
-        {
-          "name": "YDE",
-          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
-        }
-      ],
-      "duration_ms": 181574,
-      "name": "Old Her",
-      "url": "https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Apollo 8",
         "url": "https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df"
       },
@@ -1859,18 +1843,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Bla Bli Blu",
-        "url": "https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw"
+        "name": "Old Her",
+        "url": "https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc"
       },
       "artists": [
         {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
         }
       ],
-      "duration_ms": 177757,
-      "name": "Bla Bli Blu",
-      "url": "https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb"
+      "duration_ms": 181574,
+      "name": "Old Her",
+      "url": "https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1895,6 +1879,22 @@
       "duration_ms": 205094,
       "name": "let's run away",
       "url": "https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Bla Bli Blu",
+        "url": "https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "duration_ms": 177757,
+      "name": "Bla Bli Blu",
+      "url": "https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/1gIBYdEod4n4Z499kQTc2o"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/2t4olQUck1cDjsVQetHRRq"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Under The Rose",
         "url": "https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 230842,
       "name": "Me & Mrs. Wong",
       "url": "https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/1gIBYdEod4n4Z499kQTc2o"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/2t4olQUck1cDjsVQetHRRq"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -2459,38 +2459,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6RAGRnaFCd8sAA7XIBmXP5"
-      },
-      "artists": [
-        {
-          "name": "H 3 F",
-          "url": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "You",
-      "url": "https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Can We Have A Conversation?",
-        "url": "https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 154969,
-      "name": "Can We Have A Conversation?",
-      "url": "https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "i'm having a hard time being myself",
         "url": "https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09"
       },
@@ -2507,6 +2475,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6RAGRnaFCd8sAA7XIBmXP5"
+      },
+      "artists": [
+        {
+          "name": "H 3 F",
+          "url": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "You",
+      "url": "https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/0dCKftLBkpep9tF6v91uUD"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 214877,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/3tcyNOKOBzLWr45Sg5gi8R"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Can We Have A Conversation?",
+        "url": "https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "Can We Have A Conversation?",
+      "url": "https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -2603,26 +2603,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/6tUQHiBPeeWlFoSEBFYDAQ"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "MADI",
-          "url": "https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0"
-        }
-      ],
-      "duration_ms": 293335,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/2VT7wOadDYKMeDLsys9vzF"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Ready For Love",
         "url": "https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK"
       },
@@ -2647,18 +2627,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Please Baby Please",
-        "url": "https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/6tUQHiBPeeWlFoSEBFYDAQ"
       },
       "artists": [
         {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "MADI",
+          "url": "https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Please Baby Please",
-      "url": "https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD"
+      "duration_ms": 293335,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2VT7wOadDYKMeDLsys9vzF"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -2675,6 +2659,22 @@
       "duration_ms": 194886,
       "name": "Better",
       "url": "https://open.spotify.com/track/5z2hntBNASWRvUGP8BQng6"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Please Baby Please",
+        "url": "https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Please Baby Please",
+      "url": "https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD"
     },
     {
       "added_at": "2022-08-05 04:00:00",

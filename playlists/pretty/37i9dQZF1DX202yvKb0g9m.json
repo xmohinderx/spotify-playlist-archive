@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 46520,
+  "num_followers": 46651,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDg3MjYyZjQxMjRmOTc2ZDhkYTY2YzljN2FkMDhjMWI3",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDJlMDkxNGJmYzIxNDgwMzgzZTIwYTMxNjY1YmVmMmQ0",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
-      },
-      "artists": [
-        {
-          "name": "Cro-Magnon",
-          "url": "https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy"
-        }
-      ],
-      "duration_ms": 432217,
-      "name": "Patchwork Jazz",
-      "url": "https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Jack to the Sound",
         "url": "https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "United Acid Emirates",
-        "url": "https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb"
+        "name": "V",
+        "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
       },
       "artists": [
         {
-          "name": "Ceephax Acid Crew",
-          "url": "https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I"
+          "name": "Cro-Magnon",
+          "url": "https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy"
         }
       ],
-      "duration_ms": 331373,
-      "name": "Commuter",
-      "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
+      "duration_ms": 432217,
+      "name": "Patchwork Jazz",
+      "url": "https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -475,6 +459,22 @@
       "duration_ms": 379695,
       "name": "Sumo Acid Crew",
       "url": "https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "United Acid Emirates",
+        "url": "https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb"
+      },
+      "artists": [
+        {
+          "name": "Ceephax Acid Crew",
+          "url": "https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I"
+        }
+      ],
+      "duration_ms": 331373,
+      "name": "Commuter",
+      "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
     },
     {
       "added_at": "2021-10-22 11:07:27",

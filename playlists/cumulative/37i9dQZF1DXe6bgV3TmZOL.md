@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-304 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
+305 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Nemesis](https://open.spotify.com/track/1dVSJUkVNi36hr7VKiCWIt) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL), [Sonny Sandoval](https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L) | [Nemesis](https://open.spotify.com/album/3FdwX7ZZirpfzXPLdKpEYq) | 2:45 | 2022-07-13 | 2022-07-29 |
 | [Nero Forte](https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:15 | 2021-11-12 |  |
 | [Never Again](https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 3:43 | 2022-07-13 |  |
-| [New Found](https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 6:36 | 2022-07-13 |  |
+| [New Found](https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 6:36 | 2022-07-13 | 2022-08-08 |
 | [Nightmares Are Dreams Too](https://open.spotify.com/track/7mpQkVZV55bocA712tKkRF) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Nightmares Are Dreams Too](https://open.spotify.com/album/2XfKBvcROTswmgAf86SKUK) | 3:14 | 2021-11-12 | 2022-07-29 |
 | [Nimrod](https://open.spotify.com/track/5cUziBfFGOHrkXFE4qAgKe) | [Nine Shrines](https://open.spotify.com/artist/5LgPoZGQ3w6YmtNLw0BVmL) | [Nimrod](https://open.spotify.com/album/5A0XKABdHLAteEE4rmefsJ) | 3:09 | 2021-11-12 | 2022-07-25 |
 | [No control](https://open.spotify.com/track/0YDbo0oaK5jGW8R9dfJPP1) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [No control](https://open.spotify.com/album/5N8pKJl8RO70CJCXuOJ2W5) | 4:06 | 2022-04-22 | 2022-07-29 |
@@ -259,6 +259,7 @@
 | [That Day](https://open.spotify.com/track/2iENCWE4DYyyAh9hXrxIb1) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/0cc0ETfgELM6PpCc9rz6yE) | 3:30 | 2022-07-13 | 2022-07-29 |
 | [That Day](https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN) | 3:30 | 2022-07-13 |  |
 | [That's My Jam](https://open.spotify.com/track/2WxJwVefvzqhGui9a2bMFz) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [That's My Jam](https://open.spotify.com/album/7w6uv3otp1CRCd8XjGtZOo) | 3:16 | 2022-04-04 | 2022-07-14 |
+| [The Antidote](https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:59 | 2022-07-13 |  |
 | [The Bottom](https://open.spotify.com/track/4vpJYmoqQ2bGkC1IKVWeIG) | [Devour the Day](https://open.spotify.com/artist/4olk2DDoPvzAJlJBonZFHk) | [S.O.A.R](https://open.spotify.com/album/5OsKZSMhvAjBb47m8zakxI) | 3:02 | 2022-07-13 | 2022-07-15 |
 | [The Cage](https://open.spotify.com/track/2u15Avqt6Dr3fgq1XLSqeg) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [The Cage](https://open.spotify.com/album/6jRJxHg5DovKXA27ntMyUG) | 3:20 | 2021-11-12 | 2022-07-29 |
 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 | 2021-11-12 | 2022-07-29 |

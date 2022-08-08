@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 390651,
+  "num_followers": 390791,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY3MTQ4MCwwMDAwMDAwMDliZDgzZmNiNTE2ZjkxMjE0YzJkOTk0ZWVkMzBhNWJi",
+  "snapshot_id": "MTY1NjY3MTQ4MCwwMDAwMDAwMGRjNWQ0ZmQ5N2QzNTEzYzRlNWMxNDI0NGZhNDdhZmZl",
   "tracks": [
     {
       "added_at": "2022-07-01 10:31:19",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-07-01 10:31:19",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 333772,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79"
-    },
-    {
-      "added_at": "2022-07-01 10:31:19",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 132360,
       "name": "DO IT",
       "url": "https://open.spotify.com/track/73IdeGI8Gt1XxcaQ6vBsyD"
+    },
+    {
+      "added_at": "2022-07-01 10:31:19",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 333772,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79"
     },
     {
       "added_at": "2022-07-01 10:31:19",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-07-01 10:31:19",
       "album": {
-        "name": "Pastis",
-        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
-      },
-      "artists": [
-        {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        }
-      ],
-      "duration_ms": 244363,
-      "name": "Pastis",
-      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
-    },
-    {
-      "added_at": "2022-07-01 10:31:19",
-      "album": {
         "name": "The Small Room Sessions",
         "url": "https://open.spotify.com/album/7q2toX28pVjzZi9IhFkou3"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 229835,
       "name": "morning groove",
       "url": "https://open.spotify.com/track/2ZQRfelYOFQ6i6A9rTx73j"
+    },
+    {
+      "added_at": "2022-07-01 10:31:19",
+      "album": {
+        "name": "Pastis",
+        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
+      },
+      "artists": [
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        }
+      ],
+      "duration_ms": 244363,
+      "name": "Pastis",
+      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
     },
     {
       "added_at": "2022-07-01 10:31:19",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-07-01 10:31:19",
       "album": {
-        "name": "The Sinner \u2014 Time Traveller",
-        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 282857,
-      "name": "The Sinner",
-      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
-    },
-    {
-      "added_at": "2022-07-01 10:31:19",
-      "album": {
         "name": "Hyperspace (feat. Teza Sumendra)",
         "url": "https://open.spotify.com/album/1qnUz82hJ3LVACEPIzIIkX"
       },
@@ -575,22 +559,6 @@
     {
       "added_at": "2022-07-01 10:31:19",
       "album": {
-        "name": "The Sayers",
-        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
-      },
-      "artists": [
-        {
-          "name": "Klein Zage",
-          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
-        }
-      ],
-      "duration_ms": 293584,
-      "name": "The Sayers",
-      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
-    },
-    {
-      "added_at": "2022-07-01 10:31:19",
-      "album": {
         "name": "Invisible Man",
         "url": "https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh"
       },
@@ -603,6 +571,38 @@
       "duration_ms": 176482,
       "name": "YOU CAN DO IT",
       "url": "https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv"
+    },
+    {
+      "added_at": "2022-07-01 10:31:19",
+      "album": {
+        "name": "The Sinner \u2014 Time Traveller",
+        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "The Sinner",
+      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
+    },
+    {
+      "added_at": "2022-07-01 10:31:19",
+      "album": {
+        "name": "The Sayers",
+        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
+      },
+      "artists": [
+        {
+          "name": "Klein Zage",
+          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
+        }
+      ],
+      "duration_ms": 293584,
+      "name": "The Sayers",
+      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
     },
     {
       "added_at": "2022-07-01 10:31:19",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-07-01 10:31:19",
       "album": {
+        "name": "Moonlite",
+        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+      },
+      "artists": [
+        {
+          "name": "Functionist",
+          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Moonlite",
+      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
+    },
+    {
+      "added_at": "2022-07-01 10:31:19",
+      "album": {
         "name": "Carlito Archives",
         "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2022-07-01 10:31:19",
       "album": {
-        "name": "Moonlite",
-        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+        "name": "Polar Circle",
+        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
       },
       "artists": [
         {
-          "name": "Functionist",
-          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+          "name": "Ekfat",
+          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
         }
       ],
-      "duration_ms": 212554,
-      "name": "Moonlite",
-      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
+      "duration_ms": 117660,
+      "name": "Polar Circle",
+      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
     },
     {
       "added_at": "2022-07-01 10:31:19",
@@ -911,22 +927,6 @@
     {
       "added_at": "2022-07-01 10:31:19",
       "album": {
-        "name": "Polar Circle",
-        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
-      },
-      "artists": [
-        {
-          "name": "Ekfat",
-          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
-        }
-      ],
-      "duration_ms": 117660,
-      "name": "Polar Circle",
-      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
-    },
-    {
-      "added_at": "2022-07-01 10:31:19",
-      "album": {
         "name": "31 Minutes of Relaxing ASMR",
         "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
       },
@@ -939,6 +939,30 @@
       "duration_ms": 275131,
       "name": "Chilli Heatwave",
       "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
+    },
+    {
+      "added_at": "2022-07-01 10:31:19",
+      "album": {
+        "name": "Watarase",
+        "url": "https://open.spotify.com/album/4NXJDWKX8NbIWW3DaAnIt7"
+      },
+      "artists": [
+        {
+          "name": "Fumio Itabashi",
+          "url": "https://open.spotify.com/artist/6HwoRQ2rOHAVerOPnLu2nQ"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        },
+        {
+          "name": "Kuniyuki",
+          "url": "https://open.spotify.com/artist/2VSRaCnQFPp4C5Xo2UuIzl"
+        }
+      ],
+      "duration_ms": 409619,
+      "name": "Watarase - Henrik Schwarz Version",
+      "url": "https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ"
     },
     {
       "added_at": "2022-07-01 10:31:19",
@@ -975,30 +999,6 @@
       "duration_ms": 178983,
       "name": "Lofi Vs. House",
       "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
-    },
-    {
-      "added_at": "2022-07-01 10:31:19",
-      "album": {
-        "name": "Watarase",
-        "url": "https://open.spotify.com/album/4NXJDWKX8NbIWW3DaAnIt7"
-      },
-      "artists": [
-        {
-          "name": "Fumio Itabashi",
-          "url": "https://open.spotify.com/artist/6HwoRQ2rOHAVerOPnLu2nQ"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
-        },
-        {
-          "name": "Kuniyuki",
-          "url": "https://open.spotify.com/artist/2VSRaCnQFPp4C5Xo2UuIzl"
-        }
-      ],
-      "duration_ms": 409619,
-      "name": "Watarase - Henrik Schwarz Version",
-      "url": "https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ"
     },
     {
       "added_at": "2022-07-01 10:31:19",

@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 303451,
+  "num_followers": 303678,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUwMDcwNCwwMDAwMDAwMDE5MzA0MTFiZjE3YTQ1ZDUwZDI0OTFiMDZmYTUzMGY4",
+  "snapshot_id": "MTY1OTUwMDcwNCwwMDAwMDAwMGFlYThlN2YzZDlhMzQ4YWQ4NWE2Y2I0MjI2MzQ0MTU5",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Elephant Stone",
+        "url": "https://open.spotify.com/album/41HLlu4L2IDH7n9rHk8Yix"
+      },
+      "artists": [
+        {
+          "name": "Elephant Stone",
+          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
+        }
+      ],
+      "duration_ms": 104786,
+      "name": "Sally Go Round the Sun",
+      "url": "https://open.spotify.com/track/16k2KM42CJEZ8uOC4v1vGV"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Fuckin Whatever",
         "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 338613,
       "name": "Joe Frazier",
       "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Elephant Stone",
-        "url": "https://open.spotify.com/album/41HLlu4L2IDH7n9rHk8Yix"
-      },
-      "artists": [
-        {
-          "name": "Elephant Stone",
-          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
-        }
-      ],
-      "duration_ms": 104786,
-      "name": "Sally Go Round the Sun",
-      "url": "https://open.spotify.com/track/16k2KM42CJEZ8uOC4v1vGV"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "You Will Know Nothing",
-        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
-      },
-      "artists": [
-        {
-          "name": "Here Lies Man",
-          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
-        }
-      ],
-      "duration_ms": 252089,
-      "name": "Animal Noises",
-      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "D\u00f6ng\u00fcm",
         "url": "https://open.spotify.com/album/5LlPU1YsCMCIDhqQgjWmz7"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 270027,
       "name": "D\u00f6ng\u00fcm",
       "url": "https://open.spotify.com/track/2OvQx1RIx6Ymys51lH87xJ"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "You Will Know Nothing",
+        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
+      },
+      "artists": [
+        {
+          "name": "Here Lies Man",
+          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
+        }
+      ],
+      "duration_ms": 252089,
+      "name": "Animal Noises",
+      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
     },
     {
+      "added_at": "2022-04-22 19:18:57",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY"
+      },
+      "artists": [
+        {
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+        }
+      ],
+      "duration_ms": 212203,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Ghost Tapes #10",
@@ -945,20 +961,20 @@
       "url": "https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25"
     },
     {
-      "added_at": "2022-04-22 19:18:57",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY"
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
       },
       "artists": [
         {
-          "name": "Triathalon",
-          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
         }
       ],
-      "duration_ms": 212203,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo"
+      "duration_ms": 214533,
+      "name": "Who dreams of cats?",
+      "url": "https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -975,22 +991,6 @@
       "duration_ms": 332335,
       "name": "Time Frame",
       "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Who dreams of cats?",
-      "url": "https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx"
     },
     {
       "added_at": "2022-04-06 03:33:39",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Aufheben",
+        "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 278826,
+      "name": "Panic In Babylon",
+      "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Elwan",
         "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Aufheben",
-        "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 278826,
-      "name": "Panic In Babylon",
-      "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Pink Dogs on the Green Grass",
-        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
-      },
-      "artists": [
-        {
-          "name": "Paul Jacobs",
-          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
-        }
-      ],
-      "duration_ms": 225249,
-      "name": "Christopher Robbins",
-      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Font\u00e4n",
         "url": "https://open.spotify.com/album/0kyJHCH5zr45XB4ZXnl9cg"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 365797,
       "name": "Greven",
       "url": "https://open.spotify.com/track/5QbDGQdwnrfxWuBDhNMVMN"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Pink Dogs on the Green Grass",
+        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
+      },
+      "artists": [
+        {
+          "name": "Paul Jacobs",
+          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
+        }
+      ],
+      "duration_ms": 225249,
+      "name": "Christopher Robbins",
+      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Nymphaea Caerulea EP",
-        "url": "https://open.spotify.com/album/2CyKr3HYH8l2T3s6J08IO3"
+        "name": "Sacred Drugs",
+        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
       },
       "artists": [
         {
           "name": "Al Lover",
           "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
-        },
-        {
-          "name": "Ca\u00efro Liberation Front",
-          "url": "https://open.spotify.com/artist/4ekkoU6ZmScTU9kqw3C09r"
         }
       ],
-      "duration_ms": 196054,
-      "name": "Level 1",
-      "url": "https://open.spotify.com/track/4ZCfNZYY5WxIWMh4fuZhzY"
+      "duration_ms": 186858,
+      "name": "A Shaman's Hand is Infinite",
+      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     },
     {
       "added_at": "2021-11-12 05:23:58",

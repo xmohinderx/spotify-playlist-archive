@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 309416,
+  "num_followers": 309471,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTA4NDYzMywwMDAwMDAwMDQyNjBkNTk5NzhmOGNjMTA5MjM3YjUzOWU3Nzk0N2Yx",
+  "snapshot_id": "MTY0OTA4NDYzMywwMDAwMDAwMDlmMjVmZDY3MzVkNjliYzFlMTFjZWI0NjQ4YzNhOTQ0",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Put Up or Shut Up (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "Jasey Rae (Acoustic)",
+      "url": "https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "The Bird and the Bee Sides",
         "url": "https://open.spotify.com/album/7uiqOhZuzWcCl3WOS5R2jz"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 188608,
       "name": "Novocaine",
       "url": "https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Put Up or Shut Up (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 213986,
-      "name": "Jasey Rae (Acoustic)",
-      "url": "https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 223603,
-      "name": "Crying out Loud",
-      "url": "https://open.spotify.com/track/3b5xqoWMD6W0oW814guCqs"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Dear Rose, I'm Haunted",
         "url": "https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 237631,
       "name": "Dear Rose, I'm Haunted",
       "url": "https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 223603,
+      "name": "Crying out Loud",
+      "url": "https://open.spotify.com/track/3b5xqoWMD6W0oW814guCqs"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -919,38 +919,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Seattle",
-        "url": "https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT"
-      },
-      "artists": [
-        {
-          "name": "Those Without",
-          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
-        }
-      ],
-      "duration_ms": 206047,
-      "name": "Seattle",
-      "url": "https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Right Here (Acoustic)",
-        "url": "https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr"
-      },
-      "artists": [
-        {
-          "name": "Chase Your Words",
-          "url": "https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Right Here (Acoustic)",
-      "url": "https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Violets",
         "url": "https://open.spotify.com/album/3WiGIqKj0WaAw5b2RL8UM7"
       },
@@ -967,6 +935,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Seattle",
+        "url": "https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT"
+      },
+      "artists": [
+        {
+          "name": "Those Without",
+          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
+        }
+      ],
+      "duration_ms": 206047,
+      "name": "Seattle",
+      "url": "https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Disarm",
         "url": "https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 199086,
       "name": "Disarm",
       "url": "https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Right Here (Acoustic)",
+        "url": "https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr"
+      },
+      "artists": [
+        {
+          "name": "Chase Your Words",
+          "url": "https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Right Here (Acoustic)",
+      "url": "https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Letters to Our Former Selves Acoustic E.P.",
-        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 204538,
-      "name": "Deadlocked - Acoustic",
-      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 209801,
       "name": "Wax Poetic (Acoustic)",
       "url": "https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Letters to Our Former Selves Acoustic E.P.",
+        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 204538,
+      "name": "Deadlocked - Acoustic",
+      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Redux: The First 10 Years",
+        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Still Dreaming (Acoustic)",
+      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "I'll Be a Mess Without You",
         "url": "https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 277161,
       "name": "I'll Be a Mess Without You",
       "url": "https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Never Happy, Ever After (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "Dial Tones - Acoustic Version",
-      "url": "https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Redux: The First 10 Years",
-        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
+        "name": "Never Happy, Ever After (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
         }
       ],
-      "duration_ms": 256600,
-      "name": "Still Dreaming (Acoustic)",
-      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
+      "duration_ms": 204666,
+      "name": "Dial Tones - Acoustic Version",
+      "url": "https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Every Little Thing, but More Chill",
-        "url": "https://open.spotify.com/album/7tN8iVp8XRBm9hNdropyX3"
-      },
-      "artists": [
-        {
-          "name": "Midfield",
-          "url": "https://open.spotify.com/artist/397cx9Xajaj4QpGMh5b7fY"
-        }
-      ],
-      "duration_ms": 244323,
-      "name": "Every Little Thing, but More Chill",
-      "url": "https://open.spotify.com/track/6uBlr9arbchJmmFBjDle0F"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Limits",
         "url": "https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 196350,
       "name": "Limits - Unplugged",
       "url": "https://open.spotify.com/track/3Z06DUeSPpGqqVKoOa9Czi"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Every Little Thing, but More Chill",
+        "url": "https://open.spotify.com/album/7tN8iVp8XRBm9hNdropyX3"
+      },
+      "artists": [
+        {
+          "name": "Midfield",
+          "url": "https://open.spotify.com/artist/397cx9Xajaj4QpGMh5b7fY"
+        }
+      ],
+      "duration_ms": 244323,
+      "name": "Every Little Thing, but More Chill",
+      "url": "https://open.spotify.com/track/6uBlr9arbchJmmFBjDle0F"
     },
     {
       "added_at": "2022-04-04 15:03:53",

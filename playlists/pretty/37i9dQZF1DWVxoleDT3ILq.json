@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Pedropiedra + Cancamusa.",
-  "num_followers": 125636,
+  "num_followers": 125633,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDg0MjViOTQ5ODg2OTA2ODkwMDY4MjVhMDI4ZTdjMDE1",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGE5NGUxYmM2Y2VmYTkzMmYzMGMwMDY1NTJlMmE1NmQ3",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Se\u00f1alame la Fiesta",
-        "url": "https://open.spotify.com/album/5mOUWi6KEYRkPQdMIA4YT4"
-      },
-      "artists": [
-        {
-          "name": "Jard\u00edn Mojado",
-          "url": "https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx"
-        }
-      ],
-      "duration_ms": 229354,
-      "name": "Se\u00f1alame la Fiesta",
-      "url": "https://open.spotify.com/track/4wtgP5t1NxtekekW5XzDZ7"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Coraz\u00f3n Astral",
         "url": "https://open.spotify.com/album/47FP5YVqwPrrOAOVhNfY4T"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 191564,
       "name": "Coraz\u00f3n Astral",
       "url": "https://open.spotify.com/track/6POeNaMCaqfJZIgA11NR7T"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Se\u00f1alame la Fiesta",
+        "url": "https://open.spotify.com/album/5mOUWi6KEYRkPQdMIA4YT4"
+      },
+      "artists": [
+        {
+          "name": "Jard\u00edn Mojado",
+          "url": "https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx"
+        }
+      ],
+      "duration_ms": 229354,
+      "name": "Se\u00f1alame la Fiesta",
+      "url": "https://open.spotify.com/track/4wtgP5t1NxtekekW5XzDZ7"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "el humo",
-        "url": "https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 246024,
-      "name": "el humo",
-      "url": "https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Madre M\u00eda",
         "url": "https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Tus Nombres",
-        "url": "https://open.spotify.com/album/2SAIUBhSifmEWXNLtlfsaS"
+        "name": "el humo",
+        "url": "https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN"
       },
       "artists": [
         {
-          "name": "Prehist\u00f6ricos",
-          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
         }
       ],
-      "duration_ms": 200395,
-      "name": "Tus Nombres",
-      "url": "https://open.spotify.com/track/1K4LO0GcZuJxh9fc7P2C2g"
+      "duration_ms": 246024,
+      "name": "el humo",
+      "url": "https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -639,6 +623,22 @@
       "duration_ms": 200245,
       "name": "Ni\u00f1a",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Tus Nombres",
+        "url": "https://open.spotify.com/album/2SAIUBhSifmEWXNLtlfsaS"
+      },
+      "artists": [
+        {
+          "name": "Prehist\u00f6ricos",
+          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
+        }
+      ],
+      "duration_ms": 200395,
+      "name": "Tus Nombres",
+      "url": "https://open.spotify.com/track/1K4LO0GcZuJxh9fc7P2C2g"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -803,22 +803,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "PODER - Lilith: 6",
-        "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
+        "name": "arde lento",
+        "url": "https://open.spotify.com/album/63YKlDj4D6jtajVwKwoxJ8"
       },
       "artists": [
         {
-          "name": "MAR\u00cdA",
-          "url": "https://open.spotify.com/artist/0L26KOsNaEDlbjWUUSWcZ3"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
         }
       ],
-      "duration_ms": 191158,
-      "name": "PODER - Lilith: 6",
-      "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
+      "duration_ms": 219960,
+      "name": "diamantes \u2727\u2727",
+      "url": "https://open.spotify.com/track/02uy9ONTBAMXMisKRUeaoD"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -843,18 +839,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "arde lento",
-        "url": "https://open.spotify.com/album/63YKlDj4D6jtajVwKwoxJ8"
+        "name": "PODER - Lilith: 6",
+        "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
       },
       "artists": [
         {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+          "name": "MAR\u00cdA",
+          "url": "https://open.spotify.com/artist/0L26KOsNaEDlbjWUUSWcZ3"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
         }
       ],
-      "duration_ms": 219960,
-      "name": "diamantes \u2727\u2727",
-      "url": "https://open.spotify.com/track/02uy9ONTBAMXMisKRUeaoD"
+      "duration_ms": 191158,
+      "name": "PODER - Lilith: 6",
+      "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Tinder uwu",
-        "url": "https://open.spotify.com/album/5TaV1ZaU7baZVhr6jYAqAm"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 183212,
-      "name": "Tinder uwu",
-      "url": "https://open.spotify.com/track/6NCbo0bYHyUWJ4cPeyqGss"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "tu voz en mis aud\u00edfonos",
         "url": "https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 193786,
       "name": "tu voz en mis aud\u00edfonos",
       "url": "https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Tinder uwu",
+        "url": "https://open.spotify.com/album/5TaV1ZaU7baZVhr6jYAqAm"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 183212,
+      "name": "Tinder uwu",
+      "url": "https://open.spotify.com/track/6NCbo0bYHyUWJ4cPeyqGss"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Maldita Canci\u00f3n de Amor",
-        "url": "https://open.spotify.com/album/30Nej0tlaXSbJrahd70YLm"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Parlante",
-          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
-        }
-      ],
-      "duration_ms": 234433,
-      "name": "Maldita Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/5Y88RAG3qCTgAZRQiJclRN"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "D\u00edas Que No Lloro",
         "url": "https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Maldita Canci\u00f3n de Amor",
+        "url": "https://open.spotify.com/album/30Nej0tlaXSbJrahd70YLm"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+        }
+      ],
+      "duration_ms": 234433,
+      "name": "Maldita Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/5Y88RAG3qCTgAZRQiJclRN"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "SAMURAI",
         "url": "https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Estado Vegetal",
-        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Estado Vegetal",
-      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Al Borde del Abismo",
         "url": "https://open.spotify.com/album/6n625qD6IsFwbWmhPZLten"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 189000,
       "name": "Al Borde del Abismo",
       "url": "https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Estado Vegetal",
+        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Estado Vegetal",
+      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Este Debe Ser el Lugar",
-        "url": "https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws"
-      },
-      "artists": [
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
-        }
-      ],
-      "duration_ms": 166133,
-      "name": "Este Debe Ser el Lugar",
-      "url": "https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Fricativa Velar Sorda",
         "url": "https://open.spotify.com/album/1cZZy68qh5SJKjeC6uHLka"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 137642,
       "name": "Fricativa Velar Sorda",
       "url": "https://open.spotify.com/track/1zH7ZCIvAbjp8wj0Ftj83h"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Este Debe Ser el Lugar",
+        "url": "https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "Este Debe Ser el Lugar",
+      "url": "https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Traducciones",
-        "url": "https://open.spotify.com/album/0aPvz0rCmRVUUWgPu11uem"
+        "name": "Fuego Con Ust\u00e9",
+        "url": "https://open.spotify.com/album/2g5WlfBZw4SFaiODjojCJg"
       },
       "artists": [
         {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+          "name": "Glo Herrera",
+          "url": "https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57"
         }
       ],
-      "duration_ms": 133156,
-      "name": "200 Mph",
-      "url": "https://open.spotify.com/track/6BvLzzz4ODMhfYtZY2BQR9"
+      "duration_ms": 185770,
+      "name": "Fuego Con Ust\u00e9",
+      "url": "https://open.spotify.com/track/6XPvJuPBuoSlPH2nmNQgNU"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Fuego Con Ust\u00e9",
-        "url": "https://open.spotify.com/album/2g5WlfBZw4SFaiODjojCJg"
+        "name": "Traducciones",
+        "url": "https://open.spotify.com/album/0aPvz0rCmRVUUWgPu11uem"
       },
       "artists": [
         {
-          "name": "Glo Herrera",
-          "url": "https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57"
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
         }
       ],
-      "duration_ms": 185770,
-      "name": "Fuego Con Ust\u00e9",
-      "url": "https://open.spotify.com/track/6XPvJuPBuoSlPH2nmNQgNU"
+      "duration_ms": 133156,
+      "name": "200 Mph",
+      "url": "https://open.spotify.com/track/6BvLzzz4ODMhfYtZY2BQR9"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Maldita Canci\u00f3n de Amor (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2V4qUZfWmrZBJ7Lz2OtZOU"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Parlante",
-          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
-        }
-      ],
-      "duration_ms": 186922,
-      "name": "Maldita Canci\u00f3n de Amor (Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/2jF6hZEVslHeUfh02sEp4l"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Sigue Avanzando",
         "url": "https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 214010,
       "name": "Sigue Avanzando",
       "url": "https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Maldita Canci\u00f3n de Amor (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2V4qUZfWmrZBJ7Lz2OtZOU"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+        }
+      ],
+      "duration_ms": 186922,
+      "name": "Maldita Canci\u00f3n de Amor (Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/2jF6hZEVslHeUfh02sEp4l"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Refresco",
+        "url": "https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Juanita La O",
+          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
+        }
+      ],
+      "duration_ms": 197881,
+      "name": "XAT (Juanita La O Remix)",
+      "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Florecer",
         "url": "https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK"
       },
@@ -1587,22 +1607,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Tormenta",
-        "url": "https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Sin Ofender",
         "url": "https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT"
       },
@@ -1619,6 +1623,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Tormenta",
+        "url": "https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Fantasma Encantador",
         "url": "https://open.spotify.com/album/2KSnj4HOx7bzl7IjxKQbyQ"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 253221,
       "name": "Fantasma Encantador",
       "url": "https://open.spotify.com/track/0ZDwUoCh4BBGMo6jEVFWTy"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Refresco",
-        "url": "https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Juanita La O",
-          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
-        }
-      ],
-      "duration_ms": 197881,
-      "name": "XAT (Juanita La O Remix)",
-      "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Milagros",
+        "url": "https://open.spotify.com/album/0kPuuj3n0l0Wi2Sg1Gj5H1"
+      },
+      "artists": [
+        {
+          "name": "DINDI JANE",
+          "url": "https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ"
+        }
+      ],
+      "duration_ms": 190734,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/2TBePNbBTf5wbDI7Rebmp8"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Planetario en Circuito Nacional",
         "url": "https://open.spotify.com/album/7e29NNM8RxqgVgv99wP0e2"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 198187,
       "name": "Casi",
       "url": "https://open.spotify.com/track/1rTb0UaBhqtozVWr8Fn9ZN"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Milagros",
-        "url": "https://open.spotify.com/album/0kPuuj3n0l0Wi2Sg1Gj5H1"
-      },
-      "artists": [
-        {
-          "name": "DINDI JANE",
-          "url": "https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ"
-        }
-      ],
-      "duration_ms": 190734,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/2TBePNbBTf5wbDI7Rebmp8"
     },
     {
       "added_at": "2022-08-05 04:01:00",

@@ -4,7 +4,7 @@
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Mulay
 
-451 songs - 23 hr 41 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
+452 songs - 23 hr 44 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Sunday Service](https://open.spotify.com/track/3jS8O4mbzowbNVgxKxyFgR) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Sunday Service](https://open.spotify.com/album/4BGe5o73hToBzQ0yQpRX0z) | 2:45 | 2022-07-05 | 2022-08-03 |
 | [Superpower](https://open.spotify.com/track/5CyHAIYb5W7FB0GnBQ7mNz) | [June Cocó](https://open.spotify.com/artist/0g3Rqfcl1SIoXRZRF0uAGg) | [Superpower](https://open.spotify.com/album/0dUwKG85nRDKAZa3DVrcbc) | 2:56 | 2022-04-05 | 2022-05-04 |
 | [Superrare](https://open.spotify.com/track/5LI8HFflyXkTyLrJOsxoQr) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Superrare](https://open.spotify.com/album/7HgaeSC1WZWgBnpRda54ph) | 3:37 | 2022-04-05 | 2022-05-04 |
+| [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 | 2022-08-07 |  |
 | [Swimming Pool](https://open.spotify.com/track/6jP573dg0J1eC6QFMoDtqz) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Swimming Pool](https://open.spotify.com/album/0wzrnvw4EABULZ4Cw7biYn) | 3:54 | 2022-07-05 | 2022-08-03 |
 | [Swimmingpool](https://open.spotify.com/track/5XVBtlaKWSojFdzDbz5IWd) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Swimmingpool](https://open.spotify.com/album/545kcGhRWTnZuYO7rHJnEb) | 2:12 | 2021-12-21 | 2022-01-05 |
 | [Swipe \(lovelovelovelovelovelovelove\)](https://open.spotify.com/track/2xBFHYI89zv6nwIsou5sTO) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Swipe \(lovelovelovelovelovelovelove\)](https://open.spotify.com/album/3KINihcfaQ88HpODrf3GEX) | 3:08 | 2022-02-01 | 2022-03-08 |

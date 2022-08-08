@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49218,
+  "num_followers": 49224,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTUxNTQwMCwwMDAwMDAwMDBlOWY2OTVkNTg1OTgxZmZkZmU4ZWI0ZWNjYTcyOTZi",
+  "snapshot_id": "MTY1MTUxNTQwMCwwMDAwMDAwMDdkN2FiMzdjMWFmOWE1MDAxMTFlNjkyYjJmMTQyYTA3",
   "tracks": [
     {
       "added_at": "2022-05-02 18:16:39",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Phantom Power",
-        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 295357,
-      "name": "Bobcaygeon",
-      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Against the Grain",
         "url": "https://open.spotify.com/album/31HTyjLaXPAb2xq3qe83Qd"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 207426,
       "name": "Sweet City Woman",
       "url": "https://open.spotify.com/track/52SCT6ImFklqEhH21lgErO"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Phantom Power",
+        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Cuts Like A Knife",
-        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 319800,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Greatest Hits Remixed (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5XDjmthwOECD5BczWlBkzA"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 246026,
       "name": "Lay It on the Line",
       "url": "https://open.spotify.com/track/4QwcuKjGjtl5fZe7kDdULV"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 319800,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Clumsy",
-        "url": "https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Superman's Dead",
-      "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Akimbo Alogo",
         "url": "https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 205600,
       "name": "Go For Soda",
       "url": "https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Clumsy",
+        "url": "https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Superman's Dead",
+      "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Innocent",
-      "url": "https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Knock 'Em Dead Kid",
         "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
       },
@@ -923,22 +907,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 305413,
-      "name": "Comin' Home",
-      "url": "https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Five Days in July",
         "url": "https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm"
       },
@@ -951,6 +919,38 @@
       "duration_ms": 313920,
       "name": "Hasn't Hit Me Yet - 2012 Remaster",
       "url": "https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 305413,
+      "name": "Comin' Home",
+      "url": "https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Naveed",
-        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
+        "name": "Thick As Thieves",
+        "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
       },
       "artists": [
         {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+          "name": "Trooper",
+          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
         }
       ],
-      "duration_ms": 244040,
-      "name": "Starseed",
-      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
+      "duration_ms": 222426,
+      "name": "Raise A Little Hell",
+      "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Thick As Thieves",
-        "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
-      },
-      "artists": [
-        {
-          "name": "Trooper",
-          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Raise A Little Hell",
-      "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "American Woman",
         "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 229906,
       "name": "No Time",
       "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Share The Land",
-        "url": "https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV"
-      },
-      "artists": [
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Share the Land",
-      "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Forgiveness Rock Record",
         "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 309306,
       "name": "Sweetest Kill",
       "url": "https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Share The Land",
+        "url": "https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "Share the Land",
+      "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Sittin' Heavy",
-        "url": "https://open.spotify.com/album/1xPJIBohk5DtRCXwdmAZAd"
-      },
-      "artists": [
-        {
-          "name": "Monster Truck",
-          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
-        }
-      ],
-      "duration_ms": 266093,
-      "name": "Don't Tell Me How to Live",
-      "url": "https://open.spotify.com/track/3vvNbg3Z5fQYk4FKkDK6V7"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Five Days in July",
         "url": "https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 309973,
       "name": "Bad Timing - 2012 Remaster",
       "url": "https://open.spotify.com/track/1DXCKvUwlBAZJf9TuQweQb"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Yer Favourites",
+        "url": "https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 259026,
+      "name": "Wheat Kings",
+      "url": "https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Yer Favourites",
-        "url": "https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG"
+        "name": "Sittin' Heavy",
+        "url": "https://open.spotify.com/album/1xPJIBohk5DtRCXwdmAZAd"
       },
       "artists": [
         {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+          "name": "Monster Truck",
+          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
         }
       ],
-      "duration_ms": 259026,
-      "name": "Wheat Kings",
-      "url": "https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J"
+      "duration_ms": 266093,
+      "name": "Don't Tell Me How to Live",
+      "url": "https://open.spotify.com/track/3vvNbg3Z5fQYk4FKkDK6V7"
     },
     {
       "added_at": "2022-05-02 18:16:39",

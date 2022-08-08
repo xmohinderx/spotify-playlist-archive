@@ -1096,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Rookies",
+        "url": "https://open.spotify.com/album/2uXzHlJzjZQbhW2w7XzttR"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136742,
+      "name": "Bud\u00e1n Vagy Pesten",
+      "url": "https://open.spotify.com/track/0vrf1NID7s25S8ISHVZlQM"
+    },
+    {
+      "album": {
         "name": "Build a Bitch",
         "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
       },
@@ -2097,7 +2115,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 209400,
       "name": "Egyed\u00fcl - Megb*sztam ezt a kis g\u00e1dzsit",
       "url": "https://open.spotify.com/track/7iH7aaTtLCZ9OdFkGAv7MB"
@@ -6019,7 +6037,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 147164,
       "name": "N\u00e9ztek",
       "url": "https://open.spotify.com/track/2RvZC77XsiE9x434T6o1S2"
@@ -7647,7 +7665,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 211022,
       "name": "Spanom",
       "url": "https://open.spotify.com/track/2iikrNErUXVZ9dgWzNHGsQ"
@@ -7825,7 +7843,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 530690,
       "name": "Sz\u00edv",
       "url": "https://open.spotify.com/track/6Qg42mHmwZdqT4LpV3KnvP"
@@ -8167,7 +8185,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 138971,
       "name": "tevagyazal\u00e1ny",
       "url": "https://open.spotify.com/track/4YU0ptDWe7qvqFjNKNPUjG"

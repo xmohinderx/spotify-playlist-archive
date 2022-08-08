@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes.
 
-76 songs - 5 hr 38 min - not published yet
+76 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

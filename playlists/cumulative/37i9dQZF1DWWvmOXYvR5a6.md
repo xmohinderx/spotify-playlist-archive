@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Kim Seung Min\(김승민\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-495 songs - 1 day 3 hr 8 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
+496 songs - 1 day 3 hr 11 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Fix Me](https://open.spotify.com/track/2TzQZ6iJyZqz0tjFkcFrPe) | [LOGI](https://open.spotify.com/artist/0ewSxMPycHkb7j1ciLzGUW) | [Fix Me](https://open.spotify.com/album/6RFbxZglh7xXZrkkxXWOGv) | 3:08 | 2022-06-09 | 2022-07-14 |
 | [Flamingo](https://open.spotify.com/track/1fLLxMudwvBxDyYGooLJ4K) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6), [Geuneul](https://open.spotify.com/artist/6uSaCBHrprsu7g60k2pcIW) | [Flamingo](https://open.spotify.com/album/0AWzM5jb8KCBx6eF5L9w4I) | 3:02 | 2022-04-01 | 2022-04-21 |
 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 | 2022-04-01 | 2022-05-11 |
-| [Flight +82](https://open.spotify.com/track/5HLl0OKRVpIHtgHwDJzagR) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.2\-2](https://open.spotify.com/album/0gNaQL7iXpZHnzrvz12v1Y) | 2:48 | 2022-05-28 |  |
+| [Flight +82](https://open.spotify.com/track/5HLl0OKRVpIHtgHwDJzagR) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.2\-2](https://open.spotify.com/album/0gNaQL7iXpZHnzrvz12v1Y) | 2:48 | 2022-05-28 | 2022-08-08 |
 | [foff \(Feat\. CHOILB\)](https://open.spotify.com/track/7iPnMNI8xnI3pOq3w8f3Ao) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [OZ Land](https://open.spotify.com/album/3LNjqzURAuyxC1dfMO9FnL) | 2:33 | 2022-05-28 | 2022-07-15 |
 | [Fool To Love](https://open.spotify.com/track/1xF51lGbgdTmJ2QZGbUfwA) | [YELLA D](https://open.spotify.com/artist/4D139q2zdOGkNdWHeFmIog) | [Fool To Love](https://open.spotify.com/album/7dJniFYQQHL7cybhKvOEl4) | 3:04 | 2022-04-01 | 2022-04-21 |
 | [Fragile \(Prod\. Dayrick\)](https://open.spotify.com/track/4OsYZcgIDKPWoezA1sBeUF) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:44 | 2022-04-01 | 2022-07-28 |
@@ -188,6 +188,7 @@
 | [HEAT](https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [HEAT](https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk) | 3:13 | 2022-04-21 | 2022-07-28 |
 | [Hitchhike me \(Feat\. Sik\-K\)](https://open.spotify.com/track/1V4hA20IMYlJ383HwyYKFZ) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:43 | 2022-05-11 | 2022-07-05 |
 | [home dance](https://open.spotify.com/track/4Qa5wyZdRc6rFy4nrg89i3) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc) | [wallflower](https://open.spotify.com/album/1vp1KDamSYYyWjhbGzk0vF) | 3:04 | 2022-04-01 | 2022-07-29 |
+| [home dance](https://open.spotify.com/track/4tfvHVPqR2gzh2IHP1tqkk) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc) | [wallflower](https://open.spotify.com/album/79xZzg0lSKSYwwYZCb8xt6) | 3:04 | 2022-08-04 |  |
 | [Homebody](https://open.spotify.com/track/6MI31BOtD6AKOF0an4fP2H) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [staying](https://open.spotify.com/album/0wt5vsju4vmgCbQ91SVAZo) | 3:41 | 2022-04-01 | 2022-07-29 |
 | [Homebody](https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [staying](https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG) | 3:42 | 2022-07-24 |  |
 | [homesick](https://open.spotify.com/track/1lv4wAkmRwrfQ3oaKDoXqv) | [SANHA](https://open.spotify.com/artist/297dw08YGO0GSd6vOQ3eCO), [JJAX](https://open.spotify.com/artist/4lFWYe3BfUH22wUrAR8nzB) | [homesick](https://open.spotify.com/album/65KWlcE7BKuhhHmKhQJVSm) | 2:56 | 2022-05-28 | 2022-05-31 |

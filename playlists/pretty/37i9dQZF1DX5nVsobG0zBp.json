@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 28626,
+  "num_followers": 28677,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAxMDEyOSwwMDAwMDAwMDhjODYxOTE2ZWYyNjEyZGM3YzgwN2U1NmYxNWE1ZDk0",
+  "snapshot_id": "MTY1NzAxMDEyOSwwMDAwMDAwMDU4YjQ1MTFhMmZjYTMwNDM3NmNiNzQ4YmVjZTdiMDQ3",
   "tracks": [
     {
       "added_at": "2022-07-05 08:35:29",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-07-05 08:35:29",
       "album": {
+        "name": "HEI",
+        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "HEI",
+      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
+    },
+    {
+      "added_at": "2022-07-05 08:35:29",
+      "album": {
         "name": "Carta",
         "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 153703,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
-    },
-    {
-      "added_at": "2022-07-05 08:35:29",
-      "album": {
-        "name": "HEI",
-        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "HEI",
-      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
     },
     {
       "added_at": "2022-07-05 08:35:29",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-07-05 08:35:29",
       "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "Myles 6ix",
-          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 278211,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
+      "duration_ms": 193501,
+      "name": "Lucy Lucy",
+      "url": "https://open.spotify.com/track/2TPBDdqlAb6BitW6KC1KjW"
     },
     {
       "added_at": "2022-07-05 08:35:29",
@@ -903,22 +903,6 @@
       "duration_ms": 235200,
       "name": "1100 Cegonhas",
       "url": "https://open.spotify.com/track/6Lu4LreN9YevvN26udZ5pE"
-    },
-    {
-      "added_at": "2022-07-05 08:35:29",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 193501,
-      "name": "Lucy Lucy",
-      "url": "https://open.spotify.com/track/2TPBDdqlAb6BitW6KC1KjW"
     },
     {
       "added_at": "2022-07-05 08:35:29",
@@ -947,6 +931,22 @@
       "duration_ms": 209882,
       "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
       "url": "https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i"
+    },
+    {
+      "added_at": "2022-07-05 08:35:29",
+      "album": {
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        }
+      ],
+      "duration_ms": 278211,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
     },
     {
       "added_at": "2022-07-05 08:35:29",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-07-05 08:35:29",
       "album": {
-        "name": "Deixar Rolar",
-        "url": "https://open.spotify.com/album/3GqwReTKFEXIEhXko2DxYD"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 233009,
-      "name": "Deixar Rolar",
-      "url": "https://open.spotify.com/track/44mIQZqtFSzBhm4lfivYyF"
-    },
-    {
-      "added_at": "2022-07-05 08:35:29",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 220800,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
+    },
+    {
+      "added_at": "2022-07-05 08:35:29",
+      "album": {
+        "name": "Deixar Rolar",
+        "url": "https://open.spotify.com/album/3GqwReTKFEXIEhXko2DxYD"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 233009,
+      "name": "Deixar Rolar",
+      "url": "https://open.spotify.com/track/44mIQZqtFSzBhm4lfivYyF"
     },
     {
       "added_at": "2022-07-05 08:35:29",

@@ -4,7 +4,7 @@
 
 > Classic funk.
 
-57 songs - 4 hr 20 min - not published yet
+57 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

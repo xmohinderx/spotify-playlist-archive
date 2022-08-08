@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: nobigdyl.
 
-614 songs - 1 day 7 hr 1 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+615 songs - 1 day 7 hr 4 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [CELEBRATE](https://open.spotify.com/track/21LvTVPTfwMOu7gPLJ1fd6) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ) | [CELEBRATE](https://open.spotify.com/album/0CxfDSY6xqyagbrgAYWPJ3) | 3:44 | 2022-05-28 |  |
 | [CEMENT](https://open.spotify.com/track/6Effoyth74yU2TCd6dduDJ) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [CEMENT](https://open.spotify.com/album/53vr8FfzSeDiHXkQSiPRy0) | 2:33 | 2022-05-28 |  |
 | [Change The Channel](https://open.spotify.com/track/5CSmjkOlfKgu2TfTkAKm0D) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Change the Channel](https://open.spotify.com/album/7BsU7piQMlUAv8MZ6IvaiW) | 4:30 | 2021-12-11 | 2022-04-28 |
-| [Changes](https://open.spotify.com/track/243S95CgXiKLn56mfqiiSD) | [Nat Lauren](https://open.spotify.com/artist/2snS4684SFSBRAB9LIvSDL), [Jay Steezy](https://open.spotify.com/artist/3dErHgSjyhYjxSp97JwAy5) | [Changes](https://open.spotify.com/album/0mdCtJs1zE9c5ejQSjCwza) | 3:06 | 2022-06-25 |  |
+| [Changes](https://open.spotify.com/track/243S95CgXiKLn56mfqiiSD) | [Nat Lauren](https://open.spotify.com/artist/2snS4684SFSBRAB9LIvSDL), [Jay Steezy](https://open.spotify.com/artist/3dErHgSjyhYjxSp97JwAy5) | [Changes](https://open.spotify.com/album/0mdCtJs1zE9c5ejQSjCwza) | 3:06 | 2022-06-25 | 2022-08-08 |
 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 | 2022-07-17 |  |
 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-04-29 | 2022-07-08 |
 | [Choose You](https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Choose You](https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA) | 3:05 | 2022-06-25 |  |
@@ -278,6 +278,7 @@
 | [Impossible](https://open.spotify.com/track/2YCMAOOVUzRJKzDMciNnu0) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Impossible](https://open.spotify.com/album/4yhrYvq3KBDsFGrtqM6ATh) | 3:24 | 2022-05-28 |  |
 | [In Awe](https://open.spotify.com/track/5AlFkTiWBzl4a8ORlMAtNH) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [In Awe](https://open.spotify.com/album/0Az5pG8P7oph28gsFRSKx2) | 3:16 | 2021-12-11 | 2022-02-05 |
 | [In Awe \(Live Performance\)](https://open.spotify.com/track/5goNJmUi7j897rieTFe17d) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV), [The Last Take](https://open.spotify.com/artist/313pwacN8Wf7ae4iC4JGfv) | [In Awe \(Live Performance\)](https://open.spotify.com/album/5EBP0IA68JttHLCEvmH0fa) | 3:24 | 2021-12-11 | 2022-05-29 |
+| [In Christ](https://open.spotify.com/track/5tpdyvZ3cRVPPR6koEyg6H) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci), [Akavelli](https://open.spotify.com/artist/5XBo0wn5x7ihlMmOgQhz48), [Tomi Abdon](https://open.spotify.com/artist/2v23fSvuZcejW9PbcWqyux) | [In Christ](https://open.spotify.com/album/7rDG8GrtObQcl9AH2XtFzu) | 3:07 | 2022-08-06 |  |
 | [In My Head](https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM) | 2:55 | 2022-03-12 | 2022-08-07 |
 | [In the Garden](https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT) | [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [In the Garden](https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf) | 3:40 | 2022-04-29 | 2022-08-07 |
 | [Irresponsible](https://open.spotify.com/track/4ag9fLWCLsiZgj1GvK52GE) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Irresponsible](https://open.spotify.com/album/0L4s7cWKEUFvAthWfWtDtT) | 3:28 | 2021-12-11 | 2022-04-29 |

@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Elton John & Ed Sheeran",
-  "num_followers": 202314,
+  "num_followers": 202290,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDkzM2VlOTEwZDQ0MGFiNTVkNDI3MjZmYWY3OTEwMTM3",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDZjZmI4NTdmZDYzOGE5YjRjOTcwMmQxYTViZWU0NGI2",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "christmas morning",
-        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "christmas morning",
-      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Christmas Calling (Jolly Jones)",
         "url": "https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 200461,
       "name": "Christmas Calling (Jolly Jones)",
       "url": "https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "christmas morning",
+        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "christmas morning",
+      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Tinsel In The River",
-        "url": "https://open.spotify.com/album/1p9fZvlA7NCVyxHIsmvefM"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Francis Leftwich",
-          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
-        }
-      ],
-      "duration_ms": 169743,
-      "name": "Tinsel In The River",
-      "url": "https://open.spotify.com/track/73A3CJxM2cHSvqLsPzjvuv"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Christmas Caller",
         "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 188640,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/2p97TwEVvmhVPk1rzMu1x0"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Tinsel In The River",
+        "url": "https://open.spotify.com/album/1p9fZvlA7NCVyxHIsmvefM"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Francis Leftwich",
+          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+        }
+      ],
+      "duration_ms": 169743,
+      "name": "Tinsel In The River",
+      "url": "https://open.spotify.com/track/73A3CJxM2cHSvqLsPzjvuv"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Sing Along With Me",
-        "url": "https://open.spotify.com/album/46roHdAH2qp7LdZAo0STIz"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        },
-        {
-          "name": "Atlantic Holiday",
-          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Sing Along With Me",
-      "url": "https://open.spotify.com/track/7yXdRNtDfc2At6yItKIuMR"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "A Very Darren Crissmas",
         "url": "https://open.spotify.com/album/25CNxbRl0AtnFE05COz6NC"
       },
@@ -1251,18 +1231,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Krampus",
-        "url": "https://open.spotify.com/album/3rKCZFTsWdruzZyOxie9Ha"
+        "name": "Sing Along With Me",
+        "url": "https://open.spotify.com/album/46roHdAH2qp7LdZAo0STIz"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        },
+        {
+          "name": "Atlantic Holiday",
+          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
         }
       ],
-      "duration_ms": 144456,
-      "name": "Krampus",
-      "url": "https://open.spotify.com/track/26BD6NDCE6Ea74l7ThbIrf"
+      "duration_ms": 182933,
+      "name": "Sing Along With Me",
+      "url": "https://open.spotify.com/track/7yXdRNtDfc2At6yItKIuMR"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 97573,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/5jtvS4uu9odCpRC4XvI29B"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Krampus",
+        "url": "https://open.spotify.com/album/3rKCZFTsWdruzZyOxie9Ha"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 144456,
+      "name": "Krampus",
+      "url": "https://open.spotify.com/track/26BD6NDCE6Ea74l7ThbIrf"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "This Year For Christmas",
-        "url": "https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 112361,
-      "name": "This Year For Christmas",
-      "url": "https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "It's the Most Wonderful Time of the Year",
         "url": "https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 177108,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "This Year For Christmas",
+        "url": "https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 112361,
+      "name": "This Year For Christmas",
+      "url": "https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/6HyoKXjrQ2gPomfPd5kq1s"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 197890,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/5b7NpZvS8ueO0B3KNtB0d8"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Songs for Christmas",
         "url": "https://open.spotify.com/album/232HV9TPBGG4N9p9uu6tFX"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 186833,
       "name": "Old Fashioned Holiday",
       "url": "https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/6HyoKXjrQ2gPomfPd5kq1s"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 197890,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/5b7NpZvS8ueO0B3KNtB0d8"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Mr. Christmas",
-        "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 216042,
-      "name": "Mr. Christmas",
-      "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Driving Home for Christmas",
         "url": "https://open.spotify.com/album/1q9hcTbgfH9d2rWK82sbIr"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 228494,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/5IVrfmg1eeDdHCD4TJZwvK"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Mr. Christmas",
+        "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 216042,
+      "name": "Mr. Christmas",
+      "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Christmas In The Sun",
-        "url": "https://open.spotify.com/album/6feYZwtx7wTMYym3cjNyFB"
-      },
-      "artists": [
-        {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "Christmas In The Sun",
-      "url": "https://open.spotify.com/track/44HXNf5vL1AaKiscbtjAwz"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/007MiUATIZAETzwP71vjxQ"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 307440,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/35L5f32OEgIu5yLVfJHFtJ"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Christmas In The Sun",
+        "url": "https://open.spotify.com/album/6feYZwtx7wTMYym3cjNyFB"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "duration_ms": 186813,
+      "name": "Christmas In The Sun",
+      "url": "https://open.spotify.com/track/44HXNf5vL1AaKiscbtjAwz"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "merry christmas, merry christmas to you",
-        "url": "https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 196414,
-      "name": "this christmas",
-      "url": "https://open.spotify.com/track/0jWIUiQMQgrKVjkPEaRjK0"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Night Divine",
         "url": "https://open.spotify.com/album/7AfafNZzH4Tv8vWeTyvTUS"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 216160,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/7JtmuEVASuB41vjs5OkZ09"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "merry christmas, merry christmas to you",
+        "url": "https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 196414,
+      "name": "this christmas",
+      "url": "https://open.spotify.com/track/0jWIUiQMQgrKVjkPEaRjK0"
     },
     {
       "added_at": "2021-12-24 05:00:00",

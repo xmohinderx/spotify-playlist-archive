@@ -4,7 +4,7 @@
 
 > 80s electronic boogie and post\-disco
 
-59 songs - 5 hr 33 min - not published yet
+59 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/21TAzjDYgnP1CJtfVSNB12)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

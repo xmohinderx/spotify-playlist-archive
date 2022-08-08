@@ -4,7 +4,7 @@
 
 > Groove to your family's favorite tracks from Netflix Jr\. Jams.
 
-16 songs - 42 min 41 sec - not published yet
+16 songs - 42 min 41 sec - [published](https://open.spotify.com/playlist/1gC7jsmddkF2yDrgierimn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 116045,
+  "num_followers": 116032,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMxODI5MiwwMDAwMDAwMGMyYWRiZDFmYTM2YzIyNDZmNzkwMTZmZTQ2YmY5ODE5",
+  "snapshot_id": "MTY0MTMxODI5MiwwMDAwMDAwMDRjOGExZGJkNTIzZjdiNjJiYTdhMjIxZjczZjdmNzJk",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Songs of December (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 289786,
-      "name": "It's The Most Wonderful Time Of The Year",
-      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "What Are You Doing New Year's Eve",
         "url": "https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 115375,
       "name": "What Are You Doing New Year's Eve",
       "url": "https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Songs of December (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 289786,
+      "name": "It's The Most Wonderful Time Of The Year",
+      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "A Winter Wonderland",
+        "url": "https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 227748,
+      "name": "A Winter Wonderland",
+      "url": "https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Our Christmas",
         "url": "https://open.spotify.com/album/7L84oGpxhno7o6vEHteELQ"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "A Winter Wonderland",
-        "url": "https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl"
+        "name": "Steal Your Heart",
+        "url": "https://open.spotify.com/album/1xeyU7RnO7CgH3Sh8tdmcu"
       },
       "artists": [
         {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+          "name": "Command Sisters",
+          "url": "https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed"
         }
       ],
-      "duration_ms": 227748,
-      "name": "A Winter Wonderland",
-      "url": "https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR"
+      "duration_ms": 207619,
+      "name": "Steal Your Heart",
+      "url": "https://open.spotify.com/track/7kousDSHeHfE6TTbioVW26"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -919,22 +935,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Steal Your Heart",
-        "url": "https://open.spotify.com/album/1xeyU7RnO7CgH3Sh8tdmcu"
-      },
-      "artists": [
-        {
-          "name": "Command Sisters",
-          "url": "https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed"
-        }
-      ],
-      "duration_ms": 207619,
-      "name": "Steal Your Heart",
-      "url": "https://open.spotify.com/track/7kousDSHeHfE6TTbioVW26"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/2nZeUxTE6r7lDdkZ7MSqor"
       },
@@ -947,38 +947,6 @@
       "duration_ms": 229247,
       "name": "River",
       "url": "https://open.spotify.com/track/54TRbbKvK1ToJF13ph78Av"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Bring Me Cheer",
-        "url": "https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Penalva",
-          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
-        }
-      ],
-      "duration_ms": 145973,
-      "name": "Bring Me Cheer",
-      "url": "https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Coming Home (For Christmas)",
-        "url": "https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT"
-      },
-      "artists": [
-        {
-          "name": "Scott Helman",
-          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
-        }
-      ],
-      "duration_ms": 207792,
-      "name": "Coming Home (For Christmas)",
-      "url": "https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -999,18 +967,34 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Go Tell It On The Mountain",
-        "url": "https://open.spotify.com/album/3uc9cbSv6XfwMNE8lRtR0G"
+        "name": "Coming Home (For Christmas)",
+        "url": "https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT"
       },
       "artists": [
         {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+          "name": "Scott Helman",
+          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Go Tell It On The Mountain",
-      "url": "https://open.spotify.com/track/4z1pZgbzHeNjkVi2U4wyIL"
+      "duration_ms": 207792,
+      "name": "Coming Home (For Christmas)",
+      "url": "https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Bring Me Cheer",
+        "url": "https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+        }
+      ],
+      "duration_ms": 145973,
+      "name": "Bring Me Cheer",
+      "url": "https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1027,6 +1011,22 @@
       "duration_ms": 184853,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Go Tell It On The Mountain",
+        "url": "https://open.spotify.com/album/3uc9cbSv6XfwMNE8lRtR0G"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/4z1pZgbzHeNjkVi2U4wyIL"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Christmas (Baby Please Come Home)",
+        "url": "https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Happy Xmas (War is Over)",
         "url": "https://open.spotify.com/album/69XxAD0dxtlSJENkJDTYYA"
       },
@@ -1147,18 +1163,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Christmas (Baby Please Come Home)",
-        "url": "https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd"
+        "name": "Takin' Care Of Christmas",
+        "url": "https://open.spotify.com/album/55HArZ8d6oaHrv2NTZWyYG"
       },
       "artists": [
         {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+          "name": "Randy Bachman",
+          "url": "https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg"
+        },
+        {
+          "name": "Beverley Mahood",
+          "url": "https://open.spotify.com/artist/2Ur7EJdq2Lv5rOAQDNbCl7"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK"
+      "duration_ms": 213626,
+      "name": "Takin' Care Of Christmas",
+      "url": "https://open.spotify.com/track/1KCFZtY7YZA610dHQTSG8z"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1191,26 +1211,6 @@
       "duration_ms": 232666,
       "name": "This is Christmas",
       "url": "https://open.spotify.com/track/27EP5GDTRtx45fzJX8vSrp"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Takin' Care Of Christmas",
-        "url": "https://open.spotify.com/album/55HArZ8d6oaHrv2NTZWyYG"
-      },
-      "artists": [
-        {
-          "name": "Randy Bachman",
-          "url": "https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg"
-        },
-        {
-          "name": "Beverley Mahood",
-          "url": "https://open.spotify.com/artist/2Ur7EJdq2Lv5rOAQDNbCl7"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Takin' Care Of Christmas",
-      "url": "https://open.spotify.com/track/1KCFZtY7YZA610dHQTSG8z"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 254562,
+      "name": "Love Is Christmas",
+      "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "A Celtic Family Christmas",
         "url": "https://open.spotify.com/album/5VK7arkKtcMJBTJOlB34cS"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv"
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/4eEnHnlWUNeUd6N387IEjn"
       },
       "artists": [
         {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+          "name": "Skydiggers",
+          "url": "https://open.spotify.com/artist/7laI3diMt9Gpz0GAp85qLb"
         }
       ],
-      "duration_ms": 254562,
-      "name": "Love Is Christmas",
-      "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
+      "duration_ms": 233653,
+      "name": "Good King Wenceslas",
+      "url": "https://open.spotify.com/track/67coyu2OnSVJNENhFHLinC"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 134360,
       "name": "Little Toy Trains",
       "url": "https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/4eEnHnlWUNeUd6N387IEjn"
-      },
-      "artists": [
-        {
-          "name": "Skydiggers",
-          "url": "https://open.spotify.com/artist/7laI3diMt9Gpz0GAp85qLb"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Good King Wenceslas",
-      "url": "https://open.spotify.com/track/67coyu2OnSVJNENhFHLinC"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "GIFT 2 U",
-        "url": "https://open.spotify.com/album/4Jz9J0dBhLvUKe2QaZkB3G"
-      },
-      "artists": [
-        {
-          "name": "KALLITECHNIS",
-          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
-        }
-      ],
-      "duration_ms": 191030,
-      "name": "GIFT 2 U",
-      "url": "https://open.spotify.com/track/3CVbAFuBbae8279r6D98Yg"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/35kQKWhXUUcw5sn6FlBIuG"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 198103,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0NDQqQod50GsUoqnJOsbc7"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "GIFT 2 U",
+        "url": "https://open.spotify.com/album/4Jz9J0dBhLvUKe2QaZkB3G"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "duration_ms": 191030,
+      "name": "GIFT 2 U",
+      "url": "https://open.spotify.com/track/3CVbAFuBbae8279r6D98Yg"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "This Christmas Day",
-        "url": "https://open.spotify.com/album/3Jrmm0yAEvd5p4GSDpODL9"
-      },
-      "artists": [
-        {
-          "name": "Mathew V",
-          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
-        }
-      ],
-      "duration_ms": 176167,
-      "name": "This Christmas Day",
-      "url": "https://open.spotify.com/track/2a1N8RvxN5TajDX8ByRF5m"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 169133,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "This Christmas Day",
+        "url": "https://open.spotify.com/album/3Jrmm0yAEvd5p4GSDpODL9"
+      },
+      "artists": [
+        {
+          "name": "Mathew V",
+          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
+        }
+      ],
+      "duration_ms": 176167,
+      "name": "This Christmas Day",
+      "url": "https://open.spotify.com/track/2a1N8RvxN5TajDX8ByRF5m"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "It Won't Be Christmas",
+        "url": "https://open.spotify.com/album/0i1mqmW9B2dVYnsiH34Hus"
+      },
+      "artists": [
+        {
+          "name": "Emma-Lee",
+          "url": "https://open.spotify.com/artist/1OD4aWTiLRPAijuuIahCPS"
+        }
+      ],
+      "duration_ms": 193900,
+      "name": "It Won't Be Christmas",
+      "url": "https://open.spotify.com/track/7N2Nct5EFTfe5LDyTlenWf"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Little Drummer Boy",
         "url": "https://open.spotify.com/album/1PnogosIABFgWFOVRwv6Aj"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 172146,
       "name": "Jingle All The Way / Jingle Bells / Hark The Herald Angels Sing - Medley / Alternate Version",
       "url": "https://open.spotify.com/track/3c96DLRFxEpEmXBRSh2n3L"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "It Won't Be Christmas",
-        "url": "https://open.spotify.com/album/0i1mqmW9B2dVYnsiH34Hus"
-      },
-      "artists": [
-        {
-          "name": "Emma-Lee",
-          "url": "https://open.spotify.com/artist/1OD4aWTiLRPAijuuIahCPS"
-        }
-      ],
-      "duration_ms": 193900,
-      "name": "It Won't Be Christmas",
-      "url": "https://open.spotify.com/track/7N2Nct5EFTfe5LDyTlenWf"
     }
   ],
   "unique_name": "Christmas in Canada",

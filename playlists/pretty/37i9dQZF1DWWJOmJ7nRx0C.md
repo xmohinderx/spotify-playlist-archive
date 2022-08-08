@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,259 likes - 151 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,561 likes - 151 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

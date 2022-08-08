@@ -6,42 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEzMTAyOTk3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEzMTkyOTczLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "engravings",
         "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
@@ -57,23 +25,39 @@
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "NEON BLADE",
-        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
       },
       "artists": [
         {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 265263,
-      "name": "NEON BLADE",
-      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Shut Up and Listen",
         "url": "https://open.spotify.com/album/3wAAwpD30OPym42xsioMmc"
@@ -93,7 +77,23 @@
       "url": "https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
@@ -109,23 +109,7 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -141,7 +125,7 @@
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
@@ -157,23 +141,23 @@
       "url": "https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "Chrissy, Wake Up",
-        "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
       "artists": [
         {
-          "name": "The Gregory Brothers",
-          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
         }
       ],
-      "duration_ms": 65454,
-      "name": "Chrissy, Wake Up",
-      "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -193,59 +177,7 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "Murder In My Mind (Sped Up)",
-        "url": "https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Murder In My Mind - Sped Up",
-      "url": "https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "Car's Outside",
-      "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
@@ -261,59 +193,23 @@
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "Betty (Get Money)",
-        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
+        "name": "Murder In My Mind (Sped Up)",
+        "url": "https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ"
       },
       "artists": [
         {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
         }
       ],
-      "duration_ms": 146470,
-      "name": "Betty (Get Money)",
-      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
+      "duration_ms": 115200,
+      "name": "Murder In My Mind - Sped Up",
+      "url": "https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "Shootout (Sped Up)",
-        "url": "https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr"
-      },
-      "artists": [
-        {
-          "name": "Izzamuzzic",
-          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        }
-      ],
-      "duration_ms": 242142,
-      "name": "Shootout (Sped Up)",
-      "url": "https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Shootout",
         "url": "https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5"
@@ -333,7 +229,59 @@
       "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "Car's Outside",
+      "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "Chrissy, Wake Up",
+        "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
+      },
+      "artists": [
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        }
+      ],
+      "duration_ms": 65454,
+      "name": "Chrissy, Wake Up",
+      "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Deaf 2 Society",
         "url": "https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby"
@@ -349,23 +297,23 @@
       "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "die first",
-        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 177108,
-      "name": "die first",
-      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Baby Hotline / Tea Errors",
         "url": "https://open.spotify.com/album/1AaAZVHtUWpJuLpq96VUuQ"
@@ -381,59 +329,7 @@
       "url": "https://open.spotify.com/track/1R8kvV2AgNPCA2Pp4Im1Ao"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "Sexu\u00e1lna",
-        "url": "https://open.spotify.com/album/45E6EZY5CXPDhGLfvwMcW3"
-      },
-      "artists": [
-        {
-          "name": "Daniella Stylist",
-          "url": "https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp"
-        }
-      ],
-      "duration_ms": 90859,
-      "name": "Sexu\u00e1lna",
-      "url": "https://open.spotify.com/track/5tDBMJcg9I8Qr7GRadaZpJ"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "Ch\u00fdba\u0161 mi",
-        "url": "https://open.spotify.com/album/2OJ26HYxSjkzfKf62ilFCv"
-      },
-      "artists": [
-        {
-          "name": "SIMILIVINLIFE",
-          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
-        },
-        {
-          "name": "AstralKid22",
-          "url": "https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "Hot AF",
-      "url": "https://open.spotify.com/track/3TYJocQQ19oJT77bH3KVse"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
@@ -449,7 +345,43 @@
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "Betty (Get Money)",
+        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "Betty (Get Money)",
+      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "Shootout (Sped Up)",
+        "url": "https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr"
+      },
+      "artists": [
+        {
+          "name": "Izzamuzzic",
+          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "duration_ms": 242142,
+      "name": "Shootout (Sped Up)",
+      "url": "https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
@@ -469,111 +401,43 @@
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "FCKBOI",
-        "url": "https://open.spotify.com/album/7n2Z1ZTkG3nSDGCOWL3tph"
+        "name": "Ch\u00fdba\u0161 mi",
+        "url": "https://open.spotify.com/album/2OJ26HYxSjkzfKf62ilFCv"
       },
       "artists": [
         {
-          "name": "Slaytiiina",
-          "url": "https://open.spotify.com/artist/4qFGmEv8VYKCZGZzxnU4sy"
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
         },
         {
-          "name": "Daniella Stylist",
-          "url": "https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp"
+          "name": "AstralKid22",
+          "url": "https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ"
         }
       ],
-      "duration_ms": 208913,
-      "name": "FCKBOI",
-      "url": "https://open.spotify.com/track/2OBKWbdBdMbq7g4v4hu3nc"
+      "duration_ms": 149461,
+      "name": "Hot AF",
+      "url": "https://open.spotify.com/track/3TYJocQQ19oJT77bH3KVse"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "IMMACULATE",
-        "url": "https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt"
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
       },
       "artists": [
         {
-          "name": "VISXGE",
-          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
         }
       ],
-      "duration_ms": 140873,
-      "name": "IMMACULATE",
-      "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "KOKAINA",
-        "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
-      },
-      "artists": [
-        {
-          "name": "DR. VODKA",
-          "url": "https://open.spotify.com/artist/3qb0oGqshqtUmp7AMfKoZi"
-        }
-      ],
-      "duration_ms": 166437,
-      "name": "KOKAINA",
-      "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "TRAPPIN LONELY",
-        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        },
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Baby a Benzo",
-      "url": "https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 135902,
-      "name": "SNAP - High and Fast",
-      "url": "https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -593,91 +457,71 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
+        "name": "die first",
+        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
       },
       "artists": [
         {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 257147,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
+      "duration_ms": 177108,
+      "name": "die first",
+      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "Like Wooh Wooh",
-        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+        "name": "IMMACULATE",
+        "url": "https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt"
       },
       "artists": [
         {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+          "name": "VISXGE",
+          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
         }
       ],
-      "duration_ms": 196044,
-      "name": "Like Wooh Wooh",
-      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
+      "duration_ms": 140873,
+      "name": "IMMACULATE",
+      "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
       "artists": [
         {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
         }
       ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "Superache",
-        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 216094,
-      "name": "Family Line",
-      "url": "https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5"
+      "duration_ms": 135902,
+      "name": "SNAP - High and Fast",
+      "url": "https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
-      "album": {
-        "name": "Tvoja Hoe",
-        "url": "https://open.spotify.com/album/10mqweHm7661O4MENzK7AY"
-      },
-      "artists": [
-        {
-          "name": "Daniella Stylist",
-          "url": "https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp"
-        },
-        {
-          "name": "Xen",
-          "url": "https://open.spotify.com/artist/4ePdO6VXNWqpaYceaDm8vc"
-        }
-      ],
-      "duration_ms": 159219,
-      "name": "Tvoja Hoe",
-      "url": "https://open.spotify.com/track/4hFNCF6JHvSbu8GuYDvvH0"
-    },
-    {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Costa Rica",
         "url": "https://open.spotify.com/album/4ywSu0JCtzQD1IpXZn2eQf"
@@ -693,23 +537,111 @@
       "url": "https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "WITHOUT A HEAD",
-        "url": "https://open.spotify.com/album/4G3FWN8MVKRy2CguLCuGA1"
+        "name": "KOKAINA",
+        "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
       },
       "artists": [
         {
-          "name": "SPURIA",
-          "url": "https://open.spotify.com/artist/3oeB6ng7JxpjHhE42GGRil"
+          "name": "DR. VODKA",
+          "url": "https://open.spotify.com/artist/3qb0oGqshqtUmp7AMfKoZi"
         }
       ],
-      "duration_ms": 120137,
-      "name": "WITHOUT A HEAD",
-      "url": "https://open.spotify.com/track/4EMHwQzXsVW3wvGjvVICcQ"
+      "duration_ms": 166437,
+      "name": "KOKAINA",
+      "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "FCKBOI",
+        "url": "https://open.spotify.com/album/7n2Z1ZTkG3nSDGCOWL3tph"
+      },
+      "artists": [
+        {
+          "name": "Slaytiiina",
+          "url": "https://open.spotify.com/artist/4qFGmEv8VYKCZGZzxnU4sy"
+        },
+        {
+          "name": "Daniella Stylist",
+          "url": "https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp"
+        }
+      ],
+      "duration_ms": 208913,
+      "name": "FCKBOI",
+      "url": "https://open.spotify.com/track/2OBKWbdBdMbq7g4v4hu3nc"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "Paro (Speed Up)",
+        "url": "https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Paro - Speed Up",
+      "url": "https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "TRAPPIN LONELY",
+        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Baby a Benzo",
+      "url": "https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "Sexu\u00e1lna",
+        "url": "https://open.spotify.com/album/45E6EZY5CXPDhGLfvwMcW3"
+      },
+      "artists": [
+        {
+          "name": "Daniella Stylist",
+          "url": "https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp"
+        }
+      ],
+      "duration_ms": 90859,
+      "name": "Sexu\u00e1lna",
+      "url": "https://open.spotify.com/track/5tDBMJcg9I8Qr7GRadaZpJ"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 216094,
+      "name": "Family Line",
+      "url": "https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
@@ -729,23 +661,71 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "Show Me Your Back",
-        "url": "https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR"
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
       },
       "artists": [
         {
-          "name": "FindMyName",
-          "url": "https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2"
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Show Me Your Back",
-      "url": "https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ"
+      "duration_ms": 196044,
+      "name": "Like Wooh Wooh",
+      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "Below the Surface",
+        "url": "https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE"
+      },
+      "artists": [
+        {
+          "name": "Griffinilla",
+          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
+        }
+      ],
+      "duration_ms": 134857,
+      "name": "Below the Surface",
+      "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "Victoria\u2019s Secret",
+        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Victoria\u2019s Secret",
+      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "Banan",
         "url": "https://open.spotify.com/album/03VJ4k855Lav4Xj030ODgE"
@@ -769,55 +749,87 @@
       "url": "https://open.spotify.com/track/7sqpK9TpNVIWSn01Nm2AUu"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "COWBELL WARRIOR!",
-        "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
       "artists": [
         {
-          "name": "Sxmpra",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
         }
       ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIOR!",
-      "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
+      "duration_ms": 257147,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "Below the Surface",
-        "url": "https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE"
+        "name": "after dark x sweater weather",
+        "url": "https://open.spotify.com/album/7xZP5oKCuxb4cRlzX0sFUe"
       },
       "artists": [
         {
-          "name": "Griffinilla",
-          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
+          "name": "really sad music",
+          "url": "https://open.spotify.com/artist/1ypLXSXPK2XBhdcCFMa8N3"
         }
       ],
-      "duration_ms": 134857,
-      "name": "Below the Surface",
-      "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR"
+      "duration_ms": 290571,
+      "name": "after dark x sweater weather",
+      "url": "https://open.spotify.com/track/4sGPzDEbvgrtBePr2cPWiv"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "Jack In The Box",
-        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+        "name": "Blitzkrieg 2022 - Drammen",
+        "url": "https://open.spotify.com/album/3GUUcR6YtDVmGPg5yEhFIf"
       },
       "artists": [
         {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+          "name": "Kris Winther",
+          "url": "https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG"
+        },
+        {
+          "name": "SuperJonny",
+          "url": "https://open.spotify.com/artist/1qN9U0yBn6fvVbz0GXSCsc"
+        },
+        {
+          "name": "Rapposaurus Rex",
+          "url": "https://open.spotify.com/artist/3ghekvbJpcKDGyauENQfzT"
+        },
+        {
+          "name": "LamboLaz",
+          "url": "https://open.spotify.com/artist/65RF0CIG7aJEWRcdHIbdLN"
         }
       ],
-      "duration_ms": 180022,
-      "name": "MORE",
-      "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
+      "duration_ms": 185625,
+      "name": "Blitzkrieg 2022 - Drammen",
+      "url": "https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
+      "album": {
+        "name": "Tvoja Hoe",
+        "url": "https://open.spotify.com/album/10mqweHm7661O4MENzK7AY"
+      },
+      "artists": [
+        {
+          "name": "Daniella Stylist",
+          "url": "https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp"
+        },
+        {
+          "name": "Xen",
+          "url": "https://open.spotify.com/artist/4ePdO6VXNWqpaYceaDm8vc"
+        }
+      ],
+      "duration_ms": 159219,
+      "name": "Tvoja Hoe",
+      "url": "https://open.spotify.com/track/4hFNCF6JHvSbu8GuYDvvH0"
+    },
+    {
+      "added_at": "2022-08-07 13:09:33",
       "album": {
         "name": "M\u016fj space",
         "url": "https://open.spotify.com/album/1l6JaK019I2LKFQdEAjnVA"
@@ -833,36 +845,36 @@
       "url": "https://open.spotify.com/track/6dIGg8BKALQPmED3fV4jsw"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "Paro (Speed Up)",
-        "url": "https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL"
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
       },
       "artists": [
         {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Sxmpra",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Paro - Speed Up",
-      "url": "https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448"
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
     },
     {
-      "added_at": "2022-08-06 12:09:57",
+      "added_at": "2022-08-07 13:09:33",
       "album": {
-        "name": "Victoria\u2019s Secret",
-        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
+        "name": "WITHOUT A HEAD",
+        "url": "https://open.spotify.com/album/4G3FWN8MVKRy2CguLCuGA1"
       },
       "artists": [
         {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+          "name": "SPURIA",
+          "url": "https://open.spotify.com/artist/3oeB6ng7JxpjHhE42GGRil"
         }
       ],
-      "duration_ms": 176124,
-      "name": "Victoria\u2019s Secret",
-      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
+      "duration_ms": 120137,
+      "name": "WITHOUT A HEAD",
+      "url": "https://open.spotify.com/track/4EMHwQzXsVW3wvGjvVICcQ"
     }
   ],
   "unique_name": "Viral 50 - Slovakia",

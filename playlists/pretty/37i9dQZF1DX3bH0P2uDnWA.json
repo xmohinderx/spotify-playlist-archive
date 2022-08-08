@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 298350,
+  "num_followers": 298514,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDY1YjE1NTczODc1ODRhN2U1ODA1ODEwOGQzZjYzOWE2",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDE2ZDE1MDVhNjQ0ZGJhODRlNjhmODA4NTFlYzIxOTQ0",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
-      },
-      "artists": [
-        {
-          "name": "Annella",
-          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
-        }
-      ],
-      "duration_ms": 195463,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Say What (2019)",
         "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
       },
@@ -635,6 +619,54 @@
       "duration_ms": 193809,
       "name": "Say What - Pisk Electro Swing Remix",
       "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
+      },
+      "artists": [
+        {
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+        }
+      ],
+      "duration_ms": 195463,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "No Swinggity",
+        "url": "https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio"
+      },
+      "artists": [
+        {
+          "name": "Minimatic",
+          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "No Swinggity",
+      "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Mais Non (1920 Version)",
+        "url": "https://open.spotify.com/album/1WnrAf1vekSKVzhUUiixzO"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 191801,
+      "name": "Mais Non - 1920 Version",
+      "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
     },
     {
       "added_at": "2021-11-19 05:02:00",
@@ -655,38 +687,6 @@
       "duration_ms": 194741,
       "name": "Crazy Out There",
       "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Mais Non (1920 Version)",
-        "url": "https://open.spotify.com/album/1WnrAf1vekSKVzhUUiixzO"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 191801,
-      "name": "Mais Non - 1920 Version",
-      "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "No Swinggity",
-        "url": "https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio"
-      },
-      "artists": [
-        {
-          "name": "Minimatic",
-          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "No Swinggity",
-      "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -775,6 +775,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Glam! - Single",
+        "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
+      },
+      "artists": [
+        {
+          "name": "Dimie Cat",
+          "url": "https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI"
+        }
+      ],
+      "duration_ms": 187689,
+      "name": "Glam - Electro-swing Remix",
+      "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/4HMagicni8MA9ifFgQH2Nj"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 192741,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Ladies Night",
-        "url": "https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI"
-      },
-      "artists": [
-        {
-          "name": "11 Acorn Lane",
-          "url": "https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5"
-        }
-      ],
-      "duration_ms": 202497,
-      "name": "Perfect (Electro Swing Remix)",
-      "url": "https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -823,34 +823,18 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Glam! - Single",
-        "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
+        "name": "Ladies Night",
+        "url": "https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI"
       },
       "artists": [
         {
-          "name": "Dimie Cat",
-          "url": "https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI"
+          "name": "11 Acorn Lane",
+          "url": "https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5"
         }
       ],
-      "duration_ms": 187689,
-      "name": "Glam - Electro-swing Remix",
-      "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
-    },
-    {
-      "added_at": "2021-01-22 10:35:47",
-      "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
-      },
-      "artists": [
-        {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
+      "duration_ms": 202497,
+      "name": "Perfect (Electro Swing Remix)",
+      "url": "https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -871,6 +855,22 @@
       "duration_ms": 198666,
       "name": "Back in Time",
       "url": "https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz"
+    },
+    {
+      "added_at": "2021-01-22 10:35:47",
+      "album": {
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
+      },
+      "artists": [
+        {
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+        }
+      ],
+      "duration_ms": 213120,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
       "added_at": "2021-10-29 04:02:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Wake Up Romeo",
+        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
+      },
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+        }
+      ],
+      "duration_ms": 207793,
+      "name": "Wake Up Romeo",
+      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "The Electric Swing Circus - Remixed Vol. 1",
         "url": "https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 224588,
       "name": "Mr Magpie - Jamie Berry Remix",
       "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Wake Up Romeo",
-        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
-      },
-      "artists": [
-        {
-          "name": "Caro Emerald",
-          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
-        }
-      ],
-      "duration_ms": 207793,
-      "name": "Wake Up Romeo",
-      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Big Blue Swing",
-        "url": "https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7"
-      },
-      "artists": [
-        {
-          "name": "Tape Five",
-          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
-        }
-      ],
-      "duration_ms": 227127,
-      "name": "Big Blue Swing",
-      "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "My 20s Woman",
@@ -1131,6 +1115,38 @@
       "duration_ms": 186000,
       "name": "My 20s Woman",
       "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Big Blue Swing",
+        "url": "https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7"
+      },
+      "artists": [
+        {
+          "name": "Tape Five",
+          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
+        }
+      ],
+      "duration_ms": 227127,
+      "name": "Big Blue Swing",
+      "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1155,22 +1171,6 @@
       "duration_ms": 215625,
       "name": "Comin' Up Swinging",
       "url": "https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -1211,6 +1211,22 @@
       "duration_ms": 168000,
       "name": "Ma\u00f1ana - Jojo Effect & Gardener of Delight Remix",
       "url": "https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Re-Charleston (Electro Swing)",
+        "url": "https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "Re-Charleston (Radio Edit)",
+      "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Re-Charleston (Electro Swing)",
-        "url": "https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "Re-Charleston (Radio Edit)",
-      "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Introducing, Bart&Baker",
         "url": "https://open.spotify.com/album/4nkLzdBaKeAHz0MqMWDjf9"
       },
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Butterfly (Remixes)",
-        "url": "https://open.spotify.com/album/0heEIQabpKLOmX5AX6HDAX"
-      },
-      "artists": [
-        {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 350476,
-      "name": "Butterfly - Wolfgang Lohr Remix",
-      "url": "https://open.spotify.com/track/2vTznimGgaFXza6a2ArS10"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Never let you go",
         "url": "https://open.spotify.com/album/6ilFub0J7EMvDS4BHEH5yZ"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 191506,
       "name": "Never let you go",
       "url": "https://open.spotify.com/track/5IK9dSUSzioE9lilLi4AEi"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Butterfly (Remixes)",
+        "url": "https://open.spotify.com/album/0heEIQabpKLOmX5AX6HDAX"
+      },
+      "artists": [
+        {
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "duration_ms": 350476,
+      "name": "Butterfly - Wolfgang Lohr Remix",
+      "url": "https://open.spotify.com/track/2vTznimGgaFXza6a2ArS10"
     },
     {
       "added_at": "2020-10-30 09:06:04",

@@ -1,12 +1,12 @@
 {
   "description": "Heavy, intense and aggressive tracks. Chaotic in all the good ways. Cover: Underoath",
-  "num_followers": 3701,
+  "num_followers": 3831,
   "original_name": "Complete Chaos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDk1OTkxYTIzMDE1NjkyNDlmM2YyZDI5OGViNTc2NjBi",
+  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDdkMGNiMGIyMWQyNWU5MzgxZTU5NjY2ZGRhZmY2YWJm",
   "tracks": [
     {
       "added_at": "2022-04-01 16:27:04",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/6klYyVkzntFBjJch93UB6y"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "Boomslang",
+      "url": "https://open.spotify.com/track/6LD1DGfg1JCvQxL1sxgUWi"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "The Legacy of Shi",
         "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Absolute",
-        "url": "https://open.spotify.com/album/6klYyVkzntFBjJch93UB6y"
-      },
-      "artists": [
-        {
-          "name": "Kublai Khan TX",
-          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "Boomslang",
-      "url": "https://open.spotify.com/track/6LD1DGfg1JCvQxL1sxgUWi"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Radical",
-        "url": "https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Planet Shit",
-      "url": "https://open.spotify.com/track/7GLg6mpa868wvquWv4O3ja"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Yenta",
         "url": "https://open.spotify.com/album/75Mk7bCKer2jIafSsYHjGl"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 189998,
       "name": "Yenta",
       "url": "https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Radical",
+        "url": "https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Planet Shit",
+      "url": "https://open.spotify.com/track/7GLg6mpa868wvquWv4O3ja"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "grayout",
+        "url": "https://open.spotify.com/album/00hXhNL6H4a1HJSQg9AmBS"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 120155,
+      "name": "grayout",
+      "url": "https://open.spotify.com/track/6IZ7Pg6C3vduV2gQsycrYS"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Never Asked For Heaven",
         "url": "https://open.spotify.com/album/5awzgVHH13IKKD2WdS8aUM"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 89733,
       "name": "Fighting The Slip",
       "url": "https://open.spotify.com/track/6aqRjOiAvUfB3QGLxQ0oxD"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "grayout",
-        "url": "https://open.spotify.com/album/00hXhNL6H4a1HJSQg9AmBS"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 120155,
-      "name": "grayout",
-      "url": "https://open.spotify.com/track/6IZ7Pg6C3vduV2gQsycrYS"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Hyde Howitzer",
-        "url": "https://open.spotify.com/album/05GQTCg3QtryOaUwZb7HDr"
-      },
-      "artists": [
-        {
-          "name": "The Kodiak",
-          "url": "https://open.spotify.com/artist/2guJKLlSaMPI8CJFJ4aRcP"
-        }
-      ],
-      "duration_ms": 208768,
-      "name": "Hyde Howitzer",
-      "url": "https://open.spotify.com/track/4KomSufeAvWBD27E3izXEz"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "VirUS (feat. Marcus Bischoff of Heaven Shall Burn)",
         "url": "https://open.spotify.com/album/0RE68CgZ2RGIzxvjSkcS18"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 235381,
       "name": "VirUS (feat. Marcus Bischoff of Heaven Shall Burn)",
       "url": "https://open.spotify.com/track/1eHQcUWeaxirrRU0FWiUM3"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Hyde Howitzer",
+        "url": "https://open.spotify.com/album/05GQTCg3QtryOaUwZb7HDr"
+      },
+      "artists": [
+        {
+          "name": "The Kodiak",
+          "url": "https://open.spotify.com/artist/2guJKLlSaMPI8CJFJ4aRcP"
+        }
+      ],
+      "duration_ms": 208768,
+      "name": "Hyde Howitzer",
+      "url": "https://open.spotify.com/track/4KomSufeAvWBD27E3izXEz"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Jump!! (Or Get Jumped!!!)((by the future))",
-        "url": "https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8"
-      },
-      "artists": [
-        {
-          "name": "Soul Glo",
-          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
-        }
-      ],
-      "duration_ms": 206245,
-      "name": "Jump!! (Or Get Jumped!!!)((by the future))",
-      "url": "https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Reincarnate",
         "url": "https://open.spotify.com/album/60xXitOtSrFl4di6wCA5V7"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 223744,
       "name": "Reincarnate",
       "url": "https://open.spotify.com/track/5T0kdOTi4ThnKjq2nIPbzS"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Jump!! (Or Get Jumped!!!)((by the future))",
+        "url": "https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8"
+      },
+      "artists": [
+        {
+          "name": "Soul Glo",
+          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+        }
+      ],
+      "duration_ms": 206245,
+      "name": "Jump!! (Or Get Jumped!!!)((by the future))",
+      "url": "https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv"
     },
     {
       "added_at": "2022-04-01 16:27:04",

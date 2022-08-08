@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Nicky Jam
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,864 likes - 257 songs - 14 hr 11 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,863 likes - 257 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

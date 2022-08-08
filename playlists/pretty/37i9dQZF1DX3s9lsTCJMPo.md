@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,753 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,819 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 37 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
 | 38 | [The Hammer](https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:09 |
 | 39 | [Gee Me the Ting](https://open.spotify.com/track/7wls4oEjXyIU7Rmzw392T6) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Charlie's Golden Hitz of Calypso & Soca](https://open.spotify.com/album/2vqpWf13PYMn6vuXDAMrew) | 5:47 |
-| 40 | [Get on Bad](https://open.spotify.com/track/0zuzRk0l3EWZroyXi4KtCg) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Debble\-Ish Rage](https://open.spotify.com/album/7qzOetyDNaHjI146S6tRpr) | 3:10 |
-| 41 | [Hold Ya Bam Bam](https://open.spotify.com/track/7oDtXMihSU1Sp5g0ukw56N) | [Speady](https://open.spotify.com/artist/343Fose6Dkb6U8yTvVYttG) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 4:52 |
-| 42 | [Wave Wid Me](https://open.spotify.com/track/30BrXdAkOF4rXyNbzV762F) | [Alison Hinds Feat\. Peter Ram](https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:39 |
+| 40 | [Hold Ya Bam Bam](https://open.spotify.com/track/7oDtXMihSU1Sp5g0ukw56N) | [Speady](https://open.spotify.com/artist/343Fose6Dkb6U8yTvVYttG) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 4:52 |
+| 41 | [Get on Bad](https://open.spotify.com/track/0zuzRk0l3EWZroyXi4KtCg) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Debble\-Ish Rage](https://open.spotify.com/album/7qzOetyDNaHjI146S6tRpr) | 3:10 |
+| 42 | [Get Something and Wave](https://open.spotify.com/track/0qfXpnvNnGozj1YFbxyYUn) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 6:33 |
 | 43 | [Footsteps \(feat\. Wayne Rodriguez\)](https://open.spotify.com/track/6Wq2U3xlL953CurfNLWfeM) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Wayne Rodriguez](https://open.spotify.com/artist/3tkTFE3gM6p7EWW385JsVJ) | [Charge](https://open.spotify.com/album/6hYk9G38OkC0SQjFOLDoAY) | 4:36 |
 | 44 | [Calypso Music](https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 7:13 |
-| 45 | [Get Something and Wave](https://open.spotify.com/track/0qfXpnvNnGozj1YFbxyYUn) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 6:33 |
-| 46 | [Congo Man](https://open.spotify.com/track/3q4Sj5DLRjnoSaPyujVQkm) | [Mighty Sparrow](https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w) | [Dance Party Gold](https://open.spotify.com/album/4fdqG9SOOd87uSIOVrUgDE) | 6:10 |
+| 45 | [Congo Man](https://open.spotify.com/track/3q4Sj5DLRjnoSaPyujVQkm) | [Mighty Sparrow](https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w) | [Dance Party Gold](https://open.spotify.com/album/4fdqG9SOOd87uSIOVrUgDE) | 6:10 |
+| 46 | [Wave Wid Me](https://open.spotify.com/track/30BrXdAkOF4rXyNbzV762F) | [Alison Hinds Feat\. Peter Ram](https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:39 |
 | 47 | [Thunder](https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg) | [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 6:35 |
 | 48 | [Movin To De Left](https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO) | [Nigel Lewis](https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F) | [Soca for De World](https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN) | 5:17 |
 | 49 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 56 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
 | 57 | [Big Truck](https://open.spotify.com/track/2YH84hlyInKrhJupJQMGtj) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Heavy Duty](https://open.spotify.com/album/4rw2BiS4oNLnrHuT5drVs7) | 4:10 |
 | 58 | [This Is How](https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi) | [Crazy](https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 6:04 |
-| 59 | [GLOW](https://open.spotify.com/track/0YZ1vakJa3mEF1wXZzmw2S) | [Alison Hinds & David Rudder](https://open.spotify.com/artist/73YH3fBByh0xEhpNYLzHQO) | [D'soca Zone \- The 2ND Wine](https://open.spotify.com/album/4AxjAtUc57rivT8Z1RxApy) | 4:26 |
-| 60 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
+| 59 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
+| 60 | [GLOW](https://open.spotify.com/track/0YZ1vakJa3mEF1wXZzmw2S) | [Alison Hinds & David Rudder](https://open.spotify.com/artist/73YH3fBByh0xEhpNYLzHQO) | [D'soca Zone \- The 2ND Wine](https://open.spotify.com/album/4AxjAtUc57rivT8Z1RxApy) | 4:26 |
 | 61 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
 | 62 | [Stranger](https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D) | [Shadow](https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh) | [Just for You](https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs) | 5:38 |
 | 63 | [Wining Season \(Remix\) \(feat\. Shaggy\)](https://open.spotify.com/track/2XarXxbztfFGrFaEhdQRyy) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Wining Season](https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW) | 4:01 |
 | 64 | [Thelma](https://open.spotify.com/track/4GnGD3F8t286bMNnmQSIGD) | [South South West](https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 4:15 |
-| 65 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
-| 66 | [X Man](https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [X Man](https://open.spotify.com/album/7MWMgPiGXkkuCwSFt8LwAp) | 3:41 |
+| 65 | [X Man](https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [X Man](https://open.spotify.com/album/7MWMgPiGXkkuCwSFt8LwAp) | 3:41 |
+| 66 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
 | 67 | [Tremble It](https://open.spotify.com/track/6SAn169CqU4vFXK8osHkWI) | [Roy Cape All Stars](https://open.spotify.com/artist/4DuDowt2DHca9YTJkMQ7ne), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Roy Cape: A Calypso and Soca Anthology](https://open.spotify.com/album/5a218JENjR6SXj0pHQdsGy) | 4:08 |
 | 68 | [De River](https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1) | [Blue Ventures](https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 4:32 |
 | 69 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 79 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
 | 80 | [Chances](https://open.spotify.com/track/1sDkgD3gACSXmfvTfSAEFP) | [Blue Ventures Feat\. Sanell Dampster](https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:51 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDYyY2UzZGExYTc0OTU4ZTIxYTZhZWM1ODcxYWM5MDQy`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDMzZGUwMTk4M2RjZTYxZThlYTJkNDM1ZGM2OGEzMzM5`

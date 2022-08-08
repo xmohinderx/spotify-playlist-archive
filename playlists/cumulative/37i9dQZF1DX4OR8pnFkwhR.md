@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ao
 
-339 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+340 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Free](https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Free](https://open.spotify.com/album/74BcG9pHH1R3OJRVBiKC8g) | 3:02 | 2022-02-17 | 2022-02-23 |
 | [Freezin' Cold](https://open.spotify.com/track/6bEaHOVgu3Srz17tvh3FEA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Born Again](https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc) | 4:19 | 2022-02-17 | 2022-03-09 |
 | [FRIDAY KIDS CHINA TOWN](https://open.spotify.com/track/1tNCkvccVymw8vb8zYuVt2) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [FRIDAY KIDS CHINA TOWN](https://open.spotify.com/album/5ZV3AWQv944HTPZznYh6KA) | 3:04 | 2022-04-19 | 2022-06-15 |
-| [Future Era](https://open.spotify.com/track/5IvrT1TvyvKo7wxgbFylYW) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Handsome Na Dance](https://open.spotify.com/album/7wuYyZjzy4m5671FOzHo3g) | 4:40 | 2022-07-28 |  |
+| [Future Era](https://open.spotify.com/track/5IvrT1TvyvKo7wxgbFylYW) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Handsome Na Dance](https://open.spotify.com/album/7wuYyZjzy4m5671FOzHo3g) | 4:40 | 2022-07-28 | 2022-08-08 |
 | [garden.](https://open.spotify.com/track/2aDshEBdWAyUo4H8z9AHbO) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [garden.](https://open.spotify.com/album/1l1s0fAZcrYEkJ6thwDFZk) | 3:35 | 2022-05-24 |  |
 | [Gerbera](https://open.spotify.com/track/6XAAEYr0JoYH86BXR797l7) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Gerbera](https://open.spotify.com/album/1aCpE4qQJ99g18K1AWVP5f) | 3:27 | 2022-03-29 | 2022-04-27 |
 | [GHOST](https://open.spotify.com/track/5hMPL9uwIHTMzV3ASz9IpI) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [GHOST](https://open.spotify.com/album/6fU3bolaKlQff22zpWZ3lY) | 2:41 | 2022-05-24 | 2022-07-01 |
@@ -85,6 +85,7 @@
 | [ia](https://open.spotify.com/track/2mnUQfzbAM5KLLL6vjhlpG) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8) | 4:14 | 2022-07-14 | 2022-07-29 |
 | [Jubilee](https://open.spotify.com/track/4GvzdbMFTbxMavCVbE9yF2) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Life Is Beautiful](https://open.spotify.com/album/6n8QbQQAamira9hPwP1URm) | 3:48 | 2022-05-10 | 2022-05-18 |
 | [kabin](https://open.spotify.com/track/4jUywzQdvP3CJjJ4BfeDif) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0iRuZp1ClTJ1HIKPihHv8s) | 3:27 | 2022-07-28 |  |
+| [KANDEN \(feat\. ゆるふわギャング\)](https://open.spotify.com/track/0PYB0GpSmN26QVXtvdzMv4) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [YC2.5](https://open.spotify.com/album/6Zn3tfvVOXgR7UoQodijM0) | 2:51 | 2022-08-07 |  |
 | [Katte ni Shiyagare!](https://open.spotify.com/track/6oflgnyu1822rgT6HxE6WC) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Katte ni Shiyagare!](https://open.spotify.com/album/4KwSJf3KTVSoksSYT1asB1) | 6:12 | 2022-07-28 |  |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/0Yo7YBmvoA36hmRAM1F7NN) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/3sp61F4s7fSWvfvVODCbU8) | 2:59 | 2022-07-28 | 2022-08-03 |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-26 | 2022-07-29 |
@@ -154,7 +155,7 @@
 | [Small World](https://open.spotify.com/track/0wRayZpIP9rv3gGz3jQPlp) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Small World](https://open.spotify.com/album/1pPlX9beCj4fdbNYeqD7kH) | 4:42 | 2022-03-01 | 2022-05-11 |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-02 |  |
 | [So far](https://open.spotify.com/track/1FlHF3KWU8dOjpevI888yB) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Déjà vu](https://open.spotify.com/album/4fVSiMaOdEePo3OImUBGZD) | 3:24 | 2022-07-19 | 2022-08-03 |
-| [SoiNeon](https://open.spotify.com/track/6KHhrzEfS1q3sw3FV5hPIr) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [SoiNeon](https://open.spotify.com/album/1q6tK0Rryn8mrD97eDFiVm) | 3:36 | 2022-07-28 |  |
+| [SoiNeon](https://open.spotify.com/track/6KHhrzEfS1q3sw3FV5hPIr) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [SoiNeon](https://open.spotify.com/album/1q6tK0Rryn8mrD97eDFiVm) | 3:36 | 2022-07-28 | 2022-08-08 |
 | [SoiNeon](https://open.spotify.com/track/6utqEzW7oh8bxUnEt3YVpM) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [SoiNeon](https://open.spotify.com/album/4uWjlIXZe66HjKVRura9hR) | 3:36 | 2022-07-12 | 2022-07-29 |
 | [SOMEDAY \- Itsuka \(feat\. tonun\) \- 45s Edit](https://open.spotify.com/track/5reLsl2aIIjUdZgcNIMBWU) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [SOMEDAY \- Itsuka \(feat\. tonun\)](https://open.spotify.com/album/6yndqOxtCbFBpwy5Bz8D6Z) | 5:03 | 2022-03-29 | 2022-04-01 |
 | [SPACESHIP](https://open.spotify.com/track/1pV9OnvnLtLyy4EFSUdM2d) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Talking Box \(Dirty Pop Remix\) / SPACESHIP](https://open.spotify.com/album/0cQWPaUqLIG3bj44qArE7q) | 4:02 | 2022-03-31 | 2022-05-11 |

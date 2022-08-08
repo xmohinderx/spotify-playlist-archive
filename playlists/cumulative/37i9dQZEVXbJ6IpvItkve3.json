@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "album": {
         "name": "Anxious",
         "url": "https://open.spotify.com/album/7zdqBNL7UW6ez29rMY0NJ0"
       },
@@ -925,7 +943,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 228373,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
@@ -2899,7 +2917,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -4907,7 +4925,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 204847,
       "name": "\u05d0\u05d4\u05d5\u05d1\u05d9 \u05dc\u05d1 \u05d0\u05d3\u05d5\u05dd",
       "url": "https://open.spotify.com/track/2ICsg0MAobTLg4VVjW2iE5"
@@ -5471,7 +5489,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 200142,
       "name": "\u05d0\u05e4\u05e1 \u05de\u05d0\u05de\u05e5",
       "url": "https://open.spotify.com/track/2liUMhNvpAxRNVAGnz8jNJ"
@@ -8205,7 +8223,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 355483,
       "name": "\u05e2\u05d5\u05dc\u05dd \u05de\u05e9\u05d5\u05d2\u05e2",
       "url": "https://open.spotify.com/track/4JmmjsGmOED0sn0Le3r84u"
@@ -8439,7 +8457,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 205147,
       "name": "\u05e4\u05e8\u05d9\u05de\u05d9\u05d8\u05d9\u05d1\u05d9",
       "url": "https://open.spotify.com/track/3yrRbZeS9ZKLRi2QDRXyrc"
@@ -8609,7 +8627,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 227700,
       "name": "\u05e7\u05e8\u05df \u05e9\u05de\u05e9",
       "url": "https://open.spotify.com/track/7qbXsnOZagWxv6QQzMKdDN"

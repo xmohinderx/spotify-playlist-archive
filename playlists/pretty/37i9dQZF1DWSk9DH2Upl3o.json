@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Aqueous",
-  "num_followers": 3506,
+  "num_followers": 3594,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYzNTE3MywwMDAwMDAwMDUxZTMwNGRhM2NlZWM4ZTAyZTc1NzJjOWZhM2NhMTFi",
+  "snapshot_id": "MTY1OTYzNTE3MywwMDAwMDAwMDVhY2JmZTc3NTM2MmNkOGUyMDRjYjMzYjk4MDQ4MzA3",
   "tracks": [
     {
       "added_at": "2022-07-08 04:02:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Best Kept Secrets",
-        "url": "https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s"
-      },
-      "artists": [
-        {
-          "name": "Ghost Light",
-          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
-        }
-      ],
-      "duration_ms": 259826,
-      "name": "Keep Your Hands to Yourself",
-      "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Interludes For The Dead (feat. Neal Casal)",
         "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
       },
@@ -205,20 +189,20 @@
       "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
+      "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "River Drift",
-        "url": "https://open.spotify.com/album/5HgayyNly98nEiOPxekJGQ"
+        "name": "Best Kept Secrets",
+        "url": "https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s"
       },
       "artists": [
         {
-          "name": "Twiddle",
-          "url": "https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12"
+          "name": "Ghost Light",
+          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
         }
       ],
-      "duration_ms": 342111,
-      "name": "River Drift",
-      "url": "https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7"
+      "duration_ms": 259826,
+      "name": "Keep Your Hands to Yourself",
+      "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -235,6 +219,22 @@
       "duration_ms": 245893,
       "name": "Kangaroo",
       "url": "https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "River Drift",
+        "url": "https://open.spotify.com/album/5HgayyNly98nEiOPxekJGQ"
+      },
+      "artists": [
+        {
+          "name": "Twiddle",
+          "url": "https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12"
+        }
+      ],
+      "duration_ms": 342111,
+      "name": "River Drift",
+      "url": "https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Spafford",
-        "url": "https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05"
-      },
-      "artists": [
-        {
-          "name": "Spafford",
-          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
-        }
-      ],
-      "duration_ms": 263198,
-      "name": "Electric Taco Stand",
-      "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "The Werks",
         "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 456631,
       "name": "Duck Farm",
       "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Spafford",
+        "url": "https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05"
+      },
+      "artists": [
+        {
+          "name": "Spafford",
+          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
+        }
+      ],
+      "duration_ms": 263198,
+      "name": "Electric Taco Stand",
+      "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Casino Cabaret",
-        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
-      },
-      "artists": [
-        {
-          "name": "The Magic Beans",
-          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
-        }
-      ],
-      "duration_ms": 448385,
-      "name": "Mr. Scientist",
-      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Night Lights",
         "url": "https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 401213,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Casino Cabaret",
+        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
+      },
+      "artists": [
+        {
+          "name": "The Magic Beans",
+          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
+        }
+      ],
+      "duration_ms": 448385,
+      "name": "Mr. Scientist",
+      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "What'cha Gonna Do",
-        "url": "https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD"
-      },
-      "artists": [
-        {
-          "name": "Skyfoot",
-          "url": "https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0"
-        }
-      ],
-      "duration_ms": 346346,
-      "name": "What'cha Gonna Do",
-      "url": "https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Element",
         "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 433720,
       "name": "The Road",
       "url": "https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "What'cha Gonna Do",
+        "url": "https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD"
+      },
+      "artists": [
+        {
+          "name": "Skyfoot",
+          "url": "https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0"
+        }
+      ],
+      "duration_ms": 346346,
+      "name": "What'cha Gonna Do",
+      "url": "https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs"
     },
     {
       "added_at": "2022-06-23 13:45:43",

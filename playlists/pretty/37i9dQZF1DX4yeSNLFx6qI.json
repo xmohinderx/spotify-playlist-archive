@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1684753,
+  "num_followers": 1684939,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQyMTEzMCwwMDAwMDAwMGJiODUwZGNjZjg3N2Q3NWQwMDg0NmU4Mjk4NWQ3ZDY5",
+  "snapshot_id": "MTY1ODQyMTEzMCwwMDAwMDAwMDlkYjljMDUxY2M4MmQxYWMyYjBlNzQwODBkZGYzMWI4",
   "tracks": [
     {
       "added_at": "2022-07-21 16:32:10",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 92539,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
         "name": "Una Mentira M\u00e1s",
         "url": "https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN"
+        "name": "B\u00e9same Bonito",
+        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
         }
       ],
-      "duration_ms": 92539,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml"
+      "duration_ms": 180000,
+      "name": "B\u00e9same Bonito",
+      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -887,22 +903,6 @@
       "duration_ms": 232331,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
-        "name": "B\u00e9same Bonito",
-        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
-      },
-      "artists": [
-        {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "B\u00e9same Bonito",
-      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Amarte y Perderte",
-        "url": "https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL"
-      },
-      "artists": [
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 208947,
-      "name": "Amarte y Perderte",
-      "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
         "name": "Apur\u00e9 Mi Caf\u00e9",
         "url": "https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 191863,
       "name": "Apur\u00e9 Mi Caf\u00e9",
       "url": "https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
+        "name": "Amarte y Perderte",
+        "url": "https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 208947,
+      "name": "Amarte y Perderte",
+      "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
+        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
+        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 237373,
+      "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
         "name": "Te Necesito (Live Acoustic)",
         "url": "https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 195929,
       "name": "Te Necesito (Live Acoustic)",
       "url": "https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
-        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
-        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
     },
     {
       "added_at": "2022-07-21 16:32:10",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2022-07-21 16:32:10",
       "album": {
-        "name": "Tiene Que Existir",
-        "url": "https://open.spotify.com/album/7rZehTzCB1s3QlUFGMFUGo"
-      },
-      "artists": [
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        },
-        {
-          "name": "Santiago Cruz",
-          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Tiene Que Existir",
-      "url": "https://open.spotify.com/track/6Hc7T09nwRTTm4X6iTJbKN"
-    },
-    {
-      "added_at": "2022-07-21 16:32:10",
-      "album": {
         "name": "Otra Piel",
         "url": "https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 246840,
       "name": "Devuelveme la Vida (with Antonio Orozco)",
       "url": "https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw"
+    },
+    {
+      "added_at": "2022-07-21 16:32:10",
+      "album": {
+        "name": "Tiene Que Existir",
+        "url": "https://open.spotify.com/album/7rZehTzCB1s3QlUFGMFUGo"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Tiene Que Existir",
+      "url": "https://open.spotify.com/track/6Hc7T09nwRTTm4X6iTJbKN"
     },
     {
       "added_at": "2022-07-21 16:32:10",

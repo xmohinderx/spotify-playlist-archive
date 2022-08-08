@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Knocks
 
-100 songs - 6 hr 2 min - not published yet
+100 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

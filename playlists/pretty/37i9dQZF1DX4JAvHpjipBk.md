@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Calvin Harris, benny blanco, BTS & Snoop Dogg, YoungBoy Never Broke Again, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,944,885 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,945,031 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

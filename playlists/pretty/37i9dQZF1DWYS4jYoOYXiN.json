@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 56508,
+  "num_followers": 56565,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDhmNTNjYzg0ZjljNGI5NTA1MGE1OTI3OTM5YWRkMmYw",
+  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMGY4YTNlOWNmYjk2Y2ZjNTk4YzA3N2Y0NGI4Yzc5NWM0",
   "tracks": [
     {
       "added_at": "2022-04-09 04:26:32",
@@ -391,22 +391,6 @@
     {
       "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
-      },
-      "artists": [
-        {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
-        }
-      ],
-      "duration_ms": 325920,
-      "name": "Micaela - Live",
-      "url": "https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
         "name": "Psychedelic Goes Latin",
         "url": "https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 284440,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/0ODEACdZ8xmsxosolVPkkI"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+      },
+      "artists": [
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "duration_ms": 325920,
+      "name": "Micaela - Live",
+      "url": "https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Mongo Santamaria's Greatest Hits",
-        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 344960,
-      "name": "Cloud Nine",
-      "url": "https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
         "name": "Jala Jala y Boogaloo",
         "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 272253,
       "name": "Lo Atar\u00e1 la Arache",
       "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Mongo Santamaria's Greatest Hits",
+        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 344960,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK"
     },
     {
       "added_at": "2021-09-07 18:02:03",

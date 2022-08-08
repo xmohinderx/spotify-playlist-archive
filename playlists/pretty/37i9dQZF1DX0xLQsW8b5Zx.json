@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 501228,
+  "num_followers": 501338,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAxOTk0NSwwMDAwMDAwMGY5OWQ0MzUyZWNmMmIzNTQxYjZjYzRjMWE4YTAzY2Vi",
+  "snapshot_id": "MTY1NzAxOTk0NSwwMDAwMDAwMGU4N2FlYTQwODg3Yjc3ZWYzNWEyMzY5MDgyMDgyNDIy",
   "tracks": [
     {
       "added_at": "2022-07-05 11:19:05",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-07-05 11:19:05",
       "album": {
-        "name": "Tear It Up",
-        "url": "https://open.spotify.com/album/45gM7iiWC2Fd93IInjtCQK"
-      },
-      "artists": [
-        {
-          "name": "Albert Lee & Hogan's Heroes",
-          "url": "https://open.spotify.com/artist/2UnEg92EHEZyIfVYTkAl4H"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Back In The USA",
-      "url": "https://open.spotify.com/track/4Znz9jKTkZvCzW6CkBIhHK"
-    },
-    {
-      "added_at": "2022-07-05 11:19:05",
-      "album": {
         "name": "Red Hot / Pearly Lee",
         "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 149705,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
+    },
+    {
+      "added_at": "2022-07-05 11:19:05",
+      "album": {
+        "name": "Tear It Up",
+        "url": "https://open.spotify.com/album/45gM7iiWC2Fd93IInjtCQK"
+      },
+      "artists": [
+        {
+          "name": "Albert Lee & Hogan's Heroes",
+          "url": "https://open.spotify.com/artist/2UnEg92EHEZyIfVYTkAl4H"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Back In The USA",
+      "url": "https://open.spotify.com/track/4Znz9jKTkZvCzW6CkBIhHK"
     },
     {
       "added_at": "2022-07-05 11:19:05",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-07-05 11:19:05",
       "album": {
-        "name": "Keep On Rollin'",
-        "url": "https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE"
-      },
-      "artists": [
-        {
-          "name": "Voodoo Swing",
-          "url": "https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Hillbilly Rock'n'Roll",
-      "url": "https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO"
-    },
-    {
-      "added_at": "2022-07-05 11:19:05",
-      "album": {
         "name": "Straight from the Heart",
         "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 138615,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI"
+    },
+    {
+      "added_at": "2022-07-05 11:19:05",
+      "album": {
+        "name": "Keep On Rollin'",
+        "url": "https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Swing",
+          "url": "https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Hillbilly Rock'n'Roll",
+      "url": "https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO"
     },
     {
       "added_at": "2022-07-05 11:19:05",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-07-05 11:19:05",
       "album": {
-        "name": "Gene Vincent And The Blue Caps",
-        "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "duration_ms": 135373,
-      "name": "Hold Me, Hug Me, Rock Me",
-      "url": "https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd"
-    },
-    {
-      "added_at": "2022-07-05 11:19:05",
-      "album": {
         "name": "Hot Rod Roadeo",
         "url": "https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 188480,
       "name": "Welcome to My Hell",
       "url": "https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D"
+    },
+    {
+      "added_at": "2022-07-05 11:19:05",
+      "album": {
+        "name": "Gene Vincent And The Blue Caps",
+        "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "duration_ms": 135373,
+      "name": "Hold Me, Hug Me, Rock Me",
+      "url": "https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd"
     },
     {
       "added_at": "2022-07-05 11:19:05",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-07-05 11:19:05",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
-      },
-      "artists": [
-        {
-          "name": "Jerry Jaye",
-          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
-        }
-      ],
-      "duration_ms": 135666,
-      "name": "Redneck Rock",
-      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
-    },
-    {
-      "added_at": "2022-07-05 11:19:05",
-      "album": {
         "name": "1957-1959",
         "url": "https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-07-05 11:19:05",
       "album": {
-        "name": "It's Time!",
-        "url": "https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
       },
       "artists": [
         {
-          "name": "Big Sandy & His Fly-Rite Boys",
-          "url": "https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv"
+          "name": "Jerry Jaye",
+          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Chalk It Up to the Blues",
-      "url": "https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v"
+      "duration_ms": 135666,
+      "name": "Redneck Rock",
+      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
     },
     {
       "added_at": "2022-07-05 11:19:05",
@@ -871,6 +855,22 @@
       "duration_ms": 197324,
       "name": "Don't Come Knocking on My Door",
       "url": "https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu"
+    },
+    {
+      "added_at": "2022-07-05 11:19:05",
+      "album": {
+        "name": "It's Time!",
+        "url": "https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A"
+      },
+      "artists": [
+        {
+          "name": "Big Sandy & His Fly-Rite Boys",
+          "url": "https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Chalk It Up to the Blues",
+      "url": "https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v"
     },
     {
       "added_at": "2022-07-05 11:19:05",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-07-05 11:19:05",
       "album": {
-        "name": "Face It",
-        "url": "https://open.spotify.com/album/10OMUhwFGYP9es5wBaeS5B"
-      },
-      "artists": [
-        {
-          "name": "Mr. Breathless",
-          "url": "https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo"
-        }
-      ],
-      "duration_ms": 168373,
-      "name": "Baby I Don't Care",
-      "url": "https://open.spotify.com/track/04YEUXO7f7Bmbuilnwv0rA"
-    },
-    {
-      "added_at": "2022-07-05 11:19:05",
-      "album": {
         "name": "Rock In Threes!",
         "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 160466,
       "name": "Another Sunday Morning",
       "url": "https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0"
+    },
+    {
+      "added_at": "2022-07-05 11:19:05",
+      "album": {
+        "name": "Face It",
+        "url": "https://open.spotify.com/album/10OMUhwFGYP9es5wBaeS5B"
+      },
+      "artists": [
+        {
+          "name": "Mr. Breathless",
+          "url": "https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo"
+        }
+      ],
+      "duration_ms": 168373,
+      "name": "Baby I Don't Care",
+      "url": "https://open.spotify.com/track/04YEUXO7f7Bmbuilnwv0rA"
     }
   ],
   "unique_name": "Rockabilly Mania",

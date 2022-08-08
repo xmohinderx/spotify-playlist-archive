@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 11133,
+  "num_followers": 11153,
   "original_name": "Latin Hits: 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDIxNjYxNSwwMDAwMDAwMDEwNDUzMjg2YmMyNGYyNDUzZTcwZWM0MjU1YTU5MjZl",
+  "snapshot_id": "MTY0MDIxNjYxNSwwMDAwMDAwMDVkMWJjZGRmNTAyMjEzMjk4NzdiYzQ5ZDJiMDQ2OWU3",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Campanas en la Noche",
-      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Travesia",
         "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 266493,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 318760,
-      "name": "Volando Entre Tus Brazos - Salsa Version",
-      "url": "https://open.spotify.com/track/5oMecwx9BcU6wacLtnBjpo"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "#1 Hits",
         "url": "https://open.spotify.com/album/0DABfstwprmJLBSv5n8Wft"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 240133,
       "name": "Vamos Fugir",
       "url": "https://open.spotify.com/track/5a008ecFPEypprh1yOg1bM"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 318760,
+      "name": "Volando Entre Tus Brazos - Salsa Version",
+      "url": "https://open.spotify.com/track/5oMecwx9BcU6wacLtnBjpo"
     },
     {
       "added_at": "2021-12-22 23:41:59",

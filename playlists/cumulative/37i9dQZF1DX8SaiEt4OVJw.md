@@ -4,7 +4,7 @@
 
 > NATIVE mag and Ghana National football team's Kofi Kyereh bring us their favorite pregame tracks ahead of the Ghana Vs Nigeria World Cup qualifiers.
 
-43 songs - 2 hr 24 min - not published yet
+43 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/7fI9ns3CTpwGPwTVCgIWgK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

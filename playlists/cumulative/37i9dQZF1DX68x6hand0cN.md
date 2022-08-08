@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-78 songs - 4 hr 0 min - not published yet
+78 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

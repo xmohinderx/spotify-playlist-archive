@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMDI4ODU3NGQ5NmNiNGIyZjZhMTExMTkxODdmM2NhYjBj",
+  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMGYwZTMxMDU1ZjIwMmRmMzQ4NGQyOTIxZDU5M2M0ZWJl",
   "tracks": [
     {
       "added_at": "2021-11-19 13:39:50",
@@ -683,6 +683,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Christmas Song",
+        "url": "https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Out-Of-State Plates",
         "url": "https://open.spotify.com/album/4i7krZXSr5yexVR7lWuclC"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 207255,
       "name": "12 Days Of A Pop-Punk Christmas",
       "url": "https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Christmas Song",
-        "url": "https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Christmas Song",
-      "url": "https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "The Goldfinger Christmas EP",
+        "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 86386,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 179054,
       "name": "December's Here",
       "url": "https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "The Goldfinger Christmas EP",
-        "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 86386,
-      "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
     },
     {
       "added_at": "2021-11-19 13:39:50",

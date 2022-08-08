@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87JE1B72J6C.md) - [plain]
 
 > The essential deadmau5 originals and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,426 likes - 60 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,484 likes - 60 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

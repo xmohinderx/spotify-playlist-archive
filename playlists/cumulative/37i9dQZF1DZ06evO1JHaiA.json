@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 116050,
       "name": "Harold Melvin's Blue Notes Band Introduction With MC - Live",
       "url": "https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 288693,
       "name": "I Hope That We Can Be Together Soon - Live",
       "url": "https://open.spotify.com/track/3lOtLeKb5DSyOROzldhUTz"
@@ -616,6 +616,24 @@
     },
     {
       "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136986,
+      "name": "I've Got Love for You",
+      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
+    },
+    {
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 224118,
       "name": "If You Don't Know Me By Now - Live",
       "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"

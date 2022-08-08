@@ -1,12 +1,12 @@
 {
   "description": "The best side! Cover: Snoop Dogg & Dr. Dre",
-  "num_followers": 574378,
+  "num_followers": 574710,
   "original_name": "I Love My West Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAwNTE1NiwwMDAwMDAwMDQzYzQxOTM0ZWZlN2VkNjQxOGQxOWZlNWMwOGNkMjM1",
+  "snapshot_id": "MTY1NzAwNTE1NiwwMDAwMDAwMGY2MjgyNzg5NDlmODk1MWVjY2ZlMWE3MWI2MzJiMTA5",
   "tracks": [
     {
       "added_at": "2020-06-15 17:33:58",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ"
     },
     {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Quik Is The Name",
-        "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
-      },
-      "artists": [
-        {
-          "name": "DJ Quik",
-          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
-        }
-      ],
-      "duration_ms": 323266,
-      "name": "Tonite",
-      "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
-    },
-    {
       "added_at": "2021-08-27 03:06:32",
       "album": {
         "name": "Explicit Game",
@@ -503,6 +487,22 @@
       "duration_ms": 254093,
       "name": "Pimp Of The Year",
       "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
+    },
+    {
+      "added_at": "2020-05-04 14:10:56",
+      "album": {
+        "name": "Quik Is The Name",
+        "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
+      },
+      "artists": [
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "duration_ms": 323266,
+      "name": "Tonite",
+      "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
     },
     {
       "added_at": "2020-05-04 14:10:56",

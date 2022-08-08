@@ -4,7 +4,7 @@
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-73 songs - 5 hr 6 min - not published yet
+73 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/5noqwCCsnUWZmorBqtfD0M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

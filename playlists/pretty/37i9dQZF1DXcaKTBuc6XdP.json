@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 2157,
+  "num_followers": 2168,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDM0NTU3NjgwN2VlZWVmYzVjODY2NDgzNGMzNGY1NTMw",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDk4YjljMzY5YzIwZDE5NTg5YzM0OGJiMjMyYmI2NjNj",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -579,6 +579,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Action Bible Songs",
+        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Rise And Shine (Arky, Arky)",
+      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "We Are Young & Free (Live)",
         "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 227600,
       "name": "Alive - Studio Version",
       "url": "https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Action Bible Songs",
-        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Rise And Shine (Arky, Arky)",
-      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
     },
     {
       "added_at": "2021-06-29 13:36:02",

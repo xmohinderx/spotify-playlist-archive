@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 
 > Start your day with these beautiful scores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,573 likes - 74 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,585 likes - 74 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

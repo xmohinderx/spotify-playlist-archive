@@ -4,7 +4,7 @@
 
 > Listen to the official playlist for the hit series.
 
-31 songs - 34 min 59 sec - not published yet
+31 songs - 34 min 59 sec - [published](https://open.spotify.com/playlist/7AgDXtOvKPzBJVxZzL41Pi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A happy place.
 
-217 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/2xSdTSz706asFMv9nAL1iO)
+218 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/2xSdTSz706asFMv9nAL1iO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/2lM5HZRi3mlxbFnmQ2oDXe) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [Lady / Music Sounds Better With You](https://open.spotify.com/album/30sqXAoM99GhQik4QC7kpN) | 6:08 | 2022-01-14 | 2022-07-28 |
 | [Laguna](https://open.spotify.com/track/3351bIhasJGEk0yn5A9uLW) | [Antenna!](https://open.spotify.com/artist/1M1JqfU36s2CCNGNCw6Gh4) | [Laguna](https://open.spotify.com/album/3BQBl1X24eqrxABaYhwXQH) | 3:29 | 2022-01-14 | 2022-07-19 |
 | [Learning To Love](https://open.spotify.com/track/4IiakISa3gtCEJsBnQ6cep) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Learning To Love](https://open.spotify.com/album/4AoKxSM4zSbhZxeaEKsM9H) | 7:02 | 2022-05-10 |  |
+| [Let Me Love U](https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Let Me Love U](https://open.spotify.com/album/2IvjJ52cELQb89dchfEG7p) | 3:09 | 2022-08-05 |  |
 | [Let's Go Dancing \(feat\. Amy Douglas\)](https://open.spotify.com/track/4QwKlYyNaso6jHxgOuTgMe) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Amy Douglas](https://open.spotify.com/artist/6lm52aALA9NKQv1ChQmSBr) | [Love And Dancing](https://open.spotify.com/album/7yCIoLAcNR8xcR8CeNyWcd) | 2:52 | 2022-04-06 | 2022-07-10 |
 | [Let's Go!](https://open.spotify.com/track/6MomDISbOEnUQARwoiBPgF) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Where's the Party At?](https://open.spotify.com/album/74chXRreUjoqMEN4RRk6yq) | 2:54 | 2022-01-14 | 2022-07-25 |
 | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/track/3hrN93f0xTIsejwDB3avn6) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/album/2UzDkeFYB2PkXUDq192KbP) | 3:59 | 2022-01-14 |  |
@@ -200,7 +201,7 @@
 | [Summer Lovin' \- Edit](https://open.spotify.com/track/7q0vM8woumdTUt30GasolR) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Summer Lovin'](https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg) | 3:09 | 2022-08-05 |  |
 | [Summer Of Love \- Jansons Remix](https://open.spotify.com/track/3JBRm4s1Bw7Yz2u3d2Ithh) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [Summer Of Love](https://open.spotify.com/album/7duYShW24ZnlYT08ovEadQ) | 6:22 | 2022-08-05 |  |
 | [Summer of Love \- Jean Tonique Remix](https://open.spotify.com/track/2sSedmGMNVV84hIRUbmykd) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Summer of Love \(Jean Tonique Remix\)](https://open.spotify.com/album/5UC13W4kwtAZZbC3q8AKD1) | 3:22 | 2022-01-14 | 2022-07-18 |
-| [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 | 2022-05-10 |  |
+| [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 | 2022-05-10 | 2022-08-08 |
 | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC) | 3:57 | 2022-01-14 |  |
 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 | 2022-04-06 |  |
 | [Thank You \- Jax Jones Remix](https://open.spotify.com/track/77PHaOlBrM9krYHIl39LAo) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Thank You \(Jax Jones Remix\)](https://open.spotify.com/album/3ySavJtPwv3onVluixQuIK) | 3:47 | 2022-01-14 | 2022-07-29 |

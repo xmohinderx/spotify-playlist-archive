@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 251057,
       "name": "Ball of Fire",
       "url": "https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 271333,
       "name": "Bedouin",
       "url": "https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 884200,
       "name": "God's Mirrorball",
       "url": "https://open.spotify.com/track/1AiexVTC5gIpLkIxhCX4sw"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 253544,
       "name": "H. O. O",
       "url": "https://open.spotify.com/track/1dcKekvRNoO7tP1KwowdUQ"
@@ -579,10 +579,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 261141,
       "name": "Hold Me Upsetter",
       "url": "https://open.spotify.com/track/3bMR9NyBHxt1pZadTvGbRs"
+    },
+    {
+      "album": {
+        "name": "Abolition of the Royal Familia",
+        "url": "https://open.spotify.com/album/1euwyciwux1oVmj4r1Rf3X"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302520,
+      "name": "Honey Moonies - Brain Washed at Area 49 Mix",
+      "url": "https://open.spotify.com/track/6bU2QcIhbCupPsLel0eLiR"
     },
     {
       "album": {
@@ -615,7 +633,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 555906,
       "name": "Into The Fourth Dimension",
       "url": "https://open.spotify.com/track/6vsFXXLsb83fM0QtlXQm0r"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 355088,
       "name": "Rush Hill Road",
       "url": "https://open.spotify.com/track/0pk2tbLN4rVB0fKTTW9VYL"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 168749,
       "name": "Siren 33 (Orphee Mirror)",
       "url": "https://open.spotify.com/track/4KM94c8EBLbggsN37T7gfp"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 425454,
       "name": "Squirrels in Jumpsuits",
       "url": "https://open.spotify.com/track/5Z6KB3zOCuKRcy2scNdtDi"
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 716733,
       "name": "Super Nova At The End Of The Universe",
       "url": "https://open.spotify.com/track/1QOIvqLUacNvxOBAoA1cDJ"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 283000,
       "name": "Switch on Leon",
       "url": "https://open.spotify.com/track/5YYjzjQKL32k7pqJmaJRQn"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 335866,
       "name": "The Cult Of Youth Ambient Mix Parts 1 & 2 (feat. David Gilmour) - Edit",
       "url": "https://open.spotify.com/track/4iPCa0uM1gkpDkkdP8VCdi"
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 576600,
       "name": "White River Junction",
       "url": "https://open.spotify.com/track/1Cy8r0ylCPuFiljj7V7hMQ"

@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: Big Boss Vette",
-  "num_followers": 14528,
+  "num_followers": 14628,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDY4YjJjMGRlOWQ0Y2E4ZGY3MzYwMzRkMjAxZjdiMWNm",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGMzODQ2YjRiNzZiOWQ2ZGZlNGQ5Y2ZhZThhOTFkNTUz",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -339,26 +339,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Top Notch (feat. Fivio Foreign)",
-        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 169737,
-      "name": "Top Notch (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "she / her / black bitch",
         "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 147525,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Top Notch (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 169737,
+      "name": "Top Notch (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "No Face",
-        "url": "https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 189524,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 167424,
       "name": "BAFWM",
       "url": "https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "No Face",
+        "url": "https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 189524,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 136629,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/0eihPScADJKzfuUwiShQQJ"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 130750,
       "name": "8 Year Run",
       "url": "https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 136629,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/0eihPScADJKzfuUwiShQQJ"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj"
-      },
-      "artists": [
-        {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
-        }
-      ],
-      "duration_ms": 152647,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Chaa Chaa Chaa (feat. HoodCelebrityy)",
         "url": "https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 185376,
       "name": "Chaa Chaa Chaa (feat. HoodCelebrityy)",
       "url": "https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "duration_ms": 152647,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o"
     },
     {
       "added_at": "2022-08-05 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 13581,
+  "num_followers": 13589,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDU2ZDg4ZGU2NWQ0MDVkNDRmNmE4MzJjZTA5NDU3YTE4",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDFiZmQ1MDNmNWJkYTFiYTlmY2FjMjA5ZTUyNTA2YzU0",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -143,6 +143,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "All We Got (feat. KIDDO) [Ofenbach Remix]",
+        "url": "https://open.spotify.com/album/4ZnfL03JMiQpMpWZ7e6YXY"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        },
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 129814,
+      "name": "All We Got (feat. KIDDO) - Ofenbach Remix",
+      "url": "https://open.spotify.com/track/2rUsJXt4NeeDiIU6sBvrxo"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "You (Topic Remix)",
         "url": "https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z"
       },
@@ -167,30 +191,6 @@
       "duration_ms": 157160,
       "name": "You - Topic Remix",
       "url": "https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "All We Got (feat. KIDDO) [Ofenbach Remix]",
-        "url": "https://open.spotify.com/album/4ZnfL03JMiQpMpWZ7e6YXY"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        },
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 129814,
-      "name": "All We Got (feat. KIDDO) - Ofenbach Remix",
-      "url": "https://open.spotify.com/track/2rUsJXt4NeeDiIU6sBvrxo"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -267,6 +267,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Take Your Time (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/4O3plD4j9hEQiFr5DkISNB"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 197402,
+      "name": "Take Your Time - D.O.D Remix",
+      "url": "https://open.spotify.com/track/3hmOHDyG0ar79kBeRwD2V4"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Sweet Dreams (feat. Imanbek) [Remixes]",
         "url": "https://open.spotify.com/album/5LKrGd8oU56PLe793imghr"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek) - With Alok",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Take Your Time (D.O.D Remix)",
-        "url": "https://open.spotify.com/album/4O3plD4j9hEQiFr5DkISNB"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 197402,
-      "name": "Take Your Time - D.O.D Remix",
-      "url": "https://open.spotify.com/track/3hmOHDyG0ar79kBeRwD2V4"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Fool's Gold (Ti\u00ebsto 24 Karat Gold Edition)",
+        "url": "https://open.spotify.com/album/6JH8j1mf1tfS98iKOgRgeW"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164377,
+      "name": "Fool's Gold - Ti\u00ebsto 24 Karat Gold Edition",
+      "url": "https://open.spotify.com/track/5KzNyiM73vv9EuYELrVpDq"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Regardless (Hannah Wants Remix)",
         "url": "https://open.spotify.com/album/2fOh3cZF3GtQFSHF7muPFq"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 205933,
       "name": "Regardless - Hannah Wants Remix",
       "url": "https://open.spotify.com/track/0eaGeeED3Xpwgp4Zq4wkv5"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Fool's Gold (Ti\u00ebsto 24 Karat Gold Edition)",
-        "url": "https://open.spotify.com/album/6JH8j1mf1tfS98iKOgRgeW"
-      },
-      "artists": [
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164377,
-      "name": "Fool's Gold - Ti\u00ebsto 24 Karat Gold Edition",
-      "url": "https://open.spotify.com/track/5KzNyiM73vv9EuYELrVpDq"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Strut (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 189965,
+      "name": "Strut - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Aurora (The Remixes)",
         "url": "https://open.spotify.com/album/6Gv5PgU3GUfVRL45CE2Qa6"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 169053,
       "name": "Aurora (Hard Lights Remix)",
       "url": "https://open.spotify.com/track/0esrr1kWuUvArhYC1JZ7vL"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Strut (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 189965,
-      "name": "Strut - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "LIES (VIP Mix)",
+        "url": "https://open.spotify.com/album/4sDmw1vDLys1zBOqwuM98K"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 189747,
+      "name": "LIES - VIP Mix",
+      "url": "https://open.spotify.com/track/67hioVhWrtqUF5WOZpI2V6"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Higher (feat. iann dior) [VIZE Remix]",
         "url": "https://open.spotify.com/album/4DLOoRFic472ZCoVyZih5J"
       },
@@ -1399,22 +1419,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "LIES (VIP Mix)",
-        "url": "https://open.spotify.com/album/4sDmw1vDLys1zBOqwuM98K"
+        "name": "Alive (Remixes)",
+        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         },
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         }
       ],
-      "duration_ms": 189747,
-      "name": "LIES - VIP Mix",
-      "url": "https://open.spotify.com/track/67hioVhWrtqUF5WOZpI2V6"
+      "duration_ms": 269508,
+      "name": "Alive - Solomun Remix Edit",
+      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1439,26 +1459,6 @@
       "duration_ms": 142106,
       "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
       "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Alive (Remixes)",
-        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Alive - Solomun Remix Edit",
-      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Rise (twocolors Remix)",
+        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Rise - twocolors Remix",
+      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Wasted Love (feat. Lagique) [Remixes]",
         "url": "https://open.spotify.com/album/76nwXh66BDZT9SVEDCAB9b"
       },
@@ -1819,26 +1839,6 @@
       "duration_ms": 240000,
       "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
       "url": "https://open.spotify.com/track/3kHaYCI60ExyeSh4I9MVEv"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Rise (twocolors Remix)",
-        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Rise - twocolors Remix",
-      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "PURE (The Remixes)",
+        "url": "https://open.spotify.com/album/6DP8V4741pEHVlch8gH6SA"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "PURE (Reinier Zonneveld Remix)",
+      "url": "https://open.spotify.com/track/6hJiNgxOiuoVYXCLW2kQQE"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "My Feelings",
         "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
       },
@@ -2103,26 +2123,6 @@
       "duration_ms": 181922,
       "name": "My Feelings - Mokita Remix",
       "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "PURE (The Remixes)",
-        "url": "https://open.spotify.com/album/6DP8V4741pEHVlch8gH6SA"
-      },
-      "artists": [
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "PURE (Reinier Zonneveld Remix)",
-      "url": "https://open.spotify.com/track/6hJiNgxOiuoVYXCLW2kQQE"
     },
     {
       "added_at": "2021-07-30 04:00:00",

@@ -1687,7 +1687,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 243500,
       "name": "Cry My Name",
       "url": "https://open.spotify.com/track/5gJKGE7dk8OTULVIPIxWKn"
@@ -3120,6 +3120,28 @@
     },
     {
       "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279555,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
+    },
+    {
+      "album": {
         "name": "Hearts Will Burn",
         "url": "https://open.spotify.com/album/5MWISTULGZ0CxLZywvufNb"
       },
@@ -3153,7 +3175,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 165483,
       "name": "Heroes For One Day",
       "url": "https://open.spotify.com/track/0GC56le7ReiMLDzRteFqGw"
@@ -4277,7 +4299,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 267375,
       "name": "Little Pieces",
       "url": "https://open.spotify.com/track/21C2aEhXEdso5iOsLGFKL7"

@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Minions
 
-357 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+358 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [ALL MY MIGHT](https://open.spotify.com/track/7K6vDqSG3OUFTxyoY9G1Gu) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [ALL MY MIGHT](https://open.spotify.com/album/4S1mlCyeQ87cipFb0TClvA) | 2:24 | 2022-01-28 | 2022-03-13 |
 | [ALONE \(feat\. Trippie Redd\)](https://open.spotify.com/track/3nifv7CIkBQTOKzATNEGNK) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:16 | 2022-02-11 | 2022-02-26 |
 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 | 2021-10-27 | 2022-04-29 |
-| [Antisocial \(feat\. Slump6s\)](https://open.spotify.com/track/4KBJ6dFxtup8Ku4uQZcPQ8) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Antisocial](https://open.spotify.com/album/5XOo1c28e4YMxp4uLh70qS) | 2:55 | 2022-04-02 |  |
+| [Antisocial \(feat\. Slump6s\)](https://open.spotify.com/track/4KBJ6dFxtup8Ku4uQZcPQ8) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Antisocial](https://open.spotify.com/album/5XOo1c28e4YMxp4uLh70qS) | 2:55 | 2022-04-02 | 2022-08-08 |
 | [ANXIETY](https://open.spotify.com/track/3hyLwD3Z23VDx2SXRdEg9B) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 2:16 | 2022-04-20 | 2022-07-13 |
 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 | 2022-01-28 | 2022-02-19 |
 | [Arc'teryx](https://open.spotify.com/track/1chxfk33LoVOznJiJ0WWPD) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [Arc'teryx](https://open.spotify.com/album/2R0KBvv8cpP70AGriaw7mV) | 2:35 | 2022-01-04 | 2022-05-14 |
@@ -99,6 +99,7 @@
 | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/track/1oPdIqXhjswpTnA5PPQs0K) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/album/3AocIGXpIRlNgd2BSoETUH) | 3:01 | 2021-12-07 | 2022-02-05 |
 | [DELIRIOUS!](https://open.spotify.com/track/6KemhLE5U7fd5SBUJr2sRl) | [Championxiii](https://open.spotify.com/artist/0mYBT2Ek76Szd4MqbCgT5R), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [DELIRIOUS!](https://open.spotify.com/album/7LiafuGVnC731meL4S6cmi) | 1:32 | 2021-10-08 | 2022-04-03 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-26 |  |
+| [Dipset](https://open.spotify.com/track/35ql06xhVmimjFBGYdUVIB) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Dipset](https://open.spotify.com/album/2PlaKZHxuVxAQI5AdD57sC) | 1:41 | 2022-08-07 |  |
 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 | 2022-07-19 |
 | [DIVE IN!](https://open.spotify.com/track/192DMwgDbgS8ghTKc0ACWq) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN! \(SPED UP! / SLOWED REVERB!\)](https://open.spotify.com/album/4IGyRFgzpVUXtcFdhUGiLP) | 1:40 | 2022-06-17 |  |
 | [DIVE IN!](https://open.spotify.com/track/2I8EDARURigigunOxtg7oi) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN!](https://open.spotify.com/album/3QEPmn54oibH1jzd1gcYyD) | 1:40 | 2022-02-10 | 2022-07-29 |
@@ -213,7 +214,7 @@
 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 | 2021-12-10 | 2022-02-05 |
 | [mathematics](https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [mathematics](https://open.spotify.com/album/0YoJg9rGP5vZI7sMC3vwhm) | 2:27 | 2022-04-08 | 2022-07-23 |
 | [Maytag \(Tax Free\)](https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [FREELANCE](https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz) | 2:45 | 2022-01-31 | 2022-07-16 |
-| [MEGAMAN](https://open.spotify.com/track/7aYzCl2Ii3YAROmyWAx2XC) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [THE INSPECTION](https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B) | 2:07 | 2022-06-24 |  |
+| [MEGAMAN](https://open.spotify.com/track/7aYzCl2Ii3YAROmyWAx2XC) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [THE INSPECTION](https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B) | 2:07 | 2022-06-24 | 2022-08-08 |
 | [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 | 2021-09-13 | 2022-03-25 |
 | [MIA](https://open.spotify.com/track/4gJqfuiyXLtnjvX7lqFOBu) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Caddy](https://open.spotify.com/album/3Z17WkBq7D8FDqXW4NYlmy) | 2:01 | 2021-10-29 | 2022-04-29 |
 | [middle](https://open.spotify.com/track/2F8YuzhSMZHq1rKv3VgnRb) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [middle](https://open.spotify.com/album/1C8prJTb4QpG6J5Vjr9li6) | 2:22 | 2022-04-29 | 2022-07-16 |

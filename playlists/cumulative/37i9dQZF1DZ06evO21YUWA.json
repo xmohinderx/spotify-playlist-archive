@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 321226,
       "name": "A Minute, a Day, No More",
       "url": "https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 357293,
       "name": "A Walk in the Park with Nancy (In Memory)",
       "url": "https://open.spotify.com/track/3wXHjZOHKXnzKYvJPyq2Vu"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 299733,
       "name": "Boy About 10",
       "url": "https://open.spotify.com/track/4aAkYp6k2sP2WsBiFyaF8J"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 208133,
       "name": "Ice Floes In Eden",
       "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 204960,
       "name": "Jane 16 (For Pale Saints)",
       "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 500026,
       "name": "Juno",
       "url": "https://open.spotify.com/track/2H96z4OFcMTTopEgIX49ci"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 100106,
       "name": "Momentary Architecture",
       "url": "https://open.spotify.com/track/24MQNO07DSZeDjfBmkb1rT"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 252346,
       "name": "Still Return - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t"
@@ -1405,6 +1405,28 @@
       "duration_ms": 358413,
       "name": "The Art of Mirrors (after Derek Jarman)",
       "url": "https://open.spotify.com/track/5pEwaHaIYjpNUilttB5IdV"
+    },
+    {
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222760,
+      "name": "The Belles of Saint Andrew",
+      "url": "https://open.spotify.com/track/7AtA5R9G0HAkleSk9Z0kiU"
     },
     {
       "album": {
@@ -1565,7 +1587,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 211253,
       "name": "The Silver Ball - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/2FA6ZLzJ2f5ZhX1qzoGfWA"
@@ -1641,7 +1663,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 255973,
       "name": "Wanderer",
       "url": "https://open.spotify.com/track/34wVtw1bMgjicq9o9uK4nr"
@@ -1689,7 +1711,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 285973,
       "name": "Winter Garden",
       "url": "https://open.spotify.com/track/3L7bmTuqQVTGi9jR9NM6s9"

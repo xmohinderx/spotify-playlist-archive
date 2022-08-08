@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "after dark x sweater weather",
+        "url": "https://open.spotify.com/album/7xZP5oKCuxb4cRlzX0sFUe"
+      },
+      "artists": [
+        {
+          "name": "really sad music",
+          "url": "https://open.spotify.com/artist/1ypLXSXPK2XBhdcCFMa8N3"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290571,
+      "name": "after dark x sweater weather",
+      "url": "https://open.spotify.com/track/4sGPzDEbvgrtBePr2cPWiv"
+    },
+    {
+      "album": {
         "name": "Aha-Aha",
         "url": "https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U"
       },
@@ -647,6 +665,36 @@
       "duration_ms": 183315,
       "name": "BLEZZK",
       "url": "https://open.spotify.com/track/4FwI9jUVy9Bu8s1rM1qJqp"
+    },
+    {
+      "album": {
+        "name": "Blitzkrieg 2022 - Drammen",
+        "url": "https://open.spotify.com/album/3GUUcR6YtDVmGPg5yEhFIf"
+      },
+      "artists": [
+        {
+          "name": "Kris Winther",
+          "url": "https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG"
+        },
+        {
+          "name": "SuperJonny",
+          "url": "https://open.spotify.com/artist/1qN9U0yBn6fvVbz0GXSCsc"
+        },
+        {
+          "name": "Rapposaurus Rex",
+          "url": "https://open.spotify.com/artist/3ghekvbJpcKDGyauENQfzT"
+        },
+        {
+          "name": "LamboLaz",
+          "url": "https://open.spotify.com/artist/65RF0CIG7aJEWRcdHIbdLN"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Blitzkrieg 2022 - Drammen",
+      "url": "https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k"
     },
     {
       "album": {
@@ -2571,7 +2619,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
@@ -3447,7 +3495,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 194400,
       "name": "Show Me Your Back",
       "url": "https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ"

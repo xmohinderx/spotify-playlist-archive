@@ -1,12 +1,12 @@
 {
   "description": "The wave of U.S. Latinos in Hip-Hop. Cover: Coyote",
-  "num_followers": 14911,
+  "num_followers": 14932,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDUwNmZhNjA2MTU0MjRkZjRjYTU5NjhkNzg3ZjIwNmI2",
+  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDI4ODYzYzIxMGJkNzA1ODU2OGJlYTM0ODljMjI0Mjdm",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "On My Diez",
-        "url": "https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U"
-      },
-      "artists": [
-        {
-          "name": "Feefa",
-          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
-        },
-        {
-          "name": "Frankie P",
-          "url": "https://open.spotify.com/artist/6LQI3uEz03wvTZ2k7aV16v"
-        }
-      ],
-      "duration_ms": 155064,
-      "name": "On My Diez",
-      "url": "https://open.spotify.com/track/5bu48uXPHfFNjLsLZSsjbC"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Our Finale",
         "url": "https://open.spotify.com/album/2vH9bbemJEV0yEFYikceZB"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 177962,
       "name": "Our Finale",
       "url": "https://open.spotify.com/track/4VEZ1AFDGOrXS9M480dS6u"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "On My Diez",
+        "url": "https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U"
+      },
+      "artists": [
+        {
+          "name": "Feefa",
+          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
+        },
+        {
+          "name": "Frankie P",
+          "url": "https://open.spotify.com/artist/6LQI3uEz03wvTZ2k7aV16v"
+        }
+      ],
+      "duration_ms": 155064,
+      "name": "On My Diez",
+      "url": "https://open.spotify.com/track/5bu48uXPHfFNjLsLZSsjbC"
     },
     {
       "added_at": "2022-07-15 04:00:00",

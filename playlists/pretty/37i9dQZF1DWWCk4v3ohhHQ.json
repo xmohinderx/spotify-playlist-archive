@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 117637,
+  "num_followers": 117814,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjIwMywwMDAwMDAwMDUwMDNhZjNjNTYyMGRhYTlhYmRjYTFmNWFjOTRhYTAz",
+  "snapshot_id": "MTY1MzQyMjIwMywwMDAwMDAwMGEwNzM0OGMyZWEzYjFjNGIwMWQyYzVhZjVjZjBhMDdi",
   "tracks": [
     {
       "added_at": "2021-12-02 09:05:08",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "Here and Now (Audio Only Version)",
-        "url": "https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "When We Stand Together",
-      "url": "https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "Direct Hits",
         "url": "https://open.spotify.com/album/3T5bbO2BOnnjun6jKhJdjV"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 242506,
       "name": "Shot At The Night",
       "url": "https://open.spotify.com/track/2aZ2Co4NeQRsqWcU930zHT"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "Here and Now (Audio Only Version)",
+        "url": "https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "When We Stand Together",
+      "url": "https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik"
     },
     {
       "added_at": "2021-12-02 09:05:08",

@@ -1,12 +1,12 @@
 {
   "description": "G\u00e5 loss till Spotifys fetaste festl\u00e5tar!",
-  "num_followers": 94953,
+  "num_followers": 94965,
   "original_name": "Det blir kaoz!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMGViODM1MjdjNmFlNTg0YWIxYzEwNWJkYWFmMDI2YzYy",
+  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMDY0NjNmODE4ZTQ3N2ZlNTViYjlhNGZlZDhkMGJkZmQz",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:25",
@@ -999,26 +999,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        },
-        {
-          "name": "Croell",
-          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "To the Moon",
         "url": "https://open.spotify.com/album/7a33tuAXRrTQpjzIlUv57M"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 178812,
       "name": "To the Moon",
       "url": "https://open.spotify.com/track/68j909ukxFuw5Pwjwzx3X2"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        },
+        {
+          "name": "Croell",
+          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "SKOGSREJV",
+        "url": "https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "SKOGSREJV",
+      "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Leave The World Behind (feat. Alida)",
         "url": "https://open.spotify.com/album/3zzjC0LclbWZxd59t6nlnU"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 179092,
       "name": "Leave The World Behind (feat. Alida)",
       "url": "https://open.spotify.com/track/7iVcAvK53hv3l2lHFzCyhW"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "SKOGSREJV",
-        "url": "https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "SKOGSREJV",
-      "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Stars Align (with Jolin Tsai)",
-        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Stars Align (with Jolin Tsai)",
-      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Dance Until We Die",
         "url": "https://open.spotify.com/album/7mmsP9uS2XOt70OnCdh43O"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 122306,
       "name": "Dance Until We Die",
       "url": "https://open.spotify.com/track/3UX5bcccqDs6KYxqmeHvYb"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Stars Align (with Jolin Tsai)",
+        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Stars Align (with Jolin Tsai)",
+      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Rave In My Garage",
-        "url": "https://open.spotify.com/album/493kHHcF2GPYpqtdMOxrcz"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 140921,
-      "name": "Rave In My Garage",
-      "url": "https://open.spotify.com/track/4jy2oAJR2w61b9OMhx5pow"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Ring The Alarm (Remixes)",
         "url": "https://open.spotify.com/album/6161quyAWtf6v1f0kIUd4w"
       },
@@ -1587,26 +1571,34 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "I like to move it",
-        "url": "https://open.spotify.com/album/6EonmeQCputEtgBPyfxx1X"
+        "name": "Rave In My Garage",
+        "url": "https://open.spotify.com/album/493kHHcF2GPYpqtdMOxrcz"
       },
       "artists": [
         {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "Mert Can",
-          "url": "https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q"
-        },
-        {
-          "name": "Tony Koma",
-          "url": "https://open.spotify.com/artist/0uGfoFBGwR75SE04cR5chh"
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
         }
       ],
-      "duration_ms": 114377,
-      "name": "I like to move it",
-      "url": "https://open.spotify.com/track/14u71NkqEHOB9QbhXoabkz"
+      "duration_ms": 140921,
+      "name": "Rave In My Garage",
+      "url": "https://open.spotify.com/track/4jy2oAJR2w61b9OMhx5pow"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "IN I DIMMAN",
+        "url": "https://open.spotify.com/album/3DaOp0K3QU4qjprrt8qvsN"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "IN I DIMMAN",
+      "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1635,18 +1627,26 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "IN I DIMMAN",
-        "url": "https://open.spotify.com/album/3DaOp0K3QU4qjprrt8qvsN"
+        "name": "I like to move it",
+        "url": "https://open.spotify.com/album/6EonmeQCputEtgBPyfxx1X"
       },
       "artists": [
         {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Mert Can",
+          "url": "https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q"
+        },
+        {
+          "name": "Tony Koma",
+          "url": "https://open.spotify.com/artist/0uGfoFBGwR75SE04cR5chh"
         }
       ],
-      "duration_ms": 121846,
-      "name": "IN I DIMMAN",
-      "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
+      "duration_ms": 114377,
+      "name": "I like to move it",
+      "url": "https://open.spotify.com/track/14u71NkqEHOB9QbhXoabkz"
     }
   ],
   "unique_name": "Det blir kaoz!",

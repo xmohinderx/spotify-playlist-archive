@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u30af\u30ec\u30a4\u30b8\u30fc\u30b1\u30f3\u30d0\u30f3\u30c9",
-  "num_followers": 237503,
+  "num_followers": 237527,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU3MzAxNSwwMDAwMDAwMGI0MzY0YzczOGM2YWY1ODNhNDc4ZWMzMGU1ODU4YzQ2",
+  "snapshot_id": "MTY1OTU3MzAxNSwwMDAwMDAwMGMzMWY5YjUxZjkwMGQzNDcwODFiMTE5ZTkzYTY0NTM2",
   "tracks": [
     {
       "added_at": "2022-08-04 00:30:15",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-08-04 00:30:15",
       "album": {
+        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
+      },
+      "artists": [
+        {
+          "name": "Anzen Chitai",
+          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+    },
+    {
+      "added_at": "2022-08-04 00:30:15",
+      "album": {
         "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
         "url": "https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 224399,
       "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
       "url": "https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH"
-    },
-    {
-      "added_at": "2022-08-04 00:30:15",
-      "album": {
-        "name": "\u9583\u5149",
-        "url": "https://open.spotify.com/album/4g7RyFbsJV7WSxBKvialqK"
-      },
-      "artists": [
-        {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "\u9583\u5149 - English ver.",
-      "url": "https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe"
     },
     {
       "added_at": "2022-08-04 00:30:15",
@@ -819,34 +819,34 @@
     {
       "added_at": "2022-08-04 00:30:15",
       "album": {
-        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
+        "name": "\u9583\u5149",
+        "url": "https://open.spotify.com/album/4g7RyFbsJV7WSxBKvialqK"
       },
       "artists": [
         {
-          "name": "Anzen Chitai",
-          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
         }
       ],
-      "duration_ms": 280786,
-      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+      "duration_ms": 265466,
+      "name": "\u9583\u5149 - English ver.",
+      "url": "https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe"
     },
     {
       "added_at": "2022-08-04 00:30:15",
       "album": {
-        "name": "\u661f\u8def (\u307f\u3061)",
-        "url": "https://open.spotify.com/album/1MIlkgZssg2rgkqbGUY8sx"
+        "name": "SummerDay",
+        "url": "https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL"
       },
       "artists": [
         {
-          "name": "Koji Tamaki",
-          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
         }
       ],
-      "duration_ms": 216760,
-      "name": "\u661f\u8def (\u307f\u3061)",
-      "url": "https://open.spotify.com/track/0TWwbu3qo6fglRBJerQ068"
+      "duration_ms": 186571,
+      "name": "SummerDay",
+      "url": "https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD"
     }
   ],
   "unique_name": "Big in Japan",

@@ -935,7 +935,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 172235,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/7lP1zUASWfS5TLBdQDj3DA"
@@ -7983,7 +7983,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 151141,
       "name": "Liegen",
       "url": "https://open.spotify.com/track/1voY2PJyDtzLRGAoegJUjV"
@@ -8561,7 +8561,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 135702,
       "name": "Maffia",
       "url": "https://open.spotify.com/track/6anqeGcrQ0GkHHhaVWld0J"
@@ -9743,7 +9743,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
@@ -12878,6 +12878,24 @@
     },
     {
       "album": {
+        "name": "Through The Looking Glass",
+        "url": "https://open.spotify.com/album/5F9Y7Rx1ILWqQQXVilf0KN"
+      },
+      "artists": [
+        {
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229761,
+      "name": "Through The Looking Glass",
+      "url": "https://open.spotify.com/track/7j2TJXhcE1aAzB6Evmgvm0"
+    },
+    {
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -13295,7 +13313,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 213566,
       "name": "Verdien Model",
       "url": "https://open.spotify.com/track/2QKr1BQ4K2I4sL73kZ1HSy"

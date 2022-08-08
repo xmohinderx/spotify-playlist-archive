@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > got that summertime sadness..\. 😔☀️🍉
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,242 likes - 522 songs - 1 day 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,363 likes - 522 songs - 1 day 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

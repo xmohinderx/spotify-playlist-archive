@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s.",
-  "num_followers": 658565,
+  "num_followers": 658951,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgyOTAxNCwwMDAwMDAwMGNjYzIwODA5YTUyOTc3OTNjNmIzNzQ3ZWE4NDVhNzE3",
+  "snapshot_id": "MTY1NzgyOTAxNCwwMDAwMDAwMGUzNTFhNWIyMWE2ODNlYWJkZjgxMzI5ZDk0MjdiOTgz",
   "tracks": [
     {
       "added_at": "2021-09-09 22:02:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 296626,
-      "name": "Davidian",
-      "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
         "name": "Empire - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 321573,
       "name": "Jet City Woman - Remastered 2003",
       "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 296626,
+      "name": "Davidian",
+      "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey"
     },
     {
-      "added_at": "2022-07-13 14:14:39",
-      "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Negasonic Teenage Warhead",
-      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
-    },
-    {
       "added_at": "2021-09-09 22:02:00",
       "album": {
         "name": "Blind",
@@ -1869,20 +1853,20 @@
       "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
     },
     {
-      "added_at": "2022-02-22 20:15:32",
+      "added_at": "2022-07-13 14:14:39",
       "album": {
-        "name": "Scumdogs of the Universe",
-        "url": "https://open.spotify.com/album/2rwHhGJXMCY7IkpnWYV11C"
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
       },
       "artists": [
         {
-          "name": "Gwar",
-          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
         }
       ],
-      "duration_ms": 188829,
-      "name": "Sick of You",
-      "url": "https://open.spotify.com/track/3wYGlCudjkMRvgSC2UqfWS"
+      "duration_ms": 267933,
+      "name": "Negasonic Teenage Warhead",
+      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
     },
     {
       "added_at": "2022-07-13 14:14:39",
@@ -1899,6 +1883,22 @@
       "duration_ms": 259466,
       "name": "Love Rears Its Ugly Head",
       "url": "https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg"
+    },
+    {
+      "added_at": "2022-02-22 20:15:32",
+      "album": {
+        "name": "Scumdogs of the Universe",
+        "url": "https://open.spotify.com/album/2rwHhGJXMCY7IkpnWYV11C"
+      },
+      "artists": [
+        {
+          "name": "Gwar",
+          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
+        }
+      ],
+      "duration_ms": 188829,
+      "name": "Sick of You",
+      "url": "https://open.spotify.com/track/3wYGlCudjkMRvgSC2UqfWS"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -2141,22 +2141,6 @@
       "url": "https://open.spotify.com/track/6jIVLU8ewF4pWLojWLUca1"
     },
     {
-      "added_at": "2022-02-22 20:15:32",
-      "album": {
-        "name": "Filth Pig",
-        "url": "https://open.spotify.com/album/6pK142b1OANbpbyJ6XIuvo"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 344600,
-      "name": "Lay Lady Lay",
-      "url": "https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga"
-    },
-    {
       "added_at": "2021-09-09 22:02:00",
       "album": {
         "name": "The Downward Spiral",
@@ -2171,6 +2155,22 @@
       "duration_ms": 373200,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2Mv8In1IykWH5oLDc66PRC"
+    },
+    {
+      "added_at": "2022-02-22 20:15:32",
+      "album": {
+        "name": "Filth Pig",
+        "url": "https://open.spotify.com/album/6pK142b1OANbpbyJ6XIuvo"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 344600,
+      "name": "Lay Lady Lay",
+      "url": "https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga"
     },
     {
       "added_at": "2022-07-13 14:14:39",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "Cause of Death (Reissue)",
-        "url": "https://open.spotify.com/album/79fVRZLnIqS3FytTLfTBT4"
-      },
-      "artists": [
-        {
-          "name": "Obituary",
-          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Chopped in Half",
-      "url": "https://open.spotify.com/track/01cGujYWGF7JchJLSgf6Ta"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
         "name": "Set The World On Fire",
         "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 228546,
       "name": "Phoenix Rising",
       "url": "https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "Cause of Death (Reissue)",
+        "url": "https://open.spotify.com/album/79fVRZLnIqS3FytTLfTBT4"
+      },
+      "artists": [
+        {
+          "name": "Obituary",
+          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Chopped in Half",
+      "url": "https://open.spotify.com/track/01cGujYWGF7JchJLSgf6Ta"
     },
     {
       "added_at": "2022-07-13 14:14:39",

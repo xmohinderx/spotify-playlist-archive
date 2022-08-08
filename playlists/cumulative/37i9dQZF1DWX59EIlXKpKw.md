@@ -4,7 +4,7 @@
 
 > Listen to all the music from the hit series, and your favorite science songs!
 
-20 songs - 40 min 30 sec - not published yet
+20 songs - 40 min 30 sec - [published](https://open.spotify.com/playlist/4TILw5UWGRp5WuYrZG2bKj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

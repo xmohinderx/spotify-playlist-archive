@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Zomboy.
 
-215 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+216 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bakin'](https://open.spotify.com/track/7mOcONitM15kWhBYr6fW1r) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [YKES](https://open.spotify.com/artist/1qHnyADaXNasNXl7aJn3op), [Peytn](https://open.spotify.com/artist/5Liz6tTU5sIQkKCDwQonov) | [Bakin'](https://open.spotify.com/album/5IcN6G9WOIw87haM2q63X9) | 2:56 | 2021-12-17 | 2022-07-28 |
 | [Better Off Alone](https://open.spotify.com/track/6wPBOv9UlysxoASQgRPPkU) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Better Off Alone](https://open.spotify.com/album/3V32JmXZjr6NzCpEdev5A5) | 4:51 | 2021-12-17 |  |
 | [Blackout](https://open.spotify.com/track/1PE5LrDuHq4maYBVmsWlHJ) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Blackout](https://open.spotify.com/album/5spblclZJQbJPAHjRop7sl) | 3:00 | 2021-12-17 | 2022-03-12 |
+| [Blicky](https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Blicky](https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1) | 3:32 | 2022-08-05 |  |
 | [Blindfold](https://open.spotify.com/track/5rkJBRvyemuXYBffHZCdPa) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Blindfold](https://open.spotify.com/album/72gsKOBsJ129zrsETPrnmH) | 2:37 | 2021-12-17 |  |
 | [Blow It Up](https://open.spotify.com/track/2nkEpxFxBrSNszj50S98zv) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe) | [Blow It Up](https://open.spotify.com/album/69v5JpYfoOurqNb4s5lGx9) | 2:27 | 2021-12-17 | 2022-03-12 |
 | [Boom](https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Boom](https://open.spotify.com/album/6AQyzJ4rBD3gryKrKkAeqR) | 3:45 | 2021-12-17 |  |
@@ -138,7 +139,7 @@
 | [NO LOVE](https://open.spotify.com/track/3x9RokAqos6LqGni4E0TyB) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [NO LOVE](https://open.spotify.com/album/5T2DMQH1Ru2R9FMgpklg4h) | 3:22 | 2021-12-17 |  |
 | [NOSEBLEED](https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [NOSEBLEED](https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz) | 3:46 | 2021-12-17 |  |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-03 |  |
-| [OG BOI BE BACK](https://open.spotify.com/track/6N4CWmnnPyCP2UBsgQK7So) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [OG BOI BE BACK](https://open.spotify.com/album/4R8rPTq1pGKKLD2AFHO0rv) | 2:48 | 2022-07-08 |  |
+| [OG BOI BE BACK](https://open.spotify.com/track/6N4CWmnnPyCP2UBsgQK7So) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [OG BOI BE BACK](https://open.spotify.com/album/4R8rPTq1pGKKLD2AFHO0rv) | 2:48 | 2022-07-08 | 2022-08-08 |
 | [Oldskool](https://open.spotify.com/track/3x34JXZdyZdkfEgkHT3eNC) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Mechanized Mayhem Vol\. 2](https://open.spotify.com/album/5JZXWPiy5bwrkJng3gYJcr) | 3:39 | 2022-01-21 |  |
 | [Ominous](https://open.spotify.com/track/0bmmFj68HfhxsBoPbuSU1q) | [GUERRO](https://open.spotify.com/artist/6zgXDX1gGCrq6U8RXKGn0h) | [Ominous](https://open.spotify.com/album/4ZyuhMJtWSoh1mc9vTvtSu) | 3:29 | 2022-05-06 | 2022-07-23 |
 | [On A Dime](https://open.spotify.com/track/5Riszk0ZuaA6US8TyZZ9cT) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [On A Dime](https://open.spotify.com/album/2eVHIVMHeP3AycT6rfr91C) | 4:00 | 2022-07-22 |  |

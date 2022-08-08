@@ -528,6 +528,24 @@
     },
     {
       "album": {
+        "name": "Loud House",
+        "url": "https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1"
+      },
+      "artists": [
+        {
+          "name": "Madison Kozak",
+          "url": "https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Loud House",
+      "url": "https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv"
+    },
+    {
+      "album": {
         "name": "Lena Stone",
         "url": "https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi"
       },

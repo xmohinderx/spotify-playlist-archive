@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: Linaje Escojido y Miel San Marcos",
-  "num_followers": 103313,
+  "num_followers": 103385,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3NzU3MCwwMDAwMDAwMGU4MTdhNDI5ZDM1YzRhNTVhMjE5YjJhMjg1ZDI5MDI2",
+  "snapshot_id": "MTY1OTY3NzU3MCwwMDAwMDAwMDMyOTJhMDQxNzVmMjNlZTM5NDA5YjJiOTg2NTRhMmNk",
   "tracks": [
     {
       "added_at": "2022-08-05 05:32:50",
@@ -375,6 +375,30 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
+        "name": "X Siempre",
+        "url": "https://open.spotify.com/album/2LHcdbwP3WHPSh9n6cD5yQ"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Steven Richards",
+          "url": "https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4"
+        },
+        {
+          "name": "Lluvia Richards",
+          "url": "https://open.spotify.com/artist/3kcszo6x9oxggpewnHZheB"
+        }
+      ],
+      "duration_ms": 404729,
+      "name": "X SIEMPRE",
+      "url": "https://open.spotify.com/track/6B7zIIqfxXOXaxV8J9VTWd"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
         "name": "Simple Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
       },
@@ -415,30 +439,6 @@
       "duration_ms": 212276,
       "name": "Despierta",
       "url": "https://open.spotify.com/track/3u4jkJRTMTWvXBAPmUB9Zc"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "X Siempre",
-        "url": "https://open.spotify.com/album/2LHcdbwP3WHPSh9n6cD5yQ"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Steven Richards",
-          "url": "https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4"
-        },
-        {
-          "name": "Lluvia Richards",
-          "url": "https://open.spotify.com/artist/3kcszo6x9oxggpewnHZheB"
-        }
-      ],
-      "duration_ms": 404729,
-      "name": "X SIEMPRE",
-      "url": "https://open.spotify.com/track/6B7zIIqfxXOXaxV8J9VTWd"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Miles de Aleluyas",
-        "url": "https://open.spotify.com/album/7ELZP2soBbhfWGJNHCcbn6"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Day",
-          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
-        }
-      ],
-      "duration_ms": 243529,
-      "name": "Miles de Aleluyas",
-      "url": "https://open.spotify.com/track/36PtOlNj6AEeVIY3hWcAsI"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
         "name": "Como Eh",
         "url": "https://open.spotify.com/album/3Nt8Qr22mhCSOJ1jQXp9YI"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 169043,
       "name": "Como Eh",
       "url": "https://open.spotify.com/track/2CTBMhHS3GIs8LlC1xXBwj"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Miles de Aleluyas",
+        "url": "https://open.spotify.com/album/7ELZP2soBbhfWGJNHCcbn6"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "duration_ms": 243529,
+      "name": "Miles de Aleluyas",
+      "url": "https://open.spotify.com/track/36PtOlNj6AEeVIY3hWcAsI"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
+        "name": "Guiame",
+        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 200963,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
         "name": "Vuelo",
         "url": "https://open.spotify.com/album/5vdIbqun6cWgFXRl5GEobV"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 315163,
       "name": "Por Su Esp\u00edritu",
       "url": "https://open.spotify.com/track/0BRzZYB9McVQJc5XlXOt2g"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "Guiame",
-        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "Gu\u00edame",
-      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Digno Eres T\u00fa (Biling\u00fce)",
-        "url": "https://open.spotify.com/album/34Jd30Axl3rFbMMpT4Ay6G"
-      },
-      "artists": [
-        {
-          "name": "Free Worship",
-          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
-        }
-      ],
-      "duration_ms": 323240,
-      "name": "Digno Eres T\u00fa (Biling\u00fce)",
-      "url": "https://open.spotify.com/track/1chC3vYLW72tgv2GGcBmoN"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
         "name": "Corro Ante Ti",
         "url": "https://open.spotify.com/album/3GM0rKIyYeIizZ06WBsaHZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 252134,
       "name": "Corro Ante Ti",
       "url": "https://open.spotify.com/track/7i0LfXbTNpFVu4gE9TIh6o"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Digno Eres T\u00fa (Biling\u00fce)",
+        "url": "https://open.spotify.com/album/34Jd30Axl3rFbMMpT4Ay6G"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "duration_ms": 323240,
+      "name": "Digno Eres T\u00fa (Biling\u00fce)",
+      "url": "https://open.spotify.com/track/1chC3vYLW72tgv2GGcBmoN"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -987,6 +987,54 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
+        "name": "Sin Temor",
+        "url": "https://open.spotify.com/album/5bgIKTDKzVy2p2Ef2TxOWU"
+      },
+      "artists": [
+        {
+          "name": "Sophiv",
+          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
+        }
+      ],
+      "duration_ms": 152458,
+      "name": "Sin Temor",
+      "url": "https://open.spotify.com/track/4Mc1Rz1H1qBH47fdXyLUrS"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Visi\u00f3n Juvenil - EP (En Vivo)",
+        "url": "https://open.spotify.com/album/2gZml9TloSkU0idJyvJUFA"
+      },
+      "artists": [
+        {
+          "name": "Vision Juvenil",
+          "url": "https://open.spotify.com/artist/6P1AgVQCZ5tlKMroVruWlz"
+        }
+      ],
+      "duration_ms": 261187,
+      "name": "Estar\u00e9 Seguro",
+      "url": "https://open.spotify.com/track/3AfacExClFa3lPSks81Ht3"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Si Tu Presencia Conmigo No Va",
+        "url": "https://open.spotify.com/album/4VZcRhk7T5yg3xCpPdBHL4"
+      },
+      "artists": [
+        {
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+        }
+      ],
+      "duration_ms": 337701,
+      "name": "Si Tu Presencia Conmigo No Va",
+      "url": "https://open.spotify.com/track/18kQ5kU3gninEy9vw4RKOo"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
         "name": "A Puerta Cerrada",
         "url": "https://open.spotify.com/album/42XTtNruyb9nf3KAihCEG9"
       },
@@ -1023,66 +1071,22 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Si Tu Presencia Conmigo No Va",
-        "url": "https://open.spotify.com/album/4VZcRhk7T5yg3xCpPdBHL4"
+        "name": "Lo Volver\u00e1s a Hacer",
+        "url": "https://open.spotify.com/album/7uLEeDyg4eehLd5qLh73Iq"
       },
       "artists": [
         {
-          "name": "Kyrios",
-          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
-        }
-      ],
-      "duration_ms": 337701,
-      "name": "Si Tu Presencia Conmigo No Va",
-      "url": "https://open.spotify.com/track/18kQ5kU3gninEy9vw4RKOo"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "Visi\u00f3n Juvenil - EP (En Vivo)",
-        "url": "https://open.spotify.com/album/2gZml9TloSkU0idJyvJUFA"
-      },
-      "artists": [
+          "name": "Jeff Mojica",
+          "url": "https://open.spotify.com/artist/1LGZGN1qiHt1HtNHJ0nGBg"
+        },
         {
-          "name": "Vision Juvenil",
-          "url": "https://open.spotify.com/artist/6P1AgVQCZ5tlKMroVruWlz"
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
         }
       ],
-      "duration_ms": 261187,
-      "name": "Estar\u00e9 Seguro",
-      "url": "https://open.spotify.com/track/3AfacExClFa3lPSks81Ht3"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "Sin Temor",
-        "url": "https://open.spotify.com/album/5bgIKTDKzVy2p2Ef2TxOWU"
-      },
-      "artists": [
-        {
-          "name": "Sophiv",
-          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
-        }
-      ],
-      "duration_ms": 152458,
-      "name": "Sin Temor",
-      "url": "https://open.spotify.com/track/4Mc1Rz1H1qBH47fdXyLUrS"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "Fuiste La Cura",
-        "url": "https://open.spotify.com/album/0kx8L6MKRRhRnRnuB0lcKY"
-      },
-      "artists": [
-        {
-          "name": "MAJU",
-          "url": "https://open.spotify.com/artist/0AhvXXcXDmqGRkqKGA2rXk"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Fuiste La Cura",
-      "url": "https://open.spotify.com/track/4MnCQpCCDroSRDczGV0eqB"
+      "duration_ms": 348074,
+      "name": "Lo Volver\u00e1s a Hacer",
+      "url": "https://open.spotify.com/track/5MCSuE4VwYj7aOOcfnqiWJ"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1103,22 +1107,18 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Lo Volver\u00e1s a Hacer",
-        "url": "https://open.spotify.com/album/7uLEeDyg4eehLd5qLh73Iq"
+        "name": "Fuiste La Cura",
+        "url": "https://open.spotify.com/album/0kx8L6MKRRhRnRnuB0lcKY"
       },
       "artists": [
         {
-          "name": "Jeff Mojica",
-          "url": "https://open.spotify.com/artist/1LGZGN1qiHt1HtNHJ0nGBg"
-        },
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+          "name": "MAJU",
+          "url": "https://open.spotify.com/artist/0AhvXXcXDmqGRkqKGA2rXk"
         }
       ],
-      "duration_ms": 348074,
-      "name": "Lo Volver\u00e1s a Hacer",
-      "url": "https://open.spotify.com/track/5MCSuE4VwYj7aOOcfnqiWJ"
+      "duration_ms": 191040,
+      "name": "Fuiste La Cura",
+      "url": "https://open.spotify.com/track/4MnCQpCCDroSRDczGV0eqB"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Haz Lo Que Quieras",
-        "url": "https://open.spotify.com/album/3jYG6h2nn8WfZV4j2M9jn9"
-      },
-      "artists": [
-        {
-          "name": "Shammai",
-          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
-        }
-      ],
-      "duration_ms": 704231,
-      "name": "Haz Lo Que Quieras",
-      "url": "https://open.spotify.com/track/02cqzD0CXc9YYRPRWg9YEe"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
         "name": "Todo bien saldr\u00e1",
         "url": "https://open.spotify.com/album/3L1CDKsTxv16h9ZPorMaaI"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 259592,
       "name": "Todo bien saldr\u00e1",
       "url": "https://open.spotify.com/track/47QieKoNOx4Pqpz0iZNdDO"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Haz Lo Que Quieras",
+        "url": "https://open.spotify.com/album/3jYG6h2nn8WfZV4j2M9jn9"
+      },
+      "artists": [
+        {
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+        }
+      ],
+      "duration_ms": 704231,
+      "name": "Haz Lo Que Quieras",
+      "url": "https://open.spotify.com/track/02cqzD0CXc9YYRPRWg9YEe"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
+        "name": "Somos Las Voces",
+        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 242497,
+      "name": "Somos Las Voces",
+      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
         "name": "El Se\u00f1or es mi Rey",
         "url": "https://open.spotify.com/album/1XqzVa05XIb7O2IJ5JWBqf"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 228150,
       "name": "El Se\u00f1or es mi Rey",
       "url": "https://open.spotify.com/track/1Q1wdUTQhCbngy0yq1KM1E"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "Somos Las Voces",
-        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
-      },
-      "artists": [
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 242497,
-      "name": "Somos Las Voces",
-      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
+        "name": "This is What We Came For",
+        "url": "https://open.spotify.com/album/1pSBztmBA4hsDbnClXY6ii"
+      },
+      "artists": [
+        {
+          "name": "Shealy Worship",
+          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
+        },
+        {
+          "name": "Nick Gaggero",
+          "url": "https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Vine A Buscarte",
+      "url": "https://open.spotify.com/track/24dWgvBSis3etl6ieapzZG"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
         "name": "Si no hubiera sido",
         "url": "https://open.spotify.com/album/0oRNDRYzlV7Ymm8NZdKDDX"
       },
@@ -1427,26 +1447,6 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "This is What We Came For",
-        "url": "https://open.spotify.com/album/1pSBztmBA4hsDbnClXY6ii"
-      },
-      "artists": [
-        {
-          "name": "Shealy Worship",
-          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
-        },
-        {
-          "name": "Nick Gaggero",
-          "url": "https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Vine A Buscarte",
-      "url": "https://open.spotify.com/track/24dWgvBSis3etl6ieapzZG"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/4fnIZsVXkeuitmK0jeeZo7"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 261957,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5jiXeesCYXiW25zH95Mg9Q"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "100K",
+        "url": "https://open.spotify.com/album/1vMr6e1dQhD9RDV0oJ29P8"
+      },
+      "artists": [
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        }
+      ],
+      "duration_ms": 316361,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/5FUuxaewWzBrQSjnN5JG7A"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "100K",
-        "url": "https://open.spotify.com/album/1vMr6e1dQhD9RDV0oJ29P8"
+        "name": "El Dios de la monta\u00f1a",
+        "url": "https://open.spotify.com/album/54TyhBmIFQsfy4brvcJXbR"
       },
       "artists": [
         {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+          "name": "Hanzell Carballo",
+          "url": "https://open.spotify.com/artist/5h935O5UbMt7hJHxiHTKtD"
         }
       ],
-      "duration_ms": 316361,
-      "name": "100K",
-      "url": "https://open.spotify.com/track/5FUuxaewWzBrQSjnN5JG7A"
+      "duration_ms": 194025,
+      "name": "El Dios de la monta\u00f1a (cover) God on the mountain",
+      "url": "https://open.spotify.com/track/0Ot7ma4JpAZ4nB0It2I8Fz"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1519,22 +1535,6 @@
       "duration_ms": 173354,
       "name": "Vital",
       "url": "https://open.spotify.com/track/0LjclnXU2tPq5HMycbNZju"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "El Dios de la monta\u00f1a",
-        "url": "https://open.spotify.com/album/54TyhBmIFQsfy4brvcJXbR"
-      },
-      "artists": [
-        {
-          "name": "Hanzell Carballo",
-          "url": "https://open.spotify.com/artist/5h935O5UbMt7hJHxiHTKtD"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "El Dios de la monta\u00f1a (cover) God on the mountain",
-      "url": "https://open.spotify.com/track/0Ot7ma4JpAZ4nB0It2I8Fz"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Coraz\u00f3n Nuevo",
-        "url": "https://open.spotify.com/album/5wKTzaJxUS8SjfvggmAVe5"
-      },
-      "artists": [
-        {
-          "name": "Edson Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
-        }
-      ],
-      "duration_ms": 284655,
-      "name": "Coraz\u00f3n Nuevo",
-      "url": "https://open.spotify.com/track/0nWUgFor2mZtmtg4c6jbwv"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
         "name": "Mi Eterno Destino (Live Session From Los Angeles)",
         "url": "https://open.spotify.com/album/4ZNs1mvGqLfSbHr86jynKy"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "M\u00e1s De Lo Que Yo So\u00f1\u00e9 (Live)",
-        "url": "https://open.spotify.com/album/6U26VKkRAChM9xAIMW0M6A"
+        "name": "Coraz\u00f3n Nuevo",
+        "url": "https://open.spotify.com/album/5wKTzaJxUS8SjfvggmAVe5"
       },
       "artists": [
         {
-          "name": "Bria Jean",
-          "url": "https://open.spotify.com/artist/43UtBCYgy0IcVMzggYPCXD"
+          "name": "Edson Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
         }
       ],
-      "duration_ms": 257859,
-      "name": "M\u00e1s De Lo Que Yo So\u00f1\u00e9 - Live",
-      "url": "https://open.spotify.com/track/4WwwvtI0JwMVZHwfJbl0Rq"
+      "duration_ms": 284655,
+      "name": "Coraz\u00f3n Nuevo",
+      "url": "https://open.spotify.com/track/0nWUgFor2mZtmtg4c6jbwv"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1667,6 +1651,22 @@
       "duration_ms": 225490,
       "name": "Viejo",
       "url": "https://open.spotify.com/track/1QYnTkYFvkVXMEKg7Bbc5B"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "M\u00e1s De Lo Que Yo So\u00f1\u00e9 (Live)",
+        "url": "https://open.spotify.com/album/6U26VKkRAChM9xAIMW0M6A"
+      },
+      "artists": [
+        {
+          "name": "Bria Jean",
+          "url": "https://open.spotify.com/artist/43UtBCYgy0IcVMzggYPCXD"
+        }
+      ],
+      "duration_ms": 257859,
+      "name": "M\u00e1s De Lo Que Yo So\u00f1\u00e9 - Live",
+      "url": "https://open.spotify.com/track/4WwwvtI0JwMVZHwfJbl0Rq"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
+        "name": "Gracia",
+        "url": "https://open.spotify.com/album/1tjjnVKLCnZxGmoVFIS4zp"
+      },
+      "artists": [
+        {
+          "name": "Edson Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
+        }
+      ],
+      "duration_ms": 478225,
+      "name": "Gracia",
+      "url": "https://open.spotify.com/track/72JMyu7H0bZ2nhidXtt1yY"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
         "name": "Un Camino Har\u00e1s",
         "url": "https://open.spotify.com/album/0STmW2XreQgNBYqDpb3Rtc"
       },
@@ -1747,18 +1763,34 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Gracia",
-        "url": "https://open.spotify.com/album/1tjjnVKLCnZxGmoVFIS4zp"
+        "name": "...y Continuamos",
+        "url": "https://open.spotify.com/album/6cBviCYJc1U741HDe3kDdE"
       },
       "artists": [
         {
-          "name": "Edson Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
         }
       ],
-      "duration_ms": 478225,
-      "name": "Gracia",
-      "url": "https://open.spotify.com/track/72JMyu7H0bZ2nhidXtt1yY"
+      "duration_ms": 223285,
+      "name": "No Pierdas la Fe",
+      "url": "https://open.spotify.com/track/3YcFkhYxJCPYWkCTowWdbu"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Que Rico Es",
+        "url": "https://open.spotify.com/album/5xDDrfOpPsoNqAJMKivsVk"
+      },
+      "artists": [
+        {
+          "name": "JonCarlos + Gabriella",
+          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Que Rico Es",
+      "url": "https://open.spotify.com/track/0RjHLh4GPa1S2WFY6l3XcC"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1779,22 +1811,6 @@
       "duration_ms": 190501,
       "name": "Sin Limites",
       "url": "https://open.spotify.com/track/2CQ3NYWl0k0lGpAct5FTqc"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "...y Continuamos",
-        "url": "https://open.spotify.com/album/6cBviCYJc1U741HDe3kDdE"
-      },
-      "artists": [
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        }
-      ],
-      "duration_ms": 223285,
-      "name": "No Pierdas la Fe",
-      "url": "https://open.spotify.com/track/3YcFkhYxJCPYWkCTowWdbu"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1827,22 +1843,6 @@
       "duration_ms": 187917,
       "name": "Yo Cambiar\u00eda",
       "url": "https://open.spotify.com/track/60ck22ft9J0acpcUPAaNc1"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "Que Rico Es",
-        "url": "https://open.spotify.com/album/5xDDrfOpPsoNqAJMKivsVk"
-      },
-      "artists": [
-        {
-          "name": "JonCarlos + Gabriella",
-          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Que Rico Es",
-      "url": "https://open.spotify.com/track/0RjHLh4GPa1S2WFY6l3XcC"
     },
     {
       "added_at": "2022-08-05 05:32:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New Deluxe album from Diplo, plus the latest cuts from Aluna, Carlita, TDJ, niina, Ayra Star, Noizu, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,497 likes - 53 songs - 3 hr 28 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,499 likes - 53 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

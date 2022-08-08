@@ -4,7 +4,7 @@
 
 > Kick back and relax to these chilled Blues classics.
 
-87 songs - 7 hr 52 min - not published yet
+87 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/69IojyGEsmd2inrDrCpDQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

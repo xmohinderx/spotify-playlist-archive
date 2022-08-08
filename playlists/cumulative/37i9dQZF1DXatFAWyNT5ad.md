@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-491 songs - 1 day 1 hr 49 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+492 songs - 1 day 1 hr 52 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [\(We're\) Alive](https://open.spotify.com/track/0cGEzRIT6mrCsOcnoTaUa2) | [Argonaut & Wasp](https://open.spotify.com/artist/5FE0B5zV9y7T5OzkiDkBG8) | [\(We're\) Alive](https://open.spotify.com/album/5DTlvXMgdCjX2lqTbNCZlP) | 3:16 | 2022-03-24 | 2022-04-21 |
 | [1 x 1 \(feat\. Wesley Schultz\)](https://open.spotify.com/track/7rEOT10A7KBrm1Fs3l0s9T) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [1 x 1 \(feat\. Wesley Schultz\)](https://open.spotify.com/album/6Op13g8qTCDFmMNDbFOqgx) | 3:27 | 2022-03-24 | 2022-04-14 |
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2022-03-17 | 2022-07-29 |
-| [18](https://open.spotify.com/track/1No2CqopteR18XVL4RJHNO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 2:30 | 2022-08-05 |  |
+| [18](https://open.spotify.com/track/1No2CqopteR18XVL4RJHNO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 2:30 | 2022-08-05 | 2022-08-08 |
 | [21st Century Vampire](https://open.spotify.com/track/7KDqNm3Vo6isNP1rfiEVZx) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [21st Century Vampire](https://open.spotify.com/album/0u19GSyQ4QeGJu9o0V0s0i) | 2:47 | 2022-03-17 | 2022-05-31 |
 | [3, 2, 1](https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:11 | 2022-07-07 |  |
 | [3, 2, 1](https://open.spotify.com/track/1bFoCHXsP2qd4YWi2JmlCN) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [3, 2, 1](https://open.spotify.com/album/2gt7MlxyMKUl6LUDcc2etd) | 2:11 | 2022-03-17 | 2022-05-25 |
@@ -269,6 +269,7 @@
 | [Like A Virgin \- Spotify Singles](https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:11 | 2022-03-17 | 2022-07-26 |
 | [Like Lightning](https://open.spotify.com/track/7bDztTav6TQByZmDJmUT5Y) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Part 2 Everything Not Saved Will Be Lost](https://open.spotify.com/album/2gA6WSERaJVOWwuB0hegvp) | 3:34 | 2022-03-24 | 2022-04-19 |
 | [Limitless](https://open.spotify.com/track/71JuDGXgyY7MbmXtldZ4C3) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Limitless](https://open.spotify.com/album/0wrKtjtoNplOAPjj4jYx4t) | 3:41 | 2022-03-24 | 2022-04-17 |
+| [Local God](https://open.spotify.com/track/3XADz7YwWlGDErHwv5F093) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Local God](https://open.spotify.com/album/50uQ50fSsmddC5xAHLb49w) | 3:00 | 2022-08-05 |  |
 | [loneliness for love](https://open.spotify.com/track/5Kth6cQqMCY9HSo0GbhjUF) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [loneliness for love](https://open.spotify.com/album/5Ydukmq7CbdVsEKCqCuiXo) | 3:57 | 2022-03-17 | 2022-07-20 |
 | [Lonely](https://open.spotify.com/track/0haXiRi57j2xQo5a3WkzqV) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5274bCsoBGBuqed5yKLi9D) | 3:06 | 2022-07-07 |  |
 | [Lonely](https://open.spotify.com/track/4w6K8eMuWck8OSJ1fdvU9e) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Lonely](https://open.spotify.com/album/3JNyfxEwdH17ld60mPDks7) | 3:06 | 2022-03-24 | 2022-04-17 |

@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 100260,
+  "num_followers": 100279,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDAxMjJiNzFiMjdmNWM5YzExNzliMDk4ZjViM2QzMWIy",
+  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDU3NzI1MjNiYTFkYjJjYjViNjRmNDRhNTQ3OTQ3Njc2",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Shake Those Hula Hips!",
-        "url": "https://open.spotify.com/album/3y7gQh1B6UZrBO6CGIxuDd"
-      },
-      "artists": [
-        {
-          "name": "Big Kahuna and the Copa Cat Pack",
-          "url": "https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4"
-        }
-      ],
-      "duration_ms": 213160,
-      "name": "Ain't No Big Thing",
-      "url": "https://open.spotify.com/track/5FIuy1qgSfOENMDKHjsAsb"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Indigo Swing",
         "url": "https://open.spotify.com/album/0BHd15407qFmwe0VNGoMQ4"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Come Out Swingin'",
-        "url": "https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g"
+        "name": "Shake Those Hula Hips!",
+        "url": "https://open.spotify.com/album/3y7gQh1B6UZrBO6CGIxuDd"
       },
       "artists": [
         {
-          "name": "Steve Lucky & The Rhumba Bums",
-          "url": "https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS"
+          "name": "Big Kahuna and the Copa Cat Pack",
+          "url": "https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4"
         }
       ],
-      "duration_ms": 280493,
-      "name": "Jumptown",
-      "url": "https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb"
+      "duration_ms": 213160,
+      "name": "Ain't No Big Thing",
+      "url": "https://open.spotify.com/track/5FIuy1qgSfOENMDKHjsAsb"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -475,6 +459,22 @@
       "duration_ms": 214266,
       "name": "The Ding Dong Daddy of the D Car Line",
       "url": "https://open.spotify.com/track/4uxRacg0PBqOIan3lhJ3Xt"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Come Out Swingin'",
+        "url": "https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g"
+      },
+      "artists": [
+        {
+          "name": "Steve Lucky & The Rhumba Bums",
+          "url": "https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Do The Pup",
+      "url": "https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
+        "name": "Come Out Swingin'",
+        "url": "https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g"
+      },
+      "artists": [
+        {
+          "name": "Steve Lucky & The Rhumba Bums",
+          "url": "https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS"
+        }
+      ],
+      "duration_ms": 280493,
+      "name": "Jumptown",
+      "url": "https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
         "name": "Solid Gold Cadillac",
         "url": "https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 268961,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Come Out Swingin'",
-        "url": "https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g"
-      },
-      "artists": [
-        {
-          "name": "Steve Lucky & The Rhumba Bums",
-          "url": "https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "Do The Pup",
-      "url": "https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Jump For Joy",
-        "url": "https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7"
-      },
-      "artists": [
-        {
-          "name": "Mitch Woods and His Rocket 88\u2018S",
-          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Swingin' At The Savoy",
-      "url": "https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "One Hour Mama",
         "url": "https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 193453,
       "name": "Oo Poppa Do",
       "url": "https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Jump For Joy",
+        "url": "https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7"
+      },
+      "artists": [
+        {
+          "name": "Mitch Woods and His Rocket 88\u2018S",
+          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Swingin' At The Savoy",
+      "url": "https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
+        "name": "Shakin' The Shack",
+        "url": "https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a"
+      },
+      "artists": [
+        {
+          "name": "Mitch Woods and His Rocket 88\u2018S",
+          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Long, Lean And Lanky",
+      "url": "https://open.spotify.com/track/42hgWC7nkO76AtF3MxU3Qo"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
         "name": "I Dare You!",
         "url": "https://open.spotify.com/album/7IbV9UGQrHutw7rb0hggG2"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 179453,
       "name": "I Dare You Baby",
       "url": "https://open.spotify.com/track/5EnB7dy2Yt1AoNDL9D6aFw"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Flatland Boogie",
-        "url": "https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV"
-      },
-      "artists": [
-        {
-          "name": "Four Charms",
-          "url": "https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs"
-        }
-      ],
-      "duration_ms": 148320,
-      "name": "Sausage Rock",
-      "url": "https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I"
     }
   ],
   "unique_name": "Swing Revival",

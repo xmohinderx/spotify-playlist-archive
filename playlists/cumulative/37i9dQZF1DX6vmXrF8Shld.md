@@ -4,7 +4,7 @@
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-67 songs - 3 hr 29 min - not published yet
+67 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

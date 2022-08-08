@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Wyj\u0105tkowe spektrum d\u017awi\u0119k\u00f3w na jednej playli\u015bcie. Cover: Zawadzki",
-  "num_followers": 2293,
+  "num_followers": 2292,
   "original_name": "Pride Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMGMyZDcyYTAwZTY3NTU3NjY4YzExMjk2ZTI3ZWQzYjFk",
+  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMDM2ZDhlYTNlZTFkNWZhZWQyZmQwZjFmNjA3N2I3NDZk",
   "tracks": [
     {
       "added_at": "2022-07-22 08:13:30",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "M\u0142odzi",
+        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
+      },
+      "artists": [
+        {
+          "name": "Agata Radziszewska",
+          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "Lustro",
+      "url": "https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "Dziewczyna z NASA",
         "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 220000,
       "name": "Dziewczyna z NASA",
       "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "M\u0142odzi",
-        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
-      },
-      "artists": [
-        {
-          "name": "Agata Radziszewska",
-          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "Lustro",
-      "url": "https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "Yanch",
+          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
         }
       ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
+      "duration_ms": 359338,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj"
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
       },
       "artists": [
         {
-          "name": "Yanch",
-          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 359338,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw"
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
     },
     {
       "added_at": "2022-07-22 08:13:30",

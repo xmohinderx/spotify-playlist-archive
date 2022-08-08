@@ -1,12 +1,12 @@
 {
   "description": "Release The Bats! Cover: Siouxsie and the Banshees",
-  "num_followers": 438812,
+  "num_followers": 439236,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcyNzExNSwwMDAwMDAwMGU5ZTg4MmNmNDE2OGE1NWYxNzcyYTk1ZmNmYTMxZjQ2",
+  "snapshot_id": "MTY1OTcyNzExNSwwMDAwMDAwMGE2YTUzNGQ4MDMyNzczZGM3MDkyNmFlMzk0ODg3NGM5",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv"
-      },
-      "artists": [
-        {
-          "name": "Clan of Xymox",
-          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
-        }
-      ],
-      "duration_ms": 353160,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Only Theatre of Pain",
         "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 134000,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv"
+      },
+      "artists": [
+        {
+          "name": "Clan of Xymox",
+          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
+        }
+      ],
+      "duration_ms": 353160,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Beatrix",
-      "url": "https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Seventh Dream of Teenage Heaven",
         "url": "https://open.spotify.com/album/4nGGzp3IFhkksr4DCOYLQ0"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 481560,
       "name": "Haunted When the Minutes Drag",
       "url": "https://open.spotify.com/track/2aQPNm5EtLWBHsqzNuAdcq"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Beatrix",
+      "url": "https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg"
     }
   ],
   "unique_name": "Dark & Gothic",

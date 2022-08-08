@@ -2224,6 +2224,24 @@
     },
     {
       "album": {
+        "name": "Leap",
+        "url": "https://open.spotify.com/album/55LHLzeYPPUn2YLtXtxPix"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Nowhere Left To Go",
+      "url": "https://open.spotify.com/track/4PDrhc6Uj2wxn7NDGpe2cM"
+    },
+    {
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/2Rdk4H50uZaiQUp3I1IZUB"
       },

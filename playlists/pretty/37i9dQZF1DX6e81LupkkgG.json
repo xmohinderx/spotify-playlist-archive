@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 334450,
+  "num_followers": 334508,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ1ODgwMCwwMDAwMDAwMDZjNWM5ZjQ5ZTlhOWNkNDFlMzZjNGNhOWZmOWJmMzQz",
+  "snapshot_id": "MTY1ODQ1ODgwMCwwMDAwMDAwMGJkOTQ3NGE1ZWUyYWY0MDQwNDcyNWVjOTlkMGYxZDE0",
   "tracks": [
     {
       "added_at": "2022-07-22 03:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-07-22 03:00:00",
       "album": {
+        "name": "Like Strangers Do",
+        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 160790,
+      "name": "Like Strangers Do",
+      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
-    },
-    {
-      "added_at": "2022-07-22 03:00:00",
-      "album": {
-        "name": "Like Strangers Do",
-        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 160790,
-      "name": "Like Strangers Do",
-      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
     },
     {
       "added_at": "2022-07-22 03:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-07-22 03:00:00",
       "album": {
-        "name": "Optimist",
-        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 181210,
-      "name": "What They'll Say About Us",
-      "url": "https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR"
-    },
-    {
-      "added_at": "2022-07-22 03:00:00",
-      "album": {
         "name": "Chemtrails Over The Country Club",
         "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 200661,
       "name": "Let Me Love You Like A Woman",
       "url": "https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 181210,
+      "name": "What They'll Say About Us",
+      "url": "https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR"
     },
     {
       "added_at": "2022-07-22 03:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-07-22 03:00:00",
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 240065,
+      "name": "Crocodiles",
+      "url": "https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x"
+    },
+    {
+      "added_at": "2022-07-22 03:00:00",
+      "album": {
         "name": "Teu sim, mas n\u00e3o. (feat. Pedro Calais)",
         "url": "https://open.spotify.com/album/6PZyMzlh4wTtUqO0NJzlUv"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 201720,
       "name": "Teu sim, mas n\u00e3o. (feat. Pedro Calais)",
       "url": "https://open.spotify.com/track/2ySHbwdxA32udzny7hlULo"
-    },
-    {
-      "added_at": "2022-07-22 03:00:00",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 240065,
-      "name": "Crocodiles",
-      "url": "https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x"
     },
     {
       "added_at": "2022-07-22 03:00:00",

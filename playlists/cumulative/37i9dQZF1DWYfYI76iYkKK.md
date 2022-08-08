@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-143 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
+144 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [初戀的地方 \(《華燈初上》插曲\)](https://open.spotify.com/track/1s3oaYJPfpQnTrW2sdtK0b) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [華燈初上 影集原聲帶](https://open.spotify.com/album/5Wo3UjxodmjHl2XK3FCkTv) | 2:56 | 2022-06-16 | 2022-07-20 |
 | [十五樓](https://open.spotify.com/track/40JfpFsic8BhYjJ0ZuHGdr) | [陳卓](https://open.spotify.com/artist/4b1OGhW4UMm5KeCgW7eeYh) | [十五樓](https://open.spotify.com/album/1LrHJbx1ppmbd4ug8vz6rZ) | 4:28 | 2022-06-30 | 2022-07-08 |
 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 | 2022-06-10 |  |
-| [原來你什麼都不要 \- Diva Classics \- Part 2](https://open.spotify.com/track/0hzBWWiSp4x1dzcorjP9FN) | [Rose Liu](https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn) | [原來你什麼都不要 \(Diva Classics \- Part 2\)](https://open.spotify.com/album/0jWeUfp6HULDfbEkbP5WsC) | 3:54 | 2022-06-02 |  |
+| [原來你什麼都不要 \- Diva Classics \- Part 2](https://open.spotify.com/track/0hzBWWiSp4x1dzcorjP9FN) | [Rose Liu](https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn) | [原來你什麼都不要 \(Diva Classics \- Part 2\)](https://open.spotify.com/album/0jWeUfp6HULDfbEkbP5WsC) | 3:54 | 2022-06-02 | 2022-08-08 |
 | [原來我很愛你 \- 電視劇《原來我很愛你》同名主題曲](https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih) | [原來我很愛你 \(電視劇《原來我很愛你》同名主題曲\)](https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq) | 3:40 | 2022-07-28 |  |
 | [可不可以你也剛好喜歡我 \(電影《可不可以,你也剛好喜歡我》宣傳曲\)](https://open.spotify.com/track/61wIEHBhxCURz08r0E4pzg) | [FS \(Fuying & Sam\)](https://open.spotify.com/artist/0vWI4yyM1HXGoK0tkHqbGi) | [可不可以你也剛好喜歡我 \(電影《可不可以,你也剛好喜歡我》宣傳曲\)](https://open.spotify.com/album/3JDLRMAREurKUXxHpdeDw1) | 4:35 | 2022-07-21 | 2022-07-27 |
 | [可惜不愛了](https://open.spotify.com/track/1KmlwGRzoI8OhzBUTIvJtX) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [來者何人n!](https://open.spotify.com/album/6PzBtNMygnrKVLoQGxLgsj) | 3:54 | 2022-06-10 | 2022-07-09 |
@@ -99,6 +99,7 @@
 | [日常](https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:03 | 2022-07-28 |  |
 | [是真的](https://open.spotify.com/track/7x3DALEaUQMlSEbbmOO2sL) | [陳曉東](https://open.spotify.com/artist/1XYZT911VpRwP311djiYHM) | [是真的](https://open.spotify.com/album/3VPjlieNDk642y3Eyf8HYx) | 3:51 | 2022-06-10 | 2022-06-14 |
 | [時間的輪](https://open.spotify.com/track/5cze6ZSsHwLVIRMRS9h8Hg) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [時間的輪](https://open.spotify.com/album/3De0h0EROxVD9ljubGI5r8) | 3:32 | 2022-06-30 | 2022-07-05 |
+| [最好的時光](https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup) | [安溥](https://open.spotify.com/artist/61IjTPLPTZSlgpKpgBoeQC) | [最好的時光](https://open.spotify.com/album/6C05yqffaG1dElVIqOlcAn) | 3:55 | 2022-08-04 |  |
 | [最後一封情書](https://open.spotify.com/track/60SwCZbyJ9OmAiGJkLVsgl) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ), [莫子儀](https://open.spotify.com/artist/7wJwYpnCLPuT1gndVaQTYk) | [失物之城](https://open.spotify.com/album/5nHnPgrbJGhhgl0UzytY8Y) | 4:22 | 2022-06-10 | 2022-06-12 |
 | [最想見到你 \(三立華劇《跟鯊魚接吻》插曲\)](https://open.spotify.com/track/0MG4aGAIEBKffiFRjZYCZi) | [Ann Bai](https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s) | [44天](https://open.spotify.com/album/6tyHdfBJNMVgeiskGRCCyS) | 3:40 | 2022-06-02 | 2022-07-29 |
 | [最難的是相遇](https://open.spotify.com/track/1lbLGKmuocop4QeH9eVYew) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [最難的是相遇](https://open.spotify.com/album/7ftPr9gMt8UP3865rbXnvD) | 4:32 | 2022-06-02 | 2022-07-29 |

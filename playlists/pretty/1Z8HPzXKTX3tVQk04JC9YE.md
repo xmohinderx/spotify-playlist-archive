@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Z8HPzXKTX3tVQk04JC9YE.md) - [plain]
 
 > A pop playlist full of hits from the 00s!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 30,232 likes - 50 songs - 3 hr 12 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 30,226 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

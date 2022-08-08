@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-70 songs - 5 hr 39 min - not published yet
+70 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

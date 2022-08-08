@@ -1724,6 +1724,24 @@
     },
     {
       "album": {
+        "name": "Willowbank",
+        "url": "https://open.spotify.com/album/4xhEaaCBfWXGWQF6rUIb03"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170027,
+      "name": "Depths (Pt. I)",
+      "url": "https://open.spotify.com/track/5JMY7l5GE5ze1mdkyDptdh"
+    },
+    {
+      "album": {
         "name": "Depths (Pt. I)",
         "url": "https://open.spotify.com/album/2dlzFbdo8bvUmtJzJReI06"
       },
@@ -3217,7 +3235,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 252200,
       "name": "Inspiration Information",
       "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"

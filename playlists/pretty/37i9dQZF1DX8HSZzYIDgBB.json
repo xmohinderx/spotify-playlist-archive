@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Pahua en portada.",
-  "num_followers": 23557,
+  "num_followers": 23593,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3Nzk4NywwMDAwMDAwMDEzMmU1ZjYyYmU2OTQzMGNjY2NhYzAxOWY2MGU0OTFi",
+  "snapshot_id": "MTY1OTQ3Nzk4NywwMDAwMDAwMGMxMWM0OGRjOWEyYjZhMWQ5ZWYxNTM4ZTk4ZmY5MzAx",
   "tracks": [
     {
       "added_at": "2021-10-05 16:26:53",
@@ -137,26 +137,6 @@
       "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
     },
     {
-      "added_at": "2022-04-22 18:06:01",
-      "album": {
-        "name": "Tinta y Tiempo",
-        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 184475,
-      "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
-      "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
-    },
-    {
       "added_at": "2022-07-11 18:35:10",
       "album": {
         "name": "Morena",
@@ -181,6 +161,26 @@
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
     },
     {
+      "added_at": "2022-04-22 18:06:01",
+      "album": {
+        "name": "Tinta y Tiempo",
+        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 184475,
+      "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
+      "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
+    },
+    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "El Traketeo",
@@ -201,20 +201,20 @@
       "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
+      "added_at": "2022-07-13 15:48:37",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7"
+        "name": "Siempre Sim\u00f3n y Nunca Nel",
+        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
       },
       "artists": [
         {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
         }
       ],
-      "duration_ms": 199666,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp"
+      "duration_ms": 241616,
+      "name": "Siempre Sim\u00f3n y Nunca Nel",
+      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
       "added_at": "2022-05-27 19:08:44",
@@ -233,20 +233,20 @@
       "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
     },
     {
-      "added_at": "2022-07-13 15:48:37",
+      "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Siempre Sim\u00f3n y Nunca Nel",
-        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
         }
       ],
-      "duration_ms": 241616,
-      "name": "Siempre Sim\u00f3n y Nunca Nel",
-      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
+      "duration_ms": 199666,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -745,6 +745,22 @@
       "url": "https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt"
     },
     {
+      "added_at": "2022-02-24 20:09:48",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY"
+      },
+      "artists": [
+        {
+          "name": "Gabacho",
+          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Sentimiento",
+      "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
+    },
+    {
       "added_at": "2022-01-17 15:56:36",
       "album": {
         "name": "Sal de Mar",
@@ -767,22 +783,6 @@
       "duration_ms": 206590,
       "name": "Sal de Mar",
       "url": "https://open.spotify.com/track/3Go0i4zhTnL8CkfyTrSkez"
-    },
-    {
-      "added_at": "2022-02-24 20:09:48",
-      "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY"
-      },
-      "artists": [
-        {
-          "name": "Gabacho",
-          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Sentimiento",
-      "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
     },
     {
       "added_at": "2022-04-09 05:14:33",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/4Rar7xh8FOl8N50d4i4IL8"
     },
     {
-      "added_at": "2022-07-13 15:48:37",
-      "album": {
-        "name": "Belmont",
-        "url": "https://open.spotify.com/album/797ZnganZpmTHcULejYwDt"
-      },
-      "artists": [
-        {
-          "name": "L\u00e1zaro Crist\u00f3bal Comala",
-          "url": "https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK"
-        }
-      ],
-      "duration_ms": 168939,
-      "name": "Un Manhattan",
-      "url": "https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl"
-    },
-    {
       "added_at": "2022-02-25 03:25:39",
       "album": {
         "name": "En Lo Que Llega La Primavera",
@@ -923,6 +907,22 @@
       "duration_ms": 271315,
       "name": "Ni una Cosa Ni la Otra",
       "url": "https://open.spotify.com/track/0cKXRG5rWgbjV92suoEXVR"
+    },
+    {
+      "added_at": "2022-07-13 15:48:37",
+      "album": {
+        "name": "Belmont",
+        "url": "https://open.spotify.com/album/797ZnganZpmTHcULejYwDt"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1zaro Crist\u00f3bal Comala",
+          "url": "https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK"
+        }
+      ],
+      "duration_ms": 168939,
+      "name": "Un Manhattan",
+      "url": "https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl"
     },
     {
       "added_at": "2022-03-11 03:21:01",
@@ -945,26 +945,6 @@
       "url": "https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu"
     },
     {
-      "added_at": "2022-02-18 04:21:33",
-      "album": {
-        "name": "De los L\u00edmites",
-        "url": "https://open.spotify.com/album/6BUxm0c0dlEDnY6yQ5uW3W"
-      },
-      "artists": [
-        {
-          "name": "Mariel Mariel",
-          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 253591,
-      "name": "De los L\u00edmites",
-      "url": "https://open.spotify.com/track/0v3lS1moJvRrPHrULPTWNf"
-    },
-    {
       "added_at": "2022-02-25 02:12:10",
       "album": {
         "name": "Para todo mal",
@@ -983,6 +963,26 @@
       "duration_ms": 240871,
       "name": "Para todo mal",
       "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
+    },
+    {
+      "added_at": "2022-02-18 04:21:33",
+      "album": {
+        "name": "De los L\u00edmites",
+        "url": "https://open.spotify.com/album/6BUxm0c0dlEDnY6yQ5uW3W"
+      },
+      "artists": [
+        {
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 253591,
+      "name": "De los L\u00edmites",
+      "url": "https://open.spotify.com/track/0v3lS1moJvRrPHrULPTWNf"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1213,6 +1213,22 @@
       "url": "https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0"
     },
     {
+      "added_at": "2021-11-10 05:48:01",
+      "album": {
+        "name": "Guerrera",
+        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 251739,
+      "name": "Guerrera",
+      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+    },
+    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Alianza Atl\u00e1ntica",
@@ -1231,22 +1247,6 @@
       "duration_ms": 269525,
       "name": "El Ciclo de las Mareas",
       "url": "https://open.spotify.com/track/4g4E7aFHAWqI6qBeSHfZ4G"
-    },
-    {
-      "added_at": "2021-11-10 05:48:01",
-      "album": {
-        "name": "Guerrera",
-        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 251739,
-      "name": "Guerrera",
-      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
     },
     {
       "added_at": "2022-03-04 03:54:51",
@@ -1309,6 +1309,22 @@
       "url": "https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ"
     },
     {
+      "added_at": "2022-07-25 03:37:28",
+      "album": {
+        "name": "Contenta",
+        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
+      },
+      "artists": [
+        {
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+        }
+      ],
+      "duration_ms": 215347,
+      "name": "Contenta",
+      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
+    },
+    {
       "added_at": "2022-07-15 04:48:04",
       "album": {
         "name": "Ultramar",
@@ -1327,22 +1343,6 @@
       "duration_ms": 264837,
       "name": "Ultramar",
       "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
-    },
-    {
-      "added_at": "2022-07-25 03:37:28",
-      "album": {
-        "name": "Contenta",
-        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
-      },
-      "artists": [
-        {
-          "name": "Malamala",
-          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
-        }
-      ],
-      "duration_ms": 215347,
-      "name": "Contenta",
-      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/500y7tvEld67U4AV97jcGy"
     },
     {
-      "added_at": "2022-02-11 02:35:50",
-      "album": {
-        "name": "Los Playa Vol. 1",
-        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 200750,
-      "name": "Calle Brasil",
-      "url": "https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Curandero",
@@ -1411,6 +1395,22 @@
       "duration_ms": 158677,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
+    },
+    {
+      "added_at": "2022-02-11 02:35:50",
+      "album": {
+        "name": "Los Playa Vol. 1",
+        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 200750,
+      "name": "Calle Brasil",
+      "url": "https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU"
     },
     {
       "added_at": "2022-04-05 15:50:31",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
+        "name": "Ild\u00e9 Pa\u2019 Beberte",
+        "url": "https://open.spotify.com/album/1QX928uCKilM7KCE9G0xhO"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        }
+      ],
+      "duration_ms": 208064,
+      "name": "Ild\u00e9 Pa\u2019 Beberte",
+      "url": "https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
         "name": "Corazon en Asteroides",
         "url": "https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 238421,
       "name": "Corazon en Asteroides",
       "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Ild\u00e9 Pa\u2019 Beberte",
-        "url": "https://open.spotify.com/album/1QX928uCKilM7KCE9G0xhO"
-      },
-      "artists": [
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        }
-      ],
-      "duration_ms": 208064,
-      "name": "Ild\u00e9 Pa\u2019 Beberte",
-      "url": "https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc"
     },
     {
       "added_at": "2022-06-24 16:07:34",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/4GZ61USOfH8M2EsWBdKzg1"
     },
     {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "Loco Playa",
-        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Frutas",
@@ -1571,6 +1555,22 @@
       "duration_ms": 259741,
       "name": "Frutas",
       "url": "https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Loco Playa",
+        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
       "added_at": "2022-01-21 16:05:39",

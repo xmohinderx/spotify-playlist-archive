@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 31272,
+  "num_followers": 31301,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDM1MzI2NjU3ZjFkZDU3YzJkZGMxMDdmOGM0OWRlZWQw",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDQ4NjUwMWY3ZWM2ODExMzNlYmQ1ZDk5NWUwZmY5NzBh",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -203,6 +203,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Reggae Gold 2007",
+        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
+      },
+      "artists": [
+        {
+          "name": "Pressure",
+          "url": "https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Escape From Babylon",
         "url": "https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD"
       },
@@ -219,18 +235,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Reggae Gold 2007",
-        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
+        "name": "Mr Vegas: The Hits",
+        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
       },
       "artists": [
         {
-          "name": "Pressure",
-          "url": "https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh"
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "duration_ms": 258653,
-      "name": "Love And Affection",
-      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
+      "duration_ms": 211333,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -279,22 +295,6 @@
       "duration_ms": 178840,
       "name": "So Special",
       "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Mr Vegas: The Hits",
-        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Heads High",
-      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
     },
     {
       "added_at": "2020-10-19 09:02:25",

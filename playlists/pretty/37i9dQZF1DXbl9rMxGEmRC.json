@@ -1,12 +1,12 @@
 {
   "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Behemoth",
-  "num_followers": 396091,
+  "num_followers": 396180,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgyODgyMywwMDAwMDAwMDA4MzdmMTY1NGNlMjU0M2Y1MzRhYjFiMDcxZWIxN2Ex",
+  "snapshot_id": "MTY1NzgyODgyMywwMDAwMDAwMGVmMDllM2MyOWE3YWViNzBjNjM5NDUzYzhmOTdlOGM1",
   "tracks": [
     {
       "added_at": "2022-06-10 08:23:59",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-07-13 15:09:12",
       "album": {
-        "name": "Nemesis Divina",
-        "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 385413,
-      "name": "Mother North",
-      "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
-    },
-    {
-      "added_at": "2022-07-13 15:09:12",
-      "album": {
         "name": "To Violate the Obvious",
         "url": "https://open.spotify.com/album/09hdLksOJb99vfLRACtw9C"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 495000,
       "name": "Screaming at Forgotten Tears",
       "url": "https://open.spotify.com/track/62aAEJfIS8Vi5JCU9z4ZRl"
+    },
+    {
+      "added_at": "2022-07-13 15:09:12",
+      "album": {
+        "name": "Nemesis Divina",
+        "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "duration_ms": 385413,
+      "name": "Mother North",
+      "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
     },
     {
       "added_at": "2022-07-13 15:09:12",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/5maiXlxUmXjlKqqqpJbctD"
     },
     {
-      "added_at": "2022-06-10 08:23:59",
-      "album": {
-        "name": "MARIA",
-        "url": "https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz"
-      },
-      "artists": [
-        {
-          "name": "Batushka",
-          "url": "https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J"
-        }
-      ],
-      "duration_ms": 289853,
-      "name": "IRMOS I",
-      "url": "https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt"
-    },
-    {
       "added_at": "2022-07-13 15:09:12",
       "album": {
         "name": "Tara",
@@ -971,6 +955,22 @@
       "duration_ms": 261693,
       "name": "Pillars Of Mercy",
       "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
+    },
+    {
+      "added_at": "2022-06-10 08:23:59",
+      "album": {
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz"
+      },
+      "artists": [
+        {
+          "name": "Batushka",
+          "url": "https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J"
+        }
+      ],
+      "duration_ms": 289853,
+      "name": "IRMOS I",
+      "url": "https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt"
     },
     {
       "added_at": "2022-06-10 08:23:59",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-07-13 15:09:12",
       "album": {
-        "name": "Zos Kia Cultus",
-        "url": "https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "As Above So Below",
-      "url": "https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb"
-    },
-    {
-      "added_at": "2022-07-13 15:09:12",
-      "album": {
         "name": "Defending the Throne of Evil",
         "url": "https://open.spotify.com/album/3L640gN3OxWwYVipxqerWA"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 281733,
       "name": "It's Darker than you Think",
       "url": "https://open.spotify.com/track/479lTQmXhnmGai0UGVxQpY"
+    },
+    {
+      "added_at": "2022-07-13 15:09:12",
+      "album": {
+        "name": "Zos Kia Cultus",
+        "url": "https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "As Above So Below",
+      "url": "https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb"
     },
     {
       "added_at": "2022-06-10 08:23:59",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/38VAbDSyhAgdBgFuTb7U0U"
     },
     {
-      "added_at": "2022-06-10 08:23:59",
-      "album": {
-        "name": "Popecrusher",
-        "url": "https://open.spotify.com/album/5lp8Fhsz1D6kZypBMGUDn8"
-      },
-      "artists": [
-        {
-          "name": "Witchery",
-          "url": "https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "Popecrusher",
-      "url": "https://open.spotify.com/track/112ODhA6Xh9999jyqpYAmO"
-    },
-    {
       "added_at": "2022-07-13 15:09:12",
       "album": {
         "name": "Kiss The Goat",
@@ -1395,6 +1379,22 @@
       "duration_ms": 239133,
       "name": "Satan Divine",
       "url": "https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY"
+    },
+    {
+      "added_at": "2022-06-10 08:23:59",
+      "album": {
+        "name": "Popecrusher",
+        "url": "https://open.spotify.com/album/5lp8Fhsz1D6kZypBMGUDn8"
+      },
+      "artists": [
+        {
+          "name": "Witchery",
+          "url": "https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "Popecrusher",
+      "url": "https://open.spotify.com/track/112ODhA6Xh9999jyqpYAmO"
     },
     {
       "added_at": "2022-07-13 15:09:12",

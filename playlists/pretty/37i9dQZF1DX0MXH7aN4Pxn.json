@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 688190,
+  "num_followers": 688189,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTcyODg2NiwwMDAwMDAwMDMyMzE1NjYxZTBjNmIxYzhkMmQxNzVkOWEyZThmZjc5",
+  "snapshot_id": "MTY1NTcyODg2NiwwMDAwMDAwMDYzM2Q1ODdjNzBlNGQ5MGE2NmFiNDQxODBkMTlkNWUz",
   "tracks": [
     {
       "added_at": "2022-06-20 12:41:06",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Kwabs",
-          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
-        }
-      ],
-      "duration_ms": 167998,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
         "name": "My Humps",
         "url": "https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 186124,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Kwabs",
+          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
+        }
+      ],
+      "duration_ms": 167998,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -787,22 +787,22 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "Sweet Talker",
-        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
       },
       "artists": [
         {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 176930,
-      "name": "Sweet Talker",
-      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
+      "duration_ms": 186541,
+      "name": "Don't Stop Just Yet",
+      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -823,22 +823,22 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
+        "name": "Sweet Talker",
+        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
       },
       "artists": [
         {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         },
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 186541,
-      "name": "Don't Stop Just Yet",
-      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
+      "duration_ms": 176930,
+      "name": "Sweet Talker",
+      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
         "name": "Love Tonight (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/1X71912aX0L37dW0eW3QgE"
       },
@@ -1003,22 +987,18 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 130412,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -1039,6 +1019,26 @@
       "duration_ms": 168125,
       "name": "God Is A Dancer (with Mabel)",
       "url": "https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "duration_ms": 130412,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
         "name": "We Come 1",
         "url": "https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 178285,
       "name": "We Come 1",
       "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
+        "name": "Juliet & Romeo",
+        "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 204514,
+      "name": "Juliet & Romeo",
+      "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
         "name": "Everybody Dance (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 168289,
       "name": "Everybody Dance (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
-        "name": "Juliet & Romeo",
-        "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 204514,
-      "name": "Juliet & Romeo",
-      "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "T. Matthias",
-          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
-        }
-      ],
-      "duration_ms": 174649,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
       },
@@ -1683,22 +1663,22 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "Too Many Nights (with JC Stewart)",
-        "url": "https://open.spotify.com/album/3LpBXkbjSgFi8wnWionndt"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3"
       },
       "artists": [
         {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
         },
         {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+          "name": "T. Matthias",
+          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
         }
       ],
-      "duration_ms": 188636,
-      "name": "Too Many Nights (with JC Stewart)",
-      "url": "https://open.spotify.com/track/13YIDpKrL2caqJ3YF52uzJ"
+      "duration_ms": 174649,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -1723,6 +1703,26 @@
       "duration_ms": 296324,
       "name": "For a Feeling (feat. RHODES)",
       "url": "https://open.spotify.com/track/1wjQEAV31X26Za9KRAmqwz"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
+        "name": "Too Many Nights (with JC Stewart)",
+        "url": "https://open.spotify.com/album/3LpBXkbjSgFi8wnWionndt"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 188636,
+      "name": "Too Many Nights (with JC Stewart)",
+      "url": "https://open.spotify.com/track/13YIDpKrL2caqJ3YF52uzJ"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
-        "name": "Summer In Love",
-        "url": "https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp"
-      },
-      "artists": [
-        {
-          "name": "THAT KIND",
-          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
-        }
-      ],
-      "duration_ms": 195330,
-      "name": "Summer In Love",
-      "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
         "name": "So Much Love (feat. Lloyd Wade)",
         "url": "https://open.spotify.com/album/1QxUxN95s5TmcCb72fk9cD"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 208317,
       "name": "So Much Love (feat. Lloyd Wade)",
       "url": "https://open.spotify.com/track/6Z5rzJ6DefXJCzntIUYCWk"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
+        "name": "Summer In Love",
+        "url": "https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp"
+      },
+      "artists": [
+        {
+          "name": "THAT KIND",
+          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
+        }
+      ],
+      "duration_ms": 195330,
+      "name": "Summer In Love",
+      "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
     },
     {
       "added_at": "2022-06-20 12:41:06",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2022-06-20 12:41:06",
       "album": {
+        "name": "tonight belongs to you",
+        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
+      },
+      "artists": [
+        {
+          "name": "Bissett",
+          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
+        }
+      ],
+      "duration_ms": 147075,
+      "name": "tonight belongs to you",
+      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
+    },
+    {
+      "added_at": "2022-06-20 12:41:06",
+      "album": {
         "name": "Sad Songs (feat. L Devine)",
         "url": "https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 191612,
       "name": "Sad Songs (feat. L Devine)",
       "url": "https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY"
-    },
-    {
-      "added_at": "2022-06-20 12:41:06",
-      "album": {
-        "name": "tonight belongs to you",
-        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
-      },
-      "artists": [
-        {
-          "name": "Bissett",
-          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
-        }
-      ],
-      "duration_ms": 147075,
-      "name": "tonight belongs to you",
-      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
     },
     {
       "added_at": "2022-06-20 12:41:06",

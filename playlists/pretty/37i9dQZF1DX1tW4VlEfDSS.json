@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 330276,
+  "num_followers": 330370,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGM0MzNjY2ZmNmI3NWIzOTIxYTE2YzBhODgyNjY5MWRj",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGMxZjA1ZjdhNzkzMDQxOThkYWVkZjcyNzJlNWU1ZmUy",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Say Mama",
-        "url": "https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU"
-      },
-      "artists": [
-        {
-          "name": "Alex Preston",
-          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Say Mama",
-      "url": "https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Nervous Brooklyn Sessions 2020",
         "url": "https://open.spotify.com/album/50e5D9fawQngkhs5c9XROS"
       },
@@ -1083,26 +1067,6 @@
       "duration_ms": 156190,
       "name": "You Can Not Hold Back (feat. Koffee) - [Edit]",
       "url": "https://open.spotify.com/track/5hECCXn5TAixa5WkwTbv2i"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "All Love",
-        "url": "https://open.spotify.com/album/01BTDb8xUH6RDHrVpfVANB"
-      },
-      "artists": [
-        {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Nandi",
-          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
-        }
-      ],
-      "duration_ms": 330579,
-      "name": "All Love",
-      "url": "https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1127,6 +1091,42 @@
       "duration_ms": 263038,
       "name": "So Much Love (feat. Lloyd Wade) - Soda State Remix",
       "url": "https://open.spotify.com/track/08L01pJcsL4trIQrxSa8mj"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Say Mama",
+        "url": "https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU"
+      },
+      "artists": [
+        {
+          "name": "Alex Preston",
+          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Say Mama",
+      "url": "https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "All Love",
+        "url": "https://open.spotify.com/album/01BTDb8xUH6RDHrVpfVANB"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Nandi",
+          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
+        }
+      ],
+      "duration_ms": 330579,
+      "name": "All Love",
+      "url": "https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921"
     }
   ],
   "unique_name": "Groove Theory",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the hottest soul tracks from the 1970s.",
-  "num_followers": 1280165,
+  "num_followers": 1280715,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjI3MjUzNiwwMDAwMDAwMDkxNjEyZTU4ZTU1YjIxNDVlMThjYmUyOTQ3NGIwOTMw",
+  "snapshot_id": "MTY1MjI3MjUzNiwwMDAwMDAwMDExNjNhOTc1Zjg3MTNlYTM3OTAxMTljNjkyYjU2N2E4",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "You Know How to Love Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 226840,
       "name": "You Know How to Love Me - 7\" Version",
       "url": "https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2022-02-04 15:57:42",

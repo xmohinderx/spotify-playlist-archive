@@ -4,7 +4,7 @@
 
 > more than just a lifestyle
 
-59 songs - 3 hr 8 min - not published yet
+59 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/0NLbMYpAMwQLpeCANQMHmc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

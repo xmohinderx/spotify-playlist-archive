@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-82 songs - 4 hr 18 min - not published yet
+82 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/1py77qQXoVwE0Vmpffvuvp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

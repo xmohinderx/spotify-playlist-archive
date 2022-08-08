@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-50 songs - 3 hr 45 min - not published yet
+50 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/47UoXXJRZPYtDVBPn0LK6e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

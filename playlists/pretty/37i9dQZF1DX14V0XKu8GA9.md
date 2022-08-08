@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of U.S\. Latinos in Hip\-Hop\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,911 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,932 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 48 | [I’m Back](https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS) | [MoneySign $uede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 1:57 |
 | 49 | [Hail Mary](https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Hail Mary](https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe) | 2:39 |
 | 50 | [The King](https://open.spotify.com/track/1euN0rIeFyQkY85BFnT7Rm) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [El Camino](https://open.spotify.com/album/6xj392AMIzR0EzSekdHqxK) | 2:43 |
-| 51 | [On My Diez](https://open.spotify.com/track/5bu48uXPHfFNjLsLZSsjbC) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Frankie P](https://open.spotify.com/artist/6LQI3uEz03wvTZ2k7aV16v) | [On My Diez](https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U) | 2:35 |
-| 52 | [Our Finale](https://open.spotify.com/track/4VEZ1AFDGOrXS9M480dS6u) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [Our Finale](https://open.spotify.com/album/2vH9bbemJEV0yEFYikceZB) | 2:57 |
+| 51 | [Our Finale](https://open.spotify.com/track/4VEZ1AFDGOrXS9M480dS6u) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [Our Finale](https://open.spotify.com/album/2vH9bbemJEV0yEFYikceZB) | 2:57 |
+| 52 | [On My Diez](https://open.spotify.com/track/5bu48uXPHfFNjLsLZSsjbC) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Frankie P](https://open.spotify.com/artist/6LQI3uEz03wvTZ2k7aV16v) | [On My Diez](https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U) | 2:35 |
 | 53 | [i'm Hot](https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [i'm Hot](https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF) | 2:08 |
 | 54 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
 | 55 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 69 | [London](https://open.spotify.com/track/4qXkllmd1rA0jWxtsPQqpW) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [London](https://open.spotify.com/album/51NMcANUHXRMR4kOow3rbm) | 2:40 |
 | 70 | [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 |
 
-Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDUwNmZhNjA2MTU0MjRkZjRjYTU5NjhkNzg3ZjIwNmI2`
+Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDI4ODYzYzIxMGJkNzA1ODU2OGJlYTM0ODljMjI0Mjdm`

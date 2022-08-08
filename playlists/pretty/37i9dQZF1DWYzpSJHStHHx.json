@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 464666,
+  "num_followers": 464854,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxMzc1NywwMDAwMDAwMGM4ODc4YTJjM2ZlODIyZGIzYWZhNjk3ZWZjMThkNThi",
+  "snapshot_id": "MTY1OTcxMzc1NywwMDAwMDAwMDcyNDI3NDk4YjcxYWJjMDRhM2MwNzZjYTZlY2QyZTU1",
   "tracks": [
     {
       "added_at": "2022-08-05 15:35:57",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-08-05 15:35:57",
       "album": {
-        "name": "City Club",
-        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
-      },
-      "artists": [
-        {
-          "name": "The Growlers",
-          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
-        }
-      ],
-      "duration_ms": 196728,
-      "name": "City Club",
-      "url": "https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt"
-    },
-    {
-      "added_at": "2022-08-05 15:35:57",
-      "album": {
         "name": "Is the Is Are",
         "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 226999,
       "name": "Under the Sun",
       "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
+    },
+    {
+      "added_at": "2022-08-05 15:35:57",
+      "album": {
+        "name": "City Club",
+        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
+      },
+      "artists": [
+        {
+          "name": "The Growlers",
+          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+        }
+      ],
+      "duration_ms": 196728,
+      "name": "City Club",
+      "url": "https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt"
     },
     {
       "added_at": "2022-08-05 15:35:57",

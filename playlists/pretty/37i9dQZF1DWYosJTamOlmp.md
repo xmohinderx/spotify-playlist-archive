@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYosJTamOlmp.md) - [plain]
 
 > A journey from dusk 'til dawn curated by Jungle artist Nia Archives!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,921 likes - 60 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,943 likes - 60 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

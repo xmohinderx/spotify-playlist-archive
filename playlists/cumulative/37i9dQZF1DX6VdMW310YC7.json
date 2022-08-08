@@ -9036,6 +9036,36 @@
     },
     {
       "album": {
+        "name": "Gratitude (S\u00e9bastien L\u00e9ger Remix)",
+        "url": "https://open.spotify.com/album/4KoMuCqirpAf8ZY0ak8xB5"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Marty Longstaff",
+          "url": "https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn"
+        },
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234098,
+      "name": "Gratitude - S\u00e9bastien L\u00e9ger Remix (Edit)",
+      "url": "https://open.spotify.com/track/0m1YhId2LT8OMqQ7CnkzD6"
+    },
+    {
+      "album": {
         "name": "Dreamhouse",
         "url": "https://open.spotify.com/album/5WyV1PmHey2iBiug9LWRb1"
       },
@@ -10391,7 +10421,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 238066,
       "name": "I Leave Again",
       "url": "https://open.spotify.com/track/4e9lUyz9lB7QRP9OLRpbbw"

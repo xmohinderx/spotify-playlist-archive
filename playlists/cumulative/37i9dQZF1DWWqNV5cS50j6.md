@@ -4,7 +4,7 @@
 
 > Indie music antimatter\. Cover: Gorillaz
 
-1,050 songs - 2 day 3 hr 1 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,051 songs - 2 day 3 hr 5 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [FIT PIC](https://open.spotify.com/track/44xDuPMVZaGlsBCcBSsfCF) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [PASTIMES+](https://open.spotify.com/album/1oxM9aky7Q1YMXdKINqtjf) | 2:31 | 2022-04-09 | 2022-05-12 |
 | [FIX YOUR FACE](https://open.spotify.com/track/150pcHJ0Q6v21bj3Tt7NWN) | [seeyousoon](https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1) | [FIX YOUR FACE](https://open.spotify.com/album/3dn5duAhBBki3eyR1juH4m) | 3:06 | 2021-09-03 | 2021-12-22 |
 | [Float On](https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Float On](https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb) | 2:56 | 2021-02-20 | 2022-02-26 |
-| [Floorboards](https://open.spotify.com/track/742SnYhPRUReVJwoDnwJgb) | [COLD MEGA](https://open.spotify.com/artist/7ms2CCG69PnGD9gPj7WyRb), [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA) | [Floorboards](https://open.spotify.com/album/1nkCY4ccPE8d1btRCJWsK7) | 3:21 | 2022-08-05 |  |
+| [Floorboards](https://open.spotify.com/track/742SnYhPRUReVJwoDnwJgb) | [COLD MEGA](https://open.spotify.com/artist/7ms2CCG69PnGD9gPj7WyRb), [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA) | [Floorboards](https://open.spotify.com/album/1nkCY4ccPE8d1btRCJWsK7) | 3:21 | 2022-08-05 | 2022-08-08 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-11-12 | 2022-03-01 |
 | [FOOD](https://open.spotify.com/track/1fL3oiFKzuo7Yic2i9CGIj) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [FOOD](https://open.spotify.com/album/0FS1f3ZouJx2uMKsrHpu6W) | 3:04 | 2020-11-20 | 2021-02-20 |
 | [FOOL'S GOLD](https://open.spotify.com/track/1ryUAnJ3gPNtw85hwiVA7Z) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [FOOL'S GOLD](https://open.spotify.com/album/3XN0zWBecehhshXdExD5Jr) | 2:29 | 2020-11-07 | 2021-10-14 |
@@ -344,6 +344,7 @@
 | [GEEKIN](https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h) | 2:37 | 2020-10-13\* | 2020-11-03 |
 | [Gemini](https://open.spotify.com/track/0BEc5agGF5SNiQr2RWvusG) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Gemini](https://open.spotify.com/album/5IPibq1BrOykKFmIE06Vxm) | 3:04 | 2020-10-16 | 2021-03-26 |
 | [Generation](https://open.spotify.com/track/7JHohbdSYNGyUwcycNi95q) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Generation](https://open.spotify.com/album/0V9mAZKEd0gyIC2XQMt6qd) | 3:30 | 2021-12-04 | 2021-12-11 |
+| [Genevieve \- Unfinished](https://open.spotify.com/track/72GKPVtBchtCDoL8LURCrB) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 3:57 | 2022-08-07 |  |
 | [GET IT](https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GET IT](https://open.spotify.com/album/6dfosfBrzyf8PXsLokq5MT) | 2:31 | 2022-03-04 | 2022-07-01 |
 | [GET IT WITH ME](https://open.spotify.com/track/2c6SLHvQpFFznL4olGoT3X) | [Colby Lafayette](https://open.spotify.com/artist/5D28O29XHRpautDpiaha2K) | [GET IT WITH ME](https://open.spotify.com/album/0bwi7N95mpgNptFg9UgRc5) | 2:44 | 2020-10-13\* | 2020-11-03 |
 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 | 2021-07-31 | 2021-10-14 |

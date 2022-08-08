@@ -4,7 +4,7 @@
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-298 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/6NFp5rX7dD5Tc5TdlOGjMm)
+299 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/6NFp5rX7dD5Tc5TdlOGjMm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Falling Slowly](https://open.spotify.com/track/0CEX2aPG0v5y3GRw3QPkS7) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh), [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Time Of My Life](https://open.spotify.com/album/5SRYXi1qsbxxNBcOQBZ3EU) | 4:06 | 2019-02-22 | 2022-07-29 |
 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 | 2019-02-22 |  |
 | [Fields of Gold](https://open.spotify.com/track/1q7QOfniMB1Dy7RMqDNlCO) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [You and Me](https://open.spotify.com/album/05EK4xacGYuTDsjYj7yqvZ) | 3:30 | 2019-02-22 | 2022-07-29 |
+| [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 | 2019-02-22 |  |
 | [For What It's Worth](https://open.spotify.com/track/0lXWPos2llF0n0zveBcBeR) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [For What It's Worth](https://open.spotify.com/album/2AQ1kijYhdcBmnPastkz3g) | 3:18 | 2019-02-22 | 2022-07-24 |
 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 | 2019-02-22 | 2022-07-19 |
 | [Free Bird](https://open.spotify.com/track/7E233U8YUeReNdVfo3XvvP) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Revelations](https://open.spotify.com/album/00SbQ4pqxGlLXsEglhxjKb) | 7:44 | 2019-02-22 | 2022-07-02 |
@@ -236,7 +237,7 @@
 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 3:03 | 2019-02-22 | 2022-07-29 |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2019-02-22 |  |
 | [Stitches](https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg) | [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Stitches](https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2) | 4:06 | 2019-02-22 | 2022-06-16 |
-| [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 | 2019-02-22 |  |
+| [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 | 2019-02-22 | 2022-08-08 |
 | [Strangers](https://open.spotify.com/track/1ndN2xj0c486fDmilERzSg) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Deluxe Edition\)](https://open.spotify.com/album/5YUPhKtmR093OVGI4StTMx) | 3:14 | 2019-02-22 | 2022-07-29 |
 | [Strangers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XoEPRV7lGokoqQsLcywhN) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/5BsbcvlsOIHEYIgACGDUFU) | 3:32 | 2019-02-22 | 2022-07-11 |
 | [Strangers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2OODSSTxWK2i6LQvQJD557) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2) | 3:32 | 2019-02-22 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,058 likes - 75 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,110 likes - 75 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 28 | [Deine Augen](https://open.spotify.com/track/5RkjwEQviBKkVDisjJbVSJ) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/7dAYdoahzW8oZgSGHWpfNP) | 5:16 |
 | 29 | [Approximate Bermeja](https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J) | [Sounds From Phantom Islands](https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI) | 3:09 |
 | 30 | [Lumina](https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 6:12 |
-| 31 | [Where Do You Get Your Dreams From?](https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB) | [Sven Laux](https://open.spotify.com/artist/1uOymh5ziYDMdP8NRtGk5q), [Logic Moon](https://open.spotify.com/artist/3cqJW0hZR5efv5YWJKVMw8) | [Where Do You Get Your Dreams From?](https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm) | 6:45 |
-| 32 | [Dissolution](https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Journey To The Underworld EP](https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB) | 6:29 |
+| 31 | [Dissolution](https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Journey To The Underworld EP](https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB) | 6:29 |
+| 32 | [Where Do You Get Your Dreams From?](https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB) | [Sven Laux](https://open.spotify.com/artist/1uOymh5ziYDMdP8NRtGk5q), [Logic Moon](https://open.spotify.com/artist/3cqJW0hZR5efv5YWJKVMw8) | [Where Do You Get Your Dreams From?](https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm) | 6:45 |
 | 33 | [cells\_](https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [cells\_](https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv) | 2:25 |
 | 34 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
 | 35 | [Glendora](https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:46 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 63 | [La colline](https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5) | [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b), [Clemens Hourriere](https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6) | [Five Steps](https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR) | 4:40 |
 | 64 | [Detached Horizon](https://open.spotify.com/track/7flSnXb9R1JRSMa4WSgtxC) | [Blue Carbon](https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j) | [Detached Horizon](https://open.spotify.com/album/14hDdut9Gi30C2kUacBXXJ) | 4:26 |
 | 65 | [Sequoia Slumber](https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK) | [Land Systems](https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe) | [Elm](https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR) | 2:38 |
-| 66 | [BELOW](https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [ABOVE\_BETWEEN\_BELOW](https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc) | 5:17 |
-| 67 | [Rambutan](https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music Vol 2: Fruits and Flowers of Hawai'i](https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb) | 5:04 |
+| 66 | [Rambutan](https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music Vol 2: Fruits and Flowers of Hawai'i](https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb) | 5:04 |
+| 67 | [BELOW](https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [ABOVE\_BETWEEN\_BELOW](https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc) | 5:17 |
 | 68 | [A man with two watches](https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Sollbruchstelle 1\-3](https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo) | 5:11 |
 | 69 | [Home Stories](https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Home Stories](https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y) | 5:33 |
-| 70 | [Bright\-eyed Hunger \- Kaitlyn Aurelia Smith Remix](https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK), [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Bright\-eyed Hunger \(Kaitlyn Aurelia Smith Remix\)](https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9) | 3:12 |
-| 71 | [Through Circle and Shadow](https://open.spotify.com/track/2OBRaX5PhBAlgo6TvQMVqX) | [Robert Scott Thompson](https://open.spotify.com/artist/3cLV4eGuwG8hXQ8JDS6ZKd) | [Through Circle and Shadow](https://open.spotify.com/album/2pQYZP433rFGCGSA6SWOpF) | 7:35 |
+| 70 | [Through Circle and Shadow](https://open.spotify.com/track/2OBRaX5PhBAlgo6TvQMVqX) | [Robert Scott Thompson](https://open.spotify.com/artist/3cLV4eGuwG8hXQ8JDS6ZKd) | [Through Circle and Shadow](https://open.spotify.com/album/2pQYZP433rFGCGSA6SWOpF) | 7:35 |
+| 71 | [Bright\-eyed Hunger \- Kaitlyn Aurelia Smith Remix](https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK), [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Bright\-eyed Hunger \(Kaitlyn Aurelia Smith Remix\)](https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9) | 3:12 |
 | 72 | [Reflections On The Waterfront](https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY) | [Tryst \(UK\)](https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4) | [Aerious EP](https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D) | 4:37 |
 | 73 | [Orange Blue Green](https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Orange Blue Green](https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz) | 2:45 |
 | 74 | [Antecámara](https://open.spotify.com/track/42RLy3PPI7zlf18MP095BC) | [SVLBRD](https://open.spotify.com/artist/40SVMdCuPtqI6suYOG3Qk0) | [Solstice](https://open.spotify.com/album/5In0aQDAEJHdrI4oxgzdtX) | 6:52 |
 | 75 | [Sleep to Dream](https://open.spotify.com/track/5KwymU2QG0VItvZCLk0Sg7) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Sleep to Dream](https://open.spotify.com/album/5PNTUZ4CGVrnxF67xlaGZ5) | 4:23 |
 
-Snapshot ID: `MTY1NjY5NjQ5NiwwMDAwMDAwMGVkNjZmYTUwZjA0YjY2ZDVlMTJkNjE1MGY3ZjY2ODUx`
+Snapshot ID: `MTY1NjY5NjQ5NiwwMDAwMDAwMDI2MzI2YTFiOTkyMjExODJlYmNmNzNhNmFmMTcwOTgx`

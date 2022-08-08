@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 55376,
+  "num_followers": 55465,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDRkMjU4NGNiNjZjMjkyYzYyMjkyNGJlOWM1MzZlNTMw",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDUwOGM2ZWE3NzYwODg1NDkwYjYwOGI1YWE4YTBiMTA5",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -687,6 +687,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Gongo Aso",
+        "url": "https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex"
+      },
+      "artists": [
+        {
+          "name": "9ice",
+          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
+        }
+      ],
+      "duration_ms": 216267,
+      "name": "Gongo Aso",
+      "url": "https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Oleku (feat. Brymo)",
         "url": "https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 291363,
       "name": "Oleku (feat. Brymo)",
       "url": "https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Gongo Aso",
-        "url": "https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex"
-      },
-      "artists": [
-        {
-          "name": "9ice",
-          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
-        }
-      ],
-      "duration_ms": 216267,
-      "name": "Gongo Aso",
-      "url": "https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -911,22 +911,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "After the Storm",
-        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Hol' It",
-      "url": "https://open.spotify.com/track/1BQHtfaLM0aLBYChMtDGTv"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Dance for Me",
         "url": "https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 204173,
       "name": "Dance for Me",
       "url": "https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "After the Storm",
+        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Hol' It",
+      "url": "https://open.spotify.com/track/1BQHtfaLM0aLBYChMtDGTv"
     },
     {
       "added_at": "2020-11-06 13:21:21",

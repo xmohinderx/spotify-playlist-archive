@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ben Reilly
 
-235 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
+236 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Dangerous](https://open.spotify.com/track/00EKCASItEc0lfZwzWF34N) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu), [Kingsley Ibeneche](https://open.spotify.com/artist/1sCEBYdJIHnx6VNv7RN4Je) | [Dangerous](https://open.spotify.com/album/7G39CE2qnxYcW5H2rPlP1K) | 4:22 | 2022-02-04 | 2022-06-01 |
 | [Dear Fear](https://open.spotify.com/track/7uJFQs4kxilsiPKe3UHPUT) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Dear Fear](https://open.spotify.com/album/4tpKvSFFcWZIBXi1mNEDn6) | 3:19 | 2022-01-14 | 2022-07-29 |
 | [DENY](https://open.spotify.com/track/43SIjaufu6brjwKphXhZCJ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [DENY](https://open.spotify.com/album/7rfd6I7XsQw2O1fDbZjEUU) | 3:11 | 2022-03-25 | 2022-04-20 |
-| [DENY \(feat\. Tyla Yaweh\)](https://open.spotify.com/track/2OGfK0dPkEdALPwrmYXrVE) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 3:11 | 2022-07-29 |  |
+| [DENY \(feat\. Tyla Yaweh\)](https://open.spotify.com/track/2OGfK0dPkEdALPwrmYXrVE) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 3:11 | 2022-07-29 | 2022-08-08 |
 | [diving board](https://open.spotify.com/track/04npC3La37wuGbnjn4F4W1) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [diving board](https://open.spotify.com/album/0MhNRDBlvakoAVEZ4WLwlz) | 2:45 | 2022-03-11 | 2022-04-17 |
 | [DO IT AGAIN](https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [DO IT AGAIN](https://open.spotify.com/album/32zyLW6egVzXZKusfN49KX) | 2:10 | 2022-03-25 |  |
 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0) | 3:04 | 2022-04-29 | 2022-07-29 |
@@ -201,6 +201,7 @@
 | [Summer](https://open.spotify.com/track/39jo333JejX9EZ3zwwcdmS) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Summer](https://open.spotify.com/album/0lLBjcVpeLXF4ZKpCxe1zt) | 2:15 | 2021-09-03 | 2022-03-23 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 | 2022-01-14 | 2022-07-30 |
 | [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 | 2022-07-08 |  |
+| [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 | 2022-08-05 |  |
 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2021-09-03 | 2022-07-30 |
 | [Swish](https://open.spotify.com/track/536R5L9YMmxAMvIrBleqZ9) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Swish](https://open.spotify.com/album/4bDlqdB1KjTP5YcOnMOhL9) | 3:13 | 2022-08-05 |  |
 | [Syrup](https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4) | 2:25 | 2022-03-25 | 2022-04-21 |

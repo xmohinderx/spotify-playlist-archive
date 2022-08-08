@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Presentamos a Kevin Kaarl, nuestro artista Radar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,756 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,765 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 38 | [Uh La La](https://open.spotify.com/track/238haksMvqT5hcKtznBLop) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Uh La La](https://open.spotify.com/album/37E856Cum11u0LJognB6Xp) | 3:30 |
 | 39 | [no me caigo tan bien](https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [no me caigo tan bien](https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI) | 3:28 |
 | 40 | [¿Cuándo Pero Cuándo?](https://open.spotify.com/track/4Hsp0FRXibfhCQwKkSGTdV) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Cuándo Pero Cuándo?](https://open.spotify.com/album/5HYltXcXeofknbuBjt8X4e) | 2:34 |
-| 41 | [Hoy Todo Bien](https://open.spotify.com/track/52YLbg0k9SzmW8R6EYWyyd) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Hoy Todo Bien](https://open.spotify.com/album/53n3wiMWTdEr2Hb11o6xq9) | 3:17 |
-| 42 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
+| 41 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
+| 42 | [Hoy Todo Bien](https://open.spotify.com/track/52YLbg0k9SzmW8R6EYWyyd) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Hoy Todo Bien](https://open.spotify.com/album/53n3wiMWTdEr2Hb11o6xq9) | 3:17 |
 | 43 | [Tumbando Avión](https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Tumbando Avión](https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m) | 3:00 |
 | 44 | [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 |
 | 45 | [Por Eso Tú](https://open.spotify.com/track/73Op2YIk2Ea5kJ9uHd99QH) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Por Eso Tú](https://open.spotify.com/album/47ozRi9t0GGajhkEFFeuDv) | 3:12 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 47 | [Empty Process](https://open.spotify.com/track/3nV6TxijHm8BJwZl7wjck8) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Glommy Afternoon](https://open.spotify.com/album/4k34ZmgvcK8b1ljA27Uu4d) | 2:56 |
 | 48 | [SESENTAYNUEVE](https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [SESENTAYNUEVE](https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET) | 2:02 |
 | 49 | [Entes](https://open.spotify.com/track/1AZrJoYxgwoJOnVh8TZc8Y) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Entes](https://open.spotify.com/album/21stBXZTFEuFydbOKDnOdA) | 4:19 |
-| 50 | [Mamixhula](https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Mamixhula](https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8) | 2:30 |
+| 50 | [un día perfecto](https://open.spotify.com/track/4cK0cDb8RSBRIaC0kr7lOx) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [un día perfecto](https://open.spotify.com/album/5DMYsl9natEMzLM4ApZiqh) | 2:33 |
 
-Snapshot ID: `MTY1OTMzMDAwMCwwMDAwMDAwMDBjYTg0MDEyM2MyNmNjMTcxNWY0NGZiNGVjY2RmNGQz`
+Snapshot ID: `MTY1OTMzMDAwMCwwMDAwMDAwMDVjZmExMTdjNDgzNjA4N2RkZjFlNWM0YmFkNTI4NWNj`

@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.",
-  "num_followers": 9834,
+  "num_followers": 9872,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGQ0YWFmZTY1ZTdhZjQzMzdiYzRlMmYxZjRhMzI1Y2Yx",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDc0YTE4MDRlYmZhNWU1M2RmYmQ0YzFkODViNGE5NjA2",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "El Cuchi de Camara",
+        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Zamba del Laurel",
+      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Aleteo",
         "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 212100,
       "name": "Zamba del Renacer",
       "url": "https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "El Cuchi de Camara",
-        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Zamba del Laurel",
-      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Bendiciones",
-        "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
-      },
-      "artists": [
-        {
-          "name": "Sandra Mihanovich",
-          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 210771,
-      "name": "Bendiciones",
-      "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Entre Valles y Quebradas",
         "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 211200,
       "name": "Viene Clareando",
       "url": "https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Bendiciones",
+        "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Mihanovich",
+          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 210771,
+      "name": "Bendiciones",
+      "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "De Piedra y Agua",
+        "url": "https://open.spotify.com/album/6BOdeQ0LrixZT3UngksPJZ"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Zabzuk",
+          "url": "https://open.spotify.com/artist/2ZJNcuNJm104OqLjD9LY3M"
+        }
+      ],
+      "duration_ms": 319139,
+      "name": "Luna De Cabotaje",
+      "url": "https://open.spotify.com/track/5qn2JqkaXBDhDSsAxiiiON"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Illa",
         "url": "https://open.spotify.com/album/36clIg69CVidSiJSABdhlH"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 207231,
       "name": "Pecnectao",
       "url": "https://open.spotify.com/track/2O54SJ9WWYKfAP0AgVUsYQ"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "De Piedra y Agua",
-        "url": "https://open.spotify.com/album/6BOdeQ0LrixZT3UngksPJZ"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Zabzuk",
-          "url": "https://open.spotify.com/artist/2ZJNcuNJm104OqLjD9LY3M"
-        }
-      ],
-      "duration_ms": 319139,
-      "name": "Luna De Cabotaje",
-      "url": "https://open.spotify.com/track/5qn2JqkaXBDhDSsAxiiiON"
     },
     {
       "added_at": "2022-07-08 03:00:00",

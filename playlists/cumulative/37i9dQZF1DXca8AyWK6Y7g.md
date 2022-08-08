@@ -4,7 +4,7 @@
 
 > baby all i wanna do is coast cover: Hailee Steinfeld
 
-1,208 songs - 2 day 14 hr 38 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,209 songs - 2 day 14 hr 41 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,7 +610,7 @@
 | [Late To The Party](https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX) | 2:57 | 2021-10-25 |  |
 | [lately](https://open.spotify.com/track/5Ot7KPYnWYSy3u71BrgxtQ) | [Sophia Bromberg](https://open.spotify.com/artist/2dH1lqvS9haqMj0OLacGz4) | [lately](https://open.spotify.com/album/4Lvg6nLMnBKNbws4fmfLiq) | 3:17 | 2022-01-07 | 2022-03-26 |
 | [Laugh It Off](https://open.spotify.com/track/2ZBwNo9Adshmp8gffSubLS) | [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Laugh It Off](https://open.spotify.com/album/6ZdYt0zvA9XOAeiQ7TkgfD) | 4:13 | 2019-05-26\* | 2019-08-13 |
-| [Lavender Forever](https://open.spotify.com/track/3LlvRrcCyEGfI88ztZQM5r) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Lavender Forever](https://open.spotify.com/album/0lXxR8m9ZxXlxl8DLinruW) | 2:54 | 2022-03-25 |  |
+| [Lavender Forever](https://open.spotify.com/track/3LlvRrcCyEGfI88ztZQM5r) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Lavender Forever](https://open.spotify.com/album/0lXxR8m9ZxXlxl8DLinruW) | 2:54 | 2022-03-25 | 2022-08-08 |
 | [Lay With Me](https://open.spotify.com/track/4eRnjMbEJoPnubKETJcVW9) | [Moontower](https://open.spotify.com/artist/56y2IdpRthuW4pDZbqwjlz) | [Lay With Me](https://open.spotify.com/album/1Hf4T66JiTrR2b1KZAueUx) | 4:06 | 2019-05-26\* | 2019-09-14 |
 | [Learn To Fly](https://open.spotify.com/track/518miTxc3a15X7HB8FgJUW) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Learn To Fly \(with Elton John\)](https://open.spotify.com/album/0smKCfZ1XlApoqIg3AG3Dc) | 3:29 | 2020-06-13 | 2021-11-10 |
 | [Left Behind the Gold](https://open.spotify.com/track/4A4CtC81IjGggqfneGnITU) | [Cards](https://open.spotify.com/artist/5hzb5m0WYwl0w2495YeGwX), [TxTHEWAY](https://open.spotify.com/artist/1G8r1xxQVLm8AXRI2iohhe) | [Left Behind the Gold](https://open.spotify.com/album/6ptpKNSmI65gl5GVPAX2YW) | 2:29 | 2019-05-26\* | 2021-02-13 |
@@ -852,6 +852,7 @@
 | [Prom](https://open.spotify.com/track/5flMoOfc914PhFtAD8e1gX) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Prom](https://open.spotify.com/album/35R9EjeVUv2oZBiEur310h) | 2:47 | 2021-02-28 | 2021-11-09 |
 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-02-25 | 2022-03-26 |
 | [Punching Bag](https://open.spotify.com/track/58W6voVbKQ4OwoHleiBvmX) | [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [Punching Bag](https://open.spotify.com/album/3ebaT4F6bIfKgA69DxD95f) | 3:41 | 2021-08-19 | 2021-11-16 |
+| [punchline](https://open.spotify.com/track/7i5OGr4JDrQeaz6hc8B9Fz) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [punchline](https://open.spotify.com/album/5dj2PiEnEyDTqt3S33tGlM) | 2:49 | 2022-07-29 |  |
 | [Puppy](https://open.spotify.com/track/3R5YAmx1HzkobNpMDNbFT4) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Puppy](https://open.spotify.com/album/7yVEnMhX4OPPftLAsU6zsn) | 2:26 | 2020-09-25 | 2021-08-21 |
 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 | 2022-03-25 | 2022-04-21 |
 | [Put It All On Me](https://open.spotify.com/track/3d7QNPRDr5N4HniovDgQAG) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Put It All On Me](https://open.spotify.com/album/64xTStyvtAH3LhUtSk5qkY) | 3:16 | 2019-05-26\* | 2019-08-13 |

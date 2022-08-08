@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 5512,
+  "num_followers": 5526,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI2ODQ5MiwwMDAwMDAwMDJjMzU3ODdlYTA3NmZmMjk1YjEyZGY5YzAyMjMyNjVj",
+  "snapshot_id": "MTY1NzI2ODQ5MiwwMDAwMDAwMGM2ZTJmNGM1MjgwNzliNmU0NjBiZWFlMjJjMzEzYjcx",
   "tracks": [
     {
       "added_at": "2022-07-08 08:21:32",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-07-08 08:21:32",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 245870,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
-    },
-    {
-      "added_at": "2022-07-08 08:21:32",
-      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 225080,
       "name": "Just You",
       "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
+    },
+    {
+      "added_at": "2022-07-08 08:21:32",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 245870,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
     },
     {
       "added_at": "2022-07-08 08:21:32",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-07-08 08:21:32",
       "album": {
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp"
+      },
+      "artists": [
+        {
+          "name": "kimujoo",
+          "url": "https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf"
+        }
+      ],
+      "duration_ms": 204813,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa"
+    },
+    {
+      "added_at": "2022-07-08 08:21:32",
+      "album": {
         "name": "Mm Mm",
         "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 187500,
       "name": "Quince Tree",
       "url": "https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu"
-    },
-    {
-      "added_at": "2022-07-08 08:21:32",
-      "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp"
-      },
-      "artists": [
-        {
-          "name": "kimujoo",
-          "url": "https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf"
-        }
-      ],
-      "duration_ms": 204813,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa"
     },
     {
       "added_at": "2022-07-08 08:21:32",

@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-314 songs - 20 hr 45 min - [published](https://open.spotify.com/playlist/2OkbfmWWY4oCLX6EhdyVrn)
+315 songs - 20 hr 49 min - [published](https://open.spotify.com/playlist/2OkbfmWWY4oCLX6EhdyVrn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Mockingbird](https://open.spotify.com/track/74UWXHeikO5C3ScEREk42E) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Hotcakes](https://open.spotify.com/album/1n4U4mxtX246nRl6gvbWfA) | 4:14 | 2021-09-08 | 2022-07-24 |
 | [Montego Bay](https://open.spotify.com/track/6TBUBqz21JmF2hkeRbnwme) | [Bobby Bloom](https://open.spotify.com/artist/7iH90f18JHtgA6f4hjJpo2) | [The Bobby Bloom Album](https://open.spotify.com/album/5kdm7tgxEgY7rYpQ3Bvg4y) | 2:56 | 2021-09-08 | 2022-07-29 |
 | [More Than A Woman](https://open.spotify.com/track/2xnO2LsMJBBneult1xf6aR) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Capitol Gold: The Best Of Tavares](https://open.spotify.com/album/5DBKj09NaZ23ZUj8G1lB6z) | 3:29 | 2021-09-08 | 2022-07-23 |
-| [More Than A Woman \- Remastered](https://open.spotify.com/track/4pHjt1Hs1ghsey8dHnViYX) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Anthology](https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8) | 3:28 | 2021-09-08 |  |
+| [More Than A Woman \- Remastered](https://open.spotify.com/track/4pHjt1Hs1ghsey8dHnViYX) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Anthology](https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8) | 3:28 | 2021-09-08 | 2022-08-08 |
 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 | 2021-03-22 |  |
 | [Ms\. Grace](https://open.spotify.com/track/1LPCESFhMbgMaQjRG5dm9P) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Trustmaker](https://open.spotify.com/album/063A4uu6dGL4cGspFnklJv) | 3:26 | 2021-09-08 | 2022-07-29 |
 | [My Mistake \(Was To Love You\)](https://open.spotify.com/track/0Uk4vrQwR4mlEoHBoTp6Q8) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:00 | 2021-09-08 | 2022-05-02 |
@@ -262,6 +262,7 @@
 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 | 2021-03-22 |  |
 | [Summerlove Sensation](https://open.spotify.com/track/70hTmZPoBFDIjqnnxahTf5) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Bay City Rollers \- The Best Of](https://open.spotify.com/album/1HG3FGlUe4Q5yQPtnBusYY) | 3:15 | 2021-09-08 | 2022-07-29 |
 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 | 2021-03-22 |  |
+| [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(O.S.T.\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 | 2021-09-08 |  |
 | [Superstar](https://open.spotify.com/track/5B7S7GjR1tuyeDLSRNiTMO) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR), [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Tim Rice](https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh), [The Trinidad Singers](https://open.spotify.com/artist/6pgLxFqJE6Wm9wWyM2iFEn) | [Jesus Christ Superstar](https://open.spotify.com/album/32tSaPx5IHoxZiZHXLhH61) | 4:15 | 2021-09-08 | 2022-07-25 |
 | [Superstition](https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 4:26 | 2021-03-22 |  |
 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 | 2021-03-22 |  |

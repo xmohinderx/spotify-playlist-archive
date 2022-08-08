@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-08-06",
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
   "name": "This Is Big Mama Thornton",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "17Msi9pjBLbx4sHHhVbydP"
+  ],
   "tracks": [
     {
       "album": {
@@ -89,7 +91,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 311906,
       "name": "Big Mama Swings",
       "url": "https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G"
@@ -111,7 +113,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 248053,
       "name": "Big Mama's Blues (My Love)",
       "url": "https://open.spotify.com/track/3l1Pf2ItsE3bt36BG3GySo"
@@ -151,7 +153,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 172720,
       "name": "Black Rat - Take 4",
       "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
@@ -209,6 +211,24 @@
       "duration_ms": 169200,
       "name": "Cotton Picking Blues",
       "url": "https://open.spotify.com/track/32u9hRHJy738q7SqST4XJN"
+    },
+    {
+      "album": {
+        "name": "Hound Dog - The Essential Collection",
+        "url": "https://open.spotify.com/album/5ae5Gdn2dc9snnBHV3fnE9"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168594,
+      "name": "Don't Talk Back",
+      "url": "https://open.spotify.com/track/0BH8mz5msbTd1KRx9mOaja"
     },
     {
       "album": {
@@ -288,6 +308,28 @@
     },
     {
       "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263306,
+      "name": "Guide Me Home",
+      "url": "https://open.spotify.com/track/1Wa6w3xBoZNPYmuKOOy2g0"
+    },
+    {
+      "album": {
         "name": "I Smell a Rat",
         "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
       },
@@ -299,7 +341,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 133160,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/7H8a0ZcXknPTS3myoea6cE"
@@ -317,7 +359,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 172266,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/6ET5yCqDaaPJP6w7rvy1uM"
@@ -360,6 +402,24 @@
     },
     {
       "album": {
+        "name": "The Orginal Hound Dog",
+        "url": "https://open.spotify.com/album/658zaQmPASrqYsobMOMJaq"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "How Come",
+      "url": "https://open.spotify.com/track/0Yd1gsErZKbd273wwt3QFg"
+    },
+    {
+      "album": {
         "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
         "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
       },
@@ -375,7 +435,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 305040,
       "name": "I Feel the Way I Feel",
       "url": "https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA"
@@ -411,7 +471,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 105426,
       "name": "I Smell a Rat",
       "url": "https://open.spotify.com/track/6ZNk5OwHUQereZqnUZClqX"
@@ -451,7 +511,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 181586,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
@@ -505,7 +565,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 169360,
       "name": "Just Like a Dog",
       "url": "https://open.spotify.com/track/1bfv08EFNzn09Ra7bLQfHB"
@@ -567,7 +627,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 208213,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
@@ -639,7 +699,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 160853,
       "name": "My Man Called Me",
       "url": "https://open.spotify.com/track/6tnOqc5lsMQYqfvo7wVWk7"
@@ -935,7 +995,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 165573,
       "name": "The Big Change",
       "url": "https://open.spotify.com/track/3lAKT6qIqXBw2E0vcTPcMK"
@@ -989,7 +1049,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 124480,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/5Jh3NzWY3k48uUxuSUhSip"

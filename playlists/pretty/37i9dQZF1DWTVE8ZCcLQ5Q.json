@@ -1,12 +1,12 @@
 {
   "description": "Descubra Veigh e novos talentos brasileiros no horizonte.",
-  "num_followers": 421789,
+  "num_followers": 421771,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkyOTYwOCwwMDAwMDAwMGZkYjdjNjJjZDllMmRmOTg1NzZmMTNkYmI4YTVjMDgw",
+  "snapshot_id": "MTY1ODkyOTYwOCwwMDAwMDAwMGZhYjM2N2NlYTZmNTQyMGFkYmQ1OGMyYWQ1MTFjZGQx",
   "tracks": [
     {
       "added_at": "2022-07-27 13:46:48",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 170410,
+      "name": "Pra Gente Acordar",
+      "url": "https://open.spotify.com/track/4uh2UmvDt2b8xrQPsWZhfv"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
         "name": "P90",
         "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 123383,
       "name": "P90",
       "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 170410,
-      "name": "Pra Gente Acordar",
-      "url": "https://open.spotify.com/track/4uh2UmvDt2b8xrQPsWZhfv"
     },
     {
       "added_at": "2022-07-27 13:46:48",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
-        "name": "Meu Amor",
-        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        },
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        }
-      ],
-      "duration_ms": 146347,
-      "name": "Meu Amor",
-      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
         "name": "Rock Danger, Vol. 1",
         "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 178005,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
+        "name": "Meu Amor",
+        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        },
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        }
+      ],
+      "duration_ms": 146347,
+      "name": "Meu Amor",
+      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
     },
     {
       "added_at": "2022-07-27 13:46:48",
@@ -887,26 +887,6 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 200173,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2022-07-27 13:46:48",

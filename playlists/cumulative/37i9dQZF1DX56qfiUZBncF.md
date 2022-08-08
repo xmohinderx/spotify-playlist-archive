@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-229 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
+230 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [cherry blossom](https://open.spotify.com/track/44xUqPXksQ2MNtuF2AuRBN) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [cherry blossom](https://open.spotify.com/album/4iwQeZpCPNI3TNfhrYmk8U) | 2:20 | 2020-12-11 | 2022-07-29 |
 | [cherry blossom](https://open.spotify.com/track/2pVym24miJgEbF170Is2lO) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 2:21 | 2022-04-29 |  |
 | [CLOVER](https://open.spotify.com/track/6A35BpHH8rTAWwn24tlva6) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [CLOVER](https://open.spotify.com/album/3ht0nTv1Z80PWNlNiI01mF) | 3:18 | 2020-12-04 |  |
-| [Cold Blood](https://open.spotify.com/track/59q3NPvBNdLYNFijAZcwAK) | [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Cold Blood](https://open.spotify.com/album/0sC0ZuAkEzQcBVbE9tV9ZS) | 3:56 | 2021-01-23 |  |
+| [Cold Blood](https://open.spotify.com/track/59q3NPvBNdLYNFijAZcwAK) | [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Cold Blood](https://open.spotify.com/album/0sC0ZuAkEzQcBVbE9tV9ZS) | 3:56 | 2021-01-23 | 2022-08-08 |
 | [Concrete](https://open.spotify.com/track/59JAantTMIJ60jMOuYRfe1) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Concrete](https://open.spotify.com/album/1lqapa3PDVVLcK4Vl2BlYM) | 2:32 | 2020-11-04\* | 2022-07-29 |
 | [Concrete](https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Concrete](https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1) | 2:32 | 2022-04-29 |  |
 | [concrete](https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [concrete](https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT) | 3:32 | 2021-10-19 |  |
@@ -214,6 +214,7 @@
 | [Time \(feat\. Rhye\)](https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Time \(feat\. Rhye\)](https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq) | 4:19 | 2020-12-11 | 2022-07-29 |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2021-03-26 |  |
 | [Tonight](https://open.spotify.com/track/6laKL6EWhkUWfBGnFH5xED) | [Scarypoolparty](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Tonight](https://open.spotify.com/album/0TPlskZ8yvlay7Nv7URo8b) | 3:46 | 2020-11-04\* | 2021-10-21 |
+| [Trip](https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH) | 2:53 | 2022-04-29 |  |
 | [Trip](https://open.spotify.com/track/4iKWBHfMBMXptoXaDwqAre) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/3Lx8YDSuswGCfV8Tsb6i4E) | 2:53 | 2020-11-04\* | 2021-10-20 |
 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 | 2021-10-19 |  |
 | [Trouble to Share](https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Trouble to Share](https://open.spotify.com/album/4eYcxWOrAIrbuy6bOCJvSw) | 4:00 | 2022-04-29 |  |

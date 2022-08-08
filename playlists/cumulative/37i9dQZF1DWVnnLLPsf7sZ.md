@@ -4,7 +4,7 @@
 
 > The official playlist for We The People, streaming on Netflix July 4.
 
-15 songs - 47 min 35 sec - not published yet
+15 songs - 47 min 35 sec - [published](https://open.spotify.com/playlist/0hqLrNKI4BHvNXyBbnpELJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

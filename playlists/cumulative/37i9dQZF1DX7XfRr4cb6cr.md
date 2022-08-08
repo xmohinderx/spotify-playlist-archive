@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-171 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
+172 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2022-01-21 |  |
 | [Floor Position](https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Everything is Already There](https://open.spotify.com/album/1he2AlYOWu58VJxZQPzdJK) | 2:56 | 2022-01-21 |  |
 | [Fundament \(Part 1\)](https://open.spotify.com/track/0NWuVsxbGEwS4qCiicGxBs) | [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Plasmafuse](https://open.spotify.com/artist/6iYdmg7rSNUKQabi5wzRtN) | [Mörkrets Narr](https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9) | 7:40 | 2022-01-21 | 2022-07-29 |
-| [Future Memory](https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 5:02 | 2022-03-25 |  |
+| [Future Memory](https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 5:02 | 2022-03-25 | 2022-08-08 |
 | [Für Alina](https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Arvo Pärt: Alina](https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE) | 10:47 | 2022-07-22 |  |
 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 | 2022-04-01 |  |
 | [Genesis \(Version\)](https://open.spotify.com/track/5Akz6IbYaaIteC7kQkL9he) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Outlines \(Repurposed\) 2013\-2019](https://open.spotify.com/album/7a8sOJlt87lNL8EjGXJg3P) | 3:56 | 2022-01-28 | 2022-07-29 |
@@ -100,6 +100,7 @@
 | [Mälardynen](https://open.spotify.com/track/386aGHpZXtzvSMGy3gFqkX) | [Linus Hillborg](https://open.spotify.com/artist/1jrzKVTQrPyFMTH6uEUhZS) | [Magelungsverket](https://open.spotify.com/album/5nup9Yq25vKalN4aMOA2Bs) | 4:39 | 2022-01-21 | 2022-07-29 |
 | [nibiru](https://open.spotify.com/track/4xnrbHfN3vwRhLBuLqO1OK) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [nibiru](https://open.spotify.com/album/1aZruFKCFVcIFqmqqdQbvc) | 3:39 | 2022-07-22 |  |
 | [Night Walk](https://open.spotify.com/track/0FmRg5WRovLobLLeUiMXwo) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 4:43 | 2022-07-22 |  |
+| [Nighthawks \[Mixed\] \- Early Demo](https://open.spotify.com/track/4BdAYw8Hzi8qXjOBcxlgEn) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Brutal Five To One Mix V2](https://open.spotify.com/album/37S47FbvkHq8CyzuYo4SlZ) | 3:36 | 2022-08-05 |  |
 | [Norduris](https://open.spotify.com/track/4yrVOvpavSaPoD3MRRvx19) | [Wayai](https://open.spotify.com/artist/0xhgrV69CjEHK5pyK1iMAJ), [Johan Famaey](https://open.spotify.com/artist/3AxGH0DTPTiF54fxkXyjXV) | [Norduris](https://open.spotify.com/album/0ZE5abEJEESte7CMbOdnNR) | 4:11 | 2022-02-04 | 2022-07-04 |
 | [North](https://open.spotify.com/track/2YaxyF5xjcqFTgUb62sEPa) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 3:17 | 2022-01-21 |  |
 | [Northern Light](https://open.spotify.com/track/3sxJ6w5OL3fdu1vxRhlrCR) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 2:32 | 2022-01-21 | 2022-07-29 |

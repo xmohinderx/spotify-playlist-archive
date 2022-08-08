@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Glass Animals, Arooj Aftab, and The Kid LAROI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,676 likes - 770 songs - 1 day 23 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,682 likes - 770 songs - 1 day 23 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

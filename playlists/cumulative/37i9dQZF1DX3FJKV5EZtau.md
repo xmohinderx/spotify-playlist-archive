@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-277 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+278 songs - 16 hr 7 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Miss Ya](https://open.spotify.com/track/625S4t7RE31ZlTkY7AzMsD) | [Trinergy](https://open.spotify.com/artist/29GIa0EPbGFwx4xKGPUJU5) | [Miss Ya](https://open.spotify.com/album/6oTzt2D1wLfYxuiaZ50Q89) | 3:49 | 2022-01-07 | 2022-07-22 |
 | [Missin U](https://open.spotify.com/track/0oT0gQYC6YCpEL4CeVI6Xh) | [4RUNNR](https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx) | [Missin U](https://open.spotify.com/album/75UfJ2j2yMYG03KpqIflgd) | 3:12 | 2022-01-07 | 2022-07-29 |
 | [Moment](https://open.spotify.com/track/0NWoUXhNcS7vih0UUkF5IT) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Moment](https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8) | 2:42 | 2022-07-01 |  |
+| [Moments](https://open.spotify.com/track/0yalJGxZLEpFSCvC4pmvJ7) | [Nightcore](https://open.spotify.com/artist/77t00lrU1uk65snqAdoPnt), [0ZLO](https://open.spotify.com/artist/0asLL1eDsD4yM1vGUy7BPB) | [Moments](https://open.spotify.com/album/4u3tfAwaN7yWGCuMoqeUVY) | 4:25 | 2022-08-05 |  |
 | [Moon](https://open.spotify.com/track/1LMQs29W9GOBtpR7sNRBNz) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA) | [Moon](https://open.spotify.com/album/4VaqHXTwEFOJozjCIoAeuK) | 2:25 | 2022-01-07 | 2022-07-18 |
 | [Musician](https://open.spotify.com/track/6AIMGwDREa86WOdxIQj2S7) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Musician](https://open.spotify.com/album/2nOnXqBdSuTabFKQXKEDIh) | 3:58 | 2022-01-07 | 2022-07-25 |
 | [Musician](https://open.spotify.com/track/6uyltToZgo3MDKhCJ7F8Wc) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:58 | 2022-07-14 | 2022-08-06 |
@@ -243,7 +244,7 @@
 | [Strawberry](https://open.spotify.com/track/4Nd6l4JZTipSyfm0DdMldl) | [Softable](https://open.spotify.com/artist/4fJY3cnLPbA2FvPrZqbvcS) | [Strawberry Game](https://open.spotify.com/album/12AqBsXJ4b6VLrN7jhkxSS) | 5:00 | 2022-01-07 | 2022-07-29 |
 | [Sugar Kisses](https://open.spotify.com/track/0YS9JX8irFJih9oxqeYa2V) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg) | [Sugar Kisses](https://open.spotify.com/album/7dC6xINHUWaK27IBhedw33) | 4:33 | 2022-01-07 | 2022-07-23 |
 | [Sugar Trip](https://open.spotify.com/track/7p6PJdqPyJLc9NeG5RcDk9) | [Viuk](https://open.spotify.com/artist/6G6VXSl6kC6kfXIbShzNwZ) | [Sugar Trip](https://open.spotify.com/album/23feWXp02Y9uuNF7ibVlvN) | 3:02 | 2022-01-07 | 2022-07-27 |
-| [summit](https://open.spotify.com/track/5YxZZPdass8697BMQbm6A6) | [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [summit](https://open.spotify.com/album/6SkjJR21boyeC30Nj9dEsz) | 4:37 | 2022-01-07 |  |
+| [summit](https://open.spotify.com/track/5YxZZPdass8697BMQbm6A6) | [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [summit](https://open.spotify.com/album/6SkjJR21boyeC30Nj9dEsz) | 4:37 | 2022-01-07 | 2022-08-08 |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-01-07 | 2022-07-27 |
 | [Surprise](https://open.spotify.com/track/0V565sTVfuwu7Zca8QidrE) | [cute girls doing cute things](https://open.spotify.com/artist/7a0SE5n7aPUDD3OlAg0hly) | [Surprise](https://open.spotify.com/album/4FPOmFxwmscTMAPGNcjtjH) | 2:53 | 2022-03-11 |  |
 | [Sweet Treasure](https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte) | [Wave Meow](https://open.spotify.com/artist/7h1lUkkaG2VBNY5p99Zf3K) | [Sweet Treasure](https://open.spotify.com/album/4VC1dO9Yfq9GamuzVcmIip) | 3:23 | 2022-01-07 |  |

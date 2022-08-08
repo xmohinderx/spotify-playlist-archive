@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Las Retro Chingonas",
+        "url": "https://open.spotify.com/album/4lYOAQavqEc198FSGiGbQe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141493,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3RIBgjIFE4UXMGTASfEk1s"
+    },
+    {
+      "album": {
         "name": "Las M\u00e1s Pegadas",
         "url": "https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 141493,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 199520,
       "name": "El Arbol De La Horca",
       "url": "https://open.spotify.com/track/6Unaw76VUQCRt5xSEDGqKQ"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 147453,
       "name": "El Mandil\u00f3n",
       "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 189613,
       "name": "El Quemador",
       "url": "https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 171626,
       "name": "La Yerbabuena",
       "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 168520,
       "name": "Las Tres Tumbas",
       "url": "https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 146280,
       "name": "Que Tristeza Me Acompa\u00f1a",
       "url": "https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw"

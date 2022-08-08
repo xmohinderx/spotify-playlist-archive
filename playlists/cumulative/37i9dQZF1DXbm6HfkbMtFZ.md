@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-418 songs - 1 day 1 hr 28 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+419 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Debbie](https://open.spotify.com/track/2lnZ26Iq1QOcW8dgazCuk3) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Bad Habit](https://open.spotify.com/album/2cn7Li2egOLZaR0PdVzcmb) | 3:11 | 2021-12-16 | 2022-07-29 |
 | [Deep Blue Sea](https://open.spotify.com/track/1BzlpMJypPyKFJMW7q51GP) | [Art Lown](https://open.spotify.com/artist/1XRrYWnoRIqMuQHq1npqSK) | [Sad About the Times](https://open.spotify.com/album/44I3huisWkg8dM9vRaImpY) | 2:43 | 2022-05-24 | 2022-07-29 |
 | [Delicious](https://open.spotify.com/track/4HifGnqcSR1PF8kgQP1Tqv) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [That's Nice](https://open.spotify.com/artist/1xdqKdgBhXJxddtqw3SkWM) | [Delicious](https://open.spotify.com/album/5HRKFKc9EwKdgTNSqgJT70) | 3:53 | 2022-03-30 | 2022-04-18 |
+| [Depths \(Pt\. I\)](https://open.spotify.com/track/5JMY7l5GE5ze1mdkyDptdh) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Willowbank](https://open.spotify.com/album/4xhEaaCBfWXGWQF6rUIb03) | 2:50 | 2022-08-06 |  |
 | [Depths \(Pt\. I\)](https://open.spotify.com/track/7v8B1M09vnvymSNGcvGBva) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Depths \(Pt\. I\)](https://open.spotify.com/album/2dlzFbdo8bvUmtJzJReI06) | 2:50 | 2022-03-30 | 2022-04-21 |
 | [Didn't I \(Florent F Rework\)](https://open.spotify.com/track/5dO9U61RjDdPONjwchImNh) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc), [Florent F](https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij) | [Didn't I \- EP](https://open.spotify.com/album/4ne0arqARv5yfiytCDE2TF) | 3:45 | 2021-12-16 | 2022-07-29 |
 | [Didn't I \- Florent F Rework](https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc), [Florent F](https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij) | [Didn't I](https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ) | 3:45 | 2022-07-26 |  |
@@ -179,7 +180,7 @@
 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 | 2022-03-30 |  |
 | [Inside And Out](https://open.spotify.com/track/6rouj6pwJgrh6whnljzXPd) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 4:17 | 2022-03-30 | 2022-04-19 |
 | [Inspiration Information](https://open.spotify.com/track/6s7crv5t6jivuWgO35Sd02) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul Time!](https://open.spotify.com/album/5pbINmWhEPGZx2sEpsuuIG) | 4:03 | 2022-03-30 | 2022-04-21 |
-| [Inspiration Information](https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:12 | 2022-07-26 |  |
+| [Inspiration Information](https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:12 | 2022-07-26 | 2022-08-08 |
 | [Inspiration Information](https://open.spotify.com/track/6qH6xP8tzxvZlCcmHit4AL) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [INSPIRATION INFORMATION](https://open.spotify.com/album/5EvsfavFbWpzcg3VNLQEOF) | 4:12 | 2022-03-30 | 2022-05-07 |
 | [Intergalactic Love Song](https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK) | [The Diddys](https://open.spotify.com/artist/2Zj8m3tpo7XHoHRinEHsQr), [Paige Douglas](https://open.spotify.com/artist/5msvOxnkzvdc94IwbfAAKt) | [Agony and Extasy](https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2) | 4:38 | 2022-01-07 | 2022-04-21 |
 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 | 2022-03-30 |  |

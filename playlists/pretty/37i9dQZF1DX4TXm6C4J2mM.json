@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157315,
+  "num_followers": 157316,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDYwZDA5NmVhYjk3NzM2NjgyMjNhZWI1MjM5ODRiZWU2",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGMyMzExYWJhMWRhMDJjYjEwYzRjZjY5MzA1ZTI3NDc5",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Goofy",
+        "url": "https://open.spotify.com/album/24nYE4mejdQmCpgQsvJZrb"
+      },
+      "artists": [
+        {
+          "name": "MishCatt",
+          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
+        }
+      ],
+      "duration_ms": 200977,
+      "name": "Goofy",
+      "url": "https://open.spotify.com/track/32zrJNyJdpoMOqW7u3PEgo"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Fake A Smile (feat. salem ilese) [Remixes]",
         "url": "https://open.spotify.com/album/2fqN9pZSHYwf1PaaEgPeyO"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 168824,
       "name": "Fake A Smile (feat. salem ilese) - R3HAB Remix",
       "url": "https://open.spotify.com/track/1dMsLbHAMiWPzUUbLrXAwF"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Goofy",
-        "url": "https://open.spotify.com/album/24nYE4mejdQmCpgQsvJZrb"
-      },
-      "artists": [
-        {
-          "name": "MishCatt",
-          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
-        }
-      ],
-      "duration_ms": 200977,
-      "name": "Goofy",
-      "url": "https://open.spotify.com/track/32zrJNyJdpoMOqW7u3PEgo"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Bass Goes Down",
-        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
-      },
-      "artists": [
-        {
-          "name": "MOLOW",
-          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
-        },
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        }
-      ],
-      "duration_ms": 144449,
-      "name": "Bass Goes Down",
-      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "All Comes Back To You",
         "url": "https://open.spotify.com/album/5sF8cTLQirqDYQWJwzxq87"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 189140,
       "name": "Mockingbirds - VIZE Remix",
       "url": "https://open.spotify.com/track/33hTKRPELdX0F7JNJOYali"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Bass Goes Down",
+        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
+      },
+      "artists": [
+        {
+          "name": "MOLOW",
+          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
+        },
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        }
+      ],
+      "duration_ms": 144449,
+      "name": "Bass Goes Down",
+      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Spoiled (Goodboys Remix)",
-        "url": "https://open.spotify.com/album/6XCbOW9kPr0peZdpzWqhkk"
-      },
-      "artists": [
-        {
-          "name": "Ant Saunders",
-          "url": "https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 150047,
-      "name": "Spoiled (Goodboys Remix)",
-      "url": "https://open.spotify.com/track/2WZLaweYiFKTR3SANawH4J"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 192397,
       "name": "If You're Looking for Trouble",
       "url": "https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Spoiled (Goodboys Remix)",
+        "url": "https://open.spotify.com/album/6XCbOW9kPr0peZdpzWqhkk"
+      },
+      "artists": [
+        {
+          "name": "Ant Saunders",
+          "url": "https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 150047,
+      "name": "Spoiled (Goodboys Remix)",
+      "url": "https://open.spotify.com/track/2WZLaweYiFKTR3SANawH4J"
     },
     {
       "added_at": "2022-07-15 14:10:44",

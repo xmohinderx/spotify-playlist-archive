@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-83 songs - 4 hr 15 min - not published yet
+83 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/58LDkLtnAZW2SWAYqFauit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

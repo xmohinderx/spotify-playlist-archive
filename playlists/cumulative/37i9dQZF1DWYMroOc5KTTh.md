@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-393 songs - 1 day 3 hr 15 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
+394 songs - 1 day 3 hr 18 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Anywhere In The World](https://open.spotify.com/track/5iPSQYDohyVO5k8Scu2X4L) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Anywhere In The World](https://open.spotify.com/album/3OuccmRmvxw3ePC8A6U1Gc) | 6:59 | 2022-04-06 | 2022-04-15 |
 | [Apricity \(feat\. jules\)](https://open.spotify.com/track/0WgPeBuFxnyiFiPt5gdsEL) | [Morgan Hislop](https://open.spotify.com/artist/1M1AEVIsxhvm4lAkuC2LyC), [jules](https://open.spotify.com/artist/38lbchSS1uIomHvHUNtJp9) | [Apricity \(feat\. jules\)](https://open.spotify.com/album/3wjEG5ukwncxnrMLtrBjRU) | 3:36 | 2022-05-30 |  |
 | [Ascension](https://open.spotify.com/track/5zXkATrsSKmEWgutgNaJe8) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Ascension](https://open.spotify.com/album/3hleDhTxP5TllrUOUAFlzD) | 3:21 | 2022-01-14 | 2022-04-21 |
-| [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 | 2022-07-20 |  |
+| [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 | 2022-07-20 | 2022-08-08 |
 | [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/3LM98l3bBn6ygO1hqJOEVX) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 | 2022-04-06 | 2022-04-12 |
 | [Aye Aye Mi Mi \- 12" Mix](https://open.spotify.com/track/0Ajw8UO0iXYFylSrXzthbw) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Aye Aye Mi Mi](https://open.spotify.com/album/6lmF5Tmgyr9pyJFDGXK6v3) | 5:34 | 2022-04-15 | 2022-04-20 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/7M1125M74qeHedad25bx4U) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) / Move To The](https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR) | 3:46 | 2022-07-20 |  |
@@ -94,6 +94,7 @@
 | [Do What You Want Forever](https://open.spotify.com/track/36Qc6r4c1H04eEqZ2ggh4Z) | [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5) | [Do What You Want Forever](https://open.spotify.com/album/7oKlNm85XiihyYEayGuWQi) | 5:32 | 2022-04-06 | 2022-04-17 |
 | [Does It Make You Feel Good? \- Greg Wilson & Ché Wilson Remix](https://open.spotify.com/track/0uMJP6WWpVirk5V7SsIV42) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Greg Wilson](https://open.spotify.com/artist/5b8TksKkFbG2NoVG8d8YDN), [Ché Wilson](https://open.spotify.com/artist/0TpwHN8cpXYwikImisp8fn) | [Does It Make You Feel Good? \(Greg Wilson & Ché Wilson Remix\)](https://open.spotify.com/album/3o6I2UgtOSpXOdZTgFbXMz) | 7:51 | 2021-12-03 | 2022-07-14 |
 | [Don't Deal With Us \- Dusky Edit](https://open.spotify.com/track/2lMNNWVnpaJNKCyFFIkWeJ) | [Jt Company](https://open.spotify.com/artist/03QXzMZPP4vJXqhPDYJ9fh), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Don't Deal With Us \(Dusky Edit\)](https://open.spotify.com/album/2ZxAIw9NIcXVSQi6tgMNgo) | 3:36 | 2022-04-06 | 2022-04-15 |
+| [Don't Hurt Me Baby](https://open.spotify.com/track/7ez7Ld3pAXLa7QWgnr5a1e) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [Don't Hurt Me Baby](https://open.spotify.com/album/1N7dPvx7bzIGyD7XSwejT8) | 2:24 | 2022-08-01 |  |
 | [Don't You Like It?](https://open.spotify.com/track/6uJ7mMcjgOtY3PbQPnaPKO) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Don't You Like It?](https://open.spotify.com/album/1GOPldTzZzwjyr6GrstMvf) | 3:46 | 2021-12-03 | 2022-07-29 |
 | [Dopamine](https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt) | 4:03 | 2022-04-06 |  |
 | [Down](https://open.spotify.com/track/7Gv5qT2rdcR0LenYPB9Spw) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Down](https://open.spotify.com/album/6gCVYIHf9thjGbxIZUO86x) | 3:17 | 2021-12-03 | 2022-07-05 |

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1595205,
+  "num_followers": 1595823,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDU3NDkwMDBkMGRmMGIzNDNiY2MyMjU2OGQ0NTMwODMz",
+  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDk1NDgwOTUwYTQwYmI3YzFhOTllYWI1ZGQ3YzIyMzhj",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Caliber",
+        "url": "https://open.spotify.com/album/0zwvnPJUZqs4nlSieXuM8X"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 182738,
+      "name": "Caliber",
+      "url": "https://open.spotify.com/track/1Okha0BLoXlC6iXrIWLVFk"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "UNPREDICTABLE",
         "url": "https://open.spotify.com/album/4FlLFmeikHa7syfabGqL0k"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 189920,
       "name": "UNPREDICTABLE",
       "url": "https://open.spotify.com/track/37ahk4lY6MT9jibtVmvYAH"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Caliber",
-        "url": "https://open.spotify.com/album/0zwvnPJUZqs4nlSieXuM8X"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 182738,
-      "name": "Caliber",
-      "url": "https://open.spotify.com/track/1Okha0BLoXlC6iXrIWLVFk"
     },
     {
       "added_at": "2022-07-15 04:00:00",

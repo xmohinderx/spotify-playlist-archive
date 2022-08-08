@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,679 likes - 97 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,703 likes - 97 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 16 | [Danza de los Viejitos \(Danza\)](https://open.spotify.com/track/6Mck8kESmnb4bh6anpqGSp) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Michoacán](https://open.spotify.com/album/55p92gjcS6eHUXhQtD8mgY) | 5:07 |
 | 17 | [El Querreque](https://open.spotify.com/track/0m393D1i8If36V9ADd9IUb) | [Tlen Huicani](https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8), [Lino Chavez](https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn) | [Veracruz Son y Huapango](https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD) | 2:58 |
 | 18 | [Café Café](https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf) | [Radio Jarocho](https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx) | [Café Café](https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S) | 3:58 |
-| 19 | [Pinotepa](https://open.spotify.com/track/3vdxdNwaXWwUyf3bHpxIr2) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3) | 4:44 |
-| 20 | [Canto A Veracruz](https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko) | [Conjunto Alma Jarocha](https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f) | [Reventón Veracruzano Puros Éxitos De..](https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh) | 2:35 |
+| 19 | [Canto A Veracruz](https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko) | [Conjunto Alma Jarocha](https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f) | [Reventón Veracruzano Puros Éxitos De..](https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh) | 2:35 |
+| 20 | [Pinotepa](https://open.spotify.com/track/3vdxdNwaXWwUyf3bHpxIr2) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3) | 4:44 |
 | 21 | [La Malagueña](https://open.spotify.com/track/3pXLPRQOIoIovJKNO2Ksf4) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Huapangos](https://open.spotify.com/album/5Z6tcNwry8ZIu1uDOdmRYZ) | 3:47 |
 | 22 | [Adiós Mariquita Linda](https://open.spotify.com/track/6sFEBrEEtj5nQqR17KFq1L) | [Juan Torres](https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY) | [15 Éxitos Al Estilo Ranchero De Juan Torres](https://open.spotify.com/album/4eJxF67PdhW7DGjq1f21gF) | 3:32 |
 | 23 | [El Siquisiri](https://open.spotify.com/track/5AaFV9x2mCYc0xOaOq2t8a) | [Sones Jarochos](https://open.spotify.com/artist/19wDbhvttV6xZQWf8pmxux), [Los Nacionales De Jacinto Gatica](https://open.spotify.com/artist/03evbzgK4Uoo1IpSm551pr) | [Sones Jarochos \- Los Nacionales De Jacinto Gatica \- Feria Mexicana](https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS) | 2:10 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 38 | [El Jarabe Jalisciense](https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm) | 4:22 |
 | 39 | [Zopilote mojado](https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 3:16 |
 | 40 | [San Cristobal](https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb) | [San Cristobal](https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V) | 2:21 |
-| 41 | [Musica De Mi Tierra\-Mexico Lindo Y Querido\-Cielito Lindo\-La Pajarera\-Allá En El Rancho Grande\-La Raspa\-Mexico Lindo Y Querido](https://open.spotify.com/track/6454lzNH5DaY3jP570hrJ2) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm) | [Nuestro Mexico](https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF) | 5:42 |
-| 42 | [Por los Caminos del Sur](https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF) | [Dueto Caleta](https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo) | [RCA 100 Años de Música \- Segunda Parte](https://open.spotify.com/album/1I5kQcXKDxb3zkqiZcZcBp) | 2:38 |
-| 43 | [Juarez](https://open.spotify.com/track/1kohPiTbyDD9Hdt2KWLxZ9) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 1:52 |
+| 41 | [Juarez](https://open.spotify.com/track/1kohPiTbyDD9Hdt2KWLxZ9) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 1:52 |
+| 42 | [Musica De Mi Tierra\-Mexico Lindo Y Querido\-Cielito Lindo\-La Pajarera\-Allá En El Rancho Grande\-La Raspa\-Mexico Lindo Y Querido](https://open.spotify.com/track/6454lzNH5DaY3jP570hrJ2) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm) | [Nuestro Mexico](https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF) | 5:42 |
+| 43 | [Por los Caminos del Sur](https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF) | [Dueto Caleta](https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo) | [RCA 100 Años de Música \- Segunda Parte](https://open.spotify.com/album/1I5kQcXKDxb3zkqiZcZcBp) | 2:38 |
 | 44 | [El fandanguito \- The Little Fandango](https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG) | [Los Camperos de Valles](https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE) | [El ave de mi soñar: Mexican Sones Huastecos](https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk) | 3:18 |
 | 45 | [El polvorete](https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 4:05 |
 | 46 | [Camotal](https://open.spotify.com/track/4s7qx83G1CKhSHCcnHV0lC) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:21 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 96 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 | 97 | [Un Tequila y Una Rubia](https://open.spotify.com/track/3E6GSxnXLIXgsxxhnnFvKd) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 1:47 |
 
-Snapshot ID: `MTY0MzE1MzI5MiwwMDAwMDAwMDJkZjFiYjk2MzVlMTM2OTI3YWZlZDQ2ZjA3YWU1YWYw`
+Snapshot ID: `MTY0MzE1MzI5MiwwMDAwMDAwMDY4YWNiZWY3OTJmOTdmOTEyM2Q2OGZkMDI5ZjczZmI3`

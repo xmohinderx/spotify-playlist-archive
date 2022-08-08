@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Limoblaze
 
-50 songs - 2 hr 35 min - not published yet
+50 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/3Byz18nq85Iwxm1gDdCput)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

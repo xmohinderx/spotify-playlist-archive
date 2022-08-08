@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,198 likes - 96 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,221 likes - 96 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

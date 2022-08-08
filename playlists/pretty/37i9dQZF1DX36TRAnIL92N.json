@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 14784,
+  "num_followers": 15208,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMDQwMDk0YWYzYjhjNzNmYjU5MDk5ZjJmYjBjN2IyZDYx",
+  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMDczNjNjNmUwNDEzNzg3NWI4ODZmM2U0ZGFkNDZjMDNi",
   "tracks": [
     {
       "added_at": "2022-07-29 06:24:48",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
+        "name": "Silence EP",
+        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 509090,
+      "name": "Future Dust - Original Mix",
+      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
         "name": "Choir Of Spirits",
         "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 405439,
       "name": "Choir Of Spirits",
       "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Silence EP",
-        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
-      },
-      "artists": [
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 509090,
-      "name": "Future Dust - Original Mix",
-      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Tribal Space",
-        "url": "https://open.spotify.com/album/4UeZWgfQSO0fsHpCDudHzs"
-      },
-      "artists": [
-        {
-          "name": "Sabura",
-          "url": "https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX"
-        }
-      ],
-      "duration_ms": 359250,
-      "name": "Tribal Space",
-      "url": "https://open.spotify.com/track/4VfF4RBRiKKV969cXUX8or"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 387807,
       "name": "Control - Original Mix",
       "url": "https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Tribal Space",
+        "url": "https://open.spotify.com/album/4UeZWgfQSO0fsHpCDudHzs"
+      },
+      "artists": [
+        {
+          "name": "Sabura",
+          "url": "https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX"
+        }
+      ],
+      "duration_ms": 359250,
+      "name": "Tribal Space",
+      "url": "https://open.spotify.com/track/4VfF4RBRiKKV969cXUX8or"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Vision of Thermodynamics, Pt. 2",
-        "url": "https://open.spotify.com/album/3XxDvy4NvoAEjaPKMXi3Lo"
-      },
-      "artists": [
-        {
-          "name": "NoNameLeft",
-          "url": "https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT"
-        }
-      ],
-      "duration_ms": 380625,
-      "name": "The Second Law of Thermodynamics",
-      "url": "https://open.spotify.com/track/6RLQjhD5qpNkFbh3zd7KyK"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "Light + Shadow Remixes, Vol. 1",
         "url": "https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 370750,
       "name": "Flash - Marco Faraone Remix",
       "url": "https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Vision of Thermodynamics, Pt. 2",
+        "url": "https://open.spotify.com/album/3XxDvy4NvoAEjaPKMXi3Lo"
+      },
+      "artists": [
+        {
+          "name": "NoNameLeft",
+          "url": "https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT"
+        }
+      ],
+      "duration_ms": 380625,
+      "name": "The Second Law of Thermodynamics",
+      "url": "https://open.spotify.com/track/6RLQjhD5qpNkFbh3zd7KyK"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Sense EP",
-        "url": "https://open.spotify.com/album/6Jg01D0r46MbjuerQTRyp5"
-      },
-      "artists": [
-        {
-          "name": "Drunken Kong",
-          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
-        }
-      ],
-      "duration_ms": 415077,
-      "name": "Sense",
-      "url": "https://open.spotify.com/track/76543PV6WgeJ3RAZiY9XIk"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/5KtMtbhmpG2mqjJepSttRA"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 376615,
       "name": "Nova",
       "url": "https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Sense EP",
+        "url": "https://open.spotify.com/album/6Jg01D0r46MbjuerQTRyp5"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "duration_ms": 415077,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/76543PV6WgeJ3RAZiY9XIk"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -875,22 +875,22 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "How It Makes You Feel",
-        "url": "https://open.spotify.com/album/0IrIIRAzh0iG3wbZQJ8YnM"
+        "name": "Injection (Original Mix)",
+        "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
       },
       "artists": [
         {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
         },
         {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+          "name": "A*S*Y*S",
+          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
         }
       ],
-      "duration_ms": 526672,
-      "name": "How It Makes You Feel",
-      "url": "https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK"
+      "duration_ms": 421846,
+      "name": "Injection - Original Mix",
+      "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
     }
   ],
   "unique_name": "Techno Workout",

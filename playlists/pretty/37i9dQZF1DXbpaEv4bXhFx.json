@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 3960,
+  "num_followers": 4012,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2MzE4NSwwMDAwMDAwMDA4MDVhODQwOTRiNWZhYmE3OTkzZWRkNTMxZDRiOWUx",
+  "snapshot_id": "MTY1OTQ2MzE4NSwwMDAwMDAwMDA4MzU3YmM0MGYyZDBjZjNkMjgzOGI2YmRmYmI2ZTFj",
   "tracks": [
     {
       "added_at": "2022-08-02 17:59:45",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-08-02 17:59:45",
       "album": {
+        "name": "Love, Pt. 1",
+        "url": "https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "WA-R-R",
+      "url": "https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk"
+    },
+    {
+      "added_at": "2022-08-02 17:59:45",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -63,38 +79,6 @@
     {
       "added_at": "2022-08-02 17:59:45",
       "album": {
-        "name": "Love, Pt. 1",
-        "url": "https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "WA-R-R",
-      "url": "https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk"
-    },
-    {
-      "added_at": "2022-08-02 17:59:45",
-      "album": {
-        "name": "Heart Burn",
-        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
-    },
-    {
-      "added_at": "2022-08-02 17:59:45",
-      "album": {
         "name": "Chancellor",
         "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
+    },
+    {
+      "added_at": "2022-08-02 17:59:45",
+      "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
     },
     {
       "added_at": "2022-08-02 17:59:45",
@@ -199,22 +199,22 @@
     {
       "added_at": "2022-08-02 17:59:45",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
         },
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 216018,
-      "name": "I Don\u2019t Lie (Feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/0Px7nsZhwF6qtebbZZHlyE"
+      "duration_ms": 217441,
+      "name": "AM PM (feat. Whee In) - Prod. Gray",
+      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
     },
     {
       "added_at": "2022-08-02 17:59:45",
@@ -255,22 +255,22 @@
     {
       "added_at": "2022-08-02 17:59:45",
       "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
         {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         },
         {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 217441,
-      "name": "AM PM (feat. Whee In) - Prod. Gray",
-      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+      "duration_ms": 216018,
+      "name": "I Don\u2019t Lie (Feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/0Px7nsZhwF6qtebbZZHlyE"
     },
     {
       "added_at": "2022-08-02 17:59:45",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-02 17:59:45",
       "album": {
-        "name": "Rain Song",
-        "url": "https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Rain Song",
-      "url": "https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq"
-    },
-    {
-      "added_at": "2022-08-02 17:59:45",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
+    },
+    {
+      "added_at": "2022-08-02 17:59:45",
+      "album": {
+        "name": "Rain Song",
+        "url": "https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Rain Song",
+      "url": "https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq"
     },
     {
       "added_at": "2022-08-02 17:59:45",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-02 17:59:45",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
-      },
-      "artists": [
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
-    },
-    {
-      "added_at": "2022-08-02 17:59:45",
-      "album": {
         "name": "Chocolate, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1cpAltXg2KRN7PCRSJCLtf"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 212666,
       "name": "Special",
       "url": "https://open.spotify.com/track/1udv7FVK3Jx7Q7ZR1miBwK"
+    },
+    {
+      "added_at": "2022-08-02 17:59:45",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
     },
     {
       "added_at": "2022-08-02 17:59:45",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-08-02 17:59:45",
       "album": {
-        "name": "girl in red",
-        "url": "https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 159365,
-      "name": "girl in red",
-      "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
-    },
-    {
-      "added_at": "2022-08-02 17:59:45",
-      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2022-08-02 17:59:45",
       "album": {
+        "name": "girl in red",
+        "url": "https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "duration_ms": 159365,
+      "name": "girl in red",
+      "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
+    },
+    {
+      "added_at": "2022-08-02 17:59:45",
+      "album": {
         "name": "Oh, My Sun",
         "url": "https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 287386,
       "name": "Oh, My Sun",
       "url": "https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW"
-    },
-    {
-      "added_at": "2022-08-02 17:59:45",
-      "album": {
-        "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
-        "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
-      "url": "https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD"
     },
     {
       "added_at": "2022-08-02 17:59:45",
@@ -779,6 +763,22 @@
       "duration_ms": 185808,
       "name": "Sleepless (feat. Heize)",
       "url": "https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96"
+    },
+    {
+      "added_at": "2022-08-02 17:59:45",
+      "album": {
+        "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
+        "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
+      "url": "https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD"
     },
     {
       "added_at": "2022-08-02 17:59:45",

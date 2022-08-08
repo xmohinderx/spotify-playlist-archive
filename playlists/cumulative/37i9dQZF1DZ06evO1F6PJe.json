@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-08-06",
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
   "name": "This Is Joe Bonamassa",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2BVD95AHXNw45iCkOYGi05"
+  ],
   "tracks": [
     {
       "album": {
@@ -133,7 +135,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 257224,
       "name": "Boogie With Stu - Live",
       "url": "https://open.spotify.com/track/168hcGYzhikucSpy8LLTiV"
@@ -173,7 +175,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 274188,
       "name": "Damn Your Eyes",
       "url": "https://open.spotify.com/track/2G3jRqrVVl8PmJOqNP64tr"
@@ -274,6 +276,24 @@
     },
     {
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329266,
+      "name": "Evil Mama",
+      "url": "https://open.spotify.com/track/2UCiflrlPIgcCKj3vVP0VF"
+    },
+    {
+      "album": {
         "name": "Joe Bonamassa Live from the Royal Albert Hall",
         "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
       },
@@ -311,6 +331,28 @@
       "duration_ms": 257160,
       "name": "Hanging On A Loser",
       "url": "https://open.spotify.com/track/6B4KDiLeMu7RveS2W3IOWI"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259226,
+      "name": "I Want My Crown",
+      "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
     },
     {
       "album": {
@@ -417,7 +459,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 400240,
       "name": "Just 'Cos You Can Don't Mean You Should",
       "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
@@ -507,7 +549,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 421219,
       "name": "Mainline Florida - Live",
       "url": "https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6"
@@ -623,7 +665,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 229840,
       "name": "Nutbush City Limits - Live",
       "url": "https://open.spotify.com/track/76nH08xYcm4PiKwpHMuyGU"
@@ -753,7 +795,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 409720,
       "name": "Slow Train",
       "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"

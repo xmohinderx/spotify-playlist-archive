@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-08-06",
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
   "name": "This Is Shemekia Copeland",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2sgp57SR3g5DZ4v54uUY9H"
+  ],
   "tracks": [
     {
       "album": {
@@ -97,7 +99,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 212653,
       "name": "Breakin' Out",
       "url": "https://open.spotify.com/track/7GYWOfiekgWnlirS4RfOIw"
@@ -365,7 +367,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 425733,
       "name": "It Don't Hurt No More",
       "url": "https://open.spotify.com/track/0t2oq1DRaeWzX6VQ1fAXeE"
@@ -581,7 +583,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 230426,
       "name": "My Kind Of Guy",
       "url": "https://open.spotify.com/track/6IRKmu2XE5Elm6FoZhauyg"
@@ -959,7 +961,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 228960,
       "name": "You Can't Have That",
       "url": "https://open.spotify.com/track/4hRSFw0Qgr3Fr6lM5648Cp"

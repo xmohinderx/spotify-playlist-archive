@@ -3521,7 +3521,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 141043,
       "name": "Escape From BABYLON",
       "url": "https://open.spotify.com/track/12SqxMqtStXppn5fjDYr45"
@@ -4907,7 +4907,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 212996,
       "name": "Hell's Comin' with Me",
       "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
@@ -5099,7 +5099,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 128869,
       "name": "Hotel (Sped Up)",
       "url": "https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k"
@@ -6167,6 +6167,28 @@
       "duration_ms": 280130,
       "name": "King",
       "url": "https://open.spotify.com/track/31ABtQJdfloNaGz7ZhXaN5"
+    },
+    {
+      "album": {
+        "name": "Collide With The Sky",
+        "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236293,
+      "name": "King For A Day",
+      "url": "https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ"
     },
     {
       "album": {

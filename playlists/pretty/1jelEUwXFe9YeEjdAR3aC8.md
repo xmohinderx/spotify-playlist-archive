@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill songs by Billie Eilish, Lauren Spencer Smith, and more! Chill out to these calm indie, pop, and folk tracks, and discover new favorites! Cover: Billie Eilish
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 114,986 likes - 57 songs - 3 hr 18 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 114,982 likes - 57 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

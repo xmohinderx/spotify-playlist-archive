@@ -4,7 +4,7 @@
 
 > Romance antigüito en voz de tus artistas pop con Fernanda Ulibarri y Leiden en portada.
 
-215 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/4BSRRbWHbtCycrKZ946Plx)
+216 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/4BSRRbWHbtCycrKZ946Plx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [La Apuesta](https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [DUAL](https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk) | 3:27 | 2022-03-18 | 2022-04-21 |
 | [La Danza de las Libélulas](https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Danza de las Libélulas](https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f) | 3:40 | 2021-10-16 |  |
 | [La Flor de la Canela](https://open.spotify.com/track/4WKltvGwkSYSaCrRSeJKhJ) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [La Flor de la Canela](https://open.spotify.com/album/34pZStLrPFekoc8PgVeDWm) | 3:27 | 2021-10-16 | 2022-07-29 |
-| [La Media Vuelta \(feat\. Melissa Robles\)](https://open.spotify.com/track/0nQc9LtnjxK1ypDV1OBbdW) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Amor Pasado](https://open.spotify.com/album/48qpziAWt4lPbduEtyUy8n) | 2:54 | 2021-10-16 |  |
+| [La Media Vuelta \(feat\. Melissa Robles\)](https://open.spotify.com/track/0nQc9LtnjxK1ypDV1OBbdW) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Amor Pasado](https://open.spotify.com/album/48qpziAWt4lPbduEtyUy8n) | 2:54 | 2021-10-16 | 2022-08-08 |
 | [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Keep´n Love](https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc) | 3:17 | 2021-10-16 |  |
 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 | 2021-10-16 |  |
 | [La Señal / La Puerta](https://open.spotify.com/track/1qO2zPfG8z04GW4TPY5wZJ) | [Jorge Muñiz](https://open.spotify.com/artist/0NV9kotO8AcragqHykjdSd) | [Azulejos 2](https://open.spotify.com/album/1EScFFUKl9B92h70LFU0at) | 3:58 | 2021-10-16 | 2022-07-29 |
@@ -101,6 +101,7 @@
 | [La vida no vale nada \(feat\. Lila Downs\)](https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:46 | 2021-10-16 | 2022-07-25 |
 | [La Última Noche \(feat\. Goyo\) \- En Vivo](https://open.spotify.com/track/1KufFlWwqD111AKQgCwJzp) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Goyo](https://open.spotify.com/artist/1ovLUfXp677yibcfzWQWPC) | [Andrés Cepeda Big Band \(En Vivo\)](https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y) | 3:01 | 2021-10-16 | 2022-07-23 |
 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 | 2021-10-16 |  |
+| [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 | 2021-10-16 |  |
 | [Lo Mismo Que Usted](https://open.spotify.com/track/13uDG9SBhqz2Ucca2oSHgk) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/6LY1KFmfTyYmBOkP2JTrE0) | 3:09 | 2021-10-16 | 2022-07-26 |
 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 | 2021-10-16 | 2022-07-29 |
 | [Mal de Amores](https://open.spotify.com/track/7EMbZ2M4XeHpFWIGtxzzZz) | [Priscila Ninoska](https://open.spotify.com/artist/4QFFZ9N1KxZR2sQ5Zg4z8O), [Delia Valdebenito](https://open.spotify.com/artist/4Kw2WsaPt7T2fNx419MXtJ) | [Mal de Amores](https://open.spotify.com/album/6GQOagdv41A5Ui164oN1p0) | 4:24 | 2021-10-16 | 2022-04-17 |

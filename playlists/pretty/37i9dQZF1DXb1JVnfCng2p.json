@@ -1,12 +1,12 @@
 {
   "description": "Get ready for dinner with some upbeat, cool, funky and cooking jazz.",
-  "num_followers": 17579,
+  "num_followers": 17605,
   "original_name": "Cooking Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUwMDk5MSwwMDAwMDAwMDY4NTA1NmMzY2E2Y2VhZjMzNzE3MDIzNGRiM2E1ZjVk",
+  "snapshot_id": "MTY1NjUwMDk5MSwwMDAwMDAwMDFiOTZiMTc5NGE0ZDZlYzZlNGM3NjViN2FhMDg1Mjcz",
   "tracks": [
     {
       "added_at": "2022-06-29 11:09:51",
@@ -147,18 +147,22 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Them Dirty Blues",
-        "url": "https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7"
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
       "artists": [
         {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 307626,
-      "name": "Work Song - Remastered",
-      "url": "https://open.spotify.com/track/2J7tTIy7b4F78HuNwNmYVv"
+      "duration_ms": 353560,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/2v23xmRCUxLWHRsrLkQWD2"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -195,22 +199,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+        "name": "Them Dirty Blues",
+        "url": "https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7"
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
         }
       ],
-      "duration_ms": 353560,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/2v23xmRCUxLWHRsrLkQWD2"
+      "duration_ms": 307626,
+      "name": "Work Song - Remastered",
+      "url": "https://open.spotify.com/track/2J7tTIy7b4F78HuNwNmYVv"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Boss Tenor",
-        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
+        "name": "Things Are Getting Better",
+        "url": "https://open.spotify.com/album/3w30g2Rp4k57BouWEwDpqI"
       },
       "artists": [
         {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
         }
       ],
-      "duration_ms": 507933,
-      "name": "Hittin' The Jug - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5"
+      "duration_ms": 430600,
+      "name": "Things Are Getting Better",
+      "url": "https://open.spotify.com/track/4TYNkEldSdfGuSJ2hv6Exr"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1143,22 +1147,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Things Are Getting Better",
-        "url": "https://open.spotify.com/album/3w30g2Rp4k57BouWEwDpqI"
+        "name": "Boss Tenor",
+        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
         }
       ],
-      "duration_ms": 430600,
-      "name": "Things Are Getting Better",
-      "url": "https://open.spotify.com/track/4TYNkEldSdfGuSJ2hv6Exr"
+      "duration_ms": 507933,
+      "name": "Hittin' The Jug - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
       "artists": [
         {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 293960,
-      "name": "The Boy Next Door - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2LDSQ8nOGsDSrN9QcZLf5K"
+      "duration_ms": 259586,
+      "name": "Birk's Works",
+      "url": "https://open.spotify.com/track/2GlOhERrjjT5otcBi0jYa2"
     },
     {
       "added_at": "2022-06-29 11:09:51",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-06-29 11:09:51",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
         }
       ],
-      "duration_ms": 259586,
-      "name": "Birk's Works",
-      "url": "https://open.spotify.com/track/2GlOhERrjjT5otcBi0jYa2"
+      "duration_ms": 293960,
+      "name": "The Boy Next Door - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2LDSQ8nOGsDSrN9QcZLf5K"
     },
     {
       "added_at": "2022-06-29 11:09:51",

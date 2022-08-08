@@ -1,12 +1,12 @@
 {
   "description": "Have a quiet morning with this mix of something familiar and something new.",
-  "num_followers": 483802,
+  "num_followers": 483848,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDY5NGZlYzRiNWIzMzc5NTk1NjM1YmFlNWRmNzQyYjFm",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDg0MmQ5NTM3ZmQxOGZhMjJjOWZmYmMzZWU1YTgwMzA5",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -213,22 +213,6 @@
       "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "I Would've",
-        "url": "https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 150583,
-      "name": "I Would've",
-      "url": "https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ"
-    },
-    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "13 Reasons Why (Season 2)",
@@ -247,6 +231,22 @@
       "duration_ms": 208173,
       "name": "The Night We Met (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "I Would've",
+        "url": "https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 150583,
+      "name": "I Would've",
+      "url": "https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Meet The Moonlight",
-        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 305607,
-      "name": "Meet The Moonlight",
-      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
-    },
-    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "Encore",
@@ -611,6 +595,22 @@
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Meet The Moonlight",
+        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 305607,
+      "name": "Meet The Moonlight",
+      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "A Good Day",
@@ -811,6 +795,22 @@
       "duration_ms": 211240,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2021-11-19 05:01:00",
@@ -849,6 +849,22 @@
       "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
     },
     {
+      "added_at": "2021-11-19 15:04:24",
+      "album": {
+        "name": "MESS U MADE",
+        "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 168542,
+      "name": "MESS U MADE",
+      "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Masquerades",
@@ -867,22 +883,6 @@
       "duration_ms": 188426,
       "name": "When You Need It (feat. Wrabel)",
       "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
-    },
-    {
-      "added_at": "2021-11-19 15:04:24",
-      "album": {
-        "name": "MESS U MADE",
-        "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 168542,
-      "name": "MESS U MADE",
-      "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
     },
     {
       "added_at": "2021-10-29 04:02:00",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/659179UI47crJGFp0RrCwU"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 170434,
-      "name": "Cross My Mind",
-      "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "once in a moon",
@@ -1031,6 +1015,22 @@
       "duration_ms": 245175,
       "name": "once in a moon",
       "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
+    },
+    {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 170434,
+      "name": "Cross My Mind",
+      "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
     },
     {
       "added_at": "2021-11-19 15:05:45",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/3Rkmx4eNk0BrJmBeViDM2W"
-      },
-      "artists": [
-        {
-          "name": "Citizen Queen",
-          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
-        }
-      ],
-      "duration_ms": 216482,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/3iWv5jxk4Qq2339O29I5lJ"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Box of Regrets",
@@ -1219,6 +1203,22 @@
       "duration_ms": 196731,
       "name": "Box of Regrets",
       "url": "https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/3Rkmx4eNk0BrJmBeViDM2W"
+      },
+      "artists": [
+        {
+          "name": "Citizen Queen",
+          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
+        }
+      ],
+      "duration_ms": 216482,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/3iWv5jxk4Qq2339O29I5lJ"
     }
   ],
   "unique_name": "Mellow Morning",

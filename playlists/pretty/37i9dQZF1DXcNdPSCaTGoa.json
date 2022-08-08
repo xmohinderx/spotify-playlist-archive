@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African classics. Cover: <a href=\"https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3-HGc030gg\">Johnny Clegg</a>",
-  "num_followers": 26262,
+  "num_followers": 26278,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMDQzOWNiYjI1MmYwYzFiNTYwNDMzOTlmNWUxZmEwOWIz",
+  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMGM1ZTM3NmVjYjJkMWRjNjUyZWVmZTgzYjU4NWQwMzAz",
   "tracks": [
     {
       "added_at": "2019-02-03 07:20:41",
@@ -105,20 +105,20 @@
       "url": "https://open.spotify.com/track/6HvCOJvbEzVTmEFmv79pTf"
     },
     {
-      "added_at": "2019-02-12 08:16:33",
+      "added_at": "2018-09-23 12:30:57",
       "album": {
-        "name": "Dark Days Exit",
-        "url": "https://open.spotify.com/album/0xidl5zSn40qpO8RDej05m"
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
       },
       "artists": [
         {
-          "name": "Felix Laband",
-          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
         }
       ],
-      "duration_ms": 471973,
-      "name": "Whistling In Tongues",
-      "url": "https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b"
+      "duration_ms": 351053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
     },
     {
       "added_at": "2019-03-07 11:13:19",
@@ -141,22 +141,6 @@
       "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "Sibongile",
-        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
-      },
-      "artists": [
-        {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
-        }
-      ],
-      "duration_ms": 351053,
-      "name": "Ndihamba Nawe",
-      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
-    },
-    {
       "added_at": "2019-02-03 06:58:55",
       "album": {
         "name": "Uit Die Diepte Van My Hart",
@@ -171,6 +155,22 @@
       "duration_ms": 229586,
       "name": "Kaptein",
       "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
+    },
+    {
+      "added_at": "2019-02-12 08:16:33",
+      "album": {
+        "name": "Dark Days Exit",
+        "url": "https://open.spotify.com/album/0xidl5zSn40qpO8RDej05m"
+      },
+      "artists": [
+        {
+          "name": "Felix Laband",
+          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
+        }
+      ],
+      "duration_ms": 471973,
+      "name": "Whistling In Tongues",
+      "url": "https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
     },
     {
-      "added_at": "2019-02-03 07:20:41",
-      "album": {
-        "name": "All or Nothing",
-        "url": "https://open.spotify.com/album/33bVAGWCw4CjpCAi2OAakA"
-      },
-      "artists": [
-        {
-          "name": "Prime Circle",
-          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "She Always Gets What She Wants",
-      "url": "https://open.spotify.com/track/744BIWg7jNhpbCO2dkCwNG"
-    },
-    {
       "added_at": "2018-09-23 12:30:57",
       "album": {
         "name": "Buyelekhaya",
@@ -407,6 +391,22 @@
       "duration_ms": 277760,
       "name": "Nomvula",
       "url": "https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN"
+    },
+    {
+      "added_at": "2019-02-03 07:20:41",
+      "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/33bVAGWCw4CjpCAi2OAakA"
+      },
+      "artists": [
+        {
+          "name": "Prime Circle",
+          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "She Always Gets What She Wants",
+      "url": "https://open.spotify.com/track/744BIWg7jNhpbCO2dkCwNG"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
     },
     {
-      "added_at": "2019-03-07 11:17:53",
-      "album": {
-        "name": "In Harmony",
-        "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW"
-    },
-    {
       "added_at": "2019-02-03 07:20:41",
       "album": {
         "name": "M'du Or Die",
@@ -523,6 +507,22 @@
       "duration_ms": 336666,
       "name": "Siya Jola (Ok'Salayo)",
       "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
+    },
+    {
+      "added_at": "2019-03-07 11:17:53",
+      "album": {
+        "name": "In Harmony",
+        "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
-      "added_at": "2019-02-03 06:58:55",
-      "album": {
-        "name": "Jack Parow",
-        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 248933,
-      "name": "Cooler as Ekke",
-      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
-    },
-    {
       "added_at": "2019-02-03 07:29:50",
       "album": {
         "name": "Njalo",
@@ -741,6 +725,22 @@
       "url": "https://open.spotify.com/track/0ezeCh4MkDN8DRhiKwz5Pj"
     },
     {
+      "added_at": "2019-02-03 06:58:55",
+      "album": {
+        "name": "Jack Parow",
+        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 248933,
+      "name": "Cooler as Ekke",
+      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
+    },
+    {
       "added_at": "2018-09-23 12:30:57",
       "album": {
         "name": "Memeza",
@@ -755,22 +755,6 @@
       "duration_ms": 265773,
       "name": "Vuli Ndlela",
       "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
-    },
-    {
-      "added_at": "2019-02-03 07:20:41",
-      "album": {
-        "name": "Bongolution",
-        "url": "https://open.spotify.com/album/4da1pBU7ZAd1INKbWOxkii"
-      },
-      "artists": [
-        {
-          "name": "Bongo Maffin",
-          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
-        }
-      ],
-      "duration_ms": 384573,
-      "name": "The Way Kungakhona",
-      "url": "https://open.spotify.com/track/05Q9XpYvVBvOMjebS7POqm"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -793,20 +777,20 @@
       "url": "https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
+      "added_at": "2019-02-03 07:20:41",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Bongolution",
+        "url": "https://open.spotify.com/album/4da1pBU7ZAd1INKbWOxkii"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
         }
       ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+      "duration_ms": 384573,
+      "name": "The Way Kungakhona",
+      "url": "https://open.spotify.com/track/05Q9XpYvVBvOMjebS7POqm"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -827,6 +811,22 @@
       "duration_ms": 285853,
       "name": "Impi",
       "url": "https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2021-06-27 04:29:30",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/0ctxUNhzXY1IKozDdgmJRJ"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "Asimbonanga (Mandela)",
-        "url": "https://open.spotify.com/album/7CtCTHSK5VosHjDhbfQSx4"
-      },
-      "artists": [
-        {
-          "name": "Johnny Clegg & Savuka",
-          "url": "https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4"
-        }
-      ],
-      "duration_ms": 267168,
-      "name": "Asimbonanga (Mandela)",
-      "url": "https://open.spotify.com/track/2l0EoH2zrjQ0XeB9H0oukT"
-    },
-    {
       "added_at": "2019-02-03 06:58:55",
       "album": {
         "name": "Undisputed",
@@ -919,6 +903,22 @@
       "duration_ms": 388226,
       "name": "Umlilo",
       "url": "https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Asimbonanga (Mandela)",
+        "url": "https://open.spotify.com/album/7CtCTHSK5VosHjDhbfQSx4"
+      },
+      "artists": [
+        {
+          "name": "Johnny Clegg & Savuka",
+          "url": "https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4"
+        }
+      ],
+      "duration_ms": 267168,
+      "name": "Asimbonanga (Mandela)",
+      "url": "https://open.spotify.com/track/2l0EoH2zrjQ0XeB9H0oukT"
     },
     {
       "added_at": "2019-02-12 08:16:33",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2018-09-23 12:30:57",
       "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/30DrlbUcoHdqSwOrtpTNu3"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "Special Star",
+      "url": "https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
         "name": "Rain Man: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 245626,
       "name": "Scatterlings Of Africa",
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
-    },
-    {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "Mango Groove",
-        "url": "https://open.spotify.com/album/30DrlbUcoHdqSwOrtpTNu3"
-      },
-      "artists": [
-        {
-          "name": "Mango Groove",
-          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
-        }
-      ],
-      "duration_ms": 353266,
-      "name": "Special Star",
-      "url": "https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH"
     }
   ],
   "unique_name": "SA Gold",

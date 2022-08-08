@@ -1,12 +1,12 @@
 {
   "description": "Unplugged versions of your favorite rock & alt songs. Cover: Wolf Alice",
-  "num_followers": 282955,
+  "num_followers": 283024,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDgzMzcyMCwwMDAwMDAwMDA1NTQwYzk1MTNmYmM3Y2M2ZTc2YzVjMmQ1ZTExMDVh",
+  "snapshot_id": "MTY1NDgzMzcyMCwwMDAwMDAwMGE1MGRjOTQ2MWQ1Nzc5NTE1M2VjYjczZmJmYzQ1MjIy",
   "tracks": [
     {
       "added_at": "2022-06-10 04:02:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "MTV Unplugged In New York",
-        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 306066,
-      "name": "Where Did You Sleep Last Night",
-      "url": "https://open.spotify.com/track/551qy5vUgrUfEUc4dCNfht"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 212160,
       "name": "Going to California - Remaster",
       "url": "https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 306066,
+      "name": "Where Did You Sleep Last Night",
+      "url": "https://open.spotify.com/track/551qy5vUgrUfEUc4dCNfht"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Bite Me (Acoustic)",
-        "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 189003,
-      "name": "Bite Me - Acoustic",
-      "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
         "name": "Golden Dandelions (Acoustic)",
         "url": "https://open.spotify.com/album/5W6WwaQUG7ZwgmpXIWcUFL"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 202576,
       "name": "Golden Dandelions - Acoustic",
       "url": "https://open.spotify.com/track/5H7Z2DdWYT9ctLSuKzqkSb"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Bite Me (Acoustic)",
+        "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 189003,
+      "name": "Bite Me - Acoustic",
+      "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Just Say When (Version 2.0)",
-        "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 224343,
-      "name": "Just Say When (Version 2.0)",
-      "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
         "name": "Zen X Four",
         "url": "https://open.spotify.com/album/1JifpVW1p2sb6tuzifgFmV"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 212893,
       "name": "Glycerine - Acoustic",
       "url": "https://open.spotify.com/track/3ZoAB9gq2RGW5KdHnRvH75"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Just Say When (Version 2.0)",
+        "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 224343,
+      "name": "Just Say When (Version 2.0)",
+      "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
     },
     {
       "added_at": "2022-06-10 04:02:00",

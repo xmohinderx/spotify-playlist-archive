@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento",
-  "num_followers": 141151,
+  "num_followers": 141330,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzg5NTYwMCwwMDAwMDAwMGY0YzE0ZjZiNDg0OWE0OGIwODg1MDY2OGVkM2Y1M2E0",
+  "snapshot_id": "MTYzNzg5NTYwMCwwMDAwMDAwMGRmYzViMDYzNTNmYjA1NmE2ZDJhNTkzMDg1ZDFkNmU4",
   "tracks": [
     {
       "added_at": "2021-11-26 03:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Bossa Nova Covers",
-        "url": "https://open.spotify.com/album/6HjifVwY0K0LJ1OvByfMTX"
-      },
-      "artists": [
-        {
-          "name": "Leo Rio Trio",
-          "url": "https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik"
-        }
-      ],
-      "duration_ms": 165201,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/7xytPbtoifMwgcAxuZqRtw"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Falando de Amor",
         "url": "https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 256522,
       "name": "Falando de Amor",
       "url": "https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Bossa Nova Covers",
+        "url": "https://open.spotify.com/album/6HjifVwY0K0LJ1OvByfMTX"
+      },
+      "artists": [
+        {
+          "name": "Leo Rio Trio",
+          "url": "https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik"
+        }
+      ],
+      "duration_ms": 165201,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/7xytPbtoifMwgcAxuZqRtw"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "After You've Gone",
-        "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 191174,
-      "name": "Blue Bossa",
-      "url": "https://open.spotify.com/track/0rotku7FgElbTKbks8Zof5"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Qualquer Coisa",
         "url": "https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI"
       },
@@ -551,22 +535,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Rosa Morena EP",
-        "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
-      },
-      "artists": [
-        {
-          "name": "Duo Flamingo",
-          "url": "https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Flor De Lis",
-      "url": "https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Giordano Rosa",
         "url": "https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni"
       },
@@ -579,6 +547,54 @@
       "duration_ms": 151875,
       "name": "Marinheiro",
       "url": "https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "After You've Gone",
+        "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 191174,
+      "name": "Blue Bossa",
+      "url": "https://open.spotify.com/track/0rotku7FgElbTKbks8Zof5"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Fub\u00e1 Mimoso",
+        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
+      },
+      "artists": [
+        {
+          "name": "Seu Elias",
+          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
+        }
+      ],
+      "duration_ms": 160458,
+      "name": "Tantas Coisas",
+      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Rosa Morena EP",
+        "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
+      },
+      "artists": [
+        {
+          "name": "Duo Flamingo",
+          "url": "https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Flor De Lis",
+      "url": "https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -603,22 +619,6 @@
       "duration_ms": 302954,
       "name": "A Sombra do Meu Chap\u00e9u",
       "url": "https://open.spotify.com/track/6Dwi2vYqRAnD9rgKiZ8xQn"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
-        "name": "Fub\u00e1 Mimoso",
-        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
-      },
-      "artists": [
-        {
-          "name": "Seu Elias",
-          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
-        }
-      ],
-      "duration_ms": 160458,
-      "name": "Tantas Coisas",
-      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
+        "name": "As Cores das Flores",
+        "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "M\u00e1rcio Moreira",
+          "url": "https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "As Cores das Flores",
+      "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
         "name": "Sorte!",
         "url": "https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 291729,
       "name": "Sorte!",
       "url": "https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
-        "name": "As Cores das Flores",
-        "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "M\u00e1rcio Moreira",
-          "url": "https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "As Cores das Flores",
-      "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Ternura Do Saber",
-        "url": "https://open.spotify.com/album/5uiuL4MK4ORsZmRtqenP7t"
-      },
-      "artists": [
-        {
-          "name": "Roberta Barce",
-          "url": "https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Ternura Do Saber",
-      "url": "https://open.spotify.com/track/5lBmQ842hAMBZvsEmJhIK0"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Vento Sul",
         "url": "https://open.spotify.com/album/2Q7imAUuBpqC7St4BIWEIB"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 204000,
       "name": "Vento Sul",
       "url": "https://open.spotify.com/track/4A2fXWDd2lopzpA2TgBFj9"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Ternura Do Saber",
+        "url": "https://open.spotify.com/album/5uiuL4MK4ORsZmRtqenP7t"
+      },
+      "artists": [
+        {
+          "name": "Roberta Barce",
+          "url": "https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Ternura Do Saber",
+      "url": "https://open.spotify.com/track/5lBmQ842hAMBZvsEmJhIK0"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
-        "url": "https://open.spotify.com/album/550yBsaBetEVsKvQkVH2Xn"
-      },
-      "artists": [
-        {
-          "name": "Chico Teixeira",
-          "url": "https://open.spotify.com/artist/0rAlodh0dGYlbFuk3XGPmW"
-        }
-      ],
-      "duration_ms": 161233,
-      "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
-      "url": "https://open.spotify.com/track/2EJVC0ARkDDHxTkFQe4hhW"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "A Ma\u00e7\u00e3",
         "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Depressa a Vida Passa",
-        "url": "https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH"
+        "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
+        "url": "https://open.spotify.com/album/550yBsaBetEVsKvQkVH2Xn"
       },
       "artists": [
         {
-          "name": "Renato Braz",
-          "url": "https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5"
+          "name": "Chico Teixeira",
+          "url": "https://open.spotify.com/artist/0rAlodh0dGYlbFuk3XGPmW"
         }
       ],
-      "duration_ms": 293560,
-      "name": "Depressa a Vida Passa",
-      "url": "https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo"
+      "duration_ms": 161233,
+      "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
+      "url": "https://open.spotify.com/track/2EJVC0ARkDDHxTkFQe4hhW"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 234973,
       "name": "Samba Dolente",
       "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Depressa a Vida Passa",
+        "url": "https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH"
+      },
+      "artists": [
+        {
+          "name": "Renato Braz",
+          "url": "https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5"
+        }
+      ],
+      "duration_ms": 293560,
+      "name": "Depressa a Vida Passa",
+      "url": "https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "A Banca do Distinto",
-        "url": "https://open.spotify.com/album/5xWkhmNrlCtTfj8BOSSClj"
-      },
-      "artists": [
-        {
-          "name": "Walker Lahmann",
-          "url": "https://open.spotify.com/artist/6n4Y9KIPs6AwSlQFZCbz6R"
-        },
-        {
-          "name": "Elias J\u00f3",
-          "url": "https://open.spotify.com/artist/2fIx5rLrOMvwKnxaTEKz8D"
-        },
-        {
-          "name": "Vando Lucena",
-          "url": "https://open.spotify.com/artist/6b0UwUQQ1rh3OlKPtkpe69"
-        }
-      ],
-      "duration_ms": 152338,
-      "name": "A Banca do Distinto",
-      "url": "https://open.spotify.com/track/7kM9MuAIlRY3h0I8JnO68F"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Autoral",
         "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
       },
@@ -1487,6 +1463,30 @@
       "duration_ms": 173213,
       "name": "Pega Esse Sambete A\u00ed",
       "url": "https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "A Banca do Distinto",
+        "url": "https://open.spotify.com/album/5xWkhmNrlCtTfj8BOSSClj"
+      },
+      "artists": [
+        {
+          "name": "Walker Lahmann",
+          "url": "https://open.spotify.com/artist/6n4Y9KIPs6AwSlQFZCbz6R"
+        },
+        {
+          "name": "Elias J\u00f3",
+          "url": "https://open.spotify.com/artist/2fIx5rLrOMvwKnxaTEKz8D"
+        },
+        {
+          "name": "Vando Lucena",
+          "url": "https://open.spotify.com/artist/6b0UwUQQ1rh3OlKPtkpe69"
+        }
+      ],
+      "duration_ms": 152338,
+      "name": "A Banca do Distinto",
+      "url": "https://open.spotify.com/track/7kM9MuAIlRY3h0I8JnO68F"
     },
     {
       "added_at": "2021-11-26 03:00:00",

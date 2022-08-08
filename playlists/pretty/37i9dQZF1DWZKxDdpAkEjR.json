@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 397999,
+  "num_followers": 398012,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDNiOGEyN2ZkYjQ0NWVhMGVjMDVmNzFhZmY3N2U1YTMy",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDM2M2YzM2Q4Yjg0N2M1ODQ3ZTBlNzk5NmI3NDdlYjg2",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -971,18 +971,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Getting Better",
-        "url": "https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz"
+        "name": "The Funk",
+        "url": "https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj"
       },
       "artists": [
         {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+          "name": "TIEKS",
+          "url": "https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 166301,
-      "name": "Getting Better",
-      "url": "https://open.spotify.com/track/0LfyrFWFTEvKuW4EOAT3fj"
+      "duration_ms": 172863,
+      "name": "The Funk",
+      "url": "https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk"
     }
   ],
   "unique_name": "Summer Hits (2)",

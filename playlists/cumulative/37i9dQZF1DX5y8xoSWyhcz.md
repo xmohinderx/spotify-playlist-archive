@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. beabadoobee on the cover.
 
-909 songs - 1 day 22 hr 22 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+910 songs - 1 day 22 hr 25 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [Party Again](https://open.spotify.com/track/2Pj8ZzeHsiI4FEl8USfARH) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Party Again](https://open.spotify.com/album/5bAeOQJE8mkEtkYJ0Gblkx) | 2:44 | 2021-07-24 | 2021-07-31 |
 | [Party Sickness](https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Party Sickness](https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf) | 3:49 | 2022-02-04 | 2022-04-09 |
 | [Party Trick](https://open.spotify.com/track/2DOqSy0qj4BHz0B7gdYfVv) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [Party Trick](https://open.spotify.com/album/09ZIYRg4gs6KDRJyYrGjsO) | 4:03 | 2022-04-08 | 2022-05-07 |
+| [Passenger Seat](https://open.spotify.com/track/1aJP9LdYaSBx1N6smhi4CV) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [Passenger Seat](https://open.spotify.com/album/1EBmJ1nJRMO1xy94eiostp) | 3:01 | 2022-08-07 |  |
 | [Path](https://open.spotify.com/track/1NKjucBIJZW67Q6MAD96dM) | [Tess Roby](https://open.spotify.com/artist/6LRMOu9O4czC6WcNZWIpOh) | [Path](https://open.spotify.com/album/0gR17mkWzcgXjWbwQCMHyc) | 3:28 | 2022-04-08 |  |
 | [Patience](https://open.spotify.com/track/5TJrF2sUP2s0jzvrhZ3DEs) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [Patience](https://open.spotify.com/album/5erUcYQJJq29KYHaXpde8l) | 3:25 | 2022-03-11 | 2022-03-26 |
 | [Patterns](https://open.spotify.com/track/4xE387zm0EBPQy9NWBk6Sg) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Build A Fire & Patterns](https://open.spotify.com/album/3ZNrDTp3n78Gxs9cgYA6mV) | 3:52 | 2022-03-25 | 2022-06-04 |

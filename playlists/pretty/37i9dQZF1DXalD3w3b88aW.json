@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 10268,
+  "num_followers": 10279,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNzA2MjcwNCwwMDAwMDAwMDI2ZDBjNzI3ZTA3MzI2YmEzZWMwMzgxZWMzNmJhYWJh",
+  "snapshot_id": "MTYyNzA2MjcwNCwwMDAwMDAwMDdkNzFmNTQ3ZGY4ODIzOGJmMzM2YTVmOWVmYWJhZDM4",
   "tracks": [
     {
       "added_at": "2020-09-30 16:37:26",
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
         }
       ],
-      "duration_ms": 55360,
-      "name": "I Dedicate (Pt. 2)",
-      "url": "https://open.spotify.com/track/3LXboMeaQsF3iNGV3uKOlA"
+      "duration_ms": 61866,
+      "name": "I Dedicate (Pt. 3)",
+      "url": "https://open.spotify.com/track/4p1lZQdX9XXYqg0yhhhxTq"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 110466,
-      "name": "Maxine's Interlude",
-      "url": "https://open.spotify.com/track/14gPCmJHuXrgGiytQGnv3Q"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "Harlem World",
         "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 100680,
       "name": "Puff's Intro",
       "url": "https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 110466,
+      "name": "Maxine's Interlude",
+      "url": "https://open.spotify.com/track/14gPCmJHuXrgGiytQGnv3Q"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
         }
       ],
-      "duration_ms": 61866,
-      "name": "I Dedicate (Pt. 3)",
-      "url": "https://open.spotify.com/track/4p1lZQdX9XXYqg0yhhhxTq"
+      "duration_ms": 55360,
+      "name": "I Dedicate (Pt. 2)",
+      "url": "https://open.spotify.com/track/3LXboMeaQsF3iNGV3uKOlA"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -807,22 +807,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Damita Jo",
-        "url": "https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 89266,
-      "name": "Looking For Love (Interlude)",
-      "url": "https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "Miss E... So Addictive",
         "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+        "name": "Damita Jo",
+        "url": "https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 101866,
-      "name": "Tears Away (Interlude)",
-      "url": "https://open.spotify.com/track/1wxzkfNwBwpB43Y7KiybNe"
+      "duration_ms": 89266,
+      "name": "Looking For Love (Interlude)",
+      "url": "https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w"
     },
     {
       "added_at": "2021-07-01 22:52:38",
@@ -871,6 +855,22 @@
       "duration_ms": 39600,
       "name": "J.L (Interlude)",
       "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 101866,
+      "name": "Tears Away (Interlude)",
+      "url": "https://open.spotify.com/track/1wxzkfNwBwpB43Y7KiybNe"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -937,6 +937,22 @@
       "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
     },
     {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 116306,
+      "name": "Stay (Interlude)",
+      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
+    },
+    {
       "added_at": "2021-07-23 17:51:44",
       "album": {
         "name": "Soul Of A Woman",
@@ -971,22 +987,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Still Ghetto",
-        "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
-      },
-      "artists": [
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 48933,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "Room 112",
         "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
       },
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+        "name": "Still Ghetto",
+        "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
         }
       ],
-      "duration_ms": 116306,
-      "name": "Stay (Interlude)",
-      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
+      "duration_ms": 48933,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2"
     },
     {
       "added_at": "2020-09-30 16:37:26",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 61093,
+      "name": "Special Place - Interlude",
+      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
         "name": "Discipline",
         "url": "https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 61093,
-      "name": "Special Place - Interlude",
-      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "Faithfully",
         "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2020-09-30 16:37:26",
       "album": {
-        "name": "Kima, Keisha & Pam",
-        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 124360,
-      "name": "I Tried (Interlude)",
-      "url": "https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI"
-    },
-    {
-      "added_at": "2020-09-30 16:37:26",
-      "album": {
         "name": "20 Y.O.",
         "url": "https://open.spotify.com/album/0mRIaVhwnvAblQaRkvGJBA"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 27146,
       "name": "20 - Pt. 2 / Interlude",
       "url": "https://open.spotify.com/track/1HI5kvBBvFKwyNqpaA63z0"
+    },
+    {
+      "added_at": "2020-09-30 16:37:26",
+      "album": {
+        "name": "Kima, Keisha & Pam",
+        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 124360,
+      "name": "I Tried (Interlude)",
+      "url": "https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI"
     },
     {
       "added_at": "2020-09-30 16:37:26",

@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Cory Henry
 
-530 songs - 1 day 8 hr 24 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+531 songs - 1 day 8 hr 27 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Everything You Need](https://open.spotify.com/track/2IJ7JF3Sva50EgrbCVcWW1) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Everything You Need](https://open.spotify.com/album/3yM6APa7fwLuGC4RLDmnGB) | 3:38 | 2021-06-12 | 2022-06-15 |
 | [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 | 2020-10-09 | 2021-09-24 |
 | [Everything's Gonna Be Alright](https://open.spotify.com/track/1USqDSnSZ2RYsZIflEJNWP) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Everything's Gonna Be Alright](https://open.spotify.com/album/2teo9fYVUAJ3qBRi3FIjJm) | 3:33 | 2022-04-28 | 2022-07-28 |
+| [Everything's Gonna Be Alright](https://open.spotify.com/track/1reNWIGSfItCbAhy9cr1nz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Unify](https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5) | 3:33 | 2022-07-28 |  |
 | [Explore](https://open.spotify.com/track/15fow3n2T8cgsPH9FBItjL) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 4:46 | 2021-12-01 | 2022-01-14 |
 | [FAKE](https://open.spotify.com/track/3eImUEjfyVt2YtkyU6PNhB) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [FAKE](https://open.spotify.com/album/4jiGlNrQLme80dP2lS3bzg) | 3:35 | 2021-12-14 |  |
 | [Family](https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Family](https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ) | 3:27 | 2021-06-25 | 2021-10-29 |
@@ -263,7 +264,7 @@
 | [LIA](https://open.spotify.com/track/4igMWltZhzr97iuC8YwJPk) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/0Om8IQImnBm0g7SGKMfn3m) | 3:38 | 2020-08-25 | 2021-07-10 |
 | [Liar](https://open.spotify.com/track/4YpDq6rsh692wdM5OCtAE2) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Liar](https://open.spotify.com/album/2OtCg2Q7vftxfxDLD8anj2) | 2:16 | 2022-01-13 | 2022-07-29 |
 | [Liar](https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [No Tears In My Champagne](https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF) | 2:16 | 2022-07-28 |  |
-| [Lie To Me](https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Lifted](https://open.spotify.com/album/4jGggj1AJxwhrVqm5oIJlh) | 4:10 | 2022-04-28 |  |
+| [Lie To Me](https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Lifted](https://open.spotify.com/album/4jGggj1AJxwhrVqm5oIJlh) | 4:10 | 2022-04-28 | 2022-08-08 |
 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 | 2021-05-07 |  |
 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 | 2021-02-28 | 2021-12-14 |
 | [Like I Feel \(feat\. Mereba\)](https://open.spotify.com/track/64V55m8zSkracnZ6mYpjK0) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Like I Feel \(feat\. Mereba\)](https://open.spotify.com/album/0lwbJqkYbNedGKrLoqOhfN) | 3:47 | 2020-10-09 | 2021-04-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 491832,
+  "num_followers": 492328,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQzNjg4NSwwMDAwMDAwMGE0ZWVhMmY3OWQ5MDk2YjZiY2FhN2RmMTU5YTcwZDU1",
+  "snapshot_id": "MTY1OTQzNjg4NSwwMDAwMDAwMDk3MDczNGY0ZWYxZTEzYTBjODJmMDEwYzNjODZlMWQ4",
   "tracks": [
     {
       "added_at": "2022-06-17 10:00:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "Infinity 2008",
+        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
+      },
+      "artists": [
+        {
+          "name": "Guru Josh Project",
+          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
+        },
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 192294,
+      "name": "Infinity 2008 - Klaas Vocal Edit",
+      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "Call on Me (Radio Mix)",
         "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 136946,
       "name": "Wake Me Up In Paris",
       "url": "https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "Infinity 2008",
-        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
-      },
-      "artists": [
-        {
-          "name": "Guru Josh Project",
-          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
-        },
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 192294,
-      "name": "Infinity 2008 - Klaas Vocal Edit",
-      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Chain My Heart",
-        "url": "https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "Chain My Heart",
-      "url": "https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 210013,
       "name": "Heroes (we could be)",
       "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Chain My Heart",
+        "url": "https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Chain My Heart",
+      "url": "https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "Before the Storm, Special Edition",
+        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "Hear Me Say",
         "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 190772,
       "name": "Hear Me Say",
       "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "Before the Storm, Special Edition",
-        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Sandstorm",
-      "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Million Voices",
-        "url": "https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Million Voices - Radio Edit",
-      "url": "https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Sweat (Snoop Dogg Vs. David Guetta) [Remix]",
         "url": "https://open.spotify.com/album/7i3ZUKLj6bszovw4IfRECy"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 195986,
       "name": "Sweat - Remix",
       "url": "https://open.spotify.com/track/0R7YVi7w41Dr9jU5vblAok"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Million Voices",
+        "url": "https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Million Voices - Radio Edit",
+      "url": "https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Summer Feeling",
-        "url": "https://open.spotify.com/album/7ljoppdRu0kbD3KLrbuXzY"
-      },
-      "artists": [
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        },
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Summer Feeling",
-      "url": "https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Love Again (feat. Alida)",
         "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 147401,
       "name": "Love Again (feat. Alida)",
       "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Summer Feeling",
+        "url": "https://open.spotify.com/album/7ljoppdRu0kbD3KLrbuXzY"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Summer Feeling",
+      "url": "https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Astronomia (Never Go Home)",
-        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
-      },
-      "artists": [
-        {
-          "name": "Tony Igy",
-          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
-        }
-      ],
-      "duration_ms": 156888,
-      "name": "Astronomia - Never Go Home",
-      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Some Things",
         "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 220973,
       "name": "Something",
       "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Astronomia (Never Go Home)",
+        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
+      },
+      "artists": [
+        {
+          "name": "Tony Igy",
+          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
+        }
+      ],
+      "duration_ms": 156888,
+      "name": "Astronomia - Never Go Home",
+      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "I'm Just Feelin' (Du Du Du)",
-        "url": "https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 164884,
-      "name": "I'm Just Feelin' (Du Du Du)",
-      "url": "https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/7jTFTS9Tt190soRQDUuLRD"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 202745,
       "name": "Places",
       "url": "https://open.spotify.com/track/4QcDkuGQx9824a6X9BZF4e"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "I'm Just Feelin' (Du Du Du)",
+        "url": "https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 164884,
+      "name": "I'm Just Feelin' (Du Du Du)",
+      "url": "https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2051,22 +2051,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/0O9TE4lPPsojRsKkWqByVn"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
         },
         {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
         }
       ],
-      "duration_ms": 214546,
-      "name": "Body Back (feat. Maia Wright)",
-      "url": "https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee"
+      "duration_ms": 213211,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/2uMbCJ8lxF7hqpQUaeo42D"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2095,26 +2095,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/0O9TE4lPPsojRsKkWqByVn"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/2uMbCJ8lxF7hqpQUaeo42D"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/2Y5NgR5CQJeqAz5iYN5agm"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 160183,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0DhkTGjEaIHaSxTfC14BFm"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Body Back (feat. Maia Wright)",
+      "url": "https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "Squid Game (Let's Play)",
+        "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Squid Game (Let's Play)",
+      "url": "https://open.spotify.com/track/75pquWTQ3292AqzMsaik85"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "Sweet but Psycho (The Remixes)",
         "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
       },
@@ -2287,22 +2303,6 @@
       "duration_ms": 226875,
       "name": "Sweet but Psycho - Morgan Page Dance Remix",
       "url": "https://open.spotify.com/track/1gwwks3lIsvJq5pDJ82fKK"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "Squid Game (Let's Play)",
-        "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "Squid Game (Let's Play)",
-      "url": "https://open.spotify.com/track/75pquWTQ3292AqzMsaik85"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2523,26 +2523,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Another Level (ft. Lovespeake)",
-        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
-        }
-      ],
-      "duration_ms": 145941,
-      "name": "Another Level (ft. Lovespeake)",
-      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Cool Kids",
         "url": "https://open.spotify.com/album/6ReQzMRBvU5qgcjFZDdQNt"
       },
@@ -2595,6 +2575,26 @@
       "duration_ms": 168289,
       "name": "Everybody Dance (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Another Level (ft. Lovespeake)",
+        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "duration_ms": 145941,
+      "name": "Another Level (ft. Lovespeake)",
+      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2767,6 +2767,26 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 137661,
+      "name": "Bailar (feat. Elvis Crespo) - Radio Edit",
+      "url": "https://open.spotify.com/track/1HCw8XKtTgWWU3JlEUR0qQ"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "Call Me Papi (feat. Dawty Music)",
         "url": "https://open.spotify.com/album/55BZcxEj7gn6yx7WIxZJgx"
       },
@@ -2787,26 +2807,6 @@
       "duration_ms": 140631,
       "name": "Call Me Papi (feat. Dawty Music)",
       "url": "https://open.spotify.com/track/0FXEr1tdiBcLsnLSG8ol2l"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "Good Evening",
-        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 137661,
-      "name": "Bailar (feat. Elvis Crespo) - Radio Edit",
-      "url": "https://open.spotify.com/track/1HCw8XKtTgWWU3JlEUR0qQ"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -3051,6 +3051,26 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "Seek Bromance",
+        "url": "https://open.spotify.com/album/45LS90ZFHzPbUECiK1JdtZ"
+      },
+      "artists": [
+        {
+          "name": "Tim Berg",
+          "url": "https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 200991,
+      "name": "Seek Bromance - Avicii Vocal Edit",
+      "url": "https://open.spotify.com/track/7tSO7DrrYpiMXX3zM4b3oM"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "The Right Song",
         "url": "https://open.spotify.com/album/2uwSRJNAi1MdQwKl9UOILf"
       },
@@ -3071,26 +3091,6 @@
       "duration_ms": 205440,
       "name": "The Right Song",
       "url": "https://open.spotify.com/track/59yxjfkqhOPacjiolBHQDC"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "Seek Bromance",
-        "url": "https://open.spotify.com/album/45LS90ZFHzPbUECiK1JdtZ"
-      },
-      "artists": [
-        {
-          "name": "Tim Berg",
-          "url": "https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1"
-        },
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 200991,
-      "name": "Seek Bromance - Avicii Vocal Edit",
-      "url": "https://open.spotify.com/track/7tSO7DrrYpiMXX3zM4b3oM"
     },
     {
       "added_at": "2022-06-17 10:00:00",

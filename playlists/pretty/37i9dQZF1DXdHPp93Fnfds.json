@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Delfina Campos",
-  "num_followers": 142695,
+  "num_followers": 142703,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNjUwNSwwMDAwMDAwMGY3MjNlYjQ0MWI2NDJmYTliZmY2MDg2ZjY5OGNiODg3",
+  "snapshot_id": "MTY1OTEwNjUwNSwwMDAwMDAwMDcyN2I2MzZhZDk5YmM2NjEwYmE1Yzg4ZjFlNDk5NmM2",
   "tracks": [
     {
       "added_at": "2022-07-29 14:55:05",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
-        "name": "Lavandina",
-        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 299192,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
-    },
-    {
-      "added_at": "2022-07-29 14:55:05",
-      "album": {
         "name": "Ya No",
         "url": "https://open.spotify.com/album/6wbGkDTKdeZKuuwJZlL9s0"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 149773,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/5bMLNuQL14zhYpIg2VFIIO"
+    },
+    {
+      "added_at": "2022-07-29 14:55:05",
+      "album": {
+        "name": "Lavandina",
+        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 299192,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
     },
     {
       "added_at": "2022-07-29 14:55:05",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 215967,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
-    },
-    {
-      "added_at": "2022-07-29 14:55:05",
-      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/3V41AmHEPSjD2w9A26yV2E"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 195871,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/0bCQXiRvn9Qb9gU3mV3b1b"
+    },
+    {
+      "added_at": "2022-07-29 14:55:05",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 215967,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
     },
     {
       "added_at": "2022-07-29 14:55:05",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
-        "name": "Excusas",
-        "url": "https://open.spotify.com/album/1HdFSJuwUiodRazWiyoovN"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Excusas",
-      "url": "https://open.spotify.com/track/6FCy6lQw7O7GMu17tbA4eb"
-    },
-    {
-      "added_at": "2022-07-29 14:55:05",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F"
+    },
+    {
+      "added_at": "2022-07-29 14:55:05",
+      "album": {
+        "name": "Excusas",
+        "url": "https://open.spotify.com/album/1HdFSJuwUiodRazWiyoovN"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Excusas",
+      "url": "https://open.spotify.com/track/6FCy6lQw7O7GMu17tbA4eb"
     },
     {
       "added_at": "2022-07-29 14:55:05",
@@ -531,26 +531,6 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
-        "name": "\u00bfQu\u00e9?",
-        "url": "https://open.spotify.com/album/5DoubGLMbpvAYcd6DDz5Nz"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        },
-        {
-          "name": "Diego Ib\u00e1\u00f1ez",
-          "url": "https://open.spotify.com/artist/6nWCIaOTHhqgbkxPcj4AeJ"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "\u00bfQu\u00e9?",
-      "url": "https://open.spotify.com/track/25bwcWBGh9ox4CR1ttJeHU"
-    },
-    {
-      "added_at": "2022-07-29 14:55:05",
-      "album": {
         "name": "Camino Que Pasa",
         "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 180157,
       "name": "Camino Que Pasa",
       "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
+    },
+    {
+      "added_at": "2022-07-29 14:55:05",
+      "album": {
+        "name": "\u00bfQu\u00e9?",
+        "url": "https://open.spotify.com/album/5DoubGLMbpvAYcd6DDz5Nz"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        },
+        {
+          "name": "Diego Ib\u00e1\u00f1ez",
+          "url": "https://open.spotify.com/artist/6nWCIaOTHhqgbkxPcj4AeJ"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "\u00bfQu\u00e9?",
+      "url": "https://open.spotify.com/track/25bwcWBGh9ox4CR1ttJeHU"
     },
     {
       "added_at": "2022-07-29 14:55:05",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
-        "name": "Alcoh\u00f3lica Funcional",
-        "url": "https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 161953,
-      "name": "Alcoh\u00f3lica Funcional",
-      "url": "https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3"
-    },
-    {
-      "added_at": "2022-07-29 14:55:05",
-      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/6SnUm6EI8bn6uFV7p2LIIR"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 175413,
       "name": "Nabundeare\u0301",
       "url": "https://open.spotify.com/track/35TRct8Yqqmy0XUPg8UFbn"
+    },
+    {
+      "added_at": "2022-07-29 14:55:05",
+      "album": {
+        "name": "Alcoh\u00f3lica Funcional",
+        "url": "https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 161953,
+      "name": "Alcoh\u00f3lica Funcional",
+      "url": "https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3"
     },
     {
       "added_at": "2022-07-29 14:55:05",
@@ -999,18 +999,22 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+        "name": "Cambio la Mirada",
+        "url": "https://open.spotify.com/album/18rtfeRxhAjard4SY3WdPI"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Alfonsina",
+          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
+        },
+        {
+          "name": "Duality",
+          "url": "https://open.spotify.com/artist/0ji1iEjXI9xcZUXudiJP4O"
         }
       ],
-      "duration_ms": 206489,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+      "duration_ms": 175000,
+      "name": "Cambio la Mirada",
+      "url": "https://open.spotify.com/track/0uKIE6p9jbKh6QLwDlvxWM"
     },
     {
       "added_at": "2022-07-29 14:55:05",
@@ -1031,18 +1035,18 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
-        "name": "Una explicaci\u00f3n \u2661",
-        "url": "https://open.spotify.com/album/6ojhXYnBSJikw6ad2RECVR"
+        "name": "GARZA",
+        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
       },
       "artists": [
         {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 183836,
-      "name": "Una explicaci\u00f3n \u2661",
-      "url": "https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv"
+      "duration_ms": 206489,
+      "name": "GARZA",
+      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
     },
     {
       "added_at": "2022-07-29 14:55:05",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
-        "name": "Cambio la Mirada",
-        "url": "https://open.spotify.com/album/18rtfeRxhAjard4SY3WdPI"
+        "name": "Una explicaci\u00f3n \u2661",
+        "url": "https://open.spotify.com/album/6ojhXYnBSJikw6ad2RECVR"
       },
       "artists": [
         {
-          "name": "Alfonsina",
-          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
-        },
-        {
-          "name": "Duality",
-          "url": "https://open.spotify.com/artist/0ji1iEjXI9xcZUXudiJP4O"
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Cambio la Mirada",
-      "url": "https://open.spotify.com/track/0uKIE6p9jbKh6QLwDlvxWM"
+      "duration_ms": 183836,
+      "name": "Una explicaci\u00f3n \u2661",
+      "url": "https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv"
     },
     {
       "added_at": "2022-07-29 14:55:05",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
-        "name": "Si Tuviera",
-        "url": "https://open.spotify.com/album/5L57yYMGUPhpYfz0eFxIjl"
-      },
-      "artists": [
-        {
-          "name": "Alondra Bentley",
-          "url": "https://open.spotify.com/artist/5IdZFLuaPVRlnTHgGYoKO3"
-        }
-      ],
-      "duration_ms": 175011,
-      "name": "Si Tuviera",
-      "url": "https://open.spotify.com/track/61dDCTOQcmJgAY0mmpfoTj"
-    },
-    {
-      "added_at": "2022-07-29 14:55:05",
-      "album": {
         "name": "Lo Que Fue",
         "url": "https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 220953,
       "name": "Luna Blanca",
       "url": "https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj"
+    },
+    {
+      "added_at": "2022-07-29 14:55:05",
+      "album": {
+        "name": "Si Tuviera",
+        "url": "https://open.spotify.com/album/5L57yYMGUPhpYfz0eFxIjl"
+      },
+      "artists": [
+        {
+          "name": "Alondra Bentley",
+          "url": "https://open.spotify.com/artist/5IdZFLuaPVRlnTHgGYoKO3"
+        }
+      ],
+      "duration_ms": 175011,
+      "name": "Si Tuviera",
+      "url": "https://open.spotify.com/track/61dDCTOQcmJgAY0mmpfoTj"
     },
     {
       "added_at": "2022-07-29 14:55:05",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
+        "name": "El Astronauta",
+        "url": "https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 164524,
+      "name": "El Astronauta",
+      "url": "https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0"
+    },
+    {
+      "added_at": "2022-07-29 14:55:05",
+      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh"
       },
@@ -1191,34 +1207,18 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
-        "name": "El Astronauta",
-        "url": "https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR"
+        "name": "Crucero Cristal",
+        "url": "https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
         }
       ],
-      "duration_ms": 164524,
-      "name": "El Astronauta",
-      "url": "https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0"
-    },
-    {
-      "added_at": "2022-07-29 14:55:05",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 190462,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/1tvQDFpAtWhBOJYf5Dvt6j"
+      "duration_ms": 99410,
+      "name": "(H)olas",
+      "url": "https://open.spotify.com/track/2uAigpP8QV8YH8ie1u69kJ"
     },
     {
       "added_at": "2022-07-29 14:55:05",
@@ -1239,34 +1239,18 @@
     {
       "added_at": "2022-07-29 14:55:05",
       "album": {
-        "name": "Crucero Cristal",
-        "url": "https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E"
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp"
       },
       "artists": [
         {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 99410,
-      "name": "(H)olas",
-      "url": "https://open.spotify.com/track/2uAigpP8QV8YH8ie1u69kJ"
-    },
-    {
-      "added_at": "2022-07-29 14:55:05",
-      "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
-      },
-      "artists": [
-        {
-          "name": "Paola Navarrete",
-          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
+      "duration_ms": 190462,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/1tvQDFpAtWhBOJYf5Dvt6j"
     },
     {
       "added_at": "2022-07-29 14:55:05",
@@ -1283,6 +1267,22 @@
       "duration_ms": 269331,
       "name": "P\u00e1jaro Azul",
       "url": "https://open.spotify.com/track/32me2vQrXYrGHvtJxpxHhz"
+    },
+    {
+      "added_at": "2022-07-29 14:55:05",
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
     },
     {
       "added_at": "2022-07-29 14:55:05",

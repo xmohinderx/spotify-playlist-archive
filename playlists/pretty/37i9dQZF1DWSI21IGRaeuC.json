@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 4638,
+  "num_followers": 4686,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDFjZjhmOTY4NjcwYjBkMDQyODgzNDI2Nzg2OTQ0ZmE3",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGI0NTI1MzFmZjU2YmY0ZmUxOWY0ZDEyMjEwYWRiMTFi",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -437,6 +437,30 @@
       "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
     },
     {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Snatch! OFF 071",
+        "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Oliver Dollar",
+          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
+        },
+        {
+          "name": "Mikey V",
+          "url": "https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe"
+        }
+      ],
+      "duration_ms": 186190,
+      "name": "About The Music",
+      "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
+    },
+    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Take Me Back",
@@ -467,30 +491,6 @@
       "duration_ms": 300041,
       "name": "Ready For The Blues",
       "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Snatch! OFF 071",
-        "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
-      },
-      "artists": [
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Oliver Dollar",
-          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
-        },
-        {
-          "name": "Mikey V",
-          "url": "https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe"
-        }
-      ],
-      "duration_ms": 186190,
-      "name": "About The Music",
-      "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Crayzee",
+        "url": "https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 173907,
+      "name": "Crayzee",
+      "url": "https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3"
+    },
+    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "No Bueno",
@@ -587,22 +603,6 @@
       "duration_ms": 381431,
       "name": "Jump Ship",
       "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Crayzee",
-        "url": "https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 173907,
-      "name": "Crayzee",
-      "url": "https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/1sZw1rvxMeIacX91qTRYzr"
     },
     {
+      "added_at": "2022-06-10 14:45:01",
+      "album": {
+        "name": "Superfly",
+        "url": "https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 177780,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Welcome EP",
@@ -709,20 +725,20 @@
       "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
     },
     {
-      "added_at": "2022-06-10 14:45:01",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Superfly",
-        "url": "https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ"
+        "name": "Fuck The Regs EP",
+        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
       },
       "artists": [
         {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
         }
       ],
-      "duration_ms": 177780,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB"
+      "duration_ms": 204836,
+      "name": "Fuck The Regs",
+      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -759,22 +775,6 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Fuck The Regs EP",
-        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 204836,
-      "name": "Fuck The Regs",
-      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
       "added_at": "2022-07-01 04:01:00",

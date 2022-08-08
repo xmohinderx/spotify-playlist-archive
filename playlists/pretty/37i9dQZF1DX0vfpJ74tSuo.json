@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 35249,
+  "num_followers": 35352,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTU3MiwwMDAwMDAwMGM0ZmQzMjVjMTA2ZmVhZjMxNzdkZWYzYjUwYmY0OGUx",
+  "snapshot_id": "MTY1OTEwNTU3MiwwMDAwMDAwMDQwYTFlOGZhNDI0NzM2ZDRiYmY3NTgzZjJlMDUwZjAy",
   "tracks": [
     {
       "added_at": "2022-07-29 14:39:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-07-29 14:39:32",
       "album": {
-        "name": "Elementary Doctor Watson",
-        "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
-      },
-      "artists": [
-        {
-          "name": "Doc & Merle Watson",
-          "url": "https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
-    },
-    {
-      "added_at": "2022-07-29 14:39:32",
-      "album": {
         "name": "Rediscovered",
         "url": "https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 226226,
       "name": "Coffee Blues",
       "url": "https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX"
+    },
+    {
+      "added_at": "2022-07-29 14:39:32",
+      "album": {
+        "name": "Elementary Doctor Watson",
+        "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
+      },
+      "artists": [
+        {
+          "name": "Doc & Merle Watson",
+          "url": "https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
     },
     {
       "added_at": "2022-07-29 14:39:32",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-29 14:39:32",
       "album": {
-        "name": "The Essential Jimmie Vaughan",
-        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 383760,
-      "name": "Dengue Woman Blues",
-      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
-    },
-    {
-      "added_at": "2022-07-29 14:39:32",
-      "album": {
         "name": "Dire Straits",
         "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 253426,
       "name": "Six Blade Knife",
       "url": "https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo"
+    },
+    {
+      "added_at": "2022-07-29 14:39:32",
+      "album": {
+        "name": "The Essential Jimmie Vaughan",
+        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 383760,
+      "name": "Dengue Woman Blues",
+      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
     },
     {
       "added_at": "2022-07-29 14:39:32",

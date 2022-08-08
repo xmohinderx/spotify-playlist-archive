@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Opus Kink",
-  "num_followers": 244038,
+  "num_followers": 244138,
   "original_name": "Post Punk 2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQyMDQwMCwwMDAwMDAwMGZhMzc0OGFiMjQ5MzM1Y2IwMzVhMTQ0MmNlNjcyNWI5",
+  "snapshot_id": "MTY1NTQyMDQwMCwwMDAwMDAwMDcxZDdjNDU1ZjkwYmIwNzEwN2M0ODE3NmY4ZTdlYjJi",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
         "name": "Ants From Up There",
         "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 216680,
       "name": "Chaos Space Marine",
       "url": "https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 226678,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
         "name": "Songs of Praise",
         "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
       },
@@ -251,22 +235,6 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Wide Awake!",
-        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
-      },
-      "artists": [
-        {
-          "name": "Parquet Courts",
-          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Almost Had to Start a Fight/In and Out of Patience",
-      "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
         "name": "Sweet Princess EP",
         "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
       },
@@ -279,6 +247,38 @@
       "duration_ms": 230121,
       "name": "Magic of Meghan",
       "url": "https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 226678,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Wide Awake!",
+        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
+      },
+      "artists": [
+        {
+          "name": "Parquet Courts",
+          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Almost Had to Start a Fight/In and Out of Patience",
+      "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "When I Have Fears",
-        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
+        "name": "Songs of Praise",
+        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
       },
       "artists": [
         {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 146978,
-      "name": "Don't Cling To Life",
-      "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
+      "duration_ms": 214106,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
+        "name": "When I Have Fears",
+        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 146978,
+      "name": "Don't Cling To Life",
+      "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
         "name": "Sun Coming Down",
         "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 463545,
       "name": "Beautiful Blue Sky",
       "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Songs of Praise",
-        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -391,6 +391,22 @@
       "duration_ms": 223000,
       "name": "Rhythm Is Our Business - Edit",
       "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Audio Drag for Ego Slobs",
+        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 120268,
+      "name": "Book",
+      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -431,22 +447,6 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Audio Drag for Ego Slobs",
-        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
-      },
-      "artists": [
-        {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
-        }
-      ],
-      "duration_ms": 204354,
-      "name": "Best Behavior",
-      "url": "https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
         "name": "Orc",
         "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
       },
@@ -463,18 +463,34 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Debonair",
-        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
       },
       "artists": [
         {
-          "name": "Horsey",
-          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
         }
       ],
-      "duration_ms": 265879,
-      "name": "Wharf (ii)",
-      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+      "duration_ms": 149360,
+      "name": "Calling It",
+      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Audio Drag for Ego Slobs",
+        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 204354,
+      "name": "Best Behavior",
+      "url": "https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -495,18 +511,18 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
+        "name": "Debonair",
+        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
       },
       "artists": [
         {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+          "name": "Horsey",
+          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
         }
       ],
-      "duration_ms": 149360,
-      "name": "Calling It",
-      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
+      "duration_ms": 265879,
+      "name": "Wharf (ii)",
+      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -595,22 +611,6 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Audio Drag for Ego Slobs",
-        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
-      },
-      "artists": [
-        {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
-        }
-      ],
-      "duration_ms": 120268,
-      "name": "Book",
-      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
         "name": "Holding Hands with Jamie",
         "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 141000,
       "name": "Hunger for a Way Out",
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Back To The Radio",
-        "url": "https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Back To The Radio",
-      "url": "https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -703,6 +687,22 @@
       "duration_ms": 187626,
       "name": "Water in the Well",
       "url": "https://open.spotify.com/track/0gaecBSDgVDjHs3JrWgr5e"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Back To The Radio",
+        "url": "https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Back To The Radio",
+      "url": "https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
+        "name": "Drunk Tank Pink (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Nigel Hitter",
+      "url": "https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
         "name": "Sympathy for Life",
         "url": "https://open.spotify.com/album/3pimNTNgv34WFrdooDB0TT"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 232484,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Drunk Tank Pink (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Nigel Hitter",
-      "url": "https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX"
     },
     {
       "added_at": "2022-06-16 23:00:00",
