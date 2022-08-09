@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 636908,
+  "num_followers": 637090,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk4Mjc4OSwwMDAwMDAwMDc2N2U0ZWQ0MGVmMjgyMjc0NjcxM2E3NGZkY2NkMThj",
+  "snapshot_id": "MTY0Nzk4Mjc4OSwwMDAwMDAwMDc3ZmZiZjY3MzIzMWI5YzM5N2M3NWRjYzQ0YmUyZTUx",
   "tracks": [
     {
       "added_at": "2022-03-22 20:59:49",
@@ -143,6 +143,26 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
         "name": "Another Man's Jeans",
         "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 274391,
-      "name": "B-Side",
-      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "B61",
-        "url": "https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "B61",
-      "url": "https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "KIWANUKA",
         "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 171746,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "B61",
+        "url": "https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "B61",
+      "url": "https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "House Of My Soul (You Light The Rooms)",
+      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
         "name": "Things Are Great",
         "url": "https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "House Of My Soul (You Light The Rooms)",
-      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "Sweet Unknown",
         "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Strange Girl",
-      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 159453,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Strange Girl",
+      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
     },
     {
       "added_at": "2022-03-22 20:59:49",

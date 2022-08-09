@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 86616,
+  "num_followers": 86713,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMGZjMDA2N2M0NTZiYTM0NTIzOWIxZjBkNTA2ODBjMWUy",
+  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDgxNmJlNTIwM2QzODY3MmNjY2EyMDY1NmVlNmE5MTUz",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Speak Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 367133,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/1D27z8xNzjW0Mwwt1NCWhJ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 271600,
       "name": "Lua",
       "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Speak Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 367133,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/1D27z8xNzjW0Mwwt1NCWhJ"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -475,22 +475,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "MTV Unplugged No. 2.0",
-        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 558973,
-      "name": "I Gotta Find Peace of Mind - Live",
-      "url": "https://open.spotify.com/track/6ocxCGYgcmZhCeTT1yuNkt"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Close to Paradise",
         "url": "https://open.spotify.com/album/056yp65HkG28gOvkLPWAem"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 187373,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "MTV Unplugged No. 2.0",
+        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 558973,
+      "name": "I Gotta Find Peace of Mind - Live",
+      "url": "https://open.spotify.com/track/6ocxCGYgcmZhCeTT1yuNkt"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Twenty Something",
-        "url": "https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 269986,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/2dS2710jYUM8gE2V1KC3uG"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 329266,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/4mOqHhznOkkYrhfgssktbZ"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 269986,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/2dS2710jYUM8gE2V1KC3uG"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 297240,
-      "name": "Younger Days",
-      "url": "https://open.spotify.com/track/73DoUyxCAGBTzr5RFOEHXo"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Wounded Rhymes",
         "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Transcendental Highway",
-        "url": "https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m"
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
       "artists": [
         {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 328560,
-      "name": "I Just Don't Think I'll Ever Get Over You",
-      "url": "https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN"
+      "duration_ms": 297240,
+      "name": "Younger Days",
+      "url": "https://open.spotify.com/track/73DoUyxCAGBTzr5RFOEHXo"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -903,6 +887,22 @@
       "duration_ms": 189335,
       "name": "Samson",
       "url": "https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Transcendental Highway",
+        "url": "https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m"
+      },
+      "artists": [
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 328560,
+      "name": "I Just Don't Think I'll Ever Get Over You",
+      "url": "https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Sprained Ankle",
-        "url": "https://open.spotify.com/album/5rfzi2DFB4gH5XhXjsuGQN"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 142046,
-      "name": "Sprained Ankle",
-      "url": "https://open.spotify.com/track/1qKDjasAnswlbgBsOd8DJp"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "I Love You, Honeybear",
         "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 266053,
       "name": "I Went To The Store One Day",
       "url": "https://open.spotify.com/track/46OdBjlDe1JVm81dmNYdyX"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Sprained Ankle",
+        "url": "https://open.spotify.com/album/5rfzi2DFB4gH5XhXjsuGQN"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 142046,
+      "name": "Sprained Ankle",
+      "url": "https://open.spotify.com/track/1qKDjasAnswlbgBsOd8DJp"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Among the Leaves",
-        "url": "https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv"
-      },
-      "artists": [
-        {
-          "name": "Sun Kil Moon",
-          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Among the Leaves",
-      "url": "https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Take Out Of Me EP",
         "url": "https://open.spotify.com/album/0c5kUADkXAnNiVeaRtTTty"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 147853,
       "name": "Bring It Back to Me",
       "url": "https://open.spotify.com/track/3jyF9eNYpI3vxJWHzcZPIv"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Among the Leaves",
+        "url": "https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv"
+      },
+      "artists": [
+        {
+          "name": "Sun Kil Moon",
+          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Among the Leaves",
+      "url": "https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Daisies Of The Galaxy",
+        "url": "https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "It's A Motherfucker",
+      "url": "https://open.spotify.com/track/7KFcK6EDxAl0HrFoFhTsuC"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "Fifteen",
         "url": "https://open.spotify.com/album/119HRNCY7xfA3R218gtspV"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 187773,
       "name": "Comfort",
       "url": "https://open.spotify.com/track/2xG8KBQ5oxjpprQ5IXhXNw"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Daisies Of The Galaxy",
-        "url": "https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 131733,
-      "name": "It's A Motherfucker",
-      "url": "https://open.spotify.com/track/7KFcK6EDxAl0HrFoFhTsuC"
     },
     {
       "added_at": "2021-04-30 17:29:47",

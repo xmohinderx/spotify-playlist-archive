@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: DACEY
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,367 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,448 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 90 | [Wayside](https://open.spotify.com/track/2u48Xga5k54VLjpvU11Nun) | [Jonns](https://open.spotify.com/artist/4FPXH7U4K55nQv2YGA6GbU) | [Wayside](https://open.spotify.com/album/7k8vuhWVR8g1gHJaMwNZLj) | 2:56 |
 | 91 | [Come Around](https://open.spotify.com/track/3USBvnfVXdCcVgkMWvJu1k) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY) | [SD2](https://open.spotify.com/album/6GD9TeIUBs9NHzfAdPEOTs) | 2:27 |
 | 92 | [Reverse Cowgirl](https://open.spotify.com/track/0mnSFL2zZBAJZccvURgWlD) | [Big Spoon](https://open.spotify.com/artist/7m2Avw3mSGM7DnmQVDOwQ5), [Honey Larochelle](https://open.spotify.com/artist/5MximdP80OJjCsC3bfCkZc) | [Reverse Cowgirl](https://open.spotify.com/album/0bZNEkrp6449Lz88O8spLx) | 3:03 |
-| 93 | [I GAVE YOU EVERYTHING](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [I GAVE YOU EVERYTHING](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 |
+| 93 | [i gave you everything](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i gave you everything](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 |
 | 94 | [Like Nobody's Home](https://open.spotify.com/track/6FH9mGvNIbZaJ8FZfdgRpC) | [Max Wassen](https://open.spotify.com/artist/3tUS9mNjww0E2uwqbHbHz1), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Like Nobody's Home](https://open.spotify.com/album/3QOJkxCcZ4t7KJV0zwZ7nj) | 3:13 |
 | 95 | [Desires](https://open.spotify.com/track/0ALG1F2J2DQa31Q48ZQOv5) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD) | [Desires](https://open.spotify.com/album/3PEfe5vOce57pyItUXKjWa) | 3:41 |
 | 96 | [WHO DAT](https://open.spotify.com/track/5cShPEpSbFcxGTtHvscJoH) | [Charbel](https://open.spotify.com/artist/4UENa19IKtHmTGXfnGUufo) | [WHO DAT](https://open.spotify.com/album/4CiUmJYJxaf44o4Ts6eSvo) | 2:24 |

@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? Cover: ATBO \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? Cover: Golden Child\(골든 차일드\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-374 songs - 21 hr 17 min - [published](https://open.spotify.com/playlist/1rQmqTB8OYYXGSYSv738KR)
+375 songs - 21 hr 20 min - [published](https://open.spotify.com/playlist/1rQmqTB8OYYXGSYSv738KR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Mixtape : On Track](https://open.spotify.com/track/3diZHzXj5LNxztVwBjnebn) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : On Track](https://open.spotify.com/album/71SzCgInpeGCfcmn4FbEth) | 3:27 | 2021-12-08 | 2022-07-18 |
 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2022-08-03 |  |
 | [MMM](https://open.spotify.com/track/256pafuFi3cF39hfB7cyY0) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER THREE](https://open.spotify.com/album/3dfrKjXXIsZ8ftwen5v40w) | 3:28 | 2022-01-13 | 2022-07-27 |
-| [Monochrome \(Color\)](https://open.spotify.com/track/2M1kWKx9G2MlVPtwKQjpHp) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 開花](https://open.spotify.com/album/36qrWqcSCVzubWlQzUyPtx) | 3:47 | 2022-07-27 |  |
+| [Monochrome \(Color\)](https://open.spotify.com/track/2M1kWKx9G2MlVPtwKQjpHp) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 開花](https://open.spotify.com/album/36qrWqcSCVzubWlQzUyPtx) | 3:47 | 2022-07-27 | 2022-08-09 |
 | [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 | 2022-04-04 |  |
 | [MOON RIDER](https://open.spotify.com/track/5BHgAxwRsUMUYRMGtE0uEo) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [THE INTERSECTION: DISCOVERY](https://open.spotify.com/album/4LVXR1CjOeddSabwoa2C3j) | 3:11 | 2022-03-31 | 2022-04-21 |
 | [MOON WALKER](https://open.spotify.com/track/3DkILE5HlGOviYKUuX4Snl) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [MOON WALKER](https://open.spotify.com/album/0oicQ0zJ5HRwJKXDd8e4uu) | 3:13 | 2022-04-04 | 2022-06-26 |
@@ -288,6 +288,7 @@
 | [RED](https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4CMscoZuaGi6UEDC2Wpdtk) | 2:56 | 2021-12-08 | 2022-07-29 |
 | [Red Light, Green Light](https://open.spotify.com/track/4xgBVNYwDQNhtpeyxQWP8s) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Red Light, Green Light](https://open.spotify.com/album/7AOjftp6myCoxMR7pnoGLB) | 3:23 | 2022-03-11 | 2022-04-15 |
 | [Regulus](https://open.spotify.com/track/299CpDyNkUS3aFAZCr0c9A) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [2/4](https://open.spotify.com/album/55ucpTq6CWc40dJakIPajP) | 3:42 | 2022-01-27 | 2022-07-17 |
+| [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-08 |  |
 | [RHYTHM TA](https://open.spotify.com/track/374WyJeaSR9Cmq4kuFzoqu) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [WELCOME BACK](https://open.spotify.com/album/6oV4Vxt8N7RGUOKtQ051ml) | 3:47 | 2022-03-31 | 2022-04-20 |
 | [RIDE](https://open.spotify.com/track/4bWza2UuXLn2d21YFi1XXj) | [KNK](https://open.spotify.com/artist/5zx2slDKDXNn1e6779RzPd) | [KNK AIRLINE](https://open.spotify.com/album/67o91ctnyaMxfi8OSokpcS) | 3:33 | 2022-04-04 | 2022-04-19 |
 | [Ridin'](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:21 | 2021-12-08 | 2022-07-07 |

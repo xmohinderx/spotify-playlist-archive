@@ -4,7 +4,7 @@
 
 > Flow sudamericano con El Jordan 23 & Kaleb Di Masi.
 
-652 songs - 1 day 10 hr 14 min - [published](https://open.spotify.com/playlist/3fVDETWJMmsiqTI070RHbC)
+653 songs - 1 day 10 hr 17 min - [published](https://open.spotify.com/playlist/3fVDETWJMmsiqTI070RHbC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Alcancía](https://open.spotify.com/track/020womZSqTEXnoDptWI6mL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Alcancía](https://open.spotify.com/album/21FzQPHfPmEK4XLeETdC7o) | 3:18 | 2022-02-04 | 2022-07-29 |
 | [Alejarme](https://open.spotify.com/track/1CHjYyoNheGNoqzgzgdXcH) | [Naiky Unic](https://open.spotify.com/artist/4RiS74hj1A525qvPs66MMP) | [Alejarme](https://open.spotify.com/album/1T2TC7gWaQRwfqy9iXIpRZ) | 3:07 | 2022-01-03 | 2022-04-09 |
 | [Alejarse](https://open.spotify.com/track/0OaorH3l9Z20kKTFEeimls) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Alejarse](https://open.spotify.com/album/4wSGXgnCKRbDqnfKyASS5v) | 2:27 | 2022-01-03 | 2022-04-06 |
-| [Amor Bipolar](https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:15 | 2022-06-24 |  |
+| [Amor Bipolar](https://open.spotify.com/track/54azU25VdlyMhiqHOOCZeL) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 3:15 | 2022-08-05 |  |
+| [Amor Bipolar](https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:15 | 2022-06-24 | 2022-08-09 |
 | [Amor de Pasti](https://open.spotify.com/track/7g60hvVtxb6h91AJqLIdlp) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [Amor de Pasti](https://open.spotify.com/album/4hrf28z4n4jGAERedu9e7M) | 2:58 | 2021-12-27 | 2022-03-10 |
 | [AMOR DEL GHETTO](https://open.spotify.com/track/0vMk3Dl1cdzt1dRV6PUegl) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [TURROMANTICO](https://open.spotify.com/album/0lSIshi0zVMrl1N2MvAEIn) | 3:00 | 2022-01-03 | 2022-07-29 |
 | [amor sin amor](https://open.spotify.com/track/71BL0qzatmcoj7aYFh1g3s) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:53 | 2022-02-25 | 2022-04-08 |

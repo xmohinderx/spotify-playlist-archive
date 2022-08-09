@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,728 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,796 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 9 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 |
 | 10 | [lower one's eyes](https://open.spotify.com/track/3P8sZzCeWXnBieW9XxE02Y) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [lower one's eyes](https://open.spotify.com/album/0NEXeWlwwR6b4zfHF4bvgk) | 3:50 |
 | 11 | [TONDEMO\-WONDERZ](https://open.spotify.com/track/4hrhv3LGlhO0qK21zWeHgW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [TONDEMO\-WONDERZ](https://open.spotify.com/album/0E3hZEBiEMetjMHCo93BKk) | 3:15 |
-| 12 | [しかばねの踊り](https://open.spotify.com/track/6a0G8hYEyxqvEkebVLU5VK) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 3:48 |
+| 12 | [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 |
 | 13 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 |
-| 14 | [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 |
+| 14 | [しかばねの踊り](https://open.spotify.com/track/6a0G8hYEyxqvEkebVLU5VK) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 3:48 |
 | 15 | [Thanks for being Lifeless](https://open.spotify.com/track/051mZnDf307e5y9oflIUiC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [ZERO\-GO](https://open.spotify.com/album/0oaOHz6VowcZp1FUAwqDiD) | 4:24 |
 | 16 | [SIU](https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 4:38 |
 | 17 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 20 | [Awake Now](https://open.spotify.com/track/14NNOtVmIhGHLcwaluyoHn) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks) | [Awake Now](https://open.spotify.com/album/0pivFXtrPhKw6TZvksvBVO) | 3:16 |
 | 21 | [Ghost Rule](https://open.spotify.com/track/1OAp6qN5KmoGUQ2edICKsC) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [GHOST](https://open.spotify.com/album/3euL5ADirJFFXvoX9OlIfA) | 3:30 |
 | 22 | [DARLING DANCE](https://open.spotify.com/track/32cvZTXsJi4EzkvVDMH4Ij) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:26 |
-| 23 | [Mind brand](https://open.spotify.com/track/2KvhjbZPPtNXTB6wib1rXB) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:19 |
+| 23 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
 | 24 | [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 |
-| 25 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
-| 26 | [千本桜](https://open.spotify.com/track/38mUTswfszVFQ952r89AP8) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [千本桜](https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh) | 4:12 |
+| 25 | [千本桜](https://open.spotify.com/track/38mUTswfszVFQ952r89AP8) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [千本桜](https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh) | 4:12 |
+| 26 | [Mind brand](https://open.spotify.com/track/2KvhjbZPPtNXTB6wib1rXB) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:19 |
 | 27 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
-| 28 | [サラマンダー](https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [サラマンダー](https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t) | 2:35 |
-| 29 | [ロストワンの号哭](https://open.spotify.com/track/7bjO3BMl5ps63mpPMfhPDC) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:34 |
+| 28 | [ロストワンの号哭](https://open.spotify.com/track/7bjO3BMl5ps63mpPMfhPDC) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:34 |
+| 29 | [エゴイスト](https://open.spotify.com/track/7jFve2PjhEsJgwkC5P56xK) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy) | 3:39 |
 | 30 | [Sky Passing Around, Moon Rabbit](https://open.spotify.com/track/5Zz1U1ghsgYAEs8cRSB7WE) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [SEASIDE SOLILOQUIES](https://open.spotify.com/album/7mzOTGPUcJ30cYwYFqCHSc) | 2:55 |
-| 31 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
+| 31 | [サラマンダー](https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [サラマンダー](https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t) | 2:35 |
 | 32 | [チルドレンレコード \- Re:boot](https://open.spotify.com/track/7EgAQ88TKT5HHsYpRThUQc) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [チルドレンレコード \(Re:boot\)](https://open.spotify.com/album/0Kp2uX7B1gdSYcBiL8brMx) | 3:07 |
-| 33 | [エゴイスト](https://open.spotify.com/track/7jFve2PjhEsJgwkC5P56xK) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy) | 3:39 |
+| 33 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
 | 34 | [day by days](https://open.spotify.com/track/6SRkWroP8AXI5bqNfmI6Mn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [day by days](https://open.spotify.com/album/7Ir2ssbW6ov5OxbiQNcksm) | 2:09 |
 | 35 | [Gimme×Gimme feat\. 初音ミク・鏡音リン](https://open.spotify.com/track/5XJh3VbvvnGYrkubcQwzys) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [GRAPHIX](https://open.spotify.com/album/6TIBa4yqhBXdrcbui3TGzt) | 3:40 |
 | 36 | [Rollin’ Girl](https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [Exit Tunes Presents Supernova](https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X) | 3:14 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 41 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 |
 | 42 | [Ready Steady \(feat\. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク\)](https://open.spotify.com/track/3gkNuMdF4BgdEQRr0UuOfl) | [Vivid BAD SQUAD](https://open.spotify.com/artist/6mEgpqXA4yzhhncW4cBHlh) | [Ready Steady/Forward](https://open.spotify.com/album/38WKL8r6mZSsqQC6PUXG2e) | 3:30 |
 | 43 | [God sees all](https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6) | [Ethyria](https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy) | [God sees all](https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU) | 3:16 |
-| 44 | [炉心融解](https://open.spotify.com/track/705CVl7WvtnJgVpGIgZ6dQ) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [炉心融解](https://open.spotify.com/album/57aSkuZLXXOAyUbhclh3p3) | 5:29 |
-| 45 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
-| 46 | [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 |
+| 44 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
+| 45 | [炉心融解](https://open.spotify.com/track/705CVl7WvtnJgVpGIgZ6dQ) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [炉心融解](https://open.spotify.com/album/57aSkuZLXXOAyUbhclh3p3) | 5:29 |
+| 46 | [ツギハギスタッカート](https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W) | [toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [ツギハギスタッカート](https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD) | 4:10 |
 | 47 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
-| 48 | [ツギハギスタッカート](https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W) | [toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [ツギハギスタッカート](https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD) | 4:10 |
+| 48 | [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 |
 | 49 | [少女レイ](https://open.spotify.com/track/6bxGVlcX900tLZiZl5mFOR) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 4:54 |
 | 50 | [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 |
 
-Snapshot ID: `MTY1OTQ1OTQ0OSwwMDAwMDAwMDYzNzk1YTE3NzNkZjg0MWM3MTRkODUxMDM1ZDMxMDJk`
+Snapshot ID: `MTY1OTQ1OTQ0OSwwMDAwMDAwMGRiN2E4NGZiYTI3YjE3N2RlMmM4MzRkOTQzZGIzOGU3`

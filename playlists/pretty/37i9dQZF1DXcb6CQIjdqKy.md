@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  Casting Crowns
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,453,307 likes - 98 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,453,597 likes - 98 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

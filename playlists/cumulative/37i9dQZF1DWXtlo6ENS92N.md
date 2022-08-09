@@ -4,7 +4,7 @@
 
 > The finest quality of Bollywood music handpicked for you\. Cover\- Alia and Ranbir.
 
-60 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/3aiNMDFKRmhdg4lRDcg4QM)
+61 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/3aiNMDFKRmhdg4lRDcg4QM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL) | 4:08 | 2022-05-23 |  |
 | [Meri Zindagi Hai Tu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/6IWZKBeAkeCzaYNE8SmedK) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Meri Zindagi Hai Tu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/392fY67CeiPIn2cm7PE2X8) | 4:44 | 2022-05-23 |  |
 | [Nadiyon Paar \(Let the Music Play Again\) \(From "Roohi"\)](https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Shamur](https://open.spotify.com/artist/6SZBqn91m2QZDcbzmHUFPP), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Nadiyon Paar \(Let the Music Play Again\) \[From "Roohi"\]](https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi) | 2:44 | 2022-05-23 |  |
+| [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5D4Ku6tdcAdwiA38FgpgCP) | 3:36 | 2022-08-08 |  |
 | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/album/5zP4OuD73f42dogIjNid68) | 3:11 | 2022-05-23 |  |
 | [Namo Namo](https://open.spotify.com/track/5QtQFSdyZEl0w4iDxAyv76) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Kedarnath](https://open.spotify.com/album/7lF34sP6HtRAL7VEMvYHff) | 5:22 | 2022-05-23 |  |
 | [Nazm Nazm](https://open.spotify.com/track/1We89SAonMk70QBbfXERxa) | [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [Bareilly Ki Barfi](https://open.spotify.com/album/1P8eifMN4WiKEXtptCBwJQ) | 3:46 | 2022-05-23 |  |

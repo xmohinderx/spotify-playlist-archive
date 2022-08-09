@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-148 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+150 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 | 2022-05-17 |  |
 | [Blah Blah Blah](https://open.spotify.com/track/5R4OMPuKD1yshMdbk8ibnS) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Blah Blah Blah](https://open.spotify.com/album/5a4pTggWbO3quPTamPL5wu) | 3:50 | 2022-06-14 | 2022-07-16 |
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-05-17 |  |
+| [Blow My Brains Out](https://open.spotify.com/track/4ZlQzskKkK4jsbcqO96luB) | [Tikkle Me](https://open.spotify.com/artist/6oWIS1UZp9dR74eYez74vX) | [Tikkle Me](https://open.spotify.com/album/0tNO6EN9i6at8omQTYkcch) | 3:42 | 2022-08-08 |  |
 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 | 2022-05-17 |  |
 | [Bohemian Rhapsody](https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Stone Cold Classics](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) | 5:55 | 2022-05-17 |  |
 | [Bombed Out Building](https://open.spotify.com/track/5wxyCrZAlw8YLx2SNKoxzy) | [Boychik](https://open.spotify.com/artist/3LmJZ3pIaRfNEghu7g1eLn) | [Bombed Out Building](https://open.spotify.com/album/7ogcVqi5yAHLSvDnnV16Xg) | 3:18 | 2022-05-17 |  |
@@ -39,7 +40,7 @@
 | [Can I Have a Ride Home? I'm at a Party and I Don't Know Any1](https://open.spotify.com/track/2ymdaqbPPMSpp6FMT7Tf0T) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Nightmare on Weed Street](https://open.spotify.com/album/5plRKyeSZpNohzLCguUWbG) | 1:51 | 2022-05-17 | 2022-06-25 |
 | [Candy Store](https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx) | [Jessica Keenan Wynn](https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ), [Alice Lee](https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5), [Elle McLemore](https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 2:52 | 2022-05-17 |  |
 | [Carry On](https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:38 | 2022-05-17 |  |
-| [Cheater \(Original\)](https://open.spotify.com/track/0dhSUoBbHS34DsO2zexW89) | [Alex Diab](https://open.spotify.com/artist/3RKRICpUG70f1MN4J1hhxX) | [Cheater \(Original\)](https://open.spotify.com/album/4X41xqxzdWmUJqm2ITEAkL) | 2:33 | 2022-05-17 |  |
+| [Cheater \(Original\)](https://open.spotify.com/track/0dhSUoBbHS34DsO2zexW89) | [Alex Diab](https://open.spotify.com/artist/3RKRICpUG70f1MN4J1hhxX) | [Cheater \(Original\)](https://open.spotify.com/album/4X41xqxzdWmUJqm2ITEAkL) | 2:33 | 2022-05-17 | 2022-08-09 |
 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 | 2022-05-17 | 2022-07-14 |
 | [Choke](https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Choke](https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn) | 3:15 | 2022-05-17 |  |
 | [Cicada Days](https://open.spotify.com/track/2s3SwhbFhymLPDm4GGhDKl) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Cicada Days](https://open.spotify.com/album/7rN0PYbcQ7quewRhtqvLGK) | 4:10 | 2022-06-03 |  |
@@ -71,7 +72,7 @@
 | [Goodbye](https://open.spotify.com/track/6tfPsgvkgbGHWGwq2PpzCI) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 4:09 | 2022-05-17 | 2022-07-29 |
 | [gravity](https://open.spotify.com/track/2hFqVkrBelXGVLaaTKHrjY) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [gravity](https://open.spotify.com/album/6xjOlvvlcBxUGiCWWGNeBv) | 3:52 | 2022-08-05 |  |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 | 2022-06-25 |
-| [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2022-05-17 |  |
+| [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2022-05-17 | 2022-08-09 |
 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 | 2022-05-17 |  |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-05-17 |  |
 | [I Deserve to Bleed](https://open.spotify.com/track/27cw0tNJKQQW2CJMGcCfZb) | [Sushi Soucy](https://open.spotify.com/artist/1EbbJiG9LzlH2i7fCjhkvv) | [I Deserve to Bleed](https://open.spotify.com/album/4ckUf8kp5DxcJRRsy0yjXm) | 1:44 | 2022-05-17 |  |
@@ -87,6 +88,7 @@
 | [It's All Futile! It's All Pointless!](https://open.spotify.com/track/6letGsy9pQEAiVt0VLJIWg) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:40 | 2022-06-14 | 2022-07-13 |
 | [kill myself](https://open.spotify.com/track/1ESEhyt5VAkioMnh4vnDHC) | [Tom O'Donovan](https://open.spotify.com/artist/06loAWIFFerpfkQdMI0moL) | [kill myself](https://open.spotify.com/album/2FOmTkLSZvr2xVf1hVmDVm) | 3:00 | 2022-07-13 | 2022-07-16 |
 | [La Seine \- Extrait de la bande originale un monstre à Paris](https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:47 | 2022-05-17 |  |
+| [Laputa](https://open.spotify.com/track/0TO7y9uCA3eEYp7g9NsuGL) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/7FWEOSHm38Sq7dybOA4w7D) | 2:43 | 2022-08-08 |  |
 | [LEMONS \(with Cavetown\)](https://open.spotify.com/track/7hRgBIc6DHSAup9lH11VNZ) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [LEMONS \(with Cavetown\)](https://open.spotify.com/album/1MT5z1J27ERqGpyErAVeMc) | 3:52 | 2022-05-17 |  |
 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 | 2022-05-17 |  |
 | [Loveology](https://open.spotify.com/track/3hhU5HJkLOTSTdEWkXMvYS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Loveology](https://open.spotify.com/album/0Y3VeIqUxmsZ5Tr5mwawTa) | 5:16 | 2022-06-10 | 2022-06-25 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas!",
-  "num_followers": 754338,
+  "num_followers": 754620,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTc1OTg5MCwwMDAwMDAwMDY5YmUzZGZhMzFkZmFmOGZjODgxYTIwOWY2ZDEzYjQx",
+  "snapshot_id": "MTY1NTc1OTg5MCwwMDAwMDAwMDFhZjEzYzFiMmMwY2EwMjcwOWMwMThmZTA5ODYzNzcx",
   "tracks": [
     {
       "added_at": "2022-06-20 21:18:10",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
+        "name": "M\u00edranos Ahora",
+        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "M\u00edranos Ahora",
+      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -135,26 +151,6 @@
       "duration_ms": 173080,
       "name": "Un Mill\u00f3n de Primaveras",
       "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "Las Locuras M\u00edas",
-        "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
-      },
-      "artists": [
-        {
-          "name": "Omar Chaparro",
-          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
-        },
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "Las Locuras M\u00edas",
-      "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
     },
     {
       "added_at": "2022-06-20 21:18:10",
@@ -175,22 +171,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "M\u00edranos Ahora",
-        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "M\u00edranos Ahora",
-      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
         "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 246131,
       "name": "Tu - Live",
       "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
+      },
+      "artists": [
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -271,6 +271,26 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
         "name": "Pideme (En Vivo)",
         "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
       },
@@ -319,38 +339,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
       "artists": [
         {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
+      "duration_ms": 179506,
+      "name": "Amor Plat\u00f3nico",
+      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -371,18 +371,34 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Amor Plat\u00f3nico",
-      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -415,22 +431,6 @@
       "duration_ms": 215400,
       "name": "Nadie Como Tu\u0301",
       "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159517,
-      "name": "Alguien Mejor",
-      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Gold Collection, Vol. 1",
         "url": "https://open.spotify.com/album/0p87z3HeUKj0A9W0bVNf9C"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
+      "duration_ms": 159517,
+      "name": "Alguien Mejor",
+      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Calidad Y Cantidad",
-        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Entre Beso Y Beso",
-      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "10\u00ba Aniversario",
         "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 153493,
       "name": "Hermosa Experiencia",
       "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Entre Beso Y Beso",
+      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
         "name": "Lo Mejor De Mi Vida",
         "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
       },
@@ -807,18 +823,22 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+        "name": "Mi Amor Por Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Edici\u00f3n Especial",
+          "url": "https://open.spotify.com/artist/1w9TIYdjhQ4xGaO5YmJgFc"
         }
       ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+      "duration_ms": 239695,
+      "name": "Mi Amor Por Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -851,26 +871,6 @@
       "duration_ms": 203816,
       "name": "Amorcito M\u00edo - Live",
       "url": "https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "Mi Amor Por Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Edici\u00f3n Especial",
-          "url": "https://open.spotify.com/artist/1w9TIYdjhQ4xGaO5YmJgFc"
-        }
-      ],
-      "duration_ms": 239695,
-      "name": "Mi Amor Por Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
       },
       "artists": [
         {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 149812,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+      "duration_ms": 149812,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "La Historia De Mis Manos",
-        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 180826,
-      "name": "Encontrarte",
-      "url": "https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 169000,
       "name": "La Magia de Tus Ojos",
       "url": "https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Encontrarte",
+      "url": "https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV"
     },
     {
       "added_at": "2022-05-06 18:52:36",

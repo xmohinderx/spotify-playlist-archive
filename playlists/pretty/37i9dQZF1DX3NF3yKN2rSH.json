@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53637,
+  "num_followers": 53633,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDQzNzY2Y2E2ZGEwNDE3ZTQ3ODllMTgzYTMyYzYxYzNl",
+  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDMwNTA2NDBmMTlkNTBmNTg4NGM0YTMxNzE3ZDRmNzdk",
   "tracks": [
     {
       "added_at": "2022-04-17 06:11:04",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 498426,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Awesome (Remixes)",
-        "url": "https://open.spotify.com/album/32vZndDj0nQMdWrUESU0eF"
-      },
-      "artists": [
-        {
-          "name": "Charles Jenkins & Fellowship Chicago",
-          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Awesome",
-      "url": "https://open.spotify.com/track/6b1RS3RtYHYbZK1DQUjpvB"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "My Very OWN Easter - EP",
         "url": "https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB"
       },
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Awesome (Remixes)",
+        "url": "https://open.spotify.com/album/32vZndDj0nQMdWrUESU0eF"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins & Fellowship Chicago",
+          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
+        }
+      ],
+      "duration_ms": 348773,
+      "name": "Awesome",
+      "url": "https://open.spotify.com/track/6b1RS3RtYHYbZK1DQUjpvB"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -204,9 +220,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 498426,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -243,26 +259,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Bishop Cortez Vaughn",
-          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
-        }
-      ],
-      "duration_ms": 365190,
-      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
-      "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Easter (feat. Todd Dulaney)",
         "url": "https://open.spotify.com/album/10mfB8u8N71xXGatlhkDdG"
       },
@@ -279,6 +275,26 @@
       "duration_ms": 427640,
       "name": "Easter (feat. Todd Dulaney)",
       "url": "https://open.spotify.com/track/5yUJMkUWsJmOfsP964tNtg"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+        }
+      ],
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -311,6 +327,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Gracefully Broken",
+      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "The Rebirth of Kirk Franklin",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
@@ -323,6 +355,22 @@
       "duration_ms": 307733,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/2TkXzFSgJrQAo6kREm9z8f"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -379,38 +427,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "A Worshipper's Heart",
         "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 446666,
-      "name": "You're Bigger",
-      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
       },
@@ -471,6 +471,42 @@
       "duration_ms": 317607,
       "name": "Redeemer",
       "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 471573,
+      "name": "Your Spirit",
+      "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -507,6 +543,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 358440,
+      "name": "Fill Me Up - Live",
+      "url": "https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "The Gathering",
         "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
       },
@@ -523,38 +575,18 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
         }
       ],
-      "duration_ms": 376666,
-      "name": "Gracefully Broken",
-      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 471573,
-      "name": "Your Spirit",
-      "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"
+      "duration_ms": 338466,
+      "name": "Risen",
+      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -579,22 +611,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 338466,
-      "name": "Risen",
-      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "The Rebirth of Kirk Franklin",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Way Maker (Live)",
-        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 500500,
-      "name": "Waymaker (Live)",
-      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Choirmaster",
         "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 243914,
       "name": "Release - Live/Edit",
       "url": "https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Way Maker (Live)",
+        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 500500,
+      "name": "Waymaker (Live)",
+      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -699,26 +715,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Something Has To Break (feat. Karen Clark Sheard)",
-        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 347752,
-      "name": "Something Has To Break (feat. Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -735,6 +731,26 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Something Has To Break (feat. Karen Clark Sheard)",
+        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 347752,
+      "name": "Something Has To Break (feat. Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -779,22 +795,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Free To Worship",
-        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "This Is The Day",
-      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Rock Of Ages (Live)",
         "url": "https://open.spotify.com/album/2ZVALp4oOugoRpRjLLAV7S"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
+        "name": "Free To Worship",
+        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
       },
       "artists": [
         {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
         }
       ],
-      "duration_ms": 241413,
-      "name": "Worth Fighting For - 1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
+      "duration_ms": 289333,
+      "name": "This Is The Day",
+      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -871,6 +871,22 @@
       "duration_ms": 388004,
       "name": "More Abundantly Medley - Live",
       "url": "https://open.spotify.com/track/12Wj5X4UWjSVLEmOVtWCjq"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Worth Fighting For - 1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1043,6 +1059,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Trin-i-tee 5:7",
+        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
+      },
+      "artists": [
+        {
+          "name": "Trin-I-Tee 5:7",
+          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Mary Don't You Weep",
+      "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1059,22 +1091,6 @@
       "duration_ms": 429522,
       "name": "The Crucifixion",
       "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Trin-i-tee 5:7",
-        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
-      },
-      "artists": [
-        {
-          "name": "Trin-I-Tee 5:7",
-          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Mary Don't You Weep",
-      "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1143,6 +1159,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "I Shall Know Him",
+        "url": "https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Cleophus Robinson",
+          "url": "https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "Because He Lives",
+      "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "He Got Up",
         "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
       },
@@ -1159,22 +1191,6 @@
       "duration_ms": 229800,
       "name": "He Got Up",
       "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "I Shall Know Him",
-        "url": "https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Cleophus Robinson",
-          "url": "https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Because He Lives",
-      "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1275,6 +1291,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Mnini Mandla Onke",
+        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 303050,
+      "name": "Mnini Mandla Onke",
+      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Blessed By Association",
         "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
       },
@@ -1291,22 +1323,6 @@
       "duration_ms": 299586,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Mnini Mandla Onke",
-        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 303050,
-      "name": "Mnini Mandla Onke",
-      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1815,22 +1831,6 @@
       "duration_ms": 348773,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Another Chapter, Psalms 51",
-        "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
-      },
-      "artists": [
-        {
-          "name": "Parkes Stewart",
-          "url": "https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh"
-        }
-      ],
-      "duration_ms": 356179,
-      "name": "He Loves Me",
-      "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
     }
   ],
   "unique_name": "Easter Gospel",

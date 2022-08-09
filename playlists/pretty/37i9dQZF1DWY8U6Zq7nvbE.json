@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs right now.",
-  "num_followers": 1117660,
+  "num_followers": 1117683,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTUwMzcyMCwwMDAwMDAwMDg2NTgyMGNhNzU1OTdmZWI2NGJhYzIyNzI1MjI1ZGFh",
+  "snapshot_id": "MTYxNTUwMzcyMCwwMDAwMDAwMGQ1MTkyYTU5NTYwYTIyZjgyNmUwNjdlZGY1NzhkNjQ1",
   "tracks": [
     {
       "added_at": "2021-03-11 23:02:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Human Nature",
-        "url": "https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB"
-      },
-      "artists": [
-        {
-          "name": "Justin Morgan",
-          "url": "https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw"
-        }
-      ],
-      "duration_ms": 236952,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Dance Monkey",
         "url": "https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Diamonds (Acoustic)",
-        "url": "https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8"
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Justin Morgan",
+          "url": "https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw"
         }
       ],
-      "duration_ms": 194541,
-      "name": "Diamonds - Acoustic",
-      "url": "https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W"
+      "duration_ms": 236952,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -551,6 +535,22 @@
       "duration_ms": 182502,
       "name": "Haloes - Acoustic",
       "url": "https://open.spotify.com/track/10OPvmzW6Hq3E8L7cHDJ5u"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Diamonds (Acoustic)",
+        "url": "https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 194541,
+      "name": "Diamonds - Acoustic",
+      "url": "https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Look Away (Acoustic)",
-        "url": "https://open.spotify.com/album/2DcbeYyXKzu4C5kgKn0IRb"
-      },
-      "artists": [
-        {
-          "name": "Stephen Puth",
-          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
-        }
-      ],
-      "duration_ms": 184900,
-      "name": "Look Away - Acoustic",
-      "url": "https://open.spotify.com/track/5haEwf9UsvjWq0aovDAofJ"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Good Things Fall Apart (with Jon Bellion) - Stripped",
         "url": "https://open.spotify.com/album/0Re517YSoO235oK01cWnJI"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 208437,
       "name": "Good Things Fall Apart (with Jon Bellion) - Stripped",
       "url": "https://open.spotify.com/track/4siZLgCKM0IKnD1ek6Bt4d"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Look Away (Acoustic)",
+        "url": "https://open.spotify.com/album/2DcbeYyXKzu4C5kgKn0IRb"
+      },
+      "artists": [
+        {
+          "name": "Stephen Puth",
+          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
+        }
+      ],
+      "duration_ms": 184900,
+      "name": "Look Away - Acoustic",
+      "url": "https://open.spotify.com/track/5haEwf9UsvjWq0aovDAofJ"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/7iXzUCCibpn6n3ujGDg7XK"
-      },
-      "artists": [
-        {
-          "name": "Vide",
-          "url": "https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539"
-        }
-      ],
-      "duration_ms": 124802,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/0LYQVYp8WakLB6RSyOXNBM"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Old Town Road",
         "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 171866,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/7iXzUCCibpn6n3ujGDg7XK"
+      },
+      "artists": [
+        {
+          "name": "Vide",
+          "url": "https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539"
+        }
+      ],
+      "duration_ms": 124802,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/0LYQVYp8WakLB6RSyOXNBM"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Lessons in Love - Acoustic",
-        "url": "https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 208489,
-      "name": "Pulling Away (acoustic)",
-      "url": "https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "forgive",
         "url": "https://open.spotify.com/album/4yhwtGTDnJvodkXpbXBEGV"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 162747,
       "name": "forgive",
       "url": "https://open.spotify.com/track/0cM5MPgaVH4aHrxA85s7Gm"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Lessons in Love - Acoustic",
+        "url": "https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 208489,
+      "name": "Pulling Away (acoustic)",
+      "url": "https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "The Wave EP (Acoustic, Pt. 2)",
-        "url": "https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 145217,
-      "name": "Whiplash - Acoustic",
-      "url": "https://open.spotify.com/track/28dE98TER0FDRbPgXEvPAI"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "September Weather",
         "url": "https://open.spotify.com/album/6hiPLXEGXCLzHH48Mczk4c"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 261469,
       "name": "September Weather",
       "url": "https://open.spotify.com/track/12MmyqfCmqmqOAJaBL35BF"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "The Wave EP (Acoustic, Pt. 2)",
+        "url": "https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 145217,
+      "name": "Whiplash - Acoustic",
+      "url": "https://open.spotify.com/track/28dE98TER0FDRbPgXEvPAI"
     },
     {
       "added_at": "2021-03-11 23:02:00",

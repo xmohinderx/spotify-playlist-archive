@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Indie music antimatter\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,026 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,168 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 6 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 |
 | 7 | [rest stop](https://open.spotify.com/track/0HCBF6WJf1otNKvdC7sFp6) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [rest stop](https://open.spotify.com/album/3IL6QscRSBsAAz9A4gK1aC) | 2:40 |
 | 8 | ["conditional"](https://open.spotify.com/track/6hariWD1MC9HBlaIJ5iDQR) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE), [soupandreas](https://open.spotify.com/artist/5dPMuKQtWLLl1Thw1Bf8h9) | ["conditional"](https://open.spotify.com/album/0CsU6vIcO5fxZVAvGfUE7v) | 3:08 |
-| 9 | [Genevieve \- Unfinished](https://open.spotify.com/track/72GKPVtBchtCDoL8LURCrB) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 3:57 |
+| 9 | [Day 7.5093](https://open.spotify.com/track/3a4jtq7w9N7qOrIjCaxO8v) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Feeling Lucky?](https://open.spotify.com/album/0mWQGICfoe7XAWueJRuAgV) | 3:41 |
 | 10 | [FALL BACK](https://open.spotify.com/track/2vbrodbHlus3zzc1Ai3ooO) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [FALL BACK](https://open.spotify.com/album/4Ujy3pnuLg6FpXt8D5L7iS) | 1:51 |
 | 11 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 12 | [Hamilton](https://open.spotify.com/track/7s4GCpLK57ybNAEeJfvOLF) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Hamilton](https://open.spotify.com/album/2oI0QNhxvXlYulNWAYK3yu) | 3:27 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 25 | [RUNITUP \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/13HsOwrwTA5HgLuoaDHncP) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 3:49 |
 | 26 | [Bliss](https://open.spotify.com/track/2hkGd89f1mtUp19libeWmR) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Stardust](https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB) | 2:51 |
 | 27 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
-| 28 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 |
-| 29 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 |
-| 30 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 |
-| 31 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
+| 28 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 |
+| 29 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 |
+| 30 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
+| 31 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 |
 | 32 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
 | 33 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
 | 34 | [Hotline](https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hotline](https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF) | 2:28 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 38 | [GTFO](https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y) | 3:20 |
 | 39 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 |
 | 40 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 |
-| 41 | [DITTO](https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [DITTO](https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu) | 2:30 |
-| 42 | [ZIG ZAGGING](https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT) | [ZIG ZAGGING](https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB) | 2:04 |
-| 43 | [Solar System](https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Boa Constrictors](https://open.spotify.com/artist/5pF04WnpEzab0at7YVjixz) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 3:32 |
-| 44 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 |
-| 45 | [AMERICAN GURL](https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 3:48 |
-| 46 | [Suburbia](https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Suburbia](https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB) | 2:59 |
+| 41 | [ZIG ZAGGING](https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT) | [ZIG ZAGGING](https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB) | 2:04 |
+| 42 | [DITTO](https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [DITTO](https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu) | 2:30 |
+| 43 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 |
+| 44 | [Solar System](https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Boa Constrictors](https://open.spotify.com/artist/5pF04WnpEzab0at7YVjixz) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 3:32 |
+| 45 | [Suburbia](https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Suburbia](https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB) | 2:59 |
+| 46 | [AMERICAN GURL](https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 3:48 |
 | 47 | [Michael](https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:45 |
 | 48 | [chosen](https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [chosen](https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z) | 2:49 |
 | 49 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 |
 | 50 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 |
 
-Snapshot ID: `MTY1OTgzNjYxMCwwMDAwMDAwMDQwN2YyZWZkZWNmZmY4MDllMDNkNTk5MGI5MzI3MWIy`
+Snapshot ID: `MTY1OTk3ODY3OCwwMDAwMDAwMDE3OWQxZmVhNGNiMzcyMjllYWM0ODhmODExZTFhY2E3`

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2,3,4](https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN) | [Mad Sin](https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB) | [Chills and Thrills in a Drama of Mad Sins and Mystery \(Remastered\)](https://open.spotify.com/album/2Y2a0lq7MgirW3MR9zAsY5) | 1:57 | 2021-01-16 | 2022-08-06 |
+| [2,3,4](https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN) | [Mad Sin](https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB) | [Chills and Thrills in a Drama of Mad Sins and Mystery \(Remastered\)](https://open.spotify.com/album/2Y2a0lq7MgirW3MR9zAsY5) | 1:57 | 2021-01-16 |  |
 | [A Night to Dismember](https://open.spotify.com/track/4av2c22txXYZvO2AYnui6m) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [A Night to Dismember](https://open.spotify.com/album/1ye8OtqHVQvp5f2CXwDtiY) | 3:18 | 2021-01-16 | 2022-07-29 |
 | [A Night to Dismember](https://open.spotify.com/track/6Oz1iTAMTFQiOVxHZhNlYQ) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:18 | 2021-01-16 |  |
 | [Along Came a Spider](https://open.spotify.com/track/7nO7I8egyptRpmGd9jrlbb) | [Twilight Creeps](https://open.spotify.com/artist/2blScPslJB8s0EnbAE9Whd) | [Along Came a Spider](https://open.spotify.com/album/3G9gWLvNJhn4RqyXDZQkEZ) | 3:39 | 2021-01-16 | 2022-06-13 |
@@ -102,7 +102,7 @@
 | [Walk Like A Zombie](https://open.spotify.com/track/0F56U0Bvvjh0QcqG21USyO) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Bring It On!](https://open.spotify.com/album/3erS3yV4uzIgJlJgmQUVJQ) | 4:07 | 2021-01-16 |  |
 | [Walk Like A Zombie](https://open.spotify.com/track/79gMyKntkCECOnZSbZ5zcP) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Bring It On!](https://open.spotify.com/album/6zFe2Y2pjcoqgNrU8ThTFA) | 4:07 | 2021-01-16 | 2022-07-29 |
 | [Walk Through Walls](https://open.spotify.com/track/4QCeZwh8Df8L8GiSXHloKr) | [The Atom Age](https://open.spotify.com/artist/79UcvR6kEruu3AQ0gYOJUk) | [Walk Through Walls](https://open.spotify.com/album/5LtYw0nyRj8cznP49gOJVA) | 2:28 | 2021-01-16 | 2022-07-29 |
-| [When Oskar Fische Comes to Town](https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 | 2021-01-16 |  |
+| [When Oskar Fische Comes to Town](https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 | 2021-01-16 | 2022-08-09 |
 | [Who Killed The Cheerleader](https://open.spotify.com/track/3Ero9C3m7RlEf1xu5XhFDC) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 4:09 | 2021-01-16 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

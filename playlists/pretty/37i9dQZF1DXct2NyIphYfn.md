@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful French love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,944 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,973 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 5 | [Escale à Madrid](https://open.spotify.com/track/2SpKEnFdyDWnHs1ZD33Lan) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Objets perdus](https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9) | 3:40 |
 | 6 | [INDÉLÉBILE](https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [INDÉLÉBILE](https://open.spotify.com/album/6SYrm2Ynl39i7bkanjPNVK) | 2:50 |
 | 7 | [Les Deux Printemps](https://open.spotify.com/track/0Nic6UN7Gkmc0KEGZeD5lL) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Quatre Saisons Dans Le Désordre](https://open.spotify.com/album/5bbkmESAWYp9QuMzLCLpbe) | 3:14 |
-| 8 | [Le temps de l'amour](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 |
-| 9 | [Mistral gagnant](https://open.spotify.com/track/1MOSRjdAbUhvLNnHCdUEL5) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 2:45 |
+| 8 | [Mistral gagnant](https://open.spotify.com/track/1MOSRjdAbUhvLNnHCdUEL5) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 2:45 |
+| 9 | [Le temps de l'amour](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 |
 | 10 | [Si tu m'aimes demain](https://open.spotify.com/track/14UoUyJ5opQScau6Iw6G0e) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Si tu m'aimes demain](https://open.spotify.com/album/2LjSr9COs39I342Ho6nwtp) | 2:57 |
 | 11 | [Et si tu n'existais pas](https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin](https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg) | 3:26 |
 | 12 | [La vie en rose \- Single Version](https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 3:26 |
@@ -63,14 +63,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 53 | [T'embellis ma vie](https://open.spotify.com/track/6Ej9I1OaT13pHqHqjSn84i) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Le fantastique des astres](https://open.spotify.com/album/4KqXulviLMNPbpvWbaKBOj) | 3:52 |
 | 54 | [Pour que tu m'aimes encore](https://open.spotify.com/track/5iUdu5DddFwvqmnwL0nOBI) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Pour que tu m'aimes encore](https://open.spotify.com/album/7F0oYlWbXKjecsCJS9wUMW) | 4:48 |
 | 55 | [Une chance qu'on s'a](https://open.spotify.com/track/3zgQHblUM4t8JkX7rRLAZI) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3) | [Écoute pas ça](https://open.spotify.com/album/1fx8uI3eEZ8qejgBMrKOhV) | 3:57 |
-| 56 | [Il n'y a que toi](https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t) | 3:21 |
-| 57 | [J'attendais](https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:23 |
+| 56 | [J'attendais](https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:23 |
+| 57 | [Il n'y a que toi](https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t) | 3:21 |
 | 58 | [Ecoute mon coeur](https://open.spotify.com/track/3S2SYHTaWB06riIlXKaOjm) | [Ria Bartok](https://open.spotify.com/artist/72a2NwGKFzbqBp88CGkWKO) | [La Belle Epoque \- EMI's French Girls 1965\-68](https://open.spotify.com/album/5etrwdUj5I4qj9rlGNPJR1) | 3:08 |
 | 59 | [J'aurai cent ans](https://open.spotify.com/track/3dIpMGg4wm2OOSf8sHYHAs) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 4:52 |
 | 60 | [Dis, quand reviendras\-tu ?](https://open.spotify.com/track/69VtPeUVg5gBtaPOZWxSHC) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Fanny Bloom](https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P) | 3:50 |
 | 61 | [Je t'aime moi non plus](https://open.spotify.com/track/3YW3Tw3lLQfuPfklE76F3y) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Jane Birkin & Serge Gainsbourg](https://open.spotify.com/album/2JR65ppK6Z6h1lfV5fy7Fr) | 4:21 |
-| 62 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
-| 63 | [Kraft Dinner](https://open.spotify.com/track/75tmUxexYj2WgMpCdBtdT0) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Lisa LeBlanc](https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V) | 3:11 |
+| 62 | [Kraft Dinner](https://open.spotify.com/track/75tmUxexYj2WgMpCdBtdT0) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Lisa LeBlanc](https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V) | 3:11 |
+| 63 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
 | 64 | [Les Aurores](https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Mara Tremblay](https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6) | 4:05 |
 | 65 | [Je l'aime à mourir](https://open.spotify.com/track/4Gkand3D5w5hXmyWmLtcdT) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Elles chantent Cabrel](https://open.spotify.com/album/6t2XVmjJahrLkLpkcQfss0) | 3:06 |
 | 66 | [Quand j'aime une fois j'aime pour toujours](https://open.spotify.com/track/40PuSCcS6qI3J9iEJeP3od) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Desjardins](https://open.spotify.com/album/2VPoXJSzpdtKp5VTrds7XC) | 3:24 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 69 | [La bohème](https://open.spotify.com/track/2xmXyY7rye6nH5sMObxdbu) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [La Bohème](https://open.spotify.com/album/2AYkNAE68SK0xezVrJNFkC) | 4:07 |
 | 70 | [Quand on n'a que l'amour](https://open.spotify.com/track/5mzSU1ekib32mEpmkzwDlD) | [Catherine Major](https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh) | [Ne me quitte pas : Un hommage à Jacques Brel](https://open.spotify.com/album/5bVK75cf4sDDeF9X4hA9BQ) | 3:37 |
 | 71 | [Quand on n’a que l’amour](https://open.spotify.com/track/3N36V5cm6DGRLSAZJec8sq) | [Cindy Daniel](https://open.spotify.com/artist/3E8tauvVeR2jBiDK4dwXyk) | [La Voix 5](https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW) | 3:35 |
-| 72 | [Chanson d'amour en sol standard](https://open.spotify.com/track/4jAgDuNmbaARi8zEQulw7v) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Mitan](https://open.spotify.com/album/4Zm0Sey2ULq1FS7YYaCQOB) | 5:36 |
-| 73 | [Debout](https://open.spotify.com/track/4WPqwHscUKuB8x1NqK5tT2) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 3:14 |
-| 74 | [Dis, Quand Reviendras\-Tu?](https://open.spotify.com/track/2GjULEQ7hmy05tOrUBcUQv) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Martha Wainwright \(Special Edition\)](https://open.spotify.com/album/1j0yfKMVwRcOnIw0pXn9eh) | 4:09 |
+| 72 | [Dis, Quand Reviendras\-Tu?](https://open.spotify.com/track/2GjULEQ7hmy05tOrUBcUQv) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Martha Wainwright \(Special Edition\)](https://open.spotify.com/album/1j0yfKMVwRcOnIw0pXn9eh) | 4:09 |
+| 73 | [Chanson d'amour en sol standard](https://open.spotify.com/track/4jAgDuNmbaARi8zEQulw7v) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Mitan](https://open.spotify.com/album/4Zm0Sey2ULq1FS7YYaCQOB) | 5:36 |
+| 74 | [Debout](https://open.spotify.com/track/4WPqwHscUKuB8x1NqK5tT2) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 3:14 |
 | 75 | [Jenny](https://open.spotify.com/track/66TPZLJOEAhnIYGGEbpB8G) | [Richard Desjardins](https://open.spotify.com/artist/2zZ8py1CLFzH10bc2unTpn) | [Kanasuta](https://open.spotify.com/album/44gXPii8rK7tAVoZqAQIPQ) | 3:37 |
 
-Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDFjMjg4NTVmN2VhMmEwNjM3ZDMzYTc2YmU2NmE4Nzk1`
+Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDk2MjU4ZmIyMDY0YmM1OGU0NzUwNDgzMzBkN2U0Yjg5`

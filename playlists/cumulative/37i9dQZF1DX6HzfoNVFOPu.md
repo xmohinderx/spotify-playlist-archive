@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-500 songs - 1 day 8 hr 33 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
+501 songs - 1 day 8 hr 36 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Back Against the Wall](https://open.spotify.com/track/0vz64VTiPPBpcmla0QvAI9) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:48 | 2022-01-05 |  |
 | [Back Against The Wall](https://open.spotify.com/track/7giJz5VC4hsZEM7emY8Tic) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/0KcRX7YkMZ4mwOkEiCb9zw) | 3:48 | 2022-01-05 | 2022-07-29 |
 | [Back to School \(Mini Maggit\)](https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:57 | 2022-01-05 |  |
-| [Ball and Biscuit](https://open.spotify.com/track/0O2SYh5AZ0y8MAPOVC4Mxz) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 7:18 | 2022-01-05 |  |
+| [Ball and Biscuit](https://open.spotify.com/track/0O2SYh5AZ0y8MAPOVC4Mxz) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 7:18 | 2022-01-05 | 2022-08-09 |
 | [Ball and Biscuit](https://open.spotify.com/track/1WRG54HMNrvzp6J3buGD24) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/4bud6XY9UtafCOiYzv2vOl) | 7:18 | 2022-01-05 | 2022-07-29 |
 | [Be Like That](https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 4:25 | 2022-01-05 |  |
 | [Beat It \- Studio Version](https://open.spotify.com/track/3UYlFg8KQXEBgR58RgqfZP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Beat It](https://open.spotify.com/album/00OTy9XKOJswXZWNmsVBCH) | 3:46 | 2022-01-05 | 2022-07-29 |
@@ -317,6 +317,7 @@
 | [Oh My God](https://open.spotify.com/track/24KqWcpyrY1COcRPYt2ef5) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:34 | 2022-01-05 | 2022-07-29 |
 | [Ohio Is For Lovers](https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 | 2022-01-05 |  |
 | [Ohio Is for Lovers](https://open.spotify.com/track/6QfnvcOKsdN4Q6exUWVuzn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black and White \- Re\-Issue](https://open.spotify.com/album/1FPDKmotHS1ESWAgjUEqh2) | 4:04 | 2022-01-05 | 2022-05-25 |
+| [Old Yellow Bricks](https://open.spotify.com/track/3BcQFPRZuuUClWStz29WjN) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:07 | 2022-01-05 |  |
 | [Old Yellow Bricks](https://open.spotify.com/track/5KGbRvZyVyKP2AEJMHErB4) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:13 | 2022-01-05 | 2022-07-29 |
 | [On Call](https://open.spotify.com/track/28POcTYQKfkjz6qTIvtjG1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat) | 3:21 | 2022-01-05 | 2022-07-29 |
 | [Only](https://open.spotify.com/track/72X2RPQiMoOjQrdI2B9Olu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth \(Bonus Tracks\)](https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3) | 4:23 | 2022-01-05 | 2022-07-29 |
@@ -335,7 +336,7 @@
 | [Passive](https://open.spotify.com/track/7slyp653Si99N4yQcJ2E9T) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [eMOTIVe](https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4) | 4:10 | 2022-01-05 | 2022-07-24 |
 | [People Say](https://open.spotify.com/track/1Hle8Xb0v0CE4xJR8Ezr89) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [The Satanic Satanist](https://open.spotify.com/album/5HdvwiCT7MRMtTmGBwPpNX) | 2:59 | 2022-01-05 | 2022-07-28 |
 | [Phantom Limb](https://open.spotify.com/track/2aQx1i3XjtB3TSN4J770Iv) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Zl638FA70c4Oxh4AimZLh) | 4:47 | 2022-01-05 | 2022-07-29 |
-| [Phenomenon](https://open.spotify.com/track/3b6uenXXbpCRxXyzFzWi3J) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Phenomenon](https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM) | 2:59 | 2022-01-05 | 2022-05-25 |
+| [Phenomenon](https://open.spotify.com/track/3b6uenXXbpCRxXyzFzWi3J) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Phenomenon](https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM) | 2:59 | 2022-01-05 |  |
 | [Pinch Me](https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Maroon](https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc) | 4:45 | 2022-01-05 |  |
 | [Pioneer To The Falls](https://open.spotify.com/track/1n5knrhh6RZ70VbUnBPGJ7) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/46sLq54Ug5NbSxJg7wvqqK) | 5:42 | 2022-01-05 | 2022-07-29 |
 | [Playing God](https://open.spotify.com/track/4Pm6d1HchNq8x2Q67OkP8L) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 3:02 | 2022-01-05 | 2022-07-22 |
@@ -398,7 +399,7 @@
 | [Sorrow](https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:21 | 2022-01-05 | 2022-07-29 |
 | [Sound Of A Gun](https://open.spotify.com/track/3zFG5dyH5rJfkZ25fgR173) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Revelations](https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt) | 4:20 | 2022-01-05 | 2022-07-29 |
 | [Spaceman](https://open.spotify.com/track/1A8SxnqRK3qabmuN2qxIpa) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:44 | 2022-01-05 |  |
-| [Special K](https://open.spotify.com/track/63peVCtLTPd0aM9x5j97sB) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Black Market Music](https://open.spotify.com/album/7gLNPbL9arQdIl4aj4hBcq) | 3:52 | 2022-01-05 |  |
+| [Special K](https://open.spotify.com/track/63peVCtLTPd0aM9x5j97sB) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Black Market Music](https://open.spotify.com/album/7gLNPbL9arQdIl4aj4hBcq) | 3:52 | 2022-01-05 | 2022-08-09 |
 | [Special Needs](https://open.spotify.com/track/2h0HkReHGCQPOEDZXEMcTO) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/4fUDor6o5gw0b18iYKEaRq) | 5:15 | 2022-01-05 |  |
 | [Spokesman](https://open.spotify.com/track/22yk17jzpiaWLvCQxA3U0A) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Open Your Eyes](https://open.spotify.com/album/6O85lOBu1oF24kkz8XBlCl) | 2:32 | 2022-01-05 | 2022-07-25 |
 | [Spread Your Love](https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw) | 3:45 | 2022-01-05 |  |

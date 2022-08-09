@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:house\">House</a> music lives here. United in one house. Cover: FISHER",
-  "num_followers": 1657664,
+  "num_followers": 1658282,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDdmNTAxMTQ3MjI3MzdlNTUwZTk1NzcwMzcxNGVkMzhi",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGQ5ZGRiY2RhZGE3YzQzZWUzMDc4ZjY4N2IwNmU1MDk1",
   "tracks": [
     {
       "added_at": "2022-07-18 16:40:14",
@@ -697,6 +697,26 @@
       "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All) / Move To The",
+        "url": "https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/7M1125M74qeHedad25bx4U"
+    },
+    {
       "added_at": "2022-05-27 11:57:28",
       "album": {
         "name": "Like That",
@@ -727,26 +747,6 @@
       "duration_ms": 210000,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "B.O.T.A. (Baddest Of Them All) / Move To The",
-        "url": "https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/7M1125M74qeHedad25bx4U"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "We Don\u2019t Need (Club Edit)",
-        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 158462,
-      "name": "We Don\u2019t Need - Club Edit",
-      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "Welcome To The People",
         "url": "https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 160669,
       "name": "Welcome To The People",
       "url": "https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "We Don\u2019t Need (Club Edit)",
+        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 158462,
+      "name": "We Don\u2019t Need - Club Edit",
+      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Love You Like That",
-        "url": "https://open.spotify.com/album/47Nuvze924yiqkfwcXkcTT"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Love You Like That",
-      "url": "https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "In Chicago",
         "url": "https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 186686,
       "name": "In Chicago",
       "url": "https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Love You Like That",
+        "url": "https://open.spotify.com/album/47Nuvze924yiqkfwcXkcTT"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Love You Like That",
+      "url": "https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
+        "name": "Billie (loving arms)",
+        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 217265,
+      "name": "Billie (loving arms)",
+      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Billie (loving arms)",
-        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 217265,
-      "name": "Billie (loving arms)",
-      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "For The Same Man (Nic Fanciulli Remix)",
         "url": "https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4"
       },
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "Tripasia",
         "url": "https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 176791,
       "name": "Tripasia",
       "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/5TbmhZbiBAEM8S0gWYmLJf"
       },
       "artists": [
         {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+          "name": "Zhnark",
+          "url": "https://open.spotify.com/artist/4TFwiKetUJYXrUyTOMKEww"
         }
       ],
-      "duration_ms": 190512,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
+      "duration_ms": 218894,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/0msZYAfoPw8Jbhr8Ufxgs3"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1559,6 +1559,22 @@
       "duration_ms": 215000,
       "name": "Wait A Minute",
       "url": "https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 190512,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1583,22 +1599,6 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "No Diggity",
-        "url": "https://open.spotify.com/album/5TbmhZbiBAEM8S0gWYmLJf"
-      },
-      "artists": [
-        {
-          "name": "Zhnark",
-          "url": "https://open.spotify.com/artist/4TFwiKetUJYXrUyTOMKEww"
-        }
-      ],
-      "duration_ms": 218894,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/0msZYAfoPw8Jbhr8Ufxgs3"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+        "name": "Love Vibration",
+        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+      "duration_ms": 180487,
+      "name": "Love Vibration",
+      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Love Vibration",
-        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
       },
       "artists": [
         {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 180487,
-      "name": "Love Vibration",
-      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
       "added_at": "2022-05-27 11:57:28",

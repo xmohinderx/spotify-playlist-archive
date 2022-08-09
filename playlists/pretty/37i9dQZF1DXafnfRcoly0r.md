@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-[Spotify](https://open.spotify.com/user/spotify) - 551 likes - 72 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 555 likes - 72 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

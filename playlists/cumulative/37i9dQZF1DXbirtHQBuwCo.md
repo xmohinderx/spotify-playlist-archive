@@ -4,7 +4,7 @@
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: DPR IAN\)
 
-364 songs - 19 hr 56 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
+365 songs - 20 hr 0 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [MOVIE \(Feat\. Rohann\)](https://open.spotify.com/track/3iiA4KlKkEa00FwKiFvQn0) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4), [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:19 | 2022-04-19 | 2022-04-21 |
 | [Movies](https://open.spotify.com/track/294UWedgLQooQs8ETGrNWD) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/2rwFQMzjIl55c4uTnxuJ6D) | 1:56 | 2022-04-19 | 2022-07-28 |
 | [MUSE \(Feat\. Paloalto\)](https://open.spotify.com/track/5Quf0BbKIu8IwWxcs8e1ol) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [GENESIO](https://open.spotify.com/artist/2kH3CLwRaAFyaY2bOkHptU), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [MUSE](https://open.spotify.com/album/4xrmFGMgy9cQomzeoAynfv) | 3:47 | 2022-05-28 | 2022-07-16 |
-| [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 | 2022-06-18 |  |
+| [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 | 2022-06-18 | 2022-08-09 |
 | [My World](https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [UTOPIA](https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02) | 2:46 | 2022-06-10 | 2022-06-17 |
 | [NBDY](https://open.spotify.com/track/1V4eSFHQuLj7g05Br8iLWy) | [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Lost In Blue](https://open.spotify.com/album/5VKUK8vtlTPyUcAHOPcff5) | 1:44 | 2022-04-19 | 2022-04-21 |
 | [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 | 2022-07-12 |  |
@@ -303,6 +303,7 @@
 | [Something \(Feat\. Meego, BIG Naughty\)](https://open.spotify.com/track/2feSgXlDUx7WxBpi9E315H) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Something \(Feat\. Meego, BIG Naughty\)](https://open.spotify.com/album/18pPS66a5OD0ebMQGLjYFL) | 3:46 | 2022-06-03 | 2022-06-07 |
 | [Somewhere \(Feat\. GRAY, Hoody, ELO & DeVita\)](https://open.spotify.com/track/0g6THFTGvC9Ci22S3mNtKq) | [GooseBumps](https://open.spotify.com/artist/1QM3jZpgkf0Z53ljiV5VMi), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Somewhere](https://open.spotify.com/album/3RirkkdxaucC74O0by7wZd) | 4:20 | 2022-04-19 | 2022-04-21 |
 | [Song of the rain](https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [Song of the rain](https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn) | 3:34 | 2022-05-11 | 2022-05-29 |
+| [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-08 |  |
 | [Square \(2017\)](https://open.spotify.com/track/0WZhf0isd4av5qlFfKknC3) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 4:21 | 2022-04-19 | 2022-07-29 |
 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 | 2022-08-02 |  |
 | [Step!](https://open.spotify.com/track/6UqGjOs7CS991n848bipBC) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Step!](https://open.spotify.com/album/6m60vpr7y4UA8NmTow50GJ) | 3:17 | 2022-07-24 | 2022-07-28 |

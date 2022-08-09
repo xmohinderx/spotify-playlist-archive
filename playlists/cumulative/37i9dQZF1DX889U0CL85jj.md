@@ -4,7 +4,7 @@
 
 > Just chill.
 
-305 songs - 17 hr 27 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+306 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Water Theme](https://open.spotify.com/track/3teH1kAL5KrlUYosdt2nJI) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Winter Flower](https://open.spotify.com/album/259OLvPj1qoZpCXXQRavBx) | 1:49 | 2021-11-19 |  |
 | [Way Out](https://open.spotify.com/track/1hQ6kSmwbBGLLAjihto6x8) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Way Out](https://open.spotify.com/album/0cFhFaP7KvGdUhvb9g1Iwl) | 3:20 | 2022-04-29 | 2022-07-29 |
 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-06-10 |  |
-| [Way Up](https://open.spotify.com/track/2dcA5V4ADoZQ7jpJwPsGjK) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Way Up](https://open.spotify.com/album/60nfJFRPMc5mhdDwqPnULw) | 2:57 | 2019-09-06 |  |
+| [Way Up](https://open.spotify.com/track/2dcA5V4ADoZQ7jpJwPsGjK) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Way Up](https://open.spotify.com/album/60nfJFRPMc5mhdDwqPnULw) | 2:57 | 2019-09-06 | 2022-08-09 |
 | [Weirdo](https://open.spotify.com/track/2DhST4YlvdtsAbYrPHY0Jc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Weirdo](https://open.spotify.com/album/43pEu8e86LTOto3PsKu8tK) | 3:12 | 2020-04-14 | 2022-01-22 |
 | [Welcome To Kookoo Island](https://open.spotify.com/track/0Y9DRICxOWCErR6Aly5nPV) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/7FaJ9dTtCmlQHbCkKWZsRk) | 2:52 | 2022-08-05 |  |
 | [What if](https://open.spotify.com/track/2nQSYKTUonp2v4HjMeZz0e) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [What if](https://open.spotify.com/album/0fD5MbkW3FkVy7XbbDpiwy) | 3:43 | 2021-06-07 | 2022-01-22 |
@@ -307,6 +307,7 @@
 | [You](https://open.spotify.com/track/5ltWnyTAztyvQb22VXLuYZ) | [Tumaca](https://open.spotify.com/artist/4noRhJshYWUu5XiCSA6CE2) | [You](https://open.spotify.com/album/6PnR1XGJ9dOWkL3l43u6p7) | 3:27 | 2020-06-26 | 2022-01-22 |
 | [you and the everything of everything](https://open.spotify.com/track/1Y8F8VNZ3Ij0MaD8PcpGpW) | [RⱯHM ⚉](https://open.spotify.com/artist/0d5QT5iD8kwkVqqBolki7F) | [you and the everything of everything](https://open.spotify.com/album/3CmN3ZRXYAdz2S3fNtlg49) | 2:40 | 2021-02-02 |  |
 | [You Make The World A Better Place](https://open.spotify.com/track/1OcX5myU73VFwUAanEvnnb) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [You Make The World A Better Place](https://open.spotify.com/album/2QiDDREnAqL3gkqwT0hKmc) | 3:41 | 2021-02-02 | 2022-01-22 |
+| [You Say I'm in Love](https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [You Say I'm in Love](https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN) | 2:56 | 2022-08-08 |  |
 | [You're All I Want](https://open.spotify.com/track/0EUw3ZK8Ti14t6R6FOP8Ty) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [You're All I Want](https://open.spotify.com/album/5lU2BUnMIIe6JcbqV9LXtS) | 4:24 | 2022-06-10 |  |
 | [You're All I Want](https://open.spotify.com/track/4nvLuqwTOZdEJI1fcHXv8h) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [You're All I Want](https://open.spotify.com/album/0C4YWH1f1zcPhIhNIB6S82) | 4:24 | 2020-05-29 | 2022-07-29 |
 | [Your Imagination \(feat\. Jaden\)](https://open.spotify.com/track/2EHQk2I0PFsu1zMa8eHeBB) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Your Imagination \(feat\. Jaden\)](https://open.spotify.com/album/3EyGeq2HBkz5LEm61NPuNo) | 3:17 | 2021-06-07 |  |

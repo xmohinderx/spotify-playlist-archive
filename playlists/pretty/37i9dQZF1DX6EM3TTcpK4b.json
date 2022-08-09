@@ -1,12 +1,12 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Antonio Aguilar",
-  "num_followers": 141314,
+  "num_followers": 141527,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQyNDY3MiwwMDAwMDAwMDljNDdmMWMyM2ZjZTUwM2UyNDFhNTRjYmM4NDg4ZTFm",
+  "snapshot_id": "MTYzOTQyNDY3MiwwMDAwMDAwMDAyNDIxNmM3OGYzOTZiNjJhMTU2MjA0MTJlN2ExMjI0",
   "tracks": [
     {
       "added_at": "2021-12-13 19:44:31",
@@ -171,6 +171,22 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "De Los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -199,38 +215,6 @@
       "duration_ms": 200386,
       "name": "Sabes Una Cosa",
       "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "De Los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -283,6 +267,42 @@
       "duration_ms": 192960,
       "name": "Duele",
       "url": "https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
+        "name": "AYAYAY! (S\u00faper Deluxe)",
+        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Dime C\u00f3mo Quieres",
+      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -351,42 +371,6 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "Me Bebi Tu Recuerdo",
-        "url": "https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "Me Beb\u00ed Tu Recuerdo",
-      "url": "https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "AYAYAY! (S\u00faper Deluxe)",
-        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Dime C\u00f3mo Quieres",
-      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+        "name": "Me Bebi Tu Recuerdo",
+        "url": "https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
         }
       ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+      "duration_ms": 199720,
+      "name": "Me Beb\u00ed Tu Recuerdo",
+      "url": "https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -455,6 +439,22 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
         "name": "Rancher\u00edsimo, Vol. 2",
         "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
       },
@@ -467,38 +467,6 @@
       "duration_ms": 195117,
       "name": "El Hijo Desobediente",
       "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "Lo Mejor De Nosotros",
-        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 260829,
-      "name": "Me Vas A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -535,6 +503,22 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
+        "name": "Lo Mejor De Nosotros",
+        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 260829,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
         "name": "A Todas Las Que Am\u00e9",
         "url": "https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA"
       },
@@ -551,34 +535,18 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 288160,
-      "name": "Mi Talism\u00e1n",
-      "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "El Cantinero",
-        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Te Solt\u00e9 la Rienda",
-      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
+      "duration_ms": 272866,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -615,6 +583,70 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 288160,
+      "name": "Mi Talism\u00e1n",
+      "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
+        "name": "El Cantinero",
+        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 164720,
+      "name": "Por Una Mujer Bonita",
+      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "La Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
         "name": "Que Seas Muy Feliz",
         "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
@@ -647,34 +679,18 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 252440,
-      "name": "La Gran Se\u00f1ora",
-      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 164720,
-      "name": "Por Una Mujer Bonita",
-      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
+      "duration_ms": 204533,
+      "name": "Llamarada",
+      "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -727,18 +743,18 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 204533,
-      "name": "Llamarada",
-      "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
+      "duration_ms": 211773,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -771,22 +787,6 @@
       "duration_ms": 243933,
       "name": "Insensible A Ti (Me Pone A Mil)",
       "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 211773,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -839,18 +839,18 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+        "name": "Con el Mariachi de Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar",
+        "url": "https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 223826,
-      "name": "No Entiendo",
-      "url": "https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B"
+      "duration_ms": 245133,
+      "name": "Inocente Pobre Amigo",
+      "url": "https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -871,18 +871,18 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "Con el Mariachi de Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar",
-        "url": "https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws"
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Inocente Pobre Amigo",
-      "url": "https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ"
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -903,18 +903,18 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+      "duration_ms": 223826,
+      "name": "No Entiendo",
+      "url": "https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -947,6 +947,22 @@
       "duration_ms": 197400,
       "name": "Prefiero Partir",
       "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 144706,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+        "name": "Yo No Fui",
+        "url": "https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
         }
       ],
-      "duration_ms": 144706,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
+      "duration_ms": 292400,
+      "name": "Yo No Fui",
+      "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -1043,22 +1059,6 @@
       "duration_ms": 207360,
       "name": "Cu\u00e1ndo sale la luna",
       "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "Yo No Fui",
-        "url": "https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "Yo No Fui",
-      "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
         "name": "Siempre Estoy Pensando En Ti",
         "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
@@ -1271,34 +1255,18 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "Boleros-Boleros-Bole",
-        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 131626,
-      "name": "Media Vuelta",
-      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "Lo Mas Romantico De Pedro Fernandez",
-        "url": "https://open.spotify.com/album/3L2vIaatkaHUXhOuX3GvmZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/5hT4Cx4hQrm3cCauIdKceF"
+      "duration_ms": 233000,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -1335,6 +1303,38 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
+        "name": "Boleros-Boleros-Bole",
+        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 131626,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
+        "name": "Lo Mas Romantico De Pedro Fernandez",
+        "url": "https://open.spotify.com/album/3L2vIaatkaHUXhOuX3GvmZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/5hT4Cx4hQrm3cCauIdKceF"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
         "name": "Con Mariachi",
         "url": "https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF"
       },
@@ -1347,22 +1347,6 @@
       "duration_ms": 211266,
       "name": "Besando La Cruz - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/4WYshCZOAaCGFRcXfJiOEZ"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "En Mi Viejo San Juan",
-      "url": "https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -1399,8 +1383,8 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "La Reina Canta A Mexico",
-        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
+        "name": "Tradicional",
+        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
       "artists": [
         {
@@ -1408,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 251666,
-      "name": "Es Demasiado Tarde - Remasterizado",
-      "url": "https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV"
+      "duration_ms": 171733,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "En Mi Viejo San Juan",
+      "url": "https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
         "name": "Jorge Negrete, Vol II.",
         "url": "https://open.spotify.com/album/0EdYht3AXlnmT4saeMDjFN"
       },
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
+        "name": "Ones",
+        "url": "https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/3xW3exLpM6NTHdp2wkg1LR"
+    },
+    {
+      "added_at": "2021-12-13 19:44:31",
+      "album": {
         "name": "Un Pu\u00f1o de Tierra",
         "url": "https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 188453,
       "name": "Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/7EGYbyTTEmmdqUu4MV6eHD"
-    },
-    {
-      "added_at": "2021-12-13 19:44:31",
-      "album": {
-        "name": "Tradicional",
-        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
     },
     {
       "added_at": "2021-12-13 19:44:31",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2021-12-13 19:44:31",
       "album": {
-        "name": "Ones",
-        "url": "https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6"
+        "name": "La Reina Canta A Mexico",
+        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 199200,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/3xW3exLpM6NTHdp2wkg1LR"
+      "duration_ms": 251666,
+      "name": "Es Demasiado Tarde - Remasterizado",
+      "url": "https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV"
     },
     {
       "added_at": "2021-12-13 19:44:31",

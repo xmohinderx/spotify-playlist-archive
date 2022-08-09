@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth jazz for your romantic evening.",
-  "num_followers": 35488,
+  "num_followers": 35579,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQ4NzQ4MSwwMDAwMDAwMDg2ODdmMjJhYjAzZGFhNDNmMmEwYmIxMDI1NGUwY2E1",
+  "snapshot_id": "MTY1NjQ4NzQ4MSwwMDAwMDAwMDdjODYwMTY4YmU4YjExYzk4OTQwMzUxZTM1ZGQzYmZi",
   "tracks": [
     {
       "added_at": "2022-06-29 07:24:41",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-06-29 07:24:41",
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
+      },
+      "artists": [
+        {
+          "name": "Jeff Golub",
+          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "On The Wes Side",
+      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
+    },
+    {
+      "added_at": "2022-06-29 07:24:41",
+      "album": {
         "name": "Honestly",
         "url": "https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 257666,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/5ptws9ZfMhiK0EEEKlDKHD"
-    },
-    {
-      "added_at": "2022-06-29 07:24:41",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
-      },
-      "artists": [
-        {
-          "name": "Jeff Golub",
-          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "On The Wes Side",
-      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
     },
     {
       "added_at": "2022-06-29 07:24:41",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-06-29 07:24:41",
       "album": {
-        "name": "Double Vision",
-        "url": "https://open.spotify.com/album/2XzZV3u8qwJLOke0J8DvGB"
-      },
-      "artists": [
-        {
-          "name": "Bob James",
-          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
-        },
-        {
-          "name": "David Sanborn",
-          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
-        }
-      ],
-      "duration_ms": 408466,
-      "name": "Maputo",
-      "url": "https://open.spotify.com/track/0QM8IOYgFzvWcBYn0oi0Cs"
-    },
-    {
-      "added_at": "2022-06-29 07:24:41",
-      "album": {
         "name": "GK",
         "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
@@ -315,22 +295,6 @@
       "duration_ms": 287840,
       "name": "Floating in Bahia",
       "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
-    },
-    {
-      "added_at": "2022-06-29 07:24:41",
-      "album": {
-        "name": "Work to Do",
-        "url": "https://open.spotify.com/album/6THuvzMAocj3aImePgicNH"
-      },
-      "artists": [
-        {
-          "name": "Fattburger",
-          "url": "https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi"
-        }
-      ],
-      "duration_ms": 293133,
-      "name": "100 Ways",
-      "url": "https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc"
     },
     {
       "added_at": "2022-06-29 07:24:41",
@@ -351,18 +315,54 @@
     {
       "added_at": "2022-06-29 07:24:41",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
+        "name": "Work to Do",
+        "url": "https://open.spotify.com/album/6THuvzMAocj3aImePgicNH"
       },
       "artists": [
         {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+          "name": "Fattburger",
+          "url": "https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi"
         }
       ],
-      "duration_ms": 270773,
-      "name": "Who's That Lady",
-      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
+      "duration_ms": 293133,
+      "name": "100 Ways",
+      "url": "https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc"
+    },
+    {
+      "added_at": "2022-06-29 07:24:41",
+      "album": {
+        "name": "Double Vision",
+        "url": "https://open.spotify.com/album/2XzZV3u8qwJLOke0J8DvGB"
+      },
+      "artists": [
+        {
+          "name": "Bob James",
+          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+        },
+        {
+          "name": "David Sanborn",
+          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+        }
+      ],
+      "duration_ms": 408466,
+      "name": "Maputo",
+      "url": "https://open.spotify.com/track/0QM8IOYgFzvWcBYn0oi0Cs"
+    },
+    {
+      "added_at": "2022-06-29 07:24:41",
+      "album": {
+        "name": "Sweet Thing",
+        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
     },
     {
       "added_at": "2022-06-29 07:24:41",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-06-29 07:24:41",
       "album": {
-        "name": "Sweet Thing",
-        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
-    },
-    {
-      "added_at": "2022-06-29 07:24:41",
-      "album": {
         "name": "Love's Melody",
         "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
@@ -419,18 +403,34 @@
     {
       "added_at": "2022-06-29 07:24:41",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
         }
       ],
-      "duration_ms": 269893,
-      "name": "Pleasure Seeker",
-      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
+      "duration_ms": 270773,
+      "name": "Who's That Lady",
+      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
+    },
+    {
+      "added_at": "2022-06-29 07:24:41",
+      "album": {
+        "name": "Lil' Man Soul",
+        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 245226,
+      "name": "I'm Waiting For You",
+      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
     },
     {
       "added_at": "2022-06-29 07:24:41",
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-06-29 07:24:41",
       "album": {
-        "name": "Lil' Man Soul",
-        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
       "artists": [
         {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 245226,
-      "name": "I'm Waiting For You",
-      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
+      "duration_ms": 269893,
+      "name": "Pleasure Seeker",
+      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
     },
     {
       "added_at": "2022-06-29 07:24:41",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-06-29 07:24:41",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/0L3yaukGbiP8X9BGHMGNOt"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
         }
       ],
-      "duration_ms": 254266,
-      "name": "Soul Dance",
-      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
+      "duration_ms": 238506,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/5Ok60qRT2vAj3n9qLa9Ez6"
     },
     {
       "added_at": "2022-06-29 07:24:41",
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-06-29 07:24:41",
       "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/0L3yaukGbiP8X9BGHMGNOt"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
       "artists": [
         {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 238506,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/5Ok60qRT2vAj3n9qLa9Ez6"
+      "duration_ms": 254266,
+      "name": "Soul Dance",
+      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
     },
     {
       "added_at": "2022-06-29 07:24:41",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-06-29 07:24:41",
       "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 335045,
-      "name": "Silk",
-      "url": "https://open.spotify.com/track/1KXOfTQldUODRAqM6cFyOd"
-    },
-    {
-      "added_at": "2022-06-29 07:24:41",
-      "album": {
         "name": "Excusez-Moi",
         "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 356040,
       "name": "Dreamwalk",
       "url": "https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni"
+    },
+    {
+      "added_at": "2022-06-29 07:24:41",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 335045,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/1KXOfTQldUODRAqM6cFyOd"
     },
     {
       "added_at": "2022-06-29 07:24:41",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-06-29 07:24:41",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU"
-      },
-      "artists": [
-        {
-          "name": "Chieli Minucci",
-          "url": "https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX"
-        }
-      ],
-      "duration_ms": 294733,
-      "name": "Anything and Everything",
-      "url": "https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g"
-    },
-    {
-      "added_at": "2022-06-29 07:24:41",
-      "album": {
         "name": "It's On Tonight",
         "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 392506,
       "name": "Sensuality",
       "url": "https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7"
+    },
+    {
+      "added_at": "2022-06-29 07:24:41",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU"
+      },
+      "artists": [
+        {
+          "name": "Chieli Minucci",
+          "url": "https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX"
+        }
+      ],
+      "duration_ms": 294733,
+      "name": "Anything and Everything",
+      "url": "https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g"
     },
     {
       "added_at": "2022-06-29 07:24:41",

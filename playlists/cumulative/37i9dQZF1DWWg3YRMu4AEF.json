@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 350266,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
@@ -1637,6 +1637,28 @@
       "duration_ms": 205480,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2"
+    },
+    {
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216906,
+      "name": "Summer Nights - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
     },
     {
       "album": {

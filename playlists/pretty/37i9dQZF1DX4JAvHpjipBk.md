@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Calvin Harris, benny blanco, BTS & Snoop Dogg, YoungBoy Never Broke Again, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,945,031 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,945,261 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 25 | [Bitch Back \(feat\. FLETCHER\)](https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Bitch Back](https://open.spotify.com/album/5if1VcWOdT94468kyjgN3Z) | 2:23 |
 | 26 | [Highlight](https://open.spotify.com/track/5FMwi15wu4jDg48lzOtU6j) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Highlight](https://open.spotify.com/album/6rqyzABnm2XOj7MT1sfgMG) | 2:33 |
 | 27 | [Immaculate](https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Immaculate](https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg) | 3:00 |
-| 28 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 |
+| 28 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 |
 | 29 | [Leave Her Alone](https://open.spotify.com/track/5SIUzPiJGiWVkbMNR5Hiym) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 3:17 |
 | 30 | [Local God](https://open.spotify.com/track/3XADz7YwWlGDErHwv5F093) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Local God](https://open.spotify.com/album/50uQ50fSsmddC5xAHLb49w) | 3:00 |
 | 31 | [It's All on U](https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [It's All on U](https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy) | 2:46 |

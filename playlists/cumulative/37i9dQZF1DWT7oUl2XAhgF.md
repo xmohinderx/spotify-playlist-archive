@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-161 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/19AFs6pZ8WyCXnrxjl6M3m)
+162 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/19AFs6pZ8WyCXnrxjl6M3m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 | 2022-01-07 |  |
 | [A Little Honey](https://open.spotify.com/track/1q5wF1wZQD41ura41yVqXb) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 3:10 | 2021-07-09 |  |
 | [All My Love](https://open.spotify.com/track/2RYxyOzv9g2llmMTnR8eQo) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj) | [All My Love](https://open.spotify.com/album/2vrwrP2BU6HFhs3rhvAAq6) | 5:16 | 2022-07-01 | 2022-07-30 |
+| [Atlas](https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:47 | 2021-07-09 |  |
 | [Atlas](https://open.spotify.com/track/7HDxQnqEJm7sAw6BiVH6q1) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 3:47 | 2021-07-09 | 2022-07-30 |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-10 | 2022-07-29 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2021-12-10 |  |
@@ -118,7 +119,7 @@
 | [Piece of Me](https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/76yrGYfxRIv1FnVU01IhdS) | 3:42 | 2021-07-09 | 2022-07-29 |
 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 | 2021-07-09 |  |
 | [Real Contender](https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Real Contender](https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9) | 3:21 | 2022-02-18 | 2022-07-29 |
-| [Regenerate](https://open.spotify.com/track/6eFsavqVXRlyeSnlX75pc4) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Big Crown Vaults Vol\. 1 \- Lee Fields & The Expressions](https://open.spotify.com/album/2uKHclIQ4IphYCgJyKfSCe) | 3:32 | 2021-07-09 |  |
+| [Regenerate](https://open.spotify.com/track/6eFsavqVXRlyeSnlX75pc4) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Big Crown Vaults Vol\. 1 \- Lee Fields & The Expressions](https://open.spotify.com/album/2uKHclIQ4IphYCgJyKfSCe) | 3:32 | 2021-07-09 | 2022-08-09 |
 | [Regenerate](https://open.spotify.com/track/6jCNwAdRC9jBygVHiusWvC) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Big Crown Vaults Vol\. 1 \- Lee Fields & The Expressions](https://open.spotify.com/album/2pMqRfJFeY9aWT7zEagauL) | 3:32 | 2021-07-09 | 2022-07-29 |
 | [Ride or Die](https://open.spotify.com/track/40wfUw3Vf1V1a46CibHmt7) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/4ogV05oprfriua7n9icbvN) | 4:14 | 2021-08-02 | 2022-07-29 |
 | [Ride or Die](https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 4:14 | 2021-08-02 |  |

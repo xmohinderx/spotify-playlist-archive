@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-188 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
+189 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Before I Let Go](https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Summer Horns II From A To Z](https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT) | 4:54 | 2021-07-12 |  |
 | [Break the Ice](https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Silver Lining](https://open.spotify.com/album/6XCbKSocHmrPg2w4P16FXZ) | 4:09 | 2021-07-12 | 2022-07-28 |
 | [Breakin' Thru](https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' Thru](https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI) | 4:30 | 2021-07-12 |  |
-| [Bring It Back \[Feat\. Dontae Winslow\]](https://open.spotify.com/track/7sKn66UsPHo0zFnZbYwr2K) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Dontae Winslow](https://open.spotify.com/artist/7eyDpUsaGy4plNy33ahyca) | [Bring It Back](https://open.spotify.com/album/5ehU6ep0HbBgBD0tWVysYu) | 3:36 | 2022-07-15 |  |
+| [Bring It Back \[Feat\. Dontae Winslow\]](https://open.spotify.com/track/7sKn66UsPHo0zFnZbYwr2K) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Dontae Winslow](https://open.spotify.com/artist/7eyDpUsaGy4plNy33ahyca) | [Bring It Back](https://open.spotify.com/album/5ehU6ep0HbBgBD0tWVysYu) | 3:36 | 2022-07-15 | 2022-08-09 |
 | [Butter](https://open.spotify.com/track/6QEGpwc5mH2tB1TOMYtr7L) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 5:04 | 2021-07-12 |  |
 | [Cachaca](https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 4:03 | 2021-07-12 |  |
 | [Can You Feel It](https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Can You Feel It](https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh) | 4:03 | 2021-07-12 |  |
@@ -171,11 +171,12 @@
 | [Tale of Two Cities](https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Talk of the Town](https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7) | 4:15 | 2021-07-12 |  |
 | [Tender \- Remix](https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0) | [Daniel Chia](https://open.spotify.com/artist/6ntBTBKJKCqXEwDLevDm79), [Colin Watson](https://open.spotify.com/artist/0P4g915UEZLSjxKmVJwy3f) | [Tender \(Remix\)](https://open.spotify.com/album/3Hu6rLwI8Cqh4NciEwpfmX) | 5:03 | 2021-07-12 |  |
 | [The Bottom Line](https://open.spotify.com/track/1o1CuXwRdGmlmcpEiepgDQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [The Bottom Line](https://open.spotify.com/album/5LyajQP5gTpHwL9Xd1xM5S) | 3:52 | 2021-07-12 | 2022-07-29 |
+| [The Bottom Line](https://open.spotify.com/track/5ekn44iRRWaZhixvTDGetR) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:52 | 2021-07-12 |  |
 | [The Goddess](https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The Goddess](https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO) | 4:06 | 2021-10-01 |  |
 | [The Lucky One](https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Play](https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4) | 4:52 | 2021-07-12 |  |
 | [The Lucky One](https://open.spotify.com/track/5DZG7foxuMefwnYHz14hLj) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Play](https://open.spotify.com/album/2p3hE6Y7dBrslBKAbripCm) | 4:52 | 2021-07-12 | 2022-07-28 |
 | [The Sax Pack](https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB) | [The Sax Pack](https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA) | [The Sax Pack](https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN) | 3:34 | 2021-07-12 |  |
-| [The Whisper of Your Heart](https://open.spotify.com/track/726pv7bhUv9r2ol9oIzehq) | [Igor Gerzina](https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW) | [The Whisper of Your Heart](https://open.spotify.com/album/413FMdhsdjpe4rWytLFtCW) | 4:03 | 2021-07-12 | 2022-08-08 |
+| [The Whisper of Your Heart](https://open.spotify.com/track/726pv7bhUv9r2ol9oIzehq) | [Igor Gerzina](https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW) | [The Whisper of Your Heart](https://open.spotify.com/album/413FMdhsdjpe4rWytLFtCW) | 4:03 | 2021-07-12 |  |
 | [Tick Tock](https://open.spotify.com/track/46ExhGFngL8g3zqI9r8jCF) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Tick Tock](https://open.spotify.com/album/5IGALW2WK0o565S36TYphU) | 4:07 | 2021-07-12 | 2022-07-29 |
 | [Today](https://open.spotify.com/track/2q31jbhT4UKTd0hD79yPJQ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Golden Hour](https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1) | 3:05 | 2021-07-12 |  |
 | [Together Again](https://open.spotify.com/track/7igzgZaMWs7r1YVCC3orR0) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [The Dance](https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb) | 4:15 | 2021-07-12 |  |
@@ -195,6 +196,6 @@
 | [Windfall](https://open.spotify.com/track/2JeI65ZzFWhma9NjHN7ZGm) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Windfall](https://open.spotify.com/album/5GCIdDoi0JTpnZtDgb2Zh4) | 4:30 | 2021-07-12 | 2022-07-29 |
 | [Windfall](https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Life And Times](https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1) | 4:30 | 2021-07-12 |  |
 | [Work Wit' It](https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY) | [The Story of Jaz](https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3) | 4:15 | 2021-07-12 | 2022-07-28 |
-| [You're My Joy](https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Serenity](https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV) | 3:37 | 2021-07-12 |  |
+| [You're My Joy](https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Serenity](https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV) | 3:37 | 2021-07-12 | 2022-08-09 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

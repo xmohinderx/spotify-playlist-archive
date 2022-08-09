@@ -1,29 +1,13 @@
 {
   "description": "consider this an RSVP to littest wedding parties ",
-  "num_followers": 504,
+  "num_followers": 506,
   "original_name": "Small Chops ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMDE2OGJlNThlMmM4YzZhMjIxNGM2YzliNWRhZWMwNzM3",
+  "snapshot_id": "MTY1OTkzMzAzNywwMDAwMDAwMDI0NTZmMzViNDg2ZTkzZTA4YWZiMDQ1MWI5ZDk0NDg1",
   "tracks": [
-    {
-      "added_at": "2022-07-22 04:42:53",
-      "album": {
-        "name": "Waje 2.0",
-        "url": "https://open.spotify.com/album/6Nob3kE5M2ZpgsIoIjRJnH"
-      },
-      "artists": [
-        {
-          "name": "Waje",
-          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
-        }
-      ],
-      "duration_ms": 124714,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/6cUNVadrO35cer0wgG7vVY"
-    },
     {
       "added_at": "2022-02-11 09:43:54",
       "album": {
@@ -63,6 +47,26 @@
       "duration_ms": 212005,
       "name": "Pakurumo",
       "url": "https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu"
+    },
+    {
+      "added_at": "2022-08-08 04:30:36",
+      "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 147326,
+      "name": "Knee Down",
+      "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
     },
     {
       "added_at": "2022-06-13 07:07:56",
@@ -123,6 +127,22 @@
     {
       "added_at": "2022-02-11 09:43:54",
       "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
+    },
+    {
+      "added_at": "2022-02-11 09:43:54",
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp"
       },
@@ -179,6 +199,22 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "added_at": "2022-07-22 04:42:53",
+      "album": {
+        "name": "Waje 2.0",
+        "url": "https://open.spotify.com/album/6Nob3kE5M2ZpgsIoIjRJnH"
+      },
+      "artists": [
+        {
+          "name": "Waje",
+          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
+        }
+      ],
+      "duration_ms": 124714,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/6cUNVadrO35cer0wgG7vVY"
     },
     {
       "added_at": "2022-02-11 09:43:54",
@@ -263,22 +299,6 @@
       "duration_ms": 162352,
       "name": "Naked Wire",
       "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
-    },
-    {
-      "added_at": "2022-02-11 09:43:54",
-      "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 249320,
-      "name": "Assurance",
-      "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
     },
     {
       "added_at": "2022-07-14 23:00:00",

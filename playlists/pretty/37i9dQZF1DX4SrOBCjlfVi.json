@@ -1,12 +1,12 @@
 {
   "description": "All the New Joints featuring DJ Khaled, Trippie Redd, and Lil Tecca. Cover: Youngboy NBA",
-  "num_followers": 176026,
+  "num_followers": 176197,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDQ1N2FiNGI5MDAxMGQ1NDY4OWMzOTllN2U0ZjdiYTg5",
+  "snapshot_id": "MTY1OTk4OTk1MSwwMDAwMDAwMDk3YzBiNjIwOTdiMDVmNzFkZGVlMmYzNmMxOWQyYmVh",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -35,26 +35,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "The Last Slimeto",
-        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 141166,
-      "name": "Home Ain't Home (feat. Rod Wave)",
-      "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Big 14 (feat. Offset & Moneybagg Yo)",
         "url": "https://open.spotify.com/album/4QjFj3RCLsh7x7mwdaaEfO"
       },
@@ -75,22 +55,6 @@
       "duration_ms": 247458,
       "name": "Big 14 (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/7rQ84WsT2Wcnrz5gTmbGmw"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Faster",
-        "url": "https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 129638,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -119,6 +83,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 129638,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "The Last Slimeto",
         "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 132750,
       "name": "Umm Hmm",
       "url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Slide (Ft. 21 Savage / Remix)",
+        "url": "https://open.spotify.com/album/2R8xL4YlMBUYBDqEyhX50g"
+      },
+      "artists": [
+        {
+          "name": "Madmarcc",
+          "url": "https://open.spotify.com/artist/3o6rIhI1Ahunc62U1tx6tg"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 155135,
+      "name": "Slide (Ft. 21 Savage / Remix)",
+      "url": "https://open.spotify.com/track/3479IDKcKrsY7JDZjNXfHW"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -171,6 +171,46 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 141166,
+      "name": "Home Ain't Home (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "It's All on U",
+        "url": "https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 166265,
+      "name": "It's All on U",
+      "url": "https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "LORD FORGIVE ME",
         "url": "https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh"
       },
@@ -180,12 +220,12 @@
           "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
         },
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
           "name": "Pharrell Williams",
           "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
           "name": "Fat Nwigwe",
@@ -211,26 +251,6 @@
       "duration_ms": 116425,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/3i3oA4XnvbSINy6pYOkFax"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Slide (Ft. 21 Savage / Remix)",
-        "url": "https://open.spotify.com/album/2R8xL4YlMBUYBDqEyhX50g"
-      },
-      "artists": [
-        {
-          "name": "Madmarcc",
-          "url": "https://open.spotify.com/artist/3o6rIhI1Ahunc62U1tx6tg"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 155135,
-      "name": "Slide (Ft. 21 Savage / Remix)",
-      "url": "https://open.spotify.com/track/3479IDKcKrsY7JDZjNXfHW"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -343,26 +363,6 @@
       "duration_ms": 278443,
       "name": "JUST SAY THAT (Remix) (feat. Quavo & Glorilla)",
       "url": "https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "It's All on U",
-        "url": "https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy"
-      },
-      "artists": [
-        {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 166265,
-      "name": "It's All on U",
-      "url": "https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3"
     },
     {
       "added_at": "2022-08-05 04:00:00",

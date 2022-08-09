@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,674 likes - 80 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,759 likes - 80 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 21 | [Qué Bello \- Versión Salsa](https://open.spotify.com/track/3yeIWitSXgDRkBBuQWDbQZ) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Qué Bello \(Versión Salsa\)](https://open.spotify.com/album/6HuzvoO0eHtOKWz92XuBRf) | 3:56 |
 | 22 | [Sincero \- Versión Salsa](https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG) | 3:05 |
 | 23 | [Cartas Sobre La Mesa](https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cartas Sobre La Mesa](https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi) | 3:11 |
-| 24 | [Dime Cómo Hago](https://open.spotify.com/track/5SQMbspeEIYJPkXDWeiOJH) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Oscarcito](https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ) | [Dime Cómo Hago](https://open.spotify.com/album/5vab2Rt5XSdV8QAk1pqAqO) | 3:48 |
+| 24 | [Dime Cómo Hago](https://open.spotify.com/track/3WSASuEFLKfnGbn3ZelPdu) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Oscarcito](https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ) | [Dime Cómo Hago](https://open.spotify.com/album/5JvSBEoi4cOPAdFMpR178G) | 3:48 |
 | 25 | [Mala](https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Mala](https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY) | 3:48 |
 | 26 | [Citas Clandestinas](https://open.spotify.com/track/0uRvViYnZWTRxwODPtwfn5) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Citas Clandestinas](https://open.spotify.com/album/2dfna1St5Mu6i9BnBKwSgX) | 5:33 |
 | 27 | [Deseándote](https://open.spotify.com/track/1THrLq1IPWwpisMdF9Ivya) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 4:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Hablame de Ti](https://open.spotify.com/track/7eCE1RHUfuYQUJEBAoIGK7) | [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Hablame de Ti](https://open.spotify.com/album/1gOzjKHK9YBiKQWz87rxhB) | 4:30 |
 | 80 | [Vamos a Escapar \- Salsa Version](https://open.spotify.com/track/1A474NyT5UKjqElE2JN6Km) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Vamos a Escapar](https://open.spotify.com/album/1QB4xPIhfndD41wrNJhXKw) | 4:34 |
 
-Snapshot ID: `MTY1Nzg2MTE0OSwwMDAwMDAwMDE0YzgwZWY5MTU4NTIyMzliNzQ5NjBmMDgyZDQ0Njgx`
+Snapshot ID: `MTY1Nzg2MTE0OSwwMDAwMDAwMDc1NGY5NjY1MzRmNmQ2Yzk2MzUyOGNhZGRhYjJmOTM3`

@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 1547,
+  "num_followers": 1567,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4NTk1OCwwMDAwMDAwMGE0YTJjNTYyMzRjMDg0YjlmNzQyZDRkOWYzZDJlZjll",
+  "snapshot_id": "MTY1OTY4NTk1OCwwMDAwMDAwMGY3YjA4OGNmZDEyMjlhYjViMGI5ZGNiYmM0YTNhMTE0",
   "tracks": [
     {
       "added_at": "2022-06-30 23:00:00",
@@ -449,6 +449,22 @@
       "url": "https://open.spotify.com/track/5PSYn0XVImstXPFFDtajEK"
     },
     {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+    },
+    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "WASTELAND",
@@ -467,22 +483,6 @@
       "duration_ms": 198005,
       "name": "GHETTO GATSBY (FEAT. ALICIA KEYS)",
       "url": "https://open.spotify.com/track/2krESug6AyfOL07tlaGwts"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -527,22 +527,6 @@
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Lie Again",
-        "url": "https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "Lie Again",
-      "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -599,6 +583,22 @@
       "duration_ms": 176882,
       "name": "Break Up Twice",
       "url": "https://open.spotify.com/track/7Bzgs1crJViC1NEliHSp8O"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Lie Again",
+        "url": "https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 187027,
+      "name": "Lie Again",
+      "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -989,6 +989,38 @@
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 150280,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+    },
+    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Pain",
@@ -1007,22 +1039,6 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
         "name": "Letter To Ur Ex",
         "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 134279,
       "name": "Letter To Ur N(ex)t",
       "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 150280,
-      "name": "5 Star",
-      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1101,54 +1101,6 @@
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
     },
     {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "ASE - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "ASE - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Sempe (Acoustic)",
-        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "Sempe - Acoustic",
-      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Riddim 5",
-        "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
-    },
-    {
       "added_at": "2022-08-05 07:52:38",
       "album": {
         "name": "Playboy",
@@ -1171,6 +1123,54 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Sempe (Acoustic)",
+        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "Sempe - Acoustic",
+      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "ASE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "ASE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Riddim 5",
+        "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"
     },
     {
+      "added_at": "2022-08-05 07:52:38",
+      "album": {
+        "name": "Personal Baby",
+        "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 173646,
+      "name": "Personal Baby",
+      "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
+    },
+    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Boy Alone",
@@ -1309,22 +1325,6 @@
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
     },
     {
-      "added_at": "2022-08-05 07:52:38",
-      "album": {
-        "name": "Personal Baby",
-        "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 173646,
-      "name": "Personal Baby",
-      "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
-    },
-    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "A Night In Cocody",
@@ -1349,7 +1349,7 @@
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
     },
     {
-      "added_at": "2022-06-24 06:21:37",
+      "added_at": "2022-08-05 07:52:38",
       "album": {
         "name": "B A H D",
         "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
@@ -1358,27 +1358,15 @@
         {
           "name": "Falz",
           "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 143300,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/1MQaVZyTK4Fqm8OZy3wE6q"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Naked Wire",
-        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
-      },
-      "artists": [
+        },
         {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+          "name": "chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Naked Wire",
-      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
+      "duration_ms": 147326,
+      "name": "Knee Down",
+      "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1399,6 +1387,42 @@
       "duration_ms": 169325,
       "name": "Karolina",
       "url": "https://open.spotify.com/track/0NkWxvR0jlPVgQiaBdma3U"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Naked Wire",
+        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Naked Wire",
+      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
+    },
+    {
+      "added_at": "2022-08-05 07:52:38",
+      "album": {
+        "name": "Sounds of My World (Deluxe)",
+        "url": "https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 152523,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1469,44 +1493,20 @@
       "url": "https://open.spotify.com/track/5pGbQzcWqT5HarQDNpgVfa"
     },
     {
-      "added_at": "2022-08-05 07:52:38",
+      "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "Sounds of My World (Deluxe)",
-        "url": "https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
         }
       ],
-      "duration_ms": 152523,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
-    },
-    {
-      "added_at": "2022-08-05 07:52:38",
-      "album": {
-        "name": "B A H D",
-        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 147326,
-      "name": "Knee Down",
-      "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
+      "duration_ms": 197498,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj"
     }
   ],
   "unique_name": "Cocoa Butter ",

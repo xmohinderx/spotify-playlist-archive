@@ -4,7 +4,7 @@
 
 > The leading wave of Latin Electronic music\. Cover: Samantha Sánchez
 
-123 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
+124 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Soy Así \(Summer Mix\)](https://open.spotify.com/track/6kuUlT2BNvjvmlOlQIJ14U) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Soy Así \(Summer Mix\)](https://open.spotify.com/album/2canxUfytOjMJVfmSbFCRp) | 2:58 | 2022-03-22 | 2022-04-29 |
 | [Stay With Me](https://open.spotify.com/track/6Xdpx96oFxS35VeGSbOjxO) | [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Stay With Me](https://open.spotify.com/album/5EtTgPcghle0Nna7MKRwBl) | 3:04 | 2022-06-23 |  |
 | [Switch It \- Tom & Collins Remix](https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Switch It \- Tom & Collins Remix](https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk) | 3:14 | 2022-03-22 |  |
+| [Tacones Rojos \- Tiësto Remix](https://open.spotify.com/track/5h5q82KQiiO92tiaGgb2xF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma +](https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX) | 3:22 | 2022-08-08 |  |
 | [Tengo Ganas De Ti \(feat\. Jeferson Miranda\)](https://open.spotify.com/track/4ZIeiVDTTYvbZE4BhehQv5) | [Antonio Sagrero](https://open.spotify.com/artist/5DAKth4Evz4tQcA6Lc1sVv), [Abbsolut](https://open.spotify.com/artist/6kb3XQy1RIqL58U53r46Bf), [Jose Blanco](https://open.spotify.com/artist/7L7ur1XM3DRiorgEQGto9k), [Jeferson Miranda](https://open.spotify.com/artist/4iwxOwHQxgKj6CdEMCz079) | [Tengo Ganas De Ti \(feat\. Jeferson Miranda\)](https://open.spotify.com/album/1NYZLGlVu2gisqlDamXJKK) | 5:01 | 2022-03-22 | 2022-04-29 |
 | [Tequila](https://open.spotify.com/track/08r8gksAHDMsrqnmLTmZgv) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Lazy Bear](https://open.spotify.com/artist/3DUHqp1EQvqsbodW3qKDH9) | [Tequila](https://open.spotify.com/album/35OTsIUefbbQqnWq6j8jMC) | 2:19 | 2022-03-22 | 2022-04-29 |
 | [The Club](https://open.spotify.com/track/6PlSs5hJFTujS9yMJuF7Ty) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Jon Phlox](https://open.spotify.com/artist/7E556Tw7pnOZl22UklMZYW) | [The Club](https://open.spotify.com/album/6Vic2QsA1mGgnl0oPB5klW) | 2:26 | 2022-06-06 |  |

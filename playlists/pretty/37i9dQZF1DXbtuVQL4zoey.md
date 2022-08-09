@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,908 likes - 294 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,973 likes - 294 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 135 | [How About This](https://open.spotify.com/track/29i0fM2WgShkB2lnb6GnBv) | [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [How About This](https://open.spotify.com/album/1nfiKDhf3ourZoNjqCAfdr) | 1:51 |
 | 136 | [candy](https://open.spotify.com/track/1VAA1DDsPBI5HtHKz71szq) | [whknws.](https://open.spotify.com/artist/7ppgTDZ2LUf9ArtdgkZnX3) | [candy](https://open.spotify.com/album/04CTvp4lpryXBremwXAnKt) | 1:25 |
 | 137 | [warm ocean](https://open.spotify.com/track/3lN0whHnarXeTmsRpJ1CsI) | [Hiest](https://open.spotify.com/artist/3UAJdhJ0DUbtawUmyYhMpv) | [warm ocean](https://open.spotify.com/album/0S0U4cxsfk2YIHFlgK3FDX) | 1:56 |
-| 138 | [Wonderer](https://open.spotify.com/track/5LZvWXagCJaMSTfJW9lOxR) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [wonderer](https://open.spotify.com/album/2HUH6h6Qbm5gNSDuhRo9bw) | 2:29 |
+| 138 | [wonderer](https://open.spotify.com/track/5LZvWXagCJaMSTfJW9lOxR) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [wonderer](https://open.spotify.com/album/2HUH6h6Qbm5gNSDuhRo9bw) | 2:29 |
 | 139 | [Beijo Doce](https://open.spotify.com/track/53VTzwDAl6PD9T1hs4rFHH) | [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3) | [Beijo Doce](https://open.spotify.com/album/1Mim0BAGo3YQDCq0gLQISK) | 2:04 |
 | 140 | [Orange Tree](https://open.spotify.com/track/667UZer8DqG0zUgmaQd0mm) | [Teo](https://open.spotify.com/artist/5d7FgxqeULkBnt4j8cpPJk) | [Orange Tree](https://open.spotify.com/album/571gnXAGbCjC4kATHRPyXZ) | 2:40 |
 | 141 | [Nightscape](https://open.spotify.com/track/7qhvsU1cjfjQjTRtuwxud4) | [Mr Beats Lofi](https://open.spotify.com/artist/4fphH75OM3CI7WSS6OqG3z) | [Nightscape](https://open.spotify.com/album/5SlmpQzlySQkInjX810NQu) | 3:15 |

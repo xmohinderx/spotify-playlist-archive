@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: LATENIGHTJIGGY",
-  "num_followers": 696551,
+  "num_followers": 696542,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcyNzg2NywwMDAwMDAwMDQwY2I0MTVkNTMyYWFhOGExZTE4NGQyZDVmMTc2NTM4",
+  "snapshot_id": "MTY1OTcyNzg2NywwMDAwMDAwMGVmOTY5NTUzMTZhZjEyNzMzOWQ1ZTdhNTlhMDc3NDY0",
   "tracks": [
     {
       "added_at": "2022-08-01 18:42:16",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-08-01 18:42:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 189462,
-      "name": "DO 4 LOVE",
-      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
-    },
-    {
-      "added_at": "2022-08-01 18:42:16",
-      "album": {
         "name": "Clutch (feat. Kiana Led\u00e9)",
         "url": "https://open.spotify.com/album/3TfI9sGZXMZtRYDMuSdDxd"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 197746,
       "name": "Bad Life (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO"
+    },
+    {
+      "added_at": "2022-08-01 18:42:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 189462,
+      "name": "DO 4 LOVE",
+      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
       "added_at": "2022-08-01 18:42:16",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-08-01 18:42:16",
       "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi"
+    },
+    {
+      "added_at": "2022-08-01 18:42:16",
+      "album": {
         "name": "Promesa",
         "url": "https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2022-08-01 18:42:16",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi"
-    },
-    {
-      "added_at": "2022-08-01 18:42:16",
-      "album": {
         "name": "CERQUITA",
         "url": "https://open.spotify.com/album/3uj1zQCI0RiOEvqIAFIurW"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 159300,
       "name": "CERQUITA",
       "url": "https://open.spotify.com/track/2Xg3vz32NEuKWWU73Hi1mc"
+    },
+    {
+      "added_at": "2022-08-01 18:42:16",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/4dZQkNMhgBKHOx9QOgqWWW"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 131874,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4641GJZLmYVBT8mRXRKaid"
     },
     {
       "added_at": "2022-08-01 18:42:16",
@@ -887,38 +903,6 @@
       "duration_ms": 196909,
       "name": "Hace Mucho",
       "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"
-    },
-    {
-      "added_at": "2022-08-01 18:42:16",
-      "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/4dZQkNMhgBKHOx9QOgqWWW"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 131874,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/4641GJZLmYVBT8mRXRKaid"
-    },
-    {
-      "added_at": "2022-08-01 18:42:16",
-      "album": {
-        "name": "Contragolpe",
-        "url": "https://open.spotify.com/album/09og5AoFa5Qq8Tlny8t0BG"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        }
-      ],
-      "duration_ms": 167954,
-      "name": "Nosotras",
-      "url": "https://open.spotify.com/track/4nFDjLt6B26zHLmc1Tz8rn"
     },
     {
       "added_at": "2022-08-01 18:42:16",
@@ -1003,6 +987,22 @@
       "duration_ms": 172989,
       "name": "sin ti",
       "url": "https://open.spotify.com/track/4ot2OO7TQ67W8avmH1zL1f"
+    },
+    {
+      "added_at": "2022-08-01 18:42:16",
+      "album": {
+        "name": "Contragolpe",
+        "url": "https://open.spotify.com/album/09og5AoFa5Qq8Tlny8t0BG"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        }
+      ],
+      "duration_ms": 167954,
+      "name": "Nosotras",
+      "url": "https://open.spotify.com/track/4nFDjLt6B26zHLmc1Tz8rn"
     },
     {
       "added_at": "2022-08-01 18:42:16",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-08-01 18:42:16",
       "album": {
-        "name": "tranquila y tropical",
-        "url": "https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a"
-      },
-      "artists": [
-        {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
-        }
-      ],
-      "duration_ms": 153580,
-      "name": "mala ma\u00f1a",
-      "url": "https://open.spotify.com/track/2tcHiFQUp21LbIKdWmA995"
-    },
-    {
-      "added_at": "2022-08-01 18:42:16",
-      "album": {
         "name": "Where We Can't See",
         "url": "https://open.spotify.com/album/6WLlYL5Pd3H4tQBxcRhTOZ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 165882,
       "name": "Where We Can't See",
       "url": "https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT"
+    },
+    {
+      "added_at": "2022-08-01 18:42:16",
+      "album": {
+        "name": "tranquila y tropical",
+        "url": "https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 153580,
+      "name": "mala ma\u00f1a",
+      "url": "https://open.spotify.com/track/2tcHiFQUp21LbIKdWmA995"
     },
     {
       "added_at": "2022-08-01 18:42:16",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-08-01 18:42:16",
       "album": {
-        "name": "Torero",
-        "url": "https://open.spotify.com/album/766RXg8hOYak8eKMeZu5o7"
-      },
-      "artists": [
-        {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Torero",
-      "url": "https://open.spotify.com/track/2LXUg5dCkY9UCzoypbaaH3"
-    },
-    {
-      "added_at": "2022-08-01 18:42:16",
-      "album": {
         "name": "Nada de M\u00ed Vale Dinero",
         "url": "https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 257897,
       "name": "Nada de M\u00ed Vale Dinero",
       "url": "https://open.spotify.com/track/5imr697dT1gPajZWd376fL"
+    },
+    {
+      "added_at": "2022-08-01 18:42:16",
+      "album": {
+        "name": "Torero",
+        "url": "https://open.spotify.com/album/766RXg8hOYak8eKMeZu5o7"
+      },
+      "artists": [
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Torero",
+      "url": "https://open.spotify.com/track/2LXUg5dCkY9UCzoypbaaH3"
     },
     {
       "added_at": "2022-08-01 18:42:16",

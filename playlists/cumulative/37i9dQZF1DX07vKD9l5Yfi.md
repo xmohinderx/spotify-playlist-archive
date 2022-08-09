@@ -4,7 +4,7 @@
 
 > The perfect noughties blend.
 
-346 songs - 22 hr 47 min - [published](https://open.spotify.com/playlist/1Ixrmajco4KVFepb8BsSWg)
+347 songs - 22 hr 50 min - [published](https://open.spotify.com/playlist/1Ixrmajco4KVFepb8BsSWg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 | 2020-06-18 |  |
 | [Breakaway](https://open.spotify.com/track/4PFAm88FBkY7IFtvCaGctZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:57 | 2019-05-26\* | 2022-07-29 |
 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 | 2019-05-26\* | 2022-07-29 |
-| [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 | 2020-06-18 |  |
+| [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 | 2020-06-18 | 2022-08-09 |
 | [Breathe](https://open.spotify.com/track/7yXjksHE9AvARHQIi6sRIV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Fearless \(Australian Version\)](https://open.spotify.com/album/3hJQGLUpAAXYJ0M3e1mzps) | 4:23 | 2019-06-12 | 2021-10-12 |
 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 | 2019-06-21 | 2022-07-29 |
 | [Breathe Me](https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:32 | 2020-06-18 | 2022-04-20 |
@@ -91,6 +91,7 @@
 | [Diamonds On The Inside](https://open.spotify.com/track/3SGhZ9mc7dbxrPMJEKlOlV) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Diamonds On The Inside](https://open.spotify.com/album/7kWiJBFrMMzj6YzslY4n0V) | 4:26 | 2020-06-18 | 2022-04-21 |
 | [Dilemma](https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 4:49 | 2020-06-18 |  |
 | [Don't Fight It](https://open.spotify.com/track/3FrgVAoYIuJxboXgMDnh3F) | [The Panics](https://open.spotify.com/artist/1kmmvExwG8zvYSADt6V09T) | [Cruel Guards](https://open.spotify.com/album/6LiaqpkrtYlYCAXudOg81G) | 5:01 | 2020-06-18 | 2022-04-20 |
+| [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2020-06-18 |  |
 | [Don't Let Me Get Me \- Radio Edit](https://open.spotify.com/track/2ZQ4Q9xL7W8FEgO1d4o7YH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood](https://open.spotify.com/album/03pT16iWbhVKpDodI37D8b) | 3:30 | 2020-06-18 | 2022-04-20 |
 | [Don't Tell Me](https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:40 | 2020-06-12 | 2021-01-15 |
 | [Don't U Eva](https://open.spotify.com/track/6NuVp861k1zvnZaeqKUHyB) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [The Overture & the Underscore](https://open.spotify.com/album/1rwJaz1Dp7vvqxL4CND2rj) | 4:19 | 2020-06-18 | 2022-04-19 |

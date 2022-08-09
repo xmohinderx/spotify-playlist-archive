@@ -393,6 +393,32 @@
     {
       "album": {
         "name": "Dime C\u00f3mo Hago",
+        "url": "https://open.spotify.com/album/5JvSBEoi4cOPAdFMpR178G"
+      },
+      "artists": [
+        {
+          "name": "Nelson Arrieta",
+          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
+        },
+        {
+          "name": "Ronald Borjas",
+          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
+        },
+        {
+          "name": "Oscarcito",
+          "url": "https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228250,
+      "name": "Dime C\u00f3mo Hago",
+      "url": "https://open.spotify.com/track/3WSASuEFLKfnGbn3ZelPdu"
+    },
+    {
+      "album": {
+        "name": "Dime C\u00f3mo Hago",
         "url": "https://open.spotify.com/album/5vab2Rt5XSdV8QAk1pqAqO"
       },
       "artists": [
@@ -411,7 +437,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 228250,
       "name": "Dime C\u00f3mo Hago",
       "url": "https://open.spotify.com/track/5SQMbspeEIYJPkXDWeiOJH"

@@ -1091,7 +1091,7 @@
     {
       "album": {
         "name": "Ojah Awake",
-        "url": "https://open.spotify.com/album/4LK4xmWEuNYYEn5oPrQUpD"
+        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
       },
       "artists": [
         {
@@ -1102,6 +1102,24 @@
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224706,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
+    },
+    {
+      "album": {
+        "name": "Ojah Awake",
+        "url": "https://open.spotify.com/album/4LK4xmWEuNYYEn5oPrQUpD"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
       "duration_ms": 227466,
       "name": "The Warrior",
       "url": "https://open.spotify.com/track/1yRixw5ysrrgR8a2ZeU806"

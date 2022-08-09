@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 179310,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/1AtifUJiEqzf1lHxxSKVEz"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 204577,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/5CNH1fectMnNkRmq6hMmIN"
@@ -1933,6 +1933,28 @@
       "duration_ms": 267906,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/6bUlKNTAOA2EUg4CQ4PtJb"
+    },
+    {
+      "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/2WFZgqoWSqYkKx0p1uT2gN"
+      },
+      "artists": [
+        {
+          "name": "Alexa Harley",
+          "url": "https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213252,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/2bxVJeXMKGHijMD563Oqcr"
     },
     {
       "album": {
@@ -3029,7 +3051,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 234827,
       "name": "We All Need Someone",
       "url": "https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP"

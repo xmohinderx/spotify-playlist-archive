@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover:  Mall Grab
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,185 likes - 110 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,214 likes - 110 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

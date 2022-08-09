@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s.",
-  "num_followers": 144566,
+  "num_followers": 144694,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjMxMSwwMDAwMDAwMDJkYWFjMTNmZDJhNjlkZTI4NWUxMzM0ZGI4NWNmNjQ3",
+  "snapshot_id": "MTY1NzAzNjMxMSwwMDAwMDAwMDYzNjljOWRiNDlkNmIzYWEzMjFjZGFkMWU3NDkzOTdh",
   "tracks": [
     {
       "added_at": "2021-11-23 12:34:50",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -255,18 +271,18 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -283,22 +299,6 @@
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2022-01-24 08:35:46",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Goats Head Soup (Remastered 2009)",
-        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Angie",
-      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
-    },
-    {
       "added_at": "2021-11-23 12:54:05",
       "album": {
         "name": "Moondance",
@@ -399,6 +383,22 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Angie",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
         "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
         "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "The Original Soundtrack",
         "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 366640,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Desperado (2013 Remaster)",
-        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 213712,
-      "name": "Desperado - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
         "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 213712,
+      "name": "Desperado - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
         "name": "Atlantic Crossing",
         "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 222951,
       "name": "Cat's in the Cradle",
       "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 304925,
-      "name": "New Kid in Town - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -735,18 +719,18 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+      "duration_ms": 304925,
+      "name": "New Kid in Town - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -767,6 +751,22 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
         "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
         "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 287090,
-      "name": "Take It to the Limit - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+      "duration_ms": 287090,
+      "name": "Take It to the Limit - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "All Over The World: The Very Best Of ELO",
-        "url": "https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 247746,
-      "name": "Strange Magic",
-      "url": "https://open.spotify.com/track/2Ib1eqrDO3CO0BBeEbk6sG"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Captain Fantastic And The Brown Dirt Cowboy",
-        "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
+        "name": "All Over The World: The Very Best Of ELO",
+        "url": "https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 404933,
-      "name": "Someone Saved My Life Tonight",
-      "url": "https://open.spotify.com/track/0bLOiofyBB62YU2cNnONJG"
+      "duration_ms": 247746,
+      "name": "Strange Magic",
+      "url": "https://open.spotify.com/track/2Ib1eqrDO3CO0BBeEbk6sG"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1307,6 +1291,22 @@
       "duration_ms": 456640,
       "name": "Deacon Blues",
       "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Captain Fantastic And The Brown Dirt Cowboy",
+        "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 404933,
+      "name": "Someone Saved My Life Tonight",
+      "url": "https://open.spotify.com/track/0bLOiofyBB62YU2cNnONJG"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1487,38 +1487,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6l1NspIWkj0oyUyevEmrHZ"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 257839,
-      "name": "He Ain't Heavy, He's My Brother",
-      "url": "https://open.spotify.com/track/41iPmvB2ogl3dzEHw9EZh0"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "All Things Must Pass (2020 Mix)",
-        "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "All Things Must Pass - 2020 Mix",
-      "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Wings Greatest",
         "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
       },
@@ -1535,6 +1503,22 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6l1NspIWkj0oyUyevEmrHZ"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 257839,
+      "name": "He Ain't Heavy, He's My Brother",
+      "url": "https://open.spotify.com/track/41iPmvB2ogl3dzEHw9EZh0"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
         "name": "Gimme Back My Bullets",
         "url": "https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 256533,
       "name": "All I Can Do Is Write About It",
       "url": "https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "All Things Must Pass (2020 Mix)",
+        "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "All Things Must Pass - 2020 Mix",
+      "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Venus And Mars (Archive Collection)",
-        "url": "https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Listen To What The Man Said - Remastered 2014",
-      "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "461 Ocean Blvd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 298280,
       "name": "Let It Grow",
       "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Venus And Mars (Archive Collection)",
+        "url": "https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 240986,
+      "name": "Listen To What The Man Said - Remastered 2014",
+      "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "Six Blade Knife",
+      "url": "https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
         "name": "Cornerstone",
         "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 352413,
       "name": "Louisiana Rain",
       "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 253426,
-      "name": "Six Blade Knife",
-      "url": "https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo"
     },
     {
       "added_at": "2021-11-23 12:34:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 
 > Long distance is hard, but true love knows no boundaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,948 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,987 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 25 | [As Much as I Ever Could](https://open.spotify.com/track/2FKbisOVZcinq7VtYUFD4H) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 5:24 |
 | 26 | [Trouble I'm In](https://open.spotify.com/track/58NyDMjXSBQ9CG3lcvbLKi) | [Twinbed](https://open.spotify.com/artist/0fJrV4zS7nW9fre4bNuGsp) | [Trouble I'm In](https://open.spotify.com/album/7vF8hqJr5ftey5VxwVYVz0) | 3:22 |
 | 27 | [Berlin](https://open.spotify.com/track/6PiR6zBrj0JUMnIT88OtZv) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Berlin](https://open.spotify.com/album/7qNXH2L0VUARRVpcJsacqM) | 4:29 |
-| 28 | [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 |
-| 29 | [Wish You Were Here \- Acoustic Version](https://open.spotify.com/track/4rmfjaAl0kWsyznoJU2ws3) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:45 |
+| 28 | [Wish You Were Here \- Acoustic Version](https://open.spotify.com/track/4rmfjaAl0kWsyznoJU2ws3) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:45 |
+| 29 | [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 |
 | 30 | [Counting Down the Days](https://open.spotify.com/track/1uWEioHUYs5BD6yGdAcWZA) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Counting Down The Days](https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim) | 4:09 |
 | 31 | [Stay](https://open.spotify.com/track/24xqELXbmKDFLKkR3271jb) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Once Upon Another Time](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) | 4:22 |
 | 32 | [5748 Km](https://open.spotify.com/track/4LXi58nLKicjAC0emPq43l) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/0oTTQnhihdD5IDQeW2xoVL) | 3:15 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 37 | [Lit the Fire](https://open.spotify.com/track/7nMwUYRFXb6EzZ3t7iigSv) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Ralph](https://open.spotify.com/album/4ZpHjzelJv4qIeZqrqJduU) | 2:50 |
 | 38 | [Long Drive](https://open.spotify.com/track/6keUc6LHhh1HkJfE87bnG9) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [YES! \(Commentary\)](https://open.spotify.com/album/2pkE09f0DykOk472XemaTs) | 3:50 |
 | 39 | [Muscle Memory](https://open.spotify.com/track/7zC7Ib9pBRPMtJQUCyEbPJ) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Midnight Machines](https://open.spotify.com/album/03Il5mMdE6JpkpHNpmlVeT) | 5:34 |
-| 40 | [Surround You](https://open.spotify.com/track/1D5ZvPtj09MckFOp2NcadQ) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Endless Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cn6DXanZWGYjUcslSIwWD) | 3:28 |
-| 41 | [Stay With Me](https://open.spotify.com/track/3fxc2GDtIjDprOyMFABWDs) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mission Bell](https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS) | 3:13 |
+| 40 | [Stay With Me](https://open.spotify.com/track/3fxc2GDtIjDprOyMFABWDs) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mission Bell](https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS) | 3:13 |
+| 41 | [Surround You](https://open.spotify.com/track/1D5ZvPtj09MckFOp2NcadQ) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Endless Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cn6DXanZWGYjUcslSIwWD) | 3:28 |
 | 42 | [Please Stay](https://open.spotify.com/track/0dSTuo3SoZqR8bG4xBOHVv) | [Francois Klark](https://open.spotify.com/artist/6pWdTbfpN654qlN83k3O0P) | [Love](https://open.spotify.com/album/12SFWJtCHuTAW1WX7gpkCU) | 3:44 |
 | 43 | [Miss You Love](https://open.spotify.com/track/1DH9Jw14TpkKzNIwbCFB6p) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Apparently Unaffected](https://open.spotify.com/album/7BWPKwScT8TShBOh91O4oz) | 3:09 |
 | 44 | [Between Cities](https://open.spotify.com/track/6yEIe5OqDZwzoK0fxkebyT) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:22 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 48 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 |
 | 49 | [Hearts Without Chains](https://open.spotify.com/track/2TWqTeDjVpcZfgrblmf86g) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 3:45 |
 | 50 | [Long Distance](https://open.spotify.com/track/09K2F1CRs7q52cVD6XjJxV) | [Megan & Liz](https://open.spotify.com/artist/6mRrGf8lw51Iux6dPQWWlr) | [Long Distance](https://open.spotify.com/album/1FRN6HsXnlzL9AOevAWath) | 3:43 |
-| 51 | [On The Nights You Stay Home](https://open.spotify.com/track/40GSgYiMMpP3bePselOZA0) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:49 |
-| 52 | [And Counting…](https://open.spotify.com/track/2BzzOaMznrmLxrfAfXjgBJ) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Siberia](https://open.spotify.com/album/0JsiuNPYQLyK6luX5jLuRE) | 4:42 |
+| 51 | [And Counting…](https://open.spotify.com/track/2BzzOaMznrmLxrfAfXjgBJ) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Siberia](https://open.spotify.com/album/0JsiuNPYQLyK6luX5jLuRE) | 4:42 |
+| 52 | [On The Nights You Stay Home](https://open.spotify.com/track/40GSgYiMMpP3bePselOZA0) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:49 |
 | 53 | [Rather Be \- Acoustic Version](https://open.spotify.com/track/70xYJHdWmz19ahK7emfqQi) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Acoustic Hits, Vol\. 1](https://open.spotify.com/album/7k0NBsULw2oXznJTpk3LFl) | 2:52 |
 | 54 | [The Distance](https://open.spotify.com/track/6yEtRJIe0jxNxk4QIGJZLv) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Ten Years](https://open.spotify.com/album/2vpvNOhSSQdf2w6x24SIlR) | 3:58 |
 | 55 | [So Soon](https://open.spotify.com/track/5bILhEJrVsV9SSyepmT1I4) | [The Graves](https://open.spotify.com/artist/1qQyOBGe2g114PNzK8xfiP) | [The Graves](https://open.spotify.com/album/0yIr2isTFFsqbHVx8D0nTA) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 59 | [Coming Home](https://open.spotify.com/track/4DEICI6hwTnHCch0SonV8w) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill](https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0) | 3:55 |
 | 60 | [Missing You](https://open.spotify.com/track/7eA8KIqKOYDwzDoQPp0vQ9) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Innocence Lost](https://open.spotify.com/album/7yYelxb5aBNoxduduomHlp) | 2:54 |
 
-Snapshot ID: `MTYxMTYwNDE1MiwwMDAwMDAwMGUyYjZkMzJiMDNkMzFhMWQzNjAzOGQ4NjY1NDVkMmIw`
+Snapshot ID: `MTYxMTYwNDE1MiwwMDAwMDAwMDhlZGVlYWU0ZjIwZGExMmVjM2YxMzEzMTg0ZGYzNDU4`

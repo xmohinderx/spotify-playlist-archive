@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Blondshell, Artwork: Isu Kim",
-  "num_followers": 1107142,
+  "num_followers": 1107120,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxMDc3MywwMDAwMDAwMGNhZThhOGVlMWFlMTRhMDMzMDNiZDk4ZjRhN2M2ODEw",
+  "snapshot_id": "MTY1OTcxMDc3MywwMDAwMDAwMGRmZDNiMDdmNDdhZjQzNDMwYzNjNDI4OTg2Zjk0YzBi",
   "tracks": [
     {
       "added_at": "2022-08-03 16:13:42",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-08-03 16:13:42",
       "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
-      },
-      "artists": [
-        {
-          "name": "PARTY SHIRT",
-          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
-    },
-    {
-      "added_at": "2022-08-03 16:13:42",
-      "album": {
         "name": "Lead Me On",
         "url": "https://open.spotify.com/album/4DrAm1TxMIsldiEoImRN1t"
       },
@@ -346,6 +330,14 @@
         {
           "name": "memorex",
           "url": "https://open.spotify.com/artist/3u2aoxF8pOGqWEM5bWHM5k"
+        },
+        {
+          "name": "Maki Adams",
+          "url": "https://open.spotify.com/artist/0KAO4SIZLFTQ7wEcZ3DET8"
+        },
+        {
+          "name": "mykel online",
+          "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
         },
         {
           "name": "Ayleen Valentine",
@@ -503,7 +495,7 @@
     {
       "added_at": "2022-08-03 16:13:42",
       "album": {
-        "name": "Frankies Rowing Machine",
+        "name": "Frankie's Rowing Machine",
         "url": "https://open.spotify.com/album/79YZPCvGk5SYvq8tJ7WHN0"
       },
       "artists": [
@@ -513,7 +505,7 @@
         }
       ],
       "duration_ms": 161137,
-      "name": "Frankies Rowing Machine",
+      "name": "Frankie's Rowing Machine",
       "url": "https://open.spotify.com/track/4sBIBw2fzDkOdImREN44dy"
     },
     {

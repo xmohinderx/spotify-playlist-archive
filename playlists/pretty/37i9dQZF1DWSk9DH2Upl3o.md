@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Aqueous
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,594 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,663 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 |
 | 2 | [Arcadia](https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Moon Cabin](https://open.spotify.com/album/2yBCrmF3Cv2kqLFLc6kOxg) | 6:35 |
 | 3 | [Sweet Spot](https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Believe](https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91) | 5:04 |
-| 4 | [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 |
+| 4 | [Jamflowman](https://open.spotify.com/track/2XyVlq12Nc38bJA22014Ts) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12) | [Natural Evolution of Consciousness](https://open.spotify.com/album/7oTK70UwrJTNwGwJ9cGKNT) | 7:58 |
 | 5 | [Take Me As I Am](https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 5:27 |
-| 6 | [Jamflowman](https://open.spotify.com/track/2XyVlq12Nc38bJA22014Ts) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12) | [Natural Evolution of Consciousness](https://open.spotify.com/album/7oTK70UwrJTNwGwJ9cGKNT) | 7:58 |
+| 6 | [Inside Out](https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:13 |
 | 7 | [Random Company](https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Best in Show](https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC) | 8:05 |
-| 8 | [Inside Out](https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:13 |
+| 8 | [New Eyes](https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Joyfunk Is Dead](https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7) | 2:53 |
 | 9 | [Joyfell](https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I) | [Underground Springhouse](https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt) | [Joyfell](https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj) | 5:08 |
-| 10 | [New Eyes](https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Joyfunk Is Dead](https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7) | 2:53 |
-| 11 | [Saturday's Children \(feat\. Neal Casal\)](https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Neal Casal](https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu) | [Interludes For The Dead \(feat\. Neal Casal\)](https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh) | 9:25 |
-| 12 | [Keep Your Hands to Yourself](https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Best Kept Secrets](https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s) | 4:19 |
+| 10 | [Saturday's Children \(feat\. Neal Casal\)](https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Neal Casal](https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu) | [Interludes For The Dead \(feat\. Neal Casal\)](https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh) | 9:25 |
+| 11 | [Keep Your Hands to Yourself](https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Best Kept Secrets](https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s) | 4:19 |
+| 12 | [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 |
 | 13 | [Kangaroo](https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 4:05 |
 | 14 | [River Drift](https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12) | [River Drift](https://open.spotify.com/album/5HgayyNly98nEiOPxekJGQ) | 5:42 |
 | 15 | [Colorado](https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh) | 5:06 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 35 | [Red Sky](https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 8:52 |
 | 36 | [Galactic Passport](https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 6:52 |
 | 37 | [Revival](https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 3:35 |
-| 38 | [Don't Say Goodnight Just Yet](https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Don't Say Goodnight Just Yet](https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe) | 5:54 |
-| 39 | [Nuff](https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 5:04 |
-| 40 | [Stacy's on the Lake](https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 2:19 |
-| 41 | [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 |
-| 42 | [Shahryar's Rage](https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:11 |
+| 38 | [Stacy's on the Lake](https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 2:19 |
+| 39 | [Don't Say Goodnight Just Yet](https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Don't Say Goodnight Just Yet](https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe) | 5:54 |
+| 40 | [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 |
+| 41 | [Shahryar's Rage](https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:11 |
+| 42 | [Nuff](https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 5:04 |
 | 43 | [Myrtle](https://open.spotify.com/track/3w58LambC0n9cuwxJ0wuXW) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [Scary Blankets](https://open.spotify.com/album/0yYqSumt1RNjNJDnt1OnHh) | 9:18 |
 | 44 | [Fact from Fiction](https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9) | [The Fritz](https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8) | [Natural Mind](https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj) | 8:25 |
 | 45 | [Get out of Your Head](https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Selections, Vol\. 1](https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7) | 12:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 49 | [Kinetic Bump](https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt) | [The Mantras](https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji) | [Jambands Ruined My Life](https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU) | 6:15 |
 | 50 | [Blow You Away](https://open.spotify.com/track/6dbqL8257GSYfwiAVGD5W4) | [Daniel Hardin](https://open.spotify.com/artist/4qWbNJklW8aRvZSb8gCi22), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Blow You Away](https://open.spotify.com/album/70MEaXYusonEFxCPoKnvsi) | 4:49 |
 
-Snapshot ID: `MTY1OTYzNTE3MywwMDAwMDAwMDVhY2JmZTc3NTM2MmNkOGUyMDRjYjMzYjk4MDQ4MzA3`
+Snapshot ID: `MTY1OTYzNTE3MywwMDAwMDAwMGJiYmNjYmU4MGRmZmZhYTk5YmQ5MzExMzVhYjFiOGMy`

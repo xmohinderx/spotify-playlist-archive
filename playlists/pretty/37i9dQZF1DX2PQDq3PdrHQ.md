@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,707 likes - 203 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,085 likes - 203 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 151 | [hopscotch](https://open.spotify.com/track/2B1dl95kTHNdwyZkaZsVFX) | [ratio 11](https://open.spotify.com/artist/0ecn09hphRWavIB0uGYNxl) | [hopscotch](https://open.spotify.com/album/3HQQ8v9tvLUtiuACaGUBS5) | 2:30 |
 | 152 | [Honey Marble](https://open.spotify.com/track/0Gdkvm0ADagIMAwTwmQYRE) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Honey Marble](https://open.spotify.com/album/2ih8yZry2mwkMRtlcBeUct) | 1:56 |
 | 153 | [Yesterday Morning](https://open.spotify.com/track/5C7PUTjvYyO2W7ch2WYd7M) | [Kioshi](https://open.spotify.com/artist/3x4WC9oAvyfIFf3bta4fzt) | [Yesterday Morning](https://open.spotify.com/album/2PgdOPKsZ1K1ccAlNMMxJK) | 2:44 |
-| 154 | [In The Shade](https://open.spotify.com/track/4p29M9w5odVcZFkMl9iENZ) | [Twindex](https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0), [Deli](https://open.spotify.com/artist/6UUlZWE7mcQ41Qwos0O6gl) | [Summer Nights](https://open.spotify.com/album/19o5VZvgbGpfT7QWuo3QnW) | 1:49 |
+| 154 | [In The Shade](https://open.spotify.com/track/4p29M9w5odVcZFkMl9iENZ) | [Twindex](https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0), [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [Summer Nights](https://open.spotify.com/album/19o5VZvgbGpfT7QWuo3QnW) | 1:49 |
 | 155 | [Distante/Presente](https://open.spotify.com/track/3bUbepfa4KVln3mrKZzYMW) | [apollw](https://open.spotify.com/artist/2l6NmomazGa6gMJQPzhcS1) | [Distante/Presente](https://open.spotify.com/album/2y9uPFtAhDcVvVOW2mvsT5) | 2:33 |
 | 156 | [Nighttime Voyage](https://open.spotify.com/track/6cbjfmf85NMVLxmwKD2VJG) | [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0), [Nessen](https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt) | [Lucid Dreams](https://open.spotify.com/album/20OUFGtfv163d3vn9OKojD) | 2:22 |
 | 157 | [Flower Dance](https://open.spotify.com/track/2wNPKZ1ne2YwcEON1sGfif) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Flower Dance](https://open.spotify.com/album/08tgysJg7YBfWDTJVcDErq) | 2:36 |

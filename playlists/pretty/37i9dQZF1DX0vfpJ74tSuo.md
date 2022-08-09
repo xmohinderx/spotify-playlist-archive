@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,352 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,445 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 14 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
 | 15 | [Sweet Thang](https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 4:12 |
 | 16 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 |
-| 17 | [Queen Bee](https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Señor Blues](https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA) | 4:40 |
-| 18 | [Cherry](https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183) | 3:21 |
-| 19 | [Bring It On Home](https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:36 |
+| 17 | [Cherry](https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183) | 3:21 |
+| 18 | [Bring It On Home](https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:36 |
+| 19 | [Queen Bee](https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Señor Blues](https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA) | 4:40 |
 | 20 | [Get out of My Life Woman](https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Ride Your Pony](https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF) | 2:26 |
 | 21 | [Baby What You Want Me To Do](https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:24 |
 | 22 | [My Home Is In The Delta](https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 4:01 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 43 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 |
 | 44 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:19 |
 | 45 | [Every Morning](https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:59 |
-| 46 | [For The Last Time \- Alternate Take 1](https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher \(50th Anniversary Edition\)](https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16) | 5:05 |
-| 47 | [Till the Real Thing Comes Along](https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 3:07 |
-| 48 | [Born Of A Woman](https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 3:47 |
-| 49 | [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 |
-| 50 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
+| 46 | [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 |
+| 47 | [For The Last Time \- Alternate Take 1](https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher \(50th Anniversary Edition\)](https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16) | 5:05 |
+| 48 | [Till the Real Thing Comes Along](https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 3:07 |
+| 49 | [Born Of A Woman](https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 3:47 |
+| 50 | [Done Changed My Way of Living](https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 7:03 |
 
-Snapshot ID: `MTY1OTEwNTU3MiwwMDAwMDAwMDQwYTFlOGZhNDI0NzM2ZDRiYmY3NTgzZjJlMDUwZjAy`
+Snapshot ID: `MTY1OTEwNTU3MiwwMDAwMDAwMDNjYTRhZmZiNDk0OTNmMmExYzZhMDg4NDY5NGFmYmNj`

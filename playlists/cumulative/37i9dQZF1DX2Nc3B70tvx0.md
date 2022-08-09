@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: The 1975
 
-1,171 songs - 2 day 22 hr 2 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,172 songs - 2 day 22 hr 5 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Before](https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Before](https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE) | 4:47 | 2020-10-29 | 2021-03-23 |
 | [Before We Knew](https://open.spotify.com/track/2tPXuksuhokCBYmAcKnx5B) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Before We Knew](https://open.spotify.com/album/6dwYzHRbq3591ac7ThF4rn) | 3:31 | 2021-08-20 | 2022-05-20 |
 | [Before You Gotta Go](https://open.spotify.com/track/0KzBGWNhCWXU2PTG0LP5if) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Before You Gotta Go](https://open.spotify.com/album/2Ezwhfk2dT0ZDfFzqThwV1) | 3:45 | 2021-08-20 | 2022-04-08 |
+| [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 | 2022-08-08 |  |
 | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/track/4RrJBZZ41eKEZAylP1A9t1) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/album/1fyV8Ul6YsyPChDdtZoiCX) | 2:35 | 2021-05-22 | 2021-10-16 |
 | [Berlin](https://open.spotify.com/track/1dgCF73ruK4qTXrx0TZ0j7) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Berlin](https://open.spotify.com/album/5AFR0ia3oPGsmYNK6fxZNu) | 3:39 | 2020-08-07 | 2021-03-23 |
 | [Best I Ever Had](https://open.spotify.com/track/4yYixO4SqiqqWqWA9uSXDq) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Best I Ever Had](https://open.spotify.com/album/0sGQtJGb7Sz4AbsSvUYmcW) | 4:03 | 2020-10-29 | 2021-10-12 |
@@ -813,7 +814,7 @@
 | [Price](https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:48 | 2020-08-07 | 2021-03-19 |
 | [Prisoner of Love](https://open.spotify.com/track/6dReR7r5q7kuPXdPeKlpsc) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [It's All in Your Head](https://open.spotify.com/album/34CqB05BngfzQL8atvaIH1) | 3:48 | 2020-03-14 | 2020-10-13 |
 | [Prom Queen](https://open.spotify.com/track/3MtGstTnbaZaVOLcfpuiiE) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/5oCpbhgCKnqNHaUAtVA2Cg) | 2:16 | 2019-05-26\* | 2019-08-13 |
-| [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-23 |  |
+| [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-23 | 2022-08-09 |
 | [Push Me Away](https://open.spotify.com/track/2o1JACZB8lpw7lkXlE3QYf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Push Me Away](https://open.spotify.com/album/4hlNGJ1p7zNa009uiFFFSQ) | 2:44 | 2021-05-08 | 2021-05-28 |
 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2021-02-23 | 2021-10-12 |
 | [Questioning My Mind](https://open.spotify.com/track/0H2EwgDNxFwBY6gPnVmuV2) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Questioning My Mind](https://open.spotify.com/album/6X7WVkGVz7znUSldpVjBLh) | 4:14 | 2019-11-09 | 2020-08-07 |
@@ -936,8 +937,8 @@
 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 | 2022-04-29 |  |
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2020-06-12 | 2021-03-02 |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-09-02 | 2022-05-21 |
-| [Sugar](https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 3:16 | 2022-07-08 | 2022-08-03 |
-| [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-08 |  |
+| [Sugar](https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 3:16 | 2022-07-08 |  |
+| [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-08 | 2022-08-09 |
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl \(Bonus Track\)](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 | 2019-08-09 | 2020-02-28 |
 | [Summer Love](https://open.spotify.com/track/7GZyIOmzDRTSpUmfCN45GG) | [Muzz](https://open.spotify.com/artist/4nZTcwItN2j9H21sJBZ2Nq) | [Muzz](https://open.spotify.com/album/09xzMkaSBxY5qwcYXIY94i) | 4:02 | 2020-06-12 | 2020-12-04 |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2021-10-22 | 2022-07-30 |

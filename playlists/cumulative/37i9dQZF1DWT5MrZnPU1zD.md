@@ -4,12 +4,13 @@
 
 > Pass the sticks & press play.
 
-484 songs - 23 hr 31 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
+485 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['96 Bulls](https://open.spotify.com/track/0VtyqKSFeXrIVSbpxARxt4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | ['96 Bulls](https://open.spotify.com/album/01Do91GN0SpxAx2iyoJ59G) | 4:07 | 2021-09-03 | 2022-07-29 |
 | [007](https://open.spotify.com/track/7yiAJA0gU9DivsxXxRJIk2) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [007](https://open.spotify.com/album/0ErssytGA5jnxR2BCDy0KP) | 1:42 | 2021-09-03 | 2022-03-12 |
+| [10 Missed Calls](https://open.spotify.com/track/3rsRFBpgO0xrR1eYIjyz3N) | [KING AKH](https://open.spotify.com/artist/5pVOuKzA3hhsdScwg2k4oA) | [10 Missed Calls](https://open.spotify.com/album/0lpFSTM1ZGaFdJfsNrlRPL) | 2:48 | 2022-08-08 |  |
 | [10s, 20s, 50s, 100s](https://open.spotify.com/track/4egNUXSdg3yDYD2BOZjYQU) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Tope](https://open.spotify.com/artist/6w4nfg5jYD6ejjbTIB2sHq) | [Days Like This](https://open.spotify.com/album/0HhPoiceZZ8Gvl5KLIjKNP) | 2:20 | 2022-07-22 | 2022-08-06 |
 | [1995](https://open.spotify.com/track/5KFqBLIITjlM6fhYhBnBzC) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [THE HUSTLE CONTINUES](https://open.spotify.com/album/6zFqKeygTGAmLEF2AXCfZO) | 2:49 | 2021-09-03 | 2022-04-29 |
 | [2 AM](https://open.spotify.com/track/3g3RCV5ImXwzHpKwM2iunc) | [Swavay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [Pure Infinity](https://open.spotify.com/album/4fJwg97iKoiaVQrljDyBJf) | 3:18 | 2021-09-03 | 2022-03-10 |
@@ -39,7 +40,7 @@
 | [ANOTHER ONE](https://open.spotify.com/track/2cO5gELmKXUeqliwT7DDvu) | [Ronny J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [ANOTHER ONE](https://open.spotify.com/album/26y1j3uFW7kmEXT3ODkDCE) | 3:12 | 2022-06-10 | 2022-07-11 |
 | [Areyoudown? Pt\. 2](https://open.spotify.com/track/3cVORyVyOBOPqHXgHgV1WJ) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [So and So / Areyoudown? Pt\. 2](https://open.spotify.com/album/2jz9qhYEGmkj3fHA7C8nBx) | 2:37 | 2022-03-25 | 2022-04-15 |
 | [ARRIVAL](https://open.spotify.com/track/68wsw83peLu4AigGvNptKD) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse) | [CLRD.](https://open.spotify.com/album/1XKhVI0EBWl0xj8liEeB60) | 3:10 | 2022-03-25 | 2022-04-21 |
-| [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2022-01-28 |  |
+| [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2022-01-28 | 2022-08-09 |
 | [B.B\. King Freestyle \(with Drake\)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B\. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 | 2021-09-03 | 2022-04-29 |
 | [BACC WEST](https://open.spotify.com/track/4NPMw50wQZHINMjzGYs4xr) | [YSB Eli](https://open.spotify.com/artist/1oWGd65mQ43qogAn2pFQhM) | [BACC WEST](https://open.spotify.com/album/2bdeXHX9b5bE8KiuSdqdlt) | 2:28 | 2021-09-03 | 2022-01-11 |
 | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 | 2021-10-18 |  |

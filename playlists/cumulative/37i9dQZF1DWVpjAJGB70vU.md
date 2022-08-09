@@ -4,7 +4,7 @@
 
 > Country that made country cool! Cover: Shania Twain
 
-177 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/5IDkbO4ORcphFP9N9pX9l7)
+178 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/5IDkbO4ORcphFP9N9pX9l7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [No One Else On Earth](https://open.spotify.com/track/6Ek2xNsKHwkuYBqvzj20rl) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Wynonna](https://open.spotify.com/album/1Z3psPyYFp0pUA1MupFbLi) | 4:00 | 2021-10-22 |  |
 | [No One Needs To Know](https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 3:03 | 2021-10-22 |  |
 | [No Place That Far](https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [No Place That Far](https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU) | 3:37 | 2021-10-22 |  |
-| [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 | 2021-10-22 |  |
+| [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 | 2021-10-22 | 2022-08-09 |
 | [Not On Your Love](https://open.spotify.com/track/04bs5EpVXhbPkqV9uwOAM9) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE) | [Jeff Carson](https://open.spotify.com/album/5p7xZloaAOpHyHLZI8BUcE) | 3:22 | 2022-03-28 |  |
 | [One More Last Chance](https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:11 | 2021-10-22 |  |
 | [One Way Ticket \(Because I Can\)](https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 3:43 | 2022-07-27 |  |
@@ -136,6 +136,7 @@
 | [Should've Been A Cowboy](https://open.spotify.com/track/69ku805AjIcFQh0IfkGohf) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4iWbxbStpDbMoMJMkILb24) | 3:31 | 2021-10-22 | 2022-07-29 |
 | [Shut Up and Kiss Me](https://open.spotify.com/track/2n0iU69BBUBxPrB1wRe3J3) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Stones In The Road](https://open.spotify.com/album/7nHQ2alzAcX7Rbapyyk8eq) | 3:40 | 2021-10-22 | 2022-07-29 |
 | [Silver Threads and Golden Needles](https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:23 | 2022-07-27 |  |
+| [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:53 | 2022-08-08 |  |
 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 | 2021-10-22 |  |
 | [Sold \(The Grundy County Auction Incident\)](https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [John Michael Montgomery](https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk) | 2:32 | 2021-10-22 |  |
 | [Something In Red](https://open.spotify.com/track/4V9dH8xU2xi6tbXDIDsOMk) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Something In Red](https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq) | 4:40 | 2021-10-22 | 2022-03-30 |

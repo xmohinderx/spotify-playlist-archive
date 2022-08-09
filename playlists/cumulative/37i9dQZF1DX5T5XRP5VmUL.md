@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-203 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
+204 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,13 +102,14 @@
 | [It Snowed \- Remastered](https://open.spotify.com/track/7eRH77hH1hT3jMZxfaYT38) | [Meaghan Smith](https://open.spotify.com/artist/47QqI0kuVSCrV0KVRBZ3km) | [It Snowed](https://open.spotify.com/album/5d7XWrnwFwMMHcvOtdSlU9) | 3:44 | 2021-12-24 |  |
 | [It Won't Be Christmas](https://open.spotify.com/track/7N2Nct5EFTfe5LDyTlenWf) | [Emma\-Lee](https://open.spotify.com/artist/1OD4aWTiLRPAijuuIahCPS) | [It Won't Be Christmas](https://open.spotify.com/album/0i1mqmW9B2dVYnsiH34Hus) | 3:13 | 2021-12-24 |  |
 | [It Won't Be Christmas \('Till You're Here\)](https://open.spotify.com/track/3Vwrd5byXhpb64EDA9vPhz) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [It Won't Be Christmas \('Till You're Here\)](https://open.spotify.com/album/6esRzhxWEKZxEHAbZWTXlP) | 4:00 | 2021-12-24 | 2022-07-29 |
+| [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/track/71JECBTllXdl37lGVkH33S) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/album/6t6t6VnBN5OfgtUVe0DU6t) | 4:00 | 2021-12-24 |  |
 | [It's A Marshmallow World](https://open.spotify.com/track/5Ifp9kgVhBFjiw5HKt4OLn) | [Kim Stockwood](https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp) | [I Love Santa](https://open.spotify.com/album/0nhkv3tzgmYh4DjY5KE7PH) | 3:48 | 2021-12-24 | 2022-07-27 |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/3hrl7X2gSOJtTrK8qFpPHF) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/2GaVIPbClrBg756B7NZret) | 3:06 | 2021-12-24 |  |
 | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/track/1lXkOnvzw4o6dncgSc9kwU) | [Jessicka](https://open.spotify.com/artist/69LuZP8tLC8m268w9sHj2i) | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/album/4URQ2nU0Yy86AJ17phLBap) | 3:37 | 2021-12-24 | 2022-07-29 |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/1SNWQrpsdeCcm9k5OYnIPV) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs Of December \(International Version\)](https://open.spotify.com/album/3119F0UcdVJ8ZME3WDF8MY) | 4:49 | 2021-12-24 | 2022-07-28 |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs of December \(Anniversary Edition\)](https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk) | 4:49 | 2021-12-24 |  |
 | [It’s Me & You \(This Christmas\)](https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs) | [Elijah Woods x Jamie Fine](https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1) | [It's Me & You \(This Christmas\)](https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp) | 2:28 | 2021-12-24 |  |
-| [Jingle All The Way / Jingle Bells / Hark The Herald Angels Sing \- Medley / Alternate Version](https://open.spotify.com/track/3c96DLRFxEpEmXBRSh2n3L) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Jingle All The Way \(Alternate Version\)](https://open.spotify.com/album/04IO52eF1aSGDjk6H375SY) | 2:52 | 2021-12-24 |  |
+| [Jingle All The Way / Jingle Bells / Hark The Herald Angels Sing \- Medley / Alternate Version](https://open.spotify.com/track/3c96DLRFxEpEmXBRSh2n3L) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Jingle All The Way \(Alternate Version\)](https://open.spotify.com/album/04IO52eF1aSGDjk6H375SY) | 2:52 | 2021-12-24 | 2022-08-09 |
 | [Jingle Bell Rock](https://open.spotify.com/track/1D7hNc5MALLU7RyjJ1j7NH) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Jingle Bell Rock](https://open.spotify.com/album/6aopXHhakGmlAGxMB5lmXw) | 2:04 | 2021-12-24 | 2022-07-29 |
 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 | 2021-12-24 |  |
 | [Just Like A Shooting Star](https://open.spotify.com/track/1jYDMBqaHAoIRTQ9vv2scf) | [Dani and Lizzy](https://open.spotify.com/artist/5QruqADxUmpzY0bT56039j) | [Just Like A Shooting Star](https://open.spotify.com/album/37GUrisnZNJPmJIEFH6ZMk) | 3:14 | 2021-12-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,833 likes - 96 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,011 likes - 96 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 28 | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh) | 2:35 |
 | 29 | [Immaculate](https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Immaculate](https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg) | 3:00 |
 | 30 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
-| 31 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 |
+| 31 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 |
 | 32 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
 | 33 | [butterfly fields](https://open.spotify.com/track/2nXtGLBgSu60upR05CGEBN) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [butterfly fields](https://open.spotify.com/album/0gUWXiPPG13Zao8Nbqr1fa) | 3:28 |
 | 34 | [Leave Her Alone](https://open.spotify.com/track/5SIUzPiJGiWVkbMNR5Hiym) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 3:17 |

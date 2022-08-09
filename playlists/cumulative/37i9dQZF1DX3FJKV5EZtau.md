@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-278 songs - 16 hr 7 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+279 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Fall to Me \- helloworld Remix](https://open.spotify.com/track/6AY5MIVCmf8KOpZep8ybbs) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [spaceKDET](https://open.spotify.com/artist/1xBuZxBaWWHwYaoq7HUi7v) | [Fall to Me \(helloworld Remix\)](https://open.spotify.com/album/2IYKUzv8xvP4vHPlu1F14F) | 3:09 | 2022-03-11 |  |
 | [Feelings](https://open.spotify.com/track/6ci9PcBjfrY0v1sBogeJyv) | [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [Martyska](https://open.spotify.com/artist/2SZl0w1TGNOsGTBWullexw), [Alice Smoke](https://open.spotify.com/artist/5AhHvbx7VZK7IbUzTuUDpE) | [Feelings](https://open.spotify.com/album/1N04P27Q51fwyQYVea1RdA) | 2:52 | 2022-04-15 | 2022-07-20 |
 | [Finally Find You](https://open.spotify.com/track/0fEg3weP8yuyHlcPpb8fKm) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C), [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG) | [Finally Find You](https://open.spotify.com/album/17clwf7D1BlFkUUpzg5Wiy) | 3:48 | 2022-01-07 |  |
-| [Find You](https://open.spotify.com/track/28OESpqaslD63Wbrg0yVRP) | [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Find You](https://open.spotify.com/album/0DjVFCKZnUbJDmCjaJzhdE) | 2:51 | 2022-08-05 |  |
+| [Find You](https://open.spotify.com/track/28OESpqaslD63Wbrg0yVRP) | [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Find You](https://open.spotify.com/album/0DjVFCKZnUbJDmCjaJzhdE) | 2:51 | 2022-08-05 | 2022-08-09 |
 | [Find You](https://open.spotify.com/track/7oeUIg8gSKPTe6TYhpf8Lp) | [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Find You](https://open.spotify.com/album/4MyGEbj61myUTX9PFXtEV8) | 2:51 | 2022-01-07 | 2022-07-25 |
 | [Find Yourself](https://open.spotify.com/track/0TBWdzXPZX8bGAqDY0Xxn0) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [World Famous Tour](https://open.spotify.com/album/3WXeQznuGDKqbGn9VUbeVE) | 3:53 | 2022-01-07 |  |
 | [Fire](https://open.spotify.com/track/76zmGyRffSW0aAThzbsZvi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Ethereal](https://open.spotify.com/album/4MVG42fEPbnV1Hm9kdDuzZ) | 3:41 | 2022-02-25 | 2022-07-29 |
@@ -235,6 +235,7 @@
 | [Sky Blue](https://open.spotify.com/track/0YBra1QGuIhdTWlEwnEkQY) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [Sky Blue](https://open.spotify.com/album/4ZSrFB51VBeLnT1guceWnm) | 3:07 | 2022-01-07 | 2022-07-13 |
 | [Skydive](https://open.spotify.com/track/1MxEjfa6CxBZTT1xDTaCcX) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Skydive](https://open.spotify.com/album/3r8O0lCTxO7MOmSlgN5hBw) | 2:58 | 2022-04-15 |  |
 | [Sleeping On My Own Again](https://open.spotify.com/track/0ADSxxXg91rM3jN6pd00h3) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Sleeping On My Own Again](https://open.spotify.com/album/39wx8VIgVvxyUsmoNCZpQr) | 3:15 | 2022-01-07 |  |
+| [Somebody Else](https://open.spotify.com/track/7qXFLa1RfT8aYBVvTHcfzH) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Somebody Else](https://open.spotify.com/album/0RzdjXDnexGsG8JM2oSGEl) | 4:02 | 2022-08-05 |  |
 | [Someone Else’s Dream \(CASTLE\. Edit\)](https://open.spotify.com/track/56oC5buLanioZDYpK2q94t) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [CASTLE.](https://open.spotify.com/artist/6IcVDBaltKmVE8Asl4p8FM) | [Someone Else’s Dream](https://open.spotify.com/album/6Kr3T5LjvpUl4QKipF5qqs) | 4:06 | 2022-01-07 | 2022-07-29 |
 | [Somewhere Far Away From Here](https://open.spotify.com/track/1mZsABAFAStMVUKW8AyRX5) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Lolaby](https://open.spotify.com/artist/2bJ1Od9O4eVt9Uv0BOBJIm) | [REBIRTH](https://open.spotify.com/album/2tf4qRFJYH1mFFPEbXCdUt) | 5:02 | 2022-01-07 |  |
 | [Stardust Adventure](https://open.spotify.com/track/7mvEJwPYeTKTNGjAa3z1wp) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU) | [Stardust Adventure](https://open.spotify.com/album/4d7RidCnUxbQ4C5huq9G4S) | 3:05 | 2022-01-07 | 2022-07-29 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,484 likes - 85 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,574 likes - 85 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vara jag](https://open.spotify.com/track/4uNqbRT4aZDcVQMfrg6RUP) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Vara jag](https://open.spotify.com/album/2rgcBjdReUbm1x0q219YtJ) | 2:06 |
-| 2 | [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 |
+| 2 | [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 |
 | 3 | [DIRTY](https://open.spotify.com/track/2acI4LUjCjPuFk0Y05yVNZ) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [DIRTY](https://open.spotify.com/album/3YqGFGM11gO0iXhn5a2lo0) | 2:18 |
 | 4 | [SKIMMA](https://open.spotify.com/track/1ZYZksZeWLbTc2vfIlA4Uh) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [SKIMMA](https://open.spotify.com/album/0UkjEEziJ5tSBsVfJzQ5cL) | 2:29 |
 | 5 | [Grammis](https://open.spotify.com/track/07jYFR7V04FbqjAOqRNUPH) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Grammis](https://open.spotify.com/album/0kbizsP43dXEpJcZzofBVZ) | 1:57 |

@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 230946,
       "name": "Cycle",
       "url": "https://open.spotify.com/track/1HtbUYSTOQI8rSenhstELT"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221360,
       "name": "Featherweight - Acoustic Version",
       "url": "https://open.spotify.com/track/79JR4YDBX2RHy0enKMvqe2"
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 214221,
       "name": "Seeing Things",
       "url": "https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K"
@@ -1691,6 +1691,24 @@
       "duration_ms": 211940,
       "name": "Shine",
       "url": "https://open.spotify.com/track/00r8JL55INeWH0qQfiEhsl"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211940,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5ouMWwTXJfgTOiCvz6fbFX"
     },
     {
       "album": {

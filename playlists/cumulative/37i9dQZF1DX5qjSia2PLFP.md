@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1500 $ir](https://open.spotify.com/track/136jJk0hLz67A7m1DeUGpR) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3vxJZwF2wCNH3fAjBnkP5O) | 2:25 | 2022-05-20 | 2022-07-31 |
-| [1500 $ir](https://open.spotify.com/track/20kQ5m2CKltcaEnzmfuSDV) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/5esVu79F6yi7lCRSNUayoS) | 2:25 | 2022-05-20 |  |
+| [1500 $ir](https://open.spotify.com/track/20kQ5m2CKltcaEnzmfuSDV) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever \(Mixtape\)](https://open.spotify.com/album/5esVu79F6yi7lCRSNUayoS) | 2:25 | 2022-05-20 |  |
 | [1500 $ir](https://open.spotify.com/track/58yOnzLBHLzEXc8EUIj0Pv) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3TfvnvmemM0CI4UOxkTokJ) | 2:25 | 2022-05-20 | 2022-07-29 |
 | [2much \- YCO Jay Remix](https://open.spotify.com/track/31c1ogOXzjQb0dVHly4UT4) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [yung dastard](https://open.spotify.com/artist/29QmqvNrylI5sgRYsCvdUU), [YCO Jay](https://open.spotify.com/artist/1ySQjU8BZWZLMQD317oF2C) | [2much \(YCO Jay Remix\)](https://open.spotify.com/album/0szOMBJCj3bT35xlKq6IjA) | 3:31 | 2021-12-28 | 2022-03-26 |
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-24 |  |

@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-343 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/3C6WbDdRTToG5FIYL3Fv3Q)
+344 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/3C6WbDdRTToG5FIYL3Fv3Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 | 2021-04-30 |  |
 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 | 2021-04-30 |  |
 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 | 2021-04-30 |  |
-| [2002](https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [2002](https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU) | 3:06 | 2021-04-30 | 2022-08-03 |
+| [2002](https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [2002](https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU) | 3:06 | 2021-04-30 |  |
 | [24](https://open.spotify.com/track/4VoFeplR0cfe7hKiZraFdv) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [24](https://open.spotify.com/album/3fZvEXzUycZgjKLHVAqWzj) | 2:35 | 2021-04-30 | 2022-07-29 |
 | [About You](https://open.spotify.com/track/2sLrhduqte62PRzJ5M1uW5) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [About You](https://open.spotify.com/album/2bn3emF3sMrQMPTeuW9tBe) | 3:24 | 2021-04-30 | 2022-07-29 |
 | [Admit Defeat](https://open.spotify.com/track/1OHAFggB1Jatvto7HvUN4L) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days \(This Got Out Of Hand Edition\)](https://open.spotify.com/album/1zYfRw1pKwhdlH5b08nE3p) | 3:05 | 2021-04-30 | 2022-06-29 |
@@ -151,7 +151,7 @@
 | [I Love You's](https://open.spotify.com/track/28Tv8zltFDr5wBCG3Pfky4) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [I Love You’s](https://open.spotify.com/album/7poPqCs2rGkF1hzZHuzzCv) | 3:36 | 2021-04-30 | 2022-07-29 |
 | [I Love You's](https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 3:36 | 2021-04-30 |  |
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2021-04-30 |  |
-| [I Second That Emotion](https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The 35th Anniversary Collection](https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y) | 2:41 | 2021-04-30 |  |
+| [I Second That Emotion](https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The 35th Anniversary Collection](https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y) | 2:41 | 2021-04-30 | 2022-08-09 |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2k1np6GRFvKjgjYfo2g39B) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/6JDG7sbzX4uwQFFo1CHDLi) | 4:51 | 2021-04-30 | 2022-07-29 |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 | 2021-04-30 |  |
 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 | 2021-04-30 |  |
@@ -169,6 +169,7 @@
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2021-04-30 | 2022-06-28 |
 | [In My Blood](https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:31 | 2021-04-30 |  |
 | [In or Out](https://open.spotify.com/track/0uCOs9KOehbeXUDlpHfx2t) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg) | [In or Out](https://open.spotify.com/album/1EnvQO5UMPTdLPDvUMSi7o) | 2:54 | 2021-04-30 | 2022-07-26 |
+| [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 | 2021-04-30 |  |
 | [In The Window Frame](https://open.spotify.com/track/35Jj1GwanVp2Hd092JQ67X) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [In The Window Frame](https://open.spotify.com/album/3GuI0z31Fex80Uut5XLmTJ) | 3:26 | 2021-04-30 | 2022-07-28 |
 | [Issues](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:56 | 2021-04-30 |  |
 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 | 2021-04-30 |  |
@@ -327,7 +328,7 @@
 | [Us](https://open.spotify.com/track/59z0L6S0GDNCiliSk3yiX0) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Sorry For Writing All The Songs About You](https://open.spotify.com/album/6CiVtN4VsFrhaeh9xAaDvD) | 2:57 | 2021-04-30 | 2022-07-29 |
 | [Use You](https://open.spotify.com/track/7LHdg8zRyjdwiV2RpBKL8x) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [cry.baby](https://open.spotify.com/album/4cPb0Ej857PhMEXh0YmrCM) | 2:54 | 2021-04-30 | 2022-05-09 |
 | [Valerie](https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Talking Back To The Night](https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn) | 4:06 | 2021-04-30 |  |
-| [Video Killed The Radio Star](https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF) | 4:13 | 2021-04-30 |  |
+| [Video Killed The Radio Star](https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF) | 4:13 | 2021-04-30 | 2022-08-09 |
 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 | 2021-04-30 |  |
 | [Walking on Broken Glass](https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:13 | 2021-04-30 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Watermelon Sugar](https://open.spotify.com/album/659e2eKbsMH0vYCs5qgFmy) | 2:54 | 2021-04-30 | 2022-07-29 |

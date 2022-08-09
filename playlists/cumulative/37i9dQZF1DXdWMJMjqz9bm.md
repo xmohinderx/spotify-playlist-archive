@@ -4,7 +4,7 @@
 
 > A little bit of pop and a little bit of rap\. Cover: Nicky Youre
 
-338 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+339 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [mathematics](https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [mathematics](https://open.spotify.com/album/0YoJg9rGP5vZI7sMC3vwhm) | 2:27 | 2022-04-08 | 2022-05-20 |
 | [Medicine](https://open.spotify.com/track/3BuyvZXqG2GvQ6RertnyAt) | [Miles Wesley](https://open.spotify.com/artist/4WhfepOctZk2kVISWeeNo3), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Medicine](https://open.spotify.com/album/6qMn2B1Pee5ttuYcqJCJFq) | 3:11 | 2021-11-16 | 2022-02-26 |
 | [Mexico](https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [Yung Craka](https://open.spotify.com/artist/1V2sJvNlPQYSO4Kf6GC3if) | [Mexico](https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx) | 3:24 | 2022-01-14 | 2022-05-20 |
+| [Miss You a Little \(feat\. lovelytheband\)](https://open.spotify.com/track/2tijppLc0gaWA2AfPDANvq) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Miss You a Little \(feat\. lovelytheband\)](https://open.spotify.com/album/67OpexBmynKW5tWHE7PYOX) | 2:48 | 2022-08-08 |  |
 | [mistakes](https://open.spotify.com/track/15dJLTji58BsvcTDZ2QxQG) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [mistakes](https://open.spotify.com/album/069zTIsdWb6aEsBb5Hmxp0) | 2:53 | 2022-04-06 | 2022-04-09 |
 | [Mood](https://open.spotify.com/track/2QKte1nUSkLiPkNN8EPudu) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV), [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5) | [Mood](https://open.spotify.com/album/3GWHaNyeflGNqohoxQqxFo) | 2:16 | 2022-04-22 | 2022-05-20 |
 | [Mood ring](https://open.spotify.com/track/4oFaezaYjR4di8zxlJjmv9) | [Kid Quill](https://open.spotify.com/artist/5vGXVYudNgm9E7jhXMM0Ro), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Mood ring](https://open.spotify.com/album/1QIo05QpWnn1q3PQ7Vxuzb) | 3:27 | 2021-11-16 | 2022-02-26 |
@@ -299,7 +300,7 @@
 | [Sunday](https://open.spotify.com/track/1xC8KNH4EqU5BLB8SPRy9m) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Sunday](https://open.spotify.com/album/6WKLcyxc89SFBuHWNPVky4) | 3:32 | 2021-11-16 | 2022-02-26 |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2022-04-06 | 2022-06-11 |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-03 |  |
-| [Sunsick](https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Sunsick](https://open.spotify.com/album/6NHBiRrUCP6QGefUIH8KPG) | 2:25 | 2022-04-11 |  |
+| [Sunsick](https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Sunsick](https://open.spotify.com/album/6NHBiRrUCP6QGefUIH8KPG) | 2:25 | 2022-04-11 | 2022-08-09 |
 | [Supercharged](https://open.spotify.com/track/0vq6MAzofcgiI8RMeAfdao) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Supercharged](https://open.spotify.com/album/7KEEFdCQYw9RZFfd0fxn6R) | 2:15 | 2022-04-01 | 2022-07-07 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 | 2022-02-08 | 2022-07-09 |
 | [TAKEN BACK](https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [TAKEN BACK](https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB) | 2:33 | 2022-02-04 | 2022-05-20 |

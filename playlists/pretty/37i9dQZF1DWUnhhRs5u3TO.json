@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 2010s. Cover: Avenged Sevenfold",
-  "num_followers": 311125,
+  "num_followers": 311416,
   "original_name": "10s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NzYyOCwwMDAwMDAwMGU3MTk5NThmNjAwOTMwODE1YmFjZjc2NGNkNmQzNmZh",
+  "snapshot_id": "MTY1ODc4NzYyOCwwMDAwMDAwMGI1NWQyOGE0NDJjOGNlODVjYjZkMTQ3ZDA5ZGJjMzQx",
   "tracks": [
     {
       "added_at": "2022-07-25 22:20:28",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 231603,
-      "name": "Ausl\u00e4nder",
-      "url": "https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "That's The Spirit",
         "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
@@ -187,22 +171,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 374453,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb"
       },
@@ -215,6 +183,22 @@
       "duration_ms": 291426,
       "name": "Your Betrayal",
       "url": "https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 374453,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -235,6 +219,22 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 231603,
+      "name": "Ausl\u00e4nder",
+      "url": "https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 277397,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "The Concrete Confessional",
         "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
       },
@@ -279,6 +263,38 @@
       "duration_ms": 161626,
       "name": "Looking Down the Barrel of Today",
       "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 206903,
+      "name": "Jekyll and Hyde",
+      "url": "https://open.spotify.com/track/5MjkeHk6I0JA0q13eqtnJP"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -313,22 +329,6 @@
       "url": "https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj"
     },
     {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "Got Your Six (Deluxe)",
-        "url": "https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 206903,
-      "name": "Jekyll and Hyde",
-      "url": "https://open.spotify.com/track/5MjkeHk6I0JA0q13eqtnJP"
-    },
-    {
       "added_at": "2022-07-13 18:44:21",
       "album": {
         "name": "Hail to the King",
@@ -347,34 +347,18 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
       "artists": [
         {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "Immortalized (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 252002,
-      "name": "The Vengeful One",
-      "url": "https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T"
+      "duration_ms": 277397,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -391,6 +375,38 @@
       "duration_ms": 235840,
       "name": "The Last Stand",
       "url": "https://open.spotify.com/track/0bUgTRe5st6TMbRCEjKezX"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Wrong Side of Heaven",
+      "url": "https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Immortalized (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 252002,
+      "name": "The Vengeful One",
+      "url": "https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -427,22 +443,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Wrong Side of Heaven",
-      "url": "https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Fear Inoculum",
         "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
       },
@@ -455,6 +455,38 @@
       "duration_ms": 713191,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Whore",
+      "url": "https://open.spotify.com/track/2tAzcTFry1OhmNERFjUR93"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Lifelines",
+        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/6WaYiQUPel70HUaCZj5eND"
     },
     {
       "added_at": "2022-07-13 14:26:52",
@@ -491,22 +523,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Whore",
-      "url": "https://open.spotify.com/track/2tAzcTFry1OhmNERFjUR93"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "The Oracle (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 201666,
       "name": "Cryin' Like A Bitch!!",
       "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "Lifelines",
-        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/6WaYiQUPel70HUaCZj5eND"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Seal The Deal & Let's Boogie",
         "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Breakin' Outta Hell",
-        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 232425,
-      "name": "Breakin' Outta Hell",
-      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Deadweight",
         "url": "https://open.spotify.com/album/0c4JrJyBCQHU0Pq3td483f"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 205986,
       "name": "Stitch",
       "url": "https://open.spotify.com/track/0Pl5XX0MbdQ5E702GBhnUn"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Breakin' Outta Hell",
+        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 232425,
+      "name": "Breakin' Outta Hell",
+      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Blessed & Possessed",
-        "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "Army of the Night",
-      "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Outlaw Gentlemen & Shady Ladies",
         "url": "https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 267680,
       "name": "Lola Montez",
       "url": "https://open.spotify.com/track/1wnq9TwifJ9ipLUFsm8vKx"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Blessed & Possessed",
+        "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 201386,
+      "name": "Army of the Night",
+      "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -965,20 +965,20 @@
       "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
     },
     {
-      "added_at": "2022-07-13 14:26:52",
+      "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 251658,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/6X5zsgjDlssIkv0sVYZgx1"
+      "duration_ms": 362093,
+      "name": "Cirice",
+      "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -995,6 +995,22 @@
       "duration_ms": 192560,
       "name": "You Only Live Once",
       "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
+    },
+    {
+      "added_at": "2022-07-13 14:26:52",
+      "album": {
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 251658,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6X5zsgjDlssIkv0sVYZgx1"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1027,22 +1043,6 @@
       "duration_ms": 275439,
       "name": "King for a Day",
       "url": "https://open.spotify.com/track/6OcE7aXYmNEwF6H7Ei9Y3q"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 362093,
-      "name": "Cirice",
-      "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Vice Grip",
-      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Dig Deep",
         "url": "https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Shadows Inside",
-        "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
       },
       "artists": [
         {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 236549,
-      "name": "Shadows Inside",
-      "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
+      "duration_ms": 263586,
+      "name": "Vice Grip",
+      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 265823,
       "name": "St\u00e5lf\u00e5gel",
       "url": "https://open.spotify.com/track/4HOVQhtjFCRGY9PnsLoR86"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Shadows Inside",
+        "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 236549,
+      "name": "Shadows Inside",
+      "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
     },
     {
       "added_at": "2022-07-13 14:26:52",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1n3MBUKni0VloPhNhZPMZg"
-      },
-      "artists": [
-        {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "Reign of Darkness",
-      "url": "https://open.spotify.com/track/7eDtl2KToh99gXNRRfuY9l"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 258586,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1n3MBUKni0VloPhNhZPMZg"
+      },
+      "artists": [
+        {
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "Reign of Darkness",
+      "url": "https://open.spotify.com/track/7eDtl2KToh99gXNRRfuY9l"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1317,6 +1317,22 @@
       "url": "https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18"
     },
     {
+      "added_at": "2022-07-13 14:26:52",
+      "album": {
+        "name": "The Last Stand",
+        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 192037,
+      "name": "The Last Battle",
+      "url": "https://open.spotify.com/track/7hrW22GLqFLwQOfQYLEw6q"
+    },
+    {
       "added_at": "2022-04-24 22:00:00",
       "album": {
         "name": "The Dirt Soundtrack",
@@ -1337,20 +1353,20 @@
       "url": "https://open.spotify.com/track/0PloHvXx0nAIwVx1zYjm9F"
     },
     {
-      "added_at": "2022-07-13 14:26:52",
+      "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "The Last Stand",
-        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
       "artists": [
         {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 192037,
-      "name": "The Last Battle",
-      "url": "https://open.spotify.com/track/7hrW22GLqFLwQOfQYLEw6q"
+      "duration_ms": 365480,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW"
     },
     {
       "added_at": "2022-07-13 14:26:52",
@@ -1367,22 +1383,6 @@
       "duration_ms": 295213,
       "name": "Heretic",
       "url": "https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 365480,
-      "name": "Tempest",
-      "url": "https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "Dead City Radio And The New Gods Of Supertown",
+      "url": "https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
         "name": "Winter Kills (Deluxe Version)",
         "url": "https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 208013,
-      "name": "Dead City Radio And The New Gods Of Supertown",
-      "url": "https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z"
+      "duration_ms": 268746,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1527,22 +1543,6 @@
       "duration_ms": 227864,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 268746,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2022-07-13 14:26:52",
       "album": {
-        "name": "Brotherhood of the Snake",
-        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 291529,
-      "name": "The Pale King",
-      "url": "https://open.spotify.com/track/5SEXNeCl0i7Gzkw4kc9ln6"
-    },
-    {
-      "added_at": "2022-07-13 14:26:52",
-      "album": {
         "name": "The Scene",
         "url": "https://open.spotify.com/album/2H4TQlHJB8hJGPrbi2miVq"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 187560,
       "name": "Back in the Bizz",
       "url": "https://open.spotify.com/track/6dcxA7XvgrpD1ncyqdt4vh"
+    },
+    {
+      "added_at": "2022-07-13 14:26:52",
+      "album": {
+        "name": "Brotherhood of the Snake",
+        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 291529,
+      "name": "The Pale King",
+      "url": "https://open.spotify.com/track/5SEXNeCl0i7Gzkw4kc9ln6"
     },
     {
       "added_at": "2022-07-13 14:26:52",
@@ -2321,22 +2321,6 @@
       "url": "https://open.spotify.com/track/1ZR4QAYsiO9zPsGaMPW2OI"
     },
     {
-      "added_at": "2022-07-13 14:26:52",
-      "album": {
-        "name": "Immortalized (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 243720,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/0Q4zzvZA2anhHTs0zjwQhy"
-    },
-    {
       "added_at": "2022-04-24 22:00:00",
       "album": {
         "name": "Madness",
@@ -2367,6 +2351,22 @@
       "duration_ms": 318026,
       "name": "Road of Resistance",
       "url": "https://open.spotify.com/track/4f5Glh6TkdXN2osSIpVBNI"
+    },
+    {
+      "added_at": "2022-07-13 14:26:52",
+      "album": {
+        "name": "Immortalized (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/0Q4zzvZA2anhHTs0zjwQhy"
     },
     {
       "added_at": "2022-04-24 22:00:00",

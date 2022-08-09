@@ -4,7 +4,7 @@
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-182 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/1x8QJGVpkb79sPVbfvkiMc)
+183 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/1x8QJGVpkb79sPVbfvkiMc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,12 +14,13 @@
 | [All the Time](https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [All the Time](https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV) | 3:48 | 2021-08-20 | 2022-07-29 |
 | [Alone, Pt\. II](https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Alone, Pt\. II](https://open.spotify.com/album/700MviIgFKNTldTXmOAFOr) | 2:59 | 2021-08-20 |  |
 | [Back of Your Head](https://open.spotify.com/track/4Nxo4PVVFePtkEG3G0LuD9) | [Ea Kaya](https://open.spotify.com/artist/2cMDCP6zOLaPPbOXMD4193) | [Back of Your Head](https://open.spotify.com/album/16kpdNRYt5KexZJLBXUOog) | 3:54 | 2021-08-20 | 2022-07-25 |
-| [Be Kind](https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Be Kind](https://open.spotify.com/album/1mWXLzWQS9hleyqLwPGu8r) | 3:01 | 2021-08-20 |  |
+| [Be Kind](https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Be Kind](https://open.spotify.com/album/1mWXLzWQS9hleyqLwPGu8r) | 3:01 | 2021-08-20 | 2022-08-09 |
 | [Be Okay \(with HRVY\)](https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Be Okay \(with HRVY\)](https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v) | 2:21 | 2021-08-20 | 2022-07-29 |
 | [Beast and Beauty](https://open.spotify.com/track/2rVyuYkkxF3VIW47Aq5tEG) | [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4) | [Beast and Beauty](https://open.spotify.com/album/5uuv4vYnILdQZ891fW3sbQ) | 3:14 | 2021-08-20 | 2022-07-27 |
 | [Beautiful People \(feat\. Khalid\) \- NOTD Remix](https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Beautiful People \(feat\. Khalid\) \[NOTD Remix\]](https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2) | 2:42 | 2021-08-20 | 2022-07-29 |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2021-08-20 |  |
 | [BED](https://open.spotify.com/track/7jXQUrVhEpXdymfFWNDnQW) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/2GgDZ0wSOWSD4916BWzbNX) | 2:58 | 2021-08-20 | 2022-07-29 |
+| [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 | 2021-08-20 |  |
 | [betterman](https://open.spotify.com/track/2mvGl0m5Pg87PJzKzssPdi) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [betterman](https://open.spotify.com/album/5gYe1vPlS7yMRsGTgoByBP) | 3:08 | 2021-08-20 | 2022-07-28 |
 | [Bloodshot](https://open.spotify.com/track/3EZFmxil8IXOIL0De8etDN) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Bloodshot](https://open.spotify.com/album/4WuiVI5VNSVok734IY2VJx) | 3:15 | 2021-08-20 | 2022-07-29 |
 | [Blue Jeans](https://open.spotify.com/track/6KgZeNR9fab84NbLXa81cY) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Blue Jeans](https://open.spotify.com/album/6MFTtmS3AZPsrZdi3nqJ80) | 2:50 | 2021-08-20 | 2022-07-28 |

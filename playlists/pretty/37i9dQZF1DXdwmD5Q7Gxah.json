@@ -1,12 +1,12 @@
 {
   "description": "See You Next Year's album is here, brought to you by Pigeons + Planes and Mike Dean, baby!!! ",
-  "num_followers": 926583,
+  "num_followers": 926649,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcyMTcwNiwwMDAwMDAwMDAxMGRkNGY5YjRjNjY4NTkwMTk0OGFjYjEzNjkxYzNm",
+  "snapshot_id": "MTY1OTk4MjAzNCwwMDAwMDAwMDI3ZWMwNzRjZTNkNDkxNjZiNWNhYzI4YmVjZDA0MzRh",
   "tracks": [
     {
       "added_at": "2022-08-04 04:00:00",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/0hzVEWIYibIGxMdn2NkjXw"
     },
     {
+      "added_at": "2022-08-08 18:07:14",
+      "album": {
+        "name": "spin you round",
+        "url": "https://open.spotify.com/album/3crMTdCiX7xKxIbYvKqOkK"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 126610,
+      "name": "spin you round",
+      "url": "https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN"
+    },
+    {
       "added_at": "2022-08-03 15:35:43",
       "album": {
         "name": "strawberry chainsaw",
@@ -113,6 +129,22 @@
       "url": "https://open.spotify.com/track/35YlFbOf6PdSkXnuTG0uKi"
     },
     {
+      "added_at": "2022-08-08 16:30:26",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
+    },
+    {
       "added_at": "2022-08-05 04:00:00",
       "album": {
         "name": "Pigeons & Planes & Big.Ass.Kids present: See You Next Year",
@@ -131,6 +163,22 @@
       "duration_ms": 152843,
       "name": "Mean Girl",
       "url": "https://open.spotify.com/track/3sbjrdgu7GEau6kvjWGL54"
+    },
+    {
+      "added_at": "2022-06-22 04:32:24",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 177641,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U"
     },
     {
       "added_at": "2022-07-18 15:38:02",
@@ -165,6 +213,22 @@
       "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
     },
     {
+      "added_at": "2022-08-08 16:30:26",
+      "album": {
+        "name": "So Typically Now",
+        "url": "https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc"
+      },
+      "artists": [
+        {
+          "name": "U.S. Girls",
+          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+        }
+      ],
+      "duration_ms": 195804,
+      "name": "So Typically Now",
+      "url": "https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS"
+    },
+    {
       "added_at": "2022-07-29 04:00:00",
       "album": {
         "name": "Favors",
@@ -195,22 +259,6 @@
       "duration_ms": 235963,
       "name": "Happiness (Dance Floor Edit)",
       "url": "https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk"
-    },
-    {
-      "added_at": "2022-06-22 04:32:24",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 177641,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -523,22 +571,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 165786,
-      "name": "Different Kind of World",
-      "url": "https://open.spotify.com/track/0drAsTHCEB3polistcpT1T"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Girl Eats Sun",
         "url": "https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps"
       },
@@ -731,6 +763,22 @@
       "duration_ms": 176374,
       "name": "Yah / Element - Medley",
       "url": "https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn"
+    },
+    {
+      "added_at": "2022-06-22 15:24:45",
+      "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "caroline",
+      "url": "https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB"
     },
     {
       "added_at": "2022-07-15 12:08:06",
@@ -949,22 +997,6 @@
       "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
     },
     {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "SID THE KID",
-        "url": "https://open.spotify.com/album/6lQoWpcquJkjgW1yZhNqlV"
-      },
-      "artists": [
-        {
-          "name": "Deaton Chris Anthony",
-          "url": "https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "I Don\u2019t Care About My Parents",
-      "url": "https://open.spotify.com/track/27k8yk6SlJ3zS6Y4EfXcJ5"
-    },
-    {
       "added_at": "2022-07-15 12:08:06",
       "album": {
         "name": "'98 NISSAN",
@@ -1045,22 +1077,6 @@
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
-      "added_at": "2022-07-15 12:08:06",
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/67iLxJVDSZoqHwV6PUXKPH"
-      },
-      "artists": [
-        {
-          "name": "sam.sts",
-          "url": "https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B"
-        }
-      ],
-      "duration_ms": 178676,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/25vHmfJEW6VimdhvyfpCFt"
-    },
-    {
       "added_at": "2022-05-24 18:50:39",
       "album": {
         "name": "Wet Leg",
@@ -1111,6 +1127,22 @@
       "duration_ms": 223000,
       "name": "Pool",
       "url": "https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF"
+    },
+    {
+      "added_at": "2021-12-01 14:26:10",
+      "album": {
+        "name": "Your Life Your Time",
+        "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 160257,
+      "name": "Your Life Your Time",
+      "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
     },
     {
       "added_at": "2022-07-15 12:08:06",
@@ -1255,22 +1287,6 @@
       "duration_ms": 179967,
       "name": "Summer Child",
       "url": "https://open.spotify.com/track/17XgSTOKbdWHtMsHKFUWYp"
-    },
-    {
-      "added_at": "2022-06-22 15:24:45",
-      "album": {
-        "name": "caroline",
-        "url": "https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "caroline",
-      "url": "https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB"
     },
     {
       "added_at": "2022-06-09 14:58:29",
@@ -1511,22 +1527,6 @@
       "duration_ms": 150452,
       "name": "all i ever wanted (was you)",
       "url": "https://open.spotify.com/track/3Lq24mWk6irXyj6CBccvjV"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "Your Life Your Time",
-        "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 160257,
-      "name": "Your Life Your Time",
-      "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
     },
     {
       "added_at": "2022-03-08 17:38:18",

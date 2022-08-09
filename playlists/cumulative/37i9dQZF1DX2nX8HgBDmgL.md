@@ -4,7 +4,7 @@
 
 > Celebrating South Asian Heritage Month with Raja Kumari.
 
-121 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
+122 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Dance](https://open.spotify.com/track/7fWMvmH2YLxabiHfxH03CO) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK), [Juggy D](https://open.spotify.com/artist/5Lt1YtQ7PK7ANlfAM9vqVj) | [Dance](https://open.spotify.com/album/4iVZa6nsYDb5XYA3gwBg1v) | 3:29 | 2021-11-11 | 2022-07-19 |
 | [Dark Knight](https://open.spotify.com/track/5flPNCDnZuil33Bpav6iFl) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Dark Knight](https://open.spotify.com/album/3VuCQ8Yj7HjGODQTePfvQq) | 2:21 | 2021-11-11 | 2022-07-19 |
 | [Dhundhala](https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J) | 3:02 | 2022-07-18 |  |
-| [Dime Dime](https://open.spotify.com/track/4kNTujhP4ZNfK2W93XyOma) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Dime Dime](https://open.spotify.com/album/68AtbgSozP9VW7NYQs9OJB) | 2:54 | 2022-07-16 | 2022-07-19 |
+| [Dime Dime](https://open.spotify.com/track/4kNTujhP4ZNfK2W93XyOma) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Dime Dime](https://open.spotify.com/album/68AtbgSozP9VW7NYQs9OJB) | 2:54 | 2022-07-16 |  |
 | [Divas](https://open.spotify.com/track/4qwOtfS2I6pPSt3CKq9TSz) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Divas](https://open.spotify.com/album/4ji38NmCuB2K32ZV3V7N6B) | 3:07 | 2021-11-11 | 2022-07-19 |
 | [Doobey](https://open.spotify.com/track/7k6QR9YHyW258yVN6FHO1T) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Gehraiyaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1n3IiQK8urUhPw8wsfWluX) | 3:39 | 2022-07-18 |  |
 | [Drunk on You \(feat\. Hard Bazy\)](https://open.spotify.com/track/1EJsnnM8Mc4jzUfXOQ67hr) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR), [Hard Bazy](https://open.spotify.com/artist/31YGqpZ2ca5sPjbbzM5qcl) | [Drunk on You \(feat\. Hard Bazy\)](https://open.spotify.com/album/0lZYBzfgWDsvovkfAesZqO) | 2:48 | 2021-11-11 | 2022-07-19 |
@@ -128,6 +128,7 @@
 | [Yaara Tu](https://open.spotify.com/track/4EDJQR7mhUeSMGgmHvZTqV) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Yaara Tu](https://open.spotify.com/album/6ti72F8nhkUeSOI0pS2ZJK) | 3:26 | 2021-11-11 | 2022-07-19 |
 | [Yarri Yeah](https://open.spotify.com/track/2Cby9QLsraYQ5Thh7GbxIh) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [Nani Anjali](https://open.spotify.com/artist/3CTcuoJ9PcfvNOLwcdQWDe) | [Magic](https://open.spotify.com/album/6DAj9M8xI1WiZJudRL7lBB) | 3:58 | 2021-11-11 | 2022-07-19 |
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2022-07-18 |  |
+| [Your Love](https://open.spotify.com/track/1E3uueAFlrPTWaInzUUHtg) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Your Love](https://open.spotify.com/album/1iDJsBJEJSMUqutPcRsauk) | 3:17 | 2022-08-08 |  |
 | [YTL Yaar Tera LIT](https://open.spotify.com/track/0FOttmcxs2gtOhUHB9SmM3) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [YTL \- Yaar Tera LIT](https://open.spotify.com/album/1exeRQTKTvIdDywk5jCWud) | 3:25 | 2021-11-11 | 2022-07-19 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

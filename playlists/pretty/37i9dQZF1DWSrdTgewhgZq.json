@@ -1,15 +1,15 @@
 {
   "description": "Hip-hop hits. Foto: Drake",
-  "num_followers": 955971,
+  "num_followers": 956415,
   "original_name": "DOPE.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY1Mjk3MywwMDAwMDAwMDQyYTQyYTU3YTNkNTYyNDRmN2JiMDc4Yjg5OWYzNmE3",
+  "snapshot_id": "MTY1OTk3Nzk0MywwMDAwMDAwMGQ3Y2YwYTQwYmIxMzg4NzdiZjdiMDAxYzllMzk4NDM5",
   "tracks": [
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
@@ -45,23 +45,27 @@
       "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+        "name": "Curtain Call 2",
+        "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
       },
       "artists": [
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 290320,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+      "duration_ms": 212013,
+      "name": "Is This Love ('09) (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
@@ -81,7 +85,7 @@
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Birds In The Trap Sing McKnight",
         "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
@@ -97,7 +101,47 @@
       "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 290320,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    {
+      "added_at": "2022-08-08 16:59:03",
+      "album": {
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
+    {
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
@@ -121,7 +165,7 @@
       "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
@@ -145,7 +189,7 @@
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Cooped Up",
         "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
@@ -165,7 +209,7 @@
       "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
@@ -185,7 +229,7 @@
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
@@ -209,7 +253,7 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "The Marshall Mathers LP",
         "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
@@ -225,7 +269,7 @@
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
@@ -245,7 +289,7 @@
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
@@ -261,7 +305,23 @@
       "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "SHADYXV",
         "url": "https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87"
@@ -277,7 +337,7 @@
       "url": "https://open.spotify.com/track/77Ft1RJngppZlq59B6uP0z"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4"
@@ -293,7 +353,7 @@
       "url": "https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
@@ -313,7 +373,7 @@
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Stop Staring At the Shadows",
         "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
@@ -329,7 +389,7 @@
       "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
@@ -345,7 +405,7 @@
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Astronaut In The Ocean",
         "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
@@ -361,7 +421,7 @@
       "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Laugh Now Cry Later (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/5MmC9qcCkQPMMb5Ye4l4jA"
@@ -381,7 +441,7 @@
       "url": "https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -397,7 +457,7 @@
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -413,7 +473,7 @@
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
@@ -429,7 +489,7 @@
       "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
@@ -449,7 +509,7 @@
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "ASTROWORLD",
         "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
@@ -465,7 +525,7 @@
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
@@ -481,7 +541,7 @@
       "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Cash In Cash Out",
         "url": "https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH"
@@ -505,7 +565,7 @@
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "TO THE MOON",
         "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
@@ -525,7 +585,7 @@
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -545,7 +605,7 @@
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "POPSTAR (feat. Drake)",
         "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
@@ -565,7 +625,7 @@
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -581,7 +641,7 @@
       "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Life Is Good (feat. Drake)",
         "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
@@ -601,7 +661,7 @@
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
@@ -625,7 +685,7 @@
       "url": "https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Watch The Throne (Deluxe)",
         "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
@@ -645,7 +705,7 @@
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
@@ -665,7 +725,7 @@
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
@@ -693,7 +753,7 @@
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
@@ -713,7 +773,7 @@
       "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Skechers",
         "url": "https://open.spotify.com/album/4a50hfH6HJQywmghPYnRRW"
@@ -729,7 +789,7 @@
       "url": "https://open.spotify.com/track/2alc8VZAzDgdAsL2QMk3hu"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
@@ -745,7 +805,7 @@
       "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Dick (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/5gH9EDMWWiLEplNCLb1r7l"
@@ -765,7 +825,7 @@
       "url": "https://open.spotify.com/track/3nY8AqaMNNHHLYV4380ol0"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Whoopty",
         "url": "https://open.spotify.com/album/5oBYG6dEI2Er6EeLnmonGE"
@@ -781,7 +841,7 @@
       "url": "https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
@@ -797,7 +857,7 @@
       "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "BLAME IT ON BABY",
         "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
@@ -817,7 +877,7 @@
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
@@ -833,7 +893,7 @@
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
         "url": "https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN"
@@ -861,7 +921,7 @@
       "url": "https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
@@ -885,7 +945,7 @@
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
@@ -901,7 +961,7 @@
       "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
@@ -917,7 +977,7 @@
       "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Red Light Green Light",
         "url": "https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC"
@@ -933,7 +993,7 @@
       "url": "https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "HOLIDAY",
         "url": "https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu"
@@ -949,7 +1009,7 @@
       "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Detroit 2",
         "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
@@ -969,7 +1029,7 @@
       "url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
@@ -985,7 +1045,7 @@
       "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "MIDDLE CHILD",
         "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
@@ -1001,7 +1061,7 @@
       "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
@@ -1017,7 +1077,7 @@
       "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
         "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
@@ -1033,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Black Panther The Album Music From And Inspired By",
         "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
@@ -1053,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
@@ -1069,7 +1129,7 @@
       "url": "https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Miss The Rage (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A"
@@ -1089,7 +1149,7 @@
       "url": "https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
@@ -1109,7 +1169,7 @@
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Ball If I Want To",
         "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
@@ -1125,7 +1185,7 @@
       "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
@@ -1145,7 +1205,7 @@
       "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
@@ -1173,7 +1233,7 @@
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
@@ -1189,7 +1249,7 @@
       "url": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
@@ -1213,7 +1273,7 @@
       "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
     },
     {
-      "added_at": "2022-07-01 05:22:53",
+      "added_at": "2022-08-08 16:59:03",
       "album": {
         "name": "Need to Know",
         "url": "https://open.spotify.com/album/7N3SiwnBMR1C8hcA4W1GtH"

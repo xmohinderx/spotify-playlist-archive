@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 225906,
       "name": "Baby Lee",
       "url": "https://open.spotify.com/track/1WvDNX2WrUppAFBKO7aYA5"
@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "King Of The Boogie",
+        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189640,
+      "name": "Boogie Chillen",
+      "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
+    },
+    {
+      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
       },
@@ -153,7 +171,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 152350,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
@@ -479,7 +497,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 145026,
       "name": "I Need Some Money",
       "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 246493,
       "name": "Let's Make It",
       "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 143693,
       "name": "Money",
       "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 264026,
       "name": "That's Alright",
       "url": "https://open.spotify.com/track/629O26FoFJ6uYOOK7mwyOI"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 272773,
       "name": "The Feelin' Is Gone",
       "url": "https://open.spotify.com/track/5GPTI1Iw5ZSZbOVgysIOVe"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 3250760,
       "name": "The Wanderings of The Avener - Continuous Mix",
       "url": "https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z"
@@ -1199,6 +1217,24 @@
       "duration_ms": 238160,
       "name": "Tupelo",
       "url": "https://open.spotify.com/track/1hR7F9GFvDAD57EnuKhdM9"
+    },
+    {
+      "album": {
+        "name": "Saga Blues: From Detroit to Chicago 1954-1958",
+        "url": "https://open.spotify.com/album/43tIzDymZjL8eFUfUAmQGj"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174066,
+      "name": "Unfriendly Woman",
+      "url": "https://open.spotify.com/track/2FwMyaKaq5V8NLIvfWR0Ft"
     },
     {
       "album": {

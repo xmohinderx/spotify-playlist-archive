@@ -1251,6 +1251,24 @@
     {
       "album": {
         "name": "Two Saviors",
+        "url": "https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223713,
+      "name": "Candle",
+      "url": "https://open.spotify.com/track/3sTNIZ0hdHC2Lj1dp0IQRm"
+    },
+    {
+      "album": {
+        "name": "Two Saviors",
         "url": "https://open.spotify.com/album/2XPFEnQ9PcyWPIrJJnAkrX"
       },
       "artists": [
@@ -6237,7 +6255,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 236276,
       "name": "Surprise, Surprise",
       "url": "https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA"

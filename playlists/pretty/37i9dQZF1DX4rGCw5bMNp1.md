@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,439 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,478 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 4 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
 | 5 | [Wang Dang Doodle](https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Koko Taylor](https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy) | 3:02 |
 | 6 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
-| 7 | [Two Bugs and a Roach](https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 4:19 |
-| 8 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
+| 7 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
+| 8 | [Two Bugs and a Roach](https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 4:19 |
 | 9 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
 | 10 | [Should I Wait](https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Alligator Records Years](https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ) | 5:04 |
 | 11 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
 | 12 | [Rock Me Baby](https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC) | [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL) | [The Sonet Blues Story](https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY) | 3:58 |
-| 13 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
-| 14 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
+| 13 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
+| 14 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 | 15 | [She's Fine](https://open.spotify.com/track/1GUvbwCftGCU9HTeg1DPAW) | [A.C\. Reed](https://open.spotify.com/artist/1i31XKLddtEeOIr0nPcxdj) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:18 |
 | 16 | [Back Door Man](https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:53 |
 | 17 | [They call me the snake](https://open.spotify.com/track/7lbC5pd1ahrDiIf9gLUhxx) | [Luther "Snake Boy" Johnson](https://open.spotify.com/artist/0K2EuGHCPWyC0UK91mapEM) | [They call me the snake](https://open.spotify.com/album/6iWOfKBUyJjqc0kAx20DuU) | 5:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [Big Town Playboy](https://open.spotify.com/track/6OjxAve4uIJjsxTBn90HlQ) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [Chess Blues](https://open.spotify.com/album/2r6RT78O1ZcUW6RQorUJFi) | 2:57 |
 | 50 | [Dark Road](https://open.spotify.com/track/24qLayLMHE9K3vcivvCw5f) | [Eddie Taylor](https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot), [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/1B3TvnCCMT5f1BQSlNkbhF) | 3:37 |
 
-Snapshot ID: `MTY0ODQ5OTcyOCwwMDAwMDAwMDBiNjM1OWU1N2Q2NzNiNTdhOWI1ZGVjNmI1NWQyNDYy`
+Snapshot ID: `MTY0ODQ5OTcyOCwwMDAwMDAwMGI2ZTkzNTdjYTcyYjUxN2MzNmZkNTRjYWYyY2QwMjgx`

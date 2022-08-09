@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Moonshine
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,894 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,954 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 65 | [Run](https://open.spotify.com/track/2wu0PnQQt12He8L2pQUS7w) | [PVPI STRZ](https://open.spotify.com/artist/11Cznn5Yl5mmlY3WRNsuFk) | [Run](https://open.spotify.com/album/1lLdivmzyjNWRMos5ttRKa) | 3:29 |
 | 66 | [Faya](https://open.spotify.com/track/4UuBi6buMUZ0kOlYHEIn1m) | [Dyss MK](https://open.spotify.com/artist/5omTTGUh0GnhAXY8ovFqDq), [DJ Jordan MasterBoy](https://open.spotify.com/artist/2xD0xzBe6BVwqLJDxliXd9) | [Faya](https://open.spotify.com/album/3xFXM7xa6al9Fgxn0m608C) | 3:38 |
 | 67 | [Tu M'as Tout Donné \- Extended Version](https://open.spotify.com/track/3jt07FhLh159y0nT9sjP7R) | [Luc Evarist](https://open.spotify.com/artist/46tjw4Tkvp0ZfQlC3OGmOJ) | [Tu M'as Tout Donné \(Extended Version\)](https://open.spotify.com/album/77PWsjBJ56uVOvjZDE1zIT) | 4:00 |
-| 68 | [Do Me Like](https://open.spotify.com/track/5VmdiCzEP9SCU2cpiPOMIE) | [AFROWAVETO](https://open.spotify.com/artist/7rlNBe6IerXXD6HTOaC9Q2), [Kris Hans](https://open.spotify.com/artist/3pV4mFQfwj3coygDws7OTd), [Cloclo claudel](https://open.spotify.com/artist/4mHCo8XXxd4a2mSVAQwrxV), [Teebee](https://open.spotify.com/artist/4aNxKsHJPOLxJS6uTsdW5t) | [AFROWAVETO, Vol\. 1](https://open.spotify.com/album/0g90kMBEocx11P01p23fCK) | 3:45 |
+| 68 | [Do Me Like](https://open.spotify.com/track/5VmdiCzEP9SCU2cpiPOMIE) | [AFROWAVETO](https://open.spotify.com/artist/7rlNBe6IerXXD6HTOaC9Q2), [Kris Hans](https://open.spotify.com/artist/3pV4mFQfwj3coygDws7OTd), [Cloclo claudel](https://open.spotify.com/artist/4mHCo8XXxd4a2mSVAQwrxV), [Teebee](https://open.spotify.com/artist/29oxPTcfjSkPeXI3P5eP7B) | [AFROWAVETO, Vol\. 1](https://open.spotify.com/album/0g90kMBEocx11P01p23fCK) | 3:45 |
 | 69 | [Affection](https://open.spotify.com/track/7mbjCt8jJCCdHJGiw8a9TL) | [J\. Amany](https://open.spotify.com/artist/0v1MvNe9B8eYtoZdfAPyAe) | [Affection](https://open.spotify.com/album/29rzeyxIjhDvwo5Ht5mezJ) | 4:11 |
 | 70 | [Pusana](https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [Pusana](https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD) | 3:25 |
 | 71 | [Oya Ngai](https://open.spotify.com/track/0fIrK7LNla8OK5QmIjTXP1) | [Moerson](https://open.spotify.com/artist/6I4CPoQeM3qI54JeCqySdW) | [Oya Ngai](https://open.spotify.com/album/3txMN0jWePWXPVvgxyMvOE) | 2:44 |

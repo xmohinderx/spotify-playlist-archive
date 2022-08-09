@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-454 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+455 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [寂寞留白 \(電影《揚名立萬》推廣曲\)](https://open.spotify.com/track/3PTrVhOpgCSjjbuTCF2lFz) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [寂寞留白](https://open.spotify.com/album/53qPOdnZTvDYCfqbAUtP7C) | 4:22 | 2021-11-22 | 2021-12-04 |
 | [寫一條歌,寫你我爾爾](https://open.spotify.com/track/3EohByRFmkLh1Upve1UpSC) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB), [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [舞台](https://open.spotify.com/album/3J4wraaHCpQvLYofNxH51f) | 4:51 | 2021-04-09 | 2021-06-21 |
 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 | 2021-12-10 | 2022-05-30 |
+| [小城夏天](https://open.spotify.com/track/4QZMBVrBLAvBryj8ZJIIY2) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [小城夏天](https://open.spotify.com/album/2gBtz9cBcRTBvsux9pv9KF) | 2:53 | 2022-08-08 |  |
 | [少年](https://open.spotify.com/track/56XaEf9Mo2Njaxa9TIn5LR) | [梦然](https://open.spotify.com/artist/6taSlFSqCqAEUHOliFyHt7) | [少年](https://open.spotify.com/album/5bXN7segGUJUfO1DvQ4QN2) | 3:56 | 2021-03-27\* | 2021-07-29 |
 | [就忘了吧](https://open.spotify.com/track/0l6w3GsvjJWdZHs3eXTjuL) | [1K](https://open.spotify.com/artist/1zd6jcOk4VE6ey8WbCewFc) | [就忘了吧](https://open.spotify.com/album/2i3Y97GZZj6pH1DTYyyrRt) | 3:23 | 2022-05-08 |  |
 | [尽管如此,还是](https://open.spotify.com/track/743uT4l3ZXwkIyKcIaVpUL) | [阿肆](https://open.spotify.com/artist/357csbZcykP50H4eQ4Dq7E), [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [成为了这样的大人,并不可耻](https://open.spotify.com/album/2HpyYJxrWTUyp7Q2NqNPu7) | 4:39 | 2021-11-13 | 2021-11-14 |
@@ -423,7 +424,7 @@
 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 | 2022-03-18 | 2022-04-06 |
 | [與我無關](https://open.spotify.com/track/2qlUhwv6Hqx5ZZHCucRlGF) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [與我無關](https://open.spotify.com/album/2nVfpyVu94tgwFT9XX7ufJ) | 4:00 | 2021-07-22 | 2022-07-02 |
 | [英雄 \(Heroes\) \- 動畫電影《諸葛四郎\-英雄的英雄》主題曲 Acoustic Ver.](https://open.spotify.com/track/6k9i8zbLhbGRmlK5hqfkjy) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [英雄 \(Heroes\)](https://open.spotify.com/album/6Qd5JEwZU3m5STH0ovsLiz) | 3:16 | 2021-07-01 | 2021-07-14 |
-| [萬千花蕊慈母悲哀](https://open.spotify.com/track/5Wyq70ysHQp0jaMhPKrza4) | [珂拉琪](https://open.spotify.com/artist/1YtYHaWLV0IU7SwhvG6Luk) | [MEmento·MORI](https://open.spotify.com/album/4RVhGD6w71DjGdXJDifFGn) | 3:56 | 2021-12-24 |  |
+| [萬千花蕊慈母悲哀](https://open.spotify.com/track/5Wyq70ysHQp0jaMhPKrza4) | [珂拉琪](https://open.spotify.com/artist/1YtYHaWLV0IU7SwhvG6Luk) | [MEmento·MORI](https://open.spotify.com/album/4RVhGD6w71DjGdXJDifFGn) | 3:56 | 2021-12-24 | 2022-08-09 |
 | [藍色的你 \(《比悲傷更悲傷的故事》 影集版 插曲\)](https://open.spotify.com/track/0Gxc9ycu9OKcDRrxehcjNm) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 3:57 | 2022-03-18 | 2022-03-21 |
 | [藍色的你 \(《比悲傷更悲傷的故事》 影集版 插曲\)](https://open.spotify.com/track/6QUhx7zJcTIEz40Cr28mgL) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [藍色的你](https://open.spotify.com/album/5JFPJKe8QEa4IMNtpCQDOx) | 4:00 | 2021-11-25 | 2021-12-24 |
 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 | 2021-04-09 | 2021-04-29 |
@@ -451,7 +452,7 @@
 | [閉上眼睛會想起的人 \(電影《一杯熱奶茶的等待》主題曲\)](https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [閉上眼睛會想起的人](https://open.spotify.com/album/4m8zX2aF2ggXlAqLsSj8Vb) | 4:45 | 2021-12-16 | 2021-12-30 |
 | [閣愛妳一擺](https://open.spotify.com/track/07plVccQ0N6FTTTonk3c2M) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [閣愛妳一擺](https://open.spotify.com/album/3qpPxu0v6G5fNYe8OfslFt) | 4:38 | 2021-12-12 |  |
 | [间距](https://open.spotify.com/track/4U0bL1ouvksMgvXU2aKq4O) | [en](https://open.spotify.com/artist/1Gv7r0FAYOhJF8Dzi6MebN) | [间距](https://open.spotify.com/album/1wccrWdon60UC49GbPvCyO) | 4:43 | 2021-10-14 |  |
-| [隆裡電絲](https://open.spotify.com/track/6XrnEjYDnm9JUeoDE4efvA) | [盛宇DamnShine](https://open.spotify.com/artist/6aHqXgbCmijW9Tthh1yidE), [KEY.L刘聪](https://open.spotify.com/artist/4vvCGXDAaBukbf2dI2slRT), [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [中國說唱巔峰對決 第四期](https://open.spotify.com/album/49zgQLPXHka2uFR62BOzsq) | 3:39 | 2022-07-30 |  |
+| [隆裡電絲](https://open.spotify.com/track/6XrnEjYDnm9JUeoDE4efvA) | [盛宇DamnShine](https://open.spotify.com/artist/6aHqXgbCmijW9Tthh1yidE), [KEY.L刘聪](https://open.spotify.com/artist/4vvCGXDAaBukbf2dI2slRT), [ICE](https://open.spotify.com/artist/6ChvTm3RiOLbx8apza83c7) | [中國說唱巔峰對決 第四期](https://open.spotify.com/album/49zgQLPXHka2uFR62BOzsq) | 3:39 | 2022-07-30 |  |
 | [雛形](https://open.spotify.com/track/3mrkmWt803vSvGxTlW27YI) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [雛形](https://open.spotify.com/album/6sP1HwzA0iqkGjoroBgog4) | 3:59 | 2021-09-12 | 2021-10-02 |
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2021-05-30 | 2022-01-08 |
 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 | 2021-11-04 | 2021-11-21 |

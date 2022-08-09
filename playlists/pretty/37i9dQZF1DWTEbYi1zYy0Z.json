@@ -1,12 +1,12 @@
 {
   "description": "The freshest smooth jazz. Cover: Nick Colionne",
-  "num_followers": 35343,
+  "num_followers": 35345,
   "original_name": "Nu-Smooth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDAyMmFmZTU1MTViZWY0N2I1YzBiMjY2YjFlMWQ5YTFm",
+  "snapshot_id": "MTY1OTk2NzM3MCwwMDAwMDAwMDhkOWI4ZTJjMzAyNDVmNjVjMzkwMTIyOTliMWYyZGVi",
   "tracks": [
     {
       "added_at": "2022-07-15 04:02:00",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
     },
     {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "Just One of Those Things",
-        "url": "https://open.spotify.com/album/4ECH1gTcz4Svspd0UrgwCT"
-      },
-      "artists": [
-        {
-          "name": "Victor Lundberg",
-          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/0cPgDhXIJMX45AIRCdzYZz"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "What You Do To Me",
@@ -55,22 +39,6 @@
       "duration_ms": 297750,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Stride",
-        "url": "https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF"
-      },
-      "artists": [
-        {
-          "name": "Eric Essix",
-          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Stride",
-      "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -91,6 +59,22 @@
       "duration_ms": 200050,
       "name": "Summer Solstice",
       "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Stride",
+        "url": "https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF"
+      },
+      "artists": [
+        {
+          "name": "Eric Essix",
+          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Stride",
+      "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -345,6 +329,22 @@
       "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
     },
     {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Red Tiger",
+        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "duration_ms": 249262,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
@@ -363,38 +363,6 @@
       "duration_ms": 293280,
       "name": "Weekend Groove",
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Red Tiger",
-        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 249262,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "The Goddess",
-        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 246458,
-      "name": "The Goddess",
-      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -489,6 +457,22 @@
       "url": "https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA"
     },
     {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "The Goddess",
+        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 246458,
+      "name": "The Goddess",
+      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Emeline",
@@ -535,6 +519,22 @@
       "duration_ms": 210179,
       "name": "Summertime in Nyc (Instrumental Mix)",
       "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "GroovySax",
+        "url": "https://open.spotify.com/album/5iq65xFLZsMa8GcjXN1UC3"
+      },
+      "artists": [
+        {
+          "name": "Dean James",
+          "url": "https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu"
+        }
+      ],
+      "duration_ms": 251621,
+      "name": "Planet Smooth",
+      "url": "https://open.spotify.com/track/4DNJiQa3gRSzItuC5vdR4Z"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -585,20 +585,20 @@
       "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
+      "added_at": "2021-10-15 04:01:00",
       "album": {
-        "name": "GroovySax",
-        "url": "https://open.spotify.com/album/5iq65xFLZsMa8GcjXN1UC3"
+        "name": "Slingshot",
+        "url": "https://open.spotify.com/album/0YocPxGvt5sccdAsZKqvgX"
       },
       "artists": [
         {
-          "name": "Dean James",
-          "url": "https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu"
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
         }
       ],
-      "duration_ms": 251621,
-      "name": "Planet Smooth",
-      "url": "https://open.spotify.com/track/4DNJiQa3gRSzItuC5vdR4Z"
+      "duration_ms": 232719,
+      "name": "Slingshot",
+      "url": "https://open.spotify.com/track/4nEwNR21Iycvix4l5opfmM"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -627,22 +627,6 @@
       "duration_ms": 251076,
       "name": "Think Critically",
       "url": "https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp"
-    },
-    {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Slingshot",
-        "url": "https://open.spotify.com/album/0YocPxGvt5sccdAsZKqvgX"
-      },
-      "artists": [
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 232719,
-      "name": "Slingshot",
-      "url": "https://open.spotify.com/track/4nEwNR21Iycvix4l5opfmM"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -675,22 +659,6 @@
       "duration_ms": 244435,
       "name": "Catalina Nights",
       "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Bridges (Radio Edit)",
-        "url": "https://open.spotify.com/album/5oRUw1NFMSLMYJ90iZdscU"
-      },
-      "artists": [
-        {
-          "name": "Cal Harris Jr.",
-          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Bridges - Radio Edit",
-      "url": "https://open.spotify.com/track/1p3bQPaUzLAISJvj9I28QU"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -727,6 +695,22 @@
       "duration_ms": 224237,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Bridges (Radio Edit)",
+        "url": "https://open.spotify.com/album/5oRUw1NFMSLMYJ90iZdscU"
+      },
+      "artists": [
+        {
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Bridges - Radio Edit",
+      "url": "https://open.spotify.com/track/1p3bQPaUzLAISJvj9I28QU"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -793,22 +777,6 @@
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
-      "added_at": "2021-10-08 04:02:00",
-      "album": {
-        "name": "No Shade",
-        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
-      },
-      "artists": [
-        {
-          "name": "Isaac Norris",
-          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
-        }
-      ],
-      "duration_ms": 248472,
-      "name": "No Shade",
-      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
-    },
-    {
       "added_at": "2021-06-25 04:02:00",
       "album": {
         "name": "All That Matters",
@@ -823,6 +791,22 @@
       "duration_ms": 277600,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/2ZNUhtOKwuwK7Ec138C9Dk"
+    },
+    {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "No Shade",
+        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Norris",
+          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
+        }
+      ],
+      "duration_ms": 248472,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -961,6 +945,22 @@
       "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
     },
     {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Early Sunrise",
+        "url": "https://open.spotify.com/album/3pqWeJefX6sZrmjbo3bfCp"
+      },
+      "artists": [
+        {
+          "name": "Igor Gerzina",
+          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Early Sunrise",
+      "url": "https://open.spotify.com/track/4ZNXj5RoCXuczRCth4t0DT"
+    },
+    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Run Through the Urban City",
@@ -1001,6 +1001,22 @@
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Simply Worship",
+        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
+      },
+      "artists": [
+        {
+          "name": "Uriel Vega",
+          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
+    },
+    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Set Sail",
@@ -1019,22 +1035,6 @@
       "duration_ms": 209727,
       "name": "Set Sail",
       "url": "https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS"
-    },
-    {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Early Sunrise",
-        "url": "https://open.spotify.com/album/3pqWeJefX6sZrmjbo3bfCp"
-      },
-      "artists": [
-        {
-          "name": "Igor Gerzina",
-          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Early Sunrise",
-      "url": "https://open.spotify.com/track/4ZNXj5RoCXuczRCth4t0DT"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1071,22 +1071,6 @@
       "duration_ms": 236706,
       "name": "Legacy [Feat. \"The Sound\u201d of Stan Getz]",
       "url": "https://open.spotify.com/track/5qerN3vnJd2zLapuo3F4Qr"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Simply Worship",
-        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
-      },
-      "artists": [
-        {
-          "name": "Uriel Vega",
-          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -1165,26 +1149,6 @@
       "url": "https://open.spotify.com/track/3etLxAosogqfbvsLyBh58S"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "A Sunny Day",
-        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
-      },
-      "artists": [
-        {
-          "name": "WaKaNa",
-          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
-        },
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "Fika Talk",
-      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Radio Vibe",
@@ -1203,6 +1167,26 @@
       "duration_ms": 249529,
       "name": "Radio Vibe - radio single",
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "A Sunny Day",
+        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
+      },
+      "artists": [
+        {
+          "name": "WaKaNa",
+          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
+        },
+        {
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "Fika Talk",
+      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1253,6 +1237,42 @@
       "url": "https://open.spotify.com/track/1waCZ5tOkptUrXsrnPhFWI"
     },
     {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Chicago Morning",
+        "url": "https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N"
+      },
+      "artists": [
+        {
+          "name": "Spontaneous Groovin' Combustion",
+          "url": "https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Chicago Morning",
+      "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Lavish",
+        "url": "https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p"
+      },
+      "artists": [
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        },
+        {
+          "name": "Jordan Love",
+          "url": "https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9"
+        }
+      ],
+      "duration_ms": 257410,
+      "name": "Lavish",
+      "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Nightfall",
@@ -1285,22 +1305,6 @@
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Chicago Morning",
-        "url": "https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N"
-      },
-      "artists": [
-        {
-          "name": "Spontaneous Groovin' Combustion",
-          "url": "https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5"
-        }
-      ],
-      "duration_ms": 260398,
-      "name": "Chicago Morning",
-      "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "SOLO",
@@ -1321,26 +1325,6 @@
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Lavish",
-        "url": "https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p"
-      },
-      "artists": [
-        {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
-        },
-        {
-          "name": "Jordan Love",
-          "url": "https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9"
-        }
-      ],
-      "duration_ms": 257410,
-      "name": "Lavish",
-      "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Business As Usual",
@@ -1355,22 +1339,6 @@
       "duration_ms": 216129,
       "name": "Business As Usual",
       "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "So Many Ways",
-        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 247440,
-      "name": "So Many Ways",
-      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1389,6 +1357,22 @@
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
     },
     {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "So Many Ways",
+        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 247440,
+      "name": "So Many Ways",
+      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
+    },
+    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "Amalfi",
@@ -1403,6 +1387,22 @@
       "duration_ms": 231285,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Hrs and Hrs",
+        "url": "https://open.spotify.com/album/6V18NGCK4t7I0Nisj5lZcR"
+      },
+      "artists": [
+        {
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
+        }
+      ],
+      "duration_ms": 208445,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn"
     }
   ],
   "unique_name": "Nu-Smooth",

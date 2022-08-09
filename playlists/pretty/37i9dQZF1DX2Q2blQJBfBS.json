@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 112498,
+  "num_followers": 112822,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcwMDgwMCwwMDAwMDAwMDc3ZjFhZTZhYmJlNTZmNDg2YjcxODI5NjAzMGNmZTEz",
+  "snapshot_id": "MTY1OTcwMDgwMCwwMDAwMDAwMGI4OTQxODA5ZjAzYTg2ZjQ5ZDk0ODc2MmNkMDUyMjEy",
   "tracks": [
     {
       "added_at": "2022-08-05 12:00:00",
@@ -781,20 +781,20 @@
       "url": "https://open.spotify.com/track/5eURoU1GtJypHBQJTXWTPN"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
+      "added_at": "2022-07-01 12:00:00",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "Uptown Saturday Night",
+        "url": "https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Camp Lo",
+          "url": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
         }
       ],
-      "duration_ms": 275342,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
+      "duration_ms": 241133,
+      "name": "Coolie High",
+      "url": "https://open.spotify.com/track/6yZAdQyPJtXjATvAT8ERQg"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
     },
     {
-      "added_at": "2022-07-01 12:00:00",
+      "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Uptown Saturday Night",
-        "url": "https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E"
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
       "artists": [
         {
-          "name": "Camp Lo",
-          "url": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 241133,
-      "name": "Coolie High",
-      "url": "https://open.spotify.com/track/6yZAdQyPJtXjATvAT8ERQg"
+      "duration_ms": 275342,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "The Water (S)",
-        "url": "https://open.spotify.com/album/39yAlNzbQD6MAvveqeY3IP"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 260160,
-      "name": "Jazz",
-      "url": "https://open.spotify.com/track/2rk0lCpO1vkKAQ6BC8bjUX"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Blunted On Reality",
         "url": "https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 322066,
       "name": "Nappy Heads - Remix",
       "url": "https://open.spotify.com/track/0hKr166QnNZ0a37G4UO0VY"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "The Water (S)",
+        "url": "https://open.spotify.com/album/39yAlNzbQD6MAvveqeY3IP"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 260160,
+      "name": "Jazz",
+      "url": "https://open.spotify.com/track/2rk0lCpO1vkKAQ6BC8bjUX"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Apt. 505",
-        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 256595,
-      "name": "Pimpin' Benjamin",
-      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "The Chittlin' Circuit Circuit 1.5 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1amoRIjOnIdjpdCNYJsOwA"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 259708,
       "name": "I See Now",
       "url": "https://open.spotify.com/track/42Bczh6IIyTYJduQnfS92p"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 256595,
+      "name": "Pimpin' Benjamin",
+      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1155,6 +1155,22 @@
       "duration_ms": 153600,
       "name": "No Gold Teeth",
       "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 71666,
+      "name": "Welcome To The Show",
+      "url": "https://open.spotify.com/track/6YbfTiImEm6kH6gRXpdtgR"
     },
     {
       "added_at": "2022-06-24 12:00:00",
@@ -1195,18 +1211,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+        "name": "This Thing Of Ours 2",
+        "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
       },
       "artists": [
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 71666,
-      "name": "Welcome To The Show",
-      "url": "https://open.spotify.com/track/6YbfTiImEm6kH6gRXpdtgR"
+      "duration_ms": 114092,
+      "name": "6 Five Heartbeats (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1233,26 +1253,6 @@
       "url": "https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "This Thing Of Ours 2",
-        "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 114092,
-      "name": "6 Five Heartbeats (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
-    },
-    {
       "added_at": "2022-05-13 12:00:00",
       "album": {
         "name": "The Big Picture",
@@ -1271,42 +1271,6 @@
       "duration_ms": 217813,
       "name": "Platinum Plus (feat. Big Daddy Kane)",
       "url": "https://open.spotify.com/track/2L6f9KUVUiMkN2peXfMRpL"
-    },
-    {
-      "added_at": "2022-07-15 12:00:00",
-      "album": {
-        "name": "The Return Of Sasquatch",
-        "url": "https://open.spotify.com/album/35f2l6py8BifthBkTK2t8K"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 118126,
-      "name": "The Return Of Sasquatch",
-      "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "I Got Next",
-        "url": "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
-      },
-      "artists": [
-        {
-          "name": "KRS-One",
-          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
-        }
-      ],
-      "duration_ms": 252893,
-      "name": "A Friend",
-      "url": "https://open.spotify.com/track/5JPCZLbqNBonKhC53JPu4A"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1331,18 +1295,38 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Clockers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
+        "name": "I Got Next",
+        "url": "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
       },
       "artists": [
         {
-          "name": "Crooklyn Dodgers",
-          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
         }
       ],
-      "duration_ms": 304840,
-      "name": "Return of The Crooklyn Dodgers",
-      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
+      "duration_ms": 252893,
+      "name": "A Friend",
+      "url": "https://open.spotify.com/track/5JPCZLbqNBonKhC53JPu4A"
+    },
+    {
+      "added_at": "2022-07-15 12:00:00",
+      "album": {
+        "name": "The Return Of Sasquatch",
+        "url": "https://open.spotify.com/album/35f2l6py8BifthBkTK2t8K"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 118126,
+      "name": "The Return Of Sasquatch",
+      "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1359,6 +1343,22 @@
       "duration_ms": 150561,
       "name": "Why Worry",
       "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Clockers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
+      },
+      "artists": [
+        {
+          "name": "Crooklyn Dodgers",
+          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Return of The Crooklyn Dodgers",
+      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
     },
     {
       "added_at": "2022-05-27 12:00:00",
@@ -1813,26 +1813,6 @@
       "url": "https://open.spotify.com/track/3AiP7DgkRA2SkBtn0923cL"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "To Kill A Sunrise",
-        "url": "https://open.spotify.com/album/0inJD6mDF0x5zIAv774uE2"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "The Cold",
-      "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
-    },
-    {
       "added_at": "2022-05-27 12:00:00",
       "album": {
         "name": "Refills",
@@ -1887,6 +1867,22 @@
       "duration_ms": 152281,
       "name": "Not a Lot to Fear",
       "url": "https://open.spotify.com/track/4lKmBs5dS81vXwJ2FsMbWE"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Space Bar",
+        "url": "https://open.spotify.com/album/02Yj1IHvflANtrNWNekHTt"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 147031,
+      "name": "Cosmonaut",
+      "url": "https://open.spotify.com/track/2Lt9iwXSIbQBEgWvQe0Dxa"
     }
   ],
   "unique_name": "The Skate Shop",

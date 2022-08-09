@@ -1,12 +1,12 @@
 {
   "description": "A mix of new songs and beloved classics from your favorite Contemporary Christian artists! ",
-  "num_followers": 56302,
+  "num_followers": 56316,
   "original_name": "Contemporary Christian Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjMwMCwwMDAwMDAwMGNjZGFlYzQxMTMwNTYzNDVlNDMzY2FjOTAyN2Y4YzIy",
+  "snapshot_id": "MTY0MDMyMjMwMCwwMDAwMDAwMGE3YzY5NDEyZmExZjEzNTA2MDY4YjdiMjI0NjI3NWQ0",
   "tracks": [
     {
       "added_at": "2021-12-24 05:05:00",
@@ -739,6 +739,26 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
+        "name": "Living for You (Live)",
+        "url": "https://open.spotify.com/album/3UszwX7QlsXDBgrf5KIWLL"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Thomas Miller",
+          "url": "https://open.spotify.com/artist/1xQVx9QytRWcjkLaKOjceE"
+        }
+      ],
+      "duration_ms": 359120,
+      "name": "Come Thou Fount, Come Thou King - Live",
+      "url": "https://open.spotify.com/track/7lXtBXlaLrTw83eFT4noBG"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
         "name": "Mary Had A Little Lamb",
         "url": "https://open.spotify.com/album/7hSSwV7RWL4slYauUvt3BW"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 168464,
       "name": "Mary Had A Little Lamb",
       "url": "https://open.spotify.com/track/7mdaecge9hB8VZyrqQMDBM"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "Living for You (Live)",
-        "url": "https://open.spotify.com/album/3UszwX7QlsXDBgrf5KIWLL"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Thomas Miller",
-          "url": "https://open.spotify.com/artist/1xQVx9QytRWcjkLaKOjceE"
-        }
-      ],
-      "duration_ms": 359120,
-      "name": "Come Thou Fount, Come Thou King - Live",
-      "url": "https://open.spotify.com/track/7lXtBXlaLrTw83eFT4noBG"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
+        "name": "God With Us",
+        "url": "https://open.spotify.com/album/769hv10bfheMCJViVIr0YD"
+      },
+      "artists": [
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+        }
+      ],
+      "duration_ms": 278013,
+      "name": "Come Thou Long Expected Jesus",
+      "url": "https://open.spotify.com/track/6xQucpY9ELAnkaQH5Fjtxs"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
         "name": "Joy To Our World",
         "url": "https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 239054,
       "name": "Let There Be Peace",
       "url": "https://open.spotify.com/track/0unhO1D9nwFlljFrhwB9Rs"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "God With Us",
-        "url": "https://open.spotify.com/album/769hv10bfheMCJViVIr0YD"
-      },
-      "artists": [
-        {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
-        }
-      ],
-      "duration_ms": 278013,
-      "name": "Come Thou Long Expected Jesus",
-      "url": "https://open.spotify.com/track/6xQucpY9ELAnkaQH5Fjtxs"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7FlCM63Q0pIap1Ofg3uwSK"
+        "name": "Prepare Him Room: Celebrating the Birth of Jesus in Song",
+        "url": "https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W"
       },
       "artists": [
         {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         }
       ],
-      "duration_ms": 192280,
-      "name": "Rejoice",
-      "url": "https://open.spotify.com/track/3vUVSo09281qRWPabnsIMy"
+      "duration_ms": 232506,
+      "name": "Who Would Have Dreamed",
+      "url": "https://open.spotify.com/track/4jTuubX6rorxTmB2sAz6qf"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Prepare Him Room: Celebrating the Birth of Jesus in Song",
-        "url": "https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W"
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7FlCM63Q0pIap1Ofg3uwSK"
       },
       "artists": [
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
         }
       ],
-      "duration_ms": 232506,
-      "name": "Who Would Have Dreamed",
-      "url": "https://open.spotify.com/track/4jTuubX6rorxTmB2sAz6qf"
+      "duration_ms": 192280,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/3vUVSo09281qRWPabnsIMy"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1023,22 +1023,6 @@
       "duration_ms": 198276,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0mbKemvmkBi8AmG3pMUbFv"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "Into The Silent Night (Extended)",
-        "url": "https://open.spotify.com/album/72K9NLsisYGlynNMb1ywMB"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Into the Silent Night",
-      "url": "https://open.spotify.com/track/4iO58g1avsDxYztLwpyCg6"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 177510,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/7tYjgUk0Ea9299FP54SUkT"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "Into The Silent Night (Extended)",
+        "url": "https://open.spotify.com/album/72K9NLsisYGlynNMb1ywMB"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Into the Silent Night",
+      "url": "https://open.spotify.com/track/4iO58g1avsDxYztLwpyCg6"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Peace On Earth",
-        "url": "https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 314480,
-      "name": "Christmas Offering",
-      "url": "https://open.spotify.com/track/5fJszr03uVM8V6P3Ek3gce"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/2M0e3x6XRFJClaE5qOL3lT"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 186276,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/1BtsXyRo4KHHhlJ3daoRXB"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "Peace On Earth",
+        "url": "https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 314480,
+      "name": "Christmas Offering",
+      "url": "https://open.spotify.com/track/5fJszr03uVM8V6P3Ek3gce"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
+        "name": "The Thrill of Hope",
+        "url": "https://open.spotify.com/album/0rsqupLN9sGS8Ufn9F1bDU"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "Advent Hymn",
+      "url": "https://open.spotify.com/track/24VfMY1tdEOb77g0mttlSj"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
         "name": "Joy Unto The World",
         "url": "https://open.spotify.com/album/4Md3Z5MRb1AqhUtiW7KxSs"
       },
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "The Thrill of Hope",
-        "url": "https://open.spotify.com/album/0rsqupLN9sGS8Ufn9F1bDU"
+        "name": "I Wish It Would Snow",
+        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
       },
       "artists": [
         {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
         }
       ],
-      "duration_ms": 165200,
-      "name": "Advent Hymn",
-      "url": "https://open.spotify.com/track/24VfMY1tdEOb77g0mttlSj"
+      "duration_ms": 165596,
+      "name": "I Wish It Would Snow",
+      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "I Wish It Would Snow",
-        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 165596,
-      "name": "I Wish It Would Snow",
-      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
         "name": "Christmas With You / Please Come Home for Christmas",
         "url": "https://open.spotify.com/album/0W1U8rS590938mux6amCCy"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/09xc06CHXpz6dBFRQtGg2g"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/0d9T0mGXQeXZbocFTdu9uk"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
         "name": "The Christmas Sessions",
         "url": "https://open.spotify.com/album/5ekIltuFIN3m09eOBSWpF3"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 211066,
       "name": "God Rest Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/09AWVPvdHm3nPt7xA1x1Xu"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/09xc06CHXpz6dBFRQtGg2g"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0d9T0mGXQeXZbocFTdu9uk"
     },
     {
       "added_at": "2021-12-24 05:05:00",

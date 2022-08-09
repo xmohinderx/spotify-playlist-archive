@@ -4,7 +4,7 @@
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Mosaic MSC
 
-224 songs - 21 hr 32 min - [published](https://open.spotify.com/playlist/12yoI78Chtrh071OwGd6QO)
+225 songs - 21 hr 36 min - [published](https://open.spotify.com/playlist/12yoI78Chtrh071OwGd6QO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [The Risen Lamb Of God](https://open.spotify.com/track/1X360Z9pMatI2LOKGGgirG) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Matthews Ntlele](https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX), [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK) | [The Risen Lamb Of God](https://open.spotify.com/album/3HPUjxyWMwNYfaYBoIEmnn) | 4:11 | 2022-02-25 | 2022-03-12 |
 | [The Sweetest Sound](https://open.spotify.com/track/4TyYqM4EoFG7KtEGmUgH2r) | [Village Lights](https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1), [Ike Ndolo](https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W) | [Kingdom](https://open.spotify.com/album/1JJslYNSkyMUSm05DA548D) | 3:20 | 2022-02-25 |  |
 | [The Table](https://open.spotify.com/track/6YkYoeZXZUK5SP8EReOOQI) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [The Table](https://open.spotify.com/album/5V23DdCgKh1j2fNP340qdB) | 4:20 | 2022-02-25 | 2022-07-23 |
-| [There Is Freedom](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 | 2022-04-01 |  |
+| [There Is Freedom](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 | 2022-04-01 | 2022-08-09 |
+| [There Is Freedom](https://open.spotify.com/track/5v9XGYeVeVbuGnYJEaesoh) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/5XarmAjYxAdXTOQObOztgO) | 3:58 | 2022-08-05 |  |
 | [There Is More \(Patmos\) \- Live](https://open.spotify.com/track/1vcABnQFyo1egkdCFeJPlC) | [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Jonathan Stamper](https://open.spotify.com/artist/0ONgXApuMkymQG94eMeDSA), [Aisha Skye](https://open.spotify.com/artist/07zXa7Fa0rJnf8OKHoKskz) | [The King Is Calling \(Live\)](https://open.spotify.com/album/4X32ypJuS9uJhv0X9LyiUH) | 10:32 | 2022-06-17 |  |
 | [Things of Heaven \(feat\. Elyssa Smith\) \- The Other Side](https://open.spotify.com/track/7Cl9Ytd7N2J1hqdgYV6fk0) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Things of Heaven: The Other Side](https://open.spotify.com/album/6yhXDXMVJEoqROmklsDauO) | 5:38 | 2022-04-29 | 2022-06-25 |
 | [This Is How I Thank The Lord](https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [This Is How I Thank The Lord](https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9) | 3:10 | 2022-02-25 | 2022-07-02 |

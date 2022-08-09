@@ -1,28 +1,28 @@
 {
   "description": "Indie takes on songs others make. Cover: mxmtoon",
-  "num_followers": 270746,
+  "num_followers": 270805,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA2NDAwMSwwMDAwMDAwMGFmMWYzN2NiNzliZTNhZjEzZDM5MzI2YzA1Zjk2NTM2",
+  "snapshot_id": "MTY1OTk5NjczNSwwMDAwMDAwMGFhOGRlMGQwYmY4ZDhlNzJiNTMxZjY0MzAyNGIzNTAx",
   "tracks": [
     {
-      "added_at": "2022-04-01 04:34:00",
+      "added_at": "2022-08-08 22:12:15",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 226981,
-      "name": "Skinny Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
+      "duration_ms": 233406,
+      "name": "Pink + White - Live at Electric Lady",
+      "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
     },
     {
       "added_at": "2022-03-09 16:27:18",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
+      "added_at": "2022-08-08 22:12:15",
+      "album": {
+        "name": "Weird Fishes/ Arpeggi",
+        "url": "https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 325773,
+      "name": "Weird Fishes/ Arpeggi",
+      "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
+    },
+    {
       "added_at": "2021-03-12 05:01:00",
       "album": {
         "name": "Put Your Records On",
@@ -59,22 +75,6 @@
       "duration_ms": 210463,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
-    },
-    {
-      "added_at": "2022-01-20 17:20:06",
-      "album": {
-        "name": "ghost town (voice memo)",
-        "url": "https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g"
-      },
-      "artists": [
-        {
-          "name": "Chloe George",
-          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "ghost town (voice memo)",
-      "url": "https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr"
     },
     {
       "added_at": "2022-02-25 15:52:17",
@@ -97,20 +97,20 @@
       "url": "https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD"
     },
     {
-      "added_at": "2021-03-12 05:01:00",
+      "added_at": "2022-01-20 17:20:06",
       "album": {
-        "name": "Sure Sure",
-        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+        "name": "ghost town (voice memo)",
+        "url": "https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g"
       },
       "artists": [
         {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
         }
       ],
-      "duration_ms": 219260,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
+      "duration_ms": 137250,
+      "name": "ghost town (voice memo)",
+      "url": "https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr"
     },
     {
       "added_at": "2021-03-12 05:01:00",
@@ -127,6 +127,22 @@
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "added_at": "2021-03-12 05:01:00",
+      "album": {
+        "name": "Sure Sure",
+        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 219260,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
     },
     {
       "added_at": "2022-01-11 14:54:31",
@@ -159,22 +175,6 @@
       "duration_ms": 400565,
       "name": "That Funny Feeling",
       "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
-    },
-    {
-      "added_at": "2021-03-12 05:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
     },
     {
       "added_at": "2022-04-01 04:34:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2021-03-12 05:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "added_at": "2021-03-12 05:01:00",
+      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
       },
@@ -287,6 +303,38 @@
       "duration_ms": 173840,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"
+    },
+    {
+      "added_at": "2022-08-08 22:12:15",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "i will follow you into the dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
+    },
+    {
+      "added_at": "2022-04-01 04:34:00",
+      "album": {
+        "name": "Cool Dry Place (Expanded)",
+        "url": "https://open.spotify.com/album/0BxC9YkHqyPbj5sk9wvJ1m"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 218836,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/5jlechEPcQgjdHgr2t57w8"
     },
     {
       "added_at": "2021-03-12 05:01:00",
@@ -319,22 +367,6 @@
       "duration_ms": 346373,
       "name": "Harvest Moon - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
-    },
-    {
-      "added_at": "2022-04-01 04:34:00",
-      "album": {
-        "name": "Cool Dry Place (Expanded)",
-        "url": "https://open.spotify.com/album/0BxC9YkHqyPbj5sk9wvJ1m"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 218836,
-      "name": "Bad Man",
-      "url": "https://open.spotify.com/track/5jlechEPcQgjdHgr2t57w8"
     },
     {
       "added_at": "2021-03-12 05:01:00",
@@ -1093,6 +1125,22 @@
       "url": "https://open.spotify.com/track/41uHv2ZIT0YDUHoyNzvRQ1"
     },
     {
+      "added_at": "2022-04-01 04:34:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 226981,
+      "name": "Skinny Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
+    },
+    {
       "added_at": "2021-03-12 05:01:00",
       "album": {
         "name": "Pocketknife",
@@ -1127,22 +1175,6 @@
     {
       "added_at": "2021-03-12 05:01:00",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 179386,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
-    },
-    {
-      "added_at": "2021-03-12 05:01:00",
-      "album": {
         "name": "I Will Follow You Into The Dark",
         "url": "https://open.spotify.com/album/1JItKcFYW0tNHqFHO4qqxo"
       },
@@ -1159,6 +1191,38 @@
     {
       "added_at": "2021-03-12 05:01:00",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
+    },
+    {
+      "added_at": "2022-08-08 22:12:15",
+      "album": {
+        "name": "Diamond In The Dark",
+        "url": "https://open.spotify.com/album/4C7f4yffO7fdpU9DZJ8zcC"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Bless You",
+      "url": "https://open.spotify.com/track/6N95gnRl5ggsEGVM27YkjW"
+    },
+    {
+      "added_at": "2021-03-12 05:01:00",
+      "album": {
         "name": "Baby Charles",
         "url": "https://open.spotify.com/album/5wo7j2ExKorVKV1WU7p2gb"
       },
@@ -1171,70 +1235,6 @@
       "duration_ms": 268040,
       "name": "I Bet You Look Good On The Dancefloor",
       "url": "https://open.spotify.com/track/45n7W7WLGntk46zi08LmVz"
-    },
-    {
-      "added_at": "2021-03-12 05:01:00",
-      "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
-    },
-    {
-      "added_at": "2021-03-12 05:01:00",
-      "album": {
-        "name": "The Loved Ones",
-        "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 149637,
-      "name": "Archie, Marry Me",
-      "url": "https://open.spotify.com/track/0rcwROyUguj5RQa5pPKajI"
-    },
-    {
-      "added_at": "2021-03-12 05:01:00",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
-      },
-      "artists": [
-        {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
-        }
-      ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
-    },
-    {
-      "added_at": "2021-03-12 05:01:00",
-      "album": {
-        "name": "Siamese Dream",
-        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 255633,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
     }
   ],
   "unique_name": "Indie Covers",

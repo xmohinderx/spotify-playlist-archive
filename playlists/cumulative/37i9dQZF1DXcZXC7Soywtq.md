@@ -4,7 +4,7 @@
 
 > ملتقي أصوات النساء العربيات! الغلاف: سميرة سعيد
 
-180 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
+181 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Ana](https://open.spotify.com/track/1sD799UQFKPoU2PUyBOm4v) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Ana](https://open.spotify.com/album/4ap3NmGXStZNYBenllHh3a) | 2:46 | 2022-04-08 |  |
 | [Ana Baatoh Kteer](https://open.spotify.com/track/02ZuBF6MTBdTgKIwwG9Epu) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Ana Baatoh Kteer](https://open.spotify.com/album/0GITxMCiCgxnWquOsRlZaK) | 4:12 | 2022-04-08 |  |
 | [Ana Ma Astaghni](https://open.spotify.com/track/54ytiI75JBleHsTiJwi9d9) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Ana Ma Astaghni](https://open.spotify.com/album/7doUub9LdO3apzewNqafd6) | 5:01 | 2022-04-08 |  |
-| [Ana Majnouna](https://open.spotify.com/track/4Iq7OP49gPTh7ldmelQs6l) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [Ana Majnouna](https://open.spotify.com/album/4NBYYKXSrXAGwfANAqWyYa) | 2:42 | 2022-04-08 |  |
+| [Ana Majnouna](https://open.spotify.com/track/4Iq7OP49gPTh7ldmelQs6l) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [Ana Majnouna](https://open.spotify.com/album/4NBYYKXSrXAGwfANAqWyYa) | 2:42 | 2022-04-08 | 2022-08-09 |
 | [Ani Alaqwa](https://open.spotify.com/track/3Cj7v2kZNOoqIEcOTcUT6c) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ani Alaqwa](https://open.spotify.com/album/5LNT6XOT8DoNIbEqqSGGgc) | 2:57 | 2022-04-08 |  |
 | [Aqwa Wahda](https://open.spotify.com/track/4Fd69ahoValLqJu9wL1beO) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Aqwa Wahda](https://open.spotify.com/album/72S1OIq0KrX25ntvPA8i6R) | 3:55 | 2022-04-08 | 2022-07-28 |
 | [Arab Taalaly](https://open.spotify.com/track/4VkSoGoJa1PAgnPfPdAP3N) | [Heba Mokhtar](https://open.spotify.com/artist/2rgPtDunjSfkjKf5d7gjCu) | [Arab Taalaly](https://open.spotify.com/album/5HhRXIpo2HHuBnUAL4ayRU) | 3:44 | 2022-04-08 | 2022-07-27 |
@@ -170,6 +170,7 @@
 | [Zaamat Naamat \- Leadership and Sheep](https://open.spotify.com/track/3NPC89hv3EYrJtTGjWUUO8) | [Mira Awad](https://open.spotify.com/artist/0hlFOvtSOFXtPmTfOt2XpP) | [Zaamat Naamat \(Leadership and Sheep\)](https://open.spotify.com/album/4JfAFXnZuF5adHNwos52Hs) | 3:16 | 2022-04-08 | 2022-07-29 |
 | [Zuruni](https://open.spotify.com/track/1n1Qfej8CS4L0xX5niQpxU) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Zuruni](https://open.spotify.com/album/2pFIooMgMqaHfgHeqwSb0g) | 3:09 | 2022-04-08 | 2022-07-29 |
 | [Zuruni](https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:09 | 2022-07-21 |  |
+| [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 | 2022-08-08 |  |
 | [أنساك](https://open.spotify.com/track/7Kt2dIB6IvPUs2qSdPRw8X) | [Layla Rina](https://open.spotify.com/artist/1T6zSTnrsGeN5HwgwcGTnt) | [أنساك](https://open.spotify.com/album/1FjKSu7MPy5dDQrA7FpFbn) | 3:52 | 2022-04-08 | 2022-06-03 |
 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-07-21 |  |
 | [الظروف](https://open.spotify.com/track/09VO2zkcp0Fep3LUfJAEEq) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [الظروف \- Single](https://open.spotify.com/album/2SSZErKSM1mjVl2g2asQ4U) | 6:07 | 2022-04-08 |  |

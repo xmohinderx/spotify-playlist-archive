@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Hotboii
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,444 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,496 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 |
-| 2 | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/album/2iAZ2v69xjK5mz9ndKywVr) | 3:00 |
+| 1 | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/album/2iAZ2v69xjK5mz9ndKywVr) | 3:00 |
+| 2 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 |
 | 3 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 |
 | 4 | [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 |
 | 5 | [Strong \(EST Gee, Moneybagg Yo\)](https://open.spotify.com/track/7vlUxa8sFLirILRYnmHWEh) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Hollywood Hills](https://open.spotify.com/track/1UpELy8EIVtIJnvg5rmd5x) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Hollywood Hills](https://open.spotify.com/album/4ewwU60N1DslkeRHV4hRBB) | 2:14 |
 | 50 | [Sing For Real](https://open.spotify.com/track/5ezqQbvb0Pj1yVbVJWBLyn) | [True Story Gee](https://open.spotify.com/artist/6fMLt27jSiBVuciQOYZGwm), [Majornine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE) | [Sing For Real](https://open.spotify.com/album/5dpIM6j42GJiZctZmHcZ8T) | 3:25 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGIzYjFiM2YyODhmOTA1ZGNmN2ZiZmMyNTk3ZjRkNGZk`
+Snapshot ID: `MTY1OTk5ODc3OCwwMDAwMDAwMDk0ZTg5ZTgyMTUyOGI4M2VjYTZiODkzZGQ3ODg5Zjhm`

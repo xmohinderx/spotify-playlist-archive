@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href ="https://goldhouse.org/">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,698 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,683 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 24 | [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 |
 | 25 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 |
 | 26 | [Power](https://open.spotify.com/track/4P9d4HswrDnEtFegdqZJNs) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Power](https://open.spotify.com/album/6H8FlOA6AbsRK8x3S1gVNk) | 3:16 |
-| 27 | [1 True Love](https://open.spotify.com/track/2dJ1UJEQQq3jkLSJP4ZIoi) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:19 |
+| 27 | [1 True Love](https://open.spotify.com/track/2dJ1UJEQQq3jkLSJP4ZIoi) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:19 |
 | 28 | [universe](https://open.spotify.com/track/7B4UxdHwRKJYRhvXxmgZhM) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:06 |
 | 29 | [Tripwires](https://open.spotify.com/track/7tf0TNfgxBg7rt7Tvo6QrP) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Tripwires](https://open.spotify.com/album/4AUnmgLTf3bk7qW87l7wyY) | 3:18 |
 | 30 | [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 |

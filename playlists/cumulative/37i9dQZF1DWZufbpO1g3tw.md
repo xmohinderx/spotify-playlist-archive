@@ -4,7 +4,7 @@
 
 > ¡Trompetas, piano y timbal para darle sazón a tu mediodía!
 
-94 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/4Q1G17YGjayP3gLunVYAPv)
+95 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/4Q1G17YGjayP3gLunVYAPv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,9 +51,10 @@
 | [La Danza de los Simpsons](https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Cuatro Tigres](https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR) | 2:26 | 2021-10-20 |  |
 | [La Luna en Tu Mirada](https://open.spotify.com/track/6Pn9xvGxfZdg0BvAiQsMmJ) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [Director Nestor Mili](https://open.spotify.com/album/6sdUnDbPFE4Krw4aHHEM3z) | 2:36 | 2022-04-20 |  |
 | [La Negra](https://open.spotify.com/track/7tUhh4MxnkgNvasB6ZxlAu) | [Hektombe](https://open.spotify.com/artist/1IJq0H8jAxPSeGSh2q0jPK) | [La Negra](https://open.spotify.com/album/7mzcTL8cKCD6uJ9lmXeIlf) | 5:59 | 2021-10-20 | 2022-07-28 |
-| [Lambada de Oceanía, África y América](https://open.spotify.com/track/3vo1FajskK841e2gcxHpqB) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Toma Tu Jabón Kapax](https://open.spotify.com/album/7mCtZcUQj34JoY810HGRlO) | 4:06 | 2021-10-20 |  |
+| [Lambada de Oceanía, África y América](https://open.spotify.com/track/3vo1FajskK841e2gcxHpqB) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Toma Tu Jabón Kapax](https://open.spotify.com/album/7mCtZcUQj34JoY810HGRlO) | 4:06 | 2021-10-20 | 2022-08-09 |
 | [Lamento en la Selva \- Remix](https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo) | [Astros de Mendoza](https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Abducción Amazonica, Lamento en la Selva](https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07) | 3:36 | 2021-10-20 | 2022-07-27 |
 | [Lazalypso](https://open.spotify.com/track/4mtYQUCB0AuUriy4Sv1nri) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/0y7GV4jRQOaWiN4sH0SPW5) | 3:33 | 2021-10-20 | 2022-07-27 |
+| [Lazalypso](https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 3:33 | 2021-10-20 |  |
 | [Lejanía](https://open.spotify.com/track/2OMdozfkfI186zaU7HkSjW) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Cumbias Colombianas](https://open.spotify.com/album/31BoyHYM20tJPUwksf7p0L) | 3:47 | 2021-10-20 | 2022-07-29 |
 | [Lejanía](https://open.spotify.com/track/6mq1F36WcRTTRaCaOoymU3) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Lejanía](https://open.spotify.com/album/08f6k1Om7JEYhOYoF4DTCI) | 3:47 | 2021-10-20 |  |
 | [Liquido Elemento](https://open.spotify.com/track/67GqMaPik3GKMcRW1xI1T6) | [La Retreta Mayor](https://open.spotify.com/artist/1BXE8Bsv9QWu1vrgyocOTF) | [Color de Trópico Vol 2 \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP) | 2:45 | 2021-10-20 | 2022-07-28 |

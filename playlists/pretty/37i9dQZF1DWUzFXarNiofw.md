@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Leon Thomas & Ty Dolla $ign
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,424 likes - 64 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,681 likes - 64 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

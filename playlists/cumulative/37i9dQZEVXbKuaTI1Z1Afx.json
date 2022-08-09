@@ -1801,7 +1801,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 272157,
       "name": "Chateau (Feel Alright)",
       "url": "https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh"
@@ -5099,7 +5099,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 128869,
       "name": "Hotel (Sped Up)",
       "url": "https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k"
@@ -6905,10 +6905,28 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 99408,
       "name": "Lyfe",
       "url": "https://open.spotify.com/track/50caE2T5nlhVH6d6A46HId"
+    },
+    {
+      "album": {
+        "name": "Lyfe",
+        "url": "https://open.spotify.com/album/0TarHyidiDryGISnipfWtG"
+      },
+      "artists": [
+        {
+          "name": "squigglydiggly",
+          "url": "https://open.spotify.com/artist/6thaOahBPQeiywU3zVsjzt"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99409,
+      "name": "Lyfe",
+      "url": "https://open.spotify.com/track/3M4bxiR326LWnfMwTRoJbe"
     },
     {
       "album": {

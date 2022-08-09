@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 676775,
+  "num_followers": 677018,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg3ODA1MSwwMDAwMDAwMGU2Y2M1ODc3ZGE2NDYwY2YyNzYxOGQ3NzVmM2ExYTgx",
+  "snapshot_id": "MTY1Nzg3ODA1MSwwMDAwMDAwMDY4NGY1NGVlNWYxMTQzZWQ2NmI4MzVkMWQwZGNkNjg4",
   "tracks": [
     {
       "added_at": "2022-07-15 09:40:51",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-07-15 09:40:51",
       "album": {
-        "name": "Nasal Bones",
-        "url": "https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y"
-      },
-      "artists": [
-        {
-          "name": "Sigmund Clyde",
-          "url": "https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Carnivoran",
-      "url": "https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA"
-    },
-    {
-      "added_at": "2022-07-15 09:40:51",
-      "album": {
         "name": "Make It Last",
         "url": "https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 174500,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY"
+    },
+    {
+      "added_at": "2022-07-15 09:40:51",
+      "album": {
+        "name": "Nasal Bones",
+        "url": "https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y"
+      },
+      "artists": [
+        {
+          "name": "Sigmund Clyde",
+          "url": "https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Carnivoran",
+      "url": "https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA"
     },
     {
       "added_at": "2022-07-15 09:40:51",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-07-15 09:40:51",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1"
-      },
-      "artists": [
-        {
-          "name": "En Orbita",
-          "url": "https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G"
-    },
-    {
-      "added_at": "2022-07-15 09:40:51",
-      "album": {
         "name": "Peaceful Illusions",
         "url": "https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 177875,
       "name": "Shapes of Solitude",
       "url": "https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn"
+    },
+    {
+      "added_at": "2022-07-15 09:40:51",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1"
+      },
+      "artists": [
+        {
+          "name": "En Orbita",
+          "url": "https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G"
     },
     {
       "added_at": "2022-07-15 09:40:51",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-07-15 09:40:51",
       "album": {
-        "name": "N\u00e4ra",
-        "url": "https://open.spotify.com/album/7DHth5BUleoXVm7lBBwUWH"
-      },
-      "artists": [
-        {
-          "name": "Mira Appelquist",
-          "url": "https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW"
-        }
-      ],
-      "duration_ms": 140829,
-      "name": "N\u00e4ra",
-      "url": "https://open.spotify.com/track/0cUjV0txDAMZ2g49rHdX80"
-    },
-    {
-      "added_at": "2022-07-15 09:40:51",
-      "album": {
         "name": "Stilhed",
         "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 199106,
       "name": "Stilhed",
       "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
+    },
+    {
+      "added_at": "2022-07-15 09:40:51",
+      "album": {
+        "name": "N\u00e4ra",
+        "url": "https://open.spotify.com/album/7DHth5BUleoXVm7lBBwUWH"
+      },
+      "artists": [
+        {
+          "name": "Mira Appelquist",
+          "url": "https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW"
+        }
+      ],
+      "duration_ms": 140829,
+      "name": "N\u00e4ra",
+      "url": "https://open.spotify.com/track/0cUjV0txDAMZ2g49rHdX80"
     },
     {
       "added_at": "2022-07-15 09:40:51",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-07-15 09:40:51",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y"
-      },
-      "artists": [
-        {
-          "name": "Ani",
-          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
-        }
-      ],
-      "duration_ms": 168214,
-      "name": "Cesia",
-      "url": "https://open.spotify.com/track/3NYD79ZpaiUlaqBpfE4UvT"
-    },
-    {
-      "added_at": "2022-07-15 09:40:51",
-      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2022-07-15 09:40:51",
       "album": {
-        "name": "Penumbra",
-        "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
+        "name": "Release",
+        "url": "https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y"
       },
       "artists": [
         {
-          "name": "Chiara Nieves",
-          "url": "https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc"
+          "name": "Ani",
+          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
         }
       ],
-      "duration_ms": 260038,
-      "name": "Penumbra",
-      "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
+      "duration_ms": 168214,
+      "name": "Cesia",
+      "url": "https://open.spotify.com/track/3NYD79ZpaiUlaqBpfE4UvT"
     },
     {
       "added_at": "2022-07-15 09:40:51",
@@ -1211,6 +1195,22 @@
       "duration_ms": 206000,
       "name": "Binaural Emotions",
       "url": "https://open.spotify.com/track/03BMugsFnLx9uV5BKZA1WP"
+    },
+    {
+      "added_at": "2022-07-15 09:40:51",
+      "album": {
+        "name": "Penumbra",
+        "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
+      },
+      "artists": [
+        {
+          "name": "Chiara Nieves",
+          "url": "https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc"
+        }
+      ],
+      "duration_ms": 260038,
+      "name": "Penumbra",
+      "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
     },
     {
       "added_at": "2022-07-15 09:40:51",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-07-15 09:40:51",
       "album": {
-        "name": "Moonchild's First Flight",
-        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
-      },
-      "artists": [
-        {
-          "name": "Amos Stremann",
-          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
-        }
-      ],
-      "duration_ms": 172372,
-      "name": "Moonchild's First Flight",
-      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
-    },
-    {
-      "added_at": "2022-07-15 09:40:51",
-      "album": {
         "name": "Bertrand of the Ringing",
         "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2022-07-15 09:40:51",
       "album": {
-        "name": "Determination",
-        "url": "https://open.spotify.com/album/1cB2QlGYVGTHeqNuibnlHt"
+        "name": "Moonchild's First Flight",
+        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
       },
       "artists": [
         {
-          "name": "JNUARY",
-          "url": "https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak"
+          "name": "Amos Stremann",
+          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
         }
       ],
-      "duration_ms": 112000,
-      "name": "Determination",
-      "url": "https://open.spotify.com/track/20pBeapTd5bksxa4QZqvcR"
+      "duration_ms": 172372,
+      "name": "Moonchild's First Flight",
+      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
     },
     {
       "added_at": "2022-07-15 09:40:51",
@@ -1499,6 +1483,22 @@
       "duration_ms": 196000,
       "name": "Martins Ferry",
       "url": "https://open.spotify.com/track/21CILaPoqh4xyFRgQpqWxu"
+    },
+    {
+      "added_at": "2022-07-15 09:40:51",
+      "album": {
+        "name": "Determination",
+        "url": "https://open.spotify.com/album/1cB2QlGYVGTHeqNuibnlHt"
+      },
+      "artists": [
+        {
+          "name": "JNUARY",
+          "url": "https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Determination",
+      "url": "https://open.spotify.com/track/20pBeapTd5bksxa4QZqvcR"
     },
     {
       "added_at": "2022-07-15 09:40:51",

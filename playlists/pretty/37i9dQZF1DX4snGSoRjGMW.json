@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Bettye LaVette",
-  "num_followers": 4494,
+  "num_followers": 4512,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTU2OTY2MCwwMDAwMDAwMDM0M2VmODhjYTcwOTBlNjcwNTJlY2QzNjEzNjkxNzA5",
+  "snapshot_id": "MTYyMTU2OTY2MCwwMDAwMDAwMDJlMzA5ZTJmNjMzNzk3ODcwMTRjYzFmNWE3YzE5Nzk2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Blues Is My Wailin' Wall",
+        "url": "https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mo Rodgers",
+          "url": "https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Blues Is My Wailin' Wall",
+      "url": "https://open.spotify.com/track/2Vo7n5XmHOS4djkr6QjHEG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Don't Give Up On Me",
         "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
       },
@@ -139,18 +155,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Is My Wailin' Wall",
-        "url": "https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ"
+        "name": "Robert Cray & Hi Rhythm",
+        "url": "https://open.spotify.com/album/1V2hyT0B0LtWmFtdhIbVdI"
       },
       "artists": [
         {
-          "name": "Mighty Mo Rodgers",
-          "url": "https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm"
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        },
+        {
+          "name": "Hi Rhythm",
+          "url": "https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Blues Is My Wailin' Wall",
-      "url": "https://open.spotify.com/track/2Vo7n5XmHOS4djkr6QjHEG"
+      "duration_ms": 231666,
+      "name": "The Same Love That Made Me Laugh",
+      "url": "https://open.spotify.com/track/4pNHUObYXKqIL8dt176TLK"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -199,26 +219,6 @@
       "duration_ms": 319760,
       "name": "I'm Com'un Home in the Morn'un",
       "url": "https://open.spotify.com/track/2wB9CDJ3AlpGxau0KF3Xy7"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Robert Cray & Hi Rhythm",
-        "url": "https://open.spotify.com/album/1V2hyT0B0LtWmFtdhIbVdI"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        },
-        {
-          "name": "Hi Rhythm",
-          "url": "https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "The Same Love That Made Me Laugh",
-      "url": "https://open.spotify.com/track/4pNHUObYXKqIL8dt176TLK"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Is My Wailin' Wall",
-        "url": "https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mo Rodgers",
-          "url": "https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm"
-        }
-      ],
-      "duration_ms": 297106,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "I've Got My Own Hell To Raise",
         "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 269533,
       "name": "The High Road",
       "url": "https://open.spotify.com/track/36vAHOr65vVohDeyDOKbfN"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues Is My Wailin' Wall",
+        "url": "https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mo Rodgers",
+          "url": "https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm"
+        }
+      ],
+      "duration_ms": 297106,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Deep In The Heart",
-        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
-      },
-      "artists": [
-        {
-          "name": "W.C. Clark",
-          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Stronger Than You Need To Be",
-      "url": "https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/36avF49BDsiQjdjMxo3nqF"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 408413,
       "name": "Money Is The Name Of The Game",
       "url": "https://open.spotify.com/track/2eXE8IO1M5lyu2H7Qyi7hL"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deep In The Heart",
+        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
+      },
+      "artists": [
+        {
+          "name": "W.C. Clark",
+          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Stronger Than You Need To Be",
+      "url": "https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Doin' The Funky Thing",
-        "url": "https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v"
-      },
-      "artists": [
-        {
-          "name": "Walter Wolfman Washington",
-          "url": "https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T"
-        }
-      ],
-      "duration_ms": 313813,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Cheatin' Habit",
         "url": "https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 281200,
       "name": "Kick My Cheatin' Habits",
       "url": "https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Doin' The Funky Thing",
+        "url": "https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v"
+      },
+      "artists": [
+        {
+          "name": "Walter Wolfman Washington",
+          "url": "https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T"
+        }
+      ],
+      "duration_ms": 313813,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -463,6 +463,22 @@
       "duration_ms": 252906,
       "name": "It Ain't The Same Thing",
       "url": "https://open.spotify.com/track/0t1AarE0wigd1nKtNJ6yng"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Royal Blue",
+        "url": "https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Bring Me Some Water",
+      "url": "https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -519,22 +535,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Royal Blue",
-        "url": "https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Bring Me Some Water",
-      "url": "https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Makin Love is Good For You (Expanded Edition)",
         "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Keep Knockin'",
-        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
-      },
-      "artists": [
-        {
-          "name": "Trudy Lynn",
-          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "One Monkey Don't Stop No Show",
-      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Hard Times",
         "url": "https://open.spotify.com/album/2tJ3Z5H8Jy5u4cl4g8PiuU"
       },
@@ -615,34 +599,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I've Got My Own Hell To Raise",
-        "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
+        "name": "Blues Keep Knockin'",
+        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
       },
       "artists": [
         {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
         }
       ],
-      "duration_ms": 206466,
-      "name": "On The Surface",
-      "url": "https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Into the Mystic",
-        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
-      },
-      "artists": [
-        {
-          "name": "Lavelle White",
-          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
-        }
-      ],
-      "duration_ms": 184306,
-      "name": "Soul Deep",
-      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
+      "duration_ms": 194933,
+      "name": "One Monkey Don't Stop No Show",
+      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -659,6 +627,22 @@
       "duration_ms": 221586,
       "name": "Blues All Over You",
       "url": "https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I've Got My Own Hell To Raise",
+        "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "On The Surface",
+      "url": "https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -711,6 +695,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Into the Mystic",
+        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
+      },
+      "artists": [
+        {
+          "name": "Lavelle White",
+          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
+        }
+      ],
+      "duration_ms": 184306,
+      "name": "Soul Deep",
+      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Today I Sing The Blues",
         "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
       },
@@ -747,34 +747,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
+        "name": "Black Market",
+        "url": "https://open.spotify.com/album/1dkyqTdqIGnNc9etO4EroD"
       },
       "artists": [
         {
-          "name": "Tutu Jones",
-          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
+          "name": "Ellis Hooks",
+          "url": "https://open.spotify.com/artist/34kbTdkDg4bV3RbJ4sf9ru"
         }
       ],
-      "duration_ms": 288400,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Talkin' About Chicago",
-        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Sweet Dynamite!",
-      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
+      "duration_ms": 196493,
+      "name": "You Push Me to My Limit",
+      "url": "https://open.spotify.com/track/30FExzMY0ImrM8Rt80b4jF"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -795,6 +779,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Talkin' About Chicago",
+        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Sweet Dynamite!",
+      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
+      },
+      "artists": [
+        {
+          "name": "Tutu Jones",
+          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Right On Time!",
         "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 256466,
       "name": "Engines And Wings",
       "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Black Market",
-        "url": "https://open.spotify.com/album/1dkyqTdqIGnNc9etO4EroD"
-      },
-      "artists": [
-        {
-          "name": "Ellis Hooks",
-          "url": "https://open.spotify.com/artist/34kbTdkDg4bV3RbJ4sf9ru"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "You Push Me to My Limit",
-      "url": "https://open.spotify.com/track/30FExzMY0ImrM8Rt80b4jF"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hit That Thing",
-        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
+        "name": "Back In The Game",
+        "url": "https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ"
       },
       "artists": [
         {
-          "name": "Bobby Wayne",
-          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
         }
       ],
-      "duration_ms": 437360,
-      "name": "Whisper Away",
-      "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
+      "duration_ms": 257133,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -895,18 +895,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Back In The Game",
-        "url": "https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ"
+        "name": "Hit That Thing",
+        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
       },
       "artists": [
         {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+          "name": "Bobby Wayne",
+          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
         }
       ],
-      "duration_ms": 257133,
-      "name": "I Can't Stop",
-      "url": "https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG"
+      "duration_ms": 437360,
+      "name": "Whisper Away",
+      "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "People Love The Blues",
+        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
+      },
+      "artists": [
+        {
+          "name": "Sista Monica",
+          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "You're Only Good For One Thang Baby",
+      "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -927,22 +943,6 @@
       "duration_ms": 249893,
       "name": "What's It Take?",
       "url": "https://open.spotify.com/track/0DD4k4dwa8AzxphFMzC5xp"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "People Love The Blues",
-        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
-      },
-      "artists": [
-        {
-          "name": "Sista Monica",
-          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "You're Only Good For One Thang Baby",
-      "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"
     },
     {
       "added_at": "2020-12-01 05:01:00",

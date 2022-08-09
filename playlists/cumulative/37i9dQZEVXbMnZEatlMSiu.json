@@ -6126,6 +6126,24 @@
     },
     {
       "album": {
+        "name": "\u5c0f\u57ce\u590f\u5929",
+        "url": "https://open.spotify.com/album/2gBtz9cBcRTBvsux9pv9KF"
+      },
+      "artists": [
+        {
+          "name": "LBI\u5229\u6bd4",
+          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173382,
+      "name": "\u5c0f\u57ce\u590f\u5929",
+      "url": "https://open.spotify.com/track/4QZMBVrBLAvBryj8ZJIIY2"
+    },
+    {
+      "album": {
         "name": "\u5c11\u5e74",
         "url": "https://open.spotify.com/album/5bXN7segGUJUfO1DvQ4QN2"
       },
@@ -7941,7 +7959,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 236000,
       "name": "\u842c\u5343\u82b1\u854a\u6148\u6bcd\u60b2\u54c0",
       "url": "https://open.spotify.com/track/5Wyq70ysHQp0jaMhPKrza4"
@@ -8476,7 +8494,7 @@
         },
         {
           "name": "ICE",
-          "url": "https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM"
+          "url": "https://open.spotify.com/artist/6ChvTm3RiOLbx8apza83c7"
         }
       ],
       "date_added": "2022-07-30",

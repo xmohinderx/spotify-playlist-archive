@@ -4,7 +4,7 @@
 
 > Mode: Turnt
 
-303 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
+304 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 | 2021-09-03 | 2022-02-05 |
 | [WIG \(with Moneybagg Yo\)](https://open.spotify.com/track/3BN9oswkyJlCRzCQt1Gqug) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [WIG \(with Moneybagg Yo\)](https://open.spotify.com/album/5tZ8u9BGc4sSOlwWYsAWPB) | 2:57 | 2022-05-13 | 2022-07-16 |
 | [Wockesha \(with Lil Wayne & Ashanti\) \- Remix](https://open.spotify.com/track/3mLx5JNbIi12thSZ4ExWHg) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Wockesha \(with Lil Wayne & Ashanti\) \[Remix\]](https://open.spotify.com/album/13TVZ98zVHDrUkX9hSElAk) | 3:37 | 2021-09-24 | 2022-04-09 |
-| [Woozie](https://open.spotify.com/track/2uIukEsbb5yvC3ZK7CWk6G) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Woozie](https://open.spotify.com/album/1p7sH76jGrSLEAX9UzmCpq) | 3:03 | 2022-06-10 |  |
+| [Woozie](https://open.spotify.com/track/2uIukEsbb5yvC3ZK7CWk6G) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Woozie](https://open.spotify.com/album/1p7sH76jGrSLEAX9UzmCpq) | 3:03 | 2022-06-10 | 2022-08-09 |
+| [Woozie](https://open.spotify.com/track/7GDwymep55nRGcr6P7TznN) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Vibe Forever](https://open.spotify.com/album/5ZrM0Brv8XBs3XVHfkd6bk) | 3:03 | 2022-08-05 |  |
 | [Ye Not Crazy](https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Ye Not Crazy](https://open.spotify.com/album/19KpEHCcxkTNQWm0O0aa9w) | 3:46 | 2022-03-25 |  |
 | [Yeah Whoa \(feat\. Nardo Wick & Gucci Mane\)](https://open.spotify.com/track/0WSGHNx7oMYAV2WAJzLhQf) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 3:36 | 2022-06-17 |  |
 

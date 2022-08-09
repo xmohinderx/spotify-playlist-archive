@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,351 likes - 69 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,355 likes - 69 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 9 | [Minutes](https://open.spotify.com/track/6f7KmU1InKkiW3UegkWj09) | [Shully](https://open.spotify.com/artist/4os0GkCkfwC8HUjKn7wULI), [Yuzko](https://open.spotify.com/artist/2WkJBd6ga7SI7QTcQVydEG) | [Minutes](https://open.spotify.com/album/6etqTIrfFLoRxslu3kbwZC) | 3:32 |
 | 10 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 |
 | 11 | [olivine](https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [AA side](https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr) | 3:38 |
-| 12 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [Khan Khalii](https://open.spotify.com/artist/7b7AzRRl2CASFkHbB42KoN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 |
+| 12 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 |
 | 13 | [Belinda](https://open.spotify.com/track/64C4vezOJyDbudIGxquW89) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Belinda](https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW) | 2:13 |
 | 14 | [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 |
 | 15 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 |

@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 288411,
+  "num_followers": 288743,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY1Mjk4MSwwMDAwMDAwMGNiYTBkOTJjMDhhMTRjNzYyOTQ3NTcxZDk3M2RmZjY0",
+  "snapshot_id": "MTY1NDY1Mjk4MSwwMDAwMDAwMDQxNzljMTZhMjY0NzkwYmQ4ZTVjYzRiZWM2OWIxMzU3",
   "tracks": [
     {
       "added_at": "2022-06-08 01:49:41",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-06-08 01:49:41",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "My Maria",
-      "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
-    },
-    {
-      "added_at": "2022-06-08 01:49:41",
-      "album": {
         "name": "At Folsom Prison",
         "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 162653,
       "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
       "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
+    },
+    {
+      "added_at": "2022-06-08 01:49:41",
+      "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "My Maria",
+      "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
     },
     {
       "added_at": "2022-06-08 01:49:41",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-06-08 01:49:41",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Blue Ain't Your Color",
-      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
-    },
-    {
-      "added_at": "2022-06-08 01:49:41",
-      "album": {
         "name": "Some Gave All",
         "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2022-06-08 01:49:41",
       "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+      "duration_ms": 230600,
+      "name": "Blue Ain't Your Color",
+      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
     },
     {
       "added_at": "2022-06-08 01:49:41",
@@ -859,6 +843,22 @@
     {
       "added_at": "2022-06-08 01:49:41",
       "album": {
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+    },
+    {
+      "added_at": "2022-06-08 01:49:41",
+      "album": {
         "name": "Old Boots, New Dirt",
         "url": "https://open.spotify.com/album/5p3nTBqh8WCoQfRDAaVp68"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 247826,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
-    },
-    {
-      "added_at": "2022-06-08 01:49:41",
-      "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Just To See You Smile",
-      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "added_at": "2022-06-08 01:49:41",
@@ -951,6 +935,22 @@
       "duration_ms": 226493,
       "name": "Jesus, Take the Wheel",
       "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
+    },
+    {
+      "added_at": "2022-06-08 01:49:41",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Just To See You Smile",
+      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "added_at": "2022-06-08 01:49:41",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-06-08 01:49:41",
       "album": {
+        "name": "Greatest Hits - Finest Performances",
+        "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Fightin Side Of Me",
+      "url": "https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf"
+    },
+    {
+      "added_at": "2022-06-08 01:49:41",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 148440,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/4raGevWiW8i1gactXulebp"
-    },
-    {
-      "added_at": "2022-06-08 01:49:41",
-      "album": {
-        "name": "Greatest Hits - Finest Performances",
-        "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Fightin Side Of Me",
-      "url": "https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf"
     },
     {
       "added_at": "2022-06-08 01:49:41",

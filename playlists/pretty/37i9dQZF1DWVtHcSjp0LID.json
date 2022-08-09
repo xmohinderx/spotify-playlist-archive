@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 43382,
+  "num_followers": 43414,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDk2ZmE4YWMxZmM3NzYzNjIxYWRkOTg1MmQ1ZDgxNzUz",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGVkMjc2OTFhYmFjYmRhMTM0NzlkZjZmYTI5YjM0YTUx",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Anatolia",
-        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 309847,
-      "name": "Anatolia",
-      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Aviator",
         "url": "https://open.spotify.com/album/0ZASLQCInYYMLkoK0VcHtL"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 402392,
       "name": "Apolune",
       "url": "https://open.spotify.com/track/1M3ldz0gop7cJeEWUuJCfe"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Anatolia",
+        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 309847,
+      "name": "Anatolia",
+      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 271770,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Opal (Four Tet Remix)",
         "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 494256,
       "name": "Opal - Four Tet Remix",
       "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 271770,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -243,22 +243,6 @@
       "duration_ms": 377738,
       "name": "Atlas - Adriatique Remix",
       "url": "https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Syvsover",
-        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 360118,
-      "name": "Ghostly",
-      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -295,6 +279,22 @@
       "duration_ms": 439160,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4appx9msZbhhFpSrKOlVz1"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Syvsover",
+        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 360118,
+      "name": "Ghostly",
+      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Interloper",
-        "url": "https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc"
-      },
-      "artists": [
-        {
-          "name": "Carbon Based Lifeforms",
-          "url": "https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11"
-        }
-      ],
-      "duration_ms": 389325,
-      "name": "Interloper",
-      "url": "https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Pacer",
         "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 459081,
       "name": "Pacer",
       "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Interloper",
+        "url": "https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc"
+      },
+      "artists": [
+        {
+          "name": "Carbon Based Lifeforms",
+          "url": "https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11"
+        }
+      ],
+      "duration_ms": 389325,
+      "name": "Interloper",
+      "url": "https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9pe",
-          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
-        }
-      ],
-      "duration_ms": 369714,
-      "name": "As Long as There's Sunset",
-      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Backstabber EP",
         "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
       },
@@ -1019,18 +1003,34 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Ring EP",
-        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
       },
       "artists": [
         {
-          "name": "Lucci Minati",
-          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
         }
       ],
-      "duration_ms": 391680,
-      "name": "Take Your Place",
-      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
+      "duration_ms": 369714,
+      "name": "As Long as There's Sunset",
+      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "like me",
+        "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
+      },
+      "artists": [
+        {
+          "name": "paleboi",
+          "url": "https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe"
+        }
+      ],
+      "duration_ms": 311186,
+      "name": "like me",
+      "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "like me",
-        "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
+        "name": "The Ring EP",
+        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
       },
       "artists": [
         {
-          "name": "paleboi",
-          "url": "https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe"
+          "name": "Lucci Minati",
+          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
         }
       ],
-      "duration_ms": 311186,
-      "name": "like me",
-      "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
+      "duration_ms": 391680,
+      "name": "Take Your Place",
+      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Mellowdramatic",
-        "url": "https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3"
-      },
-      "artists": [
-        {
-          "name": "A Forest Mighty Black",
-          "url": "https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y"
-        }
-      ],
-      "duration_ms": 478373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/0UYh6IZU6VI8xTvupNWdWh"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Vasudeva",
         "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
       },
@@ -1131,22 +1115,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Passengers",
-        "url": "https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP"
+        "name": "Mellowdramatic",
+        "url": "https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3"
       },
       "artists": [
         {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        },
-        {
-          "name": "Erly Tepshi",
-          "url": "https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj"
+          "name": "A Forest Mighty Black",
+          "url": "https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y"
         }
       ],
-      "duration_ms": 366898,
-      "name": "Orbital Hypnosis - Erly Tepshi Remix",
-      "url": "https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C"
+      "duration_ms": 478373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0UYh6IZU6VI8xTvupNWdWh"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1167,6 +1147,26 @@
       "duration_ms": 417246,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Passengers",
+        "url": "https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Erly Tepshi",
+          "url": "https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj"
+        }
+      ],
+      "duration_ms": 366898,
+      "name": "Orbital Hypnosis - Erly Tepshi Remix",
+      "url": "https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Shift I - II",
-        "url": "https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX"
-      },
-      "artists": [
-        {
-          "name": "Coss",
-          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
-        }
-      ],
-      "duration_ms": 356571,
-      "name": "Shift II - Original Mix",
-      "url": "https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Dance Machine",
         "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 340100,
       "name": "Dance Machine - Original Mix",
       "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Shift I - II",
+        "url": "https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX"
+      },
+      "artists": [
+        {
+          "name": "Coss",
+          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
+        }
+      ],
+      "duration_ms": 356571,
+      "name": "Shift II - Original Mix",
+      "url": "https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd"
     },
     {
       "added_at": "2022-07-15 17:34:15",

@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "The Masters of Blues! (33 Best of Ma Rainey & Kokomo Arnold)",
+        "url": "https://open.spotify.com/album/6SxP99PaBwZkvPkkAKiQRW"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198204,
+      "name": "Cell Bound Blues",
+      "url": "https://open.spotify.com/track/0xXWAJOx5kE9Oz4Ibkl4RC"
+    },
+    {
+      "album": {
         "name": "Ma Rainey",
         "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 165744,
       "name": "Dream Blues",
       "url": "https://open.spotify.com/track/7aj4OzROMRSbop2hvsfiqS"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 207080,
       "name": "Explaining the Blues",
       "url": "https://open.spotify.com/track/7il4L95CZqh0bzb2a9630n"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 152348,
       "name": "Gone Daddy Blues",
       "url": "https://open.spotify.com/track/1A6ZrQTuzaoIO5qedWY9pF"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 179506,
       "name": "Hear Me Talking To You",
       "url": "https://open.spotify.com/track/30udwhIIyw4p8aFeOKNTsY"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 187133,
       "name": "Hellish Rag",
       "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 190200,
       "name": "Jealous Hearted Blues",
       "url": "https://open.spotify.com/track/29rFcZbCR4mKJ9dOlVgKTz"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 172892,
       "name": "Lawd Send Me A Blues",
       "url": "https://open.spotify.com/track/6enaVlwavWEg1L2pwYUVbS"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 188395,
       "name": "Louisiana Hoo Doo Blues",
       "url": "https://open.spotify.com/track/43l3jDOyMl9J9cxaJSnSjb"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 170200,
       "name": "New Boweavil Blues",
       "url": "https://open.spotify.com/track/7LxZ57AEKNKQJXkXWs5b1n"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 174289,
       "name": "Rough And Tumble Blues",
       "url": "https://open.spotify.com/track/4y7Z2MwXJs65yXFXUjuLp9"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 193440,
       "name": "South Bound Blues",
       "url": "https://open.spotify.com/track/2tQE6qOe4g80GxmlD6J4Vj"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "Stack O' Lee Blues",
       "url": "https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9"
@@ -1031,6 +1049,24 @@
       "duration_ms": 175726,
       "name": "Stack O'Lee Blues",
       "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
+    },
+    {
+      "album": {
+        "name": "Ma Rainey Vol. 2 (1924-1925)",
+        "url": "https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163030,
+      "name": "Stormy Sea Blues",
+      "url": "https://open.spotify.com/track/5ruTFfl1a6p0ox63nlRpQW"
     },
     {
       "album": {
@@ -1135,7 +1171,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 182465,
       "name": "Yonder Come The Blues",
       "url": "https://open.spotify.com/track/3yh8U9XVznJKRVGqqabHEf"

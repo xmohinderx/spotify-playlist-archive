@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African classics. Cover: <a href=\"https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3-HGc030gg\">Johnny Clegg</a>",
-  "num_followers": 26278,
+  "num_followers": 26290,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMGM1ZTM3NmVjYjJkMWRjNjUyZWVmZTgzYjU4NWQwMzAz",
+  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMDI1NjI1NWE5YWYyNjVjZGM3NDZlMzZkNDBmOTUxNDI1",
   "tracks": [
     {
       "added_at": "2019-02-03 07:20:41",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
-        }
-      ],
-      "duration_ms": 320613,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
-    },
-    {
       "added_at": "2019-02-03 06:58:55",
       "album": {
         "name": "Sister Bethina",
@@ -203,6 +187,22 @@
       "duration_ms": 261946,
       "name": "Sister Bethina",
       "url": "https://open.spotify.com/track/3fl49HroL5DvBAB9ezbj8w"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
+        }
+      ],
+      "duration_ms": 320613,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
     },
     {
       "added_at": "2019-07-12 04:36:25",
@@ -225,6 +225,22 @@
       "url": "https://open.spotify.com/track/4A9say7qoHC3LJTFtK77CY"
     },
     {
+      "added_at": "2019-02-03 06:58:55",
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+      },
+      "artists": [
+        {
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+        }
+      ],
+      "duration_ms": 442533,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+    },
+    {
       "added_at": "2019-02-03 07:29:50",
       "album": {
         "name": "DaKAR II",
@@ -243,22 +259,6 @@
       "duration_ms": 271186,
       "name": "Ngud' (feat. Cassper Nyovest)",
       "url": "https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v"
-    },
-    {
-      "added_at": "2019-02-03 06:58:55",
-      "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
-      },
-      "artists": [
-        {
-          "name": "Malaika",
-          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
-        }
-      ],
-      "duration_ms": 442533,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -393,6 +393,22 @@
       "url": "https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN"
     },
     {
+      "added_at": "2019-09-24 07:46:15",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Brothers",
+          "url": "https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Ngeke Ndiphinde",
+      "url": "https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ"
+    },
+    {
       "added_at": "2019-02-03 07:20:41",
       "album": {
         "name": "All or Nothing",
@@ -423,22 +439,6 @@
       "duration_ms": 317200,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/0Gns4jfIHrtpxTn9RGK0mM"
-    },
-    {
-      "added_at": "2019-09-24 07:46:15",
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Brothers",
-          "url": "https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Ngeke Ndiphinde",
-      "url": "https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
-      "added_at": "2019-02-03 07:29:50",
-      "album": {
-        "name": "BullDawgz First Lady",
-        "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
-      },
-      "artists": [
-        {
-          "name": "Mshoza",
-          "url": "https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Kortes (Kasi Luv)",
-      "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
-    },
-    {
       "added_at": "2018-09-23 12:30:57",
       "album": {
         "name": "Nomvula",
@@ -603,6 +587,22 @@
       "duration_ms": 382186,
       "name": "I'd Like",
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2019-02-03 07:29:50",
+      "album": {
+        "name": "BullDawgz First Lady",
+        "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
+      },
+      "artists": [
+        {
+          "name": "Mshoza",
+          "url": "https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Kortes (Kasi Luv)",
+      "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -673,24 +673,20 @@
       "url": "https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1"
     },
     {
-      "added_at": "2019-02-03 07:20:41",
+      "added_at": "2019-02-03 07:29:50",
       "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
+        "name": "Njalo",
+        "url": "https://open.spotify.com/album/2c0QIpMZq8E0lupodMSBJT"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        },
-        {
-          "name": "2 Shot",
-          "url": "https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX"
+          "name": "Mina Nawe",
+          "url": "https://open.spotify.com/artist/3TZ6Mxn3L5WgSMhXaQtHa0"
         }
       ],
-      "duration_ms": 262826,
-      "name": "Mambotjie (feat. 2Shot)",
-      "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
+      "duration_ms": 263293,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/0ezeCh4MkDN8DRhiKwz5Pj"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -709,20 +705,24 @@
       "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
-      "added_at": "2019-02-03 07:29:50",
+      "added_at": "2019-02-03 07:20:41",
       "album": {
-        "name": "Njalo",
-        "url": "https://open.spotify.com/album/2c0QIpMZq8E0lupodMSBJT"
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
       },
       "artists": [
         {
-          "name": "Mina Nawe",
-          "url": "https://open.spotify.com/artist/3TZ6Mxn3L5WgSMhXaQtHa0"
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        },
+        {
+          "name": "2 Shot",
+          "url": "https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX"
         }
       ],
-      "duration_ms": 263293,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/0ezeCh4MkDN8DRhiKwz5Pj"
+      "duration_ms": 262826,
+      "name": "Mambotjie (feat. 2Shot)",
+      "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
     },
     {
-      "added_at": "2019-02-03 06:58:55",
-      "album": {
-        "name": "Kalawa Jazmee Classics: Bongo Maffin",
-        "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
-      },
-      "artists": [
-        {
-          "name": "Bongo Maffin",
-          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
-        }
-      ],
-      "duration_ms": 320240,
-      "name": "Thathi Sgubu",
-      "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
-    },
-    {
       "added_at": "2019-02-03 07:20:41",
       "album": {
         "name": "Ndawo Yami",
@@ -967,6 +951,22 @@
       "duration_ms": 287560,
       "name": "Ndawo Yami",
       "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
+    },
+    {
+      "added_at": "2019-02-03 06:58:55",
+      "album": {
+        "name": "Kalawa Jazmee Classics: Bongo Maffin",
+        "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
+      },
+      "artists": [
+        {
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
+        }
+      ],
+      "duration_ms": 320240,
+      "name": "Thathi Sgubu",
+      "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
     },
     {
       "added_at": "2019-02-03 07:20:41",

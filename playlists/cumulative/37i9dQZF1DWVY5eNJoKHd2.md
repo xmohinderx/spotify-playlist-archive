@@ -2,9 +2,9 @@
 
 ### [Levitate](https://open.spotify.com/playlist/37i9dQZF1DWVY5eNJoKHd2)
 
-> those songs that make you feel like you're levitating\. Cover: Webb’s First Deep Field, galaxy cluster SMACS 0723\. Credit: NASA, ESA, CSA, STScI
+> Music that makes you feel like you're levitating\. Cover: Webb’s First Deep Field, galaxy cluster SMACS 0723\. Credit: NASA, ESA, CSA, STScI
 
-210 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/027UqX8P6FZN5RTz6rBeyf)
+211 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/027UqX8P6FZN5RTz6rBeyf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Location](https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:48 | 2021-12-16 | 2022-04-29 |
 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 | 2021-12-16 | 2022-04-18 |
 | [Love Is Only a Feeling](https://open.spotify.com/track/7umZiitjVsEjMQ6HNddpUI) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Love Is Only a Feeling](https://open.spotify.com/album/5e82uQW57EpmAOCJvLKMpr) | 2:32 | 2022-01-20 | 2022-06-15 |
-| [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 | 2022-07-01 |  |
+| [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 | 2022-07-01 | 2022-08-09 |
 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 | 2021-12-29 |  |
 | [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-05-18 |  |
 | [Medicine](https://open.spotify.com/track/15PQ1AVMbWalxyPJbI1fYi) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/3shKIYIXSdDc2yXETvrGPK) | 3:15 | 2022-06-03 | 2022-06-22 |
@@ -170,6 +170,7 @@
 | [Slip](https://open.spotify.com/track/15N3zfcJSyUEMn5KgY99ua) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Highspeeds](https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k) | 4:58 | 2022-05-24 | 2022-06-15 |
 | [Slip Away](https://open.spotify.com/track/13yxz52EwElyue9PLrqcZY) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:45 | 2022-04-11 | 2022-04-14 |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2021-12-16 |  |
+| [Solitude \- Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/5SOA0gaKMMp9cgwn3nuwk7) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Solitude \(Felsmann + Tiley Reinterpretation\)](https://open.spotify.com/album/7mCzA6gqtv4ZtfInpJXm52) | 3:42 | 2022-08-08 |  |
 | [Somehow.](https://open.spotify.com/track/2zk7TQx9Xa4yxYmsjgDCPp) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Yesterday's Tomorrow](https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u) | 3:50 | 2021-12-16 | 2022-04-20 |
 | [Someplace Else](https://open.spotify.com/track/1RIcka7rD0CLu3QU2pTIbp) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn) | [Someplace Else](https://open.spotify.com/album/1TtMGJN3w5c67E1i7XqfZ1) | 2:02 | 2022-04-01 | 2022-06-28 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-09 | 2022-04-19 |

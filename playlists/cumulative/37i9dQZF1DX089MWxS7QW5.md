@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: DAVII\(다비\)\)
 
-95 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
+96 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 | 2022-07-04 |  |
 | [Riddle \(feat\. Khundi Panda\)](https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:47 | 2022-05-28 | 2022-08-03 |
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-04 |  |
+| [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-08 |  |
 | [SummerSweet](https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp) | 2:30 | 2022-07-27 |  |
 | [Sunset to Sunrise](https://open.spotify.com/track/5rkfygpzBJLd8LziK9nD61) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Sunset to Sunrise](https://open.spotify.com/album/0W9lundQIEipTgxlmReGQo) | 2:34 | 2022-07-04 |  |
 | [Swear](https://open.spotify.com/track/50X1UUiTcDjq0tTybkBSot) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1) | [Remember](https://open.spotify.com/album/4yHWe2xBs5mk0wNHafCUVH) | 3:20 | 2022-05-28 | 2022-07-05 |

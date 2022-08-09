@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave, co\-curated with <a href="https://tejanonation.net/">Tejano Nation</a>! La nueva ola de la música tejana\. Cover: Stefani Montiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,111 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,113 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 31 | [Fuego](https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD) | [Rene Ramirez Y Maduro](https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH) | [Fuego](https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6) | 3:20 |
 | 32 | [Porque Sera](https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Porque Sera](https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L) | 3:47 |
 | 33 | [Me Enamoré de un Ángel](https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Me Enamoré de un Ángel](https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3) | 4:11 |
-| 34 | [Nunca Fuiste Mio](https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50) | [Girls Night](https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM) | 3:28 |
-| 35 | [Nunca Me Imagine](https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT) | [Adaly](https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg) | [Nunca Me Imagine](https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh) | 2:47 |
-| 36 | [No Quiero Nada](https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq) | [Número Dos](https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07) | 3:12 |
-| 37 | [Baby Luna](https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo) | [D](https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb), [Chelo](https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw) | [Baby Luna](https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO) | 2:57 |
+| 34 | [Nunca Me Imagine](https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT) | [Adaly](https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg) | [Nunca Me Imagine](https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh) | 2:47 |
+| 35 | [Nunca Fuiste Mio](https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50) | [Girls Night](https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM) | 3:28 |
+| 36 | [Baby Luna](https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo) | [D](https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb), [Chelo](https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw) | [Baby Luna](https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO) | 2:57 |
+| 37 | [No Quiero Nada](https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq) | [Número Dos](https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07) | 3:12 |
 | 38 | [Vacía](https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY) | [Destiny Navaira](https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e), [Myrza Maldonado](https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk) | [Vacía](https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g) | 3:00 |
 | 39 | [Desastre Natural](https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ) | [Nacido](https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5) | [Desastre Natural](https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT) | 3:08 |
 | 40 | [Entre El Frio Y El Calor](https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e) | [Andie](https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT) | [Entre El Frio Y El Calor](https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb) | 3:35 |
 | 41 | [El Besito](https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24) | [Laura Linda](https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K) | [El Besito](https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK) | 3:00 |
 | 42 | [Escapate](https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq) | [Mia](https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5) | [Escapate](https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c) | 3:05 |
 | 43 | [Mentias](https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK) | [Brooke T](https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ) | [Mentias](https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv) | 3:19 |
-| 44 | [Mentiras](https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6) | [Lydia Castillo](https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs) | [Mentiras](https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu) | 3:40 |
-| 45 | [That’s All I’ve Got to Say](https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [That’s All I’ve Got to Say](https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u) | 3:31 |
+| 44 | [That’s All I’ve Got to Say](https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [That’s All I’ve Got to Say](https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u) | 3:31 |
+| 45 | [Mentiras](https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6) | [Lydia Castillo](https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs) | [Mentiras](https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu) | 3:40 |
 | 46 | [Un Día Veras](https://open.spotify.com/track/4zsvbSpkG5AXAHp6PeKSIV) | [Grupo Daño](https://open.spotify.com/artist/1MB82Th55brI9PDoanCs9k), [Rene De la Cerda](https://open.spotify.com/artist/1U5bYBgPSlRchxFEWTtlAl) | [Un Día Veras](https://open.spotify.com/album/4p0U6WFwIt5wkFOiC2GAr9) | 3:47 |
-| 47 | [Final De Tu Amor](https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD) | [Grupo Vidal](https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X) | [Final De Tu Amor](https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv) | 3:25 |
-| 48 | [A Mi Lado](https://open.spotify.com/track/0iVFfAlTHQSTTMcLci5OTJ) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq), [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [A Mi Lado](https://open.spotify.com/album/5KPWpRmgFDHChuirQ2UlDf) | 3:50 |
-| 49 | [No Soy La Misma](https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ) | [Magali Delarosa](https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc) | [No Soy La Misma](https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8) | 3:44 |
+| 47 | [No Soy La Misma](https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ) | [Magali Delarosa](https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc) | [No Soy La Misma](https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8) | 3:44 |
+| 48 | [Final De Tu Amor](https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD) | [Grupo Vidal](https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X) | [Final De Tu Amor](https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv) | 3:25 |
+| 49 | [A Mi Lado](https://open.spotify.com/track/0iVFfAlTHQSTTMcLci5OTJ) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq), [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [A Mi Lado](https://open.spotify.com/album/5KPWpRmgFDHChuirQ2UlDf) | 3:50 |
 | 50 | [Trampa De Amor](https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr) | [VIRGINIA Y VALOR](https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u) | [Trampa De Amor](https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6) | 2:41 |
 
-Snapshot ID: `MTY0NjY4NjE4MiwwMDAwMDAwMDQ4YzRjYjYwZjhkZDRkZjQ5MTc2YjhkY2VkNzYwMTJi`
+Snapshot ID: `MTY0NjY4NjE4MiwwMDAwMDAwMDZjMDlmMjNiYWQ5OGVjMDc3ZjU4M2FkMDM5OGVlNzE2`

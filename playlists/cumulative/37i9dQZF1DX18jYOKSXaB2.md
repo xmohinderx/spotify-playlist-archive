@@ -4,7 +4,7 @@
 
 > consider this an RSVP to littest wedding parties
 
-49 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/0bSPCUxLrbY58psnl7ryQ1)
+50 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/0bSPCUxLrbY58psnl7ryQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 | 2022-02-11 |  |
 | [Infinity \(feat\. Omah Lay\)](https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 2:51 | 2022-02-11 |  |
 | [Julie](https://open.spotify.com/track/58f9RS1Wkaapezwhu5Cu3L) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [UY Scuti](https://open.spotify.com/album/2nDH1AOBaaugSngw9Yiwyw) | 1:57 | 2022-02-11 |  |
+| [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-08 |  |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-13 |  |
 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-07-14 |  |
 | [Lo Lo](https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL) | 2:51 | 2022-02-11 |  |

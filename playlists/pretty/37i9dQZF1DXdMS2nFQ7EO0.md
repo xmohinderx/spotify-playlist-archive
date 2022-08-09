@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,624 likes - 73 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,818 likes - 73 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 63 | [Qué Chimba](https://open.spotify.com/track/0rIZ49wxDf8H2LXOKmAMW5) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Qué Chimba](https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6) | 2:49 |
 | 64 | [A Mí Me Encanta \(Tequila\)](https://open.spotify.com/track/7hOypPNirw4UFkCtCHAOou) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [A Mí Me Encanta \(Tequila\)](https://open.spotify.com/album/3v2S4J6gKUF5oG8cQFXiNi) | 2:36 |
 | 65 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
-| 66 | [La 69 \- Perreo Remix](https://open.spotify.com/track/0XunI3sWC1OUliLnOAoDDc) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [La 69 \(Perreo Remix\)](https://open.spotify.com/album/3tnvstkFXFOP72tIp2mIDK) | 2:24 |
+| 66 | [La 69 \(Perreo Remix\)](https://open.spotify.com/track/0XunI3sWC1OUliLnOAoDDc) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [La 69 \(Perreo Remix\)](https://open.spotify.com/album/3tnvstkFXFOP72tIp2mIDK) | 2:24 |
 | 67 | [Todo De Ti \- Summer Remix](https://open.spotify.com/track/642TVG63fTV3bhuMJQfcSM) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Todo De Ti \(Summer Remix\)](https://open.spotify.com/album/63UOW6Vd1pof9NMLTIsJ3Y) | 5:10 |
 | 68 | [Cheke \(dEVOLVE Remix\)](https://open.spotify.com/track/4mbQeYuM51ZB3fvAJKH6Mq) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [dEVOLVE](https://open.spotify.com/artist/6kLN4GaYwfWUe0A4cnNS6d) | [Cheke \(The Remixes\)](https://open.spotify.com/album/1hzfAaCFTgoE5K8ohwvAHZ) | 2:49 |
 | 69 | [Mimosas](https://open.spotify.com/track/4iUYVTGD3Qck4eDXrCtVNg) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [Eudotis](https://open.spotify.com/artist/0w6aJ8hK8ZlPqMUONqGufK), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV) | [Mimosas](https://open.spotify.com/album/7oed3eOpFvO9GEfbIdnepX) | 2:20 |

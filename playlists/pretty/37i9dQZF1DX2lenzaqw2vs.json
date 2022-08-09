@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123943,
+  "num_followers": 123936,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGM0ODM5OTlhNGY4NWFiMDBhZDQ5MDYzODRmYmMyNDli",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGY5YWMxYzk5MjY1ZTUyMmYxMjkwNGM3Y2Q5NDA4OTAz",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -243,6 +259,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "La isla de Lesbos",
+        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "La isla de Lesbos",
+      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
       },
@@ -263,38 +295,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "La isla de Lesbos",
-        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "La isla de Lesbos",
-      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 161266,
       "name": "LA COMBI VERSACE (feat. Tokischa)",
       "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -367,22 +383,6 @@
       "duration_ms": 239400,
       "name": "Let's Get Loud",
       "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "J.Lo",
-        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Love Don't Cost a Thing",
-      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "A Veces Bien Y A Veces Mal",
         "url": "https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Love Don't Cost a Thing",
+      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Castillos de arena",
+        "url": "https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 252221,
+      "name": "Castillos de arena",
+      "url": "https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 209373,
       "name": "Tiburones - Remix",
       "url": "https://open.spotify.com/track/73HSOVmGMA0Qfo4ujlM1GF"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Castillos de arena",
-        "url": "https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 252221,
-      "name": "Castillos de arena",
-      "url": "https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "50ft.",
-        "url": "https://open.spotify.com/album/029JHv262PSXojxqywHDwr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 185910,
-      "name": "50ft.",
-      "url": "https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/1SvuC2OLkAJnuNhZNDohIR"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 177726,
       "name": "Solita",
       "url": "https://open.spotify.com/track/555ix1gW9A1QtXoVfCPbfB"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "50ft.",
+        "url": "https://open.spotify.com/album/029JHv262PSXojxqywHDwr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "duration_ms": 185910,
+      "name": "50ft.",
+      "url": "https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1327,6 +1327,30 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
+        "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Brabo",
+          "url": "https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT"
+        }
+      ],
+      "duration_ms": 174988,
+      "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
+      "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/7lpn9dwub9H2eRq2PoYBIe"
       },
@@ -1359,50 +1383,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187697,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
-        "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Brabo",
-          "url": "https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT"
-        }
-      ],
-      "duration_ms": 174988,
-      "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
-      "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Electrica",
         "url": "https://open.spotify.com/album/2lj326xftmGNvaG0sEwX0U"
       },
@@ -1423,6 +1403,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187697,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "I Like 2 Be",
         "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 174923,
       "name": "I Like 2 Be",
       "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Puerto Rican Mami",
+        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Puerto Rican Mami",
+      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1455,22 +1471,6 @@
       "duration_ms": 156240,
       "name": "Aline",
       "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Puerto Rican Mami",
-        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Puerto Rican Mami",
-      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "D.I.V.A",
+        "url": "https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh"
+      },
+      "artists": [
+        {
+          "name": "La Divaza",
+          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "D.I.V.A",
+      "url": "https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "hebilla",
         "url": "https://open.spotify.com/album/3GxYLJZd0U74GvLipaMa7F"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 223000,
       "name": "hebilla",
       "url": "https://open.spotify.com/track/0W1x3Q875nkNUM0386f1Ha"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "D.I.V.A",
-        "url": "https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh"
-      },
-      "artists": [
-        {
-          "name": "La Divaza",
-          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "D.I.V.A",
-      "url": "https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Shake Me",
         "url": "https://open.spotify.com/album/3PDPYEtnkNDUkRH41WQFqd"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 211111,
       "name": "Shake Me",
       "url": "https://open.spotify.com/track/3HHjh2PfayANYTxbrFOaM0"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 146966,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Toy en la calle 90'",
+        "url": "https://open.spotify.com/album/6Ma1rCv2N5w2DpQ7IKxq0s"
+      },
+      "artists": [
+        {
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+        }
+      ],
+      "duration_ms": 167385,
+      "name": "Toy en la calle 90' - Pomper\u00f3 Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7gGZFs8zmZvG52xLEzUKwV"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "TODOELORO",
         "url": "https://open.spotify.com/album/6i7YAlim3n93EXo4UQj8YD"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 171500,
       "name": "TODOELORO",
       "url": "https://open.spotify.com/track/3jSwGrzDjeTIgCEsxSCUkl"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Toy en la calle 90'",
-        "url": "https://open.spotify.com/album/6Ma1rCv2N5w2DpQ7IKxq0s"
-      },
-      "artists": [
-        {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        }
-      ],
-      "duration_ms": 167385,
-      "name": "Toy en la calle 90' - Pomper\u00f3 Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7gGZFs8zmZvG52xLEzUKwV"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "llorar y perrear",
+        "url": "https://open.spotify.com/album/65NoZ2j5Lp8gmc1BS6iJY9"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "indirecta",
+      "url": "https://open.spotify.com/track/3vpnqExDOGllL7YETxbffG"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/4x9XyYlT1YS2DUi47Onqt4"
       },
@@ -2355,22 +2371,6 @@
       "duration_ms": 176155,
       "name": "Grande",
       "url": "https://open.spotify.com/track/4Ysxfregr1tcAeGxzBrLVi"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "llorar y perrear",
-        "url": "https://open.spotify.com/album/65NoZ2j5Lp8gmc1BS6iJY9"
-      },
-      "artists": [
-        {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "indirecta",
-      "url": "https://open.spotify.com/track/3vpnqExDOGllL7YETxbffG"
     },
     {
       "added_at": "2022-07-05 19:20:04",

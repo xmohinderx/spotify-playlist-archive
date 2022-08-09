@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1435377,
+  "num_followers": 1435879,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3MzMyMywwMDAwMDAwMGFjMWI2ODA2YTAwZDZjNmYyNDc5MGIwOTJiNjI3ZmVm",
+  "snapshot_id": "MTY1OTM3MzMyMywwMDAwMDAwMDYzODQ0ZjBjYTcxMDgzMGU2MDYzM2YzN2FhMGFkZWMz",
   "tracks": [
     {
       "added_at": "2022-08-01 17:02:03",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-08-01 17:02:03",
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
+    },
+    {
+      "added_at": "2022-08-01 17:02:03",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
-    },
-    {
-      "added_at": "2022-08-01 17:02:03",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 245896,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
     },
     {
       "added_at": "2022-08-01 17:02:03",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-08-01 17:02:03",
       "album": {
-        "name": "Ten Summoner's Tales",
-        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 222120,
-      "name": "Fields Of Gold",
-      "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
-    },
-    {
-      "added_at": "2022-08-01 17:02:03",
-      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2022-08-01 17:02:03",
       "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 222120,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
+    },
+    {
+      "added_at": "2022-08-01 17:02:03",
+      "album": {
         "name": "Falling Like The Stars",
         "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 212720,
       "name": "Falling Like The Stars",
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
+    },
+    {
+      "added_at": "2022-08-01 17:02:03",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
     {
       "added_at": "2022-08-01 17:02:03",
@@ -487,22 +503,6 @@
     {
       "added_at": "2022-08-01 17:02:03",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
-    },
-    {
-      "added_at": "2022-08-01 17:02:03",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 286386,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
+    },
+    {
+      "added_at": "2022-08-01 17:02:03",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2022-08-01 17:02:03",
@@ -563,22 +579,6 @@
       "duration_ms": 231653,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
-    },
-    {
-      "added_at": "2022-08-01 17:02:03",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2022-08-01 17:02:03",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-08-01 17:02:03",
       "album": {
-        "name": "Stay Gold",
-        "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
+        "name": "Baby, It's Okay",
+        "url": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
         }
       ],
-      "duration_ms": 215493,
-      "name": "My Silver Lining",
-      "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
+      "duration_ms": 219013,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
     },
     {
       "added_at": "2022-08-01 17:02:03",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-08-01 17:02:03",
       "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "My Silver Lining",
+      "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
+    },
+    {
+      "added_at": "2022-08-01 17:02:03",
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 163547,
       "name": "Slow",
       "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
-    },
-    {
-      "added_at": "2022-08-01 17:02:03",
-      "album": {
-        "name": "Baby, It's Okay",
-        "url": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
     },
     {
       "added_at": "2022-08-01 17:02:03",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-08-01 17:02:03",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 368783,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
-    },
-    {
-      "added_at": "2022-08-01 17:02:03",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 213320,
       "name": "Mess",
       "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
+    },
+    {
+      "added_at": "2022-08-01 17:02:03",
+      "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 368783,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2022-08-01 17:02:03",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-08-01 17:02:03",
       "album": {
-        "name": "Eleven",
-        "url": "https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Eleven",
-      "url": "https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74"
-    },
-    {
-      "added_at": "2022-08-01 17:02:03",
-      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/2p0wIeEZOvOp61z7nrACjC"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 195401,
       "name": "Broken",
       "url": "https://open.spotify.com/track/3JE04xcSOB8zuUzzazuaDj"
+    },
+    {
+      "added_at": "2022-08-01 17:02:03",
+      "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Eleven",
+      "url": "https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74"
     },
     {
       "added_at": "2022-08-01 17:02:03",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-08-01 17:02:03",
       "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 201086,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
-    },
-    {
-      "added_at": "2022-08-01 17:02:03",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 193133,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
+    },
+    {
+      "added_at": "2022-08-01 17:02:03",
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 201086,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
     },
     {
       "added_at": "2022-08-01 17:02:03",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-08-01 17:02:03",
       "album": {
+        "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Come Home To Me",
+      "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
+    },
+    {
+      "added_at": "2022-08-01 17:02:03",
+      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 219300,
       "name": "golden thing",
       "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
-    },
-    {
-      "added_at": "2022-08-01 17:02:03",
-      "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Come Home To Me",
-      "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
     },
     {
       "added_at": "2022-08-01 17:02:03",

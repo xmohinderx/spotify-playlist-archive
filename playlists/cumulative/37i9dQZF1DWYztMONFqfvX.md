@@ -4,7 +4,7 @@
 
 > The Bollywood crooner's best songs.
 
-84 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/5a0HCfJmRc8ZpTMvehGeYq)
+85 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/5a0HCfJmRc8ZpTMvehGeYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Channa Mereya](https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 4:49 | 2021-12-08 |  |
 | [Daayre](https://open.spotify.com/track/0OQzbOu5JGo2LgtwJI04zO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 4:50 | 2021-12-08 |  |
 | [Dekha Hazaro Dafaa](https://open.spotify.com/track/7AV1hh76pC1mg4iSH796Vp) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Rustom](https://open.spotify.com/album/1TK8mLZQbWPe4sRmkcWrIu) | 3:27 | 2021-12-08 |  |
+| [Deva Deva \(From "Brahmastra"\)](https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Deva Deva \(From "Brahmastra"\)](https://open.spotify.com/album/6zwucxlWusEUCZt6DeQJCu) | 4:39 | 2022-08-08 |  |
 | [Dhokha](https://open.spotify.com/track/2aV8nAkyt5nsWdQTruzgmJ) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Khushalii Kumar](https://open.spotify.com/artist/10shJL4t1SGF0r24bg627p) | [Dhokha](https://open.spotify.com/album/7I8VnIahW5LQ03YmifHQ1u) | 4:05 | 2022-02-24 |  |
 | [Dil Hi Toh Hai](https://open.spotify.com/track/0hpP2fBridGH2Bq6qmg9LM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Dil Hi Toh Hai \(From "The Sky Is Pink"\)](https://open.spotify.com/album/3KXFgTmP1RwCF2G181ip3B) | 4:40 | 2021-12-08 |  |
 | [Dil Udd Ja Re](https://open.spotify.com/track/4Qf3kmy6VqG3jzDuzubfFz) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 5:03 | 2021-12-08 |  |

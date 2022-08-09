@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Soledad & Natalie Perez.",
-  "num_followers": 74094,
+  "num_followers": 74104,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGRhYzdhMGZhYTZmOTNjODdhMzgyNzQzOGM3ZGYyYmI5",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDg5MjU1MzI3Y2ZlOWM4Y2EwNTBiNzcxMDBmNDg0ODhi",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -163,6 +147,42 @@
       "duration_ms": 266760,
       "name": "Con la Misma Moneda",
       "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Nunca Es Suficiente",
+        "url": "https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 256052,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "No me Arrepiento de Este Amor",
+        "url": "https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -195,54 +215,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Nunca Es Suficiente",
-        "url": "https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 256052,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Viru Kumbieron",
-        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 228583,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/3KOxcKaiZSFYIcHnr8PIKB"
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -263,6 +247,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Viru Kumbieron",
+        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 228583,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/3KOxcKaiZSFYIcHnr8PIKB"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Amor de Cuarentena (Urbano)",
         "url": "https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5"
       },
@@ -279,34 +279,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "No me Arrepiento de Este Amor",
-        "url": "https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2"
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
         }
       ],
-      "duration_ms": 227373,
-      "name": "No Me Arrepiento de Este Amor",
-      "url": "https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -331,6 +315,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "La Pollera Amarilla",
+        "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
+      },
+      "artists": [
+        {
+          "name": "Gladys \"La bomba tucumana\"",
+          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
+        }
+      ],
+      "duration_ms": 189106,
+      "name": "La Pollera Amarilla",
+      "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Miau",
         "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "La Pollera Amarilla",
-        "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
-      },
-      "artists": [
-        {
-          "name": "Gladys \"La bomba tucumana\"",
-          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "La Pollera Amarilla",
-      "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "El Marginal",
         "url": "https://open.spotify.com/album/1SrbhByvhomAAURiA7MLRa"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 188534,
       "name": "El Marginal",
       "url": "https://open.spotify.com/track/0R2271joKqIt1utuHQbQ4w"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "20 TropiExitos",
-        "url": "https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm"
-      },
-      "artists": [
-        {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "La Cantaleta",
-      "url": "https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -447,6 +431,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "20 TropiExitos",
+        "url": "https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm"
+      },
+      "artists": [
+        {
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "La Cantaleta",
+      "url": "https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "De Mi Barrio Con Pasi\u00f3n",
         "url": "https://open.spotify.com/album/6qfu3pbFZPTpftQEr7qBNp"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 250439,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6"
-      },
-      "artists": [
-        {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
-        }
-      ],
-      "duration_ms": 248466,
-      "name": "El Club de Mujeres Enga\u00f1adas",
-      "url": "https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -579,18 +563,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "En Peligro de Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6"
       },
       "artists": [
         {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
         }
       ],
-      "duration_ms": 221823,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
+      "duration_ms": 248466,
+      "name": "El Club de Mujeres Enga\u00f1adas",
+      "url": "https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -627,6 +611,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "En Peligro de Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 221823,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "La Voz de los Barrios",
         "url": "https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 181333,
       "name": "Poco Asado, Mucho Humo",
       "url": "https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Ya No Cabes en Mi Vida",
+        "url": "https://open.spotify.com/album/1l4XveoWd3QGnLC4yjJwlL"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Ya No Cabes en Mi Vida",
+      "url": "https://open.spotify.com/track/0geHUwG0LuDwBNslfp4c4Z"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -671,22 +687,6 @@
       "duration_ms": 198542,
       "name": "Lo Que Tenias Conmigo",
       "url": "https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Ya No Cabes en Mi Vida",
-        "url": "https://open.spotify.com/album/1l4XveoWd3QGnLC4yjJwlL"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Ya No Cabes en Mi Vida",
-      "url": "https://open.spotify.com/track/0geHUwG0LuDwBNslfp4c4Z"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Lo Que Fui para Ti",
+      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "M\u00fasica del Alma",
         "url": "https://open.spotify.com/album/6CYOL7EVkEQuCgyEFdb7WJ"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 222361,
       "name": "No Te Ir\u00e1s",
       "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Lo Que Fui para Ti",
-      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Es Mi Culpa",
+        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "duration_ms": 215067,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Hipn\u00f3tica",
         "url": "https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 262480,
       "name": "Si se fue, se fue",
       "url": "https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Es Mi Culpa",
-        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
-      },
-      "artists": [
-        {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
-        }
-      ],
-      "duration_ms": 215067,
-      "name": "Es Mi Culpa",
-      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Olvidate",
-        "url": "https://open.spotify.com/album/2RXjWfynHKQteGUCxDzmFW"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Mart\u00edn Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/1TndreWtLjfAlywnkm966g"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Olvidate",
-      "url": "https://open.spotify.com/track/55qtkVCefp1ayMMX29w44d"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Ra\u00fal en el Ba\u00fal",
         "url": "https://open.spotify.com/album/4VrsT5Km3cwglOgZWzsm1e"
       },
@@ -1095,18 +1075,38 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "La N\u00ba 1",
-        "url": "https://open.spotify.com/album/6d3DZcUcdsMgFIyGB91FN5"
+        "name": "Vas a Llorar",
+        "url": "https://open.spotify.com/album/63I1RAXIkhhIVpsG8b8aQK"
       },
       "artists": [
         {
-          "name": "Gladys \"La bomba tucumana\"",
-          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
         }
       ],
-      "duration_ms": 194533,
-      "name": "No Te Vayas Corazon",
-      "url": "https://open.spotify.com/track/3v0sMPPtovPNwDpAtLpfhf"
+      "duration_ms": 204250,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Olvidate",
+        "url": "https://open.spotify.com/album/2RXjWfynHKQteGUCxDzmFW"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Mart\u00edn Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/1TndreWtLjfAlywnkm966g"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Olvidate",
+      "url": "https://open.spotify.com/track/55qtkVCefp1ayMMX29w44d"
     }
   ],
   "unique_name": "Cumbieras",

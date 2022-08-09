@@ -2,7 +2,7 @@
 
 ### [aesthetic](https://open.spotify.com/playlist/37i9dQZF1DX8uc99HoZBLU)
 
-> for those who appreciate a curated mood 🌸
+> for those who appreciate a curated mood 🪩
 
 250 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
 
@@ -145,7 +145,7 @@
 | [Loverboy](https://open.spotify.com/track/1FWoak0OgTq1jrYfRKfXsj) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Helios](https://open.spotify.com/album/34XppM4qBBkVv7eDZEei1N) | 3:44 | 2021-07-06 | 2022-07-29 |
 | [Loverboy](https://open.spotify.com/track/3eKvhQ3qNnxlZBwq8uP8fz) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [Loverboy](https://open.spotify.com/album/6lrOEu5jfjS4BpJDFeZJaQ) | 2:50 | 2021-08-20 | 2022-05-31 |
 | [lovesick](https://open.spotify.com/track/3A2jJaOKYhmKEy9IyyEJF6) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/3l7m9a8tkGbZPZ44Bd1QoA) | 2:30 | 2021-06-08 | 2022-05-12 |
-| [Loving Is Easy](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 | 2021-06-08 |  |
+| [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 | 2021-06-08 |  |
 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 | 2021-06-08 | 2022-07-27 |
 | [make me forget him](https://open.spotify.com/track/5zEO3Q7oKFOGT2J4iONpW1) | [LO LA](https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF) | [mystery boy](https://open.spotify.com/album/6i2HulkC4vuGeX9zHRgmuu) | 3:38 | 2021-08-20 | 2022-06-07 |
 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 | 2022-01-21 |  |

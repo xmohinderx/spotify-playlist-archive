@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Cedric Burnside",
-  "num_followers": 412929,
+  "num_followers": 412971,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDBhN2FkODY3MDE4MzFiODg5YjZkODJhY2FjMjAxNjVl",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDc2YTZiYWMyNTJjODZjYjkxMzI4M2YxNzYyNTk1MWVi",
   "tracks": [
     {
       "added_at": "2022-07-26 14:55:05",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "The Revivalists",
-        "url": "https://open.spotify.com/album/6c65k7oQyZ1VIaDvOlOwQT"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 392800,
-      "name": "Soulfight",
-      "url": "https://open.spotify.com/track/3TQxkQsyJS03EUwl02Qaub"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 213136,
       "name": "Mad About You",
       "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "The Revivalists",
+        "url": "https://open.spotify.com/album/6c65k7oQyZ1VIaDvOlOwQT"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 392800,
+      "name": "Soulfight",
+      "url": "https://open.spotify.com/track/3TQxkQsyJS03EUwl02Qaub"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Sound & Color (Deluxe)",
@@ -235,6 +219,22 @@
       "duration_ms": 182466,
       "name": "Sound & Color",
       "url": "https://open.spotify.com/track/26HaY4D7AV0gVxmkz11bIz"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "L'hotel Serein",
-        "url": "https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 252363,
-      "name": "L'hotel Serein",
-      "url": "https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "TajMo",
@@ -447,6 +431,22 @@
       "duration_ms": 268346,
       "name": "Diving Duck Blues",
       "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "L'hotel Serein",
+        "url": "https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 252363,
+      "name": "L'hotel Serein",
+      "url": "https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 306533,
-      "name": "This Man",
-      "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
         "name": "Lonesome as a Shadow",
         "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 185280,
       "name": "Ain't Gotta Worry Child",
       "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "That's What I Heard",
+        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 306533,
+      "name": "This Man",
+      "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ"
     },
     {
+      "added_at": "2022-07-26 14:55:05",
+      "album": {
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 130276,
+      "name": "Knew The Day Was Comin'",
+      "url": "https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT"
+    },
+    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Amen",
@@ -821,20 +837,20 @@
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
     },
     {
-      "added_at": "2022-07-26 14:55:05",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Bloodline Maintenance",
-        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj"
       },
       "artists": [
         {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
         }
       ],
-      "duration_ms": 130276,
-      "name": "Knew The Day Was Comin'",
-      "url": "https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT"
+      "duration_ms": 161675,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -855,38 +871,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "POWER",
-        "url": "https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj"
-      },
-      "artists": [
-        {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
-        }
-      ],
-      "duration_ms": 161675,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Roll With Me",
-        "url": "https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7"
-      },
-      "artists": [
-        {
-          "name": "Davie",
-          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
-        }
-      ],
-      "duration_ms": 260333,
-      "name": "Roll With Me",
-      "url": "https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Black Hole Rainbow",
         "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 244536,
       "name": "Unchained",
       "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+        "name": "Roll With Me",
+        "url": "https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Davie",
+          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
         }
       ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+      "duration_ms": 260333,
+      "name": "Roll With Me",
+      "url": "https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Call Me A Fool [Feat. Carla Thomas]",
@@ -1021,20 +1005,20 @@
       "url": "https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
+      "added_at": "2022-04-08 04:01:00",
       "album": {
-        "name": "S\u00edminn+Spotify Session",
-        "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
       },
       "artists": [
         {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
         }
       ],
-      "duration_ms": 352720,
-      "name": "Neon Experience - Live from Vatnagar\u00f0ar",
-      "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
+      "duration_ms": 223961,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1051,6 +1035,22 @@
       "duration_ms": 223490,
       "name": "Savior",
       "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "S\u00edminn+Spotify Session",
+        "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "duration_ms": 352720,
+      "name": "Neon Experience - Live from Vatnagar\u00f0ar",
+      "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Cypress Grove",
-        "url": "https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy \"Duck\" Holmes",
-          "url": "https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D"
-        }
-      ],
-      "duration_ms": 251528,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Healing Tide",
         "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 144106,
       "name": "Love Like There's No Tomorrow",
       "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Cypress Grove",
+        "url": "https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy \"Duck\" Holmes",
+          "url": "https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D"
+        }
+      ],
+      "duration_ms": 251528,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA"
     },
     {
       "added_at": "2022-01-28 05:01:00",

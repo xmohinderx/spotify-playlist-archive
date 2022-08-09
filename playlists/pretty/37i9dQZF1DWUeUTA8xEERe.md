@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,677 likes - 25 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,687 likes - 25 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

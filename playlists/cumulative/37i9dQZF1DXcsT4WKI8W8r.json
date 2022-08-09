@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
@@ -2689,7 +2689,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 161226,
       "name": "I Second That Emotion",
       "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
@@ -2999,6 +2999,24 @@
       "duration_ms": 174040,
       "name": "In or Out",
       "url": "https://open.spotify.com/track/0uCOs9KOehbeXUDlpHfx2t"
+    },
+    {
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "album": {
@@ -6045,7 +6063,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 253800,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"

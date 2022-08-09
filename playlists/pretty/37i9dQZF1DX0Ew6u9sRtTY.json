@@ -1,12 +1,12 @@
 {
   "description": "Remember these?",
-  "num_followers": 1166622,
+  "num_followers": 1166757,
   "original_name": "One-Hit Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5Mzc3NTQ3MSwwMDAwMDAwMDI4NWY1Y2Y0Yzc5M2VmNTNjZWI0NzUyMDAzZmU0NTIx",
+  "snapshot_id": "MTU5Mzc3NTQ3MSwwMDAwMDAwMDU4MDc1OTgwNDFmMDA5YTIwNzU1ZGJmNWJjMTE0NTU1",
   "tracks": [
     {
       "added_at": "2018-12-12 11:34:22",
@@ -123,22 +123,6 @@
     {
       "added_at": "2018-12-12 11:34:22",
       "album": {
-        "name": "Get The Knack",
-        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
-      },
-      "artists": [
-        {
-          "name": "The Knack",
-          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "My Sharona",
-      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
-    },
-    {
-      "added_at": "2018-12-12 11:34:22",
-      "album": {
         "name": "Spirit In The Sky",
         "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 242893,
       "name": "Spirit In The Sky",
       "url": "https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"
+    },
+    {
+      "added_at": "2018-12-12 11:34:22",
+      "album": {
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+      },
+      "artists": [
+        {
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
       "added_at": "2018-12-12 11:34:22",

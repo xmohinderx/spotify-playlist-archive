@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Big Soto, ARON, Mora",
-  "num_followers": 219713,
+  "num_followers": 219682,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYzNjYyNiwwMDAwMDAwMGQyZTIyYmZiMTcxMTRhOGFiYmY2YzE4OGM4NGZiMmJl",
+  "snapshot_id": "MTY1OTYzNjYyNiwwMDAwMDAwMGI2ZDliYWViNzljNDQ1ZDkxNTAyYTdkZWEwNzU3NTNh",
   "tracks": [
     {
       "added_at": "2022-08-04 18:10:26",
@@ -379,58 +379,6 @@
     {
       "added_at": "2022-08-04 18:10:26",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2022-08-04 18:10:26",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "C\u00farame",
-      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
-    },
-    {
-      "added_at": "2022-08-04 18:10:26",
-      "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "MEMORIAS",
-      "url": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr"
-    },
-    {
-      "added_at": "2022-08-04 18:10:26",
-      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -451,6 +399,58 @@
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+    },
+    {
+      "added_at": "2022-08-04 18:10:26",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+    },
+    {
+      "added_at": "2022-08-04 18:10:26",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "added_at": "2022-08-04 18:10:26",
+      "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Ley Seca",
+      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
     },
     {
       "added_at": "2022-08-04 18:10:26",
@@ -483,42 +483,22 @@
     {
       "added_at": "2022-08-04 18:10:26",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
       "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Ley Seca",
-      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
-    },
-    {
-      "added_at": "2022-08-04 18:10:26",
-      "album": {
-        "name": "Suelta",
-        "url": "https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
         {
           "name": "Mora",
           "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
         }
       ],
-      "duration_ms": 243934,
-      "name": "Suelta",
-      "url": "https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY"
+      "duration_ms": 228750,
+      "name": "MEMORIAS",
+      "url": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr"
     },
     {
       "added_at": "2022-08-04 18:10:26",
@@ -543,6 +523,26 @@
     {
       "added_at": "2022-08-04 18:10:26",
       "album": {
+        "name": "Suelta",
+        "url": "https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Suelta",
+      "url": "https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY"
+    },
+    {
+      "added_at": "2022-08-04 18:10:26",
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -555,26 +555,6 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
-    },
-    {
-      "added_at": "2022-08-04 18:10:26",
-      "album": {
-        "name": "Primer Dia de Clases",
-        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 193636,
-      "name": "512",
-      "url": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2"
     },
     {
       "added_at": "2022-08-04 18:10:26",
@@ -667,22 +647,22 @@
     {
       "added_at": "2022-08-04 18:10:26",
       "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+        "name": "Primer Dia de Clases",
+        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
         }
       ],
-      "duration_ms": 232560,
-      "name": "No Te Deseo el Mal",
-      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
+      "duration_ms": 193636,
+      "name": "512",
+      "url": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2"
     },
     {
       "added_at": "2022-08-04 18:10:26",
@@ -699,6 +679,26 @@
       "duration_ms": 208291,
       "name": "Sexo Virtual",
       "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
+    },
+    {
+      "added_at": "2022-08-04 18:10:26",
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "No Te Deseo el Mal",
+      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
     },
     {
       "added_at": "2022-08-04 18:10:26",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-08-04 18:10:26",
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 295038,
+      "name": "Aquel Nap ZzZz",
+      "url": "https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5"
+    },
+    {
+      "added_at": "2022-08-04 18:10:26",
+      "album": {
         "name": "MOOD (Remix)",
         "url": "https://open.spotify.com/album/7HSebWoyKTGMZTfnoahW3G"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 255606,
       "name": "Si Te Veo",
       "url": "https://open.spotify.com/track/2TmT3wSwRf0CYJFGGaIXNB"
-    },
-    {
-      "added_at": "2022-08-04 18:10:26",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 295038,
-      "name": "Aquel Nap ZzZz",
-      "url": "https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5"
     },
     {
       "added_at": "2022-08-04 18:10:26",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-08-04 18:10:26",
       "album": {
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 121720,
+      "name": "Close Friends",
+      "url": "https://open.spotify.com/track/6o20NaKRuPqpluh8DPRur1"
+    },
+    {
+      "added_at": "2022-08-04 18:10:26",
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -1103,18 +1119,22 @@
     {
       "added_at": "2022-08-04 18:10:26",
       "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+        "name": "Nube",
+        "url": "https://open.spotify.com/album/1Isa3aYWmtcpoT4d2yh7ku"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 121720,
-      "name": "Close Friends",
-      "url": "https://open.spotify.com/track/6o20NaKRuPqpluh8DPRur1"
+      "duration_ms": 187050,
+      "name": "Nube",
+      "url": "https://open.spotify.com/track/4fSp56ULFfajEsX0rNRu2D"
     },
     {
       "added_at": "2022-08-04 18:10:26",
@@ -1139,26 +1159,6 @@
       "duration_ms": 259310,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr"
-    },
-    {
-      "added_at": "2022-08-04 18:10:26",
-      "album": {
-        "name": "Nube",
-        "url": "https://open.spotify.com/album/1Isa3aYWmtcpoT4d2yh7ku"
-      },
-      "artists": [
-        {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "Nube",
-      "url": "https://open.spotify.com/track/4fSp56ULFfajEsX0rNRu2D"
     },
     {
       "added_at": "2022-08-04 18:10:26",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-08-04 18:10:26",
       "album": {
-        "name": "Nos Matamos",
-        "url": "https://open.spotify.com/album/38rKm1PY26o3u2Q7GXDJLV"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Nos Matamos",
-      "url": "https://open.spotify.com/track/1CzOTrHcKV9nJov0wQytlA"
-    },
-    {
-      "added_at": "2022-08-04 18:10:26",
-      "album": {
         "name": "AL CAPONE",
         "url": "https://open.spotify.com/album/3iYh7Zx5MpbgVttrY0JBaC"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 162304,
       "name": "AL CAPONE",
       "url": "https://open.spotify.com/track/4igzqj5TrceDGrJcZYM0pl"
+    },
+    {
+      "added_at": "2022-08-04 18:10:26",
+      "album": {
+        "name": "Nos Matamos",
+        "url": "https://open.spotify.com/album/38rKm1PY26o3u2Q7GXDJLV"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Nos Matamos",
+      "url": "https://open.spotify.com/track/1CzOTrHcKV9nJov0wQytlA"
     },
     {
       "added_at": "2022-08-04 18:10:26",

@@ -1427,6 +1427,24 @@
     {
       "album": {
         "name": "Ponte Pa M\u00ed",
+        "url": "https://open.spotify.com/album/67cb5CMeh3Iq6bOcdTgLLE"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214467,
+      "name": "Ponte Pa M\u00ed",
+      "url": "https://open.spotify.com/track/2oe1Sdca8nXPNzyTGqX7L3"
+    },
+    {
+      "album": {
+        "name": "Ponte Pa M\u00ed",
         "url": "https://open.spotify.com/album/4VISSS2b1TMljgzXGt1T2I"
       },
       "artists": [
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 214468,
       "name": "Ponte Pa M\u00ed",
       "url": "https://open.spotify.com/track/4nDFKq4cge5x6pk53cU28S"

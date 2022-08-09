@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 6881,
+  "num_followers": 6905,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4NTcwNiwwMDAwMDAwMGNkODdjMDg5Nzk0OGNjNzA5Nzc3OTIxODg0NDVlNGJi",
+  "snapshot_id": "MTY1OTY4NTcwNiwwMDAwMDAwMGM0ZGYzNjU3MmI0MzM4ZGRjMzljOTYwZDhmMTc2ZDhl",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -41,26 +41,6 @@
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
@@ -79,6 +59,26 @@
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -129,6 +129,22 @@
       "url": "https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
+    },
+    {
       "added_at": "2022-06-16 23:00:00",
       "album": {
         "name": "KOA II Part 1",
@@ -151,22 +167,6 @@
       "duration_ms": 384893,
       "name": "Ubumnandi (feat. Nia Pearl & MDU a.k.a TRP)",
       "url": "https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Beautifully",
+        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 169844,
+      "name": "Beautifully",
+      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
       },
@@ -211,6 +227,26 @@
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -263,42 +299,6 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Beautifully",
-        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 169844,
-      "name": "Beautifully",
-      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -417,6 +417,26 @@
       "url": "https://open.spotify.com/track/5ibf0QRiCeCmlFlNb7otEP"
     },
     {
+      "added_at": "2022-07-08 06:11:04",
+      "album": {
+        "name": "Comforter (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Comforter (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Magixx",
@@ -447,26 +467,6 @@
       "duration_ms": 162352,
       "name": "Naked Wire",
       "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
-    },
-    {
-      "added_at": "2022-07-08 06:11:04",
-      "album": {
-        "name": "Comforter (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Comforter (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Your Body (feat. Buju)",
-        "url": "https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK"
-      },
-      "artists": [
-        {
-          "name": "Basketmouth",
-          "url": "https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 130918,
-      "name": "Your Body (feat. Buju)",
-      "url": "https://open.spotify.com/track/1IqNlIUJivQXXSp6MgCwRl"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Palmwine Music 2",
         "url": "https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 255157,
       "name": "Tropicana",
       "url": "https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Your Body (feat. Buju)",
+        "url": "https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK"
+      },
+      "artists": [
+        {
+          "name": "Basketmouth",
+          "url": "https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 130918,
+      "name": "Your Body (feat. Buju)",
+      "url": "https://open.spotify.com/track/1IqNlIUJivQXXSp6MgCwRl"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "APOLLO",
         "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 191544,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/719tWjaCn54N9rCD8tgtDG"
     },
     {
+      "added_at": "2022-08-05 07:48:26",
+      "album": {
+        "name": "Brenda",
+        "url": "https://open.spotify.com/album/4hOK3Nmq4EVvaSv62bgvM2"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Brenda",
+      "url": "https://open.spotify.com/track/2S5dAgNweHQogi41SuAdkf"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Jump On It (REMIX)",
@@ -1199,26 +1215,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Adua (Remix)",
-        "url": "https://open.spotify.com/album/1qkEUpHPioAcOlMjDkEGLV"
-      },
-      "artists": [
-        {
-          "name": "Liya",
-          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Adua (Remix)",
-      "url": "https://open.spotify.com/track/7oZDRbZggx7wHJpQJqUGFp"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Patient",
         "url": "https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb"
       },
@@ -1235,6 +1231,26 @@
       "duration_ms": 179318,
       "name": "Patient",
       "url": "https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Adua (Remix)",
+        "url": "https://open.spotify.com/album/1qkEUpHPioAcOlMjDkEGLV"
+      },
+      "artists": [
+        {
+          "name": "Liya",
+          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Adua (Remix)",
+      "url": "https://open.spotify.com/track/7oZDRbZggx7wHJpQJqUGFp"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 193593,
       "name": "Jo",
       "url": "https://open.spotify.com/track/3vQDViTCjRem00CGS7Rr6J"
-    },
-    {
-      "added_at": "2022-08-05 07:48:26",
-      "album": {
-        "name": "Brenda",
-        "url": "https://open.spotify.com/album/4hOK3Nmq4EVvaSv62bgvM2"
-      },
-      "artists": [
-        {
-          "name": "Ogranya",
-          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Brenda",
-      "url": "https://open.spotify.com/track/2S5dAgNweHQogi41SuAdkf"
     },
     {
       "added_at": "2022-06-09 23:00:00",

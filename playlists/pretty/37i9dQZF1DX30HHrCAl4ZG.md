@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > On the pulse of new indie rock\. Cover: Quarters of Change
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,721 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,743 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,20 +15,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 5 | [Dog Eat Dog](https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Dog Eat Dog](https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N) | 2:49 |
 | 6 | [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 |
 | 7 | [Gloom](https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gloom](https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz) | 2:00 |
-| 8 | [Change](https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Change](https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu) | 2:51 |
-| 9 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 |
-| 10 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 |
-| 11 | [death wish](https://open.spotify.com/track/15NWft2MWR5SZJXUDJnRYO) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [death wish](https://open.spotify.com/album/7aB0D39Il6UYoQmUNHoQr6) | 2:44 |
-| 12 | [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 |
-| 13 | [Home](https://open.spotify.com/track/3tYH04NBLuzodhjHpsBjoh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:51 |
-| 14 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
-| 15 | [Mark on You](https://open.spotify.com/track/3Ics7Qw1rxe121mHDLhRWD) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Mark on You](https://open.spotify.com/album/5KEz2iS9UFDIjfwdfsiuzN) | 2:21 |
-| 16 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
-| 17 | [I Think I Left the Stove On](https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [I Think I Left the Stove On](https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5) | 3:22 |
-| 18 | [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 |
-| 19 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
-| 20 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 |
-| 21 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
+| 8 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 |
+| 9 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 |
+| 10 | [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 |
+| 11 | [Home](https://open.spotify.com/track/3tYH04NBLuzodhjHpsBjoh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:51 |
+| 12 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
+| 13 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
+| 14 | [I Think I Left the Stove On](https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [I Think I Left the Stove On](https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5) | 3:22 |
+| 15 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
+| 16 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
+| 17 | [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 |
+| 18 | [Change](https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Change](https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu) | 2:51 |
+| 19 | [death wish](https://open.spotify.com/track/15NWft2MWR5SZJXUDJnRYO) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [death wish](https://open.spotify.com/album/7aB0D39Il6UYoQmUNHoQr6) | 2:44 |
+| 20 | [Mark on You](https://open.spotify.com/track/3Ics7Qw1rxe121mHDLhRWD) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Mark on You](https://open.spotify.com/album/5KEz2iS9UFDIjfwdfsiuzN) | 2:21 |
+| 21 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 |
 | 22 | [Tongue](https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Tongue](https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho) | 3:34 |
 | 23 | [Ooh! Sumthin' New](https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Ooh! Sumthin' New](https://open.spotify.com/album/3w6clsgJhlKzGVLzQ6VOfc) | 4:45 |
 | 24 | [I hope we can still be friends](https://open.spotify.com/track/2Fp2eFJSDMZCZ3Pc9OINmp) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I hope we can still be friends](https://open.spotify.com/album/2DFYfHxIagpHC6SrZ596qo) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Intake](https://open.spotify.com/track/4h78x5FcSa6RZbnhkzDdP6) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Intake](https://open.spotify.com/album/4uGHqV0Ltu4bnEOzxdrnIs) | 4:04 |
 | 100 | [Sharks](https://open.spotify.com/track/4QZa3y2uKeSl92MkYKZLlf) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/6f2DJDgxBufS0JVEcHUDhL) | 2:48 |
 
-Snapshot ID: `MTY1OTcyMjg5OCwwMDAwMDAwMGVmZjE1N2NhM2QzNGM5MTdiMzI0MWVmYWQxZmRlY2Nh`
+Snapshot ID: `MTY1OTk5NDg5MSwwMDAwMDAwMGRkNTFkOTdjMjc2MmFmMmVlODhlYWJkNTQ0MDFjMzQ1`

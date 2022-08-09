@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en summer vibes! Cover: Boef, Numidia, Cristian D en Diquenza
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,657 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,691 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

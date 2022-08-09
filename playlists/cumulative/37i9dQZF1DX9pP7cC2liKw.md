@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-186 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
+188 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-09 |  |
 | [Arena Negra](https://open.spotify.com/track/2jaoF4NACnQBromjiZwMWg) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 3:25 | 2022-01-06 | 2022-07-28 |
 | [Arte](https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Arte](https://open.spotify.com/album/6cgGOkq1ctjIMsIuSyHOPj) | 3:36 | 2022-08-02 |  |
-| [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2022-01-04 |  |
+| [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2022-01-04 | 2022-08-09 |
 | [Aves del Sur](https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Aves del Sur](https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe) | 3:09 | 2022-01-04 | 2022-07-05 |
 | [Baianá](https://open.spotify.com/track/4bndkI1TTh7itdsyixtDoD) | [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [O Seguinte é Esse](https://open.spotify.com/album/5dEA3Zh45vQKgrmJJuFV9p) | 4:39 | 2022-01-04 |  |
 | [Bailando Lento](https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Bailando Lento](https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq) | 3:17 | 2022-01-04 | 2022-07-24 |
@@ -77,6 +77,7 @@
 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-06-15 |  |
 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 | 2022-06-15 |  |
 | [Guadalupe](https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Guadalupe](https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS) | 3:24 | 2022-01-04 | 2022-07-29 |
+| [Gwandena](https://open.spotify.com/track/2Dt9epAirVFFcbJ1kguLch) | [Timpana](https://open.spotify.com/artist/1nYg4Ok9KOudPQHXD6NmE0) | [Gwandena](https://open.spotify.com/album/0MouOAP3KTxeedoyUP4KMz) | 3:21 | 2022-08-09 |  |
 | [Hipnótico](https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:39 | 2022-01-04 |  |
 | [Hoy Como Siempre](https://open.spotify.com/track/5pQXW3nrM4KEDTK4iD3Iu9) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Hoy Como Siempre](https://open.spotify.com/album/2wDRsuHc2loxSQykUIbt3v) | 4:09 | 2022-01-04 | 2022-07-29 |
 | [Humano \- El Búho Remix](https://open.spotify.com/track/44F8c2lMrL5rSDCvhR1UJb) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i) | 4:35 | 2022-01-04 | 2022-07-23 |
@@ -188,8 +189,9 @@
 | [Tzantza](https://open.spotify.com/track/2xixdZ2dxE00bX6A6jV17m) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:50 | 2022-06-15 | 2022-08-04 |
 | [Túnel](https://open.spotify.com/track/4974yRfhueqSPopZgkNnpc) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [De Andén a Andén](https://open.spotify.com/album/5E4yoFUkfybAQnLmiqYOSl) | 5:35 | 2022-01-04 | 2022-05-21 |
 | [Un Canto](https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs) | [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Un Canto](https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B) | 4:44 | 2022-01-04 | 2022-07-29 |
-| [Urban Birds](https://open.spotify.com/track/1gwZfgadcwtAyeI45vHsyu) | [Praah Musique](https://open.spotify.com/artist/2Hdlwgmrlw5LiBSNMYroZG), [Steffen Kirchhoff](https://open.spotify.com/artist/2IhRhBRDWjjPRpPkOSRdmR), [Luna](https://open.spotify.com/artist/1eu4lobNeKHFfosZwFmWpZ) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/6xU0Z4LispiUofKEXrCQiJ) | 6:32 | 2022-04-17 |  |
+| [Urban Birds](https://open.spotify.com/track/1gwZfgadcwtAyeI45vHsyu) | [Praah Musique](https://open.spotify.com/artist/2Hdlwgmrlw5LiBSNMYroZG), [Steffen Kirchhoff](https://open.spotify.com/artist/2IhRhBRDWjjPRpPkOSRdmR), [Luna](https://open.spotify.com/artist/1eu4lobNeKHFfosZwFmWpZ) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/6xU0Z4LispiUofKEXrCQiJ) | 6:32 | 2022-04-17 | 2022-08-09 |
 | [Vayayó](https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Vayayó](https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf) | 2:09 | 2022-01-04 | 2022-07-14 |
+| [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 | 2022-08-08 |  |
 | [Voyage](https://open.spotify.com/track/30iCh43omsKboQwN3OEd3Z) | [Tapioca](https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr) | [Voyage](https://open.spotify.com/album/4XJC4gEUO1tIZx2CbIVXbF) | 5:15 | 2022-04-07 | 2022-07-24 |
 | [Xica Xica](https://open.spotify.com/track/1IkN4xIoHRSkk0j5t50S42) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Balance](https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx) | 4:28 | 2022-01-04 |  |
 | [Yale](https://open.spotify.com/track/00VHqKIeXGsZjoVLzanwlx) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Msafiri Zawose](https://open.spotify.com/artist/11ouELfzx4OsUjTQNlOa8w) | [Yale](https://open.spotify.com/album/69aWtxaNpf4Tm2sCsGB4Qi) | 4:30 | 2022-01-04 | 2022-07-25 |

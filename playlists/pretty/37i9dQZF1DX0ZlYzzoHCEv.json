@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 12938,
+  "num_followers": 12993,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA4ODI5NiwwMDAwMDAwMGZhMWFhYzMyZTRhOTM1MTAzODZiN2M4MzkxNWIzN2Y3",
+  "snapshot_id": "MTY1OTA4ODI5NiwwMDAwMDAwMGVjYTIxMThkZjIxYzg3MTE2NzZhZjJlMzA0NzNiNzVk",
   "tracks": [
     {
       "added_at": "2022-07-29 09:51:36",
@@ -111,18 +111,18 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "ARDIPITHECUS",
-        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
+        "name": "Dark Red",
+        "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 196520,
-      "name": "Wait a Minute!",
-      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -147,18 +147,18 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "Dark Red",
-        "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
+        "name": "ARDIPITHECUS",
+        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
+      "duration_ms": 196520,
+      "name": "Wait a Minute!",
+      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
-        "name": "Je M'appelle",
-        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
-      },
-      "artists": [
-        {
-          "name": "Benzz",
-          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
-        }
-      ],
-      "duration_ms": 139574,
-      "name": "Je M'appelle",
-      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
+      },
+      "artists": [
+        {
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+        }
+      ],
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 195320,
       "name": "NEW MAGIC WAND",
       "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
         "name": "Murder In My Mind",
         "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "Tigini (Remix)",
-        "url": "https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Kikimoteleba",
-          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "Tigini (Remix)",
-      "url": "https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
+        "name": "Tigini (Remix)",
+        "url": "https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Kikimoteleba",
+          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Tigini (Remix)",
+      "url": "https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "BABY GODDAMN",
-        "url": "https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj"
-      },
-      "artists": [
-        {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "BABY GODDAMN",
-      "url": "https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
         "name": "Money Rain (Phonk Remix)",
         "url": "https://open.spotify.com/album/0z3SFl34YWiKMXwsTNPdVp"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 150941,
       "name": "Money Rain - Phonk Remix",
       "url": "https://open.spotify.com/track/4P0r0yO7HNPvOra7BHGixH"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
+        "name": "BABY GODDAMN",
+        "url": "https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "BABY GODDAMN",
+      "url": "https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 153999,
-      "name": "Ginseng Strip 2002",
-      "url": "https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 153999,
+      "name": "Ginseng Strip 2002",
+      "url": "https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 221075,
-      "name": "Primadonna",
-      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
         "name": "BABYDOLL (Speed)",
         "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 156650,
       "name": "BABYDOLL (Speed)",
       "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221075,
+      "name": "Primadonna",
+      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
     },
     {
       "added_at": "2022-07-29 09:51:36",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-07-29 09:51:36",
       "album": {
-        "name": "to hell with it",
-        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 98544,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
-    },
-    {
-      "added_at": "2022-07-29 09:51:36",
-      "album": {
         "name": "#miles",
         "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 115138,
       "name": "#miles",
       "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
+    },
+    {
+      "added_at": "2022-07-29 09:51:36",
+      "album": {
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 98544,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
     },
     {
       "added_at": "2022-07-29 09:51:36",

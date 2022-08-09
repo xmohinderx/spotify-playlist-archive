@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,370 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,448 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 29 | [Turn Around \(Hey What's Wrong With You\) \- Robosonic Remix](https://open.spotify.com/track/17gnbzWdHVTpyZP6FUvo0E) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l) | [Turn Around \(Hey What’s Wrong With You\) \[Remixes\]](https://open.spotify.com/album/2hx53vnNPRvQku4tAbWMSf) | 3:17 |
 | 30 | [My Own Way](https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [My Own Way](https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA) | 2:21 |
 | 31 | [Trouble’s Coming \- Purple Disco Machine Remix](https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Trouble’s Coming \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ) | 4:25 |
-| 32 | [Incapable](https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Róisín Machine](https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6) | 3:45 |
-| 33 | [Forever Man \(How Many Times\) \- Earth n Days Remix](https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii) | [Beatchuggers](https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR), [Earth n Days](https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj) | [Forever Man \(How Many Times\) \[Earth n Days Remix\]](https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9) | 3:01 |
+| 32 | [Forever Man \(How Many Times\) \- Earth n Days Remix](https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii) | [Beatchuggers](https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR), [Earth n Days](https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj) | [Forever Man \(How Many Times\) \[Earth n Days Remix\]](https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9) | 3:01 |
+| 33 | [Incapable](https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Róisín Machine](https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6) | 3:45 |
 | 34 | [Voodoo Babe](https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL) | 4:09 |
 | 35 | [Voodoo? \- Lazywax Remix](https://open.spotify.com/track/2wHeYDrniYngp3did3McYD) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Voodoo? \(Lazywax Remix\)](https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9) | 6:26 |
 | 36 | [Do you Feel Like I do?](https://open.spotify.com/track/5xbKD51JPTqbqLjWnvmnmF) | [Another Chemical Love Story](https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv) | [Do you Feel Like I do?](https://open.spotify.com/album/7yKlkYxkKBk7dFZoexmJlb) | 6:38 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 56 | [GULLIBLE](https://open.spotify.com/track/44PsdY8x0Z2LpsS4duJrS7) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [GULLIBLE](https://open.spotify.com/album/3J3hQHIAUdScU2PgBH2xbO) | 3:12 |
 | 57 | [You Can Not Hold Back \(feat\. Koffee\) \- \[Edit\]](https://open.spotify.com/track/5hECCXn5TAixa5WkwTbv2i) | [Trutopia](https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Nervous Brooklyn Sessions 2020](https://open.spotify.com/album/50e5D9fawQngkhs5c9XROS) | 2:36 |
 | 58 | [So Much Love \(feat\. Lloyd Wade\) \- Soda State Remix](https://open.spotify.com/track/08L01pJcsL4trIQrxSa8mj) | [Owen Westlake](https://open.spotify.com/artist/2OdSWlu6iOzT4YsRJuvC8I), [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH), [Lloyd Wade](https://open.spotify.com/artist/6lxTDIi9n3y6DWmL2w4nUs) | [So Much Love \(feat\. Lloyd Wade\) \[Soda State Remix\]](https://open.spotify.com/album/0uGKe7trLiVIJqBe0zofC4) | 4:23 |
-| 59 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
-| 60 | [All Love](https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [All Love](https://open.spotify.com/album/01BTDb8xUH6RDHrVpfVANB) | 5:30 |
+| 59 | [All Love](https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [All Love](https://open.spotify.com/album/01BTDb8xUH6RDHrVpfVANB) | 5:30 |
+| 60 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGMxZjA1ZjdhNzkzMDQxOThkYWVkZjcyNzJlNWU1ZmUy`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGY4ZTNlMDRkZWU2ZGU4Yjk0MTliOTJmYTUwMjg1Y2E0`

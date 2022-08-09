@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "28 DREAM",
+        "url": "https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z"
+      },
+      "artists": [
+        {
+          "name": "JOHA",
+          "url": "https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250733,
+      "name": "28 DREAM",
+      "url": "https://open.spotify.com/track/7Jj4ro3G9jFZFfr2S3C4yW"
+    },
+    {
+      "album": {
         "name": "Far From the Madding City",
         "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
       },
@@ -674,6 +692,32 @@
     },
     {
       "album": {
+        "name": "Drivin'",
+        "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "\uc11c\ub3d9\ud604",
+          "url": "https://open.spotify.com/artist/1KqTeSB6Btq3D6StbKv3Uz"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
+      "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
+    },
+    {
+      "album": {
         "name": "BLUE MOON",
         "url": "https://open.spotify.com/album/0vI07f4SbiJbpj1bTxLyzf"
       },
@@ -786,6 +830,28 @@
     },
     {
       "album": {
+        "name": "New Edition 42",
+        "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164288,
+      "name": "Eunha Store (feat. KIM YUNA)",
+      "url": "https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm"
+    },
+    {
+      "album": {
         "name": "excuses",
         "url": "https://open.spotify.com/album/7vrkB5apr0lk3SAihR9xxA"
       },
@@ -837,7 +903,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 211764,
       "name": "FALLIN",
       "url": "https://open.spotify.com/track/15q20kLS04KZRAldpmRfHJ"
@@ -1015,7 +1081,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 183896,
       "name": "Hate this love",
       "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
@@ -2005,7 +2071,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 200560,
       "name": "Please Don\u2032t Save Me",
       "url": "https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd"
@@ -2287,7 +2353,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 182015,
       "name": "SHE IS MINE",
       "url": "https://open.spotify.com/track/39sMLCnZcXAD9yAtEJipUM"
@@ -2431,10 +2497,32 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 214556,
       "name": "Song of the rain",
       "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
+    },
+    {
+      "album": {
+        "name": "Spanish Restaurant",
+        "url": "https://open.spotify.com/album/5YC4Nrh2IZ8BFx1jjS5Ly9"
+      },
+      "artists": [
+        {
+          "name": "Austn",
+          "url": "https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i"
+        },
+        {
+          "name": "Liquor well",
+          "url": "https://open.spotify.com/artist/3ganClcuZN3ZpNrTXJIMmx"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Spanish Restaurant (Prod. Liquor well)",
+      "url": "https://open.spotify.com/track/5mxxj0aEeTNvo9N7JWJEhM"
     },
     {
       "album": {
@@ -2674,6 +2762,24 @@
     },
     {
       "album": {
+        "name": "theme park",
+        "url": "https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i"
+      },
+      "artists": [
+        {
+          "name": "chilly",
+          "url": "https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "theme park",
+      "url": "https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD"
+    },
+    {
+      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t"
       },
@@ -2743,7 +2849,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 293754,
       "name": "Thread(1.11)",
       "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
@@ -2871,6 +2977,28 @@
       "duration_ms": 134026,
       "name": "Traveler",
       "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
+    },
+    {
+      "album": {
+        "name": "INHALE",
+        "url": "https://open.spotify.com/album/2x9HxolZ62HxwI0R4wcEPO"
+      },
+      "artists": [
+        {
+          "name": "Z.flat",
+          "url": "https://open.spotify.com/artist/0y2EA2TQKYjLSbzlPRhBDq"
+        },
+        {
+          "name": "UNE",
+          "url": "https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194178,
+      "name": "TUXEDO (feat. UNE)",
+      "url": "https://open.spotify.com/track/1tdHJMgpkwb2GwvNJUwpbN"
     },
     {
       "album": {

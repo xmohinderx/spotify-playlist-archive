@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Florist
 
-420 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
+421 songs - 1 day 2 hr 26 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Call the Days](https://open.spotify.com/track/43zbl1HtPGmdXktjOzRFXX) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/0eeWqSci9uLlAuTP0bXwLR) | 3:32 | 2021-10-22 | 2022-06-13 |
 | [Call the Days](https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM) | 3:32 | 2022-06-24 |  |
 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 | 2021-10-22 |  |
+| [Candle](https://open.spotify.com/track/3sTNIZ0hdHC2Lj1dp0IQRm) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 3:43 | 2022-07-29 |  |
 | [Candle](https://open.spotify.com/track/7G9lFBhpC4KJDAVNYZJ0Yc) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2XPFEnQ9PcyWPIrJJnAkrX) | 3:43 | 2021-10-22 | 2022-07-28 |
 | [Candy & Curry](https://open.spotify.com/track/5wyWZ3rNgzGi5yYdnWes03) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Candy & Curry](https://open.spotify.com/album/2rKPEMpgL7ClgAY6aeHc21) | 3:33 | 2022-02-25 | 2022-07-29 |
 | [Can’t Do Much](https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:44 | 2021-10-22 |  |
@@ -341,7 +342,7 @@
 | [Sun Song](https://open.spotify.com/track/70dpUh2T3Hx8JBDUc9Geel) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Warp and Weft](https://open.spotify.com/album/2vtvLFvSihkiqCnKlGIhcm) | 4:12 | 2022-04-13 | 2022-06-29 |
 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 | 2021-10-22 | 2022-07-29 |
 | [Sunlit Juice](https://open.spotify.com/track/1gx7WS3kWK53ypA8KXeEsV) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Sunlit Juice](https://open.spotify.com/album/6pWNwwbsz6DfiOTFHjePEY) | 2:52 | 2022-04-13 | 2022-04-21 |
-| [Surprise, Surprise](https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Surprise, Surprise](https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE) | 3:56 | 2021-10-22 |  |
+| [Surprise, Surprise](https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Surprise, Surprise](https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE) | 3:56 | 2021-10-22 | 2022-08-09 |
 | [Talk to the Lord](https://open.spotify.com/track/4M0cP6Qafv6FfBkq4EMaaB) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Talk to the Lord](https://open.spotify.com/album/0sUkmcF1CUnlilBZYRexM7) | 3:27 | 2021-10-22 | 2022-07-29 |
 | [That's Life Honey](https://open.spotify.com/track/41EWCCqujOEoyQreiu9pt2) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [That's Life Honey](https://open.spotify.com/album/0Dto3sJrxxHp4GEy12KAI1) | 3:02 | 2021-10-22 | 2022-07-29 |
 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 | 2021-10-22 | 2022-04-14 |

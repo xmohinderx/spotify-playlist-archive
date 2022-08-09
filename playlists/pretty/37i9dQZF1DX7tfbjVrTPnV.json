@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Bonnie Raitt",
-  "num_followers": 169100,
+  "num_followers": 169140,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDAwMCwwMDAwMDAwMGJiZjUwOTJjYTdhZmY3Nzg3NzRmNWQwMzhlM2I1YjA3",
+  "snapshot_id": "MTY1MDYwMDAwMCwwMDAwMDAwMGIyOWRmNmI4NDYzNGVhZDZmMTNhZTExM2ZkZDFkYzdj",
   "tracks": [
     {
       "added_at": "2022-04-22 04:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Transcendental Blues",
+        "url": "https://open.spotify.com/album/15FbLxuzw8MuuIC1AOob6k"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/1KnilWyiAb1Jwa9QJXZGMN"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Bring The Family",
         "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 283493,
       "name": "1952 Vincent Black Lightning",
       "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Transcendental Blues",
-        "url": "https://open.spotify.com/album/15FbLxuzw8MuuIC1AOob6k"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "The Galway Girl",
-      "url": "https://open.spotify.com/track/1KnilWyiAb1Jwa9QJXZGMN"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Terms of My Surrender",
+        "url": "https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "duration_ms": 252093,
+      "name": "Long Time Comin'",
+      "url": "https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Childhood Home",
         "url": "https://open.spotify.com/album/1LzGZidfjepFeFOHNxxrIX"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 162800,
       "name": "A House Is A Home",
       "url": "https://open.spotify.com/track/1YYikTSCFdbivfd22fqGsX"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Terms of My Surrender",
-        "url": "https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "Long Time Comin'",
-      "url": "https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -615,38 +615,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "John Prine",
-        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 272026,
-      "name": "Hello in There",
-      "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Soul Journey",
-        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "The Tree",
         "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
       },
@@ -695,18 +663,34 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "George Jones - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
         }
       ],
-      "duration_ms": 187373,
-      "name": "The Grand Tour",
-      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
+      "duration_ms": 272026,
+      "name": "Hello in There",
+      "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Soul Journey",
+        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 212840,
       "name": "Gone Gone Gone (Done Moved On)",
       "url": "https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "George Jones - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "The Grand Tour",
+      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Bring The Family",
+        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Memphis In The Meantime",
+      "url": "https://open.spotify.com/track/6ayQVhvuy6yRx19572hPMT"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Crossing Muddy Waters / Be My Husband",
         "url": "https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO"
       },
@@ -987,6 +1003,22 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "West",
+        "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 318293,
+      "name": "Are You Alright?",
+      "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1023,34 +1055,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Bring The Family",
-        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
       },
       "artists": [
         {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
         }
       ],
-      "duration_ms": 239800,
-      "name": "Memphis In The Meantime",
-      "url": "https://open.spotify.com/track/6ayQVhvuy6yRx19572hPMT"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "West",
-        "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 318293,
-      "name": "Are You Alright?",
-      "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
+      "duration_ms": 212466,
+      "name": "My Favorite Picture Of You",
+      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1099,22 +1115,6 @@
       "duration_ms": 221413,
       "name": "Ford Econoline",
       "url": "https://open.spotify.com/track/4YBWRHOXfB3T9B1TKRT1ki"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "My Favorite Picture Of You",
-      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Folk Singer Vol. 1",
-        "url": "https://open.spotify.com/album/6OjyU4DWN0AIgLeSSV1rrq"
+        "name": "Shouted, Written Down & Quoted",
+        "url": "https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L"
       },
       "artists": [
         {
-          "name": "Willie Watson",
-          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 215406,
-      "name": "Keep It Clean",
-      "url": "https://open.spotify.com/track/60M98E0CkJgJUApaHdgEaO"
+      "duration_ms": 207841,
+      "name": "Merely Avoiding",
+      "url": "https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1319,54 +1319,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Shouted, Written Down & Quoted",
-        "url": "https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L"
+        "name": "Folk Singer Vol. 1",
+        "url": "https://open.spotify.com/album/6OjyU4DWN0AIgLeSSV1rrq"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "Willie Watson",
+          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
         }
       ],
-      "duration_ms": 207841,
-      "name": "Merely Avoiding",
-      "url": "https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
-        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 347769,
-      "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
-      "url": "https://open.spotify.com/track/0CzXjHD4dpnjzkMceBT1Kh"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+      "duration_ms": 215406,
+      "name": "Keep It Clean",
+      "url": "https://open.spotify.com/track/60M98E0CkJgJUApaHdgEaO"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1387,6 +1351,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
+        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 347769,
+      "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
+      "url": "https://open.spotify.com/track/0CzXjHD4dpnjzkMceBT1Kh"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Boots No. 1: The Official Revival Bootleg",
         "url": "https://open.spotify.com/album/235ZzGz026rUvay44aA8JU"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 175083,
       "name": "Dry Town (Demo)",
       "url": "https://open.spotify.com/track/0ddo16GDbp9RoNzT285C4R"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Big Day in a Small Town",
         "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 214773,
       "name": "Hell Bent On A Heartache",
       "url": "https://open.spotify.com/track/5DLtHTvMX7q8eN8ZVJGqL9"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Last Man Standing",
-        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Django and Jimmie",
-        "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "Django and Jimmie",
-      "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 216906,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Django and Jimmie",
+        "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Django and Jimmie",
+      "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "I Contain Multitudes",
-        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "I Contain Multitudes",
-      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Healing Tide",
         "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 260333,
       "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "I Contain Multitudes",
+        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "I Contain Multitudes",
+      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "I'm A Song",
-        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 129077,
-      "name": "Let's Have A Good Thing Together",
-      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Old Yellow Moon",
         "url": "https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 172813,
       "name": "Hanging up My Heart",
       "url": "https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "I'm A Song",
+        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 129077,
+      "name": "Let's Have A Good Thing Together",
+      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Stitch of the World",
-        "url": "https://open.spotify.com/album/76lhcMjk7j4oTTHV1HLZgs"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Dusty Old Man",
-      "url": "https://open.spotify.com/track/5Vi7Nm5Eug5NWvCDzIMqOX"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Into The Purple Valley",
         "url": "https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 236266,
       "name": "Taxes on the Farmer Feeds Us All",
       "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Stitch of the World",
+        "url": "https://open.spotify.com/album/76lhcMjk7j4oTTHV1HLZgs"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Dusty Old Man",
+      "url": "https://open.spotify.com/track/5Vi7Nm5Eug5NWvCDzIMqOX"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "I'll Meet You Here",
         "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
       },
@@ -2459,22 +2443,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Black Roses",
-        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "No Later than Soon",
-      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/6xq8Crqk8thOvopt7wj7fn"
       },
@@ -2487,6 +2455,38 @@
       "duration_ms": 237720,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/7uIsJASIKv1yxShjCdNFre"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Black Roses",
+        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "No Later than Soon",
+      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2523,26 +2523,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "The Killing Fields",
-        "url": "https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        },
-        {
-          "name": "John Leventhal",
-          "url": "https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "The Killing Fields",
-      "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Easy Gone",
         "url": "https://open.spotify.com/album/2RbzfkQVmXTeWF4L3GdqGl"
       },
@@ -2575,6 +2555,26 @@
       "duration_ms": 178706,
       "name": "Custer",
       "url": "https://open.spotify.com/track/68j5e8Xaucfb3WNbROEvc0"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "The Killing Fields",
+        "url": "https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "John Leventhal",
+          "url": "https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "The Killing Fields",
+      "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
     },
     {
       "added_at": "2022-04-22 04:00:00",

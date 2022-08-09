@@ -1676,6 +1676,24 @@
     },
     {
       "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202533,
+      "name": "FOREVER 1",
+      "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
+    },
+    {
+      "album": {
         "name": "haShtag 2nd mini album #Aeji #paSsion",
         "url": "https://open.spotify.com/album/18b7QE4L7khNdLI1JjfNfE"
       },
@@ -2527,7 +2545,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 210893,
       "name": "LA DI DA",
       "url": "https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L"
@@ -2909,6 +2927,24 @@
       "duration_ms": 198598,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/26VaMq8RwiHtuLEaNGxBB0"
+    },
+    {
+      "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
       "album": {
@@ -3381,7 +3417,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 181373,
       "name": "NO THANKS",
       "url": "https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD"
@@ -3435,7 +3471,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": null,
       "duration_ms": 177728,
       "name": "Not Shy",
       "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
@@ -4297,7 +4333,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 186906,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"

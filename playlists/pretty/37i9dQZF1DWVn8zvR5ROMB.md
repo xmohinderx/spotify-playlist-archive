@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Travis Denning, Dylan Scott, Kelsea Ballerini and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,816 likes - 54 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,132 likes - 54 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 13 | [Another Mile](https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Another Mile](https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz) | 3:36 |
 | 14 | [How It Oughta Be](https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Maury County Line](https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy) | 3:08 |
 | 15 | [18](https://open.spotify.com/track/2UiAhExxpMfBODuhZITng7) | [Jennifer Hart](https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu) | [18](https://open.spotify.com/album/5or963yixy9GLAOjcmpkRt) | 2:54 |
-| 16 | [Things You Do In A Truck](https://open.spotify.com/track/13Rps3IUeSZp3JNqRKBXKr) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN), [Trea Landon](https://open.spotify.com/artist/0uzF7KK6coJpJvOW6Vrv1H) | [Things You Do In A Truck](https://open.spotify.com/album/6T8MxUbzJ5IU4ma3F30L0f) | 2:33 |
+| 16 | [Things You Do In A Truck \(feat\. Trea Landon\)](https://open.spotify.com/track/13Rps3IUeSZp3JNqRKBXKr) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN), [Trea Landon](https://open.spotify.com/artist/0uzF7KK6coJpJvOW6Vrv1H) | [Things You Do In A Truck \(feat\. Trea Landon\)](https://open.spotify.com/album/6T8MxUbzJ5IU4ma3F30L0f) | 2:33 |
 | 17 | [You Being You](https://open.spotify.com/track/0kqhph13kXuT8sY0g7cC4q) | [Steve Moakler](https://open.spotify.com/artist/63t3EqMeymxd4CM85RqsCd) | [You Being You](https://open.spotify.com/album/25U5I9iFVue5WtnVgojdTu) | 2:57 |
 | 18 | [Ones Before Me](https://open.spotify.com/track/1F6ZB93v9gfyZnogIvk5AL) | [Grace Leer](https://open.spotify.com/artist/2zaXxMpZKyNK075LXZ3wDG) | [Ones Before Me](https://open.spotify.com/album/6VSV8GX4HPPsZL93N7YYDa) | 3:22 |
 | 19 | [Whiskey On You \- Acoustic](https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You \(Acoustic\)](https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr) | 2:59 |

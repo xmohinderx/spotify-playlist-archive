@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the brilliant sounds of Latin composers.",
-  "num_followers": 24901,
+  "num_followers": 24909,
   "original_name": "Top Latin Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDVhODI0ZTdhMDZiYWIwMTVmYTE4ZjlhZTViMjU2OWNl",
+  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDQ0Y2RiN2I4MmY3NDE0ZGQ2YjM4MjYwMjhjMDczMzRj",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Tango: Zero Hour",
+        "url": "https://open.spotify.com/album/6NNvUtOmrKH7DlRUfnbx7d"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        }
+      ],
+      "duration_ms": 391440,
+      "name": "Milonga Del Angel",
+      "url": "https://open.spotify.com/track/1Gas3HGCmNODYQiMU13LqL"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "Can\u00e7ons i Danses Catalanes",
         "url": "https://open.spotify.com/album/0XogdNJSzYejzvVE21WuZn"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 96946,
       "name": "Can\u00e7ons Populars: Can\u00e7ons Populars: El Testament d'Am\u00e8lia",
       "url": "https://open.spotify.com/track/07LWnpMdekmEjaipVc0PV7"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Tango: Zero Hour",
-        "url": "https://open.spotify.com/album/6NNvUtOmrKH7DlRUfnbx7d"
-      },
-      "artists": [
-        {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        }
-      ],
-      "duration_ms": 391440,
-      "name": "Milonga Del Angel",
-      "url": "https://open.spotify.com/track/1Gas3HGCmNODYQiMU13LqL"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -279,6 +279,26 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Brasileiro - Villa-Lobos & Friends",
+        "url": "https://open.spotify.com/album/6OBd8Ti5rGLBEQVH2ccC2J"
+      },
+      "artists": [
+        {
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "Saudades das Selvas Brasilieras No. 2",
+      "url": "https://open.spotify.com/track/7tAC8WznLhmXmnOm5V0aPu"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "Sarasate: Virtuoso Violin Works",
         "url": "https://open.spotify.com/album/2tIPPpXk3Vcq1wCCSMGg5k"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 501306,
       "name": "Zigeunerweisen, Op. 20",
       "url": "https://open.spotify.com/track/5PNcEbX4s2Tfx4F5FUbgRe"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Brasileiro - Villa-Lobos & Friends",
-        "url": "https://open.spotify.com/album/6OBd8Ti5rGLBEQVH2ccC2J"
-      },
-      "artists": [
-        {
-          "name": "Heitor Villa-Lobos",
-          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
-        },
-        {
-          "name": "Nelson Freire",
-          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "Saudades das Selvas Brasilieras No. 2",
-      "url": "https://open.spotify.com/track/7tAC8WznLhmXmnOm5V0aPu"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Ginastera: Complete Piano and Organ Music",
-        "url": "https://open.spotify.com/album/3oQwTHgBiBaxuyfFXIT1uQ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Ginastera",
-          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
-        },
-        {
-          "name": "Fernando Viani",
-          "url": "https://open.spotify.com/artist/3rGPUve0f6F0dOLpo6KW6C"
-        }
-      ],
-      "duration_ms": 116760,
-      "name": "Suite de danzas criollas, Op. 15 (2nd version): I. Adagietto pianissimo",
-      "url": "https://open.spotify.com/track/2uSO5vIP221w7iVMmCkyx6"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Brouwer: Music for 2 Guitars",
         "url": "https://open.spotify.com/album/7AjPTKjOrdn0ktSdwMVtdG"
       },
@@ -599,6 +579,26 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Ginastera: Complete Piano and Organ Music",
+        "url": "https://open.spotify.com/album/3oQwTHgBiBaxuyfFXIT1uQ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ginastera",
+          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+        },
+        {
+          "name": "Fernando Viani",
+          "url": "https://open.spotify.com/artist/3rGPUve0f6F0dOLpo6KW6C"
+        }
+      ],
+      "duration_ms": 116760,
+      "name": "Suite de danzas criollas, Op. 15 (2nd version): I. Adagietto pianissimo",
+      "url": "https://open.spotify.com/track/2uSO5vIP221w7iVMmCkyx6"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "Sones y Danzones de Buena Madera",
         "url": "https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00"
       },
@@ -615,6 +615,30 @@
       "duration_ms": 370773,
       "name": "Dan-Son",
       "url": "https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Dudamel - Discoveries",
+        "url": "https://open.spotify.com/album/1raz0IPxMaP54dJy320n3b"
+      },
+      "artists": [
+        {
+          "name": "Arturo M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 291933,
+      "name": "Conga del Fuego - Live",
+      "url": "https://open.spotify.com/track/4qQcBZCSitGQx5WpZXLXRK"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -663,30 +687,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Dudamel - Discoveries",
-        "url": "https://open.spotify.com/album/1raz0IPxMaP54dJy320n3b"
-      },
-      "artists": [
-        {
-          "name": "Arturo M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 291933,
-      "name": "Conga del Fuego - Live",
-      "url": "https://open.spotify.com/track/4qQcBZCSitGQx5WpZXLXRK"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Daniela Liebman",
         "url": "https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl"
       },
@@ -703,6 +703,26 @@
       "duration_ms": 418546,
       "name": "Ponce: Balada Mexicana",
       "url": "https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Guitar Music Of Argentina, Vol. 1",
+        "url": "https://open.spotify.com/album/31R0ygvpxn3FezwK0eaaS2"
+      },
+      "artists": [
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+        },
+        {
+          "name": "Victor Villadangos",
+          "url": "https://open.spotify.com/artist/4GOS7bvnz94dzQVeDgghaF"
+        }
+      ],
+      "duration_ms": 146800,
+      "name": "3 Piezas: Chacarera Ututa",
+      "url": "https://open.spotify.com/track/7dYaj0LEC7ok3OZ48rvKSw"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -751,26 +771,6 @@
       "duration_ms": 422000,
       "name": "Misa Criolla: 2. Gloria (carnavalito-yarav\u00ed)",
       "url": "https://open.spotify.com/track/2aujqyb72uBZJZ4SOkz92q"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Guitar Music Of Argentina, Vol. 1",
-        "url": "https://open.spotify.com/album/31R0ygvpxn3FezwK0eaaS2"
-      },
-      "artists": [
-        {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
-        },
-        {
-          "name": "Victor Villadangos",
-          "url": "https://open.spotify.com/artist/4GOS7bvnz94dzQVeDgghaF"
-        }
-      ],
-      "duration_ms": 146800,
-      "name": "3 Piezas: Chacarera Ututa",
-      "url": "https://open.spotify.com/track/7dYaj0LEC7ok3OZ48rvKSw"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -883,30 +883,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Encores",
-        "url": "https://open.spotify.com/album/2f4phsz1Hanfw9OaKS9L9S"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Pablo Casals",
-          "url": "https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ"
-        },
-        {
-          "name": "Prades Festival Orchestra",
-          "url": "https://open.spotify.com/artist/2DEZSSHiw1lhTPkOc5Vdsh"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "El Cant Dels Ocells",
-      "url": "https://open.spotify.com/track/0Rrydi62Dcx5XxdEotzJUI"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Cabez\u00f3n: Obras de Musica",
         "url": "https://open.spotify.com/album/6D28xqoMqgweh2qWl5m0pN"
       },
@@ -931,26 +907,26 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Copland: Appalachian Spring, Rodeo, Billy the Kid & Fanfare for the Common Man",
-        "url": "https://open.spotify.com/album/1sIKjNKPo058xiSZGm5wlm"
+        "name": "Encores",
+        "url": "https://open.spotify.com/album/2f4phsz1Hanfw9OaKS9L9S"
       },
       "artists": [
         {
-          "name": "Aaron Copland",
-          "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "Leonard Bernstein",
-          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+          "name": "Pablo Casals",
+          "url": "https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ"
         },
         {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+          "name": "Prades Festival Orchestra",
+          "url": "https://open.spotify.com/artist/2DEZSSHiw1lhTPkOc5Vdsh"
         }
       ],
-      "duration_ms": 249173,
-      "name": "4 Dance Episodes from Rodeo: III. Saturday Night Waltz",
-      "url": "https://open.spotify.com/track/1RpiptI36V8HwVv4GZQfg9"
+      "duration_ms": 188906,
+      "name": "El Cant Dels Ocells",
+      "url": "https://open.spotify.com/track/0Rrydi62Dcx5XxdEotzJUI"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -971,6 +947,30 @@
       "duration_ms": 79960,
       "name": "Piano Sonata: III. Presto",
       "url": "https://open.spotify.com/track/0JfMzP9XcKjicackTeoBCN"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Copland: Appalachian Spring, Rodeo, Billy the Kid & Fanfare for the Common Man",
+        "url": "https://open.spotify.com/album/1sIKjNKPo058xiSZGm5wlm"
+      },
+      "artists": [
+        {
+          "name": "Aaron Copland",
+          "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "4 Dance Episodes from Rodeo: III. Saturday Night Waltz",
+      "url": "https://open.spotify.com/track/1RpiptI36V8HwVv4GZQfg9"
     },
     {
       "added_at": "2022-01-01 08:00:00",

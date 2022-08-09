@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Mosaic MSC
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,360 likes - 100 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,443 likes - 100 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 66 | [Easy](https://open.spotify.com/track/7iiN8DciKOI7Cz7l62H0uY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 3:17 |
 | 67 | [Come and Have Your Way \- Live](https://open.spotify.com/track/1hDzqW7NQdI0TIvX8kwOJ1) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Nick Herbert](https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS) | [Foundations \(Live\)](https://open.spotify.com/album/0WDoGX80kl6qj0pUe9cUKi) | 4:49 |
 | 68 | [Trinity Song \- Live](https://open.spotify.com/track/7EZTwfaE0nahlAQfNqjxhO) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA), [Dinah Wright](https://open.spotify.com/artist/3DoebjvyyBsKQbEEehyz4S) | [Trinity Song \(Live\)](https://open.spotify.com/album/6nxEYzAHijfM6W8i645aBw) | 5:29 |
-| 69 | [There Is Freedom](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 |
+| 69 | [There Is Freedom](https://open.spotify.com/track/5v9XGYeVeVbuGnYJEaesoh) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/5XarmAjYxAdXTOQObOztgO) | 3:58 |
 | 70 | [The Detour \- Live](https://open.spotify.com/track/7MXheyD5Stj50XiDpzzxmE) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb), [Tamar Chipp](https://open.spotify.com/artist/0aTfN6w6p8VWNWDyDVuCBu) | [The Detour \(Live\)](https://open.spotify.com/album/162gBk3kJC26sMRB8SBZh5) | 6:41 |
 | 71 | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/track/0CEaIQxIFxpvVsZqDIpkcz) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/album/46oRc7TlVThSB8eLUIEjLL) | 5:05 |
 | 72 | [On And On](https://open.spotify.com/track/1pECacoxvlJZUOaaZl3Qlv) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [On And On](https://open.spotify.com/album/1jtk79QrzBfGaswpzCjPBk) | 5:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [So Well](https://open.spotify.com/track/7H2oCmru9QL84hO04PIffN) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [So Well](https://open.spotify.com/album/4fTsqC23xThgybhDfyjKry) | 4:49 |
 | 100 | [I'm Gonna Worship \(feat\. Dante Bowe\)](https://open.spotify.com/track/43bf58Zo2FdOvkrKzs00vc) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 11:47 |
 
-Snapshot ID: `MTY1OTY5MDY5OCwwMDAwMDAwMGI0NDUzMmI1ZWQyY2Q4OWNjNmI5NWM1Y2NiNTg1ZjY1`
+Snapshot ID: `MTY1OTY5MDY5OCwwMDAwMDAwMGZmODI1ZjY1ZDRkODMzYWFmMDkzZTZlYTQyYjcxZmU4`

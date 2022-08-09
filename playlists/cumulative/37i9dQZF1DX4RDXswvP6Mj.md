@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: TO1\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-480 songs - 1 day 2 hr 33 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
+482 songs - 1 day 2 hr 39 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2022-03-24 | 2022-04-18 |
 | [Back Door](https://open.spotify.com/track/6nGDbTIv7jH4NJKpF435GD) | [JEON JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj), [IN SEONG](https://open.spotify.com/artist/0JxQHl0AkdY6GI3C5gtFeo) | [Watcha Original <DOUBLE TROUBLE> EPISODE.5 History – ‘Back Door](https://open.spotify.com/album/3EBv3HESakoTQkUWWv6qYt) | 3:42 | 2022-04-18 | 2022-04-21 |
 | [Back Door](https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:09 | 2022-01-14 | 2022-04-20 |
+| [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-08 |  |
 | [BAD GIRL \(Prod\. Czaer\)](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) | [LACHICA](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 3:14 | 2022-03-14 | 2022-04-18 |
 | [Bad Habits](https://open.spotify.com/track/4QUjn6cprNKiyA8dMTOQ33) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [An\-nyeong](https://open.spotify.com/album/70pSMeD8jHIBvobEZ2BmKk) | 3:32 | 2021-12-29 | 2022-07-12 |
 | [BAD LOVE](https://open.spotify.com/track/7B8JKfqm63AO8MCHFO3pIb) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [BAD LOVE \- The 1st Mini Album](https://open.spotify.com/album/3GYaEvJ62wVs6NSYNOmKKH) | 3:25 | 2022-01-03 | 2022-06-23 |
@@ -170,6 +171,7 @@
 | [FLEX](https://open.spotify.com/track/3p0YrVoaMqcu2gn1lIgnWF) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 3](https://open.spotify.com/album/5EYvdnybFnDjM7HlOASNCZ) | 3:41 | 2022-03-31 | 2022-04-11 |
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-20 | 2022-06-28 |
 | [Forbidden Island](https://open.spotify.com/track/5YFIlLHse7UplUd36BYGSm) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Mirage](https://open.spotify.com/album/3IluPLhGQ9kKlIQp4C11P3) | 3:19 | 2022-04-12 | 2022-04-17 |
+| [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-08 |  |
 | [Forever Young](https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:57 | 2022-01-18 | 2022-06-10 |
 | [Free Pass](https://open.spotify.com/track/5z0EvFqwl5fqJ2dDdwQRfs) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 1st Single Album \[Free Pass\]](https://open.spotify.com/album/6bTEGLbyWMOVvZc7MexlgS) | 3:11 | 2022-04-12 | 2022-04-15 |
 | [FRESH](https://open.spotify.com/track/4Az5BSC0ud7E5Dx3xoI8Mh) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [FRESH](https://open.spotify.com/album/4pyOB4Ao8xUYXyfOd8Sj1f) | 3:27 | 2022-03-29 | 2022-04-10 |
@@ -362,7 +364,7 @@
 | [Ring Ring](https://open.spotify.com/track/1LmAeYKwK2BA2FFUMyTXD2) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Ring Ring](https://open.spotify.com/album/1IFwB37JXLhIh53bSBBMbI) | 3:02 | 2022-03-24 | 2022-04-19 |
 | [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 | 2022-06-22 | 2022-07-11 |
 | [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 | 2022-03-24 | 2022-04-11 |
-| [Road](https://open.spotify.com/track/1zvYrvy4ucwfPlBr2RLUif) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus Pt\. 1: Kaleidoscope](https://open.spotify.com/album/7htimrPXHpXUEehmi902CA) | 4:00 | 2022-08-03 |  |
+| [Road](https://open.spotify.com/track/1zvYrvy4ucwfPlBr2RLUif) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus Pt\. 1: Kaleidoscope](https://open.spotify.com/album/7htimrPXHpXUEehmi902CA) | 4:00 | 2022-08-03 | 2022-08-09 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-21 |  |
 | [Roller Coaster](https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:32 | 2022-04-05 | 2022-06-15 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-12-21 | 2022-07-17 |
@@ -400,7 +402,7 @@
 | [Spit it out](https://open.spotify.com/track/5F6RrFgt1yvRhNCdAEumM6) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [SPIT IT OUT](https://open.spotify.com/album/1pLSlOXtHKPoSoB6ovnIAK) | 3:14 | 2022-04-18 | 2022-04-20 |
 | [STALKER](https://open.spotify.com/track/4WCg4g0lMTZxyFC19W0DHF) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [STALKER](https://open.spotify.com/album/4fzdBEYv8M4d0p6QcDSgn3) | 3:48 | 2022-03-24 | 2022-04-19 |
 | [Stay](https://open.spotify.com/track/3ndCsZfq8OVwwkz9mmZvUz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:24 | 2021-12-29 | 2022-07-27 |
-| [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-06-27 |  |
+| [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-06-27 | 2022-08-09 |
 | [STAY YOUNG](https://open.spotify.com/track/3B1nflnhZHmUpbIovL66Pk) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:28 | 2022-03-29 | 2022-04-01 |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-03 |  |
 | [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 | 2021-12-29 | 2022-07-29 |

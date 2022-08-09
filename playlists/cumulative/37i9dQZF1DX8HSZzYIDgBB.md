@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Pahua en portada.
 
-153 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+154 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Lo Sagrado](https://open.spotify.com/track/6hU4qL1RFuy5A5Ndk8t8Sv) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg) | 3:30 | 2021-10-05 | 2022-04-24 |
 | [Loco Playa](https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Loco Playa](https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7) | 3:37 | 2021-10-22 |  |
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2021-10-05 |  |
+| [Marineros](https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Marineros](https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0) | 2:08 | 2022-08-08 |  |
 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2021-10-05 | 2022-04-10 |
 | [Me mandaron por tortillas](https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Me mandaron por tortillas](https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm) | 2:42 | 2022-07-11 |  |
 | [Me Voy a Valparaíso](https://open.spotify.com/track/1whuGreIX1sYRDeT28nhyp) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [De Algo Hay Que Morir](https://open.spotify.com/album/2MF220KUPbPWEjh59nPFEK) | 4:00 | 2021-10-05 | 2022-04-21 |
@@ -117,7 +118,7 @@
 | [Paraguaya \- ANRMAL \- Live in México](https://open.spotify.com/track/6hqyN0cQeL25DreIYsl1Dn) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [ANRMAL \(Live in México\)](https://open.spotify.com/album/5VqtBF9WgdqMaCnW0IVoho) | 3:43 | 2021-10-05 |  |
 | [Paraguaya \- En Vivo](https://open.spotify.com/track/2lw9zOr22G17OIsIDhtPPf) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [ANRMAL \(En Vivo\)](https://open.spotify.com/album/2PBK1zRRzjilywQ6yOEqPZ) | 3:43 | 2021-10-05 | 2022-07-29 |
 | [Parque de Bugambilias](https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Parque de Bugambilias](https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9) | 2:33 | 2021-10-05 | 2022-04-23 |
-| [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2022-03-11 |  |
+| [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2022-03-11 | 2022-08-09 |
 | [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 | 2021-10-05 |  |
 | [Plata y Coral](https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Plata y Coral](https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP) | 4:00 | 2022-01-21 |  |
 | [Portales](https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3) | [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Útera](https://open.spotify.com/album/0t49uyMILALgWUltHuraYc) | 4:10 | 2021-10-05 |  |

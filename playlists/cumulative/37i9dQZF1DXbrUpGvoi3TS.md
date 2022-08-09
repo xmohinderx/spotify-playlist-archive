@@ -4,7 +4,7 @@
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-355 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/2LOkDAASIpkTAKTeolFeA8)
+356 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/2LOkDAASIpkTAKTeolFeA8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [I Was Made For Loving You](https://open.spotify.com/track/4Qfs616g34Yct9ayS4c8Yw) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile \(Deluxe\)](https://open.spotify.com/album/62JKNwPI9GOvNyusFfCRFA) | 3:08 | 2021-10-21 | 2022-07-29 |
 | [I Wish I Knew](https://open.spotify.com/track/5zLhSC8aEO9iRZZbDeqCnY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [I Wish I Knew](https://open.spotify.com/album/0eW5sPtSI1iKst7A88Azdh) | 3:29 | 2022-03-24 | 2022-04-19 |
 | [I Won't Give Up](https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Won't Give Up](https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P) | 4:00 | 2022-03-24 | 2022-04-18 |
-| [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-19 |  |
+| [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-19 | 2022-08-09 |
 | [I'll Be Good](https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Habits of My Heart](https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ) | 4:08 | 2022-03-24 | 2022-04-20 |
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 | 2021-10-21 |  |
 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 | 2022-03-24 | 2022-04-21 |
@@ -350,6 +350,7 @@
 | [Why Don't You](https://open.spotify.com/track/21pc1gXcU7qyjeWplE7FLV) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Why Don't You](https://open.spotify.com/album/3a57nyVANIhuNmU9UlNdkY) | 3:02 | 2022-03-24 | 2022-04-11 |
 | [Work Song](https://open.spotify.com/track/67Toy6jG5s1SsmkvXQulzp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/6bcl0ZcPJWJtyuRsOyhvfv) | 3:49 | 2022-03-24 | 2022-04-19 |
 | [Worst In Me](https://open.spotify.com/track/3rK43VNP0142Kbxt8nuAhD) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/22aqlgX39cWQMWazg9qwuv) | 3:26 | 2022-03-24 | 2022-04-20 |
+| [Wrong Direction](https://open.spotify.com/track/5Qsp8mtshe70DX7EYbWZGo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 4:08 | 2022-05-19 |  |
 | [Wrong Direction](https://open.spotify.com/track/7GCVboEDzfL3NKp1NrAgHR) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Wrong Direction](https://open.spotify.com/album/2gjtjSAbxvoeQs6zYHj1HJ) | 4:08 | 2021-10-21 | 2022-07-29 |
 | [You](https://open.spotify.com/track/4x4bz6m6oYvRPxNU4HRQHZ) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/0moY5BetMaS0Vyi0Hh3zpb) | 3:32 | 2022-03-24 | 2022-04-21 |
 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 | 2022-05-19 |  |

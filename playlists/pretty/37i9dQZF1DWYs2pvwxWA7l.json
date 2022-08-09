@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover: <a href=\"https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=iTVSZI1LTiuiQNsbEmFzuA\"> Mr Eazi </a>  ",
-  "num_followers": 343775,
+  "num_followers": 344111,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3NDAzNiwwMDAwMDAwMDc2ZWNhMDU4NTY0YTkyNTZkYTUxNjQxOGY2OGJmZTBm",
+  "snapshot_id": "MTY1OTY3NDAzNiwwMDAwMDAwMGViMzg1ZTY1YmMyN2YzZmMwZjU0OWZjYTAyMDVmZmFj",
   "tracks": [
     {
       "added_at": "2022-07-07 23:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
+        "name": "Down Flat",
+        "url": "https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "duration_ms": 172747,
+      "name": "Down Flat",
+      "url": "https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
         "name": "kolomental",
         "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Down Flat",
-        "url": "https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 172747,
-      "name": "Down Flat",
-      "url": "https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB"
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 146249,
       "name": "Legalize",
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -705,26 +705,6 @@
       "url": "https://open.spotify.com/track/0DTEFwaPFY812t6uUH5i7P"
     },
     {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Holy Father",
-        "url": "https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
-    },
-    {
       "added_at": "2022-07-21 23:00:00",
       "album": {
         "name": "5 Star",
@@ -743,6 +723,26 @@
       "duration_ms": 177067,
       "name": "10 Toes (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 150280,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+    },
+    {
       "added_at": "2022-06-08 08:17:45",
       "album": {
         "name": "Grace",
@@ -947,22 +963,6 @@
       "duration_ms": 206775,
       "name": "Snapchat",
       "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 150280,
-      "name": "5 Star",
-      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
       },
@@ -1091,22 +1111,6 @@
       "duration_ms": 169848,
       "name": "Melody (feat. Jaywillz)",
       "url": "https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Summer Yomuthi",
-        "url": "https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW"
-      },
-      "artists": [
-        {
-          "name": "Blaq Diamond",
-          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
-        }
-      ],
-      "duration_ms": 273600,
-      "name": "Summer YoMuthi",
-      "url": "https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp"
     }
   ],
   "unique_name": "Afropop",

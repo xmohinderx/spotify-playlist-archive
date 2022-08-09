@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Kidd Azzurra
 
-254 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+255 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-07-04 |  |
 | [Broken Hearted](https://open.spotify.com/track/6N76WodZTw48txfk4NPDVg) | [ARIA](https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm) | [Broken Hearted](https://open.spotify.com/album/07LXXFNFjw2mdrECdgrFcE) | 2:05 | 2022-07-28 |  |
 | [BTBT \(feat\. DeVita\)](https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT \(feat\. DeVita\)](https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3) | 3:39 | 2022-07-04 | 2022-07-12 |
+| [Call](https://open.spotify.com/track/50aAZPbkB0yhfMQptxa8Dv) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [Call](https://open.spotify.com/album/47McqFdHcA7UpY3p2mxjjy) | 2:38 | 2022-08-08 |  |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-07-25 | 2022-08-02 |
 | [Chabos wissen wer der Babo ist](https://open.spotify.com/track/6kjBafSuYC8gClzfYu7T1t) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [Chabos wissen wer der Babo ist](https://open.spotify.com/album/3qUVVgfr2GzcDukgYVr10T) | 2:19 | 2022-06-16 | 2022-06-24 |
 | [Chanel Bag](https://open.spotify.com/track/4d16JADh71pTeqx0vlHL69) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Chanel Bag](https://open.spotify.com/album/5Rfy71lgBW15gak3OtNHBQ) | 2:38 | 2022-06-09 | 2022-06-17 |
@@ -239,7 +240,7 @@
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-06-23 | 2022-07-01 |
 | [Ups & Downs](https://open.spotify.com/track/53g6tgjn3Ex6o3Q8hcIxkG) | [Theo Junior](https://open.spotify.com/artist/4Q8tZV1nlCycCfu1RFAsJO) | [Ups & Downs](https://open.spotify.com/album/6TWKnFXOEU0AOXe8pSUnS8) | 2:39 | 2022-07-19 |  |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-06-13 | 2022-06-24 |
-| [VERLAUFEN](https://open.spotify.com/track/6WstkKG56p4zoz5FxtDmyT) | [Dasco](https://open.spotify.com/artist/2NAAImPzFXVBqOEx8Ntzcd) | [VERLAUFEN](https://open.spotify.com/album/2WXTsykqT2scYJVpQGBPu1) | 2:41 | 2022-07-28 |  |
+| [VERLAUFEN](https://open.spotify.com/track/6WstkKG56p4zoz5FxtDmyT) | [Dasco](https://open.spotify.com/artist/2NAAImPzFXVBqOEx8Ntzcd) | [VERLAUFEN](https://open.spotify.com/album/2WXTsykqT2scYJVpQGBPu1) | 2:41 | 2022-07-28 | 2022-08-09 |
 | [Warum willst du mich](https://open.spotify.com/track/0pahxiNdLjp6FKi1aFAb2r) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [WAVE](https://open.spotify.com/album/4xPKZiJA8wUMx4n58xhZ5C) | 4:02 | 2022-07-04 | 2022-07-20 |
 | [Was du hast](https://open.spotify.com/track/2pT29PGyqqjIiJRMlKXjnQ) | [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT), [flowerboii](https://open.spotify.com/artist/5aKVNeiiEzFHZHKiPx5X9p), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [Was du hast](https://open.spotify.com/album/17ntfKAnK6mar23wDMWgx5) | 2:24 | 2022-07-21 | 2022-07-29 |
 | [WAS WEISST DU SCHON](https://open.spotify.com/track/0SXYACnlcWvqlHlfN8Y177) | [DXVE](https://open.spotify.com/artist/5WaWH4bt6sGHjuQaFYQAWJ) | [WAS WEISST DU SCHON](https://open.spotify.com/album/1stNLsegoUNT1ez4bOsQeQ) | 2:27 | 2022-07-07 | 2022-07-26 |

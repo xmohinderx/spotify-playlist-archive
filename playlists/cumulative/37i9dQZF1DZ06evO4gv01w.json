@@ -48,6 +48,28 @@
     },
     {
       "album": {
+        "name": "Paint The Roses (Live In Concert)",
+        "url": "https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Nu Deco Ensemble",
+          "url": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298309,
+      "name": "Back Down South / Blue Sky - Live In Concert",
+      "url": "https://open.spotify.com/track/12x2ehVZJy3ZXLYWxXwCL5"
+    },
+    {
+      "album": {
         "name": "Bad Spell",
         "url": "https://open.spotify.com/album/2h7ZuJxpRNLE2B2FQwSIuq"
       },
@@ -673,7 +695,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 271678,
       "name": "Rattlesnake Shakin\u2019 Woman",
       "url": "https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM"

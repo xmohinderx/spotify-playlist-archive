@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
@@ -1419,6 +1419,24 @@
       "duration_ms": 204705,
       "name": "Guadalupe",
       "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
+    },
+    {
+      "album": {
+        "name": "Gwandena",
+        "url": "https://open.spotify.com/album/0MouOAP3KTxeedoyUP4KMz"
+      },
+      "artists": [
+        {
+          "name": "Timpana",
+          "url": "https://open.spotify.com/artist/1nYg4Ok9KOudPQHXD6NmE0"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Gwandena",
+      "url": "https://open.spotify.com/track/2Dt9epAirVFFcbJ1kguLch"
     },
     {
       "album": {
@@ -3683,7 +3701,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 392250,
       "name": "Urban Birds",
       "url": "https://open.spotify.com/track/1gwZfgadcwtAyeI45vHsyu"
@@ -3705,6 +3723,24 @@
       "duration_ms": 129000,
       "name": "Vayay\u00f3",
       "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
+    },
+    {
+      "album": {
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "album": {

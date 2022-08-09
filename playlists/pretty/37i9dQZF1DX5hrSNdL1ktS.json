@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Opium G",
-  "num_followers": 55080,
+  "num_followers": 55088,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU0NDQ5NSwwMDAwMDAwMDQ2YzJhZjIyOTQ5OWY0YjE4MTM0ZmY4NDJiMDY5MTVi",
+  "snapshot_id": "MTY1OTU0NDQ5NSwwMDAwMDAwMDU0YTEyNDU5MjQyMTQyYWZkZTljYjRjNmRjZTdlYzk5",
   "tracks": [
     {
       "added_at": "2022-08-03 16:34:55",
@@ -247,18 +247,18 @@
     {
       "added_at": "2022-08-03 16:34:55",
       "album": {
-        "name": "Las de Octubre",
-        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
         }
       ],
-      "duration_ms": 165408,
-      "name": "Las de Octubre",
-      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
     },
     {
       "added_at": "2022-08-03 16:34:55",
@@ -283,34 +283,18 @@
     {
       "added_at": "2022-08-03 16:34:55",
       "album": {
-        "name": "INESTABLE",
-        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
+        "name": "Las de Octubre",
+        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
       },
       "artists": [
         {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 148000,
-      "name": "INESTABLE",
-      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
-    },
-    {
-      "added_at": "2022-08-03 16:34:55",
-      "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+      "duration_ms": 165408,
+      "name": "Las de Octubre",
+      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
     },
     {
       "added_at": "2022-08-03 16:34:55",
@@ -331,6 +315,22 @@
       "duration_ms": 228214,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
+    },
+    {
+      "added_at": "2022-08-03 16:34:55",
+      "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2022-08-03 16:34:55",
@@ -375,6 +375,26 @@
     {
       "added_at": "2022-08-03 16:34:55",
       "album": {
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+    },
+    {
+      "added_at": "2022-08-03 16:34:55",
+      "album": {
         "name": "LA PUERTA",
         "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
       },
@@ -415,6 +435,22 @@
     {
       "added_at": "2022-08-03 16:34:55",
       "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
+    },
+    {
+      "added_at": "2022-08-03 16:34:55",
+      "album": {
         "name": "Bien Beb\u00e9",
         "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
       },
@@ -431,42 +467,6 @@
       "duration_ms": 163469,
       "name": "Bien Beb\u00e9",
       "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
-    },
-    {
-      "added_at": "2022-08-03 16:34:55",
-      "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
-    },
-    {
-      "added_at": "2022-08-03 16:34:55",
-      "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
     },
     {
       "added_at": "2022-08-03 16:34:55",
@@ -499,6 +499,26 @@
       "duration_ms": 157580,
       "name": "Los Tweets",
       "url": "https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g"
+    },
+    {
+      "added_at": "2022-08-03 16:34:55",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        }
+      ],
+      "duration_ms": 177570,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2022-08-03 16:34:55",
@@ -587,26 +607,6 @@
     {
       "added_at": "2022-08-03 16:34:55",
       "album": {
-        "name": "Dm",
-        "url": "https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "Dm",
-      "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
-    },
-    {
-      "added_at": "2022-08-03 16:34:55",
-      "album": {
         "name": "Mala Suerte",
         "url": "https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33"
       },
@@ -623,22 +623,22 @@
     {
       "added_at": "2022-08-03 16:34:55",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+        "name": "Dm",
+        "url": "https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         },
         {
-          "name": "Ely Blancarte",
-          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
         }
       ],
-      "duration_ms": 177570,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
+      "duration_ms": 183956,
+      "name": "Dm",
+      "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
     },
     {
       "added_at": "2022-08-03 16:34:55",
@@ -911,30 +911,6 @@
     {
       "added_at": "2022-08-03 16:34:55",
       "album": {
-        "name": "DEJA VU",
-        "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
-      },
-      "artists": [
-        {
-          "name": "Fano",
-          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
-        },
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 171690,
-      "name": "DEJA VU",
-      "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
-    },
-    {
-      "added_at": "2022-08-03 16:34:55",
-      "album": {
         "name": "Loco Demente",
         "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 174629,
       "name": "Termin\u00e9 Contigo",
       "url": "https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo"
+    },
+    {
+      "added_at": "2022-08-03 16:34:55",
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
+      },
+      "artists": [
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
+        },
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 171690,
+      "name": "DEJA VU",
+      "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
     },
     {
       "added_at": "2022-08-03 16:34:55",

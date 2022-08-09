@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-87 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/6PGA40jJvnwvOGylzYEmlj)
+88 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/6PGA40jJvnwvOGylzYEmlj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Laps Around The Sun](https://open.spotify.com/track/4gf9Ka2doSbbVM2xygDhle) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/3Eb3PtLKMC4oP8BBdjByvR) | 3:24 | 2020-11-25 | 2022-07-28 |
 | [Laps Around The Sun](https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5) | 3:26 | 2020-11-25 |  |
 | [Letter to Lady J](https://open.spotify.com/track/7w8A5XvLWLVmeaVZIwa7Cn) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Location 13 \(Deluxe Version\)](https://open.spotify.com/album/79SDUqJy7ucLKD0nfXJaVB) | 4:15 | 2020-11-25 |  |
+| [Lifeguard](https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:27 | 2020-11-25 |  |
 | [Lifeguard](https://open.spotify.com/track/7xkf15nlZhAX8qQpGqgR2d) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Lifeguard](https://open.spotify.com/album/5cMhmXTuG1uVT4YVuJnN6N) | 3:27 | 2020-11-25 | 2022-07-29 |
 | [Moon / Sun](https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [The Fruitful Darkness](https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG) | 3:59 | 2020-11-25 |  |
 | [Move by Yourself](https://open.spotify.com/track/6wj2rUrhnfDA97mmec8kNW) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Revisited 2](https://open.spotify.com/album/1Dop4W2ljjFF8HilUxG1qA) | 4:18 | 2020-11-25 | 2022-07-29 |
@@ -65,7 +66,7 @@
 | [She Go](https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 3:17 | 2020-11-25 |  |
 | [Sometimes I](https://open.spotify.com/track/2bz32yhGhMaj3LNnQpyFE9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/6YYBs0rzC30URlk77ULuMW) | 6:17 | 2020-11-25 | 2022-07-29 |
 | [Sometimes I](https://open.spotify.com/track/6sP0vf4MzuUvN1r5FXtg2d) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/16bQ6nIkVt3GrGNFOyiGIX) | 6:17 | 2020-11-25 |  |
-| [Speak out](https://open.spotify.com/track/4WE6L50VXeRbYOqybh2Wi9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Leylines](https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE) | 3:55 | 2020-11-25 | 2022-08-02 |
+| [Speak out](https://open.spotify.com/track/4WE6L50VXeRbYOqybh2Wi9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Leylines](https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE) | 3:55 | 2020-11-25 |  |
 | [Speak Out](https://open.spotify.com/track/56PweNlDakf2ookZBGHO9M) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Leylines](https://open.spotify.com/album/0DhPojwiQq6BREwY5DJjYC) | 3:55 | 2020-11-25 | 2022-07-29 |
 | [Steppegrass](https://open.spotify.com/track/0r2RnFIvxFCX4zspqQg86F) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Road Goes All Night](https://open.spotify.com/album/1lxUhQ6Hf8WfhPhO9vHH6q) | 5:51 | 2020-11-25 | 2022-07-29 |
 | [Steppegrass](https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Road Goes All Night](https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D) | 5:51 | 2020-11-25 |  |
@@ -82,8 +83,8 @@
 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 | 2020-11-25 |  |
 | [Tus Pies \(Your Feet\)](https://open.spotify.com/track/01O8dSJn4lQLfdi72yL8Qf) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [HOKA](https://open.spotify.com/album/3wH1yuFBld6RUYPyJnB60N) | 5:21 | 2020-11-25 | 2022-07-29 |
 | [Tus Pies \(Your Feet\)](https://open.spotify.com/track/1K8fvoDctaQ9unJB40F5Qj) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [HOKA](https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T) | 5:21 | 2020-11-25 |  |
-| [Uneven Days](https://open.spotify.com/track/5NQhbua3fjGBeIUDDq1ozD) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Uneven Days](https://open.spotify.com/album/5NgCiRb6LH8wEtseBuOuy9) | 4:20 | 2020-11-25 |  |
-| [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 | 2020-11-25 |  |
+| [Uneven Days](https://open.spotify.com/track/5NQhbua3fjGBeIUDDq1ozD) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Uneven Days](https://open.spotify.com/album/5NgCiRb6LH8wEtseBuOuy9) | 4:20 | 2020-11-25 | 2022-08-09 |
+| [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 | 2020-11-25 | 2022-08-09 |
 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 | 2020-11-25 |  |
 | [Warm Under the Light](https://open.spotify.com/track/5p4ydBPTPRhhQ6mWTWswXJ) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/0vYG3TaFXfpIqNXLvTo4GL) | 3:53 | 2020-11-25 | 2022-07-28 |
 | [Warm Under the Light](https://open.spotify.com/track/6Z9x4QynHfLwNAXAzn9X1Z) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/4giRNp31F4b7g7jjR7I9Jp) | 3:54 | 2020-11-25 |  |

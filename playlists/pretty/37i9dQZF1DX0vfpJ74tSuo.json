@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 35352,
+  "num_followers": 35445,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTU3MiwwMDAwMDAwMDQwYTFlOGZhNDI0NzM2ZDRiYmY3NTgzZjJlMDUwZjAy",
+  "snapshot_id": "MTY1OTEwNTU3MiwwMDAwMDAwMDNjYTRhZmZiNDk0OTNmMmExYzZhMDg4NDY5NGFmYmNj",
   "tracks": [
     {
       "added_at": "2022-07-29 14:39:32",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-07-29 14:39:32",
       "album": {
-        "name": "Se\u00f1or Blues",
-        "url": "https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 280080,
-      "name": "Queen Bee",
-      "url": "https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf"
-    },
-    {
-      "added_at": "2022-07-29 14:39:32",
-      "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 156866,
       "name": "Bring It On Home",
       "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
+    },
+    {
+      "added_at": "2022-07-29 14:39:32",
+      "album": {
+        "name": "Se\u00f1or Blues",
+        "url": "https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 280080,
+      "name": "Queen Bee",
+      "url": "https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf"
     },
     {
       "added_at": "2022-07-29 14:39:32",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-07-29 14:39:32",
       "album": {
+        "name": "Letter from Bluewater Man",
+        "url": "https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Letter from Bluewater Man",
+      "url": "https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44"
+    },
+    {
+      "added_at": "2022-07-29 14:39:32",
+      "album": {
         "name": "Rory Gallagher (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16"
       },
@@ -807,34 +823,18 @@
     {
       "added_at": "2022-07-29 14:39:32",
       "album": {
-        "name": "Letter from Bluewater Man",
-        "url": "https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK"
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
       "artists": [
         {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Letter from Bluewater Man",
-      "url": "https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44"
-    },
-    {
-      "added_at": "2022-07-29 14:39:32",
-      "album": {
-        "name": "The Midnight Broadcast",
-        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
-      },
-      "artists": [
-        {
-          "name": "Peter Case",
-          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Bumble Bee",
-      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
+      "duration_ms": 423560,
+      "name": "Done Changed My Way of Living",
+      "url": "https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO"
     }
   ],
   "unique_name": "Morning Blues",

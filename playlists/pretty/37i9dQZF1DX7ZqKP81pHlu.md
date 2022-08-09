@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > The sweet sounds of Algeria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,137 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,203 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trigue Lycée \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycée \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 |
+| 1 | [Trigue Lycee \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycee \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 |
 | 2 | [Mazalni](https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Mazalni](https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77) | 4:20 |
 | 3 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 |
 | 4 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 |

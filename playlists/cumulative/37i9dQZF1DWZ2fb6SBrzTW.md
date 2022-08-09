@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-131 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
+132 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,8 +83,9 @@
 | [Like This](https://open.spotify.com/track/6H0qr0Q2hAPagJlUfzrCS8) | [SaveMilli](https://open.spotify.com/artist/2vAdhfI46PzYuG5vhKDxme) | [Like This / Studio](https://open.spotify.com/album/15HGSxOJNA3bErndfHtzUJ) | 2:57 | 2022-01-27 | 2022-07-24 |
 | [Little \(Love I Love\)](https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:31 | 2022-06-23 |  |
 | [Lose Guard](https://open.spotify.com/track/5rcKUjXT6wD6jlr4pEELSe) | [Tobby Drillz](https://open.spotify.com/artist/0FU0EmYetJ5Ra6InKkHu7J) | [Lose Guard](https://open.spotify.com/album/2SyBiiwQtd9trJt6IlyRAM) | 2:57 | 2022-02-17 | 2022-07-28 |
+| [Machala](https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I) | 2:34 | 2022-08-08 |  |
 | [Magic](https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5) | [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Magic \(with Amartey\)](https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C) | 3:26 | 2021-12-09 | 2022-08-07 |
-| [Man Of The Year](https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Man Of The Year](https://open.spotify.com/album/0wx7vhMKi20ejhghIHYkHA) | 2:15 | 2022-03-11 |  |
+| [Man Of The Year](https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Man Of The Year](https://open.spotify.com/album/0wx7vhMKi20ejhghIHYkHA) | 2:15 | 2022-03-11 | 2022-08-09 |
 | [Meliza \- Remix](https://open.spotify.com/track/59V2RCdZkPhiHTjxhiojjx) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Meliza \(Remix\)](https://open.spotify.com/album/10XuUdyqYKBGeum6omV8J5) | 3:15 | 2022-05-12 |  |
 | [Mercy](https://open.spotify.com/track/6cbXdjQNKiBCax7RJ6drQ8) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Mercy](https://open.spotify.com/album/7sYq23Sw8YNg1mupHgkwK8) | 2:20 | 2021-08-13 | 2022-07-29 |
 | [Monica](https://open.spotify.com/track/1enk1SGVDSYragvMwcn7s8) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Monica](https://open.spotify.com/album/2fs30svWWoqUOC4Xzl5lYU) | 3:39 | 2022-05-05 |  |

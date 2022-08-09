@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 
 > Have a nice relaxed dinner with some chill indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,223 likes - 78 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,236 likes - 78 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 7 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 8 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
 | 9 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
-| 10 | [Dead Sea](https://open.spotify.com/track/1DDNfRbtLn2dxm4onBxhOV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:07 |
-| 11 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
+| 10 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
+| 11 | [Dead Sea](https://open.spotify.com/track/1DDNfRbtLn2dxm4onBxhOV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:07 |
 | 12 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
 | 13 | [1957](https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Milo Greene](https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w) | 3:24 |
 | 14 | [Orange Sky](https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 6:19 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 20 | [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 |
 | 21 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
 | 22 | [Fare Thee Well \(Dink's Song\)](https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz) | [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Inside Llewyn Davis: Original Soundtrack Recording](https://open.spotify.com/album/1HlwBBTjItwW2VN4OG1rin) | 3:00 |
-| 23 | [Live And Die](https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD) | 4:31 |
-| 24 | [Southern Sun](https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN) | 4:41 |
+| 23 | [Southern Sun](https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN) | 4:41 |
+| 24 | [Live And Die](https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD) | 4:31 |
 | 25 | [Detectorists \(Original Soundtrack from the TV Series\)](https://open.spotify.com/track/0jp1YFgWn67BtAVDZRaSqM) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [Detectorists \(Original Soundtrack from the TV Series\)](https://open.spotify.com/album/7ARZyHk8iMle3e3iYHtMkx) | 2:05 |
 | 26 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/05qTeP4xG8KXoRhN2HdKjS) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/7MjceL6iPFM86qxxeWCVEz) | 4:37 |
 | 27 | [Morning](https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 5:19 |
@@ -79,12 +79,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 69 | [Carried Away](https://open.spotify.com/track/6HHQc73TnikIFQOg2aHNCu) | [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [All Birds Say](https://open.spotify.com/album/7DpBHGSsMMr3B6m6KDLv4h) | 4:03 |
 | 70 | [Tears of Joy](https://open.spotify.com/track/5GMoEWEtU2uNZlx8nKMqRG) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Complete Surrender](https://open.spotify.com/album/3KCUdkkeANyKXs40lQcmme) | 4:05 |
 | 71 | [Can't You Tell](https://open.spotify.com/track/4sVbamrZfLGgGAOAKU2vOp) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [The Errant Charm](https://open.spotify.com/album/7jpy5hPOInGwYYs0ZgrmPr) | 4:27 |
-| 72 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/5aO3PDi7cfVyqSbXSrSxfx) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Don't Tell Our Friends About Me](https://open.spotify.com/album/5fIJInVxtBZVXsPHitxqs6) | 5:19 |
-| 73 | [Take The Night Off](https://open.spotify.com/track/4TDqzUw8frlMqGYxfqcCkx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 4:11 |
+| 72 | [Take The Night Off](https://open.spotify.com/track/4TDqzUw8frlMqGYxfqcCkx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 4:11 |
+| 73 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/5aO3PDi7cfVyqSbXSrSxfx) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Don't Tell Our Friends About Me](https://open.spotify.com/album/5fIJInVxtBZVXsPHitxqs6) | 5:19 |
 | 74 | [Leaf Off / The Cave](https://open.spotify.com/track/4GrOV18KKdZnc3jcfvMDgk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Leaf Off / The Cave](https://open.spotify.com/album/6iphI9W2vc54TVx3KD10sJ) | 4:53 |
 | 75 | [Woman Like Me](https://open.spotify.com/track/3YLjiKf34DECifehm1yauN) | [Paleo](https://open.spotify.com/artist/2GDAl6I7NyYDH4QmjPbFkN) | [Death & Taxes: Selected Songs From The Song Diary](https://open.spotify.com/album/1uIqK4VwhSHzHGYX7Gu3aW) | 3:32 |
 | 76 | [Try](https://open.spotify.com/track/4H8RGVaLYBL7uM0KTS50WK) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Try](https://open.spotify.com/album/5Cg8URL2SgwGWD9w0jgd79) | 3:37 |
 | 77 | [Dinosaur Sex](https://open.spotify.com/track/5R9BaUKPIPBBadJSbB5knl) | [Emmy The Great](https://open.spotify.com/artist/3BniKY9Gw01zy21IDlVhaM) | [Virtue \(Bonus Edition\)](https://open.spotify.com/album/1XdpKifugaz7auUgwwQGiL) | 5:37 |
 | 78 | [My Baby Don't Understand Me](https://open.spotify.com/track/1mwwueuXt5NPPtnJyswwA9) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Natalie Prass](https://open.spotify.com/album/21zH1ohnZ6T0g95ZnUTwBM) | 5:12 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDBlZjZiOTk1MDlhOTI0OWNjYjMzODg2YTQ4Mzk1ZjA0`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGRlYTNiMmUxZjc4Yjc0ZmUyZGE0Y2I3NTYwMjBiZWQ0`

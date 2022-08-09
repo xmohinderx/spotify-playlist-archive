@@ -1,12 +1,12 @@
 {
   "description": "Chill out with these awesome alt songs.",
-  "num_followers": 413995,
+  "num_followers": 414021,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTY4NjM1MCwwMDAwMDAwMDhmN2MyNzViNjM4YTEyMzE2ZjBmZGE3OTkzMTlhNjJm",
+  "snapshot_id": "MTY0OTY4NjM1MCwwMDAwMDAwMDg4MWMwZWY3ZmY2OWIyYjIyMjk1NjVmOGI1YjU4ZWYy",
   "tracks": [
     {
       "added_at": "2022-04-11 14:12:30",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
+        "name": "Wiped Out!",
+        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Daddy Issues",
+      "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+    },
+    {
+      "added_at": "2022-04-11 14:12:30",
+      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 240013,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
-    },
-    {
-      "added_at": "2022-04-11 14:12:30",
-      "album": {
-        "name": "You're Somebody Else",
-        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 218883,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "Wiped Out!",
-        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
+        "name": "You're Somebody Else",
+        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
         }
       ],
-      "duration_ms": 260173,
-      "name": "Daddy Issues",
-      "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+      "duration_ms": 218883,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
+        "name": "Wiped Out!",
+        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/2u0CelO5c81XS7z3dGpHbS"
+    },
+    {
+      "added_at": "2022-04-11 14:12:30",
+      "album": {
         "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
         "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
-    },
-    {
-      "added_at": "2022-04-11 14:12:30",
-      "album": {
-        "name": "Wiped Out!",
-        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/2u0CelO5c81XS7z3dGpHbS"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "A Celebration Of Endings",
-        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 235946,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
-    },
-    {
-      "added_at": "2022-04-11 14:12:30",
-      "album": {
         "name": "Stateless",
         "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 313800,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
+    },
+    {
+      "added_at": "2022-04-11 14:12:30",
+      "album": {
+        "name": "A Celebration Of Endings",
+        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 235946,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2022-04-11 14:12:30",
-      "album": {
         "name": "The Days We Had",
         "url": "https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 245386,
       "name": "Something Here",
       "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
+    },
+    {
+      "added_at": "2022-04-11 14:12:30",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "twelvefour",
-        "url": "https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Electric Indigo",
-      "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
-    },
-    {
-      "added_at": "2022-04-11 14:12:30",
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/0Y33Ki8fZCKljrmweGgISm"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 192992,
       "name": "King",
       "url": "https://open.spotify.com/track/4M6HNRHyV2MykKp7gKQcyD"
+    },
+    {
+      "added_at": "2022-04-11 14:12:30",
+      "album": {
+        "name": "twelvefour",
+        "url": "https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Electric Indigo",
+      "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "West Coast",
-        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 251872,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
-    },
-    {
-      "added_at": "2022-04-11 14:12:30",
-      "album": {
         "name": "Cinema Love",
         "url": "https://open.spotify.com/album/4sfoMGrDHeeO3BhAP2lM1t"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 218760,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
+    },
+    {
+      "added_at": "2022-04-11 14:12:30",
+      "album": {
+        "name": "West Coast",
+        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 251872,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "Young Blood EP",
-        "url": "https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi"
-      },
-      "artists": [
-        {
-          "name": "Saint Raymond",
-          "url": "https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8"
-        }
-      ],
-      "duration_ms": 157546,
-      "name": "As We Are Now",
-      "url": "https://open.spotify.com/track/0auccbirOSgf38celsAEJA"
-    },
-    {
-      "added_at": "2022-04-11 14:12:30",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
+        "name": "Young Blood EP",
+        "url": "https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi"
       },
       "artists": [
         {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+          "name": "Saint Raymond",
+          "url": "https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8"
         }
       ],
-      "duration_ms": 228735,
-      "name": "I See You",
-      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
+      "duration_ms": 157546,
+      "name": "As We Are Now",
+      "url": "https://open.spotify.com/track/0auccbirOSgf38celsAEJA"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -1591,22 +1575,6 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "Sunlit Youth",
-        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Past Lives",
-      "url": "https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5"
-    },
-    {
-      "added_at": "2022-04-11 14:12:30",
-      "album": {
         "name": "Nearer My God",
         "url": "https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8"
       },
@@ -1623,18 +1591,34 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "Waking Up The Giants",
-        "url": "https://open.spotify.com/album/6R6Xy2gwyTO6GS1Cs4K1cI"
+        "name": "Sunlit Youth",
+        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
       "artists": [
         {
-          "name": "Grizfolk",
-          "url": "https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
         }
       ],
-      "duration_ms": 199360,
-      "name": "Vagabonds",
-      "url": "https://open.spotify.com/track/1kdSGyQyX0mxq75KSgcjic"
+      "duration_ms": 223493,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5"
+    },
+    {
+      "added_at": "2022-04-11 14:12:30",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 228735,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -1651,6 +1635,22 @@
       "duration_ms": 253880,
       "name": "Lose the Feeling",
       "url": "https://open.spotify.com/track/4Wj8YAiPnuleXJkJ1aEzLN"
+    },
+    {
+      "added_at": "2022-04-11 14:12:30",
+      "album": {
+        "name": "Waking Up The Giants",
+        "url": "https://open.spotify.com/album/6R6Xy2gwyTO6GS1Cs4K1cI"
+      },
+      "artists": [
+        {
+          "name": "Grizfolk",
+          "url": "https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh"
+        }
+      ],
+      "duration_ms": 199360,
+      "name": "Vagabonds",
+      "url": "https://open.spotify.com/track/1kdSGyQyX0mxq75KSgcjic"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "Bottom Of The Deep Blue Sea",
-        "url": "https://open.spotify.com/album/58CDsLKHOAKFTkAwFefW6d"
+        "name": "Youth is Only Ever Fun in Retrospect",
+        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
       },
       "artists": [
         {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
         }
       ],
-      "duration_ms": 231593,
-      "name": "Bottom Of The Deep Blue Sea",
-      "url": "https://open.spotify.com/track/4hg8D0wW7CXEUsc0fl9vnN"
+      "duration_ms": 362693,
+      "name": "Happy Family",
+      "url": "https://open.spotify.com/track/41JKvaaTrlNggstXrYagZ4"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
+        "name": "Bottom Of The Deep Blue Sea",
+        "url": "https://open.spotify.com/album/58CDsLKHOAKFTkAwFefW6d"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "Bottom Of The Deep Blue Sea",
+      "url": "https://open.spotify.com/track/4hg8D0wW7CXEUsc0fl9vnN"
+    },
+    {
+      "added_at": "2022-04-11 14:12:30",
+      "album": {
         "name": "Painting of a Panic Attack (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 201146,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
-    },
-    {
-      "added_at": "2022-04-11 14:12:30",
-      "album": {
-        "name": "Youth is Only Ever Fun in Retrospect",
-        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 362693,
-      "name": "Happy Family",
-      "url": "https://open.spotify.com/track/41JKvaaTrlNggstXrYagZ4"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "curse",
-        "url": "https://open.spotify.com/album/6SVaiKpRO5hGm4jsTc97yD"
-      },
-      "artists": [
-        {
-          "name": "Koda",
-          "url": "https://open.spotify.com/artist/3WhvgoOwfFRjuHf7zgCptu"
-        }
-      ],
-      "duration_ms": 250442,
-      "name": "curse",
-      "url": "https://open.spotify.com/track/5eaxSM7DuDkyphGZpoejU7"
-    },
-    {
-      "added_at": "2022-04-11 14:12:30",
-      "album": {
         "name": "Xenos",
         "url": "https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 196040,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV"
+    },
+    {
+      "added_at": "2022-04-11 14:12:30",
+      "album": {
+        "name": "curse",
+        "url": "https://open.spotify.com/album/6SVaiKpRO5hGm4jsTc97yD"
+      },
+      "artists": [
+        {
+          "name": "Koda",
+          "url": "https://open.spotify.com/artist/3WhvgoOwfFRjuHf7zgCptu"
+        }
+      ],
+      "duration_ms": 250442,
+      "name": "curse",
+      "url": "https://open.spotify.com/track/5eaxSM7DuDkyphGZpoejU7"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "The Youth",
-        "url": "https://open.spotify.com/album/0wV6CrEjOUWw8XOUNyjOaM"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq"
       },
       "artists": [
         {
-          "name": "George Taylor",
-          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
         }
       ],
-      "duration_ms": 210943,
-      "name": "The Youth",
-      "url": "https://open.spotify.com/track/34VxehtpB6VaZ7s0rHOOXb"
+      "duration_ms": 261760,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/6SgHlKcfkRQ6XohmDR1ugQ"
     },
     {
       "added_at": "2022-04-11 14:12:30",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2022-04-11 14:12:30",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq"
+        "name": "The Youth",
+        "url": "https://open.spotify.com/album/0wV6CrEjOUWw8XOUNyjOaM"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
         }
       ],
-      "duration_ms": 261760,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/6SgHlKcfkRQ6XohmDR1ugQ"
+      "duration_ms": 210943,
+      "name": "The Youth",
+      "url": "https://open.spotify.com/track/34VxehtpB6VaZ7s0rHOOXb"
     },
     {
       "added_at": "2022-04-11 14:12:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,389 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,519 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 21 | [Zurukunai?](https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Zurukunai?](https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA) | 3:28 |
 | 22 | [踊らせないで](https://open.spotify.com/track/7vK2DtxftUf2iQgVF0Qnzg) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE/LIKE/HATE](https://open.spotify.com/album/6S8ZfCFqAdu3qHdCldwM3M) | 3:47 |
 | 23 | [Sunshine Bay](https://open.spotify.com/track/4xVzY84aS6Yw4DMSHXRDl3) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Frequency in blue](https://open.spotify.com/album/2OGC6VdVST13zmjdek6Rkz) | 3:16 |
-| 24 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 |
-| 25 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 |
-| 26 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:43 |
+| 24 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:43 |
+| 25 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 |
+| 26 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 |
 | 27 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
 | 28 | [SURPRISE OF SUMMER](https://open.spotify.com/track/3uYCbGo0mc5p7volIb5k2N) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [COOOL](https://open.spotify.com/album/2X9EFWmSWAYLjKm9y6llqL) | 4:13 |
 | 29 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 57 | [ブルージー](https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grow apart](https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n) | 3:12 |
 | 58 | [Sentimental \- Neon Mix](https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7) | [Sentimental \(Neon Mix\)](https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr) | 3:23 |
 | 59 | [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 |
-| 60 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 |
+| 60 | [YOU+ME=](https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [TICKETS](https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z) | 2:51 |
 
-Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMDhkZGM3ZjYxNmNhMTRkNTI1MTM4YmVkMjYxNmE0NTEx`
+Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMGM0ZjIwYzIwZjQ4ODY4OGU2OWI3M2Y1OWYxY2M3YzBl`

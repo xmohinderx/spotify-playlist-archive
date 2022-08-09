@@ -1,13 +1,33 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42785,
+  "num_followers": 42799,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MjkwNywzZDUxN2E4Y2Y0OTZhMWMxYWEzYmQyNDY2ZmU3NTY3YzQwNmFhZTI0",
+  "snapshot_id": "MjkxMCw0Mzg4N2Y3NjgzMWJlMmJkMjhkYTNlMWVlNzdjNWE3NjE5MzQ4YzFh",
   "tracks": [
+    {
+      "added_at": "2022-08-08 08:25:07",
+      "album": {
+        "name": "Child",
+        "url": "https://open.spotify.com/album/2iE6czcXDdtPsIjtzJGmJj"
+      },
+      "artists": [
+        {
+          "name": "SENTO",
+          "url": "https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG"
+        },
+        {
+          "name": "Pilar Vega",
+          "url": "https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx"
+        }
+      ],
+      "duration_ms": 168191,
+      "name": "Child",
+      "url": "https://open.spotify.com/track/2xVL9TdrABknAXZIgtwdk5"
+    },
     {
       "added_at": "2022-08-05 08:27:12",
       "album": {
@@ -419,22 +439,6 @@
       "duration_ms": 160776,
       "name": "Recharge",
       "url": "https://open.spotify.com/track/0jweI4ue2Q3FAcBEiz2Bf0"
-    },
-    {
-      "added_at": "2022-06-03 08:25:07",
-      "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/2H8ekiVK6IrpL7MLl1MgJZ"
-      },
-      "artists": [
-        {
-          "name": "IMBER",
-          "url": "https://open.spotify.com/artist/1kHcfP94TXtWlQ6x7yzBYN"
-        }
-      ],
-      "duration_ms": 231730,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/5XWMFME89AcvPyGdPiICsM"
     },
     {
       "added_at": "2021-11-05 15:47:43",

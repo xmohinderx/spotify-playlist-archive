@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,639 likes - 52 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,770 likes - 52 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

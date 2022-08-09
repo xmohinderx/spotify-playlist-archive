@@ -4,7 +4,7 @@
 
 > Rise with a relaxing blend of folk and acoustic.
 
-181 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/5OnqyGQ45pjHIR1UdjdRu4)
+182 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/5OnqyGQ45pjHIR1UdjdRu4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Barcelona](https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:08 | 2022-06-14 |  |
 | [Barcelona](https://open.spotify.com/track/58Qol5xzalwqF912GE9vQv) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/7L4ZwpSwKQCerDQv9C4O1M) | 3:08 | 2019-05-26\* | 2022-07-29 |
 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 | 2019-06-19\* | 2021-05-10 |
-| [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 | 2021-05-10 |  |
+| [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 | 2021-05-10 | 2022-08-09 |
 | [Black Leaf](https://open.spotify.com/track/06jJfYw2P2psjtX6Psf8eS) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/30TiWcFsV6As1N6d6L8wJ0) | 2:59 | 2019-05-26\* | 2021-10-13 |
 | [Body](https://open.spotify.com/track/5zpO1gVyTFv4MeNCEKOEZt) | [Amy May Ellis](https://open.spotify.com/artist/5pOd5z4DlRc6Mw2nnBsad9) | [Where My Garden Lies](https://open.spotify.com/album/3VJREb6yVdwl3BvIoKD526) | 3:05 | 2020-05-12 | 2022-07-29 |
 | [Boys](https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 3:55 | 2019-06-19\* |  |
@@ -130,6 +130,7 @@
 | [Ophelia](https://open.spotify.com/track/3qhobDAfBcVoOWZP8Ck8R2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Ophelia](https://open.spotify.com/album/6lyCWslIfNEmAWe6ps2KNh) | 2:40 | 2019-05-26\* | 2021-04-14 |
 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 | 2022-06-14 | 2022-06-30 |
 | [Orange Tree](https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Orange Tree](https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc) | 3:12 | 2020-10-27 | 2022-07-29 |
+| [Ordinary](https://open.spotify.com/track/09oN29QLxsnpcR7NynThZD) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Ordinary](https://open.spotify.com/album/7woZghnU0pwffWLVWcghwr) | 2:52 | 2022-06-14 |  |
 | [Our Remains](https://open.spotify.com/track/6pBxnT5MpmA4apvkJkKVii) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Our Remains](https://open.spotify.com/album/54LIHpnnLXTEc3C5ueVD3A) | 4:04 | 2019-06-19\* | 2020-05-12 |
 | [Our Remains \- Acoustic](https://open.spotify.com/track/2ojNyfX7ioBiExsxKlDC7M) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [All Remains](https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw) | 3:47 | 2022-06-14 |  |
 | [Our Remains \- Acoustic](https://open.spotify.com/track/3r4KCd4tNnLHvDwZKGsl82) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [All Remains](https://open.spotify.com/album/0mtPmQa6OjJ7BXOJYIX8cD) | 3:47 | 2020-05-12 | 2022-07-29 |

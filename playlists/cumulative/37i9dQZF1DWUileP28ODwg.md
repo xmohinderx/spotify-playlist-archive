@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Steven Curtis Chapman
 
-201 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
+202 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [The Love Of Jesus](https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [The Love Of Jesus](https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c) | 3:04 | 2022-02-25 |  |
 | [Then Christ Came](https://open.spotify.com/track/3NRIwbb9GycU284G6MCZkM) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Then Christ Came](https://open.spotify.com/album/5lcngetkRmDaJCRCufVzYF) | 3:43 | 2022-07-08 |  |
 | [Then Christ Came](https://open.spotify.com/track/4XRoPS75FwMAI5zajoLerC) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Then Christ Came](https://open.spotify.com/album/7wLT25KAkHaDjZAxALxUl4) | 3:43 | 2022-06-10 | 2022-07-29 |
-| [There Is Freedom](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 | 2022-04-22 |  |
+| [There Is Freedom](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 | 2022-04-22 | 2022-08-09 |
+| [There Is Freedom](https://open.spotify.com/track/5v9XGYeVeVbuGnYJEaesoh) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/5XarmAjYxAdXTOQObOztgO) | 3:58 | 2022-07-08 |  |
 | [Things That I'm Afraid Of](https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Things That I'm Afraid Of](https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop) | 2:46 | 2022-03-05 |  |
 | [Today](https://open.spotify.com/track/36zPLlwvrQjDm2oDG7KbmJ) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Today](https://open.spotify.com/album/5OcFeJQu3euDRmtOd2P19D) | 4:05 | 2022-02-25 | 2022-05-14 |
 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 | 2022-02-25 |  |

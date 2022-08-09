@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 387088,
+  "num_followers": 387160,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDAzYmNiZjNhZjEzM2RjMGU5ZDJkNjAzMWQ5ZmExZDYx",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDQ2N2EwZmIzODk3MjY3NmZhNmIxMzFiOGE2ZmMwOTNh",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -251,6 +251,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "We Could Be Together (feat. Daddy DJ)",
         "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
       },
@@ -299,30 +319,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 174215,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
       },
@@ -339,26 +335,6 @@
       "duration_ms": 165800,
       "name": "Kernkraft 400 (A Better Day)",
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -427,38 +403,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Do It Better (feat. Zoe Wees)",
-        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 170045,
-      "name": "Do It Better (feat. Zoe Wees)",
-      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
-      },
-      "artists": [
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+      "duration_ms": 174215,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -483,22 +447,38 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "I Wish (feat. Mabel)",
-        "url": "https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH"
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 181728,
-      "name": "I Wish (feat. Mabel)",
-      "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Do It Better (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 170045,
+      "name": "Do It Better (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -531,6 +511,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "I Wish (feat. Mabel)",
+        "url": "https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 181728,
+      "name": "I Wish (feat. Mabel)",
+      "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "In Your Arms (For An Angel)",
         "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
@@ -559,26 +559,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Everything But You (feat. A7S)",
-        "url": "https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 198014,
-      "name": "Everything But You (feat. A7S)",
-      "url": "https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Worlds On Fire (with R3HAB & Au/Ra)",
         "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 174193,
       "name": "Worlds On Fire (with R3HAB & Au/Ra)",
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Everything But You (feat. A7S)",
+        "url": "https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 198014,
+      "name": "Everything But You (feat. A7S)",
+      "url": "https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "Isaak Guderian",
+          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
+        }
+      ],
+      "duration_ms": 143906,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) [Shift K3Y Edit]",
         "url": "https://open.spotify.com/album/7kXVQckinbjXfcGAIedRXi"
       },
@@ -841,24 +861,24 @@
       "url": "https://open.spotify.com/track/1gb9DUaeZtyZ8w2cwANM5m"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Baby Steps",
-        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
+        "name": "HISTORY",
+        "url": "https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78"
       },
       "artists": [
         {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Isaak Guderian",
-          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 143906,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
+      "duration_ms": 176609,
+      "name": "HISTORY",
+      "url": "https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -887,42 +907,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Just In Case",
-        "url": "https://open.spotify.com/album/4xiUAuEg25QIRiPrS2A0Bi"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 163832,
-      "name": "Just In Case",
-      "url": "https://open.spotify.com/track/2AAMkITmFcCL9MtTKFui2k"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Rather Be Alone",
         "url": "https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 137419,
       "name": "Rather Be Alone",
       "url": "https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Just In Case",
+        "url": "https://open.spotify.com/album/4xiUAuEg25QIRiPrS2A0Bi"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 163832,
+      "name": "Just In Case",
+      "url": "https://open.spotify.com/track/2AAMkITmFcCL9MtTKFui2k"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -955,6 +955,26 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 148095,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1027,6 +1047,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Heavy Metal Love",
+        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Heavy Metal Love",
+      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "ESTILAZO",
         "url": "https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t"
       },
@@ -1043,42 +1079,6 @@
       "duration_ms": 158826,
       "name": "ESTILAZO",
       "url": "https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Heavy Metal Love",
-        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Heavy Metal Love",
-      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "HISTORY",
-        "url": "https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 176609,
-      "name": "HISTORY",
-      "url": "https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 203288,
       "name": "LOW",
       "url": "https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/6RybNqYFHu5cxoOsGlo4yj"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1mlk3vLtVptfxRcnx3avyH"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 166465,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/6RybNqYFHu5cxoOsGlo4yj"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        }
-      ],
-      "duration_ms": 221904,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/1mlk3vLtVptfxRcnx3avyH"
     },
     {
       "added_at": "2022-07-29 04:01:00",

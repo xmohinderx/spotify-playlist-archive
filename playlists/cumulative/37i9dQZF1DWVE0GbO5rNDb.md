@@ -4,7 +4,7 @@
 
 > Musica dance per le tue giornate di sole!
 
-205 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
+206 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Tangerine Skies](https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Tangerine Skies](https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5) | 3:12 | 2022-07-22 |  |
 | [The Best](https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [The Best](https://open.spotify.com/album/2EbGQOhrYnc6oAOIKh4mUl) | 2:38 | 2022-05-06 |  |
 | [The Chant \- Majestic Remix](https://open.spotify.com/track/53uh4ooi1x2Tcp2AdDZ7nq) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [The Chant \(Majestic Remix\)](https://open.spotify.com/album/5E6OoPcenl0AqK57hHtJqL) | 2:35 | 2022-07-22 | 2022-07-29 |
+| [The Fall](https://open.spotify.com/track/5T5q3aHSVzT1UUc5cRCQni) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:16 | 2022-07-29 |  |
 | [The Fall](https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ The Fall\)](https://open.spotify.com/album/2IRmdXQtVBxUdicuQfSaSB) | 3:16 | 2022-06-27 | 2022-08-03 |
 | [The Feeling](https://open.spotify.com/track/1Cx3Lpnto8xJ5dsfU3DPus) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [The Feeling](https://open.spotify.com/album/7HQicNqN0vt4eVPcIcem2c) | 2:56 | 2022-05-06 | 2022-05-18 |
 | [The One That Got Away](https://open.spotify.com/track/0GnPdea2JxqU0LUtMyjoqa) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt), [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [The One That Got Away](https://open.spotify.com/album/1elHd0i7c7smBDYaGugWFP) | 2:46 | 2022-05-06 | 2022-07-29 |
@@ -198,7 +199,7 @@
 | [Where You Are \(feat\. Noa Angell\)](https://open.spotify.com/track/4aMD1sMf8TjSCBOuGwrPDz) | [Kleak & Veebu](https://open.spotify.com/artist/3GT47qKD0FuugTZtE9pdVe), [Noa Angell](https://open.spotify.com/artist/50WeqTlp8tT6OnQCbZW0q8) | [Where You Are \(feat\. Noa Angell\)](https://open.spotify.com/album/5ksm9DnHegz5EqpvNzljyd) | 2:36 | 2022-06-03 | 2022-06-11 |
 | [White Lies & Palm Trees \- Pool House Remix](https://open.spotify.com/track/2dJYBq7Q6MfF12zQn4YYJY) | [The Lovepools](https://open.spotify.com/artist/7koobAv1EfvoYqKn5QgQmT) | [White Lies & Palm Trees \(Pool House Remix\)](https://open.spotify.com/album/6NJRdrCWa3fpeb6Obccl4b) | 3:32 | 2022-05-17 | 2022-07-27 |
 | [Who I Am](https://open.spotify.com/track/5Ssl0uqpH7iTH16LVJYmvm) | [Richill](https://open.spotify.com/artist/3LPmZauf3fUMOzH9bfrr7r) | [Who I Am](https://open.spotify.com/album/13sCjIOZz5J9tcJjB2Abqs) | 2:33 | 2022-05-17 | 2022-07-29 |
-| [Why Do I Call](https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Why Do I Call](https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN) | 2:38 | 2022-05-06 |  |
+| [Why Do I Call](https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Why Do I Call](https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN) | 2:38 | 2022-05-06 | 2022-08-09 |
 | [Wild Ones \- Nightcall Remix](https://open.spotify.com/track/5rUTxVxfvEA4wdEecWm7el) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn) | [Wild Ones \(Nightcall Remix\)](https://open.spotify.com/album/1OczM3udGYiO41hJtwFIwB) | 2:57 | 2022-05-06 | 2022-06-21 |
 | [Wired \(with Ella Eyre\)](https://open.spotify.com/track/7k3uKOLzMCvYM00E3QZTSq) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Wired \(with Ella Eyre\)](https://open.spotify.com/album/0M1hM6jkl3oUJL8MjOo1oF) | 3:22 | 2022-05-06 | 2022-07-30 |
 | [Wish You Were Here \(feat\. John K\)](https://open.spotify.com/track/0B5Ono47jEQSIPy8kuVCzp) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Wish You Were Here \(feat\. John K\)](https://open.spotify.com/album/08BEmSpq994E3Bb7ikt8Bn) | 3:07 | 2022-06-17 | 2022-07-28 |

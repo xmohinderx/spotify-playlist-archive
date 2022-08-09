@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-159 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/6dA0HeDmTyKtqD8bj9rk8f)
+160 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/6dA0HeDmTyKtqD8bj9rk8f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Mamá](https://open.spotify.com/track/0rvRelbKllejypy8PGSAHR) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [Mamá](https://open.spotify.com/album/7BwXwHltlavtSymrUeug1V) | 3:50 | 2021-10-16 | 2022-07-29 |
 | [Marchita](https://open.spotify.com/track/1iiP2uv1Tv4Hvmv3YBC7hC) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/14je5NcarSm7MftsvUmJQc) | 3:46 | 2021-10-16 | 2022-07-28 |
 | [Maria Elena](https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Maria Elena](https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM) | 3:07 | 2021-10-16 |  |
+| [Marineros](https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Marineros](https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0) | 2:08 | 2022-08-08 |  |
 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2021-10-16 |  |
 | [Maz Paz](https://open.spotify.com/track/6Js2gWnnIDA9lrn7l1mIxg) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 | 2021-10-16 |  |
 | [Mentiras Con Cariño](https://open.spotify.com/track/6fG0RBjFWG2ptGMWKmL7rK) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Mentiras Con Cariño](https://open.spotify.com/album/1hSA9BiaGVr9aqNoQ0jWQB) | 3:48 | 2022-03-30 | 2022-07-28 |
@@ -123,7 +124,7 @@
 | [No Necesito Más](https://open.spotify.com/track/57cgMgigMPJoLD1Mj6VLNu) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [No Necesito Más](https://open.spotify.com/album/2BKdKPVXTHoHb4pXVl4nN0) | 3:39 | 2021-10-16 | 2022-07-29 |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2021-10-16 |  |
 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 | 2021-10-16 |  |
-| [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 | 2021-10-16 |  |
+| [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 | 2021-10-16 | 2022-08-09 |
 | [Palmeras](https://open.spotify.com/track/5iR7o7agHc6Xfyoa15dxKa) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 2:20 | 2022-03-30 | 2022-07-27 |
 | [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 | 2021-10-16 |  |
 | [Que la Vida Vale](https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Que la Vida Vale](https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J) | 3:10 | 2022-03-30 |  |

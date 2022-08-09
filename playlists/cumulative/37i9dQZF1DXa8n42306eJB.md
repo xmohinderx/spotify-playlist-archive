@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-87 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+89 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,13 +82,15 @@
 | [Smokin' Love \(with Collie Buddz\)](https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 3:34 | 2021-08-24 |  |
 | [Something To Believe In](https://open.spotify.com/track/2s3tLDYxfvr7Uy9JWcbHNX) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Something To Believe In](https://open.spotify.com/album/67sulKuGrHcgUHLY2OIG8y) | 3:28 | 2021-08-24 | 2022-07-29 |
 | [Something To Believe In](https://open.spotify.com/track/7K7qeICBpEwhkdJUcy6pMh) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 3:29 | 2022-06-09 |  |
-| [Souljah Feeling](https://open.spotify.com/track/1HnHBG9OMuv41CGtIucVh8) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/6xM5fnDCzx1E8jGHMf2mQI) | 3:24 | 2022-06-09 |  |
+| [Souljah Feeling](https://open.spotify.com/track/1HnHBG9OMuv41CGtIucVh8) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/6xM5fnDCzx1E8jGHMf2mQI) | 3:24 | 2022-06-09 | 2022-08-09 |
+| [Souljah Feeling](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 | 2022-08-07 |  |
 | [Souljah Feeling](https://open.spotify.com/track/4dja4sisHZNee32Co0udGl) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/27wSk2zFJ5MKA2ow1hvrLG) | 3:24 | 2021-08-24 | 2022-07-29 |
 | [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 | 2021-08-24 |  |
 | [Sunshine Girl](https://open.spotify.com/track/4RjHalDdUreXDJSJLo44lK) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Peetah Morgan](https://open.spotify.com/artist/6TP4fQvAG9uXcPgHEpPriw) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:37 | 2021-08-24 |  |
 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 | 2021-08-24 |  |
 | [Take It Away](https://open.spotify.com/track/28LwcC8Qjw6fzjTpUDEgXF) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/27wSk2zFJ5MKA2ow1hvrLG) | 3:34 | 2021-08-24 | 2022-07-29 |
-| [Take It Away](https://open.spotify.com/track/3hB5r7k7NmmCOQAWmorLYD) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/6xM5fnDCzx1E8jGHMf2mQI) | 3:34 | 2022-06-09 |  |
+| [Take It Away](https://open.spotify.com/track/3hB5r7k7NmmCOQAWmorLYD) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/6xM5fnDCzx1E8jGHMf2mQI) | 3:34 | 2022-06-09 | 2022-08-09 |
+| [Take It Away](https://open.spotify.com/track/5BghMRrK03bJDO3oUB96J9) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:34 | 2022-08-07 |  |
 | [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 | 2021-08-24 |  |
 | [The Road](https://open.spotify.com/track/6VvCnZsQtRWf32g5kLgtqt) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [The Road](https://open.spotify.com/album/701laqNcQfUCDvGB9ayy30) | 3:35 | 2021-08-24 |  |
 | [There I Go](https://open.spotify.com/track/3CuCZo5XcwYTmoGio7GvD1) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2020](https://open.spotify.com/album/6x5l8Cjzh0GaKQLVsLBOk7) | 3:22 | 2021-08-24 |  |

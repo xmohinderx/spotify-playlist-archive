@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-229 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
+230 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Clap For Them](https://open.spotify.com/track/4vJRj3g7OyxytClCk0FzAb) | [Galaxy Fingers](https://open.spotify.com/artist/6uyULpB0HuQu9Mb6mhzGEx) | [Clap For Them](https://open.spotify.com/album/7BZaLbZxBSCdZM80GSGvgl) | 3:21 | 2021-07-16 | 2022-07-29 |
 | [Clocks](https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT) | [Praia Grande](https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v) | [Covers](https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E) | 3:45 | 2021-07-16 |  |
 | [Colourblind](https://open.spotify.com/track/1lzvsof3WhWbUvGNkUcEAg) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:54 | 2021-07-16 | 2022-07-27 |
+| [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2021-07-16 |  |
 | [Complicated](https://open.spotify.com/track/7j6xAadMrhFIuZ7epyU5YT) | [M w S](https://open.spotify.com/artist/6YvmHs9jWcXOHZ6SDtDeS8) | [Complicated](https://open.spotify.com/album/5TNdGmCbItkOtiuWzhXIbc) | 3:30 | 2021-07-16 | 2022-07-29 |
 | [Concéntrica Canción](https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Concéntrica Canción](https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS) | 2:42 | 2021-07-16 |  |
 | [Confession](https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Confession](https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x) | 4:09 | 2021-07-16 | 2022-07-29 |
@@ -234,7 +235,7 @@
 | [You Get What You Give](https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [You Get What You Give](https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd) | 2:53 | 2021-07-16 |  |
 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 | 2021-07-16 |  |
 | [You Needed Love, I Needed You](https://open.spotify.com/track/6VToNEp6XQ6EryHBozmDKH) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [You Needed Love, I Needed You](https://open.spotify.com/album/74WIUU4qEsYbGfk0nvTXiX) | 3:25 | 2021-07-16 | 2022-07-29 |
-| [You've Changed](https://open.spotify.com/track/173YFoJtllaXjALrFxr7LY) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [You've Changed](https://open.spotify.com/album/3nBG3PMsewqaez580cHdM6) | 2:39 | 2021-07-16 |  |
+| [You've Changed](https://open.spotify.com/track/173YFoJtllaXjALrFxr7LY) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [You've Changed](https://open.spotify.com/album/3nBG3PMsewqaez580cHdM6) | 2:39 | 2021-07-16 | 2022-08-09 |
 | [Young Boy \- Home Recording](https://open.spotify.com/track/3ypH2Qjy1KpRUv8Yyw86Ie) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Young Boy EP](https://open.spotify.com/album/1dwkCa9oiQQMJXeBwCV6TS) | 2:22 | 2021-07-16 | 2022-07-29 |
 | [Youngblood](https://open.spotify.com/track/5qeoP4v5qF8QbNCSPBYVI5) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Youngblood](https://open.spotify.com/album/3XTWkAqao52wE5Z1zmB3yx) | 3:52 | 2021-07-16 |  |
 

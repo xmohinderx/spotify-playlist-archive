@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: JAWNY",
-  "num_followers": 1706220,
+  "num_followers": 1706275,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNDczMiwwMDAwMDAwMGRiZmVjODI3YTRiMjA3NWEwZWQ2NmIzZTU4NjMyMzA0",
+  "snapshot_id": "MTY1OTcxNDczMiwwMDAwMDAwMGI2NDBhZjE4ODhkY2MzNjNlMTkyYzExYWNkMWVkYzY3",
   "tracks": [
     {
       "added_at": "2022-08-05 15:46:26",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
-        "name": "Astronomy",
-        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 243907,
-      "name": "Astronomy",
-      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
-    },
-    {
-      "added_at": "2022-08-05 15:46:26",
-      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 208599,
       "name": "dancing in the kitchen",
       "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
+    },
+    {
+      "added_at": "2022-08-05 15:46:26",
+      "album": {
+        "name": "Astronomy",
+        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 243907,
+      "name": "Astronomy",
+      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
     },
     {
       "added_at": "2022-08-05 15:46:26",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 177511,
-      "name": "My Love - Edit",
-      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
-    },
-    {
-      "added_at": "2022-08-05 15:46:26",
-      "album": {
         "name": "Emily Can't Sing",
         "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
       },
@@ -619,22 +603,6 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 258319,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
-    },
-    {
-      "added_at": "2022-08-05 15:46:26",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk"
       },
@@ -647,6 +615,22 @@
       "duration_ms": 165254,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN"
+    },
+    {
+      "added_at": "2022-08-05 15:46:26",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 177511,
+      "name": "My Love - Edit",
+      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
     },
     {
       "added_at": "2022-08-05 15:46:26",
@@ -667,6 +651,22 @@
       "duration_ms": 251280,
       "name": "Line Without a Hook (feat. mxmtoon)",
       "url": "https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR"
+    },
+    {
+      "added_at": "2022-08-05 15:46:26",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 258319,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
     },
     {
       "added_at": "2022-08-05 15:46:26",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
+    },
+    {
+      "added_at": "2022-08-05 15:46:26",
+      "album": {
         "name": "One More Weekend",
         "url": "https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
-        "name": "Another Man's Jeans",
-        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 165067,
-      "name": "Another Man's Jeans",
-      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
+      "duration_ms": 176946,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
     },
     {
       "added_at": "2022-08-05 15:46:26",
@@ -831,22 +847,6 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 176946,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
-    },
-    {
-      "added_at": "2022-08-05 15:46:26",
-      "album": {
         "name": "What, Me Worry?",
         "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
-        "name": "sucks to see you doing better (extended)",
-        "url": "https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 164348,
-      "name": "hiccup",
-      "url": "https://open.spotify.com/track/1NfqGbaWcZLor12cITE5Fv"
-    },
-    {
-      "added_at": "2022-08-05 15:46:26",
-      "album": {
         "name": "I'm Not In Love",
         "url": "https://open.spotify.com/album/10VeT6WRqObxGPOirjcank"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 97293,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi"
+    },
+    {
+      "added_at": "2022-08-05 15:46:26",
+      "album": {
+        "name": "sucks to see you doing better (extended)",
+        "url": "https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 164348,
+      "name": "hiccup",
+      "url": "https://open.spotify.com/track/1NfqGbaWcZLor12cITE5Fv"
     },
     {
       "added_at": "2022-08-05 15:46:26",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 156342,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
+    },
+    {
+      "added_at": "2022-08-05 15:46:26",
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 146273,
       "name": "So Good",
       "url": "https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv"
-    },
-    {
-      "added_at": "2022-08-05 15:46:26",
-      "album": {
-        "name": "Anything But Me",
-        "url": "https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E"
     },
     {
       "added_at": "2022-08-05 15:46:26",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
+        "name": "Anything But Me",
+        "url": "https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX"
       },
       "artists": [
         {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 156342,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E"
     },
     {
       "added_at": "2022-08-05 15:46:26",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
-        "name": "Sometimes (From \"Fire Island\")",
-        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 183811,
-      "name": "Sometimes - From \"Fire Island\"",
-      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
-    },
-    {
-      "added_at": "2022-08-05 15:46:26",
-      "album": {
         "name": "stuck on us",
         "url": "https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 175311,
       "name": "stuck on us",
       "url": "https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5"
+    },
+    {
+      "added_at": "2022-08-05 15:46:26",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     }
   ],
   "unique_name": "Indie Pop",

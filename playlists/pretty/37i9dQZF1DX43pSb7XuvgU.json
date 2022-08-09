@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 69381,
+  "num_followers": 69515,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDg4NWJiNzlmYzVlNzJhZGVmZGExMWY4NjEyODhiOGIw",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMGY5OTk4YmQ2NDg5NTI0NTZkMzM3NDAwNjdjYWEyMzBi",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -335,6 +335,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 283760,
       "name": "El Destino (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/137as1w4u30ZTyLXn5HK69"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 312066,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Los D\u00fao (Deluxe)",
         "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 374106,
       "name": "Ya No Vivo Por Vivir",
       "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 312066,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08"
     },
     {
       "added_at": "2021-12-29 23:33:57",

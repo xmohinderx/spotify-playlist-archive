@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-2,962 songs - 4 day 18 hr 53 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+2,963 songs - 4 day 18 hr 54 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1763,7 +1763,7 @@
 | [new moon](https://open.spotify.com/track/7mkTMrh4WEVmYEGQw8b1aO) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [new moon](https://open.spotify.com/album/2sTgU61387Re7G3EbwR1fC) | 2:39 | 2021-07-24 | 2021-10-29 |
 | [New Moon](https://open.spotify.com/track/2ZbvON6YdaYgcO1PiIA4uw) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [New Moon](https://open.spotify.com/album/6HPQfXJo8OFpyMxGjdIqbm) | 2:25 | 2021-05-14 | 2022-01-21 |
 | [New music](https://open.spotify.com/track/3etlIf9k54KXj8fgY1NQtD) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [New music](https://open.spotify.com/album/51vLWuPjB2yt3GlJRbuGyD) | 1:27 | 2021-06-04 | 2022-07-28 |
-| [New music](https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Pleasures](https://open.spotify.com/album/17lrOs4wLpcYKDMJynoQ9p) | 1:27 | 2022-07-28 |  |
+| [New music](https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Pleasures](https://open.spotify.com/album/17lrOs4wLpcYKDMJynoQ9p) | 1:27 | 2022-07-28 | 2022-08-09 |
 | [New York](https://open.spotify.com/track/1SHW5GLmrJ3PbR5Cbip24V) | [Gregory Ross](https://open.spotify.com/artist/3vHAij1z57NgRTTtTDFAoe) | [New York](https://open.spotify.com/album/6v1lczl6CkTOm3tWO6MGYw) | 3:18 | 2019-11-12 | 2020-03-31 |
 | [New York \- Extended](https://open.spotify.com/track/0x3JF5cqEMI6Sl1EQj0GgS) | [StriveAU](https://open.spotify.com/artist/0gX527ngxcnfHH8kHj1gEe) | [Vans with My Ol' Sweater](https://open.spotify.com/album/5j7ZJBrNIB8SByWJxLalZC) | 1:51 | 2019-05-26\* | 2019-06-15 |
 | [Nice To Meet U](https://open.spotify.com/track/6jadCrE6dGrv0vFAzv9hg4) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [dave.wav](https://open.spotify.com/artist/4ZJQECwTUYezRbVJkzjis2) | [Nice To Meet U](https://open.spotify.com/album/5FXjwQMfXqgHOqmsTghIaC) | 2:07 | 2022-04-21 |  |
@@ -2250,6 +2250,7 @@
 | [Shine](https://open.spotify.com/track/3KhuRg1cK2NSGFBG1D5SRg) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6) | [Shine](https://open.spotify.com/album/7Fs7MsqeMY4dlEKm2jrSVb) | 1:54 | 2020-06-05 | 2020-08-08 |
 | [Ship Has Sailed](https://open.spotify.com/track/28ZSHQYTUVoVVu3tMHf6Q3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 3:16 | 2021-07-04 | 2021-09-10 |
 | [Shipping Included](https://open.spotify.com/track/2N5acVYBPwXHVxcSJZhI0Y) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Shipping Included](https://open.spotify.com/album/4W520GUpPfXgx7O78dmJI0) | 1:44 | 2021-09-10 |  |
+| [Shorebreak](https://open.spotify.com/track/7nOB52izsr8QCUP6IdvMZF) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Shorebreak](https://open.spotify.com/album/04cnaZIcMfSDc5EKbqOOdE) | 1:21 | 2022-08-04 |  |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2021-08-14 | 2021-11-26 |
 | [Signal](https://open.spotify.com/track/5lJ5yLyU2tpN7Y2fvEgN3a) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Signal](https://open.spotify.com/album/6MbqxLIUE4O6SMpRXWX1dw) | 2:36 | 2021-03-27 | 2021-08-27 |
 | [Signals](https://open.spotify.com/track/2IAYcLJNhjzsJu0MZeyk0i) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [Signals](https://open.spotify.com/album/07biVYYbzHvfepB2KXxBLk) | 4:36 | 2019-06-22 | 2019-10-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 357532,
+  "num_followers": 357586,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY2ODQ2MCwwMDAwMDAwMDE2ZjNkYjQzNzg4YmZmMWE3Y2E4NDhiNzY2YjVjNDg5",
+  "snapshot_id": "MTY1OTY2ODQ2MCwwMDAwMDAwMDZkMjkxMzBiNWNkNjgxODVmYTJjOGVjMjNjNzg0YzI2",
   "tracks": [
     {
       "added_at": "2022-08-05 03:01:00",
@@ -115,6 +115,50 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 160794,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 198635,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
         "name": "Sou Teu F\u00e3",
         "url": "https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd"
       },
@@ -135,6 +179,30 @@
       "duration_ms": 170956,
       "name": "Sou Teu F\u00e3",
       "url": "https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/5daWuGgRobKJj2FG0dgYXo"
+      },
+      "artists": [
+        {
+          "name": "Jaydan Wolf",
+          "url": "https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0"
+        },
+        {
+          "name": "Te Pai",
+          "url": "https://open.spotify.com/artist/1MGdLAHg2Wq4mSE6OEqXqg"
+        },
+        {
+          "name": "Kosimo",
+          "url": "https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq"
+        }
+      ],
+      "duration_ms": 124226,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/3PJvNwNj6AhlVxm69dcyTB"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -187,54 +255,6 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "Smells Like Teen Spirit",
-        "url": "https://open.spotify.com/album/5daWuGgRobKJj2FG0dgYXo"
-      },
-      "artists": [
-        {
-          "name": "Jaydan Wolf",
-          "url": "https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0"
-        },
-        {
-          "name": "Te Pai",
-          "url": "https://open.spotify.com/artist/1MGdLAHg2Wq4mSE6OEqXqg"
-        },
-        {
-          "name": "Kosimo",
-          "url": "https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq"
-        }
-      ],
-      "duration_ms": 124226,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/3PJvNwNj6AhlVxm69dcyTB"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 160794,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
         "name": "Don't Let It Go",
         "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
       },
@@ -251,8 +271,8 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
+        "name": "Forever Yours (Avicii Tribute)",
+        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
       },
       "artists": [
         {
@@ -260,13 +280,17 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
         }
       ],
-      "duration_ms": 198635,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
+      "duration_ms": 193846,
+      "name": "Forever Yours - Avicii Tribute",
+      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -287,26 +311,6 @@
       "duration_ms": 217678,
       "name": "Sorri, Sou Rei (KVSH Remix)",
       "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
-        "name": "V\u00e1rias Queixas (Remix)",
-        "url": "https://open.spotify.com/album/1KKLrUEv4YvPfBAoBUhOu8"
-      },
-      "artists": [
-        {
-          "name": "Camilla Brunetta",
-          "url": "https://open.spotify.com/artist/49QW5bbN3ta3IGezNZVwmb"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 123142,
-      "name": "V\u00e1rias Queixas - Remix",
-      "url": "https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -347,6 +351,26 @@
       "duration_ms": 176283,
       "name": "Table For 2",
       "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
+        "name": "V\u00e1rias Queixas (Remix)",
+        "url": "https://open.spotify.com/album/1KKLrUEv4YvPfBAoBUhOu8"
+      },
+      "artists": [
+        {
+          "name": "Camilla Brunetta",
+          "url": "https://open.spotify.com/artist/49QW5bbN3ta3IGezNZVwmb"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 123142,
+      "name": "V\u00e1rias Queixas - Remix",
+      "url": "https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -423,30 +447,6 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "Forever Yours (Avicii Tribute)",
-        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Forever Yours - Avicii Tribute",
-      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
         "name": "\u00c1gua de Coco",
         "url": "https://open.spotify.com/album/6EIJGfcD6JyQDx2HMUetzH"
       },
@@ -459,6 +459,26 @@
       "duration_ms": 305847,
       "name": "\u00c1gua de Coco",
       "url": "https://open.spotify.com/track/1ViWBiUcCKb0vLRgzZspdc"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
+        "name": "Not Ok",
+        "url": "https://open.spotify.com/album/3GTuto6NDtZegL6idSk183"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 210943,
+      "name": "Not Ok",
+      "url": "https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -591,26 +611,6 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "Not Ok",
-        "url": "https://open.spotify.com/album/3GTuto6NDtZegL6idSk183"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 210943,
-      "name": "Not Ok",
-      "url": "https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
         "name": "Back to Beginning",
         "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
       },
@@ -703,6 +703,26 @@
       "duration_ms": 160429,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -807,26 +827,6 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
         "name": "All The Lies (with Felix Jaehn & The Vamps)",
         "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
       },
@@ -919,6 +919,30 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        },
+        {
+          "name": "Marina Diniz",
+          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5xwUS5QumHJYhPPuHF103D"
       },
@@ -955,30 +979,6 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "It's Your Life",
-        "url": "https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        },
-        {
-          "name": "Marina Diniz",
-          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "It's Your Life",
-      "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
         "name": "Hey (Na Na Na)",
         "url": "https://open.spotify.com/album/5of4lavVy9GkGWPAUzKWD8"
       },
@@ -999,26 +999,6 @@
       "duration_ms": 156000,
       "name": "Hey (Na Na Na)",
       "url": "https://open.spotify.com/track/5eYHuFukR95qj8s3Q3YEfQ"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
-        "name": "Bem Melhor (KVSH Remix)",
-        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "Bem Melhor - KVSH Remix",
-      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -1047,22 +1027,22 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+        "name": "Bem Melhor (KVSH Remix)",
+        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
       },
       "artists": [
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         },
         {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         }
       ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
+      "duration_ms": 183431,
+      "name": "Bem Melhor - KVSH Remix",
+      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -1175,66 +1155,22 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL"
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
       },
       "artists": [
-        {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        },
         {
           "name": "Bruno Martini",
           "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
         }
       ],
-      "duration_ms": 175020,
-      "name": "Savages",
-      "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
-        "name": "Z\u00e9 do caro\u00e7o",
-        "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Z\u00e9 do caro\u00e7o",
-      "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
-    },
-    {
-      "added_at": "2022-08-05 03:01:00",
-      "album": {
-        "name": "T\u00f4 de F\u00e9rias",
-        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 168449,
-      "name": "T\u00f4 de F\u00e9rias",
-      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -1263,42 +1199,66 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL"
       },
       "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
         {
           "name": "Bruno Martini",
           "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
         }
       ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+      "duration_ms": 175020,
+      "name": "Savages",
+      "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
     },
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+        "name": "T\u00f4 de F\u00e9rias",
+        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         },
         {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
         }
       ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+      "duration_ms": 168449,
+      "name": "T\u00f4 de F\u00e9rias",
+      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
+        "name": "Z\u00e9 do caro\u00e7o",
+        "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Z\u00e9 do caro\u00e7o",
+      "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
     },
     {
       "added_at": "2022-08-05 03:01:00",
@@ -1343,6 +1303,26 @@
     {
       "added_at": "2022-08-05 03:01:00",
       "album": {
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
         "name": "Are You Mine",
         "url": "https://open.spotify.com/album/3qBbXUvA3V4814pbJh08sF"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 209477,
       "name": "Are You Mine",
       "url": "https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn"
+    },
+    {
+      "added_at": "2022-08-05 03:01:00",
+      "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2022-08-05 03:01:00",

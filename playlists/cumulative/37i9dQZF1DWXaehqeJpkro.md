@@ -4,7 +4,7 @@
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-231 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/6P4RKNAmjGjcVbVihp09Om)
+232 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/6P4RKNAmjGjcVbVihp09Om)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,8 @@
 | [YES or YES](https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x) | 3:57 | 2021-03-11 | 2022-02-18 |
 | [You don't know](https://open.spotify.com/track/4wxQNRbKHCot30VGjEYylp) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Dr\. Romantic 2 OST Part.7](https://open.spotify.com/album/7qGercAC7klZ6smNyMWAp2) | 3:35 | 2022-02-17 | 2022-07-29 |
 | [You Don't Know Men](https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [fuzz?buzz](https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux) | 4:14 | 2022-02-17 |  |
-| [Your regards](https://open.spotify.com/track/6SaKyXH6iiL9qrdf0cShlE) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Your regards](https://open.spotify.com/album/6d99aJAxyuWYxNGtX6H9l2) | 3:59 | 2022-02-23 |  |
+| [Your Regards](https://open.spotify.com/track/6WgChN2kqQpNSsIXgu6oAX) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Your Regards](https://open.spotify.com/album/3GGd74l9qQz3nu8nWnntAs) | 3:59 | 2022-02-23 |  |
+| [Your regards](https://open.spotify.com/track/6SaKyXH6iiL9qrdf0cShlE) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Your regards](https://open.spotify.com/album/6d99aJAxyuWYxNGtX6H9l2) | 3:59 | 2022-02-23 | 2022-08-09 |
 | [Your regards](https://open.spotify.com/track/4ivi7tEWb6FEiHrVIL2rgj) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Your regards](https://open.spotify.com/album/65I5KEWJNnfRe8sSNBoeog) | 3:59 | 2022-02-17 | 2022-07-29 |
 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/2woXriAP3J52r5KlutnKzr) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/54fwdeqyCaK4rIViQD8XXh) | 2:48 | 2022-02-17 | 2022-07-29 |
 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 | 2022-02-23 |  |

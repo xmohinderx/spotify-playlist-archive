@@ -2,9 +2,9 @@
 
 ### [Rock Total](https://open.spotify.com/playlist/37i9dQZF1DWU8yQ1nTMCfh)
 
-> Lo mejor del Rock en Español de hoy\. Cover: Aleesha
+> Las nuevas vibras del Rock en Español\. Cover: Alvaro Diaz
 
-109 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/1oUEjRuRAeBE25oqoZZ6lQ)
+111 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/1oUEjRuRAeBE25oqoZZ6lQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [No Hay Santos](https://open.spotify.com/track/7DKQCK4zNtLFy2qy0AopOB) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Nuevos Silencios](https://open.spotify.com/album/0HsZpQ6L8DJgSUFNSazZoG) | 2:44 | 2022-04-15 |  |
 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-07-19 |  |
 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 | 2022-04-15 |  |
+| [NO VUELVAS](https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e) | [NO VUELVAS](https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg) | 2:58 | 2022-08-08 |  |
 | [Nos Quieren Dead](https://open.spotify.com/track/3zOqAICxaQok7mkOBe03Ps) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Nos Quieren Dead](https://open.spotify.com/album/1x9s4GTLwVdRVSd04bjvnI) | 3:07 | 2022-04-15 |  |
 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 | 2022-07-19 |  |
 | [Otra Vez \(Otra Vez\)](https://open.spotify.com/track/17yD1QTXS8nlfKOForUgzC) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Otra Vez \(Otra Vez\)](https://open.spotify.com/album/20ZRFgY2obZ2rvZtxL0Ceg) | 3:12 | 2022-04-15 |  |
@@ -93,6 +94,7 @@
 | [Punta Diamante](https://open.spotify.com/track/6ZM6qRRY9YUER561TWGENV) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Mazunte 2016](https://open.spotify.com/album/0lmrY3kRUsLpZUXw7clbfT) | 2:42 | 2022-04-15 |  |
 | [QUE SE MEJOREN](https://open.spotify.com/track/1ikC0IM4iDcdPtVpQ22fik) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUE SE MEJOREN](https://open.spotify.com/album/2YrxNeGDQAFYrNvOx3mYUe) | 3:01 | 2022-04-15 |  |
 | [Quiero Casarme Contigo](https://open.spotify.com/track/1s5FcXcjnYDEC785fcoBQv) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [El Tiempo y la Actitud](https://open.spotify.com/album/5fduhI9tX4BLmTXbSBjL4R) | 2:58 | 2022-04-15 |  |
+| [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 | 2022-08-08 |  |
 | [Sandwich de Monda](https://open.spotify.com/track/7egAAtDHS0QIaEdqYHhvjC) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Sandwich de Monda](https://open.spotify.com/album/77T0wIqtqyCTzQiLNYywOU) | 1:37 | 2022-04-15 |  |
 | [Si Te Pierdes, Nos Perdemos Juntos \| Ui](https://open.spotify.com/track/07Y5e1JIb0SktfRaCmKgpD) | [De Osos](https://open.spotify.com/artist/6QYqaSY7KhpQjMqIbqEh8K), [Throne For A Coward](https://open.spotify.com/artist/03emA0Aj3p5X2HLWjpJ2NK) | [Modificaciones del Modelo Original](https://open.spotify.com/album/6gnmos5liRTIAotnBdDjJL) | 5:13 | 2022-04-15 |  |
 | [Sintonízate](https://open.spotify.com/track/44664P6a23SRPxG3RzJwVs) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [Sintonízate](https://open.spotify.com/album/4INjnB6dE6HFMh6fPQmXB3) | 2:38 | 2022-04-15 |  |

@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Trousdale
 
-210 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
+211 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Bringing Me Down](https://open.spotify.com/track/1GaSl7z0q0S5wm39UnulPa) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Bringing Me Down](https://open.spotify.com/album/4VZxyRlOZT8H8MRFxWZvg9) | 4:03 | 2021-11-12 | 2022-07-29 |
 | [Burning Earth](https://open.spotify.com/track/3Tx2cWkwWRbQdnf45a2YLm) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Burning Earth](https://open.spotify.com/album/0yfOb0ckl1r9ElSiXMvF77) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 | 2021-11-12 |  |
-| [Change Is Coming \- Acoustic Live](https://open.spotify.com/track/1ZTSU2rupKuLXTDLVwWvXQ) | [Winter Woods](https://open.spotify.com/artist/2vtKH5PTmi8s2ABdlgxuVG) | [Change Is Coming \(Acoustic Live\)](https://open.spotify.com/album/1YiePx83xEpTcX7Jodu7Ty) | 5:30 | 2021-11-12 |  |
+| [Change Is Coming \- Acoustic Live](https://open.spotify.com/track/1ZTSU2rupKuLXTDLVwWvXQ) | [Winter Woods](https://open.spotify.com/artist/2vtKH5PTmi8s2ABdlgxuVG) | [Change Is Coming \(Acoustic Live\)](https://open.spotify.com/album/1YiePx83xEpTcX7Jodu7Ty) | 5:30 | 2021-11-12 | 2022-08-09 |
 | [Cliché](https://open.spotify.com/track/2pBym9Ta4unUYYefC1qEjy) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Cliché](https://open.spotify.com/album/7fL5UDmFr1IdZH3DNP5xhG) | 3:03 | 2021-11-12 |  |
 | [Coffee](https://open.spotify.com/track/1kAaFW89gi4lYR7338kbPm) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Coffee](https://open.spotify.com/album/5pXU4pTiu6a5ue9Qr3s7JS) | 3:05 | 2021-11-12 | 2022-07-29 |
 | [Coffee](https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Coffee](https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj) | 3:05 | 2022-03-12 |  |
@@ -103,6 +103,7 @@
 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 | 2022-03-12 |  |
 | [I Keep Ticking On](https://open.spotify.com/track/7BgN5iMlbla6J4LpEDrFMn) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/3xFx5kmywwhfFtTlbX5u2U) | 2:36 | 2022-03-12 | 2022-04-25 |
 | [I Know the Way Home](https://open.spotify.com/track/2TkbdIwr5UmOMqUcQmD5sE) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/7uoGfhhJZZgeEGL22VfipY) | 3:21 | 2021-11-12 | 2022-07-29 |
+| [I Know the Way Home](https://open.spotify.com/track/4uTnmU2jXpoI87haPWMqTi) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/3xyzbwzDORDLA6QgQRASvj) | 3:21 | 2022-03-12 |  |
 | [I Wish I Knew Jesus \- Like You Do](https://open.spotify.com/track/4AA8t1KeyuycKusIjHcAYE) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [I Wish I Knew Jesus \(Like You Do\)](https://open.spotify.com/album/0WyUvt3wn8s2BKxDcBCr3m) | 2:55 | 2021-11-12 | 2022-07-29 |
 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-02-21 |  |
 | [If It's Cool With You, I'm Cool With Being Through](https://open.spotify.com/track/0shbrNXspWANKNatl7E4OD) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [If It's Cool With You, I'm Cool With Being Through](https://open.spotify.com/album/0ny7XUdcuKAHbTWRAKTjwA) | 3:39 | 2022-02-21 | 2022-06-08 |

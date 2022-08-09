@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 768332,
+  "num_followers": 769038,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTg0MDA3NiwwMDAwMDAwMDMxMmQxNWI2NTJhN2M3NmE4YjA2OWFmOWI4MWRmMTdm",
+  "snapshot_id": "MTY1OTg0MDA3NiwwMDAwMDAwMGI3ZjdhMTE5NWQxMzUwNmFhODk0YmY3MThjNWVlMjU2",
   "tracks": [
     {
       "added_at": "2022-08-05 07:49:00",
@@ -195,54 +195,6 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Locket",
-        "url": "https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 318378,
-      "name": "Locket",
-      "url": "https://open.spotify.com/track/2vfPsGhqMbqmhjMGQ52dYf"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
-        "name": "Loretta",
-        "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Loretta",
-      "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
-        "name": "The Weather",
-        "url": "https://open.spotify.com/album/2SHfOtnJrQc1piY2KyMOIF"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "Paint Me Silver",
-      "url": "https://open.spotify.com/track/6YGVK9xgH2LI4Ghw6gqUxx"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -263,18 +215,34 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Sex & Food",
-        "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
+        "name": "Locket",
+        "url": "https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
         }
       ],
-      "duration_ms": 268333,
-      "name": "Hunnybee",
-      "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
+      "duration_ms": 318378,
+      "name": "Locket",
+      "url": "https://open.spotify.com/track/2vfPsGhqMbqmhjMGQ52dYf"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "The Weather",
+        "url": "https://open.spotify.com/album/2SHfOtnJrQc1piY2KyMOIF"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "Paint Me Silver",
+      "url": "https://open.spotify.com/track/6YGVK9xgH2LI4Ghw6gqUxx"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -291,6 +259,38 @@
       "duration_ms": 172506,
       "name": "You Are the Right One",
       "url": "https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Sex & Food",
+        "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 268333,
+      "name": "Hunnybee",
+      "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Loretta",
+        "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Loretta",
+      "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -603,42 +603,6 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "The End Of Comedy",
-        "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
-        "name": "Metronomy Forever",
-        "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
         "name": "Water Your Garden",
         "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
       },
@@ -659,6 +623,26 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
+        "name": "The End Of Comedy",
+        "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
         "name": "Minds Of Our Own",
         "url": "https://open.spotify.com/album/6aW21BwGe78wWM7ui9S0iL"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 217666,
       "name": "Friends",
       "url": "https://open.spotify.com/track/43NI5sAcvDLG7QQAmUc7UU"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Metronomy Forever",
+        "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
-      },
-      "artists": [
-        {
-          "name": "Sugar Candy Mountain",
-          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
-        }
-      ],
-      "duration_ms": 192027,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 222920,
       "name": "Part III",
       "url": "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
+      },
+      "artists": [
+        {
+          "name": "Sugar Candy Mountain",
+          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/1YYUqltzKKaDPsOELPiUEx"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 207210,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/0t1qI2DYS68veTpLBGUsNM"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
         "name": "Cotton Candy Lemonade",
         "url": "https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 146875,
       "name": "Cotton Candy Lemonade",
       "url": "https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/1YYUqltzKKaDPsOELPiUEx"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 207210,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/0t1qI2DYS68veTpLBGUsNM"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Thanatophobia",
-        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
-      },
-      "artists": [
-        {
-          "name": "Worn-Tin",
-          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
-        }
-      ],
-      "duration_ms": 237741,
-      "name": "Sensitivity",
-      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
         "name": "Dancin' With Wolves",
         "url": "https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 174586,
       "name": "Out In The Country",
       "url": "https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Thanatophobia",
+        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
+      },
+      "artists": [
+        {
+          "name": "Worn-Tin",
+          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
+        }
+      ],
+      "duration_ms": 237741,
+      "name": "Sensitivity",
+      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Red Sun",
-        "url": "https://open.spotify.com/album/4AtvSXc9ET59Ho3h1Ck2Om"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 232444,
-      "name": "Red Sun",
-      "url": "https://open.spotify.com/track/115AuyL9TvemxBhMkaR5r4"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
         "name": "Paper M\u00e2ch\u00e9 Dream Balloon",
         "url": "https://open.spotify.com/album/0RyezpNCj0HGTv2Mrwaat5"
       },
@@ -1039,6 +1023,54 @@
       "duration_ms": 210653,
       "name": "Sense",
       "url": "https://open.spotify.com/track/2oeqKWbVwK5Ly2vjwWJKHd"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Oh Uncertainty! A Universe Despairs",
+        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "Best for You",
+      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 204708,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Red Sun",
+        "url": "https://open.spotify.com/album/4AtvSXc9ET59Ho3h1Ck2Om"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 232444,
+      "name": "Red Sun",
+      "url": "https://open.spotify.com/track/115AuyL9TvemxBhMkaR5r4"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -1063,18 +1095,18 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
+        "name": "Magenta Mountain",
+        "url": "https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz"
       },
       "artists": [
         {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 204708,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
+      "duration_ms": 364599,
+      "name": "Magenta Mountain",
+      "url": "https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -1111,22 +1143,6 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Oh Uncertainty! A Universe Despairs",
-        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "Best for You",
-      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
         "name": "FEEL LIKE",
         "url": "https://open.spotify.com/album/1eIaahZPGk6xyVETQmZ8pu"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 188143,
       "name": "FEEL LIKE",
       "url": "https://open.spotify.com/track/6MFtTpEpk8Q2hZKKfid7SE"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
-        "name": "Magenta Mountain",
-        "url": "https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 364599,
-      "name": "Magenta Mountain",
-      "url": "https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Fun Times",
-        "url": "https://open.spotify.com/album/4L5kYzcAbu4AcXoUL4FRPg"
-      },
-      "artists": [
-        {
-          "name": "Josh Fudge",
-          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
-        }
-      ],
-      "duration_ms": 165434,
-      "name": "When She's Gone",
-      "url": "https://open.spotify.com/track/0sUaoFEGXCQVMrYTMslYY9"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Don't Come Back",
-        "url": "https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
       "artists": [
         {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 217918,
-      "name": "Don't Come Back",
-      "url": "https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj"
+      "duration_ms": 218803,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -1311,6 +1295,38 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
+        "name": "Don't Come Back",
+        "url": "https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "duration_ms": 217918,
+      "name": "Don't Come Back",
+      "url": "https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Fun Times",
+        "url": "https://open.spotify.com/album/4L5kYzcAbu4AcXoUL4FRPg"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "duration_ms": 165434,
+      "name": "When She's Gone",
+      "url": "https://open.spotify.com/track/0sUaoFEGXCQVMrYTMslYY9"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
         "name": "jams EP",
         "url": "https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 63214,
       "name": "cloud castle",
       "url": "https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 218803,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "The Loop",
-      "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
         "name": "Flavour",
         "url": "https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw"
       },
@@ -1467,6 +1451,38 @@
       "duration_ms": 240407,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 242261,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8"
       },
       "artists": [
         {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
         }
       ],
-      "duration_ms": 242261,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
+      "duration_ms": 169583,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Rolling Stone",
-        "url": "https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8"
-      },
-      "artists": [
-        {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
-        }
-      ],
-      "duration_ms": 169583,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
         "name": "Sesame",
         "url": "https://open.spotify.com/album/6kBbu8hwcdYGGNi1FpU3K8"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Rose Pink Cadillac",
-        "url": "https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Howl With Me",
-      "url": "https://open.spotify.com/track/2m9x2CsVhMXQZW0LtBKeZk"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
         "name": "Where I Live",
         "url": "https://open.spotify.com/album/3fdj5y1QH4yT1Z5lYxKAFL"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 180931,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/1zydSwU6v1IHHYeb58c3YB"
+    },
+    {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "Rose Pink Cadillac",
+        "url": "https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Howl With Me",
+      "url": "https://open.spotify.com/track/2m9x2CsVhMXQZW0LtBKeZk"
     },
     {
       "added_at": "2022-08-05 07:49:00",

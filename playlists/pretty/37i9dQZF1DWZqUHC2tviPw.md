@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,403 likes - 129 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,468 likes - 129 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 74 | [Chopper](https://open.spotify.com/track/0w7AG9UksTH3yHNzmMzwwq) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Chopper](https://open.spotify.com/album/7ggLaz0nrCCM8Nwa6hCIqG) | 2:24 |
 | 75 | [Swept away](https://open.spotify.com/track/50D42NjOSA7pcx8RftldNM) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Swept away](https://open.spotify.com/album/7dL8pdaQekKy8wr8GtiLt6) | 3:13 |
 | 76 | [Move Shady](https://open.spotify.com/track/5vmF2W4z3XlKwsRZpUpP1H) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Run Better Run](https://open.spotify.com/album/0Cwh08pbkSQEbdO6WqigTK) | 3:09 |
-| 77 | [Club404](https://open.spotify.com/track/1IgmsA52OnXHjdgRR5d5zO) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/2U40p12v8l8eyiZ4fE4dDq) | 2:43 |
+| 77 | [Club404 \- Remix](https://open.spotify.com/track/6vNJcvgnEQMXsvfwG5RDc8) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Dead & Alive](https://open.spotify.com/album/3L6yqVORgRpJJVidUwjm9U) | 2:43 |
 | 78 | [paint](https://open.spotify.com/track/28p37blBJxXtnAtl9ndjC0) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [tile & error](https://open.spotify.com/album/1kMqljBJ3CMhls6972lJ8H) | 2:32 |
 | 79 | [Classics](https://open.spotify.com/track/46DIcl7UFS8sw7LEJx03zd) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [Drill](https://open.spotify.com/album/4Rjj8lNDBisPqsSTbMgdiT) | 1:33 |
 | 80 | [Them](https://open.spotify.com/track/4ySBPKrqsXLY4Gwz0h2H2C) | [Thip Trong](https://open.spotify.com/artist/6vbequGJ52lQZ2u4ZfEjO2) | [Them / Daraba](https://open.spotify.com/album/4lZTUBQEIm2d2PwKHLU8Kq) | 2:38 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 128 | [There](https://open.spotify.com/track/3QVT6KNsMdDK1FvHeSGRiC) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [Beat Tape, Vol\. 1 / Mentally, I'm Here](https://open.spotify.com/album/3QqAwG3j81xnL6SZVIGlG3) | 1:46 |
 | 129 | [Est](https://open.spotify.com/track/5ZHXYzPcYWVWLq4oNEtU0A) | [STU](https://open.spotify.com/artist/12rFc3DT9cVWUrbCaVcVHL) | [Est](https://open.spotify.com/album/3Xg9taVuBe1gT3eNxbbCSZ) | 2:28 |
 
-Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMDAzZDNmYzM5ZmViMDZkNGJkNWQxMTY2MzQwZTVjNTNj`
+Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMDMxNDE3YTQ3NTYyYWE0MTM4ZWJlYjJiYTE4NWQ3ZjVj`

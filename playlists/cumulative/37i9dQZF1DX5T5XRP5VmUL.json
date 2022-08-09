@@ -1756,6 +1756,24 @@
     },
     {
       "album": {
+        "name": "It Won't Be Christmas ('till You're Here)",
+        "url": "https://open.spotify.com/album/6t6t6VnBN5OfgtUVe0DU6t"
+      },
+      "artists": [
+        {
+          "name": "Begonia",
+          "url": "https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "It Won't Be Christmas ('till You're Here)",
+      "url": "https://open.spotify.com/track/71JECBTllXdl37lGVkH33S"
+    },
+    {
+      "album": {
         "name": "I Love Santa",
         "url": "https://open.spotify.com/album/0nhkv3tzgmYh4DjY5KE7PH"
       },
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 172146,
       "name": "Jingle All The Way / Jingle Bells / Hark The Herald Angels Sing - Medley / Alternate Version",
       "url": "https://open.spotify.com/track/3c96DLRFxEpEmXBRSh2n3L"

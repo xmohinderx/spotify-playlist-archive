@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,231 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,270 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 10 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 |
 | 11 | [Cuestión De Suerte](https://open.spotify.com/track/6TRRirUyyil4IbMcZLFQff) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Cuestión De Suerte](https://open.spotify.com/album/7J8jJvOHBMGDHeOT7Lc15t) | 3:13 |
 | 12 | [RQR](https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [RQR](https://open.spotify.com/album/5kC02orH2sQzlmHoUspIsb) | 2:57 |
-| 13 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 |
-| 14 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 |
+| 13 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 |
+| 14 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 |
 | 15 | [Cállame](https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Cállame](https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w) | 3:07 |
 | 16 | [Fantasmas](https://open.spotify.com/track/0itukH4hI1pxOsyRQRQ28f) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:43 |
 | 17 | [Algo Mejor](https://open.spotify.com/track/57OmmVVcjJVBuWSMOI42Pn) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/0HYUyOcBGQhtdhC1woSkCt) | 2:33 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 37 | [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 |
 | 38 | [Nunca Es Tarde](https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Querer Querer](https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3) | 3:03 |
 | 39 | [Porque Existo](https://open.spotify.com/track/3FbYgQOGUARaGbUMkfP9Cp) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg) | 2:50 |
-| 40 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 |
-| 41 | [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 |
-| 42 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 |
-| 43 | [Handful of Water](https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Handful of Water](https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N) | 2:31 |
-| 44 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
+| 40 | [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 |
+| 41 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 |
+| 42 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
+| 43 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 |
+| 44 | [Handful of Water](https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Handful of Water](https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N) | 2:31 |
 | 45 | [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 |
 | 46 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 |
 | 47 | [Lo Que Digan](https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lo Que Digan](https://open.spotify.com/album/1MdZ8tyZB75alme89VBOgt) | 3:10 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 67 | [Si Nos Vamos](https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:15 |
 | 68 | [Golden](https://open.spotify.com/track/1Dj3xVHKPQIxh1nRX1lN75) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR) | [Golden](https://open.spotify.com/album/3Am1lg4zNAItrrJ9shk9nH) | 3:38 |
 | 69 | [Que Sufras](https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Que Sufras](https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu) | 4:42 |
-| 70 | [Laberinto](https://open.spotify.com/track/0g9lp41XLg8wgSaZlXtt6G) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:42 |
+| 70 | [IN MY ROOM!](https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:42 |
 
-Snapshot ID: `MTY1OTcxNTkwNiwwMDAwMDAwMDNkM2Q3NGVmZTI1YjI5MjVjN2YxNzFhMjVjOTk3ZDMx`
+Snapshot ID: `MTY1OTcxNTkwNiwwMDAwMDAwMGNlMzE4NTU0YjU2OWE0YzAyMWRkNjc5OTQ1OTQ2ODEw`

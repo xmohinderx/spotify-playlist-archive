@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 183489,
       "name": "Lavabo Mi Amor",
       "url": "https://open.spotify.com/track/1lFMWSIu7isKOdn12emfDf"
@@ -2209,6 +2209,28 @@
       "duration_ms": 238573,
       "name": "Perdoa",
       "url": "https://open.spotify.com/track/3mkd8FiQAr8yxbavwZx6Do"
+    },
+    {
+      "album": {
+        "name": "Meus Momentos: Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        },
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "Perdoa",
+      "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
     },
     {
       "album": {

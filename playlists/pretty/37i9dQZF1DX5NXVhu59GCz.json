@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 112296,
+  "num_followers": 112312,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMGViOWM3ZTlkYzYwZjAwOGUwOWE4YTMwMzQ3MDI2YzNm",
+  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMDk4ODVkZGIwOTE1MDBjODcwNDY0NGUxOTRlNWI2YTBj",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -189,20 +189,20 @@
       "url": "https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4"
     },
     {
-      "added_at": "2018-02-28 19:55:41",
+      "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Easter Everywhere",
-        "url": "https://open.spotify.com/album/5RQNjPQbqY82MBTwaQp3ik"
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
       "artists": [
         {
-          "name": "13th Floor Elevators",
-          "url": "https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38"
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
         }
       ],
-      "duration_ms": 482278,
-      "name": "Slip Inside This House - Stereo LP Version",
-      "url": "https://open.spotify.com/track/4GVRHAwABAV0v63YX9Go0p"
+      "duration_ms": 266000,
+      "name": "Death Sound",
+      "url": "https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -223,6 +223,22 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "Easter Everywhere",
+        "url": "https://open.spotify.com/album/5RQNjPQbqY82MBTwaQp3ik"
+      },
+      "artists": [
+        {
+          "name": "13th Floor Elevators",
+          "url": "https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38"
+        }
+      ],
+      "duration_ms": 482278,
+      "name": "Slip Inside This House - Stereo LP Version",
+      "url": "https://open.spotify.com/track/4GVRHAwABAV0v63YX9Go0p"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "Inner Mystique",
         "url": "https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 192560,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc"
-    },
-    {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
-        "name": "Electric Music For The Mind And Body",
-        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
-      },
-      "artists": [
-        {
-          "name": "Country Joe & The Fish",
-          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Death Sound",
-      "url": "https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -451,22 +451,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Incense And Peppermints",
-        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
-        }
-      ],
-      "duration_ms": 505266,
-      "name": "The World's On Fire",
-      "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Psychotic Reaction",
         "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 133133,
       "name": "The World",
       "url": "https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Incense And Peppermints",
+        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 505266,
+      "name": "The World's On Fire",
+      "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -659,22 +659,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Eve",
-        "url": "https://open.spotify.com/album/6YCt59wLxD0RXqTvt3kz1k"
-      },
-      "artists": [
-        {
-          "name": "Speed, Glue & Shinki",
-          "url": "https://open.spotify.com/artist/67DVoI1yayIO8DcKKtlbWk"
-        }
-      ],
-      "duration_ms": 375800,
-      "name": "Big Headed Woman",
-      "url": "https://open.spotify.com/track/2yb0ZoqqGX4XDzt2CZarWF"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Psychedelic Resurrection",
         "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 137346,
       "name": "We Ain't Got Nothin' yet",
       "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/6YCt59wLxD0RXqTvt3kz1k"
+      },
+      "artists": [
+        {
+          "name": "Speed, Glue & Shinki",
+          "url": "https://open.spotify.com/artist/67DVoI1yayIO8DcKKtlbWk"
+        }
+      ],
+      "duration_ms": 375800,
+      "name": "Big Headed Woman",
+      "url": "https://open.spotify.com/track/2yb0ZoqqGX4XDzt2CZarWF"
     },
     {
       "added_at": "2018-02-28 19:55:41",

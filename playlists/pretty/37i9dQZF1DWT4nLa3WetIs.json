@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 55465,
+  "num_followers": 55558,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDUwOGM2ZWE3NzYwODg1NDkwYjYwOGI1YWE4YTBiMTA5",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMGNjOTBmYWRmYWFhMjA4YjUzZGQ1ZWMzZWNlYTk3OGY4",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -175,42 +175,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "T.I.N.A.",
-        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
-      },
-      "artists": [
-        {
-          "name": "Fuse ODG",
-          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
-        },
-        {
-          "name": "Tiffany Owusu",
-          "url": "https://open.spotify.com/artist/37hnVT1tp5qMyIwgbmLsvO"
-        }
-      ],
-      "duration_ms": 232255,
-      "name": "Azonto",
-      "url": "https://open.spotify.com/track/1TeIFb2AIbExCZjInMxGha"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Gameover (Deluxe)",
-        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 281359,
-      "name": "Do Me - Deluxe",
-      "url": "https://open.spotify.com/track/0amjxUztXizZbRwGer8o34"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "King Don Come",
         "url": "https://open.spotify.com/album/0LJporAGc16eJiDOx4dFcJ"
       },
@@ -279,6 +243,42 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "T.I.N.A.",
+        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
+      },
+      "artists": [
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        },
+        {
+          "name": "Tiffany Owusu",
+          "url": "https://open.spotify.com/artist/37hnVT1tp5qMyIwgbmLsvO"
+        }
+      ],
+      "duration_ms": 232255,
+      "name": "Azonto",
+      "url": "https://open.spotify.com/track/1TeIFb2AIbExCZjInMxGha"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Gameover (Deluxe)",
+        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "duration_ms": 281359,
+      "name": "Do Me - Deluxe",
+      "url": "https://open.spotify.com/track/0amjxUztXizZbRwGer8o34"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Ayo",
         "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
       },
@@ -335,6 +335,38 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Least Expected",
+        "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
+      },
+      "artists": [
+        {
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Yori Yori",
+      "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "R & BW",
+        "url": "https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt"
+      },
+      "artists": [
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Yes/No",
+      "url": "https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Chop My Money",
         "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
       },
@@ -371,38 +403,6 @@
       "duration_ms": 222750,
       "name": "Antenna - UK Club Mix",
       "url": "https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Least Expected",
-        "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
-      },
-      "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Yori Yori",
-      "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "R & BW",
-        "url": "https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt"
-      },
-      "artists": [
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Yes/No",
-      "url": "https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -459,6 +459,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Final (Baba Nla) - Single",
+        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Final (Baba Nla)",
+      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
         "url": "https://open.spotify.com/album/2kf7rwQWptDFL0dIGCRHvs"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 266903,
       "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
       "url": "https://open.spotify.com/track/06B0pbiRWZJAfxJXu6R4wY"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Final (Baba Nla) - Single",
-        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Final (Baba Nla)",
-      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "The Matter (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/1nu7MqRnwUFG26Zk90kWyV"
-      },
-      "artists": [
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "The Matter (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/2cWdhA4ZDBvYuHRKKIPT3k"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Gameover (Deluxe)",
-        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
+        "name": "The Matter (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/1nu7MqRnwUFG26Zk90kWyV"
       },
       "artists": [
         {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
         }
       ],
-      "duration_ms": 268318,
-      "name": "No One Like You - Deluxe",
-      "url": "https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4"
+      "duration_ms": 198058,
+      "name": "The Matter (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/2cWdhA4ZDBvYuHRKKIPT3k"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -671,18 +655,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Gobe",
-        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
+        "name": "Gameover (Deluxe)",
+        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
         }
       ],
-      "duration_ms": 229668,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
+      "duration_ms": 268318,
+      "name": "No One Like You - Deluxe",
+      "url": "https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -699,6 +683,22 @@
       "duration_ms": 216267,
       "name": "Gongo Aso",
       "url": "https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Gobe",
+        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -759,22 +759,6 @@
       "duration_ms": 262986,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Dami Duro",
-        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 250257,
-      "name": "Dami Duro",
-      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -843,6 +827,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Dami Duro",
+        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 250257,
+      "name": "Dami Duro",
+      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Olu Maintain",
-        "url": "https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc"
-      },
-      "artists": [
-        {
-          "name": "Olu Maintain",
-          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
-        }
-      ],
-      "duration_ms": 255712,
-      "name": "Yahooze",
-      "url": "https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Igwe",
         "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 312556,
       "name": "Igwe",
       "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Olu Maintain",
+        "url": "https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc"
+      },
+      "artists": [
+        {
+          "name": "Olu Maintain",
+          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
+        }
+      ],
+      "duration_ms": 255712,
+      "name": "Yahooze",
+      "url": "https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Best Of Wande Coal",
-        "url": "https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Bumper To Bumper",
-      "url": "https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Bundelele",
         "url": "https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Baby (Chop Kiss)",
-        "url": "https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW"
+        "name": "Best Of Wande Coal",
+        "url": "https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66"
       },
       "artists": [
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 198973,
-      "name": "Baby (Chop Kiss)",
-      "url": "https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK"
+      "duration_ms": 225933,
+      "name": "Bumper To Bumper",
+      "url": "https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Baby (Chop Kiss)",
+        "url": "https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Baby (Chop Kiss)",
+      "url": "https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Selection",
         "url": "https://open.spotify.com/album/6vgavmu9XaTbGvnZ7FnTco"
       },
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Chingam (feat. Bisa Kdei)",
+        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Chingam (feat. Bisa Kdei)",
+      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "The Thing",
         "url": "https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 222693,
       "name": "Kele Kele",
       "url": "https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Chingam (feat. Bisa Kdei)",
-        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Chingam (feat. Bisa Kdei)",
-      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Once Upon a Time",
-        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Love Me, Love Me, Love Me",
-      "url": "https://open.spotify.com/track/78AXj5mOndSYhJtEOVmOwI"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/4XS1iaLdd3g4IxKYoZs2jh"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Love Me, Love Me, Love Me",
+      "url": "https://open.spotify.com/track/78AXj5mOndSYhJtEOVmOwI"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Bae (feat. Afro B)",
         "url": "https://open.spotify.com/album/0ae2TKUu1qAZ18GYdrJdNB"
       },
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Best of Nana Boroo",
-        "url": "https://open.spotify.com/album/0FxMEwwFyYv70CkwvMpIUd"
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/6fSgSpssVi7fMqMXhxGcbL"
       },
       "artists": [
         {
-          "name": "Nana Boroo",
-          "url": "https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5"
-        },
-        {
-          "name": "SK Originale",
-          "url": "https://open.spotify.com/artist/2z5uuIjNgQjzjwO3QVwHXP"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 300721,
-      "name": "Ahayede",
-      "url": "https://open.spotify.com/track/0YcLMyZGhtAx1qYgQPbPkJ"
+      "duration_ms": 242448,
+      "name": "Amorawa - Bonus Track",
+      "url": "https://open.spotify.com/track/1XD2smsByGKUCgHhyZyVtF"
     }
   ],
   "unique_name": "Afro Throwback",

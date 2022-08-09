@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى أغاني الراب المصري! غلاف: ابيوسف
+> أقوى أغاني الراب المصري! غلاف: عفروتو
 
-78 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
+82 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,12 +12,15 @@
 | [7een Maysara \(Molowave\)](https://open.spotify.com/track/3lp7tZy3eHmm7GVAzVY82W) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [7een Maysara \(Molowave\)](https://open.spotify.com/album/3Gy9HYNnuX51dSjLYHH6xN) | 3:12 | 2022-05-25 |  |
 | [8/8/G](https://open.spotify.com/track/6TfJ80yPJz0EtiwrLPOlt7) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [8/8/G](https://open.spotify.com/album/7LZjoxWmG9iqEzXUQCkXsG) | 2:56 | 2022-05-10 | 2022-06-29 |
 | [Adriana Lima](https://open.spotify.com/track/615yIBsABjpxbMLVXqYQgt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Adriana Lima](https://open.spotify.com/album/11nWr65Cj1cRZ79eeRJICS) | 3:01 | 2022-05-10 | 2022-07-07 |
+| [AHWAGY](https://open.spotify.com/track/37EWbHlj1GLBqC2pFT0XXh) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:21 | 2022-08-08 |  |
 | [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-05-10 |  |
 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 | 2022-05-10 |  |
 | [Betadeen](https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Agzakhana](https://open.spotify.com/album/1xXO29qVBNrs7NsagU8MPs) | 3:26 | 2022-05-10 |  |
 | [BIG MOOD](https://open.spotify.com/track/788ZucIemZrlzHQ6WGdhGY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 4:02 | 2022-07-14 |  |
 | [Brrr Brrr Brrr](https://open.spotify.com/track/56toH670HEUhhOYEbubXYr) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Brrr Brrr Brrr](https://open.spotify.com/album/6jCUduTAISjBcTXtfiU0x3) | 3:27 | 2022-05-10 |  |
+| [Buffon](https://open.spotify.com/track/1z80McM0pmXmdxxazZZW0S) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Setta Bel Hob](https://open.spotify.com/album/1HpTWXpf8aNEX2LQGnn2cu) | 3:26 | 2022-08-08 |  |
 | [CA7BY](https://open.spotify.com/track/199urTMSWFxpEFDhTJ5wwH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 2:54 | 2022-07-20 |  |
+| [Daftar A7mar](https://open.spotify.com/track/3Ezm9m5G9BnWNFeKDZ5WY3) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Alfy](https://open.spotify.com/artist/2LsOWfjooIMANdGBjtiMLz) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:06 | 2022-08-08 |  |
 | [Dawly](https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Dawly](https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy) | 3:16 | 2022-06-07 |  |
 | [Deep](https://open.spotify.com/track/58FNOZG0cfPdnnqTPdjirs) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Deep](https://open.spotify.com/album/7b9Om4YTB1qXMAzjcDtRbb) | 2:05 | 2022-05-10 |  |
 | [Double Face](https://open.spotify.com/track/0NvYDGanr7AUEmynCDhfIN) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [Double Face](https://open.spotify.com/album/2YbDf25DxNHXRnP5wm9G2i) | 3:00 | 2022-05-10 | 2022-06-21 |
@@ -78,6 +81,7 @@
 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy) | 3:11 | 2022-07-28 |  |
 | [بوغاتي](https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [بوغاتي](https://open.spotify.com/album/4DpbKWBZKyvuSKDL33ija7) | 2:34 | 2022-05-10 | 2022-06-15 |
 | [تاني](https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تاني](https://open.spotify.com/album/0fBTcx8BchMZh0UyFqDmIn) | 2:46 | 2022-05-10 | 2022-07-07 |
+| [حدوته المانى](https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 2:37 | 2022-08-08 |  |
 | [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2022-05-10 |  |
 | [عطشان وبستنى تغيير](https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير](https://open.spotify.com/album/7oT3KutU3W3hLFp1kHdSQ8) | 1:27 | 2022-06-28 |  |
 | [كابتن](https://open.spotify.com/track/6dR03uJtlIIIfQsf6EuesI) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/04RBwKhmlQubyTNNu70Xx1) | 2:58 | 2022-05-10 |  |

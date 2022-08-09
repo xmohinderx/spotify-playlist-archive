@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 45563,
+  "num_followers": 45607,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjAzNzU2NSwwMDAwMDAwMDc3YzFlMjZiODlkYTg5YjQ4MGI2ZmUzOThiYTI3ZmZj",
+  "snapshot_id": "MTYwNjAzNzU2NSwwMDAwMDAwMGYxYTcxZGI1NDBhNmNkMWNmMmYwMmZlMmQ3NjNjYWNi",
   "tracks": [
     {
       "added_at": "2020-11-22 09:32:45",
@@ -95,6 +95,22 @@
     {
       "added_at": "2020-11-22 09:32:45",
       "album": {
+        "name": "Maliket Gamal El Rouh",
+        "url": "https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "duration_ms": 227869,
+      "name": "Maliket Gamal El Rouh",
+      "url": "https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv"
+    },
+    {
+      "added_at": "2020-11-22 09:32:45",
+      "album": {
         "name": "Sabah",
         "url": "https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 325440,
       "name": "Sallem Alayha",
       "url": "https://open.spotify.com/track/7wtPJEWAN0iFyR0yEaBxWX"
-    },
-    {
-      "added_at": "2020-11-22 09:32:45",
-      "album": {
-        "name": "Maliket Gamal El Rouh",
-        "url": "https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR"
-      },
-      "artists": [
-        {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
-        }
-      ],
-      "duration_ms": 227869,
-      "name": "Maliket Gamal El Rouh",
-      "url": "https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv"
     },
     {
       "added_at": "2020-11-22 09:32:45",
@@ -175,22 +175,6 @@
     {
       "added_at": "2020-11-22 09:32:45",
       "album": {
-        "name": "Haramt Ahebak",
-        "url": "https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo"
-      },
-      "artists": [
-        {
-          "name": "Warda",
-          "url": "https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr"
-        }
-      ],
-      "duration_ms": 476487,
-      "name": "Haramt Ahebak",
-      "url": "https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5"
-    },
-    {
-      "added_at": "2020-11-22 09:32:45",
-      "album": {
         "name": "El Layale",
         "url": "https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 1185163,
       "name": "El Hop Elly Kan",
       "url": "https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7"
+    },
+    {
+      "added_at": "2020-11-22 09:32:45",
+      "album": {
+        "name": "Haramt Ahebak",
+        "url": "https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo"
+      },
+      "artists": [
+        {
+          "name": "Warda",
+          "url": "https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr"
+        }
+      ],
+      "duration_ms": 476487,
+      "name": "Haramt Ahebak",
+      "url": "https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5"
     },
     {
       "added_at": "2020-11-22 09:32:45",
@@ -223,22 +223,6 @@
     {
       "added_at": "2020-11-22 09:32:45",
       "album": {
-        "name": "Hal El Garih",
-        "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
-      },
-      "artists": [
-        {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
-        }
-      ],
-      "duration_ms": 201598,
-      "name": "Hal El Garih",
-      "url": "https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6"
-    },
-    {
-      "added_at": "2020-11-22 09:32:45",
-      "album": {
         "name": "Top Wadie Essafi (The Voice of Lebanon)",
         "url": "https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo"
       },
@@ -255,22 +239,6 @@
     {
       "added_at": "2020-11-22 09:32:45",
       "album": {
-        "name": "Badak Maleoun Seneh",
-        "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
-      },
-      "artists": [
-        {
-          "name": "Melhem Barakat",
-          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
-        }
-      ],
-      "duration_ms": 954506,
-      "name": "Ala Babee Waqef Qamaren",
-      "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
-    },
-    {
-      "added_at": "2020-11-22 09:32:45",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
       },
@@ -283,6 +251,38 @@
       "duration_ms": 376386,
       "name": "Wahashtini",
       "url": "https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J"
+    },
+    {
+      "added_at": "2020-11-22 09:32:45",
+      "album": {
+        "name": "Hal El Garih",
+        "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "duration_ms": 201598,
+      "name": "Hal El Garih",
+      "url": "https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6"
+    },
+    {
+      "added_at": "2020-11-22 09:32:45",
+      "album": {
+        "name": "Badak Maleoun Seneh",
+        "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
+      },
+      "artists": [
+        {
+          "name": "Melhem Barakat",
+          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
+        }
+      ],
+      "duration_ms": 954506,
+      "name": "Ala Babee Waqef Qamaren",
+      "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
     },
     {
       "added_at": "2020-11-22 09:32:45",
@@ -351,6 +351,22 @@
     {
       "added_at": "2020-11-22 09:32:45",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "duration_ms": 389773,
+      "name": "Al-Hobbi Koullou",
+      "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
+    },
+    {
+      "added_at": "2020-11-22 09:32:45",
+      "album": {
         "name": "Tarab Hits",
         "url": "https://open.spotify.com/album/0OgTQ6y9BY3fZ4RaCsM6wJ"
       },
@@ -363,6 +379,22 @@
       "duration_ms": 213786,
       "name": "Ashka We Ghalbana",
       "url": "https://open.spotify.com/track/20hX2SNY7z2Eesit48jH1p"
+    },
+    {
+      "added_at": "2020-11-22 09:32:45",
+      "album": {
+        "name": "Ossit Helem",
+        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 303765,
+      "name": "Debna Aa Ghiyabak (Live)",
+      "url": "https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG"
     },
     {
       "added_at": "2020-11-22 09:32:45",
@@ -383,22 +415,6 @@
     {
       "added_at": "2020-11-22 09:32:45",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
-      },
-      "artists": [
-        {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
-        }
-      ],
-      "duration_ms": 389773,
-      "name": "Al-Hobbi Koullou",
-      "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
-    },
-    {
-      "added_at": "2020-11-22 09:32:45",
-      "album": {
         "name": "Ma Tehun",
         "url": "https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf"
       },
@@ -415,50 +431,18 @@
     {
       "added_at": "2020-11-22 09:32:45",
       "album": {
-        "name": "Nesseit El Noum",
-        "url": "https://open.spotify.com/album/16jh51MRSnPk4OWxnHZ688"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
       },
       "artists": [
         {
-          "name": "Rida",
-          "url": "https://open.spotify.com/artist/2fDV7WMHe1Wj7FZ8rVfnwp"
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
         }
       ],
-      "duration_ms": 290613,
-      "name": "Nesseit El Noum",
-      "url": "https://open.spotify.com/track/150RdQBL2CroFPlEEXXMtg"
-    },
-    {
-      "added_at": "2020-11-22 09:32:45",
-      "album": {
-        "name": "Ya Sidi",
-        "url": "https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv"
-      },
-      "artists": [
-        {
-          "name": "Tarabband",
-          "url": "https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA"
-        }
-      ],
-      "duration_ms": 277080,
-      "name": "Baghdad Choby",
-      "url": "https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF"
-    },
-    {
-      "added_at": "2020-11-22 09:32:45",
-      "album": {
-        "name": "Ossit Helem",
-        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 303765,
-      "name": "Debna Aa Ghiyabak (Live)",
-      "url": "https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG"
+      "duration_ms": 449226,
+      "name": "Ibaati Gawab",
+      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
     },
     {
       "added_at": "2020-11-22 09:32:45",
@@ -495,6 +479,38 @@
     {
       "added_at": "2020-11-22 09:32:45",
       "album": {
+        "name": "Nesseit El Noum",
+        "url": "https://open.spotify.com/album/16jh51MRSnPk4OWxnHZ688"
+      },
+      "artists": [
+        {
+          "name": "Rida",
+          "url": "https://open.spotify.com/artist/2fDV7WMHe1Wj7FZ8rVfnwp"
+        }
+      ],
+      "duration_ms": 290613,
+      "name": "Nesseit El Noum",
+      "url": "https://open.spotify.com/track/150RdQBL2CroFPlEEXXMtg"
+    },
+    {
+      "added_at": "2020-11-22 09:32:45",
+      "album": {
+        "name": "Ya Sidi",
+        "url": "https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv"
+      },
+      "artists": [
+        {
+          "name": "Tarabband",
+          "url": "https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA"
+        }
+      ],
+      "duration_ms": 277080,
+      "name": "Baghdad Choby",
+      "url": "https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF"
+    },
+    {
+      "added_at": "2020-11-22 09:32:45",
+      "album": {
         "name": "El Zakah",
         "url": "https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 119318,
       "name": "El Zakah",
       "url": "https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t"
-    },
-    {
-      "added_at": "2020-11-22 09:32:45",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
-      },
-      "artists": [
-        {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
-        }
-      ],
-      "duration_ms": 449226,
-      "name": "Ibaati Gawab",
-      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
     },
     {
       "added_at": "2020-11-22 09:32:45",

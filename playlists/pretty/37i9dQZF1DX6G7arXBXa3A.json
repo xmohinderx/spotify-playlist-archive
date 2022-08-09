@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 370201,
+  "num_followers": 370234,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMGMzNTY3MTNkYTAwYTc1NzkyZmFhNTlmOTA3NDAxNzY1",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDA4M2FmYTM5ODc0MDBmZTEzNzJlNDFmYjA1NDUxZTU1",
   "tracks": [
     {
       "added_at": "2022-07-22 04:02:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -251,22 +235,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Sinatra 80th: All The Best",
-        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "The Essential Benny Goodman",
         "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
@@ -279,6 +247,38 @@
       "duration_ms": 520293,
       "name": "Sing, Sing, Sing",
       "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -479,6 +479,26 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 404880,
+      "name": "Take The \"A\" Train",
+      "url": "https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Djangologie Vol.4 / 1937",
         "url": "https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 166826,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 404880,
-      "name": "Take The \"A\" Train",
-      "url": "https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -827,22 +827,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "The Quintessence",
         "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
       },
@@ -855,6 +839,38 @@
       "duration_ms": 147080,
       "name": "Straight, No Chaser",
       "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Exotic Sounds from a Space Age Bachelor Pad",
+        "url": "https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0"
+      },
+      "artists": [
+        {
+          "name": "Bob Florence Big Band",
+          "url": "https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI"
+        }
+      ],
+      "duration_ms": 101882,
+      "name": "Moonlight on the Ganges",
+      "url": "https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -875,22 +891,6 @@
       "duration_ms": 582509,
       "name": "The Waltz I Blew for You",
       "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Exotic Sounds from a Space Age Bachelor Pad",
-        "url": "https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0"
-      },
-      "artists": [
-        {
-          "name": "Bob Florence Big Band",
-          "url": "https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI"
-        }
-      ],
-      "duration_ms": 101882,
-      "name": "Moonlight on the Ganges",
-      "url": "https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO"
     },
     {
       "added_at": "2021-02-26 05:01:00",

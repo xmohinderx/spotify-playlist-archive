@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 50386,
+  "num_followers": 50423,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDk0YmM1M2JjZDk1YmFhOWUzNzg5OGZjZGQ2ZDBmYWRk",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDAwZGZiMmM5ZTAwYjA0OGI0N2YxMGJiMWU4MWI1OTVj",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -671,6 +671,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/2TY85U8jDMquWwjz4WqyEm"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Faccia a faccia (Remixes)",
         "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 227019,
       "name": "Faccia a faccia - Italoconnection Remix Radio",
       "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm"
-      },
-      "artists": [
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/2TY85U8jDMquWwjz4WqyEm"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -759,26 +759,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "What Are U Gonna Do",
-        "url": "https://open.spotify.com/album/243U9nGlE63ErtM8fE1g4U"
-      },
-      "artists": [
-        {
-          "name": "Ladebare",
-          "url": "https://open.spotify.com/artist/5AnAdS3TumeVuPszRkY13h"
-        },
-        {
-          "name": "Janai",
-          "url": "https://open.spotify.com/artist/0x9rtwsyJne349H9TJGDk0"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "What Are U Gonna Do",
-      "url": "https://open.spotify.com/track/1LPrVY0aROcFkP2A9D9YCJ"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Eyes Wide Strut (feat. Wooze) [Tunnelvisions Remix]",
         "url": "https://open.spotify.com/album/2B9sn1QAF4AZ6h9N0cBFAG"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 350000,
       "name": "Eyes Wide Strut (feat. Wooze) - Tunnelvisions Remix",
       "url": "https://open.spotify.com/track/1bAop39IxOjIyYXSL0jENv"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "What Are U Gonna Do",
+        "url": "https://open.spotify.com/album/243U9nGlE63ErtM8fE1g4U"
+      },
+      "artists": [
+        {
+          "name": "Ladebare",
+          "url": "https://open.spotify.com/artist/5AnAdS3TumeVuPszRkY13h"
+        },
+        {
+          "name": "Janai",
+          "url": "https://open.spotify.com/artist/0x9rtwsyJne349H9TJGDk0"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "What Are U Gonna Do",
+      "url": "https://open.spotify.com/track/1LPrVY0aROcFkP2A9D9YCJ"
     },
     {
       "added_at": "2021-08-27 15:45:01",

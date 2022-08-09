@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. Cover: 板歯目\(Banshimoku\)
 
-434 songs - 23 hr 46 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+435 songs - 23 hr 48 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Believer](https://open.spotify.com/track/4TJeTiTmNhzBBZeI4bSVTV) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2NK3TmaOmduXVBSm0LZ28N) | 2:49 | 2022-05-12 | 2022-07-27 |
 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 | 2022-07-21 |  |
 | [Better Days](https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [H.U.E.](https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x) | 3:53 | 2022-05-12 |  |
-| [Better Luck](https://open.spotify.com/track/3rgQQ8C7PGzpW5gsWUTZO1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar), [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP), [locofrank](https://open.spotify.com/artist/16LHeL1NFVUDTC6dLzkwcm) | [Better Luck](https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA) | 3:45 | 2022-05-12 |  |
+| [Better Luck](https://open.spotify.com/track/3rgQQ8C7PGzpW5gsWUTZO1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar), [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP), [locofrank](https://open.spotify.com/artist/16LHeL1NFVUDTC6dLzkwcm) | [Better Luck](https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA) | 3:45 | 2022-05-12 | 2022-08-09 |
 | [Better Off Dead](https://open.spotify.com/track/5YeC2YVuszZ7Wmg0MIwIeM) | [Velvet Sighs](https://open.spotify.com/artist/0CWI9gU5g8Kjz9IldPjJeH) | [Better Off Dead](https://open.spotify.com/album/7tADwDxklwB0GjzKiJklF7) | 2:44 | 2022-07-19 |  |
 | [Better Way](https://open.spotify.com/track/11MccDXhhW4MTKBOC0YC3t) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [Better Way](https://open.spotify.com/album/2pCbPUcGS6YRWGL3MJ5BWU) | 3:09 | 2022-05-17 | 2022-07-28 |
 | [Betty](https://open.spotify.com/track/1xLlG6M2xQgLJA1WMgeORO) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [Travel The Galaxy](https://open.spotify.com/album/4hgbIPdkKiarkm4cNqw3gd) | 4:36 | 2022-07-19 |  |
@@ -246,6 +246,7 @@
 | [Spineless Black](https://open.spotify.com/track/5inOkwVKe3HaVEb3cL2vFX) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [Spineless Black](https://open.spotify.com/album/4Lk3VyougEhhTTSknMOoqi) | 4:18 | 2022-05-12 | 2022-07-24 |
 | [Star Falls On Our Hands Tonight](https://open.spotify.com/track/4oR4CLlb28cJfhnLy8cOVi) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [RINGS](https://open.spotify.com/album/6Pq5LR08qt9lf1YyP6pZtX) | 3:28 | 2022-05-19 | 2022-07-29 |
 | [STAY GLOW](https://open.spotify.com/track/3JdLuVZzVu8NAb6n2Ml49h) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [TAKUMA](https://open.spotify.com/artist/4nOzNf1MhztxPec9rMTQ1i) | [S.A.L](https://open.spotify.com/album/7sWgmxbx6fOYBxiQbyMG2L) | 5:10 | 2022-05-19 | 2022-07-27 |
+| [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 | 2022-08-02 |  |
 | [STAY GOLD](https://open.spotify.com/track/4fyZ8EqPZzxPyrpMmr1CYQ) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/5ZLz1cMuiUoRDHx9qLmqqg) | 2:00 | 2022-05-12 | 2022-07-27 |
 | [STAY GOLD \- PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/track/1bFjI57VlMreMqR4Vtp2TJ) | [Akihiro Namba](https://open.spotify.com/artist/7F1stPkk7RZf19mw2mwtJH) | [PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/album/02tJBtvZr9frKBKY2cIJaW) | 2:29 | 2022-05-19 | 2022-07-27 |
 | [Stay Punk Forever](https://open.spotify.com/track/4kO0rBpUaPKV0d2r9w3Fip) | [THE STARBEMS](https://open.spotify.com/artist/6SXxBrj5sKrSXiAV2tpWWq) | [STAY PUNK FOREVER](https://open.spotify.com/album/0bIO2OKQ3k4fnE8tqUw03U) | 2:41 | 2022-05-19 | 2022-07-28 |

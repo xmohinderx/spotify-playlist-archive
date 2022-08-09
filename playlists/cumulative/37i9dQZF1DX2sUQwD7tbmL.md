@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-460 songs - 1 day 2 hr 16 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+461 songs - 1 day 2 hr 19 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2021-05-26 |  |
 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 | 2022-06-08 | 2022-08-02 |
 | [Mary](https://open.spotify.com/track/5T0Ib1Hjhsua7qbGTczU7j) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 3:17 | 2022-04-13 | 2022-07-30 |
+| [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 | 2022-08-08 |  |
 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 | 2021-05-01 | 2022-04-13 |
 | [Mexico](https://open.spotify.com/track/2bN6To5ipOH6yjYcdujDpt) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Mexico](https://open.spotify.com/album/4uI6jdrKh14N8In0ttCwub) | 3:32 | 2021-05-01 | 2022-04-14 |
 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 | 2021-05-01 | 2022-07-29 |
@@ -370,7 +371,7 @@
 | [Something](https://open.spotify.com/track/5etvVR36xgYO9VawprrrkI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Something](https://open.spotify.com/album/7qFX9i911Rrls92EdkJcKL) | 1:54 | 2021-05-01 | 2022-07-29 |
 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 | 2022-04-13 | 2022-04-21 |
 | [Something to Lose](https://open.spotify.com/track/3ymNP4eOqyE6Ci7depianP) | [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF) | [Something to Lose](https://open.spotify.com/album/5x9hoO80ZMOmWkvL76IpSm) | 3:42 | 2021-05-01 | 2022-04-13 |
-| [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 | 2021-05-01 |  |
+| [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 | 2021-05-01 | 2022-08-09 |
 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 | 2021-05-01 | 2022-07-29 |
 | [Spiders](https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Spiders](https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ) | 3:18 | 2021-05-01 | 2022-07-29 |
 | [Sports](https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F) | 2:44 | 2022-07-22 |  |

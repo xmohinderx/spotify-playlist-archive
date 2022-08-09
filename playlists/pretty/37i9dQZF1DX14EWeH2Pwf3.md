@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia\. Cover: AVA, Medy, VillaBanks
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,778 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,172 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 18 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 |
 | 19 | [Non è Easy](https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Non è Easy](https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP) | 2:44 |
 | 20 | [Bisous](https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bisous](https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP) | 2:34 |
-| 21 | [EGO](https://open.spotify.com/track/6i88tx7811AzFNDknwILat) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/0iJVjnO4uw4vTJImGTwyXb) | 2:51 |
+| 21 | [EGO](https://open.spotify.com/track/0D7gNQErvyNXUo8fwhJtiA) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS) | 2:51 |
 | 22 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 |
 | 23 | [Mamma Mia](https://open.spotify.com/track/7d7xucQmFY7PoESyJm2V9J) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Mamma Mia](https://open.spotify.com/album/4hPNVvtU3MXV6Oefi11Zx3) | 2:46 |
-| 24 | [MUJER](https://open.spotify.com/track/6MeRMkI1kS0glrxGxut60K) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6s3XBzC7ghTwGeEFEDJRzM) | 2:41 |
+| 24 | [MUJER](https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV) | 2:41 |
 | 25 | [LAPROVINCE \#2](https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#2](https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH) | 1:56 |
 | 26 | [MALA \(feat\. Lazza, Tony Effe, JVLI\)](https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:58 |
 | 27 | [Mujer \(feat\. Madame\)](https://open.spotify.com/track/2B2jQ2cdbrsWs1XmjVhdrU) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 2:41 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 54 | [PYPPARE](https://open.spotify.com/track/2jDqFufZErKkm9JXgPc4lF) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [PYPPARE](https://open.spotify.com/album/246AxAt6mteMy8NmGHD23U) | 2:36 |
 | 55 | [Sarabamba \(feat\. Guè & Crookers\)](https://open.spotify.com/track/4ts969TgdnzsYvadQ5TTm2) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Sarabamba \(feat\. Guè & Crookers\)](https://open.spotify.com/album/0885yPqvgNKCwcjvfSqGpK) | 4:01 |
 
-Snapshot ID: `MTY1OTcxMzMwNCwwMDAwMDAwMGJiMjIwZDEwZTkxMWIyMzE1MmVhZTZkMmZmYTM4NTM2`
+Snapshot ID: `MTY1OTcxMzMwNCwwMDAwMDAwMGVjMmZhMTIxMDNhN2Q3ZTIwNDRlYTY4YTVkMTU5Njcx`

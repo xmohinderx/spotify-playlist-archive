@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Charli XCX
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Beyoncé 🐝
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,510 likes - 77 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,220 likes - 77 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 76 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 77 | [Venom](https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Venom](https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv) | 2:34 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMGQwYzQ1NjM4YjlmMGQzNmJlMDBhZmZjZjY5MDlkNDAw`
+Snapshot ID: `MTY1OTkyMjkxOSwwMDAwMDAwMGJhMmQ3NWI5Yjg5MTVlYzlmZDg2ZTAxYzZjYWMwMTE5`

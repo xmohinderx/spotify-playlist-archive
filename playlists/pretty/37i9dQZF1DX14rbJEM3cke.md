@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock driving the current, every week\. Black Punk Takeover by Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,826 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,891 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 53 | [Heavy Heart](https://open.spotify.com/track/4ax7gFJPsJlE5RYX8Cg78s) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Heavy Heart](https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68) | 4:23 |
 | 54 | [Smack a Bitch](https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Smack a Bitch](https://open.spotify.com/album/3Ja54bCouLvrDLt3XKzMii) | 2:18 |
 | 55 | [Nine Inch Nail](https://open.spotify.com/track/0aAfcurVtjspu4S7SLNy4B) | [Chief Cleopatra](https://open.spotify.com/artist/4JtoyhF0vrGEvOh0O6z2vK) | [Luna](https://open.spotify.com/album/1S3YhavDzM2XHiZbTjNdIs) | 3:54 |
-| 56 | [I GAVE YOU EVERYTHING](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [I GAVE YOU EVERYTHING](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 |
+| 56 | [i gave you everything](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i gave you everything](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 |
 | 57 | [junky](https://open.spotify.com/track/2ZrPCVQCGWiEOA3bSzcAkq) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [LET IT SINK IN](https://open.spotify.com/album/0X5qYffN3B8SwczRa1T6Im) | 3:24 |
 | 58 | [SUCKAPUNCH](https://open.spotify.com/track/6191y55iGLlhi8N1yrynBs) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [SUCKAPUNCH](https://open.spotify.com/album/1bdKi7R0oAgdOnXFCRSQkB) | 2:27 |
 | 59 | [Barricades](https://open.spotify.com/track/3NMToDCphGcHJMt3aYmIMC) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Poser](https://open.spotify.com/album/0RS7DFD78rcCxwIofO13et) | 0:59 |

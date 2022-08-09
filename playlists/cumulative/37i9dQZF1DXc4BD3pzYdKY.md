@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: nobigdyl.
 
-615 songs - 1 day 7 hr 4 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+616 songs - 1 day 7 hr 7 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [FRONT ROW](https://open.spotify.com/track/2eKAGXhvlPxUsGe4PXVR73) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [FRONT ROW](https://open.spotify.com/album/2OJbLHFcmhmEYLKXm5BByp) | 3:15 | 2021-12-11 | 2022-05-29 |
 | [Ghost](https://open.spotify.com/track/4XhUObUqIGEl0ktONaZ9Oo) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q) | [Ghost](https://open.spotify.com/album/5rOP9eB4N1rFSGVCuYl8cr) | 3:15 | 2021-12-11 | 2022-02-05 |
 | [Ghost](https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [Ghost](https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB) | 2:07 | 2022-05-28 |  |
-| [GIRLGANG Freestyle](https://open.spotify.com/track/2MV1HLZpmWM6GNGIvX38Ki) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mykiiie](https://open.spotify.com/artist/4JSnrso8KwkOdVhYh7iFTE) | [GIRLGANG Freestyle](https://open.spotify.com/album/47ak5YwAJltPiEntEH2CNt) | 2:46 | 2022-06-25 |  |
+| [GIRLGANG Freestyle](https://open.spotify.com/track/2MV1HLZpmWM6GNGIvX38Ki) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mykiiie](https://open.spotify.com/artist/4JSnrso8KwkOdVhYh7iFTE) | [GIRLGANG Freestyle](https://open.spotify.com/album/47ak5YwAJltPiEntEH2CNt) | 2:46 | 2022-06-25 | 2022-08-09 |
 | [Give You My Last](https://open.spotify.com/track/7BaTq18k26aXmT0FJMCudt) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Give You My Last](https://open.spotify.com/album/5JrgdyLCtCwoNmVCFkiOZC) | 2:52 | 2022-06-25 | 2022-07-18 |
 | [Glory](https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Glory](https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC) | 2:30 | 2022-05-28 |  |
 | [Glory On Me](https://open.spotify.com/track/5AZppquII76qli3EUyUy8M) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [Glory On Me](https://open.spotify.com/album/2sPr44v1gGuL9vFxhCcAqJ) | 3:28 | 2021-12-11 | 2022-02-05 |
@@ -431,6 +431,7 @@
 | [POWER](https://open.spotify.com/track/2vqmCvD4K1L2yt5qiF3fxg) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [POWER](https://open.spotify.com/album/6lgqS4IlI74DCpsrwlmbyi) | 2:44 | 2022-08-06 |  |
 | [PRAISE](https://open.spotify.com/track/5byGxd61EEz895Kfwcq8S9) | [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl), [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [DJ Mykael V](https://open.spotify.com/artist/0PTMRmd0K8i7no2dGYOGkN) | [PRAISE](https://open.spotify.com/album/2QK7rnD0ApLASMQhY51Sjz) | 2:53 | 2021-12-11 | 2022-01-13 |
 | [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 | 2022-07-17 |  |
+| [Pray 2 God](https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Pray 2 God](https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec) | 2:36 | 2022-08-06 |  |
 | [Pray for Me](https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Pray for Me](https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H) | 2:45 | 2022-06-25 |  |
 | [PRESS](https://open.spotify.com/track/4IbeLxSiXnD79Ozl6FvGxu) | [J\. Crum](https://open.spotify.com/artist/6ZvBaBl5ozrLIBxBAKpGDt), [Ayo Shamir](https://open.spotify.com/artist/3Xy4ZQ2ZZxGL3W8SBGHOo7) | [PRESS](https://open.spotify.com/album/1oqbZovUcI56wT3h7O9IAk) | 2:27 | 2022-02-04 | 2022-04-29 |
 | [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 | 2022-07-17 |  |

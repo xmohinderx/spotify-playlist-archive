@@ -4,7 +4,7 @@
 
 > ¡Estos son los hits que acompañan la fiesta!
 
-195 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/6IPzRDUEtzLkeTo5vJszoR)
+195 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/6IPzRDUEtzLkeTo5vJszoR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [El Negrito](https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [De Menor a Mayor](https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs) | 2:56 | 2022-06-24 | 2022-07-06 |
 | [El Teke Teke](https://open.spotify.com/track/13N3Nd6nQMe5yDgo9wzUuV) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [El Teke Teke](https://open.spotify.com/album/2E4AdaVSSNpAcyV8jb9oao) | 2:57 | 2022-06-03 | 2022-06-11 |
 | [Ella \- Remix](https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Ella \(Remix\)](https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH) | 5:30 | 2022-06-03 |  |
-| [Ella Ya Me Olvido \- Radio Edit](https://open.spotify.com/track/5hU55DdOI7czxGFufcsrS4) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Ella Ya Me Olvido \(Radio Edit\)](https://open.spotify.com/album/5ECD0CGqwDeEFo6l7UvEkq) | 4:50 | 2022-06-03 |  |
+| [Ella Ya Me Olvido \- Radio Edit](https://open.spotify.com/track/5hU55DdOI7czxGFufcsrS4) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Ella Ya Me Olvido \(Radio Edit\)](https://open.spotify.com/album/5ECD0CGqwDeEFo6l7UvEkq) | 4:09 | 2022-06-03 |  |
 | [En Peligro de Extinción](https://open.spotify.com/track/6NFqonbFp2QhnJIh7cE2s3) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP), [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [En Peligro de Extinción](https://open.spotify.com/album/14Foo9zoA4och3tgCOfjm6) | 4:01 | 2022-06-03 | 2022-07-29 |
 | [Envolver Remix](https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Envolver Remix](https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY) | 3:02 | 2022-06-03 |  |
 | [Esta Noche](https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:48 | 2022-06-03 | 2022-07-29 |

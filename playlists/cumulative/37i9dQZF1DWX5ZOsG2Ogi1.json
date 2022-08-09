@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 218893,
       "name": "3G (feat. Jon Z & Don Chezina)",
       "url": "https://open.spotify.com/track/4GFBMqbSAOr7ZvGWEtJFSx"
@@ -159,7 +159,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 207480,
       "name": "Ahora Es",
       "url": "https://open.spotify.com/track/0hdYSzEWKyKHnfhGoVFSGM"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 232973,
       "name": "La f\u00f3rmula (feat. Chris Jedi)",
       "url": "https://open.spotify.com/track/55NwAn7bAl1edTEg1azLOW"
@@ -1692,6 +1692,36 @@
     },
     {
       "album": {
+        "name": "Pa Que Sude (Gonna Make You Sweat/Chosen Few Mix) Feat Shooter Ledo",
+        "url": "https://open.spotify.com/album/6j4069Tdz2qXq4ZsxOWZfp"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180680,
+      "name": "Pa Que Sude (Gonna Make You Sweat/Chosen Few Mix) Feat Shooter Ledo",
+      "url": "https://open.spotify.com/track/64znnDhgrJjbxQK7dsEe3Q"
+    },
+    {
+      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -1754,6 +1784,36 @@
     },
     {
       "album": {
+        "name": "FR\u00cdO",
+        "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Red Fingers",
+          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "PERDON TOI EN DINERO",
+      "url": "https://open.spotify.com/track/2d75kmyVQm1L7Lasq0Hdkz"
+    },
+    {
+      "album": {
         "name": "Permitame",
         "url": "https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB"
       },
@@ -1809,7 +1869,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 159587,
       "name": "Perreo Bendito",
       "url": "https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM"
@@ -1883,6 +1943,24 @@
       "duration_ms": 188093,
       "name": "Perro Negro (with Totoy El Frio)",
       "url": "https://open.spotify.com/track/3ePJUfW0ckP5XW2tc4yNgt"
+    },
+    {
+      "album": {
+        "name": "Persia",
+        "url": "https://open.spotify.com/album/5IEJzd1WqQOCDFyCnq9TVs"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "Persia",
+      "url": "https://open.spotify.com/track/3Nb754wzOs49m1gT0U4yn1"
     },
     {
       "album": {
@@ -2295,7 +2373,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 135967,
       "name": "Se Enamor\u00f3 de un Reggaetonero",
       "url": "https://open.spotify.com/track/0dlEA0Yhxsd09QWncDvaXF"
@@ -2465,6 +2543,28 @@
       "duration_ms": 188560,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
+    },
+    {
+      "album": {
+        "name": "SUSANA",
+        "url": "https://open.spotify.com/album/2to3l5blV24S95syzQg5Th"
+      },
+      "artists": [
+        {
+          "name": "Leo Bash",
+          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
+        },
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151076,
+      "name": "SUSANA",
+      "url": "https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS"
     },
     {
       "album": {
@@ -2889,6 +2989,28 @@
       "duration_ms": 189466,
       "name": "Tussi",
       "url": "https://open.spotify.com/track/4vjVdfdBHnUiaFCcUa3gfn"
+    },
+    {
+      "album": {
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "album": {

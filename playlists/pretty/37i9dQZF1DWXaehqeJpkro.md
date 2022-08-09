@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,072 likes - 148 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,066 likes - 148 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 105 | [I Still love you a lot](https://open.spotify.com/track/3cZvGx80KaW9PrJ0OBez7o) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Still love you a lot](https://open.spotify.com/album/1vfkbNsnBmRRjI4q4dMAgR) | 4:35 |
 | 106 | [See you later](https://open.spotify.com/track/49YuuWJfFdTVQVAhIKJayp) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [See you later](https://open.spotify.com/album/3rCEmiDMGkp5ErKv218n6k) | 3:36 |
 | 107 | [Break up](https://open.spotify.com/track/3INPEyKw1nVft467ejF7dp) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [Break up](https://open.spotify.com/album/3UhXyglD4N7SLFGBIizoSI) | 3:42 |
-| 108 | [Your regards](https://open.spotify.com/track/6SaKyXH6iiL9qrdf0cShlE) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Your regards](https://open.spotify.com/album/6d99aJAxyuWYxNGtX6H9l2) | 3:59 |
+| 108 | [Your Regards](https://open.spotify.com/track/6WgChN2kqQpNSsIXgu6oAX) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Your Regards](https://open.spotify.com/album/3GGd74l9qQz3nu8nWnntAs) | 3:59 |
 | 109 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
 | 110 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
 | 111 | [Let's Have a Drink](https://open.spotify.com/track/26GfPMUuBToGLUlEmjE2Go) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [ATELIER](https://open.spotify.com/album/4SBAMHsdBsKeyDb7EqzUV6) | 3:30 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 147 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 |
 | 148 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 |
 
-Snapshot ID: `MTY0NTYxOTExMiwwMDAwMDAwMDhmOWQwZWMzZWNiMTVhZmFmYmIzNTQ3ZmU4OWE2Y2Vl`
+Snapshot ID: `MTY0NTYxOTExMiwwMDAwMDAwMGE5Yzc0ZmIyNWVlOWU4OTFmNGJjMzBkZTc0NjQwNTVk`

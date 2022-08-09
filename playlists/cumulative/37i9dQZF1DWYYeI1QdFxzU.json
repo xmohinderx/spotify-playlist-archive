@@ -744,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Some Place Else",
+        "url": "https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187870,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/52x4EIYCNN2LXXgy8LQ7Tb"
+    },
+    {
+      "album": {
         "name": "Grown Into You",
         "url": "https://open.spotify.com/album/3VqfUxHV8ZjcRJq9ihbBVr"
       },
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 367560,
       "name": "Who I Will Become",
       "url": "https://open.spotify.com/track/0QufLChGOfHXdpTrp1p8pG"

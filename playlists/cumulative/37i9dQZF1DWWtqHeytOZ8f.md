@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-504 songs - 1 day 19 hr 21 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+505 songs - 1 day 19 hr 24 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Silence](https://open.spotify.com/track/4hDzsyjdmMSA89mHQNgHdO) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Silence](https://open.spotify.com/album/3SS8Pj4KizsVF4d4nHvXOo) | 3:00 | 2021-10-20 | 2022-07-29 |
 | [Silent Memories](https://open.spotify.com/track/3hzfIU0PEGUcUSHViCUybF) | [Calm Shores](https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB) | [Fall Of A Raindrop](https://open.spotify.com/album/3MO1X0bSHAOzy0FuzP44tm) | 4:11 | 2021-10-20 | 2022-04-21 |
 | [Silver Plane](https://open.spotify.com/track/2ffRK4ffNcvjH3GL0Ay1Io) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Silver Plane](https://open.spotify.com/album/44N6krf8Sg39WkGF4brhMG) | 3:15 | 2021-10-20 | 2022-07-29 |
+| [Silver Plane](https://open.spotify.com/track/6LDotez7zfYGnGFTGCncky) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Silver Plane](https://open.spotify.com/album/5nfMRvJRu7fhF9O83sRFdS) | 3:15 | 2021-10-20 |  |
 | [SLEEP](https://open.spotify.com/track/4hNzwEykt9DWUiU7KRf6Pr) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:25 | 2021-10-20 |  |
 | [Sleeping and Listening On the Beach](https://open.spotify.com/track/2s5KSU826LcRsXvG6aQTBj) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Coastal Railroads In Memories](https://open.spotify.com/album/5mGjo8BbrF3kWU1OyHIK8Z) | 7:30 | 2021-10-20 | 2022-07-29 |
 | [Sleeping And Listening On The Beach](https://open.spotify.com/track/5ZbogTxgCSFk6tjok4lFs3) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Coastal Railroads In Memories](https://open.spotify.com/album/3We2udK4W0Xg5uWTl6KMVj) | 7:30 | 2021-10-20 |  |
@@ -495,7 +496,7 @@
 | [VFXpeaksTWIN](https://open.spotify.com/track/0mPNo3zDtkOcZOzKbKxwTe) | [SW.](https://open.spotify.com/artist/6lDaViWraJYpkI6nRq29vp) | [myDEFINITION](https://open.spotify.com/album/7cD5jelwVYMVfgxjUdUBBc) | 2:16 | 2021-10-20 | 2022-07-26 |
 | [Views from Sixteen Stories](https://open.spotify.com/track/2MZfgbSQ0wdAgyOAzUdLxt) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/05ECaoh4qEPv4Ph2M1htDX) | 4:09 | 2021-10-20 | 2022-06-15 |
 | [Vigia Part 2](https://open.spotify.com/track/31RKPqfCd7KePMVPXmFjrf) | [Grosskopof & Amezcua](https://open.spotify.com/artist/3C2S50mhsAz2PknUWUxMlf) | [Quetzalkrautl](https://open.spotify.com/album/5icq9aVdOKj7HQRU71jW6O) | 7:19 | 2021-10-20 | 2022-07-29 |
-| [Visions II](https://open.spotify.com/track/4V60QHlHRyN6U00K3xI7z4) | [Yamila](https://open.spotify.com/artist/1C2cyevjTKPJ4WVvTlPzUF) | [Visions II](https://open.spotify.com/album/62bihi9m9gnVDjS5ekeMjv) | 4:40 | 2022-03-30 |  |
+| [Visions II](https://open.spotify.com/track/4V60QHlHRyN6U00K3xI7z4) | [Yamila](https://open.spotify.com/artist/1C2cyevjTKPJ4WVvTlPzUF) | [Visions II](https://open.spotify.com/album/62bihi9m9gnVDjS5ekeMjv) | 4:40 | 2022-03-30 | 2022-08-09 |
 | [Voices](https://open.spotify.com/track/3JU3oDXq0VZKJz5DyMaHt5) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Voices](https://open.spotify.com/album/5GwTC3W9c8bGPozFyKSQ8v) | 2:32 | 2021-10-20 |  |
 | [Wabi](https://open.spotify.com/track/22AQbl2FNd3ZhRvTOlaRTP) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [Young American Artist](https://open.spotify.com/album/7uO5lLWW2Nv3G01Yt7lpGP) | 3:29 | 2021-10-20 | 2022-07-28 |
 | [Wake up Rested](https://open.spotify.com/track/3AKj2SIi4Z765IPjXgPnvL) | [Biqram](https://open.spotify.com/artist/7DuaR3ytZuM3RftLPU1aLZ) | [Slip into Darkness](https://open.spotify.com/album/3m3zuNwyp0p5PJsKeGEvep) | 3:05 | 2021-10-20 |  |

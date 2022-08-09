@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Black Skirt(\uac80\uc815\uce58\ub9c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 386314,
+  "num_followers": 386469,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYwMzYwMCwwMDAwMDAwMGQ1NDQ5NWRhNjYwMTI2ZmI2MGFkZmUwY2FhYzBkNjE5",
+  "snapshot_id": "MTY1OTYwMzYwMCwwMDAwMDAwMDM2ZmFhNmIzOTlkMTk0YTdhMTM3NThkNjg4MGY1ZjM4",
   "tracks": [
     {
       "added_at": "2022-08-04 09:00:00",
@@ -343,22 +343,22 @@
     {
       "added_at": "2022-08-04 09:00:00",
       "album": {
-        "name": "NEXT EPISODE",
-        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
+        "name": "5.2 (Feat. LEE SUHYUN)",
+        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
       },
       "artists": [
         {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         },
         {
-          "name": "Lee Sun Hee",
-          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
         }
       ],
-      "duration_ms": 233416,
-      "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
-      "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
+      "duration_ms": 257453,
+      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
     },
     {
       "added_at": "2022-08-04 09:00:00",
@@ -379,6 +379,26 @@
     {
       "added_at": "2022-08-04 09:00:00",
       "album": {
+        "name": "NEXT EPISODE",
+        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        },
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        }
+      ],
+      "duration_ms": 233416,
+      "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
+      "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
+    },
+    {
+      "added_at": "2022-08-04 09:00:00",
+      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 232558,
       "name": "Tree",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
-    },
-    {
-      "added_at": "2022-08-04 09:00:00",
-      "album": {
-        "name": "5.2 (Feat. LEE SUHYUN)",
-        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
     },
     {
       "added_at": "2022-08-04 09:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-08-04 09:00:00",
       "album": {
+        "name": "A Long Dream",
+        "url": "https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 258420,
+      "name": "A Long Dream",
+      "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
+    },
+    {
+      "added_at": "2022-08-04 09:00:00",
+      "album": {
         "name": "Don't be sad",
         "url": "https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 243087,
       "name": "For the gone(with ELLE KOREA)",
       "url": "https://open.spotify.com/track/2yPFwTJ1tUSLH0D28u3153"
-    },
-    {
-      "added_at": "2022-08-04 09:00:00",
-      "album": {
-        "name": "A Long Dream",
-        "url": "https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 258420,
-      "name": "A Long Dream",
-      "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
     },
     {
       "added_at": "2022-08-04 09:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-08-04 09:00:00",
       "album": {
+        "name": "Old Notes",
+        "url": "https://open.spotify.com/album/6T7cyfKQunGFzVKy3nhiGl"
+      },
+      "artists": [
+        {
+          "name": "GON JO",
+          "url": "https://open.spotify.com/artist/613hMXfJTCI4y3HKdWiLvC"
+        }
+      ],
+      "duration_ms": 206735,
+      "name": "Old Notes",
+      "url": "https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX"
+    },
+    {
+      "added_at": "2022-08-04 09:00:00",
+      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 302178,
       "name": "New Plant",
       "url": "https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M"
-    },
-    {
-      "added_at": "2022-08-04 09:00:00",
-      "album": {
-        "name": "Old Notes",
-        "url": "https://open.spotify.com/album/6T7cyfKQunGFzVKy3nhiGl"
-      },
-      "artists": [
-        {
-          "name": "GON JO",
-          "url": "https://open.spotify.com/artist/613hMXfJTCI4y3HKdWiLvC"
-        }
-      ],
-      "duration_ms": 206735,
-      "name": "Old Notes",
-      "url": "https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX"
     },
     {
       "added_at": "2022-08-04 09:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-08-04 09:00:00",
       "album": {
-        "name": "Do You Think Of Me? (4.4)",
-        "url": "https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 196293,
-      "name": "Do You Think Of Me?",
-      "url": "https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh"
-    },
-    {
-      "added_at": "2022-08-04 09:00:00",
-      "album": {
         "name": "Esprit",
         "url": "https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 214918,
       "name": "Lustre",
       "url": "https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC"
+    },
+    {
+      "added_at": "2022-08-04 09:00:00",
+      "album": {
+        "name": "Do You Think Of Me? (4.4)",
+        "url": "https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 196293,
+      "name": "Do You Think Of Me?",
+      "url": "https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh"
     },
     {
       "added_at": "2022-08-04 09:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-08-04 09:00:00",
       "album": {
-        "name": "FINE",
-        "url": "https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J"
       },
       "artists": [
         {
-          "name": "Hoyeon Kim",
-          "url": "https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m"
+          "name": "O3ohn",
+          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
         }
       ],
-      "duration_ms": 157680,
-      "name": "FINE",
-      "url": "https://open.spotify.com/track/1HP9RKXLLbanlco3KB0QsN"
+      "duration_ms": 192452,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b"
     }
   ],
   "unique_name": "In The K-Indie",

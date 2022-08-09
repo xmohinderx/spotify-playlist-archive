@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Chill songs by Billie Eilish, Lauren Spencer Smith, and more! Chill out to these calm indie, pop, and folk tracks, and discover new favorites! Cover: Billie Eilish",
+  "description": "Chill songs by Billie Eilish, Lauv, and more! Chill out to these indie, pop, and folk tracks, and discover new favorites! Cover: Billie Eilish",
   "name": "Indie Chill",
   "published_playlist_ids": [
     "3sjWktyD1KzSMZBUWy3pNl"
@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "All the Time",
+        "url": "https://open.spotify.com/album/0QpKHJqdDv706hFeFDwBBA"
+      },
+      "artists": [
+        {
+          "name": "Sam DeRosa",
+          "url": "https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153976,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/0iAx9AhspWsqsNIbQcIL4J"
+    },
+    {
+      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
@@ -149,6 +167,24 @@
       "duration_ms": 249494,
       "name": "Block me out",
       "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
+    },
+    {
+      "album": {
+        "name": "Breathe (Acoustic)",
+        "url": "https://open.spotify.com/album/7FkDyK4xh5xoUw7HsXL54V"
+      },
+      "artists": [
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201696,
+      "name": "Breathe (Acoustic)",
+      "url": "https://open.spotify.com/track/2JdfEXsJlBQ6Gt52MGIpwW"
     },
     {
       "album": {
@@ -329,7 +365,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 157302,
       "name": "Cold Life",
       "url": "https://open.spotify.com/track/63r9IzWLsWKE2kWI1L328k"
@@ -463,7 +499,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 209906,
       "name": "DEAR MISS HOLLOWAY",
       "url": "https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D"
@@ -607,7 +643,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 136480,
       "name": "Emotionless",
       "url": "https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6"
@@ -726,6 +762,24 @@
     },
     {
       "album": {
+        "name": "All 4 Nothing",
+        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168722,
+      "name": "Hey Ari",
+      "url": "https://open.spotify.com/track/3XA0msNCCQysLnspbnbgw3"
+    },
+    {
+      "album": {
         "name": "Hollow Lover",
         "url": "https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi"
       },
@@ -834,6 +888,24 @@
     },
     {
       "album": {
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/2t9G4JSr0tgjiudH6KWyGl"
+      },
+      "artists": [
+        {
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193158,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/7HY0wLHPhWer6uSUYxsL3k"
+    },
+    {
+      "album": {
         "name": "In The Kitchen",
         "url": "https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q"
       },
@@ -917,7 +989,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 235306,
       "name": "Little Joys",
       "url": "https://open.spotify.com/track/6LzKBCMuZDmcIULxE6ISVv"
@@ -971,7 +1043,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -993,7 +1065,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 175114,
       "name": "lost (feat. Caamp)",
       "url": "https://open.spotify.com/track/3iGK7gwyCTghbhzQU8JIGx"
@@ -1015,6 +1087,24 @@
       "duration_ms": 141081,
       "name": "love you more than me",
       "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
+    },
+    {
+      "album": {
+        "name": "Early Moon",
+        "url": "https://open.spotify.com/album/3JwxWqbWgR4k624zleRENc"
+      },
+      "artists": [
+        {
+          "name": "Sally Seltmann",
+          "url": "https://open.spotify.com/artist/78yXDNBYzL3P9b1V0LP30Y"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250653,
+      "name": "Lovers Lie",
+      "url": "https://open.spotify.com/track/7BuqRuGriQlF12oMIzVmRV"
     },
     {
       "album": {
@@ -1545,7 +1635,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 222466,
       "name": "Somebody's Nobody",
       "url": "https://open.spotify.com/track/3Bc5XUS5sTHtAde1ZA2FzC"
@@ -1621,7 +1711,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 210466,
       "name": "Sunsets For Somebody Else",
       "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
@@ -1740,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "Third Wheel (Piano Version)",
+        "url": "https://open.spotify.com/album/6FdSbFJv0TPUIuXKGB1IUs"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135306,
+      "name": "Third Wheel - Piano Version",
+      "url": "https://open.spotify.com/track/07WWLbwLfugNotm1Uyo4Na"
+    },
+    {
+      "album": {
         "name": "T\u00edu",
         "url": "https://open.spotify.com/album/0yNVKAPulUVLcWDdvyazvN"
       },
@@ -1751,7 +1859,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 232493,
       "name": "This Happiness - The Saddest Version",
       "url": "https://open.spotify.com/track/6PVcbd0oJY1FjWs5tQhOxe"
@@ -1877,7 +1985,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 256079,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/1ErrkKi89V68HHsyUizbJA"
@@ -1895,7 +2003,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 211613,
       "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
       "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
@@ -1985,7 +2093,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 259208,
       "name": "Which Witch",
       "url": "https://open.spotify.com/track/5yiBLMSH9DCRmBtws6wKY3"

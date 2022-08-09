@@ -1,13 +1,73 @@
 {
   "description": "Pacific Northwest music breaking waves. Cover, TeZATalks",
-  "num_followers": 1445,
+  "num_followers": 1447,
   "original_name": "Ripple Effect: PNW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEyNzI3OSwwMDAwMDAwMDVhYTNkODQwZmJiZDU5MjQ3YTBlMDUwYzcxZGZiMTBl",
+  "snapshot_id": "MTY1OTk2NjI0MSwwMDAwMDAwMGU5YmY0Zjk3MzczMjA3ZWZmZDk3NjEwNmEwM2IwMzYx",
   "tracks": [
+    {
+      "added_at": "2022-07-29 20:41:19",
+      "album": {
+        "name": "Cloverfield (feat. Young M.A)",
+        "url": "https://open.spotify.com/album/58vbbkV0r1Z6ZkafF64V0A"
+      },
+      "artists": [
+        {
+          "name": "The Last Artful, Dodgr",
+          "url": "https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        }
+      ],
+      "duration_ms": 179141,
+      "name": "Cloverfield (feat. Young M.A)",
+      "url": "https://open.spotify.com/track/442p5hBETXk6awoANidgbd"
+    },
+    {
+      "added_at": "2022-07-22 20:01:36",
+      "album": {
+        "name": "Not the One",
+        "url": "https://open.spotify.com/album/0j3KSRsrCVHVyPcGvvh1iF"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "Tempest",
+          "url": "https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa"
+        }
+      ],
+      "duration_ms": 199805,
+      "name": "Not the One (feat. Tempest)",
+      "url": "https://open.spotify.com/track/6K0jgAlcDaZhOF07wfsBou"
+    },
+    {
+      "added_at": "2022-08-08 13:44:01",
+      "album": {
+        "name": "see thru",
+        "url": "https://open.spotify.com/album/3QUlAi9JArOOw3GvqHkeDB"
+      },
+      "artists": [
+        {
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
+        },
+        {
+          "name": "Tyler Jay",
+          "url": "https://open.spotify.com/artist/5RwTMdpz2lBR2xlL2TDWsw"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "see thru",
+      "url": "https://open.spotify.com/track/518zcsVjtfXN4KiiD2YhE5"
+    },
     {
       "added_at": "2022-07-22 20:01:36",
       "album": {
@@ -33,26 +93,6 @@
       "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
     },
     {
-      "added_at": "2022-07-22 20:01:36",
-      "album": {
-        "name": "Not the One",
-        "url": "https://open.spotify.com/album/0j3KSRsrCVHVyPcGvvh1iF"
-      },
-      "artists": [
-        {
-          "name": "Zyah Belle",
-          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
-        },
-        {
-          "name": "Tempest",
-          "url": "https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa"
-        }
-      ],
-      "duration_ms": 199805,
-      "name": "Not the One (feat. Tempest)",
-      "url": "https://open.spotify.com/track/6K0jgAlcDaZhOF07wfsBou"
-    },
-    {
       "added_at": "2022-07-18 21:44:16",
       "album": {
         "name": "Great Lakes Influence",
@@ -69,24 +109,20 @@
       "url": "https://open.spotify.com/track/4EmZC9Iz8UMdlApOoYxocq"
     },
     {
-      "added_at": "2022-07-29 20:41:19",
+      "added_at": "2022-08-08 13:44:01",
       "album": {
-        "name": "Cloverfield (feat. Young M.A)",
-        "url": "https://open.spotify.com/album/58vbbkV0r1Z6ZkafF64V0A"
+        "name": "Charmander",
+        "url": "https://open.spotify.com/album/5Cy8xrlkPh9lR5XolUM0QE"
       },
       "artists": [
         {
-          "name": "The Last Artful, Dodgr",
-          "url": "https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n"
-        },
-        {
-          "name": "Young M.A",
-          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         }
       ],
-      "duration_ms": 179141,
-      "name": "Cloverfield (feat. Young M.A)",
-      "url": "https://open.spotify.com/track/442p5hBETXk6awoANidgbd"
+      "duration_ms": 131883,
+      "name": "Charmander",
+      "url": "https://open.spotify.com/track/4NP3gHruXgIo4YSJSNDRBz"
     },
     {
       "added_at": "2022-07-18 21:44:16",
@@ -217,6 +253,46 @@
       "url": "https://open.spotify.com/track/41CadRi4aZhMsFYbBob04v"
     },
     {
+      "added_at": "2022-08-08 13:44:01",
+      "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/0mOp8mI03m3lOk1Uuoo8ql"
+      },
+      "artists": [
+        {
+          "name": "Covi.",
+          "url": "https://open.spotify.com/artist/6kxLApfEzk2X5GqUc35rtS"
+        },
+        {
+          "name": "Deanoboyyoucrazy",
+          "url": "https://open.spotify.com/artist/5i6EiqlK330WH5DKi8eg3o"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/1FhS4QdwBSGdIDOdIVYNCS"
+    },
+    {
+      "added_at": "2022-08-08 13:44:01",
+      "album": {
+        "name": "Pretty Girls Love It Outside (PGLO)",
+        "url": "https://open.spotify.com/album/5xefx5HttoltsJ5bNKJPqv"
+      },
+      "artists": [
+        {
+          "name": "Blakk Soul",
+          "url": "https://open.spotify.com/artist/0gZgdRddDWYxFHUf1BX89S"
+        },
+        {
+          "name": "Waxtheproducer",
+          "url": "https://open.spotify.com/artist/38CaNrjtL23xeme96PHJ8F"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Pretty Girls Love It Outside (PGLO)",
+      "url": "https://open.spotify.com/track/7z6OhsX1veWUk7Sm1Z0syF"
+    },
+    {
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Synergy",
@@ -236,7 +312,7 @@
       "added_at": "2022-07-22 20:01:36",
       "album": {
         "name": "Feel Something",
-        "url": "https://open.spotify.com/album/5q6N52kWVJxH4mwwiI0SLa"
+        "url": "https://open.spotify.com/album/5G9iTmKRQfqUF8ttDs2J0p"
       },
       "artists": [
         {
@@ -246,7 +322,7 @@
       ],
       "duration_ms": 184083,
       "name": "Aquarius",
-      "url": "https://open.spotify.com/track/1vH1CNL63dMulz5x2mIhaW"
+      "url": "https://open.spotify.com/track/7qMuMmqCUb4L9AvrjAx4Qg"
     },
     {
       "added_at": "2022-07-22 20:01:36",
@@ -279,50 +355,6 @@
       "duration_ms": 125384,
       "name": "Thanks And Praises",
       "url": "https://open.spotify.com/track/5J4F79SLhKnv5Q5iu0MwCJ"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "NAH FR",
-        "url": "https://open.spotify.com/album/0GPoiCEoG4luoj1AtymKLE"
-      },
-      "artists": [
-        {
-          "name": "Jaywop",
-          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
-        },
-        {
-          "name": "Tae 10k",
-          "url": "https://open.spotify.com/artist/403NnQvAop8j8TD4Gn4IDJ"
-        }
-      ],
-      "duration_ms": 117762,
-      "name": "NAH FR",
-      "url": "https://open.spotify.com/track/289ATzCDA6Ab7pinxJl03h"
-    },
-    {
-      "added_at": "2022-07-18 21:44:16",
-      "album": {
-        "name": "Chicken Wings (Remix)",
-        "url": "https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Bando.",
-          "url": "https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90"
-        }
-      ],
-      "duration_ms": 165565,
-      "name": "Chicken Wings - Remix",
-      "url": "https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK"
     },
     {
       "added_at": "2022-07-22 20:01:36",
@@ -573,26 +605,6 @@
       "url": "https://open.spotify.com/track/0kwOHSEGerR2J1dVtcb4zd"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "GIMME INDIE ROCK",
-        "url": "https://open.spotify.com/album/2cMUDLzWc3YUBaIeNFOvI4"
-      },
-      "artists": [
-        {
-          "name": "KHRIS P",
-          "url": "https://open.spotify.com/artist/5kWlBrfLyEaITpIECNy577"
-        },
-        {
-          "name": "GLENN",
-          "url": "https://open.spotify.com/artist/5MQG8h58TMmKtuEw5lZyVj"
-        }
-      ],
-      "duration_ms": 88819,
-      "name": "CHAISE LONGUE FREESTYLE (PROD. MATSON)",
-      "url": "https://open.spotify.com/track/0KG6miRsuKv6CjOehmKkfU"
-    },
-    {
       "added_at": "2022-07-29 20:41:19",
       "album": {
         "name": "Stock",
@@ -831,6 +843,22 @@
       "duration_ms": 108000,
       "name": "I'm from seattle",
       "url": "https://open.spotify.com/track/2mXf18jT3lS1cqBBpYPCdP"
+    },
+    {
+      "added_at": "2022-08-08 13:44:01",
+      "album": {
+        "name": "Maik Maik",
+        "url": "https://open.spotify.com/album/2llgBCAIv96g8BkaiRTltd"
+      },
+      "artists": [
+        {
+          "name": "Maika Million",
+          "url": "https://open.spotify.com/artist/550nfGDwq7E0lxtarPhp2j"
+        }
+      ],
+      "duration_ms": 140004,
+      "name": "Maxwell",
+      "url": "https://open.spotify.com/track/4TU3PngLm1I7GuuIV0lVRN"
     },
     {
       "added_at": "2022-07-01 04:00:00",

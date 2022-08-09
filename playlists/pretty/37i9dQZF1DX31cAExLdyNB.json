@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 50235,
+  "num_followers": 50271,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDJjNzg4Nzg4Nzc5OThiMjRiY2JjMWQ5ZTMyN2JmZWE3",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDhiM2MzMDhiMDU3MDA1ZWEzNDQ1MzFkYTQwY2Y5YTZi",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Chapstick",
-        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 193299,
-      "name": "Chapstick",
-      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Origami",
         "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 194082,
       "name": "Hano\u00ef caf\u00e9",
       "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Chapstick",
+        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Pala",
-        "url": "https://open.spotify.com/album/1Xt7yUmfmRqBfYNfHzq4tI"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 302573,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/6sxDNzpXENTruPdt31UPeU"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Los Caymanes (Para Olvidar)",
         "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 205714,
       "name": "Los Caymanes (Para Olvidar)",
       "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Pala",
+        "url": "https://open.spotify.com/album/1Xt7yUmfmRqBfYNfHzq4tI"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 302573,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/6sxDNzpXENTruPdt31UPeU"
     },
     {
       "added_at": "2022-07-29 05:00:00",

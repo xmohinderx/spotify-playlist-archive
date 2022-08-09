@@ -4,7 +4,7 @@
 
 > iykyk
 
-502 songs - 1 day 3 hr 21 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+504 songs - 1 day 3 hr 28 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2021-12-20 | 2022-07-07 |
 | [Already Best Friends \(feat\. Chris Brown\)](https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:17 | 2022-02-08 | 2022-03-03 |
 | [Always Be My Baby \- Austin Millz Remix](https://open.spotify.com/track/0S0ezG92vQDS5VbX12GC3g) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Always Be My Baby \(Austin Millz Remix\)](https://open.spotify.com/album/7zQMAaw56pnSMQZQoMLq16) | 2:00 | 2022-07-06 | 2022-07-18 |
+| [AMAZING](https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:29 | 2022-08-08 |  |
 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 | 2022-01-09 | 2022-02-13 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-04-03 | 2022-05-07 |
 | [Angel Baby \- Slowed](https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Angel Baby \(Slowed\)](https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w) | 4:22 | 2022-05-06 | 2022-05-19 |
@@ -437,6 +438,7 @@
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2022-02-01 | 2022-02-21 |
 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 | 2022-03-30 | 2022-04-17 |
 | [Teacher's Pet](https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 4:01 | 2022-01-25 | 2022-03-14 |
+| [Teenage Dirtbag](https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Songs From Dawson's Creek, Vol\. II](https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj) | 4:01 | 2022-08-08 |  |
 | [Tek It](https://open.spotify.com/track/63HHF9ZpCIisujKFk2rixR) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/4n42G2OKF6kxGugj2MMn5c) | 3:11 | 2022-04-07 | 2022-06-19 |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-05-10 |  |
 | [That's Not My Name](https://open.spotify.com/track/1i1OuCNhNf7JwrlWlFZFu1) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1b9KEBOO7A5awr16aCd6VP) | 5:10 | 2022-01-27 | 2022-03-03 |

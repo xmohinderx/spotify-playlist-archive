@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,602 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,606 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 3 | [uja end](https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef) | [lynyn](https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8) | [lexicon](https://open.spotify.com/album/3cDhDjibmMoTD4n6n1E7l9) | 4:53 |
 | 4 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 |
 | 5 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
-| 6 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 |
-| 7 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
-| 8 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 |
+| 6 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
+| 7 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 |
+| 8 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 |
 | 9 | [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 |
 | 10 | [Affection](https://open.spotify.com/track/3fTxLcPR2i8b9yIrvNScuC) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Affection](https://open.spotify.com/album/2mz3UwcraODF5DIF7AnpDE) | 3:39 |
 | 11 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 14 | [TEMPERATE](https://open.spotify.com/track/0Km1rOj3tEaZKGjIbHDfd0) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 4:19 |
 | 15 | [Star City](https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6) | [Solomon Fesshaye](https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4) | [Star City](https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb) | 4:23 |
 | 16 | [Slice of Life](https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn) | [usr/friendly](https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE), [Oketo](https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg) | [This Is An Advertisement](https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9) | 3:19 |
-| 17 | [Balani](https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq), [Vassilena Serafimova](https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv) | [Sequenza](https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t) | 5:44 |
-| 18 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 |
-| 19 | [Sweat Sonic](https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Sweat Sonic](https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY) | 6:22 |
-| 20 | [Foresight](https://open.spotify.com/track/0J3ELKdZW68PTUDKtbggsy) | [Nuven](https://open.spotify.com/artist/3Cdtqtl7PvG7793m9pkg34) | [Foresight](https://open.spotify.com/album/6iVJxfSQHYADuaTe842E5u) | 4:20 |
-| 21 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 |
-| 22 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
+| 17 | [Sweat Sonic](https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Sweat Sonic](https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY) | 6:22 |
+| 18 | [Balani](https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq), [Vassilena Serafimova](https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv) | [Sequenza](https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t) | 5:44 |
+| 19 | [Foresight](https://open.spotify.com/track/0J3ELKdZW68PTUDKtbggsy) | [Nuven](https://open.spotify.com/artist/3Cdtqtl7PvG7793m9pkg34) | [Foresight](https://open.spotify.com/album/6iVJxfSQHYADuaTe842E5u) | 4:20 |
+| 20 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 |
+| 21 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
+| 22 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 |
 | 23 | [Surrounded By Neighbours](https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [GRIT.](https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB) | 5:31 |
 | 24 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 |
 | 25 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 31 | [Trains & Airports](https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sofia Kourtesis](https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY) | 6:38 |
 | 32 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
 | 33 | [These Knits](https://open.spotify.com/track/1LYTKsBMfk7BNnajMRW3rH) | [Viggo Dyst](https://open.spotify.com/artist/2ErTCR7vHeYoB6Z81O8WT2) | [These Knits](https://open.spotify.com/album/4STTtWgMkdjmSnFTsJO5N6) | 5:48 |
-| 34 | [Bodies Of Water](https://open.spotify.com/track/5649TeZnAjSa6ENwPKG6h8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:04 |
-| 35 | [Clouds](https://open.spotify.com/track/4h28da1metrUE6DMRbCYY5) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/1DNOCMa2UrOXEHU8oJ8M7s) | 4:05 |
+| 34 | [Clouds](https://open.spotify.com/track/4h28da1metrUE6DMRbCYY5) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/1DNOCMa2UrOXEHU8oJ8M7s) | 4:05 |
+| 35 | [Bodies Of Water](https://open.spotify.com/track/5649TeZnAjSa6ENwPKG6h8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:04 |
 | 36 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
 | 37 | [DAZED](https://open.spotify.com/track/4z4XTugxaVap8Ndp8QI5T7) | [Galaksit](https://open.spotify.com/artist/7xb6guCCpe8BhM0F62ah9X) | [DAZED](https://open.spotify.com/album/1mE4SkBA46imrI1TcLhhN6) | 2:12 |
 | 38 | [Jordão](https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Jordão](https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Skylines](https://open.spotify.com/track/1TKeKz3JYu302uXKYseuFB) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 5:42 |
 | 50 | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s) | 6:01 |
 
-Snapshot ID: `MTY1OTQ5ODk2NCwwMDAwMDAwMDIyYjdjMDAxNDM0MzUyYmNlOTYyYjUyNWQwNmNiZjg2`
+Snapshot ID: `MTY1OTQ5ODk2NCwwMDAwMDAwMGU1MDg1N2RmNzk4OTY5ZGY0MDVkM2FiOWZmMjQyNjM3`

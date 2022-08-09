@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 967444,
+  "num_followers": 967741,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGZlOGJkYzEwZjM2NGQyOTU2ZmE5Mjg4NzgxOWUzYTFi",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGViNDJlOGVjNjY3YjRhMDFjNDY5M2YyNjkwN2E1N2Y0",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -329,6 +329,22 @@
       "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
     },
     {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
+    },
+    {
       "added_at": "2021-08-04 17:54:39",
       "album": {
         "name": "Texas Sun",
@@ -347,22 +363,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -501,22 +501,6 @@
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
-      "added_at": "2021-08-04 17:54:39",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
@@ -535,6 +519,22 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+    },
+    {
+      "added_at": "2021-08-04 17:54:39",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
-    },
-    {
       "added_at": "2021-08-04 17:54:39",
       "album": {
         "name": "Lonesome Dreams",
@@ -633,6 +617,22 @@
       "url": "https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ"
     },
     {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
+    },
+    {
       "added_at": "2021-08-04 17:54:39",
       "album": {
         "name": "Wasteland, Baby!",
@@ -663,26 +663,6 @@
       "duration_ms": 193795,
       "name": "To Die For",
       "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
-    },
-    {
-      "added_at": "2021-08-04 17:54:39",
-      "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Neon Moon - with Kacey Musgraves",
-      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -731,6 +711,26 @@
       "duration_ms": 280794,
       "name": "By and By",
       "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
+    },
+    {
+      "added_at": "2021-08-04 17:54:39",
+      "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Neon Moon - with Kacey Musgraves",
+      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
     },
     {
+      "added_at": "2021-08-04 17:54:39",
+      "album": {
+        "name": "Blood Type",
+        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Mr. Percocet",
@@ -1043,22 +1059,6 @@
       "duration_ms": 205066,
       "name": "One Life",
       "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
-    },
-    {
-      "added_at": "2021-08-04 17:54:39",
-      "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 280130,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
-    },
-    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Long Blue Light",
@@ -1123,6 +1107,22 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 280130,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -1205,6 +1205,22 @@
       "url": "https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc"
     },
     {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Baby Why",
+        "url": "https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Baby Why",
+      "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
+    },
+    {
       "added_at": "2021-08-04 17:54:39",
       "album": {
         "name": "MAYBE",
@@ -1219,26 +1235,6 @@
       "duration_ms": 203106,
       "name": "There's Still A Light In The House",
       "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 195368,
-      "name": "Real Thing (feat. Tori Kelly)",
-      "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
     }
   ],
   "unique_name": "Morning Commute",

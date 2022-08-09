@@ -4,7 +4,7 @@
 
 > Indie music antimatter\. Cover: Gorillaz
 
-1,051 songs - 2 day 3 hr 5 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,052 songs - 2 day 3 hr 9 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [dark](https://open.spotify.com/track/2pIwMNpQIH5ChP39Uup9lG) | [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [dark](https://open.spotify.com/album/1NRgdLZ9RWB71wpCqWxAAf) | 1:33 | 2021-02-06 | 2021-10-16 |
 | [Darkness Of The Night](https://open.spotify.com/track/7uewMG4oKBNpCeso1KiI1i) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Darkness Of The Night](https://open.spotify.com/album/2W9Amgivg5XBGMNoN3bG5x) | 3:14 | 2021-12-10 | 2022-02-23 |
 | [Dat Way](https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo) | [Barely Legal](https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol), [Jay Browne](https://open.spotify.com/artist/345vrTFNzEOhTuVkrZD9aZ) | [Daytona](https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa) | 3:08 | 2022-03-02 | 2022-03-11 |
+| [Day 7.5093](https://open.spotify.com/track/3a4jtq7w9N7qOrIjCaxO8v) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Feeling Lucky?](https://open.spotify.com/album/0mWQGICfoe7XAWueJRuAgV) | 3:41 | 2022-08-08 |  |
 | [Day Before \(with Mac Miller\)](https://open.spotify.com/track/2eYsZ2JEq63Q0S8LQVscBm) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:15 | 2021-10-16 | 2021-12-22 |
 | [DAY N NIGHT \(feat\. Blessing\)](https://open.spotify.com/track/2qtXfKdaji8aNzFUUQm9Pk) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [DAY N NIGHT \(feat\. Blessing\)](https://open.spotify.com/album/1xBhh3mcLZ1IfWKtIQMm7t) | 2:33 | 2022-05-27 | 2022-07-09 |
 | [Days With You](https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Days With You](https://open.spotify.com/album/4o8nsp5Yjks4EEtZgqYS41) | 2:49 | 2022-02-04 | 2022-03-12 |
@@ -344,7 +345,7 @@
 | [GEEKIN](https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h) | 2:37 | 2020-10-13\* | 2020-11-03 |
 | [Gemini](https://open.spotify.com/track/0BEc5agGF5SNiQr2RWvusG) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Gemini](https://open.spotify.com/album/5IPibq1BrOykKFmIE06Vxm) | 3:04 | 2020-10-16 | 2021-03-26 |
 | [Generation](https://open.spotify.com/track/7JHohbdSYNGyUwcycNi95q) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Generation](https://open.spotify.com/album/0V9mAZKEd0gyIC2XQMt6qd) | 3:30 | 2021-12-04 | 2021-12-11 |
-| [Genevieve \- Unfinished](https://open.spotify.com/track/72GKPVtBchtCDoL8LURCrB) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 3:57 | 2022-08-07 |  |
+| [Genevieve \- Unfinished](https://open.spotify.com/track/72GKPVtBchtCDoL8LURCrB) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 3:57 | 2022-08-07 | 2022-08-09 |
 | [GET IT](https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GET IT](https://open.spotify.com/album/6dfosfBrzyf8PXsLokq5MT) | 2:31 | 2022-03-04 | 2022-07-01 |
 | [GET IT WITH ME](https://open.spotify.com/track/2c6SLHvQpFFznL4olGoT3X) | [Colby Lafayette](https://open.spotify.com/artist/5D28O29XHRpautDpiaha2K) | [GET IT WITH ME](https://open.spotify.com/album/0bwi7N95mpgNptFg9UgRc5) | 2:44 | 2020-10-13\* | 2020-11-03 |
 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 | 2021-07-31 | 2021-10-14 |

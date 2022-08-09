@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Harry Nach, ITHAN NY, Galee Galee & Julianno Sosa.",
-  "num_followers": 62014,
+  "num_followers": 62050,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTczMjk5MywwMDAwMDAwMGQxMzI4ZjIyYmZiZTUwYTEyNmM3ZTNmN2VkNjQ2ZWNh",
+  "snapshot_id": "MTY1OTczMjk5MywwMDAwMDAwMDQ4NjE1MzA2YTM2ZWI1YzBhYTA1ZTdhOGU0ODhhNDU2",
   "tracks": [
     {
       "added_at": "2022-08-05 20:56:33",
@@ -291,6 +291,42 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
+        "name": "Vibra Latina",
+        "url": "https://open.spotify.com/album/5MYwgZa0VC4IKzPM2XGqIC"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 211515,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/46P3sjn38awa9mlokdDlBU"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
+        "name": "Una Movie",
+        "url": "https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4"
+      },
+      "artists": [
+        {
+          "name": "Rickstarr",
+          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
+        },
+        {
+          "name": "JoeyTheGawd",
+          "url": "https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv"
+        }
+      ],
+      "duration_ms": 150471,
+      "name": "Una Movie",
+      "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
         "name": "Co\u00f1o",
         "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
       },
@@ -315,22 +351,18 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
-        "name": "Una Movie",
-        "url": "https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4"
+        "name": "El Motorcito",
+        "url": "https://open.spotify.com/album/0Q8xUiGPK728UFpROnSGPD"
       },
       "artists": [
         {
-          "name": "Rickstarr",
-          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
-        },
-        {
-          "name": "JoeyTheGawd",
-          "url": "https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv"
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
         }
       ],
-      "duration_ms": 150471,
-      "name": "Una Movie",
-      "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
+      "duration_ms": 169293,
+      "name": "El Motorcito",
+      "url": "https://open.spotify.com/track/1c89Peahzqvhcs9UtiT879"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -359,18 +391,22 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
-        "name": "Vibra Latina",
-        "url": "https://open.spotify.com/album/5MYwgZa0VC4IKzPM2XGqIC"
+        "name": "Disciplina (Puerto Rico Edition)",
+        "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
       },
       "artists": [
         {
           "name": "El Alfa",
           "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 211515,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/46P3sjn38awa9mlokdDlBU"
+      "duration_ms": 218920,
+      "name": "Demaga Ge Gi Go Gu",
+      "url": "https://open.spotify.com/track/3nQbCPy1vMFtXb4XEpOmgC"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -431,22 +467,6 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
-        "name": "El Motorcito",
-        "url": "https://open.spotify.com/album/0Q8xUiGPK728UFpROnSGPD"
-      },
-      "artists": [
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "El Motorcito",
-      "url": "https://open.spotify.com/track/1c89Peahzqvhcs9UtiT879"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
         "name": "Lorito",
         "url": "https://open.spotify.com/album/0oGOljyN6qexxje71tp3lb"
       },
@@ -463,6 +483,22 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
+        "name": "Marianela",
+        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Marianela",
+      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
         "name": "Tu Lokotron Remix",
         "url": "https://open.spotify.com/album/0Ux38IUGtLmSvNiPRrik70"
       },
@@ -475,26 +511,6 @@
       "duration_ms": 418728,
       "name": "Tu Lokotron Remix",
       "url": "https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
-        "name": "Disciplina (Puerto Rico Edition)",
-        "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Demaga Ge Gi Go Gu",
-      "url": "https://open.spotify.com/track/3nQbCPy1vMFtXb4XEpOmgC"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -555,18 +571,22 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
-        "name": "Marianela",
-        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
+        "name": "El Hombre",
+        "url": "https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF"
       },
       "artists": [
         {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 188760,
-      "name": "Marianela",
-      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
+      "duration_ms": 174853,
+      "name": "Con Silenciador",
+      "url": "https://open.spotify.com/track/0CcQ48Vvf92W69agjplFmf"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -659,26 +679,6 @@
       "duration_ms": 131870,
       "name": "Los Bobo Son Mio",
       "url": "https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
-        "name": "El Hombre",
-        "url": "https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Con Silenciador",
-      "url": "https://open.spotify.com/track/0CcQ48Vvf92W69agjplFmf"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -991,26 +991,6 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
-        "name": "Dembow Hits",
-        "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
-      },
-      "artists": [
-        {
-          "name": "Paramba",
-          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Que Se Mueran de Envidia - Remix",
-      "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
         "name": "Maniqui",
         "url": "https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 174802,
       "name": "Sesi",
       "url": "https://open.spotify.com/track/2mMAt6028RFl2ujQUPZXon"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
+        "name": "Dembow Hits",
+        "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
+      },
+      "artists": [
+        {
+          "name": "Paramba",
+          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "Que Se Mueran de Envidia - Remix",
+      "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
-        "name": "Hip Hop Dominicano",
-        "url": "https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7"
-      },
-      "artists": [
-        {
-          "name": "Atomic Otro Way",
-          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
-        }
-      ],
-      "duration_ms": 199052,
-      "name": "El Humo",
-      "url": "https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
         "name": "Desacatate",
         "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 161130,
       "name": "Desacatate",
       "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
+        "name": "Hip Hop Dominicano",
+        "url": "https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7"
+      },
+      "artists": [
+        {
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+        }
+      ],
+      "duration_ms": 199052,
+      "name": "El Humo",
+      "url": "https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -1439,30 +1439,6 @@
       "duration_ms": 244916,
       "name": "Tu Cojea - Remix",
       "url": "https://open.spotify.com/track/7i5yhydTMHfFyU9UiEzDOX"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
-        "name": "La Gente Ta' Loca (Remix)",
-        "url": "https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1"
-      },
-      "artists": [
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        },
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "El Mayor Clasico",
-          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
-        }
-      ],
-      "duration_ms": 218487,
-      "name": "La Gente Ta' Loca - Remix",
-      "url": "https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -1527,6 +1503,30 @@
       "duration_ms": 195596,
       "name": "Knock Out",
       "url": "https://open.spotify.com/track/6YRH8zh2KMbltmbSf4Qe1d"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
+        "name": "La Gente Ta' Loca (Remix)",
+        "url": "https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        },
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        }
+      ],
+      "duration_ms": 218487,
+      "name": "La Gente Ta' Loca - Remix",
+      "url": "https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

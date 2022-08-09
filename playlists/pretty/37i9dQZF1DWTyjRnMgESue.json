@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Nicolle Galyon",
-  "num_followers": 31781,
+  "num_followers": 31808,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwMzIzNywwMDAwMDAwMGE3NWQwNGI5NTZmODAzZWU5NGJlMWYwOGI0ZjkzMDFj",
+  "snapshot_id": "MTY1OTEwMzIzNywwMDAwMDAwMDlmMzY5NTJhMDc1ZjJkNGIzNDNhOTVjN2ZhNTQ5NmJm",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
+        "name": "I Burned LA Down",
+        "url": "https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM"
       },
       "artists": [
         {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 141796,
-      "name": "14",
-      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "I Burned LA Down",
-        "url": "https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM"
+        "name": "14",
+        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
         }
       ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz"
+      "duration_ms": 141796,
+      "name": "14",
+      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/4eVDNftCpVDAzrh80ayq1D"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "London's Song",
         "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178573,
       "name": "London's Song",
       "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/4eVDNftCpVDAzrh80ayq1D"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Thinking 'Bout Love",
+        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "hate to be lame",
         "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 205286,
       "name": "A Concert Six Months From Now",
       "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Thinking 'Bout Love",
-        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "How Do You Dress for the Rain?",
+        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "How Do You Dress for the Rain?",
+      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Prospect",
         "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
       },
@@ -887,6 +903,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Go Easy, Kid",
         "url": "https://open.spotify.com/album/59e93fZMly2pvsqUQc1y1H"
       },
@@ -903,34 +935,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "How Do You Dress for the Rain?",
-        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
       "artists": [
         {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 160533,
-      "name": "How Do You Dress for the Rain?",
-      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -955,18 +971,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+        "name": "Woman on the Internet",
+        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+      "duration_ms": 220208,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -983,22 +999,6 @@
       "duration_ms": 191910,
       "name": "rest in peace",
       "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Woman on the Internet",
-        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 220208,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174557,
-      "name": "Good Person",
-      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "saw ur mom at the grocery store",
         "url": "https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 253968,
       "name": "saw ur mom at the grocery store",
       "url": "https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 174557,
+      "name": "Good Person",
+      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/3ReMdcPVTGwD2V4EwIZ4tn"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/2Mor2fdr6NYCHYetzXpnbx"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "You Never Met Me",
         "url": "https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 202391,
       "name": "Cutting Corners",
       "url": "https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/3ReMdcPVTGwD2V4EwIZ4tn"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2Mor2fdr6NYCHYetzXpnbx"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "With The Band / Bruises & Scratches",
-        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
-      },
-      "artists": [
-        {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
-        }
-      ],
-      "duration_ms": 173070,
-      "name": "With The Band",
-      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "alchemy",
         "url": "https://open.spotify.com/album/72wPvtjiVDVty0FhvrlSqW"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 157184,
       "name": "parasite",
       "url": "https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "With The Band / Bruises & Scratches",
+        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 173070,
+      "name": "With The Band",
+      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 220171,
-      "name": "Happier Without Me",
-      "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "And I'm Still Thinking About That",
         "url": "https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 162373,
       "name": "Same Effect",
       "url": "https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 220171,
+      "name": "Happier Without Me",
+      "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
     },
     {
       "added_at": "2022-07-15 04:00:00",

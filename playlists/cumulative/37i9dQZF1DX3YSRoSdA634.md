@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-442 songs - 1 day 3 hr 22 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
+443 songs - 1 day 3 hr 26 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Amnesia](https://open.spotify.com/track/0eOrZh0eXsw99k8gFJUpq5) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [Amnesia](https://open.spotify.com/album/6h8XtZPjisaXPvA5mZDhjC) | 4:49 | 2021-12-15 | 2022-07-22 |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2021-12-15 |  |
 | [Are You Alright?](https://open.spotify.com/track/5Gi9PNrnsQHCnI5EYelkIG) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Are You Alright?](https://open.spotify.com/album/04rSsCRN4eCnOy8IUyeIoV) | 4:40 | 2021-12-15 | 2022-07-28 |
+| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-08 |  |
 | [Autumn Leaves \- Deluxe Edition](https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:20 | 2021-12-15 | 2022-07-29 |
 | [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 | 2022-04-25 |  |
 | [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 | 2022-01-05 | 2022-07-29 |
@@ -95,7 +96,7 @@
 | [DITR](https://open.spotify.com/track/1iEH453kVmEcwgVKtbvylS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:12 | 2022-06-17 | 2022-07-29 |
 | [Don't Forget About Me](https://open.spotify.com/track/2beozoXN4fRxFHLpiVBrNv) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [XIII](https://open.spotify.com/album/0VL0YxxKMUyizBR0SMveRA) | 4:28 | 2022-02-07 | 2022-04-20 |
 | [Don't Forget About Me](https://open.spotify.com/track/4gVZhkcsZcwQ4mU1gEeXEO) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [XIII](https://open.spotify.com/album/6gAsOoMZVH5HwQWFBnIWcm) | 4:28 | 2022-07-01 |  |
-| [Don't Let Me Down](https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Covers](https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq) | 2:44 | 2021-12-15 |  |
+| [Don't Let Me Down](https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Covers](https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq) | 2:44 | 2021-12-15 | 2022-08-09 |
 | [down](https://open.spotify.com/track/7mOcLhVf0Aj6pIfi3LcSNW) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [down](https://open.spotify.com/album/60DUZ7aL10Oe47cAIeULLa) | 3:14 | 2022-07-01 |  |
 | [down](https://open.spotify.com/track/7pV0Yzu2NWogAAVHc9uSIt) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [down](https://open.spotify.com/album/791HeyZ9uqsCO3Nqxz9rnO) | 3:14 | 2021-12-15 | 2022-07-29 |
 | [Down to My Grave](https://open.spotify.com/track/2U7BKUJfq3uewvHxYNnXO2) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Down to My Grave](https://open.spotify.com/album/7LiaBqzeWrH0RJRd4HwHOy) | 4:08 | 2022-04-29 | 2022-07-21 |

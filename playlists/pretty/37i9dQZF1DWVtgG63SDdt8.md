@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,152 likes - 99 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,309 likes - 99 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 35 | [Perfect Love](https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Perfect Love](https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd) | 3:21 |
 | 36 | [who.](https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [polaroids.](https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL) | 2:35 |
 | 37 | [Seat At The Table](https://open.spotify.com/track/3fdUvuEM2XjI58BYP2Gyjk) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Sharon Irving](https://open.spotify.com/artist/2pvdIgrTL1DsTSg1ipptEt), [Vincent Charlow](https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3) | [Seat At The Table](https://open.spotify.com/album/21UuBeZLx6VUmL8B6NiU3d) | 3:58 |
-| 38 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 |
+| 38 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 |
 | 39 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 |
 | 40 | [THESE DAYS](https://open.spotify.com/track/4Z8HzMnxUf6Ka3ItlTduyM) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [THESE DAYS](https://open.spotify.com/album/3kQr0KUMAAqR6AoeKaokpN) | 3:35 |
 | 41 | [Would Ya?](https://open.spotify.com/track/4rBkUpHCkGraevSC4eo5Wb) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Q&A \- EP](https://open.spotify.com/album/3saKlisiUKMKYQdAp7PKRU) | 2:30 |

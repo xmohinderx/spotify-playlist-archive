@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental jazz for your focus time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,875 likes - 100 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,933 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 7 | [Gee Baby, Ain't I Good To You](https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 4:01 |
 | 8 | [Your Host](https://open.spotify.com/track/0FYVPV8QxPW9MyAyeESAFy) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 3:56 |
 | 9 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/6nyRGbArV18zO6WozOBON2) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 4:49 |
-| 10 | [It's Easy To Remember](https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 2:45 |
-| 11 | [The Very Thought Of You](https://open.spotify.com/track/5m07y0cB4u7D5gzZOBU5sW) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 4:10 |
-| 12 | [Porgy \(I Loves You Porgy\) \- Outtake](https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 6:00 |
-| 13 | [Night Lights](https://open.spotify.com/track/5eVERkVvJKBgV2FziCoLDE) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 4:58 |
+| 10 | [The Very Thought Of You](https://open.spotify.com/track/5m07y0cB4u7D5gzZOBU5sW) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 4:10 |
+| 11 | [Porgy \(I Loves You Porgy\) \- Outtake](https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 6:00 |
+| 12 | [Night Lights](https://open.spotify.com/track/5eVERkVvJKBgV2FziCoLDE) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 4:58 |
+| 13 | [It's Easy To Remember](https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 2:45 |
 | 14 | [All My Tomorrows \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/3VUFA0cz9OEGMshT0NK762) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:22 |
 | 15 | [Don't Love Me](https://open.spotify.com/track/0zDUzk5CwhgMctfuIP4eez) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:39 |
 | 16 | [Have You Met Miss Jones?](https://open.spotify.com/track/6916T4FnaJvcmGl9PDbbz7) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 99 | [Fellowship](https://open.spotify.com/track/5rxQWZpWoXrc9P4VfXJFR1) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:57 |
 | 100 | [These Foolish Things](https://open.spotify.com/track/0mrCcgj3gqbLEZxW0SIifx) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:12 |
 
-Snapshot ID: `MTY1NjQ4OTY4NSwwMDAwMDAwMDIyN2FhOTMyNGIzOGM3NTlkZDVmYjcyMjkwYjdiMDgy`
+Snapshot ID: `MTY1NjQ4OTY4NSwwMDAwMDAwMGUxM2Q4ZmIyYmUzMzIwZmM1NTc1NGY5NTkyZGQxZmQ5`

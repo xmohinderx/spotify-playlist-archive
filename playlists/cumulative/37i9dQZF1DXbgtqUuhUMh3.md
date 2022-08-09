@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Almas
 
-292 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+293 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Mazal Lyam Dor](https://open.spotify.com/track/7CVP5B3WQKuYF067pfwE6F) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK), [Amine Naami](https://open.spotify.com/artist/1yKmMBiUav7nXjk8hbXXtH) | [Mazal Lyam Dor](https://open.spotify.com/album/1Yz1iL8qriZ4uvdLWAuBck) | 3:10 | 2022-03-03 | 2022-07-27 |
 | [Mazar](https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Mazar](https://open.spotify.com/album/5zVetj7wtk6lVU0KcZhuXn) | 3:33 | 2022-03-08 | 2022-08-08 |
 | [Meen Bint Sgheeri مين بنت صغيرة](https://open.spotify.com/track/0NdTGMo7HIf4tjFCT0vHVh) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Meen Bint Sgheeri مين بنت صغيرة](https://open.spotify.com/album/5VXW37C2muaHyfgQXQqXu2) | 3:13 | 2022-03-08 | 2022-07-29 |
-| [mehtag bosat](https://open.spotify.com/track/1D4qNDL64nDuCwOI9spXI9) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [mehtag bosat](https://open.spotify.com/album/0Nf9o2JVSlpFLAvllnL9bN) | 2:27 | 2022-05-26 |  |
+| [mehtag bosat](https://open.spotify.com/track/1D4qNDL64nDuCwOI9spXI9) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [mehtag bosat](https://open.spotify.com/album/0Nf9o2JVSlpFLAvllnL9bN) | 2:27 | 2022-05-26 | 2022-08-09 |
 | [Merry Merry Christmas](https://open.spotify.com/track/5yWPZ5yXl5mwLUeP2DJVD1) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Merry Merry Christmas](https://open.spotify.com/album/0ZMRdzabgRQ0DOSYd2nyPz) | 1:22 | 2021-12-23 | 2022-03-02 |
 | [Mesbah](https://open.spotify.com/track/7pbZJtfkLNJnxm4mOEIlt0) | [Hamsa Mounif](https://open.spotify.com/artist/7iNChMreJjoaq0ur56xtmX) | [Mesbah](https://open.spotify.com/album/04xXIOb2FQw0BDyaiBTGDu) | 2:47 | 2021-12-23 | 2022-02-28 |
 | [Min Guwaya](https://open.spotify.com/track/3Zr5VsID6eHTTg1zBpXUI5) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Min Guwaya](https://open.spotify.com/album/0FV7LG1eR1pOt9srFxHCzH) | 5:19 | 2022-03-10 | 2022-07-29 |
@@ -248,6 +248,7 @@
 | [Zaamat Naamat \- Leadership and Sheep](https://open.spotify.com/track/3NPC89hv3EYrJtTGjWUUO8) | [Mira Awad](https://open.spotify.com/artist/0hlFOvtSOFXtPmTfOt2XpP) | [Zaamat Naamat \(Leadership and Sheep\)](https://open.spotify.com/album/4JfAFXnZuF5adHNwos52Hs) | 3:16 | 2021-12-23 | 2022-03-02 |
 | [Zina Weya El Nas](https://open.spotify.com/track/37SWbX2hYRarRnxphEV1Zs) | [Sina Mousa](https://open.spotify.com/artist/3GSiCt6cvJBYsiinXBrCSd) | [Zina Weya El Nas](https://open.spotify.com/album/1vwUwpq5kOrMEJqEcf2eUM) | 3:15 | 2021-12-23 | 2022-02-28 |
 | [Zuruni](https://open.spotify.com/track/1n1Qfej8CS4L0xX5niQpxU) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Zuruni](https://open.spotify.com/album/2pFIooMgMqaHfgHeqwSb0g) | 3:09 | 2021-12-23 | 2022-03-02 |
+| [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 | 2022-08-08 |  |
 | [أناكوندا](https://open.spotify.com/track/1XWBr66ODYX70TMRFvqVqc) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [أناكوندا](https://open.spotify.com/album/4CRITjhIkefit5B9J1HCEq) | 3:16 | 2021-12-23 | 2022-02-26 |
 | [أنساك](https://open.spotify.com/track/7Kt2dIB6IvPUs2qSdPRw8X) | [Layla Rina](https://open.spotify.com/artist/1T6zSTnrsGeN5HwgwcGTnt) | [أنساك](https://open.spotify.com/album/1FjKSu7MPy5dDQrA7FpFbn) | 3:52 | 2021-12-30 | 2022-03-01 |
 | [ادري جرحتك](https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi) | [Kadejah Moaath \| خديجة معاذ](https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv) | [ادري جرحتك](https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy) | 3:28 | 2022-04-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 43562,
+  "num_followers": 43601,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5NjQwMCwwMDAwMDAwMDg2Zjc4YTMyODFiZGI0M2FhNTkwNzZiMDk4M2ZiNjU2",
+  "snapshot_id": "MTY1NTk5NjQwMCwwMDAwMDAwMGQ3YTlmY2Q4MmZjYWM3M2NiYjliNmViNWEwZTJlNjg1",
   "tracks": [
     {
       "added_at": "2022-06-23 15:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/2xRG2r54L8p0if9NsHeXX5"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 284833,
+      "name": "R",
+      "url": "https://open.spotify.com/track/5VDaJPJ2AeqPImMYpsgFvp"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
         "name": "Pico! Papi! Girls Band Party\u2606PICO!!!",
         "url": "https://open.spotify.com/album/4pWMug5ycdlFxRDG0Cj2xI"
       },
@@ -171,54 +187,6 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/2xRG2r54L8p0if9NsHeXX5"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 284833,
-      "name": "R",
-      "url": "https://open.spotify.com/track/5VDaJPJ2AeqPImMYpsgFvp"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "EXPOSE \u2018Burn out!!!\u2019",
-      "url": "https://open.spotify.com/track/3zVoYxvBz3gXBpN8UkqyGC"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "Breakthrough!",
-        "url": "https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy"
-      },
-      "artists": [
-        {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        }
-      ],
-      "duration_ms": 316500,
-      "name": "Kizuna Music\u266a",
-      "url": "https://open.spotify.com/track/5QeOdb0nDwmrWCCVQXsGaI"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
         "name": "\u306b\u3053\u306b\u3053\u306d\u304f\u3068!",
         "url": "https://open.spotify.com/album/5TVSmT5HcpQ5TxfAp8KwGF"
       },
@@ -231,86 +199,6 @@
       "duration_ms": 220200,
       "name": "\u30b3\u3099\u30fc\u30ab!\u3053\u3099\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
       "url": "https://open.spotify.com/track/1ax9Yfwu3CUngxoKWHlGUw"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 233573,
-      "name": "Hey-day\u72c2\u9a12\u66f2(\u30ab\u30d7\u30ea\u30c1\u30aa)",
-      "url": "https://open.spotify.com/track/5hxe8V1SssFYZMCQvHxwvh"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "Kyu\u301cMai*Flower",
-        "url": "https://open.spotify.com/album/6naufY9Fgybtu507eHRlmM"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 241300,
-      "name": "Zettai Sengen \u301cRecital\u301c",
-      "url": "https://open.spotify.com/track/2VQiGQTq0MJT4OymCMAuTB"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "EXIST",
-        "url": "https://open.spotify.com/album/5r6axlxmInCbsuuXrVwuG5"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 239166,
-      "name": "EXIST",
-      "url": "https://open.spotify.com/track/1X8tDqqCiYIfysEq6q795h"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "Bloom Bloom",
-        "url": "https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "flame of hope",
-      "url": "https://open.spotify.com/track/5uszBzVvtvw29ZTYmpyE6U"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "ROZEN HORIZON",
-        "url": "https://open.spotify.com/album/03Zx4kGKtldlHXklQDPnfO"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 366566,
-      "name": "ROZEN HORIZON",
-      "url": "https://open.spotify.com/track/7dGXBMLYZF4wYCnkcxpOjd"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -331,22 +219,6 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Poppin'on!",
-        "url": "https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL"
-      },
-      "artists": [
-        {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        }
-      ],
-      "duration_ms": 218033,
-      "name": "Tear Drops",
-      "url": "https://open.spotify.com/track/7aPl1DIA0XeMu9yqXNUOH8"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
         "name": "ERA",
         "url": "https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk"
       },
@@ -356,41 +228,9 @@
           "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 315533,
-      "name": "A DECLARATION OF \u00d7\u00d7\u00d7",
-      "url": "https://open.spotify.com/track/2zidm9e4RyoubevfU7VHYM"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "TITLE IDOL",
-        "url": "https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "\u5929\u4e0b\u535c\u30fc\u30a4\u30c4A to Z\u2606",
-      "url": "https://open.spotify.com/track/5ZasKT10YVbrMx5CIyPwZp"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 281733,
-      "name": "ONE OF US",
-      "url": "https://open.spotify.com/track/3XwMtNKatIHz7fOpCIaixE"
+      "duration_ms": 284133,
+      "name": "EXPOSE \u2018Burn out!!!\u2019",
+      "url": "https://open.spotify.com/track/3zVoYxvBz3gXBpN8UkqyGC"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -427,6 +267,86 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
+        "name": "Bloom Bloom",
+        "url": "https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "flame of hope",
+      "url": "https://open.spotify.com/track/5uszBzVvtvw29ZTYmpyE6U"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "ROZEN HORIZON",
+        "url": "https://open.spotify.com/album/03Zx4kGKtldlHXklQDPnfO"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 366566,
+      "name": "ROZEN HORIZON",
+      "url": "https://open.spotify.com/track/7dGXBMLYZF4wYCnkcxpOjd"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Breakthrough!",
+        "url": "https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 316500,
+      "name": "Kizuna Music\u266a",
+      "url": "https://open.spotify.com/track/5QeOdb0nDwmrWCCVQXsGaI"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "Hey-day\u72c2\u9a12\u66f2(\u30ab\u30d7\u30ea\u30c1\u30aa)",
+      "url": "https://open.spotify.com/track/5hxe8V1SssFYZMCQvHxwvh"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Kyu\u301cMai*Flower",
+        "url": "https://open.spotify.com/album/6naufY9Fgybtu507eHRlmM"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 241300,
+      "name": "Zettai Sengen \u301cRecital\u301c",
+      "url": "https://open.spotify.com/track/2VQiGQTq0MJT4OymCMAuTB"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
         "name": "I need you!",
         "url": "https://open.spotify.com/album/1bD3P5yTAFAqE6rYGRG9IA"
       },
@@ -443,18 +363,34 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
-        "url": "https://open.spotify.com/album/5ph0IVhPZd70PoRnuwbkkc"
+        "name": "ZEAL of proud",
+        "url": "https://open.spotify.com/album/7J7hJQW7POnSWG7FUrSx4J"
       },
       "artists": [
         {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 250833,
-      "name": "chAngE",
-      "url": "https://open.spotify.com/track/2as6oi3XXxxFj1p9TYGl4L"
+      "duration_ms": 279433,
+      "name": "ZEAL of proud",
+      "url": "https://open.spotify.com/track/2OHctF8boBgJOEECY8RHeA"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "EXIST",
+        "url": "https://open.spotify.com/album/5r6axlxmInCbsuuXrVwuG5"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 239166,
+      "name": "EXIST",
+      "url": "https://open.spotify.com/track/1X8tDqqCiYIfysEq6q795h"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -491,24 +427,24 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "ZEAL of proud",
-        "url": "https://open.spotify.com/album/7J7hJQW7POnSWG7FUrSx4J"
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
+        "url": "https://open.spotify.com/album/6QLlnhussxhVSmUBvyKbBh"
       },
       "artists": [
         {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+          "name": "\u6e4a \u53cb\u5e0c\u90a3",
+          "url": "https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me"
         }
       ],
-      "duration_ms": 279433,
-      "name": "ZEAL of proud",
-      "url": "https://open.spotify.com/track/2OHctF8boBgJOEECY8RHeA"
+      "duration_ms": 175033,
+      "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5922",
+      "url": "https://open.spotify.com/track/2d14KGRep1k9dPlTSM2kn8"
     },
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Shuwarin\u2606Dreaming",
-        "url": "https://open.spotify.com/album/4ZeNepkkacJVPvkDbiro78"
+        "name": "TITLE IDOL",
+        "url": "https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5"
       },
       "artists": [
         {
@@ -516,31 +452,31 @@
           "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
         }
       ],
-      "duration_ms": 233400,
-      "name": "Shuwarin\u2606Dreaming",
-      "url": "https://open.spotify.com/track/5BoibxBflNv4MzwRsjqSO8"
+      "duration_ms": 218866,
+      "name": "\u5929\u4e0b\u535c\u30fc\u30a4\u30c4A to Z\u2606",
+      "url": "https://open.spotify.com/track/5ZasKT10YVbrMx5CIyPwZp"
     },
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Breakthrough!",
-        "url": "https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy"
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e"
       },
       "artists": [
         {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 280733,
-      "name": "Hello! Wink!",
-      "url": "https://open.spotify.com/track/4ekwokxbqpykXfKKckzeRA"
+      "duration_ms": 281733,
+      "name": "ONE OF US",
+      "url": "https://open.spotify.com/track/3XwMtNKatIHz7fOpCIaixE"
     },
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Sacred world",
-        "url": "https://open.spotify.com/album/0cfxwaRmmOsIxnXvFGiwan"
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk"
       },
       "artists": [
         {
@@ -548,9 +484,41 @@
           "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 300833,
-      "name": "Sacred world",
-      "url": "https://open.spotify.com/track/0V3WhvVVbRFEtzSDSv2ePr"
+      "duration_ms": 315533,
+      "name": "A DECLARATION OF \u00d7\u00d7\u00d7",
+      "url": "https://open.spotify.com/track/2zidm9e4RyoubevfU7VHYM"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Poppin'on!",
+        "url": "https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Tear Drops",
+      "url": "https://open.spotify.com/track/7aPl1DIA0XeMu9yqXNUOH8"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
+        "url": "https://open.spotify.com/album/5ph0IVhPZd70PoRnuwbkkc"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 250833,
+      "name": "chAngE",
+      "url": "https://open.spotify.com/track/2as6oi3XXxxFj1p9TYGl4L"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -587,18 +555,66 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
-        "url": "https://open.spotify.com/album/6QLlnhussxhVSmUBvyKbBh"
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/2z4rn5CogIc1wieoxjKHvu"
       },
       "artists": [
         {
-          "name": "\u6e4a \u53cb\u5e0c\u90a3",
-          "url": "https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me"
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
         }
       ],
-      "duration_ms": 175033,
-      "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5922",
-      "url": "https://open.spotify.com/track/2d14KGRep1k9dPlTSM2kn8"
+      "duration_ms": 237800,
+      "name": "Don't be afraid!",
+      "url": "https://open.spotify.com/track/4q9QnIxZH4FR4Z543vkA85"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Hanazono Electric Guitar!!!",
+        "url": "https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
+          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "Hanazono Electric Guitar!!!",
+      "url": "https://open.spotify.com/track/3PepTcSJv2jHSnrSIzDGyR"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Shuwarin\u2606Dreaming",
+        "url": "https://open.spotify.com/album/4ZeNepkkacJVPvkDbiro78"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Shuwarin\u2606Dreaming",
+      "url": "https://open.spotify.com/track/5BoibxBflNv4MzwRsjqSO8"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Domination to world",
+        "url": "https://open.spotify.com/album/2VJQX8yK6XNNmuQ1RhD5T2"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 224566,
+      "name": "Blazing Bonfire!",
+      "url": "https://open.spotify.com/track/4A0i8dTImNzelppte1hNsm"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -619,24 +635,8 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Don't be afraid!",
-        "url": "https://open.spotify.com/album/2z4rn5CogIc1wieoxjKHvu"
-      },
-      "artists": [
-        {
-          "name": "Glitter*Green",
-          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Don't be afraid!",
-      "url": "https://open.spotify.com/track/4q9QnIxZH4FR4Z543vkA85"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "Live Beyond!!",
-        "url": "https://open.spotify.com/album/2z1EdXW0K0ZYY7W9Q3fsSS"
+        "name": "Breakthrough!",
+        "url": "https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy"
       },
       "artists": [
         {
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
         }
       ],
-      "duration_ms": 277233,
-      "name": "A Song No More",
-      "url": "https://open.spotify.com/track/1uNjQwidSPSjPRAfh6JJBE"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "Y.O.L.O!!!!!!",
-        "url": "https://open.spotify.com/album/4LDTFJvIlM2KZMBT8ZHchR"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 280500,
-      "name": "COMIC PANIC!!!",
-      "url": "https://open.spotify.com/track/6VqqHjxdGXkeqnvEbXsHbx"
+      "duration_ms": 280733,
+      "name": "Hello! Wink!",
+      "url": "https://open.spotify.com/track/4ekwokxbqpykXfKKckzeRA"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -683,34 +667,18 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Bloom Bloom",
-        "url": "https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf"
+        "name": "Y.O.L.O!!!!!!",
+        "url": "https://open.spotify.com/album/4LDTFJvIlM2KZMBT8ZHchR"
       },
       "artists": [
         {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 276933,
-      "name": "Bloom Bloom",
-      "url": "https://open.spotify.com/track/4cX6425aZsH2bBJoODN0eE"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
-        "name": "Hanazono Electric Guitar!!!",
-        "url": "https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
-          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "Hanazono Electric Guitar!!!",
-      "url": "https://open.spotify.com/track/3PepTcSJv2jHSnrSIzDGyR"
+      "duration_ms": 280500,
+      "name": "COMIC PANIC!!!",
+      "url": "https://open.spotify.com/track/6VqqHjxdGXkeqnvEbXsHbx"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -783,22 +751,6 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 271506,
-      "name": "Y.O.L.O!!!!!",
-      "url": "https://open.spotify.com/track/6U3agujpZILhEyo0Esjy5y"
-    },
-    {
-      "added_at": "2022-06-23 15:00:00",
-      "album": {
         "name": "Chocolate Bass Recipe",
         "url": "https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH"
       },
@@ -827,6 +779,54 @@
       "duration_ms": 249146,
       "name": "Doki-Doki Sing Out!",
       "url": "https://open.spotify.com/track/07Px1iST5Djx5zpnpG8f5B"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Live Beyond!!",
+        "url": "https://open.spotify.com/album/2z1EdXW0K0ZYY7W9Q3fsSS"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 277233,
+      "name": "A Song No More",
+      "url": "https://open.spotify.com/track/1uNjQwidSPSjPRAfh6JJBE"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 271506,
+      "name": "Y.O.L.O!!!!!",
+      "url": "https://open.spotify.com/track/6U3agujpZILhEyo0Esjy5y"
+    },
+    {
+      "added_at": "2022-06-23 15:00:00",
+      "album": {
+        "name": "Bloom Bloom",
+        "url": "https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "Bloom Bloom",
+      "url": "https://open.spotify.com/track/4cX6425aZsH2bBJoODN0eE"
     },
     {
       "added_at": "2022-06-23 15:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Timeless tunes served over easy for all your brunching needs!",
-  "num_followers": 42123,
+  "num_followers": 42174,
   "original_name": "Sunny Side Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2ODg5NSwwMDAwMDAwMDA5NDNkZjM4YzRlOGZlNGFhMmJiZDJmMDk1OWJhNTYz",
+  "snapshot_id": "MTY1OTA2ODg5NSwwMDAwMDAwMDc0MDU2NzIwYjA0OGMwMzFlNjY5MWFjZmFlOTFmZWEw",
   "tracks": [
     {
       "added_at": "2022-07-29 04:28:15",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 281226,
       "name": "My Sweet Lord - Remastered 2014",
       "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2022-07-29 04:28:15",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
         "name": "Paul Simon",
         "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "It Ain't Over 'Til It's Over",
-      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -403,18 +403,18 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+      "duration_ms": 242640,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
     },
     {
       "added_at": "2022-07-29 04:28:15",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 206386,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2022-07-29 04:28:15",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Follow Your Arrow",
-      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "It Never Rains In Southern California",
         "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 179491,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
     },
     {
       "added_at": "2022-07-29 04:28:15",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "Don't You Worry 'Bout A Thing",
-      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 194216,
       "name": "Waterloo Sunset - Mono Mix",
       "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Don't You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
     },
     {
       "added_at": "2022-07-29 04:28:15",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
+        "name": "Low (2017 Remaster)",
+        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 184381,
+      "name": "Sound and Vision - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
         "name": "Come To My Garden",
         "url": "https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "Low (2017 Remaster)",
-        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 184381,
-      "name": "Sound and Vision - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "It's Our Thing",
         "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 428222,
-      "name": "As",
-      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "Sunshine Superman",
         "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 195000,
       "name": "Sunshine Superman",
       "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 428222,
+      "name": "As",
+      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
     },
     {
       "added_at": "2022-07-29 04:28:15",

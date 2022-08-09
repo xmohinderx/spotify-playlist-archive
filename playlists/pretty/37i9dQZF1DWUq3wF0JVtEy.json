@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 847980,
+  "num_followers": 848162,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDljMTEwNjllMDljY2Y0NjI4N2FkMWIzNjE4NDBlYzJj",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGU2ZDU1ODkxZjlkOTk5NmMyMjViM2ZkNjI2NjUyMmY2",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/6DploCSZVf5gvIP7WBBU6S"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 140184,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG"
-    },
-    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "We Don\u2019t Need",
@@ -563,18 +547,34 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2"
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo"
       },
       "artists": [
         {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY"
+      "duration_ms": 140184,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/5TbmhZbiBAEM8S0gWYmLJf"
+      },
+      "artists": [
+        {
+          "name": "Zhnark",
+          "url": "https://open.spotify.com/artist/4TFwiKetUJYXrUyTOMKEww"
+        }
+      ],
+      "duration_ms": 218894,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/0msZYAfoPw8Jbhr8Ufxgs3"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Magic Carpet",
         "url": "https://open.spotify.com/album/0ChRkheFcAH3Zu3OOfPKVa"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 168170,
       "name": "Magic Carpet",
       "url": "https://open.spotify.com/track/7nEJrG2KIiH6PoDL1Ae5at"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "No Diggity",
-        "url": "https://open.spotify.com/album/5TbmhZbiBAEM8S0gWYmLJf"
-      },
-      "artists": [
-        {
-          "name": "Zhnark",
-          "url": "https://open.spotify.com/artist/4TFwiKetUJYXrUyTOMKEww"
-        }
-      ],
-      "duration_ms": 218894,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/0msZYAfoPw8Jbhr8Ufxgs3"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -767,38 +767,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Flexin",
-        "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 135705,
-      "name": "Flexin",
-      "url": "https://open.spotify.com/track/2OvqYU6lo9GA6hO2jVttKm"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 182765,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Losing Sleep",
         "url": "https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV"
       },
@@ -815,6 +783,22 @@
       "duration_ms": 169252,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Flexin",
+        "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 135705,
+      "name": "Flexin",
+      "url": "https://open.spotify.com/track/2OvqYU6lo9GA6hO2jVttKm"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -887,6 +871,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 182765,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Safe & Sound",
+        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 200166,
+      "name": "Safe & Sound - Radio Edit",
+      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Joi",
         "url": "https://open.spotify.com/album/5EBb7SSkPgxO9Lmt8NjAPT"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 216340,
       "name": "Joi",
       "url": "https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Your Tongue",
-        "url": "https://open.spotify.com/album/6UKVwQpP25N2sMC37kN8Hz"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        }
-      ],
-      "duration_ms": 157428,
-      "name": "Your Tongue",
-      "url": "https://open.spotify.com/track/00WQxluVREF12JZkKWvio4"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -999,38 +999,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Safe & Sound",
-        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 200166,
-      "name": "Safe & Sound - Radio Edit",
-      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Cheque",
-        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cheque",
-      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Bring Et",
         "url": "https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk"
       },
@@ -1043,6 +1011,22 @@
       "duration_ms": 142857,
       "name": "Bring Et",
       "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Your Tongue",
+        "url": "https://open.spotify.com/album/6UKVwQpP25N2sMC37kN8Hz"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "duration_ms": 157428,
+      "name": "Your Tongue",
+      "url": "https://open.spotify.com/track/00WQxluVREF12JZkKWvio4"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1079,6 +1063,22 @@
       "duration_ms": 215090,
       "name": "Something's about to go down",
       "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "PPL",
-        "url": "https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Johnny GOLD",
-          "url": "https://open.spotify.com/artist/42s6z4jFABqd0XFJHyma3p"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "PPL",
-      "url": "https://open.spotify.com/track/3d3rarz1eXjs8BPGKoFNYQ"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "demolition (Ruined by Glass Petals)",
         "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 226440,
       "name": "demolition (Ruined by Glass Petals)",
       "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "PPL",
+        "url": "https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Johnny GOLD",
+          "url": "https://open.spotify.com/artist/42s6z4jFABqd0XFJHyma3p"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "PPL",
+      "url": "https://open.spotify.com/track/3d3rarz1eXjs8BPGKoFNYQ"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/3aoDtHvUeQUpFcwBG5IeoD"
       },
@@ -1307,6 +1291,38 @@
       "duration_ms": 151475,
       "name": "Loose",
       "url": "https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1333,20 +1349,28 @@
       "url": "https://open.spotify.com/track/2fXIiMWnBLfPBxpQ7DTvMO"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+        "name": "Disco Tool (Remixes)",
+        "url": "https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+      "duration_ms": 217142,
+      "name": "Disco Tool (Taiki Nulight Remix)",
+      "url": "https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1371,30 +1395,6 @@
       "duration_ms": 204160,
       "name": "Poison",
       "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Disco Tool (Remixes)",
-        "url": "https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Disco Tool (Taiki Nulight Remix)",
-      "url": "https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Get This Party Jumpin'",
-        "url": "https://open.spotify.com/album/0Hx311oNGTzDIi6eJOS4wD"
-      },
-      "artists": [
-        {
-          "name": "Croatia Squad",
-          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
-        }
-      ],
-      "duration_ms": 202885,
-      "name": "Get This Party Jumpin'",
-      "url": "https://open.spotify.com/track/4ynbqZykOfiYZx6OV5QJI2"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/5StBcXiU25jAcDmA4GOjQN"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 128272,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Get This Party Jumpin'",
+        "url": "https://open.spotify.com/album/0Hx311oNGTzDIi6eJOS4wD"
+      },
+      "artists": [
+        {
+          "name": "Croatia Squad",
+          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
+        }
+      ],
+      "duration_ms": 202885,
+      "name": "Get This Party Jumpin'",
+      "url": "https://open.spotify.com/track/4ynbqZykOfiYZx6OV5QJI2"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Feeling Of Falling",
-        "url": "https://open.spotify.com/album/4mDvJkye9PBF7jiU5nu7e7"
-      },
-      "artists": [
-        {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
-        },
-        {
-          "name": "The Inner Kids",
-          "url": "https://open.spotify.com/artist/6IxHiZKJFcPANOGrK0JQJh"
-        }
-      ],
-      "duration_ms": 163928,
-      "name": "Feeling Of Falling",
-      "url": "https://open.spotify.com/track/5ZL1VcP71UgUXRq9THSC8J"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Thrills (feat. Jaxon Rose)",
         "url": "https://open.spotify.com/album/0AHVfgQ7mjSC2cocVF5uOx"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 202524,
       "name": "Thrills (feat. Jaxon Rose)",
       "url": "https://open.spotify.com/track/2KnOz4On4UakMbBYlfPa9K"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Feeling Of Falling",
+        "url": "https://open.spotify.com/album/4mDvJkye9PBF7jiU5nu7e7"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        },
+        {
+          "name": "The Inner Kids",
+          "url": "https://open.spotify.com/artist/6IxHiZKJFcPANOGrK0JQJh"
+        }
+      ],
+      "duration_ms": 163928,
+      "name": "Feeling Of Falling",
+      "url": "https://open.spotify.com/track/5ZL1VcP71UgUXRq9THSC8J"
     },
     {
       "added_at": "2022-07-22 04:01:00",

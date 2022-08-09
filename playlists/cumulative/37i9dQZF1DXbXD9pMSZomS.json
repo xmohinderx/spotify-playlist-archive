@@ -2471,10 +2471,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 144905,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW"
+    },
+    {
+      "album": {
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
     },
     {
       "album": {

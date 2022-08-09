@@ -1638,6 +1638,28 @@
     },
     {
       "album": {
+        "name": "Machala",
+        "url": "https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I"
+      },
+      "artists": [
+        {
+          "name": "Carterefe",
+          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154631,
+      "name": "Machala",
+      "url": "https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq"
+    },
+    {
+      "album": {
         "name": "Magic (with Amartey)",
         "url": "https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C"
       },
@@ -1675,7 +1697,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 135482,
       "name": "Man Of The Year",
       "url": "https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8"

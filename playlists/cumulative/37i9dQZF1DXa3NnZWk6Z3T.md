@@ -4,13 +4,13 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-279 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+280 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A letter to my younger self](https://open.spotify.com/track/325e3Lkx4AodxGNsqHiaG4) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [A letter to my younger self](https://open.spotify.com/album/1CmENblofMYmtDtx6pPqDU) | 2:18 | 2021-12-09 |  |
 | [A Mí y a Nadie Más](https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [A Mí y a Nadie Más](https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P) | 2:37 | 2021-12-09 |  |
-| [A Tu Lado](https://open.spotify.com/track/2sxGambjEMewIexGbpP089) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ) | 4:04 | 2022-05-14 |  |
+| [A Tu Lado](https://open.spotify.com/track/2sxGambjEMewIexGbpP089) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ) | 4:04 | 2022-05-14 | 2022-08-09 |
 | [A Tu Lado](https://open.spotify.com/track/5EWino1os6FUYJ1q7KRDnN) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/1XtVGi0vSh9FSIZ6lfrDeE) | 4:04 | 2021-12-09 | 2022-07-29 |
 | [Acá con Vos](https://open.spotify.com/track/2jZPr6BJnsg8JQLCfAXb5P) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Acá con Vos](https://open.spotify.com/album/7xU1ndKdojlzoRQ5UWnyFK) | 3:45 | 2021-12-09 | 2022-07-29 |
 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 | 2021-12-09 |  |
@@ -56,6 +56,7 @@
 | [Calle Cima](https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Calle Cima](https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim) | 3:39 | 2021-12-09 | 2022-07-26 |
 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 | 2022-04-07 |  |
 | [Capulí](https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Capulí](https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA) | 3:22 | 2021-12-09 |  |
+| [Cardenalito](https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:32 | 2022-08-08 |  |
 | [Carmesí](https://open.spotify.com/track/5VjpI5RsDja4HFsh8gW2bP) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Carmesí](https://open.spotify.com/album/6pK2ZkchdNLYjVZhcBzHRL) | 3:01 | 2021-12-09 | 2022-07-29 |
 | [Carnaval](https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:02 | 2021-12-09 |  |
 | [Cartagena](https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc), [Melo Gía](https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU) | [Cartagena](https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9) | 3:41 | 2021-12-09 |  |

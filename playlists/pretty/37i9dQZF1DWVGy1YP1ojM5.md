@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Sensual silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,115 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,246 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 9 | [By Any Means](https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [By Any Means](https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ) | 3:45 |
 | 10 | [BAD bad](https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:49 |
 | 11 | [Your Guilty Pleasure](https://open.spotify.com/track/0Sn0hAaE5yQxyduDZuqWoY) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [Vanity](https://open.spotify.com/album/3Wicqw4vojPJ7Um7DaK9Qi) | 2:54 |
-| 12 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 |
-| 13 | [Pretty](https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/43kkkDmRKDwqBbP7IUyrSN) | 2:46 |
-| 14 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 |
+| 12 | [Résumé](https://open.spotify.com/track/2K2kujL7erU8ItCd2Tv5lh) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 3:00 |
+| 13 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 |
+| 14 | [Pretty](https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/43kkkDmRKDwqBbP7IUyrSN) | 2:46 |
 | 15 | [Light Me Up](https://open.spotify.com/track/0QQMJ3W0zNoHeak1NWnPDm) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Light Me Up](https://open.spotify.com/album/7dZicvXTzIqBHXYpeeeCn2) | 3:49 |
-| 16 | [Résumé](https://open.spotify.com/track/2K2kujL7erU8ItCd2Tv5lh) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 3:00 |
+| 16 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 |
 | 17 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 |
 | 18 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
 | 19 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 30 | [everybody knows](https://open.spotify.com/track/5hI3LDMdW5psqk8ClzSHid) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/3Iqj7izDM8MKscAuEtpL4J) | 3:22 |
 | 31 | [Jelly](https://open.spotify.com/track/2uNaZDWpXOuB9r5Wi5wTzk) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:49 |
 | 32 | [Free Like Me](https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Free Like Me](https://open.spotify.com/album/4DQdhSH4kOwjkz8OwcCuDd) | 3:26 |
-| 33 | [Me & Mrs\. Wong](https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 3:50 |
-| 34 | [When Love's Around \(feat\. Syd\)](https://open.spotify.com/track/4iC9bQomdbH5YPYi4HrECX) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Nobody Is Listening](https://open.spotify.com/album/3uMWm5YRiYJFoqji7wYKsR) | 3:11 |
+| 33 | [When Love's Around \(feat\. Syd\)](https://open.spotify.com/track/4iC9bQomdbH5YPYi4HrECX) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Nobody Is Listening](https://open.spotify.com/album/3uMWm5YRiYJFoqji7wYKsR) | 3:11 |
+| 34 | [Me & Mrs\. Wong](https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 3:50 |
 | 35 | [Love song](https://open.spotify.com/track/12ZIJvwUlRiu8KXomPkihd) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Love song](https://open.spotify.com/album/0tbJQJEE3eQCdhvD1WJ7PJ) | 3:27 |
 | 36 | [Slow Down](https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Slow Down](https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl) | 3:48 |
 | 37 | [Alone](https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 49 | [Time & Space](https://open.spotify.com/track/6MOovkZjVPHVFIjBHDQFyb) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Time & Space](https://open.spotify.com/album/1AtZbc5gR0HBEYinJONZA0) | 3:19 |
 | 50 | [Honey](https://open.spotify.com/track/5NKKN9EntvGry2OYjZfbFH) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:21 |
 
-Snapshot ID: `MTY0OTA5NDE3MywwMDAwMDAwMGUwMDM5MjViZjE4YTBlYjAxMTA0YmI0ZjUyM2UzMDI2`
+Snapshot ID: `MTY0OTA5NDE3MywwMDAwMDAwMDc5MGJhMWZmZWMxNWM5NGU0NTA0Y2QzODkxYWM3YTU3`

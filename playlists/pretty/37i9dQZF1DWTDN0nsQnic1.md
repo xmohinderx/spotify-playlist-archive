@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,292 likes - 56 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,325 likes - 56 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Saffron Sunset](https://open.spotify.com/track/5mpTv6Y3IDGKcGHZaXv2VI) | [Regressor](https://open.spotify.com/artist/0z8ShnIyctKoYwU68qKzRT) | [Crescent Spoon](https://open.spotify.com/album/2YFHOiLVwsKRRqck9EXA30) | 5:13 |
 | 2 | [Worldwide](https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl x Kazuki Sessions](https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR) | 3:43 |
 | 3 | [Surface](https://open.spotify.com/track/44bTGsp2iJO8AjYEjRqP47) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [INIMI](https://open.spotify.com/artist/4tge67x7Fvdd1Z04eJr2LL) | [Could It Be U / Surface](https://open.spotify.com/album/4cU2LPwnLxgMwF8151yNxt) | 3:07 |
-| 4 | [thinking of you](https://open.spotify.com/track/21ZVMmHXpt3Qht5pjVgBMS) | [Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [until the end](https://open.spotify.com/album/5PsSXT8MDeQtsGWaoOhajF) | 1:53 |
+| 4 | [thinking of you](https://open.spotify.com/track/21ZVMmHXpt3Qht5pjVgBMS) | [Ichika Nito](https://open.spotify.com/artist/1HmjpZ37hGsHQFsACpchDs) | [until the end](https://open.spotify.com/album/5PsSXT8MDeQtsGWaoOhajF) | 1:53 |
 | 5 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 |
 | 6 | [It's a Moot Point](https://open.spotify.com/track/5OP4i76ZTqEAk85tTAoYZO) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/0uYv4UurbEDyLsKe5O5dzJ) | 4:02 |
 | 7 | [Where I Want to Be](https://open.spotify.com/track/5OJD3ceQHISjim2MVDUGkJ) | [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3) | [Where I Want to Be](https://open.spotify.com/album/3C3oFWTYx44bZwlzh4ByjS) | 4:39 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 35 | [Can't Stop Thinkin' About You](https://open.spotify.com/track/4UIvHuPvd9r96KSE3boALB) | [Eli Teplin](https://open.spotify.com/artist/0WcAIG4jcHAwMBbCgk63F4), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Can't Stop Thinkin' About You](https://open.spotify.com/album/4Lv2KGGJpcF8Jnawi2reoa) | 3:01 |
 | 36 | [I Did It For You](https://open.spotify.com/track/4xWLo3R0jjTVOdmtjC5MKI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:01 |
 | 37 | [Jump](https://open.spotify.com/track/6C80rHHynL0EvgTHzzCZUq) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/0uYv4UurbEDyLsKe5O5dzJ) | 2:26 |
-| 38 | [i miss you](https://open.spotify.com/track/37Unx14mB8QnCx0bDjtCM8) | [Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [i miss you](https://open.spotify.com/album/4iAAZgLQNfLmyJxjNR3P2u) | 1:56 |
+| 38 | [i miss you](https://open.spotify.com/track/37Unx14mB8QnCx0bDjtCM8) | [Ichika Nito](https://open.spotify.com/artist/1HmjpZ37hGsHQFsACpchDs) | [i miss you](https://open.spotify.com/album/4iAAZgLQNfLmyJxjNR3P2u) | 1:56 |
 | 39 | [You](https://open.spotify.com/track/1eG4WAXiknUV2e6i32UVmL) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [You](https://open.spotify.com/album/7EL0PevW3njBoZnNoQ5iqZ) | 3:22 |
 | 40 | [Cars and Girls](https://open.spotify.com/track/1BbICvFlL56R0CUeckUYLg) | [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8), [So Much Light](https://open.spotify.com/artist/5YBaMP0Pkww9ZGvkVcrpTz) | [Cars and Girls](https://open.spotify.com/album/0pI6Cl27r0xlAkRYClymzF) | 4:32 |
 | 41 | [Flamingo](https://open.spotify.com/track/0tosIMpbs0c3D026bob94l) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 2:56 |

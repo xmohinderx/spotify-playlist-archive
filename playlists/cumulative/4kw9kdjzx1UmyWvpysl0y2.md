@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-230 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+231 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dream Cycle](https://open.spotify.com/track/7txsm358oTUP7fYsV1pI5M) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Dream Cycle](https://open.spotify.com/album/1QvHgVXLSeEvJ7QYtapuBK) | 3:47 | 2022-01-26 | 2022-04-06 |
 | [Dream On](https://open.spotify.com/track/1MmgvqDJPNcJf8zKXNdAXy) | [Glaue](https://open.spotify.com/artist/4LLym899uwEUeuVo6KdVom) | [Dream On](https://open.spotify.com/album/0aaBetdnkoTWbFliLbrtnA) | 3:17 | 2022-01-12 | 2022-03-19 |
 | [Dreams](https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Dreams](https://open.spotify.com/album/2mZfEjrVc81R1v7z6NPFAC) | 4:17 | 2021-11-30 | 2022-03-05 |
+| [Drift Away](https://open.spotify.com/track/2L8at3lop2IDJyYeBMMUZa) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Drift Away](https://open.spotify.com/album/6syTBBVYJJ9Tlp4sBAW2k4) | 3:42 | 2022-08-08 |  |
 | [Drive You Crazy](https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Drive You Crazy](https://open.spotify.com/album/1zetX8KIFc1L4WmDm23uxb) | 2:58 | 2022-07-08 |  |
 | [Droids](https://open.spotify.com/track/14jlkBcHSBOdGLeei57uEH) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Droids](https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0) | 3:40 | 2022-06-09 |  |
 | [Echoes Of Silence](https://open.spotify.com/track/1MgjRb4bfIktunmJS6rqBN) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Echoes Of Silence](https://open.spotify.com/album/3bAbk8cVmDJ5Q7J1IT6lVU) | 3:53 | 2022-07-15 |  |
@@ -112,7 +113,7 @@
 | [Jupiter & Saturn](https://open.spotify.com/track/5kihqmQ7LLDHK3nEbqyyqm) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Jupiter & Saturn](https://open.spotify.com/album/5RqTuhUL1aoro59s9CKyqW) | 3:13 | 2022-06-17 |  |
 | [Just Dance](https://open.spotify.com/track/3OTClWUY9bf3qVXrR9LNL6) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Just Dance](https://open.spotify.com/album/5JKQ1by0GaQLYzgR1IyyS4) | 3:14 | 2022-04-15 | 2022-06-25 |
 | [just wanna luv](https://open.spotify.com/track/5Dvd2vfqvPg0RCXQ9DpKee) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [just wanna luv](https://open.spotify.com/album/2SwH358tYGHvJH7Z6DhWHv) | 4:17 | 2022-03-25 | 2022-06-08 |
-| [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-05-27 |  |
+| [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-05-27 | 2022-08-09 |
 | [Let Me Hold You](https://open.spotify.com/track/40gUXVKUY4etoVasp7SDWh) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Let Me Hold You](https://open.spotify.com/album/6DA3EYXV7y0D5EI7iFtX3N) | 3:25 | 2022-04-06 | 2022-06-17 |
 | [Life](https://open.spotify.com/track/1GEzNwN8v6S1ZzDeV5yTT5) | [Skua](https://open.spotify.com/artist/0VAx8r083HyvVoSSHhLyOM), [Cosmaks](https://open.spotify.com/artist/6IH6wRrcnOpOOPkQxO4ry8), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Life](https://open.spotify.com/album/1FVq6Cn1lfE7IILYwwZ4eX) | 4:18 | 2022-06-15 |  |
 | [Light of Mine](https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jimorrow](https://open.spotify.com/artist/06qfSjDnOB1ZMdkynif9lv) | [Light of Mine](https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc) | 2:30 | 2021-11-19 | 2022-01-29 |

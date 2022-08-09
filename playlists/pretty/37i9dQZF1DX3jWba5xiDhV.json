@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 41180,
+  "num_followers": 41325,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMGI5MmUzNzg4ZjA1OWQzNjdjYWI2YTFiMjJiODQ2YmFm",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMGZlMjhmYzA0NTNlNDExMjkzM2YyNDA0OTQ1NDIxY2Rk",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -107,18 +107,18 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "I Need You Tonight / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+        "name": "Melanch\u00f3lia",
+        "url": "https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE"
       },
       "artists": [
         {
-          "name": "Punkin Machine",
-          "url": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
+          "name": "Matia Bazar",
+          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
         }
       ],
-      "duration_ms": 338844,
-      "name": "I Need You Tonight",
-      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx"
+      "duration_ms": 255000,
+      "name": "Ti Sento",
+      "url": "https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Melanch\u00f3lia",
-        "url": "https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE"
+        "name": "I Need You Tonight / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
       "artists": [
         {
-          "name": "Matia Bazar",
-          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
+          "name": "Punkin Machine",
+          "url": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Ti Sento",
-      "url": "https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk"
+      "duration_ms": 338844,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "The Division",
-        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
-      },
-      "artists": [
-        {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
-        }
-      ],
-      "duration_ms": 396435,
-      "name": "Neutron Dance",
-      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "3 - Supernature",
         "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 462000,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "The Division",
+        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "duration_ms": 396435,
+      "name": "Neutron Dance",
+      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Disco Modernism (1983 - 2008)",
-        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
-      },
-      "artists": [
-        {
-          "name": "Fred Ventura",
-          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
-        }
-      ],
-      "duration_ms": 371920,
-      "name": "Wind of Change",
-      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Disco Modernism (1983 - 2008)",
+        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
+      },
+      "artists": [
+        {
+          "name": "Fred Ventura",
+          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
+        }
+      ],
+      "duration_ms": 371920,
+      "name": "Wind of Change",
+      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Italiana Vol. 1",
         "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 259773,
       "name": "Morir\u00f2 Per Te - 2001 Remaster",
       "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Disco Fizz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
+      },
+      "artists": [
+        {
+          "name": "Azoto",
+          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "San Salvador - Single Version",
+      "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -743,22 +759,6 @@
       "duration_ms": 266826,
       "name": "Wojtila 5. Disco Dance",
       "url": "https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Disco Fizz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
-      },
-      "artists": [
-        {
-          "name": "Azoto",
-          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "San Salvador - Single Version",
-      "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "The Hits Collection",
+        "url": "https://open.spotify.com/album/3KTH5Tquwf5kOkHA1KeQam"
+      },
+      "artists": [
+        {
+          "name": "Fun Fun",
+          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Color My Love",
+      "url": "https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Hildegard",
         "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 335333,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "The Hits Collection",
-        "url": "https://open.spotify.com/album/3KTH5Tquwf5kOkHA1KeQam"
-      },
-      "artists": [
-        {
-          "name": "Fun Fun",
-          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "Color My Love",
-      "url": "https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 357600,
-      "name": "Jamin'",
-      "url": "https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Orient Express",
         "url": "https://open.spotify.com/album/0fz94X7NiOSSzopMiynnVv"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 428946,
       "name": "Orient Express - Vocal",
       "url": "https://open.spotify.com/track/75Qt3OvjyUmOtEO3TpX7qV"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 357600,
+      "name": "Jamin'",
+      "url": "https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8"
     },
     {
       "added_at": "2022-07-01 04:02:00",

@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-407 songs - 1 day 3 hr 1 min - [published](https://open.spotify.com/playlist/3vJ4qB7BMV10tBofkiawS6)
+408 songs - 1 day 3 hr 7 min - [published](https://open.spotify.com/playlist/3vJ4qB7BMV10tBofkiawS6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Acaríciame](https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [Lo Mejor De Maria Conchita Alonso](https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x) | 4:18 | 2021-12-21 | 2022-07-23 |
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 | 2021-12-21 |  |
 | [Al Otro Lado del Sol \- Remasterizado](https://open.spotify.com/track/4ZTTPx3wc82d1R92z7A4Fs) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Al Otro Lado del Sol \(Remasterizado\)](https://open.spotify.com/album/5L5or9U2fOKsE1GXLWz8YA) | 4:22 | 2021-12-21 | 2022-07-28 |
-| [Alguien Como Tú](https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 3:54 | 2021-12-21 |  |
+| [Alguien Como Tú](https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 3:54 | 2021-12-21 | 2022-08-09 |
 | [All By Myself \- Spanish Version](https://open.spotify.com/track/7fL8zIHLfuEFmJy6BWsYMt) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Collector's Series Volume One](https://open.spotify.com/album/3OhSe43gTkOE5Lul4kPuGh) | 5:08 | 2021-12-21 | 2022-07-27 |
 | [Amandote](https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [Solo](https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58) | 3:54 | 2021-12-21 |  |
 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 | 2021-12-21 |  |
@@ -49,6 +49,7 @@
 | [Bella](https://open.spotify.com/track/6NEZnVWFbIRfLLibyIxNNW) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Mis Mas Grandes Éxitos](https://open.spotify.com/album/28E8gaViYOVOVNz1OQUHD8) | 3:44 | 2021-12-21 |  |
 | [Bella](https://open.spotify.com/track/0ef72zS2kifTd3iW9SWmBm) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Singles](https://open.spotify.com/album/2XveROFPWmxMU9C0wpIygG) | 3:44 | 2021-12-21 | 2022-07-29 |
 | [Besos De Ceniza](https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 2:56 | 2021-12-21 |  |
+| [Callados](https://open.spotify.com/track/7afLIGLOQUhXMruh8XByhL) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [2 en 1 \(Amigo Mio, Cuenta Conmigo\)](https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih) | 5:31 | 2021-12-21 |  |
 | [Callados](https://open.spotify.com/track/3tdg9GhzoyBWCgTGMpThjx) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y), [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Camilo 70](https://open.spotify.com/album/5M1966wGVaH8uq4O6CT3PY) | 5:26 | 2021-12-21 | 2022-07-26 |
 | [Callados](https://open.spotify.com/track/7qClrsIdrdrwFqhDwDoIKs) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y), [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 5:29 | 2021-12-21 | 2022-07-29 |
 | [Camionero \(Caminhoneiro\) \[Gentle On My Mind\]](https://open.spotify.com/track/2qndofldhCJ8D94cdWDuWH) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 2](https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK) | 6:57 | 2021-12-21 |  |

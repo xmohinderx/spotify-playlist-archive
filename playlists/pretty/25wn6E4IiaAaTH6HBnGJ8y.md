@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 
 > bangers
 
-[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,352 likes - 245 songs - 15 hr 15 min
+[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,353 likes - 245 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 | 148 | [Bambi](https://open.spotify.com/track/5dmPNuHmRRJuHmJTDa7NuJ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bambi](https://open.spotify.com/album/6tGEWfRhonWuuQikgOnYhN) | 3:14 |
 | 149 | [Cold Cold Man](https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:50 |
 | 150 | [Borderline](https://open.spotify.com/track/3O8X1DE9btbzy4UH9cSX9a) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Borderline](https://open.spotify.com/album/5zGidcaAvNahQrYhyQwAQn) | 4:34 |
-| 151 | [Loving Is Easy](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 |
+| 151 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 |
 | 152 | [Let Her Go](https://open.spotify.com/track/7KmawNv6JUgZ54gSyVF6VQ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/1l9d1Zj9Iv2eOcdObVhdMy) | 3:02 |
 | 153 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
 | 154 | [Homage](https://open.spotify.com/track/7pegxVesMmE2qK0o58xoFG) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/1qMDN9zRQreK81cJ9G1hed) | 2:57 |

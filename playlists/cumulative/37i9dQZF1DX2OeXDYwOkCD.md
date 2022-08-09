@@ -4,7 +4,7 @@
 
 > Si te gustan por separado, ¿cómo no te van a gustar juntos?
 
-99 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/5xE0Z6rCVdMCq72w3t0VYv)
+101 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/5xE0Z6rCVdMCq72w3t0VYv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [DE AQUÍ NO SALES \- Cap.4: Disputa](https://open.spotify.com/track/0CaiddWO1F3v4nTQGgfk9A) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:24 | 2022-03-29 |  |
 | [De Pie](https://open.spotify.com/track/52Ixm0kDxqdvAyQuupMMQ9) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [De Pie](https://open.spotify.com/album/0QSMhVfxswtjgwzyJn9v3o) | 2:52 | 2022-03-29 |  |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-03-29 |  |
+| [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-08 |  |
 | [DI MI NOMBRE \- Cap.8: Éxtasis](https://open.spotify.com/track/56lQ8hCfzGmLtr14y9Wv6v) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DI MI NOMBRE \(Cap.8: Éxtasis\)](https://open.spotify.com/album/5noDcJgru6dRUX2lYyzW25) | 2:42 | 2022-03-29 | 2022-07-29 |
 | [DI MI NOMBRE \- Cap.8: Éxtasis](https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:42 | 2022-03-29 |  |
 | [Dio$ No$ Libre Del Dinero](https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 1:48 | 2022-03-29 |  |
@@ -65,6 +66,7 @@
 | [Mala Mujer \(feat\. Farruko & French Montana\) \- Remix](https://open.spotify.com/track/1UnEj1Xn1um7EtICzThjUU) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Mala Mujer \(feat\. Farruko & French Montana\) \[Remix\]](https://open.spotify.com/album/6K6yEQC1fPySi8lwn5TRIW) | 3:44 | 2022-03-29 |  |
 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/5zOAudPQIs5U8zP6LQGHmH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MALAMENTE \(Cap.1: Augurio\)](https://open.spotify.com/album/2O7Zu2OPZzqehwh1wiO764) | 2:29 | 2022-03-29 |  |
 | [MALDICIÓN \- Cap.10: Cordura](https://open.spotify.com/track/5IIXMynH8cxC8is6MaqdF7) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:55 | 2022-03-29 |  |
+| [Me Maten \- Live at NPR's Tiny Desk](https://open.spotify.com/track/2uFlBIfS4XKyOVPKiIrj5L) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [El Madrileño \(La Sobremesa\)](https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz) | 4:02 | 2022-08-08 |  |
 | [Me Maten \- Live at NPR's Tiny Desk](https://open.spotify.com/track/5py3FJrHEuR67BjR7wm8uj) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [El Madrileño \(Live at NPR's Tiny Desk\)](https://open.spotify.com/album/3hQIiRWmSllPrVnOEG1qVS) | 4:02 | 2022-03-29 |  |
 | [Me Traicionaste](https://open.spotify.com/track/3GiPW9U9KASQZfHiv6ix0w) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [For The Throne \(Music Inspired by the HBO Series Game of Thrones\)](https://open.spotify.com/album/00xUnMv4KFgxTBvNMsUy3T) | 2:46 | 2022-03-29 |  |
 | [Milionària](https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 2:18 | 2022-03-29 |  |

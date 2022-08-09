@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-86 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/2aC5BPUM0MsoTBT2ZjgARC)
+87 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/2aC5BPUM0MsoTBT2ZjgARC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,13 +15,14 @@
 | [Ang Huling El Bimbo](https://open.spotify.com/track/21LMl54FIe7J5oOoZzgeiQ) | [Eraserheads](https://open.spotify.com/artist/7374lH6kwx9uQATYQ9H3Cp) | [Anthology](https://open.spotify.com/album/2DIpgoeZAbwk3wF1qSDj8v) | 7:30 | 2022-04-19 | 2022-07-29 |
 | [Bakit Ba Ikaw](https://open.spotify.com/track/0Vmk6Ebk4QBq7r0VAz2a6s) | [Michael Pangilinan](https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV) | [Michael](https://open.spotify.com/album/2fI8PsKYLPMt9Gv4NVrtjk) | 4:05 | 2022-06-13 | 2022-07-11 |
 | [Bawat Daan](https://open.spotify.com/track/0wUSZjJVblGKntOqBSWMdo) | [Ebe Dancel](https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur) | [Bawat Daan](https://open.spotify.com/album/4acHD3ykZw3DYLcLW1Mqv3) | 5:00 | 2022-04-19 |  |
+| [Beer](https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Noon Time Show](https://open.spotify.com/album/6WzFODPnZ5SW1qTvTELSxW) | 6:04 | 2022-06-13 |  |
 | [Before I Let You Go](https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Freestyle](https://open.spotify.com/album/23urE9jm4wugYqmxANnDut) | 4:49 | 2022-06-13 |  |
 | [Before I Let You Go](https://open.spotify.com/track/5T8bLnWG8sg9ER8RKNZbCB) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Freestyle](https://open.spotify.com/album/1UeL9KHbWPUf203QjU6NvN) | 4:49 | 2022-04-19 | 2022-07-28 |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2022-04-19 |  |
 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 | 2022-06-13 |  |
 | [Dating Tayo](https://open.spotify.com/track/267RumTt5KeLBGl2KWxBL0) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [TJ Monterde](https://open.spotify.com/album/01f1BJjxsFyuX580Fk8Gjk) | 3:59 | 2022-04-19 |  |
 | [Demonyo](https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [JKL](https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC) | 3:38 | 2022-04-19 | 2022-07-21 |
-| [Di Na Muli](https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Sid & Aya \(Not a Love Story\) \[Original Movie Soundtrack\]](https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U) | 4:20 | 2022-06-13 |  |
+| [Di Na Muli](https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Sid & Aya \(Not a Love Story\) \[Original Movie Soundtrack\]](https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U) | 4:20 | 2022-06-13 | 2022-08-09 |
 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2022-04-19 |  |
 | [Halaga](https://open.spotify.com/track/6pz4tdLoIDJdnpXnisSDCK) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Gulong Itlog Gulong](https://open.spotify.com/album/58vdgBfvgzQFZ2VreSPGmU) | 5:52 | 2022-06-13 | 2022-06-20 |
 | [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/5UhpceEr5XmbVwyoIUIRnh) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/0S0yaR1MiuHfyAZPAtChVc) | 4:21 | 2022-04-19 |  |

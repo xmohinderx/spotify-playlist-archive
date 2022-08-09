@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Lasso
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,174 likes - 85 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,247 likes - 85 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 70 | [Como Mario](https://open.spotify.com/track/54u0nhUqypduR2oMMmBvrg) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Como Mario](https://open.spotify.com/album/2v7Gt7mkGcLMnlTJa97SPw) | 3:04 |
 | 71 | [Minotauros](https://open.spotify.com/track/1Q496s61Y6lEbFmGiost0a) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Minotauros](https://open.spotify.com/album/1wF5pnsm6uE4uzYIEGyk5W) | 3:09 |
 | 72 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 |
-| 73 | [3 de La Mañana](https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [3 de La Mañana](https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt) | 3:40 |
+| 73 | [3 de La Mañana \- con Sebastián Yatra & Mora](https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [3 de La Mañana \(con Sebastián Yatra & Mora\)](https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt) | 3:40 |
 | 74 | [Morir Juntos](https://open.spotify.com/track/4fIQZb61FlXSRbnGgIBSj8) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Morir Juntos](https://open.spotify.com/album/4bDudL5EN5SzqTJpWs4PTL) | 3:11 |
 | 75 | [Dueño de Nada](https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [La Historia del Puma](https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY) | 5:13 |
 | 76 | [Reset](https://open.spotify.com/track/2vGR2udwxxgDzH1nRkIAAa) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:11 |

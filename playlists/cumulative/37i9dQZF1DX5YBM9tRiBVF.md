@@ -4,7 +4,7 @@
 
 > Listen to women from Belgium, at full volume\. Cover: BLUAI
 
-190 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
+191 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Chill](https://open.spotify.com/track/0fIzMhNdHJsnSSgE1LyeIN) | [WAYI](https://open.spotify.com/artist/6CbMqrM714vGa77HxOKoHI) | [Chill](https://open.spotify.com/album/7CmCeDeLBtJ4GFltbhz2Xz) | 3:27 | 2021-12-08 | 2022-02-03 |
 | [Cod Liver Oil and Orange Juice](https://open.spotify.com/track/5uHaeTyWllKPjO9UCL3rjF) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Cod Liver Oil and Orange Juice](https://open.spotify.com/album/6oMnfdcvsINCqXjJyWb17A) | 3:56 | 2022-05-31 |  |
 | [Cold Hard World](https://open.spotify.com/track/3961gQcrhLeeckDT6QrB0b) | [Naima Joris](https://open.spotify.com/artist/3eSHHprsyLcEwQUYwAAWmw) | [Cold Hard World](https://open.spotify.com/album/6z3bXk3QaY5ctTP166iiOI) | 5:55 | 2022-05-03 | 2022-06-01 |
-| [Come Out and Play \- Single Version](https://open.spotify.com/track/7oxaCdx65RLFH42bciD8TG) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Come Out and Play](https://open.spotify.com/album/1y47df8pGZdCDpj10AQB9i) | 3:36 | 2022-07-05 |  |
+| [Come Out And Play \- Single Version](https://open.spotify.com/track/5L2ZQMBeZicgPmkoTj4ALJ) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Come Out And Play](https://open.spotify.com/album/6wmFzLHHfmtOzMu5ZnLj2o) | 3:36 | 2022-08-02 |  |
+| [Come Out and Play \- Single Version](https://open.spotify.com/track/7oxaCdx65RLFH42bciD8TG) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Come Out and Play](https://open.spotify.com/album/1y47df8pGZdCDpj10AQB9i) | 3:36 | 2022-07-05 | 2022-08-09 |
 | [contagious](https://open.spotify.com/track/4WwuRXyIFXkYZ9nrU9P51f) | [gala](https://open.spotify.com/artist/6r2Z3OQKV4eN6MzXHGu7rP) | [contagious](https://open.spotify.com/album/59Mup4tiKXUGmQqch4qeiJ) | 3:42 | 2022-02-02 | 2022-03-08 |
 | [Creep](https://open.spotify.com/track/4aXPMqyQwn5658m6MpReNc) | [Tessa Dixson](https://open.spotify.com/artist/7lIzEb23X68Dbt7Ka94Prh) | [Creep](https://open.spotify.com/album/1iBSM4bEvrLj2XtYg7uAfW) | 2:41 | 2021-12-08 | 2022-03-08 |
 | [Cruel](https://open.spotify.com/track/1TBBIjxfN2jJ40ozWsMq7I) | [Tsar B](https://open.spotify.com/artist/4iH079WFvkBukHz8JgiOp3) | [Cruel](https://open.spotify.com/album/1L62r7h2gFUQPhLpVqI7vN) | 3:10 | 2021-12-08 | 2022-03-08 |

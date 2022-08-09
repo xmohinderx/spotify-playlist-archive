@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del Rock en Espa\u00f1ol de hoy. Cover: Aleesha",
+  "description": "Las nuevas vibras del Rock en Espa\u00f1ol. Cover: Alvaro Diaz",
   "name": "Rock Total",
   "published_playlist_ids": [
     "1oUEjRuRAeBE25oqoZZ6lQ"
@@ -1358,6 +1358,24 @@
     },
     {
       "album": {
+        "name": "NO VUELVAS",
+        "url": "https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg"
+      },
+      "artists": [
+        {
+          "name": "KRISTAL",
+          "url": "https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178178,
+      "name": "NO VUELVAS",
+      "url": "https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2"
+    },
+    {
+      "album": {
         "name": "Nos Quieren Dead",
         "url": "https://open.spotify.com/album/1x9s4GTLwVdRVSd04bjvnI"
       },
@@ -1571,6 +1589,24 @@
       "duration_ms": 178643,
       "name": "Quiero Casarme Contigo",
       "url": "https://open.spotify.com/track/1s5FcXcjnYDEC785fcoBQv"
+    },
+    {
+      "album": {
+        "name": "Ramona Flowers",
+        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "Ramona Flowers",
+      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
     },
     {
       "album": {

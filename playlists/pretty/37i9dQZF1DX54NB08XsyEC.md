@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 
 > pov: essa mami n te quer mais // ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,606 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,725 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 23 | [Hotel Caro](https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Hotel Caro](https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU) | 3:41 |
 | 24 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
 | 25 | [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 |
-| 26 | [VERMELHO](https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |
-| 27 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 |
+| 26 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 |
+| 27 | [VERMELHO](https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |
 | 28 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 |
 | 29 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 |
 | 30 | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS) | 3:01 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 44 | [Ily](https://open.spotify.com/track/0S8OkXHUuSHKyCTKomDxaw) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Ily](https://open.spotify.com/album/66lnwqrH113PHR2tGXoya7) | 3:21 |
 | 45 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 |
 | 46 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 |
-| 47 | [Amigos Que Se Beijam](https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Amigos Que Se Beijam](https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN) | 2:07 |
-| 48 | [Me rendi ao love song](https://open.spotify.com/track/7CRsO8aLopgWGHjEygr6dF) | [Dri](https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g) | [Me rendi ao love song](https://open.spotify.com/album/7bjW8HtQhukkVCX2DBJ98k) | 3:45 |
-| 49 | [PRÊMIO](https://open.spotify.com/track/3pQs1W4QPXFDxx0zLsQ5Mt) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PRÊMIO](https://open.spotify.com/album/2tSo9MjxDo3LW6x8lbqMXR) | 2:22 |
-| 50 | [bonita e miserável](https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bonita e miserável](https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK) | 2:51 |
+| 47 | [bonita e miserável](https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bonita e miserável](https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK) | 2:51 |
+| 48 | [Amigos Que Se Beijam](https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Amigos Que Se Beijam](https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN) | 2:07 |
+| 49 | [Me rendi ao love song](https://open.spotify.com/track/7CRsO8aLopgWGHjEygr6dF) | [Dri](https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g) | [Me rendi ao love song](https://open.spotify.com/album/7bjW8HtQhukkVCX2DBJ98k) | 3:45 |
+| 50 | [PRÊMIO](https://open.spotify.com/track/3pQs1W4QPXFDxx0zLsQ5Mt) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PRÊMIO](https://open.spotify.com/album/2tSo9MjxDo3LW6x8lbqMXR) | 2:22 |
 
-Snapshot ID: `MTY1OTM3NTgxOCwwMDAwMDAwMDU3ODM5OTlhZjZmZWZjY2I4NDZhOGE1MWY2YWQyNmIx`
+Snapshot ID: `MTY1OTM3NTgxOCwwMDAwMDAwMGUyZjVmMjJmMzA4ZDVhNmQwZTJhNTJhMDI5ZTdkYjdj`

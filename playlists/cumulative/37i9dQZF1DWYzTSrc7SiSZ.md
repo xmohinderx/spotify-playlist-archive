@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing\. Las vibras tranqui que ocupas en tu vida.
 
-170 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
+171 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,10 @@
 | [beat relajado para estudiar](https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [beat relajado para estudiar](https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx) | 4:10 | 2022-05-20 |  |
 | [Beso](https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:31 | 2022-05-20 |  |
 | [Bolitas](https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Bolitas](https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB) | 3:41 | 2022-05-20 |  |
-| [BOTA FUEGO](https://open.spotify.com/track/6Y6YC93R1r0CISm5iC4j27) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [BOTA FUEGO](https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6) | 3:43 | 2022-07-11 |  |
+| [BOTA FUEGO \- con Nicky Jam](https://open.spotify.com/track/6Y6YC93R1r0CISm5iC4j27) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [BOTA FUEGO \(con Nicky Jam\)](https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6) | 3:43 | 2022-07-11 |  |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 | 2022-05-20 |  |
 | [Cafeliko](https://open.spotify.com/track/0mzvDQW1IgLuXAwD5YMN6i) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cafeliko](https://open.spotify.com/album/02qmYpNbxlf8EFAzHQTK4x) | 2:06 | 2022-05-20 |  |
+| [Cardenalito](https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:32 | 2022-08-08 |  |
 | [Cliché](https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:44 | 2022-07-11 |  |
 | [Cliché](https://open.spotify.com/track/4LibnjBGrnHExVThKnN3BG) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Cliché](https://open.spotify.com/album/7aVEWvrRBqfRArFCJUtfVf) | 3:44 | 2022-05-20 | 2022-07-29 |
 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 | 2022-05-20 |  |
@@ -108,7 +109,7 @@
 | [MIA](https://open.spotify.com/track/06RHp0B3YfXe6I7Cua2kGe) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [MIA](https://open.spotify.com/album/4IcbcR2swl8YjBzWVqtDyN) | 2:36 | 2022-05-20 |  |
 | [Missed Connection](https://open.spotify.com/track/4J46hSepcjAkwAVJZMBbKM) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Missed Connection](https://open.spotify.com/album/1Pdkf0Y84hr61DHLky3goJ) | 3:51 | 2022-05-20 |  |
 | [Mp3](https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Mp3](https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd) | 3:01 | 2022-05-20 |  |
-| [Muy Muy Chico](https://open.spotify.com/track/2UjxHjT2OQEffK5RsN4DSK) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Muy Muy Chico](https://open.spotify.com/album/5WtH2m7dznijnLcQokkdGh) | 2:12 | 2022-07-11 |  |
+| [Muy Muy Chico](https://open.spotify.com/track/2UjxHjT2OQEffK5RsN4DSK) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Muy Muy Chico](https://open.spotify.com/album/5WtH2m7dznijnLcQokkdGh) | 2:12 | 2022-07-11 | 2022-08-09 |
 | [Muy Muy Chico](https://open.spotify.com/track/4gesrDJeUIRwdbI7gZ5L5y) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Muy Muy Chico](https://open.spotify.com/album/70XdZ1wGz5BYZgVQcxb1TQ) | 2:12 | 2022-05-20 | 2022-07-29 |
 | [My Summer Time](https://open.spotify.com/track/6lSUnwb0ba41qNUhTFfIoA) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summer Time](https://open.spotify.com/album/5lyIffJt0ugc2GApCIe0nr) | 3:07 | 2022-07-11 |  |
 | [My Summertime](https://open.spotify.com/track/2PEBWGIrWhGDkCmW4F5Lmf) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summertime](https://open.spotify.com/album/6E8xuq7EGoActOijjeGrdw) | 3:07 | 2022-05-20 | 2022-07-29 |

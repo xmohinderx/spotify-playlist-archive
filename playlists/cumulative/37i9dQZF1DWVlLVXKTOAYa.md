@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-575 songs - 1 day 5 hr 25 min - [published](https://open.spotify.com/playlist/69q7Enb8pVVf5rCvGWee3I)
+576 songs - 1 day 5 hr 28 min - [published](https://open.spotify.com/playlist/69q7Enb8pVVf5rCvGWee3I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Pretty](https://open.spotify.com/track/0dUIqBRL0Tlw5d4ly8Ahv0) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [The Hating Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5) | 2:55 | 2022-03-24 | 2022-04-21 |
 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-02-24 | 2022-07-23 |
 | [Que Locura](https://open.spotify.com/track/1Ho6cbsVlusCvv0grlswlj) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Que Locura](https://open.spotify.com/album/4pWo1MFBvVAfhjL4aPZFaD) | 3:19 | 2022-03-24 | 2022-04-21 |
-| [Questions](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions](https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR) | 2:57 | 2022-08-04 |  |
+| [Questions](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions](https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR) | 2:57 | 2022-08-04 | 2022-08-09 |
 | [r u ok](https://open.spotify.com/track/7rq1zCf90CnU7OalBLIgNp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [r u ok](https://open.spotify.com/album/4xhldRhsJY00rIkBFMe5yC) | 3:05 | 2021-12-16 | 2022-06-03 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2022-03-24 |  |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-03-24 | 2022-04-10 |
@@ -478,6 +478,7 @@
 | [Speakers](https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:39 | 2022-04-14 | 2022-04-19 |
 | [Stars](https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Deluxe\)](https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd) | 2:52 | 2022-03-24 | 2022-04-18 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-12-16 |  |
+| [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-08-04 |  |
 | [Stoned at the Nail Salon](https://open.spotify.com/track/0WLVSnKqQBK4UPom1TESHK) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/1LPqrRp0TeRO7hO1SYF08y) | 4:26 | 2022-03-24 | 2022-04-05 |
 | [Stop](https://open.spotify.com/track/1iCVw7fVBPdEzPibIQ0JCv) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [STOP](https://open.spotify.com/album/6BqOPE7vLLZaFNUtUuZGGy) | 2:57 | 2021-12-16 | 2022-07-15 |
 | [Stronger \(feat\. Kesha\)](https://open.spotify.com/track/4NctFqJyGAqurHFEUQvWgR) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Stronger \(feat\. Kesha\)](https://open.spotify.com/album/683szPAVY9vdNhI45ybBbP) | 2:53 | 2022-03-24 | 2022-04-21 |

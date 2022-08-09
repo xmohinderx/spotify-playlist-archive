@@ -599,7 +599,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 218969,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/5HHpKZFPMp2QzLMRiaT5sx"
@@ -1773,7 +1773,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 147600,
       "name": "EVERYTHING 2020",
       "url": "https://open.spotify.com/track/6zaGoyLYdtewnAhVELXhge"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 181944,
       "name": "Freedom over Everything (feat. Black Thought & Logan Richardson) - Lumen Remix",
       "url": "https://open.spotify.com/track/147FTDGbesUTdLxFgeE3z0"
@@ -2280,6 +2280,28 @@
     },
     {
       "album": {
+        "name": "Goodmorning",
+        "url": "https://open.spotify.com/album/2QvfgdZiEJzWGmXq0M98oV"
+      },
+      "artists": [
+        {
+          "name": "Baro Sura",
+          "url": "https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV"
+        },
+        {
+          "name": "Silentjay",
+          "url": "https://open.spotify.com/artist/2ggkoDoQazUyJvHeNPiqMh"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "Goodmorning",
+      "url": "https://open.spotify.com/track/1rzkzVVzCcFBNMoeVVmAdq"
+    },
+    {
+      "album": {
         "name": "Greener",
         "url": "https://open.spotify.com/album/4qvcbIXO49k3UQIKXRpomK"
       },
@@ -2353,7 +2375,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 163545,
       "name": "Happens All The Time",
       "url": "https://open.spotify.com/track/1HezVdieJrvo38VkRJGw3n"
@@ -2896,6 +2918,48 @@
     },
     {
       "album": {
+        "name": "Suite San Francisco",
+        "url": "https://open.spotify.com/album/638TQevxf9GG87hYaZREsr"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Aima The Dreamer",
+          "url": "https://open.spotify.com/artist/1ORLJq5AanngmpKPFBbMpG"
+        },
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Dublin",
+          "url": "https://open.spotify.com/artist/0TFsq4aXPtkGuboG5jjNGf"
+        },
+        {
+          "name": "Soulati",
+          "url": "https://open.spotify.com/artist/3omsuZTDcuVPuHti39XwAr"
+        },
+        {
+          "name": "Crystal Monee Hall",
+          "url": "https://open.spotify.com/artist/2ARv20TnKCGhf3MCBBGKGY"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265120,
+      "name": "Lady Luck, Pt. II: Listen",
+      "url": "https://open.spotify.com/track/36C82NpdErYgJB4AS9F2Z1"
+    },
+    {
+      "album": {
         "name": "happier, but still sad",
         "url": "https://open.spotify.com/album/5MItphTDdYuX77idfEaZiT"
       },
@@ -2933,10 +2997,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 212762,
       "name": "Lemon Squeezy",
       "url": "https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/6u5tqSj1AjjRP99XujvXYI"
+      },
+      "artists": [
+        {
+          "name": "Alec Hershey",
+          "url": "https://open.spotify.com/artist/0n0DLx9JnjPF4A6B3l2ZPX"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/5dG6kn38IgVuGUwFQ3dfSg"
     },
     {
       "album": {
@@ -4017,6 +4103,28 @@
       "duration_ms": 198965,
       "name": "right these wrongs",
       "url": "https://open.spotify.com/track/6ZH0xwY7SoPFVmvambLgoA"
+    },
+    {
+      "album": {
+        "name": "the wildest of dreams",
+        "url": "https://open.spotify.com/album/7F47pa1yf6Rusdh7xdzHvy"
+      },
+      "artists": [
+        {
+          "name": "jacuzzi jefferson",
+          "url": "https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw"
+        },
+        {
+          "name": "Stas THEE Boss",
+          "url": "https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157418,
+      "name": "righteous",
+      "url": "https://open.spotify.com/track/6x2H5tGDwJmieCxIBn84bP"
     },
     {
       "album": {
@@ -5244,6 +5352,24 @@
     },
     {
       "album": {
+        "name": "Through The Noise (Chant No. 2)",
+        "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288933,
+      "name": "Through The Noise (Chant No. 2)",
+      "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
+    },
+    {
+      "album": {
         "name": "Blue Solstice: Volume 1",
         "url": "https://open.spotify.com/album/5gIGA2nOaMi0JRio4ATLr8"
       },
@@ -5793,6 +5919,32 @@
       "duration_ms": 379213,
       "name": "Why We Speak [Feat. Q-Tip & Esperanza Spalding]",
       "url": "https://open.spotify.com/track/3126FOxYcf0g9zVdXkNUdH"
+    },
+    {
+      "album": {
+        "name": "Window Thoughts",
+        "url": "https://open.spotify.com/album/0MOnfjDIf8uTlIVE3yvdnl"
+      },
+      "artists": [
+        {
+          "name": "Isatta Sheriff",
+          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
+        },
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "Window Thoughts",
+      "url": "https://open.spotify.com/track/17oVAtOSqFo1Dh7RKkR2ao"
     },
     {
       "album": {

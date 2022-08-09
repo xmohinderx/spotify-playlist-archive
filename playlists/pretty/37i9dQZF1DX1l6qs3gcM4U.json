@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson with Djodje.",
-  "num_followers": 136023,
+  "num_followers": 136108,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMGU0Y2VkZjUyMWQyODBkYzEzMDA2YjdlZDZiMGIzNmZi",
+  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMDVlOGY4NWUxYjI3ZGNhY2FiMzRkOWQ5MmUwMGVmODdk",
   "tracks": [
     {
       "added_at": "2022-08-04 23:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
+        "name": "A.N.V.",
+        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "A Nossa Vez",
+      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5"
       },
@@ -283,6 +299,22 @@
       "duration_ms": 217333,
       "name": "Mi\u00fada Linda",
       "url": "https://open.spotify.com/track/0jmwFUYbHEqPY60yeJIGvT"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Bai",
+        "url": "https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "duration_ms": 203722,
+      "name": "Bai",
+      "url": "https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -311,38 +343,6 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Bai",
-        "url": "https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 203722,
-      "name": "Bai",
-      "url": "https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "Te Amo Tanto",
-        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Te Amo Tanto",
-      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
         "name": "Vais Me Perder",
         "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
       },
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "A.N.V.",
-        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
+        "name": "Te Amo Tanto",
+        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
       },
       "artists": [
         {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 217853,
-      "name": "A Nossa Vez",
-      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
+      "duration_ms": 182608,
+      "name": "Te Amo Tanto",
+      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -487,18 +487,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Dem\u00f3nio da Tarraxinha",
-        "url": "https://open.spotify.com/album/7BGYpyDY0a1pzAW6bqlTTh"
+        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
+        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Bruna Tatiana",
+          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
         }
       ],
-      "duration_ms": 217276,
-      "name": "Dem\u00f3nio da Tarraxinha",
-      "url": "https://open.spotify.com/track/2qNtAzgJYODcFPDskUAzE0"
+      "duration_ms": 237717,
+      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
+      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -523,26 +527,6 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
-        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Bruna Tatiana",
-          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
-        }
-      ],
-      "duration_ms": 237717,
-      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
-      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
         "name": "Cofres do C\u00e9u",
         "url": "https://open.spotify.com/album/6EqnPhF91K2WGLsr0kMUtm"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 198590,
       "name": "Cofres do C\u00e9u",
       "url": "https://open.spotify.com/track/60onhM6CxZNTqcuFqmZ6Go"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Dem\u00f3nio da Tarraxinha",
+        "url": "https://open.spotify.com/album/7BGYpyDY0a1pzAW6bqlTTh"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 217276,
+      "name": "Dem\u00f3nio da Tarraxinha",
+      "url": "https://open.spotify.com/track/2qNtAzgJYODcFPDskUAzE0"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Sincera",
-        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        }
-      ],
-      "duration_ms": 256979,
-      "name": "Sincera",
-      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
         "name": "King Ckwa",
         "url": "https://open.spotify.com/album/7F4vDACMrg7U40ZRAA1VTV"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 276880,
       "name": "Tu \u00c9s a Mulher",
       "url": "https://open.spotify.com/track/3AxKlhbCVMwrDbP4laSyys"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Sincera",
+        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        }
+      ],
+      "duration_ms": 256979,
+      "name": "Sincera",
+      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Clima",
-        "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Paulelson",
-          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Clima",
-      "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
         "name": "Beijam",
         "url": "https://open.spotify.com/album/4VK90Rvs5zStsJW6cMiOpX"
       },
@@ -939,22 +919,6 @@
       "duration_ms": 230452,
       "name": "Beijam",
       "url": "https://open.spotify.com/track/2ubsUZQRhYWFEpHikHfwom"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "Cada Detalhe Teu",
-        "url": "https://open.spotify.com/album/02y9Q2mTw9lGr3C3A3IO79"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 206951,
-      "name": "Cada Detalhe Teu",
-      "url": "https://open.spotify.com/track/6p7j5VQkywOk8aPKw2CGpU"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -991,6 +955,26 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
         "name": "Africana",
         "url": "https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
+        "name": "Cada Detalhe Teu",
+        "url": "https://open.spotify.com/album/02y9Q2mTw9lGr3C3A3IO79"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 206951,
+      "name": "Cada Detalhe Teu",
+      "url": "https://open.spotify.com/track/6p7j5VQkywOk8aPKw2CGpU"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
         "name": "Me Leva Contigo",
         "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 258324,
       "name": "Me Leva Contigo",
       "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Cigana Linda",
+        "url": "https://open.spotify.com/album/0cuU1N758RKwWSrTFf2IvK"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 218871,
+      "name": "Cigana Linda",
+      "url": "https://open.spotify.com/track/5ZhYcNNdJMYUkUkFjeuWDI"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Cigana Linda",
-        "url": "https://open.spotify.com/album/0cuU1N758RKwWSrTFf2IvK"
+        "name": "N\u00e3o Posso",
+        "url": "https://open.spotify.com/album/4Jz4rivUmmAZiHQIzoDjHb"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 218871,
-      "name": "Cigana Linda",
-      "url": "https://open.spotify.com/track/5ZhYcNNdJMYUkUkFjeuWDI"
+      "duration_ms": 228325,
+      "name": "N\u00e3o Posso",
+      "url": "https://open.spotify.com/track/0wVFtfUnFotGMSxPlG56a7"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 249497,
       "name": "Saudades",
       "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "N\u00e3o Posso",
-        "url": "https://open.spotify.com/album/4Jz4rivUmmAZiHQIzoDjHb"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 228325,
-      "name": "N\u00e3o Posso",
-      "url": "https://open.spotify.com/track/0wVFtfUnFotGMSxPlG56a7"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Mika Mendes",
-        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        }
-      ],
-      "duration_ms": 283973,
-      "name": "Criola",
-      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 261407,
       "name": "Water",
       "url": "https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Mika Mendes",
+        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "Criola",
+      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
     },
     {
       "added_at": "2022-08-04 23:00:00",

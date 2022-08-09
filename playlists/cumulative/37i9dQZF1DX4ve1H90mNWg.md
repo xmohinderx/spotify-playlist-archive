@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. Cover, Beyonce
 
-210 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+211 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Come Clean](https://open.spotify.com/track/0mgCLZaiTFZp2EFfpWoZOJ) | [Jimmy Bolt](https://open.spotify.com/artist/3ASqnfNwIr7VOKJuwR1uJP) | [Come Clean](https://open.spotify.com/album/5fZVeIXOJdCie9g8t6Mepg) | 2:30 | 2022-04-29 | 2022-07-23 |
 | [Daddy](https://open.spotify.com/track/4purtg9Xq4w4MXu8RLUB3t) | [Martina Marie](https://open.spotify.com/artist/42Tsa4pAqU1FYWER3Mnria) | [Daddy](https://open.spotify.com/album/0hpUYsZh6KX7eeo6C4WgD4) | 2:48 | 2022-01-29 | 2022-02-26 |
 | [Desmond's Song \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/6N5bNooor0y0z1V5Rce5d0) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Desmond's Song \(feat\. Tobe Nwigwe\)](https://open.spotify.com/album/1RQ3maCeZZ2a4bUXrcX4ct) | 4:18 | 2022-04-01 | 2022-04-16 |
-| [DESTRUCTION](https://open.spotify.com/track/1hcCfKTE282Hp9iGSqLM9E) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [DESTRUCTION](https://open.spotify.com/album/6GsGlQt7gQn2Ayr757jURB) | 3:39 | 2022-07-22 |  |
+| [DESTRUCTION](https://open.spotify.com/track/1hcCfKTE282Hp9iGSqLM9E) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [DESTRUCTION](https://open.spotify.com/album/6GsGlQt7gQn2Ayr757jURB) | 3:39 | 2022-07-22 | 2022-08-09 |
+| [DESTRUCTION](https://open.spotify.com/track/662fx96N2fceyGSFhx5VII) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 3:39 | 2022-07-22 |  |
 | [Diddy](https://open.spotify.com/track/39xBU2yTfpj8uDjefmuIGG) | [Pronto Doe](https://open.spotify.com/artist/4eX6BmybrNijP7YPa1U3He) | [Diddy](https://open.spotify.com/album/0bIS7hjNcOHMnA5ueQoKj5) | 1:58 | 2022-03-18 | 2022-04-29 |
 | [Do I Ever \(feat\. Chris Brown\)](https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Still FWM](https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO) | 3:10 | 2021-11-23 | 2022-04-02 |
 | [Don Julio](https://open.spotify.com/track/06SxEkpBBcjsoaB9woR7kQ) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Don Julio](https://open.spotify.com/album/7LlaZNYJSASqBm7rNNsu41) | 2:29 | 2022-07-22 |  |

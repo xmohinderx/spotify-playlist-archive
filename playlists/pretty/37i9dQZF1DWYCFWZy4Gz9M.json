@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 36657,
+  "num_followers": 36705,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njg5NjIwMywwMDAwMDAwMDQ4NjFiNDU2MjVlYzM2NTRlYjNkOTM4YTkxNWVkMTdm",
+  "snapshot_id": "MTY0Njg5NjIwMywwMDAwMDAwMDQwN2JiYWZlMWIzNmE0ZGJhMjc4MTY2OWRkNzI3YWMw",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -147,38 +147,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Kasri",
-          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
-        }
-      ],
-      "duration_ms": 249053,
-      "name": "Hamdouchia",
-      "url": "https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Sidi Kmmy",
-        "url": "https://open.spotify.com/album/4R9ejsPkbyxzaPvuGS8MTR"
-      },
-      "artists": [
-        {
-          "name": "Habib Belk",
-          "url": "https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "Goumari",
-      "url": "https://open.spotify.com/track/3JDC2CqjkLvuRTNFelfZks"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Live at Village Studios",
         "url": "https://open.spotify.com/album/127psl2zvTt8MVUvnyrqnL"
       },
@@ -211,34 +179,34 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Fusion, Vol. 4",
-        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
       "artists": [
         {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
         }
       ],
-      "duration_ms": 534987,
-      "name": "La Illaha Illa Allah",
-      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
+      "duration_ms": 249053,
+      "name": "Hamdouchia",
+      "url": "https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS"
     },
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Or Never",
-        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
+        "name": "Sidi Kmmy",
+        "url": "https://open.spotify.com/album/4R9ejsPkbyxzaPvuGS8MTR"
       },
       "artists": [
         {
-          "name": "Maalem Said Damir & Gnawa Allstars",
-          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
+          "name": "Habib Belk",
+          "url": "https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc"
         }
       ],
-      "duration_ms": 294763,
-      "name": "Soudani Manayou",
-      "url": "https://open.spotify.com/track/2erBxmWBvqxXqQiGo4Sp8q"
+      "duration_ms": 241320,
+      "name": "Goumari",
+      "url": "https://open.spotify.com/track/3JDC2CqjkLvuRTNFelfZks"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -271,6 +239,38 @@
       "duration_ms": 362093,
       "name": "Mrahba",
       "url": "https://open.spotify.com/track/2zKuTLrINginlVwg75onMg"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Gnawa Fusion, Vol. 4",
+        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+        }
+      ],
+      "duration_ms": 534987,
+      "name": "La Illaha Illa Allah",
+      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Gnawa Or Never",
+        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
+      },
+      "artists": [
+        {
+          "name": "Maalem Said Damir & Gnawa Allstars",
+          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
+        }
+      ],
+      "duration_ms": 294763,
+      "name": "Soudani Manayou",
+      "url": "https://open.spotify.com/track/2erBxmWBvqxXqQiGo4Sp8q"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -327,6 +327,22 @@
       "duration_ms": 530803,
       "name": "Shaba Kouria",
       "url": "https://open.spotify.com/track/0eLQZtoejBfpa6H7iiWo6i"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Gnawa Fusion, Vol. 1",
+        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+        }
+      ],
+      "duration_ms": 312581,
+      "name": "Soudani",
+      "url": "https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -395,18 +411,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Fusion, Vol. 1",
-        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
+        "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
+        "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
       },
       "artists": [
         {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+          "name": "Altaf Gnawa Group",
+          "url": "https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn"
         }
       ],
-      "duration_ms": 312581,
-      "name": "Soudani",
-      "url": "https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV"
+      "duration_ms": 375760,
+      "name": "Baba Mimoun (Father Mimoun)",
+      "url": "https://open.spotify.com/track/5M71QfNOpiXVn8oMRDoS0N"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -427,38 +443,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
-        "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
-      },
-      "artists": [
-        {
-          "name": "Altaf Gnawa Group",
-          "url": "https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn"
-        }
-      ],
-      "duration_ms": 375760,
-      "name": "Baba Mimoun (Father Mimoun)",
-      "url": "https://open.spotify.com/track/5M71QfNOpiXVn8oMRDoS0N"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Songs for Sidi Mimoun",
-        "url": "https://open.spotify.com/album/2BZk9yFHsF61mPIHxE3EyX"
-      },
-      "artists": [
-        {
-          "name": "Gnawa from Marrakech",
-          "url": "https://open.spotify.com/artist/4q1sQE08zDqPaBapzhweMv"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "La ilaha ila Allah Jilala",
-      "url": "https://open.spotify.com/track/2sre9xkQzX2glQZnFYrqk3"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Makenba",
         "url": "https://open.spotify.com/album/3JmCZbx58m7q30uQCzzRod"
       },
@@ -471,26 +455,6 @@
       "duration_ms": 474186,
       "name": "Ali ya ali",
       "url": "https://open.spotify.com/track/67P3E8BYxF21HxQwQDcXbj"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
-      },
-      "artists": [
-        {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
-        }
-      ],
-      "duration_ms": 397333,
-      "name": "Chalaba",
-      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -511,22 +475,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Or Never",
-        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
-      },
-      "artists": [
-        {
-          "name": "Maalem Said Damir & Gnawa Allstars",
-          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
-        }
-      ],
-      "duration_ms": 617000,
-      "name": "La Ilaha Illa Allah",
-      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Jah Gnawi",
         "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
       },
@@ -539,6 +487,42 @@
       "duration_ms": 353811,
       "name": "Gnawi Baba Mimoun - Jan Rase Remix",
       "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Songs for Sidi Mimoun",
+        "url": "https://open.spotify.com/album/2BZk9yFHsF61mPIHxE3EyX"
+      },
+      "artists": [
+        {
+          "name": "Gnawa from Marrakech",
+          "url": "https://open.spotify.com/artist/4q1sQE08zDqPaBapzhweMv"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "La ilaha ila Allah Jilala",
+      "url": "https://open.spotify.com/track/2sre9xkQzX2glQZnFYrqk3"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+      },
+      "artists": [
+        {
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+        }
+      ],
+      "duration_ms": 397333,
+      "name": "Chalaba",
+      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -567,6 +551,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Gnawa Or Never",
+        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
+      },
+      "artists": [
+        {
+          "name": "Maalem Said Damir & Gnawa Allstars",
+          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
+        }
+      ],
+      "duration_ms": 617000,
+      "name": "La Ilaha Illa Allah",
+      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Allah ya so",
         "url": "https://open.spotify.com/album/59Hw4NDvn1pMe5uqD5bEt0"
       },
@@ -579,6 +579,38 @@
       "duration_ms": 372558,
       "name": "Soltani",
       "url": "https://open.spotify.com/track/79aEKqdlERdubQHXAinoPS"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Aicha",
+        "url": "https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 513816,
+      "name": "Youbati - Boulila",
+      "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
+        "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
+      },
+      "artists": [
+        {
+          "name": "Maalem Si Mohamed Chaouqi",
+          "url": "https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr"
+        }
+      ],
+      "duration_ms": 291306,
+      "name": "Marhaba - Les Mlouks",
+      "url": "https://open.spotify.com/track/5UH3CEKTwhw2PnxVEnF1TC"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -619,38 +651,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Aicha",
-        "url": "https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 513816,
-      "name": "Youbati - Boulila",
-      "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
-        "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
-      },
-      "artists": [
-        {
-          "name": "Maalem Si Mohamed Chaouqi",
-          "url": "https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr"
-        }
-      ],
-      "duration_ms": 291306,
-      "name": "Marhaba - Les Mlouks",
-      "url": "https://open.spotify.com/track/5UH3CEKTwhw2PnxVEnF1TC"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "The Gnawa Caravan: Salt",
         "url": "https://open.spotify.com/album/00S0tQ90OytZxNKHtQRFlA"
       },
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Gnawa Fusion, Vol. 1",
+        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+        }
+      ],
+      "duration_ms": 254275,
+      "name": "Baba Al Arabi",
+      "url": "https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Lila",
         "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 541653,
       "name": "Salat al Nabi",
       "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Gnawa Fusion, Vol. 1",
-        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
-        }
-      ],
-      "duration_ms": 254275,
-      "name": "Baba Al Arabi",
-      "url": "https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 481255,
+      "name": "Foulani Hiriza / Soye",
+      "url": "https://open.spotify.com/track/6UohbeuW7Oe8aufbEyLogk"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
         "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
       },
@@ -767,38 +783,6 @@
       "duration_ms": 239693,
       "name": "Sidi Musa",
       "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Innov Gnawa",
-        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 481255,
-      "name": "Foulani Hiriza / Soye",
-      "url": "https://open.spotify.com/track/6UohbeuW7Oe8aufbEyLogk"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Africa Soyo",
-        "url": "https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx"
-      },
-      "artists": [
-        {
-          "name": "Simo Lagnawi",
-          "url": "https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK"
-        }
-      ],
-      "duration_ms": 388466,
-      "name": "Arabiato",
-      "url": "https://open.spotify.com/track/2THND2AOdM0UKRIi5RJNZk"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -835,6 +819,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Africa Soyo",
+        "url": "https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx"
+      },
+      "artists": [
+        {
+          "name": "Simo Lagnawi",
+          "url": "https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK"
+        }
+      ],
+      "duration_ms": 388466,
+      "name": "Arabiato",
+      "url": "https://open.spotify.com/track/2THND2AOdM0UKRIi5RJNZk"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
         "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
       },
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 323615,
+      "name": "Bangara",
+      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Lila",
         "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 550106,
       "name": "Marhba / Gnawa Sidi Mimoun",
       "url": "https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Innov Gnawa",
-        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 323615,
-      "name": "Bangara",
-      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
     }
   ],
   "unique_name": "Gnawa Music",

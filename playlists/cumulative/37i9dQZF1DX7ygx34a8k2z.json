@@ -1507,6 +1507,24 @@
     {
       "album": {
         "name": "Dusk at Cubist Castle",
+        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
+      },
+      "artists": [
+        {
+          "name": "The Olivia Tremor Control",
+          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112066,
+      "name": "Jumping Fences",
+      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
+    },
+    {
+      "album": {
+        "name": "Dusk at Cubist Castle",
         "url": "https://open.spotify.com/album/45TJXx5bBZpLnffynCeNsf"
       },
       "artists": [
@@ -2533,7 +2551,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 225760,
       "name": "Son Of A Gun",
       "url": "https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8"

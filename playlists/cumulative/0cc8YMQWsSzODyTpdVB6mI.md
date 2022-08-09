@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-72 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+73 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AMBIANCE](https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo) | [FEE](https://open.spotify.com/artist/5D1CTIyRb5B0MLhFV9W0J9), [Zay Doja](https://open.spotify.com/artist/66v9Oo6OWqv7awEVmmQHJK) | [AMBIANCE](https://open.spotify.com/album/2cJm9GOLuDHLLew1pHgeFc) | 3:41 | 2022-07-19 |  |
 | [Be Grateful](https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9) | 2:47 | 2022-07-06 |  |
 | [Better Than That](https://open.spotify.com/track/6kNMiX4NoAtz6ohYdgfhIX) | [Fortuno](https://open.spotify.com/artist/07QJ2IEpirIQN3dlUomBxL) | [Better Than That](https://open.spotify.com/album/503RXKST7zs6k7uoun1NqN) | 2:41 | 2022-04-25 | 2022-07-02 |
+| [Child](https://open.spotify.com/track/2xVL9TdrABknAXZIgtwdk5) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG), [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [Child](https://open.spotify.com/album/2iE6czcXDdtPsIjtzJGmJj) | 2:48 | 2022-08-08 |  |
 | [Clutch](https://open.spotify.com/track/3F6gcexYwqaLaRx1sCsqfE) | [UOKAYE](https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx), [Sei](https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb) | [Clutch](https://open.spotify.com/album/2XjeQuBI4tCzwlNTsC7EZo) | 3:03 | 2022-07-22 |  |
 | [Comfort](https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Going Home, Vol\. 1](https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz) | 3:37 | 2021-11-05 |  |
 | [Count to Five \(Tensnake Remix\) \- Mixed](https://open.spotify.com/track/4bq9akE1BhJPFMd6SZBQa6) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Café Kitsuné Mixed by Young Franco \(Day\)](https://open.spotify.com/album/5i1BngTCStALybm8vtOFyN) | 4:26 | 2021-11-05 |  |
@@ -34,7 +35,7 @@
 | [Gypsy Woman \(She's Homeless\) \- House Kitsuné America](https://open.spotify.com/track/4mCk2GnFtnSGN8qzaV8xKu) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Gypsy Woman \(She's Homeless\) \[House Kitsuné America\]](https://open.spotify.com/album/0b1ex0LTG3T89fdnzDveVF) | 4:29 | 2021-11-05 |  |
 | [Hair Like You](https://open.spotify.com/track/7ilG2HpVcH3WtdKaF3i1dV) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Hair Like You](https://open.spotify.com/album/1kJyFB0uMNl8xKDPKiWPlV) | 2:58 | 2022-06-27 |  |
 | [heartache](https://open.spotify.com/track/1qeq8pjGACKT1lWCXgCW3a) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [heartache](https://open.spotify.com/album/4NVF93J11wDm0OK7AjBxbi) | 2:47 | 2022-04-22 | 2022-06-28 |
-| [Heat](https://open.spotify.com/track/5XWMFME89AcvPyGdPiICsM) | [IMBER](https://open.spotify.com/artist/1kHcfP94TXtWlQ6x7yzBYN) | [Heat](https://open.spotify.com/album/2H8ekiVK6IrpL7MLl1MgJZ) | 3:51 | 2022-06-03 |  |
+| [Heat](https://open.spotify.com/track/5XWMFME89AcvPyGdPiICsM) | [IMBER](https://open.spotify.com/artist/1kHcfP94TXtWlQ6x7yzBYN) | [Heat](https://open.spotify.com/album/2H8ekiVK6IrpL7MLl1MgJZ) | 3:51 | 2022-06-03 | 2022-08-09 |
 | [HIGH HOPES](https://open.spotify.com/track/5C9KruKQHBLDMA9E45i47Y) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [HIGH HOPES](https://open.spotify.com/album/2P8o42pxG775mAhhN0shMG) | 3:36 | 2022-07-27 |  |
 | [Hollow](https://open.spotify.com/track/43dWASmdtGOOI0yOyx9zAH) | [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [Hollow](https://open.spotify.com/album/4N7w5vzvRIAfxjNPaSAMXN) | 3:39 | 2022-05-27 | 2022-08-05 |
 | [Huacachina](https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy) | [MonteRosso](https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 3:33 | 2021-11-05 |  |

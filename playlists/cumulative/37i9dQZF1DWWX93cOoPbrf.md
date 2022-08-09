@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2022\. Grupo H\-100 en portada.
 
-96 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
+97 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Cuidando La Capi](https://open.spotify.com/track/2KoM8pyhfITi9axbXnWL0V) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Cuidando La Capi](https://open.spotify.com/album/3natmHkWWVKqeiNxKGTKo6) | 2:11 | 2022-07-15 |  |
 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 | 2022-07-15 |  |
 | [Del Area 209 \(En Vivo\)](https://open.spotify.com/track/4N73Woetk9Gm4dbJyZgPWh) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Del Area 209 \(En Vivo\)](https://open.spotify.com/album/06TdmgUOV5suuNrSF0Wu77) | 2:23 | 2022-07-15 | 2022-08-06 |
-| [Don Javier](https://open.spotify.com/track/67itWL3fAichn37PsSmIBp) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Don Javier](https://open.spotify.com/album/1A3iSOAxrkPLr7RvUm52Cg) | 3:02 | 2022-07-15 |  |
+| [Don Javier](https://open.spotify.com/track/67itWL3fAichn37PsSmIBp) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Don Javier](https://open.spotify.com/album/1A3iSOAxrkPLr7RvUm52Cg) | 3:02 | 2022-07-15 | 2022-08-09 |
 | [Don R](https://open.spotify.com/track/2qkzRsnFh9bPtN4On5wcxK) | [Grupo Delta Norteño](https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG) | [Don R](https://open.spotify.com/album/0rugpaMoxTJCQrOjp0nhlL) | 2:29 | 2022-07-15 |  |
 | [El 48 100k](https://open.spotify.com/track/4FNXVJlR2SWgLnWzIGkEGK) | [Nuevo Armamento](https://open.spotify.com/artist/4o79cu081HcLofFuq2eKy8) | [El 48 100k](https://open.spotify.com/album/4a7tinJzbB87g2qp8KWCxX) | 3:34 | 2022-07-15 | 2022-07-30 |
 | [El 9 de Chicago](https://open.spotify.com/track/5Jn1gcdLk14OBm39c3rfda) | [Grupo Accion](https://open.spotify.com/artist/4vhwpEKwlXfL63gkKnLh24) | [El 9 de Chicago](https://open.spotify.com/album/41kLtNSaDowdSc75PtNbbs) | 3:26 | 2022-07-15 | 2022-07-30 |
@@ -86,6 +86,7 @@
 | [Panchito El De Michoacan](https://open.spotify.com/track/6yp7kPwFmb6PHJC4NrcX3z) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Panchito El De Michoacan](https://open.spotify.com/album/5ux2CQLOb7XnROV4zRSHst) | 3:47 | 2022-07-15 |  |
 | [Para Estar Donde Estoy](https://open.spotify.com/track/0meWJjoMrhDsJ1s0I7ena3) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Para Estar Donde Estoy](https://open.spotify.com/album/19SMyorYRsFyGbtQCgF9P2) | 2:48 | 2022-07-15 | 2022-07-30 |
 | [Pasos Lentos](https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:04 | 2022-07-15 |  |
+| [Pensando](https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Aprendimos A Jugar](https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o) | 2:32 | 2022-08-08 |  |
 | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk) | 3:26 | 2022-07-15 |  |
 | [Por Clave el 13](https://open.spotify.com/track/61vEls8FiPl53hu6947W27) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Seguimos Irremediables](https://open.spotify.com/album/4LCQCWFTDGmbl93Y9LuXJF) | 3:10 | 2022-07-18 | 2022-07-29 |
 | [Por Clave el 13](https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Seguimos Irremediables](https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO) | 3:10 | 2022-07-18 |  |

@@ -1804,6 +1804,28 @@
     },
     {
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168053,
+      "name": "Beg For You (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
+    },
+    {
+      "album": {
         "name": "Beluga v2 (feat. Berhana)",
         "url": "https://open.spotify.com/album/1fyV8Ul6YsyPChDdtZoiCX"
       },
@@ -14929,7 +14951,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 152998,
       "name": "Puffer",
       "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
@@ -17231,7 +17253,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 196720,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w"
@@ -17249,7 +17271,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 162880,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"

@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-152 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+153 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Chopper](https://open.spotify.com/track/0w7AG9UksTH3yHNzmMzwwq) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Chopper](https://open.spotify.com/album/7ggLaz0nrCCM8Nwa6hCIqG) | 2:24 | 2021-11-11 |  |
 | [Churchill](https://open.spotify.com/track/4YyPOwTe5sXVJLXGqqVhPl) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Churchill](https://open.spotify.com/album/5cSLfFaH4zZVplCsuk6tNQ) | 1:52 | 2021-11-11 | 2022-04-22 |
 | [Classics](https://open.spotify.com/track/46DIcl7UFS8sw7LEJx03zd) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [Drill](https://open.spotify.com/album/4Rjj8lNDBisPqsSTbMgdiT) | 1:33 | 2021-11-11 |  |
-| [Club404](https://open.spotify.com/track/1IgmsA52OnXHjdgRR5d5zO) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/2U40p12v8l8eyiZ4fE4dDq) | 2:43 | 2022-04-22 |  |
+| [Club404](https://open.spotify.com/track/1IgmsA52OnXHjdgRR5d5zO) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/2U40p12v8l8eyiZ4fE4dDq) | 2:43 | 2022-04-22 | 2022-08-09 |
+| [Club404 \- Remix](https://open.spotify.com/track/6vNJcvgnEQMXsvfwG5RDc8) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Dead & Alive](https://open.spotify.com/album/3L6yqVORgRpJJVidUwjm9U) | 2:43 | 2022-08-05 |  |
 | [Composure](https://open.spotify.com/track/4C4sN0TViLk3P2htA7tPC2) | [Leytonstoned](https://open.spotify.com/artist/6ZbJZBtFBl9YHooEmEBe0m) | [Composure](https://open.spotify.com/album/3jIkn3PQdzq1sLoz82R7ub) | 1:48 | 2021-11-11 |  |
 | [Criminal](https://open.spotify.com/track/76zhOrQn8dhBnyFTeteLaJ) | [DJ M](https://open.spotify.com/artist/3P5DeQSZXl547HcStiUkoY) | [Criminal](https://open.spotify.com/album/30pgaBfjKpz1GZpcwNhyum) | 2:17 | 2022-07-15 |  |
 | [Distorcido](https://open.spotify.com/track/1veEROQqh83r67W1gthulY) | [I Mps I](https://open.spotify.com/artist/0i44Z70SJWehRFJQJOAm36) | [Mps Ii](https://open.spotify.com/album/2ITKfOcwympjJyTPV5AnJ7) | 1:18 | 2021-11-11 |  |

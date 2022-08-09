@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Lo mas pegao en Dembow. \nCover: Tokischa",
+  "description": "Lo mas pegao en Dembow. \nCover: El Alfa, Trueno, Noriel",
   "name": "Dembow Pegao",
   "published_playlist_ids": [
     "4L9HFTRvt3WNU7wBLTIuvk"
@@ -267,6 +267,28 @@
       "duration_ms": 187118,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/5m6i8SGp2CyudL8rgYUYFe"
+    },
+    {
+      "album": {
+        "name": "Bliky",
+        "url": "https://open.spotify.com/album/2tam2CR18UtUo86yj8sTlZ"
+      },
+      "artists": [
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183405,
+      "name": "Bliky",
+      "url": "https://open.spotify.com/track/79TIziymcMWiaOqEqJlNYF"
     },
     {
       "album": {
@@ -1270,6 +1292,24 @@
     },
     {
       "album": {
+        "name": "La Cojio",
+        "url": "https://open.spotify.com/album/63gtMBrpqj5KIsHGCJ2dWE"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "La Cojio",
+      "url": "https://open.spotify.com/track/7ofdxnOjU0OcvpGqPgH3jw"
+    },
+    {
+      "album": {
         "name": "La Conet",
         "url": "https://open.spotify.com/album/6783q8YyWFbjkFYZluOvrt"
       },
@@ -1521,6 +1561,32 @@
       "duration_ms": 154324,
       "name": "Lo Vibro",
       "url": "https://open.spotify.com/track/5YXUq4sQa30oHvuxZl0P6T"
+    },
+    {
+      "album": {
+        "name": "LOS APARATOS",
+        "url": "https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232843,
+      "name": "LOS APARATOS",
+      "url": "https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP"
     },
     {
       "album": {
@@ -2553,7 +2619,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"

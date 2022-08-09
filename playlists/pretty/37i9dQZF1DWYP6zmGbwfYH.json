@@ -1,12 +1,12 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 142068,
+  "num_followers": 142352,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTc2MTgyMiwwMDAwMDAwMDdmNzZiNDVmODBmMDFjMzdkNTk5MjM4MjhjMjNlMjhh",
+  "snapshot_id": "MTY1OTk5NDM4OCwwMDAwMDAwMGJhM2M3NGEyZjEwZDQyOWU4MmJmNjQ1MDBhMWM2ZTA4",
   "tracks": [
     {
       "added_at": "2022-06-20 21:50:22",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
     },
     {
-      "added_at": "2022-06-20 21:50:22",
-      "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Pong\u00e1monos De Acuerdo",
-      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
-    },
-    {
       "added_at": "2021-10-12 19:24:04",
       "album": {
         "name": "Sue\u00f1o Y Realidad",
@@ -267,18 +251,34 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
         }
       ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
+    },
+    {
+      "added_at": "2022-06-20 21:50:22",
+      "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 211255,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -427,6 +427,22 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 163654,
+      "name": "M\u00e1s All\u00e1 Del Sol",
+      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Intimidades",
         "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 207000,
       "name": "La Mejor De Todas",
       "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 163654,
-      "name": "M\u00e1s All\u00e1 Del Sol",
-      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 250026,
-      "name": "Mi Vida Eres T\u00fa",
-      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 190533,
       "name": "\u00bfY Todo Para Qu\u00e9?",
       "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "Mi Vida Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -779,18 +779,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 220616,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
+      "duration_ms": 177200,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -811,50 +811,34 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 177200,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
+      "duration_ms": 220616,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
     },
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+        "name": "Tu Amor Secreto",
+        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
       },
       "artists": [
         {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
         }
       ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Algo De Mi",
-        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Algo De M\u00ed",
-      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+      "duration_ms": 214293,
+      "name": "Tu Traici\u00f3n",
+      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -875,6 +859,38 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Algo De Mi",
+        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Algo De M\u00ed",
+      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "No Me Llames Mas",
         "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 267415,
       "name": "No Me Llames Mas",
       "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Tu Amor Secreto",
-        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Tu Traici\u00f3n",
-      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "15 Grandes",
-        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
-      },
-      "artists": [
-        {
-          "name": "Diablos Locos",
-          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
-        }
-      ],
-      "duration_ms": 308837,
-      "name": "Si No La Tengo",
-      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Te Voy A Amar",
         "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 194626,
       "name": "Enhorabuena",
       "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "15 Grandes",
+        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
+      },
+      "artists": [
+        {
+          "name": "Diablos Locos",
+          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
+        }
+      ],
+      "duration_ms": 308837,
+      "name": "Si No La Tengo",
+      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 207516,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "30 Aniversario (Edici\u00f3n Limitada)",
         "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 185880,
       "name": "A Donde Iras Ahora",
       "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207516,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
+        "name": "Solo Baladas",
+        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 210440,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN"
+      "duration_ms": 206000,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
     },
     {
       "added_at": "2022-01-19 06:00:00",
@@ -1555,18 +1555,34 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Solo Baladas",
-        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
+      "duration_ms": 210440,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "La Otra Cara De La Moneda",
+      "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "La Otra Cara De La Moneda",
-      "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "16 \u00c9xitos De Oro",
         "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
       },
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "25 Exitos Vol. 1 (USA)",
+        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Ahora Y Siempre",
         "url": "https://open.spotify.com/album/6LCpvp7Jgbr8bV9PKGlHuI"
       },
@@ -1715,18 +1731,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "25 Exitos Vol. 1 (USA)",
-        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
+        "name": "Los Yonic's",
+        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
       "artists": [
         {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 190173,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+      "duration_ms": 192440,
+      "name": "Un Dolor",
+      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1795,22 +1811,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Los Yonic's",
-        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Un Dolor",
-      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Te Voy A Amar",
         "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
       },
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Puras Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        }
+      ],
+      "duration_ms": 206913,
+      "name": "Del Signo Libra",
+      "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "10 Exitos de Oro",
         "url": "https://open.spotify.com/album/23phgbGY34TFIZ4HgyP1Z8"
       },
@@ -1887,26 +1903,6 @@
       "duration_ms": 242800,
       "name": "Abrazame y Perdoname",
       "url": "https://open.spotify.com/track/0w8yx6IabNOKltsP6ABqcM"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
-        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        },
-        {
-          "name": "Ricardo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq"
-        }
-      ],
-      "duration_ms": 198213,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1943,22 +1939,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Puras Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 206913,
-      "name": "Del Signo Libra",
-      "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Album de Oro",
         "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
       },
@@ -1971,6 +1951,42 @@
       "duration_ms": 208640,
       "name": "Voy a pintar un coraz\u00f3n",
       "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
+        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        },
+        {
+          "name": "Ricardo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "En La Luna",
+        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
+      },
+      "artists": [
+        {
+          "name": "Los Carlos",
+          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "P\u00eddeme La Luna",
+      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1995,18 +2011,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "En La Luna",
-        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
+        "name": "Desde El Corazon",
+        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
       },
       "artists": [
         {
-          "name": "Los Carlos",
-          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 192029,
-      "name": "P\u00eddeme La Luna",
-      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
+      "duration_ms": 173626,
+      "name": "Notas de Sociedad",
+      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -2023,22 +2039,6 @@
       "duration_ms": 279591,
       "name": "Mi Cuerpo No Esta Hecho de Metal",
       "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
     }
   ],
   "unique_name": "Ruleteando",

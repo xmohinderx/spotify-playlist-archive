@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: The Paranoyds \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,214 likes - 115 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,276 likes - 115 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 25 | [atonement](https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [atonement](https://open.spotify.com/album/3Ji5YWQMAtYwMi9YRnnNlE) | 3:51 |
 | 26 | [I Can](https://open.spotify.com/track/3sA8oa3284TQoBxS3ChKL6) | [Coupons](https://open.spotify.com/artist/6rcC90tSg3y5Kk03xJI0H9) | [Wasted Intimacy](https://open.spotify.com/album/0qRby10BP27idzAVktTKta) | 2:30 |
 | 27 | [Someone Kill This Party](https://open.spotify.com/track/52iW1dnOZst1NaFoBqStM1) | [China Bears](https://open.spotify.com/artist/3ygItx4xOyxkoaAZD9sc19) | [Someone Kill This Party](https://open.spotify.com/album/7xDCA5fMdzmiokaAodRdSN) | 3:52 |
-| 28 | [Frankies Rowing Machine](https://open.spotify.com/track/4sBIBw2fzDkOdImREN44dy) | [Search Committee](https://open.spotify.com/artist/2S9LiHluJWkBZgCUbtSLls) | [Frankies Rowing Machine](https://open.spotify.com/album/79YZPCvGk5SYvq8tJ7WHN0) | 2:41 |
+| 28 | [Frankie's Rowing Machine](https://open.spotify.com/track/4sBIBw2fzDkOdImREN44dy) | [Search Committee](https://open.spotify.com/artist/2S9LiHluJWkBZgCUbtSLls) | [Frankie's Rowing Machine](https://open.spotify.com/album/79YZPCvGk5SYvq8tJ7WHN0) | 2:41 |
 | 29 | [Overdose](https://open.spotify.com/track/2n3TGLHbTUqVVDapsxKck8) | [Fior](https://open.spotify.com/artist/2inylMJPp78wI0xHVSOQzB) | [Overdose](https://open.spotify.com/album/5kN4tc7UksurvCGcOBBEjj) | 3:40 |
 | 30 | [WAX](https://open.spotify.com/track/3VQFUyrZFzYCJAbzTzBKIr) | [Unturned](https://open.spotify.com/artist/2bT1gJ4qahYAMFmaoFV7Nj) | [WAX](https://open.spotify.com/album/5yKnHlsLHxTF9aTnoFcRvM) | 2:29 |
 | 31 | [Heart Attack](https://open.spotify.com/track/3er2x3MtxNq0iHLEy31PLy) | [Danny Goo](https://open.spotify.com/artist/0pNhUCv5DGQvX8x8DI5XKB) | [Heart Attack](https://open.spotify.com/album/3WJmlnW6Kbt34qsCQaljfD) | 2:53 |

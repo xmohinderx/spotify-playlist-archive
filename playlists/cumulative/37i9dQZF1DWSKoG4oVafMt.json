@@ -1706,6 +1706,24 @@
     },
     {
       "album": {
+        "name": "Dil Naal Tu",
+        "url": "https://open.spotify.com/album/1KSVSqkB8TjJ8ve2dcu7wq"
+      },
+      "artists": [
+        {
+          "name": "Preet Aulakh",
+          "url": "https://open.spotify.com/artist/6FqznO0c9Bd1Ch824Evbqz"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177158,
+      "name": "Dil Naal Tu",
+      "url": "https://open.spotify.com/track/7BMf2OTPL3ks2dfPZVpX1h"
+    },
+    {
+      "album": {
         "name": "Dil Te",
         "url": "https://open.spotify.com/album/7ymbaDDS8DT9ObivkZ5bco"
       },

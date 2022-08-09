@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Phương Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,784 likes - 56 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,887 likes - 56 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
 | 2 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Muộii](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
-| 3 | [Vì Anh Đâu Có Biết](https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn) | [Madihu](https://open.spotify.com/artist/2sXQGeHRJK4ljdMCaionnL), [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Vì Anh Đâu Có Biết](https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ) | 4:01 |
+| 3 | [Vì Anh Đâu Có Biết](https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Vì Anh Đâu Có Biết](https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ) | 4:01 |
 | 4 | [3107 4 \(feat\. Erik, Nâu\)](https://open.spotify.com/track/45PPoUgqs3JrhkZGEzSUHT) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF) | [3107 4 \(feat\. Erik, Nâu\)](https://open.spotify.com/album/6uBnpHfSuZsVHjuTmrd0Y8) | 3:33 |
 | 5 | [Bên Trên Tầng Lầu](https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ) | [Bên Trên Tầng Lầu](https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG) | 3:04 |
 | 6 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 36 | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nâu](https://open.spotify.com/artist/5zifyPCJIZxUBhVq7AydsT) | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK) | 3:52 |
 | 37 | [3107 3](https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF), [titie](https://open.spotify.com/artist/2I8garg5B5BsdmetbsXsjG) | [3107 3 \(feat\. Nâu, titie, Dươngg\)](https://open.spotify.com/album/5fvs6ZOlCkfOa6zZ9jvXAb) | 4:00 |
 | 38 | [Nàng Thơ](https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [25](https://open.spotify.com/album/0v7y0tr3mKZ4kZXFVRhTMS) | 4:14 |
-| 39 | [Có em](https://open.spotify.com/track/2Lag4WL4j3AMXzqWbEzmV6) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/13En1VmJCW0kI9AMTywYQs) | 3:38 |
+| 39 | [Có em](https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg) | 3:38 |
 | 40 | [Mascara](https://open.spotify.com/track/2Jaaw8PrdUfPlU6o6tL5dl) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Mascara](https://open.spotify.com/album/0u3o3ESS1rnXlpF3VDI3gj) | 4:53 |
 | 41 | [GIAYPHUT](https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ) | [GIAYPHUT](https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH) | 3:25 |
 | 42 | [Muốn Nói Với Em](https://open.spotify.com/track/5Um995yUx3GSJ6uNOMaaP4) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/1D5q4yg90UnV6e4sMRuLzz) | 3:53 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 55 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [TaynguyenSound](https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr), [Tofu](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
 | 56 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 |
 
-Snapshot ID: `MTY1OTg4NDM5NywwMDAwMDAwMDliMmQyZGI3MGFiZWRiZGRiNjQ3OTEzMzMwODkxMTVk`
+Snapshot ID: `MTY1OTg4NDM5NywwMDAwMDAwMGYzNDUzMjI3ODY1Mjc2NTg1ZWVmMDBhODgxMTVjNWM4`

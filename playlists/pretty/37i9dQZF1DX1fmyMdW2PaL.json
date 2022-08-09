@@ -1,12 +1,12 @@
 {
   "description": "Heavy, intense and aggressive tracks. Chaotic in all the good ways. Cover: Underoath",
-  "num_followers": 3831,
+  "num_followers": 3977,
   "original_name": "Complete Chaos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDdkMGNiMGIyMWQyNWU5MzgxZTU5NjY2ZGRhZmY2YWJm",
+  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDBjZTIxNDYwN2MxY2UwYjk2MmYyOTIzZmEyYzg3NDAx",
   "tracks": [
     {
       "added_at": "2022-04-01 16:27:04",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Heaven in Hiding",
         "url": "https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 255418,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4UfJEKd1mJlHawZD35wJYo"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "A Different Shade of Blue",
+        "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 222006,
+      "name": "...And Still I Wander South",
+      "url": "https://open.spotify.com/track/4UADTNRQNw9PrzUbJe045m"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "R\u014dnin",
         "url": "https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 176110,
-      "name": "Wings of Nightmares",
-      "url": "https://open.spotify.com/track/4SCNgSASITJ4D07x08xjjc"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "When the Blade Drops",
         "url": "https://open.spotify.com/album/1oDKZmaoLbk456SzkJsJIm"
       },
@@ -655,34 +655,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Pain Again",
-        "url": "https://open.spotify.com/album/7fTow6HHIe3a4HxTfVYnOa"
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
       "artists": [
         {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 191933,
-      "name": "Anything To Numb",
-      "url": "https://open.spotify.com/track/7zPFVRs1iJ006sKZQ4S4ap"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "A Different Shade of Blue",
-        "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 222006,
-      "name": "...And Still I Wander South",
-      "url": "https://open.spotify.com/track/4UADTNRQNw9PrzUbJe045m"
+      "duration_ms": 176110,
+      "name": "Wings of Nightmares",
+      "url": "https://open.spotify.com/track/4SCNgSASITJ4D07x08xjjc"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -699,6 +683,22 @@
       "duration_ms": 200800,
       "name": "Bankrupt",
       "url": "https://open.spotify.com/track/0zaiMBgpRkzeskrgDKidDd"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Pain Again",
+        "url": "https://open.spotify.com/album/7fTow6HHIe3a4HxTfVYnOa"
+      },
+      "artists": [
+        {
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Anything To Numb",
+      "url": "https://open.spotify.com/track/7zPFVRs1iJ006sKZQ4S4ap"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -803,42 +803,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Heavy Steps",
-        "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
-      },
-      "artists": [
-        {
-          "name": "Comeback Kid",
-          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
-        },
-        {
-          "name": "Joe Duplantier",
-          "url": "https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Crossed",
-      "url": "https://open.spotify.com/track/3YOT9X8PtcVZsgGzmOKvzN"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Anthems",
-        "url": "https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 161540,
-      "name": "Venomous",
-      "url": "https://open.spotify.com/track/2qTyInGP9V30gDQgvjHcGT"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Deflector",
         "url": "https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh"
       },
@@ -887,6 +851,26 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Heavy Steps",
+        "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        },
+        {
+          "name": "Joe Duplantier",
+          "url": "https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Crossed",
+      "url": "https://open.spotify.com/track/3YOT9X8PtcVZsgGzmOKvzN"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Anthems",
+        "url": "https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 161540,
+      "name": "Venomous",
+      "url": "https://open.spotify.com/track/2qTyInGP9V30gDQgvjHcGT"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Moment Of Violence",
         "url": "https://open.spotify.com/album/50f1iQiiAIznNY2lttY2lT"
       },
@@ -931,38 +931,6 @@
       "duration_ms": 135493,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/0kNPO6bdi3vMlVPhXTQA2T"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Heavy Steps",
-        "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
-      },
-      "artists": [
-        {
-          "name": "Comeback Kid",
-          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Face the Fire",
-      "url": "https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "For the Cause",
-        "url": "https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk"
-      },
-      "artists": [
-        {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Smile Now Pay Later",
-      "url": "https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be"
     },
     {
       "added_at": "2022-05-20 09:54:52",
@@ -983,18 +951,50 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Anthems",
-        "url": "https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu"
+        "name": "For the Cause",
+        "url": "https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk"
       },
       "artists": [
         {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
         }
       ],
-      "duration_ms": 213992,
-      "name": "Into This World",
-      "url": "https://open.spotify.com/track/7ybc7JwVUpdAStRIMWZMSu"
+      "duration_ms": 211746,
+      "name": "Smile Now Pay Later",
+      "url": "https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "fast forward",
+        "url": "https://open.spotify.com/album/1emDcZj0GpkjOnJJRpgHXn"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 120022,
+      "name": "fast forward",
+      "url": "https://open.spotify.com/track/69ohjiZNbPd0SjJFV0FwgU"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Heavy Steps",
+        "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Face the Fire",
+      "url": "https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "fast forward",
-        "url": "https://open.spotify.com/album/1emDcZj0GpkjOnJJRpgHXn"
+        "name": "Anthems",
+        "url": "https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu"
       },
       "artists": [
         {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
         }
       ],
-      "duration_ms": 120022,
-      "name": "fast forward",
-      "url": "https://open.spotify.com/track/69ohjiZNbPd0SjJFV0FwgU"
+      "duration_ms": 213992,
+      "name": "Into This World",
+      "url": "https://open.spotify.com/track/7ybc7JwVUpdAStRIMWZMSu"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1101,6 +1101,22 @@
       "url": "https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I"
     },
     {
+      "added_at": "2022-05-20 09:54:52",
+      "album": {
+        "name": "fleahouse",
+        "url": "https://open.spotify.com/album/0Ehs8YM7jw7rvNzpv8fwpE"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 182544,
+      "name": "fleahouse",
+      "url": "https://open.spotify.com/track/5stza5CaQ0wUfeyghiG0Hu"
+    },
+    {
       "added_at": "2022-04-01 16:27:04",
       "album": {
         "name": "Time's Up",
@@ -1123,38 +1139,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Pressure Cracks",
-        "url": "https://open.spotify.com/album/3OfRN295t9gx0PogJ255Hg"
-      },
-      "artists": [
-        {
-          "name": "Pressure Cracks",
-          "url": "https://open.spotify.com/artist/45PHqnv401IRwLynDIALcg"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Collages & Collagen",
-      "url": "https://open.spotify.com/track/14SJHx2N9R26OvzXxSj09K"
-    },
-    {
-      "added_at": "2022-05-20 09:54:52",
-      "album": {
-        "name": "fleahouse",
-        "url": "https://open.spotify.com/album/0Ehs8YM7jw7rvNzpv8fwpE"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 182544,
-      "name": "fleahouse",
-      "url": "https://open.spotify.com/track/5stza5CaQ0wUfeyghiG0Hu"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "grayout",
         "url": "https://open.spotify.com/album/00hXhNL6H4a1HJSQg9AmBS"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 120155,
       "name": "grayout",
       "url": "https://open.spotify.com/track/6IZ7Pg6C3vduV2gQsycrYS"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Pressure Cracks",
+        "url": "https://open.spotify.com/album/3OfRN295t9gx0PogJ255Hg"
+      },
+      "artists": [
+        {
+          "name": "Pressure Cracks",
+          "url": "https://open.spotify.com/artist/45PHqnv401IRwLynDIALcg"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Collages & Collagen",
+      "url": "https://open.spotify.com/track/14SJHx2N9R26OvzXxSj09K"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "The Legacy of Shi",
+        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "The Legacy Of Shi",
+      "url": "https://open.spotify.com/track/7BMn3JOYFEnOjUsR5BzdcR"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "VirUS (feat. Marcus Bischoff of Heaven Shall Burn)",
         "url": "https://open.spotify.com/album/0RE68CgZ2RGIzxvjSkcS18"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 208768,
       "name": "Hyde Howitzer",
       "url": "https://open.spotify.com/track/4KomSufeAvWBD27E3izXEz"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "The Legacy of Shi",
-        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "The Legacy Of Shi",
-      "url": "https://open.spotify.com/track/7BMn3JOYFEnOjUsR5BzdcR"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Gamechanger",
-        "url": "https://open.spotify.com/album/77KrgNntpYAq3DRYXgP3rT"
-      },
-      "artists": [
-        {
-          "name": "Sworn Enemy",
-          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
-        }
-      ],
-      "duration_ms": 228572,
-      "name": "Seeds of Hate",
-      "url": "https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Gamechanger",
+        "url": "https://open.spotify.com/album/77KrgNntpYAq3DRYXgP3rT"
+      },
+      "artists": [
+        {
+          "name": "Sworn Enemy",
+          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
+        }
+      ],
+      "duration_ms": 228572,
+      "name": "Seeds of Hate",
+      "url": "https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/76PZTUklDOYoHolig8UwAM"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 209940,
       "name": "Pariah",
       "url": "https://open.spotify.com/track/1SZQIQ8UGT1uvKBweFeVf6"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Run with the Hunted",
+        "url": "https://open.spotify.com/album/4Iq4cNPvVSrrJvnjlSprRO"
+      },
+      "artists": [
+        {
+          "name": "Wolfbrigade",
+          "url": "https://open.spotify.com/artist/0ixn2a4hS73Linz5TQGxVx"
+        }
+      ],
+      "duration_ms": 152031,
+      "name": "Warsaw Speedwolf",
+      "url": "https://open.spotify.com/track/6M3DAZWL6ANSzHGUG9DowU"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Run with the Hunted",
-        "url": "https://open.spotify.com/album/4Iq4cNPvVSrrJvnjlSprRO"
+        "name": "Reincarnate",
+        "url": "https://open.spotify.com/album/60xXitOtSrFl4di6wCA5V7"
       },
       "artists": [
         {
-          "name": "Wolfbrigade",
-          "url": "https://open.spotify.com/artist/0ixn2a4hS73Linz5TQGxVx"
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
         }
       ],
-      "duration_ms": 152031,
-      "name": "Warsaw Speedwolf",
-      "url": "https://open.spotify.com/track/6M3DAZWL6ANSzHGUG9DowU"
+      "duration_ms": 223744,
+      "name": "Reincarnate",
+      "url": "https://open.spotify.com/track/5T0kdOTi4ThnKjq2nIPbzS"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1519,22 +1535,6 @@
       "duration_ms": 148226,
       "name": "A Colossal Wreck",
       "url": "https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Reincarnate",
-        "url": "https://open.spotify.com/album/60xXitOtSrFl4di6wCA5V7"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 223744,
-      "name": "Reincarnate",
-      "url": "https://open.spotify.com/track/5T0kdOTi4ThnKjq2nIPbzS"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "BITE DOWN",
-        "url": "https://open.spotify.com/album/5eTPRtCrysT1vs5lg45O8y"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/7bi6J2cnEXwrWJbuuzDQ9J"
       },
       "artists": [
         {
-          "name": "Gideon",
-          "url": "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ"
+          "name": "Obey The Brave",
+          "url": "https://open.spotify.com/artist/5heEwugc3JGxjIIivDEAg3"
         }
       ],
-      "duration_ms": 181608,
-      "name": "BITE DOWN",
-      "url": "https://open.spotify.com/track/2ona4vTfiM1Ei4RMmYIhMm"
+      "duration_ms": 199666,
+      "name": "Cold Summer",
+      "url": "https://open.spotify.com/track/5rN43Tez5JnMdB6oC4YTcM"
     }
   ],
   "unique_name": "Complete Chaos",

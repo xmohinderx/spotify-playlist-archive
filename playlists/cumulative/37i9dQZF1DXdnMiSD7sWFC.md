@@ -4,7 +4,7 @@
 
 > your guide for a peaceful night.
 
-126 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/0yF840QYUl7VX4uOhnIVSI)
+127 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/0yF840QYUl7VX4uOhnIVSI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Collar of Fur](https://open.spotify.com/track/4W5gTdnD0ONxtRaKunsGlI) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Collar of Fur](https://open.spotify.com/album/3n8wG86Cf6OfYFQVN8MESD) | 2:28 | 2022-01-12 | 2022-07-28 |
 | [Colourblind](https://open.spotify.com/track/1lzvsof3WhWbUvGNkUcEAg) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:54 | 2022-01-12 | 2022-07-29 |
 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2022-01-12 |  |
-| [Cycle](https://open.spotify.com/track/1HtbUYSTOQI8rSenhstELT) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Like The River Loves The Sea](https://open.spotify.com/album/17gQSZgGgvXMme3fqktfKT) | 3:50 | 2022-01-12 |  |
+| [Cycle](https://open.spotify.com/track/1HtbUYSTOQI8rSenhstELT) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Like The River Loves The Sea](https://open.spotify.com/album/17gQSZgGgvXMme3fqktfKT) | 3:50 | 2022-01-12 | 2022-08-09 |
 | [David](https://open.spotify.com/track/0VHS1bzjUYPQUUdsveukVU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [David](https://open.spotify.com/album/2IE0DyI3VpGaW9JsgdLL4f) | 3:05 | 2022-01-12 | 2022-07-29 |
 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 | 2022-01-12 |  |
 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2022-01-12 |  |
@@ -42,7 +42,7 @@
 | [Everything Is Free](https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 4:48 | 2022-01-12 |  |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2022-01-12 |  |
 | [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 | 2022-01-12 |  |
-| [Featherweight \- Acoustic Version](https://open.spotify.com/track/79JR4YDBX2RHy0enKMvqe2) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/5tXJchExPrWfcj1JwoDeZy) | 3:41 | 2022-01-12 | 2022-07-29 |
+| [Featherweight \- Acoustic Version](https://open.spotify.com/track/79JR4YDBX2RHy0enKMvqe2) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/5tXJchExPrWfcj1JwoDeZy) | 3:41 | 2022-01-12 |  |
 | [Fields of Gold](https://open.spotify.com/track/72EsFNeQy959UicF9Q6H4i) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Dawnbreaker](https://open.spotify.com/album/44wumRa2cbldLimmZdHbow) | 3:31 | 2022-01-12 | 2022-07-29 |
 | [For You](https://open.spotify.com/track/4439aAX3jNkNKx1ygUr9WC) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:57 | 2022-01-12 |  |
 | [Forget About](https://open.spotify.com/track/00epdG9ONPL8KkErbmKW8o) | [Sibylle Baier](https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC) | [Colour Green](https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB) | 2:31 | 2022-01-12 |  |
@@ -96,9 +96,10 @@
 | [Rumours](https://open.spotify.com/track/0Brzu8MFxLwh3R57bImH2r) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 4:10 | 2022-01-12 |  |
 | [Santa Barbara](https://open.spotify.com/track/0v6lbGn9fC1YEa7WQZjFNX) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/3uyniBJKkgZfYsM25bBa8T) | 3:14 | 2022-01-12 | 2022-07-29 |
 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 | 2022-01-12 |  |
-| [Seeing Things](https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Count The Stairs](https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM) | 3:34 | 2022-01-12 |  |
+| [Seeing Things](https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Count The Stairs](https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM) | 3:34 | 2022-01-12 | 2022-08-09 |
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2022-01-12 |  |
 | [Shine](https://open.spotify.com/track/00r8JL55INeWH0qQfiEhsl) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Shine](https://open.spotify.com/album/7lqGzEhPHDWg3B24gDavWd) | 3:31 | 2022-01-12 | 2022-07-29 |
+| [Shine](https://open.spotify.com/track/5ouMWwTXJfgTOiCvz6fbFX) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 3:31 | 2022-01-12 |  |
 | [Slack Jaw](https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:05 | 2022-01-12 |  |
 | [Something To Believe In](https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:57 | 2022-01-12 |  |
 | [Starlight](https://open.spotify.com/track/5R4kNL7bpFezO39zL6VIS0) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/41BcJe6Rve6PbTHmS4LYdg) | 4:06 | 2022-01-12 | 2022-07-29 |

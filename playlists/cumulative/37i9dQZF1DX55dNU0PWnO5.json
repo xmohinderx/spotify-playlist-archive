@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Jazzy blips and blops. Cover: Glimlip",
+  "description": "Jazzy blips and blops. Cover: Kansado",
   "name": "Jazztronica",
   "published_playlist_ids": [
     "3EWDflGVJ6h7JcHAvsf1Hs"
@@ -1112,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp"
+      },
+      "artists": [
+        {
+          "name": "THREESIXTY",
+          "url": "https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224399,
+      "name": "Dazed",
+      "url": "https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W"
+    },
+    {
+      "album": {
         "name": "De Flore Sonos",
         "url": "https://open.spotify.com/album/1DzXiB37ADb5ABbdegXSBN"
       },
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 166437,
       "name": "JMZSLW.MMBL",
       "url": "https://open.spotify.com/track/6tahGv4y37WL0YgVuBBIw3"
@@ -2223,10 +2241,32 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 168160,
       "name": "Life Of Leisure",
       "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
+    },
+    {
+      "album": {
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/708Vmp9rYSKjCsUl4qWL2j"
+      },
+      "artists": [
+        {
+          "name": "Marcus Alan Ward",
+          "url": "https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2"
+        },
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131006,
+      "name": "Lift Off For AJ",
+      "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
     },
     {
       "album": {
@@ -3039,7 +3079,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 156000,
       "name": "Popcorn Time",
       "url": "https://open.spotify.com/track/4MeX5XlOUxVuCzoK6Y4DiY"
@@ -3527,7 +3567,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 282577,
       "name": "Sight Spring",
       "url": "https://open.spotify.com/track/1Y5iIqTBVLmR2CXzeYlEda"
@@ -4402,6 +4442,28 @@
     },
     {
       "album": {
+        "name": "Tukumtak",
+        "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        },
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182970,
+      "name": "Tukumtak",
+      "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
+    },
+    {
+      "album": {
         "name": "Turkish Delight",
         "url": "https://open.spotify.com/album/0Ywe3TYOzHLCKpkhQkkNYm"
       },
@@ -4979,6 +5041,24 @@
       "duration_ms": 136421,
       "name": "Yipee",
       "url": "https://open.spotify.com/track/78R0kfQEC2vEB2J6twyVoo"
+    },
+    {
+      "album": {
+        "name": "You Were Probably Younger Then",
+        "url": "https://open.spotify.com/album/7svc0aRNic3e5NQFpMQwZ9"
+      },
+      "artists": [
+        {
+          "name": "FLOCKS",
+          "url": "https://open.spotify.com/artist/3kK43vMqAED76AbsEzQssM"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314668,
+      "name": "you were probably younger then",
+      "url": "https://open.spotify.com/track/02YXJJZ5xQrFIRhqe62PTi"
     },
     {
       "album": {

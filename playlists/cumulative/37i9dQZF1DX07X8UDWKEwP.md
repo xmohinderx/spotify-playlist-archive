@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Manny Cruz
+> Lo nuevo del mundo tropical\. Cover: Luis Vazquez
 
-170 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/2Ht3c63z2gjsw6cH26GdKD)
+173 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/2Ht3c63z2gjsw6cH26GdKD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Estoy Completo](https://open.spotify.com/track/4Fyif2oJW0NvvtDNZi15LI) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Love Dance Merengue](https://open.spotify.com/album/15potGbxc3v18jQ0HbZUXL) | 3:25 | 2022-01-01 | 2022-01-29 |
 | [Fallarte Nunca](https://open.spotify.com/track/6dW8Tvo71KmXb2xOtsdyPF) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Fallarte Nunca](https://open.spotify.com/album/5oHC0YyRaiM4qkFCNp4Xgw) | 3:51 | 2022-02-11 | 2022-06-30 |
 | [FOR SALE](https://open.spotify.com/track/68Pz7iMzCrCoHQcocNwvAi) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [FOR SALE](https://open.spotify.com/album/4MYIOezZeoePIZ8LAS084W) | 4:43 | 2022-07-19 |  |
+| [Frente a una Copa de Vino](https://open.spotify.com/track/0Y9jbCa2gLEcQXGHZJM754) | [Andrw John](https://open.spotify.com/artist/2F1UtPwrswl2pB8crCifIm), [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Frente a una Copa de Vino](https://open.spotify.com/album/1OoYxpGU4rZBKWegsdz5gO) | 3:44 | 2022-08-08 |  |
 | [Fátima](https://open.spotify.com/track/75B7zCDMdOHkhUwrI4XZzm) | [Alméstica](https://open.spotify.com/artist/4cIhymlEkd4afP2e1rJ6oJ) | [Fátima](https://open.spotify.com/album/1LsGoVW1Tx1388Y3lysP3Z) | 4:38 | 2022-01-01 | 2022-06-30 |
 | [Goza Pelota](https://open.spotify.com/track/47ojnruXrJxBoc8R5XcvxR) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Adonis MC](https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr) | [Goza Pelota](https://open.spotify.com/album/6E2uYyBQkfIMQVHX1ENKva) | 3:17 | 2022-01-01 | 2022-03-26 |
 | [Hoy en Dia](https://open.spotify.com/track/19z37VNtPVvo0HzXxkdCsn) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Hoy en Dia](https://open.spotify.com/album/6LaKlyiwH8L2DH49eGXBgu) | 3:46 | 2022-03-04 | 2022-06-30 |
@@ -114,6 +115,7 @@
 | [Para Toda la Vida](https://open.spotify.com/track/0qgBp4NwYl2URZ6zkPaCJp) | [Pamel](https://open.spotify.com/artist/48jGc4i11EImovz6WgKLbB) | [Para Toda la Vida](https://open.spotify.com/album/7aHDbYPKWVuWjiOB4rKybA) | 3:17 | 2022-01-01 | 2022-06-30 |
 | [Pasarela](https://open.spotify.com/track/4nWQcZu84VTHqWJBac6KMI) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Pasarela](https://open.spotify.com/album/7LlkJqeKRlr3rALJN4mCYB) | 3:51 | 2022-01-01 | 2022-06-30 |
 | [Peligro](https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro](https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu) | 3:20 | 2022-03-04 |  |
+| [Peligro \- Remix](https://open.spotify.com/track/3FE8bkjzBkpFc1vYDkEITi) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Peligro \(Remix\)](https://open.spotify.com/album/3w8tT7ZY4IWG1nX3HHPR95) | 3:40 | 2022-08-08 |  |
 | [Pepas \(Version Merengue\)](https://open.spotify.com/track/1ojTU4PABAOr5i3IaW7RhZ) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Pepas \(Version Merengue\)](https://open.spotify.com/album/6ZTrk7RDsxy5jfaItGProy) | 2:30 | 2022-01-01 | 2022-06-30 |
 | [Perdon \- Bachata Version](https://open.spotify.com/track/3vmzQypehYq6UgKtBLk4eT) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Perdon \(Bachata Version\)](https://open.spotify.com/album/39mfhjRYLDUGysKMjJjbM0) | 3:57 | 2022-01-01 | 2022-01-29 |
 | [Perdoname](https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Pa' Que Te Duela](https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7) | 3:35 | 2022-01-01 | 2022-01-29 |
@@ -127,6 +129,7 @@
 | [Que Se Vayan Ya](https://open.spotify.com/track/18cKTCZardQOVSBa8yr1ry) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W), [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Que Se Vayan Ya](https://open.spotify.com/album/2LhM6MMQ9gQ98x6aNtmPaG) | 4:11 | 2022-01-01 | 2022-06-30 |
 | [Quedate](https://open.spotify.com/track/5U5oHCSNxNNWMar8kQHZ7R) | [Brenda K\. Starr](https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B) | [Quedate](https://open.spotify.com/album/6UyjEPINXKXN1iijwVEJ7M) | 4:49 | 2022-03-25 | 2022-06-30 |
 | [Querer Es Poder](https://open.spotify.com/track/2V7q49qDwridjuHUXdrokD) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Querer Es Poder](https://open.spotify.com/album/3u9r3R8Ly133c077Iytu2N) | 2:56 | 2022-01-01 | 2022-06-30 |
+| [Quien Dijo](https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Quien Dijo](https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U) | 4:01 | 2022-08-08 |  |
 | [Quimicas de Amor](https://open.spotify.com/track/7hOKkEkiw2gUlJLXFFbT6s) | [J\-Dream](https://open.spotify.com/artist/43UkDk4JiVnOIVZdMHhO0Z), [Lady laura La morena del swing](https://open.spotify.com/artist/1oq10cOkNQAk6T63equyFp) | [Quimicas de Amor](https://open.spotify.com/album/0PA3JHgKlI5jzf8VdLPEE2) | 3:05 | 2022-03-25 | 2022-06-30 |
 | [Reggaetonista Salsaton \(Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen\)](https://open.spotify.com/track/2jjS5j292q9RoNwNXNRM6x) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Reggaetonista Salsaton \(Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen\)](https://open.spotify.com/album/5U8TwxqlnkjcWw14Svv3Bs) | 2:37 | 2022-01-01 | 2022-01-29 |
 | [Remember Me](https://open.spotify.com/track/2PTDRE8RTmKU0LbJCvK9vA) | [Alain Daniel](https://open.spotify.com/artist/2u1nvbgShcmjDc2SeSDDu6), [Alexander Delgado](https://open.spotify.com/artist/2XZxaXED899trOkylOP8fa) | [Remember Me](https://open.spotify.com/album/2KkJOl11zZxOf8LYSIwaZz) | 3:25 | 2022-06-29 |  |

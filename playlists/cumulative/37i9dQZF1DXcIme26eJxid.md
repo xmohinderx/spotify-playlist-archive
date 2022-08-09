@@ -4,7 +4,7 @@
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="spotify:artist:18RkLKfeoUgZflWv9os25W">Miriam Makeba</a>
 
-40 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/04ehEU04TjgiUQcneleBic)
+41 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/04ehEU04TjgiUQcneleBic)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [In Your Eyes \- Live](https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 10:38 | 2019-06-28 |  |
 | [Ingoma](https://open.spotify.com/track/6AohFdqxAVO7xCpLTuHVvd) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/1lLexWslJpsjdF75f9IviG) | 6:12 | 2020-04-07 |  |
 | [It's About Time](https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [Boom Shaka](https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8) | 5:39 | 2020-04-07 |  |
+| [Ja Funmi](https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 7:08 | 2019-06-28 |  |
 | [Joromi](https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Big Sound](https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV) | 3:07 | 2019-06-28 |  |
 | [Kita Kita](https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ) | [Gasper Lawal](https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:00 | 2019-06-28 |  |
 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 | 2019-06-28 |  |
@@ -36,7 +37,7 @@
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 | 2019-06-28 |  |
 | [Orere\-Elejigbo](https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 4:16 | 2019-06-28 |  |
 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:00 | 2019-06-28 |  |
-| [Pennywhistle](https://open.spotify.com/track/31TjeXsbZmwBbJqhwn6YG7) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb) | 3:19 | 2020-04-07 |  |
+| [Pennywhistle](https://open.spotify.com/track/31TjeXsbZmwBbJqhwn6YG7) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb) | 3:19 | 2020-04-07 | 2022-08-09 |
 | [Sawale](https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0) | [Cardinal Rex Jim Lawson](https://open.spotify.com/artist/61HFskCqHEghNfZ1XYb8RI) | [Rex Lawson's Greatest Hits](https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0) | 3:00 | 2019-06-28 |  |
 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 | 2020-04-07 |  |
 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 | 2020-04-07 |  |

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-473 songs - 1 day 1 hr 40 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+474 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Dil Diyan Gallan](https://open.spotify.com/track/60yO1jLf6MyQbFQwuCjX0l) | [Karox](https://open.spotify.com/artist/3Iknd9BKrBQOKm0UxZ3Scq) | [Dil Diyan Gallan](https://open.spotify.com/album/6eBmn5zszG9L3ibwn75rl9) | 3:25 | 2022-04-22 | 2022-05-11 |
 | [Dil Gaunda Firda](https://open.spotify.com/track/2H6jkOUuU50vQ6mTqxP3yG) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Dil Gaunda Firda](https://open.spotify.com/album/3ILEvzNb0DIcqGqbbqr09A) | 4:18 | 2022-04-12 | 2022-05-11 |
 | [Dil Mod De](https://open.spotify.com/track/4wnUWXUzBNkLAmcipJOAUH) | [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S) | [Dil Mod De](https://open.spotify.com/album/3mv2XAQZmuyviK5Op9Domd) | 3:20 | 2022-03-11 | 2022-04-06 |
+| [Dil Naal Tu](https://open.spotify.com/track/7BMf2OTPL3ks2dfPZVpX1h) | [Preet Aulakh](https://open.spotify.com/artist/6FqznO0c9Bd1Ch824Evbqz) | [Dil Naal Tu](https://open.spotify.com/album/1KSVSqkB8TjJ8ve2dcu7wq) | 2:57 | 2022-08-08 |  |
 | [Dil Te](https://open.spotify.com/track/2UPFPN46lpcpZCSCrPVjad) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Dil Te](https://open.spotify.com/album/7ymbaDDS8DT9ObivkZ5bco) | 2:51 | 2022-02-15 | 2022-02-19 |
 | [Dil Te Dimag](https://open.spotify.com/track/79uh6VMCRygYs0c6cWPUuZ) | [Manna Datte Aala](https://open.spotify.com/artist/4WkBXpLBOz0mCdFJWgAdcy), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Dil Te Dimag](https://open.spotify.com/album/4oUgm6SDdu20KxHjMCcVLe) | 2:42 | 2022-04-05 | 2022-05-20 |
 | [Dil Tera](https://open.spotify.com/track/7hm32SIdor0IvdJ36H3BvT) | [Sara Gurpal](https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v), [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [Dil Tera](https://open.spotify.com/album/39Lal7OnGGdjCpUZco8s3o) | 2:45 | 2022-03-01 | 2022-04-06 |

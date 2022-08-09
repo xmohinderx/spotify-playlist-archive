@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Himeno Tama / Boku to Georges Artwork: Thami Nabil",
-  "num_followers": 90208,
+  "num_followers": 90259,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5OTAwOCwwMDAwMDAwMDA3YjNmZDllNGIzNjJmMmJlOGRhM2VjNDFiNzA4Nzg0",
+  "snapshot_id": "MTY1OTQ5OTAwOCwwMDAwMDAwMDliNDgyYWUwMDI2MmZmOGM2MTU5ZTFmMjc0YzJiZTNm",
   "tracks": [
     {
       "added_at": "2022-07-27 14:53:59",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Leidenzwang",
-        "url": "https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8"
-      },
-      "artists": [
-        {
-          "name": "Kenji Araki",
-          "url": "https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi"
-        }
-      ],
-      "duration_ms": 290500,
-      "name": "Nabelschnurtanz",
-      "url": "https://open.spotify.com/track/7DL4cfG56dc8iDIl6l8eNP"
-    },
-    {
       "added_at": "2022-07-20 05:00:00",
       "album": {
         "name": "Liminality",
@@ -439,6 +423,22 @@
       "duration_ms": 246593,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/5W9cJdvPtkuPaVtJAIylbM"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Leidenzwang",
+        "url": "https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8"
+      },
+      "artists": [
+        {
+          "name": "Kenji Araki",
+          "url": "https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi"
+        }
+      ],
+      "duration_ms": 290500,
+      "name": "Nabelschnurtanz",
+      "url": "https://open.spotify.com/track/7DL4cfG56dc8iDIl6l8eNP"
     },
     {
       "added_at": "2022-06-30 01:10:53",
@@ -609,38 +609,6 @@
       "url": "https://open.spotify.com/track/1eZl3uZnDLa8UCgEi0FjDw"
     },
     {
-      "added_at": "2022-07-06 13:58:15",
-      "album": {
-        "name": "Medicine Singers",
-        "url": "https://open.spotify.com/album/5ACa1glpm4tt7Eb97hyYs1"
-      },
-      "artists": [
-        {
-          "name": "Medicine Singers",
-          "url": "https://open.spotify.com/artist/22i4604ZzdUDxd18tYogXv"
-        }
-      ],
-      "duration_ms": 122646,
-      "name": "A Cry",
-      "url": "https://open.spotify.com/track/3pnVNfUWS1qAiulCmtmepT"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
-        "name": "The Leibowitz Files",
-        "url": "https://open.spotify.com/album/0CzxZpspYSxj9hkSpbDB5i"
-      },
-      "artists": [
-        {
-          "name": "Autarkic",
-          "url": "https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ"
-        }
-      ],
-      "duration_ms": 306853,
-      "name": "Genesis, To Overcome (Messiah)",
-      "url": "https://open.spotify.com/track/0VcypcIJ9EWwVXpoN3EIoq"
-    },
-    {
       "added_at": "2022-07-27 14:53:59",
       "album": {
         "name": "voids",
@@ -663,18 +631,18 @@
     {
       "added_at": "2022-07-06 13:58:15",
       "album": {
-        "name": "Business Class",
-        "url": "https://open.spotify.com/album/0EdSRVd58vA7KPUXEkk5rz"
+        "name": "Medicine Singers",
+        "url": "https://open.spotify.com/album/5ACa1glpm4tt7Eb97hyYs1"
       },
       "artists": [
         {
-          "name": "JNTHN STEIN",
-          "url": "https://open.spotify.com/artist/2tW7TitNzNibILuWCEhBLS"
+          "name": "Medicine Singers",
+          "url": "https://open.spotify.com/artist/22i4604ZzdUDxd18tYogXv"
         }
       ],
-      "duration_ms": 140869,
-      "name": "Business Class",
-      "url": "https://open.spotify.com/track/0R1eP7bfUDB96LR8udiTjp"
+      "duration_ms": 122646,
+      "name": "A Cry",
+      "url": "https://open.spotify.com/track/3pnVNfUWS1qAiulCmtmepT"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -695,22 +663,34 @@
     {
       "added_at": "2022-07-06 13:58:15",
       "album": {
-        "name": "Situazioni Distinte",
-        "url": "https://open.spotify.com/album/32DkhX0HUKlqnrBA34QmLO"
+        "name": "Business Class",
+        "url": "https://open.spotify.com/album/0EdSRVd58vA7KPUXEkk5rz"
       },
       "artists": [
         {
-          "name": "Kuzu",
-          "url": "https://open.spotify.com/artist/5uhwzozeBApn2zTs4FzDJW"
-        },
-        {
-          "name": "GIUMO",
-          "url": "https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90"
+          "name": "JNTHN STEIN",
+          "url": "https://open.spotify.com/artist/2tW7TitNzNibILuWCEhBLS"
         }
       ],
-      "duration_ms": 339711,
-      "name": "Situazioni Distinte",
-      "url": "https://open.spotify.com/track/2mzphnIh0Q5VTx6FVK6UQH"
+      "duration_ms": 140869,
+      "name": "Business Class",
+      "url": "https://open.spotify.com/track/0R1eP7bfUDB96LR8udiTjp"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "The Leibowitz Files",
+        "url": "https://open.spotify.com/album/0CzxZpspYSxj9hkSpbDB5i"
+      },
+      "artists": [
+        {
+          "name": "Autarkic",
+          "url": "https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ"
+        }
+      ],
+      "duration_ms": 306853,
+      "name": "Genesis, To Overcome (Messiah)",
+      "url": "https://open.spotify.com/track/0VcypcIJ9EWwVXpoN3EIoq"
     },
     {
       "added_at": "2022-07-27 14:53:59",
@@ -743,6 +723,26 @@
       "duration_ms": 155805,
       "name": "Your Element (a spell of equality)",
       "url": "https://open.spotify.com/track/6PUcSmfUnUEsRy7JhHrWVT"
+    },
+    {
+      "added_at": "2022-07-06 13:58:15",
+      "album": {
+        "name": "Situazioni Distinte",
+        "url": "https://open.spotify.com/album/32DkhX0HUKlqnrBA34QmLO"
+      },
+      "artists": [
+        {
+          "name": "Kuzu",
+          "url": "https://open.spotify.com/artist/5uhwzozeBApn2zTs4FzDJW"
+        },
+        {
+          "name": "GIUMO",
+          "url": "https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90"
+        }
+      ],
+      "duration_ms": 339711,
+      "name": "Situazioni Distinte",
+      "url": "https://open.spotify.com/track/2mzphnIh0Q5VTx6FVK6UQH"
     },
     {
       "added_at": "2022-07-27 14:53:59",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Leidenzwang",
-        "url": "https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8"
-      },
-      "artists": [
-        {
-          "name": "Kenji Araki",
-          "url": "https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi"
-        }
-      ],
-      "duration_ms": 260334,
-      "name": "Gel & Gewalt",
-      "url": "https://open.spotify.com/track/3fxMGtWsPlHvPlTanYlrAF"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "Tongues",
         "url": "https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 264253,
       "name": "Colonizer",
       "url": "https://open.spotify.com/track/5f4EAqwXpQ7kJGgZ7oVN60"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Leidenzwang",
+        "url": "https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8"
+      },
+      "artists": [
+        {
+          "name": "Kenji Araki",
+          "url": "https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi"
+        }
+      ],
+      "duration_ms": 260334,
+      "name": "Gel & Gewalt",
+      "url": "https://open.spotify.com/track/3fxMGtWsPlHvPlTanYlrAF"
     },
     {
       "added_at": "2022-07-27 14:53:59",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/3nZAFdb6wQ7yOtxmJAU2nG"
     },
     {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Marauder",
+        "url": "https://open.spotify.com/album/1gvFPed9kP8dEctN1VT0vM"
+      },
+      "artists": [
+        {
+          "name": "numeral",
+          "url": "https://open.spotify.com/artist/2JNfGEAw6QRRKc0Fy6l13V"
+        }
+      ],
+      "duration_ms": 283180,
+      "name": "Marauder",
+      "url": "https://open.spotify.com/track/0J8HGawaxgKpOlpxkZq2OA"
+    },
+    {
       "added_at": "2022-07-27 14:53:59",
       "album": {
         "name": "Fleeting Aspirations",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Marauder",
-        "url": "https://open.spotify.com/album/1gvFPed9kP8dEctN1VT0vM"
-      },
-      "artists": [
-        {
-          "name": "numeral",
-          "url": "https://open.spotify.com/artist/2JNfGEAw6QRRKc0Fy6l13V"
-        }
-      ],
-      "duration_ms": 283180,
-      "name": "Marauder",
-      "url": "https://open.spotify.com/track/0J8HGawaxgKpOlpxkZq2OA"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "Hold Me Under",
         "url": "https://open.spotify.com/album/73DLdTZBv5A9yEgKWb25tC"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "\u00d3bice",
-        "url": "https://open.spotify.com/album/6AProNI4fvBL4JKAgggsJK"
-      },
-      "artists": [
-        {
-          "name": "Maura Rosa",
-          "url": "https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1"
-        }
-      ],
-      "duration_ms": 141692,
-      "name": "\u00d3bice",
-      "url": "https://open.spotify.com/track/7lBKhiQ4BHJMda1kJnNt21"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/1TGr8wA85mIUxewg8gyafM"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 453190,
       "name": "You told me you love running so I started to run too",
       "url": "https://open.spotify.com/track/0SXOuHsgTkrCHB3RBCFioo"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "\u00d3bice",
+        "url": "https://open.spotify.com/album/6AProNI4fvBL4JKAgggsJK"
+      },
+      "artists": [
+        {
+          "name": "Maura Rosa",
+          "url": "https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1"
+        }
+      ],
+      "duration_ms": 141692,
+      "name": "\u00d3bice",
+      "url": "https://open.spotify.com/track/7lBKhiQ4BHJMda1kJnNt21"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "American Rituals",
-        "url": "https://open.spotify.com/album/3QDLnNGEw7lgQq00UmMKiH"
-      },
-      "artists": [
-        {
-          "name": "Cheri Knight",
-          "url": "https://open.spotify.com/artist/5l5e5HHNASB4FIki35d2wn"
-        }
-      ],
-      "duration_ms": 302095,
-      "name": "Hear/Say",
-      "url": "https://open.spotify.com/track/354SiVY41qtnUPc0Ww6I1X"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
         "name": "Dream Telepathy",
         "url": "https://open.spotify.com/album/7vDF5EblbrQ9ju6ShS6j0t"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 168005,
       "name": "Dream Telepathy",
       "url": "https://open.spotify.com/track/4iXK42dVRO9VNRCPsnW595"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "American Rituals",
+        "url": "https://open.spotify.com/album/3QDLnNGEw7lgQq00UmMKiH"
+      },
+      "artists": [
+        {
+          "name": "Cheri Knight",
+          "url": "https://open.spotify.com/artist/5l5e5HHNASB4FIki35d2wn"
+        }
+      ],
+      "duration_ms": 302095,
+      "name": "Hear/Say",
+      "url": "https://open.spotify.com/track/354SiVY41qtnUPc0Ww6I1X"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "igetunder",
-        "url": "https://open.spotify.com/album/5BHO11sWr5pt5BSpV5EkMb"
-      },
-      "artists": [
-        {
-          "name": "Aiden Marceron",
-          "url": "https://open.spotify.com/artist/7fEzFVP0ArPjriuTGCJIxf"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "igetunder",
-      "url": "https://open.spotify.com/track/6ufnWCg5FZi03nGBlVhmn5"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
         "name": "A Catturare I Raggi",
         "url": "https://open.spotify.com/album/7sMkpgnSLtMZE3SIa5FROR"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 277042,
       "name": "Persone Fragili",
       "url": "https://open.spotify.com/track/4YlUqfyJ6IasiVEZ5D4GZE"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "igetunder",
+        "url": "https://open.spotify.com/album/5BHO11sWr5pt5BSpV5EkMb"
+      },
+      "artists": [
+        {
+          "name": "Aiden Marceron",
+          "url": "https://open.spotify.com/artist/7fEzFVP0ArPjriuTGCJIxf"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "igetunder",
+      "url": "https://open.spotify.com/track/6ufnWCg5FZi03nGBlVhmn5"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Blunt Force Trauma",
-        "url": "https://open.spotify.com/album/5AWmqA5u5TxKqbXVitq27h"
-      },
-      "artists": [
-        {
-          "name": "Logic Lost",
-          "url": "https://open.spotify.com/artist/5lp3vcEKa04pzONHOZJ7Td"
-        }
-      ],
-      "duration_ms": 349959,
-      "name": "Blunt Force Trauma",
-      "url": "https://open.spotify.com/track/6X1ic7gFcktaqbHzuwSClw"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "Hyle",
         "url": "https://open.spotify.com/album/1KQdYH71BJMYvkkCT7dGkL"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 207532,
       "name": "Manifesting Plastic Sorrow",
       "url": "https://open.spotify.com/track/1hpP38nUgRJx0P1q0iLxI5"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Blunt Force Trauma",
+        "url": "https://open.spotify.com/album/5AWmqA5u5TxKqbXVitq27h"
+      },
+      "artists": [
+        {
+          "name": "Logic Lost",
+          "url": "https://open.spotify.com/artist/5lp3vcEKa04pzONHOZJ7Td"
+        }
+      ],
+      "duration_ms": 349959,
+      "name": "Blunt Force Trauma",
+      "url": "https://open.spotify.com/track/6X1ic7gFcktaqbHzuwSClw"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Leaving Your House",
-        "url": "https://open.spotify.com/album/6Jr4gQWVm1nW578piBHO6i"
-      },
-      "artists": [
-        {
-          "name": "Katie McBride",
-          "url": "https://open.spotify.com/artist/3PlStwko8DjwgLk6KxOAdY"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "Leaving Your House",
-      "url": "https://open.spotify.com/track/0e5dMxPViv8XDK6ejcVZrY"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "TUKI TUKI",
         "url": "https://open.spotify.com/album/6F2MfJkJYAPAaZW2pFooTy"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 185777,
       "name": "TUKI TUKI",
       "url": "https://open.spotify.com/track/5UHr2nwlDQetW4GV8dxMD1"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Leaving Your House",
+        "url": "https://open.spotify.com/album/6Jr4gQWVm1nW578piBHO6i"
+      },
+      "artists": [
+        {
+          "name": "Katie McBride",
+          "url": "https://open.spotify.com/artist/3PlStwko8DjwgLk6KxOAdY"
+        }
+      ],
+      "duration_ms": 125714,
+      "name": "Leaving Your House",
+      "url": "https://open.spotify.com/track/0e5dMxPViv8XDK6ejcVZrY"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "The trees were buzzing, and the grass.",
-        "url": "https://open.spotify.com/album/423toLWwaRYvG9xiAcXo2b"
-      },
-      "artists": [
-        {
-          "name": "Wordcolour",
-          "url": "https://open.spotify.com/artist/2u75EZNS4kCa8tnldGnUbH"
-        }
-      ],
-      "duration_ms": 242353,
-      "name": "Cloud Room",
-      "url": "https://open.spotify.com/track/4vhHIrVYyuRaN5iEEbgbOS"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "Tum Trib\u00f9 Reworked",
         "url": "https://open.spotify.com/album/4UyiActwdoFeWE5JYVB9m5"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 177903,
       "name": "Tum Trib\u00f9 Reworked",
       "url": "https://open.spotify.com/track/3dDXCkuYKpsRJ4UsXnDGiL"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "The trees were buzzing, and the grass.",
+        "url": "https://open.spotify.com/album/423toLWwaRYvG9xiAcXo2b"
+      },
+      "artists": [
+        {
+          "name": "Wordcolour",
+          "url": "https://open.spotify.com/artist/2u75EZNS4kCa8tnldGnUbH"
+        }
+      ],
+      "duration_ms": 242353,
+      "name": "Cloud Room",
+      "url": "https://open.spotify.com/track/4vhHIrVYyuRaN5iEEbgbOS"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/7F63gRu10MKegVkm7l9HZp"
-      },
-      "artists": [
-        {
-          "name": "Logic Lost",
-          "url": "https://open.spotify.com/artist/5lp3vcEKa04pzONHOZJ7Td"
-        }
-      ],
-      "duration_ms": 546500,
-      "name": "Inconsiderate",
-      "url": "https://open.spotify.com/track/5pTKnE4eUMLCKAnlF8mSO1"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
         "name": "A Beat for Peace",
         "url": "https://open.spotify.com/album/2Dch0jE7Xa81GpzUdXqlPY"
       },
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/7F63gRu10MKegVkm7l9HZp"
+      },
+      "artists": [
+        {
+          "name": "Logic Lost",
+          "url": "https://open.spotify.com/artist/5lp3vcEKa04pzONHOZJ7Td"
+        }
+      ],
+      "duration_ms": 546500,
+      "name": "Inconsiderate",
+      "url": "https://open.spotify.com/track/5pTKnE4eUMLCKAnlF8mSO1"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
         "name": "Extasi Exile",
         "url": "https://open.spotify.com/album/54ToWFytyN9hSpThLOQZop"
       },
@@ -1663,22 +1663,6 @@
       "duration_ms": 192000,
       "name": "Extasi Exile",
       "url": "https://open.spotify.com/track/7dbOOWFqW9kbc70J2wxjNQ"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Emptiness Follows",
-        "url": "https://open.spotify.com/album/7BjL3EfbYyA0x88w5uPXr7"
-      },
-      "artists": [
-        {
-          "name": "Aoife Nessa Frances",
-          "url": "https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX"
-        }
-      ],
-      "duration_ms": 268073,
-      "name": "Emptiness Follows (Dreams of Our Love)",
-      "url": "https://open.spotify.com/track/6zaIYGW4whKe85V6d3FP8h"
     },
     {
       "added_at": "2022-07-29 14:41:10",
@@ -1703,6 +1687,22 @@
       "duration_ms": 194142,
       "name": "\u767e\u5e74\u306f\u5b64\u72ec",
       "url": "https://open.spotify.com/track/7uQ0I7K2ntZ7QF30RJ03IA"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Emptiness Follows",
+        "url": "https://open.spotify.com/album/7BjL3EfbYyA0x88w5uPXr7"
+      },
+      "artists": [
+        {
+          "name": "Aoife Nessa Frances",
+          "url": "https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX"
+        }
+      ],
+      "duration_ms": 268073,
+      "name": "Emptiness Follows (Dreams of Our Love)",
+      "url": "https://open.spotify.com/track/6zaIYGW4whKe85V6d3FP8h"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

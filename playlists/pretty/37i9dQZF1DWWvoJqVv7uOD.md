@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,893 likes - 74 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,307 likes - 74 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

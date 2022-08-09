@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-519 songs - 1 day 5 hr 34 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+520 songs - 1 day 5 hr 37 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Hawái](https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:19 | 2021-03-27\* | 2021-05-23 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-27\* | 2021-05-23 |
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2021-03-27\* | 2021-06-16 |
+| [Hey Chanty](https://open.spotify.com/track/5EWQWiQS2eseBWfgesPEh2) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Hey Chanty](https://open.spotify.com/album/789JJAQJ3JyAzEIF8sUmc0) | 2:40 | 2022-08-08 |  |
 | [Higher Power](https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:26 | 2022-03-23 | 2022-03-27 |
 | [Hola](https://open.spotify.com/track/5VD5mr12uonOBeEFbqobXA) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Hola](https://open.spotify.com/album/5AcJamqKm6zHdBdwvztI0Z) | 2:47 | 2022-08-06 |  |
 | [Hola Como Vas](https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:18 | 2021-12-05 | 2022-01-24 |
@@ -248,7 +249,7 @@
 | [La Fama 21](https://open.spotify.com/track/7qvUSviHVMybeyaCkOJh4y) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [La Fama 21](https://open.spotify.com/album/0zS7oIv4ayxZXlJF96MdQZ) | 3:07 | 2021-05-03 | 2021-05-06 |
 | [La Guacherna](https://open.spotify.com/track/4D1SzLFMUgUkxbPZxSPmSB) | [Los Vecinos](https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [¡Acabando! La Guacherna](https://open.spotify.com/album/7nFNbOFrJW6liWiYs63uzI) | 3:58 | 2021-12-26 | 2021-12-27 |
 | [La H](https://open.spotify.com/track/4ju7kar249CQKWu2s5uHFg) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:03 | 2021-07-04 | 2021-07-10 |
-| [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 | 2022-04-02 |  |
+| [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 | 2022-04-02 | 2022-08-09 |
 | [La Jaula Perfecta](https://open.spotify.com/track/5ADCYUNt9HmuAXdYjN4nnD) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:24 | 2022-02-18 | 2022-02-25 |
 | [La Juma No\. 1](https://open.spotify.com/track/4OxTorwrpPNRw1TuORfdTG) | [Conjunto Quisqueya](https://open.spotify.com/artist/0LbPX3Es24fTjE9IN048SS) | [Super Exitos del Conjunto Quisqueya](https://open.spotify.com/album/6Y26ZmWVJAs8D2N0G5eypG) | 3:53 | 2021-12-26 | 2021-12-27 |
 | [La Llevo Al Cielo \(Ft\. Ñengo Flow\)](https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La Llevo Al Cielo \(Ft\. Ñengo Flow\)](https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2) | 4:14 | 2022-05-22 |  |

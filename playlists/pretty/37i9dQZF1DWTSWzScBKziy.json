@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 81327,
+  "num_followers": 81351,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDQxZDBiMmNhMjA5NmMxNzc0YWY3MjU3NDcxOTg5NDgz",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDY5ZmUyM2M1YzkyNzI0MTQ3OGQxZDc4MGMwM2MxM2Jh",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Heaven's on the Move (Deluxe)",
+        "url": "https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc"
+      },
+      "artists": [
+        {
+          "name": "Central Live",
+          "url": "https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Amen (The Lord's Prayer)",
+      "url": "https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "King of Kings",
         "url": "https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 298250,
       "name": "King of Kings",
       "url": "https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Heaven's on the Move (Deluxe)",
-        "url": "https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc"
-      },
-      "artists": [
-        {
-          "name": "Central Live",
-          "url": "https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn"
-        }
-      ],
-      "duration_ms": 350520,
-      "name": "Amen (The Lord's Prayer)",
-      "url": "https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Grace Greater",
-        "url": "https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv"
-      },
-      "artists": [
-        {
-          "name": "Travis Cottrell",
-          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
-        }
-      ],
-      "duration_ms": 262369,
-      "name": "Grace Greater",
-      "url": "https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Grace Greater",
+        "url": "https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        }
+      ],
+      "duration_ms": 262369,
+      "name": "Grace Greater",
+      "url": "https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Born to Love",
+        "url": "https://open.spotify.com/album/0LBm9x0GNGI68k11b8AIwY"
+      },
+      "artists": [
+        {
+          "name": "Sara Groves",
+          "url": "https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7"
+        }
+      ],
+      "duration_ms": 229533,
+      "name": "Born to Love",
+      "url": "https://open.spotify.com/track/6uaXa66iQYahdrRKN3txNP"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Mind of Christ (Philippians 2)",
         "url": "https://open.spotify.com/album/78xHy1AXOcqDNevyty5BK6"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 242714,
       "name": "Mind of Christ (Philippians 2)",
       "url": "https://open.spotify.com/track/5Ol2f8NBEASW6JYQswBWpi"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Born to Love",
-        "url": "https://open.spotify.com/album/0LBm9x0GNGI68k11b8AIwY"
-      },
-      "artists": [
-        {
-          "name": "Sara Groves",
-          "url": "https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7"
-        }
-      ],
-      "duration_ms": 229533,
-      "name": "Born to Love",
-      "url": "https://open.spotify.com/track/6uaXa66iQYahdrRKN3txNP"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "King of Love",
-        "url": "https://open.spotify.com/album/4MQY7rqK8vJK6wLiDuQb74"
-      },
-      "artists": [
-        {
-          "name": "Doug Mathis",
-          "url": "https://open.spotify.com/artist/3eYyzVjQv651odVDdtAfV9"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "King of Love",
-      "url": "https://open.spotify.com/track/5shWIh3eSLiACdpeN9zWJe"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Streams",
         "url": "https://open.spotify.com/album/561scYchLsHReTlfcPJxaH"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 393978,
       "name": "Streams",
       "url": "https://open.spotify.com/track/4TNqLqR26yumoTFs5ESCex"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "King of Love",
+        "url": "https://open.spotify.com/album/4MQY7rqK8vJK6wLiDuQb74"
+      },
+      "artists": [
+        {
+          "name": "Doug Mathis",
+          "url": "https://open.spotify.com/artist/3eYyzVjQv651odVDdtAfV9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "King of Love",
+      "url": "https://open.spotify.com/track/5shWIh3eSLiACdpeN9zWJe"
     },
     {
       "added_at": "2022-05-27 18:07:44",

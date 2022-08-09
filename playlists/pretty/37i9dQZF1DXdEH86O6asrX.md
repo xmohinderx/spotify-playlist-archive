@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,313 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,309 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 31 | [Hush](https://open.spotify.com/track/4aU82r5G2KTUh3HmPHCbM1) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/3VV3uHT9dEGPbgQJQRMAEy) | 4:24 |
 | 32 | [Down To The River To Pray](https://open.spotify.com/track/79x6uDDP9EAT5c35zOZhXv) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 2:55 |
 | 33 | [Journey Through the Past](https://open.spotify.com/track/73uAQw29X3mrO1taWZaOvm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Inherent Vice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LIMxY8oQG9c70DWKe0iHN) | 2:21 |
-| 34 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [Mykola Dmytrovych Leontovych](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
-| 35 | [Lebanese Blonde](https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [It Takes A Thief: The Very Best Of Thievery Corporation](https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC) | 4:49 |
+| 34 | [Lebanese Blonde](https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [It Takes A Thief: The Very Best Of Thievery Corporation](https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC) | 4:49 |
+| 35 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [Mykola Dmytrovych Leontovych](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
 | 36 | [I’m So Humble](https://open.spotify.com/track/39F08AoluLGQ9F1J2bO4Pn) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Popstar: Never Stop Never Stopping](https://open.spotify.com/album/07fcZXkBS0y4Y80GT60PZq) | 2:32 |
 | 37 | [Run Rudolph Run \- Single Version](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 |
 | 38 | [What's This?](https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:05 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 45 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 |
 | 46 | [Loved Ones and Leaving](https://open.spotify.com/track/31DXqy0L60lvzl37OMcEoA) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter And The Order Of The Phoenix \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5TEFNL3l7ELSJCq8tq4PNy) | 3:15 |
 | 47 | [Believe](https://open.spotify.com/track/2vJAjPkVMPKkR3xd2wacZa) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [The Polar Express \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk) | 4:18 |
-| 48 | [Reunion of Friends](https://open.spotify.com/track/0rpSIjKSmZ2SFO6vmLJpXl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 5:08 |
-| 49 | [Dimensions](https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Her \(Original Score\)](https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8) | 5:39 |
-| 50 | [Lo Boob Oscillator](https://open.spotify.com/track/5DILJYk31ZXENMY26k3br1) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Lo Boob Oscillator](https://open.spotify.com/album/5plHekIiphgTChKLttY5P4) | 6:36 |
+| 48 | [Dimensions](https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Her \(Original Score\)](https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8) | 5:39 |
+| 49 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 |
+| 50 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
 
-Snapshot ID: `MTY0OTcxODM1NSwwMDAwMDAwMDIzMmE0ZDZhNjczZDZkZTU1MWQ4ZWQwMjMxNjQ4MTgy`
+Snapshot ID: `MTY0OTcxODM1NSwwMDAwMDAwMDI1MzFiNjg5Y2Q2ZWFlNmZlZTFhOTBhMWFhOTExMjE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Saison
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,531 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,647 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 3 | [Drop It](https://open.spotify.com/track/0CyrNTcFLUqcEzO4jx1I6O) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Drop It](https://open.spotify.com/album/78miEQ02KsHuz0bRIjxzRA) | 3:12 |
 | 4 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 |
 | 5 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
-| 6 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:05 |
+| 6 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:05 |
 | 7 | [In & Out \(feat\. Modern Lover\)](https://open.spotify.com/track/624KQ6MFOrY8q1EOH6YGzf) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Modern Lover](https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35) | [In & Out \(feat\. Modern Lover\)](https://open.spotify.com/album/1zcftBmZHr5Xczlc361Eza) | 3:47 |
 | 8 | [Pan Jabi](https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Pan Jabi](https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G) | 2:47 |
 | 9 | [Que Lo Que](https://open.spotify.com/track/3tsULujkCT6HRxLqyhv9Uz) | [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Que Lo Que](https://open.spotify.com/album/7LjzvsJT0ImNudTh8SDaQE) | 3:46 |

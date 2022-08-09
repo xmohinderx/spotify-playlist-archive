@@ -1,12 +1,12 @@
 {
   "description": "Because once you were a hipster, and now you are an indie parent.",
-  "num_followers": 16062,
+  "num_followers": 16151,
   "original_name": "Raised on Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjE2NiwwMDAwMDAwMDZlNDUwZTlmYzkxOTA4MzdlZWFkMzA4MzI1MjU4NWQz",
+  "snapshot_id": "MTY0OTc5NjE2NiwwMDAwMDAwMDhkYmM4ODljOGU2OWQxZTJlNmIyMzFmMTc1NmZhY2Q2",
   "tracks": [
     {
       "added_at": "2022-01-10 20:54:40",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Young The Giant (Special Edition)",
-        "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Cough Syrup",
-      "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 290706,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Young The Giant (Special Edition)",
+        "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Cough Syrup",
+      "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu"
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 193106,
-      "name": "1901",
-      "url": "https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u"
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -823,6 +807,22 @@
       "duration_ms": 248640,
       "name": "I Don't Feel Like Dancin' - Radio Edit",
       "url": "https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Real Love Baby",
         "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "ocean eyes",
-      "url": "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Pacific Standard Time",
         "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 368783,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "ocean eyes",
+      "url": "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU"
     },
     {
       "added_at": "2022-01-10 20:54:40",

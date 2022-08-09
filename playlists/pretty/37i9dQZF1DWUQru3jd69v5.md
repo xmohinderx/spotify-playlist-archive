@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: Zefe
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,698 likes - 64 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,715 likes - 64 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 9 | [Minorè](https://open.spotify.com/track/7LlYj0RhsOxFY3prYoj9Y3) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Minorè](https://open.spotify.com/album/1qjHdrXzVMs4ielAd5IkIZ) | 2:26 |
 | 10 | [Possessivo](https://open.spotify.com/track/1StQ4CHZwKz54nXwZ1O3VM) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Possessivo](https://open.spotify.com/album/0m2q33Rwf9bgzJVIishvPN) | 2:35 |
 | 11 | [Benefit](https://open.spotify.com/track/5llcUAP6bmNBYEb3mssCqA) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Benefit](https://open.spotify.com/album/2QEXRSejARYPvcDfQmXENK) | 2:37 |
-| 12 | [MUJER](https://open.spotify.com/track/6MeRMkI1kS0glrxGxut60K) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6s3XBzC7ghTwGeEFEDJRzM) | 2:41 |
+| 12 | [MUJER](https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV) | 2:41 |
 | 13 | [Guérrilla](https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Guérrilla](https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe) | 2:25 |
 | 14 | [Freestyle](https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle](https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad) | 1:28 |
 | 15 | [Mh Ah Ah](https://open.spotify.com/track/6zbKIw7roanc3RdrWALwVx) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Mh Ah Ah](https://open.spotify.com/album/1zEEoBK5gEw6JoBlm6Y0sy) | 2:07 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 63 | [CHEESE N' RATS](https://open.spotify.com/track/5yRKjXbFbacXdYK2MeRRo1) | [Razer.Rah](https://open.spotify.com/artist/48N1AD5ggZAa5tq6br2mZb), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z) | [DA COAST ENERGY](https://open.spotify.com/album/5Q74Su1iDzTgVh4LxwZFfX) | 3:04 |
 | 64 | [King Lear \(feat\. Sosa Priority\)](https://open.spotify.com/track/3a0vrvEAGekzkhOOSThSXf) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sosa Priority](https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc) | [King Lear \(feat\. Sosa Priority\)](https://open.spotify.com/album/55W4E57GDqaj230a2TFqXP) | 2:31 |
 
-Snapshot ID: `MTY1OTY1MDQ2MCwwMDAwMDAwMGY1ZDQ1MjlkMjNiZGQ4MGExMDg3NDNjYmVhNTkxNWRi`
+Snapshot ID: `MTY1OTY1MDQ2MCwwMDAwMDAwMGE5MTc3NTI1MGU1YmFmMWQ5NGQzYTM2ZjAzZjA1NjRm`

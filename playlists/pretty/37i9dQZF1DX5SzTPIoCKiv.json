@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 538243,
+  "num_followers": 538322,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDI5NzQ1MywwMDAwMDAwMGU4ODI3MGQ3M2E3MGU4ZmJhMWY3OTJhYzkxMWRlZTUx",
+  "snapshot_id": "MTYzNDI5NzQ1MywwMDAwMDAwMDFhMzgwYzBhMWFmYTcxYWI3MWNiNzdlODBkZGE4NDQx",
   "tracks": [
     {
       "added_at": "2021-10-15 11:30:53",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 179366,
+      "name": "In The House",
+      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Waymaker (Radio Version)",
         "url": "https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk"
       },
@@ -387,38 +403,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Death Was Arrested (feat. Seth Condrey)",
-        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
+        "name": "My God Is Still The Same",
+        "url": "https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
         }
       ],
-      "duration_ms": 295306,
-      "name": "Death Was Arrested (feat. Seth Condrey)",
-      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 179366,
-      "name": "In The House",
-      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
+      "duration_ms": 205146,
+      "name": "My God Is Still The Same",
+      "url": "https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -439,18 +435,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Rescue Story",
-        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+        "name": "Death Was Arrested (feat. Seth Condrey)",
+        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
       },
       "artists": [
         {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
         }
       ],
-      "duration_ms": 237338,
-      "name": "Rescue Story",
-      "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -487,18 +487,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+        "name": "Rescue Story",
+        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
         }
       ],
-      "duration_ms": 256133,
-      "name": "House Of The Lord",
-      "url": "https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY"
+      "duration_ms": 237338,
+      "name": "Rescue Story",
+      "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -519,18 +519,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "My God Is Still The Same",
-        "url": "https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1"
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
       "artists": [
         {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 205146,
-      "name": "My God Is Still The Same",
-      "url": "https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue"
+      "duration_ms": 256133,
+      "name": "House Of The Lord",
+      "url": "https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Hymn Of Heaven",
-      "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Hymn Of Heaven",
+      "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Don't Lose Hope",
         "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 232379,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -803,6 +787,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "God So Loved",
+      "url": "https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "To Love a Fool",
         "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
       },
@@ -819,18 +819,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 265466,
-      "name": "God So Loved",
-      "url": "https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt"
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 276574,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 449253,
       "name": "Whole Heart (Hold Me Now) - Live",
       "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 276574,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Something Different (Deluxe Version)",
         "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 196846,
       "name": "For God Is With Us",
       "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
-      },
-      "artists": [
-        {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Thy Will",
-      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/5aHZnvy8EqhViyoJo971Wy"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/5LsV4IGh2PIaTlsNNFeBAE"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 203070,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/0MWxVd7Hk952psJoL249TT"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/5aHZnvy8EqhViyoJo971Wy"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 234677,
-      "name": "Into The Mystery",
-      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Never Lose Sight (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "God Is Good",
-        "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
       "artists": [
         {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 197800,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
+      "duration_ms": 234677,
+      "name": "Into The Mystery",
+      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1339,6 +1323,22 @@
       "duration_ms": 202480,
       "name": "I Will Fear No More",
       "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "God Is Good",
+        "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 210697,
+      "name": "Like You Love Me",
+      "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Over And Over",
         "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 210697,
-      "name": "Like You Love Me",
-      "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Made to Fly",
         "url": "https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 224910,
       "name": "Made to Fly",
       "url": "https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Mercy Is A Song",
-      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Same God",
-        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
       "artists": [
         {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 229480,
-      "name": "Same God",
-      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
+      "duration_ms": 225560,
+      "name": "Mercy Is A Song",
+      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1531,6 +1515,22 @@
       "duration_ms": 424373,
       "name": "Defender",
       "url": "https://open.spotify.com/track/3VHNtJNVPazkHGpeGgpoOd"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Same God",
+        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Same God",
+      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "I Know A Ghost",
         "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
@@ -1579,38 +1595,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/1oSlXZXXKv4yHkaLDvgFij"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 209965,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Hold Us Together (Hope Mix)",
         "url": "https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 278108,
       "name": "Hold Us Together - Hope Mix",
       "url": "https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/1oSlXZXXKv4yHkaLDvgFij"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 209965,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy"
     },
     {
       "added_at": "2021-10-15 11:30:53",

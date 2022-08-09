@@ -1,12 +1,12 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1171647,
+  "num_followers": 1171857,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwNzAxMCwwMDAwMDAwMGJhZjAxODNmM2I0YmI5OGU3MDQ2YTRkMzZmNDU5MGFi",
+  "snapshot_id": "MTY0MjUwNzAxMCwwMDAwMDAwMDU1OWY0ZTI5NDZlMjQ4MmM4MmM1MDFhMjZlZjE5NDBl",
   "tracks": [
     {
       "added_at": "2020-07-08 17:45:56",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "Heart Shaped World",
         "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 289066,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2020-07-08 17:45:56",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
-      },
-      "artists": [
-        {
-          "name": "F.R. David",
-          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "Words - Original Version 1983",
-      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
+      },
+      "artists": [
+        {
+          "name": "F.R. David",
+          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "Words - Original Version 1983",
+      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
     },
     {
       "added_at": "2020-07-08 17:45:56",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Hungry Heart",
-      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "The Very Best of Billy Ocean",
         "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 244426,
       "name": "Caribbean Queen (No More Love On the Run)",
       "url": "https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
     },
     {
       "added_at": "2020-07-08 17:45:56",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "The Essential Bangles",
-        "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 238026,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "Picture Book (Expanded Version)",
         "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 269840,
       "name": "Holding Back the Years - 2008 Remaster",
       "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "The Essential Bangles",
+        "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 238026,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi"
     },
     {
       "added_at": "2020-07-08 17:45:56",

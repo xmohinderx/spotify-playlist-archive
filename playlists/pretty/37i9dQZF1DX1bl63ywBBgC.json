@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 180491,
+  "num_followers": 180557,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNjEzMDA1OSwwMDAwMDAwMDk5NWIzZGJmZjRhNzk4MjkxYjg1Y2MwNjE2MmUxZWUx",
+  "snapshot_id": "MTYxNjEzMDA1OSwwMDAwMDAwMGZkMDBhMTkyMjNlZTRjYzBlMjhjZjYzNGYzYjhlZDNk",
   "tracks": [
     {
       "added_at": "2021-03-19 05:00:59",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "A Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Me Dediqu\u00e9 a Perderte",
-      "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
-    },
-    {
-      "added_at": "2021-03-19 05:00:59",
-      "album": {
         "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
@@ -59,18 +43,38 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 247640,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
+      "duration_ms": 231532,
+      "name": "Besos En Guerra",
+      "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
+    },
+    {
+      "added_at": "2021-03-19 05:00:59",
+      "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Me Dediqu\u00e9 a Perderte",
+      "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -95,22 +99,18 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 230280,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+      "duration_ms": 247640,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -131,18 +131,22 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "Ahora M\u00e1s Que Nunca",
-        "url": "https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk"
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
       "artists": [
         {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
         }
       ],
-      "duration_ms": 271766,
-      "name": "Virgen",
-      "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
+      "duration_ms": 230280,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -163,18 +167,18 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+        "name": "Ahora M\u00e1s Que Nunca",
+        "url": "https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+      "duration_ms": 271766,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -195,22 +199,18 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 231532,
-      "name": "Besos En Guerra",
-      "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -315,6 +315,22 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Dile al Amor",
+      "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
+    },
+    {
+      "added_at": "2021-03-19 05:00:59",
+      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
-    },
-    {
-      "added_at": "2021-03-19 05:00:59",
-      "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Dile al Amor",
-      "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "Soy el Mismo",
-        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Darte un Beso",
-      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
-    },
-    {
-      "added_at": "2021-03-19 05:00:59",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 205413,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2021-03-19 05:00:59",
+      "album": {
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
-    },
-    {
-      "added_at": "2021-03-19 05:00:59",
-      "album": {
         "name": "Euphoria (Standard US/Latin version)",
         "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 200346,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
+    },
+    {
+      "added_at": "2021-03-19 05:00:59",
+      "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -959,6 +959,22 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
+    },
+    {
+      "added_at": "2021-03-19 05:00:59",
+      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2021-03-19 05:00:59",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 217560,
       "name": "Volverte A Ver",
       "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
-    },
-    {
-      "added_at": "2021-03-19 05:00:59",
-      "album": {
-        "name": "\u00bfD\u00f3nde Nos Quedamos?",
-        "url": "https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 246387,
-      "name": "Perderme Contigo",
-      "url": "https://open.spotify.com/track/7mHFWWfVlhqGjeIQ5qt9i2"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+        "name": "\u00bfD\u00f3nde Nos Quedamos?",
+        "url": "https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
         }
       ],
-      "duration_ms": 221520,
-      "name": "Coraz\u00f3n En La Maleta",
-      "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
+      "duration_ms": 246387,
+      "name": "Perderme Contigo",
+      "url": "https://open.spotify.com/track/7mHFWWfVlhqGjeIQ5qt9i2"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Coraz\u00f3n En La Maleta",
+      "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
+    },
+    {
+      "added_at": "2021-03-19 05:00:59",
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 326478,
       "name": "Si Me Ves Llorar",
       "url": "https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq"
-    },
-    {
-      "added_at": "2021-03-19 05:00:59",
-      "album": {
-        "name": "Amores Dif\u00edciles",
-        "url": "https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P"
-      },
-      "artists": [
-        {
-          "name": "Cabas",
-          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
-        }
-      ],
-      "duration_ms": 237335,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
+        "name": "Amores Dif\u00edciles",
+        "url": "https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Cabas",
+          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
         }
       ],
-      "duration_ms": 204906,
-      "name": "Todos Me Miran",
-      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
+      "duration_ms": 237335,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -1151,6 +1135,22 @@
       "duration_ms": 307200,
       "name": "Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
+    },
+    {
+      "added_at": "2021-03-19 05:00:59",
+      "album": {
+        "name": "La Trayectoria",
+        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Todos Me Miran",
+      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
-    },
-    {
-      "added_at": "2021-03-19 05:00:59",
-      "album": {
         "name": "Lo Mato",
         "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 328786,
       "name": "El D\u00eda De Mi Suerte",
       "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
+    },
+    {
+      "added_at": "2021-03-19 05:00:59",
+      "album": {
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 207516,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
-    },
-    {
-      "added_at": "2021-03-19 05:00:59",
-      "album": {
         "name": "30 Aniversario (Edici\u00f3n Limitada)",
         "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 185880,
       "name": "A Donde Iras Ahora",
       "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
+    },
+    {
+      "added_at": "2021-03-19 05:00:59",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207516,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "Pafuera Telara\u00f1as",
-        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
       "artists": [
         {
-          "name": "Bebe",
-          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
+      "duration_ms": 409080,
+      "name": "Peri\u00f3dico De Ayer",
+      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
     },
     {
       "added_at": "2021-03-19 05:00:59",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2021-03-19 05:00:59",
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+        "name": "Pafuera Telara\u00f1as",
+        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Bebe",
+          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
         }
       ],
-      "duration_ms": 409080,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+      "duration_ms": 215800,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
     },
     {
       "added_at": "2021-03-19 05:00:59",

@@ -449,7 +449,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 262972,
       "name": "Boonda Baandi",
       "url": "https://open.spotify.com/track/1CwU0cJqshRIJ14YFAFytm"
@@ -1918,6 +1918,24 @@
     },
     {
       "album": {
+        "name": "Makhmal",
+        "url": "https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197462,
+      "name": "Makhmal",
+      "url": "https://open.spotify.com/track/46qCjuV2ydLZNdGxf2PSWB"
+    },
+    {
+      "album": {
         "name": "Makin' My Move",
         "url": "https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1"
       },
@@ -2799,7 +2817,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 174615,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3zMiWxjsnyByaxmPm7Irlf"
@@ -3137,6 +3155,28 @@
       "duration_ms": 242857,
       "name": "Yahan",
       "url": "https://open.spotify.com/track/4yq61v0vaI2MpifznBCpBh"
+    },
+    {
+      "album": {
+        "name": "Ye Teri Meri Kahani",
+        "url": "https://open.spotify.com/album/0iW00NWqfNMXBxfAfJ9TDg"
+      },
+      "artists": [
+        {
+          "name": "Keshuv Huria",
+          "url": "https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa"
+        },
+        {
+          "name": "Sumedha Karmahe",
+          "url": "https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201810,
+      "name": "Ye Teri Meri Kahani",
+      "url": "https://open.spotify.com/track/1IsMTMT8ASvZqApzGKkAG9"
     },
     {
       "album": {

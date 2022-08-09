@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Wilco, Yeah Yeah Yeahs, and The Mar\u00edas",
-  "num_followers": 95087,
+  "num_followers": 95100,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkzMzI4OSwwMDAwMDAwMGQ0ZDFkMjRlNmZiODkxMWUxOTIyZTNkZjE5ZGJmN2Ey",
+  "snapshot_id": "MTY1NTkzMzI4OSwwMDAwMDAwMDM3NjlkNTU3NWMzZjNiZDg3YWQ4NTU3OWQ2MTFlYTVi",
   "tracks": [
     {
       "added_at": "2022-03-30 13:22:18",
@@ -156,22 +156,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 206079,
-      "name": "Motivation - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
       },
       "artists": [
@@ -183,6 +167,22 @@
       "duration_ms": 154764,
       "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 206079,
+      "name": "Motivation - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -384,22 +384,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 261337,
-      "name": "Goodpain - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1ykyMoNbNq1oBjyDxlVeAY"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6"
       },
       "artists": [
@@ -416,17 +400,17 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
+        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
       },
       "artists": [
         {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
         }
       ],
-      "duration_ms": 237693,
-      "name": "Walking On A Dream - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5VxhB7hzV7rAR8YSjYPL8c"
+      "duration_ms": 261337,
+      "name": "Goodpain - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1ykyMoNbNq1oBjyDxlVeAY"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -448,17 +432,17 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
+        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
       },
       "artists": [
         {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
         }
       ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6"
+      "duration_ms": 237693,
+      "name": "Walking On A Dream - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5VxhB7hzV7rAR8YSjYPL8c"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -475,6 +459,22 @@
       "duration_ms": 228586,
       "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -688,22 +688,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 304845,
-      "name": "Don't Look Back in Anger - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X"
       },
       "artists": [
@@ -715,6 +699,22 @@
       "duration_ms": 239487,
       "name": "Don\u2019t You (Forget About Me) - live from Abbey Road Studios, London",
       "url": "https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 304845,
+      "name": "Don't Look Back in Anger - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -896,22 +896,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 248743,
-      "name": "The walker \u2013 Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
       },
       "artists": [
@@ -923,22 +907,6 @@
       "duration_ms": 314762,
       "name": "Salt And The Sea - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/13ohpzdtJcFgRyxLLQ1ftY"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 251498,
-      "name": "Stayaway - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -960,6 +928,38 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 251498,
+      "name": "Stayaway - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 248743,
+      "name": "The walker \u2013 Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn"
       },
       "artists": [
@@ -976,22 +976,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07jKdMs5gxb6sl1iWTVWwM"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 207642,
-      "name": "Turn - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/1c9Kzty5YdO84q009wXcVH"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
       },
       "artists": [
@@ -1003,6 +987,22 @@
       "duration_ms": 214410,
       "name": "Lay It on Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07jKdMs5gxb6sl1iWTVWwM"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 207642,
+      "name": "Turn - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/1c9Kzty5YdO84q009wXcVH"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-03-30 13:22:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 171821,
-      "name": "Medicine - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/1A3NiaB0GaoMEknklRTuX9"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/2fDaqqrHSc4gfy8sAu8MXg"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 259063,
       "name": "Water - Jim Eno Sessions",
       "url": "https://open.spotify.com/track/2wufv9jAZvrEVq5vTyTril"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 171821,
+      "name": "Medicine - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/1A3NiaB0GaoMEknklRTuX9"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1456,22 +1456,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY"
-      },
-      "artists": [
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
-        }
-      ],
-      "duration_ms": 237617,
-      "name": "Bike Dream - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN"
       },
       "artists": [
@@ -1483,6 +1467,22 @@
       "duration_ms": 363259,
       "name": "Why Did You Run? - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/3oJRLetXV9sNjdT3zrHHDm"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        }
+      ],
+      "duration_ms": 237617,
+      "name": "Bike Dream - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1828,22 +1828,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1iCPl6KTM3OyL2rHgWorNH"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 175573,
-      "name": "Shades of Blue - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5Js2KuiUtuv5o9eu5hy5s1"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
       },
       "artists": [
@@ -1855,6 +1839,22 @@
       "duration_ms": 225090,
       "name": "Welcome to Your Life - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2cN7H31DES22HCjYitKggF"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1iCPl6KTM3OyL2rHgWorNH"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 175573,
+      "name": "Shades of Blue - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5Js2KuiUtuv5o9eu5hy5s1"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2022-03-30 13:22:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3D2gqS23LPeDSxof0n1ibZ"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
       },
       "artists": [
         {
-          "name": "Tune-Yards",
-          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
         }
       ],
-      "duration_ms": 259048,
-      "name": "ABC 123 - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/52h3IRFSQB1phrAuvSEPhg"
+      "duration_ms": 199575,
+      "name": "Genghis Khan - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2022-03-30 13:22:18",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3D2gqS23LPeDSxof0n1ibZ"
       },
       "artists": [
         {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
         }
       ],
-      "duration_ms": 199575,
-      "name": "Genghis Khan - Jim Eno Sessions",
-      "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
+      "duration_ms": 259048,
+      "name": "ABC 123 - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/52h3IRFSQB1phrAuvSEPhg"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2022-03-30 13:22:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2HY1zxQvBup7go6hEWYl31"
+        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
+        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
       },
       "artists": [
         {
-          "name": "Frank Carter & The Rattlesnakes",
-          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
         }
       ],
-      "duration_ms": 171288,
-      "name": "Wild Flowers - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7APIPUsbonOjGBUhuNXqM0"
+      "duration_ms": 164427,
+      "name": "One More Time - Recorded At Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/1FpKPMzqIltTIcJHPcbgAR"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2022-03-30 13:22:18",
       "album": {
-        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
-        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2HY1zxQvBup7go6hEWYl31"
       },
       "artists": [
         {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
         }
       ],
-      "duration_ms": 164427,
-      "name": "One More Time - Recorded At Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/1FpKPMzqIltTIcJHPcbgAR"
+      "duration_ms": 171288,
+      "name": "Wild Flowers - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7APIPUsbonOjGBUhuNXqM0"
     }
   ],
   "unique_name": "Spotify Singles: Indie & Alternative",

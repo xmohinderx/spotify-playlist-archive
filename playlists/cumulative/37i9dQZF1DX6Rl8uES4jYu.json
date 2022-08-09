@@ -270,6 +270,28 @@
     },
     {
       "album": {
+        "name": "All She Wanna Do",
+        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195715,
+      "name": "All She Wanna Do (with Saweetie)",
+      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/55T6adDVIBHPel2i9Ei5to"
       },
@@ -621,6 +643,24 @@
       "duration_ms": 205386,
       "name": "Baggy Eyed Dopeman - Single Version",
       "url": "https://open.spotify.com/track/3i5u45WGb6LGRdwzSiEeGN"
+    },
+    {
+      "album": {
+        "name": "Beach House",
+        "url": "https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150004,
+      "name": "Beach House",
+      "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
     },
     {
       "album": {
@@ -1291,7 +1331,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 200843,
       "name": "Devotion - Shakur Ahmad Remix",
       "url": "https://open.spotify.com/track/6wKmElTGYNVPTJ9AE9lqxe"
@@ -3198,6 +3238,24 @@
     },
     {
       "album": {
+        "name": "MY BEST!",
+        "url": "https://open.spotify.com/album/1bhFAysJcmTSSTItooIW0M"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hawley",
+          "url": "https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199158,
+      "name": "MY BEST!",
+      "url": "https://open.spotify.com/track/7LTAVYf8CmgGqaI1ynOSbg"
+    },
+    {
+      "album": {
         "name": "My Shade My Color",
         "url": "https://open.spotify.com/album/705VoW6yvKnTtuAcpVDxqB"
       },
@@ -4021,7 +4079,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 166363,
       "name": "Sacred Place",
       "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
@@ -4837,7 +4895,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 115954,
       "name": "Thank You Master (For My Soul)",
       "url": "https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx"

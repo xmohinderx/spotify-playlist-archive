@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "15 Again",
+        "url": "https://open.spotify.com/album/0ERg12fJXEAe5uVfs6wXzu"
+      },
+      "artists": [
+        {
+          "name": "The London Suede",
+          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "15 Again",
+      "url": "https://open.spotify.com/track/0VY3xLQo9sXjhIaLrVdIAt"
+    },
+    {
+      "album": {
         "name": "Ain't Nobody's Baby",
         "url": "https://open.spotify.com/album/35MQYWJLe9qhbgTIWGqsGJ"
       },
@@ -265,7 +283,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 136011,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
@@ -843,6 +861,28 @@
       "duration_ms": 199506,
       "name": "heart won't let me",
       "url": "https://open.spotify.com/track/2IY537C2ecmUMJ46bYQggp"
+    },
+    {
+      "album": {
+        "name": "Never Look Back (Deluxe)",
+        "url": "https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192415,
+      "name": "Here In Your Bedroom (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/0eOKxLySILR9x85cknejae"
     },
     {
       "album": {
@@ -1665,7 +1705,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 186453,
       "name": "She's So Gone",
       "url": "https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF"
@@ -1749,7 +1789,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 162516,
       "name": "SKIN OF MY TEETH",
       "url": "https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K"
@@ -2120,6 +2160,24 @@
     },
     {
       "album": {
+        "name": "The Emperor",
+        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175150,
+      "name": "The Emperor",
+      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
+    },
+    {
+      "album": {
         "name": "the idea",
         "url": "https://open.spotify.com/album/529HyBH38pXm03KrwyI0At"
       },
@@ -2171,6 +2229,28 @@
       "duration_ms": 184130,
       "name": "this is growing up",
       "url": "https://open.spotify.com/track/7svLJ45Nbmhpa1MbVFyZ70"
+    },
+    {
+      "album": {
+        "name": "toxic energy",
+        "url": "https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191559,
+      "name": "toxic energy (with The Used)",
+      "url": "https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ"
     },
     {
       "album": {
@@ -2419,7 +2499,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 231653,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"

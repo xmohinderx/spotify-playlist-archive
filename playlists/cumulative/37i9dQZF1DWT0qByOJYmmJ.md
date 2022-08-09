@@ -4,7 +4,7 @@
 
 > Tristeza independiente para aquellos días de bajón.
 
-157 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/68BoYlWo5lHOskfBYhYm3g)
+158 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/68BoYlWo5lHOskfBYhYm3g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-05-27 |  |
 | [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 | 2022-05-27 | 2022-07-05 |
 | [Brillantina](https://open.spotify.com/track/4v6tiK5QAtR3RhxgxUI19P) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Brillantina](https://open.spotify.com/album/797HqO926EXG0nBr9mi6jU) | 3:44 | 2022-05-27 | 2022-07-28 |
+| [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 | 2022-08-05 |  |
 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 | 2022-05-27 | 2022-07-29 |
 | [Café De Las Ocho](https://open.spotify.com/track/6XpmMP3AzxZjI81e9apesl) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Café De Las Ocho](https://open.spotify.com/album/77KVG02WxFMY9I3KI10dag) | 3:55 | 2022-05-27 | 2022-07-29 |
 | [café de las ocho](https://open.spotify.com/track/75HRhHdxSupU4JdnaLZtq8) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:55 | 2022-07-11 |  |
@@ -152,7 +153,7 @@
 | [Te Regalo](https://open.spotify.com/track/5ErcCfdGMmeqT2DCMCE4pB) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Te Regalo](https://open.spotify.com/album/0KpR2Ay6egxk0oMg3zGVZQ) | 4:02 | 2022-05-27 | 2022-07-29 |
 | [Tercera Noche](https://open.spotify.com/track/0DPpsXoijB0H7OVsxx9Vqt) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tercera Noche](https://open.spotify.com/album/4KPbW9CjDYzEYJCTJ3oCAB) | 2:55 | 2022-05-27 |  |
 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 | 2022-05-27 |  |
-| [Tqm](https://open.spotify.com/track/1vLoNyIDBKikOd8jNMAEOs) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr) | [Tqm](https://open.spotify.com/album/46iWmNM0KiEGVCR1crEO6Q) | 3:36 | 2022-05-27 |  |
+| [Tqm](https://open.spotify.com/track/1vLoNyIDBKikOd8jNMAEOs) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr) | [Tqm](https://open.spotify.com/album/46iWmNM0KiEGVCR1crEO6Q) | 3:36 | 2022-05-27 | 2022-08-09 |
 | [TRELLAS](https://open.spotify.com/track/09WAnxdBuebQopKhJT3oZS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:37 | 2022-05-27 |  |
 | [Tristes Ojos](https://open.spotify.com/track/5u2aTEHA6pMR6ZmlGd5ag0) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [La Segunda Luz del Día](https://open.spotify.com/album/1apLLy8uLP3jrQWqWA83ex) | 3:19 | 2022-07-11 | 2022-07-16 |
 | [Tristes Ojos](https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [La Segunda Luz del Día](https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd) | 3:19 | 2022-07-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 136390,
+  "num_followers": 136445,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMGZhMGYxMTg1NTQ1YzgyNDM2YTM5YmFiNWYwYjhkMWVm",
+  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMDk0OTFjYjJiOGQyY2RlMzhiYTFhM2IzZGM0ZGM0ZTIz",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Oh, Pretty Woman",
         "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 160280,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Twist And Shout - Remastered 2009",
-      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -587,22 +571,6 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -623,6 +591,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "A Hard Day's Night (Remastered)",
         "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 154200,
       "name": "A Hard Day's Night - Remastered 2009",
       "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Seekers",
+        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
+      },
+      "artists": [
+        {
+          "name": "The Seekers",
+          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Lesley Gore Sings Of Mixed-Up Hearts",
         "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 167160,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Seekers",
-        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
-      },
-      "artists": [
-        {
-          "name": "The Seekers",
-          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "My Kind Of Broadway",
-        "url": "https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 314133,
-      "name": "Luck Be A Lady",
-      "url": "https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "New Gold Hits",
         "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 170626,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "My Kind Of Broadway",
+        "url": "https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 314133,
+      "name": "Luck Be A Lady",
+      "url": "https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Dimension Dolls",
-        "url": "https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9"
-      },
-      "artists": [
-        {
-          "name": "Little Eva",
-          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
-        }
-      ],
-      "duration_ms": 148626,
-      "name": "The Loco-Motion - Single Version",
-      "url": "https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
       "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Dimension Dolls",
+        "url": "https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "duration_ms": 148626,
+      "name": "The Loco-Motion - Single Version",
+      "url": "https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau"
     },
     {
       "added_at": "2022-06-16 22:02:00",

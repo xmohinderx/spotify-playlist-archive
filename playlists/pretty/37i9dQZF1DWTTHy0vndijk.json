@@ -1,12 +1,12 @@
 {
   "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: \bYENA(\ucd5c\uc608\ub098) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 463900,
+  "num_followers": 464188,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUxNzg0NCwwMDAwMDAwMDg1MzkyNGJlN2U5NjNhYjdlNDI2NGM5MGQyOWI3ZWYz",
+  "snapshot_id": "MTY1OTUxNzg0NCwwMDAwMDAwMGJkZmFiMzU4YjI2NzY4OWY4ZGVkMjQxMzQ5MzM5MjA0",
   "tracks": [
     {
       "added_at": "2022-08-03 09:10:44",
@@ -223,6 +223,26 @@
     {
       "added_at": "2022-08-03 09:10:44",
       "album": {
+        "name": "\u02e3\u203f\u02e3 (SMiLEY)",
+        "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 173413,
+      "name": "SMILEY(Feat. BIBI)",
+      "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
+    },
+    {
+      "added_at": "2022-08-03 09:10:44",
+      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 181760,
       "name": "Queendom",
       "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
-    },
-    {
-      "added_at": "2022-08-03 09:10:44",
-      "album": {
-        "name": "\u02e3\u203f\u02e3 (SMiLEY)",
-        "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 173413,
-      "name": "SMILEY(Feat. BIBI)",
-      "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
     },
     {
       "added_at": "2022-08-03 09:10:44",
@@ -355,38 +355,6 @@
     {
       "added_at": "2022-08-03 09:10:44",
       "album": {
-        "name": "Taste of Love",
-        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 210573,
-      "name": "Alcohol-Free",
-      "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
-    },
-    {
-      "added_at": "2022-08-03 09:10:44",
-      "album": {
-        "name": "Russian Roulette - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 211243,
-      "name": "\ub7ec\uc2dc\uc548 \ub8f0\ub81b Russian Roulette",
-      "url": "https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT"
-    },
-    {
-      "added_at": "2022-08-03 09:10:44",
-      "album": {
         "name": "Hello - Special Album",
         "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
       },
@@ -419,6 +387,38 @@
     {
       "added_at": "2022-08-03 09:10:44",
       "album": {
+        "name": "Russian Roulette - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 211243,
+      "name": "\ub7ec\uc2dc\uc548 \ub8f0\ub81b Russian Roulette",
+      "url": "https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT"
+    },
+    {
+      "added_at": "2022-08-03 09:10:44",
+      "album": {
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 210573,
+      "name": "Alcohol-Free",
+      "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
+    },
+    {
+      "added_at": "2022-08-03 09:10:44",
+      "album": {
         "name": "BLOOM*IZ",
         "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 217760,
       "name": "FIESTA",
       "url": "https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA"
-    },
-    {
-      "added_at": "2022-08-03 09:10:44",
-      "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "SCIENTIST",
-      "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
     },
     {
       "added_at": "2022-08-03 09:10:44",
@@ -483,22 +467,6 @@
     {
       "added_at": "2022-08-03 09:10:44",
       "album": {
-        "name": "The Red Summer - Summer Mini Album",
-        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 191139,
-      "name": "Red Flavor",
-      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
-    },
-    {
-      "added_at": "2022-08-03 09:10:44",
-      "album": {
         "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
         "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
       },
@@ -527,22 +495,6 @@
       "duration_ms": 147240,
       "name": "DUMB DUMB",
       "url": "https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x"
-    },
-    {
-      "added_at": "2022-08-03 09:10:44",
-      "album": {
-        "name": "YES or YES",
-        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "YES or YES",
-      "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
     },
     {
       "added_at": "2022-08-03 09:10:44",
@@ -595,6 +547,38 @@
     {
       "added_at": "2022-08-03 09:10:44",
       "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "SCIENTIST",
+      "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
+    },
+    {
+      "added_at": "2022-08-03 09:10:44",
+      "album": {
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 191139,
+      "name": "Red Flavor",
+      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
+    },
+    {
+      "added_at": "2022-08-03 09:10:44",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy"
       },
@@ -643,22 +627,6 @@
     {
       "added_at": "2022-08-03 09:10:44",
       "album": {
-        "name": "UNNATURAL",
-        "url": "https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "UNNATURAL",
-      "url": "https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt"
-    },
-    {
-      "added_at": "2022-08-03 09:10:44",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
       },
@@ -671,6 +639,38 @@
       "duration_ms": 197701,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE"
+    },
+    {
+      "added_at": "2022-08-03 09:10:44",
+      "album": {
+        "name": "YES or YES",
+        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "YES or YES",
+      "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
+    },
+    {
+      "added_at": "2022-08-03 09:10:44",
+      "album": {
+        "name": "UNNATURAL",
+        "url": "https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "UNNATURAL",
+      "url": "https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt"
     },
     {
       "added_at": "2022-08-03 09:10:44",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-08-03 09:10:44",
       "album": {
-        "name": "GFRIEND The 1st Album 'LOL'",
-        "url": "https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 193579,
-      "name": "NAVILLERA",
-      "url": "https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv"
-    },
-    {
-      "added_at": "2022-08-03 09:10:44",
-      "album": {
         "name": "As You Wish",
         "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2022-08-03 09:10:44",
       "album": {
-        "name": "Girls Planet 999 - O.O.O (Over&Over&Over)",
-        "url": "https://open.spotify.com/album/2IZkygDdvEokN7CCSjrck6"
+        "name": "GFRIEND The 1st Album 'LOL'",
+        "url": "https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg"
       },
       "artists": [
         {
-          "name": "Girls Planet 999",
-          "url": "https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W"
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
         }
       ],
-      "duration_ms": 247360,
-      "name": "O.O.O (Over&Over&Over)",
-      "url": "https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re"
+      "duration_ms": 193579,
+      "name": "NAVILLERA",
+      "url": "https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv"
     },
     {
       "added_at": "2022-08-03 09:10:44",
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-08-03 09:10:44",
       "album": {
-        "name": "Pink Blossom",
-        "url": "https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o"
+        "name": "Girls Planet 999 - O.O.O (Over&Over&Over)",
+        "url": "https://open.spotify.com/album/2IZkygDdvEokN7CCSjrck6"
       },
       "artists": [
         {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+          "name": "Girls Planet 999",
+          "url": "https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W"
         }
       ],
-      "duration_ms": 214750,
-      "name": "Mr. Chu",
-      "url": "https://open.spotify.com/track/6fT9eZYgSvhu9v8wzrZkdG"
+      "duration_ms": 247360,
+      "name": "O.O.O (Over&Over&Over)",
+      "url": "https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re"
     },
     {
       "added_at": "2022-08-03 09:10:44",
@@ -915,18 +899,34 @@
     {
       "added_at": "2022-08-03 09:10:44",
       "album": {
-        "name": "GFRIEND The 2nd Album 'Time for us'",
-        "url": "https://open.spotify.com/album/7jxp9UaF0Hmtmr6zuacjoO"
+        "name": "Pink Blossom",
+        "url": "https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o"
       },
       "artists": [
         {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
         }
       ],
-      "duration_ms": 216488,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1e7eOq89QU6vGYCJp9yW2L"
+      "duration_ms": 214750,
+      "name": "Mr. Chu",
+      "url": "https://open.spotify.com/track/6fT9eZYgSvhu9v8wzrZkdG"
+    },
+    {
+      "added_at": "2022-08-03 09:10:44",
+      "album": {
+        "name": "Summer Queen",
+        "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Chi Mat Ba Ram",
+      "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
     }
   ],
   "unique_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",

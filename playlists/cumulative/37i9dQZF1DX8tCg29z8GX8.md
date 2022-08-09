@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-83 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/58LDkLtnAZW2SWAYqFauit)
+84 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/58LDkLtnAZW2SWAYqFauit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Little \(Love I Love\)](https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:31 | 2022-06-23 |  |
 | [Lokoto Riddim](https://open.spotify.com/track/7eJFM6oO1wWj3K3XsTtBV9) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Lokoto Riddim](https://open.spotify.com/album/0nMh9jzd86LakvmyHwkUjY) | 3:07 | 2022-06-30 | 2022-08-07 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-06-09 |  |
+| [Machala](https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I) | 2:34 | 2022-08-08 |  |
 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 | 2022-06-09 |  |
 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 | 2022-06-09 |  |
 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 | 2022-06-09 |  |
@@ -71,7 +72,7 @@
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 |  |
 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 | 2022-07-28 |  |
 | [Red Gold and Green](https://open.spotify.com/track/4EHZqxkgwhhJYkSHKrf5Eq) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Damian 'Jr\. Gong' Marley](https://open.spotify.com/artist/5BCplet0tYrSaala0WrEmN) | [Red Gold and Green](https://open.spotify.com/album/53tx7b7xj9qklpnw8AbT5x) | 3:49 | 2022-07-22 |  |
-| [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/album/4kQjfos3CoetMeTYxZoGxe) | 3:23 | 2022-06-09 |  |
+| [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/album/4kQjfos3CoetMeTYxZoGxe) | 3:23 | 2022-06-09 | 2022-08-09 |
 | [S3k3](https://open.spotify.com/track/29FGO8Iej8cr7R6WdoPDG7) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [S3k3](https://open.spotify.com/album/7JjgRBz9e6A2wLPTcjQVYn) | 2:32 | 2022-06-09 |  |
 | [Say You Bad \(Remix\)](https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Say You Bad \(Remix\)](https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ) | 3:24 | 2022-07-07 |  |
 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2022-06-09 |  |

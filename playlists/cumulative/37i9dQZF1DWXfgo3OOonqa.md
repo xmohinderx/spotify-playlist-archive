@@ -508,7 +508,7 @@
 | [Young 22](https://open.spotify.com/track/3e5A5YzIZ8RqieoVYkJHbD) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Young 22](https://open.spotify.com/album/6Luyszm1YWHAhptPEynPgt) | 2:30 | 2022-01-20 | 2022-04-15 |
 | [YSL](https://open.spotify.com/track/24eYDhsJKJXf0KS3z2uYkX) | [Ozzy](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [YSL](https://open.spotify.com/album/1fDZ5ZSpl2V4u9vXAfDQGB) | 3:11 | 2022-05-12 | 2022-07-08 |
 | [Zoo](https://open.spotify.com/track/7tuPdKiqInoAO6LJ0rN5YQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Zoo](https://open.spotify.com/album/3Yo9TFSeGrUPaXqEo81P2l) | 2:22 | 2022-03-24 | 2022-04-22 |
-| [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 | 2022-08-05 |  |
+| [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 | 2022-08-05 |  |
 | [Ängel](https://open.spotify.com/track/1dQhhmvIBkiLUlcyABE5OZ) | [SEEY](https://open.spotify.com/artist/6lrja2wwYPKdLR1jNP9xyI) | [Ängel](https://open.spotify.com/album/616mjtw8nEIon8hxSt6tzV) | 2:04 | 2022-06-02 | 2022-06-10 |
 | [ÅSKAN](https://open.spotify.com/track/4khoHMcdF6vOB2AOHSMD5m) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [ÅSKAN](https://open.spotify.com/album/7sg6Iv0G5Xj4VjUUaSbm7t) | 2:53 | 2021-12-16 | 2022-02-11 |
 

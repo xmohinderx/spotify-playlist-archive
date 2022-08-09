@@ -326,6 +326,24 @@
     },
     {
       "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428800,
+      "name": "Ja Funmi",
+      "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
+    },
+    {
+      "album": {
         "name": "Big Sound",
         "url": "https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV"
       },
@@ -543,7 +561,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 199600,
       "name": "Pennywhistle",
       "url": "https://open.spotify.com/track/31TjeXsbZmwBbJqhwn6YG7"

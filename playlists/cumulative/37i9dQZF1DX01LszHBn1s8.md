@@ -4,7 +4,7 @@
 
 > got that summertime sadness..\. 😔☀️🍉
 
-593 songs - 1 day 7 hr 37 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+594 songs - 1 day 7 hr 40 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-05-19 | 2022-07-29 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4) | 2:33 | 2022-05-19 |  |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-09 |  |
+| [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-08-08 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-15 |  |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-05-19 |  |
 | [go \- Higher & Faster](https://open.spotify.com/track/3KQfm7tt72I1Bv0umREOvi) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go \(Higher & Faster\)](https://open.spotify.com/album/4AYcD9XP7uY260D49LoQU6) | 2:51 | 2022-05-24 |  |
@@ -388,7 +389,7 @@
 | [Nintendo](https://open.spotify.com/track/0YHYHb9Rg3IebHaPiU5JAG) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU), [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i) | [Nintendo](https://open.spotify.com/album/4F7uRi2BAlFFxGgZo6bWVi) | 2:44 | 2022-05-19 |  |
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2022-05-19 |  |
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2022-05-24 |  |
-| [Nobody Like U](https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 2:40 | 2022-05-19 |  |
+| [Nobody Like U](https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 2:40 | 2022-05-19 |  |
 | [Not a Home](https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Not a Home](https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr) | 2:49 | 2022-05-19 |  |
 | [not a home](https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [not a home](https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln) | 2:49 | 2022-05-19 | 2022-07-29 |
 | [Not Into You](https://open.spotify.com/track/1eFYbcVZBTKcE0iFIYU5qk) | [Brooksie](https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO) | [Not Into You](https://open.spotify.com/album/5JG9GZ1BSc223HhQAAHbCX) | 2:37 | 2022-05-19 |  |

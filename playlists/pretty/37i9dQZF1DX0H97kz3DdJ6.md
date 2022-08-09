@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,354 likes - 74 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,407 likes - 74 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [E Se Eu Falasse o Que Sinto?](https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [ZIMA](https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf) | 3:36 |
-| 2 | [A Prova de Balas](https://open.spotify.com/track/51ExA7wFlYA4ejNtj7t7s1) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Atemporal](https://open.spotify.com/album/1K5ADNs9IfARnZWHJyuB7R) | 2:30 |
-| 3 | [Eu Sou um Fracasso](https://open.spotify.com/track/58hVOSkdd1jY6oVGcGkC60) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Eu Sou um Fracasso](https://open.spotify.com/album/3TFbaz1pFem6T3IdceMRRZ) | 2:31 |
-| 4 | [Eu Tô Bem](https://open.spotify.com/track/5HR0ti4siqbTIr1BitbZ7d) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Eu Tô Bem](https://open.spotify.com/album/4uoVTixtQcytRqPUZ0qBKE) | 2:14 |
-| 5 | [Cinza e Preto](https://open.spotify.com/track/4mJ4xwuj2fC03WT32ET8O5) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Cinza e Preto](https://open.spotify.com/album/3pI5nKUspP8UIsc8rY0a9K) | 2:36 |
-| 6 | [Diário de um Ex\-Amor](https://open.spotify.com/track/76JTOcSuSbj0ZeAqIVnl56) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Kayno](https://open.spotify.com/artist/1HwPQ8sTeEufVDCt2XfLlb), [Firee](https://open.spotify.com/artist/6hlcifXN2YLzpRIg8wvJIP) | [Diário de um Ex\-Amor](https://open.spotify.com/album/5GXgV5Ub8lKMAMRz8Ggd9E) | 2:20 |
+| 1 | [A Prova de Balas](https://open.spotify.com/track/51ExA7wFlYA4ejNtj7t7s1) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Atemporal](https://open.spotify.com/album/1K5ADNs9IfARnZWHJyuB7R) | 2:30 |
+| 2 | [Eu Sou um Fracasso](https://open.spotify.com/track/58hVOSkdd1jY6oVGcGkC60) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Eu Sou um Fracasso](https://open.spotify.com/album/3TFbaz1pFem6T3IdceMRRZ) | 2:31 |
+| 3 | [Eu Tô Bem](https://open.spotify.com/track/5HR0ti4siqbTIr1BitbZ7d) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Eu Tô Bem](https://open.spotify.com/album/4uoVTixtQcytRqPUZ0qBKE) | 2:14 |
+| 4 | [E Se Eu Falasse o Que Sinto?](https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [ZIMA](https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf) | 3:36 |
+| 5 | [Diário de um Ex\-Amor](https://open.spotify.com/track/76JTOcSuSbj0ZeAqIVnl56) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Kayno](https://open.spotify.com/artist/1HwPQ8sTeEufVDCt2XfLlb), [Firee](https://open.spotify.com/artist/6hlcifXN2YLzpRIg8wvJIP) | [Diário de um Ex\-Amor](https://open.spotify.com/album/5GXgV5Ub8lKMAMRz8Ggd9E) | 2:20 |
+| 6 | [Cinza e Preto](https://open.spotify.com/track/4mJ4xwuj2fC03WT32ET8O5) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Cinza e Preto](https://open.spotify.com/album/3pI5nKUspP8UIsc8rY0a9K) | 2:36 |
 | 7 | [Me Sinto Feio](https://open.spotify.com/track/3gNq7VguwQLV4Xfj5HDAi3) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Me Sinto Feio](https://open.spotify.com/album/2YtiZtDUwFhK84M5RVW6gj) | 3:09 |
 | 8 | [Solitário Vampiro](https://open.spotify.com/track/6fOvrxj71Ca9o3lxdzLDCb) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Solitário Vampiro](https://open.spotify.com/album/72wrW8pvGiNe0tHy3SjNn9) | 4:52 |
-| 9 | [História de Criança](https://open.spotify.com/track/0cq8MDW1cDoCFUah8J9dzZ) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [História de Criança](https://open.spotify.com/album/4XTrNXx57PEHtRvQG9Zk3J) | 2:00 |
+| 9 | [MERCEDES](https://open.spotify.com/track/0cq8MDW1cDoCFUah8J9dzZ) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [MERCEDES](https://open.spotify.com/album/4XTrNXx57PEHtRvQG9Zk3J) | 2:00 |
 | 10 | [cansei de falar de amor](https://open.spotify.com/track/4hUyApGomeztSlvXijsI6P) | [gaefi](https://open.spotify.com/artist/2fNMhstQezqzVqfpZEHW5M) | [cansei de falar de amor](https://open.spotify.com/album/7ydUr2inEknqfGGk5s26sL) | 3:16 |
 | 11 | [Fica Mais um Pouco \- Speed](https://open.spotify.com/track/60pOKtx48FsYVKii0pG0bL) | [Fuji](https://open.spotify.com/artist/2hRHTgxBeovtixZArRGiY1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Fica Mais um Pouco \(Speed\)](https://open.spotify.com/album/60RIdS7LLMXgpeq9MXcZGD) | 1:36 |
 | 12 | [Fragmentado](https://open.spotify.com/track/2rq3atuTm26XTjbnTDWtti) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Fragmentado](https://open.spotify.com/album/0fOi6D7J5ySn7S3NbB3SQN) | 2:00 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 73 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 |
 | 74 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 |
 
-Snapshot ID: `MTY1OTA2MzYwMCwwMDAwMDAwMGYyMzA0YjAwNmFjZGUwZThjYjExNGEwNWE1Njk3ZmU3`
+Snapshot ID: `MTY1OTk3NjIyMywwMDAwMDAwMDc4NWMzMjM5YjZlYjU1YzRiZmMxNGYwYTQ3MWUxYjUx`

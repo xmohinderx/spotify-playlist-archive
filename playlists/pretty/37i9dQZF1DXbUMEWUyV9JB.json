@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Sof\u00eda Reyes, Los Angeles Azules, Esteman",
-  "num_followers": 223754,
+  "num_followers": 223820,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwMDYwNCwwMDAwMDAwMDdmODg5MTUwN2YxOGY5OTBlMWNkM2JmMDc3NmNjZTE0",
+  "snapshot_id": "MTY1MTIwMDYwNCwwMDAwMDAwMGJjN2M2Zjc2M2U4YjZmYjAyY2RlMWQ4NzFhNzkzMDQ1",
   "tracks": [
     {
       "added_at": "2022-04-29 02:50:04",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-04-29 02:50:04",
       "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+    },
+    {
+      "added_at": "2022-04-29 02:50:04",
+      "album": {
         "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
         "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 238236,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
-    },
-    {
-      "added_at": "2022-04-29 02:50:04",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2022-04-29 02:50:04",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-04-29 02:50:04",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+    },
+    {
+      "added_at": "2022-04-29 02:50:04",
+      "album": {
         "name": "Pasi\u00f3n Y Cumbia",
         "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
@@ -255,38 +271,6 @@
     {
       "added_at": "2022-04-29 02:50:04",
       "album": {
-        "name": "No Me Llames Mas",
-        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 267415,
-      "name": "No Me Llames Mas",
-      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
-    },
-    {
-      "added_at": "2022-04-29 02:50:04",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
-    },
-    {
-      "added_at": "2022-04-29 02:50:04",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": "2022-04-29 02:50:04",
       "album": {
+        "name": "No Me Llames Mas",
+        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 267415,
+      "name": "No Me Llames Mas",
+      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
+    },
+    {
+      "added_at": "2022-04-29 02:50:04",
+      "album": {
         "name": "Con La Fuerza Del Destino",
         "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 177106,
       "name": "C\u00f3mo Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2022-04-29 02:50:04",
-      "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2022-04-29 02:50:04",
@@ -375,6 +359,22 @@
     {
       "added_at": "2022-04-29 02:50:04",
       "album": {
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+    },
+    {
+      "added_at": "2022-04-29 02:50:04",
+      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 234945,
       "name": "Suavemente Amor",
       "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
-    },
-    {
-      "added_at": "2022-04-29 02:50:04",
-      "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
     },
     {
       "added_at": "2022-04-29 02:50:04",
@@ -435,6 +419,22 @@
       "duration_ms": 150360,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
+    },
+    {
+      "added_at": "2022-04-29 02:50:04",
+      "album": {
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
     },
     {
       "added_at": "2022-04-29 02:50:04",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-04-29 02:50:04",
       "album": {
-        "name": "Cumbia Pa' seguir Bailando",
-        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
-      },
-      "artists": [
-        {
-          "name": "Cumbias Poblanas",
-          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
-        }
-      ],
-      "duration_ms": 289802,
-      "name": "Las Amo a Las Dos",
-      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
-    },
-    {
-      "added_at": "2022-04-29 02:50:04",
-      "album": {
         "name": "Sorpresa Caribe",
         "url": "https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 275774,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6"
+    },
+    {
+      "added_at": "2022-04-29 02:50:04",
+      "album": {
+        "name": "Cumbia Pa' seguir Bailando",
+        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Poblanas",
+          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
+        }
+      ],
+      "duration_ms": 289802,
+      "name": "Las Amo a Las Dos",
+      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
     },
     {
       "added_at": "2022-04-29 02:50:04",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-04-29 02:50:04",
       "album": {
-        "name": "Tonto Cari\u00f1o",
-        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
-      },
-      "artists": [
-        {
-          "name": "Los Papis RA7",
-          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
-        }
-      ],
-      "duration_ms": 299284,
-      "name": "Estupido",
-      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
-    },
-    {
-      "added_at": "2022-04-29 02:50:04",
-      "album": {
         "name": "30 Exitos Inolvidables",
         "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 146013,
       "name": "El Colesterol",
       "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
+    },
+    {
+      "added_at": "2022-04-29 02:50:04",
+      "album": {
+        "name": "Tonto Cari\u00f1o",
+        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
+      },
+      "artists": [
+        {
+          "name": "Los Papis RA7",
+          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
+        }
+      ],
+      "duration_ms": 299284,
+      "name": "Estupido",
+      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
     },
     {
       "added_at": "2022-04-29 02:50:04",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-04-29 02:50:04",
       "album": {
+        "name": "El Baile De La Ranita",
+        "url": "https://open.spotify.com/album/68dhZH51l5WR7jKpiwTO5q"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/72d4IAYNxN0PEAr8StLgBL"
+    },
+    {
+      "added_at": "2022-04-29 02:50:04",
+      "album": {
         "name": "Cumbia Valledupar",
         "url": "https://open.spotify.com/album/3GZ1KTKbHZ5QFAXx0Thjtp"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 258071,
       "name": "Cumbia Valledupar",
       "url": "https://open.spotify.com/track/7r2W5f8W70eGz2DlOD7S5g"
-    },
-    {
-      "added_at": "2022-04-29 02:50:04",
-      "album": {
-        "name": "El Baile De La Ranita",
-        "url": "https://open.spotify.com/album/68dhZH51l5WR7jKpiwTO5q"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/72d4IAYNxN0PEAr8StLgBL"
     },
     {
       "added_at": "2022-04-29 02:50:04",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-04-29 02:50:04",
       "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 261653,
-      "name": "He Cre\u00eddo",
-      "url": "https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV"
-    },
-    {
-      "added_at": "2022-04-29 02:50:04",
-      "album": {
         "name": "Pensando En Ella",
         "url": "https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 162013,
       "name": "El Mu\u00f1eco",
       "url": "https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3"
+    },
+    {
+      "added_at": "2022-04-29 02:50:04",
+      "album": {
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 261653,
+      "name": "He Cre\u00eddo",
+      "url": "https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV"
     },
     {
       "added_at": "2022-04-29 02:50:04",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-04-29 02:50:04",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Mi Corazon Es un Vagabundo",
-      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
-    },
-    {
-      "added_at": "2022-04-29 02:50:04",
-      "album": {
         "name": "Grandes Exitos Originales",
         "url": "https://open.spotify.com/album/0AhjOKoGXJiGqt9MJ3PAUP"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 252173,
       "name": "Paloma Ajena",
       "url": "https://open.spotify.com/track/65uUNFe02bXVS4KydSSYOE"
+    },
+    {
+      "added_at": "2022-04-29 02:50:04",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Mi Corazon Es un Vagabundo",
+      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
     },
     {
       "added_at": "2022-04-29 02:50:04",

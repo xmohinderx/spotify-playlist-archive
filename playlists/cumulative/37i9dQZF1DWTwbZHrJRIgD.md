@@ -4,7 +4,7 @@
 
 > Welcome the weekend with these happy hits\. Cover\- Sidharth Malhotra, Alia Bhatt, and Fawad Khan
 
-58 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/4Sm5SJqJJCGKhlh0mSnJQm)
+59 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/4Sm5SJqJJCGKhlh0mSnJQm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Buddhu Sa Mann](https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:26 | 2022-03-09 |  |
 | [Chor Bazari](https://open.spotify.com/track/0SxjmKamCaXEBwuQdiMxor) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v) | 4:17 | 2022-07-17 |  |
 | [Chor Bazari \(From "Love Aaj Kal "\)](https://open.spotify.com/track/6XE0MxTJdLWEePTCqAw5xr) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Love Aaj Kal](https://open.spotify.com/album/4u7WFjehsC5sUibLEOaqLf) | 4:17 | 2022-03-09 | 2022-07-29 |
+| [Deva Deva \(From "Brahmastra"\)](https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Deva Deva \(From "Brahmastra"\)](https://open.spotify.com/album/6zwucxlWusEUCZt6DeQJCu) | 4:39 | 2022-08-08 |  |
 | [Dil Na Jaaneya](https://open.spotify.com/track/6zyozkRLgDlqZIUJzCwkgP) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Dil Na Jaaneya \(From "Good Newwz"\)](https://open.spotify.com/album/0pC6hbRSbTDIoDKk9aIPPR) | 3:51 | 2022-03-09 |  |
 | [Ek Zindagi \(From "Angrezi Medium"\)](https://open.spotify.com/track/6shPaz0rzOAGatiY6X6zLQ) | [Taniskaa Sanghvi](https://open.spotify.com/artist/17slvN7PVFyVcRtWJchRqU), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Ek Zindagi \(From "Angrezi Medium"\)](https://open.spotify.com/album/6542lxPaayNLGe9DbKBU8I) | 2:50 | 2022-03-09 |  |
 | [Galti Se Mistake](https://open.spotify.com/track/7gFu2zjthH2zPbyl4uHLpr) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU) | [Jagga Jasoos](https://open.spotify.com/album/0WzOuVoWthaS3HxiU7YY8G) | 3:23 | 2022-03-09 |  |

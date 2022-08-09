@@ -4,7 +4,7 @@
 
 > Reggaeton hits from Bad Bunny, Feid, Rauw Alejandro and more.🔥🥵
 
-144 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/0HEXy6qoPJDhzDX63XfHmx)
+145 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/0HEXy6qoPJDhzDX63XfHmx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [A Tu Merced](https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:55 | 2021-12-24 |  |
 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 | 2021-12-24 | 2022-06-11 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2021-12-24 | 2022-03-12 |
-| [Amor Bipolar](https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:15 | 2022-07-08 |  |
+| [Amor Bipolar](https://open.spotify.com/track/54azU25VdlyMhiqHOOCZeL) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 3:15 | 2022-08-05 |  |
+| [Amor Bipolar](https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:15 | 2022-07-08 | 2022-08-09 |
 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 | 2022-08-05 |  |
 | [Anda Sola](https://open.spotify.com/track/2wyw4eQ2SfIYfm1vxCgYI0) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:20 | 2022-01-28 | 2022-07-30 |
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-06-17 |  |

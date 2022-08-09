@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. En portada: The Warning",
-  "num_followers": 63057,
+  "num_followers": 63055,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUwMDI4OCwwMDAwMDAwMDliYzMwN2FhNjM2NDQ2YzFlYjUwNDg2MzY0YjY3Y2Jl",
+  "snapshot_id": "MTY1OTUwMDI4OCwwMDAwMDAwMDI2NmU5NjJhNzhhMDgzMWE1YzNmMzk2MTVkYjIwODhk",
   "tracks": [
     {
       "added_at": "2022-08-03 04:18:08",
@@ -211,38 +211,6 @@
     {
       "added_at": "2022-08-03 04:18:08",
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Quiero Estar",
-      "url": "https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc"
-    },
-    {
-      "added_at": "2022-08-03 04:18:08",
-      "album": {
-        "name": "Death By Rock And Roll",
-        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Death By Rock And Roll",
-      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
-    },
-    {
-      "added_at": "2022-08-03 04:18:08",
-      "album": {
         "name": "Monstruos",
         "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
       },
@@ -263,6 +231,38 @@
       "duration_ms": 151604,
       "name": "No Me Marques Pedo",
       "url": "https://open.spotify.com/track/4XhxL3yq18qWSLxqaYargW"
+    },
+    {
+      "added_at": "2022-08-03 04:18:08",
+      "album": {
+        "name": "Death By Rock And Roll",
+        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Death By Rock And Roll",
+      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
+    },
+    {
+      "added_at": "2022-08-03 04:18:08",
+      "album": {
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Quiero Estar",
+      "url": "https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc"
     },
     {
       "added_at": "2022-08-03 04:18:08",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-08-03 04:18:08",
       "album": {
-        "name": "Casa de Naipes",
-        "url": "https://open.spotify.com/album/4Y7A6pBHZmMPgXP5stE4Th"
-      },
-      "artists": [
-        {
-          "name": "Ruido Rosa",
-          "url": "https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "Casa de Naipes",
-      "url": "https://open.spotify.com/track/0r75WOh3GTWVF1ZEUcqezo"
-    },
-    {
-      "added_at": "2022-08-03 04:18:08",
-      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 242241,
       "name": "Gardenia Dreams",
       "url": "https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh"
+    },
+    {
+      "added_at": "2022-08-03 04:18:08",
+      "album": {
+        "name": "Casa de Naipes",
+        "url": "https://open.spotify.com/album/4Y7A6pBHZmMPgXP5stE4Th"
+      },
+      "artists": [
+        {
+          "name": "Ruido Rosa",
+          "url": "https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "Casa de Naipes",
+      "url": "https://open.spotify.com/track/0r75WOh3GTWVF1ZEUcqezo"
     },
     {
       "added_at": "2022-08-03 04:18:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,544 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,596 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 43 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
 | 44 | [Diez Pasos Hacia Ti \- En Vivo](https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Vivo Desde Tu Nostalgia](https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed) | 3:44 |
 | 45 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
-| 46 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
-| 47 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
+| 46 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
+| 47 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
 | 48 | [Amenábar](https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:11 |
 | 49 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 |
 | 50 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
@@ -65,17 +65,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 55 | [Nada Me Falta \(Welcome To Tijuana\)](https://open.spotify.com/track/09jNjdtBWKxSFLaIMN85mv) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Flor De Michoacán](https://open.spotify.com/album/71f7JogsMnad5Leg4XeZr9) | 3:01 |
 | 56 | [La Del Campo De Fresas](https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG) | [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [Navegando](https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy) | 3:56 |
 | 57 | [Lagrimón](https://open.spotify.com/track/2jXkchCKJP645dRwqohTLz) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre](https://open.spotify.com/album/15yeAN5L3PVuz0LkvOrwmL) | 3:43 |
-| 58 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 |
-| 59 | [Suéltate](https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD) | [Daniel Craft](https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb) | [Dimittas](https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ) | 2:47 |
-| 60 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
+| 58 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
+| 59 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 |
+| 60 | [Suéltate](https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD) | [Daniel Craft](https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb) | [Dimittas](https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ) | 2:47 |
 | 61 | [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 |
 | 62 | [Mientras Duermes](https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Mientras Duermes](https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3) | 3:39 |
 | 63 | [Quiero](https://open.spotify.com/track/3xTsbdwJXLYuIusD0gM2Ue) | [Manu Negrete](https://open.spotify.com/artist/5CEPxspt5POCY0oeaCdOEO), [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Manu](https://open.spotify.com/album/1AHtUvxkQIQa1DoG2E12BX) | 2:54 |
 | 64 | [Átame](https://open.spotify.com/track/0oLIHr9UiL68al3E8MeT2u) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Átame](https://open.spotify.com/album/0dDvgoijFTIRu3gPR4XTpn) | 3:10 |
 | 65 | [La Luna](https://open.spotify.com/track/2V0S6dvMHkjtif1rOQqtzA) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [La Luna](https://open.spotify.com/album/306wF31Hp5LNVkxfhDLOiV) | 3:10 |
-| 66 | [Alguien Como Tú](https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Alguien Como Tú](https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL) | 3:57 |
-| 67 | [Postre](https://open.spotify.com/track/1OBjbKYarukVRG2AYqIXsi) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/3ayGisd0er515a1Vq3zhqN) | 3:00 |
-| 68 | [Florecer](https://open.spotify.com/track/2SklPsEziKcI9DffEW65Vz) | [Nicoletta Spinelli](https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj) | [Florecer](https://open.spotify.com/album/2YnrkkeJjgfytLHTHFn1h9) | 3:23 |
+| 66 | [Postre](https://open.spotify.com/track/1OBjbKYarukVRG2AYqIXsi) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/3ayGisd0er515a1Vq3zhqN) | 3:00 |
+| 67 | [Florecer](https://open.spotify.com/track/2SklPsEziKcI9DffEW65Vz) | [Nicoletta Spinelli](https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj) | [Florecer](https://open.spotify.com/album/2YnrkkeJjgfytLHTHFn1h9) | 3:23 |
+| 68 | [Alguien Como Tú](https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Alguien Como Tú](https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL) | 3:57 |
 | 69 | [Miedo](https://open.spotify.com/track/5GJl5QdhQ7ZrYuTamGnPBj) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Miedo](https://open.spotify.com/album/7GnOZrSoKrxbEiTvYG0ri8) | 3:20 |
 | 70 | [Café Helado](https://open.spotify.com/track/2ccYWOxUJX6mA5Lxg6Sxk9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Café Helado](https://open.spotify.com/album/4i3R4de1ZcFsCfjkW5LL9Q) | 3:12 |
 | 71 | [Lalalá](https://open.spotify.com/track/63KP70pPlQ7TMSwkdIP0jC) | [Manu Negrete](https://open.spotify.com/artist/5CEPxspt5POCY0oeaCdOEO) | [Lalalá](https://open.spotify.com/album/6LHfK1MmIEokFqkFBZ8r9S) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [Tiempo](https://open.spotify.com/track/08S8EziI1G7mKlpLppezs1) | [César Iván](https://open.spotify.com/artist/0FbElMinO7597uQdQNvIIR) | [Tiempo](https://open.spotify.com/album/5CsywNE84L0cjfi7pr2K5B) | 3:09 |
 | 75 | [Aurana Espérame](https://open.spotify.com/track/0JwJElZzKXF4TnzN30uxZw) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:03 |
 
-Snapshot ID: `MTY1ODI1Mjk4NCwwMDAwMDAwMGFiMjU1MmZlOWM0NmI1OGE3ZDBkZWI3MTc0N2M0YTJj`
+Snapshot ID: `MTY1ODI1Mjk4NCwwMDAwMDAwMDMyM2Y5MzVhMWI3ZDg5ZDQyY2FmYzFlMzQ0NmNmMDMw`

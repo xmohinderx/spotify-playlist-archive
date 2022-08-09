@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlWx1itq9S5.md) - [plain]
 
 > Las canciones de pop latino más escuchadas del año.<br/>Foto: Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,849 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,924 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlWx1itq9S5.md) - [plain]
 | 39 | [Mi Debilidad](https://open.spotify.com/track/4it6vaFbkGRUaQlwWUMg3v) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 2:45 |
 | 40 | [2:50 Remix](https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [2:50 Remix](https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d) | 3:51 |
 | 41 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
-| 42 | [3 de La Mañana](https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [3 de La Mañana](https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt) | 3:40 |
+| 42 | [3 de La Mañana \- con Sebastián Yatra & Mora](https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [3 de La Mañana \(con Sebastián Yatra & Mora\)](https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt) | 3:40 |
 | 43 | [999 \(with Camilo\)](https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [999 \(with Camilo\)](https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu) | 3:44 |
 | 44 | [Fan de Tus Fotos](https://open.spotify.com/track/6rIql0inorjJoC5Fxye5e9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:17 |
 | 45 | [Si Me Tomo Una Cerveza](https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [Si Me Tomo una Cerveza](https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2) | 3:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: bLAck pARty
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,440 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,468 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 25 | [Pressure](https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:01 |
 | 26 | [Perfect Nature](https://open.spotify.com/track/3FAWQ9ajByND1Ygb1LWqe4) | [SAUCITO](https://open.spotify.com/artist/5haQqpRZ1ZqP8ZVcXDGzlK) | [Perfect Nature](https://open.spotify.com/album/249AgQEmB6ZfgHHNL3AB1q) | 2:32 |
 | 27 | [ON DAT SHIT](https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black](https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi) | 2:38 |
-| 28 | [1500 $ir](https://open.spotify.com/track/20kQ5m2CKltcaEnzmfuSDV) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/5esVu79F6yi7lCRSNUayoS) | 2:25 |
+| 28 | [1500 $ir](https://open.spotify.com/track/20kQ5m2CKltcaEnzmfuSDV) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever \(Mixtape\)](https://open.spotify.com/album/5esVu79F6yi7lCRSNUayoS) | 2:25 |
 | 29 | [NOT 4 NOTHIN](https://open.spotify.com/track/2vq2kV32I8xqpifY2p4Trs) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [NOT 4 NOTHIN](https://open.spotify.com/album/30hwDLUSj4GDp5qiMKmkt0) | 2:02 |
 | 30 | [Try Hard](https://open.spotify.com/track/1Y0WL6KqYm78Fn8eIlStyR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Try Hard](https://open.spotify.com/album/0HEoy02ph3KqkAg5OW5iIH) | 2:28 |
 | 31 | [Lesson Learned](https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Beautiful Michi Girls](https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo) | 2:31 |

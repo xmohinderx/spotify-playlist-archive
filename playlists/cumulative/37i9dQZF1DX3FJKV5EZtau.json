@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 171904,
       "name": "Find You",
       "url": "https://open.spotify.com/track/28OESpqaslD63Wbrg0yVRP"
@@ -4643,6 +4643,24 @@
       "duration_ms": 195840,
       "name": "Sleeping On My Own Again",
       "url": "https://open.spotify.com/track/0ADSxxXg91rM3jN6pd00h3"
+    },
+    {
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/0RzdjXDnexGsG8JM2oSGEl"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/7qXFLa1RfT8aYBVvTHcfzH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: ALVIN JO\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,874 likes - 71 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,887 likes - 71 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

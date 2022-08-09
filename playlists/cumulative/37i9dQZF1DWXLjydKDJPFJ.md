@@ -4,7 +4,7 @@
 
 > ¡Compare! Prenda el carbón y saque la bocina que ya se armó la carnita.
 
-203 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/5COluVzrmo5voG6SCj0H9x)
+204 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/5COluVzrmo5voG6SCj0H9x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Cajita De Cartón](https://open.spotify.com/track/2PxkdGhTb8VLY9M2ImvGZD) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Siempre Latino Vol\. 2](https://open.spotify.com/album/2biVVTc1nnyO1UdLKfUROk) | 3:03 | 2022-04-08 |  |
 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 | 2022-07-18 |  |
 | [Caricatura](https://open.spotify.com/track/2T5nAEkXMX49j29nMVt6qU) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [La Proxima Semana](https://open.spotify.com/album/2qtB3x29yzmsfy5Qm0U4cx) | 3:19 | 2022-07-18 | 2022-07-29 |
-| [Celoso](https://open.spotify.com/track/0rm05uUozKEMkO14sxSSmJ) | [Grupo Toppaz](https://open.spotify.com/artist/6ZrVWZmjcLCSIBZ2PsYGC0) | [Remezclados Y Remasterizados](https://open.spotify.com/album/4D51RO8xMpmhLpfIllv6Ws) | 2:47 | 2021-12-08 |  |
+| [Celoso](https://open.spotify.com/track/0rm05uUozKEMkO14sxSSmJ) | [Grupo Toppaz](https://open.spotify.com/artist/6ZrVWZmjcLCSIBZ2PsYGC0) | [Remezclados Y Remasterizados](https://open.spotify.com/album/4D51RO8xMpmhLpfIllv6Ws) | 2:47 | 2021-12-08 | 2022-08-09 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-04-08 |  |
 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 | 2021-12-08 | 2022-05-07 |
 | [Compré Una Cantina](https://open.spotify.com/track/1hIycheRhA4vg4DD60uh9Y) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/0h5HCJTFJd9Cy6EYqLcwfK) | 2:43 | 2021-12-08 | 2022-07-29 |
@@ -155,6 +155,7 @@
 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 | 2022-04-08 |  |
 | [Playa Sola](https://open.spotify.com/track/66LTMTY1gZmxJkJvIfFe6d) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Serie Verde \- Los Invasores De Nuevo león](https://open.spotify.com/album/6xmgaJs5hxxzscL33eIsVD) | 2:55 | 2021-12-08 | 2022-07-29 |
 | [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN) | 7:38 | 2022-04-08 |  |
+| [Por Sentimental](https://open.spotify.com/track/6VhVObyMiMZFF9tsByo6F3) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Por Sentimental](https://open.spotify.com/album/6U7OGnl3pRGlKRKf8MuTra) | 2:55 | 2022-07-18 |  |
 | [Puño De Diamantes](https://open.spotify.com/track/1IzGf1RLpHuImi5lsCD3T9) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Libre Por Naturaleza](https://open.spotify.com/album/2XsiX1tRabcnYmJatmnsSK) | 3:12 | 2021-12-08 |  |
 | [Puño De Diamantes](https://open.spotify.com/track/6d1tiItSWw2y4UudEoeT9k) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Libre Por Naturaleza](https://open.spotify.com/album/3LkDU8DwPQnl5mIpdVxwjL) | 3:12 | 2021-12-08 | 2022-07-29 |
 | [Que No Quede Huella](https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [A Todo Galope](https://open.spotify.com/album/6ACxvZ4en9mhTSxTeKWGaJ) | 2:56 | 2021-12-08 |  |

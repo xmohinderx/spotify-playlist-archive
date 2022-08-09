@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,809 likes - 42 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,892 likes - 42 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,6 +49,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 39 | [Tire Ni Oluwa](https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
 | 40 | [Desires](https://open.spotify.com/track/1BWnAnHrIjRsOb4F9xC0P7) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron All The Way](https://open.spotify.com/album/0h58dYQtgHRiW9GQbBhmKY) | 6:51 |
 | 41 | [Ojah Awake](https://open.spotify.com/track/5XRkdF0BOrqlN3jV0pYNhy) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4LK4xmWEuNYYEn5oPrQUpD) | 4:54 |
-| 42 | [The Warrior](https://open.spotify.com/track/1yRixw5ysrrgR8a2ZeU806) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4LK4xmWEuNYYEn5oPrQUpD) | 3:47 |
+| 42 | [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 |
 
-Snapshot ID: `MTU2MTc0MDc2OCwwMDAwMDAwMDVhYTRlMTE0ZGNmZWU5YjIwMjE1MWJiN2ZjMzYyN2I0`
+Snapshot ID: `MTU2MTc0MDc2OCwwMDAwMDAwMDRkZjQ0MjI1MDc2MDE1ZDU1ZTk5NDgyYWQ5YmZjMmEz`

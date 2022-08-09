@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 772373,
+  "num_followers": 772604,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjYwMSwwMDAwMDAwMDYzYTE2Y2Y0NTI2YWUxYjRjZjE4NTM0NGM5MzIwYjdh",
+  "snapshot_id": "MTY1NzAzNjYwMSwwMDAwMDAwMDkzMGQ5OGMxNThhYjE0Nzc3ODlkMDJkZTg3MjhkYWYy",
   "tracks": [
     {
       "added_at": "2021-12-21 11:01:21",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
-        "name": "Oh, Pretty Woman",
-        "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "Oh, Pretty Woman",
-      "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
         "name": "Green River (Expanded Edition)",
         "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 141600,
       "name": "Bad Moon Rising",
       "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
+        "name": "Oh, Pretty Woman",
+        "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Oh, Pretty Woman",
+      "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
     },
     {
       "added_at": "2021-12-21 11:01:21",
@@ -219,18 +219,18 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+        "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
+        "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 425653,
-      "name": "Hey Jude - Remastered 2015",
-      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+      "duration_ms": 318026,
+      "name": "Space Oddity - 2015 Remaster",
+      "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
     },
     {
       "added_at": "2021-12-21 11:01:21",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
-        "name": "Beggars Banquet (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 378146,
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -283,6 +267,38 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 425653,
+      "name": "Hey Jude - Remastered 2015",
+      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
         "name": "Surfin' USA (Remastered)",
         "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 149373,
       "name": "Surfin' U.S.A. - Remastered 2001",
       "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
-        "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
-        "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 318026,
-      "name": "Space Oddity - 2015 Remaster",
-      "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
     },
     {
       "added_at": "2021-12-21 11:01:21",
@@ -343,22 +343,6 @@
       "duration_ms": 134253,
       "name": "You Really Got Me - Mono Mix",
       "url": "https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
-        "name": "Bayou Country (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Proud Mary",
-      "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
     },
     {
       "added_at": "2021-12-21 11:01:21",
@@ -411,6 +395,22 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
+        "name": "Bayou Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "Proud Mary",
+      "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
         "name": "Do you Believe In Magic",
         "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
-        "name": "Disraeli Gears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 130173,
       "name": "People Are Strange",
       "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
     },
     {
       "added_at": "2021-12-21 11:01:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -539,22 +523,6 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 429760,
-      "name": "Light My Fire",
-      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
         "name": "The Second",
         "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
       },
@@ -567,22 +535,6 @@
       "duration_ms": 271573,
       "name": "Magic Carpet Ride",
       "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "While My Guitar Gently Weeps - Remastered 2009",
-      "url": "https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O"
     },
     {
       "added_at": "2021-12-21 11:01:21",
@@ -635,6 +587,70 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 429760,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "While My Guitar Gently Weeps - Remastered 2009",
+      "url": "https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Green River",
+      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -663,38 +679,6 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 154120,
-      "name": "Green River",
-      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 173946,
-      "name": "I Saw Her Standing There - Remastered 2009",
-      "url": "https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd"
     },
     {
       "added_at": "2021-12-21 11:01:21",
@@ -747,18 +731,18 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 192053,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
+      "duration_ms": 173946,
+      "name": "I Saw Her Standing There - Remastered 2009",
+      "url": "https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd"
     },
     {
       "added_at": "2021-12-21 11:01:21",
@@ -811,6 +795,22 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
         "name": "Turn! Turn! Turn!",
         "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
-        "name": "My Generation (Stereo Version)",
-        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "My Generation - Stereo Version",
-      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 221533,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "My Generation - Stereo Version",
+      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
     },
     {
       "added_at": "2021-12-21 11:01:21",
@@ -959,38 +959,6 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
-        "name": "Something Else (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 194216,
-      "name": "Waterloo Sunset - Mono Mix",
-      "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
-        "name": "The Rolling Stones In Mono (Remastered 2016)",
-        "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Paint It, Black - Mono",
-      "url": "https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
         "name": "Santana (Legacy Edition)",
         "url": "https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu"
       },
@@ -1019,6 +987,22 @@
       "duration_ms": 198773,
       "name": "Foxey Lady",
       "url": "https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
+        "name": "The Rolling Stones In Mono (Remastered 2016)",
+        "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Paint It, Black - Mono",
+      "url": "https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL"
     },
     {
       "added_at": "2021-12-21 11:01:21",
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
+        "name": "Something Else (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 194216,
+      "name": "Waterloo Sunset - Mono Mix",
+      "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
         "name": "The Stooges",
         "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-12-21 11:01:21",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Up On Cripple Creek",
-      "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
-    },
-    {
-      "added_at": "2021-12-21 11:01:21",
-      "album": {
         "name": "Crying",
         "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 166466,
       "name": "Crying",
       "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
+    },
+    {
+      "added_at": "2021-12-21 11:01:21",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Up On Cripple Creek",
+      "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
     },
     {
       "added_at": "2021-12-21 11:01:21",

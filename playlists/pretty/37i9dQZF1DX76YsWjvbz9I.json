@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic jazz songs. Cover: Nat King Cole",
-  "num_followers": 110505,
+  "num_followers": 110788,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTg4NTU0MSwwMDAwMDAwMGM4MWVkOWNiNDdkOWEwMjE5ODJkMzllNWI0N2MwYzQx",
+  "snapshot_id": "MTY1NTg4NTU0MSwwMDAwMDAwMGQzYjdiOTJhYjFlODIxMmY5ZTU1OGM5ZDhhZjY1NGI3",
   "tracks": [
     {
       "added_at": "2022-06-22 08:12:21",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-06-22 08:12:21",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
-    },
-    {
-      "added_at": "2022-06-22 08:12:21",
-      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
         "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 280000,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
+    },
+    {
+      "added_at": "2022-06-22 08:12:21",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "added_at": "2022-06-22 08:12:21",
@@ -263,18 +263,22 @@
     {
       "added_at": "2022-06-22 08:12:21",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "Ella Fitzgerald Sings The Jerome Kern Songbook",
+        "url": "https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 184466,
-      "name": "(I Love You) For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte"
+      "duration_ms": 195666,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt"
     },
     {
       "added_at": "2022-06-22 08:12:21",
@@ -295,6 +299,22 @@
     {
       "added_at": "2022-06-22 08:12:21",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "(I Love You) For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte"
+    },
+    {
+      "added_at": "2022-06-22 08:12:21",
+      "album": {
         "name": "The Complete Commodore Recordings",
         "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
       },
@@ -307,6 +327,22 @@
       "duration_ms": 194573,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
+    },
+    {
+      "added_at": "2022-06-22 08:12:21",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 104773,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
     },
     {
       "added_at": "2022-06-22 08:12:21",
@@ -331,22 +367,6 @@
     {
       "added_at": "2022-06-22 08:12:21",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 104773,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
-    },
-    {
-      "added_at": "2022-06-22 08:12:21",
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 166760,
       "name": "Time After Time - Vocal Version",
       "url": "https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d"
-    },
-    {
-      "added_at": "2022-06-22 08:12:21",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Jerome Kern Songbook",
-        "url": "https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt"
     },
     {
       "added_at": "2022-06-22 08:12:21",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2022-06-22 08:12:21",
       "album": {
-        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
-        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
       "artists": [
         {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 165400,
-      "name": "Them There Eyes",
-      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
+      "duration_ms": 166066,
+      "name": "All I Do Is Dream Of You - Remastered",
+      "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
     },
     {
       "added_at": "2022-06-22 08:12:21",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-06-22 08:12:21",
       "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 166066,
-      "name": "All I Do Is Dream Of You - Remastered",
-      "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
+      "duration_ms": 165400,
+      "name": "Them There Eyes",
+      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
     },
     {
       "added_at": "2022-06-22 08:12:21",

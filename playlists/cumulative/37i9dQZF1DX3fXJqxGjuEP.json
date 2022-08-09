@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/1BFEgNcj4per8cDrlkp6Az"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162127,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/7rtJduTQw1qM4YlYBN9EMq"
+    },
+    {
+      "album": {
         "name": "Amor Arrayano",
         "url": "https://open.spotify.com/album/4EgEBNMsIhWTR2J9HdFfMK"
       },
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 230076,
       "name": "Brasil",
       "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
@@ -4304,6 +4322,24 @@
     },
     {
       "album": {
+        "name": "Marineros",
+        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
+      },
+      "artists": [
+        {
+          "name": "Ulises Hadjis",
+          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128371,
+      "name": "Marineros",
+      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
+    },
+    {
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5"
       },
@@ -6295,7 +6331,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 253760,
       "name": "Samba del Arenal",
       "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
@@ -6651,7 +6687,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 211480,
       "name": "Sonre\u00edr",
       "url": "https://open.spotify.com/track/748Vnqa1Rpwteiarxartiz"
@@ -7205,6 +7241,24 @@
       "duration_ms": 129000,
       "name": "Vayay\u00f3",
       "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
+    },
+    {
+      "album": {
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "album": {

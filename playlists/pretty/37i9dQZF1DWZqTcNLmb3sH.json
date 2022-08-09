@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vikrant Rona",
-  "num_followers": 36202,
+  "num_followers": 36295,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTgxMDUzOCwwMDAwMDAwMDA4MmFlMGE0MTViMzhlZGE3ZWQzNzI4NmY4Yjk1YmQw",
+  "snapshot_id": "MTY1OTk0ODc3NCwwMDAwMDAwMGMyZmQzODRlMDkzNzUxZTE1MjRkZTdiMmJhNzU2NTg4",
   "tracks": [
     {
       "added_at": "2022-07-18 06:13:34",
@@ -85,6 +85,26 @@
       "url": "https://open.spotify.com/track/7dbCChaCJPf1H3Ac8ddS7w"
     },
     {
+      "added_at": "2022-08-08 08:48:36",
+      "album": {
+        "name": "Elra Kaaleliyatte Kaala",
+        "url": "https://open.spotify.com/album/5wLS6xF99ZFfvh0bbgWQNs"
+      },
+      "artists": [
+        {
+          "name": "Gururaj Hosakote",
+          "url": "https://open.spotify.com/artist/3vxlMDszwVdTntTasr5b0R"
+        },
+        {
+          "name": "Praveen-Pradeep",
+          "url": "https://open.spotify.com/artist/2Nh3McF50LBstOocdkW6m9"
+        }
+      ],
+      "duration_ms": 189422,
+      "name": "Gold Factory",
+      "url": "https://open.spotify.com/track/3Aql9ZmLfqjhmGLKz73i1T"
+    },
+    {
       "added_at": "2022-08-06 18:28:58",
       "album": {
         "name": "Friendship Song (From \"Padavi Poorva\")",
@@ -103,6 +123,30 @@
       "duration_ms": 248170,
       "name": "Friendship Song (From \"Padavi Poorva\")",
       "url": "https://open.spotify.com/track/1oTPrr6g1QzFwcmUmpfy7i"
+    },
+    {
+      "added_at": "2022-08-08 08:52:54",
+      "album": {
+        "name": "Friendship (From \"Chowka Bara\")",
+        "url": "https://open.spotify.com/album/1kLVAZWvGDXFVHYHDhDeqQ"
+      },
+      "artists": [
+        {
+          "name": "Chaitra H. G.",
+          "url": "https://open.spotify.com/artist/5NZ2P8KBgZX2ZjSGU17EOA"
+        },
+        {
+          "name": "Vyasraj Sosale",
+          "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
+        },
+        {
+          "name": "Ashwin P Kumar",
+          "url": "https://open.spotify.com/artist/1VoEj343EcXb4UZ09dkkrG"
+        }
+      ],
+      "duration_ms": 272085,
+      "name": "Friendship (From \"Chowka Bara\")",
+      "url": "https://open.spotify.com/track/1M0jN3cIwCvBoaxSwncX7Z"
     },
     {
       "added_at": "2022-08-03 11:59:37",

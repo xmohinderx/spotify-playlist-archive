@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-163 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
+164 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [I'm Not In Love \- Edit](https://open.spotify.com/track/0o3x0nS7xb0SXStxGA3S3U) | [Monique Klemann](https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf) | [I'm Not In Love \(Edit\)](https://open.spotify.com/album/4ka3M6jWwfhOkeadSXqksY) | 3:25 | 2021-11-18 | 2022-07-29 |
 | [I'm Not In Love \- Edit](https://open.spotify.com/track/6AZ4O5q9B4nMQVghTfTBe3) | [Monique Klemann](https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf) | [I'm Not In Love \(Edit\)](https://open.spotify.com/album/3CgRVSjpSnD9g08WQCLytz) | 3:25 | 2021-11-18 |  |
 | [In Your Arms](https://open.spotify.com/track/2UcrOnNw5WJr6Xu2q8QAPI) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [In Your Arms](https://open.spotify.com/album/6mR9tHwbzt0284PGj9Z9KD) | 3:28 | 2017-12-03 |  |
-| [Late in the Evening](https://open.spotify.com/track/6iEdOcozqnI8Ww5hRy9a2w) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:02 | 2017-12-03 |  |
+| [Late in the Evening](https://open.spotify.com/track/6iEdOcozqnI8Ww5hRy9a2w) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:02 | 2017-12-03 | 2022-08-09 |
 | [Lately](https://open.spotify.com/track/3tFxrWeJcm0Z5mIwQJPeyZ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July \(Digipak\)](https://open.spotify.com/album/0qdxOwxupH4fh5aWi02s76) | 4:05 | 2017-12-03 | 2022-07-29 |
 | [Lately](https://open.spotify.com/track/5rlgpm7n5f9mWc5LQU42bI) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh) | 4:05 | 2017-12-03 |  |
 | [Lay Here](https://open.spotify.com/track/79dWlFvR2N2q8aD3IzRpwW) | [The Mulligan Brothers](https://open.spotify.com/artist/7dohdcCGn1V9tieoC7ndRy) | [The Mulligan Brothers](https://open.spotify.com/album/5EEfgJDMdWvaJ1EDS7QkxH) | 4:19 | 2017-12-03 |  |
@@ -90,6 +90,7 @@
 | [Lovely Morning](https://open.spotify.com/track/4768qiI13zMOKseYclY4pN) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo?](https://open.spotify.com/album/7qvN2X89qpDmaZbYbqFGgQ) | 3:53 | 2017-12-03 |  |
 | [Lovely Morning](https://open.spotify.com/track/6efsCy6jKzBN6oz9xQEgKj) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo?](https://open.spotify.com/album/2prkEzgitQ8uM26lIjWLT3) | 3:53 | 2017-12-03 | 2022-07-29 |
 | [Lush Life \- Acoustic Version](https://open.spotify.com/track/75Kchp4GZGyu61amcr8jRT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lush Life \(Acoustic Version\)](https://open.spotify.com/album/1KLiyPPK76xnqIqPSoio2j) | 3:22 | 2017-12-03 | 2022-07-29 |
+| [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 | 2022-08-08 |  |
 | [Mind Made Up](https://open.spotify.com/track/5wrDrajYZSJqta7rJBvcJV) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Mind Made Up](https://open.spotify.com/album/4f01RCCz0A0NmtT6LuWH92) | 2:32 | 2017-12-03 |  |
 | [Morning Light](https://open.spotify.com/track/58FDKxg4uUVEOV0lSRHnQf) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Morning Light](https://open.spotify.com/album/61RZZpsBP6RXUofd4uv5NZ) | 3:14 | 2017-12-03 |  |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2022-03-08 |  |

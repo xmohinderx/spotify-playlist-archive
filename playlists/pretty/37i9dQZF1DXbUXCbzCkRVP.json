@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 15168,
+  "num_followers": 15229,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTUzMiwwMDAwMDAwMDlhYzQwZjU1NWMwYzU4ZGVjYjBlMWQxMTQyZDgxOTNk",
+  "snapshot_id": "MTY1OTEwNTUzMiwwMDAwMDAwMDU4YjhhOTFiYWQ0ZWE3YjczMzY0NjE1ZTVmYTYzMDc2",
   "tracks": [
     {
       "added_at": "2022-07-29 14:38:52",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-07-29 14:38:52",
       "album": {
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Strollin' With Bones",
+      "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
+    },
+    {
+      "added_at": "2022-07-29 14:38:52",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -271,18 +287,18 @@
     {
       "added_at": "2022-07-29 14:38:52",
       "album": {
-        "name": "The Complete Imperial Recordings, 1950-1954",
-        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+        "name": "Big Band Bounce & Boogie",
+        "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
       },
       "artists": [
         {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+          "name": "Lucky Millinder",
+          "url": "https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23"
         }
       ],
-      "duration_ms": 150173,
-      "name": "Strollin' With Bones",
-      "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
+      "duration_ms": 206053,
+      "name": "Apollo Jump",
+      "url": "https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l"
     },
     {
       "added_at": "2022-07-29 14:38:52",
@@ -303,22 +319,6 @@
       "duration_ms": 326173,
       "name": "Really",
       "url": "https://open.spotify.com/track/2gkEufrsoGisa7p4rh6K22"
-    },
-    {
-      "added_at": "2022-07-29 14:38:52",
-      "album": {
-        "name": "Big Band Bounce & Boogie",
-        "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
-      },
-      "artists": [
-        {
-          "name": "Lucky Millinder",
-          "url": "https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Apollo Jump",
-      "url": "https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l"
     },
     {
       "added_at": "2022-07-29 14:38:52",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-07-29 14:38:52",
       "album": {
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Spann's Stomp",
+      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+    },
+    {
+      "added_at": "2022-07-29 14:38:52",
+      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 255066,
       "name": "Blues for Nothing",
       "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
-    },
-    {
-      "added_at": "2022-07-29 14:38:52",
-      "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Spann's Stomp",
-      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
     },
     {
       "added_at": "2022-07-29 14:38:52",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-07-29 14:38:52",
       "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
+    },
+    {
+      "added_at": "2022-07-29 14:38:52",
+      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 418493,
       "name": "Albert's Shuffle - 2002 Remix w/o Horns",
       "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
-    },
-    {
-      "added_at": "2022-07-29 14:38:52",
-      "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
     },
     {
       "added_at": "2022-07-29 14:38:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-07-29 14:38:52",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Phillips Goes Bananas",
-      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
-    },
-    {
-      "added_at": "2022-07-29 14:38:52",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 172173,
       "name": "Jam On A Monday Morning",
       "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+    },
+    {
+      "added_at": "2022-07-29 14:38:52",
+      "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Phillips Goes Bananas",
+      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
     },
     {
       "added_at": "2022-07-29 14:38:52",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-07-29 14:38:52",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Side Tracked",
-      "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
+      "duration_ms": 253733,
+      "name": "The Creeper Returns",
+      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
     }
   ],
   "unique_name": "Instrumental Blues",

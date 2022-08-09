@@ -1,29 +1,13 @@
 {
   "description": "brutal or not, we're all in this together \u2728 Cover: Olivia & Joshua",
-  "num_followers": 1591961,
+  "num_followers": 1593353,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDllOTRiZTIzYTA5YmVhYTYzMjQ3NWQ1MWNjMGJlNjFl",
+  "snapshot_id": "MTY1OTk3NjczNiwwMDAwMDAwMGJkMDljYjQ0ODQ2YWY1MjUyNDRkODI0MGQwYjA3M2Yy",
   "tracks": [
-    {
-      "added_at": "2022-08-01 16:00:00",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
@@ -143,6 +127,22 @@
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
+    },
+    {
+      "added_at": "2022-08-01 16:00:00",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/5qELFdy1PLLinCg5462HES"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "the perfect pair",
-      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
       "added_at": "2022-08-03 19:18:18",
       "album": {
         "name": "Romantic Homicide",
@@ -439,6 +423,22 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
       "added_at": "2022-07-29 04:06:10",

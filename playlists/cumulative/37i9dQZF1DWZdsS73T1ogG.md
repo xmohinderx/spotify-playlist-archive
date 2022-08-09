@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: paopao
 
-169 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
+170 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Adivina](https://open.spotify.com/track/1xIxZOuvcEtp2ckLnjUkMf) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Adivina](https://open.spotify.com/album/3jUtl2wC0qkkJL8czujS3q) | 2:45 | 2022-07-29 |  |
 | [Algoritmo](https://open.spotify.com/track/6OS9c9i1KyokW9nWawoc8P) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Algoritmo](https://open.spotify.com/album/2mz07if8su6btJf3gYcOk2) | 3:20 | 2022-03-21 | 2022-03-30 |
 | [ALI](https://open.spotify.com/track/1Cxtb1K5YI4ssTTmT7TDx5) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [ALI](https://open.spotify.com/album/3XxJvG29FzRuHRW6OGKxUx) | 1:35 | 2022-06-28 | 2022-07-30 |
-| [Amor Bipolar](https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:15 | 2022-07-08 |  |
+| [Amor Bipolar](https://open.spotify.com/track/54azU25VdlyMhiqHOOCZeL) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 3:15 | 2022-08-05 |  |
+| [Amor Bipolar](https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:15 | 2022-07-08 | 2022-08-09 |
 | [Amor Con Odio](https://open.spotify.com/track/2d3DyvhzYMKEjPc49ogM4X) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Amor Con Odio](https://open.spotify.com/album/3ilanQtLlzzmdTbqrnnZ1B) | 3:20 | 2022-05-13 | 2022-07-13 |
 | [Anda Sola](https://open.spotify.com/track/2wyw4eQ2SfIYfm1vxCgYI0) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:20 | 2022-03-21 | 2022-06-04 |
 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 | 2022-06-10 | 2022-07-30 |

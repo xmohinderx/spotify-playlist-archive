@@ -807,6 +807,24 @@
     {
       "album": {
         "name": "Sottozero",
+        "url": "https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171839,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/0D7gNQErvyNXUo8fwhJtiA"
+    },
+    {
+      "album": {
+        "name": "Sottozero",
         "url": "https://open.spotify.com/album/0iJVjnO4uw4vTJImGTwyXb"
       },
       "artists": [
@@ -817,7 +835,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 171839,
       "name": "EGO",
       "url": "https://open.spotify.com/track/6i88tx7811AzFNDknwILat"
@@ -1671,6 +1689,24 @@
     {
       "album": {
         "name": "MUJER",
+        "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "MUJER",
+      "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
+    },
+    {
+      "album": {
+        "name": "MUJER",
         "url": "https://open.spotify.com/album/6s3XBzC7ghTwGeEFEDJRzM"
       },
       "artists": [
@@ -1681,7 +1717,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 161739,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/6MeRMkI1kS0glrxGxut60K"

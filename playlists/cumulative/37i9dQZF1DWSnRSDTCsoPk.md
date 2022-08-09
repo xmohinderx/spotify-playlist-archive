@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-218 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/1TK59qZsnLJRldFeVRem4I)
+219 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/1TK59qZsnLJRldFeVRem4I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [CALL ME BABY](https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXODUS \- The 2nd Album](https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af) | 3:31 | 2022-02-23 |  |
 | [Candy](https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:47 | 2022-02-23 |  |
 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 | 2021-04-27 | 2022-02-24 |
-| [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2022-02-23 |  |
+| [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2022-02-23 | 2022-08-09 |
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2022-02-23 |  |
 | [Crayon](https://open.spotify.com/track/1HMbjnCFGOWd8Sqou4maxM) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [One of a Kind](https://open.spotify.com/album/4EitCfNTOlnqtRrmBBuwGQ) | 3:16 | 2021-04-27 | 2022-02-24 |
 | [Crazy](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Crazy](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) | 3:12 | 2021-04-27 | 2022-02-24 |
@@ -167,6 +167,7 @@
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2022-02-23 |  |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-04-27 | 2022-07-29 |
 | [Rollin'](https://open.spotify.com/track/4ajYy2PqT3czWrpI4rgmIP) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq) | 3:17 | 2022-02-23 | 2022-08-04 |
+| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-02-23 |  |
 | [Roly\-Poly](https://open.spotify.com/track/36r4cTfmjVo5JYqNBIcjk6) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [John Travolta Wanna Be](https://open.spotify.com/album/6dCsrXRW9GqW1N1Vwk2dMC) | 3:34 | 2021-04-27 | 2022-02-24 |
 | [Rough](https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [SNOWFLAKE](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) | 3:29 | 2021-04-27 | 2022-02-24 |
 | [SAVAGE](https://open.spotify.com/track/1ORdoHKOgLdfQM6oNaYAUZ) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [UNDER COVER : THE MAD SQUAD](https://open.spotify.com/album/2vPS5jNTrZKc6Qx7TTvPpD) | 3:27 | 2022-02-23 | 2022-07-14 |

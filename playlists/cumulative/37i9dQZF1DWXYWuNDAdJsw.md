@@ -4,12 +4,13 @@
 
 > el nombre lo dice todo.
 
-121 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/61DjCGIvgLvfIb5LlJiMje)
+122 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/61DjCGIvgLvfIb5LlJiMje)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 | 2022-03-22 |  |
-| [Amor Bipolar](https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:15 | 2022-06-27 |  |
+| [Amor Bipolar](https://open.spotify.com/track/54azU25VdlyMhiqHOOCZeL) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 3:15 | 2022-08-05 |  |
+| [Amor Bipolar](https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:15 | 2022-06-27 | 2022-08-09 |
 | [AMOR DE MI VIDA](https://open.spotify.com/track/2C6eINAA8cO6e5a8PjnWsK) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 3:09 | 2022-05-12 |  |
 | [Anda Sola](https://open.spotify.com/track/3XrAeBg5NAWRqkqYclu4w7) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [El Amor y Yo](https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf) | 3:20 | 2022-05-12 |  |
 | [Aprendi a Amar](https://open.spotify.com/track/7M8K2ermHPnLJildw6F6EP) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Aprendi a Amar](https://open.spotify.com/album/150yOgaqtpp8GxS9ho5Xg0) | 3:33 | 2022-03-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Steven Curtis Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,413 likes - 99 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,461 likes - 99 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 52 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/4FlV2NvMDxlYBLSGZcT8uu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/2ifDrydHgJ5YCfBgXtacyM) | 3:49 |
 | 53 | [Friend](https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Friend](https://open.spotify.com/album/7acWtsBfuPSWwVizEcVa4D) | 3:48 |
 | 54 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 |
-| 55 | [There Is Freedom](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 |
+| 55 | [There Is Freedom](https://open.spotify.com/track/5v9XGYeVeVbuGnYJEaesoh) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/5XarmAjYxAdXTOQObOztgO) | 3:58 |
 | 56 | [Build a Boat](https://open.spotify.com/track/3Kh9eZaRwd1teXFVOZ9xPv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Build a Boat](https://open.spotify.com/album/2gwY0QMAGKxWeyh1Z4fgVg) | 2:50 |
 | 57 | [Well Done](https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [Well Done](https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq) | 3:42 |
 | 58 | [Finished With Fighting \- Live Tapes](https://open.spotify.com/track/6m2u5uquboim0YQVBc6Gq8) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo) | [Finished With Fighting \(Live Tapes\)](https://open.spotify.com/album/0MCQ8AtakKqeaDVQfXzEXR) | 5:19 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 98 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 |
 | 99 | [While We Wait](https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [While We Wait](https://open.spotify.com/album/3OjfM80cjDGpXnw0okEmLI) | 3:19 |
 
-Snapshot ID: `MTY1NzI3MDIzMiwwMDAwMDAwMDQ3NzU2ZGI0MWI5YTc2ZDlhZTRkMTRjNWQ4MzczZjI1`
+Snapshot ID: `MTY1NzI3MDIzMiwwMDAwMDAwMDA5ZmFlZjdlYTAxOWM1MTRkMWNkYTYxN2ViNGM1M2I2`

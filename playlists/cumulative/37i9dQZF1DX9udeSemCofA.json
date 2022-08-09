@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Burundi Black",
+        "url": "https://open.spotify.com/album/5wZAX3KJkkV0iCL5a3J7Ew"
+      },
+      "artists": [
+        {
+          "name": "Burundi Steiphenson Black",
+          "url": "https://open.spotify.com/artist/5MJbGsO1l8G1er1HaygWe0"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429256,
+      "name": "Burundi Black - Rusty Egan First Remix",
+      "url": "https://open.spotify.com/track/720qeUt7AMzpRC2wMUb1BW"
+    },
+    {
+      "album": {
         "name": "Haunted Halloween Dub",
         "url": "https://open.spotify.com/album/6EZaAwvsxhKRoy4AzTWSz5"
       },
@@ -279,7 +297,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 166773,
       "name": "Dream Land",
       "url": "https://open.spotify.com/track/7vp89zcbYncoBCbX5HA3tZ"
@@ -597,7 +615,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 178760,
       "name": "Jah Jah Is the Conqueror",
       "url": "https://open.spotify.com/track/7mEEngQNeIP0cZbFiycwfH"
@@ -1209,6 +1227,24 @@
       "duration_ms": 297066,
       "name": "Sponji Reggae",
       "url": "https://open.spotify.com/track/6lnl40FdAdAmUZt1mtTOC3"
+    },
+    {
+      "album": {
+        "name": "Dub Roots",
+        "url": "https://open.spotify.com/album/7atry0zfZzKkBqq5hwscnB"
+      },
+      "artists": [
+        {
+          "name": "Prince Douglas",
+          "url": "https://open.spotify.com/artist/1Z5aeTi3AY3GaKZr6m1sJu"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239653,
+      "name": "Sunshine Dub",
+      "url": "https://open.spotify.com/track/0j54ClXNKqQLFweBk0oawv"
     },
     {
       "album": {

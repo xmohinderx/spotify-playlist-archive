@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Cover: Zefe
 
-181 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+182 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [MOTORSPORT](https://open.spotify.com/track/2TZrC4DQY7dEohUl00UAmS) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [MOTORSPORT](https://open.spotify.com/album/3FT9uA9e5WuwMM1BuFU2PQ) | 1:55 | 2022-05-10 | 2022-05-27 |
 | [MRIGL](https://open.spotify.com/track/6ivA4XEjWjTzY0Kx5vHhI4) | [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [MRIGL](https://open.spotify.com/album/2hyrs4MP239FTMl1Kyw0ZM) | 2:24 | 2022-06-09 | 2022-07-29 |
 | [Mufasa](https://open.spotify.com/track/3fFLnzgcoKxou014A1UbZh) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb) | [Mufasa](https://open.spotify.com/album/2Jcpoxnspdjc3Jqj9Hj4LU) | 2:31 | 2022-08-04 |  |
-| [MUJER](https://open.spotify.com/track/6MeRMkI1kS0glrxGxut60K) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6s3XBzC7ghTwGeEFEDJRzM) | 2:41 | 2022-07-21 |  |
+| [MUJER](https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV) | 2:41 | 2022-08-04 |  |
+| [MUJER](https://open.spotify.com/track/6MeRMkI1kS0glrxGxut60K) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6s3XBzC7ghTwGeEFEDJRzM) | 2:41 | 2022-07-21 | 2022-08-09 |
 | [MUTISMO SELETTIVO](https://open.spotify.com/track/7nRY78PSzO21WiW2dkmHPE) | [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok) | [HO UCCISO L'HIP HOP ITALIANO](https://open.spotify.com/album/0GAfssfM9kJkIPrbeHotxy) | 2:40 | 2022-06-17 | 2022-06-24 |
 | [My Baby](https://open.spotify.com/track/0RH6vkEKr67OKCnbqjR9p5) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [My Baby](https://open.spotify.com/album/7IkR16ZBkyfGP5uWg4WlAQ) | 2:33 | 2022-05-10 | 2022-06-17 |
 | [Nei pensieri](https://open.spotify.com/track/6YzDPCtvn2wFVZ1v1GA1pG) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Ayden Lau](https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X) | [Nei pensieri](https://open.spotify.com/album/486w35zJtyxWkM7AX2qzIG) | 2:56 | 2022-05-26 | 2022-07-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 401545,
+  "num_followers": 401780,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MTA1OCwwMDAwMDAwMGRkMTgwOWJkYWNiY2MzZjM2MGQ2Yzg0YzM5MGE4OGU2",
+  "snapshot_id": "MTY1NDg2MTA1OCwwMDAwMDAwMGM3YWZhY2M5MmY4Y2RmMzJkMzhlZmVjYWVlZWQzZjNh",
   "tracks": [
     {
       "added_at": "2021-03-29 12:26:54",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-03-16 21:08:09",
       "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+    },
+    {
+      "added_at": "2022-03-16 21:08:09",
+      "album": {
         "name": "Ace of Spades (Expanded Edition)",
         "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 315120,
       "name": "Walk",
       "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
-    },
-    {
-      "added_at": "2022-03-16 21:08:09",
-      "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
       "artists": [
         {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+      "duration_ms": 260773,
+      "name": "Unsainted",
+      "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"
     },
     {
       "added_at": "2021-08-11 12:23:17",
@@ -315,18 +315,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 260773,
-      "name": "Unsainted",
-      "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Night Witches",
-      "url": "https://open.spotify.com/track/1xBRGN41DWx2vwNFY5CvGe"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Twilight Of The Thunder God",
         "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 294866,
       "name": "Only for the Weak",
       "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Night Witches",
+      "url": "https://open.spotify.com/track/1xBRGN41DWx2vwNFY5CvGe"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Repentless",
-        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Repentless",
-      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Reroute to Remain",
         "url": "https://open.spotify.com/album/2V5Jx67RInNn2v0LGihiWh"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 196040,
       "name": "The Nexus",
       "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Executioner's Tax (Swing of the Axe)",
-      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Don't Need You (Edit)",
         "url": "https://open.spotify.com/album/7DRnBLuaOHdetg3zKcrcn0"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 267997,
       "name": "Don't Need You - Edit",
       "url": "https://open.spotify.com/track/7oUkPewtWnIAQ8MncVTXBv"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Executioner's Tax (Swing of the Axe)",
+      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
+        "name": "Choke",
+        "url": "https://open.spotify.com/album/5DmqJ0pRpRSJ210dLGNiGK"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
         "name": "rEVOLVEr (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4i4PTPhqv08GiiEgQPdnZ0"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 172571,
       "name": "Bird On A Chain",
       "url": "https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
-        "name": "Choke",
-        "url": "https://open.spotify.com/album/5DmqJ0pRpRSJ210dLGNiGK"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w"
     },
     {
       "added_at": "2021-03-29 12:26:54",

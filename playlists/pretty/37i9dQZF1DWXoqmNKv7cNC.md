@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres a todo volumen\. En portada: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,057 likes - 48 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,055 likes - 48 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 10 | [I Disagree](https://open.spotify.com/track/5E09pgezFesGrk4ZL9T2cc) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:13 |
 | 11 | [Hush](https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hush](https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq) | 3:01 |
 | 12 | [MONEY](https://open.spotify.com/track/3ttIVj1N3d6hV8t0UL2Mjo) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [ERROR](https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB) | 3:14 |
-| 13 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 |
+| 13 | [No Me Marques Pedo](https://open.spotify.com/track/4XhxL3yq18qWSLxqaYargW) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:31 |
 | 14 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
-| 15 | [No Me Marques Pedo](https://open.spotify.com/track/4XhxL3yq18qWSLxqaYargW) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:31 |
+| 15 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 |
 | 16 | [The Problem Is You](https://open.spotify.com/track/2zA6s6CYiwXzd90ssl4fba) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Black](https://open.spotify.com/album/6pDCHNsoKPspTcVaJsnidX) | 3:33 |
 | 17 | [Easier than Lying](https://open.spotify.com/track/7N1TIml2jRQRgXUrpXgXrk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:26 |
 | 18 | [Don't Assume What You Don't Know](https://open.spotify.com/track/5ir1QKCH1OamaVRa4fN9wt) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Don't Assume What You Don't Know](https://open.spotify.com/album/5homKtdVB4SMM5U7F1H1RX) | 2:35 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 37 | [Abrepuertas](https://open.spotify.com/track/3i12ArneJgbkbDODqTVjy4) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Barro y Fauna](https://open.spotify.com/album/5JuaxO0pna8yVb8spF7xqp) | 2:31 |
 | 38 | [C'est Pas Moi](https://open.spotify.com/track/3ACO1KEw9UqlHQOvJ2DeHs) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/1lVmQ8Kz0ORsjDIqOilw9O) | 3:26 |
 | 39 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 |
-| 40 | [Casa de Naipes](https://open.spotify.com/track/0r75WOh3GTWVF1ZEUcqezo) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Casa de Naipes](https://open.spotify.com/album/4Y7A6pBHZmMPgXP5stE4Th) | 3:17 |
-| 41 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
-| 42 | [Gardenia Dreams](https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:02 |
+| 40 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
+| 41 | [Gardenia Dreams](https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:02 |
+| 42 | [Casa de Naipes](https://open.spotify.com/track/0r75WOh3GTWVF1ZEUcqezo) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Casa de Naipes](https://open.spotify.com/album/4Y7A6pBHZmMPgXP5stE4Th) | 3:17 |
 | 43 | [Me Jodiste](https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Me Jodiste](https://open.spotify.com/album/2l5menS7GnDZE1p4lArfAZ) | 2:46 |
 | 44 | [Boni Naitó](https://open.spotify.com/track/0RJCShociFRKy8aP9szGKz) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/3l8c1HAldEVWFfudlrr64f) | 4:43 |
 | 45 | [Caer](https://open.spotify.com/track/4ISBnFzh1VdY0lybDzFQxK) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 5:11 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 47 | [Golden Child](https://open.spotify.com/track/7FTbo2T1yZrn6EoSgy0eWT) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Immortelle](https://open.spotify.com/album/1J8qyiuSQ0LvDELnkvbEje) | 4:41 |
 | 48 | [Ikite Iru](https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Ikite Iru](https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF) | 3:20 |
 
-Snapshot ID: `MTY1OTUwMDI4OCwwMDAwMDAwMDliYzMwN2FhNjM2NDQ2YzFlYjUwNDg2MzY0YjY3Y2Jl`
+Snapshot ID: `MTY1OTUwMDI4OCwwMDAwMDAwMDI2NmU5NjJhNzhhMDgzMWE1YzNmMzk2MTVkYjIwODhk`

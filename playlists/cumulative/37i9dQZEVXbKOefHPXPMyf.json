@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 132677,
       "name": "Alguien M\u00e1s",
       "url": "https://open.spotify.com/track/2KmMR2NuY9gjDdVXSyUJ9m"
@@ -6102,6 +6102,24 @@
     },
     {
       "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f"
+      },
+      "artists": [
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254080,
+      "name": "Messages from the Stars",
+      "url": "https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1"
+    },
+    {
+      "album": {
         "name": "Mi Bebito Fiu Fiu",
         "url": "https://open.spotify.com/album/5plDkotyuP7UBM9jkDktLB"
       },
@@ -6619,7 +6637,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
@@ -10493,7 +10511,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 196412,
       "name": "Un Coco",
       "url": "https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk"
@@ -10705,6 +10723,24 @@
       "duration_ms": 177893,
       "name": "Usted Qu\u00e9 Har\u00eda?",
       "url": "https://open.spotify.com/track/5VKymQ4msDNpFgDnFhIxau"
+    },
+    {
+      "album": {
+        "name": "V16",
+        "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119106,
+      "name": "V16",
+      "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 131511,
+  "num_followers": 131681,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDg5YjBkYTg5MDA5MTA2YTZjNmI2ZmNlM2M4NzhhZGRl",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGEwZTcyYzRjOTc2MzU1M2NkMDA2NmVkNDg4N2U5OGZl",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Sun Go Down",
-      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "Free",
@@ -495,6 +479,22 @@
       "duration_ms": 166440,
       "name": "Free",
       "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -531,22 +531,18 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "No Time For Dreaming",
-        "url": "https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK"
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
       "artists": [
         {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 191552,
-      "name": "Stay Away",
-      "url": "https://open.spotify.com/track/4ml0940tmn92PzmkSb2lwU"
+      "duration_ms": 242520,
+      "name": "Mrs.",
+      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
     },
     {
       "added_at": "2021-08-02 16:49:06",
@@ -571,18 +567,22 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 242520,
-      "name": "Mrs.",
-      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
+      "duration_ms": 191552,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/4ml0940tmn92PzmkSb2lwU"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        }
-      ],
-      "duration_ms": 200686,
-      "name": "Don\u2019t You Know",
-      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "Black Pumas",
         "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
       },
@@ -695,6 +679,38 @@
       "duration_ms": 237244,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "duration_ms": 200686,
+      "name": "Don\u2019t You Know",
+      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "Sure Don't Miss You",
+      "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -729,22 +745,6 @@
       "url": "https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "Sure Don't Miss You",
-      "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
-    },
-    {
       "added_at": "2022-04-29 04:01:00",
       "album": {
         "name": "One and Only",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Envy",
-        "url": "https://open.spotify.com/album/6rGn9CWP5MHpGCh3muc5ax"
-      },
-      "artists": [
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "Durand Jones & The Indications (Deluxe Edition)",
@@ -809,20 +793,20 @@
       "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/6rGn9CWP5MHpGCh3muc5ax"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
         }
       ],
-      "duration_ms": 204747,
-      "name": "Through It All",
-      "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
+      "duration_ms": 247133,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -847,6 +831,22 @@
       "duration_ms": 196840,
       "name": "Human (feat. Vince Harder & Louis Baker)",
       "url": "https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 204747,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -883,26 +883,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Cruisin' To The Parque feat. Y La Bamba",
-        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 215204,
-      "name": "Cruisin' to the Parque feat. Y La Bamba",
-      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Bury Me",
         "url": "https://open.spotify.com/album/30t9ltSIwCagrzwMSHHnZb"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 174688,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/6lTZctflz7IxPbWKXGJVVS"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Cruisin' To The Parque feat. Y La Bamba",
+        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 215204,
+      "name": "Cruisin' to the Parque feat. Y La Bamba",
+      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Pelvis Pusher",
-        "url": "https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8"
-      },
-      "artists": [
-        {
-          "name": "Vintage Trouble",
-          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
-        }
-      ],
-      "duration_ms": 187782,
-      "name": "Pelvis Pusher",
-      "url": "https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "If Words Were Flowers",
@@ -1091,6 +1075,22 @@
       "duration_ms": 286253,
       "name": "Explore",
       "url": "https://open.spotify.com/track/15fow3n2T8cgsPH9FBItjL"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Pelvis Pusher",
+        "url": "https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "Pelvis Pusher",
+      "url": "https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -1123,6 +1123,22 @@
       "duration_ms": 300677,
       "name": "Whatever You Are",
       "url": "https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l"
     },
     {
       "added_at": "2021-11-05 04:01:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 216900,
       "name": "Don\u2019t Want It to Be Over (ft. Coco O.)",
       "url": "https://open.spotify.com/track/3vlu7Y9U9HXxqSmQecmKhZ"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Big Crown Vaults Vol. 1 - Lee Fields & The Expressions",
-        "url": "https://open.spotify.com/album/2uKHclIQ4IphYCgJyKfSCe"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        }
-      ],
-      "duration_ms": 212939,
-      "name": "Regenerate",
-      "url": "https://open.spotify.com/track/6eFsavqVXRlyeSnlX75pc4"
     }
   ],
   "unique_name": "Retro Soul",

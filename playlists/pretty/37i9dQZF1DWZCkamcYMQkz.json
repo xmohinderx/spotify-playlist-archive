@@ -1,12 +1,12 @@
 {
   "description": "Uplifting jazz to get you in a good mood.",
-  "num_followers": 63987,
+  "num_followers": 64103,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQyNjc1MiwwMDAwMDAwMGU1ZGYzN2IzYzJjMjk5NGJhZjIyYjUyMmQzYWNkYTlj",
+  "snapshot_id": "MTY1NjQyNjc1MiwwMDAwMDAwMDY4NTQzMGRhMTE4NmVkMTBkZTQ2ZGRmYjk1MWRkYWNl",
   "tracks": [
     {
       "added_at": "2022-06-28 14:32:32",
@@ -315,18 +315,22 @@
     {
       "added_at": "2022-06-28 14:32:32",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 167160,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
+      "duration_ms": 149080,
+      "name": "O Pato",
+      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
     },
     {
       "added_at": "2022-06-28 14:32:32",
@@ -363,22 +367,18 @@
     {
       "added_at": "2022-06-28 14:32:32",
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 149080,
-      "name": "O Pato",
-      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
+      "duration_ms": 167160,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
     },
     {
       "added_at": "2022-06-28 14:32:32",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-06-28 14:32:32",
       "album": {
-        "name": "Dinah! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
+        "name": "The Modern Sound Of Betty Carter",
+        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         }
       ],
-      "duration_ms": 225840,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
+      "duration_ms": 116320,
+      "name": "Jazz (Ain't Nothin' But Soul)",
+      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
     },
     {
       "added_at": "2022-06-28 14:32:32",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-06-28 14:32:32",
       "album": {
-        "name": "The Modern Sound Of Betty Carter",
-        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
+        "name": "Dinah! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 116320,
-      "name": "Jazz (Ain't Nothin' But Soul)",
-      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
+      "duration_ms": 225840,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
     },
     {
       "added_at": "2022-06-28 14:32:32",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-06-28 14:32:32",
       "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
-    },
-    {
-      "added_at": "2022-06-28 14:32:32",
-      "album": {
         "name": "Time To Swing",
         "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 116280,
       "name": "When Lights Are Low",
       "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
+    },
+    {
+      "added_at": "2022-06-28 14:32:32",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2022-06-28 14:32:32",

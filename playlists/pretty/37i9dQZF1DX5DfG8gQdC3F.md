@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,353 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,374 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 45 | [Grateful](https://open.spotify.com/track/6HsYNlzAVIUBiVP3cqKDEw) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Grateful](https://open.spotify.com/album/598jXWuHO8I2gPZjZBIxxt) | 2:57 |
 | 46 | [nascar](https://open.spotify.com/track/42r7K7a8732waijtnMC5m2) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2), [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [nascar](https://open.spotify.com/album/0wYN2O7hrc3FqrbOfNh6xk) | 3:07 |
 | 47 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 |
-| 48 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 |
+| 48 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 |
 | 49 | [Back To Life](https://open.spotify.com/track/5wNGUMe8vOhP54fsOxNq1M) | [Vanrip](https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Back To Life](https://open.spotify.com/album/2jAKIy0GwtIfX0pmBGLM94) | 2:34 |
 | 50 | [Time and Time Again](https://open.spotify.com/track/5jkPpSNNTrdqz9J57Ovanl) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Hotel Mira](https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw) | [Time and Time Again](https://open.spotify.com/album/6JqXrsNLQjSeKDd979ivzG) | 3:13 |
 | 51 | [ENDLESS](https://open.spotify.com/track/3TxyqRYBKljvmY6l0iNqFg) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [ENDLESS](https://open.spotify.com/album/7dKuJH9pxoEOGkMfYiY2PB) | 2:45 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 97 | [Drinking With My Friends](https://open.spotify.com/track/59CFbVcuHNoHm7KCtkezzR) | [Mark Ledlin](https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5) | [Drinking With My Friends](https://open.spotify.com/album/1B7QC8MTY8wAyA7cOf3qVW) | 3:10 |
 | 98 | [Come Back Now](https://open.spotify.com/track/5SfFT1xyFE1NFr33Fxf3Pg) | [Pelch](https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV) | [Come Back Now](https://open.spotify.com/album/1U8Ix0BqWFRKnkL4nbkClT) | 2:32 |
 | 99 | [Beirut](https://open.spotify.com/track/2EKzesTMl7KXs7FoCOVxSV) | [Seelo](https://open.spotify.com/artist/4n68pXVRVB9JemWAyAgRan) | [Beirut](https://open.spotify.com/album/7gi48HpVdMNRAEOzKvV2Bo) | 5:23 |
-| 100 | [Plantera](https://open.spotify.com/track/0DnYIsHM37GSfLD0Z9WbPm) | [The Holy](https://open.spotify.com/artist/1TbvivzNnNhTp6UlWh1xqz) | [Plantera](https://open.spotify.com/album/1BhyIi6RluYOVqEuswY6Cm) | 2:47 |
+| 100 | [Plantera](https://open.spotify.com/track/0DnYIsHM37GSfLD0Z9WbPm) | [The Holy](https://open.spotify.com/artist/1TbvivzNnNhTp6UlWh1xqz) | [Plantera](https://open.spotify.com/album/1BhyIi6RluYOVqEuswY6Cm) | 4:46 |
 
 Snapshot ID: `MTY1OTY3NTU4MCwwMDAwMDAwMGYzNDI1NzQxNzI5NzZiOGM5Mzg2MGE0NTY2NTlhZGUw`

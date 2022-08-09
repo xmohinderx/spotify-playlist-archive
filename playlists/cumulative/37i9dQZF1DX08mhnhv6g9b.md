@@ -4,7 +4,7 @@
 
 > This is the PROOF of BTS history\. ARMY is unbeatable💜
 
-422 songs - 1 day 1 hr 50 min - [published](https://open.spotify.com/playlist/0H29pOOi9iH82uofXTdelu)
+424 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/0H29pOOi9iH82uofXTdelu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Autumn Leaves](https://open.spotify.com/track/158kubraiqKrcYpRsDHrBU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 4:27 | 2022-05-27 |  |
 | [Awake](https://open.spotify.com/track/1GZ4rjIbktlYy1n7zmyCmq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:46 | 2022-05-27 |  |
 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 | 2022-05-27 |  |
+| [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-08 |  |
 | [Begin](https://open.spotify.com/track/0Q2rXWKozTyewEaVUkFhmA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:49 | 2022-05-27 |  |
 | [Begin](https://open.spotify.com/track/0bGJHUPR6ems9tzIljlPFR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:49 | 2022-05-27 |  |
 | [Begin](https://open.spotify.com/track/6KQSeSPqBa15gMWLO1fdkk) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy) | 3:49 | 2022-06-10 | 2022-06-18 |
@@ -237,6 +238,7 @@
 | [Jump](https://open.spotify.com/track/6bv8GUc337blg2QcskhdAJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair \(Special Addition\)](https://open.spotify.com/album/0pX41mddl0CZXxpxkQ7347) | 3:56 | 2022-05-27 |  |
 | [Just One Day](https://open.spotify.com/track/5oXLcjfVfq0QxIfgIHgYGn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair \(Special Addition\)](https://open.spotify.com/album/0pX41mddl0CZXxpxkQ7347) | 3:59 | 2022-05-27 |  |
 | [Just One Day](https://open.spotify.com/track/6t7WriKgVszATnrdBKSUAf) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) | 3:59 | 2022-05-27 |  |
+| [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-08-08 |  |
 | [Let Go](https://open.spotify.com/track/1OqDvYVDhJyFZny7XlfIyZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [FACE YOURSELF](https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t) | 4:59 | 2022-06-10 | 2022-06-18 |
 | [Let Me Know](https://open.spotify.com/track/2uqzfXB7NlBnhQd04W7HaH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 4:14 | 2022-05-27 |  |
 | [Lie](https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:35 | 2022-05-27 |  |

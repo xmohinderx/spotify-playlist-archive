@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Brent Faiyaz",
-  "num_followers": 31976,
+  "num_followers": 32028,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTc4MjY0MCwwMDAwMDAwMDA4ZGQwZTE2NjAwMWYwMGY3Y2JhNDBiYjg3ZjNjZGRm",
+  "snapshot_id": "MTY1OTc4MjY0MCwwMDAwMDAwMDc0MDgxM2RkZGMxNTM0MWM1YzZkMDMyNmNjNTQ2ZTI5",
   "tracks": [
     {
       "added_at": "2022-08-05 04:11:54",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Please Do Not Lean",
         "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
       },
@@ -183,22 +199,6 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 158420,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 168182,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 158420,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -263,6 +263,22 @@
       "duration_ms": 183133,
       "name": "Closure (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 242823,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -345,22 +361,6 @@
       "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 226011,
-      "name": "LOOSE CHANGE",
-      "url": "https://open.spotify.com/track/00imgaPlYRrMGn9o83hfmk"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Still Over It",
@@ -381,6 +381,22 @@
       "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "LOOSE CHANGE",
+      "url": "https://open.spotify.com/track/00imgaPlYRrMGn9o83hfmk"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Damage",
@@ -395,54 +411,6 @@
       "duration_ms": 223414,
       "name": "Damage",
       "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 242823,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Not Another Love Song",
-        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "Not Another Love Song",
-      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -463,6 +431,22 @@
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Not Another Love Song",
+        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "Not Another Love Song",
+      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -565,6 +549,22 @@
       "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Hello Poison",
         "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
       },
@@ -619,38 +635,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 177445,
-      "name": "Still Your Best",
-      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "DYING 4 YOUR LOVE",
+      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 264826,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "When It's All Said And Done",
+        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 177445,
+      "name": "Still Your Best",
+      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -701,22 +717,6 @@
       "url": "https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        }
-      ],
-      "duration_ms": 133671,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Give Me Time",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
         }
       ],
-      "duration_ms": 204133,
-      "name": "DYING 4 YOUR LOVE",
-      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
+      "duration_ms": 133671,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/4elUB6bs5rrPbqlajs1oYp"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "sorry",
-        "url": "https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 220199,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Candydrip",
@@ -827,6 +811,22 @@
       "duration_ms": 164000,
       "name": "Fuckin' Sound",
       "url": "https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "sorry",
+        "url": "https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 220199,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp"
     },
     {
       "added_at": "2022-07-15 04:00:00",

@@ -321,7 +321,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 182344,
       "name": "Don Javier",
       "url": "https://open.spotify.com/track/67itWL3fAichn37PsSmIBp"
@@ -1537,6 +1537,24 @@
       "duration_ms": 124766,
       "name": "Pasos Lentos",
       "url": "https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe"
+    },
+    {
+      "album": {
+        "name": "Aprendimos A Jugar",
+        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152789,
+      "name": "Pensando",
+      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,362 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,488 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Make Me Believe](https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:12 |
 | 50 | [De Sigilos y Decretos](https://open.spotify.com/track/7fqR5Ybmw7CWdTdAzf5mHB) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [De Sigilos y Decretos](https://open.spotify.com/album/1Kcf9JddHIfAopxbYjH9xD) | 3:25 |
 | 51 | [FIESTA](https://open.spotify.com/track/53J6mcJJi34Ye0H4RV37hr) | [Kayfex](https://open.spotify.com/artist/1q5Pr05duW9ClrbnBlu4Jb), [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Janick](https://open.spotify.com/artist/6sedFBNeeN81vGdlfJ4vc8) | [ATIPANAKUY](https://open.spotify.com/album/5g3Xq0SVYdES377jQEJs90) | 3:10 |
-| 52 | [Vizão de Cria 2](https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ) | [Vizão de Cria 2](https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl) | 5:06 |
+| 52 | [Vizão de Cria 2](https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vizão de Cria 2](https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl) | 5:06 |
 | 53 | [BRINCA COM A...](https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [BRINCA COM A...](https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2) | 3:02 |
 | 54 | [Liga e Me Chama](https://open.spotify.com/track/6Ue3Pam5yCOWSjvzuZNOQP) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V) | [Meu Momento](https://open.spotify.com/album/3bCaNWsIUz4HphHgvvpFIq) | 4:20 |
 

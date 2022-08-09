@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Sael, el pibe.
 
-130 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
+131 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Pal Carajo el Amor](https://open.spotify.com/track/4AM8g5OElpKpuHjMuH1PSk) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Pal Carajo el Amor](https://open.spotify.com/album/4gpZ0GHKxJitDg4SjosXm5) | 3:16 | 2022-05-24 |  |
 | [Peligrosa](https://open.spotify.com/track/1upN12BuuI00PtPX5RwWQA) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Peligrosa](https://open.spotify.com/album/126iuno9i89GrSPRHDO4Er) | 2:22 | 2022-07-15 | 2022-07-23 |
 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 | 2022-05-24 |  |
-| [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 | 2022-06-23 |  |
+| [Perreo Bendito](https://open.spotify.com/track/56uvG8rHQkvEtbRXK2R8rx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:39 | 2022-08-05 |  |
+| [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 | 2022-06-23 | 2022-08-09 |
 | [Prende la Cámara](https://open.spotify.com/track/2UcWAHN6TRQtkZovAuwySo) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Prende la Cámara](https://open.spotify.com/album/4IYIOVFW703lcHN7ZTHexe) | 2:28 | 2022-05-24 |  |
 | [Pretinha](https://open.spotify.com/track/0gokl2danyrRzlPh8OcOtN) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Pretinha](https://open.spotify.com/album/7rAsMPibZeliLEAwohmqZz) | 2:29 | 2022-05-24 |  |
 | [Quiero](https://open.spotify.com/track/7MPxWi6W7VH5DNusjwNhbn) | [Alejo Park](https://open.spotify.com/artist/0u4eSD22YhmWJMg1A22GBw) | [Quiero](https://open.spotify.com/album/14Bt8cXWLWmEaqIUDtdCze) | 2:46 | 2022-05-24 |  |

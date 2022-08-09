@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Antrax Party",
+        "url": "https://open.spotify.com/album/0oVeMtUUBJHWxyzjlWiWIX"
+      },
+      "artists": [
+        {
+          "name": "Estilo DGO",
+          "url": "https://open.spotify.com/artist/61nSRCP4FEIxRssDLk2yC4"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219169,
+      "name": "Antrax Party",
+      "url": "https://open.spotify.com/track/2MjoOpV7Epx7lvcOkmvB54"
+    },
+    {
+      "album": {
         "name": "ARRANCARMELO",
         "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
       },
@@ -1105,6 +1123,24 @@
       "duration_ms": 297053,
       "name": "Cachito De Galaxia",
       "url": "https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN"
+    },
+    {
+      "album": {
+        "name": "L3tra",
+        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141340,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
     },
     {
       "album": {
@@ -1841,7 +1877,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 243773,
       "name": "Cupid's Chokehold / Breakfast in America",
       "url": "https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"
@@ -3333,6 +3369,24 @@
       "duration_ms": 204963,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
+    },
+    {
+      "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234613,
+      "name": "J.",
+      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
     },
     {
       "album": {
@@ -6721,7 +6775,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"

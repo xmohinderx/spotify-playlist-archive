@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Sleater\-Kinney, in celebration of their new album "Path of Wellness," co\-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,757 likes - 69 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,791 likes - 69 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

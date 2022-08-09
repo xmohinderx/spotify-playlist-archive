@@ -1,12 +1,12 @@
 {
   "description": "cry just a little",
-  "num_followers": 13346,
+  "num_followers": 13541,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NTIwMSwwMDAwMDAwMDRhMjFmYjkzYTkxYzBkMDE5MGIyZjdjODQwMWRhNTRk",
+  "snapshot_id": "MTY1ODc4NTIwMSwwMDAwMDAwMGMzYTYxM2FhZDdiZTNiNGI0ZGU0MzkxMmVkZmYwMTUy",
   "tracks": [
     {
       "added_at": "2022-07-25 21:40:01",
@@ -99,38 +99,6 @@
     {
       "added_at": "2022-07-25 21:40:01",
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "7 Summers",
-      "url": "https://open.spotify.com/track/4obHzpwGrjoTuZh2DItEMZ"
-    },
-    {
-      "added_at": "2022-07-25 21:40:01",
-      "album": {
-        "name": "The Way It Feels",
-        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Die From A Broken Heart",
-      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
-    },
-    {
-      "added_at": "2022-07-25 21:40:01",
-      "album": {
         "name": "I Quit Drinking",
         "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
       },
@@ -151,6 +119,22 @@
     {
       "added_at": "2022-07-25 21:40:01",
       "album": {
+        "name": "The Way It Feels",
+        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Die From A Broken Heart",
+      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
+    },
+    {
+      "added_at": "2022-07-25 21:40:01",
+      "album": {
         "name": "Sayin' What I'm Thinkin'",
         "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 203373,
       "name": "Things A Man Oughta Know",
       "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
+    },
+    {
+      "added_at": "2022-07-25 21:40:01",
+      "album": {
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
     },
     {
       "added_at": "2022-07-25 21:40:01",
@@ -183,34 +183,18 @@
     {
       "added_at": "2022-07-25 21:40:01",
       "album": {
-        "name": "29: Written In Stone",
-        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 191226,
-      "name": "What He Didn't Do",
-      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
-    },
-    {
-      "added_at": "2022-07-25 21:40:01",
-      "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
+      "duration_ms": 210506,
+      "name": "7 Summers",
+      "url": "https://open.spotify.com/track/4obHzpwGrjoTuZh2DItEMZ"
     },
     {
       "added_at": "2022-07-25 21:40:01",
@@ -259,6 +243,22 @@
       "duration_ms": 193320,
       "name": "Girl Crush",
       "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
+    },
+    {
+      "added_at": "2022-07-25 21:40:01",
+      "album": {
+        "name": "29: Written In Stone",
+        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "What He Didn't Do",
+      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
     },
     {
       "added_at": "2022-07-25 21:40:01",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-07-25 21:40:01",
       "album": {
-        "name": "Greener Pasture",
-        "url": "https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 189442,
-      "name": "Greener Pasture",
-      "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
-    },
-    {
-      "added_at": "2022-07-25 21:40:01",
-      "album": {
         "name": "Just About Over You",
         "url": "https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 179213,
       "name": "Just About Over You",
       "url": "https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX"
+    },
+    {
+      "added_at": "2022-07-25 21:40:01",
+      "album": {
+        "name": "Greener Pasture",
+        "url": "https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 189442,
+      "name": "Greener Pasture",
+      "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
     },
     {
       "added_at": "2022-07-25 21:40:01",
@@ -791,6 +791,26 @@
     {
       "added_at": "2022-07-25 21:40:01",
       "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
+    },
+    {
+      "added_at": "2022-07-25 21:40:01",
+      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 215640,
       "name": "Wasting All These Tears",
       "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
-    },
-    {
-      "added_at": "2022-07-25 21:40:01",
-      "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
     }
   ],
   "unique_name": "sad girl country",

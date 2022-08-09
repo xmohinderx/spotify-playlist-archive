@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 7412,
+  "num_followers": 7419,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGEzY2ViNTVlZDU0YzgyNGQ3OWIzYmE0ZmJmMTllYTBk",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGViMDIyYTlmZmZmODdkMzk5YjNmNWI4ODdlYzEyMTc1",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Heaven Passport",
         "url": "https://open.spotify.com/album/1X7HsL7j4VaFP1kpRIZadN"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 193226,
       "name": "Mobster",
       "url": "https://open.spotify.com/track/00mDz9iEvKOdLHNmvucEhs"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Baila Riddim",
         "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Demon Girl",
-        "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
       },
       "artists": [
         {
-          "name": "Tommy Lee Sparta",
-          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
         }
       ],
-      "duration_ms": 202422,
-      "name": "Demon Girl",
-      "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -447,6 +431,22 @@
       "duration_ms": 164106,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Demon Girl",
+        "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+        }
+      ],
+      "duration_ms": 202422,
+      "name": "Demon Girl",
+      "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
-      },
-      "artists": [
-        {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
-        }
-      ],
-      "duration_ms": 146681,
-      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Progress Riddim",
         "url": "https://open.spotify.com/album/4DInWuzCI8yOwhoV0uZwqn"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 210806,
       "name": "Up Top Boss",
       "url": "https://open.spotify.com/track/3plfljoZKGixRbQ2u6o2et"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
+      },
+      "artists": [
+        {
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+        }
+      ],
+      "duration_ms": 146681,
+      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg"
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
         }
       ],
-      "duration_ms": 221160,
-      "name": "Play Harder",
-      "url": "https://open.spotify.com/track/2dw6cb4LDjFIEsLi0PJnDv"
+      "duration_ms": 137195,
+      "name": "Shots (One for Di Road)",
+      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -763,18 +763,34 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
+        "name": "Rats Hole Riddim",
+        "url": "https://open.spotify.com/album/2bxqMNQQaU2dhZC2aMqx5X"
       },
       "artists": [
         {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
         }
       ],
-      "duration_ms": 137195,
-      "name": "Shots (One for Di Road)",
-      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
+      "duration_ms": 190560,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/6ZcjqhiK2heWFJUb3BmO9x"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Play Harder",
+      "url": "https://open.spotify.com/track/2dw6cb4LDjFIEsLi0PJnDv"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -791,22 +807,6 @@
       "duration_ms": 169241,
       "name": "Weak",
       "url": "https://open.spotify.com/track/4TNpd91LNGPTlSvbTh5i0Y"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Rats Hole Riddim",
-        "url": "https://open.spotify.com/album/2bxqMNQQaU2dhZC2aMqx5X"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/6ZcjqhiK2heWFJUb3BmO9x"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Darkseid Riddim",
-        "url": "https://open.spotify.com/album/4ZiVdukO3hIobnU3ntuq68"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        }
-      ],
-      "duration_ms": 214738,
-      "name": "Nasty Up",
-      "url": "https://open.spotify.com/track/2HCI4c62Y29dpP3P9Kkrdd"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Big Ride Riddim",
         "url": "https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 126458,
       "name": "Man with Ride (Big Ride)",
       "url": "https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Darkseid Riddim",
+        "url": "https://open.spotify.com/album/4ZiVdukO3hIobnU3ntuq68"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        }
+      ],
+      "duration_ms": 214738,
+      "name": "Nasty Up",
+      "url": "https://open.spotify.com/track/2HCI4c62Y29dpP3P9Kkrdd"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Bad in Bum Bum / Back Bend",
-        "url": "https://open.spotify.com/album/6JUFe9DFTZpLvvPn8eaw2Q"
-      },
-      "artists": [
-        {
-          "name": "Subance",
-          "url": "https://open.spotify.com/artist/0OjTKknaOkq9QvKKffPdpU"
-        },
-        {
-          "name": "Mighty",
-          "url": "https://open.spotify.com/artist/3PnlA98s6IiZBAg6sIF8ju"
-        }
-      ],
-      "duration_ms": 151431,
-      "name": "Bad in Bum Bum / Back Bend",
-      "url": "https://open.spotify.com/track/2H1pDTHPj2RiaPKToUn73E"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Feeling It",
         "url": "https://open.spotify.com/album/0P6SHtWPIF5mAa88FfzDJL"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 247272,
       "name": "Feeling It",
       "url": "https://open.spotify.com/track/4NpXmgdiPB75BvFr8C07qD"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Bad in Bum Bum / Back Bend",
+        "url": "https://open.spotify.com/album/6JUFe9DFTZpLvvPn8eaw2Q"
+      },
+      "artists": [
+        {
+          "name": "Subance",
+          "url": "https://open.spotify.com/artist/0OjTKknaOkq9QvKKffPdpU"
+        },
+        {
+          "name": "Mighty",
+          "url": "https://open.spotify.com/artist/3PnlA98s6IiZBAg6sIF8ju"
+        }
+      ],
+      "duration_ms": 151431,
+      "name": "Bad in Bum Bum / Back Bend",
+      "url": "https://open.spotify.com/track/2H1pDTHPj2RiaPKToUn73E"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Honda",
-        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
-      },
-      "artists": [
-        {
-          "name": "Twani",
-          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
-        }
-      ],
-      "duration_ms": 213864,
-      "name": "Honda",
-      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bus a Wine",
         "url": "https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 183050,
       "name": "Bus a Wine",
       "url": "https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Honda",
+        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
+      },
+      "artists": [
+        {
+          "name": "Twani",
+          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Honda",
+      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
     },
     {
       "added_at": "2022-02-24 18:00:00",

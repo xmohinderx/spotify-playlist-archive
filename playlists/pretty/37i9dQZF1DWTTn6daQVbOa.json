@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s.",
-  "num_followers": 320966,
+  "num_followers": 321553,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDU5OTU4NiwwMDAwMDAwMDJlNzVjMmNmYjY5MmY4ZDM2Y2I2ODA5ZGRmMDBiNTM1",
+  "snapshot_id": "MTY1NDU5OTU4NiwwMDAwMDAwMGI1OWEyMTQyZTJlYzdmNDhjZjBmMzY1M2Q3NGU0MTUw",
   "tracks": [
     {
       "added_at": "2021-04-22 22:02:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 220626,
       "name": "Rock with You - Single Version",
       "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 192826,
-      "name": "Goodbye Yellow Brick Road - Remastered 2014",
-      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -395,6 +379,22 @@
       "duration_ms": 218440,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "Goodbye Yellow Brick Road - Remastered 2014",
+      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 256240,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 146175,
       "name": "Time in a Bottle",
       "url": "https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
-        "name": "Ultimate Collection: Dobie Gray",
-        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Drift Away - Single Version",
-      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+        "name": "Ultimate Collection: Dobie Gray",
+        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
         }
       ],
-      "duration_ms": 256240,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
+      "duration_ms": 237466,
+      "name": "Drift Away - Single Version",
+      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 308853,
-      "name": "Take The Long Way Home - 2010 Remastered",
-      "url": "https://open.spotify.com/track/0v0XYK0pLgsPiq5u4FKHaw"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 278040,
       "name": "After the Love Has Gone",
       "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 308853,
+      "name": "Take The Long Way Home - 2010 Remastered",
+      "url": "https://open.spotify.com/track/0v0XYK0pLgsPiq5u4FKHaw"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
-      },
-      "artists": [
-        {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "Do That To Me One More Time",
-      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 284906,
       "name": "Me and Mrs. Jones",
       "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "duration_ms": 256666,
+      "name": "Do That To Me One More Time",
+      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "The Long And Winding Road - Remastered 2009",
-      "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 238413,
       "name": "The Only Living Boy in New York",
       "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "The Long And Winding Road - Remastered 2009",
+      "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
         "name": "Brother To Brother",
         "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
         "name": "First Under The Wire (2010 Remaster)",
         "url": "https://open.spotify.com/album/6vCT1BZLicHHNWc0McAWb2"
       },
@@ -1531,54 +1531,6 @@
       "duration_ms": 313320,
       "name": "Cool Change - Remastered",
       "url": "https://open.spotify.com/track/1RaUxP6LHVAgbmLOn2naLl"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
-        "name": "Caribou",
-        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 336733,
-      "name": "Don't Let The Sun Go Down On Me",
-      "url": "https://open.spotify.com/track/11FcfHd3SOmmrWJPGe7Y30"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
-        "name": "Life Beyond L.A.",
-        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "How Much I Feel",
-      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
     },
     {
       "added_at": "2021-11-08 08:07:40",
@@ -1599,18 +1551,50 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "Trafalgar",
-        "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 237826,
-      "name": "How Can You Mend A Broken Heart",
-      "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
+      "duration_ms": 336733,
+      "name": "Don't Let The Sun Go Down On Me",
+      "url": "https://open.spotify.com/track/11FcfHd3SOmmrWJPGe7Y30"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Life Beyond L.A.",
+        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "How Much I Feel",
+      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -1627,6 +1611,22 @@
       "duration_ms": 218946,
       "name": "Don't give up on us",
       "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Trafalgar",
+        "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "How Can You Mend A Broken Heart",
+      "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
         "name": "Feel Like Makin' Love",
         "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 175400,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -1777,22 +1777,6 @@
       "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
     },
     {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
-        "name": "Closeup",
-        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "My Eyes Adored You",
-      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
-    },
-    {
       "added_at": "2021-06-07 06:21:52",
       "album": {
         "name": "Teaser And The Firecat (Remastered 2021)",
@@ -1807,6 +1791,22 @@
       "duration_ms": 168120,
       "name": "Moonshadow - Remastered 2021",
       "url": "https://open.spotify.com/track/5p3nvmoaAY03qGmBQApn0w"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Closeup",
+        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "My Eyes Adored You",
+      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
         "name": "2 Hot!",
         "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 345240,
       "name": "Reunited",
       "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Handy Man",
+      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
         "name": "I'm In You",
         "url": "https://open.spotify.com/album/1yn9J074uklyngo5SGS49U"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 218266,
       "name": "She's Out of My Life - Single Version",
       "url": "https://open.spotify.com/track/6NGsHLZYGVAkXTFr75WWnn"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Handy Man",
-      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
     },
     {
       "added_at": "2021-04-22 22:02:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2021-04-22 22:02:00",
       "album": {
-        "name": "Radio Hits Of the '70s",
-        "url": "https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG"
-      },
-      "artists": [
-        {
-          "name": "Terry Jacks",
-          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Seasons in the Sun",
-      "url": "https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR"
-    },
-    {
-      "added_at": "2021-04-22 22:02:00",
-      "album": {
         "name": "All The Great Love Songs",
         "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 217426,
       "name": "Three Times A Lady",
       "url": "https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM"
+    },
+    {
+      "added_at": "2021-04-22 22:02:00",
+      "album": {
+        "name": "Radio Hits Of the '70s",
+        "url": "https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG"
+      },
+      "artists": [
+        {
+          "name": "Terry Jacks",
+          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Seasons in the Sun",
+      "url": "https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR"
     }
   ],
   "unique_name": "Soft 70s",

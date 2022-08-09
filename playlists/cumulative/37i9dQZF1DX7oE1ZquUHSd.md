@@ -4,7 +4,7 @@
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-460 songs - 1 day 7 hr 23 min - [published](https://open.spotify.com/playlist/7edC6Keo79iDrg2lm86gJ3)
+461 songs - 1 day 7 hr 28 min - [published](https://open.spotify.com/playlist/7edC6Keo79iDrg2lm86gJ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Desde](https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Desde](https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL) | 4:37 | 2021-11-16 | 2022-07-04 |
 | [Desde Mi Ventana](https://open.spotify.com/track/5rvwFXqovvVLIX2ZwbMjoM) | [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr) | [La Misiva \(Edicion Especial\)](https://open.spotify.com/album/3QTlgekjKmbJhpDtHvK7Dv) | 4:41 | 2021-11-16 | 2022-07-28 |
 | [Digo Lo Que Pienso](https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:53 | 2021-11-16 | 2022-07-13 |
+| [Dios, El Diablo Y Yo](https://open.spotify.com/track/1oN8lrSSYirjd79ajvnYh7) | [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj) | 4:56 | 2021-11-16 |  |
 | [Dios, el Diablo y Yo](https://open.spotify.com/track/5yqmKfNauxmMDrRpGgo4qa) | [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/0MbyCMVuUQYUAJ4B1bLExm) | 4:56 | 2021-11-16 | 2022-07-29 |
 | [Don Dinero](https://open.spotify.com/track/6Bcn8SR6msEEzmKcypdILt) | [Muro de Cráneos](https://open.spotify.com/artist/02DvUfztcmjLdCFRysedNb), [White Shit State](https://open.spotify.com/artist/7xxj65R3e17WXuZTU67HxR) | [Don Dinero](https://open.spotify.com/album/2HAdFxGDInClMDJMJWJLpP) | 5:20 | 2021-11-16 | 2022-06-08 |
 | [Don't Stop](https://open.spotify.com/track/7pNk0wJBkt30rKifsPUt04) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Don't Stop](https://open.spotify.com/album/1zuzyKT3Z063oxlvNcQgLq) | 3:33 | 2021-11-16 | 2022-07-10 |
@@ -128,7 +129,7 @@
 | [Dr\. Dedoverde \(Dr\. Greenthumb\) \- Spanish Version](https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:58 | 2021-11-16 | 2022-07-28 |
 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 | 2021-11-16 |  |
 | [Días Azules](https://open.spotify.com/track/7yU2Ns8HuC032vpwyjPnlL) | [Akela](https://open.spotify.com/artist/5ksW33WNXglodrh0ZQBUD8), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Desprendimiento](https://open.spotify.com/album/4ZGnM2TWpud5QdMeDw9u2R) | 4:49 | 2021-11-16 | 2022-07-13 |
-| [Efectos Vocales](https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 4:36 | 2021-11-16 |  |
+| [Efectos Vocales](https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 4:36 | 2021-11-16 | 2022-08-09 |
 | [El Arte del Engaño](https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. II](https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x) | 4:22 | 2021-11-16 |  |
 | [El Barrio](https://open.spotify.com/track/5ygLlDKTo2bQysufOgQprn) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Sick Jacken](https://open.spotify.com/artist/2Rf13iETx8NVJLIc5N6Ub4), [Cynic](https://open.spotify.com/artist/1ZVDYl1dou6SF7rxRY7aO4) | [The Legend Of The Mask & The Assasin](https://open.spotify.com/album/2VDt6ZSul6beOvhO5wZ6gt) | 4:19 | 2021-11-16 | 2022-07-18 |
 | [El Chivo \(feat\. T3r Elemento\)](https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [El Chivo](https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP) | 4:35 | 2021-11-16 |  |

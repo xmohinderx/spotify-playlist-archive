@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-101 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/2tB1ux7wGPv1Xl4KlF6iA7)
+102 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/2tB1ux7wGPv1Xl4KlF6iA7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Dejame un Beso](https://open.spotify.com/track/44XPackiUJxgd1WZJ4ohy5) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Dejame Un Beso](https://open.spotify.com/album/1wIWgB8pJUZlMfYD0OUvRP) | 3:53 | 2022-05-13 |  |
 | [Deseándote](https://open.spotify.com/track/1THrLq1IPWwpisMdF9Ivya) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 4:43 | 2022-05-13 |  |
 | [Dilema](https://open.spotify.com/track/3e6CZDsRIGAD85VUSe79Dj) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W) | [Dilema](https://open.spotify.com/album/7uJGgg2KJD9yBcRy0hc56P) | 4:11 | 2022-05-13 |  |
-| [Dime Cómo Hago](https://open.spotify.com/track/5SQMbspeEIYJPkXDWeiOJH) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Oscarcito](https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ) | [Dime Cómo Hago](https://open.spotify.com/album/5vab2Rt5XSdV8QAk1pqAqO) | 3:48 | 2022-05-13 |  |
+| [Dime Cómo Hago](https://open.spotify.com/track/3WSASuEFLKfnGbn3ZelPdu) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Oscarcito](https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ) | [Dime Cómo Hago](https://open.spotify.com/album/5JvSBEoi4cOPAdFMpR178G) | 3:48 | 2022-07-15 |  |
+| [Dime Cómo Hago](https://open.spotify.com/track/5SQMbspeEIYJPkXDWeiOJH) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Oscarcito](https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ) | [Dime Cómo Hago](https://open.spotify.com/album/5vab2Rt5XSdV8QAk1pqAqO) | 3:48 | 2022-05-13 | 2022-08-09 |
 | [Dime Cómo Hago \- \(Versión Salsa\)](https://open.spotify.com/track/4LknpTc1p9XbeRTpp2hYqf) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP) | [Dime Cómo Hago](https://open.spotify.com/album/0ZlOYdEeqYUbi4iRrOlN0x) | 3:33 | 2022-05-13 |  |
 | [El Aventurero \(with Yeison Jimenez\) \- Salsa](https://open.spotify.com/track/2Jk10he30YnngKi8LoIzwD) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [El Aventurero \(with Yeison Jimenez\)](https://open.spotify.com/album/7MgltFudwwlW6pcWbG2ct1) | 4:15 | 2022-05-13 |  |
 | [El Color de Tus Ojos](https://open.spotify.com/track/55wQTdI8Z52zw0FGPSHFhP) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [El Color de Tus Ojos](https://open.spotify.com/album/0Jw0sxH3kuVRIVgAqqXLHC) | 4:03 | 2022-05-13 | 2022-07-29 |

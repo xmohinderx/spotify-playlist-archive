@@ -6475,10 +6475,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 183898,
       "name": "Woozie",
       "url": "https://open.spotify.com/track/2uIukEsbb5yvC3ZK7CWk6G"
+    },
+    {
+      "album": {
+        "name": "Vibe Forever",
+        "url": "https://open.spotify.com/album/5ZrM0Brv8XBs3XVHfkd6bk"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183898,
+      "name": "Woozie",
+      "url": "https://open.spotify.com/track/7GDwymep55nRGcr6P7TznN"
     },
     {
       "album": {

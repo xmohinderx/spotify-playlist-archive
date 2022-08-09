@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 204453,
       "name": "Golden Ring - Live",
       "url": "https://open.spotify.com/track/09BuhppxQPlkW3vjHzNxsZ"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 411720,
       "name": "Have You Ever Loved a Woman - Live at the Fillmore, San Francisco, 1994",
       "url": "https://open.spotify.com/track/7AXdVkmpQny21kNFVlhus5"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 193560,
       "name": "Hideaway - Mono Instrumental",
       "url": "https://open.spotify.com/track/43FVOV48LHhXOhZ0t5picb"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 147826,
       "name": "Kerry - Live",
       "url": "https://open.spotify.com/track/2Xtj2dwqCfgnNxck6qA7AS"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 318000,
       "name": "Knocking On Heaven's Door - Live At Hammersmith Odeon",
       "url": "https://open.spotify.com/track/5uhvUuQciVrP0p48NqSHaq"
@@ -836,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/3NciWxb2An4XoNC0AaYyNK"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441666,
+      "name": "River of Tears",
+      "url": "https://open.spotify.com/track/6YxSgb19eNWGfJs8rwMkT3"
+    },
+    {
+      "album": {
         "name": "Unplugged (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
       },
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 429520,
       "name": "When My Heart Beats Like a Hammer",
       "url": "https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 357104,
       "name": "While My Guitar Gently Weeps - Live",
       "url": "https://open.spotify.com/track/6ZHCQehGCpGWTi6wEzs8vf"

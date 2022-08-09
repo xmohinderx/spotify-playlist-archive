@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 247333,
       "name": "Come Back to Me",
       "url": "https://open.spotify.com/track/6ieC9SkXMQQPEJSpq69z4K"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 270080,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/2BP5YgjHi1C1njPPRK8wvq"
@@ -1336,6 +1336,24 @@
     },
     {
       "album": {
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210293,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
+    },
+    {
+      "album": {
         "name": "YG 10th Anniversary",
         "url": "https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5"
       },
@@ -1657,6 +1675,28 @@
       "duration_ms": 222893,
       "name": "\ubd88\uce58\ubcd1",
       "url": "https://open.spotify.com/track/6h13tMy23cM8rzmsaNgTI4"
+    },
+    {
+      "album": {
+        "name": "For the moment",
+        "url": "https://open.spotify.com/album/5zSnSuP8gPOeZdrEchEv7q"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        },
+        {
+          "name": "MASTA WU",
+          "url": "https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "\ubd88\uce58\ubcd1 (Feat.Masta Wu)",
+      "url": "https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU"
     },
     {
       "album": {

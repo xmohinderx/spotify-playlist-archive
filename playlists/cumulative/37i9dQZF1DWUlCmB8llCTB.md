@@ -4,7 +4,7 @@
 
 > Esto es un perreo a lo Ryan Castro.
 
-263 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
+264 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 | 2022-03-11 |  |
 | [Peli\-Culeo](https://open.spotify.com/track/2pEmxGe9nMIjg8wniWkYjJ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:54 | 2022-06-03 |  |
 | [PERDON TOI EN DINERO](https://open.spotify.com/track/2d75kmyVQm1L7Lasq0Hdkz) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Red Fingers](https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo) | [FRÍO](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 3:40 | 2022-08-05 |  |
-| [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 | 2022-06-23 |  |
+| [Perreo Bendito](https://open.spotify.com/track/56uvG8rHQkvEtbRXK2R8rx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:39 | 2022-08-05 |  |
+| [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 | 2022-06-23 | 2022-08-09 |
 | [Perro Fiel](https://open.spotify.com/track/2tdJo0Lczl7DEMOn92GgPD) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Perro Fiel](https://open.spotify.com/album/6AtNlU3RyKlmuInvZhfoD7) | 3:00 | 2022-07-29 |  |
 | [Perro Negro \(with Totoy El Frio\)](https://open.spotify.com/track/3ePJUfW0ckP5XW2tc4yNgt) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Perro Negro \(with Totoy El Frio\)](https://open.spotify.com/album/2mSo5ky1DI8FZzCTJ8i5Ps) | 3:08 | 2022-07-08 | 2022-07-23 |
 | [Persia \- Remix](https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [Persia \(Remix\)](https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W) | 4:10 | 2021-12-24 | 2022-04-29 |

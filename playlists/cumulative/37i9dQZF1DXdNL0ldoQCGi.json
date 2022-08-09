@@ -828,6 +828,28 @@
     },
     {
       "album": {
+        "name": "Melo de Bafora o Lan\u00e7a 2022 (Remix)",
+        "url": "https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt"
+      },
+      "artists": [
+        {
+          "name": "Mario Mc",
+          "url": "https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn"
+        },
+        {
+          "name": "Menor Adr",
+          "url": "https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212029,
+      "name": "Melo de Bafora o Lan\u00e7a 2022 - Remix",
+      "url": "https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn"
+    },
+    {
+      "album": {
         "name": "Metflix",
         "url": "https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj"
       },
@@ -2119,10 +2141,6 @@
           "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
         },
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
           "name": "Anezzi",
           "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
         },
@@ -2133,6 +2151,10 @@
         {
           "name": "MC Maneirinho",
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         }
       ],
       "date_added": "2022-08-04",

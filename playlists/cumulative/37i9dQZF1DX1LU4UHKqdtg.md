@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: TWICE
 
-308 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+309 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-02-28 | 2022-04-06 |
 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 | 2022-01-17 | 2022-03-23 |
 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-03-22 | 2022-05-13 |
-| [Candy Sugar Pop](https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Drive to the Starry Road](https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0) | 2:49 | 2022-05-16 |  |
+| [Candy Sugar Pop](https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Drive to the Starry Road](https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0) | 2:49 | 2022-05-16 | 2022-08-09 |
 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2022-07-15 |  |
 | [Cherish](https://open.spotify.com/track/0GABq6cuB9kugOVuCREeN8) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Cherish](https://open.spotify.com/album/2ZsdFGDJlvsEFOEY1GkMht) | 3:24 | 2022-06-19 |  |
 | [CHERRY \-Japanese ver.\-](https://open.spotify.com/track/4L7CEFGWkFlifYNk1gY2MI) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [CHERRY \-Japanese ver.\-](https://open.spotify.com/album/3NSuUNKnOXfOkA5FpMCmRQ) | 3:33 | 2021-12-23 | 2022-01-17 |
@@ -126,7 +126,7 @@
 | [HONEY](https://open.spotify.com/track/1Pu0hNnhlrWfZOisgs1TPG) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/7zzh1ltXhjELf4RtD8Sp74) | 2:47 | 2022-03-16 | 2022-06-15 |
 | [Hope from KWANGYA](https://open.spotify.com/track/41Ne4OIfSkf6NgAwGVwWpJ) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 5:33 | 2021-12-28 | 2022-02-15 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-26 |  |
-| [How Come](https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [How Come](https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi) | 3:37 | 2022-05-24 |  |
+| [How Come](https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [How Come](https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi) | 3:37 | 2022-05-24 | 2022-08-09 |
 | [Hush Hush \- Korean Version](https://open.spotify.com/track/7ys6BVqLd76ztQvc4Qan0L) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Rookie Cops \(Original Television Soundtrack\) Special](https://open.spotify.com/album/1NJCW55EE56cOKkDA5RI49) | 3:01 | 2022-03-10 | 2022-05-11 |
 | [I CAN'T STOP ME \- Japanese ver.](https://open.spotify.com/track/1tyCxhxiHQ9DoHIiDMFPzL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:29 | 2022-03-15 | 2022-05-18 |
 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-28 |  |
@@ -157,7 +157,7 @@
 | [lonely](https://open.spotify.com/track/6tHHDLX1jZNzlT4vZmqm5n) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [lonely](https://open.spotify.com/album/2Ay01bZKWRqWUrRWydeSsC) | 3:33 | 2022-03-24 | 2022-06-07 |
 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 | 2022-03-21 | 2022-05-27 |
 | [LOVE](https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:35 | 2022-04-26 | 2022-07-09 |
-| [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-05 |  |
+| [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-05 | 2022-08-09 |
 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 | 2022-04-04 | 2022-06-22 |
 | [Love Story](https://open.spotify.com/track/1W1MrDI5YVuKb9pgCYH3iE) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:23 | 2022-01-25 | 2022-03-16 |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-06 |  |
@@ -204,6 +204,7 @@
 | [RATA\-TAT\-TAT](https://open.spotify.com/track/7AdyfUxsfKi1ERbwu7wLQU) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [RATA\-TAT\-TAT](https://open.spotify.com/album/1Zhm7LxHfqZg8XS143vJtz) | 3:24 | 2022-05-10 | 2022-07-19 |
 | [Ready to ride](https://open.spotify.com/track/1qwdkBDK21HGFYpQPAnMyJ) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Ready to ride](https://open.spotify.com/album/3UtWwqV8nUxO94J65hpnrX) | 3:37 | 2022-04-29 | 2022-07-01 |
 | [Real Love](https://open.spotify.com/track/5jjTsBPfe6u9sD9u4CSvjr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/0at0j5nXz7gxEBiz2Goh6s) | 3:21 | 2022-03-29 | 2022-06-22 |
+| [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-08 |  |
 | [Ride or Die](https://open.spotify.com/track/2RwslZwBLIBEPYjAI6SCBq) | [GYU HYUK](https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr) | [Ride or Die](https://open.spotify.com/album/4kT8yc13rLN4MKbPCbCQHW) | 3:12 | 2022-03-03 | 2022-04-13 |
 | [RIDING \(feat\. 박현진\)](https://open.spotify.com/track/3gXYeDKkxDJYXviGNBMzLy) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Park Hyeon Jin](https://open.spotify.com/artist/4l7oDG5masdHj8IfySlVMK) | [Citymare, Cityzone](https://open.spotify.com/album/5VR3J5G2pBj1JziXjAW7zJ) | 3:10 | 2022-02-24 | 2022-03-23 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-23 | 2022-01-04 |

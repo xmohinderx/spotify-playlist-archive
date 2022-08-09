@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Mezzaluna
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,243 likes - 37 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,282 likes - 37 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 13 | [Happy Anymore](https://open.spotify.com/track/2t9ZK3i4cxA9WZkpvf5up2) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Phobia](https://open.spotify.com/album/1aRThupMAXji2AuQIlsIM1) | 3:18 |
 | 14 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 |
 | 15 | [Could've Been Us](https://open.spotify.com/track/7v8PjAWXMS2ODBAoKwVUIE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Could've Been Us](https://open.spotify.com/album/1VymWBVVHSJWZXILkquSiA) | 3:19 |
-| 16 | [Firehazard](https://open.spotify.com/track/4eCMl0kcqO9uQy6vtduGmg) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Firehazard](https://open.spotify.com/album/7m72310c756Nzu7duj09Ib) | 3:09 |
-| 17 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 |
+| 16 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 |
+| 17 | [Firehazard](https://open.spotify.com/track/4eCMl0kcqO9uQy6vtduGmg) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Firehazard](https://open.spotify.com/album/7m72310c756Nzu7duj09Ib) | 3:09 |
 | 18 | [I Love You Now Change](https://open.spotify.com/track/5L1aDYN5u5OBOUCGhrK3pU) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0d1akoTwbEMgNi9gGuG0ZI) | 3:25 |
 | 19 | [Somebody Else's Somebody](https://open.spotify.com/track/2kI1DffKDMBuq5R0MTI2S6) | [ALISSA GRIFFITH](https://open.spotify.com/artist/4sH2uBwia6cdHvnvdsA1jX) | [Somebody Else's Somebody](https://open.spotify.com/album/0EEFDFAx0cFS7zV5WGhTdk) | 3:05 |
 | 20 | [New Town](https://open.spotify.com/track/2znEJ1xEQdOnXJB44jRoSB) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5UHON4pVvrXgn9DIPUNPq0) | 3:12 |
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 49 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 |
 | 50 | [There Goes My Heart](https://open.spotify.com/track/3PBjyEIhY26g5wByX9lDBt) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [There Goes My Heart](https://open.spotify.com/album/7h2JwEdU03S7OoTasIdhWx) | 2:32 |
 | 51 | [Miss It Now \(For Sarah\)](https://open.spotify.com/track/5PpehEZDyUuDn9Kq3SkATF) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Miss It Now \(For Sarah\)](https://open.spotify.com/album/1xGWc24fUFh0QtXmCfQvSG) | 2:30 |
-| 52 | [Personal](https://open.spotify.com/track/3DCu17yxNOj44wpNg9h3YT) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Personal](https://open.spotify.com/album/5PSkXaHWqp6xQZMQvDJ74b) | 2:54 |
-| 53 | [That Was All You](https://open.spotify.com/track/4OuDH82pXLHUcrO5prgVNA) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 2:55 |
+| 52 | [That Was All You](https://open.spotify.com/track/4OuDH82pXLHUcrO5prgVNA) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 2:55 |
+| 53 | [Personal](https://open.spotify.com/track/3DCu17yxNOj44wpNg9h3YT) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Personal](https://open.spotify.com/album/5PSkXaHWqp6xQZMQvDJ74b) | 2:54 |
 | 54 | [Where Do We Go \- The Voice Performance](https://open.spotify.com/track/5a7QUeuh2OXw0SI4go5shg) | [John Holiday](https://open.spotify.com/artist/1t7W0bPXdarbjiCuEeFv2y) | [The Season 19 Collection \(The Voice Performance\)](https://open.spotify.com/album/2V28iwMeICBbv2Qqsi9gd1) | 2:27 |
-| 55 | [Place to Be](https://open.spotify.com/track/3FKQ3HUw36ipWMhh8UvPzk) | [Drty Shdw](https://open.spotify.com/artist/1V5Vqlxw4xGhfGQt4N64DL), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Place to Be](https://open.spotify.com/album/6eX0PDJYxbHmcbQJfoG5k8) | 3:52 |
-| 56 | [Baby Blue](https://open.spotify.com/track/2dVY0aLXcsN3eKCvcgs3MQ) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Baby Blue](https://open.spotify.com/album/5GIRmKFCucH40zEWxHkwDQ) | 2:59 |
-| 57 | [Easy on Me](https://open.spotify.com/track/4U35K9PqSqC28vhsEYCYru) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/2fTcxmyd15YE0SvnGfwGGY) | 2:56 |
-| 58 | [Loud House](https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1) | 3:24 |
+| 55 | [Loud House](https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1) | 3:24 |
+| 56 | [Place to Be](https://open.spotify.com/track/3FKQ3HUw36ipWMhh8UvPzk) | [Drty Shdw](https://open.spotify.com/artist/1V5Vqlxw4xGhfGQt4N64DL), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Place to Be](https://open.spotify.com/album/6eX0PDJYxbHmcbQJfoG5k8) | 3:52 |
+| 57 | [Baby Blue](https://open.spotify.com/track/2dVY0aLXcsN3eKCvcgs3MQ) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Baby Blue](https://open.spotify.com/album/5GIRmKFCucH40zEWxHkwDQ) | 2:59 |
+| 58 | [Easy on Me](https://open.spotify.com/track/4U35K9PqSqC28vhsEYCYru) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/2fTcxmyd15YE0SvnGfwGGY) | 2:56 |
 | 59 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
 | 60 | [Holiday Wishing](https://open.spotify.com/track/6lpbbBPLuPDlnOSzGnsqYJ) | [Bree Doster](https://open.spotify.com/artist/1jVHjJ0stNNMYT1o2ATomU) | [Holiday Wishing](https://open.spotify.com/album/0AY3Fn36rRb6xGKcqxehok) | 3:31 |
 | 61 | [Make Up My Mind](https://open.spotify.com/track/3W4g24a8AoYpG1FFhKH3ls) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 3:13 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 65 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 66 | [Who Do You Think You Are?](https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Who Do You Think You Are?](https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W) | 3:15 |
 
-Snapshot ID: `Mjc2NjUzNjMsMDAwMDAwMDBlMDk3Zjg3ZTkxMGE2ZTI4NTVkMmJmNjdlMjliZDg3ZQ==`
+Snapshot ID: `Mjc2NjY4MDMsMDAwMDAwMDAwYTgxNjZiMjA5ZWUzZDdiZGQyYjg5MjY2M2FkMWZkMQ==`

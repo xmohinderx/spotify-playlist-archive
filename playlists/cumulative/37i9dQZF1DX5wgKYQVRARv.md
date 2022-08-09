@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Northlane
 
-539 songs - 1 day 23 hr 0 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+540 songs - 1 day 23 hr 4 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,7 @@
 | [Skylla](https://open.spotify.com/track/5rsJEHEMaEerw1uNH1FksB) | [Confusing Paradise](https://open.spotify.com/artist/0oGmw2T01mqZSJbFQcigp0) | [Skylla](https://open.spotify.com/album/2mmTwMMc5IPDfAziKQoYwQ) | 4:18 | 2022-07-13 | 2022-07-29 |
 | [Sleep Whisper](https://open.spotify.com/track/0Uill1vqGgC1zOShoKoqe2) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Sleep Whisper](https://open.spotify.com/album/0zUdYR6wHtGlvHFjfz1RO8) | 5:12 | 2022-04-29 | 2022-06-11 |
 | [Slow Violence](https://open.spotify.com/track/0DXQlXTM5ffSKkF9k4rQXi) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Slow Violence](https://open.spotify.com/album/6b9jyZC2m8Lhf81bhDtVUw) | 4:30 | 2021-12-17 | 2022-07-29 |
-| [Slow Violence](https://open.spotify.com/track/5eHX9hNabRdBv7ZAXw0bQn) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Rise Radiant \(Bonus Tracks Version\)](https://open.spotify.com/album/1nIV5jr3c14glRyU3ax5PQ) | 4:30 | 2022-07-08 |  |
+| [Slow Violence](https://open.spotify.com/track/5eHX9hNabRdBv7ZAXw0bQn) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Rise Radiant \(Bonus Tracks Version\)](https://open.spotify.com/album/1nIV5jr3c14glRyU3ax5PQ) | 4:30 | 2022-07-08 | 2022-08-09 |
 | [Snowblood](https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Snowblood](https://open.spotify.com/album/393HU6oEXQybzous3p0NC5) | 4:13 | 2022-07-13 |  |
 | [So Tired](https://open.spotify.com/track/7FfLD1acsXyBWVJ9PqN6Pp) | [The Butterfly Effect](https://open.spotify.com/artist/0kns2X0IFTXafgOGd2IlKJ) | [So Tired](https://open.spotify.com/album/0nSVBgtRjwpqNjmoB3Spul) | 5:16 | 2021-12-17 | 2022-07-01 |
 | [Solaris](https://open.spotify.com/track/0c4TxdhePg45Kg3Aot5FAH) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [Solaris](https://open.spotify.com/album/1MF8mCE2frqHL2RkN1bxBk) | 3:41 | 2021-12-17 | 2022-07-25 |
@@ -494,6 +494,7 @@
 | [Under Different Welkins](https://open.spotify.com/track/0KBVGWJgebr5HdXQd3gJhK) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Noir](https://open.spotify.com/album/7xwI5QX3jvrM67ijtxK0cR) | 5:04 | 2022-07-13 |  |
 | [Unity](https://open.spotify.com/track/49JK3rJMGOV2ypX9Gvz6up) | [Oddland](https://open.spotify.com/artist/2C4y5kq2y7T69khYjax5YB) | [Unity](https://open.spotify.com/album/54vtA7FHzeHK8zsCvg7XYl) | 6:17 | 2021-12-17 | 2022-07-27 |
 | [Universal Chaos](https://open.spotify.com/track/1KwaBfVRwqrgDUPstPvJul) | [Rendezvous Point](https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp) | [Universal Chaos](https://open.spotify.com/album/4VumoZDnF5p65N6QE5DyWM) | 4:24 | 2021-12-17 | 2022-07-01 |
+| [Unlike Us](https://open.spotify.com/track/7eTx4sMu3d624zARBTEKHp) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7) | [Hacktivist](https://open.spotify.com/album/5Oe7FEBFrVJYu2dmfk5ntJ) | 3:16 | 2022-07-13 |  |
 | [Untamed](https://open.spotify.com/track/6ze1wvdXKi7ZjzyGkaWWub) | [Lunatic Soul](https://open.spotify.com/artist/5kL0FLCWlo2xLmyRI68bW4) | [Under the Fragmented Sky](https://open.spotify.com/album/4YR63avnfi3szpaYiuGARP) | 3:23 | 2021-12-17 | 2022-01-29 |
 | [Untethered Angel](https://open.spotify.com/track/3z1M3nvvKkchcUr4OjlMLP) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Untethered Angel](https://open.spotify.com/album/7EdamLKkQ8AAHTDJGxyIQZ) | 6:14 | 2021-12-17 | 2022-05-14 |
 | [UVB\-76](https://open.spotify.com/track/6sS9xwDwUnYbDTOEfL6rot) | [Shrezzers](https://open.spotify.com/artist/0cESlyDxeKCUzc3gm1owur), [Cj Mcmahon](https://open.spotify.com/artist/29eyErawu3CCYTTUPqwrQw) | [UVB\-76](https://open.spotify.com/album/3lfRsgxfAYpxIndrmaiQQG) | 4:09 | 2022-02-11 | 2022-07-25 |

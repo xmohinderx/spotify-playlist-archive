@@ -4,7 +4,7 @@
 
 > make it pop! cover: King Princess
 
-361 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+362 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 |  |
 | [What's Been On Your Mind?](https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [What's Been On Your Mind?](https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs) | 2:52 | 2022-06-10 |  |
 | [When The World Was Mine](https://open.spotify.com/track/5J7sG7gQgUWnY3SpIIW8an) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [When The World Was Mine](https://open.spotify.com/album/4iUGtfrvaY2d42BloFOE9M) | 3:30 | 2021-10-29 | 2021-12-25 |
-| [WHERE I WANNA BE FOUND](https://open.spotify.com/track/4AFBCemec0cYa2JLXqvH9M) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [WHERE I WANNA BE FOUND](https://open.spotify.com/album/1E8LLpuaE6VXqq9Ca59ASc) | 2:59 | 2022-07-19 |  |
+| [WHERE I WANNA BE FOUND](https://open.spotify.com/track/4AFBCemec0cYa2JLXqvH9M) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [WHERE I WANNA BE FOUND](https://open.spotify.com/album/1E8LLpuaE6VXqq9Ca59ASc) | 2:59 | 2022-07-19 | 2022-08-09 |
+| [WHERE I WANNA BE FOUND](https://open.spotify.com/track/73UaWNjVzf8Q3Q50UMNv5m) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [WHERE I WANNA BE FOUND](https://open.spotify.com/album/3g0IKAkUpz49gyxDV6C6HD) | 2:59 | 2022-07-19 |  |
 | [WHO HURT YOU?](https://open.spotify.com/track/4HCsFCmFZBxBuLasSvD9p8) | [Benicio Bryant](https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC) | [WHO HURT YOU?](https://open.spotify.com/album/3DFbl7qb3fUiZ91kDNyf3p) | 2:22 | 2022-04-29 | 2022-06-25 |
 | [Who’s In Control](https://open.spotify.com/track/1GosSlFMwNOZ3tpb5LY3pW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Who's In Control](https://open.spotify.com/album/67FaNxCIc8ZSzeZffbm69l) | 3:05 | 2022-02-18 | 2022-02-26 |
 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 | 2021-12-24 | 2022-02-26 |

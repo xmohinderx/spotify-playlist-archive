@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 341223,
       "name": "Ah'na Hakkeka",
       "url": "https://open.spotify.com/track/3q1oYpNQBoYsJzjhBDZ3yr"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 240000,
       "name": "Curry Drinker (Djemba Djemba Remix) (Remasterd)",
       "url": "https://open.spotify.com/track/0UCZc715PkJ51P6nTIzDCt"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 291235,
       "name": "FEELS LIKE AN OVERDOSE",
       "url": "https://open.spotify.com/track/0r4b9QYeK2BsYHKE3Wq8nQ"
@@ -1001,6 +1001,24 @@
       "duration_ms": 258771,
       "name": "Island Birdy",
       "url": "https://open.spotify.com/track/4gKCchpPdZVQDJsDUxl7bf"
+    },
+    {
+      "album": {
+        "name": "Castle In The Sky",
+        "url": "https://open.spotify.com/album/4z2WEOYZ7w5kOO0LVfMTWS"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Vanilla",
+          "url": "https://open.spotify.com/artist/2Itr8TQK5dkOjUpreaamWP"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124186,
+      "name": "Jennifer Calling",
+      "url": "https://open.spotify.com/track/6l22VxrbgYAV8tnWUbsHje"
     },
     {
       "album": {
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 234401,
       "name": "Okra Ooze",
       "url": "https://open.spotify.com/track/65XrhSXZKHhBz9V8gMNhKL"
@@ -2359,6 +2377,24 @@
       "duration_ms": 252013,
       "name": "Two Roomed Motel",
       "url": "https://open.spotify.com/track/4tDQj3b5xeKO5GRB5VJqip"
+    },
+    {
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/51ED2mdClgKUQEEvwoleqR"
+      },
+      "artists": [
+        {
+          "name": "Krischvn",
+          "url": "https://open.spotify.com/artist/4VT88y8BOxQjndfg6LS2Od"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177964,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0UUtE4lVu3L0TWGlMSDwQd"
     },
     {
       "album": {

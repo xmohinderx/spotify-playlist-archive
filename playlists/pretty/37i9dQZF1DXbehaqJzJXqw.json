@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a jazz band plays somewhere in the background. ",
-  "num_followers": 146851,
+  "num_followers": 147305,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQxODU2MywwMDAwMDAwMGM5MDRkNmM1ZjIzOTlmOTU4MTI5ZDc3NDlhZmI1MmI4",
+  "snapshot_id": "MTY1NjQxODU2MywwMDAwMDAwMDFlNjVjOTJiYzZmMjliODhiZGQwNGIxMDkyODc1MTIy",
   "tracks": [
     {
       "added_at": "2022-06-28 12:16:03",
@@ -55,22 +55,6 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "Les yeux ouverts (dream a little dream of me)",
-      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
         "name": "Whisper For You",
         "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 149533,
       "name": "Plus Je T'embrasse",
       "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "Les yeux ouverts (dream a little dream of me)",
+      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Seule ce soir",
-        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 196780,
-      "name": "C'est si bon - 2012",
-      "url": "https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
@@ -163,26 +147,6 @@
       "duration_ms": 197880,
       "name": "La Rua Madureira",
       "url": "https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
-        "name": "Splendor in the Grass",
-        "url": "https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        },
-        {
-          "name": "China Forbes",
-          "url": "https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A"
-        }
-      ],
-      "duration_ms": 252653,
-      "name": "Ou Est Ma Tete?",
-      "url": "https://open.spotify.com/track/30N6mzmZPQ0fUGW59krTc0"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -243,18 +207,18 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "La disparition",
-        "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
+        "name": "Seule ce soir",
+        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
       },
       "artists": [
         {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 257240,
-      "name": "Mes pas dans la neige - Spanish Song Bird",
-      "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
+      "duration_ms": 196780,
+      "name": "C'est si bon - 2012",
+      "url": "https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -275,18 +239,18 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+        "name": "La disparition",
+        "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
         }
       ],
-      "duration_ms": 173436,
-      "name": "Chez moi",
-      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
+      "duration_ms": 257240,
+      "name": "Mes pas dans la neige - Spanish Song Bird",
+      "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -303,6 +267,42 @@
       "duration_ms": 168000,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 173436,
+      "name": "Chez moi",
+      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "Splendor in the Grass",
+        "url": "https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        },
+        {
+          "name": "China Forbes",
+          "url": "https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A"
+        }
+      ],
+      "duration_ms": 252653,
+      "name": "Ou Est Ma Tete?",
+      "url": "https://open.spotify.com/track/30N6mzmZPQ0fUGW59krTc0"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Amourettes",
-        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
-      },
-      "artists": [
-        {
-          "name": "Les Chauds Lapins",
-          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Cette Nuit l\u00e0",
-      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 248373,
       "name": "L'ombre et la lumi\u00e8re",
       "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "Amourettes",
+        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
+      },
+      "artists": [
+        {
+          "name": "Les Chauds Lapins",
+          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Cette Nuit l\u00e0",
+      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 198346,
-      "name": "Les Etoiles",
-      "url": "https://open.spotify.com/track/3a61AXiLnRT456B4MeW7mT"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
         "name": "Attraction",
         "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 222666,
       "name": "Lettre A P",
       "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 198346,
+      "name": "Les Etoiles",
+      "url": "https://open.spotify.com/track/3a61AXiLnRT456B4MeW7mT"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 167199,
-      "name": "Je cherche un homme",
-      "url": "https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
         "name": "J'ai Deux Amours",
         "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 201013,
       "name": "De Temps en Temps",
       "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 167199,
+      "name": "Je cherche un homme",
+      "url": "https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Paris Combo",
-        "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "On N'a Pas Besoin",
-      "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
         "name": "Ilo Veyou",
         "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 223880,
       "name": "Que je t'aime",
       "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "Paris Combo",
+        "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "On N'a Pas Besoin",
+      "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -1207,6 +1207,22 @@
       "duration_ms": 194186,
       "name": "J\u2019ai ta main",
       "url": "https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "My Gentleman Friend",
+        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 128093,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/2jmnsU9irersAKdgxJwmGz"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -1243,34 +1259,18 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "My Gentleman Friend",
-        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
+        "name": "Gilbert Becaud (1964-1966) [2011 Remastered] [Deluxe version]",
+        "url": "https://open.spotify.com/album/0bqhxtnErNPLd6Ez7GqBJF"
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
         }
       ],
-      "duration_ms": 128093,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/2jmnsU9irersAKdgxJwmGz"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
-        "name": "Le voyageur",
-        "url": "https://open.spotify.com/album/78FHh2FBh4UugFnZ2fTsAM"
-      },
-      "artists": [
-        {
-          "name": "Georges Moustaki",
-          "url": "https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Les eaux de Mars",
-      "url": "https://open.spotify.com/track/5m12MQSNBHP3SoIoYTgnyX"
+      "duration_ms": 182773,
+      "name": "Plein soleil",
+      "url": "https://open.spotify.com/track/3cnjkGxvV25vrx5lewbKfS"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Gilbert Becaud (1964-1966) [2011 Remastered] [Deluxe version]",
-        "url": "https://open.spotify.com/album/0bqhxtnErNPLd6Ez7GqBJF"
+        "name": "Le voyageur",
+        "url": "https://open.spotify.com/album/78FHh2FBh4UugFnZ2fTsAM"
       },
       "artists": [
         {
-          "name": "Gilbert B\u00e9caud",
-          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+          "name": "Georges Moustaki",
+          "url": "https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG"
         }
       ],
-      "duration_ms": 182773,
-      "name": "Plein soleil",
-      "url": "https://open.spotify.com/track/3cnjkGxvV25vrx5lewbKfS"
+      "duration_ms": 218533,
+      "name": "Les eaux de Mars",
+      "url": "https://open.spotify.com/track/5m12MQSNBHP3SoIoYTgnyX"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
-      },
-      "artists": [
-        {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
-        }
-      ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 172293,
       "name": "Salle des pas perdus",
       "url": "https://open.spotify.com/track/1yi77TrGsSLuR0rKY6TXsq"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+      },
+      "artists": [
+        {
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+        }
+      ],
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2022-06-28 12:16:03",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-06-28 12:16:03",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Les eaux de Mars",
-      "url": "https://open.spotify.com/track/3FopnRPK626Fbu4ErKdtUo"
-    },
-    {
-      "added_at": "2022-06-28 12:16:03",
-      "album": {
         "name": "La Chapelle Au Clair De Lune",
         "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 187626,
       "name": "En septembre sous la pluie",
       "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
+    },
+    {
+      "added_at": "2022-06-28 12:16:03",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Les eaux de Mars",
+      "url": "https://open.spotify.com/track/3FopnRPK626Fbu4ErKdtUo"
     },
     {
       "added_at": "2022-06-28 12:16:03",

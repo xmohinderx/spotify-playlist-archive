@@ -4,7 +4,7 @@
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO?si=O3eWhkVkSa6Frw6gZCvImw">Black Cat Bones</a>
 
-120 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
+121 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Believer](https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5) | [Fuzigish](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Believer](https://open.spotify.com/album/0MX2naV6uywiYfLqPEYyvK) | 4:20 | 2022-02-17 |  |
 | [BLAH BLAH BLAH](https://open.spotify.com/track/5ncpsijPbqSkfej6b8PGjw) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [BLAH BLAH BLAH](https://open.spotify.com/album/282KDJUgTAO64N8HMeiUAR) | 1:52 | 2022-07-21 |  |
 | [Bones](https://open.spotify.com/track/0QFgIdxhhn6QzPT5Ndnm7E) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/2H1yVakFRyooDlWkX2o3on) | 3:43 | 2021-10-07 | 2022-08-04 |
-| [Bones](https://open.spotify.com/track/5xbhhW2S2vbfrhMrblZJ0l) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/5vJEmUbdVJJ38GzwpoJs52) | 3:43 | 2021-10-07 |  |
+| [Bones](https://open.spotify.com/track/5xbhhW2S2vbfrhMrblZJ0l) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/5vJEmUbdVJJ38GzwpoJs52) | 3:43 | 2021-10-07 | 2022-08-09 |
+| [Bones](https://open.spotify.com/track/6yiOgFmbkN0n6p9GVqevmt) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Greytown](https://open.spotify.com/album/3228rqtQ8JsE3RvJrq6dHw) | 3:43 | 2021-10-07 |  |
 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 | 2022-03-17 |  |
 | [Caught in Suspension](https://open.spotify.com/track/0CnVzLrxK0iRXuCk6vPeOi) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Caught in Suspension](https://open.spotify.com/album/6kAvyAnQPl6iQ2HVcMAGWG) | 4:07 | 2022-03-24 |  |
 | [Cocoon](https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Cocoon](https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE) | 5:04 | 2022-01-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 127782,
+  "num_followers": 127970,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDcyMmQyNTBiZjYwNWNhMzcwNDE0NTMyYjJlOWM4ZjRh",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMGMyZjY5MjA3MjhhYjkyMzlkYzlkMmZlMjE4Yjc0ZDIw",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 252255,
-      "name": "Two Thousand and Seventeen",
-      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Trance Frendz",
         "url": "https://open.spotify.com/album/5yulSZK48ArdLPXWur0qik"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 354988,
       "name": "20:17",
       "url": "https://open.spotify.com/track/7vbCfkJf89i4s745KbELgr"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 252255,
+      "name": "Two Thousand and Seventeen",
+      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -499,6 +499,26 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
+        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 195384,
+      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
       },
@@ -563,26 +583,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
-        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 195384,
-      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Views/Octopus EP",
         "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 596773,
-      "name": "Immunity",
-      "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Soon It Will Be Cold Enough",
         "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 180520,
       "name": "Soon It Will Be Cold Enough to Build Fires",
       "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 596773,
+      "name": "Immunity",
+      "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/5KRR8tyAUT6bcMOsCfM2Lh"
-      },
-      "artists": [
-        {
-          "name": "Shlohmo",
-          "url": "https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725"
-        }
-      ],
-      "duration_ms": 302210,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/3RN6IMCkcJr44Xm7tdWWaK"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Silver Ladders",
         "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 226876,
       "name": "Sometimes He's In My Dreams",
       "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/5KRR8tyAUT6bcMOsCfM2Lh"
+      },
+      "artists": [
+        {
+          "name": "Shlohmo",
+          "url": "https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725"
+        }
+      ],
+      "duration_ms": 302210,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/3RN6IMCkcJr44Xm7tdWWaK"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Rushing",
-        "url": "https://open.spotify.com/album/4shmthaRgqJbSA7CEeM3VV"
-      },
-      "artists": [
-        {
-          "name": "Lucy Gooch",
-          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "My Lights Kiss Your Thoughts Every Moment",
-      "url": "https://open.spotify.com/track/7FUUtoODxCE6EbzPR3rRXN"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 250383,
       "name": "Walking Flames",
       "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Rushing",
+        "url": "https://open.spotify.com/album/4shmthaRgqJbSA7CEeM3VV"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "My Lights Kiss Your Thoughts Every Moment",
+      "url": "https://open.spotify.com/track/7FUUtoODxCE6EbzPR3rRXN"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/5qi4aoHpcDfsoTbVsjPXwI"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "At Height",
+      "url": "https://open.spotify.com/track/6LxPmMmwY76D4XPCvZnQR3"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Natura Sophia",
         "url": "https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 243414,
       "name": "Natura Sophia",
       "url": "https://open.spotify.com/track/4fvdvPzBIy9FGGqrNCM0lT"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Bright Serpent",
-        "url": "https://open.spotify.com/album/5qi4aoHpcDfsoTbVsjPXwI"
-      },
-      "artists": [
-        {
-          "name": "Inwards",
-          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "At Height",
-      "url": "https://open.spotify.com/track/6LxPmMmwY76D4XPCvZnQR3"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Virtual State",
-        "url": "https://open.spotify.com/album/5wNAn44g7RbdOrQS8jR8Ok"
-      },
-      "artists": [
-        {
-          "name": "Richard H. Kirk",
-          "url": "https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "The Feeling (Of Warmth And Beauty)",
-      "url": "https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "A Mineral Love",
         "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 170186,
       "name": "The Way You Talk",
       "url": "https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Virtual State",
+        "url": "https://open.spotify.com/album/5wNAn44g7RbdOrQS8jR8Ok"
+      },
+      "artists": [
+        {
+          "name": "Richard H. Kirk",
+          "url": "https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "The Feeling (Of Warmth And Beauty)",
+      "url": "https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 314441,
-      "name": "The stars vs creatures",
-      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "I Will Make Room for You (Four Tet Remix)",
         "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
       },
@@ -1547,18 +1531,34 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Acquiesce",
-        "url": "https://open.spotify.com/album/2RYXBmfMcG5qTh7LjfG2by"
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
       "artists": [
         {
-          "name": "TALsounds",
-          "url": "https://open.spotify.com/artist/3W8UkPK2qxmnwqcBxqf1vL"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 332121,
-      "name": "No Rise",
-      "url": "https://open.spotify.com/track/6hnnGHky3Kp40Q7JRRqI0T"
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 314441,
+      "name": "The stars vs creatures",
+      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+        "name": "Acquiesce",
+        "url": "https://open.spotify.com/album/2RYXBmfMcG5qTh7LjfG2by"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "TALsounds",
+          "url": "https://open.spotify.com/artist/3W8UkPK2qxmnwqcBxqf1vL"
         }
       ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+      "duration_ms": 332121,
+      "name": "No Rise",
+      "url": "https://open.spotify.com/track/6hnnGHky3Kp40Q7JRRqI0T"
     },
     {
       "added_at": "2022-02-03 02:43:26",

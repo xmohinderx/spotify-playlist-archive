@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 34217,
+  "num_followers": 34235,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc3NzMwOSwwMDAwMDAwMDBkNGExZGUzZGFmZmJmZDJlZTY1NWU5ZTNkZGFkNTc1",
+  "snapshot_id": "MTY0Mjc3NzMwOSwwMDAwMDAwMGMxM2UzMjRlODMyYTU5MjhlNDNlZjIwYTQzNDlmMzY0",
   "tracks": [
     {
       "added_at": "2022-01-21 15:01:49",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Cloudy Day",
-        "url": "https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 185303,
-      "name": "Cloudy Day",
-      "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Girls Like Us",
         "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 189000,
       "name": "Girls Like Us",
       "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Cloudy Day",
+        "url": "https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 185303,
+      "name": "Cloudy Day",
+      "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/2FiATmtrSNjakqKjqgC6Vb"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
         "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
         "url": "https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 213571,
       "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
       "url": "https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/2FiATmtrSNjakqKjqgC6Vb"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "roots",
         "url": "https://open.spotify.com/album/3igERXsCW4cXwDUmvVpGlx"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 181516,
       "name": "Be Kind",
       "url": "https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 228303,
-      "name": "More",
-      "url": "https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "too many feelings",
         "url": "https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 186935,
       "name": "too many feelings",
       "url": "https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 228303,
+      "name": "More",
+      "url": "https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 200592,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/3y3xJiOrKFatn8YqiSgBuS"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Whole",
-        "url": "https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW"
-      },
-      "artists": [
-        {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Whole",
-      "url": "https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Something in the Water",
         "url": "https://open.spotify.com/album/0Q8SEDn9byF7xTtKaYumMt"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 186963,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Whole",
+        "url": "https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW"
+      },
+      "artists": [
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Whole",
+      "url": "https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Heartbeat Changes",
-        "url": "https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/4MfcEgAhzIzkNfBuacn6zT"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn"
+        "name": "Heartbeat Changes",
+        "url": "https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 201178,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
+      "duration_ms": 199920,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/4MfcEgAhzIzkNfBuacn6zT"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -1091,6 +1075,22 @@
       "duration_ms": 172910,
       "name": "For Keeps",
       "url": "https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 201178,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Ros\u00e9",
-        "url": "https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX"
-      },
-      "artists": [
-        {
-          "name": "Call Me Loop",
-          "url": "https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "Ros\u00e9",
-      "url": "https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "One Foot in Front of the Other",
         "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 192075,
       "name": "One Foot in Front of the Other",
       "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Ros\u00e9",
+        "url": "https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX"
+      },
+      "artists": [
+        {
+          "name": "Call Me Loop",
+          "url": "https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "Ros\u00e9",
+      "url": "https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx"
     },
     {
       "added_at": "2022-01-21 15:01:49",

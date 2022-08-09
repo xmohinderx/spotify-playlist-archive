@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 99533,
+  "num_followers": 99588,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGU4NjQ4NWEyODIzNWU2MDNiMTlhNDc0NGQ4MmU4YWIy",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDQ2Y2I4NGY5Y2M5MDRkMTE3NjRhZDYzMjk2OWUzZmUw",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 275960,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Bridge Of Sighs (2007 Remaster)",
         "url": "https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC"
       },
@@ -235,6 +219,38 @@
       "duration_ms": 451893,
       "name": "Too Rolling Stoned - 2007 Remaster",
       "url": "https://open.spotify.com/track/0aveCMNj686kG1oX4n80P6"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Walk In My Shadow",
+      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -271,38 +287,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "In the Skies",
-      "url": "https://open.spotify.com/track/526nHQfF4e5fqr6I2WwyVE"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Walk In My Shadow",
-      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Tattoo (Remastered 2017)",
         "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
       },
@@ -335,6 +319,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "In the Skies",
+      "url": "https://open.spotify.com/track/526nHQfF4e5fqr6I2WwyVE"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Street Corner Talking",
         "url": "https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 228795,
       "name": "Cheats and Liars",
       "url": "https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Songs Of Yesterday",
+      "url": "https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -419,22 +435,6 @@
       "duration_ms": 330400,
       "name": "I Woke up This Morning",
       "url": "https://open.spotify.com/track/20yxud4lZiqNzkreGyliiA"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Songs Of Yesterday",
-      "url": "https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Shining in the Half Light",
-        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 220974,
-      "name": "Who's That",
-      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
-    },
-    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "Blues Helping",
@@ -567,6 +551,22 @@
       "duration_ms": 310360,
       "name": "3 O'Clock Blues - 1999 RemasterStereo",
       "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Shining in the Half Light",
+        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 220974,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "On The Boards",
-        "url": "https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8"
-      },
-      "artists": [
-        {
-          "name": "Taste",
-          "url": "https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Railway And Gun",
-      "url": "https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "12 X 5",
         "url": "https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 167226,
       "name": "Confessin' The Blues",
       "url": "https://open.spotify.com/track/3AaXHBFpwXWmtg3kcfuwhQ"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "On The Boards",
+        "url": "https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8"
+      },
+      "artists": [
+        {
+          "name": "Taste",
+          "url": "https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Railway And Gun",
+      "url": "https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -647,6 +647,22 @@
       "duration_ms": 391560,
       "name": "Home",
       "url": "https://open.spotify.com/track/2EEvpwNJQGN0nokOv0CxCO"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Diamonds In The Dirt",
+        "url": "https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 187245,
+      "name": "Who Do You Love?",
+      "url": "https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -683,22 +699,6 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Diamonds In The Dirt",
-        "url": "https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 187245,
-      "name": "Who Do You Love?",
-      "url": "https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
         "name": "Thunder in the Sky",
         "url": "https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb"
       },
@@ -711,6 +711,38 @@
       "duration_ms": 396106,
       "name": "Thunder in the Sky",
       "url": "https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+        }
+      ],
+      "duration_ms": 357813,
+      "name": "Won't Be Taken Down",
+      "url": "https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Pigthology",
+        "url": "https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli"
+      },
+      "artists": [
+        {
+          "name": "Blodwyn Pig",
+          "url": "https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -747,22 +779,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Pigthology",
-        "url": "https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli"
-      },
-      "artists": [
-        {
-          "name": "Blodwyn Pig",
-          "url": "https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "It's Only Love",
-      "url": "https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Tons Of Sobs",
         "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 500626,
       "name": "Goin' Down Slow",
       "url": "https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
-        }
-      ],
-      "duration_ms": 357813,
-      "name": "Won't Be Taken Down",
-      "url": "https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -955,6 +955,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/13VP0DyGZZq15NzDVoh79y"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/7j7yDC9hh6kAvSVP0XrkbO"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Foghat (2016 Remaster)",
         "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/13VP0DyGZZq15NzDVoh79y"
+        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
+        "url": "https://open.spotify.com/album/1X6zfC44u7x4iDVrrX1bo9"
       },
       "artists": [
         {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+          "name": "Jo Ann Kelly",
+          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
         }
       ],
-      "duration_ms": 215453,
-      "name": "I Put a Spell on You",
-      "url": "https://open.spotify.com/track/7j7yDC9hh6kAvSVP0XrkbO"
+      "duration_ms": 216186,
+      "name": "Someday Baby Blues",
+      "url": "https://open.spotify.com/track/0KkRdukZsl1Fzc56pgorCd"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -999,22 +1015,6 @@
       "duration_ms": 495266,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/3mMtsmooHmJo6Ciiwo6oPv"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
-        "url": "https://open.spotify.com/album/1X6zfC44u7x4iDVrrX1bo9"
-      },
-      "artists": [
-        {
-          "name": "Jo Ann Kelly",
-          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
-        }
-      ],
-      "duration_ms": 216186,
-      "name": "Someday Baby Blues",
-      "url": "https://open.spotify.com/track/0KkRdukZsl1Fzc56pgorCd"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Stonedhenge (Re-Presents)",
-        "url": "https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l"
+        "name": "The Five Faces of Manfred Mann",
+        "url": "https://open.spotify.com/album/5Ixe8gxA3yBbnxHKg9NRGU"
       },
       "artists": [
         {
-          "name": "Ten Years After",
-          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
         }
       ],
-      "duration_ms": 348240,
-      "name": "Hear Me Calling - Mono",
-      "url": "https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w"
+      "duration_ms": 181720,
+      "name": "Don't Ask Me What I Say",
+      "url": "https://open.spotify.com/track/4nJ5svbzhdgyillgqnxne1"
     }
   ],
   "unique_name": "Brit-Blues",

@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-130 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
+131 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Colorful Skies](https://open.spotify.com/track/61hUoJIBc5m8a1YHu15ln9) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4) | [Colorful Skies](https://open.spotify.com/album/6rk7Y2kVA0Mjk4tYISix4q) | 1:55 | 2022-07-15 |  |
 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 | 2020-11-12 |  |
 | [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 1:48 | 2020-11-12 | 2022-07-27 |
-| [Devine](https://open.spotify.com/track/2UAZ0GqmyRh5O3A17FOlOy) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [G93](https://open.spotify.com/artist/01kKwMSA10JavvAaD0Jj5u) | [Devine](https://open.spotify.com/album/52KSCzrUXBM0seRkCbgtCS) | 2:02 | 2020-11-12 |  |
+| [Devine](https://open.spotify.com/track/2UAZ0GqmyRh5O3A17FOlOy) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [G93](https://open.spotify.com/artist/01kKwMSA10JavvAaD0Jj5u) | [Devine](https://open.spotify.com/album/52KSCzrUXBM0seRkCbgtCS) | 2:02 | 2020-11-12 | 2022-08-09 |
 | [Dignity](https://open.spotify.com/track/3OA9r5uxc2wgI9XWY1RzCz) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/6WYT84o6iLdOkuYTU6858W) | 3:10 | 2020-11-12 | 2022-07-10 |
 | [Distune](https://open.spotify.com/track/2jeMAj7vVNbhhZdWNCDe51) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Distune](https://open.spotify.com/album/4RXlSA1QjJgT7IgpyqG7vc) | 1:58 | 2020-11-12 | 2022-07-08 |
 | [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 | 2022-06-24 |  |
@@ -75,6 +75,7 @@
 | [makeitliveforever](https://open.spotify.com/track/2xXSBf2g9yFvNwL966JrUO) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/53gOm5R7JN5DAkIuZymFOZ) | 1:50 | 2020-11-12 | 2022-07-28 |
 | [makeuseofthetime](https://open.spotify.com/track/3yLAolnkqUWXwblOYoI1N9) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/53gOm5R7JN5DAkIuZymFOZ) | 1:18 | 2020-11-12 | 2022-07-29 |
 | [makeuseofthetime](https://open.spotify.com/track/4YblvnMhr0V2lbn8IPVb35) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 1:18 | 2020-11-12 |  |
+| [Memories](https://open.spotify.com/track/4yAeHq13tReDL6rM6dbTc3) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Memories](https://open.spotify.com/album/5ai7eCCSVhagmLwUAWCObs) | 2:33 | 2022-08-05 |  |
 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 | 2020-11-12 |  |
 | [Mirage](https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Mirage](https://open.spotify.com/album/11lBSg0fUCPWIBlM05FAJx) | 2:24 | 2020-11-12 |  |
 | [mochus](https://open.spotify.com/track/3HDMX7NqmyPYmTfBgmCJlO) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Chillhop Essentials Fall 2018](https://open.spotify.com/album/2YWGJnubyNg6IkFtaZKBCl) | 2:12 | 2020-11-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "It's 3pm and we've peaced out for the day.",
-  "num_followers": 4866,
+  "num_followers": 5101,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMwNTMxNiwwMDAwMDAwMDM2MTUxYjY2YjYxYzFhOTYzZWQwMGJjYTU1YzNhNTli",
+  "snapshot_id": "MTY1OTMwNTMxNiwwMDAwMDAwMGU3NGJlNjZmYzc5MWNiZWRlN2NlOTcwOGU0MTYzNWUy",
   "tracks": [
     {
       "added_at": "2022-07-31 22:08:36",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-07-31 22:08:36",
       "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Sweet Creature",
+      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
+    },
+    {
+      "added_at": "2022-07-31 22:08:36",
+      "album": {
         "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
         "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": "2022-07-31 22:08:36",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Sweet Creature",
-      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
-    },
-    {
-      "added_at": "2022-07-31 22:08:36",
-      "album": {
         "name": "The Pains Of Growing",
         "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
@@ -251,22 +251,6 @@
       "duration_ms": 240200,
       "name": "River",
       "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
-    },
-    {
-      "added_at": "2022-07-31 22:08:36",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208977,
-      "name": "mirrorball",
-      "url": "https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP"
     },
     {
       "added_at": "2022-07-31 22:08:36",
@@ -319,6 +303,22 @@
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+    },
+    {
+      "added_at": "2022-07-31 22:08:36",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 208977,
+      "name": "mirrorball",
+      "url": "https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP"
     },
     {
       "added_at": "2022-07-31 22:08:36",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-07-31 22:08:36",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "False God",
-      "url": "https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so"
-    },
-    {
-      "added_at": "2022-07-31 22:08:36",
-      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 207551,
       "name": "everything",
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": "2022-07-31 22:08:36",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "False God",
+      "url": "https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so"
     },
     {
       "added_at": "2022-07-31 22:08:36",

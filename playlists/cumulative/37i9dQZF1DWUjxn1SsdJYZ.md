@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: HP Boyz
 
-207 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+208 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Going Back](https://open.spotify.com/track/1A2ZIRUtEVHHBj6ElsSysV) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [Going Back](https://open.spotify.com/album/0NTtjYRlK8beG6UUsynAHP) | 2:26 | 2022-05-02 |  |
 | [GOTTA GET IT](https://open.spotify.com/track/17NTiRYELek2oBy1O8itwV) | [Txmmy](https://open.spotify.com/artist/5grusMtV0pDYCTusPLrWM2) | [GOTTA GET IT](https://open.spotify.com/album/3PDam9SE8QxMjI5uqlLWiE) | 2:37 | 2022-07-28 |  |
 | [Grime](https://open.spotify.com/track/6pXQRgHROE1GsSgE0Ey1pE) | [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH) | [Grime](https://open.spotify.com/album/0ENPqLod3mLWDwOAUVll6S) | 3:18 | 2022-03-21 | 2022-05-06 |
+| [Handle It](https://open.spotify.com/track/6fwQkSQnIuM6ihR1CH6rm7) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Handle It](https://open.spotify.com/album/2dF5XfyWIxHltWizNawVdL) | 3:02 | 2022-08-08 |  |
 | [Hard Labour](https://open.spotify.com/track/1cXdItUY1viHzqimdLkry2) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [The Proctor 2021](https://open.spotify.com/album/2BSruKVc0FBm0rmWbRmrAU) | 3:53 | 2022-07-28 |  |
 | [Hard Labour](https://open.spotify.com/track/5paXlSDYWldSZLS3dilNul) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [The Proctor 2021](https://open.spotify.com/album/5dQ48B7z887gEkgcz3Euvf) | 3:53 | 2022-03-21 | 2022-07-29 |
 | [HARVEY DENT](https://open.spotify.com/track/3Jyc5O21H7tONGABhOasF9) | [Mitchos Da Menace](https://open.spotify.com/artist/4N9eOW77jpcMTy4qt2smkg) | [HARVEY DENT](https://open.spotify.com/album/06qEkV9pvpddKfeoCOksjI) | 3:12 | 2022-03-21 |  |
@@ -214,6 +215,6 @@
 | [WOAH](https://open.spotify.com/track/0VzQP07n5NgOInr8iuk9Gr) | [AJ Curtis](https://open.spotify.com/artist/5wrtj0ptwZ8Z4ZL0w5YLYE) | [WOAH](https://open.spotify.com/album/2lOMrmiYzXyzntqtIct6bM) | 2:22 | 2022-03-21 | 2022-03-25 |
 | [Y U MAD](https://open.spotify.com/track/2Yf3r73NcKFFUCq7wndpy1) | [Nina Lee Kisses](https://open.spotify.com/artist/6FKYu75Gp3JHZte2LUVynB) | [DREAMVIEW](https://open.spotify.com/album/6cBcZcxez5xrax7EujLjKZ) | 2:28 | 2022-06-09 | 2022-07-01 |
 | [Zimbabwe](https://open.spotify.com/track/6YGhqgMMsBCoxX73sEbwKv) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d) | [Zimbabwe](https://open.spotify.com/album/19ymHdgi8uNhHr9N5rLQxk) | 3:14 | 2022-04-28 | 2022-06-24 |
-| [ZIP!](https://open.spotify.com/track/2jnJ0UP0Ba2Og5lBMMJdRK) | [Chiggz](https://open.spotify.com/artist/4rxcNC4Af5eSLoUb4XIK5J), [ECB](https://open.spotify.com/artist/12qaVHWBtrTQ5KEvYgPQ2v), [Nate G](https://open.spotify.com/artist/4RvlcRTM1zHhPfTYLndVrp) | [ZIP!](https://open.spotify.com/album/2NCLxUOjLbEHi8lQnMP9IF) | 4:25 | 2022-08-04 |  |
+| [ZIP!](https://open.spotify.com/track/2jnJ0UP0Ba2Og5lBMMJdRK) | [Chiggz](https://open.spotify.com/artist/4rxcNC4Af5eSLoUb4XIK5J), [ECB](https://open.spotify.com/artist/12qaVHWBtrTQ5KEvYgPQ2v), [Nate G](https://open.spotify.com/artist/4RvlcRTM1zHhPfTYLndVrp) | [ZIP!](https://open.spotify.com/album/2NCLxUOjLbEHi8lQnMP9IF) | 3:23 | 2022-08-04 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

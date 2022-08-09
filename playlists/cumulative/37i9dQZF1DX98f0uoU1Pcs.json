@@ -3417,10 +3417,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 93954,
       "name": "Rat Beat",
       "url": "https://open.spotify.com/track/1KYt8BaFbULd7jU52MinI2"
+    },
+    {
+      "album": {
+        "name": "Rat Beat",
+        "url": "https://open.spotify.com/album/7kHSFHYGdE5cG7udR5G2YS"
+      },
+      "artists": [
+        {
+          "name": "Beach Rats",
+          "url": "https://open.spotify.com/artist/7pX2wNFpBvwP9T0wkhAxJD"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93954,
+      "name": "Rat Beat",
+      "url": "https://open.spotify.com/track/5p3Nvx6dNevmaKup80O7si"
     },
     {
       "album": {

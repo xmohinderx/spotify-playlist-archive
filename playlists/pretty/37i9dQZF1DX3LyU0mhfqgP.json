@@ -1,12 +1,12 @@
 {
   "description": "Claim your space with the newest songs from LGBTQIA+ artists. Cover: Demi Lovato",
-  "num_followers": 811662,
+  "num_followers": 811659,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3Mjk0NSwwMDAwMDAwMGMyYzVlNWRiNzM5OWU3Y2M4MTU1ZTE2NmQ4MWVmNDE2",
+  "snapshot_id": "MTY1OTM3Mjk0NSwwMDAwMDAwMDc0MDNmMTE1NTljNmI4NWYwYzc5ZWI5MDQ2NDA3MTJk",
   "tracks": [
     {
       "added_at": "2022-07-31 21:56:59",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
+        "name": "You Might Not Like Her",
+        "url": "https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "You Might Not Like Her",
+      "url": "https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
         "name": "This Hell",
         "url": "https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 236078,
       "name": "This Hell",
       "url": "https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
         "name": "LEIL\u00c3O",
         "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 187619,
       "name": "LEIL\u00c3O",
       "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
-        "name": "You Might Not Like Her",
-        "url": "https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "You Might Not Like Her",
-      "url": "https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -339,38 +339,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "How Long - From\"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 245808,
-      "name": "Hold The Girl",
-      "url": "https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -387,6 +355,22 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
+        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "How Long - From\"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
         "name": "Coconuts",
         "url": "https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 168559,
       "name": "Coconuts",
       "url": "https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 245808,
+      "name": "Hold The Girl",
+      "url": "https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "Trouble (from \u2018Three Months\u2019)",
         "url": "https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 203466,
       "name": "Trouble - from \u2018Three Months\u2019",
       "url": "https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 185995,
+      "name": "sugar at the bottom",
+      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
         "name": "Love You When You\u2019re Gone",
         "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 200453,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 185995,
-      "name": "sugar at the bottom",
-      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "Girls Make Me Wanna Die",
-        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 135297,
-      "name": "Girls Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "Puppy Pound",
         "url": "https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 200488,
       "name": "Puppy Pound",
       "url": "https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "Girls Make Me Wanna Die",
+        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "Palladium",
-        "url": "https://open.spotify.com/album/2YyWyMCjuegqxsrfo1672e"
-      },
-      "artists": [
-        {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
-        }
-      ],
-      "duration_ms": 247419,
-      "name": "Palladium",
-      "url": "https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "She Can Dance",
         "url": "https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 184166,
       "name": "She Can Dance",
       "url": "https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "Palladium",
+        "url": "https://open.spotify.com/album/2YyWyMCjuegqxsrfo1672e"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "duration_ms": 247419,
+      "name": "Palladium",
+      "url": "https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "Inside Voices / Outside Voices",
-        "url": "https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 225033,
-      "name": "Weirdo",
-      "url": "https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "Ch. 1 Vs. 1",
         "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 217718,
       "name": "I Might Be In Love With You",
       "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "Inside Voices / Outside Voices",
+        "url": "https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 225033,
+      "name": "Weirdo",
+      "url": "https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "GMT",
-        "url": "https://open.spotify.com/album/1DxcIuPG0YT1kcPXOkdYL1"
-      },
-      "artists": [
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "GMT",
-      "url": "https://open.spotify.com/track/7edS2WLGBDCqpNAsDdtJb2"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "Tantrums",
         "url": "https://open.spotify.com/album/3N2z6l5poKgtLXUwPFFyuc"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 247829,
       "name": "Way I Go",
       "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "GMT",
+        "url": "https://open.spotify.com/album/1DxcIuPG0YT1kcPXOkdYL1"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "GMT",
+      "url": "https://open.spotify.com/track/7edS2WLGBDCqpNAsDdtJb2"
     },
     {
       "added_at": "2022-07-31 21:56:59",

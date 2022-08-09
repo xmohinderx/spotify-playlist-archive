@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 
 > What breaking up in the 2000s sounded like\. Cover: The Fray
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,875 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,113 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 57 | [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 |
 | 58 | [Sympathy](https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 2:58 |
 | 59 | [All You Wanted](https://open.spotify.com/track/0kr6d8wHDQPlzuET33NVn6) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:37 |
-| 60 | [Behind These Hazel Eyes](https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:18 |
-| 61 | [Look What You've Done](https://open.spotify.com/track/0ZSmRnXnP5fdANtVlCok1g) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:50 |
-| 62 | [Vindicated](https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Dusk And Summer](https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U) | 3:21 |
+| 60 | [Look What You've Done](https://open.spotify.com/track/0ZSmRnXnP5fdANtVlCok1g) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:50 |
+| 61 | [Vindicated](https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Dusk And Summer](https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U) | 3:21 |
+| 62 | [Behind These Hazel Eyes](https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:18 |
 | 63 | [Like A Star](https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:03 |
 | 64 | [Unwell \- 2007 Remaster](https://open.spotify.com/track/0PXWpNBYg52gABrn1qL1bD) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Exile on Mainstream](https://open.spotify.com/album/0oFlNGmGpsFvvhBgnNPirh) | 3:57 |
 | 65 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 |
@@ -86,14 +86,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 76 | [Miserable At Best](https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 5:16 |
 | 77 | [Torn](https://open.spotify.com/track/0KDaN0HL3TcJVTbXlQCEsS) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/6HOvWskl058duikMCVOLcW) | 4:04 |
 | 78 | [There Is](https://open.spotify.com/track/3oQggzwBp8hqUwgoUcb3wJ) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE) | 3:16 |
-| 79 | [Just So You Know](https://open.spotify.com/track/3MEt5KPNRD7RpE8BnvJe6B) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Right Where You Want Me](https://open.spotify.com/album/2fcFCBEV9lCi8eQeLJIDYA) | 3:53 |
-| 80 | [Pieces Of Me](https://open.spotify.com/track/7yXibbAYi4to5oQTeO738f) | [Ashlee Simpson](https://open.spotify.com/artist/4hqDqHtBlgxXpLXVYf7c8L) | [Autobiography](https://open.spotify.com/album/0w11HUk0hE4WZ95Bvp6vNI) | 3:37 |
-| 81 | [Broken](https://open.spotify.com/track/5f6cTFoUenDiCJDGecYiuB) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Who We Are](https://open.spotify.com/album/1ISFv3wJNEj1DxP64UWEMO) | 4:46 |
-| 82 | [Home](https://open.spotify.com/track/2mobr1UlKjhxDTOVqng3jw) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 4:15 |
+| 79 | [Home](https://open.spotify.com/track/2mobr1UlKjhxDTOVqng3jw) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 4:15 |
+| 80 | [Just So You Know](https://open.spotify.com/track/3MEt5KPNRD7RpE8BnvJe6B) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Right Where You Want Me](https://open.spotify.com/album/2fcFCBEV9lCi8eQeLJIDYA) | 3:53 |
+| 81 | [Pieces Of Me](https://open.spotify.com/track/7yXibbAYi4to5oQTeO738f) | [Ashlee Simpson](https://open.spotify.com/artist/4hqDqHtBlgxXpLXVYf7c8L) | [Autobiography](https://open.spotify.com/album/0w11HUk0hE4WZ95Bvp6vNI) | 3:37 |
+| 82 | [Broken](https://open.spotify.com/track/5f6cTFoUenDiCJDGecYiuB) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Who We Are](https://open.spotify.com/album/1ISFv3wJNEj1DxP64UWEMO) | 4:46 |
 | 83 | [Somewhere Out There](https://open.spotify.com/track/6fQJg7MdQssgZJDhTJtFtd) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Gravity](https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd) | 4:11 |
 | 84 | [Pictures Of You](https://open.spotify.com/track/4bfyeYgNLENrwLRRSKXfM3) | [The Last Goodnight](https://open.spotify.com/artist/4UrGiQXrpB2CmzVGVFtH5E) | [Poison Kiss](https://open.spotify.com/album/3MOMO36PjOCsTjRgN7D7IE) | 3:09 |
-| 85 | [Nothing Left to Lose](https://open.spotify.com/track/23MG7PAYUQp0esP2dzWHWj) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose](https://open.spotify.com/album/6QhRwIZzTZ2ShlXVZsVfbM) | 4:23 |
-| 86 | [Thunder](https://open.spotify.com/track/1MrNveiYvWyKNAMiqn8xS8) | [Boys Like Girls](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68) | 3:56 |
+| 85 | [Thunder](https://open.spotify.com/track/1MrNveiYvWyKNAMiqn8xS8) | [Boys Like Girls](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68) | 3:56 |
+| 86 | [Nothing Left to Lose](https://open.spotify.com/track/23MG7PAYUQp0esP2dzWHWj) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose](https://open.spotify.com/album/6QhRwIZzTZ2ShlXVZsVfbM) | 4:23 |
 | 87 | [Chances](https://open.spotify.com/track/1MzlQlMCHU4zSyHjVGbMln) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [Slice](https://open.spotify.com/album/2POpSYIitmzUOvw7i6lqKT) | 3:35 |
 | 88 | [Nothing](https://open.spotify.com/track/0c3yfC8zMRJGvmqphczhZb) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/2oc73A20I1FTQiWGCkLeVP) | 4:32 |
 | 89 | [Adia](https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:04 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 94 | [Samson](https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:09 |
 | 95 | [Untitled \(How Could This Happen to Me?\)](https://open.spotify.com/track/3eRLKD1Lgc2OrYGxRxX62s) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:59 |
 | 96 | [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 |
-| 97 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 |
-| 98 | [The First Cut Is The Deepest](https://open.spotify.com/track/0wyOnrfGOlDdWHdIybLr4n) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The First Cut Is The Deepest](https://open.spotify.com/album/1L0XnWcJWHrsDtRP9XeUYG) | 3:46 |
+| 97 | [The First Cut Is The Deepest](https://open.spotify.com/track/0wyOnrfGOlDdWHdIybLr4n) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The First Cut Is The Deepest](https://open.spotify.com/album/1L0XnWcJWHrsDtRP9XeUYG) | 3:46 |
+| 98 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 |
 | 99 | [Where I Stood](https://open.spotify.com/track/6ZTfXBZU6eCrGdmSdWwaZv) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [On a Clear Night](https://open.spotify.com/album/0i314WNC40kA3tPr50WjKs) | 4:17 |
 | 100 | [Feels Like Home](https://open.spotify.com/track/06qK8tWn0OQKMVPCDsmHtn) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [What If It All Means Something](https://open.spotify.com/album/7pMVUZBPHy7a8BwdlZwBNO) | 4:39 |
 
-Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMGJlM2E4YTQzOGY1ZGFkN2Q4NzY0NzZiNDIzZGVlM2Ni`
+Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMDk2OTMwMjdkZmNmMjZlMTAxZjZhMzA4NTZlOWU2OTA4`

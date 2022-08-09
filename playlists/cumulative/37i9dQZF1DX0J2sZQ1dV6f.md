@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-174 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/0Zp5ISfQqmS4W6Y0xRDYYd)
+175 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/0Zp5ISfQqmS4W6Y0xRDYYd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Pedro Pan](https://open.spotify.com/track/56yW56wfuC0OgvrBG4kRbp) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette \- Lado B EP](https://open.spotify.com/album/4ogLmrVunBbpcwie7xzQQ0) | 2:05 | 2022-03-21 | 2022-04-20 |
 | [Peli\-Culeo](https://open.spotify.com/track/2pEmxGe9nMIjg8wniWkYjJ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:54 | 2022-07-08 |  |
 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 | 2022-07-08 |  |
-| [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 | 2022-07-08 |  |
+| [Perreo Bendito](https://open.spotify.com/track/56uvG8rHQkvEtbRXK2R8rx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:39 | 2022-07-29 |  |
+| [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 | 2022-07-08 | 2022-08-09 |
 | [Perreo Pesau'](https://open.spotify.com/track/5bQ9rtAfOUbPmuxjPK8zDp) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 4:20 | 2022-03-21 | 2022-07-09 |
 | [perrrrreo](https://open.spotify.com/track/2jS8Sl8601rtCf62eoblLW) | [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi), [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm) | [perrrrreo](https://open.spotify.com/album/0fiUduls7DWwgpVmTXkWTV) | 2:02 | 2022-03-21 | 2022-04-20 |
 | [Pikete](https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pikete](https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd) | 2:33 | 2022-03-21 | 2022-07-09 |

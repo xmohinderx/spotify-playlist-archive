@@ -6954,7 +6954,7 @@
     },
     {
       "album": {
-        "name": "Bololo",
+        "name": "Bolol\u00f4",
         "url": "https://open.spotify.com/album/4sdzyilyauT3PhrwVr4MvR"
       },
       "artists": [
@@ -6975,7 +6975,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171839,
-      "name": "Bololo",
+      "name": "Bolol\u00f4",
       "url": "https://open.spotify.com/track/33ICe6z7IQhA4fQwkvHeL8"
     },
     {
@@ -38181,14 +38181,6 @@
         {
           "name": "Dj Victor",
           "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        },
-        {
-          "name": "DJ BOY",
-          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
         }
       ],
       "date_added": "2022-08-05",
@@ -47962,7 +47954,7 @@
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 150923,
+      "duration_ms": 173012,
       "name": "Shawry",
       "url": "https://open.spotify.com/track/7AI4veSvghnWvRBlG0HDeT"
     },
@@ -56697,10 +56689,6 @@
           "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
         },
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
           "name": "Anezzi",
           "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
         },
@@ -56711,6 +56699,10 @@
         {
           "name": "MC Maneirinho",
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         }
       ],
       "date_added": "2022-08-05",

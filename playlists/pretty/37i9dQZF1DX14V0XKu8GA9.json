@@ -1,12 +1,12 @@
 {
   "description": "The wave of U.S. Latinos in Hip-Hop. Cover: Coyote",
-  "num_followers": 14932,
+  "num_followers": 14949,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDI4ODYzYzIxMGJkNzA1ODU2OGJlYTM0ODljMjI0Mjdm",
+  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDA3YThjMjZlMjNjYTZkYWExMzAyYmQwN2RjMTZjMjA1",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "I Ain't Gon Lie",
-        "url": "https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ"
-      },
-      "artists": [
-        {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "I Ain't Gon Lie",
-      "url": "https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Dead Homies",
         "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "I Ain't Gon Lie",
+        "url": "https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "I Ain't Gon Lie",
+      "url": "https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Until the Day (Remix)",
         "url": "https://open.spotify.com/album/6U6Nt1f09c6lbtUGvbrqlW"
       },
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/70njJX3KGL7RClV9L7mHcw"
+      },
+      "artists": [
+        {
+          "name": "Devour",
+          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/6JeyCrsUywsYqcjReSjyUW"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "My Light",
         "url": "https://open.spotify.com/album/32KAZuMWyfCY3MkIY5BtK1"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 244893,
       "name": "My Light",
       "url": "https://open.spotify.com/track/3hH4YLEQ2jJPhBbzRsp5Pk"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Survive",
-        "url": "https://open.spotify.com/album/70njJX3KGL7RClV9L7mHcw"
-      },
-      "artists": [
-        {
-          "name": "Devour",
-          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/6JeyCrsUywsYqcjReSjyUW"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -759,38 +759,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "City Playa",
-        "url": "https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0"
-      },
-      "artists": [
-        {
-          "name": "Doughboy Tony",
-          "url": "https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "City Playa",
-      "url": "https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/1nkLY3g1EoOogeyb7Hxehx"
-      },
-      "artists": [
-        {
-          "name": "J.I Bandz",
-          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
-        }
-      ],
-      "duration_ms": 191059,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/68l3AHETwLT381pxp70aUa"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM"
       },
@@ -823,6 +791,38 @@
       "duration_ms": 146160,
       "name": "Club Banger (feat. Peysoh)",
       "url": "https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "City Playa",
+        "url": "https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0"
+      },
+      "artists": [
+        {
+          "name": "Doughboy Tony",
+          "url": "https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "City Playa",
+      "url": "https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/1nkLY3g1EoOogeyb7Hxehx"
+      },
+      "artists": [
+        {
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
+        }
+      ],
+      "duration_ms": 191059,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/68l3AHETwLT381pxp70aUa"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "i'm Hot",
+        "url": "https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF"
+      },
+      "artists": [
+        {
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
+        }
+      ],
+      "duration_ms": 128994,
+      "name": "i'm Hot",
+      "url": "https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/6xj392AMIzR0EzSekdHqxK"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "i'm Hot",
-        "url": "https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF"
-      },
-      "artists": [
-        {
-          "name": "J.I Bandz",
-          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
-        }
-      ],
-      "duration_ms": 128994,
-      "name": "i'm Hot",
-      "url": "https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "SLIDIN",
         "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 158007,
       "name": "SLIDIN",
       "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "El Idolo",
-        "url": "https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn"
-      },
-      "artists": [
-        {
-          "name": "Doeman",
-          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "El Idolo",
-      "url": "https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "El Idolo",
+        "url": "https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn"
+      },
+      "artists": [
+        {
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "El Idolo",
+      "url": "https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "From The Gravel",
         "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 117629,
       "name": "From The Gravel",
       "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Fuck The Yotes",
-        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "Fuck The Yotes",
-      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1103,6 +1087,22 @@
       "duration_ms": 171934,
       "name": "Ain't Done",
       "url": "https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Fuck The Yotes",
+        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Fuck The Yotes",
+      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
     },
     {
       "added_at": "2022-07-15 04:00:00",

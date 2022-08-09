@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 15208,
+  "num_followers": 15669,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMDczNjNjNmUwNDEzNzg3NWI4ODZmM2U0ZGFkNDZjMDNi",
+  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMGY2YmNmY2I1ZTY5ZDJlZjgzMmEwZDVjYjE2ZjE4ZTY1",
   "tracks": [
     {
       "added_at": "2022-07-29 06:24:48",
@@ -375,6 +375,26 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
+      },
+      "artists": [
+        {
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        }
+      ],
+      "duration_ms": 253242,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
         "name": "Tribal Space",
         "url": "https://open.spotify.com/album/4UeZWgfQSO0fsHpCDudHzs"
       },
@@ -387,6 +407,54 @@
       "duration_ms": 359250,
       "name": "Tribal Space",
       "url": "https://open.spotify.com/track/4VfF4RBRiKKV969cXUX8or"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
+      },
+      "artists": [
+        {
+          "name": "Warp Brothers",
+          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
+        }
+      ],
+      "duration_ms": 357227,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 392008,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -411,38 +479,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
-      },
-      "artists": [
-        {
-          "name": "Warp Brothers",
-          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
-        }
-      ],
-      "duration_ms": 357227,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Hercules",
-        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 392008,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "Together One Time",
         "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
       },
@@ -459,18 +495,18 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+        "name": "Asura EP",
+        "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
       },
       "artists": [
         {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         }
       ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
+      "duration_ms": 469612,
+      "name": "Asura",
+      "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -495,42 +531,6 @@
       "duration_ms": 272221,
       "name": "Saw of Olympus",
       "url": "https://open.spotify.com/track/0VnV4QbuGplPbXsFBJpX8y"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Elysium",
-        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
-      },
-      "artists": [
-        {
-          "name": "Clap Codex",
-          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
-        },
-        {
-          "name": "Patrick Scuro",
-          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
-        }
-      ],
-      "duration_ms": 253242,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Asura EP",
-        "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 469612,
-      "name": "Asura",
-      "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        }
+      ],
+      "duration_ms": 400172,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
         "name": "Hypnos",
         "url": "https://open.spotify.com/album/2cMqYqiJeFv7YfWwc1GF1P"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 292989,
       "name": "Morphing",
       "url": "https://open.spotify.com/track/6Y2OimS3u5eKd0LLco0Vlq"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
-      },
-      "artists": [
-        {
-          "name": "Teenage Mutants",
-          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
-        }
-      ],
-      "duration_ms": 400172,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
     },
     {
       "added_at": "2022-07-29 06:24:48",

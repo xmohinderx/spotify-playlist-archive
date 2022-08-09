@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,947 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,140 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 19 | [Better](https://open.spotify.com/track/5z2hntBNASWRvUGP8BQng6) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Better](https://open.spotify.com/album/0fskcpyw9TKwovHPx6O0sr) | 3:14 |
 | 20 | [See You Tonight](https://open.spotify.com/track/7mn0jmTCZJ7oy6Pxn5CBRD) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc), [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV) | [See You Tonight](https://open.spotify.com/album/1PGucCJAPXx8aOVX6OW3JM) | 3:05 |
 | 21 | [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 |
-| 22 | [Electric](https://open.spotify.com/track/5HAdfADPJE797O73yUHJMf) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM) | [Electric](https://open.spotify.com/album/2xD74v93mGgP188mldE96h) | 4:11 |
+| 22 | [Electric](https://open.spotify.com/track/5HAdfADPJE797O73yUHJMf) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Electric](https://open.spotify.com/album/2xD74v93mGgP188mldE96h) | 4:11 |
 | 23 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 |
 | 24 | [Again](https://open.spotify.com/track/47X8351PcUbASy7TTbIFYC) | [Darley](https://open.spotify.com/artist/5oozOQ8DH87yhpAWh0C3B4) | [Again](https://open.spotify.com/album/5HgaE7jRk9F9RopiiPP9zK) | 3:14 |
 | 25 | [Don't Love Me](https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Don't Love Me](https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G) | 2:47 |

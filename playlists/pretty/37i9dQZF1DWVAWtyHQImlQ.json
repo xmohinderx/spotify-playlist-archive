@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 104082,
+  "num_followers": 104149,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg0ODI3MiwwMDAwMDAwMGVkNWVmMDBmODRkOTQ1MzhhMDE1NGUzNmIzNDg0MWM3",
+  "snapshot_id": "MTY1ODg0ODI3MiwwMDAwMDAwMDQwMDAzY2ZkY2E4MjVmZmNiNjlmOWM5ZWIyNTcxOTI3",
   "tracks": [
     {
       "added_at": "2019-11-25 15:52:14",
@@ -123,22 +123,6 @@
     {
       "added_at": "2019-11-25 15:52:14",
       "album": {
-        "name": "Days Of Future Passed (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
-      },
-      "artists": [
-        {
-          "name": "The Moody Blues",
-          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
-        }
-      ],
-      "duration_ms": 269106,
-      "name": "Nights In White Satin - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
-    },
-    {
-      "added_at": "2019-11-25 15:52:14",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 173040,
       "name": "God Only Knows - Mono / 1997 Remastered",
       "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
+    },
+    {
+      "added_at": "2019-11-25 15:52:14",
+      "album": {
+        "name": "Days Of Future Passed (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "duration_ms": 269106,
+      "name": "Nights In White Satin - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
     },
     {
       "added_at": "2019-11-25 15:52:14",
@@ -269,22 +269,6 @@
       "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
     },
     {
-      "added_at": "2022-04-19 14:20:34",
-      "album": {
-        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
-        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
-    },
-    {
       "added_at": "2019-11-25 15:52:14",
       "album": {
         "name": "Pain in My Heart",
@@ -299,6 +283,22 @@
       "duration_ms": 154533,
       "name": "These Arms of Mine",
       "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+    },
+    {
+      "added_at": "2022-04-19 14:20:34",
+      "album": {
+        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
     },
     {
       "added_at": "2019-11-25 15:52:14",
@@ -675,22 +675,6 @@
     {
       "added_at": "2019-11-25 15:52:14",
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD"
-      },
-      "artists": [
-        {
-          "name": "Cilla Black",
-          "url": "https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Anyone Who Had a Heart - 2003 Remaster",
-      "url": "https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf"
-    },
-    {
-      "added_at": "2019-11-25 15:52:14",
-      "album": {
         "name": "Oh, What A Night! / The Great Ballads",
         "url": "https://open.spotify.com/album/5IjlGKFY636wmz3eqE7V1N"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 247266,
       "name": "Oh, What A Night",
       "url": "https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs"
+    },
+    {
+      "added_at": "2019-11-25 15:52:14",
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD"
+      },
+      "artists": [
+        {
+          "name": "Cilla Black",
+          "url": "https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Anyone Who Had a Heart - 2003 Remaster",
+      "url": "https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf"
     },
     {
       "added_at": "2019-11-25 15:52:14",

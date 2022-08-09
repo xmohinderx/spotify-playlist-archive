@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past.",
-  "num_followers": 867868,
+  "num_followers": 867955,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwOSwwMDAwMDAwMDYwNDFkYTMxMDk1NThiOTJjN2VjZjhiYWU3ZWY2M2Nk",
+  "snapshot_id": "MTY1NzA0ODgwOSwwMDAwMDAwMGY1NzEyNjQ4ZmMwODRiNDMzYWYwOWE2YzZhNGQ3ZTM5",
   "tracks": [
     {
       "added_at": "2021-01-06 18:39:03",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
     },
     {
-      "added_at": "2021-12-14 20:17:09",
-      "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 356733,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo"
-    },
-    {
       "added_at": "2021-01-06 18:39:03",
       "album": {
         "name": "City to City",
@@ -411,6 +395,22 @@
       "duration_ms": 365626,
       "name": "Baker Street",
       "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
+    },
+    {
+      "added_at": "2021-12-14 20:17:09",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 356733,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-06-30 18:06:09",
       "album": {
-        "name": "Cyan",
-        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Shambala - Single Version",
-      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
-    },
-    {
-      "added_at": "2022-06-30 18:06:09",
-      "album": {
         "name": "Tap Root Manuscript",
         "url": "https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 179933,
       "name": "Cracklin' Rosie - Single Version",
       "url": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
+    },
+    {
+      "added_at": "2022-06-30 18:06:09",
+      "album": {
+        "name": "Cyan",
+        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Shambala - Single Version",
+      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
     }
   ],
   "unique_name": "Good Times, Great Oldies",

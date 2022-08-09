@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: PURPLE KISS \(퍼플키스\)
 
-306 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
+308 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [FIRST](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Last Melody](https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG) | 3:32 | 2021-07-02 | 2022-05-13 |
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-20 |  |
 | [FLOWER SHOWER](https://open.spotify.com/track/3wljaQ1KBCAMnPxCPDEUsC) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [FLOWER SHOWER](https://open.spotify.com/album/2SUtN48rlxa2SfTtffOnlR) | 3:08 | 2021-02-26 | 2022-07-27 |
+| [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-08 |  |
 | [Freesm](https://open.spotify.com/track/2Z7Uz9xmEeHKdWpeR05wfk) | [Hashtag](https://open.spotify.com/artist/1SABBqkbfguBXhZQJK5t3e) | [haShtag 2nd mini album \#Aeji \#paSsion](https://open.spotify.com/album/18b7QE4L7khNdLI1JjfNfE) | 3:03 | 2021-02-26 | 2022-04-19 |
 | [FUTURE 퓨처](https://open.spotify.com/track/6EvUmJtq5UMBWkcID2J85l) | [GIRLKIND](https://open.spotify.com/artist/2TqCaaZ0Yh9MtRVYnoZg8K) | [FUTURE 퓨처](https://open.spotify.com/album/7F6gEdRkVo6XNTWTzkiFAu) | 3:40 | 2020-10-13\* | 2022-04-17 |
 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 | 2020-10-20 | 2021-03-17 |
@@ -144,7 +145,7 @@
 | [KILLER](https://open.spotify.com/track/1NMxmQKHCIqbz2QKxd1X2E) | [FAINIT](https://open.spotify.com/artist/2RRJVX5gr6einLIajJdDa5) | [KILLER](https://open.spotify.com/album/2hZEI76bqonuaH7Ew3Opp6) | 3:10 | 2022-06-20 | 2022-06-27 |
 | [KKILI KKILI](https://open.spotify.com/track/2K3ht7XaFNLSoJutz7jEat) | [G\-reyish](https://open.spotify.com/artist/6CNfjsyz9f7M68UH4HryH3) | [Bravo My Trip](https://open.spotify.com/album/6f4SZvzYqh8ZvZaWPaJU16) | 3:02 | 2021-02-27 | 2022-04-18 |
 | [LA DI DA](https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:30 | 2020-10-13\* | 2022-07-11 |
-| [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2022-07-25 |  |
+| [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2022-07-25 | 2022-08-09 |
 | [La Luna](https://open.spotify.com/track/211bSRBUn8BeVFjWCd1H0o) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [La Luna](https://open.spotify.com/album/7CQBxDLDkce9zO68YmcVGg) | 3:26 | 2020-10-13\* | 2022-04-15 |
 | [Lady](https://open.spotify.com/track/2WusoL0p5HmFzhR5DLGUVx) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Lady](https://open.spotify.com/album/7hdql29wHs1VTWxmGmm5HV) | 3:10 | 2021-02-27 | 2022-04-20 |
 | [LALALAY 날라리](https://open.spotify.com/track/6sWd8ZAH5bWWyjwb7ZV2Zb) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [LALALAY 날라리](https://open.spotify.com/album/1hgIt7Jq6m1zVfT1TzUQzs) | 2:54 | 2021-02-28 | 2022-07-29 |
@@ -166,6 +167,7 @@
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-25 |  |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-25 | 2022-07-29 |
 | [LOUDER](https://open.spotify.com/track/26VaMq8RwiHtuLEaNGxBB0) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:18 | 2022-03-07 | 2022-04-20 |
+| [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-08-08 |  |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-01-19 | 2022-07-29 |
 | [MAGO](https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:19 | 2020-11-09 |  |
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-12 | 2022-04-29 |
@@ -191,10 +193,10 @@
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-07-04 |  |
 | [No More](https://open.spotify.com/track/1ypNdSl9XomFIt4dgor2QR) | [UNI.T](https://open.spotify.com/artist/3iui2F01zrPbNx91td4LJZ) | [line](https://open.spotify.com/album/4BWULSJ2Sw9QM49M1Hb8UJ) | 3:26 | 2021-03-02 | 2022-05-30 |
 | [NO ONE](https://open.spotify.com/track/0lhZsFfTpITnjK5q8lrDLR) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 3:14 | 2021-01-16 | 2022-04-13 |
-| [NO THANKS](https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:01 | 2022-07-18 |  |
+| [NO THANKS](https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:01 | 2022-07-18 | 2022-08-09 |
 | [NomNomNom](https://open.spotify.com/track/7i4cuL4xkoiCfzLjWFLqte) | [Sunny Hill](https://open.spotify.com/artist/1ePYD8tMMM4Y8gbwi69vaf) | [NomNomNom](https://open.spotify.com/album/5WyDxTF28peBBSZvoIsxHh) | 2:37 | 2021-03-06 | 2022-04-11 |
 | [Nonstop](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:22 | 2020-10-13\* | 2022-07-11 |
-| [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 | 2022-07-25 | 2022-08-02 |
+| [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 | 2022-07-25 |  |
 | [Not Shy](https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 2:57 | 2020-10-13\* | 2022-07-28 |
 | [Not That Type](https://open.spotify.com/track/0dHWWPN5XGWotUnM57QQZK) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.5 New Action](https://open.spotify.com/album/1eztr3rLc24EvhtvIdRjkl) | 3:11 | 2021-01-18 | 2021-03-10 |
 | [Not Yours](https://open.spotify.com/track/6F8NVcYbERkpD3TlkYYVm4) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Start of the End](https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm) | 3:03 | 2021-03-02 | 2022-04-21 |
@@ -241,7 +243,7 @@
 | [Snapping](https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:33 | 2020-10-20 | 2022-07-28 |
 | [So I Lie](https://open.spotify.com/track/6W3dOxHtG9BGSkCsIHZRVI) | [YerY](https://open.spotify.com/artist/4RnDWh3zemdMGubIQLeT6H) | [So I Lie](https://open.spotify.com/album/2KGPPS4bKfNA8ObCMx8jk1) | 3:00 | 2021-10-03 | 2022-04-18 |
 | [So What](https://open.spotify.com/track/7w3pIUjz7BTTqj9uAws40m) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn) | 3:18 | 2021-01-18 | 2021-03-02 |
-| [Sparkling](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:06 | 2022-07-12 |  |
+| [Sparkling](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:06 | 2022-07-12 | 2022-08-09 |
 | [SPICY](https://open.spotify.com/track/0KGn1PDH5cqmD4B8GMVfae) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [SPICY](https://open.spotify.com/album/187GdUKB6sx3DZaL6wpxnO) | 3:14 | 2021-08-25 | 2022-04-13 |
 | [Spit it out](https://open.spotify.com/track/5F6RrFgt1yvRhNCdAEumM6) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [SPIT IT OUT](https://open.spotify.com/album/1pLSlOXtHKPoSoB6ovnIAK) | 3:14 | 2020-10-13\* | 2021-03-17 |
 | [Stagger](https://open.spotify.com/track/5WZVKm4ve9APzOkNY9KTjy) | [CHEETAH](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) | [Stagger](https://open.spotify.com/album/0DEz3dvy6P8w4KnDVBMR1f) | 4:15 | 2021-02-26 | 2021-03-15 |

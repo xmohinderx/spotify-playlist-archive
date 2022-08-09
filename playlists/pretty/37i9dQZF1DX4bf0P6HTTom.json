@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 113117,
+  "num_followers": 113206,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDNjNTEwODY5YWMxMTRmZGM1MDQ4NTgzZDdkYTgyMDg3",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDgxYWJlODZjYzU5ODNiYmY1NjYzZDQ2ZjJjZGU3NTc5",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
-        "name": "Heart Like A Wheel",
-        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Willin'",
-      "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
-    },
-    {
       "added_at": "2020-08-05 15:52:11",
       "album": {
         "name": "Greatest Hits",
@@ -267,6 +251,22 @@
       "duration_ms": 250888,
       "name": "Witchy Woman - 2013 Remaster",
       "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "Heart Like A Wheel",
+        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Willin'",
+      "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -511,6 +511,26 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Grievous Angel",
+        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
+      },
+      "artists": [
+        {
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Ooh Las Vegas (feat. Emmylou Harris) - 2007 Remaster",
+      "url": "https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Hotel California (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
       },
@@ -523,6 +543,22 @@
       "duration_ms": 304925,
       "name": "New Kid in Town - 2013 Remaster",
       "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "The Fantastic Expedition Of Dillard & Clark",
+        "url": "https://open.spotify.com/album/6SaetmQc4GCTzdZuW7khKx"
+      },
+      "artists": [
+        {
+          "name": "Dillard & Clark",
+          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "Train Leaves Here This Mornin",
+      "url": "https://open.spotify.com/track/3QakrNWYNgZ89by21ImeBN"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -543,6 +579,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Safe at Home",
+        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
+      },
+      "artists": [
+        {
+          "name": "The International Submarine Band",
+          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Miller's Cave",
+      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Magnetic South (Expanded Edition)",
         "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
       },
@@ -559,42 +611,6 @@
       "duration_ms": 159133,
       "name": "Mama Nantucket",
       "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Grievous Angel",
-        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
-      },
-      "artists": [
-        {
-          "name": "Gram Parsons",
-          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Ooh Las Vegas (feat. Emmylou Harris) - 2007 Remaster",
-      "url": "https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd"
-    },
-    {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
-        "name": "The Fantastic Expedition Of Dillard & Clark",
-        "url": "https://open.spotify.com/album/6SaetmQc4GCTzdZuW7khKx"
-      },
-      "artists": [
-        {
-          "name": "Dillard & Clark",
-          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Train Leaves Here This Mornin",
-      "url": "https://open.spotify.com/track/3QakrNWYNgZ89by21ImeBN"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -643,6 +659,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "Two Lane Highway",
+      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "No Other",
         "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
       },
@@ -659,34 +691,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Safe at Home",
-        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
       },
       "artists": [
         {
-          "name": "The International Submarine Band",
-          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
         }
       ],
-      "duration_ms": 169133,
-      "name": "Miller's Cave",
-      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
-      },
-      "artists": [
-        {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Two Lane Highway",
-      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
+      "duration_ms": 169840,
+      "name": "Morning Sky",
+      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -703,22 +719,6 @@
       "duration_ms": 188706,
       "name": "Tried So Hard",
       "url": "https://open.spotify.com/track/4v4ssibf1FAkxisrqeMPhh"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "Morning Sky",
-      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
     },
     {
       "added_at": "2020-08-05 15:52:11",

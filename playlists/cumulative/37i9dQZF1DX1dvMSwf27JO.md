@@ -4,7 +4,7 @@
 
 > and why aren't you in uniform? Cover: Steve Lacy @ Gucci Love Parade November 2021
 
-186 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+187 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Diablo](https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:18 | 2021-10-15 |  |
 | [Diddy \(feat\. The Neptunes\)](https://open.spotify.com/track/3829CDK1kzOgjRU3nNXqFQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 3:54 | 2022-01-04 |  |
 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0) | 3:04 | 2022-04-29 |  |
-| [Doin' it Right \(feat\. Panda Bear\)](https://open.spotify.com/track/36c4JohayB9qd64eidQMBi) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:11 | 2022-07-20 |  |
+| [Doin' it Right \(feat\. Panda Bear\)](https://open.spotify.com/track/36c4JohayB9qd64eidQMBi) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:11 | 2022-07-20 | 2022-08-09 |
 | [Dream Girl](https://open.spotify.com/track/568ZnkQDsn09lX1FXn7a4Q) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 2:31 | 2021-08-05 | 2022-05-28 |
 | [F\*\*kin' Problems \(feat\. Drake, 2 Chainz & Kendrick Lamar\)](https://open.spotify.com/track/4XoP1AkbOurU9CeZ2rMEz2) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/1E1eyI5uGllppJZCxNoF9w) | 3:53 | 2021-10-15 | 2022-07-12 |
 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 | 2022-07-01 |  |
@@ -171,6 +171,7 @@
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY) | 3:16 | 2022-01-21 | 2022-04-16 |
 | [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 | 2021-08-05 |  |
 | [The Perfect Girl \- The Motion Retrowave Remix](https://open.spotify.com/track/1UcyzhmBDfdw07DiuT7DEG) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo), [The Motion](https://open.spotify.com/artist/2Oa32CWdPcsW36MkDRjM5n) | [The Perfect Girl \(The Motion Retrowave Remix\)](https://open.spotify.com/album/6LtIcRhkNqGdXl2OESjDPE) | 3:01 | 2022-05-27 |  |
+| [The Potion](https://open.spotify.com/track/4zXMw51RgLPRE3vPDuqBvt) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Red Light District](https://open.spotify.com/album/1KushUovbraTDRu9sbO5fg) | 3:54 | 2022-08-08 |  |
 | [The Spins](https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo) | 3:15 | 2021-08-05 | 2022-07-30 |
 | [Them Changes](https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue) | 3:08 | 2021-08-05 | 2022-07-29 |
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2021-08-05 |  |

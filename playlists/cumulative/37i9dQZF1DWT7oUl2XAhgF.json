@@ -81,6 +81,24 @@
     {
       "album": {
         "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227680,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l"
+    },
+    {
+      "album": {
+        "name": "The Dip Delivers",
         "url": "https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI"
       },
       "artists": [
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 212939,
       "name": "Regenerate",
       "url": "https://open.spotify.com/track/6eFsavqVXRlyeSnlX75pc4"

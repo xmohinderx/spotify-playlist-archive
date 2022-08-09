@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 225621,
       "name": "2AM",
       "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 129817,
       "name": "Hot In It",
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
@@ -1197,7 +1197,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/507C3iFe1EDJ8IUttDeO5j"
@@ -1911,6 +1911,28 @@
       "duration_ms": 158531,
       "name": "Preta do Cabelo Cacheado",
       "url": "https://open.spotify.com/track/3lJ8BcGM1ROQ1ufneU3Qya"
+    },
+    {
+      "album": {
+        "name": "Preta do Cabelo Cacheado",
+        "url": "https://open.spotify.com/album/6GcwfM1YWN0mO3drnl6bgc"
+      },
+      "artists": [
+        {
+          "name": "Th CDM",
+          "url": "https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs"
+        },
+        {
+          "name": "Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/5JNJDtyiFwY74t1uZx0N3Y"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158531,
+      "name": "Preta do Cabelo Cacheado",
+      "url": "https://open.spotify.com/track/4OtB9KGUChZkqvR3LDFL5P"
     },
     {
       "album": {

@@ -276,6 +276,28 @@
     },
     {
       "album": {
+        "name": "Alley-Oop",
+        "url": "https://open.spotify.com/album/0OJLq8CREfpFv87oUACfF4"
+      },
+      "artists": [
+        {
+          "name": "Dazy Chain",
+          "url": "https://open.spotify.com/artist/2gHF2JSNXKMMTfF1mQxEK9"
+        },
+        {
+          "name": "Lone Waves",
+          "url": "https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Alley-Oop",
+      "url": "https://open.spotify.com/track/00lroakMBzkEPKCt2eNfrf"
+    },
+    {
+      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -731,7 +753,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 219280,
       "name": "Bombay",
       "url": "https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp"
@@ -2635,7 +2657,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 120808,
       "name": "Gloom",
       "url": "https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW"
@@ -6589,6 +6611,24 @@
       "duration_ms": 242847,
       "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
       "url": "https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy"
+    },
+    {
+      "album": {
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
       "album": {

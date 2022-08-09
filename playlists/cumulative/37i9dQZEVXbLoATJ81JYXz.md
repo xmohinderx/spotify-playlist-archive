@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-940 songs - 2 day 1 hr 53 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+941 songs - 2 day 1 hr 55 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Gubben i lådan](https://open.spotify.com/track/46fLDmKjHKqLGVFscIaQju) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Gubben i lådan](https://open.spotify.com/album/4JbUGgOPhvwf0O3YoyICMp) | 3:22 | 2021-12-20 | 2021-12-31 |
 | [GUBBS 4 EVER](https://open.spotify.com/track/6yjZFmqSqys1DHS0wbHP9W) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [GUBBS 4 EVER](https://open.spotify.com/album/5u9WFFXOuidKIhTVji0SVH) | 3:08 | 2021-11-14 | 2021-11-14 |
 | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/track/3h8WBhNnafO0wzsEnGeJfX) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3ymlmZD01qezHfoQlDtUWB) | 2:44 | 2021-04-11 | 2021-04-18 |
+| [GÅR DET BRA?](https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GÅR DET BRA?](https://open.spotify.com/album/7titrAJAZMyrsvcnrrZ2pR) | 2:25 | 2022-08-08 |  |
 | [Habiba](https://open.spotify.com/track/2DwKLmH3IW1Rp6ykCF5CSE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Habiba](https://open.spotify.com/album/1fw2IHZiOUmjZAhTSgNQSQ) | 2:14 | 2022-07-09 | 2022-07-31 |
 | [Hailey](https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:13 | 2021-10-10 | 2021-10-12 |
 | [Hallabaloo](https://open.spotify.com/track/03jodq9I7XgEdouxH230fd) | [Danne Stråhed](https://open.spotify.com/artist/3nc8VYKBqtooEzkV1S1orW) | [Hallabaloo – nu och då](https://open.spotify.com/album/38SeRf5PnE425oj4UumuQN) | 2:33 | 2022-02-28 | 2022-03-23 |
@@ -602,7 +603,7 @@
 | [Nu stannar vi på marken](https://open.spotify.com/track/6AmXtz8CoUpH0AXvRSucLx) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Nu stannar vi på marken](https://open.spotify.com/album/7BtDGXxR0eVKXJb7t3jdfr) | 3:57 | 2021-06-20 | 2021-06-25 |
 | [Nu tändas tusen juleljus](https://open.spotify.com/track/5PB7EuGxRLK1GQJjYJGhTD) | [Benny Anderssons Orkester](https://open.spotify.com/artist/5KcJSAFLAEtpCkK5EI0KLS), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Tomten har åkt hem](https://open.spotify.com/album/4gEn6W7pfZvA8tUd6ukHnD) | 2:28 | 2021-11-30 | 2021-12-27 |
 | [Nu tändas tusen juleljus](https://open.spotify.com/track/08D5bPhVLw01WdNchYxsqg) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Carolas jul](https://open.spotify.com/album/0X8bz9mbT7vwMnH8wGbID5) | 2:41 | 2021-11-30 | 2021-12-27 |
-| [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-11 |  |
+| [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-11 | 2022-08-09 |
 | [När jag blundar](https://open.spotify.com/track/0rdA602uLSpPZpwuc5Zujx) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [När jag blundar](https://open.spotify.com/album/2UGIBJF3nSMbJMNRoyMdRj) | 3:34 | 2022-06-18 | 2022-06-20 |
 | [När jag ser dig](https://open.spotify.com/track/5WBaMuA6gMy90SZXyS4Yz0) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [När jag ser dig](https://open.spotify.com/album/6FC5YIMWbpLUDMF6tJyMZ9) | 3:47 | 2021-03-27\* | 2021-05-16 |
 | [När vi gräver guld i USA](https://open.spotify.com/track/3iAJRvvn8pywXZtvBNNP71) | [Glenmark Eriksson Strömstedt](https://open.spotify.com/artist/18zO6eeR1PG505akCHt9yB) | [Glenmark Eriksson Strömstedt](https://open.spotify.com/album/6SVY7GMw6KZxOSduyXSeoi) | 4:07 | 2021-06-27 | 2022-06-27 |
@@ -943,7 +944,7 @@
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2021-07-05 | 2021-07-06 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-25 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-24 | 2021-08-15 |
-| [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 | 2022-08-07 |  |
+| [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 | 2022-08-07 |  |
 | [Änglavakt](https://open.spotify.com/track/61inXZujdBrTs0WJiPjfjJ) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Änglavakt](https://open.spotify.com/album/69Qc9CUMoBx3TbqvFdCkRO) | 3:03 | 2022-02-28 | 2022-04-12 |
 | [Är det kärlek du behöver \- N!NE EPA Remix](https://open.spotify.com/track/1KRcokkLCrwMPFWeP5Hroa) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:54 | 2022-01-06 | 2022-01-11 |
 | [ÅSKAN](https://open.spotify.com/track/4khoHMcdF6vOB2AOHSMD5m) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [ÅSKAN](https://open.spotify.com/album/7sg6Iv0G5Xj4VjUUaSbm7t) | 2:53 | 2021-12-05 | 2021-12-12 |

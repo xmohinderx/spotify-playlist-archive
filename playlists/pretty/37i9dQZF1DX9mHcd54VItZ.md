@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO?si=O3eWhkVkSa6Frw6gZCvImw">Black Cat Bones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,724 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,727 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 51 | [How To Feel](https://open.spotify.com/track/1tj3R3NipqoiaWj4gVLoHT) | [Daniel Baron](https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl) | [City Of God & The Jungle Below](https://open.spotify.com/album/5yb4js7PRWrxekpSYLgW2x) | 4:29 |
 | 52 | [Last Tear](https://open.spotify.com/track/7KXty1ex5eJ9sMgJRdTDXf) | [Nine](https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me) | [Last Tear](https://open.spotify.com/album/1GxkqKs4ZdP2mW42p1FpMS) | 4:01 |
 | 53 | [Undone \- Elephant in the room](https://open.spotify.com/track/0tzBYDsCRT9rZDirLc5gWY) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [Undone \(Elephant in the room\)](https://open.spotify.com/album/4CifqZXckC4tX4J8rP0DN7) | 3:34 |
-| 54 | [Bones](https://open.spotify.com/track/5xbhhW2S2vbfrhMrblZJ0l) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/5vJEmUbdVJJ38GzwpoJs52) | 3:43 |
+| 54 | [Bones](https://open.spotify.com/track/6yiOgFmbkN0n6p9GVqevmt) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Greytown](https://open.spotify.com/album/3228rqtQ8JsE3RvJrq6dHw) | 3:43 |
 | 55 | [Something To Believe In](https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Something To Believe In](https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp) | 3:21 |
 | 56 | [Psycho Killer \- Single Version](https://open.spotify.com/track/52pS1roeMc4TUNkBDiSUYW) | [The Medicine Dolls](https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese) | [Psycho Killer](https://open.spotify.com/album/7cTCOfxcE0S8iHCGCCrdXG) | 3:59 |
 | 57 | [Demons](https://open.spotify.com/track/1ks9wTTBtoKDviVn0UzU0e) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk), [Bobby XX](https://open.spotify.com/artist/7M22xUpObTRyRjHa5b3frp) | [Demons](https://open.spotify.com/album/6E37QS4o6fWjdAQ6mHhaK8) | 2:05 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 64 | [Sick & Tired](https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF) | [Dyluded](https://open.spotify.com/artist/1cyrURNf08hhvsfg6nltEW) | [Sick & Tired](https://open.spotify.com/album/74orOdhwPWJdySoAUoQXYE) | 2:32 |
 | 65 | [Autobiography of an Evening](https://open.spotify.com/track/0Zn9ANNxd0BvndaB73DXMX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Autobiography of an Evening](https://open.spotify.com/album/22D7FzPzfB5NvHRsRNWQuF) | 3:11 |
 
-Snapshot ID: `MTY1OTY1MDM0MCwwMDAwMDAwMGUxM2Y3MDZjOTMyMTc2MGIyN2U3ZDM5ZjM4ZWU3MDdh`
+Snapshot ID: `MTY1OTY1MDM0MCwwMDAwMDAwMDMyNTI1ZDIyNzZiODU4ZDA1ODAzNDIyYzAwNTdmYzUw`

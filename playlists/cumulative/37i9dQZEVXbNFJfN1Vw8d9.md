@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-443 songs - 1 day 0 hr 37 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
+444 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Anda Suelta](https://open.spotify.com/track/5vQwugZBbpQxqe5H0GN3AY) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Anda Suelta](https://open.spotify.com/album/3hpUOz8pADTVymWSjcWV0q) | 3:09 | 2021-04-19 | 2021-07-21 |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-07 | 2022-05-27 |
 | [Antes](https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 3:26 | 2021-03-27\* | 2021-05-03 |
-| [Antes de Perderte](https://open.spotify.com/track/2LgxW2t2H6lAf7tJuOnxxj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:56 | 2022-08-06 |  |
+| [Antes de Perderte](https://open.spotify.com/track/2LgxW2t2H6lAf7tJuOnxxj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:56 | 2022-08-06 | 2022-08-09 |
 | [Antes de Perderte](https://open.spotify.com/track/49ev1nUTrNxbjm04jaoL5Z) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:56 | 2022-06-25 | 2022-08-07 |
 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 | 2022-06-04 | 2022-06-26 |
 | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c) | 3:21 | 2021-11-06 | 2022-01-01 |
@@ -73,6 +73,7 @@
 | [Búscate Otro](https://open.spotify.com/track/1tbm7fLDA9t056yuOTTeR5) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc) | [Búscate Otro](https://open.spotify.com/album/2DOJnpsGxAFj8dosrcj6Vz) | 3:33 | 2021-10-08 | 2021-11-03 |
 | [Búscate Otro](https://open.spotify.com/track/5nZ7DPFgkSueMjpaVZf3wz) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc) | [Búscate Otro](https://open.spotify.com/album/3JAmZTLNk27EqS7EjZFbAg) | 3:33 | 2021-11-03 | 2021-12-04 |
 | [Búscate Otro](https://open.spotify.com/track/1pBGolgGcbGz2F4XRIu7TS) | [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc) | [Te Encanta](https://open.spotify.com/album/5sN6IAbrZoUDEc1BbYtKnr) | 3:33 | 2021-09-22 | 2021-10-08 |
+| [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2022-08-08 |  |
 | [Callaita](https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:10 | 2022-05-07 | 2022-05-27 |
 | [Calle de la Llorería](https://open.spotify.com/track/74xJ93SJIeY3yunnJ3lbGm) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Calle de la Llorería](https://open.spotify.com/album/6TVBhP0E5CX0DLvyjK21Tb) | 3:00 | 2022-02-01 | 2022-02-04 |
 | [CAMPEÓN](https://open.spotify.com/track/7IatvjEcXEeeXnHC2gMZ2j) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:14 | 2022-03-26 | 2022-03-28 |

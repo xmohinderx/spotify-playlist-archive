@@ -968,6 +968,28 @@
     },
     {
       "album": {
+        "name": "Machala",
+        "url": "https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I"
+      },
+      "artists": [
+        {
+          "name": "Carterefe",
+          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154631,
+      "name": "Machala",
+      "url": "https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq"
+    },
+    {
+      "album": {
         "name": "The Golden Boy",
         "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
@@ -1369,7 +1391,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 203093,
       "name": "Ring My Line (feat. Headie One)",
       "url": "https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4"

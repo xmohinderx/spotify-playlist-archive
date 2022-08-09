@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw blues.\n",
-  "num_followers": 30068,
+  "num_followers": 30133,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTU1NiwwMDAwMDAwMDI4ZGUxMjE5NWYwMGZjYzNkOWFkYzEzN2M3Mzg3YjVh",
+  "snapshot_id": "MTY1OTEwNTU1NiwwMDAwMDAwMDA2MDcwNTU2ZTA4ZmViMWQ4MTcyM2Q1NzA0MDY4YjFl",
   "tracks": [
     {
       "added_at": "2022-07-29 14:39:16",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Bring It On Home",
-      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 226324,
       "name": "Danger and Dread",
       "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Bring It On Home",
+      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "My Home Is In The Delta",
-      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
         "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 226226,
       "name": "Coffee Blues",
       "url": "https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "My Home Is In The Delta",
+      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Harlem Street Singer",
-        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "Death Don't Have No Mercy",
-      "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 273946,
       "name": "High And Lonesome",
       "url": "https://open.spotify.com/track/1fy10qCN9rlsfRKRJxxfrA"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
+        "name": "Harlem Street Singer",
+        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "Death Don't Have No Mercy",
+      "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "I Ain't Blue - 2008 Remaster",
+      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
         "name": "An Anthology",
         "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 232507,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "I Ain't Blue - 2008 Remaster",
-      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
+        "name": "Racing To A Red Light",
+        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Racing To A Red Light",
+      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 298293,
       "name": "Outside (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
-        "name": "Racing To A Red Light",
-        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Racing To A Red Light",
-      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
+        "name": "Too Wet to Plow",
+        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Shines",
+          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Travelling Back Home",
+      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
         "name": "Smoke From The Chimney",
         "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Too Wet to Plow",
-        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
-      },
-      "artists": [
-        {
-          "name": "Johnny Shines",
-          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Travelling Back Home",
-      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "That's It! / Duke Recordings Vol. III",
         "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 208000,
       "name": "Driftin' Blues - Single Version / Stereo",
       "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -843,22 +859,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "Dust My Broom",
         "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
       },
@@ -871,26 +871,6 @@
       "duration_ms": 215662,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
-        "name": "Philadelphia Mississippi",
-        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
-      "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -911,6 +891,26 @@
       "duration_ms": 238533,
       "name": "Wounded Dog",
       "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
+        "name": "Philadelphia Mississippi",
+        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -979,26 +979,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Sunshine Blue",
-        "url": "https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC"
-      },
-      "artists": [
-        {
-          "name": "Freedust",
-          "url": "https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5"
-        },
-        {
-          "name": "Bardo",
-          "url": "https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Sunshine Blue",
-      "url": "https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "Little Junior Parker: Mr. Blues",
         "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
+        "name": "Sunshine Blue",
+        "url": "https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC"
+      },
+      "artists": [
+        {
+          "name": "Freedust",
+          "url": "https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5"
+        },
+        {
+          "name": "Bardo",
+          "url": "https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Sunshine Blue",
+      "url": "https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Hangover Blues",
-        "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "Hangover Blues",
-      "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "Solid Air",
         "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 201506,
       "name": "The Easy Blues",
       "url": "https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
+        "name": "Hangover Blues",
+        "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "Hangover Blues",
+      "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "The Best Of Delta Records",
-        "url": "https://open.spotify.com/album/6qF7UpIdnbVMPukKa9rpee"
-      },
-      "artists": [
-        {
-          "name": "The Big Three Trio",
-          "url": "https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY"
-        },
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "Cigarettes, Whiskey And Wild, Wild Women",
-      "url": "https://open.spotify.com/track/4CWMKliTHoJCoRWaI8WljW"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 172800,
       "name": "C.C. Rider",
       "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
+        "name": "The Best Of Delta Records",
+        "url": "https://open.spotify.com/album/6qF7UpIdnbVMPukKa9rpee"
+      },
+      "artists": [
+        {
+          "name": "The Big Three Trio",
+          "url": "https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY"
+        },
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "Cigarettes, Whiskey And Wild, Wild Women",
+      "url": "https://open.spotify.com/track/4CWMKliTHoJCoRWaI8WljW"
     },
     {
       "added_at": "2022-07-29 14:39:16",

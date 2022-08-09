@@ -1,12 +1,12 @@
 {
   "description": "This week's top new releases. Cover: Joel Corry, Becky Hill",
-  "num_followers": 33914,
+  "num_followers": 33917,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4Nzk1NiwwMDAwMDAwMDgzNmQ4ZjExZjQ1Y2I5NTMxMGVlM2Y1NmJjZjBmMzBi",
+  "snapshot_id": "MTY1OTY4Nzk1NiwwMDAwMDAwMGFhOGJkOTcwMzg3OTJlYmQ2OTJjZTBhYzFjMmVkMjg2",
   "tracks": [
     {
       "added_at": "2022-08-05 08:25:56",
@@ -291,6 +291,30 @@
       "duration_ms": 143795,
       "name": "Bitch Back (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC"
+    },
+    {
+      "added_at": "2022-08-05 08:25:56",
+      "album": {
+        "name": "Bora / OEO",
+        "url": "https://open.spotify.com/album/19uovrLfbW0AcgJClgRpMN"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        },
+        {
+          "name": "Dhurata Dora",
+          "url": "https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd"
+        }
+      ],
+      "duration_ms": 147372,
+      "name": "OEO",
+      "url": "https://open.spotify.com/track/5iRaaDJo5uz0ysY02Xedgz"
     },
     {
       "added_at": "2022-08-05 08:25:56",
@@ -1484,12 +1508,12 @@
           "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
         },
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
           "name": "Pharrell Williams",
           "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
           "name": "Fat Nwigwe",
@@ -1677,7 +1701,7 @@
         }
       ],
       "duration_ms": 224480,
-      "name": "Strange Love",
+      "name": "strange love",
       "url": "https://open.spotify.com/track/2qEu3k0PN2FzXP32h8aa6m"
     },
     {

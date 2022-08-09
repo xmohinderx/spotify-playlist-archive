@@ -2360,6 +2360,24 @@
     },
     {
       "album": {
+        "name": "Dharma +",
+        "url": "https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Tacones Rojos - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/5h5q82KQiiO92tiaGgb2xF"
+    },
+    {
+      "album": {
         "name": "Tengo Ganas De Ti (feat. Jeferson Miranda)",
         "url": "https://open.spotify.com/album/1NYZLGlVu2gisqlDamXJKK"
       },

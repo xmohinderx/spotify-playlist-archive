@@ -2,7 +2,7 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> Exciting artists on the RADAR from the Benelux and beyond\. Cover: Tabitha
+> Exciting artists on the RADAR from the Benelux and beyond\. Cover: IBE
 
 76 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
 

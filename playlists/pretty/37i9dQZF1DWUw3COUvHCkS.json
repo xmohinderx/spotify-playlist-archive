@@ -1,12 +1,12 @@
 {
   "description": "What breaking up in the 2000s sounded like. Cover: The Fray",
-  "num_followers": 170875,
+  "num_followers": 171113,
   "original_name": "2000s Heartache",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDk3NzI1MCwwMDAwMDAwMGJlM2E4YTQzOGY1ZGFkN2Q4NzY0NzZiNDIzZGVlM2Ni",
+  "snapshot_id": "MTY0MDk3NzI1MCwwMDAwMDAwMDk2OTMwMjdkZmNmMjZlMTAxZjZhMzA4NTZlOWU2OTA4",
   "tracks": [
     {
       "added_at": "2021-12-31 19:00:50",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-12-31 19:00:50",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Behind These Hazel Eyes",
-      "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
-    },
-    {
-      "added_at": "2021-12-31 19:00:50",
-      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 201346,
       "name": "Vindicated",
       "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
+    },
+    {
+      "added_at": "2021-12-31 19:00:50",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Behind These Hazel Eyes",
+      "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
     },
     {
       "added_at": "2021-12-31 19:00:50",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2021-12-31 19:00:50",
       "album": {
+        "name": "Daughtry (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2mobr1UlKjhxDTOVqng3jw"
+    },
+    {
+      "added_at": "2021-12-31 19:00:50",
+      "album": {
         "name": "Right Where You Want Me",
         "url": "https://open.spotify.com/album/2fcFCBEV9lCi8eQeLJIDYA"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2021-12-31 19:00:50",
       "album": {
-        "name": "Daughtry (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2mobr1UlKjhxDTOVqng3jw"
-    },
-    {
-      "added_at": "2021-12-31 19:00:50",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2021-12-31 19:00:50",
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/6QhRwIZzTZ2ShlXVZsVfbM"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Nothing Left to Lose",
-      "url": "https://open.spotify.com/track/23MG7PAYUQp0esP2dzWHWj"
-    },
-    {
-      "added_at": "2021-12-31 19:00:50",
-      "album": {
         "name": "Boys Like Girls",
         "url": "https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 236680,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/1MrNveiYvWyKNAMiqn8xS8"
+    },
+    {
+      "added_at": "2021-12-31 19:00:50",
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/6QhRwIZzTZ2ShlXVZsVfbM"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Nothing Left to Lose",
+      "url": "https://open.spotify.com/track/23MG7PAYUQp0esP2dzWHWj"
     },
     {
       "added_at": "2021-12-31 19:00:50",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-12-31 19:00:50",
       "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Building a Mystery",
-      "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
-    },
-    {
-      "added_at": "2021-12-31 19:00:50",
-      "album": {
         "name": "The First Cut Is The Deepest",
         "url": "https://open.spotify.com/album/1L0XnWcJWHrsDtRP9XeUYG"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 226200,
       "name": "The First Cut Is The Deepest",
       "url": "https://open.spotify.com/track/0wyOnrfGOlDdWHdIybLr4n"
+    },
+    {
+      "added_at": "2021-12-31 19:00:50",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Building a Mystery",
+      "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
     },
     {
       "added_at": "2021-12-31 19:00:50",

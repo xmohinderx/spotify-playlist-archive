@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,850 likes - 59 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,893 likes - 59 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 6 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
 | 7 | [Cream On Chrome](https://open.spotify.com/track/0yzfkTH0QKIAYVeTex1NKJ) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Magnifique](https://open.spotify.com/album/5bFeGIVw5pGnLamK7eVSef) | 4:15 |
 | 8 | [Like I Usually Do](https://open.spotify.com/track/4PHqFuq0cfUP8LblrwcBaK) | [Q Funktion](https://open.spotify.com/artist/603l2mkaHaV6uvQKfuh1B3) | [Like I Usually Do](https://open.spotify.com/album/1p5jDeVqSrZvhPZiJ20Xbl) | 2:48 |
-| 9 | [Yeti, Set, Go](https://open.spotify.com/track/5YN3J3Fc6fVFEeOVWyvSk1) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Man from the Future](https://open.spotify.com/album/0Rq7LrLsPt0urUEgvqbrZb) | 5:20 |
+| 9 | [Yeti, Set, Go](https://open.spotify.com/track/6BaQQK0ICJFPECwhUDkCZC) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Man From The Future](https://open.spotify.com/album/2eEieeGRF7ra1277V8buvn) | 5:20 |
 | 10 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 |
 | 11 | [Just Ain't Gonna Work Out \(Instrumental\)](https://open.spotify.com/track/7MeO1sSTghy5NxaHollaBx) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement Instrumentals](https://open.spotify.com/album/0SCHTqgDoJLPPvPF6Kut6z) | 2:30 |
 | 12 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 58 | [Church](https://open.spotify.com/track/0MzO0c9Lr1d4mTUQtGhSJX) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ) | [Coolin' Off](https://open.spotify.com/album/0xkOcQLjAB9PIEDrGbl4OI) | 5:53 |
 | 59 | [You Make Me Smile \(Instrumental\)](https://open.spotify.com/track/71On3WSmjDOUD9Jct2bzYc) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [You Make Me Smile](https://open.spotify.com/album/24UTCXhd9ITgPpSuIkrrxM) | 3:25 |
 
-Snapshot ID: `MTYzNDMzMjY4MCwwMDAwMDAwMDBlMzhiMmFkYjdhZDkyZGIzMzc4OWEzYTM1MWMxOGZh`
+Snapshot ID: `MTYzNDMzMjY4MCwwMDAwMDAwMDZiNjcxOWExM2M3ZWFiOGVkZDE2YTYxY2ZiMDlmYTEx`

@@ -538,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234271,
+      "name": "Colourblind",
+      "url": "https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo"
+    },
+    {
+      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/5TNdGmCbItkOtiuWzhXIbc"
       },
@@ -4219,7 +4237,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 159420,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/173YFoJtllaXjALrFxr7LY"

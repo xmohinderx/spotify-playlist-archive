@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Drake ",
-  "num_followers": 108,
+  "num_followers": 126,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4NjEyMCwwMDAwMDAwMDAwMzNhMjkzZDViZDhjYTFjNjhmMDM0OTM4ODQ4M2I2",
+  "snapshot_id": "MTY1OTY4NjEyMCwwMDAwMDAwMDg5MGRkNjliZTkyNDEwNTg3YTY5NzY3OGZlMzU0NzUx",
   "tracks": [
     {
       "added_at": "2022-08-05 07:55:20",
@@ -159,6 +159,26 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 145542,
+      "name": "Drip Too Hard (Lil Baby & Gunna)",
+      "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -183,26 +203,6 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Cooped Up",
-        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 185857,
-      "name": "Cooped Up (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
         "name": "Kwaku the Traveller",
         "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
       },
@@ -219,26 +219,22 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Cash In Cash Out",
-        "url": "https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH"
+        "name": "Cooped Up",
+        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 216135,
-      "name": "Cash In Cash Out",
-      "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -275,22 +271,26 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Drip Harder",
-        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+        "name": "Cash In Cash Out",
+        "url": "https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 145542,
-      "name": "Drip Too Hard (Lil Baby & Gunna)",
-      "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+      "duration_ms": 216135,
+      "name": "Cash In Cash Out",
+      "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -331,26 +331,22 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Hot Shit (feat. Ye & Lil Durk)",
-        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
+        "name": "Are You Entertained (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 211649,
-      "name": "Hot Shit (feat. Ye & Lil Durk)",
-      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+      "duration_ms": 156083,
+      "name": "Are You Entertained (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -399,22 +395,26 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Are You Entertained (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
+        "name": "Hot Shit (feat. Ye & Lil Durk)",
+        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 156083,
-      "name": "Are You Entertained (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
+      "duration_ms": 211649,
+      "name": "Hot Shit (feat. Ye & Lil Durk)",
+      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -955,6 +955,42 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
+        "name": "7220 (Deluxe)",
+        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 134907,
+      "name": "Hear It Back (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1fz22sUZlpL9jZOWz02wws"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
+        "name": "ALA BEKE",
+        "url": "https://open.spotify.com/album/0Y9z4dKx4h4lOcbuqlpdKf"
+      },
+      "artists": [
+        {
+          "name": "EverythingOShauN",
+          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+        }
+      ],
+      "duration_ms": 188538,
+      "name": "ALA BEKE",
+      "url": "https://open.spotify.com/track/5xDIpgpqLQXphuSOzkKAbz"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
         "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
         "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
       },
@@ -979,42 +1015,6 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "ALA BEKE",
-        "url": "https://open.spotify.com/album/0Y9z4dKx4h4lOcbuqlpdKf"
-      },
-      "artists": [
-        {
-          "name": "EverythingOShauN",
-          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
-        }
-      ],
-      "duration_ms": 188538,
-      "name": "ALA BEKE",
-      "url": "https://open.spotify.com/track/5xDIpgpqLQXphuSOzkKAbz"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "7220 (Deluxe)",
-        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 134907,
-      "name": "Hear It Back (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/1fz22sUZlpL9jZOWz02wws"
     },
     {
       "added_at": "2022-07-27 12:30:07",

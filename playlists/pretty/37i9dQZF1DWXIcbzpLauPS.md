@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: August Burns Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,327 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,309 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 11 | [Pull From The Ghost](https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pull From The Ghost](https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe) | 4:11 |
 | 12 | [Stitches](https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Stitches](https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb) | 5:01 |
 | 13 | [Graveyard](https://open.spotify.com/track/4lDhUegBfuSYmL2REY3P8y) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Empires Fall](https://open.spotify.com/album/1A8gLXrhRu9GJl0j8D9oJb) | 3:03 |
-| 14 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 |
-| 15 | [Reaper](https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Reaper](https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051) | 3:19 |
-| 16 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
-| 17 | [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 |
+| 14 | [Reaper](https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Reaper](https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051) | 3:19 |
+| 15 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 |
+| 16 | [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 |
+| 17 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
 | 18 | [Throne](https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Throne](https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA) | 3:27 |
 | 19 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
 | 20 | [Fever](https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Fever](https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc) | 3:08 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 33 | [Break The Habit](https://open.spotify.com/track/5jl8iC4QC8GFFUR0Uae1tN) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/68FghP1QWbbmmmVcIKYKNM) | 3:01 |
 | 34 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 |
 | 35 | [Your Love I'll Never Need](https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Your Love I'll Never Need](https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2) | 3:20 |
-| 36 | [No Hope 'Til Now](https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [No Hope 'Til Now](https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed) | 3:59 |
-| 37 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
+| 36 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
+| 37 | [No Hope 'Til Now](https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [No Hope 'Til Now](https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed) | 3:59 |
 | 38 | [Hangfire](https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Hangfire](https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC) | 3:15 |
 | 39 | [Cross My Heart](https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg) | [Eyes Wide Open](https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po) | [Cross My Heart](https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p) | 3:18 |
 | 40 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 50 | [Eden Will Drown](https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Eden Will Drown](https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR) | 3:12 |
 | 51 | [Be Someone](https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Be Someone](https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv) | 3:20 |
 | 52 | [Damage Done](https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk) | 3:27 |
-| 53 | [Summertown](https://open.spotify.com/track/5M0jC2erbDuwYEM6PgiQ3I) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU), [Breakdown Bros](https://open.spotify.com/artist/7noSWnLC2cNbtgKXmUrvLc) | [Summertown](https://open.spotify.com/album/40iNTLmwIhwkEYRtsUNlJC) | 3:43 |
-| 54 | [Suffocate](https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv) | [Execution Day](https://open.spotify.com/artist/3f3CYDS0i8Z0Egxp9gwD1Z) | [Suffocate](https://open.spotify.com/album/6KXqyVNZsxl7NwgQVvtZ4C) | 3:47 |
+| 53 | [Suffocate](https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv) | [Execution Day](https://open.spotify.com/artist/3f3CYDS0i8Z0Egxp9gwD1Z) | [Suffocate](https://open.spotify.com/album/6KXqyVNZsxl7NwgQVvtZ4C) | 3:47 |
+| 54 | [Summertown](https://open.spotify.com/track/5M0jC2erbDuwYEM6PgiQ3I) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU), [Breakdown Bros](https://open.spotify.com/artist/7noSWnLC2cNbtgKXmUrvLc) | [Summertown](https://open.spotify.com/album/40iNTLmwIhwkEYRtsUNlJC) | 3:43 |
 | 55 | [Breaking Point](https://open.spotify.com/track/4Us3BHNRNRVlJFtDd1e5xA) | [Lockjaw](https://open.spotify.com/artist/1CFA76fcB5Ieqc0vUWWab4) | [Breaking Point](https://open.spotify.com/album/0W8BIHCskTZcmkrvVEgjfK) | 3:35 |
 | 56 | [UFO Party](https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [UFO Party](https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2) | 4:02 |
 | 57 | [Miscreation](https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [Miscreation](https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [Fault Line](https://open.spotify.com/track/3dbLhhWTAh1JcezKuttLFo) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Fault Line](https://open.spotify.com/album/1uOILLHZaV1sjCVHVyS4JA) | 3:30 |
 | 75 | [IMAGO](https://open.spotify.com/track/2VyENkTDQPz6hXE1hkCbkk) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/08u01qs66Th1vASwCuuJxP) | 3:17 |
 
-Snapshot ID: `MTY1OTcwNDQwMCwwMDAwMDAwMDFiODc2ZmExNzJlYjY4OGQzMmYxMTE5OWFjMGUwZTU2`
+Snapshot ID: `MTY1OTcwNDQwMCwwMDAwMDAwMGZjYjEwMWM4OTRlMmYwZGVkYjI2MDc2OGRmZDZkYzI5`

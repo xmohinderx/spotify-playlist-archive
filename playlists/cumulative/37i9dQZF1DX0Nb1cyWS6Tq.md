@@ -4,7 +4,7 @@
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-247 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
+248 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Baby Turns Blue](https://open.spotify.com/track/3bTYU6srrW2KJ9PVuDUtKd) | [Virgin Prunes](https://open.spotify.com/artist/4xymX6VDkZXYtx15QNfV9o) | [80s Post Punk](https://open.spotify.com/album/5Hx5PrqAZ2FvCpcxqi13SP) | 3:39 | 2021-10-15 | 2022-07-25 |
 | [Be My Druidess](https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 5:25 | 2021-10-15 |  |
 | [Beat And The Pulse](https://open.spotify.com/track/5hyEQ6BNYKYrsRNiUxrXT4) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Feel It Break](https://open.spotify.com/album/7kZDvUzWaeZrvkEc3Jr1e8) | 4:55 | 2022-07-01 | 2022-07-24 |
-| [Beatrix](https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:12 | 2021-10-15 |  |
+| [Beatrix](https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:12 | 2021-10-15 | 2022-08-09 |
 | [Beatrix](https://open.spotify.com/track/5IR9k9SMKS0kuEHAVtZIhG) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 3:12 | 2021-10-15 | 2022-07-29 |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2021-10-15 |  |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/6hOBzGBmyvoPu7ZFAoLP2m) | 9:36 | 2021-10-15 | 2022-07-29 |
@@ -53,6 +53,7 @@
 | [Cities In Dust \- Extended Version](https://open.spotify.com/track/630WO6Hx9ma8QSx2Ey1WKx) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox \(Remastered & Expanded\)](https://open.spotify.com/album/1dGCktgKqiCSlf5PxDZ6Up) | 6:49 | 2021-10-15 | 2022-06-27 |
 | [Cosmos](https://open.spotify.com/track/1aNUGgqEc82XTww92M7WM9) | [Transmission](https://open.spotify.com/artist/5UUwxW4pwQAwTDefyPzcvD) | [Cosmos](https://open.spotify.com/album/1aMjqS4T9NdrNsYyjx9oOg) | 4:53 | 2021-10-15 | 2022-04-15 |
 | [Cossacks Are](https://open.spotify.com/track/4ihCn6wzja5AOxVZdahR5z) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [The Drift](https://open.spotify.com/album/3A7Gfj808zT13fi4M4OrwT) | 4:32 | 2021-10-15 | 2022-07-29 |
+| [Cut The Tree](https://open.spotify.com/track/5qqLatt5qjPHoIUpZYGhgw) | [The Wolfgang Press](https://open.spotify.com/artist/30JExXexrTakSa79ce2mn8) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 5:35 | 2022-08-09 |  |
 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 | 2021-10-15 |  |
 | [Cuts You Up](https://open.spotify.com/track/4ijNab1GM0JSZoe0I2KCOd) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/4evNdyZjrJGLHWf2azyaCh) | 5:27 | 2021-10-15 | 2022-04-19 |
 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 | 2021-10-15 | 2022-06-03 |
@@ -64,7 +65,7 @@
 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 | 2021-10-15 |  |
 | [Deep Ocean Vast Sea](https://open.spotify.com/track/0K1ThRqu3v8H4fj6I5rbhZ) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/4evNdyZjrJGLHWf2azyaCh) | 4:09 | 2021-10-15 | 2022-06-03 |
 | [Deep Ocean Vast Sea](https://open.spotify.com/track/7co4RSDiDepap0EOT9koe2) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 4:09 | 2022-03-30 | 2022-07-28 |
-| [Desire](https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Greatest Hits, Remixes & More](https://open.spotify.com/album/2nvFSKDu3gvvHn9X11szDl) | 4:22 | 2021-10-15 | 2022-08-06 |
+| [Desire](https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Greatest Hits, Remixes & More](https://open.spotify.com/album/2nvFSKDu3gvvHn9X11szDl) | 4:22 | 2021-10-15 |  |
 | [Die Laughing](https://open.spotify.com/track/0hKNBbkEglW0wcTYOSLsYB) | [In Camera](https://open.spotify.com/artist/0umSdnsENFwplgS9c5Y3q9) | [13 \(Lucky For Some\)](https://open.spotify.com/album/6rQv2csyhWeUUFbAT7HUtf) | 4:38 | 2021-10-15 | 2022-07-07 |
 | [Do You Take This Man?](https://open.spotify.com/track/6U9BfQ8LYv2ofWsvZX1yyx) | [Diamanda Galás](https://open.spotify.com/artist/42AURgCa94xz79E0fxE3Ay) | [The Sporting Life](https://open.spotify.com/album/6jPJjdMdP3XPvdE8z9jS11) | 6:09 | 2021-10-15 | 2022-07-29 |
 | [Dominion / Mother Russia](https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 7:00 | 2021-10-15 |  |
@@ -92,7 +93,7 @@
 | [Golden Age / Labyrinth of Memories](https://open.spotify.com/track/5JwaphAXyuQwuQpQfpMFA8) | [Winter Severity Index](https://open.spotify.com/artist/5RxKFWH5QHNCQkEhjYHkUC) | [Disgelo](https://open.spotify.com/album/4YWrhGrjcelQnkXmiwG6DX) | 5:47 | 2022-03-03 | 2022-05-22 |
 | [Gothic Girl](https://open.spotify.com/track/5FFvaskWpkLIgBdNhlSIOG) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Gothic Essential Tracks](https://open.spotify.com/album/540DrBi3W4doXmlMpmohj5) | 4:28 | 2022-01-11 | 2022-07-27 |
 | [Haarlem](https://open.spotify.com/track/2vWdAMGwkOG6ShH2ro2uq4) | [Roninn](https://open.spotify.com/artist/3LCmqX73OjKvEPLMMB0Zy0) | [Haarlem](https://open.spotify.com/album/5xEtD56zMH5cHa2b81NPVL) | 3:06 | 2021-10-15 | 2022-05-11 |
-| [Haunted When the Minutes Drag](https://open.spotify.com/track/2aQPNm5EtLWBHsqzNuAdcq) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Seventh Dream of Teenage Heaven](https://open.spotify.com/album/4nGGzp3IFhkksr4DCOYLQ0) | 8:01 | 2021-10-15 |  |
+| [Haunted When the Minutes Drag](https://open.spotify.com/track/2aQPNm5EtLWBHsqzNuAdcq) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Seventh Dream of Teenage Heaven](https://open.spotify.com/album/4nGGzp3IFhkksr4DCOYLQ0) | 8:01 | 2021-10-15 | 2022-08-09 |
 | [Haunted When the Minutes Drag](https://open.spotify.com/track/0lPFVwTWdwXXNa6dMNqm1N) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Seventh Dream of Teenage Heaven](https://open.spotify.com/album/04gzQAamsdEEKerhfigHWU) | 8:03 | 2021-10-15 | 2022-06-06 |
 | [Heart and Soul](https://open.spotify.com/track/4fokGJSBrxFIvt01vz1Fbe) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 5:50 | 2021-10-15 | 2022-07-29 |
 | [Heart and Soul \- 2007 Remaster](https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 5:53 | 2021-10-15 |  |

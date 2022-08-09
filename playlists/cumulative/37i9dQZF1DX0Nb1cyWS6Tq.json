@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 192000,
       "name": "Beatrix",
       "url": "https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg"
@@ -818,6 +818,24 @@
     },
     {
       "album": {
+        "name": "Lonely Is An Eyesore",
+        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
+      },
+      "artists": [
+        {
+          "name": "The Wolfgang Press",
+          "url": "https://open.spotify.com/artist/30JExXexrTakSa79ce2mn8"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335373,
+      "name": "Cut The Tree",
+      "url": "https://open.spotify.com/track/5qqLatt5qjPHoIUpZYGhgw"
+    },
+    {
+      "album": {
         "name": "Deep",
         "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
       },
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 481560,
       "name": "Haunted When the Minutes Drag",
       "url": "https://open.spotify.com/track/2aQPNm5EtLWBHsqzNuAdcq"

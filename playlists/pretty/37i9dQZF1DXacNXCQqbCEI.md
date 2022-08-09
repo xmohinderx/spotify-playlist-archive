@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,904 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,054 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 13 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
 | 14 | [Jardines](https://open.spotify.com/track/7at4rkvJsE7CO1gXlcJpDM) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 4:46 |
 | 15 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 |
-| 16 | [Mojanda \(feat\. Wabi Sabi\)](https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Wabi Sabi](https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS) | [Tranquillitas](https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o) | 6:13 |
-| 17 | [Ghost Dance](https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA) | 3:38 |
+| 16 | [Ghost Dance](https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA) | 3:38 |
+| 17 | [Mojanda \(feat\. Wabi Sabi\)](https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Wabi Sabi](https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS) | [Tranquillitas](https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o) | 6:13 |
 | 18 | [Mañana Tepotzlan](https://open.spotify.com/track/3SIvxOsX0OUlkhzSdQle6D) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/49SC0iDWnUvugi5UHZQuOQ) | 4:00 |
 | 19 | [Azul Oro](https://open.spotify.com/track/18XhpMPsd4oeX6lQETPeaU) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Azulejos](https://open.spotify.com/album/3emF9VP0ecSjGEAI2XQ6m0) | 3:26 |
 | 20 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
 | 21 | [Chapinero](https://open.spotify.com/track/0yENDAPqNW1hksxq9KUt8n) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/0ap1ioMSBoEr7eWqwU2DxH) | 3:42 |
-| 22 | [Sueno en Paraguay \- El Buho Remix](https://open.spotify.com/track/421PeYBOflS19kvT0jqczs) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansara Remixed](https://open.spotify.com/album/0DamnA2rzxSe94KwLwD3Hp) | 3:59 |
+| 22 | [Serpiente Dorada](https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Serpiente Dorada](https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst) | 3:09 |
 | 23 | [Maajo](https://open.spotify.com/track/4P4dZe0rLvLIHZOCvRr67b) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9) | 9:06 |
-| 24 | [Serpiente Dorada](https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Serpiente Dorada](https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst) | 3:09 |
+| 24 | [Sueno en Paraguay \- El Buho Remix](https://open.spotify.com/track/421PeYBOflS19kvT0jqczs) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansara Remixed](https://open.spotify.com/album/0DamnA2rzxSe94KwLwD3Hp) | 3:59 |
 | 25 | [Solitario](https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Balnear](https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO) | 3:33 |
 | 26 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 |
 | 27 | [Black Catbird](https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Black Catbird](https://open.spotify.com/album/67ll9vOLmqydy8lrHVQFKo) | 2:45 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 52 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
 | 53 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 |
 | 54 | [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 |
-| 55 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 |
-| 56 | [A Short Story of the Mahale Mountains](https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO) | 2:42 |
+| 55 | [A Short Story of the Mahale Mountains](https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO) | 2:42 |
+| 56 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 |
 | 57 | [The Corsican](https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8) | [SUPERSAN](https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7) | [Enter the San](https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY) | 3:19 |
 | 58 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
 | 59 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 |
-| 60 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
+| 60 | [Vayayó](https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Vayayó](https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf) | 2:09 |
 
-Snapshot ID: `MTY0OTk5ODU2OSwwMDAwMDAwMDljMmU5MmRmZGE3MWU5Y2E3YzEzYjRhMDBhZWVkNjQ1`
+Snapshot ID: `MTY0OTk5ODU2OSwwMDAwMDAwMDVlMWE0MmU5Mzg5MTIxZDE4MjUzYTc1NzJhM2ZkOGM0`

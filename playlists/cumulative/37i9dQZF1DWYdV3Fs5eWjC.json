@@ -734,6 +734,24 @@
     },
     {
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2020-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198056,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/6BYRHke6jlb81Z6qCTRZ8y"
+    },
+    {
+      "album": {
         "name": "Getaway (feat. Tegan and Sara)",
         "url": "https://open.spotify.com/album/4fOK0ocCuJ7ezk0qzMOULg"
       },
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 218305,
       "name": "Save Myself",
       "url": "https://open.spotify.com/track/74DbiadhBhDwhyG9D863IS"

@@ -2544,6 +2544,24 @@
     },
     {
       "album": {
+        "name": "Crash Nomada",
+        "url": "https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG"
+      },
+      "artists": [
+        {
+          "name": "Crash Nomada",
+          "url": "https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219146,
+      "name": "N\u00e5gon form av svar",
+      "url": "https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t"
+    },
+    {
+      "album": {
         "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
         "url": "https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD"
       },
@@ -3725,7 +3743,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 190026,
       "name": "Vem s\u00e4tter m\u00e4rket",
       "url": "https://open.spotify.com/track/6n6bwxNTBMhqzxlDcK6Gm7"

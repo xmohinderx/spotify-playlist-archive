@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 227886,
+  "num_followers": 228332,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkyOTkxMCwwMDAwMDAwMGY4MmQ3MzE5YzdmMWQ1MWNmZmQyMTM3ZGVhMTlmYmE3",
+  "snapshot_id": "MTY1NTkyOTkxMCwwMDAwMDAwMDhjNDliOGQwYWNkMzI5ODJhNmE0YzBhMDUxMDUzZmI1",
   "tracks": [
     {
       "added_at": "2022-05-30 13:24:46",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
+        "name": "Birthplace",
+        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "State Lines",
+      "url": "https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Birthplace",
-        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "State Lines",
-      "url": "https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 99620,
       "name": "We'll Never Have Sex",
       "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Birthplace",
+        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Repeat Until Death",
+      "url": "https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -455,22 +471,6 @@
       "duration_ms": 284146,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
-        "name": "Birthplace",
-        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Repeat Until Death",
-      "url": "https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
+        "name": "Dark in the City",
+        "url": "https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "duration_ms": 250547,
+      "name": "Love & War in Your Twenties",
+      "url": "https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
         "name": "Wincing The Night Away",
         "url": "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 126359,
       "name": "New Home",
       "url": "https://open.spotify.com/track/707BRCe5feUySwv7141QeA"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
-        "name": "Dark in the City",
-        "url": "https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB"
-      },
-      "artists": [
-        {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
-        }
-      ],
-      "duration_ms": 250547,
-      "name": "Love & War in Your Twenties",
-      "url": "https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "The Woods (Acoustic)",
-        "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "The Woods - Acoustic",
-      "url": "https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "The Way Back Home",
-        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
+        "name": "The Woods (Acoustic)",
+        "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
       },
       "artists": [
         {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 214361,
-      "name": "The Way Back Home",
-      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
+      "duration_ms": 239960,
+      "name": "The Woods - Acoustic",
+      "url": "https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 204213,
       "name": "1957",
       "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 214361,
+      "name": "The Way Back Home",
+      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
-      },
-      "artists": [
-        {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 268432,
       "name": "doomsday",
       "url": "https://open.spotify.com/track/6bpZMLiRQDm2XcjZudu3xV"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Without a Light",
         "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 142200,
       "name": "Without a Light",
       "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 199118,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
         "name": "Notes from the Archive: Recordings 2011-2016",
         "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 382613,
       "name": "New Song",
       "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 199118,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "The Wire",
-        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 180440,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1551,6 +1535,22 @@
       "duration_ms": 221142,
       "name": "Roadtripsong",
       "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Nightshade",
-        "url": "https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL"
-      },
-      "artists": [
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 265506,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 212400,
       "name": "OK",
       "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Nightshade",
+        "url": "https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 265506,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -2033,22 +2033,6 @@
       "url": "https://open.spotify.com/track/2e1MoMhNhxdU0jXYhjF0ld"
     },
     {
-      "added_at": "2022-06-14 16:16:12",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 174540,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
-    },
-    {
       "added_at": "2022-05-25 14:24:00",
       "album": {
         "name": "Picture of You (feat. Hayden Calnin)",
@@ -2067,6 +2051,22 @@
       "duration_ms": 261523,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
+    },
+    {
+      "added_at": "2022-06-14 16:16:12",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 174540,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
     }
   ],
   "unique_name": "wanderlust",

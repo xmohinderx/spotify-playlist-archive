@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-173 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
+176 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Chopstick](https://open.spotify.com/track/0X40DgD7jJr5DeiGXFAfcl) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Chopstick](https://open.spotify.com/album/3JZe3XL47MvVW571DbXN9S) | 2:57 | 2021-11-20 | 2021-11-26 |
 | [Chopstick](https://open.spotify.com/track/6Yv0xoR37tcxzvey8ybW5l) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [U \-Special Edition\-](https://open.spotify.com/album/1L1WTrtt1kNzj4epuasXDl) | 2:57 | 2021-11-26 | 2022-02-08 |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2021-08-04 |  |
-| [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-04-16 |  |
+| [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-04-16 | 2022-08-09 |
 | [Cry Baby](https://open.spotify.com/track/7vBX6cVsCPFSx2C58hpZ4f) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Cry Baby](https://open.spotify.com/album/0OWATchDPifiDyvGEf2ddO) | 4:00 | 2021-05-09 | 2021-08-20 |
 | [Cry Baby](https://open.spotify.com/track/6wDntdm888mDo458RaYjGl) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 4:01 | 2021-08-20 |  |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-03-27\* | 2021-12-15 |
@@ -102,6 +102,7 @@
 | [アポトーシス](https://open.spotify.com/track/222BlW44cS9nOM6C369IB2) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 6:29 | 2021-08-21 | 2021-11-12 |
 | [アンコール](https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:31 | 2021-03-27\* | 2021-11-20 |
 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 | 2021-03-27\* | 2021-04-28 |
+| [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-08 |  |
 | [エジソン](https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:13 | 2022-07-04 |  |
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2022-03-01 |  |
 | [キンモクセイ](https://open.spotify.com/track/7p8JJm7CT2F4k11f1DtNUa) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [イラつくときはいつだって](https://open.spotify.com/album/0KmXPL9gMri4vKUST5ohiY) | 3:51 | 2021-03-27\* | 2021-04-03 |
@@ -116,7 +117,7 @@
 | [ドライフラワー](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:46 | 2022-01-13 |  |
 | [ハルカ](https://open.spotify.com/track/5D9MPWdY2hjSeTIGE5n5kv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:03 | 2021-03-27\* | 2021-11-20 |
 | [ハルジオン](https://open.spotify.com/track/08YwAPnX8sygJUXG9rvhDv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 3:18 | 2021-03-27\* | 2021-11-25 |
-| [ハート](https://open.spotify.com/track/6cvKfEw8rDcmXBslqSEC9G) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ハート](https://open.spotify.com/album/2TMrGnNWnF1GgUwRY427zk) | 4:31 | 2021-11-26 |  |
+| [ハート](https://open.spotify.com/track/6cvKfEw8rDcmXBslqSEC9G) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ハート](https://open.spotify.com/album/2TMrGnNWnF1GgUwRY427zk) | 4:31 | 2021-11-26 | 2022-08-09 |
 | [バニラ](https://open.spotify.com/track/0zfNtgPJ5FLkbveRjSdCMb) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [バニラ](https://open.spotify.com/album/5z81aORHET86OyFXrkugMb) | 4:11 | 2022-07-05 |  |
 | [ベテルギウス](https://open.spotify.com/track/2sf18cEv463VgqmdjDsFpw) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ベテルギウス](https://open.spotify.com/album/25FWSs9iK7hQqyK2fdKvSV) | 3:50 | 2021-11-06 | 2022-01-14 |
 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 | 2022-01-13 |  |
@@ -129,7 +130,7 @@
 | [ラブレター](https://open.spotify.com/track/0UcjHexmVrLkUOflxPefNe) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:30 | 2021-12-03 | 2021-12-20 |
 | [ラブレター](https://open.spotify.com/track/185Wm4Mx09dQG0fUktklDm) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ラブレター](https://open.spotify.com/album/6RfHLN2DLnZLAvR5Ogb4jA) | 3:32 | 2021-08-11 | 2021-12-03 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2021-12-12 |  |
-| [三原色](https://open.spotify.com/track/0UBUg8NU4XJtQqzTPs8Pkr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:40 | 2021-12-03 |  |
+| [三原色](https://open.spotify.com/track/0UBUg8NU4XJtQqzTPs8Pkr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:40 | 2021-12-03 | 2022-08-09 |
 | [三原色](https://open.spotify.com/track/2F9iSs6DypVQu26t5uaeFM) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 3:40 | 2021-12-04 | 2021-12-06 |
 | [三原色](https://open.spotify.com/track/3FUCuf498nFHJXFYR1V9Bd) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [三原色](https://open.spotify.com/album/3MeMuzwFRLje0g7fdni41h) | 3:44 | 2021-07-04 | 2021-12-03 |
 | [不可幸力](https://open.spotify.com/track/18nkY3pJTub8WwEGiQAGh4) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY) | 3:20 | 2021-03-27\* | 2021-10-17 |
@@ -165,6 +166,7 @@
 | [猫 〜THE FIRST TAKE ver.〜](https://open.spotify.com/track/25BJRpLBe3i6d8okphoRAm) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [X](https://open.spotify.com/album/6o7g2IZKcH3c6yGHQA8hvc) | 4:33 | 2021-03-27\* | 2021-08-21 |
 | [白い恋人達](https://open.spotify.com/track/5wfKPYODAr3aCGpOAopNZK) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [白い恋人達](https://open.spotify.com/album/0eJgpR774HEMougzO27KpC) | 4:44 | 2021-12-25 | 2021-12-30 |
 | [白日](https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) | 4:36 | 2021-03-27\* | 2021-09-17 |
+| [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-08-08 |  |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2021-03-27\* | 2021-05-27 |
 | [群青](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:08 | 2021-03-27\* |  |
 | [花占い](https://open.spotify.com/track/2PlbwoIVr25oita35jg9ht) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [花占い](https://open.spotify.com/album/0hGRfbMoPFpIJJBpWkdYbI) | 3:27 | 2021-12-10 | 2021-12-19 |
@@ -175,6 +177,7 @@
 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 | 2021-05-12 | 2022-01-28 |
 | [踊](https://open.spotify.com/track/0871AdnvzzSGr5XdTJaDHC) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:30 | 2022-01-27 | 2022-06-12 |
 | [踊り子](https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [踊り子](https://open.spotify.com/album/4p30PkTJXqj3Sa58xkDpPM) | 3:50 | 2021-11-20 | 2022-07-14 |
+| [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-08-08 |  |
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2021-12-25 |  |
 | [雨燦々](https://open.spotify.com/track/34PR0zLBVl7VMF9E7dDwdo) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [雨燦々](https://open.spotify.com/album/2gv7KqKXqTEfXnNOUyu85q) | 4:55 | 2022-07-16 |  |
 | [香水](https://open.spotify.com/track/786dSB84yrSaICJwCT7VxP) | [Eito](https://open.spotify.com/artist/32QmJ5obSke8YKDbQvVPUx) | [すっからかん](https://open.spotify.com/album/4Ixr6M2KwqrH5GGQMRFgkI) | 4:15 | 2021-03-27\* | 2021-05-09 |

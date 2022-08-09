@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 523068,
+  "num_followers": 523080,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDNlN2Y0YzUzMzZkMjM4OGY0ZWZkNDljNThhNDQxYWMw",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMGIzMWQwNTg5ZTgxZTg4NmE3NDBmMzBiOWRkMmM3ZTNm",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -159,38 +159,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -223,6 +191,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -275,6 +259,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "The Warrior's Code",
         "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
@@ -287,6 +287,22 @@
       "duration_ms": 153600,
       "name": "I'm Shipping Up To Boston",
       "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -323,22 +339,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "What Separates Me From You",
         "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 174320,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Prayer Of The Refugee",
-      "url": "https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -463,6 +447,22 @@
       "duration_ms": 163226,
       "name": "No Cigar",
       "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Prayer Of The Refugee",
+      "url": "https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Road to Ruin (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "I Wanna Be Sedated - 2002 Remaster",
-      "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Off the Leash",
         "url": "https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 194453,
       "name": "Chip",
       "url": "https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Road to Ruin (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "I Wanna Be Sedated - 2002 Remaster",
+      "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -775,38 +775,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Everything Is Temporary",
-        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
-      },
-      "artists": [
-        {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
-        }
-      ],
-      "duration_ms": 183495,
-      "name": "Dakota",
-      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/4TGgIBpUlNWUnVFIAx7P8w"
       },
@@ -823,6 +791,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Everything Is Temporary",
+        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
+      },
+      "artists": [
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        }
+      ],
+      "duration_ms": 183495,
+      "name": "Dakota",
+      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "When Your Heart Stops Beating",
         "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
       },
@@ -835,22 +819,6 @@
       "duration_ms": 192786,
       "name": "When Your Heart Stops Beating",
       "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Skinny Dipping",
-        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "Lavender Bones",
-      "url": "https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -883,6 +851,38 @@
       "duration_ms": 216571,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Skinny Dipping",
+        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "Lavender Bones",
+      "url": "https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -939,6 +939,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/175y3TsY3wVRZUmI34PyhD"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 199416,
+      "name": "She's Quiet",
+      "url": "https://open.spotify.com/track/4xlMOALTScnY5tU9VdcmGY"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 151362,
       "name": "Father of All...",
       "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/175y3TsY3wVRZUmI34PyhD"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 199416,
-      "name": "She's Quiet",
-      "url": "https://open.spotify.com/track/4xlMOALTScnY5tU9VdcmGY"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
-    },
-    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "Joy as an Act of Resistance.",
@@ -1067,6 +1051,22 @@
       "duration_ms": 228831,
       "name": "Never Fight A Man With A Perm",
       "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 233280,
-      "name": "Broken Dreams, Inc.",
-      "url": "https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Shape Of Punk To Come (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 310200,
       "name": "New Noise",
       "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 233280,
+      "name": "Broken Dreams, Inc.",
+      "url": "https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Great Heights & Nosedives",
         "url": "https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+        "name": "Morbid Stuff",
+        "url": "https://open.spotify.com/album/504XSXhUJlzztcMV4YMaDV"
       },
       "artists": [
         {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 212893,
-      "name": "Get By",
-      "url": "https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3"
+      "duration_ms": 210160,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6Dgix2xCbnqigfrjulm24R"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1419,22 +1435,6 @@
       "duration_ms": 199181,
       "name": "Here Tonight",
       "url": "https://open.spotify.com/track/08QLT3tCqODR95QIN8DrGX"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Morbid Stuff",
-        "url": "https://open.spotify.com/album/504XSXhUJlzztcMV4YMaDV"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/6Dgix2xCbnqigfrjulm24R"
     },
     {
       "added_at": "2020-11-20 21:27:18",

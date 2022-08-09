@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,192 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,245 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 14 | [Passacaille in Barcelona](https://open.spotify.com/track/2xH7QrBeYXbX3l4ftsZxsO) | [Taku Matsushiba](https://open.spotify.com/artist/3ITwaLbY4bFzc57CVTKT2u) | [ユートラ/ユーリ!!! on ICE サウンド・トラックCOLLECTION](https://open.spotify.com/album/5kcCBXLWAvaifoNOaNEVuN) | 3:13 |
 | 15 | [BEASTARS\-don't forget\-](https://open.spotify.com/track/1ewtLkn4AAI61aZspvt85s) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX) | 3:32 |
 | 16 | [まったりとした日常](https://open.spotify.com/track/2NHzJwUGKcAIL72WbMETk8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ボールルームへようこそ』オリジナルサウンドトラック](https://open.spotify.com/album/3C3pGhgf6bEHazFLYbDBwk) | 2:28 |
-| 17 | [ガーシュイン:ラプソディ・イン・ブルー ドラマエンディングロングヴァージョン](https://open.spotify.com/track/5b5xUPu8Pdj1r8fFnZHMRU) | [のだめカンタービレ](https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN) | [のだめカンタービレ スペシャル BEST!](https://open.spotify.com/album/7tHoaRyQsXpbW2b1gi82Fd) | 1:55 |
+| 17 | [ガーシュイン:ラプソディ・イン・ブルー ドラマエンディングロングヴァージョン](https://open.spotify.com/track/5b5xUPu8Pdj1r8fFnZHMRU) | [のだめカンタービレ](https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN) | [のだめカンタービレ スペシャル BEST!](https://open.spotify.com/album/7tHoaRyQsXpbW2b1gi82Fd) | 1:55 |
 | 18 | [Shadow of Doubt](https://open.spotify.com/track/7po0feMdknjJCFuHkUGeSf) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 2\)](https://open.spotify.com/album/58nXdeGgTmfIfVjMdkwbGo) | 4:45 |
 | 19 | [A Shooting Star](https://open.spotify.com/track/1CKgi1N9crZUuWdyJE25ME) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [The Wind Rises Soundtrack](https://open.spotify.com/album/59U5FQ4kDEt11Q2UcFu1dK) | 1:37 |
 | 20 | [Again](https://open.spotify.com/track/7aCic4CXOZ3jbk4aLEtv8v) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 3\)](https://open.spotify.com/album/7o8sLz2KsnZ0ykcQS6OxYM) | 3:41 |

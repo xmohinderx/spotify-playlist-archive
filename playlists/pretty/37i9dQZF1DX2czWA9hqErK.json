@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 406261,
+  "num_followers": 406275,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NzIxNiwwMDAwMDAwMGNlMWUyYzA3YmIyNmFkOWZlZWRlZGY1Zjk0ZDBmOTFk",
+  "snapshot_id": "MTY1OTQ1NzIxNiwwMDAwMDAwMDMyNDQzYmEzMDUxNWZkMjlhZDBlNTBlZmQ2NjE1ZDI1",
   "tracks": [
     {
       "added_at": "2022-08-02 16:20:16",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 157373,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
         "name": "MEAN!",
         "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
         "name": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
         "url": "https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF"
       },
@@ -251,6 +267,22 @@
       "duration_ms": 211613,
       "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
       "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
+        "name": "Miserable Man",
+        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 232991,
+      "name": "Miserable Man",
+      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -303,22 +335,6 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 191375,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
-        "name": "Miserable Man",
-        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 232991,
-      "name": "Miserable Man",
-      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
+        "name": "AMAZING",
+        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
         "name": "Love's Train",
         "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
-        "name": "AMAZING",
-        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "Crisis / Secret / Set Me Free",
-        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Crisis",
-      "url": "https://open.spotify.com/track/1mEM6KkVMwpuAuqusCMD6m"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
         "name": "Letter To Ur Ex",
         "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 205994,
       "name": "If You Ever Change Your Mind",
       "url": "https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
+        "name": "Crisis / Secret / Set Me Free",
+        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/1mEM6KkVMwpuAuqusCMD6m"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "When You Lose Someone",
-        "url": "https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 200282,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
         "name": "10 Summers",
         "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 160500,
       "name": "10 Summers",
       "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
+        "name": "When You Lose Someone",
+        "url": "https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 200282,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "A Good Love, Pt. 2",
-        "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
+        "name": "squares / y 13",
+        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
       },
       "artists": [
         {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        },
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 213556,
-      "name": "A Good Love, Pt. 2",
-      "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
+      "duration_ms": 267031,
+      "name": "squares",
+      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "squares / y 13",
-        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
+        "name": "A Good Love, Pt. 2",
+        "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        },
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 267031,
-      "name": "squares",
-      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
+      "duration_ms": 213556,
+      "name": "A Good Love, Pt. 2",
+      "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "Background Music",
-        "url": "https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Background Music",
-      "url": "https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
         "name": "my dear",
         "url": "https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 132122,
       "name": "my dear",
       "url": "https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
+        "name": "Background Music",
+        "url": "https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Background Music",
+      "url": "https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "Will We Ever Get This Right",
-        "url": "https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 161157,
-      "name": "Will We Ever Get This Right",
-      "url": "https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 205453,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
+        "name": "Will We Ever Get This Right",
+        "url": "https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 161157,
+      "name": "Will We Ever Get This Right",
+      "url": "https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1"
     },
     {
       "added_at": "2022-08-02 16:20:16",

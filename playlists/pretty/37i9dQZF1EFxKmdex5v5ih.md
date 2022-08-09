@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,417 likes - 162 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,419 likes - 162 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 57 | [Lie Like This](https://open.spotify.com/track/1rqIA9CG4Vj44JYVqBpxIj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:38 |
 | 58 | [imagine](https://open.spotify.com/track/4PMZyXssvisK5IxLnnl9r7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 2:44 |
 | 59 | [Beg](https://open.spotify.com/track/2YXEabNsLoihw7kBtiQpSa) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Beg](https://open.spotify.com/album/2b89LTGiZ9okXDOyRHjR4M) | 3:03 |
-| 60 | [Inside Out \(feat\. Griff\)](https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Inside Out \(feat\. Griff\)](https://open.spotify.com/album/4eAf9fHtOj0mVTSV3cB2km) | 3:06 |
-| 61 | [Remember This](https://open.spotify.com/track/6nACZEZIt1CIBmF09r5Pb5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Remember This](https://open.spotify.com/album/5sIvIsXTXfwoMEBVk1xCqm) | 2:58 |
+| 60 | [Remember This](https://open.spotify.com/track/6nACZEZIt1CIBmF09r5Pb5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Remember This](https://open.spotify.com/album/5sIvIsXTXfwoMEBVk1xCqm) | 2:58 |
+| 61 | [Inside Out \(feat\. Griff\)](https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Inside Out \(feat\. Griff\)](https://open.spotify.com/album/4eAf9fHtOj0mVTSV3cB2km) | 3:06 |
 | 62 | [Bracelet](https://open.spotify.com/track/5WAD7GRAHPQUy9Il1hM7wL) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 4:22 |
 | 63 | [Bad Girl](https://open.spotify.com/track/3n1HsYVwX6qMvihf5uZDKs) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Bad Girl](https://open.spotify.com/album/5TIbUyoncSx0LKnnJXgfc5) | 3:06 |
 | 64 | [Paranoid](https://open.spotify.com/track/2wCVpdNSHjqIn2en8jAnF0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:12 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 161 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 |
 | 162 | [The Rain](https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d) | [Samuel Harrell](https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo) | [The Book of Samuel](https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI) | 5:22 |
 
-Snapshot ID: `Mjc2NjUzNDksMDAwMDAwMDBmNTYwNDc1ODFmYmEwMmVmMmU5ZTVjNTE0Y2RlNjJjMw==`
+Snapshot ID: `Mjc2NjY3ODksMDAwMDAwMDBjZGIzNDQ3N2NkYzkxNWJkNDNiYjM3ZjkzYmZlODc5OQ==`

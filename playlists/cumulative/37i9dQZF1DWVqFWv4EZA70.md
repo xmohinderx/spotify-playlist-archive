@@ -4,7 +4,7 @@
 
 > Beats que le suben el ánimo a tu día.
 
-71 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/5VrVr3VNwavbhZLRyDryhs)
+72 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/5VrVr3VNwavbhZLRyDryhs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Watch Baby](https://open.spotify.com/track/6hg7Re7Eu6MfAd33G6KOKa) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB4](https://open.spotify.com/album/0bLCkwjclcyYzC7CxTXnFa) | 2:21 | 2021-10-15 |  |
 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 | 2021-10-15 |  |
 | [WHITE CRAYON](https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6) | 4:31 | 2021-10-15 |  |
-| [Yeti, Set, Go](https://open.spotify.com/track/5YN3J3Fc6fVFEeOVWyvSk1) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Man from the Future](https://open.spotify.com/album/0Rq7LrLsPt0urUEgvqbrZb) | 5:20 | 2021-10-15 |  |
+| [Yeti, Set, Go](https://open.spotify.com/track/5YN3J3Fc6fVFEeOVWyvSk1) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Man from the Future](https://open.spotify.com/album/0Rq7LrLsPt0urUEgvqbrZb) | 5:20 | 2021-10-15 | 2022-08-09 |
+| [Yeti, Set, Go](https://open.spotify.com/track/6BaQQK0ICJFPECwhUDkCZC) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Man From The Future](https://open.spotify.com/album/2eEieeGRF7ra1277V8buvn) | 5:20 | 2021-10-15 |  |
 | [You fly me](https://open.spotify.com/track/5R4q6bsvAChmt1icAE1EWh) | [Fingathing](https://open.spotify.com/artist/7l9MYefk0544OMaA9wIPDW) | [Hôtel Costes 6](https://open.spotify.com/album/1VxdV8gGNW9JAdZ7yak3c0) | 2:52 | 2021-10-15 |  |
 | [You Make Me Smile \(Instrumental\)](https://open.spotify.com/track/3erovQ48Iy0iqZb9e9NrZu) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [You Make Me Smile](https://open.spotify.com/album/7gpO1RGycB9OmjuALSkNBO) | 3:25 | 2021-10-15 | 2022-07-29 |
 | [You Make Me Smile \(Instrumental\)](https://open.spotify.com/track/71On3WSmjDOUD9Jct2bzYc) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [You Make Me Smile](https://open.spotify.com/album/24UTCXhd9ITgPpSuIkrrxM) | 3:25 | 2021-10-15 |  |

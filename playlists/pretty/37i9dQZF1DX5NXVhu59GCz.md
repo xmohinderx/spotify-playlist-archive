@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,296 likes - 49 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,312 likes - 49 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 9 | [Gold And Silver](https://open.spotify.com/track/6qwwAbxSYq9MTEIn0UMFNA) | [Quicksilver Messenger Service](https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL) | [Quicksilver Messenger Service](https://open.spotify.com/album/2jQEpak8oXYb6dh9sCZqqY) | 6:43 |
 | 10 | [Codine](https://open.spotify.com/track/1D5PLr1KOnXSo5sJyPUmXP) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf) | 4:32 |
 | 11 | [Unconscious Power](https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [Heavy](https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW) | 2:30 |
-| 12 | [Slip Inside This House \- Stereo LP Version](https://open.spotify.com/track/4GVRHAwABAV0v63YX9Go0p) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [Easter Everywhere](https://open.spotify.com/album/5RQNjPQbqY82MBTwaQp3ik) | 8:02 |
+| 12 | [Death Sound](https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 4:26 |
 | 13 | [A Child of a Few Hours Is Burning to Death](https://open.spotify.com/track/1U0JgQRSufNmWPvD9aklZt) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [A Child's Guide To Good And Evil](https://open.spotify.com/album/7wieiJFEfvS2tWCxv8IBhF) | 2:41 |
-| 14 | [Baby Blue](https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc) | [The Chocolate Watchband](https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A) | [Inner Mystique](https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd) | 3:12 |
-| 15 | [Death Sound](https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 4:26 |
+| 14 | [Slip Inside This House \- Stereo LP Version](https://open.spotify.com/track/4GVRHAwABAV0v63YX9Go0p) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [Easter Everywhere](https://open.spotify.com/album/5RQNjPQbqY82MBTwaQp3ik) | 8:02 |
+| 15 | [Baby Blue](https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc) | [The Chocolate Watchband](https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A) | [Inner Mystique](https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd) | 3:12 |
 | 16 | [Never Had A Girl](https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU) | [The Misunderstood](https://open.spotify.com/artist/4UuXO2W0oFIBZMArMPDXev) | [The Legendary Goldstar Album & Golden Glass](https://open.spotify.com/album/06mZtBRnJeufBaT0TFkqLf) | 4:31 |
 | 17 | [\(BALLAD OF\) THE HIP DEATH GODDESS](https://open.spotify.com/track/1IQmZ2Hz0HEtb8rwXNci4i) | [Ultimate Spinach](https://open.spotify.com/artist/38ULknnQK6G4oLJtTtPkkM) | [Ultimate Spinach](https://open.spotify.com/album/3g1Dzj83jWRcQMCtmLHTka) | 8:14 |
 | 18 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 25 | [Too Many Do](https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [The Great Conspiracy \(Bonus Track Version\)](https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8) | 6:32 |
 | 26 | [Inkpot](https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Inkpot & Attila](https://open.spotify.com/album/5liqryZxZvie3pfCR21liP) | 2:39 |
 | 27 | [Starvation](https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX) | [The Golden Dawn](https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx) | [Power Plant](https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb) | 2:52 |
-| 28 | [The World's On Fire](https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 8:25 |
-| 29 | [The World](https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 2:13 |
+| 28 | [The World](https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 2:13 |
+| 29 | [The World's On Fire](https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 8:25 |
 | 30 | [a\) Take Me For A Little While b\) RYFI \(Illusions Of My Childhood\-Part Three\)](https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI) | [Vanilla Fudge](https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1) | [Vanilla Fudge](https://open.spotify.com/album/4rvXyAx9phjxiU4cQS1AJh) | 3:55 |
 | 31 | [Crystal Blues](https://open.spotify.com/track/3dHhbraAAG40gNtVUkn0uf) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Here We Are Again](https://open.spotify.com/album/0WXiQbXXPlYw5STWA7ucPH) | 6:23 |
 | 32 | [Sometimes I Think About](https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Lollipop](https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX) | 4:10 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 38 | [Don't Call Us, We'll Call You \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC) | [Sugarloaf](https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH) | [Don't Call Us, We'll Call You \(Re\-Recorded\)](https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic) | 3:22 |
 | 39 | [Charlie](https://open.spotify.com/track/6FNHbGuJ8GkB0bty9Jm3c6) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptoof!](https://open.spotify.com/album/4fWuFitMDgLkzDLIpu8Tzr) | 3:58 |
 | 40 | [Lucille \(1970 BBC Top Gear Radio Broadcast\)](https://open.spotify.com/track/2oRsUm3jbPiZNp3cIs6cOP) | [The Pink Fairies](https://open.spotify.com/artist/45BIdHR6MPeNr1aNT10GJE) | [Fuzz Freakout 1970\-1971](https://open.spotify.com/album/2jUV53kqy8Y04JLKXNdZU5) | 2:42 |
-| 41 | [Big Headed Woman](https://open.spotify.com/track/2yb0ZoqqGX4XDzt2CZarWF) | [Speed, Glue & Shinki](https://open.spotify.com/artist/67DVoI1yayIO8DcKKtlbWk) | [Eve](https://open.spotify.com/album/6YCt59wLxD0RXqTvt3kz1k) | 6:15 |
-| 42 | [We Ain't Got Nothin' yet](https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Resurrection](https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ) | 2:17 |
+| 41 | [We Ain't Got Nothin' yet](https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Resurrection](https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ) | 2:17 |
+| 42 | [Big Headed Woman](https://open.spotify.com/track/2yb0ZoqqGX4XDzt2CZarWF) | [Speed, Glue & Shinki](https://open.spotify.com/artist/67DVoI1yayIO8DcKKtlbWk) | [Eve](https://open.spotify.com/album/6YCt59wLxD0RXqTvt3kz1k) | 6:15 |
 | 43 | [I Put a Spell on You](https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr) | 3:44 |
 | 44 | [It's A Hard Life](https://open.spotify.com/track/3i9f1ZX8IbZVsZSoSuHO8D) | [The Seeds](https://open.spotify.com/artist/5mcarhiatlvfCghqcn73rC) | [The Seeds](https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N) | 2:40 |
 | 45 | [Cheshire](https://open.spotify.com/track/4KWLEtCcc13YDp6YogeVMB) | [Frumious Bandersnatch](https://open.spotify.com/artist/6oGriTn7yPNEco3WkbNqS9) | [The Studio Outtakes](https://open.spotify.com/album/0rXM1CIG0xeDoHABrXHACR) | 9:42 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 48 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
 | 49 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
 
-Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMGViOWM3ZTlkYzYwZjAwOGUwOWE4YTMwMzQ3MDI2YzNm`
+Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDk4ODVkZGIwOTE1MDBjODcwNDY0NGUxOTRlNWI2YTBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjpFTBUEAj0.md) - [plain]
 
 > A total apocalypse of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,897 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,953 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjpFTBUEAj0.md) - [plain]
 | 12 | [Transmission](https://open.spotify.com/track/0OuuJi4vvwFDzo64PTyMyD) | [Pharmakon](https://open.spotify.com/artist/1ix1aDOd7GSOeT9iqNh5KO) | [Contact](https://open.spotify.com/album/5zEb9tVCerWMgrp9XbMjGi) | 4:54 |
 | 13 | [Dragonflies to Sew You Up](https://open.spotify.com/track/2yr8zjsYtBAeZwpvQYC66k) | [Prurient](https://open.spotify.com/artist/00NwpiTtYKYzE6yEhSbFIk) | [Frozen Niagara Falls](https://open.spotify.com/album/5Pm2WvqxlDttK4hTx1vKe3) | 5:19 |
 | 14 | [Ground \(Up\)](https://open.spotify.com/track/4nUhvje1ZfgXHEvItu5UZP) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [My Way Out](https://open.spotify.com/album/6WAtYpQ6y5Oe4Mo5JNmYVK) | 4:13 |
-| 15 | [Ssmmiillee \#\#55](https://open.spotify.com/track/2gAdcHPk2j1wfvRe26nzzo) | [Slauson Malone](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [for Star \(Crater Speak\)](https://open.spotify.com/album/7csBwR3uFvZEmxDfBoWtnr) | 6:08 |
-| 16 | [Violence's Detour](https://open.spotify.com/track/7dW92ZHMHqTKYEN6KNyHRn) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4) | [The Ghost of Georges Bataille](https://open.spotify.com/album/18UWFTET4TjPVbMYe7ikgR) | 8:55 |
-| 17 | [Act Of The Empress](https://open.spotify.com/track/3ucKtFC5eE3WqZbjMg5CDU) | [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Lack](https://open.spotify.com/album/0gXMfRsy56PVMjTn4eLnF6) | 4:58 |
+| 15 | [Act Of The Empress](https://open.spotify.com/track/3ucKtFC5eE3WqZbjMg5CDU) | [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Lack](https://open.spotify.com/album/0gXMfRsy56PVMjTn4eLnF6) | 4:58 |
+| 16 | [Ssmmiillee \#\#55](https://open.spotify.com/track/2gAdcHPk2j1wfvRe26nzzo) | [Slauson Malone](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [for Star \(Crater Speak\)](https://open.spotify.com/album/7csBwR3uFvZEmxDfBoWtnr) | 6:08 |
+| 17 | [Violence's Detour](https://open.spotify.com/track/7dW92ZHMHqTKYEN6KNyHRn) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4) | [The Ghost of Georges Bataille](https://open.spotify.com/album/18UWFTET4TjPVbMYe7ikgR) | 8:55 |
 | 18 | [Barongan III](https://open.spotify.com/track/6btmo0iGDjMcYj4zHTvMvn) | [Raja Kirik](https://open.spotify.com/artist/22j4DsKGQEcOie7PvfQIVj) | [Rampokan](https://open.spotify.com/album/0JtcEEPTPv9JujTZtJYvZ1) | 3:35 |
 | 19 | [Ashen](https://open.spotify.com/track/6hwJwZh9nZDR30uF4fw8L9) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [Ashen](https://open.spotify.com/album/1DxdB6g1ezDP1buY4nDPGJ) | 6:36 |
 | 20 | [Body](https://open.spotify.com/track/4M1lZaOm9OyZ7UJM2on0Gj) | [Emptyset](https://open.spotify.com/artist/6iVzn7VOmHkhFAnB8XAGZ4) | [Borders](https://open.spotify.com/album/7Hcbzsu4lqRzPakrCnpgb9) | 3:10 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjpFTBUEAj0.md) - [plain]
 | 29 | [WHERE'ER YOU WALK](https://open.spotify.com/track/3YHAXm7tnqQ4kgvweT8JJ2) | [Lingua Ignota](https://open.spotify.com/artist/3Q2RrKEOBdkWI2MJQgdt84) | [AGNUS DEI](https://open.spotify.com/album/5gci11K4fG49oc35JPHKmz) | 3:50 |
 | 30 | [Coatlicue S.](https://open.spotify.com/track/55ugyo8XEiblazjzi4d7Om) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [No era sólida](https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u) | 3:24 |
 | 31 | [Not So Scared](https://open.spotify.com/track/6Q6zKnazwS6eaO4ORqIUAf) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [Permanest](https://open.spotify.com/album/73MXFAuug7MDjBPpt6yAhe) | 4:38 |
-| 32 | [barriers to love](https://open.spotify.com/track/1NPm0vHGkzWWIejnOzl3Ov) | [Deli Girls](https://open.spotify.com/artist/4jdVUoq5w0zRIbDDCQ4Enc), [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1) | [BOSS](https://open.spotify.com/album/4FkydKrVkZlZjYLWiULB3I) | 4:15 |
-| 33 | [Full Moon](https://open.spotify.com/track/4KWfcnNEPMGAAAQEMIUoML) | [Don Zilla](https://open.spotify.com/artist/28v8olmolos8vLLikFIWzh) | [Ekizikiza Mubwengula](https://open.spotify.com/album/067aZP3uQiemACpRoipWFh) | 2:22 |
+| 32 | [Full Moon](https://open.spotify.com/track/4KWfcnNEPMGAAAQEMIUoML) | [Don Zilla](https://open.spotify.com/artist/28v8olmolos8vLLikFIWzh) | [Ekizikiza Mubwengula](https://open.spotify.com/album/067aZP3uQiemACpRoipWFh) | 2:22 |
+| 33 | [barriers to love](https://open.spotify.com/track/1NPm0vHGkzWWIejnOzl3Ov) | [Deli Girls](https://open.spotify.com/artist/4jdVUoq5w0zRIbDDCQ4Enc), [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1) | [BOSS](https://open.spotify.com/album/4FkydKrVkZlZjYLWiULB3I) | 4:15 |
 | 34 | [Don't Drown](https://open.spotify.com/track/58CL1AZszQ0IQ7euo5d7C9) | [Cremation Lily](https://open.spotify.com/artist/0cLSrHAGimBuxfOfgyRvPg) | [More Songs About Drowning](https://open.spotify.com/album/2uN1bkZi5BdkeuD6hUF5CO) | 3:00 |
-| 35 | [Polaroids](https://open.spotify.com/track/7l7vmmPWUoboWBmCJNPLuW) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI), [Tonje Terese](https://open.spotify.com/artist/2JOwVXucbN61eLK7LFgik8) | [Memories of Kazan](https://open.spotify.com/album/3AAv6mGW1GnSv60SZE5iRd) | 5:38 |
-| 36 | [death is quite clearly not what it used to be](https://open.spotify.com/track/2albu8zg4QRCnaLoUDbvlM) | [Leo](https://open.spotify.com/artist/3pFmVHsgu8MAibAs0sEhDL) | [A Buried River](https://open.spotify.com/album/7ydgRPQagOtlw8J2rQ6pZv) | 3:31 |
+| 35 | [death is quite clearly not what it used to be](https://open.spotify.com/track/2albu8zg4QRCnaLoUDbvlM) | [Leo](https://open.spotify.com/artist/3pFmVHsgu8MAibAs0sEhDL) | [A Buried River](https://open.spotify.com/album/7ydgRPQagOtlw8J2rQ6pZv) | 3:31 |
+| 36 | [Polaroids](https://open.spotify.com/track/7l7vmmPWUoboWBmCJNPLuW) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI), [Tonje Terese](https://open.spotify.com/artist/2JOwVXucbN61eLK7LFgik8) | [Memories of Kazan](https://open.spotify.com/album/3AAv6mGW1GnSv60SZE5iRd) | 5:38 |
 | 37 | [Trueno](https://open.spotify.com/track/4QFDiiPfq5shzyiGoY84vY) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Lucy & Aaron](https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA) | 3:37 |
 | 38 | [Bureau](https://open.spotify.com/track/3wxC7rGg3Gg1pTqmQczLt4) | [RK7](https://open.spotify.com/artist/5CaV9AH4gT7gSBH5SQe4a6) | [Illinois, Vol\. 1](https://open.spotify.com/album/7DLUDnsR6xKIDVcFrOkiZh) | 1:29 |
 | 39 | [Walking on Moirai](https://open.spotify.com/track/3RtZhkiOfACxmALcWjQXjB) | [Wanton Witch](https://open.spotify.com/artist/1orDjK2DFVng0Zr5jl5L9g) | [Wanton Witch LP](https://open.spotify.com/album/5wQnEBwnzAXjbC00O9n3nA) | 4:36 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjpFTBUEAj0.md) - [plain]
 | 44 | [Final Head \(No.31\)](https://open.spotify.com/track/3SpHBVLudhv7kAmwgZBaAZ) | [Mirroreyes](https://open.spotify.com/artist/3YGdGNj1uzAXC7bhxMq3Xw) | [Final Head \(No.31\)](https://open.spotify.com/album/360yAVVVL9ydNiDJF7rBRz) | 5:18 |
 | 45 | [Demands of Ordinary Devotion](https://open.spotify.com/track/4QC6ChCRikZUr6ppHQVNsM) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Demands of Ordinary Devotion](https://open.spotify.com/album/3Z09g2HZyHjxxdUhCyyTSi) | 3:31 |
 | 46 | [Floodwaters](https://open.spotify.com/track/3lWqhO8VCqq3eynbHdWusx) | [Rites of Fall](https://open.spotify.com/artist/0lmo0WuKgZFuma8hHrI4So) | [Floodwaters](https://open.spotify.com/album/7tBGivhA5lzGPKsNeWPdKF) | 10:33 |
-| 47 | [22.8.15](https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Thank You Slipknot](https://open.spotify.com/album/0MpW728Bh1K9lYQg3ivkOg) | 6:07 |
-| 48 | [The Sacrifice](https://open.spotify.com/track/55xhBx627ivI3aWhI7HOck) | [Flora Yin\-Wong](https://open.spotify.com/artist/6G9Fk5r3RJUQSpsZWh6g6B), [Adam Sherry](https://open.spotify.com/artist/20niWzUm4Khvh3f1Y55NQi) | [The Sacrifice](https://open.spotify.com/album/7hQ4VwHV17rFjIachwQ8pp) | 3:48 |
+| 47 | [The Sacrifice](https://open.spotify.com/track/55xhBx627ivI3aWhI7HOck) | [Flora Yin\-Wong](https://open.spotify.com/artist/6G9Fk5r3RJUQSpsZWh6g6B), [Adam Sherry](https://open.spotify.com/artist/20niWzUm4Khvh3f1Y55NQi) | [The Sacrifice](https://open.spotify.com/album/7hQ4VwHV17rFjIachwQ8pp) | 3:48 |
+| 48 | [22.8.15](https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Thank You Slipknot](https://open.spotify.com/album/0MpW728Bh1K9lYQg3ivkOg) | 6:07 |
 | 49 | [In Heaven](https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [In Heaven](https://open.spotify.com/album/2ZQiDIXoAx9DESqQeSUkLm) | 3:54 |
 | 50 | [Drum Fife Bugle](https://open.spotify.com/track/5X9elLdEBKkgHdTzcWOHdW) | [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [PURGE](https://open.spotify.com/album/52Un5YhkbRyt1POIsrqaft) | 2:48 |
 
-Snapshot ID: `MTY1OTEwNTkyNywwMDAwMDAwMGFiZGJjYjdmZjFiMzZmNjU3NGM0NTBkOWM3MTdhYzMw`
+Snapshot ID: `MTY1OTEwNTkyNywwMDAwMDAwMGM0ZThmMTljZGE2OTgxZDFhNmYwYmVmN2FkZjhmMDAx`

@@ -4,7 +4,7 @@
 
 > Les hits Maghrébins du moment sont ici\. Cover : Manal.
 
-84 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
+86 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,15 +43,16 @@
 | [Habibi \- Albanian Remix](https://open.spotify.com/track/2sHYMLUd4nVLxHPKY05Ein) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M) | [Habibi \(Albanian Remix\)](https://open.spotify.com/album/3WOsyRdlR3qA5BhKW3Ffkj) | 2:09 | 2022-05-12 |  |
 | [Hallelujah](https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Hallelujah](https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM) | 2:58 | 2022-05-12 | 2022-06-03 |
 | [Hickey](https://open.spotify.com/track/3B67oAJr4acToGpR1S33g5) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Hickey](https://open.spotify.com/album/6l0VWNBC0Oppta7L3WkWnj) | 3:05 | 2022-05-12 |  |
-| [Hiya Hiya](https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H) | 3:37 | 2022-07-26 |  |
+| [Hiya Hiya](https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H) | 3:37 | 2022-07-26 | 2022-08-09 |
 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 | 2022-05-12 | 2022-07-31 |
+| [IDK](https://open.spotify.com/track/34CTxOT4WPY14XWLbuv9o1) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [IDK](https://open.spotify.com/album/6dSLJYro7OAXBPj9wAWV3j) | 3:28 | 2022-08-08 |  |
 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 | 2022-05-12 |  |
 | [Khalass](https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalass](https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7) | 3:20 | 2022-05-12 | 2022-05-20 |
 | [Khalini](https://open.spotify.com/track/3PoerjlVZ7f1s32kpNB0SZ) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/7aqKBhNnhezrsKD4pkIiOA) | 3:02 | 2022-07-26 |  |
 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 | 2022-05-12 | 2022-07-29 |
 | [KIFKIF](https://open.spotify.com/track/0Ssdb1vqoW6w2eRgZT1Itp) | [Ali S Music](https://open.spotify.com/artist/5eOPZ5faFYHymqWmpg7c6m), [PROFIT ZA3IM](https://open.spotify.com/artist/48bjrojtnj3wjC1cSvGX9z) | [KIFKIF](https://open.spotify.com/album/3jc1hsgXkElhSuud62MDDt) | 3:44 | 2022-07-18 | 2022-07-24 |
 | [KIFKIF \- Remixed By Ali S](https://open.spotify.com/track/3GoQSJXtzbDtejWNADev6f) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or), [Profit Za3im](https://open.spotify.com/artist/1lgjg7Ws1qm4jojTua1nrn) | [KIFKIF](https://open.spotify.com/album/2UhLGCTnNMxR2Eyv2RorkV) | 3:44 | 2022-07-23 |  |
-| [La rwina](https://open.spotify.com/track/1qmQtjLHkjwrRzuFmP9smG) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 4:11 | 2022-05-12 |  |
+| [La rwina](https://open.spotify.com/track/1qmQtjLHkjwrRzuFmP9smG) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 4:11 | 2022-05-12 | 2022-08-09 |
 | [La street](https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 3:20 | 2022-07-13 |  |
 | [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2022-05-12 | 2022-07-14 |
 | [Lovini](https://open.spotify.com/track/40Sf3xGKMtwYM9y2RyScr8) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Lovini](https://open.spotify.com/album/0xExuBGAAYGqgBelfN7Gzn) | 3:09 | 2022-05-24 | 2022-06-24 |
@@ -63,6 +64,7 @@
 | [Magic](https://open.spotify.com/track/7ckHoMRErhCP9QMqGRPnLv) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/7A52XPHtuD0dvuwMzV52qN) | 3:04 | 2022-05-12 | 2022-07-29 |
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-07-06 |  |
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-05-24 |  |
+| [Mazalni](https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Mazalni](https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77) | 4:20 | 2022-08-08 |  |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-05-12 |  |
 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 | 2022-05-12 |  |
 | [Nari](https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Nari](https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q) | 3:57 | 2022-05-12 | 2022-06-03 |
@@ -90,7 +92,7 @@
 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 | 2022-05-12 | 2022-06-10 |
 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2022-06-02 |  |
 | [Ya Zina](https://open.spotify.com/track/3iN353HpREOoT6DMAepelv) | [Imad Maestro](https://open.spotify.com/artist/4VtlVixipE4d5qUyjxMk3j) | [Ya Zina](https://open.spotify.com/album/3OEEzOjJNSl4WTYtgqh9CO) | 3:15 | 2022-05-12 |  |
-| [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 | 2022-05-12 |  |
+| [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 | 2022-05-12 | 2022-08-09 |
 | [كيفاش نخليك](https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W), [Hind Sdassi](https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm) | [كيفاش نخليك](https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA) | 3:59 | 2022-05-12 | 2022-07-05 |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

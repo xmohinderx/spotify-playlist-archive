@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 151451,
+  "num_followers": 151610,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcwMDgwMCwwMDAwMDAwMGMyMjdlOGZjODkwNTRmZDEyOTQ5Y2UwNzk2YjVmYjIx",
+  "snapshot_id": "MTY1OTcwMDgwMCwwMDAwMDAwMDFhYWYyMjNkNmUyMjUyZmQ1ZTE5ZmZmNTYzM2EwMDE1",
   "tracks": [
     {
       "added_at": "2022-08-05 12:00:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
+        "name": "Prom Queen",
+        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 136562,
+      "name": "Prom Queen",
+      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
         "name": "Picture Show",
         "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "Prom Queen",
-        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 136562,
-      "name": "Prom Queen",
-      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 241440,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -523,38 +523,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -587,18 +555,18 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
         }
       ],
-      "duration_ms": 238853,
-      "name": "My Number",
-      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -615,6 +583,38 @@
       "duration_ms": 198600,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "My Number",
+      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 160886,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 160886,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Gone Now",
-        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 262209,
       "name": "Meet Me in the Woods",
       "url": "https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Gone Now",
+        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Alvvays",
-        "url": "https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Archie, Marry Me",
-      "url": "https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Alvvays",
+        "url": "https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Archie, Marry Me",
+      "url": "https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Kids In Love",
-        "url": "https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s"
-      },
-      "artists": [
-        {
-          "name": "The Mowgli's",
-          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/5KQDGl3vAkNGyfvSbaW89E"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 177768,
       "name": "Lo/Hi",
       "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Kids In Love",
+        "url": "https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s"
+      },
+      "artists": [
+        {
+          "name": "The Mowgli's",
+          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/5KQDGl3vAkNGyfvSbaW89E"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "I Belong in Your Arms",
-      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 273026,
       "name": "It Might Be Time",
       "url": "https://open.spotify.com/track/558ubozatFQlweufvHa3Ip"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "I Belong in Your Arms",
+      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "MY WOMAN",
-        "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 202200,
-      "name": "Shut Up Kiss Me",
-      "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
+      "duration_ms": 196588,
+      "name": "Give Yourself A Try",
+      "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
     }
   ],
   "unique_name": "Energy Booster: Indie",

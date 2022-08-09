@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best new alternative rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,666 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,741 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 64 | [25](https://open.spotify.com/track/4BVhT8hPa0RVTl5fixJlBR) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [25](https://open.spotify.com/album/3EafDY5hu3gxtoLfn2TKDL) | 3:07 |
 | 65 | [Therapy 2](https://open.spotify.com/track/5Xch2bmKG4TBYuKPWIMpMt) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [The Therapy Sessions](https://open.spotify.com/album/4Ree7F8kKBluzkGcKcFo0P) | 3:02 |
 
-Snapshot ID: `MTY1OTI5MDY4MSwwMDAwMDAwMGQ3Y2JmMDE2MzFkMWM4YTQ4ZmVhZjZkMmIyMDJjMTlm`
+Snapshot ID: `MTY1OTk4NTQzNSwwMDAwMDAwMGVjNDgyM2UyNTU2N2QyN2E4ZWE5NDI3ZjNlMGFiMDFh`

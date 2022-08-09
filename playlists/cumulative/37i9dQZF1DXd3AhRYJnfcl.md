@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية التي لا يمكنك التوقف عن الاستماع اليها الغلاف: محمد حماقي
 
-83 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/1xdcB9YfQyjFUOOHCAvmJA)
+85 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/1xdcB9YfQyjFUOOHCAvmJA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,9 @@
 | [El Fatra Di](https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:49 | 2022-04-13 | 2022-05-20 |
 | [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 | 2022-05-13 |  |
 | [El Melouk \- الملوك](https://open.spotify.com/track/04vHPXVGnb51q13NBoW22W) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [El Melouk \- الملوك](https://open.spotify.com/album/3eMTz433EZ3pEHtszeiIL2) | 3:15 | 2022-04-13 |  |
+| [El Youm El Helw Dah](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Youm El Helw Dah](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 | 2022-08-08 |  |
 | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/track/4xAYDw7NVSKkvMIE9vFTVu) | [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6), [Mohamed Osama](https://open.spotify.com/artist/1cODd5riWEV19DpwGut4CN) | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/album/5jjujcUlw3FwkINsaodz71) | 2:41 | 2022-04-13 |  |
+| [Enta Ekhtyar \- From Bhabak Movie](https://open.spotify.com/track/5bMArgC9c0qSHRoTL2NlLy) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Enta Ekhtyar \(From Bhabak Movie\)](https://open.spotify.com/album/0os60GScuoNH6G53ga73IE) | 4:48 | 2022-08-08 |  |
 | [Enty Genan](https://open.spotify.com/track/7i5Ud8atK2QZdxgdVLtExX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Enty Genan](https://open.spotify.com/album/0V4l3eqaozw81VyPXhav01) | 3:05 | 2022-07-13 |  |
 | [Etnaset](https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etnaset](https://open.spotify.com/album/5nE6ovXOMjYZ1UG695iIkU) | 3:15 | 2022-04-13 |  |
 | [FAR2 KHEBRA](https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FAR2 KHEBRA](https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov) | 3:08 | 2022-04-13 |  |
@@ -73,7 +75,7 @@
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2022-04-13 | 2022-06-08 |
 | [Touba \(Intro Of Touba Series\)](https://open.spotify.com/track/2hb9SS3ObGXd6MwwxiKPqr) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [Touba \(Intro Of Touba Series\)](https://open.spotify.com/album/50Bmb0N5qoDWY5H2FWXKiv) | 3:48 | 2022-04-13 | 2022-06-29 |
 | [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 | 2022-07-13 |  |
-| [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Be3eed \(From "Bhabak" Movie\)](https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH) | 3:46 | 2022-07-13 |  |
+| [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Be3eed \(From "Bhabak" Movie\)](https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH) | 3:46 | 2022-07-13 | 2022-08-09 |
 | [Ya Fatenny](https://open.spotify.com/track/268vuOQPZTwDjwS5SqrKC8) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/3PiLAHM8hDtVxWkwg1LStr) | 3:44 | 2022-04-13 | 2022-05-14 |
 | [Ya Salam \- Remix](https://open.spotify.com/track/7kFcz3xHq7hsOrfQWkipvP) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Ya Salam \(Remix\)](https://open.spotify.com/album/3hmV8luknujbOif3arzW4J) | 4:13 | 2022-04-13 |  |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-04-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "el amor es pico tres <3 ",
-  "num_followers": 32765,
+  "num_followers": 32849,
   "original_name": "amor = <3 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3NzUxMCwwMDAwMDAwMGNmMDkwMmEyY2M5YzA1MTlkOTRhYjQyY2ZiNzI5ODg1",
+  "snapshot_id": "MTY1OTQ3NzUxMCwwMDAwMDAwMDNmMGZkMDdiMWQ2ZmUxZTViM2U5ZDgxNmNlYWJkZTI5",
   "tracks": [
     {
       "added_at": "2022-08-02 21:58:29",
@@ -223,30 +223,6 @@
     {
       "added_at": "2022-08-02 21:58:29",
       "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 267796,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq"
-    },
-    {
-      "added_at": "2022-08-02 21:58:29",
-      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -275,6 +251,30 @@
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
+    },
+    {
+      "added_at": "2022-08-02 21:58:29",
+      "album": {
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 267796,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq"
     },
     {
       "added_at": "2022-08-02 21:58:29",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-08-02 21:58:29",
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 226821,
-      "name": "Con Tus Besos",
-      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
-    },
-    {
-      "added_at": "2022-08-02 21:58:29",
-      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": "2022-08-02 21:58:29",
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 226821,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
     },
     {
       "added_at": "2022-08-02 21:58:29",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-08-02 21:58:29",
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 155125,
-      "name": "Cuando T\u00fa Me Miras",
-      "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
-    },
-    {
-      "added_at": "2022-08-02 21:58:29",
-      "album": {
         "name": "Charles Ans x Neto Pe\u00f1a x Yoss Bones - LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
       },
@@ -571,22 +555,18 @@
     {
       "added_at": "2022-08-02 21:58:29",
       "album": {
-        "name": "Mucho para M\u00ed",
-        "url": "https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5"
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
       "artists": [
         {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Franco Escamilla",
-          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 310262,
-      "name": "Mucho para M\u00ed",
-      "url": "https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR"
+      "duration_ms": 155125,
+      "name": "Cuando T\u00fa Me Miras",
+      "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
     },
     {
       "added_at": "2022-08-02 21:58:29",
@@ -603,6 +583,26 @@
       "duration_ms": 176226,
       "name": "El Mundo a Tus Pies",
       "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
+    },
+    {
+      "added_at": "2022-08-02 21:58:29",
+      "album": {
+        "name": "Mucho para M\u00ed",
+        "url": "https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Franco Escamilla",
+          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
+        }
+      ],
+      "duration_ms": 310262,
+      "name": "Mucho para M\u00ed",
+      "url": "https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR"
     },
     {
       "added_at": "2022-08-02 21:58:29",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-08-02 21:58:29",
       "album": {
+        "name": "El Amor So\u00f1ado",
+        "url": "https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "El Amor So\u00f1ado",
+      "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
+    },
+    {
+      "added_at": "2022-08-02 21:58:29",
+      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 241972,
       "name": "Tienes el Don",
       "url": "https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6"
-    },
-    {
-      "added_at": "2022-08-02 21:58:29",
-      "album": {
-        "name": "El Amor So\u00f1ado",
-        "url": "https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "El Amor So\u00f1ado",
-      "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
     },
     {
       "added_at": "2022-08-02 21:58:29",
@@ -883,6 +883,38 @@
     {
       "added_at": "2022-08-02 21:58:29",
       "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
+    },
+    {
+      "added_at": "2022-08-02 21:58:29",
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 208326,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM"
+    },
+    {
+      "added_at": "2022-08-02 21:58:29",
+      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -927,38 +959,6 @@
       "duration_ms": 173663,
       "name": "Me Estoy Enamorando - en Vivo",
       "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
-    },
-    {
-      "added_at": "2022-08-02 21:58:29",
-      "album": {
-        "name": "Corta Venas",
-        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 208326,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM"
-    },
-    {
-      "added_at": "2022-08-02 21:58:29",
-      "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
     },
     {
       "added_at": "2022-08-02 21:58:29",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-08-02 21:58:29",
       "album": {
+        "name": "Junto A T\u00ed",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193922,
+      "name": "Junto A T\u00ed",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+    },
+    {
+      "added_at": "2022-08-02 21:58:29",
+      "album": {
         "name": "Empapelado",
         "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 165745,
       "name": "Perfecta En Mis Ojos",
       "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
-    },
-    {
-      "added_at": "2022-08-02 21:58:29",
-      "album": {
-        "name": "Junto A T\u00ed",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A T\u00ed",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
     },
     {
       "added_at": "2022-08-02 21:58:29",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2022-08-02 21:58:29",
       "album": {
-        "name": "No Te Quiero Perder",
-        "url": "https://open.spotify.com/album/4DWgPITcwqT1veYKr7cU1d"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 197251,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/06H5AH5KtVWbAPNuOG8biW"
-    },
-    {
-      "added_at": "2022-08-02 21:58:29",
-      "album": {
         "name": "Rep\u00edtelo",
         "url": "https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 205634,
       "name": "Eres Tu / </3",
       "url": "https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL"
+    },
+    {
+      "added_at": "2022-08-02 21:58:29",
+      "album": {
+        "name": "No Te Quiero Perder",
+        "url": "https://open.spotify.com/album/4DWgPITcwqT1veYKr7cU1d"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 197251,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/06H5AH5KtVWbAPNuOG8biW"
     }
   ],
   "unique_name": "amor = <3 ",

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 4686,
+  "num_followers": 4738,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGI0NTI1MzFmZjU2YmY0ZmUxOWY0ZDEyMjEwYWRiMTFi",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDlhYjdkNzI5YmM0YmZmM2QyZmNmYmRjM2YwNDJlNWE5",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
     },
     {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Strung Up",
-        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
-      },
-      "artists": [
-        {
-          "name": "Sorley",
-          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Strung Up",
-      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
-    },
-    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Snatch! OFF 071",
@@ -461,20 +445,20 @@
       "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-03 18:11:27",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq"
+        "name": "Strung Up",
+        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
       },
       "artists": [
         {
-          "name": "Fallon",
-          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
         }
       ],
-      "duration_ms": 197502,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
+      "duration_ms": 200625,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
     },
     {
       "added_at": "2022-06-10 14:45:01",
@@ -491,6 +475,22 @@
       "duration_ms": 300041,
       "name": "Ready For The Blues",
       "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+        }
+      ],
+      "duration_ms": 197502,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -605,38 +605,6 @@
       "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
     },
     {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "So Hot EP",
-        "url": "https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Orpi",
-          "url": "https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "So Hot",
-      "url": "https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM"
-    },
-    {
-      "added_at": "2022-07-08 17:12:43",
-      "album": {
-        "name": "Kick It EP",
-        "url": "https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ"
-      },
-      "artists": [
-        {
-          "name": "Archie Hamilton",
-          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
-        }
-      ],
-      "duration_ms": 422250,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Music4TheMasses (Andrea Oliva Remix)",
@@ -655,6 +623,54 @@
       "duration_ms": 187652,
       "name": "Music4TheMasses - Andrea Oliva Remix",
       "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+    },
+    {
+      "added_at": "2022-07-08 17:12:43",
+      "album": {
+        "name": "Kick It EP",
+        "url": "https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "duration_ms": 422250,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "So Hot EP",
+        "url": "https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Orpi",
+          "url": "https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "So Hot",
+      "url": "https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Fuck The Regs EP",
+        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 204836,
+      "name": "Fuck The Regs",
+      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -725,38 +741,6 @@
       "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Fuck The Regs EP",
-        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 204836,
-      "name": "Fuck The Regs",
-      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "The True Secrets",
-        "url": "https://open.spotify.com/album/6b3y486Y43QZ5VFmaNI5WH"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 384115,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/2D5nRs0qDWXwcHveTsMHmE"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Stutter EP",
@@ -775,6 +759,22 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "The True Secrets",
+        "url": "https://open.spotify.com/album/6b3y486Y43QZ5VFmaNI5WH"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 384115,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/2D5nRs0qDWXwcHveTsMHmE"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/5rwiInzM1WFq06CvCr8m1j"
     },
     {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Rok The House",
-        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
-      },
-      "artists": [
-        {
-          "name": "Ben Sterling",
-          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Rok The House",
-      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Get Familiar",
@@ -859,6 +843,22 @@
       "duration_ms": 291288,
       "name": "God Complex",
       "url": "https://open.spotify.com/track/00mSaiMr71bGUagR5GoRX1"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Rok The House",
+        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
+      },
+      "artists": [
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Rok The House",
+      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
     }
   ],
   "unique_name": "Minimal Tech",

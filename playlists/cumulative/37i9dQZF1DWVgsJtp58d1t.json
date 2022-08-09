@@ -6654,7 +6654,7 @@
     },
     {
       "album": {
-        "name": "I GAVE YOU EVERYTHING",
+        "name": "i gave you everything",
         "url": "https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ"
       },
       "artists": [
@@ -6667,7 +6667,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158480,
-      "name": "I GAVE YOU EVERYTHING",
+      "name": "i gave you everything",
       "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
     },
     {
@@ -7039,6 +7039,24 @@
       "duration_ms": 173105,
       "name": "Immature",
       "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
+    },
+    {
+      "album": {
+        "name": "EA Monster",
+        "url": "https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "Impala",
+      "url": "https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T"
     },
     {
       "album": {
@@ -8419,12 +8437,12 @@
           "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
         },
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
           "name": "Pharrell Williams",
           "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
           "name": "Fat Nwigwe",

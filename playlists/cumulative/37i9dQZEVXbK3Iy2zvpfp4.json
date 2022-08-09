@@ -2454,6 +2454,24 @@
     },
     {
       "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f"
+      },
+      "artists": [
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254080,
+      "name": "Messages from the Stars",
+      "url": "https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1"
+    },
+    {
+      "album": {
         "name": "METAMORPHOSIS",
         "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
       },
@@ -2691,7 +2709,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 182068,
       "name": "M\u016fj space",
       "url": "https://open.spotify.com/track/6dIGg8BKALQPmED3fV4jsw"
@@ -3495,7 +3513,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "Show Me Your Back",
       "url": "https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ"
@@ -3973,7 +3991,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 159219,
       "name": "Tvoja Hoe",
       "url": "https://open.spotify.com/track/4hFNCF6JHvSbu8GuYDvvH0"

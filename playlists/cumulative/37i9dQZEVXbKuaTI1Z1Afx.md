@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-679 songs - 1 day 12 hr 57 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
+680 songs - 1 day 12 hr 59 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 | 2022-04-10 | 2022-04-24 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-03-15 | 2022-04-14 |
 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 | 2022-07-19 | 2022-08-05 |
-| [Chateau \(Feel Alright\)](https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:32 | 2022-06-07 |  |
+| [Chateau \(Feel Alright\)](https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:32 | 2022-06-07 | 2022-08-09 |
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-01-06 | 2022-02-23 |
 | [Chicago](https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 4:05 | 2022-07-22 |  |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-03-22 | 2022-03-30 |
@@ -268,7 +268,7 @@
 | [HOME](https://open.spotify.com/track/08hYZJIjLZwUVDiMzzeu0q) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:54 | 2022-03-15 | 2022-04-07 |
 | [Hope It's Hot Out](https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out](https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D) | 2:47 | 2022-06-21 | 2022-07-06 |
 | [Hotel](https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1) | 2:35 | 2022-07-10 |  |
-| [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 | 2022-07-28 | 2022-08-08 |
+| [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 | 2022-07-28 |  |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 | 2022-06-14 | 2022-07-06 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2021-12-27 | 2022-03-16 |
 | [Huapango Amor Ranchero](https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND) | 3:19 | 2022-05-11 | 2022-06-03 |
@@ -361,7 +361,8 @@
 | [Love To Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love To Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 | 2021-12-28 | 2022-01-01 |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP) | 2:30 | 2022-03-27 | 2022-04-07 |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-02-22 | 2022-03-02 |
-| [Lyfe](https://open.spotify.com/track/50caE2T5nlhVH6d6A46HId) | [kidthvldd](https://open.spotify.com/artist/4Q77EuSKGAPhE8KatUekHx) | [Lyfe](https://open.spotify.com/album/6Ihu75dkfTryER3dvDgnAC) | 1:39 | 2022-08-06 |  |
+| [Lyfe](https://open.spotify.com/track/50caE2T5nlhVH6d6A46HId) | [kidthvldd](https://open.spotify.com/artist/4Q77EuSKGAPhE8KatUekHx) | [Lyfe](https://open.spotify.com/album/6Ihu75dkfTryER3dvDgnAC) | 1:39 | 2022-08-06 | 2022-08-09 |
+| [Lyfe](https://open.spotify.com/track/3M4bxiR326LWnfMwTRoJbe) | [squigglydiggly](https://open.spotify.com/artist/6thaOahBPQeiywU3zVsjzt) | [Lyfe](https://open.spotify.com/album/0TarHyidiDryGISnipfWtG) | 1:39 | 2022-08-08 |  |
 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 | 2022-04-26 | 2022-05-04 |
 | [Magic City \(feat\. Quavo\)](https://open.spotify.com/track/0vpteuDN1xMXqjy3tZaJXM) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 2:38 | 2022-04-12 | 2022-04-15 |
 | [MAGIC WITH MUSTARD](https://open.spotify.com/track/7jN5Abri3a1crehbnlWa1F) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 3:46 | 2022-04-14 | 2022-04-17 |

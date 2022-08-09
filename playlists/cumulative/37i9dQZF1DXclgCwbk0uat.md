@@ -4,7 +4,7 @@
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Standly & Cris Mj.
 
-89 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
+90 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Phillie y Botella \(Remix\)](https://open.spotify.com/track/0yc0Cewx8JTFPjiOVLfzkS) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Phillie y Botella \(Remix\)](https://open.spotify.com/album/5hFSRmx61JquqPA5NnbyF8) | 4:48 | 2022-04-14 |  |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-04-14 | 2022-06-03 |
 | [Ponle \- Remix](https://open.spotify.com/track/60eTDDWVvw2QKXEeoQ4BjO) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Forest](https://open.spotify.com/artist/6cCWIcv3LugtJRStFIPIYS), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [franco el gorila](https://open.spotify.com/artist/53Yckgi85HIytd0Zci2uMb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Ponle \(Remix\)](https://open.spotify.com/album/6cNQVNGtsG2QHIXK8tsTtO) | 8:00 | 2022-04-14 |  |
-| [Ponte Pa Mí](https://open.spotify.com/track/4nDFKq4cge5x6pk53cU28S) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Ponte Pa Mí](https://open.spotify.com/album/4VISSS2b1TMljgzXGt1T2I) | 3:34 | 2022-05-20 |  |
+| [Ponte Pa Mí](https://open.spotify.com/track/2oe1Sdca8nXPNzyTGqX7L3) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Ponte Pa Mí](https://open.spotify.com/album/67cb5CMeh3Iq6bOcdTgLLE) | 3:34 | 2022-08-04 |  |
+| [Ponte Pa Mí](https://open.spotify.com/track/4nDFKq4cge5x6pk53cU28S) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Ponte Pa Mí](https://open.spotify.com/album/4VISSS2b1TMljgzXGt1T2I) | 3:34 | 2022-05-20 | 2022-08-09 |
 | [Prende el Party](https://open.spotify.com/track/23IfleMgXhIkqdcelFaFZm) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Prende el Party](https://open.spotify.com/album/0nZ7g8tTNbNUkgh0Z8QDjc) | 3:04 | 2022-04-14 | 2022-05-06 |
 | [Problemón](https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:12 | 2022-04-14 | 2022-04-29 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-28 |  |

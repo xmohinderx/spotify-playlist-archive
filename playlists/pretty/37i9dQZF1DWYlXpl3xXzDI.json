@@ -1,12 +1,12 @@
 {
   "description": "Lekker rustig aan doen op maandag met deze zachte pop liedjes.",
-  "num_followers": 4367,
+  "num_followers": 4380,
   "original_name": "Easy On Monday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjczNDc5NiwwMDAwMDAwMGIxNzE1ZTYwNDRjNTRjODZkNDlkZWE5MjZmYzcxMjk1",
+  "snapshot_id": "MTY1OTk2MzA0MiwwMDAwMDAwMDJkOGJlYmZiZGJjNjRlMDAzOTI3OWY1NTk3Yjc4YTQw",
   "tracks": [
     {
       "added_at": "2017-12-03 15:21:46",
@@ -411,6 +411,26 @@
       "duration_ms": 290680,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw"
+    },
+    {
+      "added_at": "2022-08-08 12:50:42",
+      "album": {
+        "name": "Magnetic Fields",
+        "url": "https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed"
+      },
+      "artists": [
+        {
+          "name": "The Analogues Sideshow",
+          "url": "https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO"
+        },
+        {
+          "name": "The Analogues",
+          "url": "https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2"
+        }
+      ],
+      "duration_ms": 153880,
+      "name": "Magnetic Fields",
+      "url": "https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ"
     },
     {
       "added_at": "2017-12-03 15:21:46",
@@ -1555,18 +1575,18 @@
     {
       "added_at": "2017-12-03 15:21:46",
       "album": {
-        "name": "The Essential Paul Simon",
-        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 242520,
-      "name": "Late in the Evening",
-      "url": "https://open.spotify.com/track/6iEdOcozqnI8Ww5hRy9a2w"
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     },
     {
       "added_at": "2017-12-03 15:21:46",
@@ -1635,22 +1655,6 @@
       "duration_ms": 239306,
       "name": "A Face In The Crowd",
       "url": "https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI"
-    },
-    {
-      "added_at": "2017-12-03 15:21:46",
-      "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     }
   ],
   "unique_name": "Easy On Monday",

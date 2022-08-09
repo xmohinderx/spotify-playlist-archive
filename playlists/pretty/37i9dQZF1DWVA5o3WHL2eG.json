@@ -1,12 +1,12 @@
 {
   "description": "\"Women at full volume\" - H\u00f6re hier K\u00fcnstlerinnen aus Deutschland, \u00d6sterreich und der Schweiz. Cover: Mulay",
-  "num_followers": 18185,
+  "num_followers": 18184,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTg3ODIzNSwwMDAwMDAwMDIyMGVmNTE2MzNhNzE4YmUyOWQ5YzNkMTg4MTQ5MTJm",
+  "snapshot_id": "MTY1OTg3ODIzNSwwMDAwMDAwMDRmNDVhNmE4MzVhYWI0Y2JkMGJmMWNmOGEzZGE1ZmRm",
   "tracks": [
     {
       "added_at": "2022-08-07 13:17:15",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
-        "name": "Third Wheel",
-        "url": "https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 166534,
-      "name": "Third Wheel",
-      "url": "https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn"
-    },
-    {
-      "added_at": "2022-08-07 13:17:15",
-      "album": {
         "name": "Survival Mode (Intro)",
         "url": "https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 213028,
       "name": "Survival Mode (Intro)",
       "url": "https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M"
+    },
+    {
+      "added_at": "2022-08-07 13:17:15",
+      "album": {
+        "name": "Third Wheel",
+        "url": "https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 166534,
+      "name": "Third Wheel",
+      "url": "https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
-        "name": "Untypisch",
-        "url": "https://open.spotify.com/album/3H4GeHhsMBrXIWD9Oj3dKF"
-      },
-      "artists": [
-        {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
-        }
-      ],
-      "duration_ms": 144868,
-      "name": "Lichter an",
-      "url": "https://open.spotify.com/track/3Va2IBC5tsaisIkcSOYo3J"
-    },
-    {
-      "added_at": "2022-08-07 13:17:15",
-      "album": {
         "name": "Nacht",
         "url": "https://open.spotify.com/album/1nwa9dSC4fh2j36HDaEATi"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 148213,
       "name": "Nacht",
       "url": "https://open.spotify.com/track/6Ftms87OnMFLOiLwpnnrJQ"
+    },
+    {
+      "added_at": "2022-08-07 13:17:15",
+      "album": {
+        "name": "Untypisch",
+        "url": "https://open.spotify.com/album/3H4GeHhsMBrXIWD9Oj3dKF"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "duration_ms": 144868,
+      "name": "Lichter an",
+      "url": "https://open.spotify.com/track/3Va2IBC5tsaisIkcSOYo3J"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/7uqjFsmqeRcPQanJLTtcDt"
-      },
-      "artists": [
-        {
-          "name": "Anna-Sophie",
-          "url": "https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/2so0tpvrhkMMrJxWlBsXqd"
-    },
-    {
-      "added_at": "2022-08-07 13:17:15",
-      "album": {
         "name": "Boring Love",
         "url": "https://open.spotify.com/album/4Ew2yxuWJjFEgymYZbT73b"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 402461,
       "name": "Boring Love",
       "url": "https://open.spotify.com/track/0wE8LMLJQHuMtWHMxyhjpa"
+    },
+    {
+      "added_at": "2022-08-07 13:17:15",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/7uqjFsmqeRcPQanJLTtcDt"
+      },
+      "artists": [
+        {
+          "name": "Anna-Sophie",
+          "url": "https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/2so0tpvrhkMMrJxWlBsXqd"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
+        "name": "Butterfly Pen",
+        "url": "https://open.spotify.com/album/3xeLy3TWOvf9Moggth5pHn"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 213070,
+      "name": "Butterfly Pen",
+      "url": "https://open.spotify.com/track/2xkEFQ4u7H4aMmAfWrhPoD"
+    },
+    {
+      "added_at": "2022-08-07 13:17:15",
+      "album": {
         "name": "Rhododendron",
         "url": "https://open.spotify.com/album/55vdqbro2KfmHm8zxkCpli"
       },
@@ -439,6 +455,22 @@
       "duration_ms": 186454,
       "name": "Rhododendron",
       "url": "https://open.spotify.com/track/4C6b2z8CSgTwQPJzqtG7mL"
+    },
+    {
+      "added_at": "2022-08-07 13:17:15",
+      "album": {
+        "name": "Mir ist alles egal",
+        "url": "https://open.spotify.com/album/0JT3FFqzUbd2YSdYQml5d4"
+      },
+      "artists": [
+        {
+          "name": "Jano",
+          "url": "https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3"
+        }
+      ],
+      "duration_ms": 203758,
+      "name": "Mir ist alles egal",
+      "url": "https://open.spotify.com/track/7AHOr2vuZYfYL9HACUPEJ1"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -459,18 +491,18 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
-        "name": "Mir ist alles egal",
-        "url": "https://open.spotify.com/album/0JT3FFqzUbd2YSdYQml5d4"
+        "name": "Reise",
+        "url": "https://open.spotify.com/album/2CEAeWAWXNfQdHH3eSFQIt"
       },
       "artists": [
         {
-          "name": "Jano",
-          "url": "https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3"
+          "name": "Luna Simao",
+          "url": "https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC"
         }
       ],
-      "duration_ms": 203758,
-      "name": "Mir ist alles egal",
-      "url": "https://open.spotify.com/track/7AHOr2vuZYfYL9HACUPEJ1"
+      "duration_ms": 178285,
+      "name": "Reise",
+      "url": "https://open.spotify.com/track/3aJ2lOHSNiBbRXzqk46L2M"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -507,22 +539,6 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
-        "name": "Reise",
-        "url": "https://open.spotify.com/album/2CEAeWAWXNfQdHH3eSFQIt"
-      },
-      "artists": [
-        {
-          "name": "Luna Simao",
-          "url": "https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Reise",
-      "url": "https://open.spotify.com/track/3aJ2lOHSNiBbRXzqk46L2M"
-    },
-    {
-      "added_at": "2022-08-07 13:17:15",
-      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/6xSVc6ZbbBi1NuaxMdeA5l"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 162700,
       "name": "All For You",
       "url": "https://open.spotify.com/track/0UQYjzBu7VdON7JjDVVp6w"
-    },
-    {
-      "added_at": "2022-08-07 13:17:15",
-      "album": {
-        "name": "Butterfly Pen",
-        "url": "https://open.spotify.com/album/3xeLy3TWOvf9Moggth5pHn"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 213070,
-      "name": "Butterfly Pen",
-      "url": "https://open.spotify.com/track/2xkEFQ4u7H4aMmAfWrhPoD"
     },
     {
       "added_at": "2022-08-07 13:17:15",

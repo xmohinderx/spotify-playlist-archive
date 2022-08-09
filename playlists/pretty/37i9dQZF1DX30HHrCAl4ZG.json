@@ -1,12 +1,12 @@
 {
   "description": "On the pulse of new indie rock. Cover: Quarters of Change\n",
-  "num_followers": 836721,
+  "num_followers": 836743,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcyMjg5OCwwMDAwMDAwMGVmZjE1N2NhM2QzNGM5MTdiMzI0MWVmYWQxZmRlY2Nh",
+  "snapshot_id": "MTY1OTk5NDg5MSwwMDAwMDAwMGRkNTFkOTdjMjc2MmFmMmVlODhlYWJkNTQ0MDFjMzQ1",
   "tracks": [
     {
       "added_at": "2022-07-22 04:05:00",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW"
     },
     {
-      "added_at": "2022-08-05 18:08:09",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu"
-      },
-      "artists": [
-        {
-          "name": "Jany Green",
-          "url": "https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv"
-        }
-      ],
-      "duration_ms": 171381,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V"
-    },
-    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "TVI",
@@ -167,22 +151,6 @@
       "duration_ms": 98800,
       "name": "wish i was dead",
       "url": "https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH"
-    },
-    {
-      "added_at": "2022-08-05 18:08:09",
-      "album": {
-        "name": "death wish",
-        "url": "https://open.spotify.com/album/7aB0D39Il6UYoQmUNHoQr6"
-      },
-      "artists": [
-        {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "death wish",
-      "url": "https://open.spotify.com/track/15NWft2MWR5SZJXUDJnRYO"
     },
     {
       "added_at": "2022-07-22 04:05:00",
@@ -233,22 +201,6 @@
       "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
     },
     {
-      "added_at": "2022-08-05 18:08:09",
-      "album": {
-        "name": "Mark on You",
-        "url": "https://open.spotify.com/album/5KEz2iS9UFDIjfwdfsiuzN"
-      },
-      "artists": [
-        {
-          "name": "The Mountain Goats",
-          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
-        }
-      ],
-      "duration_ms": 141400,
-      "name": "Mark on You",
-      "url": "https://open.spotify.com/track/3Ics7Qw1rxe121mHDLhRWD"
-    },
-    {
       "added_at": "2022-07-01 14:01:58",
       "album": {
         "name": "Insomnia",
@@ -281,22 +233,6 @@
       "url": "https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX"
     },
     {
-      "added_at": "2022-08-05 18:08:09",
-      "album": {
-        "name": "The Drop",
-        "url": "https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa"
-      },
-      "artists": [
-        {
-          "name": "Sports Team",
-          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
-        }
-      ],
-      "duration_ms": 178212,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF"
-    },
-    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "Paradise",
@@ -313,22 +249,6 @@
       "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
     },
     {
-      "added_at": "2022-07-29 04:20:00",
-      "album": {
-        "name": "Bite Me",
-        "url": "https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hayes",
-          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
-        }
-      ],
-      "duration_ms": 137567,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh"
-    },
-    {
       "added_at": "2022-07-01 14:01:58",
       "album": {
         "name": "Talk",
@@ -343,6 +263,86 @@
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
+    },
+    {
+      "added_at": "2022-08-05 18:08:09",
+      "album": {
+        "name": "The Drop",
+        "url": "https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "duration_ms": 178212,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF"
+    },
+    {
+      "added_at": "2022-08-05 18:08:09",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu"
+      },
+      "artists": [
+        {
+          "name": "Jany Green",
+          "url": "https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv"
+        }
+      ],
+      "duration_ms": 171381,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V"
+    },
+    {
+      "added_at": "2022-08-05 18:08:09",
+      "album": {
+        "name": "death wish",
+        "url": "https://open.spotify.com/album/7aB0D39Il6UYoQmUNHoQr6"
+      },
+      "artists": [
+        {
+          "name": "Teen Suicide",
+          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "death wish",
+      "url": "https://open.spotify.com/track/15NWft2MWR5SZJXUDJnRYO"
+    },
+    {
+      "added_at": "2022-08-05 18:08:09",
+      "album": {
+        "name": "Mark on You",
+        "url": "https://open.spotify.com/album/5KEz2iS9UFDIjfwdfsiuzN"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 141400,
+      "name": "Mark on You",
+      "url": "https://open.spotify.com/track/3Ics7Qw1rxe121mHDLhRWD"
+    },
+    {
+      "added_at": "2022-07-29 04:20:00",
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "duration_ms": 137567,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh"
     },
     {
       "added_at": "2022-08-05 18:08:09",

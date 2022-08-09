@@ -4,7 +4,7 @@
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-103 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/65Hv4SNB2AgNDDopmquTMX)
+105 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/65Hv4SNB2AgNDDopmquTMX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Break Away](https://open.spotify.com/track/4qzqqJaELifylL0VJU55mb) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:20 | 2021-03-11 | 2022-07-29 |
 | [BREATHE](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | 4:48 | 2021-03-11 |  |
 | [Bye Bye Bye](https://open.spotify.com/track/07jUEjiknVlPtbRPtcKxGN) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Hwayobi](https://open.spotify.com/album/3OfJmTAwCFltxeNO9lC6rS) | 3:04 | 2021-03-11 | 2022-07-27 |
-| [Come Back to Me](https://open.spotify.com/track/6ieC9SkXMQQPEJSpq69z4K) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:07 | 2021-03-11 |  |
+| [Come Back to Me](https://open.spotify.com/track/6ieC9SkXMQQPEJSpq69z4K) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:07 | 2021-03-11 | 2022-08-09 |
 | [Eat](https://open.spotify.com/track/09Nhl3YQnChjlq8WmJz7FS) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Eat](https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW) | 2:41 | 2021-03-11 |  |
 | [Eat](https://open.spotify.com/track/0q3xk0VI0w7omVXYA09sVw) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Eat](https://open.spotify.com/album/4hGfV5Acxf3DoNBD2C7PhX) | 2:41 | 2021-03-11 | 2022-07-29 |
 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 | 2021-03-11 |  |
@@ -53,7 +53,7 @@
 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 | 2021-03-11 | 2022-07-29 |
 | [My Story](https://open.spotify.com/track/79zakrunWiO9JLOJNfcDuJ) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:38 | 2021-03-11 | 2022-07-29 |
 | [Night and Day](https://open.spotify.com/track/1vwoPNoaJ9a1kxntgSWXJ5) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [It' Soul Right](https://open.spotify.com/album/42ntDziPv3nMyOt8rcyn0b) | 4:30 | 2021-03-11 | 2022-07-29 |
-| [Night and Day](https://open.spotify.com/track/2BP5YgjHi1C1njPPRK8wvq) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [It' Soul Right](https://open.spotify.com/album/2ol4JeQEAQQFbL8fdP2qUs) | 4:30 | 2021-03-11 |  |
+| [Night and Day](https://open.spotify.com/track/2BP5YgjHi1C1njPPRK8wvq) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [It' Soul Right](https://open.spotify.com/album/2ol4JeQEAQQFbL8fdP2qUs) | 4:30 | 2021-03-11 | 2022-08-09 |
 | [No](https://open.spotify.com/track/0pKpZmOh1vOw0l5DUFG88Y) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:12 | 2021-03-11 | 2022-07-27 |
 | [No Make Up](https://open.spotify.com/track/3PWyoYwI4iHLnLWltMt4gd) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [No Make Up](https://open.spotify.com/album/6I102GJy7jhQjDVH3I51gq) | 3:09 | 2021-03-11 | 2022-07-29 |
 | [No Make Up](https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [No Make Up](https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd) | 3:09 | 2021-03-11 |  |
@@ -78,6 +78,7 @@
 | [Whatever You Do](https://open.spotify.com/track/2Z2hLQ6RxA4sVZ9rCJGsmv) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Crush on You](https://open.spotify.com/album/5cM3mwkY2LtliHAxEpErpf) | 3:38 | 2021-03-11 | 2022-07-29 |
 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 | 2021-03-11 |  |
 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 | 2021-03-11 |  |
+| [With Me](https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [It's Real](https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu) | 3:30 | 2021-03-11 |  |
 | [With Me](https://open.spotify.com/track/0Ss0kgHzdnZvLRaJD3UPJM) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:31 | 2021-03-11 | 2022-07-29 |
 | [Yanghwa BRDG](https://open.spotify.com/track/6BcOOZoCGPaUuEPGNqGQx2) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/73IzxTtOgb1ANBiJVzw7Nt) | 3:49 | 2021-03-11 | 2022-07-29 |
 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 | 2021-03-11 |  |
@@ -96,6 +97,7 @@
 | [링가링가 \(RINGA LINGA\)](https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:47 | 2021-03-11 |  |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2021-03-11 |  |
 | [불치병](https://open.spotify.com/track/6h13tMy23cM8rzmsaNgTI4) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:42 | 2021-03-11 | 2022-07-28 |
+| [불치병 \(Feat.Masta Wu\)](https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn), [MASTA WU](https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6) | [For the moment](https://open.spotify.com/album/5zSnSuP8gPOeZdrEchEv7q) | 3:42 | 2021-03-11 |  |
 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reasons 4 Breathing](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 | 2021-03-11 |  |
 | [새벽한시 \(1AM\)](https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:11 | 2021-03-11 |  |
 | [안되나요](https://open.spotify.com/track/5njOfvhH1y5CxvdXgUXgTC) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:30 | 2021-03-11 | 2022-07-29 |

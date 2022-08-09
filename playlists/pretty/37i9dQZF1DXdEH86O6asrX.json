@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta de las mejores bandas sonoras del siglo XXI!",
-  "num_followers": 522313,
+  "num_followers": 522309,
   "original_name": "Soundtracks \u00c9picos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMDIzMmE0ZDZhNjczZDZkZTU1MWQ4ZWQwMjMxNjQ4MTgy",
+  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMDI1MzFiNjg5Y2Q2ZWFlNmZlZTFhOTBhMWFhOTExMjE0",
   "tracks": [
     {
       "added_at": "2022-01-27 04:35:36",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
+        "name": "It Takes A Thief: The Very Best Of Thievery Corporation",
+        "url": "https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
         "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
-        "name": "It Takes A Thief: The Very Best Of Thievery Corporation",
-        "url": "https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Lebanese Blonde",
-      "url": "https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 308200,
-      "name": "Reunion of Friends",
-      "url": "https://open.spotify.com/track/0rpSIjKSmZ2SFO6vmLJpXl"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Her (Original Score)",
         "url": "https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8"
       },
@@ -835,18 +819,34 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Lo Boob Oscillator",
-        "url": "https://open.spotify.com/album/5plHekIiphgTChKLttY5P4"
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 396637,
-      "name": "Lo Boob Oscillator",
-      "url": "https://open.spotify.com/track/5DILJYk31ZXENMY26k3br1"
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 175986,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4"
     }
   ],
   "unique_name": "Soundtracks \u00c9picos",

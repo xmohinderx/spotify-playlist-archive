@@ -4,7 +4,7 @@
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-102 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/0fYuaDGdomcOuqOi0yoUUE)
+103 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/0fYuaDGdomcOuqOi0yoUUE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Blues \(feat\. CAMO\)](https://open.spotify.com/track/71NOT7CjEYZBg7aZtVhLPp) | [Lean Lean](https://open.spotify.com/artist/6IprxsitojRXQLHOLyizzb), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Blues](https://open.spotify.com/album/12uF0c7dYHt9qpKoQ7GIH9) | 3:05 | 2022-06-20 | 2022-08-02 |
 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 | 2022-06-20 |  |
 | [Disconnected](https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:10 | 2022-06-20 |  |
-| [Don't](https://open.spotify.com/track/617N2yLHP178pCJQTRx2oe) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Don't](https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP) | 3:12 | 2022-06-20 |  |
+| [Don't](https://open.spotify.com/track/617N2yLHP178pCJQTRx2oe) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Don't](https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP) | 3:12 | 2022-06-20 | 2022-08-09 |
+| [Eunha Store \(feat\. KIM YUNA\)](https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kim Yuna](https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI) | [New Edition 42](https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM) | 2:44 | 2022-08-08 |  |
 | [Ex](https://open.spotify.com/track/1mZttLRYMGTq4m88qbgCE7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:37 | 2022-06-20 | 2022-07-29 |
 | [Ex](https://open.spotify.com/track/4y7C13wqDLE7xuilBsLNvd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:37 | 2022-07-22 |  |
 | [F902](https://open.spotify.com/track/72Crnzf4RXJvssLigcC7om) | [JEONGMIN](https://open.spotify.com/artist/4qkZlOHXJtpMcND5FIlp03) | [\#02](https://open.spotify.com/album/7mJsJcbED93wlCutILesJi) | 2:59 | 2022-06-20 | 2022-07-26 |

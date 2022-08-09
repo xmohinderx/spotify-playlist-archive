@@ -1,12 +1,12 @@
 {
   "description": "Set the mood of your day with these awesome, happy songs!",
-  "num_followers": 1332356,
+  "num_followers": 1332421,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcwMDgwMCwwMDAwMDAwMDE4OTUyZmRlZTI2ODY4MGVjNzA2OGM2ZDk1NjI1OTZi",
+  "snapshot_id": "MTY1OTcwMDgwMCwwMDAwMDAwMDMwZjgzZTJlYTQ2OWIxM2NkZTNlZWZkODhlYzEyZDdk",
   "tracks": [
     {
       "added_at": "2022-08-05 12:00:00",
@@ -79,6 +79,30 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Bad Decisions (with BTS & Snoop Dogg)",
+        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "Bad Decisions (with BTS & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -159,30 +183,6 @@
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "Bad Decisions (with BTS & Snoop Dogg)",
-        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "Bad Decisions (with BTS & Snoop Dogg)",
-      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
+        "name": "Beautiful People (feat. Khalid)",
+        "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Beautiful People (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 161160,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "Beautiful People (feat. Khalid)",
-        "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Beautiful People (feat. Khalid)",
-      "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Treat People With Kindness",
-      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 189109,
       "name": "The Lazy Song",
       "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Treat People With Kindness",
+      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
+        "name": "Higher And Higher",
+        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
         "name": "Night Shades",
         "url": "https://open.spotify.com/album/5gXDrzBIzmAhiE0dNKwy0i"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 215693,
       "name": "You Make Me Feel... (feat. Sabi)",
       "url": "https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "Higher And Higher",
-        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Sick Boy",
-        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Wish You Well",
         "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 205653,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Sick Boy",
+        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 193923,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 221386,
       "name": "Say Love",
       "url": "https://open.spotify.com/track/49PVaqTTK6qn8Ku5BIR8Gt"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 193923,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/7h5LfM6tT7v8L2gTyL3Bbz"
-      },
-      "artists": [
-        {
-          "name": "Parachute",
-          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "WE ARE",
         "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 178289,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/7h5LfM6tT7v8L2gTyL3Bbz"
+      },
+      "artists": [
+        {
+          "name": "Parachute",
+          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Kim Weston",
-          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 171785,
       "name": "Hold The Line (feat. A R I Z O N A)",
       "url": "https://open.spotify.com/track/6EBlOYNcZ8MrdEov9lEdV6"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Kim Weston",
+          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
+        "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 224063,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
         "name": "Can We Pretend (feat. Cash Cash)",
         "url": "https://open.spotify.com/album/1CXDHsSaA7UgUPvRm2AVRH"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 224360,
       "name": "Can We Pretend (feat. Cash Cash)",
       "url": "https://open.spotify.com/track/3O0e0LHTpza0rYVDbZfQ4r"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 224063,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/0JVonv1gan1gae0mqHnUXm"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 229200,
       "name": "Tell Her About It",
       "url": "https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/0JVonv1gan1gae0mqHnUXm"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "S Club",
-        "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
-      },
-      "artists": [
-        {
-          "name": "S Club 7",
-          "url": "https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "S Club Party",
-      "url": "https://open.spotify.com/track/21ixeD8mGouF993kgb4MER"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Wanted",
         "url": "https://open.spotify.com/album/5sPC6RYCERdNCzHLRf9zHb"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 160997,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/1lGVyEkGHUz7Pg78QGaS4a"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "S Club",
+        "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
+      },
+      "artists": [
+        {
+          "name": "S Club 7",
+          "url": "https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "S Club Party",
+      "url": "https://open.spotify.com/track/21ixeD8mGouF993kgb4MER"
     },
     {
       "added_at": "2022-08-05 12:00:00",

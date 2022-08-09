@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Opus Kink
 
-280 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+281 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Sincerely Yours](https://open.spotify.com/track/681yJhwlkfzPd4ZRc9SUAF) | [Omni](https://open.spotify.com/artist/4MY2CPEoIHvbM8DGcbMi2m) | [Sincerely Yours](https://open.spotify.com/album/0r4IxuVq1zWj9VFdF79LcW) | 2:45 | 2021-12-06 | 2022-07-25 |
 | [Sit Down Meal](https://open.spotify.com/track/2TXt5g2SyO4ZPNcJnVVeCh) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sit Down Meal](https://open.spotify.com/album/0cxgI9cQswkiLXUqIGmilA) | 3:43 | 2021-12-06 | 2022-07-22 |
 | [Skeleton Key](https://open.spotify.com/track/4060BrMu5pqQZUUXFvpre1) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Skeleton Key](https://open.spotify.com/album/3Ttd4RpgA0mZq7rxGIvc3A) | 3:41 | 2021-12-06 | 2022-07-29 |
-| [Slow \(Loud\)](https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Slow \(Loud\)](https://open.spotify.com/album/2vR7LW4YW3K44rcOlsJbM8) | 5:36 | 2021-12-06 |  |
+| [Slow \(Loud\)](https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Slow \(Loud\)](https://open.spotify.com/album/2vR7LW4YW3K44rcOlsJbM8) | 5:36 | 2021-12-06 | 2022-08-09 |
 | [Sludge](https://open.spotify.com/track/6ghHPm0mXm9uqcdml2FaCy) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Sludge](https://open.spotify.com/album/4fVcSFvdj9XflGQ4HVhLYI) | 5:00 | 2021-12-06 | 2022-07-28 |
 | [Solid State](https://open.spotify.com/track/20Aun7R1lVk1AmL3ibxScC) | [FRIGS](https://open.spotify.com/artist/7qnOIwmC4mBss5sA6y8jvi) | [Basic Behaviour](https://open.spotify.com/album/5yhJfm3NbkJggTi8xn9PIR) | 3:00 | 2021-12-06 | 2022-05-19 |
 | [South](https://open.spotify.com/track/2U4ssOuiGX9QC0Z1K1BI8z) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:54 | 2022-06-16 |  |
@@ -255,6 +255,7 @@
 | [The Cleaner](https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Cleaner](https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo) | 7:33 | 2022-06-16 |  |
 | [The Dial](https://open.spotify.com/track/55AP1tUevnOiiyffOQYeDB) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Dial](https://open.spotify.com/album/1qp9czAYoODXQiiXp4Yjbb) | 5:10 | 2021-12-06 | 2022-07-28 |
 | [The Floor](https://open.spotify.com/track/0REgKKAS5YzPopio6hLQTx) | [Johnny Hunter](https://open.spotify.com/artist/4TvM3UVvqDRG51RaUeK5Qo) | [The Floor](https://open.spotify.com/album/6MdGJIND3zgupaPZ135eOc) | 3:16 | 2021-12-06 | 2022-07-22 |
+| [The Hype](https://open.spotify.com/track/0iDXZjWfvP5cq2uPZGMopG) | [Shopping](https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf) | [The Official Body](https://open.spotify.com/album/0UGj3rwdNVdSGKtiiquZoa) | 3:55 | 2022-06-16 |  |
 | [The Hype](https://open.spotify.com/track/7zgfVkrjf2B9qWE1CUaXyr) | [Shopping](https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf) | [The Official Body](https://open.spotify.com/album/4CEqmpGgLXw879AIY9jBiI) | 3:55 | 2021-12-06 | 2022-07-27 |
 | [The Loser](https://open.spotify.com/track/7uVLrPYrICUJyFHX9vCSal) | [THUMPER](https://open.spotify.com/artist/1iMsLpQB3kldZ9s7pne7gP) | [The Loser](https://open.spotify.com/album/1o8QGaQl90YI8nEBnKzy6N) | 3:24 | 2022-03-11 | 2022-07-14 |
 | [The Spy Who Came In from the Cold](https://open.spotify.com/track/4ZnnSuZ3iZ0YpuSJ7SkSX1) | [Document](https://open.spotify.com/artist/3la0L81ZYVo9BpsOdzUaNc) | [The Spy Who Came In from the Cold](https://open.spotify.com/album/09pwWqBCXIbVof7jzrg9NM) | 4:37 | 2021-12-06 | 2022-07-26 |

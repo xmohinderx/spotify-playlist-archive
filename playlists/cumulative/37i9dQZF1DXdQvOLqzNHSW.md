@@ -4,7 +4,7 @@
 
 > Slow burners for late nights.
 
-374 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+375 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 | 2020-12-21 | 2022-07-13 |
 | [In Spite of Me](https://open.spotify.com/track/5wNn33j2VfP8WMZhojE3JC) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 2:34 | 2020-12-21 | 2022-04-13 |
 | [Innocent](https://open.spotify.com/track/6irqzozBaaBp1ZvbBnoxzr) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Innocent](https://open.spotify.com/album/4UXiWjp0DCb1g0GFWlPMfX) | 3:32 | 2020-12-21 | 2022-07-29 |
+| [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-08-08 |  |
 | [January](https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [January](https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk) | 3:16 | 2020-12-21 |  |
 | [jasmine \- Demo](https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [jasmine \(Demo\)](https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb) | 4:13 | 2022-05-06 | 2022-07-09 |
 | [Je t'aime encore](https://open.spotify.com/track/0vQH42DnQe4F0i7uxlcY0t) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [L'Ère du Verseau](https://open.spotify.com/album/5iCfp2KefljOSPdRqpAvyW) | 3:34 | 2020-12-21 | 2022-04-19 |
@@ -258,7 +259,7 @@
 | [Paul](https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 3:03 | 2022-07-22 |  |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2022-07-22 |  |
 | [People, I've been sad](https://open.spotify.com/track/0KywIrJ4Xir4tS6q61aY1W) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [People, I've been sad](https://open.spotify.com/album/4RV4rhoQAX4KH7HME6AMnA) | 4:20 | 2020-12-21 | 2022-04-16 |
-| [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 | 2022-07-12 |  |
+| [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 | 2022-07-12 | 2022-08-09 |
 | [Pirouette](https://open.spotify.com/track/5BfvUt5ztFuAyhWjgWzjr1) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl) | 2:57 | 2020-12-21 | 2022-07-21 |
 | [Plastic](https://open.spotify.com/track/18gcopzbu2DjQjR2DI5pE8) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/30WjNaR79shSTGB52IJTw0) | 3:08 | 2020-12-21 | 2022-04-20 |
 | [please don't](https://open.spotify.com/track/3LNbpIKvhT35GWNvO8zkcc) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [please don't](https://open.spotify.com/album/0lyYYIIkvvhLZiq7isYj6v) | 4:16 | 2020-12-21 | 2022-04-08 |

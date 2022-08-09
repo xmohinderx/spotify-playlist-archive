@@ -553,7 +553,7 @@
       },
       "artists": [
         {
-          "name": "Franz Joseph Haydn",
+          "name": "Joseph Haydn",
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
@@ -3701,7 +3701,7 @@
       },
       "artists": [
         {
-          "name": "Franz Joseph Haydn",
+          "name": "Joseph Haydn",
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
@@ -3989,7 +3989,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 381451,
       "name": "Symphony No. 104 in D Major, Hob.I:104 \"London\": 4. Finale (Spiritoso) - Live from City Recital Hall, Sydney, 2018",
       "url": "https://open.spotify.com/track/2842sfEeH0y3YinrowwkX0"
@@ -5172,6 +5172,36 @@
     },
     {
       "album": {
+        "name": "Bruch & Dvorak Violin Concertos",
+        "url": "https://open.spotify.com/album/76LRTyT5kzhVZ7VMDi3Wbg"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Julia Fischer",
+          "url": "https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2"
+        },
+        {
+          "name": "Tonhalle Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473893,
+      "name": "Violin Concerto No. 1 in G minor, Op. 26: 1. Vorspiel (Allegro moderato)",
+      "url": "https://open.spotify.com/track/2kWBaubfvDNKmrHjWMhllH"
+    },
+    {
+      "album": {
         "name": "Saint-Georges: Violin Concertos No. 1, Op. 3 and Nos. 2 and 10",
         "url": "https://open.spotify.com/album/2xPu5U9CZiHN87Gyh9YA5Z"
       },
@@ -5199,36 +5229,6 @@
       "duration_ms": 397640,
       "name": "Violin Concerto No. 10 in G Major: Largo",
       "url": "https://open.spotify.com/track/3Rw0Rg4LjlYnuxIyioW3vg"
-    },
-    {
-      "album": {
-        "name": "Bruch & Dvorak Violin Concertos",
-        "url": "https://open.spotify.com/album/76LRTyT5kzhVZ7VMDi3Wbg"
-      },
-      "artists": [
-        {
-          "name": "Max Bruch",
-          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
-        },
-        {
-          "name": "Julia Fischer",
-          "url": "https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2"
-        },
-        {
-          "name": "Tonhalle Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "date_added": "2022-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 473893,
-      "name": "Violin Concerto No.1 in G minor, Op.26: 1. Vorspiel (Allegro moderato)",
-      "url": "https://open.spotify.com/track/2kWBaubfvDNKmrHjWMhllH"
     },
     {
       "album": {

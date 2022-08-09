@@ -1114,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205946,
+      "name": "Se Viene",
+      "url": "https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV"
+    },
+    {
+      "album": {
         "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
         "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 250693,
       "name": "Un Gran Circo",
       "url": "https://open.spotify.com/track/5BwVAAJzAuzpDHeWuKdFsN"

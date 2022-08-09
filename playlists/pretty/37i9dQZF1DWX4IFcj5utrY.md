@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=clOlPuP0RJuz3\_yN21vJXg">Oscar Mbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,601 likes - 74 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,625 likes - 74 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Buya Faanaa](https://open.spotify.com/track/7ekBzUvEIfjA97jEfRN7QF) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Coolkruger](https://open.spotify.com/artist/4QetKXwMztESdkPNuBy1Wu) | [Groovy Since 90 Sumthin'](https://open.spotify.com/album/6RICRX15ckBZRTkleAgyPX) | 7:47 |
+| 1 | [Buya Faanaa](https://open.spotify.com/track/7ekBzUvEIfjA97jEfRN7QF) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Coolkruger](https://open.spotify.com/artist/4QetKXwMztESdkPNuBy1Wu), [Dj Couza](https://open.spotify.com/artist/4dAuZsVP2DOlv0mwtWEU1L) | [Groovy Since 90 Sumthin'](https://open.spotify.com/album/6RICRX15ckBZRTkleAgyPX) | 7:47 |
 | 2 | [I Told You Not To Go](https://open.spotify.com/track/6N3bqyU6KO3hqykGqJxUnf) | [Dave Audinary](https://open.spotify.com/artist/6O7qXYxw1B8belOxZSwaNm), [The Colored](https://open.spotify.com/artist/0vlWnOvNJ66cC55UwnHtdj) | [I Told You Not To Go](https://open.spotify.com/album/2QzouCM5U0pe3FPiLcSG98) | 4:04 |
 | 3 | [S'khanyisele](https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Sir Bless](https://open.spotify.com/artist/0vJss0iY4jFfFk1DQP3I2m) | [Thief In The Night](https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b) | 6:15 |
 | 4 | [Lover](https://open.spotify.com/track/6JMJPX4sm1QEmsKDp18rjZ) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi) | [Lover](https://open.spotify.com/album/01QoLhtw9fRGaQDkVtQdLR) | 7:06 |

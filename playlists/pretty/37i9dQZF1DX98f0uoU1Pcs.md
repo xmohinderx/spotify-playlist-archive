@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,006 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,159 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 66 | [Pillar On The Bridge Of You](https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Pillar On The Bridge Of You](https://open.spotify.com/album/2FdeUBg9yKyD9910MoqoO8) | 3:17 |
 | 67 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 |
 | 68 | [Searching for You](https://open.spotify.com/track/2GUHbp8MTMsnPbpaEJdyXf) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Weird Nightmare](https://open.spotify.com/album/7vGjC7xBodi7rDb7pnwX4L) | 3:03 |
-| 69 | [Rat Beat](https://open.spotify.com/track/1KYt8BaFbULd7jU52MinI2) | [Beach Rats](https://open.spotify.com/artist/7pX2wNFpBvwP9T0wkhAxJD) | [Rat Beat](https://open.spotify.com/album/3RUlHcQx91MUm4bFONfT57) | 1:33 |
+| 69 | [Rat Beat](https://open.spotify.com/track/5p3Nvx6dNevmaKup80O7si) | [Beach Rats](https://open.spotify.com/artist/7pX2wNFpBvwP9T0wkhAxJD) | [Rat Beat](https://open.spotify.com/album/7kHSFHYGdE5cG7udR5G2YS) | 1:33 |
 | 70 | [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 |
 | 71 | [So Excited](https://open.spotify.com/track/5hm4OC3PJs0tEd7PdvtUkm) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [So Excited](https://open.spotify.com/album/1M0jL56cPNrsT6hNV7g5W8) | 3:00 |
 | 72 | [The Funhouse](https://open.spotify.com/track/5MjjrqXapXkbiQRDDKcEuR) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [The Funhouse \- EP](https://open.spotify.com/album/1LayZwbujFTB1p99PDYhUS) | 4:14 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Rabbit](https://open.spotify.com/track/0MTnlwW9JIUhbsytWlMQgp) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/2TG81vZCtpqIxG1DLggcOy) | 1:48 |
 | 125 | [That Sedative](https://open.spotify.com/track/3xctqctbVGsgX2nzkRQ3xC) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [That Sedative](https://open.spotify.com/album/0JM4lsF31jRVkpuG4Ekrlk) | 2:21 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDljNTNjOWNhOWRjN2MwZTExMDQwYTZkOTk5MDcxNmJi`
+Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDMxOTNjMTU1MWRiNDQyZjQ4MWJhMDQ1MzcwZjJhY2Nm`

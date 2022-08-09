@@ -2343,6 +2343,24 @@
     {
       "album": {
         "name": "Grandes \u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj"
+      },
+      "artists": [
+        {
+          "name": "Iluminatik",
+          "url": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
+        }
+      ],
+      "date_added": "2021-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296100,
+      "name": "Dios, El Diablo Y Yo",
+      "url": "https://open.spotify.com/track/1oN8lrSSYirjd79ajvnYh7"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/0MbyCMVuUQYUAJ4B1bLExm"
       },
       "artists": [
@@ -2491,7 +2509,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 276120,
       "name": "Efectos Vocales",
       "url": "https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV"

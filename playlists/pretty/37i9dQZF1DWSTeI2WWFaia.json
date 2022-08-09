@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Killer Mike",
-  "num_followers": 621932,
+  "num_followers": 622047,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGExZDY4MGIxMTViZjQxYzE3OTZiZjIxNWRlNDgzNWZi",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGNjNDVhYmU1Yjk0MGM1NjlhMjYxYWQwYWU3MTlmZWEx",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -155,30 +155,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Sam Dew",
-          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Wraith",
         "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
       },
@@ -239,6 +215,50 @@
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Curtain Call 2",
+        "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Is This Love ('09) (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -307,26 +327,6 @@
       "duration_ms": 108387,
       "name": "In my lifetime (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Curtain Call 2",
-        "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Is This Love ('09) (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -443,38 +443,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 124973,
-      "name": "Tetris",
-      "url": "https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Spread The Opps",
-        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 181795,
-      "name": "Spread The Opps",
-      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Montega",
         "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
       },
@@ -495,18 +463,54 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Where I Belong",
-        "url": "https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0"
+        "name": "Spread The Opps",
+        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
       },
       "artists": [
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 188386,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"
+      "duration_ms": 181795,
+      "name": "Spread The Opps",
+      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Burden of Proof",
+        "url": "https://open.spotify.com/album/6xlQNGdro3cCcn8v1ZEGm3"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 198998,
+      "name": "One Way Flight (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/03jnWnj2qOrYofsyCTuHC6"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 124973,
+      "name": "Tetris",
+      "url": "https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -531,6 +535,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Neck & Wrist",
         "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 209314,
       "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
       "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Burden of Proof",
-        "url": "https://open.spotify.com/album/6xlQNGdro3cCcn8v1ZEGm3"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 198998,
-      "name": "One Way Flight (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/03jnWnj2qOrYofsyCTuHC6"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 178620,
+      "name": "Just So You Remember",
+      "url": "https://open.spotify.com/track/6XC3zX8dEiFTpd2hPpOA9y"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Peace \"Fly\" God",
         "url": "https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "It's Almost Dry",
-        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 178620,
-      "name": "Just So You Remember",
-      "url": "https://open.spotify.com/track/6XC3zX8dEiFTpd2hPpOA9y"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Cocodrillo Turbo",
         "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
       },
@@ -811,6 +811,26 @@
       "duration_ms": 175306,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+        "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 177030,
+      "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+      "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -863,22 +883,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Bleed It",
-        "url": "https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 151423,
-      "name": "Bleed It",
-      "url": "https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "FOOTBALL HEADS (feat. Benny The Butcher)",
         "url": "https://open.spotify.com/album/213xNC4Hq3tKhvCzXFVuKu"
       },
@@ -899,22 +903,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga"
+        "name": "Bleed It",
+        "url": "https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb"
       },
       "artists": [
         {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        },
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         }
       ],
-      "duration_ms": 177946,
-      "name": "Is What It Is",
-      "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
+      "duration_ms": 151423,
+      "name": "Bleed It",
+      "url": "https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -935,6 +935,26 @@
       "duration_ms": 239026,
       "name": "God Is Perfect",
       "url": "https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -975,30 +995,6 @@
       "duration_ms": 193800,
       "name": "Soccer Dad",
       "url": "https://open.spotify.com/track/3hdaeIlrACjMK5FnahqrLG"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "God Don't Make Mistakes",
-        "url": "https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 286503,
-      "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
-      "url": "https://open.spotify.com/track/2Ri3R5tB1FlZhYgLMqTjSn"
     }
   ],
   "unique_name": "Spilled Ink",

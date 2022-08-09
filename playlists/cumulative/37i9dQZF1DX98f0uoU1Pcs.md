@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Viagra Boys
 
-266 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+267 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [Rabbit](https://open.spotify.com/track/0MTnlwW9JIUhbsytWlMQgp) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/2TG81vZCtpqIxG1DLggcOy) | 1:48 | 2022-07-08 |  |
 | [Rabbit](https://open.spotify.com/track/4TFD9unRMyj0Ep44AkXpdd) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Rabbit](https://open.spotify.com/album/0K774ZTTZFbeUEzk76Dfx7) | 1:48 | 2021-10-07 | 2022-07-29 |
 | [Rage All Over](https://open.spotify.com/track/3x3wQ19oWPbgJ8sUlqedv9) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Rage All Over](https://open.spotify.com/album/7kJQwKshJqbovj4pItkNYT) | 3:32 | 2021-10-07 | 2022-01-08 |
-| [Rat Beat](https://open.spotify.com/track/1KYt8BaFbULd7jU52MinI2) | [Beach Rats](https://open.spotify.com/artist/7pX2wNFpBvwP9T0wkhAxJD) | [Rat Beat](https://open.spotify.com/album/3RUlHcQx91MUm4bFONfT57) | 1:33 | 2022-04-29 |  |
+| [Rat Beat](https://open.spotify.com/track/1KYt8BaFbULd7jU52MinI2) | [Beach Rats](https://open.spotify.com/artist/7pX2wNFpBvwP9T0wkhAxJD) | [Rat Beat](https://open.spotify.com/album/3RUlHcQx91MUm4bFONfT57) | 1:33 | 2022-04-29 | 2022-08-09 |
+| [Rat Beat](https://open.spotify.com/track/5p3Nvx6dNevmaKup80O7si) | [Beach Rats](https://open.spotify.com/artist/7pX2wNFpBvwP9T0wkhAxJD) | [Rat Beat](https://open.spotify.com/album/7kHSFHYGdE5cG7udR5G2YS) | 1:33 | 2022-08-05 |  |
 | [Renegade](https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL) | 2:01 | 2022-06-17 | 2022-07-29 |
 | [Renegade](https://open.spotify.com/track/5yoZNdTHwgQ71FJeB21wwP) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/2htluTfqtMMHugQGCIUCgy) | 2:01 | 2022-07-08 |  |
 | [Rip It Up](https://open.spotify.com/track/6INTk2XZ9uQemi6STedkB6) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 1:43 | 2021-10-07 | 2022-01-08 |

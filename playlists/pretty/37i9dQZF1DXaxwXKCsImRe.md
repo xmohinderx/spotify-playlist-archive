@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> Exciting artists on the RADAR from the Benelux and beyond\. Cover: Tabitha
+> Exciting artists on the RADAR from the Benelux and beyond\. Cover: IBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,201 likes - 46 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,199 likes - 46 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Head On The Block](https://open.spotify.com/track/0XCoLBUd9ogoPbEpRlcu2J) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [red](https://open.spotify.com/album/2wlgFeYBZGJGsVkeFnpdHp) | 2:26 |
-| 2 | [Sweet Love](https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/1ktETQfJTMuoyH0oq4xXrz) | 4:05 |
-| 3 | [Dans M'n Ogen Dicht](https://open.spotify.com/track/1KTYxEsgVcoyCa3PE28ZnH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10), [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Dans M'n Ogen Dicht](https://open.spotify.com/album/42tXcJPo0MY8U9tv9U6Q7e) | 3:05 |
+| 1 | [Sweet Love](https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/1ktETQfJTMuoyH0oq4xXrz) | 4:05 |
+| 2 | [Dans M'n Ogen Dicht](https://open.spotify.com/track/1KTYxEsgVcoyCa3PE28ZnH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10), [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Dans M'n Ogen Dicht](https://open.spotify.com/album/42tXcJPo0MY8U9tv9U6Q7e) | 3:05 |
+| 3 | [Head On The Block](https://open.spotify.com/track/0XCoLBUd9ogoPbEpRlcu2J) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [red](https://open.spotify.com/album/2wlgFeYBZGJGsVkeFnpdHp) | 2:26 |
 | 4 | [Iced Out](https://open.spotify.com/track/54Z4M6n677nH3rKWeV5IWJ) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Iced Out](https://open.spotify.com/album/5zFLy61k07leoBrxjNbjKE) | 3:01 |
 | 5 | [Wilde Rozen](https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wilde Rozen](https://open.spotify.com/album/7Eea9Jvh1okLitSUSQIF1W) | 3:02 |
 | 6 | [Olivia](https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw) | 2:27 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 45 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 |
 | 46 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
 
-Snapshot ID: `MTY1NzgxMzIxMiwwMDAwMDAwMDgzOTFjZmQ0NWRhZmI2NDI0ZjgyNzAyMDY5OGJiNDJj`
+Snapshot ID: `MTY1OTk0NDY0NSwwMDAwMDAwMDkwZTUyMTNiMTc2MTUzNjgwMzMxM2Q1ZjVkNTM3OTNj`

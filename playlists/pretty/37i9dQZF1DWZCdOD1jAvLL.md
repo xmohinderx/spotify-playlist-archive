@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Kasablanca
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,394 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,543 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 13 | [Off The Ground](https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Off The Ground](https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h) | 4:02 |
 | 14 | [Aurora](https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [ÆON:TWO](https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w) | 3:18 |
 | 15 | [Move It](https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Move It](https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza) | 3:21 |
-| 16 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:05 |
+| 16 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:05 |
 | 17 | [Hey Hey \(Heard You Say\)](https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Hey Hey \(Heard You Say\)](https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy) | 3:53 |
 | 18 | [Deep Inside Of Me](https://open.spotify.com/track/7j5eg5Mb7n5iapdqY1T74A) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Deep Inside Of Me](https://open.spotify.com/album/5RVbXqlePWY6CrEIWnGpUX) | 3:01 |
 | 19 | [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 |
