@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? Cover: \bGolden Child(\uace8\ub4e0 \ucc28\uc77c\ub4dc) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 748735,
+  "num_followers": 748963,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk1ODUzNCwwMDAwMDAwMDQ3NmQ0MjYxOWVkMjQyMTZmY2EyN2U0Mzc5OTYxY2Iy",
+  "snapshot_id": "MTY1OTk1ODUzNCwwMDAwMDAwMGJjMGVlMTExMDM3MmVmMzQwODU5MzE5Njk2NjE2NTM5",
   "tracks": [
     {
       "added_at": "2022-08-08 11:35:34",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-08-08 11:35:34",
       "album": {
-        "name": "FLASHBACK",
-        "url": "https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm"
-      },
-      "artists": [
-        {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
-        }
-      ],
-      "duration_ms": 212687,
-      "name": "BUT YOU",
-      "url": "https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv"
-    },
-    {
-      "added_at": "2022-08-08 11:35:34",
-      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
+    },
+    {
+      "added_at": "2022-08-08 11:35:34",
+      "album": {
+        "name": "FLASHBACK",
+        "url": "https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "duration_ms": 212687,
+      "name": "BUT YOU",
+      "url": "https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv"
     },
     {
       "added_at": "2022-08-08 11:35:34",

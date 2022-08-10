@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 2057,
+  "num_followers": 2067,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDZiNjZhZDQ1MDFjNTVjMGVkYmU3NzVhZmZhNzlkZWE5",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDg5NDIyZDUzNzEyYmU0YTk3ZDE3ODMxMzVkNTAxMWFl",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -499,30 +499,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Never Land II",
-        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        },
-        {
-          "name": "Wordsplayed",
-          "url": "https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO"
-        },
-        {
-          "name": "Magic & Bird",
-          "url": "https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x"
-        }
-      ],
-      "duration_ms": 197519,
-      "name": "You Know the Drill",
-      "url": "https://open.spotify.com/track/7gdNfIqpKzAiCnclGvk07a"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "CECE",
         "url": "https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH"
       },
@@ -543,6 +519,30 @@
       "duration_ms": 142782,
       "name": "CECE",
       "url": "https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Never Land II",
+        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Wordsplayed",
+          "url": "https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO"
+        },
+        {
+          "name": "Magic & Bird",
+          "url": "https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x"
+        }
+      ],
+      "duration_ms": 197519,
+      "name": "You Know the Drill",
+      "url": "https://open.spotify.com/track/7gdNfIqpKzAiCnclGvk07a"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Feared By Hell (Reanimation)",
-        "url": "https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN"
+        "name": "MAKE IT MAKE SENSE",
+        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
       },
       "artists": [
         {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 264664,
-      "name": "Is That Okay?",
-      "url": "https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k"
+      "duration_ms": 165789,
+      "name": "MAKE IT MAKE SENSE",
+      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1167,6 +1163,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Feared By Hell (Reanimation)",
+        "url": "https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 264664,
+      "name": "Is That Okay?",
+      "url": "https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Not for Sale",
         "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 222916,
       "name": "1994 (feat. Aaron Cole)",
       "url": "https://open.spotify.com/track/2pYpNUlU1wjyZyQpHUhtPT"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "MAKE IT MAKE SENSE",
-        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "MAKE IT MAKE SENSE",
-      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1415,38 +1415,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "STILL GOING",
-        "url": "https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 88294,
-      "name": "STILL GOING",
-      "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Genes",
-        "url": "https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 134399,
-      "name": "Genes",
-      "url": "https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Restoration: The Deluxe Album",
         "url": "https://open.spotify.com/album/5Sskfr26AzgFTIeEYrQ4CP"
       },
@@ -1467,6 +1435,38 @@
       "duration_ms": 205900,
       "name": "Rich And Famous",
       "url": "https://open.spotify.com/track/5J2iRyi0EpKwiU5NeQQRZ5"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Genes",
+        "url": "https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 134399,
+      "name": "Genes",
+      "url": "https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "STILL GOING",
+        "url": "https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 88294,
+      "name": "STILL GOING",
+      "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1731,22 +1731,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Be Gone (feat. Mike Teezy)",
-        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
+        "name": "Tru Talk Tony, Vol. 1",
+        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
       },
       "artists": [
         {
           "name": "Mission",
           "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        },
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 176076,
-      "name": "Be Gone (feat. Mike Teezy)",
-      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
+      "duration_ms": 192000,
+      "name": "Can't Lose",
+      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1767,22 +1763,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+        "name": "In the Garden",
+        "url": "https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf"
       },
       "artists": [
         {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+          "name": "Vonte Grace",
+          "url": "https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ"
         },
         {
-          "name": "KDNS",
-          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+      "duration_ms": 220000,
+      "name": "In the Garden",
+      "url": "https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1811,6 +1807,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        },
+        {
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Heard Not Seen III",
         "url": "https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk"
       },
@@ -1835,26 +1851,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "In the Garden",
-        "url": "https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf"
-      },
-      "artists": [
-        {
-          "name": "Vonte Grace",
-          "url": "https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ"
-        },
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "In the Garden",
-      "url": "https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "ON THA SEAT",
         "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
       },
@@ -1871,26 +1867,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Glory On Me",
-        "url": "https://open.spotify.com/album/2sPr44v1gGuL9vFxhCcAqJ"
+        "name": "Desesperado (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
         },
         {
-          "name": "Childish Major",
-          "url": "https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1"
-        },
-        {
-          "name": "Taylor Hill",
-          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 208706,
-      "name": "Glory On Me",
-      "url": "https://open.spotify.com/track/5AZppquII76qli3EUyUy8M"
+      "duration_ms": 181533,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1919,54 +1911,66 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Tru Talk Tony, Vol. 1",
-        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
+        "name": "Be Gone (feat. Mike Teezy)",
+        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
       },
       "artists": [
         {
           "name": "Mission",
           "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Can't Lose",
-      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Desesperado (Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
         },
         {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx"
+      "duration_ms": 176076,
+      "name": "Be Gone (feat. Mike Teezy)",
+      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
     },
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4OvPeGJUu03SZ6ocHlxs5W"
+        "name": "Glory On Me",
+        "url": "https://open.spotify.com/album/2sPr44v1gGuL9vFxhCcAqJ"
       },
       "artists": [
         {
-          "name": "Legin",
-          "url": "https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV"
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Childish Major",
+          "url": "https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1"
+        },
+        {
+          "name": "Taylor Hill",
+          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
         }
       ],
-      "duration_ms": 162694,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/25zS8gq7dkaXieDRMuj5vS"
+      "duration_ms": 208706,
+      "name": "Glory On Me",
+      "url": "https://open.spotify.com/track/5AZppquII76qli3EUyUy8M"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/4itsnwwH8AwZoL9sPaua3F"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        },
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Wrist",
+      "url": "https://open.spotify.com/track/2NrO2kuuSGV5ZJCaCj2x1A"
     }
   ],
   "unique_name": "Blessings",

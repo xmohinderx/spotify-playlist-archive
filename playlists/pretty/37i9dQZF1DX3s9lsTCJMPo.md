@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,878 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,924 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 37 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
 | 38 | [The Hammer](https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:09 |
 | 39 | [Gee Me the Ting](https://open.spotify.com/track/7wls4oEjXyIU7Rmzw392T6) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Charlie's Golden Hitz of Calypso & Soca](https://open.spotify.com/album/2vqpWf13PYMn6vuXDAMrew) | 5:47 |
-| 40 | [Hold Ya Bam Bam](https://open.spotify.com/track/7oDtXMihSU1Sp5g0ukw56N) | [Speady](https://open.spotify.com/artist/343Fose6Dkb6U8yTvVYttG) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 4:52 |
-| 41 | [Get on Bad](https://open.spotify.com/track/0zuzRk0l3EWZroyXi4KtCg) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Debble\-Ish Rage](https://open.spotify.com/album/7qzOetyDNaHjI146S6tRpr) | 3:10 |
+| 40 | [Get on Bad](https://open.spotify.com/track/0zuzRk0l3EWZroyXi4KtCg) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Debble\-Ish Rage](https://open.spotify.com/album/7qzOetyDNaHjI146S6tRpr) | 3:10 |
+| 41 | [Hold Ya Bam Bam](https://open.spotify.com/track/7oDtXMihSU1Sp5g0ukw56N) | [Speady](https://open.spotify.com/artist/343Fose6Dkb6U8yTvVYttG) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 4:52 |
 | 42 | [Congo Man](https://open.spotify.com/track/3q4Sj5DLRjnoSaPyujVQkm) | [Mighty Sparrow](https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w) | [Dance Party Gold](https://open.spotify.com/album/4fdqG9SOOd87uSIOVrUgDE) | 6:10 |
 | 43 | [Get Something and Wave](https://open.spotify.com/track/0qfXpnvNnGozj1YFbxyYUn) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 6:33 |
 | 44 | [Footsteps \(feat\. Wayne Rodriguez\)](https://open.spotify.com/track/6Wq2U3xlL953CurfNLWfeM) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Wayne Rodriguez](https://open.spotify.com/artist/3tkTFE3gM6p7EWW385JsVJ) | [Charge](https://open.spotify.com/album/6hYk9G38OkC0SQjFOLDoAY) | 4:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 79 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
 | 80 | [Chances](https://open.spotify.com/track/1sDkgD3gACSXmfvTfSAEFP) | [Blue Ventures Feat\. Sanell Dampster](https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:51 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDA3NTdjMzM1NWMwZTEyYTg5NDUyY2EyZDg1ZWI1NTIx`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDA1Yjg0MDJmM2M4MjY0YTc2MDdjZDU5ZDg1Mjg3NWUw`

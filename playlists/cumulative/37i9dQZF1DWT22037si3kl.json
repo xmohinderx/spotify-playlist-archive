@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 149461,
       "name": "Joias no Meu Pesco\u00e7o",
       "url": "https://open.spotify.com/track/7rlFg7fHPv8xqCUTSULleY"
@@ -1873,6 +1873,10 @@
         {
           "name": "Veigh",
           "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         }
       ],
       "date_added": "2022-06-17",
@@ -2093,6 +2097,32 @@
       "duration_ms": 157777,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH"
+    },
+    {
+      "album": {
+        "name": "Para Sempre 21 (Remix)",
+        "url": "https://open.spotify.com/album/3F1QSpRVW6TuZX5qnt1SC9"
+      },
+      "artists": [
+        {
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201526,
+      "name": "Para Sempre 21 - Remix",
+      "url": "https://open.spotify.com/track/5di62sje3CXN84ejeAIaGx"
     },
     {
       "album": {

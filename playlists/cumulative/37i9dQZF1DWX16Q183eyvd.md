@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-68 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/3wJRkoKTIvnJlE0H1vhhVJ)
+69 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/3wJRkoKTIvnJlE0H1vhhVJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Go Play Outside](https://open.spotify.com/track/5oGi3t0P5LJ4Opu87mlLUg) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:27 | 2021-11-19 |  |
 | [Have Fun](https://open.spotify.com/track/2SRrXQG5zBbd2VUZFu38iL) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:06 | 2021-11-19 |  |
 | [Healthy](https://open.spotify.com/track/2y5WJhoIjEWJ9cdfd0WNmO) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Healthy](https://open.spotify.com/album/2q1qoDeoXUTFvVdPCG1MmH) | 2:44 | 2021-11-19 | 2022-07-29 |
-| [Healthy](https://open.spotify.com/track/2T1c0dyZrkWRnvG5qYN9vA) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Healthy](https://open.spotify.com/album/3D043oGlDlfcFccDwwKtX5) | 2:46 | 2022-02-04 |  |
+| [Healthy](https://open.spotify.com/track/2T1c0dyZrkWRnvG5qYN9vA) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Healthy](https://open.spotify.com/album/3D043oGlDlfcFccDwwKtX5) | 2:46 | 2022-02-04 | 2022-08-10 |
+| [Healthy](https://open.spotify.com/track/4h0sclha9pcAkN8oJPA795) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Raised on Hip Hop](https://open.spotify.com/album/4gNAMHn417XOacNst8HvQW) | 2:46 | 2022-02-04 |  |
 | [Hey Ya](https://open.spotify.com/track/6KN9vVtpxkzK4VTHpfQuig) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Party Hits](https://open.spotify.com/album/49LwVKcojkLOK8rrm1a8f0) | 3:55 | 2021-11-19 | 2022-07-29 |
 | [Hey Ya](https://open.spotify.com/track/7qEaSln7DzqWAxVWPJG8hz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Party Hits](https://open.spotify.com/album/7dtTU6GpOYFNwF5hE1o4zE) | 3:55 | 2022-02-04 |  |
 | [Hiphop\-O\-Potamus \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/0ajAIY2IEOjJ4JFmlAEuvM) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:15 | 2021-11-19 |  |

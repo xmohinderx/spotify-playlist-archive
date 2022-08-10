@@ -4,7 +4,7 @@
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Glass Animals, Arooj Aftab, and The Kid LAROI.
 
-896 songs - 2 day 7 hr 8 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
+897 songs - 2 day 7 hr 13 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [bad guy \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66wi6NRfwsula1n68bJEod) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 2:47 | 2022-01-19 |  |
 | [Bad Mood \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5fA3rWJfJH34C0JCBv60CU) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles](https://open.spotify.com/album/0N8hvQJMoZeMDEurU9afgD) | 3:00 | 2022-01-19 |  |
 | [Bad Reputation \- Spotify Singles](https://open.spotify.com/track/6qNRJFypNpGWhUhlR13ENJ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Spotify Singles](https://open.spotify.com/album/7fWDAcxnpxhia9dUifr81o) | 2:29 | 2022-07-05 |  |
-| [Baghon Main \- Spotify Singles](https://open.spotify.com/track/767DqFjvUfMmpBp02QxApL) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Spotify Singles](https://open.spotify.com/album/4rPjTRBqUIKSICPzURvzvm) | 5:27 | 2022-04-01 |  |
+| [Baghon Main \- Spotify Singles](https://open.spotify.com/track/6bnJzcoHGwqkrmBu23CXn0) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Baghon Main \(Spotify Singles\)](https://open.spotify.com/album/4SEh8c2XvyqfyssNirqvfa) | 5:27 | 2022-07-05 |  |
+| [Baghon Main \- Spotify Singles](https://open.spotify.com/track/767DqFjvUfMmpBp02QxApL) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Spotify Singles](https://open.spotify.com/album/4rPjTRBqUIKSICPzURvzvm) | 5:27 | 2022-04-01 | 2022-08-10 |
 | [Ballad of a Thin Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/25iR1fL2TQwkO7QG5UWZxf) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Spotify Singles](https://open.spotify.com/album/7Kk6sx9YaaYs3LQ6FlnZui) | 5:01 | 2022-01-19 | 2022-07-29 |
 | [Ballad of a Thin Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4z9M9ldOG1q1PcOZh1rrXe) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Spotify Singles](https://open.spotify.com/album/319mxXyK6WMtGjiRrZV8J1) | 5:01 | 2022-07-05 |  |
 | [Bambi \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/47evLuPUpZPpfUzdlt0Xnb) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Spotify Singles](https://open.spotify.com/album/3R31GRbf0XVpBTfIzpkBHa) | 3:22 | 2022-01-19 | 2022-07-29 |
@@ -177,7 +178,7 @@
 | [Deja Vu \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2qoa1Ok9Kyj3f3CQyxu096) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Spotify Singles](https://open.spotify.com/album/1gLPXEmEAQevLuShz5BIz0) | 4:43 | 2022-01-19 |  |
 | [Delaunay's Dilemma \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2T2dZS32UGZCKgZcnkFGb9) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Spotify Singles](https://open.spotify.com/album/5P0zD6LI6QX5gxlcceUUNT) | 8:10 | 2022-01-19 |  |
 | [Delicate \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:48 | 2022-01-19 |  |
-| [DI MI NOMBRE \- Spotify Singles](https://open.spotify.com/track/5ReoXjSl51PomPG8rYp0Zx) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Spotify Singles](https://open.spotify.com/album/4rPjTRBqUIKSICPzURvzvm) | 2:30 | 2022-04-01 |  |
+| [DI MI NOMBRE \- Spotify Singles](https://open.spotify.com/track/5ReoXjSl51PomPG8rYp0Zx) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Spotify Singles](https://open.spotify.com/album/4rPjTRBqUIKSICPzURvzvm) | 2:30 | 2022-04-01 | 2022-08-10 |
 | [Diggy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7xyIcr81nFHeWKTn3Sf6m7) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Spotify Singles](https://open.spotify.com/album/0bRsCrUAjvQeQZGLrDFesT) | 3:48 | 2022-01-19 |  |
 | [Dive \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Spotify Singles](https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ) | 4:20 | 2022-01-19 |  |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-01-19 |  |

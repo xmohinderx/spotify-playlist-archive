@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230419,
+  "num_followers": 230412,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyODE1NDU5OSwwMDAwMDAwMDQ3YWQ2NzhkYWQ2MGRhMTY5MmRkMGIyMzU0YjAzNGVi",
+  "snapshot_id": "MTYyODE1NDU5OSwwMDAwMDAwMDc1MDJiMDBhMmZmNjEwNzUxMzA2ZDk2Mjk1YmU4YTll",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -979,6 +979,26 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX"
+      },
+      "artists": [
+        {
+          "name": "Tyron Hapi",
+          "url": "https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I"
+        },
+        {
+          "name": "Lucas Marx",
+          "url": "https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV"
+        }
+      ],
+      "duration_ms": 150014,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Sunrise To Sunset",
         "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
       },
@@ -995,22 +1015,6 @@
       "duration_ms": 186610,
       "name": "Wishing Well (feat. Olivia Sebastianelli)",
       "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "On a Summer Day",
-        "url": "https://open.spotify.com/album/67g7BOkkgBJpaCZC6imYUA"
-      },
-      "artists": [
-        {
-          "name": "Tullio",
-          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/3NC6qFD2LyyQzYWUGBoycb"
     }
   ],
   "unique_name": "Aperitivo Time",

@@ -2555,7 +2555,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 173830,
       "name": "Church Girl",
       "url": "https://open.spotify.com/track/48hRBPZDRp1RWAPxQLBo8u"
@@ -7803,7 +7803,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 141215,
       "name": "No Tears",
       "url": "https://open.spotify.com/track/37ezr5roTjXV7zM5E3zcUX"
@@ -9975,6 +9975,32 @@
       "duration_ms": 172875,
       "name": "SCROLLIN",
       "url": "https://open.spotify.com/track/7uzJb5szU9X1Lq8BpnP88X"
+    },
+    {
+      "album": {
+        "name": "Seat At The Table",
+        "url": "https://open.spotify.com/album/21UuBeZLx6VUmL8B6NiU3d"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Sharon Irving",
+          "url": "https://open.spotify.com/artist/2pvdIgrTL1DsTSg1ipptEt"
+        },
+        {
+          "name": "Vincent Charlow",
+          "url": "https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "Seat At The Table",
+      "url": "https://open.spotify.com/track/3fdUvuEM2XjI58BYP2Gyjk"
     },
     {
       "album": {
@@ -12467,6 +12493,28 @@
       "duration_ms": 154666,
       "name": "Who's That (feat. BrvndonP)",
       "url": "https://open.spotify.com/track/3uyNOOLJlAhnFJ1p6jvlQP"
+    },
+    {
+      "album": {
+        "name": "polaroids.",
+        "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
+      },
+      "artists": [
+        {
+          "name": "Wes Harris",
+          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+        },
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155688,
+      "name": "who.",
+      "url": "https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ"
     },
     {
       "album": {

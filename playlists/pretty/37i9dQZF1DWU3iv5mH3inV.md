@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Prendete con tu lista favorita de Dembow\. Foto: Harry Nach, ITHAN NY, Galee Galee & Julianno Sosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,050 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,100 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 22 | [Lento](https://open.spotify.com/track/6bMSP5IyrfELhfMy93KPYT) | [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Reggaeton Latino Y Más](https://open.spotify.com/album/5CYsAeq9qjHS4HXS90K3kV) | 1:50 |
 | 23 | [Lorito](https://open.spotify.com/track/4QMzXTX5ePQIwdj4bJktFz) | [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq) | [Lorito](https://open.spotify.com/album/0oGOljyN6qexxje71tp3lb) | 2:22 |
 | 24 | [Marianela](https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela](https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS) | 3:08 |
-| 25 | [Tu Lokotron Remix](https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o) | [Dj Jouga](https://open.spotify.com/artist/4YVBK1IbFdZXRGIbfgeLV1) | [Tu Lokotron Remix](https://open.spotify.com/album/0Ux38IUGtLmSvNiPRrik70) | 6:58 |
-| 26 | [Tumbala](https://open.spotify.com/track/7oieFIG0uypkJeI1akfkQ5) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Tumbala](https://open.spotify.com/album/09oK38U1xFy88t6Iho7ojt) | 3:06 |
+| 25 | [Tumbala](https://open.spotify.com/track/7oieFIG0uypkJeI1akfkQ5) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Tumbala](https://open.spotify.com/album/09oK38U1xFy88t6Iho7ojt) | 3:06 |
+| 26 | [Tu Lokotron Remix](https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o) | [Dj Jouga](https://open.spotify.com/artist/4YVBK1IbFdZXRGIbfgeLV1) | [Tu Lokotron Remix](https://open.spotify.com/album/0Ux38IUGtLmSvNiPRrik70) | 6:58 |
 | 27 | [Rana](https://open.spotify.com/track/34ZrmCQFQGTUZxdLIaaNoa) | [Karetta el Gucci](https://open.spotify.com/artist/4ygcJmgRCkZ0AoKkMt1xiZ) | [Rana](https://open.spotify.com/album/4er80flcemlR8QahrCEuXM) | 3:13 |
 | 28 | [Dale Pal Piso \(feat\. Jowell y Randy & Ñengo Flow\)](https://open.spotify.com/track/4XRqSc6PQXZrkhzZHkfRb2) | [Watussi](https://open.spotify.com/artist/3cjEOnq8YXtjt7QiCEMhMO), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La Revelacion del Under \- Back To The Underground](https://open.spotify.com/album/4LSDsWBX972XfBubPZyufF) | 3:57 |
 | 29 | [Con Silenciador](https://open.spotify.com/track/0CcQ48Vvf92W69agjplFmf) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [El Hombre](https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF) | 2:54 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 65 | [Klok Con Klok](https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Klok Con Klok](https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6) | 2:43 |
 | 66 | [El Mario de Tu Mujer](https://open.spotify.com/track/2CC8kheTSKvDiNbJsRMvBU) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS) | [Exitos](https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP) | 4:07 |
 | 67 | [Caliente](https://open.spotify.com/track/7lhZb7Mc2QCXtetUjVljjl) | [El Tonto](https://open.spotify.com/artist/747fHzctsAyoa4k6CrtsQl) | [Caliente](https://open.spotify.com/album/294ruoBKloLVSccE7WMdbg) | 3:01 |
-| 68 | [Brum Brum](https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Mr Brum Brum](https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40) | 2:52 |
+| 68 | [El Humo](https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [Hip Hop Dominicano](https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7) | 3:19 |
 | 69 | [Desacatate](https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Desacatate](https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV) | 2:41 |
-| 70 | [El Humo](https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [Hip Hop Dominicano](https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7) | 3:19 |
+| 70 | [Brum Brum](https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Mr Brum Brum](https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40) | 2:52 |
 | 71 | [Tu Cojea \- Remix](https://open.spotify.com/track/7i5yhydTMHfFyU9UiEzDOX) | [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Tu Cojea \(Remix\)](https://open.spotify.com/album/0zm0Z4PQAioer5GHfdG1Wi) | 4:04 |
 | 72 | [Ven](https://open.spotify.com/track/0OsAYEI28tSsqrjXVEO4eg) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Ven \(Remix\)](https://open.spotify.com/album/4actwcUR95D4zwhLQtEuJu) | 3:04 |
 | 73 | [Mensaje Directo \(DM\)](https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF) | [Mensaje Directo \(DM\)](https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9) | 3:40 |
 | 74 | [Knock Out](https://open.spotify.com/track/6YRH8zh2KMbltmbSf4Qe1d) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV) | [Knock Out](https://open.spotify.com/album/3gnvNadSEuwYy86yDc7j7n) | 3:15 |
 | 75 | [La Gente Ta' Loca \- Remix](https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [La Gente Ta' Loca \(Remix\)](https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1) | 3:38 |
 
-Snapshot ID: `MTY1OTczMjk5MywwMDAwMDAwMDQ4NjE1MzA2YTM2ZWI1YzBhYTA1ZTdhOGU0ODhhNDU2`
+Snapshot ID: `MTY1OTczMjk5MywwMDAwMDAwMDhjYjRjMzkwZmRjZGY0NDdmZGM4M2Q0MzY4ODcxNmNi`

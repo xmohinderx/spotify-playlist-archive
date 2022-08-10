@@ -4,7 +4,7 @@
 
 > Enjoy music from "FULLMETAL ALCHEMIST BROTHERHOOD"! / 音楽で辿る、2009年放送開始のアニメ「鋼の錬金術師 FULLMETAL ALCHEMIST」の世界。<a href="https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv?si=476b380d14f24147">鋼の錬金術師</a>\(2003年放送開始\)はこちら\(C\)荒川弘／鋼の錬金術師製作委員会 ©Hiromu Arakawa/FA Project
 
-107 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/56q2JkbxLF9bSOmHBm1GJS)
+108 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/56q2JkbxLF9bSOmHBm1GJS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Envy Revealed](https://open.spotify.com/track/00m7taUkCMvHFVBVhjf4Xk) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 2](https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5) | 1:59 | 2022-05-26 |  |
 | [Envy Revealed \~Adagio\~](https://open.spotify.com/track/4Uma3lLFGGUSjGVIL4kxK7) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 3](https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw) | 1:55 | 2022-05-26 |  |
 | [Epilogue \~A New Journey\~](https://open.spotify.com/track/4uY3JR59w4UFK3WkyB7gVP) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 3](https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw) | 2:59 | 2022-05-26 |  |
+| [EVERLASTING](https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [EVERLASTING/ジャーニー](https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj) | 4:02 | 2022-08-09 |  |
 | [Fanfare for the Brave](https://open.spotify.com/track/5XSNOzcwdM8FMSQinCxAch) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 1:28 | 2022-05-26 |  |
 | [Far East Suite](https://open.spotify.com/track/7HRrSgDVq9yM1HMBzE9VDD) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 1:36 | 2022-05-26 |  |
 | [Far East Suite \-Pizzicato\-](https://open.spotify.com/track/2BxdoB5Ou4UzCZTWzXh5Pp) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 2](https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5) | 1:31 | 2022-05-26 |  |

@@ -4,7 +4,7 @@
 
 > This is the new Core at its finest\. Cover: August Burns Red
 
-568 songs - 1 day 11 hr 43 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+569 songs - 1 day 11 hr 47 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Voice in the Static](https://open.spotify.com/track/7gfIhjwZTZb3T9INCBAUoS) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [A Voice in the Static](https://open.spotify.com/album/6kELyldbrANavkDcj2ISvs) | 3:36 | 2022-07-13 | 2022-07-20 |
 | [A World in Tears](https://open.spotify.com/track/5f2GtU6iYeVHls8sfiBsyn) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [A World in Tears](https://open.spotify.com/album/7IQK6f51JQy46xwc5G6gT9) | 3:45 | 2022-01-28 | 2022-05-06 |
 | [Absolved of The Strings And Stone](https://open.spotify.com/track/7KgjltpLZz7YXOM0LoYBZz) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Absolved of The Strings And Stone](https://open.spotify.com/album/5K7nTqG2racfLQ4TcFRTox) | 3:41 | 2022-07-13 | 2022-07-23 |
+| [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 | 2022-07-08 |  |
 | [Aching Longing](https://open.spotify.com/track/6AgeANDgNF06cIPuMydVRs) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Aching Longing](https://open.spotify.com/album/1rxAll7UcrOGxZEWucxKlB) | 4:24 | 2022-07-08 | 2022-08-06 |
 | [Aching Longing](https://open.spotify.com/track/6ZhyOZ8QRgzrrvRLly2KFc) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Aching Longing](https://open.spotify.com/album/02YgVH2psjdq6a8wGoAXfC) | 4:24 | 2022-06-10 | 2022-07-29 |
 | [Acrid Canon](https://open.spotify.com/track/0DTKX0zPhXSrvIOHdJxv6q) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/5lWIRgkSy5WWOMrZ7xxygH) | 4:08 | 2022-07-13 | 2022-07-23 |
@@ -268,7 +269,7 @@
 | [I Run With Wolves](https://open.spotify.com/track/7oNOP1xca406nustARPRru) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/4lJsPWd2NLv14P4AhDZkmo) | 3:21 | 2021-12-17 | 2022-03-26 |
 | [I Will Return](https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [I Will Return](https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS) | 3:29 | 2022-05-06 |  |
 | [Illusive Obsession](https://open.spotify.com/track/2YkSmJa5jtPuf3QKzQ9K7M) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [Illusive Obsession](https://open.spotify.com/album/7GUg5PW2SOoowXQXLarO4G) | 4:47 | 2022-07-13 | 2022-07-16 |
-| [IMAGO](https://open.spotify.com/track/2VyENkTDQPz6hXE1hkCbkk) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/08u01qs66Th1vASwCuuJxP) | 3:17 | 2022-07-08 |  |
+| [IMAGO](https://open.spotify.com/track/2VyENkTDQPz6hXE1hkCbkk) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/08u01qs66Th1vASwCuuJxP) | 3:17 | 2022-07-08 | 2022-08-10 |
 | [IMAGO](https://open.spotify.com/track/7JQMRfognfgWlzptQVeUV2) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/4L48CMMHuCpppX0t0IUfu8) | 3:17 | 2022-05-20 | 2022-07-29 |
 | [IMPULSE](https://open.spotify.com/track/7LTOk9k8HowxRLNtATbsMJ) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG) | [IMPULSE](https://open.spotify.com/album/6IoVKkqQUwIjbkQhDJSAF1) | 2:37 | 2022-07-13 | 2022-07-15 |
 | [In Our Heads](https://open.spotify.com/track/4IqJhaaZ1W12dy2fcIqkRB) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [In the Eye of Death We Are All the Same](https://open.spotify.com/album/1xpskdc0hJr2pKd0nkMhDW) | 3:31 | 2022-07-13 | 2022-07-18 |

@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 155987,
+  "num_followers": 156021,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDdiZTJkZjFjMDk5NmFkYjI0OTI5OTljYWI5OTI2ZjFj",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDEzNDFjMGZhYTFjNmE4YzVkMjNmNWJkMTNkODYyODUy",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -223,26 +223,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Stanza Singola",
-        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
-      },
-      "artists": [
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Stanza Singola (feat. Tommaso Paradiso)",
-      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 221631,
       "name": "MADAME - L'anima (feat. Madame)",
       "url": "https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Stanza Singola",
+        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
+      },
+      "artists": [
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Stanza Singola (feat. Tommaso Paradiso)",
+      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -655,18 +655,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Il bacio di Klimt",
-        "url": "https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB"
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
       },
       "artists": [
         {
-          "name": "Emanuele Aloia",
-          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Il bacio di Klimt",
-      "url": "https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF"
+      "duration_ms": 169306,
+      "name": "Cosa mi manchi a fare",
+      "url": "https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -687,18 +687,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+        "name": "Il bacio di Klimt",
+        "url": "https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB"
       },
       "artists": [
         {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+          "name": "Emanuele Aloia",
+          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
         }
       ],
-      "duration_ms": 169306,
-      "name": "Cosa mi manchi a fare",
-      "url": "https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q"
+      "duration_ms": 177000,
+      "name": "Il bacio di Klimt",
+      "url": "https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF"
     },
     {
       "added_at": "2021-09-26 18:38:53",

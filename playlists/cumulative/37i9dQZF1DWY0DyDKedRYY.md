@@ -2,9 +2,9 @@
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> Young Miko is our new RADAR Artist to Watch.
+> Tom The Mail Man is our new RADAR Artist to Watch.
 
-285 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+286 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,5 +293,6 @@
 | [yo x3](https://open.spotify.com/track/2CyfjFIIHRItMz1TbjA0MP) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:42 | 2021-12-01 | 2022-04-09 |
 | [You](https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [You](https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY) | 3:06 | 2022-05-17 | 2022-06-15 |
 | [Young Love](https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Young Love](https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg) | 4:23 | 2022-05-17 | 2022-06-15 |
+| [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 | 2022-08-09 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

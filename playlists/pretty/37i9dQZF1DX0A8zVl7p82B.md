@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,637,696 likes - 164 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,637,584 likes - 164 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 132 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 |
 | 133 | [I'll Be Home For Christmas](https://open.spotify.com/track/5P5rUzjpgTkZeQbr0CVdsZ) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:27 |
 | 134 | [Jingle Bells \(feat\. The Puppini Sisters\)](https://open.spotify.com/track/4qBejt9FeqLI9blHI1Nq1x) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 2:39 |
-| 135 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
+| 135 | [Christmas All Over Again](https://open.spotify.com/track/1lVzU7SrUtTc7F1EpKqhEa) | [Tom Petty And The Heartbreakers](https://open.spotify.com/artist/6mBLihWcj51NU67NgevOyW) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/3LPghlMCICkwGHz3ab7U8R) | 4:13 |
 | 136 | [Glittery \- From The Kacey Musgraves Christmas Show](https://open.spotify.com/track/4dFtIGQBrYjiskk7fN5Wmx) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [The Kacey Musgraves Christmas Show](https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI) | 2:23 |
 | 137 | [December](https://open.spotify.com/track/7zrhy9OhtcO7MdIvbbJiOa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 1:56 |
 | 138 | [Shake up Christmas 2011 \(Official Coca\-Cola Christmas Song\)](https://open.spotify.com/track/57fDcLa203GnDF9OYJd6mV) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Shake up Christmas 2011 \(Official Coca\-Cola Christmas Song\)](https://open.spotify.com/album/6SVW52ds0tU2qYPsDeaSGX) | 3:46 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 163 | [Dear Santa](https://open.spotify.com/track/1HJ4AItKggXkCoi28YuaQt) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Dear Santa](https://open.spotify.com/album/2102M7KbKg8Qtjoub3teBw) | 3:48 |
 | 164 | [River \- Recorded At RAK Studios, London](https://open.spotify.com/track/7DNGqrLnd07C2FPpAdn6cc) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0nu6CXfrJdNcVCvOojAdcW) | 3:28 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDM4ZTJkMGNhNjZiZWRjMTExOWFmNzA4MDQ2ZGNmOTFk`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMGQxYWViOGM4ZjRhY2VjOGM5N2NhNWYxYWU4YmU4NWY1`

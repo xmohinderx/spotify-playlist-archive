@@ -1,12 +1,12 @@
 {
   "description": "The perfect Latin tunes to get in the Christmas spirit. Cover: El Alfa",
-  "num_followers": 187780,
+  "num_followers": 187766,
   "original_name": "Latin Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDI5ZmVkMDcxNzI2ODk0OWEzM2RiNmMwZGQ4ZTY3M2Yz",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDBjMzljOTk4OTVlZDBjNTVhNWE3NjZhN2ViNzk4NWQy",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -563,38 +563,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Amor Real (Holiday Song)",
-        "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Amor Real - Holiday Song",
-      "url": "https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 112106,
-      "name": "Va a Nevar",
-      "url": "https://open.spotify.com/track/1nMd4JxxVJBk4Y2hyCM1TZ"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Navidad (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6EJVhxPPu1fcs3s4aEmRms"
       },
@@ -615,6 +583,38 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 112106,
+      "name": "Va a Nevar",
+      "url": "https://open.spotify.com/track/1nMd4JxxVJBk4Y2hyCM1TZ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Amor Real (Holiday Song)",
+        "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Amor Real - Holiday Song",
+      "url": "https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/0RmTfZy4N0l2q7EAzrbXH9"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Abriendo Puertas",
-        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 322066,
-      "name": "M\u00e1s All\u00e1 - Beyond",
-      "url": "https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Caliente Navidad",
         "url": "https://open.spotify.com/album/1PC2nH9wPwsmr7UYz4kfrf"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 188223,
       "name": "Caliente Navidad",
       "url": "https://open.spotify.com/track/60PHBxCLNJJ1cefofRKQNN"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Abriendo Puertas",
+        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 322066,
+      "name": "M\u00e1s All\u00e1 - Beyond",
+      "url": "https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Christmas Through Your Eyes",
-        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "Christmas Through Your Eyes",
-      "url": "https://open.spotify.com/track/6YH4GanBHEi4oRsqvKFMwv"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Siempre Es Navidad Junto a Ti",
         "url": "https://open.spotify.com/album/1oRkb7HF9YvUrBShCK1qcc"
       },
@@ -827,22 +811,6 @@
       "duration_ms": 185106,
       "name": "Siempre Es Navidad Junto a Ti",
       "url": "https://open.spotify.com/track/49R5u4w5zy8rqtqSazjFbD"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Eterna Navidad",
-        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Adeste Fideles",
-      "url": "https://open.spotify.com/track/1f6GRRkKsl3jZBIEw4LfBM"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -891,6 +859,38 @@
       "duration_ms": 236200,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/0zjjFeXot9dsKPMO6AsBpH"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Eterna Navidad",
+        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/1f6GRRkKsl3jZBIEw4LfBM"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Christmas Through Your Eyes",
+        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "Christmas Through Your Eyes",
+      "url": "https://open.spotify.com/track/6YH4GanBHEi4oRsqvKFMwv"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Abriendo Puertas",
-        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Farolito (Little Star)",
-      "url": "https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "El Regalo",
         "url": "https://open.spotify.com/album/6luSgjekfdeAJ6Ft4Jdm6s"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Mi Navidad (Remastered)",
-        "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
+        "name": "Abriendo Puertas",
+        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
       },
       "artists": [
         {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
         }
       ],
-      "duration_ms": 257343,
-      "name": "El Abeto",
-      "url": "https://open.spotify.com/track/4XVomOIxlU6YKcGEaUXul2"
+      "duration_ms": 279133,
+      "name": "Farolito (Little Star)",
+      "url": "https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 209640,
       "name": "Santa Claus Is Comin\u2019 To Town",
       "url": "https://open.spotify.com/track/2m8DBsZnH9whNkbSjnbRGJ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Mi Navidad (Remastered)",
+        "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 257343,
+      "name": "El Abeto",
+      "url": "https://open.spotify.com/track/4XVomOIxlU6YKcGEaUXul2"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "I'll Be Home For Christmas/Estar\u00e9 En Mi Casa Esta Navidad",
-        "url": "https://open.spotify.com/album/0c4qQwNuYDVtcde6xDmNeS"
-      },
-      "artists": [
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "I'll Be Home For Christmas/Estar\u00e9 En Mi Casa Esta Navidad",
-      "url": "https://open.spotify.com/track/1ZJxkMIYK2a681oSqG1QNi"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Mi Navidad No Se Apaga",
         "url": "https://open.spotify.com/album/29vshU5rVpWYdzJvim2952"
       },
@@ -1299,6 +1279,42 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 145898,
+      "name": "D\u00f3nde Est\u00e1 La Nieve En Navidad",
+      "url": "https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "I'll Be Home For Christmas/Estar\u00e9 En Mi Casa Esta Navidad",
+        "url": "https://open.spotify.com/album/0c4qQwNuYDVtcde6xDmNeS"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "I'll Be Home For Christmas/Estar\u00e9 En Mi Casa Esta Navidad",
+      "url": "https://open.spotify.com/track/1ZJxkMIYK2a681oSqG1QNi"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Duende",
         "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 166891,
       "name": "Duende",
       "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 145898,
-      "name": "D\u00f3nde Est\u00e1 La Nieve En Navidad",
-      "url": "https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Navidades En Puerto Rico",
-        "url": "https://open.spotify.com/album/6FdVveHqsMNEPXFjvw18wZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "A los Santos Reyes",
-      "url": "https://open.spotify.com/track/7Jfu8UvOHm76l4EtnujLkH"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 133953,
       "name": "MI REGALO",
       "url": "https://open.spotify.com/track/6ADhPmQEjVr7vdwbfFBaV7"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Navidades En Puerto Rico",
+        "url": "https://open.spotify.com/album/6FdVveHqsMNEPXFjvw18wZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "A los Santos Reyes",
+      "url": "https://open.spotify.com/track/7Jfu8UvOHm76l4EtnujLkH"
     },
     {
       "added_at": "2021-12-17 05:01:00",

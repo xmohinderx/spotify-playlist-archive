@@ -4,13 +4,14 @@
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more...
 
-88 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1Tc2vYhpkKJFNbCpnmKrSz)
+89 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/1Tc2vYhpkKJFNbCpnmKrSz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(We're Gonna\) Rock Around The Clock \- Single Version](https://open.spotify.com/track/2XBsQSZqHPPAtZpRG6TvIm) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [From The Original Master Tapes](https://open.spotify.com/album/2cQfqHE8kKfxjh7r8FGqwr) | 2:12 | 2019-03-04 |  |
 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/4l2hnfUx0esSbITQa7iJt0) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [Elvis 75 \- Good Rockin' Tonight](https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea) | 3:31 | 2019-03-04 | 2022-07-29 |
-| [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/3j4viUIDSuB4xfYYlp3Lpa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:33 | 2022-05-06 |  |
+| [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/0pOTulwDdrsOLLbYtmTcZE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [If I Can Dream: The Very Best of Elvis](https://open.spotify.com/album/4nzoWPErEEVrZhTb13Rm7W) | 3:33 | 2022-05-06 |  |
+| [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/3j4viUIDSuB4xfYYlp3Lpa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:33 | 2022-05-06 | 2022-08-10 |
 | [Action Packed](https://open.spotify.com/track/5X4RBTKTA0FENrLxHUfZkr) | [Ronnie Dawson](https://open.spotify.com/artist/2Fgg6KYXIgeRY3VxQjX9lP) | [Rockin' Bones](https://open.spotify.com/album/1BqE7sSumMEzQ0q2K3ST08) | 2:17 | 2019-03-04 |  |
 | [All I Have To Do Is Dream](https://open.spotify.com/track/6Et30R1GtviOIDU7wYYyxp) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Simply \- The Everly Brothers \( 42 Essential Tracks\)](https://open.spotify.com/album/4wKRl6zRLNrg1WpHwpIGtX) | 2:19 | 2019-03-04 | 2022-07-29 |
 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 | 2022-05-06 |  |

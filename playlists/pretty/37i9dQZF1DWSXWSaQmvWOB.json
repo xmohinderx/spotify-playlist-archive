@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Cory Henry",
-  "num_followers": 418030,
+  "num_followers": 418093,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMDkyNGIxNWEwZjE0NjIyZmJkYzg5ZWVmYzYxOTA4OTM2",
+  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMDFlOWY3ZTA1YjFiYmVlODU4OGU5ZTgwYTEwNTQ5YTY3",
   "tracks": [
     {
       "added_at": "2022-07-28 22:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "The Way That I Do",
-        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "The Way That I Do",
-      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 223633,
       "name": "Take Time (feat. Tobe Nwigwe)",
       "url": "https://open.spotify.com/track/2qNYATpU3BmfQTAldXoNOi"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "The Way That I Do",
+        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 210329,
+      "name": "The Way That I Do",
+      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Hills",
-        "url": "https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 181279,
-      "name": "Hills",
-      "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Sage Motel",
         "url": "https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0"
+        "name": "Hills",
+        "url": "https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
         }
       ],
-      "duration_ms": 266859,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB"
+      "duration_ms": 181279,
+      "name": "Hills",
+      "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -803,6 +787,22 @@
       "duration_ms": 146266,
       "name": "Overflowing",
       "url": "https://open.spotify.com/track/7euLcL9UPbxVvjlQNhCDJj"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 266859,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Vehicle - From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Bloodline Maintenance",
         "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 119975,
       "name": "Need To Know Basis",
       "url": "https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 175086,
+      "name": "Vehicle - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -899,22 +899,6 @@
       "duration_ms": 143040,
       "name": "Horsepower For The Streets",
       "url": "https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Never Forget My Love",
-        "url": "https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 221173,
-      "name": "Never Forget My Love",
-      "url": "https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -955,6 +939,22 @@
       "duration_ms": 207804,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Never Forget My Love",
+        "url": "https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 221173,
+      "name": "Never Forget My Love",
+      "url": "https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Woman Like Me",
+        "url": "https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 202832,
+      "name": "Woman Like Me",
+      "url": "https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "L.A.B V",
         "url": "https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 203840,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Woman Like Me",
-        "url": "https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 202832,
-      "name": "Woman Like Me",
-      "url": "https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/5Jr1eGcMKChuU0gQdxeF5b"
+      },
+      "artists": [
+        {
+          "name": "Melle Jutte",
+          "url": "https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2VXoiz9P6W9jG48Gv3bTHO"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 204909,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2TH9Y6gYm8PJWdjIdUNT77"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/2egh3XuO9dNyAEacxCxDD7"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 204592,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/6rpTnGgNgmWnFAU7yzZnJY"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/5Jr1eGcMKChuU0gQdxeF5b"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/2egh3XuO9dNyAEacxCxDD7"
       },
       "artists": [
         {
-          "name": "Melle Jutte",
-          "url": "https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ"
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
         }
       ],
-      "duration_ms": 252253,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2VXoiz9P6W9jG48Gv3bTHO"
+      "duration_ms": 204592,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/6rpTnGgNgmWnFAU7yzZnJY"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/36CwJiqhcAgsrtnqWZizkV"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 269709,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5LWQ5zef4xx39dIcOOeqUI"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Piece of Me",
         "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 223060,
       "name": "Joy & Pain",
       "url": "https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/36CwJiqhcAgsrtnqWZizkV"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 269709,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5LWQ5zef4xx39dIcOOeqUI"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/5bnoKgSgUtYn8RqviCM15H"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 252725,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "A Little Greener",
         "url": "https://open.spotify.com/album/1Ex7TUmPx3WUaujVqsgZXk"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 222876,
       "name": "A Little Greener",
       "url": "https://open.spotify.com/track/50WSTB17FinNJd92BGcRFc"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/5bnoKgSgUtYn8RqviCM15H"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 252725,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Admit It",
+        "url": "https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        }
+      ],
+      "duration_ms": 187109,
+      "name": "Admit It",
+      "url": "https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "CUBE",
         "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 179882,
       "name": "Come Back - Radio Edit",
       "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Admit It",
-        "url": "https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk"
-      },
-      "artists": [
-        {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
-        }
-      ],
-      "duration_ms": 187109,
-      "name": "Admit It",
-      "url": "https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Unify",
+        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/1reNWIGSfItCbAhy9cr1nz"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Lifted",
         "url": "https://open.spotify.com/album/4jGggj1AJxwhrVqm5oIJlh"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 250263,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "In Contemplation of Clair\u2019s Scent",
-        "url": "https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb"
-      },
-      "artists": [
-        {
-          "name": "Terence Etc.",
-          "url": "https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj"
-        }
-      ],
-      "duration_ms": 170108,
-      "name": "In Contemplation of Clair\u2019s Scent - Edit",
-      "url": "https://open.spotify.com/track/6evizKGLv223qG5hpReBWy"
     }
   ],
   "unique_name": "Soul 'n' the City",

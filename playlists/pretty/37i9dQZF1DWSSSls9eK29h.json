@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 76695,
+  "num_followers": 76753,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5MzUwMywwMDAwMDAwMGQzOWQzNzA2MzZjYzQwZDliMzg2ZTNiZmExNDVmMDRm",
+  "snapshot_id": "MTYzODg5MzUwMywwMDAwMDAwMDAxYjU2ZDk1MDcwMmM5YWJhYzExYzU3MTM3YzMyY2Rm",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -651,18 +651,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Straight To You",
-        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
+        "name": "Dave Koz",
+        "url": "https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU"
       },
       "artists": [
         {
-          "name": "Brian Hughes",
-          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 316466,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
+      "duration_ms": 370040,
+      "name": "So Far From Home",
+      "url": "https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -683,34 +683,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Dave Koz",
-        "url": "https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
       },
       "artists": [
         {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
         }
       ],
-      "duration_ms": 370040,
-      "name": "So Far From Home",
-      "url": "https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 317133,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
+      "duration_ms": 291533,
+      "name": "The Way To You",
+      "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -731,18 +715,34 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
       },
       "artists": [
         {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 291533,
-      "name": "The Way To You",
-      "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
+      "duration_ms": 317133,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Straight To You",
+        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
+      },
+      "artists": [
+        {
+          "name": "Brian Hughes",
+          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
     },
     {
       "added_at": "2020-08-19 00:00:21",

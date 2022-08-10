@@ -1756,6 +1756,24 @@
     },
     {
       "album": {
+        "name": "Give It All",
+        "url": "https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc"
+      },
+      "artists": [
+        {
+          "name": "Leah Culver",
+          "url": "https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh"
+    },
+    {
+      "album": {
         "name": "Give Me A Second",
         "url": "https://open.spotify.com/album/075F3FRDl5aFv3PJBq8id0"
       },

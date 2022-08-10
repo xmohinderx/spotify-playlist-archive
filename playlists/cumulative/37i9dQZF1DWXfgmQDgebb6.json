@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 300095,
       "name": "Be My (feat. Lokid)",
       "url": "https://open.spotify.com/track/0cGqf70zFVKVPFq5S6vWOM"
@@ -504,6 +504,24 @@
     },
     {
       "album": {
+        "name": "bye",
+        "url": "https://open.spotify.com/album/0oseRcehjjM5JjwC7zU4ID"
+      },
+      "artists": [
+        {
+          "name": "YunB",
+          "url": "https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147359,
+      "name": "bye",
+      "url": "https://open.spotify.com/track/2IbuN4TDzf6R7h1c0L1qTw"
+    },
+    {
+      "album": {
         "name": "Prototype",
         "url": "https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4"
       },
@@ -551,7 +569,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 145383,
       "name": "Cellphone",
       "url": "https://open.spotify.com/track/3cyQoGFvCbWzqTMPXh5DlI"
@@ -2465,7 +2483,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172417,
       "name": "onoff",
       "url": "https://open.spotify.com/track/0Irane2MDLNYyoU5qC7phF"
@@ -2509,6 +2527,24 @@
       "duration_ms": 200000,
       "name": "Out of Shell (feat. YESEO)",
       "url": "https://open.spotify.com/track/6yEBcEl5aPwgGoJJJDs7tS"
+    },
+    {
+      "album": {
+        "name": "KHAMAI",
+        "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
+      },
+      "artists": [
+        {
+          "name": "HUNJIYA",
+          "url": "https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256643,
+      "name": "OUTGROWN",
+      "url": "https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW"
     },
     {
       "album": {
@@ -3408,6 +3444,24 @@
     },
     {
       "album": {
+        "name": "theme park",
+        "url": "https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i"
+      },
+      "artists": [
+        {
+          "name": "chilly",
+          "url": "https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "theme park",
+      "url": "https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD"
+    },
+    {
+      "album": {
         "name": "This Is the End",
         "url": "https://open.spotify.com/album/24TwtXPIScBoOresfu11g6"
       },
@@ -3607,7 +3661,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 173195,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3MUX4QV6VWySFkihjKzU93"
@@ -3723,7 +3777,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 182000,
       "name": "who I am?",
       "url": "https://open.spotify.com/track/5c785VJqoQgTcfMA77AyCP"

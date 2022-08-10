@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-339 songs - 1 day 0 hr 13 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+340 songs - 1 day 0 hr 17 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [God Slave the Queen](https://open.spotify.com/track/2pRbyaGoIfh3n5ZLzu3rLv) | [Godslave](https://open.spotify.com/artist/5xLkB61DNBnrx3GmQplSK2) | [God Slave the Queen](https://open.spotify.com/album/48HYdzTkUsevSSY4kk8nb7) | 2:51 | 2021-12-17 | 2022-07-23 |
 | [Grave Dive](https://open.spotify.com/track/4DCtTtWYJLP3UD2s9Km0Ee) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Grave Dive](https://open.spotify.com/album/5D6o12XKVSm9arPgSFefgV) | 2:31 | 2022-04-01 | 2022-05-21 |
 | [Guided by Evil](https://open.spotify.com/track/2oYcHQKLshff65muWC7lUt) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Guided by Evil](https://open.spotify.com/album/60ti7v0SNPVq5YloM1tUbk) | 3:30 | 2021-12-17 | 2022-07-28 |
+| [Guided by Evil](https://open.spotify.com/track/6os2CG54Dj1JRcKWzOh7RN) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:30 | 2022-07-13 |  |
 | [H.L.S.](https://open.spotify.com/track/6hgCTU8XPcnQRCZgNkwdP8) | [Torque](https://open.spotify.com/artist/2ArV3zoNO1WZMe278W8wwU) | [Torque \(Deluxe Edition\)](https://open.spotify.com/album/5jFK19mGDJW7l2TVL71pRD) | 2:57 | 2021-12-17 | 2022-07-28 |
 | [Hallowed Sound](https://open.spotify.com/track/7dPrKElrSU7SYxVlhx5rfg) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Hallowed Sound](https://open.spotify.com/album/1Xlv1M4Zx6qmiVon4U1TAk) | 5:07 | 2021-12-17 | 2022-07-28 |
 | [Hammerhead](https://open.spotify.com/track/0FCvb6CiwfxdRqZOtgj5yt) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Doomsday for the Deceiver](https://open.spotify.com/album/1lXN7Nj1wGSQiPfGjCZHhf) | 6:15 | 2022-07-13 |  |
@@ -225,7 +226,7 @@
 | [Pleasure to Kill](https://open.spotify.com/track/5PFhkQbjJge1h8k7wE1K5U) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Pleasure to Kill](https://open.spotify.com/album/5RP8ddfJnPDYvUjCbBS2Rc) | 4:08 | 2022-07-13 |  |
 | [Pleasure to Kill](https://open.spotify.com/track/1ZZjbRbY0uLQLeNddMqZJ2) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [1985\-1992 Past Life Trauma](https://open.spotify.com/album/22Ad1HDSVfWzPfOwY4DyG6) | 4:09 | 2022-07-13 | 2022-07-15 |
 | [Point Of No Return](https://open.spotify.com/track/5YJILvImepN7U7Vonz2VkB) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Point Of No Return EP](https://open.spotify.com/album/6diYp1uiFuHfCbbapfIC6y) | 4:37 | 2022-07-13 |  |
-| [Possessed by Fire](https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy) | [Exumer](https://open.spotify.com/artist/03sDKsD3y34NBAjeRHucde) | [Possessed by Fire](https://open.spotify.com/album/5C8Mjwwruh2IFfg4WbdnlR) | 5:00 | 2022-07-13 |  |
+| [Possessed by Fire](https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy) | [Exumer](https://open.spotify.com/artist/03sDKsD3y34NBAjeRHucde) | [Possessed by Fire](https://open.spotify.com/album/5C8Mjwwruh2IFfg4WbdnlR) | 5:00 | 2022-07-13 | 2022-08-10 |
 | [Post\-Truth Era](https://open.spotify.com/track/0sQJS58QryP50hsYo2CI8u) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Post\-Truth Era](https://open.spotify.com/album/0omA3faLxpyUINQMCeq4ly) | 3:53 | 2021-12-17 | 2022-07-27 |
 | [Practice What You Preach](https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 4:57 | 2022-07-13 |  |
 | [Prepare For Attack](https://open.spotify.com/track/6cTvR35cvugp2SLSPsnzy0) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Time Is Up](https://open.spotify.com/album/7275posUjEJ7H9tLyaxyLH) | 3:56 | 2022-07-13 |  |

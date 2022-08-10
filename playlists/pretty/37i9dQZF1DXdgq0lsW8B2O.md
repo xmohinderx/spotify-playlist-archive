@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 
 > Music from the early days of Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,017 likes - 45 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,081 likes - 45 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 44 | [Swastika Girls I](https://open.spotify.com/track/6Qi6sqViFIGP77beQoErWU) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/3gHpX5wJn0kzAXJvwORG6u) | 7:32 |
 | 45 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
 
-Snapshot ID: `MTY1MzY1MDE4OSwwMDAwMDAwMDBjZDhhYTE4MmFkMzkyNDk3NTMyYmNkNGI1MjRmY2M5`
+Snapshot ID: `MTY2MDA2MTE5MSwwMDAwMDAwMGYzZWUyZTMyNjFmNDk0NzRhY2Y2MzgyNmIyOGIyYjIx`

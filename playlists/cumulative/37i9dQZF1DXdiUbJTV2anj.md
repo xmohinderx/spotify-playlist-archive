@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Nicolas Cage Fighter
 
-60 songs - 3 hr 26 min - not published yet
+60 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

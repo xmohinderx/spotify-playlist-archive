@@ -966,6 +966,24 @@
     },
     {
       "album": {
+        "name": "Choosey",
+        "url": "https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq"
+      },
+      "artists": [
+        {
+          "name": "SixSaidIt",
+          "url": "https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "Choosey",
+      "url": "https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR"
+    },
+    {
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/0V5I3gahutfxogCBzwiXht"
       },
@@ -2813,6 +2831,36 @@
       "duration_ms": 178634,
       "name": "NIGHTS WITHOUT YOU",
       "url": "https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N"
+    },
+    {
+      "album": {
+        "name": "TEARS AND PURPLE EMOTIONS",
+        "url": "https://open.spotify.com/album/5gtq2kLk7zAOBdtpufuMXz"
+      },
+      "artists": [
+        {
+          "name": "Kxffy",
+          "url": "https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB"
+        },
+        {
+          "name": "Albeezy",
+          "url": "https://open.spotify.com/artist/6rGR0F8POeXk3rnuEKfa4L"
+        },
+        {
+          "name": "NJERI",
+          "url": "https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR"
+        },
+        {
+          "name": "capespring.",
+          "url": "https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187639,
+      "name": "NIGHTS WITHOUT YOU",
+      "url": "https://open.spotify.com/track/3qQT9PyPFmLN1RjZ3GOabf"
     },
     {
       "album": {

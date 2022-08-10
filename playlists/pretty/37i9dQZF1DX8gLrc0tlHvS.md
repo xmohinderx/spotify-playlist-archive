@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,831 likes - 71 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,878 likes - 71 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 64 | [Easy To Love](https://open.spotify.com/track/0El2kYoxWlzQKx0BkWSfJC) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [All The Times We Had](https://open.spotify.com/album/0jzTdtbn35qUvZhDJug39x) | 3:36 |
 | 65 | [In the Yard](https://open.spotify.com/track/3drh6PONEJ53pyffCWczy3) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [The Clearing](https://open.spotify.com/album/6BELKxlBUu6H3vUif48OLZ) | 4:07 |
 | 66 | [Tree by the River](https://open.spotify.com/track/1lhtOsCUtm0kND96OtDeNw) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Kiss Each Other Clean](https://open.spotify.com/album/4hQrMKUocaKJjrv2jxgI9l) | 3:56 |
-| 67 | [Gold Rush](https://open.spotify.com/track/71WTX4gL815zPt0l3wGBTl) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart of My Own](https://open.spotify.com/album/2litDL7wIKCHWALJSrdOV8) | 3:33 |
+| 67 | [Gold Rush](https://open.spotify.com/track/41HBl0MY8sTTe4ZcpMsm5r) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH) | 3:33 |
 | 68 | [The Ceiling](https://open.spotify.com/track/2jpCeGbbVGYu7utG7O4h4J) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [The Wild Feathers \(Deluxe Version\)](https://open.spotify.com/album/2CJCzXS33sf7jcDNCNDRUv) | 6:18 |
 | 69 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 |
 | 70 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 71 | [Hopeless Wanderer](https://open.spotify.com/track/7rME25EmgXGVPQqKtU4CIK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:07 |
 
-Snapshot ID: `MTYxMzEwNjEyMCwwMDAwMDAwMGY1ZWYyZTRkNjg4YmM0MTIzNDI4NWMzMmQ0MTNlMDU0`
+Snapshot ID: `MTYxMzEwNjEyMCwwMDAwMDAwMGI5ZjU5MzdkZGE1MDYwNzdkNDFkMGExMjYxNGZiMjY2`

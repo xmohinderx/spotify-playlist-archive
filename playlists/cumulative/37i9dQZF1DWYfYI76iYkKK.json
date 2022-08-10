@@ -1630,6 +1630,24 @@
     },
     {
       "album": {
+        "name": "\u660e\u5929\u518d\u898b",
+        "url": "https://open.spotify.com/album/1qcnrw6fl5BkdSkd5MNfhx"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202671,
+      "name": "\u660e\u5929\u518d\u898b",
+      "url": "https://open.spotify.com/track/6B80NMNDIYyA1YbiefVsSE"
+    },
+    {
+      "album": {
         "name": "\u662f\u771f\u7684",
         "url": "https://open.spotify.com/album/3VPjlieNDk642y3Eyf8HYx"
       },
@@ -2623,7 +2641,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 212875,
       "name": "\u9918\u984d",
       "url": "https://open.spotify.com/track/1sd6CcDwuxcXXbcnqcuONx"

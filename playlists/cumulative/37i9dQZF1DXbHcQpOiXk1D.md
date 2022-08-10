@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Kokoroko
 
-305 songs - 22 hr 33 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+307 songs - 22 hr 41 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [piano joint](https://open.spotify.com/track/7bz6B6gqfRRiCI34j3JzCI) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [piano joint](https://open.spotify.com/album/0sl4wd2G6qzT8viRkFWDXV) | 2:55 | 2022-02-18 | 2022-07-29 |
 | [Pigalle](https://open.spotify.com/track/2wxTz9nx62j9usQRJDKZD8) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Wu Hen](https://open.spotify.com/album/04kN5iKwGoYMSkr9cPZrWp) | 6:14 | 2021-12-17 | 2022-03-25 |
 | [PJFC](https://open.spotify.com/track/5WJFkmVH7DzzcSFl7l4xhH) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [PJFC](https://open.spotify.com/album/0eTuZF5sklHArepTZQkZdc) | 5:02 | 2021-12-17 | 2022-01-11 |
-| [Pray \- Edit](https://open.spotify.com/track/1BZqxYM0Q365Q62FlvigIq) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Pray](https://open.spotify.com/album/4WkxDBmv1Sd3PnQPt3HNC3) | 4:51 | 2021-12-17 |  |
+| [Pray \- Edit](https://open.spotify.com/track/1BZqxYM0Q365Q62FlvigIq) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Pray](https://open.spotify.com/album/4WkxDBmv1Sd3PnQPt3HNC3) | 4:51 | 2021-12-17 | 2022-08-10 |
 | [Prelude \(Jazz Drill\)](https://open.spotify.com/track/3fbbGDvD3tYaLJAELgLDCZ) | [Xvngo](https://open.spotify.com/artist/5NfAu0hQTsfoDiQajHsply), [Master Mac](https://open.spotify.com/artist/6FPkCzHPEN4Qr7AoAfoSNz) | [Prelude \(Jazz Drill\)](https://open.spotify.com/album/03VVPmXpdYnE0rWKOf2Ozy) | 3:39 | 2021-12-17 | 2022-04-20 |
 | [PROMISE](https://open.spotify.com/track/46KtAhtCoDViV6YoA4vsFh) | [Kemi Ade](https://open.spotify.com/artist/6KDipZITiq5yiYakmv11UP), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [PROMISE](https://open.spotify.com/album/3RoLY5Nm0SiWd8zY4dRx8g) | 3:49 | 2022-03-24 | 2022-04-20 |
 | [rainy day](https://open.spotify.com/track/4gNZbJwt2oJ08xoHVSZfm9) | [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [rainy day](https://open.spotify.com/album/0nX72jBDLi2espmtOndvZZ) | 3:08 | 2022-03-08 | 2022-07-12 |
@@ -273,6 +273,7 @@
 | [Think Fast](https://open.spotify.com/track/2neBTY43v4JUaERaR0QOvg) | [Queen Colobus](https://open.spotify.com/artist/6jE90Mqza69qXCUzscUTbt) | [Think Fast](https://open.spotify.com/album/2wWp8Ay704npJuV7gtm6Wx) | 4:28 | 2022-07-14 | 2022-07-29 |
 | [This Sun](https://open.spotify.com/track/5PdhaqWAtMDcMeI7qvsKLp) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [This Sun / Snatching Time](https://open.spotify.com/album/57534e9EtaSAODocEL9Qi2) | 4:01 | 2021-12-17 | 2022-07-02 |
 | [Three Stripes](https://open.spotify.com/track/31u2irnhBNcQPV65jg12sp) | [Ugolino](https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7) | [Three Stripes](https://open.spotify.com/album/79E2jFBL9LRHOzsdLys8rg) | 4:02 | 2022-03-31 | 2022-07-28 |
+| [Through The Noise \(Chant No\. 2\)](https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [Through The Noise \(Chant No\. 2\)](https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX) | 4:48 | 2022-08-04 |  |
 | [Time Capsule](https://open.spotify.com/track/7nlR2dYMSBaVNz259BQwFU) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Time Capsule](https://open.spotify.com/album/3JbnwEpsYPyVOechStYaGy) | 4:29 | 2021-12-17 | 2022-07-27 |
 | [Timeless](https://open.spotify.com/track/2biG87nyndrlhNxiYSx4Lz) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Timeless](https://open.spotify.com/album/0Lb9MPkn3V7MqCwHPTRx5K) | 6:11 | 2021-12-17 | 2022-07-15 |
 | [Times \(feat\. Lex Amor\)](https://open.spotify.com/track/0p1jXBUG1HO5SXgLbgUygq) | [DoomCannon](https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Times \(feat\. Lex Amor\)](https://open.spotify.com/album/3WV8Wbjfb3VROt5l5kSRoz) | 6:12 | 2022-03-11 | 2022-07-28 |
@@ -296,7 +297,8 @@
 | [Wave Decay](https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Wave Decay](https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh) | 4:51 | 2022-05-26 |  |
 | [Wax Werk \(Grove Version\)](https://open.spotify.com/track/40NTdCCWUcoPpueuXE5KPN) | [Ishmael Ensemble](https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY), [Grove](https://open.spotify.com/artist/1ymLBAEb4VHg1sObM20pQ3) | [Wax Werk \(Grove Version\)](https://open.spotify.com/album/6RP52mfjIdwlRRgGf49umo) | 4:02 | 2022-04-15 | 2022-04-19 |
 | [We Give Thanks](https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb) | 3:40 | 2022-03-18 | 2022-07-29 |
-| [We Give Thanks](https://open.spotify.com/track/4eYtBs2OYlnKbGRsHnAwWN) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/5R7v0oLGY2reMD4GkKpdqq) | 3:40 | 2022-07-28 |  |
+| [We Give Thanks](https://open.spotify.com/track/4eYtBs2OYlnKbGRsHnAwWN) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/5R7v0oLGY2reMD4GkKpdqq) | 3:40 | 2022-07-28 | 2022-08-10 |
+| [We Give Thanks](https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 3:40 | 2022-08-04 |  |
 | [What Does It Feel Like?](https://open.spotify.com/track/4tpEUoWgtQqzdpb0nllVWg) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Camilla George](https://open.spotify.com/artist/6gIw9VQPs8SI1XRYhSwYWH) | [What Does It Feel Like?](https://open.spotify.com/album/0D2ljWH1TFDbilmWRjGwST) | 2:56 | 2022-03-24 | 2022-07-26 |
 | [What If Nile Rodgers And Fela Kuti Were Friends](https://open.spotify.com/track/3VeOPOlEAwZU0d4jBMcBbA) | [All Day Breakfast Cafe](https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd) | [What If Nile Rodgers And Fela Kuti Were Friends](https://open.spotify.com/album/37ddo5CFyRpim7tx97apXC) | 8:10 | 2022-01-14 |  |
 | [What Kinda Music](https://open.spotify.com/track/4FQytrC7QjGy8mecYCnsuy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/7rnlxqdiSjjvceJLVMMmmv) | 3:50 | 2021-12-17 | 2022-03-25 |

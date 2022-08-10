@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-420 songs - 23 hr 49 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
+421 songs - 23 hr 52 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 | 2022-08-05 |
 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/7ArrTJ1LwcGAlEO65LUQ7i) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:21 | 2019-05-26\* | 2021-10-02 |
 | [i feel 2 much](https://open.spotify.com/track/3Q7bVgmFnAoUmVngIZnE4k) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [i feel 2 much](https://open.spotify.com/album/4e1DvsaLzjXFnnihyHpSwd) | 4:00 | 2020-07-21 | 2022-07-29 |
-| [I feel 2 much](https://open.spotify.com/track/6p19vVjC4Lge9VANZlG8gi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 4:00 | 2022-07-28 |  |
+| [I feel 2 much](https://open.spotify.com/track/6p19vVjC4Lge9VANZlG8gi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 4:00 | 2022-07-28 | 2022-08-10 |
 | [I Hate This Part](https://open.spotify.com/track/4mYd9FQyU5eekDJyVeIRgS) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination](https://open.spotify.com/album/74b3KUT96bmPSN0nlX6YnV) | 3:38 | 2019-06-23 | 2019-08-10 |
 | [I Love You's](https://open.spotify.com/track/28Tv8zltFDr5wBCG3Pfky4) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [I Love You’s](https://open.spotify.com/album/7poPqCs2rGkF1hzZHuzzCv) | 3:36 | 2020-03-29 | 2022-07-28 |
 | [I Love You's](https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 3:36 | 2022-07-28 |  |
@@ -345,6 +345,7 @@
 | [Song You'll Never Hear \(feat\. Maisie Peters\)](https://open.spotify.com/track/5EmM1BSgdTZTvG86AZhtsw) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Song You'll Never Hear \(feat\. Maisie Peters\)](https://open.spotify.com/album/1EtC24OKKvHPgiNkPemOX8) | 2:33 | 2021-11-13 | 2022-07-29 |
 | [SOS](https://open.spotify.com/track/7jmFU6rB0UoSl1xsC1xEh3) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self\-Sabotage](https://open.spotify.com/album/7mIMfybxdSJepWVAYK8GR7) | 3:07 | 2019-05-26\* | 2021-09-24 |
 | [Stable](https://open.spotify.com/track/3W4bQHLFTuYM8foseINMeU) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Stable](https://open.spotify.com/album/5lad5kswZGKOmYfy9jnhWG) | 3:22 | 2021-01-08 | 2021-10-01 |
+| [Stay Together](https://open.spotify.com/track/6Vv8kZbiRdSbybIukXjvWF) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:20 | 2022-08-05 |  |
 | [Steal My Clothes \(feat\. Bea Miller\)](https://open.spotify.com/track/5VvUxoP2bKyps8sroie6T1) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Steal My Clothes \(feat\. Bea Miller\)](https://open.spotify.com/album/6Xss8KphZhnWr2bq2tvEr4) | 2:09 | 2021-08-07 | 2021-10-27 |
 | [Still Not Made It](https://open.spotify.com/track/6p1zxVqJ3oc8MFb9v76X0Y) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Forever Young](https://open.spotify.com/album/6eml4RwALbWZvPJKDuHiiD) | 3:14 | 2021-11-13 | 2022-07-28 |
 | [Still Wondering \- Tep No Remix](https://open.spotify.com/track/3mD8rKs6rtOO3RUwNTIweI) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF), [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Still Wondering \(Remixes\)](https://open.spotify.com/album/0w6rYptTM0hE2WOZicOTO6) | 3:55 | 2019-05-26\* | 2021-05-24 |

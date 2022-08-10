@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 124309,
+  "num_followers": 124406,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGQyMjc5NWE0NDI2YWNjZGU2ZTc2ZDE4YjUxOTQxYzFk",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDQyZmQ0MmJiYmY1Zjg5NmUwMWNjNzczYWUzMjI4YjRj",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "A Trav\u00e9s del Mar de los Sargazos",
-        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
-      },
-      "artists": [
-        {
-          "name": "Skay Beilinson",
-          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
-        }
-      ],
-      "duration_ms": 272480,
-      "name": "Oda a la Sin Nombre",
-      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Verde Paisaje del Infierno",
         "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 256386,
       "name": "Ruleta",
       "url": "https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "A Trav\u00e9s del Mar de los Sargazos",
+        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
+      },
+      "artists": [
+        {
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+        }
+      ],
+      "duration_ms": 272480,
+      "name": "Oda a la Sin Nombre",
+      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Solo Canciones",
-        "url": "https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "A Cielo Abierto - El a\u00f1o del tigre",
         "url": "https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 194597,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Solo Canciones",
+        "url": "https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Asi Es el Rock And Roll",
-        "url": "https://open.spotify.com/album/1xWKoqL5voetMxj2ddxI7F"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 372091,
-      "name": "Mil Canciones",
-      "url": "https://open.spotify.com/track/6IBJRIkJjFZAKNatEy8AU2"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Aunque Cueste Ver El Sol",
         "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 244093,
       "name": "Cielo De Un Solo Color",
       "url": "https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Asi Es el Rock And Roll",
+        "url": "https://open.spotify.com/album/1xWKoqL5voetMxj2ddxI7F"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 372091,
+      "name": "Mil Canciones",
+      "url": "https://open.spotify.com/track/6IBJRIkJjFZAKNatEy8AU2"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "C\u00f3digo Gen\u00e9tico",
-        "url": "https://open.spotify.com/album/1UUYlFcoM5lNaDVjrlfhUt"
+        "name": "Casi Justicia Social II",
+        "url": "https://open.spotify.com/album/2UsSavt2PWkbqaFnTSxHFg"
       },
       "artists": [
         {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
         }
       ],
-      "duration_ms": 310373,
-      "name": "Dale!",
-      "url": "https://open.spotify.com/track/1xfJQWdr43FJNdRn7Fr9pI"
+      "duration_ms": 186788,
+      "name": "Rotos y Descocidos",
+      "url": "https://open.spotify.com/track/03gBHAQqX65jxtnDdfPj5m"
     }
   ],
   "unique_name": "Rock Barrial",

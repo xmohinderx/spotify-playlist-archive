@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Top Arabic hits are right here. Cover: Nancy Ajram and Marshmello.\n",
+  "description": "Top Arabic hits are right here. Cover: Tamer Hosny",
   "name": "Hot Arabic Hits - Yalla \u064a\u0644\u0627",
   "published_playlist_ids": [
     "4uTt9Gotclw8677k3BhhPx"
@@ -1029,6 +1029,24 @@
       "duration_ms": 228510,
       "name": "Enta Al Saadah",
       "url": "https://open.spotify.com/track/2dN3NBI4cvTmexGsgDfbf7"
+    },
+    {
+      "album": {
+        "name": "Enta Ekhtyar (From Bhabak Movie)",
+        "url": "https://open.spotify.com/album/0os60GScuoNH6G53ga73IE"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Enta Ekhtyar - From Bhabak Movie",
+      "url": "https://open.spotify.com/track/5bMArgC9c0qSHRoTL2NlLy"
     },
     {
       "album": {
@@ -3053,7 +3071,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 250334,
       "name": "Teba",
       "url": "https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4"

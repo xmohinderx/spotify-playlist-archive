@@ -1,12 +1,12 @@
 {
   "description": "Haz que tu coraz\u00f3n lata m\u00e1s alto con los beats de estos temas de amor EDM.",
-  "num_followers": 47134,
+  "num_followers": 47157,
   "original_name": "EDM LUV <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MTI5NSwwMDAwMDAwMGM5NTE5NTI5ODAyOTYxOTkwNTUwODg1MDNlNjVmYWY4",
+  "snapshot_id": "MTY0OTg2MTI5NSwwMDAwMDAwMDBhZDAyMGYzYjJlZmMxMWVmYjg1M2Q3MzhlNGQ0MDE0",
   "tracks": [
     {
       "added_at": "2022-04-13 14:48:15",
@@ -859,6 +859,26 @@
     {
       "added_at": "2022-04-13 14:48:15",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Katie Pearlman",
+          "url": "https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl"
+        }
+      ],
+      "duration_ms": 231290,
+      "name": "Nobody Compares To You (feat. Katie Pearlman)",
+      "url": "https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m"
+    },
+    {
+      "added_at": "2022-04-13 14:48:15",
+      "album": {
         "name": "Love Runs Out (feat. G-Eazy & Sasha Alex Sloan)",
         "url": "https://open.spotify.com/album/0Lwms3Z89fmqqyVWPkZUCY"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 164166,
       "name": "Love Runs Out (feat. G-Eazy & Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty"
-    },
-    {
-      "added_at": "2022-04-13 14:48:15",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Katie Pearlman",
-          "url": "https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl"
-        }
-      ],
-      "duration_ms": 231290,
-      "name": "Nobody Compares To You (feat. Katie Pearlman)",
-      "url": "https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m"
     },
     {
       "added_at": "2022-04-13 14:48:15",
@@ -963,6 +963,26 @@
     {
       "added_at": "2022-04-13 14:48:15",
       "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 285596,
+      "name": "I Got U",
+      "url": "https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd"
+    },
+    {
+      "added_at": "2022-04-13 14:48:15",
+      "album": {
         "name": "Forget About Me",
         "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 177637,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
-    },
-    {
-      "added_at": "2022-04-13 14:48:15",
-      "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 285596,
-      "name": "I Got U",
-      "url": "https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd"
     },
     {
       "added_at": "2022-04-13 14:48:15",
@@ -1127,18 +1127,26 @@
     {
       "added_at": "2022-04-13 14:48:15",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+        "name": "EDM Hits",
+        "url": "https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
         }
       ],
-      "duration_ms": 191000,
-      "name": "When Love Takes Over (feat. Kelly Rowland)",
-      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
+      "duration_ms": 205440,
+      "name": "Calling (Lose My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6"
     },
     {
       "added_at": "2022-04-13 14:48:15",
@@ -1163,26 +1171,18 @@
     {
       "added_at": "2022-04-13 14:48:15",
       "album": {
-        "name": "EDM Hits",
-        "url": "https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi"
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
       "artists": [
         {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Ryan Tedder",
-          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Calling (Lose My Mind) - Radio Edit",
-      "url": "https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6"
+      "duration_ms": 191000,
+      "name": "When Love Takes Over (feat. Kelly Rowland)",
+      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
     },
     {
       "added_at": "2022-04-13 14:48:15",

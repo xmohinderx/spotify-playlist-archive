@@ -4,7 +4,7 @@
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-122 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/2ZFxmpAoH6VW0wtMd26TFZ)
+123 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/2ZFxmpAoH6VW0wtMd26TFZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Kendwa](https://open.spotify.com/track/01oAiiCUFODCl8Qxm23l7m) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Kendwa](https://open.spotify.com/album/4XfbPecsw0OHMYHGzENOX3) | 4:28 | 2021-08-05 | 2022-07-29 |
 | [Kiwi](https://open.spotify.com/track/1BhhWCtAfUkBQTID7uLgQ6) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6AsKuhZxUSO93QaKdOhwJ4) | 3:52 | 2021-08-05 | 2022-07-29 |
 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 | 2021-08-05 |  |
-| [Let It Go](https://open.spotify.com/track/3NC6qFD2LyyQzYWUGBoycb) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [On a Summer Day](https://open.spotify.com/album/67g7BOkkgBJpaCZC6imYUA) | 2:51 | 2021-08-05 |  |
+| [Let It Go](https://open.spotify.com/track/3NC6qFD2LyyQzYWUGBoycb) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [On a Summer Day](https://open.spotify.com/album/67g7BOkkgBJpaCZC6imYUA) | 2:51 | 2021-08-05 | 2022-08-10 |
 | [Lost in Music](https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Lost in Music](https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG) | 3:28 | 2021-08-05 |  |
 | [Lost Lake](https://open.spotify.com/track/0ZFrmkdubhTMeKduvJiLMW) | [Boomo](https://open.spotify.com/artist/7JI9PRTGOQVzLkWnbJtwo6) | [Lost Lake](https://open.spotify.com/album/5rr18WFY7nHLPCibLnL9O1) | 3:30 | 2021-08-05 | 2022-06-17 |
 | [Love Me \(Don't Worry\)](https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [Love Me \(Don't Worry\)](https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l) | 2:42 | 2021-08-05 |  |
@@ -80,6 +80,7 @@
 | [Never Gonna Give You Up](https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Never Gonna Give You Up](https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8) | 3:32 | 2021-08-05 |  |
 | [Nicaraguan Dream](https://open.spotify.com/track/2NQ6In9ja7fBeBI9ADmMWB) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Dazed And Amazed](https://open.spotify.com/album/4GhOIDimNe1i5B8KCSnW3B) | 4:31 | 2021-08-05 | 2022-07-29 |
 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 | 2021-08-05 |  |
+| [One Last Time](https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX) | 2:30 | 2021-08-05 |  |
 | [Over](https://open.spotify.com/track/4eAKdH0VBbjF4VvU5f4zLp) | [Aérotique](https://open.spotify.com/artist/6qOzyug9zoGuMHTmErJ6zo), [Tara Mobee](https://open.spotify.com/artist/6HThDFOUqUBmjE07Bhqe5K) | [Over](https://open.spotify.com/album/4SAxlTMGIoqcoZxlzOG112) | 3:38 | 2021-08-05 | 2022-07-26 |
 | [Over and Over](https://open.spotify.com/track/1F0DPRmTffMqDkCbQ51vik) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD), [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Over and Over](https://open.spotify.com/album/1u718NqKyS7ahIrLbGTnWu) | 2:57 | 2021-08-05 | 2022-07-26 |
 | [Pablo IV](https://open.spotify.com/track/7x6FYyK7URaq3vQl50cCCG) | [Keppel Skies](https://open.spotify.com/artist/6GFa2nEUxUpfoPMowXuFUB) | [I Am Sick Of This Working Man's Coffee](https://open.spotify.com/album/03FKhU4zwvYF2zHMBog2iL) | 4:14 | 2021-08-05 | 2022-07-29 |

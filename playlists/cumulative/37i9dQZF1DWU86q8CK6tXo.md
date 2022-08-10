@@ -4,7 +4,7 @@
 
 > Female\-identifying only tunes, with some of  <a href=“spotify:artist:5rZUNweztKBI1Xy3XhYHoJ”>Danielle Ponder's</a> personal picks\. Cover: Danielle Ponder
 
-444 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+445 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-05-04 | 2022-06-01 |
 | [Polly](https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:42 | 2021-12-01 | 2022-01-06 |
 | [Post Party Trauma](https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Post Party Trauma](https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl) | 3:11 | 2022-08-03 |  |
+| [Power](https://open.spotify.com/track/3nE7KhZq3bz31I7g7hvt1v) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Power](https://open.spotify.com/album/5B2xt3XKpNqKbHj7T02rms) | 2:48 | 2022-08-03 |  |
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-06-01 | 2022-07-07 |
 | [Pressurized](https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Pressurized](https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe) | 2:16 | 2022-02-02 | 2022-03-09 |
 | [Price of Perfection](https://open.spotify.com/track/2bu6TFn64ASDFXocD9HQ38) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ), [Lilianne Coeverden](https://open.spotify.com/artist/3H1AhCg1QoUO8Hnl10Ze3E) | [Price of Perfection](https://open.spotify.com/album/2txLPaA4ixLXjw3yYJkcCH) | 3:26 | 2022-03-08 | 2022-04-07 |
@@ -339,7 +340,7 @@
 | [RIP, Love](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 2:53 | 2022-06-01 | 2022-07-07 |
 | [Roadkill](https://open.spotify.com/track/6GlrfpSsWOdjeD9K1ziFzi) | [VIAL](https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf) | [LOUDMOUTH](https://open.spotify.com/album/6YIMA2QvnMepRD7FwKsygm) | 2:37 | 2021-12-01 | 2022-01-06 |
 | [Rockstar](https://open.spotify.com/track/220FuxHU2wcLLqUNRDglzm) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/10kinVEnlFkRub41F304V7) | 3:09 | 2022-03-08 | 2022-04-07 |
-| [Ronnie](https://open.spotify.com/track/4qYfXg9G99RdC9ztNR8vQo) | [Tchotchke](https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG) | [Tchotchke](https://open.spotify.com/album/0hIl9YXPRu5ZlqakOREbna) | 2:58 | 2022-08-03 |  |
+| [Ronnie](https://open.spotify.com/track/4qYfXg9G99RdC9ztNR8vQo) | [Tchotchke](https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG) | [Tchotchke](https://open.spotify.com/album/0hIl9YXPRu5ZlqakOREbna) | 2:58 | 2022-08-03 | 2022-08-10 |
 | [Running Like That](https://open.spotify.com/track/3iXkfLhzG46Iaej2KQxLnU) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [Reflection](https://open.spotify.com/album/2z5JAOOwIIWog5UDQydquq) | 4:19 | 2022-02-02 | 2022-03-09 |
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-04-06 | 2022-05-05 |
 | [SAVING GRACE](https://open.spotify.com/track/5GfNqvXZ1BEjcjZfcAm8MF) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAVING GRACE](https://open.spotify.com/album/2MzlnjjIg4PDsIL8PgBuNr) | 2:52 | 2022-05-04 | 2022-06-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzrEOEOM5Qu.md) - [plain]
 
 > New and classic Christmas tales for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,932 likes - 13 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,928 likes - 13 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

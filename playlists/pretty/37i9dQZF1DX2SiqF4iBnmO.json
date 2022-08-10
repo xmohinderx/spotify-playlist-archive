@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 38380,
+  "num_followers": 38510,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMDdjZDkxMjhkNmZjZGE4YzA4NWM3YTM4YThhNTYzODQ1",
+  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMDczZDU0ZjFmOWU5ZGVmOTYwMDk1OTA4YjViMTg0ZWU0",
   "tracks": [
     {
       "added_at": "2021-10-20 15:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Sweet Sixteen - Remastered",
-      "url": "https://open.spotify.com/track/3kyW3qviTr2dIyvqa1lEWC"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Upstairs At Eric's",
         "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 191306,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Sweet Sixteen - Remastered",
+      "url": "https://open.spotify.com/track/3kyW3qviTr2dIyvqa1lEWC"
     },
     {
       "added_at": "2021-10-20 15:00:00",

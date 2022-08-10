@@ -1636,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "Illusion of Time",
+        "url": "https://open.spotify.com/album/5Yn8aw8P6ZXUQhs9plL8zr"
+      },
+      "artists": [
+        {
+          "name": "Sacha Hoedemaker",
+          "url": "https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Illusion of Time",
+      "url": "https://open.spotify.com/track/7whzU6Np1WNa5X9N2KJ317"
+    },
+    {
+      "album": {
         "name": "Impuissance",
         "url": "https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay"
       },
@@ -2830,6 +2848,24 @@
     },
     {
       "album": {
+        "name": "Passacaglia",
+        "url": "https://open.spotify.com/album/6BGRc8IdJ7LnmfVUR5gCbP"
+      },
+      "artists": [
+        {
+          "name": "Martin Bloch",
+          "url": "https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163554,
+      "name": "Passacaglia",
+      "url": "https://open.spotify.com/track/1uO8v8SqOHLw1XGAPZBq9q"
+    },
+    {
+      "album": {
         "name": "Passing By",
         "url": "https://open.spotify.com/album/7L0eqs9WBSnYhfhFQr2cko"
       },
@@ -3136,6 +3172,24 @@
     },
     {
       "album": {
+        "name": "Recognition",
+        "url": "https://open.spotify.com/album/4vKS3tCofv0jYyNUPsyKxE"
+      },
+      "artists": [
+        {
+          "name": "The Masked Pianoman",
+          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172600,
+      "name": "Recognition",
+      "url": "https://open.spotify.com/track/27PUypwEvP5YExUEFUGg8n"
+    },
+    {
+      "album": {
         "name": "Red Roses",
         "url": "https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O"
       },
@@ -3331,6 +3385,24 @@
       "duration_ms": 133500,
       "name": "Sagittabondo",
       "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
+    },
+    {
+      "album": {
+        "name": "Salamander",
+        "url": "https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn"
+      },
+      "artists": [
+        {
+          "name": "Ennis Elder",
+          "url": "https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185620,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl"
     },
     {
       "album": {
@@ -3659,6 +3731,24 @@
       "duration_ms": 148000,
       "name": "Stundom",
       "url": "https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt"
+    },
+    {
+      "album": {
+        "name": "Gjeilo: Sun Prelude",
+        "url": "https://open.spotify.com/album/2j5otpbzoJX9uB9pD7jdzK"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154040,
+      "name": "Sun Prelude",
+      "url": "https://open.spotify.com/track/07RjQvhbiROEpMtNyNE08U"
     },
     {
       "album": {
@@ -4311,6 +4401,32 @@
       "duration_ms": 125347,
       "name": "Who I Was",
       "url": "https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me"
+    },
+    {
+      "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/6QASqs23q3trkXhljIUw1f"
+      },
+      "artists": [
+        {
+          "name": "Levi Meyer",
+          "url": "https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/2IInKjGL3tht91GL2ZCRsN"
     },
     {
       "album": {

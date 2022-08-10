@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: ao",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u83c5\u539f\u572d",
   "name": "RADAR: Early Noise ",
   "published_playlist_ids": [
     "3egMOJl8BjDmQKjIUlEPsP"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 193709,
       "name": "all green",
       "url": "https://open.spotify.com/track/5wJUX4r9w7I8sfTI5nzClN"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 217741,
       "name": "Control",
       "url": "https://open.spotify.com/track/6dtdMzhCicbyXYsR9oEXwm"
@@ -1196,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "GLOW",
+        "url": "https://open.spotify.com/album/6Oiw07ZgO01snzERxSWwRk"
+      },
+      "artists": [
+        {
+          "name": "idom",
+          "url": "https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180178,
+      "name": "GLOW",
+      "url": "https://open.spotify.com/track/1rq0GSfAOKZQX6PpkOcQGF"
+    },
+    {
+      "album": {
         "name": "happy. (feat. \u91c8\u8fe6\u574a\u4e3b)",
         "url": "https://open.spotify.com/album/0MEILgYBxCWp4aEMEyyxHI"
       },
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 254045,
       "name": "ia",
       "url": "https://open.spotify.com/track/0Gh8WFwlECOD2v57zF15Nn"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 238266,
       "name": "Over You",
       "url": "https://open.spotify.com/track/4ZEHtHqeqfG4aowWSQzjdN"
@@ -2441,7 +2459,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 210338,
       "name": "puzzle (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp"
@@ -3562,6 +3580,24 @@
     },
     {
       "album": {
+        "name": "zettaizetsumei",
+        "url": "https://open.spotify.com/album/4GT3kyFUUC3h093sN4H9Mu"
+      },
+      "artists": [
+        {
+          "name": "NOMAD POP",
+          "url": "https://open.spotify.com/artist/2sggfxkeQ5OFGNPZpadSFZ"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233170,
+      "name": "zettaizetsumei",
+      "url": "https://open.spotify.com/track/6x0WG2IIzpXkldDE1E7jtP"
+    },
+    {
+      "album": {
         "name": "ZOMBIE'S HIGH",
         "url": "https://open.spotify.com/album/6rEM6ma5RsuWJdtgXbrjZs"
       },
@@ -3881,7 +3917,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 251513,
       "name": "\u305b\u307e\u3044\u307e\u3061",
       "url": "https://open.spotify.com/track/0GsTJVzM3lwS1CLwM0ad23"
@@ -3917,7 +3953,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 211890,
       "name": "\u305d\u306e\u6c17\u306b\u3055\u305b\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/4oyFtN6SG6eLFYdUKQ7x55"
@@ -4317,7 +4353,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 209512,
       "name": "\u30b9\u30fc\u30d1\u30fc\u30cf\u30a4\u30d1\u30fc\u5fcd\u8005\u624b\u88cf\u5263",
       "url": "https://open.spotify.com/track/5xqxfPEKE3K7Su32bnKtrQ"
@@ -4955,7 +4991,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 227573,
       "name": "\u5618\u5bdd",
       "url": "https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns"
@@ -6037,7 +6073,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 183733,
       "name": "\u80f8\u9a12\u304e - feat. Chi- from \u30ab\u30e1\u30ec\u30aa\u30f3\u30fb\u30e9\u30a4\u30e0\u30fb\u30a6\u30fc\u30d4\u30fc\u30d1\u30a4",
       "url": "https://open.spotify.com/track/7FHyKWcB49CJK1acgKMhit"

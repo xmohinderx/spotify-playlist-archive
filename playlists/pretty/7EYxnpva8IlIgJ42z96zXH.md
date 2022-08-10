@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,351 likes - 50 songs - 2 hr 47 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,357 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cranky Boy](https://open.spotify.com/track/0K7xbyM409xlMZ80nth1Sd) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Cranky Boy](https://open.spotify.com/album/0GrPTmbLhOwfqEsCLlcl6z) | 3:27 |
-| 2 | [BREAK MY SOUL \- Terry Hunter Remix](https://open.spotify.com/track/6UpmSD4nZhmESpf1vtSax0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Terry Hunter](https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu) | [BREAK MY SOUL REMIXES](https://open.spotify.com/album/43geArd3U23pTVjqzTSnkI) | 5:30 |
-| 3 | [Where Did You Go?](https://open.spotify.com/track/22GCuIGPCDEh8izFovMD7N) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/10tU00gHCNHETG5QFxeeHv) | 2:57 |
-| 4 | [Sway My Way \(with Amy Shark\)](https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sway My Way \(with Amy Shark\)](https://open.spotify.com/album/39k6qmMELqRXZTAKzcyBwe) | 2:16 |
+| 1 | [Sway My Way \(with Amy Shark\)](https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sway My Way \(with Amy Shark\)](https://open.spotify.com/album/39k6qmMELqRXZTAKzcyBwe) | 2:16 |
+| 2 | [Cranky Boy](https://open.spotify.com/track/0K7xbyM409xlMZ80nth1Sd) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Cranky Boy](https://open.spotify.com/album/0GrPTmbLhOwfqEsCLlcl6z) | 3:27 |
+| 3 | [BREAK MY SOUL \- Terry Hunter Remix](https://open.spotify.com/track/6UpmSD4nZhmESpf1vtSax0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Terry Hunter](https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu) | [BREAK MY SOUL REMIXES](https://open.spotify.com/album/43geArd3U23pTVjqzTSnkI) | 5:30 |
+| 4 | [Where Did You Go?](https://open.spotify.com/track/22GCuIGPCDEh8izFovMD7N) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/10tU00gHCNHETG5QFxeeHv) | 2:57 |
 | 5 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 6 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 |
 | 7 | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 49 | [Never Forget](https://open.spotify.com/track/3BCh6kycUH2qMzNwEmqLn5) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Never Forget](https://open.spotify.com/album/6ixxICq9TGKYU5v13oOTh2) | 2:53 |
 | 50 | [No Drama](https://open.spotify.com/track/1MZmduhi0sK3RbF4cN3dbv) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Sophiegrophy](https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE) | [No Drama](https://open.spotify.com/album/7HNvH4UVOMxMITfeXxu6ch) | 3:47 |
 
-Snapshot ID: `MjM1Myw5NGEyODQyNTc3YmFmYzhmMGVlZjkzNDg3ZDhlYmFjMjZlNjA5MmU3`
+Snapshot ID: `MjM1NCw0MDdiMjliNzAzYzRjMmJjMWVmMzk5YTUxYjQ2Mjk4NTgzNzllNTRk`

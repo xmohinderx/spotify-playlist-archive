@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,470 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,531 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 33 | [Beyond The Veil](https://open.spotify.com/track/5wW50T3h2AnaQXp6rUALtg) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 2:38 |
 | 34 | [Graveyard Girlfriend](https://open.spotify.com/track/4hyBfSiH8h6xe5MagKN9Aw) | [Kepi Ghoulie & The Copyrights](https://open.spotify.com/artist/07ilVTX7rWZkHA8IIEwogC) | [Re\-Animation Festival](https://open.spotify.com/album/4wTOb6aleIGvVYywjfavKe) | 2:25 |
 | 35 | [Hellbound Heart](https://open.spotify.com/track/44qkYytrjp1w9Dy1Q4kGEV) | [Stellar Corpses](https://open.spotify.com/artist/1hw7xcATBmW7H2Ub7MRk7J), [Jimmy Calabrese](https://open.spotify.com/artist/6KoBsgEcgUi4hUkVZiAgiH) | [Hellbound Heart](https://open.spotify.com/album/7nLqF6LpGmCJD74orPRgrP) | 3:46 |
-| 36 | [Mark of the Devil](https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH) | [The Other](https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W) | [Haunted](https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5) | 3:58 |
-| 37 | [Two\-Headed Shark](https://open.spotify.com/track/0JOz2NI94mJAiV5phfqMu9) | [The Buttertones](https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx) | [Gravedigging](https://open.spotify.com/album/1U7hECBiaVZvmnF7mZNMhB) | 1:52 |
+| 36 | [Two\-Headed Shark](https://open.spotify.com/track/0JOz2NI94mJAiV5phfqMu9) | [The Buttertones](https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx) | [Gravedigging](https://open.spotify.com/album/1U7hECBiaVZvmnF7mZNMhB) | 1:52 |
+| 37 | [Mark of the Devil](https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH) | [The Other](https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W) | [Haunted](https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5) | 3:58 |
 | 38 | [Night Flier](https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC) | [Bloodsucking Zombies from outer Space](https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9) | [All These Fiendish Things](https://open.spotify.com/album/5YQHYdhHRa5D5B6e6Er3hj) | 3:29 |
 | 39 | [Be My End](https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Be My End](https://open.spotify.com/album/6zNt1H80jWVERyW4UyVjq0) | 2:38 |
 | 40 | [Army of Darkness](https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03) | [Drunktank](https://open.spotify.com/artist/2Gx4sbajIQU6u49ZsiTs3c) | [Return of the Infamous Four](https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
 | 50 | [2,3,4](https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN) | [Mad Sin](https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB) | [Chills and Thrills in a Drama of Mad Sins and Mystery \(Remastered\)](https://open.spotify.com/album/2Y2a0lq7MgirW3MR9zAsY5) | 1:57 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDU3ODk1YTIwNWJmYjYyOWYzMzc3M2M3ZjM3ZmY1MmZj`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDNjZTM1NDUwZmUyNTI4MjBhZDZhNjI5NWQ2ZDIwMWRh`

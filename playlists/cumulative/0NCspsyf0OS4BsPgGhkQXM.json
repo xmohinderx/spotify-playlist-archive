@@ -5523,7 +5523,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 240000,
       "name": "On A Dime",
       "url": "https://open.spotify.com/track/5Riszk0ZuaA6US8TyZZ9cT"
@@ -6798,6 +6798,32 @@
     },
     {
       "album": {
+        "name": "Science (feat. Sarah de Warren)",
+        "url": "https://open.spotify.com/album/5CAaKTXlne0ArJvvI0MI5C"
+      },
+      "artists": [
+        {
+          "name": "Player1",
+          "url": "https://open.spotify.com/artist/531qdIZUdxxz8LQ4j63zTP"
+        },
+        {
+          "name": "ELYX",
+          "url": "https://open.spotify.com/artist/0yHnhg6YZHrFZ0Dg1LRe7w"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144461,
+      "name": "Science (feat. Sarah de Warren)",
+      "url": "https://open.spotify.com/track/2onWmDFkZxBrOHC8q0kmJN"
+    },
+    {
+      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/1qFIBObdqDHVjvtvpedobj"
       },
@@ -7741,7 +7767,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197735,
       "name": "The Uprising",
       "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
@@ -8755,7 +8781,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 155624,
       "name": "You Should See Me In A Crown",
       "url": "https://open.spotify.com/track/6aokYrHjUknteCwKuCfcqY"

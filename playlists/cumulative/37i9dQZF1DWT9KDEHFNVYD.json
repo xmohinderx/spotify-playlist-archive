@@ -3784,6 +3784,28 @@
     },
     {
       "album": {
+        "name": "Simple Headphone Mind / Trippin' With The Birds",
+        "url": "https://open.spotify.com/album/0WK9DyPkE7wGn958hjF6X4"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        },
+        {
+          "name": "Nurse With Wound",
+          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 646683,
+      "name": "Simple Headphone Mind",
+      "url": "https://open.spotify.com/track/0auzo1bD9DMIP7bcvClRS9"
+    },
+    {
+      "album": {
         "name": "Street Worms",
         "url": "https://open.spotify.com/album/7GCnSXQc6H4vF8TU7hSdSk"
       },
@@ -4263,7 +4285,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 204627,
       "name": "The Light That Will Cease To Fail",
       "url": "https://open.spotify.com/track/0P9XN1acf0KdYBfzc7ymTz"

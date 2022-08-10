@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Sandy, Wanessa Camargo
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,737 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,895 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 12 | [Declaração](https://open.spotify.com/track/3d9nrJ5u7JIMLdA917SzEn) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Declaração](https://open.spotify.com/album/03xIJaP4Ify8698ptSD82L) | 2:55 |
 | 13 | [Amores E Flores](https://open.spotify.com/track/5rRpDkzRMwGViXM0jYd5ye) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Amores E Flores](https://open.spotify.com/album/1PlsJ3MpUgGs7AkuKymCtp) | 2:51 |
 | 14 | [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:21 |
-| 15 | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/track/6mwF2kTs8wiJqqgHwbYqxl) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/album/2hlozdNQv4uEOxtXLWEuci) | 3:40 |
+| 15 | [Porta Do Teu Prédio](https://open.spotify.com/track/5YWW66ptUmdgUNBKU72sgX) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Mundo Novo](https://open.spotify.com/album/3iykO5tq0Q0jEtTgrmpip7) | 2:59 |
 | 16 | [Desapaixonar](https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Desapaixonar](https://open.spotify.com/album/0t3IQv7Y2zvBumYHhht8Gv) | 3:49 |
-| 17 | [Porta Do Teu Prédio](https://open.spotify.com/track/5YWW66ptUmdgUNBKU72sgX) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Mundo Novo](https://open.spotify.com/album/3iykO5tq0Q0jEtTgrmpip7) | 2:59 |
+| 17 | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/track/6mwF2kTs8wiJqqgHwbYqxl) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/album/2hlozdNQv4uEOxtXLWEuci) | 3:40 |
 | 18 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 |
 | 19 | [Outono](https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:24 |
 | 20 | [Oceana](https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Oceana](https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN) | 2:28 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 78 | [Embriagado de Saudade](https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Embriagado de Saudade](https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX) | 2:35 |
 | 79 | [Faz Frio Aqui no Sul](https://open.spotify.com/track/13CbrA1hFYQE7gJUcLY99L) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk) | [Faz Frio Aqui no Sul](https://open.spotify.com/album/0H6AIKJCX6yj8NCnM9qaNS) | 2:48 |
 
-Snapshot ID: `MTY1OTY2ODQwMCwwMDAwMDAwMDljYzc0MWY4NDMzMmU1OGZlYzMzYTk1MTE1MTJlYWZj`
+Snapshot ID: `MTY1OTY2ODQwMCwwMDAwMDAwMGNiM2FkOWJmY2M1YTk0YjY3ZTBjNDYwZDAyMTNiYTJj`

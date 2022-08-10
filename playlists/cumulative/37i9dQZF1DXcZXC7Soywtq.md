@@ -2,9 +2,9 @@
 
 ### [ملكات العالم العربي](https://open.spotify.com/playlist/37i9dQZF1DXcZXC7Soywtq)
 
-> ملتقي أصوات النساء العربيات! الغلاف: سميرة سعيد
+> ملتقي أصوات النساء العربيات! الغلاف: أنغام
 
-181 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
+182 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Lil Khamsa](https://open.spotify.com/track/0H6Cit3liZajD0QvGEEhXF) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Lil Khamsa](https://open.spotify.com/album/2RfMu6Y8CT710LzID1wkLi) | 3:00 | 2022-04-08 | 2022-07-29 |
 | [Ma Asameh](https://open.spotify.com/track/4ntphqaov727ZXeXn0s0mm) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ma Asameh](https://open.spotify.com/album/2QTqYpbbmd6ciX0yfWvo3a) | 5:18 | 2022-04-08 |  |
 | [Ma Rah Ared](https://open.spotify.com/track/2N1CZ5Rc5w6QXJYubBpsgl) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Ma Rah Ared](https://open.spotify.com/album/3LYXXUY2KBB2lXAFVSIjve) | 3:20 | 2022-04-08 | 2022-07-29 |
-| [Ma vie en rose](https://open.spotify.com/track/715kOmrDKM2vM0szYl2Ba4) | [Manel Hadli](https://open.spotify.com/artist/0ufVFLvhVnwyqlGvXbAYkQ) | [Ma vie en rose](https://open.spotify.com/album/3F67qcdbqrbnefD0aFt7sa) | 4:32 | 2022-04-08 |  |
+| [Ma vie en rose](https://open.spotify.com/track/715kOmrDKM2vM0szYl2Ba4) | [Manel Hadli](https://open.spotify.com/artist/0ufVFLvhVnwyqlGvXbAYkQ) | [Ma vie en rose](https://open.spotify.com/album/3F67qcdbqrbnefD0aFt7sa) | 4:32 | 2022-04-08 | 2022-08-10 |
 | [Maaleish](https://open.spotify.com/track/2UmMhiOyqkHkDQwlQD1nTH) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Maaleish](https://open.spotify.com/album/2eaaJ7UvHSTAwIZ85PUhyi) | 3:27 | 2022-04-08 |  |
 | [Magnona](https://open.spotify.com/track/6p0riYODlGlmDBfz9fkNEe) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Magnona](https://open.spotify.com/album/0oEXmhIYY9uplePJA3R9s3) | 3:28 | 2022-04-08 |  |
 | [Majnouna](https://open.spotify.com/track/2zrT30ROq22gNR06kmDTzN) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Majnouna](https://open.spotify.com/album/0XM3nZVSZv2OK97n6zx0gO) | 3:02 | 2022-04-08 |  |
@@ -185,6 +185,7 @@
 | [صاروخ للقمر \(من فيلم Netflix “فوق القمر”\)](https://open.spotify.com/track/3juMVk4WoySe8tNATFFkKU) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [صاروخ للقمر \(من فيلم Netflix “فوق القمر”\)](https://open.spotify.com/album/58Fs9zS80bNXHPx1yePZFR) | 2:13 | 2022-04-08 | 2022-05-25 |
 | [صدفة نتلاقى](https://open.spotify.com/track/0GvJ77wN7AhpbLW9R8YRJe) | [Asala Maleh](https://open.spotify.com/artist/34h9cqQWoQI9E6UesG2dWz) | [صدفة نتلاقى](https://open.spotify.com/album/2CRcxDlv87LMwGayAC2FCi) | 3:00 | 2022-04-08 | 2022-07-27 |
 | [عاد بديت](https://open.spotify.com/track/1i7JBHJ9iegLR2Uu4r9gtJ) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [عاد بديت](https://open.spotify.com/album/5XWFdvgaY88TgiHSrQvEAj) | 2:53 | 2022-04-08 | 2022-07-25 |
+| [عارفة قيمتي](https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عارفة قيمتي](https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh) | 3:50 | 2022-08-09 |  |
 | [غيمة الميلاد](https://open.spotify.com/track/58fSybHxwDX4WVdahmBAOe) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [غيمة الميلاد](https://open.spotify.com/album/6okaq6XaTINkWyWjHR25Hk) | 4:02 | 2022-04-08 | 2022-07-29 |
 | [مسيطره](https://open.spotify.com/track/0ZjojzTQaoz1MZn0hGBaNP) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/48KAUO2Q0VsyjXQvDOntn4) | 2:48 | 2022-07-21 |  |
 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 | 2022-04-08 | 2022-07-29 |

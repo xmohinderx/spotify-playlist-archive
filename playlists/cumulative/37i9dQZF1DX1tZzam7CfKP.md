@@ -4,7 +4,7 @@
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-51 songs - 5 hr 9 min - not published yet
+51 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/2v0Q5hgZbBPeZBtRP6q1o6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

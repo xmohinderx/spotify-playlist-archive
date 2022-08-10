@@ -4,7 +4,7 @@
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-202 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/1sqtKhuMmhclVsZWdnutKC)
+203 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/1sqtKhuMmhclVsZWdnutKC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Warrior's Call](https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K) | 4:23 | 2021-03-29 |  |
 | [A Warrior's Call](https://open.spotify.com/track/5mNbJIYaKkphf5WqwhXhva) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2gBziT8McYGmC7Vzf4BsK9) | 4:23 | 2021-03-29 | 2022-07-29 |
 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2022-03-16 |  |
-| [Afflicted](https://open.spotify.com/track/2gpw73Uq840rdD5YqJZkWk) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Loose Threads](https://open.spotify.com/album/4f6ro439F9DJRDnXDIpnkP) | 4:51 | 2021-03-29 |  |
+| [Afflicted](https://open.spotify.com/track/2gpw73Uq840rdD5YqJZkWk) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Loose Threads](https://open.spotify.com/album/4f6ro439F9DJRDnXDIpnkP) | 4:51 | 2021-03-29 | 2022-08-10 |
 | [Afflicted](https://open.spotify.com/track/70AJAYFBkXnrd9mA6qz0wU) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Loose Threads](https://open.spotify.com/album/5rEM2fDMOEBCNjgdgDvvon) | 4:51 | 2021-03-29 | 2022-07-21 |
 | [Aftermath](https://open.spotify.com/track/0UL668NCJKvzQuIgkwTQtz) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Aftermath](https://open.spotify.com/album/1k1m4qTVfMyAspqCSxuIvu) | 4:58 | 2021-03-29 | 2022-07-21 |
 | [Akudama](https://open.spotify.com/track/6WJHdM16lYFUz4mUnrULi9) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Akudama](https://open.spotify.com/album/2FbtFDP3evBSzytt0VFJxS) | 2:37 | 2021-03-29 | 2022-07-26 |
@@ -136,6 +136,7 @@
 | [Only](https://open.spotify.com/track/39E1yxw6gHQbnFlCqIMYHI) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Sound Of White Noise](https://open.spotify.com/album/4x4oAsuap16GgLoRx8D61k) | 4:56 | 2022-01-17 | 2022-07-28 |
 | [Only](https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Sound of White Noise \- Expanded Edition](https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza) | 4:56 | 2022-01-17 |  |
 | [Only for the Weak](https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Clayman](https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd) | 4:54 | 2021-03-29 |  |
+| [Ordinary Story](https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Colony](https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l) | 4:16 | 2022-01-17 |  |
 | [Ordinary Story](https://open.spotify.com/track/0Lc3diklqgtWER4cnESn8u) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Colony \(Reissue 2014\)](https://open.spotify.com/album/0MeRgZ0C7PAGwJOoO8GLua) | 4:16 | 2022-01-17 | 2022-07-27 |
 | [Outsider God Creation \(O.G.C\)](https://open.spotify.com/track/2DyYVbTGmphEo0xeqN6xkT) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [Outsider God Creation](https://open.spotify.com/album/5nOqZJVn2duMUUnKG1VLGQ) | 3:43 | 2021-03-29 | 2022-07-29 |
 | [Ov Fire and the Void](https://open.spotify.com/track/7fire0gDtWtq39qQLJVfev) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/3NO3ef0kGIOJMw6y6nZEH0) | 4:27 | 2021-03-29 | 2022-07-29 |

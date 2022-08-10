@@ -1997,6 +1997,24 @@
     {
       "album": {
         "name": "Discreet Moment Thing Pt. 2",
+        "url": "https://open.spotify.com/album/7FK2B1ZpjFe2JI5B3MXea0"
+      },
+      "artists": [
+        {
+          "name": "Whitesquare",
+          "url": "https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342027,
+      "name": "Lady Cherry",
+      "url": "https://open.spotify.com/track/1FegqJzuhbp7XZY4gT5EoW"
+    },
+    {
+      "album": {
+        "name": "Discreet Moment Thing Pt. 2",
         "url": "https://open.spotify.com/album/5eaviny1LfRUn4benBg9XD"
       },
       "artists": [
@@ -4269,7 +4287,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 228807,
       "name": "You Can Do It",
       "url": "https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12"

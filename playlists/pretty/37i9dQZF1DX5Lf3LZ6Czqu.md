@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Eric Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,846 likes - 76 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,946 likes - 76 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

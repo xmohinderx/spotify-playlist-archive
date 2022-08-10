@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUozJiHy44Y.md) - [plain]
 
 > 30 has landed, alongside all her biggest hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,677,272 likes - 38 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,677,795 likes - 38 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

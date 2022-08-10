@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64rd GRAMMY Awards.",
-  "num_followers": 121497,
+  "num_followers": 121494,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMGVlZDE3ZWNmMjQ3NDI5OTI5MmViMmM0ZmQ1YzhlNjcz",
+  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDA1YjA0NWI3NWExY2Q3ZmZkYmJjYWU0NjBlNGE3NWMz",
   "tracks": [
     {
       "added_at": "2022-03-29 19:11:15",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk"
     },
     {
+      "added_at": "2022-03-29 22:42:51",
+      "album": {
+        "name": "No Stranger",
+        "url": "https://open.spotify.com/album/4wYslUVJNf2XSXBpbTVTMk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "My Weapon",
+      "url": "https://open.spotify.com/track/35V80RFVUSddHYuln49G04"
+    },
+    {
       "added_at": "2022-03-29 19:11:15",
       "album": {
         "name": "Find My Way (feat. Beck)",
@@ -1271,22 +1287,6 @@
       "duration_ms": 293849,
       "name": "Find My Way (feat. Beck)",
       "url": "https://open.spotify.com/track/31qXplFmLu7xuTfvBEgDij"
-    },
-    {
-      "added_at": "2022-03-29 22:42:51",
-      "album": {
-        "name": "No Stranger",
-        "url": "https://open.spotify.com/album/4wYslUVJNf2XSXBpbTVTMk"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "My Weapon",
-      "url": "https://open.spotify.com/track/35V80RFVUSddHYuln49G04"
     },
     {
       "added_at": "2022-03-29 19:11:15",

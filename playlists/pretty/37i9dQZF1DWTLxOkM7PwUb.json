@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 192844,
+  "num_followers": 192901,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2Mjg4OCwwMDAwMDAwMDBkNmY5Mzg0YzVhN2IwOWIyMTUwMjk1ODZhODM5ZGVj",
+  "snapshot_id": "MTY1OTQ2Mjg4OCwwMDAwMDAwMDExZTJlNDUwOGM3YzJkZTg1YzZjYWQ4ZWRhMzIzZmRm",
   "tracks": [
     {
       "added_at": "2022-08-02 17:54:48",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-08-02 17:54:48",
       "album": {
+        "name": "Como Estrellas",
+        "url": "https://open.spotify.com/album/0tm8uER1ZGdUFGKUg3QTud"
+      },
+      "artists": [
+        {
+          "name": "LA YOUNG",
+          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Como Estrellas",
+      "url": "https://open.spotify.com/track/7GcN9q4AAH4uzQKvyuvByT"
+    },
+    {
+      "added_at": "2022-08-02 17:54:48",
+      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 226626,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
-    },
-    {
-      "added_at": "2022-08-02 17:54:48",
-      "album": {
-        "name": "Como Estrellas",
-        "url": "https://open.spotify.com/album/0tm8uER1ZGdUFGKUg3QTud"
-      },
-      "artists": [
-        {
-          "name": "LA YOUNG",
-          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Como Estrellas",
-      "url": "https://open.spotify.com/track/7GcN9q4AAH4uzQKvyuvByT"
     },
     {
       "added_at": "2022-08-02 17:54:48",
@@ -1247,8 +1247,8 @@
     {
       "added_at": "2022-08-02 17:54:48",
       "album": {
-        "name": "DESPUES QUE TE PERDI",
-        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
+        "name": "Quedate Sola",
+        "url": "https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl"
       },
       "artists": [
         {
@@ -1256,13 +1256,17 @@
           "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
         },
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 247174,
-      "name": "DESPUES QUE TE PERDI",
-      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
+      "duration_ms": 270608,
+      "name": "Quedate Sola",
+      "url": "https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN"
     },
     {
       "added_at": "2022-08-02 17:54:48",
@@ -1363,22 +1367,6 @@
     {
       "added_at": "2022-08-02 17:54:48",
       "album": {
-        "name": "Depues De Las 3",
-        "url": "https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG"
-      },
-      "artists": [
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Depues De Las 3",
-      "url": "https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7"
-    },
-    {
-      "added_at": "2022-08-02 17:54:48",
-      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -1399,8 +1387,24 @@
     {
       "added_at": "2022-08-02 17:54:48",
       "album": {
-        "name": "Quedate Sola",
-        "url": "https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl"
+        "name": "Depues De Las 3",
+        "url": "https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Depues De Las 3",
+      "url": "https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7"
+    },
+    {
+      "added_at": "2022-08-02 17:54:48",
+      "album": {
+        "name": "DESPUES QUE TE PERDI",
+        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
       },
       "artists": [
         {
@@ -1408,17 +1412,13 @@
           "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 270608,
-      "name": "Quedate Sola",
-      "url": "https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN"
+      "duration_ms": 247174,
+      "name": "DESPUES QUE TE PERDI",
+      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
     },
     {
       "added_at": "2022-08-02 17:54:48",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-08-02 17:54:48",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
-    },
-    {
-      "added_at": "2022-08-02 17:54:48",
-      "album": {
         "name": "Vuelve a Mi",
         "url": "https://open.spotify.com/album/2c1OLuv8lwJ7Q6hmjphPj9"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 186666,
       "name": "Vuelve a Mi",
       "url": "https://open.spotify.com/track/5Ojmp2wFNvPgZpkFSUvWTo"
+    },
+    {
+      "added_at": "2022-08-02 17:54:48",
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 158267,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
     },
     {
       "added_at": "2022-08-02 17:54:48",

@@ -4,7 +4,7 @@
 
 > Indie music antimatter\. Cover: Gorillaz
 
-1,052 songs - 2 day 3 hr 9 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,053 songs - 2 day 3 hr 12 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Forever Young](https://open.spotify.com/track/71AHzuaLWkVxt5UrCmLvOB) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Ricardo](https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK) | 2:56 | 2021-11-26 | 2022-04-09 |
 | [freak](https://open.spotify.com/track/4OW25A2SxYvRDlGK4KN6s3) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [the girl next door](https://open.spotify.com/album/3MaPbB8htJFUCWQwUW0SjP) | 2:43 | 2022-04-22 | 2022-07-19 |
 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2020-10-13\* | 2020-11-03 |
+| [Freakout/Release](https://open.spotify.com/track/2vnjsf8ju9ncJbnIEIKphO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/5SH3kCDtcn5XcNgxHPyZXx) | 3:17 | 2022-08-08 |  |
 | [Freckles](https://open.spotify.com/track/1uGHLISx2ACSIYbQbKdwEg) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Pity Party](https://open.spotify.com/album/6f5E0fgEQox4MmTJqxOnrD) | 2:38 | 2021-01-23 | 2021-05-29 |
 | [Freckles](https://open.spotify.com/track/4eePXbF5P9C65DdlAzBwnD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Freckles](https://open.spotify.com/album/4E0Gtoyrc4RQxkXbc0tae9) | 2:38 | 2020-10-13\* | 2021-02-27 |
 | [Free](https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:07 | 2022-02-25 | 2022-05-07 |
@@ -492,7 +493,7 @@
 | [Just Sayin' Shit](https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE) | [Flower in Bloom](https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA) | [Just Sayin' Shit](https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa) | 1:01 | 2021-03-23 | 2021-10-14 |
 | [keep my cool](https://open.spotify.com/track/3TLYmF9jKDWCyXGglClcPS) | [Pacific](https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw) | [keep my cool](https://open.spotify.com/album/0RMaV7cv3a2A2vRn0nS23e) | 2:57 | 2022-07-22 | 2022-08-06 |
 | [Keto](https://open.spotify.com/track/7bNjxTrAG2DuF3rmP7aFl7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [USEE4YOURSELF](https://open.spotify.com/album/49BwECfeABwoB9DPAmTmwz) | 2:21 | 2021-10-12 | 2021-10-13 |
-| [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 | 2022-06-10 |  |
+| [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 | 2022-06-10 | 2022-08-10 |
 | [Kevin](https://open.spotify.com/track/2DylrERZbUpx845Cd8y7hU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Kevin](https://open.spotify.com/album/6rqZTOVumjrqnV4cT6i9xq) | 3:19 | 2020-10-13\* | 2021-01-23 |
 | [KIDS ON MOLLY](https://open.spotify.com/track/4CbRVZuohuxJPMqvvWb2lT) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [KIDS ON MOLLY](https://open.spotify.com/album/3VJM3dpFbMnx9C0fgwi9jv) | 2:43 | 2021-08-15 | 2021-10-16 |
 | [Kill Some](https://open.spotify.com/track/6kpoI1wSs2Evbhszqs8cUQ) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [Kill Some](https://open.spotify.com/album/6ouMXGY2TTchLqS2oPBGly) | 2:44 | 2020-10-13\* | 2020-12-22 |

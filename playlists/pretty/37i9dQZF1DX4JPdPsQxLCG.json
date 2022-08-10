@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49226,
+  "num_followers": 49223,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTUxNTQwMCwwMDAwMDAwMGFiOTcyYWQ5OGY5N2UwZDY2NDcwNzVjNDI2ZjAzNGQy",
+  "snapshot_id": "MTY1MTUxNTQwMCwwMDAwMDAwMGJkNmE3MmY0YjhmMjk4MGRkOTBjNGYwMGQzYTc5ZGU5",
   "tracks": [
     {
       "added_at": "2022-05-02 18:16:39",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Glee",
-        "url": "https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp"
-      },
-      "artists": [
-        {
-          "name": "Bran Van 3000",
-          "url": "https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Drinking in L.A.",
-      "url": "https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Glee",
+        "url": "https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp"
+      },
+      "artists": [
+        {
+          "name": "Bran Van 3000",
+          "url": "https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Drinking in L.A.",
+      "url": "https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
+        "name": "Living Under June",
+        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
+      },
+      "artists": [
+        {
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
         "name": "Gord's Gold",
         "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 198066,
       "name": "Early Morning Rain",
       "url": "https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
-        "name": "Cuts Like A Knife",
-        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 319800,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Living Under June",
-        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
       },
       "artists": [
         {
-          "name": "Jann Arden",
-          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 255893,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk"
+      "duration_ms": 319800,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Navy Blues",
-        "url": "https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6"
-      },
-      "artists": [
-        {
-          "name": "Sloan",
-          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
-        }
-      ],
-      "duration_ms": 233916,
-      "name": "Money City Maniacs",
-      "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 357960,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/2MeYsitFbcxoNVCO31Vjmz"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Navy Blues",
+        "url": "https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "duration_ms": 233916,
+      "name": "Money City Maniacs",
+      "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
     },
     {
       "added_at": "2022-05-02 18:16:39",

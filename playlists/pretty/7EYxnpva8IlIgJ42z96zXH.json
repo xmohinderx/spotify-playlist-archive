@@ -1,13 +1,33 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
-  "num_followers": 31351,
+  "num_followers": 31357,
   "original_name": "Morning Workout",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "MjM1Myw5NGEyODQyNTc3YmFmYzhmMGVlZjkzNDg3ZDhlYmFjMjZlNjA5MmU3",
+  "snapshot_id": "MjM1NCw0MDdiMjliNzAzYzRjMmJjMWVmMzk5YTUxYjQ2Mjk4NTgzNzllNTRk",
   "tracks": [
+    {
+      "added_at": "2022-08-05 03:38:28",
+      "album": {
+        "name": "Sway My Way (with Amy Shark)",
+        "url": "https://open.spotify.com/album/39k6qmMELqRXZTAKzcyBwe"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Sway My Way (with Amy Shark)",
+      "url": "https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey"
+    },
     {
       "added_at": "2022-08-05 03:38:28",
       "album": {
@@ -63,26 +83,6 @@
       "duration_ms": 177689,
       "name": "Where Did You Go?",
       "url": "https://open.spotify.com/track/22GCuIGPCDEh8izFovMD7N"
-    },
-    {
-      "added_at": "2022-08-05 03:38:28",
-      "album": {
-        "name": "Sway My Way (with Amy Shark)",
-        "url": "https://open.spotify.com/album/39k6qmMELqRXZTAKzcyBwe"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 136842,
-      "name": "Sway My Way (with Amy Shark)",
-      "url": "https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey"
     },
     {
       "added_at": "2022-08-05 03:38:28",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,687 likes - 90 songs - 4 hr 48 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,701 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Godly Behaviour](https://open.spotify.com/track/1HkZl9LXJ01o1YfYsCQbq4) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ELIO'S INFERNO](https://open.spotify.com/album/3Jlrqudmo7F0q1Wuc2Qizs) | 2:38 |
 | 2 | [summer’s end](https://open.spotify.com/track/2Bs9q1Tx3x4m3FBUwflxVw) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [dayaway](https://open.spotify.com/album/3VHUJIuM733ChLmhKaqpyS) | 3:10 |
-| 3 | [Miss You](https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Outcast Music](https://open.spotify.com/artist/2uNmS44lGiSLAV7R7jjbbh) | [Miss You](https://open.spotify.com/album/3mbeypjgiTtwcHZW7uaozL) | 3:21 |
+| 3 | [Miss You](https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Outcast Music](https://open.spotify.com/artist/2uNmS44lGiSLAV7R7jjbbh), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Miss You](https://open.spotify.com/album/3mbeypjgiTtwcHZW7uaozL) | 3:21 |
 | 4 | [Around Me](https://open.spotify.com/track/4KcxmDSHOMr8lvsRIV5yIT) | [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [Around Me](https://open.spotify.com/album/4kriBhA9Kt03FJeNuPYebq) | 3:25 |
 | 5 | [Gruesome](https://open.spotify.com/track/4V5er0Fzkjh4AZEFXoSTIr) | [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv) | [Gruesome](https://open.spotify.com/album/0Cm0NkaqxztDO54sJvpkmg) | 2:16 |
 | 6 | [Big Papi](https://open.spotify.com/track/1J8Q4MwdBOpjjd6BH27VaG) | [Richie Lamar](https://open.spotify.com/artist/4KRCDIIdC40VjugnL5XQdO) | [Big Papi](https://open.spotify.com/album/74ZI2OM281xVYIpk7pAzjm) | 1:54 |

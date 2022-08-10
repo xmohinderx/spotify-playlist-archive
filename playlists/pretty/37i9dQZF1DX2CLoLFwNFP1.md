@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
 
-[Spotify](https://open.spotify.com/user/spotify) - 910 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 95 | [ON IT](https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:44 |
 | 96 | [All Day \(Flex\) \[Prod\. by OkayJJack\]](https://open.spotify.com/track/5FbiD78OtBrsaX8KP5DmDP) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [Nothing Matters](https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn) | 3:39 |
 | 97 | [Ride Me](https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Evolution](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 4:00 |
-| 98 | [FOREVER \(WITH DJ ALE MORA\) \(Feat\. Cha Cha Malone\)](https://open.spotify.com/track/7tWk2C8SSuwrebfMt3jCaj) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ale Mora](https://open.spotify.com/artist/6bsbLjG9kdODP0wVaM1WXM), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:10 |
-| 99 | [In This B\*tch](https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:16 |
+| 98 | [In This B\*tch](https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:16 |
+| 99 | [FOREVER \(WITH DJ ALE MORA\) \(Feat\. Cha Cha Malone\)](https://open.spotify.com/track/7tWk2C8SSuwrebfMt3jCaj) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ale Mora](https://open.spotify.com/artist/6bsbLjG9kdODP0wVaM1WXM), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:10 |
 | 100 | [BO$$](https://open.spotify.com/track/0yec4sLxW29JUAt84HMang) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:24 |
 
-Snapshot ID: `MTY1OTQ2MzEwNSwwMDAwMDAwMGZmOTQ2Nzc5MmQyMTllOWIzN2MyNmJjMWFhMTFhZjJk`
+Snapshot ID: `MTY1OTQ2MzEwNSwwMDAwMDAwMDc0MmVjOWI1MTQ0Y2JkNjAyMzgzYzQ0MDZkNDg0MmU3`

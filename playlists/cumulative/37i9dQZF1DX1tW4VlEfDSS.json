@@ -874,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/2meqcfY7Xxtvpt5YgNKQbc"
+      },
+      "artists": [
+        {
+          "name": "Pool Attendant",
+          "url": "https://open.spotify.com/artist/5f9BDhfsoR50sN9GvmCCur"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Everything Happens for a Reason",
+      "url": "https://open.spotify.com/track/4lquVanY9QPfUzlKhJe299"
+    },
+    {
+      "album": {
         "name": "Feeling Good (feat. Shayee)",
         "url": "https://open.spotify.com/album/1R6o5isIYF5dE7haoC1VTH"
       },
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 182950,
       "name": "Ghetto Rock",
       "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/64weGLgl76gsui1qXQatNa"
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 177000,
       "name": "Say Mama",
       "url": "https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2"

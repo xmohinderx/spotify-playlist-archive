@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 
 > Classic funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,201 likes - 57 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,282 likes - 57 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 41 | [Dance Floor](https://open.spotify.com/track/6d4XP98nTswxMycT6fdZNN) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [Zapp II](https://open.spotify.com/album/7ew8Rwv8ICZUhLPteXPcbk) | 10:42 |
 | 42 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 | 43 | [Prisoner](https://open.spotify.com/track/0B9ocbxpcwlzoML0xBeXF1) | [Har Mar Superstar](https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG), [Fabrizio Moretti](https://open.spotify.com/artist/6wVnFdBOZ3M2vYjrmLT6tW) | [Bye Bye 17](https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1) | 3:23 |
-| 44 | [Shake Your Pants](https://open.spotify.com/track/5bAYlqojCiretR2ZO1Y3xZ) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Cameosis](https://open.spotify.com/album/3isnKnnCCC4lCXl4ngrSCL) | 6:24 |
+| 44 | [Shake Your Pants](https://open.spotify.com/track/1PlbtE9lsZ1p9iDbXzvtCp) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Anthology](https://open.spotify.com/album/5QUldCK9QqBg5Gv1LVJvDI) | 6:22 |
 | 45 | [Keep On Truckin'](https://open.spotify.com/track/5CiOCxc3argOhj5qKNZGN0) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Eddie Kendricks](https://open.spotify.com/album/5StW1pmCyC1WOuEDC8aUQh) | 7:59 |
 | 46 | [Too Hot Ta Trot](https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Live!](https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz) | 5:37 |
 | 47 | [Fly As Me](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:39 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 56 | [You Haven't Done Nothin'](https://open.spotify.com/track/1inwt0v9a4ib9yS6Y4KsdM) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Fulfillingness' First Finale](https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ) | 3:22 |
 | 57 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
 
-Snapshot ID: `MTY1OTYwMzA5MSwwMDAwMDAwMDdiMmFlNWEwMTMxYzA2NzgzZTdhZmZkMTQ3ZGQwMzNl`
+Snapshot ID: `MTY1OTYwMzA5MSwwMDAwMDAwMDk4NzVmOTc3YTVlNTY1YjVkNzY1MTg2ODc1Y2Y4MDFk`

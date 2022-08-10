@@ -4,7 +4,7 @@
 
 > The sexy queen! Check out HyunA's music.
 
-60 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/38arVNbmC65c7x2dHYLugn)
+65 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/38arVNbmC65c7x2dHYLugn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Talk](https://open.spotify.com/track/3LhzNNohNcHfnR36wjKP1M) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 1:19 | 2021-09-09 |  |
 | [Attention](https://open.spotify.com/track/07IQN32qgj9aIwoHYqpA60) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 1:26 | 2021-09-09 |  |
 | [BABE](https://open.spotify.com/track/5kFakScPV7ZWXStUSvQmxA) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Following](https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU) | 3:13 | 2021-09-09 |  |
+| [Bad Dog](https://open.spotify.com/track/3e7f4ve2p94f8O1BlaiiLq) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 2:41 | 2022-08-09 |  |
 | [Blacklist \(Feat\. LE\)](https://open.spotify.com/track/4FNEiAZkTqkdCgcUtBVu9E) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [LE](https://open.spotify.com/artist/5h0QnpgJxd77A8UXYrcvhy) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 3:29 | 2021-09-09 |  |
 | [Bubble Pop!](https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 3:32 | 2021-09-09 |  |
 | [Cause I'm God Girl](https://open.spotify.com/track/0AgMJriVSGWjN8WLaCqnDv) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Il Hoon Jung](https://open.spotify.com/artist/38msH2cFK8ui3GvbWqumqk) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:22 | 2021-09-09 |  |
@@ -49,9 +50,11 @@
 | [Lip & Hip](https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Lip & Hip](https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t) | 3:29 | 2021-09-09 |  |
 | [Mirror](https://open.spotify.com/track/2NtHzG5UFl9s7plYUeYuHm) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Following](https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU) | 3:07 | 2021-09-09 |  |
 | [Morning glory](https://open.spotify.com/track/7jaMOoks3YLbOoQxYLUJTo) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Isle Qim](https://open.spotify.com/artist/44qnpSp6VbJ48R4YXiv7LW) | [A\`wesome](https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke) | 3:31 | 2021-09-09 |  |
+| [Nabillera](https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 2:48 | 2022-08-09 |  |
 | [PARTY \(FOLLOW ME\) \(Feat\. WooSeok Of PENTAGON\)](https://open.spotify.com/track/2UGoqqdJAcOUSvTxMZKON2) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Following](https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU) | 3:08 | 2021-09-09 |  |
 | [Party, Feel, Love \(Feat\. DAWN\)](https://open.spotify.com/track/24UUm3hRRZvyPyasjgtHQ0) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:29 | 2021-09-09 |  |
 | [Party, Feel, Love \(Feat\. DAWN\)](https://open.spotify.com/track/2qR6lpnGS9AldPdElbzJ53) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 3:29 | 2021-09-09 | 2022-07-29 |
+| [Picasso & Fernande Olivier](https://open.spotify.com/track/2np36jtqZyvS4QJDgUOwOp) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 2:36 | 2022-08-09 |  |
 | [PING PONG](https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 2:38 | 2021-09-09 |  |
 | [Player \(feat.HYUNA\)](https://open.spotify.com/track/2lj0NyS3hDxtHZuCdo2eEF) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9), [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Chemistry](https://open.spotify.com/album/6pS98dlal9tYQYw5udDskl) | 3:45 | 2021-09-09 |  |
 | [Purple \(With E'dawn Of PENTAGON\)](https://open.spotify.com/track/6NJi9S8CKN0QsQGGt4lBBZ) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Following](https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU) | 3:41 | 2021-09-09 |  |
@@ -64,8 +67,10 @@
 | [U&ME♡](https://open.spotify.com/track/5yuqTx5EOPGE0p5MOx0LHY) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A\`wesome](https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke) | 3:27 | 2021-09-09 |  |
 | [Very Hot \(Feat\. Ri Won\)](https://open.spotify.com/track/4AdkEHvkrZhDZevj7OBSqv) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Ri Won](https://open.spotify.com/artist/2CkiqYnM6fBO2y13a1FFpO) | [Melting](https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg) | 3:41 | 2021-09-09 |  |
 | [Volume Up](https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Volume Up](https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT) | 3:50 | 2021-09-09 |  |
+| [Watch Me](https://open.spotify.com/track/1lsgh9qpdgKSIy77a3pZ3n) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 3:30 | 2022-08-09 |  |
 | [What's your name?](https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Name is 4minute](https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU) | 3:06 | 2021-09-09 |  |
 | [Whatcha Doin' Today](https://open.spotify.com/track/4zPF7ERedaIZGDIxnE1KVH) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [4minute WORLD](https://open.spotify.com/album/3uI4TkXyzJKZEWeKXbB9PG) | 3:26 | 2021-09-09 |  |
+| [whatever](https://open.spotify.com/track/4PLjGWQEcNihvnTGCAXKn6) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 3:40 | 2022-08-09 |  |
 | [Wolf](https://open.spotify.com/track/4sK554bQI0vLKWS2jEmpi7) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF) | [A\`wesome](https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke) | 3:54 | 2021-09-09 |  |
 | [XOXO](https://open.spotify.com/track/57hrHYEy9vLkpzgLtPIXfC) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 3:16 | 2021-09-09 |  |
 

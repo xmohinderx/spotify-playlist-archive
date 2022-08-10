@@ -1,12 +1,12 @@
 {
   "description": "Top Bollywood songs from 2000s till 2010",
-  "num_followers": 352065,
+  "num_followers": 352454,
   "original_name": "All Out 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU5OTE3MiwwMDAwMDAwMGY1ZjgzZTExYzI5NmZmY2M5YjE3MzVhYWU0MjRjMzcx",
+  "snapshot_id": "MTY1NzU5OTE3MiwwMDAwMDAwMDQ5MzVmNDM3YTAyMmNkOWQ2NDBiZmI5ODk4YThjYmI0",
   "tracks": [
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Taare Zameen Par",
-        "url": "https://open.spotify.com/album/3krigkIAxyZMBcxYfE0jlE"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 310664,
-      "name": "Maa",
-      "url": "https://open.spotify.com/track/4SuA85PaD8GFTPYwKNYDe1"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
         "name": "Chak De India",
         "url": "https://open.spotify.com/album/5KXiMrupdPZf2sR6WrZTvh"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
+        "name": "Taare Zameen Par",
+        "url": "https://open.spotify.com/album/3krigkIAxyZMBcxYfE0jlE"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "duration_ms": 310664,
+      "name": "Maa",
+      "url": "https://open.spotify.com/track/4SuA85PaD8GFTPYwKNYDe1"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
         "name": "The Train",
         "url": "https://open.spotify.com/album/1GFvChouNq6BNSjhSi6XKP"
       },
@@ -1167,6 +1167,30 @@
       "duration_ms": 341820,
       "name": "Mausam",
       "url": "https://open.spotify.com/track/1SDzEed9leGGDVJIv2GPUE"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
+        "name": "Swades",
+        "url": "https://open.spotify.com/album/72oHSx1OrxR0gig6JcVAEW"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "duration_ms": 446986,
+      "name": "Yun Hi Chala Chal",
+      "url": "https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1199,54 +1223,6 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Swades",
-        "url": "https://open.spotify.com/album/72oHSx1OrxR0gig6JcVAEW"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        },
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        }
-      ],
-      "duration_ms": 446986,
-      "name": "Yun Hi Chala Chal",
-      "url": "https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
-        "name": "Dil Chahta Hai",
-        "url": "https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Shaan",
-          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
-        },
-        {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        }
-      ],
-      "duration_ms": 346200,
-      "name": "Koi Kahe Kehta Rahe",
-      "url": "https://open.spotify.com/track/5zKRKQwLVBT1WDJE7XJrnm"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
         "name": "3 Idiots (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6JzPRHDXP5soq9zjamRB3f"
       },
@@ -1267,6 +1243,30 @@
       "duration_ms": 276125,
       "name": "Aal Izz Well",
       "url": "https://open.spotify.com/track/3L1jrlL7DuCaTlBrE7rnDy"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
+        "name": "Chak De India",
+        "url": "https://open.spotify.com/album/5KXiMrupdPZf2sR6WrZTvh"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Hema Sardesai",
+          "url": "https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP"
+        },
+        {
+          "name": "Jaideep Sahni",
+          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
+        }
+      ],
+      "duration_ms": 243931,
+      "name": "Badal Pe Paon Hai",
+      "url": "https://open.spotify.com/track/2aHz87L2Z4a0ZEQ7vMlH8z"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1307,26 +1307,26 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Chak De India",
-        "url": "https://open.spotify.com/album/5KXiMrupdPZf2sR6WrZTvh"
+        "name": "Dil Chahta Hai",
+        "url": "https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI"
       },
       "artists": [
         {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
         },
         {
-          "name": "Hema Sardesai",
-          "url": "https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP"
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
         },
         {
-          "name": "Jaideep Sahni",
-          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
         }
       ],
-      "duration_ms": 243931,
-      "name": "Badal Pe Paon Hai",
-      "url": "https://open.spotify.com/track/2aHz87L2Z4a0ZEQ7vMlH8z"
+      "duration_ms": 346200,
+      "name": "Koi Kahe Kehta Rahe",
+      "url": "https://open.spotify.com/track/5zKRKQwLVBT1WDJE7XJrnm"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1355,26 +1355,6 @@
       "duration_ms": 343066,
       "name": "Yeh Hum Aa Gaye Hain Kahaan",
       "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
-        "name": "Josh (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26tEuVzIVjvVn12w07hqIm"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "Hai Mera Dil",
-      "url": "https://open.spotify.com/track/7LAwdDzta1roB9n4GuVpzG"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1415,26 +1395,46 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Taare Zameen Par",
-        "url": "https://open.spotify.com/album/3krigkIAxyZMBcxYfE0jlE"
+        "name": "Josh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26tEuVzIVjvVn12w07hqIm"
       },
       "artists": [
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         },
         {
-          "name": "Dominique",
-          "url": "https://open.spotify.com/artist/3Y24UY463kttOxNYMH9X2u"
-        },
-        {
-          "name": "Vivieanne Pocha",
-          "url": "https://open.spotify.com/artist/4LHGGLxTnMfvlQQzOzZf8D"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 428498,
-      "name": "Taare Zameen Par",
-      "url": "https://open.spotify.com/track/5ELS4KckqA4uxrS8RnxEjv"
+      "duration_ms": 250920,
+      "name": "Hai Mera Dil",
+      "url": "https://open.spotify.com/track/7LAwdDzta1roB9n4GuVpzG"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
+        "name": "Chak De India",
+        "url": "https://open.spotify.com/album/5KXiMrupdPZf2sR6WrZTvh"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Krishna",
+          "url": "https://open.spotify.com/artist/5qG25VRsnLdydJTj1VGZSk"
+        },
+        {
+          "name": "Jaideep Sahni",
+          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
+        }
+      ],
+      "duration_ms": 288365,
+      "name": "Maula Mere Lele Meri Jaan",
+      "url": "https://open.spotify.com/track/0OWzDem8abfJvWpQcssjIE"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1475,26 +1475,26 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Chak De India",
-        "url": "https://open.spotify.com/album/5KXiMrupdPZf2sR6WrZTvh"
+        "name": "Taare Zameen Par",
+        "url": "https://open.spotify.com/album/3krigkIAxyZMBcxYfE0jlE"
       },
       "artists": [
         {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
         },
         {
-          "name": "Krishna",
-          "url": "https://open.spotify.com/artist/5qG25VRsnLdydJTj1VGZSk"
+          "name": "Dominique",
+          "url": "https://open.spotify.com/artist/3Y24UY463kttOxNYMH9X2u"
         },
         {
-          "name": "Jaideep Sahni",
-          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
+          "name": "Vivieanne Pocha",
+          "url": "https://open.spotify.com/artist/4LHGGLxTnMfvlQQzOzZf8D"
         }
       ],
-      "duration_ms": 288365,
-      "name": "Maula Mere Lele Meri Jaan",
-      "url": "https://open.spotify.com/track/0OWzDem8abfJvWpQcssjIE"
+      "duration_ms": 428498,
+      "name": "Taare Zameen Par",
+      "url": "https://open.spotify.com/track/5ELS4KckqA4uxrS8RnxEjv"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1523,26 +1523,6 @@
       "duration_ms": 427781,
       "name": "Aisa Des Hai Mera",
       "url": "https://open.spotify.com/track/4M7pu2MwyGysZM4deGXueq"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
-        "name": "Pukar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OQnAi9EjuGLW3AMJ2zOry"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Kavita Krishnamurthy",
-          "url": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
-        }
-      ],
-      "duration_ms": 425413,
-      "name": "Kay Sera Sera",
-      "url": "https://open.spotify.com/track/0OXQa6GOzxeYWFopEmASw9"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1623,22 +1603,6 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Gangster (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/58KM0sPteBvwVW6skGRHFh"
-      },
-      "artists": [
-        {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        }
-      ],
-      "duration_ms": 389693,
-      "name": "Tu Hi Meri Shab Hai, Pt. 1",
-      "url": "https://open.spotify.com/track/1pNIbZ1F7CJmk60h6UJaVg"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
         "name": "Dev D",
         "url": "https://open.spotify.com/album/4NQFGqfjIeZR4lJi9bqdYT"
       },
@@ -1655,6 +1619,22 @@
       "duration_ms": 238004,
       "name": "Emosanal Attyachaar (Brass Band Version)",
       "url": "https://open.spotify.com/track/7iW9pTNgp2HtlRJinoYuiA"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
+        "name": "Gangster (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/58KM0sPteBvwVW6skGRHFh"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "duration_ms": 389693,
+      "name": "Tu Hi Meri Shab Hai, Pt. 1",
+      "url": "https://open.spotify.com/track/1pNIbZ1F7CJmk60h6UJaVg"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1711,6 +1691,26 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
+        "name": "Pukar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OQnAi9EjuGLW3AMJ2zOry"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Kavita Krishnamurthy",
+          "url": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
+        }
+      ],
+      "duration_ms": 425413,
+      "name": "Kay Sera Sera",
+      "url": "https://open.spotify.com/track/0OXQa6GOzxeYWFopEmASw9"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
         "name": "Dev D",
         "url": "https://open.spotify.com/album/4NQFGqfjIeZR4lJi9bqdYT"
       },
@@ -1763,30 +1763,6 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Taare Zameen Par",
-        "url": "https://open.spotify.com/album/3krigkIAxyZMBcxYfE0jlE"
-      },
-      "artists": [
-        {
-          "name": "Adnan Sami",
-          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
-        },
-        {
-          "name": "Auriel Cordo",
-          "url": "https://open.spotify.com/artist/15wPqbQiHGwqAtC119OGBD"
-        },
-        {
-          "name": "Ananya Wadkar",
-          "url": "https://open.spotify.com/artist/1GZvqaIir4444RvrFLXUQI"
-        }
-      ],
-      "duration_ms": 402727,
-      "name": "Mera Jahan",
-      "url": "https://open.spotify.com/track/5OHWqBhWn4jxVzrULFFhDV"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
         "name": "Bunty Aur Babli",
         "url": "https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9"
       },
@@ -1827,22 +1803,26 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Aksar",
-        "url": "https://open.spotify.com/album/3OAL3HUd1JbRyHyb4prNfo"
+        "name": "Taare Zameen Par",
+        "url": "https://open.spotify.com/album/3krigkIAxyZMBcxYfE0jlE"
       },
       "artists": [
         {
-          "name": "Himesh Reshammiya",
-          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
         },
         {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+          "name": "Auriel Cordo",
+          "url": "https://open.spotify.com/artist/15wPqbQiHGwqAtC119OGBD"
+        },
+        {
+          "name": "Ananya Wadkar",
+          "url": "https://open.spotify.com/artist/1GZvqaIir4444RvrFLXUQI"
         }
       ],
-      "duration_ms": 338026,
-      "name": "Lagi Lagi",
-      "url": "https://open.spotify.com/track/1TpRdD3ROSVQaLl6dJtaDm"
+      "duration_ms": 402727,
+      "name": "Mera Jahan",
+      "url": "https://open.spotify.com/track/5OHWqBhWn4jxVzrULFFhDV"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1859,6 +1839,26 @@
       "duration_ms": 397426,
       "name": "Ek Pal Ka Jeena",
       "url": "https://open.spotify.com/track/2YOEKFkS1IWFmZglZx2M3f"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
+        "name": "Aksar",
+        "url": "https://open.spotify.com/album/3OAL3HUd1JbRyHyb4prNfo"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "duration_ms": 338026,
+      "name": "Lagi Lagi",
+      "url": "https://open.spotify.com/track/1TpRdD3ROSVQaLl6dJtaDm"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1891,6 +1891,42 @@
       "duration_ms": 382493,
       "name": "Main Jahaan Rahoon (From \"Namastey London\")",
       "url": "https://open.spotify.com/track/26q5bMeoH7C2K3Xye5QKnH"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
+        "name": "Bunty Aur Babli",
+        "url": "https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9"
+      },
+      "artists": [
+        {
+          "name": "Shankar",
+          "url": "https://open.spotify.com/artist/6DmKvvaXUkECvkUozzpuQb"
+        },
+        {
+          "name": "Ehsaan",
+          "url": "https://open.spotify.com/artist/2TtFAgogwuEBvXe7DecRzq"
+        },
+        {
+          "name": "Loy",
+          "url": "https://open.spotify.com/artist/6MRzB5b9YzkH4u301606hl"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "duration_ms": 392411,
+      "name": "Dhadak Dhadak",
+      "url": "https://open.spotify.com/track/6kOuIhlzgPlqlrWPudpSHL"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1979,38 +2015,18 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Bunty Aur Babli",
-        "url": "https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9"
+        "name": "Murder (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/24oa4TLK632hnlXamYI2nC"
       },
       "artists": [
         {
-          "name": "Shankar",
-          "url": "https://open.spotify.com/artist/6DmKvvaXUkECvkUozzpuQb"
-        },
-        {
-          "name": "Ehsaan",
-          "url": "https://open.spotify.com/artist/2TtFAgogwuEBvXe7DecRzq"
-        },
-        {
-          "name": "Loy",
-          "url": "https://open.spotify.com/artist/6MRzB5b9YzkH4u301606hl"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
         }
       ],
-      "duration_ms": 392411,
-      "name": "Dhadak Dhadak",
-      "url": "https://open.spotify.com/track/6kOuIhlzgPlqlrWPudpSHL"
+      "duration_ms": 274466,
+      "name": "Bheegey Hont",
+      "url": "https://open.spotify.com/track/4EZEgKPv49bc8pnf47ziMo"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -2031,22 +2047,6 @@
       "duration_ms": 321410,
       "name": "Ishq Samundar",
       "url": "https://open.spotify.com/track/26AwzkDNxx9D0KXmBhY0Gd"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
-        "name": "Murder (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/24oa4TLK632hnlXamYI2nC"
-      },
-      "artists": [
-        {
-          "name": "Kunal Ganjawala",
-          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
-        }
-      ],
-      "duration_ms": 274466,
-      "name": "Bheegey Hont",
-      "url": "https://open.spotify.com/track/4EZEgKPv49bc8pnf47ziMo"
     },
     {
       "added_at": "2022-07-12 04:12:52",

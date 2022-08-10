@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2096,
+  "num_followers": 2101,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGEzOGZhNDI3ODBlNTkxN2ViZDFlZjA1ZWNjYzUyZTlj",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGQ3OTAxYjRlMmRkNDIxM2FjMzlhZmNlOWNmYmQ2MDQz",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Equilibre",
+        "url": "https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t"
+      },
+      "artists": [
+        {
+          "name": "The Pirouettes",
+          "url": "https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "Il n'y a que toi",
+      "url": "https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "O\u00f9 sera le monde",
         "url": "https://open.spotify.com/album/51jZXolIAU5X1g10td9Frl"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Equilibre",
-        "url": "https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t"
+        "name": "La lumineuse",
+        "url": "https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP"
       },
       "artists": [
         {
-          "name": "The Pirouettes",
-          "url": "https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1"
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
         }
       ],
-      "duration_ms": 201573,
-      "name": "Il n'y a que toi",
-      "url": "https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2"
+      "duration_ms": 188400,
+      "name": "La lumineuse",
+      "url": "https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -783,22 +799,6 @@
       "duration_ms": 213293,
       "name": "Soirs de Scotch",
       "url": "https://open.spotify.com/track/38PausDDlmKd6jwriKyiyF"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "La lumineuse",
-        "url": "https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "La lumineuse",
-      "url": "https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Homme Autonome",
-        "url": "https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY"
-      },
-      "artists": [
-        {
-          "name": "Damien Robitaille",
-          "url": "https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Mot de passe",
-      "url": "https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Givmeall Hit Stars",
         "url": "https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 225833,
       "name": "Encore et encore",
       "url": "https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Homme Autonome",
+        "url": "https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY"
+      },
+      "artists": [
+        {
+          "name": "Damien Robitaille",
+          "url": "https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Mot de passe",
+      "url": "https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "OC\u00c9AN",
-        "url": "https://open.spotify.com/album/49JXCaffV2JxIkhka67PLE"
-      },
-      "artists": [
-        {
-          "name": "Elia",
-          "url": "https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "CHOCOLAT",
-      "url": "https://open.spotify.com/track/3TcxLbehznRagEDEmCcMuY"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Excalibur",
         "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 188369,
       "name": "Les Rois",
       "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "OC\u00c9AN",
+        "url": "https://open.spotify.com/album/49JXCaffV2JxIkhka67PLE"
+      },
+      "artists": [
+        {
+          "name": "Elia",
+          "url": "https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "CHOCOLAT",
+      "url": "https://open.spotify.com/track/3TcxLbehznRagEDEmCcMuY"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Normal de l'Est",
-        "url": "https://open.spotify.com/album/0klnKx0f9LC9KhlqdJThQX"
-      },
-      "artists": [
-        {
-          "name": "Connaisseur Ticaso",
-          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "La rue m'appelle encore",
-      "url": "https://open.spotify.com/track/1wQgoc9WHfsGVVscR0sJ53"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "SITKA",
         "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 218653,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Normal de l'Est",
+        "url": "https://open.spotify.com/album/0klnKx0f9LC9KhlqdJThQX"
+      },
+      "artists": [
+        {
+          "name": "Connaisseur Ticaso",
+          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "La rue m'appelle encore",
+      "url": "https://open.spotify.com/track/1wQgoc9WHfsGVVscR0sJ53"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Concorde",
-        "url": "https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U"
-      },
-      "artists": [
-        {
-          "name": "Le Couleur",
-          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
-        }
-      ],
-      "duration_ms": 241771,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/3orSSi6T6c7Uxitep6TdVw"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Poup\u00e9e Russe",
         "url": "https://open.spotify.com/album/5tY1P4kKvOPwipS8q0jbCD"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 192324,
       "name": "Vilipende\u0301s",
       "url": "https://open.spotify.com/track/5ftHDkocMB6m7yPLiZy4c7"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Concorde",
+        "url": "https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "duration_ms": 241771,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/3orSSi6T6c7Uxitep6TdVw"
     },
     {
       "added_at": "2022-05-25 18:00:00",

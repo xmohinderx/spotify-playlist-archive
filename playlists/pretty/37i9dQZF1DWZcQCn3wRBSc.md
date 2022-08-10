@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZcQCn3wRBSc.md) - [plain]
 
 > everyone has left and it's just you and your love dancing in the living room
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,288 likes - 121 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,403 likes - 121 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

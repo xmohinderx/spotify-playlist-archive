@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Shiva, Luchè, Sfera Ebbasta e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,159 likes - 99 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,197 likes - 99 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 15 | [Sole Nero](https://open.spotify.com/track/2EYdc40JCBgJI1lZ97f7Wc) | [Mind](https://open.spotify.com/artist/2rsb0sUNWVpsDntqmHszfI), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [Sole Nero](https://open.spotify.com/album/6uBypYek3Eouj04mbscMFZ) | 2:41 |
 | 16 | [Cantera](https://open.spotify.com/track/6gJCVegy1Dfajp7Yvup1cu) | [Stewie](https://open.spotify.com/artist/6mx7oUYgX5FeSX3TVAZOYz), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Cantera](https://open.spotify.com/album/4UQz1RBOfXzKpAjYBMem3a) | 2:34 |
 | 17 | [Martelli](https://open.spotify.com/track/7EZcFoXgyNqMnv5bVMSHz8) | [Visco](https://open.spotify.com/artist/2mve4F86lnyHLkghjsMvPe) | [Martelli](https://open.spotify.com/album/44QVejjR4OABkqOxFet7Dt) | 2:28 |
-| 18 | [ORA CHE](https://open.spotify.com/track/1xhsbacBkdaTHatjLDfGls) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz), [Luca Notaro](https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p), [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [PeppOh](https://open.spotify.com/artist/5pMa92RIc1jc0gUnT545G6) | [ORA CHE](https://open.spotify.com/album/2om36mteBQ9j7xLirdzcjf) | 2:48 |
+| 18 | [ORA CHE](https://open.spotify.com/track/1xhsbacBkdaTHatjLDfGls) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz), [Luca Notaro](https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p), [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [PeppOh](https://open.spotify.com/artist/5pMa92RIc1jc0gUnT545G6), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit) | [ORA CHE](https://open.spotify.com/album/2om36mteBQ9j7xLirdzcjf) | 2:48 |
 | 19 | [POLDOWG'S LOVE](https://open.spotify.com/track/0EH8OYYKGRlUfAZEnRZpef) | [POLDOWG](https://open.spotify.com/artist/66jtpmf7aFU5KZXlAavqai), [Sarchia](https://open.spotify.com/artist/7G9h2t5a3F7DORMYqAr7PA), [iguarun](https://open.spotify.com/artist/5cvKNeoxxFypYGgpnXGWXs), [MXLVE](https://open.spotify.com/artist/2OEOLS6EFBBeiKgS58NsRh) | [KOLAGE](https://open.spotify.com/album/0fNi3vkKQGlJMBFhOIiWq9) | 2:57 |
 | 20 | [10 Palazzi](https://open.spotify.com/track/0l2ZViNpvnoVr80QcfDS2u) | [Martz Da Marte](https://open.spotify.com/artist/3eeWlV9pUBYTFvIhxbykUa) | [10 Palazzi](https://open.spotify.com/album/6GsPsIUVqMXSluMjdZxPh0) | 1:36 |
 | 21 | [EGO](https://open.spotify.com/track/1UdXBJYOZ1XUdptM0IlzzJ) | [Goosie](https://open.spotify.com/artist/1Q5MLomG7ynZZsa8RcAEwI) | [EGO](https://open.spotify.com/album/7uladFoBRhD7lGfyKd0Ta2) | 1:52 |

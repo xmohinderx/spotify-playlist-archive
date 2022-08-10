@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Bart Gałązka \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,773 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,826 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Obiad](https://open.spotify.com/track/2eeRtTPHwdl4gEt4moH0Hn) | [Bart Gałązka](https://open.spotify.com/artist/1Uem85RHws6LkjjfsX285A) | [Obiad](https://open.spotify.com/album/6mWeo3ZjDUrGBxxLdSeudm) | 3:12 |
 | 2 | [alert](https://open.spotify.com/track/669ZVOoFg0OjYY8QFQUPVo) | [NANGA](https://open.spotify.com/artist/3wBGonHcTaPDylffjRWwGR) | [alert](https://open.spotify.com/album/0TKWnSPFvQA3guYmdFH9Wa) | 4:46 |
 | 3 | [może wpadnę](https://open.spotify.com/track/5w2G4hDARa3TJTdOxqUTXu) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [może wpadnę](https://open.spotify.com/album/5tvmxNeMjWXgcNw4zcfpri) | 3:32 |
-| 4 | [Moje Lajf ys ałt](https://open.spotify.com/track/5vFHcFKeiTknOETSZuZMob) | [Light On](https://open.spotify.com/artist/6K2077txxMcjmKlbAJ3ZwZ) | [Domostwo](https://open.spotify.com/album/7sjye90YShKVQsXX2C2oua) | 4:07 |
+| 4 | [Moje Lajf ys ałt](https://open.spotify.com/track/5vFHcFKeiTknOETSZuZMob) | [Light On](https://open.spotify.com/artist/28YMxwKjLqEBL5VJhEDX3y) | [Domostwo](https://open.spotify.com/album/7sjye90YShKVQsXX2C2oua) | 4:07 |
 | 5 | [Nowy Dzień](https://open.spotify.com/track/37wSXAl3owdPfPYhog9xLI) | [Mark Wolf](https://open.spotify.com/artist/0OhL4PQtFURkWIVTMuZKt9), [J.Kossak](https://open.spotify.com/artist/0St7FFRawlk3SB59vqMC8e) | [Nowy Dzień](https://open.spotify.com/album/5NFyMP5gSbYmbfbsiMTc7N) | 2:16 |
 | 6 | [CHAOS](https://open.spotify.com/track/0IU2d424H77c86vWrrwGBh) | [Dominika Plonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dafeat](https://open.spotify.com/artist/2Ujn6zr81UqOdSN8tvOjLA) | [CHAOS](https://open.spotify.com/album/6CUExAdIUHeHPG59cqlwdT) | 1:54 |
 | 7 | [Indiana](https://open.spotify.com/track/7BOpD7upVJhY7GjPMvQNMI) | [SMKKPM](https://open.spotify.com/artist/4lCX5p5WkECbLeUgUC6myj) | [Indiana](https://open.spotify.com/album/14wXhb85bymuEY0QNiGGSL) | 3:15 |

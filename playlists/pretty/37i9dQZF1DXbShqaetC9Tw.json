@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 63906,
+  "num_followers": 64013,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk1ODcxNSwwMDAwMDAwMDk4ZmU3OTNhNzE0NTBkZWI5YjY5YWFjOWFhYzEyOTVl",
+  "snapshot_id": "MTY1OTk1ODcxNSwwMDAwMDAwMGFjMTNjYjIxOTgyZTIwNTgzZDExNmFkMTkwYzk2Yjk4",
   "tracks": [
     {
       "added_at": "2022-08-08 11:38:35",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-08-08 11:38:35",
       "album": {
+        "name": "CR\u00c8ME",
+        "url": "https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 116086,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/5EMGQPQI60jvyDjKT2Fn2I"
+    },
+    {
+      "added_at": "2022-08-08 11:38:35",
+      "album": {
         "name": "When Dawn Comes Again (feat. BAEKHYUN)",
         "url": "https://open.spotify.com/album/7wgyRpzVueGdjV9yozlIYj"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 240265,
       "name": "When Dawn Comes Again (feat. BAEKHYUN)",
       "url": "https://open.spotify.com/track/3K5LF6pX2oTzIQA62t6qnK"
-    },
-    {
-      "added_at": "2022-08-08 11:38:35",
-      "album": {
-        "name": "CR\u00c8ME",
-        "url": "https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd"
-      },
-      "artists": [
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 116086,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/5EMGQPQI60jvyDjKT2Fn2I"
     },
     {
       "added_at": "2022-08-08 11:38:35",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-08-08 11:38:35",
       "album": {
-        "name": "Do Not Want To Do It",
-        "url": "https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 232318,
-      "name": "Do Not Want To Do It",
-      "url": "https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri"
-    },
-    {
-      "added_at": "2022-08-08 11:38:35",
-      "album": {
         "name": "Dry Flower",
         "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 145613,
       "name": "Rain Drop",
       "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
+    },
+    {
+      "added_at": "2022-08-08 11:38:35",
+      "album": {
+        "name": "Do Not Want To Do It",
+        "url": "https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 232318,
+      "name": "Do Not Want To Do It",
+      "url": "https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri"
     },
     {
       "added_at": "2022-08-08 11:38:35",

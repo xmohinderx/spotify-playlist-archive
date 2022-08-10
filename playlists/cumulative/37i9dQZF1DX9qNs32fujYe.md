@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Slipknot
 
-554 songs - 1 day 17 hr 25 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+555 songs - 1 day 17 hr 30 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Never the Heroes](https://open.spotify.com/track/5LHebeJkgALO0q8YpullpY) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Reflections \- 50 Heavy Metal Years of Music](https://open.spotify.com/album/2alySadx70cVPH0YC9QHFM) | 4:24 | 2021-12-17 | 2022-07-05 |
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-06-17 |
 | [New Colossal Hate](https://open.spotify.com/track/4lRvl2PMPqavdm4Q1qNV0M) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New Colossal Hate](https://open.spotify.com/album/4NZx3KzZVmxxMr4ZbJnAhi) | 4:30 | 2021-12-17 | 2022-04-18 |
+| [New Colossal Hate](https://open.spotify.com/track/5gwLD4lyU1WoYjJXtNRqBM) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 4:30 | 2022-07-08 |  |
 | [New Found Power](https://open.spotify.com/track/0KKDXtEugnwp8lyNPo0YxK) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [New Found Power](https://open.spotify.com/album/3SIe3cPl0rIvPMCafeSNyV) | 4:15 | 2022-01-07 | 2022-06-04 |
 | [Night of the Hunter](https://open.spotify.com/track/23o9GMdOaEZp9DH0DxsOpP) | [Astral Doors](https://open.spotify.com/artist/0lc8BWRWnjTL78iCV21Bo9) | [Night of the Hunter](https://open.spotify.com/album/0LJ3W93RKRXwAd0GZa1aac) | 4:42 | 2021-12-29 | 2022-04-16 |
 | [Night Rider](https://open.spotify.com/track/0MGLlKw16k1qGlpb69xDZ1) | [Hellryder](https://open.spotify.com/artist/26oAigbWdVRhrCEja6DB0W), [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [Night Rider](https://open.spotify.com/album/1BHqnv1grh8s1mXj8Oekf4) | 3:14 | 2021-12-17 | 2022-07-25 |
@@ -557,7 +558,7 @@
 | [Younger](https://open.spotify.com/track/6NR49l8DcbO30ag0YY9Hk0) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Younger](https://open.spotify.com/album/6kD41w7XeOUusooACNJqQ0) | 5:35 | 2022-03-22 | 2022-04-20 |
 | [Youphoria](https://open.spotify.com/track/3oxOtnAB4NQpmYRKImWtX6) | [Lion's Share](https://open.spotify.com/artist/4yIytMmJ2tx30YdMAMkDSo) | [Youphoria](https://open.spotify.com/album/6pIGRK6aeBqwJAG1RMvjTo) | 6:22 | 2022-02-11 | 2022-04-16 |
 | [Your Blood is Mine](https://open.spotify.com/track/3vSTR3C2bApxoVnLTyhGcC) | [Deathless Legacy](https://open.spotify.com/artist/1syX6SCTjW1fku8iUyQm2r), [Steve Sylvester](https://open.spotify.com/artist/4oeeLP2TSgTQIsj3xnoxag) | [Your Blood is Mine](https://open.spotify.com/album/017p5NECTl9xrsoCGrnIrG) | 3:50 | 2021-12-17 | 2022-04-19 |
-| [Yours](https://open.spotify.com/track/1Y0dy5kYpDpM3M928ivS4p) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Yours](https://open.spotify.com/album/7aWbgU1cmRIRk1itgoqAa9) | 4:24 | 2022-03-18 |  |
+| [Yours](https://open.spotify.com/track/1Y0dy5kYpDpM3M928ivS4p) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Yours](https://open.spotify.com/album/7aWbgU1cmRIRk1itgoqAa9) | 4:24 | 2022-03-18 | 2022-08-10 |
 | [Zombie Apocalypse](https://open.spotify.com/track/1rdDtBy28Z5wtSIatYHot0) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Zombie Apocalypse](https://open.spotify.com/album/5rM4E7AWnDj0exkGHaRK5O) | 5:35 | 2021-12-17 | 2022-07-29 |
 | [Zombie Apocalypse](https://open.spotify.com/track/3gsaqrqx8UtEUi3kDPEa7i) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Too Mean to Die](https://open.spotify.com/album/1Ua7bczSzWunvSHJQ44tQD) | 5:35 | 2022-07-08 |  |
 | [Zombie Viking](https://open.spotify.com/track/5vTo5QS2IbkXXxyoPycgdK) | [Armored Dawn](https://open.spotify.com/artist/1oueQWyrcULGbpk0DyiqGf) | [Viking Zombie](https://open.spotify.com/album/44tPUhnJ1NZAzmZWd2EVhS) | 4:09 | 2022-01-21 | 2022-04-18 |

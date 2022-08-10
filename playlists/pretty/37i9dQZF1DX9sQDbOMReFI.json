@@ -1,12 +1,12 @@
 {
   "description": "The best side! Cover: Snoop Dogg & Dr. Dre",
-  "num_followers": 575054,
+  "num_followers": 575413,
   "original_name": "I Love My West Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAwNTE1NiwwMDAwMDAwMDEzOTRlOGI1NjRhMDc1MGExNmNjYjQ2ODQ0YTgzNGM0",
+  "snapshot_id": "MTY1NzAwNTE1NiwwMDAwMDAwMDY1MGM3NjcwYjNmNTYyYmIzYmIxYTU5MWI0ODI4MmU2",
   "tracks": [
     {
       "added_at": "2020-06-15 17:33:58",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
     },
     {
-      "added_at": "2021-08-27 03:06:32",
-      "album": {
-        "name": "Explicit Game",
-        "url": "https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P"
-      },
-      "artists": [
-        {
-          "name": "Dru Down",
-          "url": "https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Pimp Of The Year",
-      "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Brothas Doobie",
@@ -399,6 +383,22 @@
       "duration_ms": 219466,
       "name": "Lost in Thought",
       "url": "https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t"
+    },
+    {
+      "added_at": "2021-08-27 03:06:32",
+      "album": {
+        "name": "Explicit Game",
+        "url": "https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P"
+      },
+      "artists": [
+        {
+          "name": "Dru Down",
+          "url": "https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Pimp Of The Year",
+      "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
     },
     {
       "added_at": "2020-05-04 14:10:56",
@@ -465,20 +465,28 @@
       "url": "https://open.spotify.com/track/21GzqgubvWR6Iks9IbDmJE"
     },
     {
-      "added_at": "2020-05-04 14:10:56",
+      "added_at": "2021-08-27 03:06:32",
       "album": {
-        "name": "Quik Is The Name",
-        "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
+        "name": "At Your Own Risk",
+        "url": "https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt"
       },
       "artists": [
         {
-          "name": "DJ Quik",
-          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          "name": "King Tee",
+          "url": "https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Breeze",
+          "url": "https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp"
         }
       ],
-      "duration_ms": 323266,
-      "name": "Tonite",
-      "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
+      "duration_ms": 299026,
+      "name": "Played Like A Piano",
+      "url": "https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -517,28 +525,20 @@
       "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
     },
     {
-      "added_at": "2021-08-27 03:06:32",
+      "added_at": "2020-05-04 14:10:56",
       "album": {
-        "name": "At Your Own Risk",
-        "url": "https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt"
+        "name": "Quik Is The Name",
+        "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
       },
       "artists": [
         {
-          "name": "King Tee",
-          "url": "https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Breeze",
-          "url": "https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp"
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
         }
       ],
-      "duration_ms": 299026,
-      "name": "Played Like A Piano",
-      "url": "https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP"
+      "duration_ms": 323266,
+      "name": "Tonite",
+      "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
     },
     {
       "added_at": "2021-08-27 03:06:32",
@@ -849,20 +849,20 @@
       "url": "https://open.spotify.com/track/63KcYWznO0w3J5wymiT9QK"
     },
     {
-      "added_at": "2021-08-27 03:06:32",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Amerikkka's Nightmare",
-        "url": "https://open.spotify.com/album/7zOLP3fNyHcY3kKlhGhl9o"
+        "name": "Curb Servin'",
+        "url": "https://open.spotify.com/album/5ZG9lsrp6Dw9nYH7V2Jsuh"
       },
       "artists": [
         {
-          "name": "Spice 1",
-          "url": "https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3"
+          "name": "Wc And The Maad Circle",
+          "url": "https://open.spotify.com/artist/2BNJSSIoivoAWGlyRb6nhq"
         }
       ],
-      "duration_ms": 287066,
-      "name": "Strap On The Side",
-      "url": "https://open.spotify.com/track/3sfAumzy0rGj6WEhuuRqz6"
+      "duration_ms": 231840,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4tx7dIsrwf5fICyePU8NFk"
     }
   ],
   "unique_name": "I Love My West Coast Classics",

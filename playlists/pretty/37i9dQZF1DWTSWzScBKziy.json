@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 81351,
+  "num_followers": 81365,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDY5ZmUyM2M1YzkyNzI0MTQ3OGQxZDc4MGMwM2MxM2Jh",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGU5Zjk4M2FmM2U5OTNhNzc2NzQ4ZTE4YzE3MzNhODE2",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -103,6 +103,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/4j9zwwkAKxwLa32RnJHA4t"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 252492,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/7xAnK3cE81erl8ZTxJbYWq"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "The Healing",
         "url": "https://open.spotify.com/album/2rp4zkcLtJfaet6Yhc6YpZ"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 229252,
       "name": "The Healing",
       "url": "https://open.spotify.com/track/2At0XB6Jq68CBQLKvdRP6m"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/4j9zwwkAKxwLa32RnJHA4t"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 252492,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/7xAnK3cE81erl8ZTxJbYWq"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 210599,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "This Is the Day",
         "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 325247,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 210599,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
+        "name": "In You",
+        "url": "https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO"
       },
       "artists": [
         {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
         }
       ],
-      "duration_ms": 209194,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
+      "duration_ms": 205060,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "In You",
-        "url": "https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO"
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
       },
       "artists": [
         {
-          "name": "Iveth Luna",
-          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 205060,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z"
+      "duration_ms": 209194,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "HELP!",
-        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "HELP!",
-      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Loved By You",
         "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 193934,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "HELP!",
+        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "HELP!",
+      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Only Ever Always",
-        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
-      },
-      "artists": [
-        {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
-        }
-      ],
-      "duration_ms": 179420,
-      "name": "Only Ever Always",
-      "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 169817,
       "name": "Church",
       "url": "https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Only Ever Always",
+        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "duration_ms": 179420,
+      "name": "Only Ever Always",
+      "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 209017,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Who You Want Me To Be",
         "url": "https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 196746,
       "name": "Who You Want Me To Be",
       "url": "https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 209017,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Cain",
-          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
-        }
-      ],
-      "duration_ms": 234185,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "YOUTH (spring)",
         "url": "https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "He Is Not Worried",
-        "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
       },
       "artists": [
         {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+          "name": "Jonathan Cain",
+          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
         }
       ],
-      "duration_ms": 269986,
-      "name": "He Is Not Worried",
-      "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
+      "duration_ms": 234185,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1235,6 +1219,22 @@
       "duration_ms": 142151,
       "name": "Thank God!",
       "url": "https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "He Is Not Worried",
+        "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 269986,
+      "name": "He Is Not Worried",
+      "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Places (Des Endroits)",
-        "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
-      },
-      "artists": [
-        {
-          "name": "Armand Mukenge",
-          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
-        },
-        {
-          "name": "Mbushka",
-          "url": "https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Places (Des Endroits)",
-      "url": "https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "I Can't Believe",
         "url": "https://open.spotify.com/album/5MQnRj4S6kW4BhrTKujeZR"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 270250,
       "name": "I Can't Believe",
       "url": "https://open.spotify.com/track/3qfEOVHVZVy7Yjb3JDJcf5"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Places (Des Endroits)",
+        "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
+      },
+      "artists": [
+        {
+          "name": "Armand Mukenge",
+          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
+        },
+        {
+          "name": "Mbushka",
+          "url": "https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Places (Des Endroits)",
+      "url": "https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg"
     },
     {
       "added_at": "2022-05-27 18:07:44",

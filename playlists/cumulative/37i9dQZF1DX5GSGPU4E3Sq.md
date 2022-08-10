@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-250 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+251 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Mountain Fog](https://open.spotify.com/track/3W4XdEp5feFsi9mePm506Q) | [Kalajvi](https://open.spotify.com/artist/2me6X7yihiSqhZTFSLH40V) | [Mountain Fog](https://open.spotify.com/album/2v3Nd2cDsZioTw0N157B3s) | 2:54 | 2022-06-29 | 2022-08-01 |
 | [Mountains](https://open.spotify.com/track/6AfCbp1MYafDCjZZnwEaQx) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Mountains](https://open.spotify.com/album/2coNnA3QDgoYWqQgK7BDM9) | 2:18 | 2022-06-29 | 2022-07-29 |
 | [Myth](https://open.spotify.com/track/5KZVYoYeck4Hq0wzc7ugZ2) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/2ti9WM4q1Qst0BcTs4Q8A3) | 2:39 | 2022-07-19 |  |
+| [Nature's Cradle](https://open.spotify.com/track/1iORN9lDsUet8tzaEK5AuQ) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [Nature's Cradle](https://open.spotify.com/album/3ANL08Lrbqey32BoLpeTjW) | 3:20 | 2022-07-19 |  |
 | [Nature's Cradle](https://open.spotify.com/track/4P5BrmxMAJrqenB0L1e5Up) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [Nature's Cradle](https://open.spotify.com/album/4kolQoCPZsE5KrroNfaRNK) | 3:20 | 2022-06-29 | 2022-07-29 |
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-06-29 |  |
 | [Om mani palme hum](https://open.spotify.com/track/0FtC15WLzcESeYps3uDcpP) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Om mani palme hum](https://open.spotify.com/album/2uiDDNlK6bgzWs1ELV0erj) | 5:00 | 2022-06-29 |  |
@@ -186,7 +187,7 @@
 | [Peperomia Seedling](https://open.spotify.com/track/7kCbTbQfyVySUftfKsgbWF) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Peperomia Seedling](https://open.spotify.com/album/2HTliWlRXYQXidfyTOwkpU) | 3:43 | 2022-06-29 | 2022-07-29 |
 | [PHANTOM BRICKWORKS IV](https://open.spotify.com/track/4mxVWv4FnG2LMnD4pWNB0u) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(IV & V\)](https://open.spotify.com/album/4zGRKlgHQox3JzJHXquI0s) | 11:18 | 2022-06-29 |  |
 | [Photophores](https://open.spotify.com/track/0t824TdL6NQj4G8HvDMlkc) | [Balearic Sea](https://open.spotify.com/artist/77y7sSZazaAjLRH7ZMaZT6) | [Intertidal](https://open.spotify.com/album/1wmJ9PxbMZX9desPZTNQ43) | 2:36 | 2022-06-29 |  |
-| [Planetary](https://open.spotify.com/track/75zUF417TzAmLMAmggqUhP) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Planetary](https://open.spotify.com/album/61vJu9EPHpbWbs2R444Lr0) | 3:04 | 2022-07-19 |  |
+| [Planetary](https://open.spotify.com/track/75zUF417TzAmLMAmggqUhP) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Planetary](https://open.spotify.com/album/61vJu9EPHpbWbs2R444Lr0) | 3:04 | 2022-07-19 | 2022-08-10 |
 | [Prad](https://open.spotify.com/track/6bVe3KvYlPjI20dqMYQz0n) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [ALL](https://open.spotify.com/album/3PvCbTrliFqZydFujweeiI) | 4:54 | 2022-06-29 | 2022-07-29 |
 | [Pulsating Ice Sheet.](https://open.spotify.com/track/3lRsr0NDeH4LJ7H3DbsBXf) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Pulsating Ice Sheet.](https://open.spotify.com/album/0bQETQwqsnXJvaMUpfADeX) | 3:30 | 2022-06-29 | 2022-07-29 |
 | [Resurrection](https://open.spotify.com/track/1m0uGPPwMV53Pkyb2fPTmi) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Resurrection](https://open.spotify.com/album/4kPpK9D61o7w8LyqPUpc4O) | 3:00 | 2022-06-29 | 2022-07-29 |

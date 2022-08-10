@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,270 likes - 101 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,317 likes - 101 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 32 | [Basari \- Amine K Remix](https://open.spotify.com/track/6m8jwfpf7ge0Dddsjp1pvS) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Basari \(Amine K Remix\)](https://open.spotify.com/album/1B40rgdqojSsyJqIiU4UHY) | 6:08 |
 | 33 | [Mulajia \- Live Album](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 |
 | 34 | [Kaneba](https://open.spotify.com/track/01dnvO2H3SxeUxFgUtY7sM) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [mo'vibes \(Various Artists\)](https://open.spotify.com/album/41wFtS7hhKWuI5U3GQdvs3) | 7:16 |
-| 35 | [Ya Sidi \- Valeron Remix](https://open.spotify.com/track/1j19dP73P1n6LJ8bgVyr9T) | [Sound Of Mint](https://open.spotify.com/artist/1YTxtF8PYrZhWBdqUE9cHz), [Farasha](https://open.spotify.com/artist/1Qk832rj0IX2RhEKz4mko3), [Yahya](https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX), [Sami Chaouki](https://open.spotify.com/artist/6YEoLEd7EaY6Ti9ncefeiB), [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Ya Sidi \(Valeron Remix\)](https://open.spotify.com/album/2S6gresnCHFsbyIShyFckC) | 4:22 |
+| 35 | [Ya Sidi \- Valeron Remix](https://open.spotify.com/track/1j19dP73P1n6LJ8bgVyr9T) | [Sound Of Mint](https://open.spotify.com/artist/1YTxtF8PYrZhWBdqUE9cHz), [Farasha](https://open.spotify.com/artist/7zVycMpyEHdrwttDN91Emr), [Yahya](https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX), [Sami Chaouki](https://open.spotify.com/artist/6YEoLEd7EaY6Ti9ncefeiB), [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Ya Sidi \(Valeron Remix\)](https://open.spotify.com/album/2S6gresnCHFsbyIShyFckC) | 4:22 |
 | 36 | [Gate](https://open.spotify.com/track/64DQirKrhckZyaKJ0Xz30G) | [U108](https://open.spotify.com/artist/5gOlxIWquJASLrXLQhUVVh) | [Sutra of Heart](https://open.spotify.com/album/62i9NSc0cKmXcoght2GqwU) | 5:34 |
 | 37 | [Luna](https://open.spotify.com/track/1tioHY3xfRwny9nFEjpKA9) | [Espinoza](https://open.spotify.com/artist/57DFN6UryjVpBcJrgmOg6n), [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Luna](https://open.spotify.com/album/4QQPki89hRKCSI1S36biu1) | 6:04 |
 | 38 | [Aminta \- Scorpios Edit](https://open.spotify.com/track/0l0HvE2nwRsMlsYYv5cAvL) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Aminta](https://open.spotify.com/album/2TK1N038DNKJwM6rNR5775) | 3:31 |

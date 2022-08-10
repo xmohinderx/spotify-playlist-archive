@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 84626,
+  "num_followers": 84628,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTkzMTcxNywwMDAwMDAwMDc0Y2Y4NzUwMmVmYWY4NmI5Mzg4NGRkNDQzNTA0MjJm",
+  "snapshot_id": "MTY1OTkzMTcxNywwMDAwMDAwMDljN2RjYjE1OTdlMmM2YmRiMTY2NTFjZTBiMjExOTQ4",
   "tracks": [
     {
       "added_at": "2022-08-08 04:08:37",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-08-08 04:08:37",
       "album": {
-        "name": "TA",
-        "url": "https://open.spotify.com/album/01oXuccY5s2Vsc1y5EK8Ka"
-      },
-      "artists": [
-        {
-          "name": "\u4e0d\u662f\u82b1\u706b\u5440",
-          "url": "https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd"
-        }
-      ],
-      "duration_ms": 235648,
-      "name": "TA",
-      "url": "https://open.spotify.com/track/6UwJRxAxy8ok9SAidL903w"
-    },
-    {
-      "added_at": "2022-08-08 04:08:37",
-      "album": {
         "name": "for ya",
         "url": "https://open.spotify.com/album/14n2UbeEsxw6J3Jxo3QWeo"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 153854,
       "name": "for ya",
       "url": "https://open.spotify.com/track/6D9uQpS7Bnk9VsuTD0F3vn"
+    },
+    {
+      "added_at": "2022-08-08 04:08:37",
+      "album": {
+        "name": "TA",
+        "url": "https://open.spotify.com/album/01oXuccY5s2Vsc1y5EK8Ka"
+      },
+      "artists": [
+        {
+          "name": "\u4e0d\u662f\u82b1\u706b\u5440",
+          "url": "https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd"
+        }
+      ],
+      "duration_ms": 235648,
+      "name": "TA",
+      "url": "https://open.spotify.com/track/6UwJRxAxy8ok9SAidL903w"
     },
     {
       "added_at": "2022-08-08 04:08:37",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-08-08 04:08:37",
       "album": {
-        "name": "\u4e07\u6709\u5f15\u529b",
-        "url": "https://open.spotify.com/album/51ug4YqwzJoPY4h3kI8Fdd"
-      },
-      "artists": [
-        {
-          "name": "F*yy",
-          "url": "https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE"
-        }
-      ],
-      "duration_ms": 243783,
-      "name": "\u4e07\u6709\u5f15\u529b",
-      "url": "https://open.spotify.com/track/4B3CIS74EZJ3n79AkfeC2X"
-    },
-    {
-      "added_at": "2022-08-08 04:08:37",
-      "album": {
         "name": "Fall in Love",
         "url": "https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 201150,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG"
+    },
+    {
+      "added_at": "2022-08-08 04:08:37",
+      "album": {
+        "name": "\u4e07\u6709\u5f15\u529b",
+        "url": "https://open.spotify.com/album/51ug4YqwzJoPY4h3kI8Fdd"
+      },
+      "artists": [
+        {
+          "name": "F*yy",
+          "url": "https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE"
+        }
+      ],
+      "duration_ms": 243783,
+      "name": "\u4e07\u6709\u5f15\u529b",
+      "url": "https://open.spotify.com/track/4B3CIS74EZJ3n79AkfeC2X"
     },
     {
       "added_at": "2022-08-08 04:08:37",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-08-08 04:08:37",
       "album": {
+        "name": "Take Off - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "Let me love u",
+      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
+    },
+    {
+      "added_at": "2022-08-08 04:08:37",
+      "album": {
         "name": "\u8881\u8a60\u7433Cindy",
         "url": "https://open.spotify.com/album/78Z0qzLySqPuRvisCrVqhP"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 273666,
       "name": "\u756b\u6c99",
       "url": "https://open.spotify.com/track/7F92rki4H1RZ68OrOZQy4u"
-    },
-    {
-      "added_at": "2022-08-08 04:08:37",
-      "album": {
-        "name": "Take Off - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
-      },
-      "artists": [
-        {
-          "name": "WayV",
-          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "Let me love u",
-      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
     },
     {
       "added_at": "2022-08-08 04:08:37",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-08-08 04:08:37",
       "album": {
-        "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 (HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2)",
-        "url": "https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t"
-      },
-      "artists": [
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "duration_ms": 204291,
-      "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 - HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2",
-      "url": "https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y"
-    },
-    {
-      "added_at": "2022-08-08 04:08:37",
-      "album": {
         "name": "\u6539\u8b8a\u81ea\u5df1",
         "url": "https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 166693,
       "name": "\u4f60\u662f\u6211\u5fc3\u5185\u7684\u4e00\u9996\u6b4c",
       "url": "https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl"
+    },
+    {
+      "added_at": "2022-08-08 04:08:37",
+      "album": {
+        "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 (HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2)",
+        "url": "https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 204291,
+      "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 - HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2",
+      "url": "https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y"
     },
     {
       "added_at": "2022-08-08 04:08:37",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2022-08-08 04:08:37",
       "album": {
-        "name": "\u683c\u683cblue",
-        "url": "https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX"
+        "name": "SUPERMAN",
+        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
         }
       ],
-      "duration_ms": 269760,
-      "name": "\u6578\u5230\u4e94\u7b54\u61c9\u6211",
-      "url": "https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h"
+      "duration_ms": 244690,
+      "name": "\u5169\u96bb\u6200\u4eba",
+      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
     },
     {
       "added_at": "2022-08-08 04:08:37",
@@ -1175,8 +1175,8 @@
     {
       "added_at": "2022-08-08 04:08:37",
       "album": {
-        "name": "SUPERMAN",
-        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
+        "name": "\u683c\u683cblue",
+        "url": "https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX"
       },
       "artists": [
         {
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
         }
       ],
-      "duration_ms": 244690,
-      "name": "\u5169\u96bb\u6200\u4eba",
-      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
+      "duration_ms": 269760,
+      "name": "\u6578\u5230\u4e94\u7b54\u61c9\u6211",
+      "url": "https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h"
     },
     {
       "added_at": "2022-08-08 04:08:37",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-08-08 04:08:37",
       "album": {
+        "name": "I'm in love",
+        "url": "https://open.spotify.com/album/0ZOQhvjG1IIOhR5AG9be3L"
+      },
+      "artists": [
+        {
+          "name": "\u7530\u4e9e\u970d",
+          "url": "https://open.spotify.com/artist/2gWiiqMQFlfLjYp43IiQit"
+        }
+      ],
+      "duration_ms": 197684,
+      "name": "I'm in love",
+      "url": "https://open.spotify.com/track/37n0amZ1Uq2GB1P94U92bE"
+    },
+    {
+      "added_at": "2022-08-08 04:08:37",
+      "album": {
         "name": "Samarcande",
         "url": "https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 227200,
       "name": "\u4ec0\u4e48\u8ddf\u4ec0\u4e48\u6709\u4ec0\u4e48\u5173\u7cfb",
       "url": "https://open.spotify.com/track/2JGEft6dySYE0qGMKbMbf6"
-    },
-    {
-      "added_at": "2022-08-08 04:08:37",
-      "album": {
-        "name": "\u6709\u7a7a\u8a18\u5f97\u7d04\u6211 (\u96fb\u8996\u96fb\u5f71\u300a\u96dc\u8ca8\u5e97\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/4gFAG2ZXep3vHcqzDlt8PV"
-      },
-      "artists": [
-        {
-          "name": "The Freshman",
-          "url": "https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "\u6709\u7a7a\u8a18\u5f97\u7d04\u6211 - \u96fb\u8996\u96fb\u5f71\u300a\u96dc\u8ca8\u5e97\u300b\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/1ruZAxKKU6x6fl7MKlkRfs"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

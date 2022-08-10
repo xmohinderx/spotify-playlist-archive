@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 42986,
+  "num_followers": 43017,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMGQzNjMyMzAxYTc0MTYxMWFiODMyMzZmZGNmY2ZmZTc5",
+  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDM1NGRiZmQ5MGIzODlhMTA2YjkyN2ZkMzkzOGQ3ZDRm",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213192,
-      "name": "Blue Magic (Waikiki)",
-      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "The Crossing",
         "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 233000,
       "name": "Every Day a Dream",
       "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213192,
+      "name": "Blue Magic (Waikiki)",
+      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/04Jkig1VBtJLGssHJHsWDN"
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 200590,
-      "name": "Positivity",
-      "url": "https://open.spotify.com/track/5q4TL6ECBParrNsA9oUjjz"
+      "duration_ms": 214666,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1203,8 +1203,8 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/04Jkig1VBtJLGssHJHsWDN"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
+      "duration_ms": 200590,
+      "name": "Positivity",
+      "url": "https://open.spotify.com/track/5q4TL6ECBParrNsA9oUjjz"
     },
     {
       "added_at": "2022-01-05 09:24:56",

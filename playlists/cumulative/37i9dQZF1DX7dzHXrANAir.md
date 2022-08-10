@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-198 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
+199 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Erase \(An Apparition\)](https://open.spotify.com/track/3YubJlJNgsLhggBLTUdtZx) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Apparitions](https://open.spotify.com/album/1mcEBBcWomsTWDQYWOaH8D) | 4:18 | 2022-03-25 | 2022-04-02 |
 | [Escape \- Hania Rani Remix](https://open.spotify.com/track/6MpiBJNEoqRTLVapGwvgSc) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Escape \(Hania Rani Remix\)](https://open.spotify.com/album/69jp6YlrX8mxw26mbOuOpu) | 4:27 | 2021-12-10 | 2022-04-02 |
 | [Etne](https://open.spotify.com/track/0XmfdHTrbFUZgJjFnb1LqZ) | [RØRE](https://open.spotify.com/artist/6xd40M7muKpl2NKROnmT65), [Avery Bright](https://open.spotify.com/artist/0ZCIMurSKs6CryBy5jjOAr) | [Owen](https://open.spotify.com/album/4C1sWRPHj8QVZqnUA7vDzv) | 3:35 | 2022-01-07 |  |
-| [Everything in Life is Vibration](https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr) | [Rooydad](https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF) | [Entanglement](https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q) | 1:45 | 2021-12-10 |  |
+| [Everything in Life is Vibration](https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr) | [Rooydad](https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF) | [Entanglement](https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q) | 1:45 | 2021-12-10 | 2022-08-10 |
 | [Falling Colour](https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj) | [Falling Colour](https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd) | 3:35 | 2021-12-10 |  |
 | [False Sunset \- Todd & Klein Rework](https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Todd & Klein](https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz) | [False Sunset \(Todd & Klein Rework\)](https://open.spotify.com/album/0g51tMtR6ktoyXnqTdSaqU) | 3:07 | 2022-01-21 |  |
 | [Familiar](https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt) | [Unfold \(XXIM:EXPO \#2\)](https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu) | 3:38 | 2021-12-10 |  |
@@ -105,6 +105,7 @@
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-07-22 |  |
 | [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 | 2021-12-10 | 2022-07-29 |
 | [Leaving \- Live from Studio S2](https://open.spotify.com/track/5pkC7Z4iKPYq92NafxFjB5) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Leaving \(Live from Studio S2\)](https://open.spotify.com/album/0uGcqYkVnRk5CFkLiPnzBb) | 6:30 | 2022-01-07 | 2022-04-01 |
+| [Les métamorphoses du vide \- Ensemb7e Version](https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK) | [Chapelier Fou](https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd) | [Ensemb7e](https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU) | 3:10 | 2022-07-22 |  |
 | [Les métamorphoses du vide \- Ensemb7e Version](https://open.spotify.com/track/51i6CNixjgIGfsSF3DLJf0) | [Chapelier Fou](https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd) | [Ensemb7e](https://open.spotify.com/album/2rAdL62WOyG8PlDPlW3bfJ) | 3:10 | 2022-03-25 | 2022-04-20 |
 | [Lines](https://open.spotify.com/track/6UL4QXVLda5Q9o5eLLEJBb) | [Michael Vincent Waller](https://open.spotify.com/artist/02cMR0wcYt9jPOrik2V9FE) | [Trajectories](https://open.spotify.com/album/31nZ8baKTCE8rUk28WJVCd) | 9:38 | 2021-12-10 | 2022-05-10 |
 | [Litany of Godly Love](https://open.spotify.com/track/6NVsBgexl5jkyOjoP5KPQm) | [Nicholas Lens](https://open.spotify.com/artist/2l8SZiYLlSP1XAZz5nN0Hs), [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Litany of Godly Love](https://open.spotify.com/album/1Qj0WOaZRpYPP2x28T4kBm) | 4:44 | 2021-12-10 | 2022-01-05 |

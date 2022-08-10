@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-94 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
+95 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Suffering](https://open.spotify.com/track/3awtlr6uIsrUvZr1SCeQN0) | [pg.lost](https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS) | [Suffering](https://open.spotify.com/album/2N3vxBj5sxogFtGTUU5BIG) | 5:51 | 2022-05-20 |  |
 | [The Arsonist](https://open.spotify.com/track/3mw6eplGTzJIW62daXaoz6) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [War Is Over](https://open.spotify.com/album/7EqrrMcMnLF5LZy4tReToj) | 3:53 | 2022-05-20 |  |
 | [The Arsonist](https://open.spotify.com/track/6TRGAsJseHYaXl0xVHy97r) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [War Is Over](https://open.spotify.com/album/6qX9oUq4PTUBtVaczthHpY) | 3:53 | 2022-05-20 | 2022-07-29 |
-| [The Cynic](https://open.spotify.com/track/3cet6MhvWU3ztnQB55RHdK) | [Franklin Zoo](https://open.spotify.com/artist/78uVsW6GyF4JylRifvQtI3) | [The Dandelion Child](https://open.spotify.com/album/60M3UbywI2bpUHZ1USTL5E) | 5:53 | 2022-05-20 |  |
+| [The Cynic](https://open.spotify.com/track/15Nl9URaaW0A3nQdzXZjxS) | [Franklin Zoo](https://open.spotify.com/artist/78uVsW6GyF4JylRifvQtI3) | [The Dandelion Child](https://open.spotify.com/album/3KboReNemDz3MBYjWrgIWK) | 5:53 | 2022-05-20 |  |
+| [The Cynic](https://open.spotify.com/track/3cet6MhvWU3ztnQB55RHdK) | [Franklin Zoo](https://open.spotify.com/artist/78uVsW6GyF4JylRifvQtI3) | [The Dandelion Child](https://open.spotify.com/album/60M3UbywI2bpUHZ1USTL5E) | 5:53 | 2022-05-20 | 2022-08-10 |
 | [The Dream](https://open.spotify.com/track/6LIIqVZuBG7FjZiQfLJTfz) | [Knight Area](https://open.spotify.com/artist/0fMZgh9eXEgjBq5X9f87NK) | [The Dream](https://open.spotify.com/album/0Vx9BHrCUB2GALTeytL6rN) | 5:00 | 2022-05-20 |  |
 | [The Elephants of Mars](https://open.spotify.com/track/3AVs5CZDqBdZPWtkvcHIxM) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [The Elephants of Mars](https://open.spotify.com/album/38vegmVbvlvnL7NdNDUlAt) | 5:21 | 2022-05-20 | 2022-07-29 |
 | [The Elephants of Mars](https://open.spotify.com/track/3n2O6ayYyow2DuTIe8BXWl) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [The Elephants of Mars](https://open.spotify.com/album/5H7fMVvjyesjzHqRM5GujF) | 5:21 | 2022-05-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "just chill... respectfully ",
-  "num_followers": 781877,
+  "num_followers": 782200,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg4ODA1NCwwMDAwMDAwMDVlYWNmYjYyODE3ZjVjOWExNGQ2MjIwYTNjZTc3Y2Uz",
+  "snapshot_id": "MTY1ODg4ODA1NCwwMDAwMDAwMGZjOTBkYTRkMjNiOTQwNWE4NWFiMTBjYTdlOTZjMjc4",
   "tracks": [
     {
       "added_at": "2022-06-30 22:18:46",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 181831,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
         "name": "Durand Jones & The Indications (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 218888,
       "name": "Downers",
       "url": "https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 181831,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Magic 8ball",
-        "url": "https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 263554,
-      "name": "Where U Goin' Tonight?",
-      "url": "https://open.spotify.com/track/4Z5Bwienk09FUgwsMlsPwJ"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "Lost In June - EP",
         "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 239767,
       "name": "Heavenly Mother",
       "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "Magic 8ball",
+        "url": "https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 263554,
+      "name": "Where U Goin' Tonight?",
+      "url": "https://open.spotify.com/track/4Z5Bwienk09FUgwsMlsPwJ"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
         "name": "Verbs",
         "url": "https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 230973,
       "name": "Somehow.",
       "url": "https://open.spotify.com/track/2zk7TQx9Xa4yxYmsjgDCPp"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
+        "name": "Daughter of the Sun",
+        "url": "https://open.spotify.com/album/3rQaTiH5vbjKcI0KoL1olN"
+      },
+      "artists": [
+        {
+          "name": "vbnd",
+          "url": "https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV"
+        },
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 222115,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/3KdqW7vrStW0VIp1Pfk0cq"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
         "name": "Golden pt. 2 (feat. Mereba)",
         "url": "https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 267400,
       "name": "Wanna Be",
       "url": "https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "Daughter of the Sun",
-        "url": "https://open.spotify.com/album/3rQaTiH5vbjKcI0KoL1olN"
-      },
-      "artists": [
-        {
-          "name": "vbnd",
-          "url": "https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV"
-        },
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 222115,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/3KdqW7vrStW0VIp1Pfk0cq"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "KMS - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "KMS - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "Jewels in the Night",
         "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 225890,
       "name": "Jewels in the Night",
       "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "KMS - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "KMS - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Bound (with Blood Orange)",
-        "url": "https://open.spotify.com/album/1j3PtWvJUNpsU6tYkjD3FX"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 220332,
-      "name": "Bound (with Blood Orange)",
-      "url": "https://open.spotify.com/track/7fjNxhYa8qXGhrrJhY3hZL"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "Do 2 Me",
         "url": "https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf"
       },
@@ -1515,18 +1495,22 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "TheKAMAUU-CASSETTE: \u016dRTH G\u014dLD",
-        "url": "https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq"
+        "name": "Bound (with Blood Orange)",
+        "url": "https://open.spotify.com/album/1j3PtWvJUNpsU6tYkjD3FX"
       },
       "artists": [
         {
-          "name": "KAMAUU",
-          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 240856,
-      "name": "L\u0103V\u012dND\u016dR",
-      "url": "https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX"
+      "duration_ms": 220332,
+      "name": "Bound (with Blood Orange)",
+      "url": "https://open.spotify.com/track/7fjNxhYa8qXGhrrJhY3hZL"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1543,6 +1527,22 @@
       "duration_ms": 155533,
       "name": "single (on the weekend)",
       "url": "https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "TheKAMAUU-CASSETTE: \u016dRTH G\u014dLD",
+        "url": "https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        }
+      ],
+      "duration_ms": 240856,
+      "name": "L\u0103V\u012dND\u016dR",
+      "url": "https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
+        "name": "Demos",
+        "url": "https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 237405,
+      "name": "Drifty",
+      "url": "https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
         "name": "PATTERNS",
         "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
       },
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
-        "name": "Demos",
-        "url": "https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 237405,
-      "name": "Drifty",
-      "url": "https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
         "name": "I'm Thru",
         "url": "https://open.spotify.com/album/2R1NiiIPRBp4Jou2BGS0Mu"
       },
@@ -1659,22 +1659,6 @@
       "duration_ms": 191335,
       "name": "I'm Thru",
       "url": "https://open.spotify.com/track/25AA0A6Qvq9leS9zyeWbln"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "Lost In America",
-        "url": "https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T"
-      },
-      "artists": [
-        {
-          "name": "Lo Village",
-          "url": "https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Out The Window",
-      "url": "https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1695,6 +1679,22 @@
       "duration_ms": 262727,
       "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
       "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
+        "name": "Lost In America",
+        "url": "https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T"
+      },
+      "artists": [
+        {
+          "name": "Lo Village",
+          "url": "https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp"
     },
     {
       "added_at": "2022-06-30 22:18:46",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-06-30 22:18:46",
       "album": {
+        "name": "Later",
+        "url": "https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC"
+      },
+      "artists": [
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "duration_ms": 270708,
+      "name": "Later",
+      "url": "https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS"
+    },
+    {
+      "added_at": "2022-06-30 22:18:46",
+      "album": {
         "name": "Studio Monk",
         "url": "https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 253622,
       "name": "Ooowee (feat. Elijah Dax)",
       "url": "https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx"
-    },
-    {
-      "added_at": "2022-06-30 22:18:46",
-      "album": {
-        "name": "Later",
-        "url": "https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC"
-      },
-      "artists": [
-        {
-          "name": "emawk",
-          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
-        }
-      ],
-      "duration_ms": 270708,
-      "name": "Later",
-      "url": "https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS"
     },
     {
       "added_at": "2022-06-30 22:18:46",

@@ -2,7 +2,7 @@
 
 ### [El Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWVOLXBOylBUZ)
 
-> Tiago PZK tienen el ritmo que mueve Latinoamérica.
+> Rels B tiene el ritmo que mueve Latinoamérica.
 
 276 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/3K8lWo1A5PGXtJdAZf1WiQ)
 

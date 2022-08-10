@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrFx9OjqPuj.md) - [plain]
 
 > Get the party started with some upbeat party jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,316 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,355 likes - 100 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrFx9OjqPuj.md) - [plain]
 | 18 | [Rigor Mortez \- Rudy Van Gelder 24\-Bit Mastering/2003 Remaster](https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Boss Horn \(Remastered\)](https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk) | 6:21 |
 | 19 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 |
 | 20 | [Tin Tin Deo \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/1ppOQ5KApUrYgFzc9kAENZ) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 6:16 |
-| 21 | [Four Brothers](https://open.spotify.com/track/4eduZPo0PdAhlWRLEiOlSb) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Sings The Winners](https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB) | 2:27 |
+| 21 | [Marriage Is For Old Folks](https://open.spotify.com/track/5HdwWMUGkf1TNP4xgdpn2m) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 3:29 |
 | 22 | [Greasy](https://open.spotify.com/track/5rcEapnWT4NrPSFT5co106) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [New Soil](https://open.spotify.com/album/2jutpmWgWgnoYm6wgy1I2Z) | 7:25 |
-| 23 | [Marriage Is For Old Folks](https://open.spotify.com/track/5HdwWMUGkf1TNP4xgdpn2m) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 3:29 |
+| 23 | [Four Brothers](https://open.spotify.com/track/4eduZPo0PdAhlWRLEiOlSb) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Sings The Winners](https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB) | 2:27 |
 | 24 | [The Critic's Choice](https://open.spotify.com/track/67cJY01l5qsL6ckW0OgyHK) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Daniel Moore](https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 2:19 |
 | 25 | [Smokin' \- Remastered 2005](https://open.spotify.com/track/2BxdgnesDnHCmbRABgAJEb) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Workout](https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q) | 7:31 |
 | 26 | [Room 608 \- Remastered](https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 5:22 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrFx9OjqPuj.md) - [plain]
 | 93 | [Nice 'N Greasy \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/33ozrtFTW9KSaujWpdALaR) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [The Natural Soul](https://open.spotify.com/album/4L5BnNOFyRefwj2BO0uoTY) | 5:27 |
 | 94 | [Lizzy's Bounce](https://open.spotify.com/track/6DXYegZOJPvQ07OhKgDlHM) | [Curtis Fuller](https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK) | [The Opener \(Remastered\)](https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH) | 5:24 |
 | 95 | [Sneaky Pete](https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:47 |
-| 96 | [Jodie's Cha Cha](https://open.spotify.com/track/4ZVApZkVB7D0hYWfrGHXeb) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Blue Note Stanley Turrentine/Sextet Sessions](https://open.spotify.com/album/0dRbuyWoPi9et0IWx2ti0j) | 6:16 |
-| 97 | [Move \- Remastered 2006 / Rudy Van Gelder Edition](https://open.spotify.com/track/2R7C1RjOxwXW7gI4QQPZEA) | [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [A.T.'s Delight \(Remastered 2006 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/14KxFrOkUcLKGqP1BGF5KA) | 5:44 |
+| 96 | [Move \- Remastered 2006 / Rudy Van Gelder Edition](https://open.spotify.com/track/2R7C1RjOxwXW7gI4QQPZEA) | [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [A.T.'s Delight \(Remastered 2006 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/14KxFrOkUcLKGqP1BGF5KA) | 5:44 |
+| 97 | [Jodie's Cha Cha](https://open.spotify.com/track/4ZVApZkVB7D0hYWfrGHXeb) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Blue Note Stanley Turrentine/Sextet Sessions](https://open.spotify.com/album/0dRbuyWoPi9et0IWx2ti0j) | 6:16 |
 | 98 | [Return To Swahili](https://open.spotify.com/track/2lNVRiekrifYpHPRQuIVwX) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [The Happy Horns Of Clark Terry](https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU) | 3:04 |
 | 99 | [Swingin' The Samba \- Rudy Van Gelder Edition / Remastered](https://open.spotify.com/track/0DUtvrzMPw3IswNQgZPIHR) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Finger Poppin' \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on) | 5:17 |
 | 100 | [Farmer's Market](https://open.spotify.com/track/41BrY0gtLsNkcB4cPEjOQq) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Farmers Market \[Rudy Van Gelder edition\]](https://open.spotify.com/album/3gMxHjtO7aPl8Wda845C6s) | 5:47 |
 
-Snapshot ID: `MTY1NjUwMDUwMywwMDAwMDAwMDBlYzFiYjVlMThlMzI1Yzc5ZGRiMmY3YzY5NmQzMGYx`
+Snapshot ID: `MTY1NjUwMDUwMywwMDAwMDAwMDRkMTU1NDAyMzVkMmUwYjE1ZjVhNjRmNTMwMzVhYzAz`

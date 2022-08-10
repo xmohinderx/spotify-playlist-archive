@@ -1,12 +1,12 @@
 {
   "description": "New releases, driving the current. Cover: Beyonce",
-  "num_followers": 39551,
+  "num_followers": 39596,
   "original_name": "This is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3ODg4MiwwMDAwMDAwMDBkNDdhZTczYmIzMmY1OWU4MDIwYWQwZWU1OGVkNjVi",
+  "snapshot_id": "MTY1OTY3ODg4MiwwMDAwMDAwMGEwNjJhY2VkZWRiM2Q2NGIxMzI2Y2FjYzkzZTA4YzNk",
   "tracks": [
     {
       "added_at": "2022-08-05 05:54:42",
@@ -415,6 +415,26 @@
       "duration_ms": 263360,
       "name": "I Love You More Than You Know (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
+    },
+    {
+      "added_at": "2022-08-05 05:54:42",
+      "album": {
+        "name": "Dance Now (with Kenny Mason)",
+        "url": "https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Dance Now (with Kenny Mason)",
+      "url": "https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY"
     },
     {
       "added_at": "2022-08-05 05:54:42",

@@ -5773,7 +5773,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -9945,7 +9945,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 131707,
       "name": "Na\u0219pa",
       "url": "https://open.spotify.com/track/2kcTEXbaZd9i066DApclMC"
@@ -10671,7 +10671,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Ora 6",
       "url": "https://open.spotify.com/track/2HtMuOtkOxibDrnRRGzpNS"
@@ -14539,7 +14539,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 76460,
       "name": "Timeout",
       "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
@@ -15831,10 +15831,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 230769,
       "name": "Wella, Wella",
       "url": "https://open.spotify.com/track/0rYu4nHgFeTmeDizGs7CtI"
+    },
+    {
+      "album": {
+        "name": "Wella, Wella",
+        "url": "https://open.spotify.com/album/4gBduG9PSNnvfDEF1ctfN8"
+      },
+      "artists": [
+        {
+          "name": "Denis Nuca",
+          "url": "https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "Wella, Wella",
+      "url": "https://open.spotify.com/track/2XuMVWN6blH6sEiM0SjaFR"
     },
     {
       "album": {

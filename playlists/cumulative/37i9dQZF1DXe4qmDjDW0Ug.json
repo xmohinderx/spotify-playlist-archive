@@ -132,6 +132,24 @@
     },
     {
       "album": {
+        "name": "Like The Bible",
+        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259626,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
+    },
+    {
+      "album": {
         "name": "YG 10th Anniversary",
         "url": "https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5"
       },
@@ -183,6 +201,24 @@
       "duration_ms": 184267,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/07jUEjiknVlPtbRPtcKxGN"
+    },
+    {
+      "album": {
+        "name": "Just Listen.......",
+        "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246333,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
     },
     {
       "album": {
@@ -287,7 +323,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 241690,
       "name": "Glass",
       "url": "https://open.spotify.com/track/5rXek3NJpCQfJxOjaKrj6j"
@@ -305,7 +341,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 278778,
       "name": "Good Bye Sadness, Hello Happiness",
       "url": "https://open.spotify.com/track/5SZAcEsbb9HrVTsu5kwWMT"
@@ -1693,7 +1729,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 222400,
       "name": "\ubd88\uce58\ubcd1 (Feat.Masta Wu)",
       "url": "https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU"
@@ -1733,6 +1769,24 @@
       "duration_ms": 191793,
       "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
       "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
+    },
+    {
+      "album": {
+        "name": "Like A Movie",
+        "url": "https://open.spotify.com/album/5VJSRZsnE47eEGPKHyAA1Z"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270240,
+      "name": "\uc548\ub418\ub098\uc694",
+      "url": "https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1"
     },
     {
       "album": {
@@ -1837,10 +1891,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 239240,
       "name": "\uc5b8\uc820\uac00\ub294",
       "url": "https://open.spotify.com/track/3EpqTpSWhkQDv5gTZddp1W"
+    },
+    {
+      "album": {
+        "name": "It's Unique",
+        "url": "https://open.spotify.com/album/38nBVXCPRp1GS5mRu8MabS"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277746,
+      "name": "\uc5ec\uc790",
+      "url": "https://open.spotify.com/track/4rbMCf0AKkx2QaarW4COPD"
     },
     {
       "album": {

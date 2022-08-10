@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,085 likes - 203 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,387 likes - 203 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 57 | [Exhale](https://open.spotify.com/track/4kbjW7PdqSvKwKhe9NBVuD) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Exhale](https://open.spotify.com/album/3K5P8toBo5aA71JfIDcIKe) | 2:14 |
 | 58 | [Cozy waters](https://open.spotify.com/track/4SZYd54aXVSIeoXgibuivE) | [Vibe Valley](https://open.spotify.com/artist/5oRQXpBWZOtZOZB7lv8zMP), [leo.drummer](https://open.spotify.com/artist/7gwqxYpgDJabcweudcwoUd) | [Cozy waters](https://open.spotify.com/album/17F89LutjZK2mhdiBYc7Dc) | 2:12 |
 | 59 | [Cold Nights](https://open.spotify.com/track/64tjNRFsLr1c4yJpR2C0cs) | [zero\_Ashes](https://open.spotify.com/artist/0RwRSroLXctkWZYKBbm8xV) | [Night Light](https://open.spotify.com/album/0JC4SwWrKoQbA55FN64t6R) | 2:28 |
-| 60 | [Shelter From The Rain](https://open.spotify.com/track/6uP0aj1IEsSN6M8Je3BCp2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L), [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [Shelter From The Rain](https://open.spotify.com/album/27kIzp2mhfvTRtFU0UDUwA) | 3:15 |
+| 60 | [Shelter In The Rain](https://open.spotify.com/track/5U2d7j8LzQwrVY8KvEBKhp) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L), [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [Shelter In The Rain](https://open.spotify.com/album/3qCyOFiIubZpFUbVc6cBnE) | 3:15 |
 | 61 | [puddles](https://open.spotify.com/track/1ICqwks7d1Jw0ivRAjnIUt) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg), [Chillhop World](https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8) | [billboard](https://open.spotify.com/album/0iIsngFS2dkWGrKjemVvBG) | 2:13 |
 | 62 | [tempo](https://open.spotify.com/track/2me2cURKVNKJM2WVhIyoQK) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [tempo](https://open.spotify.com/album/4RHsBs9MScN7ORZbKk1f5R) | 2:15 |
 | 63 | [forever](https://open.spotify.com/track/5c03VAk1Eq94vLnRhmSPvW) | [someday](https://open.spotify.com/artist/5qXb2k1THc04mE2x1QGxlv) | [forever](https://open.spotify.com/album/3H0jHDfAPz7VZTMXEoqGOg) | 2:12 |
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 202 | [Dream Chaser](https://open.spotify.com/track/6ieQhFBkwB4dkMyDKPmmS6) | [New Sound](https://open.spotify.com/artist/0r2LDBDkfj8kqUqizjqbqA) | [Dream Chaser](https://open.spotify.com/album/0gifATai0kqn6RkcWGUhzC) | 2:09 |
 | 203 | [solace](https://open.spotify.com/track/689et48B4RIHI8r8lMr6sn) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [solace](https://open.spotify.com/album/770PTJ3CfI3VXAOuhS6uRg) | 2:28 |
 
-Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMDMzYjAxODliODQzMzkwNzFiNWRlN2Q4MTRlMzIwMjBj`
+Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMDg5YTA1NWMyOWE4NDgyMWRhMGQ2MTk4NDQ1MzJhMzAx`

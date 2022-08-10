@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 295011,
+  "num_followers": 295444,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMGZiZGFhMjQyNTg3MzExZGNiNTQ4NjllNTY1OWQ5MDNm",
+  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMDdhNDhlNDk4MmE2MGE0NTJmNGIxMjljOTAyMmM0YzBi",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "It'll End In Tears (Remastered)",
-        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
-      },
-      "artists": [
-        {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Song To The Siren - Remastered",
-      "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 257519,
       "name": "Only Shallow",
       "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "It'll End In Tears (Remastered)",
+        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Song To The Siren - Remastered",
+      "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ"
-      },
-      "artists": [
-        {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Pulling Our Weight",
-      "url": "https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "The Waves",
         "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 220760,
       "name": "Love Fade",
       "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ"
+      },
+      "artists": [
+        {
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Pulling Our Weight",
+      "url": "https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3"
     },
     {
       "added_at": "2021-10-01 10:38:06",

@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4266,
+  "num_followers": 4288,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODM5Mjk0MiwwMDAwMDAwMGViMmI1MGM3NmQ0MjNiNjg5ZjNlYzg1ZDU2YjY4NDhk",
+  "snapshot_id": "MTY1ODM5Mjk0MiwwMDAwMDAwMDdjZDk5MmYyZGFlOWIyMjIzOGVmYmZhNWNjM2JjMTU3",
   "tracks": [
     {
       "added_at": "2022-07-21 08:42:22",
@@ -659,22 +659,22 @@
     {
       "added_at": "2022-07-21 08:42:22",
       "album": {
-        "name": "Variations",
-        "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
+        "name": "ON (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ugDGtuJ346gPQaFVxcZrb"
       },
       "artists": [
         {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+          "name": "Headman",
+          "url": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
         },
         {
-          "name": "Anna Caragnano",
-          "url": "https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ"
+          "name": "Luca Santucci",
+          "url": "https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI"
         }
       ],
-      "duration_ms": 429000,
-      "name": "Parola - Rework",
-      "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
+      "duration_ms": 320971,
+      "name": "Moisture (feat. Luca Santucci) - Headman Club Version [Bonus Track]",
+      "url": "https://open.spotify.com/track/2c47507B0oE6uGP0nKbv2c"
     },
     {
       "added_at": "2022-07-21 08:42:22",
@@ -695,22 +695,22 @@
     {
       "added_at": "2022-07-21 08:42:22",
       "album": {
-        "name": "ON (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ugDGtuJ346gPQaFVxcZrb"
+        "name": "Variations",
+        "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
       },
       "artists": [
         {
-          "name": "Headman",
-          "url": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
         },
         {
-          "name": "Luca Santucci",
-          "url": "https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI"
+          "name": "Anna Caragnano",
+          "url": "https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ"
         }
       ],
-      "duration_ms": 320971,
-      "name": "Moisture (feat. Luca Santucci) - Headman Club Version [Bonus Track]",
-      "url": "https://open.spotify.com/track/2c47507B0oE6uGP0nKbv2c"
+      "duration_ms": 429000,
+      "name": "Parola - Rework",
+      "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
     },
     {
       "added_at": "2022-07-21 08:42:22",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-07-21 08:42:22",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/1jumWWMXzGF6WbHwDm6Of2"
-      },
-      "artists": [
-        {
-          "name": "Andrea Di Giovanni",
-          "url": "https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/7gbtsFZWeMQLGYA6zwMfY2"
-    },
-    {
-      "added_at": "2022-07-21 08:42:22",
-      "album": {
         "name": "Comet",
         "url": "https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 261795,
       "name": "Comet",
       "url": "https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST"
+    },
+    {
+      "added_at": "2022-07-21 08:42:22",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/1jumWWMXzGF6WbHwDm6Of2"
+      },
+      "artists": [
+        {
+          "name": "Andrea Di Giovanni",
+          "url": "https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/7gbtsFZWeMQLGYA6zwMfY2"
     },
     {
       "added_at": "2022-07-21 08:42:22",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-07-21 08:42:22",
       "album": {
+        "name": "I\u2019m Calling You From My Dreams",
+        "url": "https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ"
+      },
+      "artists": [
+        {
+          "name": "Matilde Davoli",
+          "url": "https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Tell Me What You See",
+      "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
+    },
+    {
+      "added_at": "2022-07-21 08:42:22",
+      "album": {
         "name": "Blue Songs",
         "url": "https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 161312,
       "name": "Hands On Me",
       "url": "https://open.spotify.com/track/0HUiEOHqH9gPbuCWDVvZ7u"
-    },
-    {
-      "added_at": "2022-07-21 08:42:22",
-      "album": {
-        "name": "I\u2019m Calling You From My Dreams",
-        "url": "https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ"
-      },
-      "artists": [
-        {
-          "name": "Matilde Davoli",
-          "url": "https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Tell Me What You See",
-      "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
     },
     {
       "added_at": "2022-07-21 08:42:22",

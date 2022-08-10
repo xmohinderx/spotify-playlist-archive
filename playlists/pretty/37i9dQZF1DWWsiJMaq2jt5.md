@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Ofelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,922 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,933 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 27 | [Nieustawiczna](https://open.spotify.com/track/0PiKMkIMyqHgdAi9tUe4mQ) | [GRALIRYKA](https://open.spotify.com/artist/2n4AGfHkzwXOLZhY5rxXLd), [Ula Kowalska](https://open.spotify.com/artist/123wQ583hZkCUjHCfTf8Em) | [Nieustawiczna](https://open.spotify.com/album/79N6PbiHbBUO0ja6wSdBJK) | 2:09 |
 | 28 | [OMG](https://open.spotify.com/track/32RLo5Om8QPsr2bzkH3Yxb) | [Nezznalek](https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5), [Liker$](https://open.spotify.com/artist/1DqN8u0Zy4hbXH7vujgf8Y) | [OMG](https://open.spotify.com/album/5SYxVOSwYm1QEoXssHZfXp) | 2:45 |
 | 29 | [Wakacyjny hit z gorzką historią w tle](https://open.spotify.com/track/4MNRgTFG22xKZspZF2QdlD) | [Żaneta Chełminiak](https://open.spotify.com/artist/4Lpo3zMUTdH69eWhxN3sfr), [St\. Elmo](https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy) | [Wakacyjny hit z gorzką historią w tle](https://open.spotify.com/album/777K2DV3yUeAQLnCv0qFMV) | 3:17 |
-| 30 | [Dres Dama](https://open.spotify.com/track/77e0Gq8yAxDPIQjWBGjMFP) | [Light On](https://open.spotify.com/artist/6K2077txxMcjmKlbAJ3ZwZ) | [Dres Dama](https://open.spotify.com/album/5FS0wSzVqIdrkCLTslobRn) | 4:11 |
+| 30 | [Dres Dama](https://open.spotify.com/track/77e0Gq8yAxDPIQjWBGjMFP) | [Light On](https://open.spotify.com/artist/28YMxwKjLqEBL5VJhEDX3y) | [Dres Dama](https://open.spotify.com/album/5FS0wSzVqIdrkCLTslobRn) | 4:11 |
 | 31 | [Freski](https://open.spotify.com/track/1aJrmSUZAsse6xn9DijVWF) | [Nicole Kulesza](https://open.spotify.com/artist/6w2akRTl2UT8xdWikMr4Yy) | [Freski](https://open.spotify.com/album/4X8CAiGX5MYXqPCsDW72ll) | 3:18 |
 | 32 | [ups…](https://open.spotify.com/track/4UA8bJXYo4PMfVw14nH4zH) | [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS), [Agata Gołemberska](https://open.spotify.com/artist/0THfPyD0S6A8fSNqg8ccwk) | [ups…](https://open.spotify.com/album/5d6o2jmOyvTZ03n817h8sK) | 2:59 |
 | 33 | [Obcy](https://open.spotify.com/track/78N1YpE7AZMPRZU35mc5uL) | [Sabina Szewczyk](https://open.spotify.com/artist/1Ofkj69uBttIicwL9skzh6) | [Obcy](https://open.spotify.com/album/52rcNRz8dTAkdU571uk1yR) | 3:35 |

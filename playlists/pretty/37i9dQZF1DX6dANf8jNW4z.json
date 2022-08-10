@@ -1,12 +1,12 @@
 {
   "description": "Escucha a estas extraordinarias artistas a todo volumen. Foto: Zahara",
-  "num_followers": 45678,
+  "num_followers": 45682,
   "original_name": "EQUAL Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTUyMzMzMywwMDAwMDAwMDVkYjJmYmMzMzUzMGRhYmNiZDU2YzhjODE5OTE0YTEw",
+  "snapshot_id": "MTY2MDAyNzM0OCwwMDAwMDAwMDMyOGFkNGJiZmRjNmM4MGEzM2Y3YmUwZGMxN2MzZTg1",
   "tracks": [
     {
       "added_at": "2022-08-03 10:42:13",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-08-03 10:42:13",
       "album": {
-        "name": "VENENO (Tenemos que hablar)",
-        "url": "https://open.spotify.com/album/3Bn4DjWgxhYD5qevMtQd8u"
-      },
-      "artists": [
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "VENENO - Tenemos que hablar",
-      "url": "https://open.spotify.com/track/6sK3qRfDsEQEYlt03TRja5"
-    },
-    {
-      "added_at": "2022-08-03 10:42:13",
-      "album": {
         "name": "Diluvio",
         "url": "https://open.spotify.com/album/1dZrD1qyXNIxBufhtYOK9f"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 187853,
       "name": "Los Fieles",
       "url": "https://open.spotify.com/track/5BG8hdfSHrB43zWkqFAbQd"
+    },
+    {
+      "added_at": "2022-08-09 06:42:28",
+      "album": {
+        "name": "KI-KI",
+        "url": "https://open.spotify.com/album/26tAxbsYNC6xaQ5YlfBBfw"
+      },
+      "artists": [
+        {
+          "name": "Tina P\u00e1mpano",
+          "url": "https://open.spotify.com/artist/3JpVAGms96OlNuWPRfrI28"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "KI-KI",
+      "url": "https://open.spotify.com/track/4EQPqVfu1k8yLhsCF36N6S"
     },
     {
       "added_at": "2022-08-03 10:42:13",

@@ -4,7 +4,7 @@
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Zahara
 
-344 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
+345 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Jazmines de Algodón](https://open.spotify.com/track/3x2L67P4TDagokCt52UJFl) | [Ali y Ana](https://open.spotify.com/artist/11JibGTa5znWYLda4atRTV) | [Jazmines de Algodón](https://open.spotify.com/album/0ZRdbmVOpkI7dbZHEowyBL) | 3:49 | 2022-07-05 |  |
 | [Juntos](https://open.spotify.com/track/5qbWNWQhsNC4qOCJdNHKCL) | [Indara](https://open.spotify.com/artist/41HE2dQNySxOJNb2TorVBr) | [Juntos](https://open.spotify.com/album/0Uk23sv0YyaL6oo5cor1Xh) | 3:09 | 2022-05-03 | 2022-06-01 |
 | [KARAOKE](https://open.spotify.com/track/2iDzDwzxDAbC9mf3n47Ye6) | [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [KARAOKE](https://open.spotify.com/album/5CKrejPiHxhDYvHeNi0JqZ) | 2:56 | 2022-04-06 | 2022-05-04 |
+| [KI\-KI](https://open.spotify.com/track/4EQPqVfu1k8yLhsCF36N6S) | [Tina Pámpano](https://open.spotify.com/artist/3JpVAGms96OlNuWPRfrI28) | [KI\-KI](https://open.spotify.com/album/26tAxbsYNC6xaQ5YlfBBfw) | 2:48 | 2022-08-09 |  |
 | [La + xula](https://open.spotify.com/track/604GKsBg2ZlPJZMcWbrVvF) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [La + xula](https://open.spotify.com/album/3GqnF28S7X2P0VKcUzdZTT) | 2:34 | 2022-07-05 |  |
 | [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Cuando No Sé Quién Soy](https://open.spotify.com/album/28Et1GjQGMGNY9oQNDVkGF) | 2:48 | 2022-05-31 | 2022-07-06 |
 | [La Cantaora](https://open.spotify.com/track/4MClFfeYF3cU42lFLdee3M) | [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3), [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [La Cantaora](https://open.spotify.com/album/0Bt1GMCOJRrpRPs9Lj5Wzz) | 3:45 | 2022-04-06 | 2022-05-04 |
@@ -332,7 +333,7 @@
 | [uno x ciento](https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk) | [Miren](https://open.spotify.com/artist/4YGQgS8rZcbt0VOsV6GPcv), [Fulston](https://open.spotify.com/artist/4NAeRqTT8u5AC9WUOMCLeM) | [a partes](https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP) | 1:40 | 2022-04-06 | 2022-05-04 |
 | [Valentía](https://open.spotify.com/track/4X9NSSDXUfFslWjIyMRjef) | [Vera Noor](https://open.spotify.com/artist/1nirixcK3111OAkn0b4V7F) | [Valentía](https://open.spotify.com/album/6829MyoBk5Gr2taxTC2wuB) | 3:05 | 2022-05-31 | 2022-07-06 |
 | [Valió La Pena](https://open.spotify.com/track/5voxKzuoilIlJBk2WHnKAN) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz) | [Valió La Pena](https://open.spotify.com/album/4tuMSu6V60jGyWxqnaEeXO) | 3:14 | 2022-08-02 |  |
-| [VENENO \- Tenemos que hablar](https://open.spotify.com/track/6sK3qRfDsEQEYlt03TRja5) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [VENENO \(Tenemos que hablar\)](https://open.spotify.com/album/3Bn4DjWgxhYD5qevMtQd8u) | 2:28 | 2022-08-02 |  |
+| [VENENO \- Tenemos que hablar](https://open.spotify.com/track/6sK3qRfDsEQEYlt03TRja5) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [VENENO \(Tenemos que hablar\)](https://open.spotify.com/album/3Bn4DjWgxhYD5qevMtQd8u) | 2:28 | 2022-08-02 | 2022-08-10 |
 | [Venerándote](https://open.spotify.com/track/524UPuyQkFxrdyG0uyloP2) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Venerándote](https://open.spotify.com/album/4oVJIFPqFz513dtf6t5jPG) | 3:42 | 2022-01-04 | 2022-02-02 |
 | [Verde Mayo \- 4 Soldaditos](https://open.spotify.com/track/6mcYdOZaxUI9ch3chTVnz2) | [Lorena Santos](https://open.spotify.com/artist/5ACW0L3lAgfRihTOhV8awe) | [Verde Mayo \(4 Soldaditos\)](https://open.spotify.com/album/7BAxqwkoXNOzsDaHoPiuJh) | 3:10 | 2022-04-06 | 2022-05-04 |
 | [Vida Contigo](https://open.spotify.com/track/2EfDTjWtcMPGat1NdwQAUF) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Vida Contigo](https://open.spotify.com/album/0NiZsp7Fd5GFOSyffLA6jA) | 2:35 | 2022-04-06 | 2022-05-04 |

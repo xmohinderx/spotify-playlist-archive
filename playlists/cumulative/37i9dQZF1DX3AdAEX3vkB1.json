@@ -2876,6 +2876,24 @@
     },
     {
       "album": {
+        "name": "If I Can Dream: The Very Best of Elvis",
+        "url": "https://open.spotify.com/album/4nzoWPErEEVrZhTb13Rm7W"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140760,
+      "name": "Viva Las Vegas",
+      "url": "https://open.spotify.com/track/6ymjsSpOqdAFL0mFkwrjp3"
+    },
+    {
+      "album": {
         "name": "Best Of Elvis Presley",
         "url": "https://open.spotify.com/album/7Hx0xRn0UTaEOe5LhcLjwU"
       },
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 144840,
       "name": "Viva Las Vegas (Bonus Track)",
       "url": "https://open.spotify.com/track/6qNY8xr8GNcvskh5GkVS7b"

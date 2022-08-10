@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Zahara
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,678 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,682 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 7 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 8 | [Sexy](https://open.spotify.com/track/5otjyptz6ykhmFGUYbIqoC) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Sexy](https://open.spotify.com/album/63McTMWQqhbjJ9VUH46Tob) | 2:39 |
 | 9 | [Podría Ser Peor](https://open.spotify.com/track/5F4KYrVRCX2Yt9dG3GR8vm) | [Mariana També](https://open.spotify.com/artist/0ug4Nxh6JXe7BQEL6eVvSR) | [Podría Ser Peor](https://open.spotify.com/album/17VVpGKcgErZ9nuF3fKGCq) | 4:18 |
-| 10 | [VENENO \- Tenemos que hablar](https://open.spotify.com/track/6sK3qRfDsEQEYlt03TRja5) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [VENENO \(Tenemos que hablar\)](https://open.spotify.com/album/3Bn4DjWgxhYD5qevMtQd8u) | 2:28 |
-| 11 | [Fame de Odio](https://open.spotify.com/track/5s93E80NgBFjDFi5MgWwmF) | [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Diluvio](https://open.spotify.com/album/1dZrD1qyXNIxBufhtYOK9f) | 3:21 |
-| 12 | [mi am0r](https://open.spotify.com/track/6FDKx3IsTlgPsqcFhUfuNQ) | [SWÏSSA](https://open.spotify.com/artist/1FrfvYtYgNnkVnwVAB9cCC), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [mi am0r](https://open.spotify.com/album/33cpLakQQ8U1uhB8mU6ur2) | 2:22 |
-| 13 | [Amigos](https://open.spotify.com/track/03Ut12qXLWyH7pn20nsNMh) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [Amigos](https://open.spotify.com/album/1qVba1vMR9T1DsuCgD3E5P) | 3:12 |
-| 14 | [La Mala](https://open.spotify.com/track/3jQXJi42auBhNlEIRbrF9i) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT), [DJ Alejandro](https://open.spotify.com/artist/0ym5ObOj6rNAGyq5ga7JhA), [Dj Dimen5ions](https://open.spotify.com/artist/120pQ3TUu98TWKhe2hBEJh) | [La Mala](https://open.spotify.com/album/27Cq5dYDjGePftlCt3sAFL) | 3:13 |
-| 15 | [Valió La Pena](https://open.spotify.com/track/5voxKzuoilIlJBk2WHnKAN) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz) | [Valió La Pena](https://open.spotify.com/album/4tuMSu6V60jGyWxqnaEeXO) | 3:14 |
-| 16 | [Alice Et Moi](https://open.spotify.com/track/7hOUPkIU1qDG6RnqPrBrLB) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy), [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Alice Et Moi](https://open.spotify.com/album/1JJbboGVo8H5BNIzG4StoA) | 3:07 |
-| 17 | [DERR1TETE](https://open.spotify.com/track/7gjIVNdtHjbkhH9tfgCPM8) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [DERR1TETE](https://open.spotify.com/album/467M862F7JBrNB14CeDjDq) | 3:45 |
-| 18 | [Los Fieles](https://open.spotify.com/track/5BG8hdfSHrB43zWkqFAbQd) | [Vega Almohalla](https://open.spotify.com/artist/5XGMdl7ZEKx6q1WI3i3oWc) | [Los Fieles](https://open.spotify.com/album/7ttJBHX9W6VKapKtNrrXDx) | 3:07 |
+| 10 | [Fame de Odio](https://open.spotify.com/track/5s93E80NgBFjDFi5MgWwmF) | [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Diluvio](https://open.spotify.com/album/1dZrD1qyXNIxBufhtYOK9f) | 3:21 |
+| 11 | [mi am0r](https://open.spotify.com/track/6FDKx3IsTlgPsqcFhUfuNQ) | [SWÏSSA](https://open.spotify.com/artist/1FrfvYtYgNnkVnwVAB9cCC), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [mi am0r](https://open.spotify.com/album/33cpLakQQ8U1uhB8mU6ur2) | 2:22 |
+| 12 | [Amigos](https://open.spotify.com/track/03Ut12qXLWyH7pn20nsNMh) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [Amigos](https://open.spotify.com/album/1qVba1vMR9T1DsuCgD3E5P) | 3:12 |
+| 13 | [La Mala](https://open.spotify.com/track/3jQXJi42auBhNlEIRbrF9i) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT), [DJ Alejandro](https://open.spotify.com/artist/0ym5ObOj6rNAGyq5ga7JhA), [Dj Dimen5ions](https://open.spotify.com/artist/120pQ3TUu98TWKhe2hBEJh) | [La Mala](https://open.spotify.com/album/27Cq5dYDjGePftlCt3sAFL) | 3:13 |
+| 14 | [Valió La Pena](https://open.spotify.com/track/5voxKzuoilIlJBk2WHnKAN) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz) | [Valió La Pena](https://open.spotify.com/album/4tuMSu6V60jGyWxqnaEeXO) | 3:14 |
+| 15 | [Alice Et Moi](https://open.spotify.com/track/7hOUPkIU1qDG6RnqPrBrLB) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy), [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Alice Et Moi](https://open.spotify.com/album/1JJbboGVo8H5BNIzG4StoA) | 3:07 |
+| 16 | [DERR1TETE](https://open.spotify.com/track/7gjIVNdtHjbkhH9tfgCPM8) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [DERR1TETE](https://open.spotify.com/album/467M862F7JBrNB14CeDjDq) | 3:45 |
+| 17 | [Los Fieles](https://open.spotify.com/track/5BG8hdfSHrB43zWkqFAbQd) | [Vega Almohalla](https://open.spotify.com/artist/5XGMdl7ZEKx6q1WI3i3oWc) | [Los Fieles](https://open.spotify.com/album/7ttJBHX9W6VKapKtNrrXDx) | 3:07 |
+| 18 | [KI\-KI](https://open.spotify.com/track/4EQPqVfu1k8yLhsCF36N6S) | [Tina Pámpano](https://open.spotify.com/artist/3JpVAGms96OlNuWPRfrI28) | [KI\-KI](https://open.spotify.com/album/26tAxbsYNC6xaQ5YlfBBfw) | 2:48 |
 | 19 | [Pal Pary](https://open.spotify.com/track/6tRWWeBhYylHoHGBmiW7Q5) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [Zevra](https://open.spotify.com/artist/7iZesyVtiVJ999T2bbGT2D) | [Pal Pary](https://open.spotify.com/album/0TXHNBRu3BqD4NYe9iVZtk) | 2:36 |
 | 20 | [cómo cuándo y dónde](https://open.spotify.com/track/7JHGipL0wFFuyl54Zknic0) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [cómo cuándo y dónde](https://open.spotify.com/album/0Lb3RdzKgGPaOpFiqrGUxG) | 2:43 |
 | 21 | [NO CAMBIARÍA NADA](https://open.spotify.com/track/14HgObLV1WhOJW9wkCHSvW) | [Miren](https://open.spotify.com/artist/4YGQgS8rZcbt0VOsV6GPcv) | [NO CAMBIARÍA NADA](https://open.spotify.com/album/6u6m6FuT36IOZAuPU9pBfC) | 3:08 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 48 | [Malibú](https://open.spotify.com/track/1pJOHnu6UXNMJAgJhVuOdN) | [Nerea Rodríguez](https://open.spotify.com/artist/4dwd5pUVuNVBvymNGls5dg) | [Malibú](https://open.spotify.com/album/4qybWG48cvLUXxtDkO22db) | 2:32 |
 | 49 | [año de mierda](https://open.spotify.com/track/2g7Z4h6RLdDIp0HZkdffza) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [año de mierda](https://open.spotify.com/album/4oPOoi1nbDDUDqxWDEoBXS) | 2:50 |
 
-Snapshot ID: `MTY1OTUyMzMzMywwMDAwMDAwMDVkYjJmYmMzMzUzMGRhYmNiZDU2YzhjODE5OTE0YTEw`
+Snapshot ID: `MTY2MDAyNzM0OCwwMDAwMDAwMDMyOGFkNGJiZmRjNmM4MGEzM2Y3YmUwZGMxN2MzZTg1`

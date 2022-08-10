@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW?si=Kmxsq9l5Tt6XNwkuZgT0TA"> Ajebutter22 </a>
 
-210 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+212 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Cash](https://open.spotify.com/track/24Du4ldzPI7PVfuaB45JHV) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv) | 3:07 | 2021-02-26 | 2022-01-14 |
 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-28 |  |
 | [Chigal](https://open.spotify.com/track/4EVzgtfcg5kMEnKEpDv2bL) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Chigal](https://open.spotify.com/album/48unx5t6zGTXFtMDhElQIK) | 2:06 | 2022-03-17 |  |
+| [Choosey](https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Choosey](https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq) | 3:06 | 2022-08-09 |  |
 | [Church](https://open.spotify.com/track/0IttfgbYxRk29Gm9cfAUlD) | [Qaido](https://open.spotify.com/artist/2FGrbqxqWqP3NsWM7CwYrz), [Questo](https://open.spotify.com/artist/5REZEArOcBsnAhxxRfTu3r) | [Church](https://open.spotify.com/album/0V5I3gahutfxogCBzwiXht) | 2:54 | 2022-03-24 | 2022-04-22 |
 | [Cigarette](https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Cigarette](https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd) | 4:13 | 2021-05-28 | 2022-06-04 |
 | [Coco Marijuana](https://open.spotify.com/track/6mXIES5HmXDyD4tpEch0bB) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 3:57 | 2022-01-21 | 2022-03-12 |
@@ -142,6 +143,7 @@
 | [Nasa](https://open.spotify.com/track/5gcL42OzbwTHmP3aaDAo9v) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Nasa](https://open.spotify.com/album/6PysNGAvSd0sTWoDY9eMeM) | 4:04 | 2021-02-26 | 2022-04-01 |
 | [NEW GOVERNMENT](https://open.spotify.com/track/1Hwf5Lbx7hQjAvcl3D3CJb) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [NEW GOVERNMENT](https://open.spotify.com/album/6u9hX1uP6LpOUGhPfWAAGv) | 3:57 | 2021-12-16 | 2022-04-15 |
 | [NIGHTS WITHOUT YOU](https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [NIGHTS WITHOUT YOU](https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid) | 2:58 | 2022-07-28 |  |
+| [NIGHTS WITHOUT YOU](https://open.spotify.com/track/3qQT9PyPFmLN1RjZ3GOabf) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/6rGR0F8POeXk3rnuEKfa4L), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [TEARS AND PURPLE EMOTIONS](https://open.spotify.com/album/5gtq2kLk7zAOBdtpufuMXz) | 3:07 | 2022-07-28 |  |
 | [Nobody Like You](https://open.spotify.com/track/51HIK8KrvGlP0ibrOtjgbL) | [móst](https://open.spotify.com/artist/66S3gR4KK28YJ4X45xNdRp), [Shayo Davids](https://open.spotify.com/artist/5iq9xZgHRSltyOnP0ag1X9) | [Nobody Like You](https://open.spotify.com/album/7pMnBN0NUqsdOCl8bejYkV) | 2:14 | 2022-04-28 | 2022-07-23 |
 | [NOK'D](https://open.spotify.com/track/6FANB5EYbYDAHaRCFS0leM) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [NOK'D](https://open.spotify.com/album/3jr1hQURRkuTqJPGzQi4VZ) | 1:43 | 2022-02-03 | 2022-04-29 |
 | [Nü Bag \- A COLORS SHOW](https://open.spotify.com/track/0rFACC9sDTrlfejypranhN) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Nü Bag \- A COLORS SHOW](https://open.spotify.com/album/0ikdgWaHvWclRaMMuVjHS3) | 2:35 | 2022-07-28 |  |

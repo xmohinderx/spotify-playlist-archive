@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 820851,
+  "num_followers": 821126,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMzAyMSwwMDAwMDAwMDE0ZGFlZDc4ZDZhNjBiN2Q2ZGJmNjMwNDE5N2EyMDk5",
+  "snapshot_id": "MTY1NjMyMzAyMSwwMDAwMDAwMGNmMWRiNTQwY2ZiYjY2ZDQ4MzM4YzNjMjNiMzQzM2Rj",
   "tracks": [
     {
       "added_at": "2022-06-27 09:43:41",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Order In Decline B-Sides",
-        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 240019,
-      "name": "Catching Fire (Acoustic)",
-      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
         "name": "12\" Masters - The Essential Mixes",
         "url": "https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
+        "name": "Order In Decline B-Sides",
+        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 240019,
+      "name": "Catching Fire (Acoustic)",
+      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
         "name": "Kill The Noise (Acoustic)",
         "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 161010,
       "name": "Kill The Noise - Acoustic",
       "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "Bored To Death (Acoustic)",
+      "url": "https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -767,22 +783,6 @@
       "duration_ms": 276106,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/35No5bL3i5Hcc0UpOr6MSc"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "Bored To Death (Acoustic)",
-      "url": "https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD"
     },
     {
       "added_at": "2022-06-27 09:43:41",

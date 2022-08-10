@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-395 songs - 22 hr 38 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+396 songs - 22 hr 41 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [takt](https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [takt](https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3) | 3:57 | 2022-07-28 |  |
 | [TEMPLATE](https://open.spotify.com/track/254Q6v7gbF7jc9sn8CY0GW) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [TEMPLATE/Wicked feat\. Mori Calliope](https://open.spotify.com/album/02tQIjxtgO0c5UAPYYzGAt) | 3:09 | 2022-06-30 | 2022-07-13 |
 | [The Fog](https://open.spotify.com/track/6WeNx7415S4E0m3YPeDknr) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [The Fog](https://open.spotify.com/album/0tHf1Ybf847LMLmlJBUelS) | 3:04 | 2022-06-14 | 2022-06-19 |
+| [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-09 |  |
 | [Under Kids](https://open.spotify.com/track/4i5Dof4iQMmb9pM2EjPXfr) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Kids](https://open.spotify.com/album/6JWQwDPRMxFEfb1oXvUrSh) | 3:26 | 2022-08-04 |  |
 | [Unique](https://open.spotify.com/track/3DyaoTV9RUix1P7jKomn2d) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [Unique](https://open.spotify.com/album/38p2AoETPhydnxMHd7wkMl) | 4:20 | 2022-06-16 | 2022-06-18 |
 | [Untouchable](https://open.spotify.com/track/060Xp31LRG4Ob8yy700GMG) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Untouchable](https://open.spotify.com/album/1UDryR2OAvsKnKmD15Nfcv) | 3:15 | 2022-06-28 | 2022-07-08 |
@@ -352,7 +353,7 @@
 | [真昼の月明かり](https://open.spotify.com/track/5bNJXKIjpxsLVU3Gc3RQMo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [真昼の月明かり](https://open.spotify.com/album/0yGm4qMepSKDbetBLx1Zco) | 3:42 | 2022-06-21 | 2022-07-26 |
 | [真生活](https://open.spotify.com/track/0htxEpxbaMo6lgrBCxrMH2) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [真生活](https://open.spotify.com/album/2xIJ7xtbCH4s6hRnFVJmiS) | 4:04 | 2022-06-16 | 2022-06-21 |
 | [知らないままで](https://open.spotify.com/track/0kEXWokTVYKFxRnNH1xvlg) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [知らないままで](https://open.spotify.com/album/5A0437E0mWQ7RJFYovBBvC) | 2:14 | 2022-06-16 | 2022-07-05 |
-| [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 |  |
+| [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 | 2022-08-10 |
 | [空と虚](https://open.spotify.com/track/1YvLvyEHEUv6xuablK3kpj) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [空と虚](https://open.spotify.com/album/0HdkHMdirrj9cn26DrCv7J) | 3:43 | 2022-06-23 |  |
 | [空室](https://open.spotify.com/track/5mDt4FsNI4FtRI5ZBqhgvi) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [空室](https://open.spotify.com/album/7fJqDLibvdnsYcO78ToeOC) | 3:34 | 2022-06-09 | 2022-07-28 |
 | [立ち入り禁止](https://open.spotify.com/track/4AYNpkK8TqYRBIyQucYr90) | [Ayase×Ado](https://open.spotify.com/artist/2lmiI0JL4f6cA0fQV5M5pI) | [まふまふ トリビュートアルバム 〜転生〜](https://open.spotify.com/album/137RNuQE8LmEcb4SWrTiss) | 3:28 | 2022-06-09 | 2022-07-27 |
@@ -371,7 +372,7 @@
 | [藍才](https://open.spotify.com/track/7znz9Gm1qXs5wOXwOGQqZR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [藍才](https://open.spotify.com/album/7jVKn2OEHBIflIiBOFQ5O1) | 4:16 | 2022-06-09 | 2022-07-12 |
 | [蛍はいなかった \- Self Cover](https://open.spotify.com/track/5b65oi8dlSb4gcV5PWQFzd) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [蛍はいなかった](https://open.spotify.com/album/5yusmis1jlcSuQGgtTBgzH) | 3:29 | 2022-06-16 | 2022-07-20 |
 | [融解sink](https://open.spotify.com/track/1m7lHpniqlJyCac7dJgyYJ) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [融解sink](https://open.spotify.com/album/6JZ9BCIEapKcYyP7eF6NXL) | 4:02 | 2022-07-28 |  |
-| [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 | 2022-06-09 | 2022-08-08 |
+| [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 | 2022-06-09 |  |
 | [見て呉れ](https://open.spotify.com/track/6IgRBs86u320N5CFdbWNPe) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [見て呉れ](https://open.spotify.com/album/2mMMbZrMKXqioYhqz45Bj7) | 3:25 | 2022-06-09 | 2022-07-28 |
 | [解けて、アンビバレンス \(feat.ACCAMER\)](https://open.spotify.com/track/7gsgBpuKespBd378D9Hvda) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r), [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [解けて、アンビバレンス](https://open.spotify.com/album/3iBRtOfASQfRLWleDpng53) | 3:27 | 2022-06-21 | 2022-06-24 |
 | [言霊](https://open.spotify.com/track/6bl8nww9FOs5dkWVHZEsoP) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1) | [言霊](https://open.spotify.com/album/33SBpgjkz7bmnV8XVeFqAn) | 4:36 | 2022-07-19 | 2022-07-22 |
@@ -384,7 +385,7 @@
 | [送り狼](https://open.spotify.com/track/3pT1QzGk1aVZ8BBExvsZyl) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [送り狼](https://open.spotify.com/album/20B18ky36IvqUGx8RC0V3x) | 2:33 | 2022-06-09 | 2022-07-25 |
 | [逃避 行](https://open.spotify.com/track/1CliAtv5R9mawETxvTiO0X) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [逃避 行](https://open.spotify.com/album/5uObcgc1CMm7GLooI55mhL) | 3:28 | 2022-06-16 | 2022-06-20 |
 | [逆三日月](https://open.spotify.com/track/6iz2q5hDQ4xumXP3Z6wkFG) | [青く滲んだ月の行方](https://open.spotify.com/artist/7n8T7z3GLSTZqYO4OJjZaj) | [逆三日月](https://open.spotify.com/album/67OYFlxIngF9dwTf7AHqbq) | 4:51 | 2022-07-07 | 2022-07-13 |
-| [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-05 |  |
+| [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-05 | 2022-08-10 |
 | [通リ魔](https://open.spotify.com/track/3jtO4viOQI8kubV0iIj0u5) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [通リ魔](https://open.spotify.com/album/4kbBPymdSwIQHcSLnI7I8u) | 3:31 | 2022-07-21 | 2022-07-24 |
 | [進め!そっちだ!](https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [進め!そっちだ!](https://open.spotify.com/album/1KVIhGzMdFp0V2z255vbgG) | 3:14 | 2022-06-09 |  |
 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 | 2022-06-16 | 2022-07-26 |

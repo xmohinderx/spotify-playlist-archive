@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,730 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,789 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 56 | [Bossy](https://open.spotify.com/track/45cbUgJwFXYPN3tURnSH2l) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Bossy](https://open.spotify.com/album/5QlvEKeqaZJjSa3Z9tmCzI) | 2:46 |
 | 57 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
 | 58 | [Perseus](https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Perseus](https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ) | 3:34 |
-| 59 | [Nunca Tive Bem](https://open.spotify.com/track/6HbOwNPeSGIWgUaKfVcDbf) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Nunca Tive Bem](https://open.spotify.com/album/6HRgRCbY56jXxVZJ1y3O2H) | 3:33 |
-| 60 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
+| 59 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
+| 60 | [Nunca Tive Bem](https://open.spotify.com/track/6HbOwNPeSGIWgUaKfVcDbf) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Nunca Tive Bem](https://open.spotify.com/album/6HRgRCbY56jXxVZJ1y3O2H) | 3:33 |
 | 61 | [Deixar Rolar](https://open.spotify.com/track/44mIQZqtFSzBhm4lfivYyF) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Deixar Rolar](https://open.spotify.com/album/3GqwReTKFEXIEhXko2DxYD) | 3:53 |
 | 62 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
 | 63 | [Bússola](https://open.spotify.com/track/5WJDT0RGxHU8vqpC7MkMfp) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Bússola](https://open.spotify.com/album/0iPTEOxwY2UxHaICodmx55) | 4:32 |
 | 64 | [Última Noite](https://open.spotify.com/track/0azjYhx3vaByBQfcvrq8BC) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Vale D´judeus](https://open.spotify.com/album/3R9nwoCU3HQEe2lDZZVJFx) | 3:03 |
 | 65 | [Dona da Minha Boca](https://open.spotify.com/track/0AnG23OiIeHVToB7G5yyeT) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Dona da Minha Boca](https://open.spotify.com/album/1k8Myokrv7rkGaUPWqVuNi) | 3:24 |
 
-Snapshot ID: `MTY1NzAxMDEyOSwwMDAwMDAwMDVlYWUwNzg5MGY2N2NkNDM2MzA0MDJkYjAzZjFmZTM4`
+Snapshot ID: `MTY1NzAxMDEyOSwwMDAwMDAwMGU5MzAyYzM4ODM4N2E4M2Q0NmZmNGYxNDljMDdmMTli`

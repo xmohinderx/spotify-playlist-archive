@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata\. Cover: Ivy Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,817,460 likes - 130 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,817,613 likes - 130 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 46 | [Nuestro Amor](https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Nuestro Amor](https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg) | 3:24 |
 | 47 | [Quien Sabe](https://open.spotify.com/track/4vOWNHRx4FGlQhs0pyxgJl) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 4:29 |
 | 48 | [Me Sobran Las Palabras](https://open.spotify.com/track/3AtFytP0BAeQzVGmtNuFkd) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Quédate Conmigo](https://open.spotify.com/album/02QmEdxIENTx8RJIvTE0Q1) | 4:31 |
-| 49 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
-| 50 | [Me Voy \- Bachata](https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:02 |
+| 49 | [Me Voy \- Bachata](https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:02 |
+| 50 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
 | 51 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 |
 | 52 | [Si Esta Casa Hablara \(Bachata Version\)](https://open.spotify.com/track/1rI0P3zoKjEgIUFWGIE6KG) | [Joel Santos](https://open.spotify.com/artist/7pQKmVxIJROJ9FpYq3cLie) | [Si Esta Casa Hablara \(Bachata Version\)](https://open.spotify.com/album/5MmpJfCJwF1CPtxU3FhoPD) | 3:53 |
 | 53 | [Infiel](https://open.spotify.com/track/4OpFR4sz9kxF983pKdnx1k) | [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Géminis](https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt) | 4:25 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 56 | [Lejos](https://open.spotify.com/track/3Ux53Gwh9txPtWaO7AXKZQ) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Amor Total](https://open.spotify.com/album/4rDdqIdgGzfD6KXc7VDDzU) | 3:49 |
 | 57 | [El Cuchillo](https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [A World Tour](https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U) | 3:41 |
 | 58 | [Perfume](https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot \(Extended Version\)](https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu) | 3:12 |
-| 59 | [50/50](https://open.spotify.com/track/6OMRRYsSxvwAfFxkFfzn4L) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [50/50](https://open.spotify.com/album/7pqN4Gjy61BPFqpbJ8Vqjf) | 3:46 |
-| 60 | [La Pared](https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Tonto Corazón](https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi) | 4:44 |
+| 59 | [La Pared](https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Tonto Corazón](https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi) | 4:44 |
+| 60 | [50/50](https://open.spotify.com/track/6OMRRYsSxvwAfFxkFfzn4L) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [50/50](https://open.spotify.com/album/7pqN4Gjy61BPFqpbJ8Vqjf) | 3:46 |
 | 61 | [Soltera](https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Soltera](https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7) | 3:02 |
 | 62 | [Dile](https://open.spotify.com/track/5YaTs3P7JgHnM0UFKMWNnh) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Episodes](https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6) | 3:16 |
 | 63 | [Una Mentirita](https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Friends & Legends](https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1) | 3:37 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 89 | [Cuando Se Acaba el Placer](https://open.spotify.com/track/4PcyHWQiux9kwZ43cUJA9W) | [Ephrem J](https://open.spotify.com/artist/4TtPGFl8psQJgMDEcI5oWZ) | [Cuando Se Acaba el Placer](https://open.spotify.com/album/1LUcYZ8M4G8mYtvxQIg5wd) | 4:03 |
 | 90 | [No Es una Novela](https://open.spotify.com/track/6PqaUk1aS7KXHXBr8iELKb) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 3:40 |
 | 91 | [La Misma Mentira](https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA) | 3:48 |
-| 92 | [Lloro](https://open.spotify.com/track/2sTX3hC5bHV9SGPbkobO77) | [Vicky Corbacho](https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k) | [It's Vicky](https://open.spotify.com/album/4pHze5AUg6FcPewqsXAEs6) | 3:48 |
-| 93 | [Ella Baila](https://open.spotify.com/track/2SpZXqtlhjoivW2dRovLZF) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 2:46 |
+| 92 | [Ella Baila](https://open.spotify.com/track/2SpZXqtlhjoivW2dRovLZF) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 2:46 |
+| 93 | [Lloro](https://open.spotify.com/track/2sTX3hC5bHV9SGPbkobO77) | [Vicky Corbacho](https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k) | [It's Vicky](https://open.spotify.com/album/4pHze5AUg6FcPewqsXAEs6) | 3:48 |
 | 94 | [Sigo Siendo Tuyo \- Bachata Version](https://open.spotify.com/track/5RUfUcoaI2G8amEcTvQ1nc) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [The Movie \(La Verdadera Pelicula \- Bachata Is Taking Over\)](https://open.spotify.com/album/6sJtd7wf2wNR2k79vq1fix) | 3:54 |
 | 95 | [Cuentale](https://open.spotify.com/track/6DPdMLNGI66ALjWGhYgfRs) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Manny Manz](https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY) | [Cuentale](https://open.spotify.com/album/0jEBcvahgdKM8FVzRZhiXM) | 3:40 |
 | 96 | [Saborearte de Nuevo](https://open.spotify.com/track/5NvuNnG0LOe7VXjdoX5ZXl) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Saborearte de Nuevo](https://open.spotify.com/album/7mUe69AI4KYHKg7elasxYd) | 3:36 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 110 | [Dime Porque](https://open.spotify.com/track/5ak2OdhjNeZrksibKWG19G) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL) | [Dime Porque](https://open.spotify.com/album/0rHNWqNDjbVu2EU5XLtUNJ) | 3:36 |
 | 111 | [Te Lo Pido por Favor](https://open.spotify.com/track/64VA99RfGvRGN2WqNbOZCa) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Te Lo Pido por Favor](https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu) | 2:50 |
 | 112 | [Ya Fué Bastante](https://open.spotify.com/track/0S76ldR7V4vQ0BDjRFKxi4) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Este Soy Yo](https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ) | 3:50 |
-| 113 | [Traiciónalo Conmigo](https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Traiciónalo Conmigo](https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ) | 3:45 |
-| 114 | [Contando Minutos](https://open.spotify.com/track/1tGplKExpp5YI63Qzm5cMA) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:52 |
+| 113 | [Contando Minutos](https://open.spotify.com/track/1tGplKExpp5YI63Qzm5cMA) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:52 |
+| 114 | [Traiciónalo Conmigo](https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Traiciónalo Conmigo](https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ) | 3:45 |
 | 115 | [Por Tu Culpa](https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Tu Culpa](https://open.spotify.com/album/0YDxzNrXmAHkOMR4K23Fe7) | 3:21 |
 | 116 | [Tu Tienes Tu Vida](https://open.spotify.com/track/16tcEwwSVhMr4nENsq0Qe4) | [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [Tu Tienes Tu Vida](https://open.spotify.com/album/786RkvYJnMkMm9yLHgObfr) | 3:28 |
 | 117 | [Quiéreme](https://open.spotify.com/track/0M9Qr6K4wfoGUDBDgSzXgf) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Quiéreme](https://open.spotify.com/album/49caV5I1ACJoWhF8najT9U) | 4:01 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 129 | [Princesa Mia](https://open.spotify.com/track/58b7JlzLEEK7nnecVP2OQe) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Princesa Mia](https://open.spotify.com/album/5MkMetkuLTsUi4ZIrAfSWr) | 3:40 |
 | 130 | [Era Mentira](https://open.spotify.com/track/205UQMjPr9vVthUghoqynT) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Circharles](https://open.spotify.com/artist/7h9r1hKkJ7FGA6k5vjiz1i) | [Era Mentira](https://open.spotify.com/album/0Jq5HRj6AT5UgwDioSOG4Z) | 4:10 |
 
-Snapshot ID: `MTY1OTY3NjMyNCwwMDAwMDAwMDgwNDlkNGRhMjk0OGU0YjBiOTI1NGUwODc3NDM0NmMw`
+Snapshot ID: `MTY1OTY3NjMyNCwwMDAwMDAwMGYxYWRlNzBjNzUzMTMzM2Q2YTc4NWUzN2I5NGM1ZTRj`

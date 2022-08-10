@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : KRK
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,142 likes - 81 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,312 likes - 81 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 | 66 | [Aadungada Yennai Suththi](https://open.spotify.com/track/4C9Pw35gedSicSDkS2jm4e) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Naveen](https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt) | [Pokkiri](https://open.spotify.com/album/4Inz90EeQs57Oxc41GF6QO) | 4:30 |
 | 67 | [Don'u Don'u Don'u \- The Don's Romance](https://open.spotify.com/track/2kbxGCtWSV0f1ON720Bd4O) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Alisha Thomas](https://open.spotify.com/artist/2JlwKfQpBmPFip5JT4d7VG) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 3:15 |
 | 68 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 |
-| 69 | [Udhungada Sangu](https://open.spotify.com/track/24GlSNySJ9tAwkvZPuVb63) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 3:29 |
-| 70 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 |
+| 69 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 |
+| 70 | [Udhungada Sangu](https://open.spotify.com/track/24GlSNySJ9tAwkvZPuVb63) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 3:29 |
 | 71 | [What a Karavaad](https://open.spotify.com/track/5EjVRbQFSLYyeNLlO7qGLY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 4:27 |
 | 72 | [Maari Thara Local \- Here Comes Maari](https://open.spotify.com/track/7w4kFO2slzHCu1qEOMaPkl) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 3:50 |
 | 73 | [Aaluma Doluma](https://open.spotify.com/track/1Do2hDE0etMakAEQbyOd4L) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 4:18 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 | 80 | [Sodakku](https://open.spotify.com/track/1yotVCnfaPDvp9C7LsdGB1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Thaanaa Serndha Koottam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JnJeimcabagrnJyFtNty1) | 3:58 |
 | 81 | [Thappa Dhaan Theriyum \- Maari's Karuthu](https://open.spotify.com/track/4RXjmJrLbH9DNROHHaMbNc) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0), [Magizhini Manimaaran](https://open.spotify.com/artist/3jE5B5EvNgZmEw9bnpZMam) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 3:19 |
 
-Snapshot ID: `MTY1OTYxNjkyMiwwMDAwMDAwMGEzZjRhYmVlMGIzNzk2N2U2ZjBiNTlkODZhMTNjNmE2`
+Snapshot ID: `MTY1OTYxNjkyMiwwMDAwMDAwMGJmZDAyMGU1MzI2M2MzZjgyZDg2NmEwMDQyOTEzMDRl`

@@ -1,12 +1,12 @@
 {
   "description": "Release The Bats! Cover: Siouxsie and the Banshees",
-  "num_followers": 439610,
+  "num_followers": 439975,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAwNTQ2MywwMDAwMDAwMGVlMTQ1Y2E1MDNlMjk4ZGY5NjVkZWE3OTJjY2IzMTQ5",
+  "snapshot_id": "MTY2MDAwOTA2OCwwMDAwMDAwMGU5YmIzYTk0YmU4MWEyZjBjOWRhYzEzMjM2ZDBkYTc1",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Starfish",
-        "url": "https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x"
-      },
-      "artists": [
-        {
-          "name": "The Church",
-          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
-        }
-      ],
-      "duration_ms": 295973,
-      "name": "Reptile",
-      "url": "https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Scott 3",
         "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 86333,
       "name": "30 Century Man",
       "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Starfish",
+        "url": "https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x"
+      },
+      "artists": [
+        {
+          "name": "The Church",
+          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
+        }
+      ],
+      "duration_ms": 295973,
+      "name": "Reptile",
+      "url": "https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Everything!",
-        "url": "https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo"
-      },
-      "artists": [
-        {
-          "name": "Tones On Tail",
-          "url": "https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb"
-        }
-      ],
-      "duration_ms": 268773,
-      "name": "Go! - Club Mix",
-      "url": "https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 233160,
       "name": "Ivo",
       "url": "https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Everything!",
+        "url": "https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo"
+      },
+      "artists": [
+        {
+          "name": "Tones On Tail",
+          "url": "https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb"
+        }
+      ],
+      "duration_ms": 268773,
+      "name": "Go! - Club Mix",
+      "url": "https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Greatest Hits, Remixes & More",
-        "url": "https://open.spotify.com/album/2nvFSKDu3gvvHn9X11szDl"
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
       "artists": [
         {
-          "name": "Gene Loves Jezebel",
-          "url": "https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE"
+      "duration_ms": 192000,
+      "name": "Beatrix",
+      "url": "https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg"
     }
   ],
   "unique_name": "Dark & Gothic",

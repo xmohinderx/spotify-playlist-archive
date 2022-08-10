@@ -1,13 +1,29 @@
 {
-  "description": "Young Miko is our new RADAR Artist to Watch.",
-  "num_followers": 347547,
+  "description": "Tom The Mail Man is our new RADAR Artist to Watch.",
+  "num_followers": 347549,
   "original_name": "RADAR US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1MDg0MiwwMDAwMDAwMDE5MDVhMWFkNzBlMTFmMzRmODgwZTUxN2M0YjEwZTMw",
+  "snapshot_id": "MTY2MDAxNzYwMCwwMDAwMDAwMDRkZmY0OGY5MjdlMzRmMmNmOTg5MjMwMTM4NzI2NWMz",
   "tracks": [
+    {
+      "added_at": "2022-08-09 04:00:00",
+      "album": {
+        "name": "\u2022NOTDEAD!\u2022",
+        "url": "https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "duration_ms": 190188,
+      "name": "\u2022NOTDEAD!\u2022",
+      "url": "https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms"
+    },
     {
       "added_at": "2022-07-26 15:15:49",
       "album": {

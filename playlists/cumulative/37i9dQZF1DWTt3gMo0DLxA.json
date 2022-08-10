@@ -1103,10 +1103,28 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 226083,
       "name": "Puttene Prema",
       "url": "https://open.spotify.com/track/7LrGTUqYtt2SjoUfkQotXp"
+    },
+    {
+      "album": {
+        "name": "Best 2021 Love Songs",
+        "url": "https://open.spotify.com/album/28Z0w9Wvc2Su65iDGAgZY1"
+      },
+      "artists": [
+        {
+          "name": "Ram Miryala",
+          "url": "https://open.spotify.com/artist/3yTbaDksVkNO0HnSzb35ZL"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226083,
+      "name": "Puttene Prema (From \"Gully Rowdy\")",
+      "url": "https://open.spotify.com/track/5jJZdMFA4bu71dmyISjMYS"
     },
     {
       "album": {
@@ -1365,8 +1383,12 @@
       },
       "artists": [
         {
-          "name": "Divya Kumar, Shravana Bhargavi",
-          "url": "https://open.spotify.com/artist/18WmOlX2G8ZH7tPvZ6CmCg"
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Sravana Bhargavi",
+          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
         }
       ],
       "date_added": "2021-09-24",

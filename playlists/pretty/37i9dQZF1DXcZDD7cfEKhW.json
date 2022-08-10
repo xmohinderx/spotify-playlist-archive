@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Lizzo.",
-  "num_followers": 3317947,
+  "num_followers": 3318081,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDBlMmFmNDM0MjExZmVlMTdhZDRjZmMzZWI2MmJlZmRm",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDMyYWM3YjA1ZjUyYTIwZThiMjA5NTYwMmYzZTJiYjEz",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -571,6 +571,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Attention (with Justin Bieber) [Disclosure Remix]",
         "url": "https://open.spotify.com/album/1ERLtCOCCebS12VHYTq3cF"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 256644,
       "name": "Attention (with Justin Bieber) - Disclosure Remix",
       "url": "https://open.spotify.com/track/1xx7iMgSyLnbDUi170lVbb"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Fat Max Gsus",
-          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
-        }
-      ],
-      "duration_ms": 224649,
-      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Life Goes On (Alok Remix)",
         "url": "https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 157647,
       "name": "Life Goes On - Alok Remix",
       "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Fat Max Gsus",
+          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
+        }
+      ],
+      "duration_ms": 224649,
+      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -983,46 +983,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "what would you do? (Galantis Remix)",
-        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "what would you do? - Galantis Remix",
-      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Good Ones (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 165141,
-      "name": "Good Ones - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Better Days (Regard Remix)",
         "url": "https://open.spotify.com/album/5QkWVBDHnfAlFpbRaLSXmV"
       },
@@ -1047,6 +1007,46 @@
       "duration_ms": 166075,
       "name": "Better Days - Regard Remix",
       "url": "https://open.spotify.com/track/7Edhy8323TjVAwvtoqujQu"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Good Ones (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 165141,
+      "name": "Good Ones - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "what would you do? (Galantis Remix)",
+        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "what would you do? - Galantis Remix",
+      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1175,26 +1175,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Freaky Deaky (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp"
+        "name": "Summertime Sadness (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 140059,
-      "name": "Freaky Deaky - R3HAB Remix",
-      "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
+      "duration_ms": 265997,
+      "name": "Summertime - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1223,22 +1219,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Summertime Sadness (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
+        "name": "Freaky Deaky (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 265997,
-      "name": "Summertime - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+      "duration_ms": 140059,
+      "name": "Freaky Deaky - R3HAB Remix",
+      "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "drunk text me (Shallou Remix)",
+        "url": "https://open.spotify.com/album/3TWWc8s7UGI6LZYNHOLsUf"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 162431,
+      "name": "drunk text me - Shallou Remix",
+      "url": "https://open.spotify.com/track/22w2aLBRJTGTpXSj1X7Dc0"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Good Ones (THAT KIND Remix)",
         "url": "https://open.spotify.com/album/6c5DpyHIJNRD1IxlViuiBl"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 182640,
       "name": "Easy - Ofenbach Remix",
       "url": "https://open.spotify.com/track/7CEwv044aumuJzN470mPXL"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "drunk text me (Shallou Remix)",
-        "url": "https://open.spotify.com/album/3TWWc8s7UGI6LZYNHOLsUf"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 162431,
-      "name": "drunk text me - Shallou Remix",
-      "url": "https://open.spotify.com/track/22w2aLBRJTGTpXSj1X7Dc0"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1747,34 +1747,6 @@
       "duration_ms": 145849,
       "name": "Somebody I F*cked Once - Lady Bee Remix",
       "url": "https://open.spotify.com/track/4QeEtuZ4paF4UxTtb2MauS"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
-        "url": "https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        },
-        {
-          "name": "VERNON",
-          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 249280,
-      "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
-      "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1883,6 +1855,34 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
+        "url": "https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        },
+        {
+          "name": "VERNON",
+          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 249280,
+      "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
+      "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Catching A Dream (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/1VBJpDBrzGUyUmONeP0sDO"
       },
@@ -1899,6 +1899,26 @@
       "duration_ms": 173709,
       "name": "Catching A Dream (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/3qBqh2AVvAJCoY3IR3k1jF"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Nothing Hurts (Afrojack Remix)",
+        "url": "https://open.spotify.com/album/4z7l1cSAwCcaDoaxXwNZ9x"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 186856,
+      "name": "Nothing Hurts (Afrojack Remix)",
+      "url": "https://open.spotify.com/track/58680i3qsAwKYecyD2zwgq"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1923,26 +1943,6 @@
       "duration_ms": 177219,
       "name": "Manchild - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/0B10uWxWneaba7D2bXaHBe"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Nothing Hurts (Afrojack Remix)",
-        "url": "https://open.spotify.com/album/4z7l1cSAwCcaDoaxXwNZ9x"
-      },
-      "artists": [
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        },
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 186856,
-      "name": "Nothing Hurts (Afrojack Remix)",
-      "url": "https://open.spotify.com/track/58680i3qsAwKYecyD2zwgq"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Maybe You\u2019re The Problem (Crush Club Remix)",
-        "url": "https://open.spotify.com/album/3BGR19MUXT96YufDDLI52q"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Crush Club",
-          "url": "https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc"
-        }
-      ],
-      "duration_ms": 182578,
-      "name": "Maybe You\u2019re The Problem - Crush Club Remix",
-      "url": "https://open.spotify.com/track/0Si1vYQbl3IHbMkukfEHir"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Close To You (Kyle Watson Remix)",
         "url": "https://open.spotify.com/album/1ytknwYOG3GS6yMmauLhrj"
       },
@@ -2151,6 +2131,26 @@
       "duration_ms": 202381,
       "name": "Close To You - Kyle Watson Remix",
       "url": "https://open.spotify.com/track/1YOF2DRwmMpXoEq6ikjwCc"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Maybe You\u2019re The Problem (Crush Club Remix)",
+        "url": "https://open.spotify.com/album/3BGR19MUXT96YufDDLI52q"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Crush Club",
+          "url": "https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc"
+        }
+      ],
+      "duration_ms": 182578,
+      "name": "Maybe You\u2019re The Problem - Crush Club Remix",
+      "url": "https://open.spotify.com/track/0Si1vYQbl3IHbMkukfEHir"
     },
     {
       "added_at": "2022-07-29 04:01:00",

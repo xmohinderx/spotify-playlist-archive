@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Pahua en portada.",
-  "num_followers": 23633,
+  "num_followers": 23673,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk5NTc3OCwwMDAwMDAwMGRmOTdjYzM3MTI3NWJhOTRkMjJhNGMxNDZmYTA0MTRh",
+  "snapshot_id": "MTY1OTk5NTc3OCwwMDAwMDAwMDI4YjhkMzM2YTc4OGEzYWQ1MmE2YzhmMTQ1YzZhZDFi",
   "tracks": [
     {
       "added_at": "2021-10-05 16:26:53",
@@ -197,6 +197,22 @@
       "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
     },
     {
+      "added_at": "2022-07-13 15:48:37",
+      "album": {
+        "name": "Siempre Sim\u00f3n y Nunca Nel",
+        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 241616,
+      "name": "Siempre Sim\u00f3n y Nunca Nel",
+      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
+    },
+    {
       "added_at": "2022-04-22 18:06:01",
       "album": {
         "name": "Tinta y Tiempo",
@@ -215,22 +231,6 @@
       "duration_ms": 184475,
       "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
       "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
-    },
-    {
-      "added_at": "2022-07-13 15:48:37",
-      "album": {
-        "name": "Siempre Sim\u00f3n y Nunca Nel",
-        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 241616,
-      "name": "Siempre Sim\u00f3n y Nunca Nel",
-      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F"
     },
     {
-      "added_at": "2022-07-11 18:36:36",
-      "album": {
-        "name": "Me mandaron por tortillas",
-        "url": "https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Me mandaron por tortillas",
-      "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
-    },
-    {
       "added_at": "2022-03-30 02:02:45",
       "album": {
         "name": "Boleros Psicod\u00e9licos",
@@ -367,6 +351,22 @@
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+    },
+    {
+      "added_at": "2022-07-11 18:36:36",
+      "album": {
+        "name": "Me mandaron por tortillas",
+        "url": "https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Me mandaron por tortillas",
+      "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -625,20 +625,20 @@
       "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
     },
     {
-      "added_at": "2021-11-12 02:37:14",
+      "added_at": "2022-04-20 18:21:19",
       "album": {
-        "name": "Aguaepanela Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
+        "name": "Alma Carnavalera",
+        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
       },
       "artists": [
         {
-          "name": "Masilva",
-          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
+          "name": "Stephanie Santiago",
+          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
         }
       ],
-      "duration_ms": 255227,
-      "name": "Aguaepanela Fant\u00e1stica",
-      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
+      "duration_ms": 234655,
+      "name": "Alma Carnavalera",
+      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
       "added_at": "2022-04-09 05:01:42",
@@ -661,20 +661,20 @@
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
-      "added_at": "2022-04-20 18:21:19",
+      "added_at": "2021-11-12 02:37:14",
       "album": {
-        "name": "Alma Carnavalera",
-        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+        "name": "Aguaepanela Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
       },
       "artists": [
         {
-          "name": "Stephanie Santiago",
-          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+          "name": "Masilva",
+          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
         }
       ],
-      "duration_ms": 234655,
-      "name": "Alma Carnavalera",
-      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
+      "duration_ms": 255227,
+      "name": "Aguaepanela Fant\u00e1stica",
+      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
     },
     {
       "added_at": "2022-04-01 04:27:06",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Nosotros Tambi\u00e9n",
-        "url": "https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt"
-    },
-    {
       "added_at": "2022-02-24 20:09:48",
       "album": {
         "name": "Sentimiento",
@@ -775,6 +759,22 @@
       "duration_ms": 172666,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Nosotros Tambi\u00e9n",
+        "url": "https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt"
     },
     {
       "added_at": "2022-01-17 15:56:36",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/0cKXRG5rWgbjV92suoEXVR"
     },
     {
-      "added_at": "2022-07-13 15:48:37",
-      "album": {
-        "name": "Belmont",
-        "url": "https://open.spotify.com/album/797ZnganZpmTHcULejYwDt"
-      },
-      "artists": [
-        {
-          "name": "L\u00e1zaro Crist\u00f3bal Comala",
-          "url": "https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK"
-        }
-      ],
-      "duration_ms": 168939,
-      "name": "Un Manhattan",
-      "url": "https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl"
-    },
-    {
       "added_at": "2022-03-11 03:21:01",
       "album": {
         "name": "El Invento EP",
@@ -943,6 +927,22 @@
       "duration_ms": 264186,
       "name": "El Invento - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu"
+    },
+    {
+      "added_at": "2022-07-13 15:48:37",
+      "album": {
+        "name": "Belmont",
+        "url": "https://open.spotify.com/album/797ZnganZpmTHcULejYwDt"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1zaro Crist\u00f3bal Comala",
+          "url": "https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK"
+        }
+      ],
+      "duration_ms": 168939,
+      "name": "Un Manhattan",
+      "url": "https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl"
     },
     {
       "added_at": "2022-02-25 02:12:10",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/2kkgaiE2Qa9kLYNdnmm1lM"
+      },
+      "artists": [
+        {
+          "name": "G-Flux",
+          "url": "https://open.spotify.com/artist/746l1MMYehSycjviJJbe2Y"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Hey Cosmo",
+          "url": "https://open.spotify.com/artist/0w7bkE6Qq1rmGIDSmC5xS9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8"
       },
@@ -1031,30 +1055,6 @@
       "duration_ms": 216379,
       "name": "Rainfalls",
       "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/2kkgaiE2Qa9kLYNdnmm1lM"
-      },
-      "artists": [
-        {
-          "name": "G-Flux",
-          "url": "https://open.spotify.com/artist/746l1MMYehSycjviJJbe2Y"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Hey Cosmo",
-          "url": "https://open.spotify.com/artist/0w7bkE6Qq1rmGIDSmC5xS9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
     },
     {
       "added_at": "2022-07-25 03:37:28",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
     },
     {
+      "added_at": "2021-11-10 05:48:01",
+      "album": {
+        "name": "Guerrera",
+        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 251739,
+      "name": "Guerrera",
+      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+    },
+    {
       "added_at": "2022-04-12 02:37:18",
       "album": {
         "name": "New Latam Beats from Mexico Curated by Diguital Trip",
@@ -1211,22 +1227,6 @@
       "duration_ms": 434406,
       "name": "Kiss the frog",
       "url": "https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0"
-    },
-    {
-      "added_at": "2021-11-10 05:48:01",
-      "album": {
-        "name": "Guerrera",
-        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 251739,
-      "name": "Guerrera",
-      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1325,6 +1325,22 @@
       "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
     },
     {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "\u00datera",
+        "url": "https://open.spotify.com/album/0t49uyMILALgWUltHuraYc"
+      },
+      "artists": [
+        {
+          "name": "Kaleema",
+          "url": "https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW"
+        }
+      ],
+      "duration_ms": 250769,
+      "name": "Portales",
+      "url": "https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3"
+    },
+    {
       "added_at": "2022-07-15 04:48:04",
       "album": {
         "name": "Ultramar",
@@ -1343,22 +1359,6 @@
       "duration_ms": 264837,
       "name": "Ultramar",
       "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "\u00datera",
-        "url": "https://open.spotify.com/album/0t49uyMILALgWUltHuraYc"
-      },
-      "artists": [
-        {
-          "name": "Kaleema",
-          "url": "https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW"
-        }
-      ],
-      "duration_ms": 250769,
-      "name": "Portales",
-      "url": "https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
+        "name": "Frutas",
+        "url": "https://open.spotify.com/album/1Kmmeh36eI13U3nltNhFhD"
+      },
+      "artists": [
+        {
+          "name": "Sin Color",
+          "url": "https://open.spotify.com/artist/666CSPv8WKGQkAgI6wtBop"
+        }
+      ],
+      "duration_ms": 259741,
+      "name": "Frutas",
+      "url": "https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
         "name": "Couldn't Seal The Deal",
         "url": "https://open.spotify.com/album/1Psb2TklWrfVmnfbqTnHj5"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 214867,
       "name": "Couldn't Seal The Deal",
       "url": "https://open.spotify.com/track/4GZ61USOfH8M2EsWBdKzg1"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Frutas",
-        "url": "https://open.spotify.com/album/1Kmmeh36eI13U3nltNhFhD"
-      },
-      "artists": [
-        {
-          "name": "Sin Color",
-          "url": "https://open.spotify.com/artist/666CSPv8WKGQkAgI6wtBop"
-        }
-      ],
-      "duration_ms": 259741,
-      "name": "Frutas",
-      "url": "https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw"
     },
     {
       "added_at": "2022-01-21 16:05:39",
@@ -1677,22 +1677,6 @@
       "url": "https://open.spotify.com/track/63Ey7CXax01hC8niuvTVhE"
     },
     {
-      "added_at": "2022-01-13 00:41:05",
-      "album": {
-        "name": "Miel de Aguacate",
-        "url": "https://open.spotify.com/album/0t1z8oNlfre67u72xPFygQ"
-      },
-      "artists": [
-        {
-          "name": "Bicho Blanco",
-          "url": "https://open.spotify.com/artist/2Rzw8cwEVujjCYNhGFLRcw"
-        }
-      ],
-      "duration_ms": 237745,
-      "name": "Miel de Aguacate",
-      "url": "https://open.spotify.com/track/0G2lWPAEC9FQcd7qe8RLHi"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Aguacero",
@@ -1707,6 +1691,22 @@
       "duration_ms": 235311,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG"
+    },
+    {
+      "added_at": "2022-01-13 00:41:05",
+      "album": {
+        "name": "Miel de Aguacate",
+        "url": "https://open.spotify.com/album/0t1z8oNlfre67u72xPFygQ"
+      },
+      "artists": [
+        {
+          "name": "Bicho Blanco",
+          "url": "https://open.spotify.com/artist/2Rzw8cwEVujjCYNhGFLRcw"
+        }
+      ],
+      "duration_ms": 237745,
+      "name": "Miel de Aguacate",
+      "url": "https://open.spotify.com/track/0G2lWPAEC9FQcd7qe8RLHi"
     },
     {
       "added_at": "2021-10-05 16:26:53",

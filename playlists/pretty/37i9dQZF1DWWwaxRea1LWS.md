@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT has the perfect soundtrack to your Princess Diaries rewatch party\. Cover: Anne Hathaway & Julie Andrews.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,090,863 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,090,775 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

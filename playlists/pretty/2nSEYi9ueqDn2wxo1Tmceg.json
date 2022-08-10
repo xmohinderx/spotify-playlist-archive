@@ -1,13 +1,53 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78795,
+  "num_followers": 78791,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzUwNSw3NDMyOGMwODBlODMyMDJhMTUzNjZjMjRhNDUwNGI1ODdlYWE3MTlm",
+  "snapshot_id": "MzUwNiwyNWZjY2JhNDAwYjBlOTNmNjJkZGNjMzNjM2UyNTNkZmI3ZWMyOWU4",
   "tracks": [
+    {
+      "added_at": "2022-08-09 08:59:04",
+      "album": {
+        "name": "Bicameral (Remixes)",
+        "url": "https://open.spotify.com/album/5GLgmRlxZ95bPWLxpcZOcl"
+      },
+      "artists": [
+        {
+          "name": "The Range",
+          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 300028,
+      "name": "Bicameral (Tourist Remix)",
+      "url": "https://open.spotify.com/track/4WFJlcE8g3qRrbTbLkUgyo"
+    },
+    {
+      "added_at": "2022-08-09 08:59:04",
+      "album": {
+        "name": "Bicameral (Remixes)",
+        "url": "https://open.spotify.com/album/5GLgmRlxZ95bPWLxpcZOcl"
+      },
+      "artists": [
+        {
+          "name": "The Range",
+          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
+        },
+        {
+          "name": "Guedra Guedra",
+          "url": "https://open.spotify.com/artist/59bnrVjObngqDJYBOXH4kY"
+        }
+      ],
+      "duration_ms": 191734,
+      "name": "Bicameral (Guedra Guedra Remix)",
+      "url": "https://open.spotify.com/track/0NzL0msOQx7CYfxVKVbkCr"
+    },
     {
       "added_at": "2022-08-04 14:40:30",
       "album": {

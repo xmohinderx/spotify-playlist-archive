@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 164797,
+  "num_followers": 164855,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDE5M2IzZTA3ZGM3OWMwZTRlYTE1MzBiOGNhMTMxYTI3",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGQwMDExNzdhYzgxZGI3MjY0Yzc2ZGFhY2RhZDAwMzlm",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Forever True (1991-2001)",
-        "url": "https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh"
-      },
-      "artists": [
-        {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Firestorm",
-      "url": "https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "This Is Just the Beginning",
         "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 96053,
       "name": "Can't Take It Away",
       "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Forever True (1991-2001)",
+        "url": "https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Firestorm",
+      "url": "https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Punk Rock Jukebox",
-        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law",
-          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
-        }
-      ],
-      "duration_ms": 124360,
-      "name": "Somebody's Gonna Get Their Head Kicked In",
-      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Bulldog Edition",
         "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 104600,
       "name": "Just Can't Hate Enough",
       "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Punk Rock Jukebox",
+        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law",
+          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
+        }
+      ],
+      "duration_ms": 124360,
+      "name": "Somebody's Gonna Get Their Head Kicked In",
+      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "As Real As It Gets",
-        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
-      },
-      "artists": [
-        {
-          "name": "Sworn Enemy",
-          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Sworn Enemy",
-      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "State Of The World Address",
         "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 225960,
       "name": "Down for Life",
       "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "As Real As It Gets",
+        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
+      },
+      "artists": [
+        {
+          "name": "Sworn Enemy",
+          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Sworn Enemy",
+      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
     },
     {
       "added_at": "2020-12-08 15:12:11",

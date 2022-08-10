@@ -4,7 +4,7 @@
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-87 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
+88 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Scanners 2002](https://open.spotify.com/track/3i4r6I6CQB8eO6DKXl9pF7) | [Lurka](https://open.spotify.com/artist/1fRMz4kvu4hItUYYZHwZ08) | [Damage EP](https://open.spotify.com/album/7xHOM03xLz7cEfNDRTVy11) | 2:42 | 2021-02-19 |  |
 | [Silkworm](https://open.spotify.com/track/4OnN0jEOJW4VVF4nvqvkAP) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Silkworm](https://open.spotify.com/album/3kmokPfbCakHuInhmWz1xp) | 5:25 | 2021-02-19 |  |
 | [Still Life](https://open.spotify.com/track/1zuiU5zYfNP7WY6wcHQUR4) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Still Life](https://open.spotify.com/album/1JZhOQFlOgZ4JmZp9pqiWP) | 4:26 | 2021-02-19 | 2022-07-29 |
-| [Still Life](https://open.spotify.com/track/53Wta9OG7OLpXEQX17J9ak) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Still Life](https://open.spotify.com/album/744Npwd50fQXBiiZZFCar1) | 4:26 | 2021-02-19 |  |
+| [Still Life](https://open.spotify.com/track/53Wta9OG7OLpXEQX17J9ak) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Still Life](https://open.spotify.com/album/744Npwd50fQXBiiZZFCar1) | 4:26 | 2021-02-19 | 2022-08-10 |
+| [Still Life](https://open.spotify.com/track/6YV2ZpwYd6w1mXPvKgSJUR) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Still Life](https://open.spotify.com/album/2v3WKTcGhKCXhok9uFoQqb) | 4:26 | 2021-02-19 |  |
 | [Stingray Shuffle](https://open.spotify.com/track/0NRQU03YgYNli44FANtQDN) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/7JsfdXH01XsWF2uVqvpPOk) | 2:43 | 2021-02-19 |  |
 | [Stingray Shuffle](https://open.spotify.com/track/2J09O7CPiXmSpdoPMRJGTq) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/06w1pVdYAlr4Bg1czQZ5fu) | 2:43 | 2021-02-19 | 2022-07-29 |
 | [The Drip](https://open.spotify.com/track/65Ub39ZeqI2Ybad13gNJTS) | [Identified Patient](https://open.spotify.com/artist/7f8YjXIXYXMDWaYCICYUUD), [Sophie du Palais](https://open.spotify.com/artist/35bmpfYBO4XTtt4HOmIJ7I) | [Signals in Snakes](https://open.spotify.com/album/2afYDJCjgBlbNmO5vmqCmo) | 5:59 | 2021-02-19 |  |

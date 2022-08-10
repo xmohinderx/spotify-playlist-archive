@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 160216,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/2FAyOevYFLDtGudjSiWUlw"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 171333,
       "name": "Down by the Riverside",
       "url": "https://open.spotify.com/track/2tk6nL1NqqRkjNtOLzwlnl"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 144040,
       "name": "God Don't Like It",
       "url": "https://open.spotify.com/track/5jz86OQYMMXfo8XNZGogT4"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 212181,
       "name": "How About You",
       "url": "https://open.spotify.com/track/6ZruOPBw97ZTTPeiNqMQny"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 171173,
       "name": "I Want A Tall Skinny Papa",
       "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 160993,
       "name": "I Want Jesus To Walk Around My Bedside",
       "url": "https://open.spotify.com/track/6KIr1UWjOocEljbQTAVlny"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 122946,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/5m7sUVVbJoPYcWysXT4NcS"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 238800,
       "name": "Joshua Fit the Battle of Jericho",
       "url": "https://open.spotify.com/track/0dchRpophRSw64gxYtppmt"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 150760,
       "name": "Lay Down Your Soul",
       "url": "https://open.spotify.com/track/0LyW55gCzG9NTIdWr5dr3X"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 190772,
       "name": "My Journey To The Sky",
       "url": "https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 179426,
       "name": "Nobody's Fault But Mine",
       "url": "https://open.spotify.com/track/3z5JS5NmUSb8llmXl8QZiq"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 332706,
       "name": "Peace in the Valley",
       "url": "https://open.spotify.com/track/4IkBfxdaaAULEsdaJcXUMw"
@@ -1082,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "The Decca Singles, Vol. 1",
+        "url": "https://open.spotify.com/album/4KNYUWaNkzdOHQQ2xWlRwD"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171990,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/6wNOmArJVUaztEClcF2r4D"
+    },
+    {
+      "album": {
         "name": "The Original Soul Sister",
         "url": "https://open.spotify.com/album/6O3zPjpqUdG4dg9i9ZLANF"
       },
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 167367,
       "name": "Strange Things Happening Every Day",
       "url": "https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl"

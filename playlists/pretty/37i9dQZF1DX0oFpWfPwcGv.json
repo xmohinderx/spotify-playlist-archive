@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 26269,
+  "num_followers": 26332,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMDdmMDNlMDBmOTE4NTcxNmU2NjZlNjlhNTJkNDE2YjU2",
+  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMDgzM2YzODM2OTg2Njk0ZjAxOTdlYTRkNzliZmMyMjNl",
   "tracks": [
     {
       "added_at": "2022-07-15 04:40:14",
@@ -255,18 +255,22 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Triumph (Expanded Version)",
-        "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
+        "name": "Xanadu",
+        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
       "artists": [
         {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 230967,
-      "name": "Can You Feel It - 7\" Version",
-      "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
+      "duration_ms": 208506,
+      "name": "Xanadu",
+      "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -287,6 +291,22 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
+        "name": "Triumph (Expanded Version)",
+        "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "Can You Feel It - 7\" Version",
+      "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
         "name": "Music Speaks Louder Than Words",
         "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 209826,
       "name": "Nights on Broadway",
       "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
-        "name": "Xanadu",
-        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        },
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "Xanadu",
-      "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
+        "name": "Groove On, Vol. 1",
+        "url": "https://open.spotify.com/album/3XITzC6hfZyl7U2C4ngxWa"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 328266,
+      "name": "Never Knew Love Like This Before (Extended Mix)",
+      "url": "https://open.spotify.com/track/1Urr1PLp5Cy0ylztRSJvdB"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
         "name": "Deep Grooves",
         "url": "https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Come to Me",
         "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
       },
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Groove On, Vol. 1",
-        "url": "https://open.spotify.com/album/3XITzC6hfZyl7U2C4ngxWa"
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
       },
       "artists": [
         {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
         }
       ],
-      "duration_ms": 328266,
-      "name": "Never Knew Love Like This Before (Extended Mix)",
-      "url": "https://open.spotify.com/track/1Urr1PLp5Cy0ylztRSJvdB"
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Northern Soul Keep the Faith",
-        "url": "https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B"
+        "name": "The Best of Candi Staton",
+        "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
       },
       "artists": [
         {
-          "name": "Barbara Pennington",
-          "url": "https://open.spotify.com/artist/4RREsGLwQNfpiQQ6cID4KR"
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
         }
       ],
-      "duration_ms": 192240,
-      "name": "24 Hours a Day",
-      "url": "https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN"
+      "duration_ms": 317480,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
     }
   ],
   "unique_name": "Disco Decadence",

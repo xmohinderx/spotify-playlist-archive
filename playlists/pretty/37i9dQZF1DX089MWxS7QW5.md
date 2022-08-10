@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: DAVII\(다비\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: snzae\(선재\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,322 likes - 52 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,359 likes - 52 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 51 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 |
 | 52 | [Dang](https://open.spotify.com/track/2OEeCgbcjrEo5mkXnc17iv) | [HAN HEEJUN](https://open.spotify.com/artist/3XMcOeSNjiIPC033PUTSbi), [DeAndre](https://open.spotify.com/artist/6cRaQkqVc3CqVtuE25ZVK8), [그렉](https://open.spotify.com/artist/0LTTvbTIWZk7uA0I4Ax7je) | [Dang](https://open.spotify.com/album/7a9AU8c7VLlGdDfjgfysOV) | 3:37 |
 
-Snapshot ID: `MTY1OTk1ODY5OSwwMDAwMDAwMDgwNmNjOTFmODU0YzJkMDkyMzUwMmNkNmEzODVlMzRm`
+Snapshot ID: `MTY2MDAyNzIzNiwwMDAwMDAwMGVhZmYyYjAxNTIwMzk3Yzg2ZWFiNTI2N2I5NWVmZDA4`

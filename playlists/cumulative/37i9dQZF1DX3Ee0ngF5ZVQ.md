@@ -4,7 +4,7 @@
 
 > From the Dance Halls and Honky Tonks across America to the World! Cover: Wade Bowen
 
-331 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+332 songs - 19 hr 49 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Breaking Every Heart In Texas](https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Breaking Every Heart In Texas](https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz) | 3:26 | 2021-12-17 |  |
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-15 |  |
 | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/track/4AMELibNEGPOQOFNfkdvZj) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/album/5pBKLo2o48EUjRjWiFUmhE) | 3:50 | 2021-12-17 | 2022-01-22 |
-| [Build You a Bar](https://open.spotify.com/track/5ipv5YkZIyYCW6h7zjfjKs) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Build You a Bar](https://open.spotify.com/album/3cJepIdRwtbAUJYzTykBQK) | 3:48 | 2022-04-08 |  |
+| [Build You a Bar](https://open.spotify.com/track/5ipv5YkZIyYCW6h7zjfjKs) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Build You a Bar](https://open.spotify.com/album/3cJepIdRwtbAUJYzTykBQK) | 3:48 | 2022-04-08 | 2022-08-10 |
 | [Build Your Wings](https://open.spotify.com/track/7DvJPzzF30oE4k6YI2tDrf) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Wilder Blue](https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg) | 3:42 | 2022-03-25 | 2022-07-19 |
 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 | 2022-01-07 |  |
 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/2QWEKEYag6vI7VfJehbd7v) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Burn It Down \(717 Tapes\)](https://open.spotify.com/album/40CsyVbSKJPVHgxfLDKhJN) | 2:49 | 2022-01-21 | 2022-07-29 |
@@ -82,6 +82,7 @@
 | [Come Back Down](https://open.spotify.com/track/5rOaX636W0AaVdVMFO59cp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Come Back Down](https://open.spotify.com/album/5JrajF3ctdyubuRCrNeTrf) | 4:33 | 2021-12-17 | 2022-01-08 |
 | [Cotton Candy Sky](https://open.spotify.com/track/05AxzTMO583gtJiga8c2GK) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Cotton Candy Sky](https://open.spotify.com/album/6TYFWZO2oLIa8cY3hBSh5t) | 2:28 | 2022-05-20 | 2022-07-09 |
 | [Country Like You](https://open.spotify.com/track/0c3YD78qj2UlCClyVuw2sx) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Country Like You](https://open.spotify.com/album/66Li9RsTsw3WRc4fIHJbAS) | 3:59 | 2022-03-18 | 2022-07-27 |
+| [Cow Pissin'](https://open.spotify.com/track/3PNamkV6w2LbcYX6mdZKgv) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Cow Pissin'](https://open.spotify.com/album/6JlPe2irVAqKKas5JYi1Oj) | 3:37 | 2022-08-05 |  |
 | [Cowboys & Tequila](https://open.spotify.com/track/0R4SGCi7wBvjhnZvuWEXkI) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Cowboys & Tequila](https://open.spotify.com/album/3REWO8PbGAiEaOu9t6Zef0) | 3:31 | 2022-05-06 | 2022-07-29 |
 | [Cowboys Don't Cry](https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Cowboys Don't Cry](https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE) | 3:09 | 2022-07-22 |  |
 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 | 2021-12-17 | 2022-03-19 |

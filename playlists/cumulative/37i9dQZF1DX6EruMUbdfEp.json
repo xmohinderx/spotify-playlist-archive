@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "EVERLASTING/\u30b8\u30e3\u30fc\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj"
+      },
+      "artists": [
+        {
+          "name": "Mamoru Miyano",
+          "url": "https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242066,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn"
+    },
+    {
+      "album": {
         "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
         "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
       },

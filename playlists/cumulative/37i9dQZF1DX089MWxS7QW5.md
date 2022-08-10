@@ -2,7 +2,7 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: DAVII\(다비\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: snzae\(선재\)\)
 
 96 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 

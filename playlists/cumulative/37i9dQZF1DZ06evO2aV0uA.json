@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 324666,
       "name": "In Your Words",
       "url": "https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 261440,
       "name": "Terminally Unique",
       "url": "https://open.spotify.com/track/6GHN2naulatxJhZOUulxEu"
@@ -1024,6 +1024,24 @@
     },
     {
       "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321546,
+      "name": "The Number Six",
+      "url": "https://open.spotify.com/track/6Mr2g708NoGLVChCjuA9yc"
+    },
+    {
+      "album": {
         "name": "Resolution (Exclusive Edition)",
         "url": "https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk"
       },
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 321546,
       "name": "The Number Six",
       "url": "https://open.spotify.com/track/6RZrBh8AdD9dDvcre8OmMA"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 118106,
       "name": "The Passing",
       "url": "https://open.spotify.com/track/3IwA4T9dOzC15CGnUDDEWy"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 223413,
       "name": "Wake up Dead (feat. Dave Mustaine)",
       "url": "https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9"

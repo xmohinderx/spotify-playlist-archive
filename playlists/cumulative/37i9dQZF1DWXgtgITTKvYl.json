@@ -1357,7 +1357,7 @@
     {
       "album": {
         "name": "The Dandelion Child",
-        "url": "https://open.spotify.com/album/60M3UbywI2bpUHZ1USTL5E"
+        "url": "https://open.spotify.com/album/3KboReNemDz3MBYjWrgIWK"
       },
       "artists": [
         {
@@ -1368,6 +1368,24 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 353093,
+      "name": "The Cynic",
+      "url": "https://open.spotify.com/track/15Nl9URaaW0A3nQdzXZjxS"
+    },
+    {
+      "album": {
+        "name": "The Dandelion Child",
+        "url": "https://open.spotify.com/album/60M3UbywI2bpUHZ1USTL5E"
+      },
+      "artists": [
+        {
+          "name": "Franklin Zoo",
+          "url": "https://open.spotify.com/artist/78uVsW6GyF4JylRifvQtI3"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
       "duration_ms": 353093,
       "name": "The Cynic",
       "url": "https://open.spotify.com/track/3cet6MhvWU3ztnQB55RHdK"

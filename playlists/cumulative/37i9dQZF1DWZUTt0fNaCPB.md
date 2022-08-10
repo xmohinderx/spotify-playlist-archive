@@ -4,7 +4,7 @@
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-180 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/21ccch0oSyRxb8T4kGUPOS)
+181 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/21ccch0oSyRxb8T4kGUPOS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [The Pretender](https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:27 | 2021-12-15 |  |
 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 | 2021-12-15 | 2022-07-10 |
 | [The Sin And The Sentence](https://open.spotify.com/track/0v94bkWX5NUtTN7OpCcA19) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin And The Sentence](https://open.spotify.com/album/2OpnprGrr0iqJYrxPTOPz3) | 5:49 | 2022-04-01 | 2022-04-21 |
+| [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 | 2022-07-05 |  |
 | [The Time Is Now](https://open.spotify.com/track/6wpHmxmxPa3N3Gi3aGdTJL) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Time Is Now](https://open.spotify.com/album/4q2j9WIFtxSosMcFh4fu2K) | 3:19 | 2021-12-15 | 2022-07-29 |
 | [The Violence](https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:48 | 2021-12-15 |  |
 | [The Void](https://open.spotify.com/track/2BZ973nCW5OT1k1psRBsyU) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [The Void](https://open.spotify.com/album/2Qn8xk5ULBmZdiZnj5zqLd) | 3:53 | 2021-12-15 | 2022-07-10 |
@@ -182,7 +183,7 @@
 | [Where Ya Gonna Crash Tonight?](https://open.spotify.com/track/1FAjobOtbsZE56OIDFXruG) | [Them Evils](https://open.spotify.com/artist/3ASZko2LtiqddApAlKF7Cf) | [Where Ya Gonna Crash Tonight?](https://open.spotify.com/album/1IaElXsP0iP6lLwaEyCeL7) | 2:51 | 2021-12-15 | 2022-07-29 |
 | [Who Do You Trust?](https://open.spotify.com/track/7kJkTFmKYHrp9LT8w0oqpG) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/7HL8ZuakXsPF3XxmKaxIoz) | 3:16 | 2021-12-15 | 2022-07-29 |
 | [Witch Hunt](https://open.spotify.com/track/6ye8AdkpHcYQLlHUXZkrUn) | [Nicumo](https://open.spotify.com/artist/7z2nNVchTS9FTHP9qnJqDt) | [Witch Hunt](https://open.spotify.com/album/4vvW52mcvUtJb2PvhbgtXl) | 4:43 | 2022-04-01 | 2022-04-20 |
-| [Word Up!](https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T) | 2:52 | 2021-12-15 |  |
+| [Word Up!](https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T) | 2:52 | 2021-12-15 | 2022-08-10 |
 | [World On Fire](https://open.spotify.com/track/0GnU2sNVI6uP1tlmkVfiEt) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [World On Fire](https://open.spotify.com/album/3ZyFMWdKyIYxCLbK40OvcV) | 4:31 | 2021-12-15 | 2022-07-29 |
 | [Wrong Direction](https://open.spotify.com/track/4hpTKkNF9yvip5ZE8BleO7) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Wrong Direction](https://open.spotify.com/album/7B3s7P5424vohP5T8cZxTW) | 5:09 | 2021-12-15 | 2022-07-13 |
 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/0Hxty2K8F2DrrCXQyQVpBo) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Felons and Revolutionaries](https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db) | 2:43 | 2021-12-15 |  |

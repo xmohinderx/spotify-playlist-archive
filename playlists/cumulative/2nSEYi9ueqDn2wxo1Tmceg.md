@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-121 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+123 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,8 @@
 | [Bad Faith \(feat\. Mandy, Indiana\)](https://open.spotify.com/track/5y1yivW0K8a4JqqOKn9WAH) | [Regressive Left](https://open.spotify.com/artist/2MleSirgvp1oX5un0fbgcy), [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Bad Faith](https://open.spotify.com/album/15IAPEq7DhIb7EXeIbY7VK) | 4:02 | 2022-06-08 | 2022-06-30 |
 | [Belong To Heaven](https://open.spotify.com/track/2jVyFmTMPX6z1IBj9yD7Y9) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Belong To Heaven](https://open.spotify.com/album/6MWLPGQ4kR8z6mFFnxKALE) | 4:11 | 2022-06-08 | 2022-06-17 |
 | [Betelgeuse](https://open.spotify.com/track/17k3mmarEw2guj3Iiy4CxB) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Hyaline](https://open.spotify.com/album/6J1NeQ3OmX4LW5Yg9EhPjd) | 4:22 | 2022-06-16 | 2022-07-28 |
+| [Bicameral \(Guedra Guedra Remix\)](https://open.spotify.com/track/0NzL0msOQx7CYfxVKVbkCr) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [Guedra Guedra](https://open.spotify.com/artist/59bnrVjObngqDJYBOXH4kY) | [Bicameral \(Remixes\)](https://open.spotify.com/album/5GLgmRlxZ95bPWLxpcZOcl) | 3:11 | 2022-08-09 |  |
+| [Bicameral \(Tourist Remix\)](https://open.spotify.com/track/4WFJlcE8g3qRrbTbLkUgyo) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Bicameral \(Remixes\)](https://open.spotify.com/album/5GLgmRlxZ95bPWLxpcZOcl) | 5:00 | 2022-08-09 |  |
 | [Blame](https://open.spotify.com/track/1id6mxWTXeXYXgsriXJyTf) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Blame](https://open.spotify.com/album/59dntsJjxfrBurSijHw97J) | 3:03 | 2022-06-08 | 2022-06-17 |
 | [Blessing](https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Blessing](https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d) | 3:05 | 2022-06-08 | 2022-07-14 |
 | [Bootstrap Jubilee](https://open.spotify.com/track/3NARbwmd4ssFkmFyYzTZkt) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [The Zug](https://open.spotify.com/album/20mNGpd1RlPbS0PZEW5uB5) | 2:32 | 2022-06-08 | 2022-06-23 |

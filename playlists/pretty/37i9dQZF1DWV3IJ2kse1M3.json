@@ -1,12 +1,12 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u600e\u9ebc\u5148\u71be\u71b1\u7684\u537b\u5148\u8b8a\u51b7\u4e86\uff0c\u6162\u71b1\u7684\u537b\u505c\u4e0d\u4e86\u9084\u5728\u6cb8\u9a30\u8457\u3002",
-  "num_followers": 185382,
+  "num_followers": 185390,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDA0Nzg4OSwwMDAwMDAwMGVkOGUxMzlhYjlmYWU1YjFkYWQ5NjE3ZTc4MzVlMmY4",
+  "snapshot_id": "MTY1NDA0Nzg4OSwwMDAwMDAwMGEyNDZmOWQyNWNjN2NkNzVhMGZkOTUwOWQyYjMwZDNj",
   "tracks": [
     {
       "added_at": "2022-06-01 01:44:49",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-06-01 01:44:49",
       "album": {
+        "name": "Album 1",
+        "url": "https://open.spotify.com/album/2AjWUJJJekECU7JAezYTIV"
+      },
+      "artists": [
+        {
+          "name": "JC \u9673\u8a60\u6850",
+          "url": "https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g"
+        }
+      ],
+      "duration_ms": 230571,
+      "name": "\u8aaa\u6563\u5c31\u6563",
+      "url": "https://open.spotify.com/track/2XFrRuy9Gpu4GuYHTNeHiC"
+    },
+    {
+      "added_at": "2022-06-01 01:44:49",
+      "album": {
         "name": "\u521d\u5b78\u8005",
         "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2022-06-01 01:44:49",
       "album": {
-        "name": "\u5b78\u53cb.\u71b1",
-        "url": "https://open.spotify.com/album/16vik0cfPFsAZ6XJeQMyoR"
-      },
-      "artists": [
-        {
-          "name": "Jacky Cheung",
-          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "\u6211\u771f\u7684\u53d7\u50b7\u4e86",
-      "url": "https://open.spotify.com/track/5cN75zXR3M4si2toC2eF5C"
-    },
-    {
-      "added_at": "2022-06-01 01:44:49",
-      "album": {
         "name": "\u9b54\u6770\u5ea7",
         "url": "https://open.spotify.com/album/6pmapc89HjY4f16ARzrmBB"
       },
@@ -671,18 +671,18 @@
     {
       "added_at": "2022-06-01 01:44:49",
       "album": {
-        "name": "Album 1",
-        "url": "https://open.spotify.com/album/2AjWUJJJekECU7JAezYTIV"
+        "name": "\u5b78\u53cb.\u71b1",
+        "url": "https://open.spotify.com/album/16vik0cfPFsAZ6XJeQMyoR"
       },
       "artists": [
         {
-          "name": "JC \u9673\u8a60\u6850",
-          "url": "https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g"
+          "name": "Jacky Cheung",
+          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
         }
       ],
-      "duration_ms": 230571,
-      "name": "\u8aaa\u6563\u5c31\u6563",
-      "url": "https://open.spotify.com/track/2XFrRuy9Gpu4GuYHTNeHiC"
+      "duration_ms": 208893,
+      "name": "\u6211\u771f\u7684\u53d7\u50b7\u4e86",
+      "url": "https://open.spotify.com/track/5cN75zXR3M4si2toC2eF5C"
     },
     {
       "added_at": "2022-06-01 01:44:49",

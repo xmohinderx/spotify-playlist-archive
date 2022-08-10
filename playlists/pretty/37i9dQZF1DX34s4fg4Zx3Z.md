@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,257 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,264 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 47 | [Chẳng Phải Anh](https://open.spotify.com/track/6uYyG5aE26NXOXsDGgX5je) | [Cường](https://open.spotify.com/artist/4VyZVHRkMhcJGVPYWUCYoT), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Chẳng Phải Anh](https://open.spotify.com/album/65uSQdqV1JwYovbdwpghqd) | 6:02 |
 | 48 | [Nụ Cười Em](https://open.spotify.com/track/5ceYOxNRwB2vTloINEQJ7d) | [Phú Quí](https://open.spotify.com/artist/7kFRelrojoTz5zxPBnAArZ) | [Nụ Cười Em](https://open.spotify.com/album/43OmrjWLJPxmm1OAvcNJ6b) | 2:55 |
 | 49 | [Tâm Tư Khi Yêu](https://open.spotify.com/track/4CAuX9oAmgeBodrz0tK5VL) | [FSRio](https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY), [LuckyC](https://open.spotify.com/artist/21N9GQDW47Q5e8VStA0fR8) | [Tâm Tư Khi Yêu](https://open.spotify.com/album/0rdAiM0HLJY1Pzih36Yqme) | 2:40 |
-| 50 | [016 Tan Du](https://open.spotify.com/track/3CJtcujIDV6zwRmumdH4uO) | [Sol Silva](https://open.spotify.com/artist/5v5wkLRk5U2penqwOKbX1N), [Lil N](https://open.spotify.com/artist/1u3Fs4ssZjDPPpBIvLsOl2) | [016 Tan Du](https://open.spotify.com/album/2fl7ikeJEZ0AZnZNFTPA4M) | 2:15 |
+| 50 | [016 Tan Du](https://open.spotify.com/track/3CJtcujIDV6zwRmumdH4uO) | [Solsilva](https://open.spotify.com/artist/42dopFsZz6H8X2VZl9Pd0I), [Lil N](https://open.spotify.com/artist/1u3Fs4ssZjDPPpBIvLsOl2) | [016 Tan Du](https://open.spotify.com/album/2fl7ikeJEZ0AZnZNFTPA4M) | 2:15 |
 | 51 | [ONELUX](https://open.spotify.com/track/2f0TvRVHgqTSll6CIEy2N1) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB), [GBON](https://open.spotify.com/artist/7ttlFXtXYyrxvDQH0ErqRD) | [ONELUX](https://open.spotify.com/album/3dooJxXJtojeQodELcb8jq) | 2:48 |
 | 52 | [Yêu Đơn Phương Là Gì?](https://open.spotify.com/track/6ilLvv7xWKC2Mvdfb9UkKw) | [h0n](https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS) | [Yêu Đơn Phương Là Gì](https://open.spotify.com/album/45TCvo7IOTYNjFP5VaYBIo) | 3:35 |
 | 53 | [Như Là Mơ \- Acoustic Version](https://open.spotify.com/track/5fXanLx95qkXjufZfVwHpJ) | [Ymai](https://open.spotify.com/artist/3G2dFolgIn10dKe81WtwGI) | [Như Là Mơ \(Acoustic Version\)](https://open.spotify.com/album/79uEgDj5hxr7x7CQC52T2s) | 2:49 |

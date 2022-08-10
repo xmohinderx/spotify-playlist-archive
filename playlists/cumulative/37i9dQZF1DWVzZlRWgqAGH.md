@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: DOMi & JD BECK
 
-706 songs - 1 day 17 hr 39 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+707 songs - 1 day 17 hr 42 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,7 +688,7 @@
 | [When It's Sweet](https://open.spotify.com/track/3b54cV4Vim1d4YhlDPkVj2) | [Otis Junior](https://open.spotify.com/artist/3JWTfcIZq4OUdC6oBunofK), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [When It's Sweet](https://open.spotify.com/album/0glHWCseKJrznxOGj1sR3n) | 2:40 | 2020-09-18 | 2022-07-27 |
 | [Where Did the Night Go](https://open.spotify.com/track/69lWznHbSlGRz7ZpW48rVt) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [We're New Again \- A Reimagining by Makaya McCraven](https://open.spotify.com/album/7AiWJCZ2HArLkWG8HdPgIQ) | 2:37 | 2020-02-11 | 2020-02-28 |
 | [Where Were You](https://open.spotify.com/track/4lI4Q0EMFksyN79hx5DPbP) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/5RPP8SOWq7CJjwnkC1odTb) | 3:25 | 2021-10-15 | 2022-07-29 |
-| [Where Were You](https://open.spotify.com/track/5CWacF8meseoq1AHSvLslX) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/2fnxXQV2NF5bsaLBndaKsH) | 3:25 | 2022-07-22 |  |
+| [Where Were You](https://open.spotify.com/track/5CWacF8meseoq1AHSvLslX) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/2fnxXQV2NF5bsaLBndaKsH) | 3:25 | 2022-07-22 | 2022-08-10 |
 | [Whisper \(Want My Luv\)](https://open.spotify.com/track/6CkYn4ygBqKCAziK6FC4gn) | [Patrick Paige II](https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Allen Love](https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Whisper \(Want My Luv\)](https://open.spotify.com/album/28yXwBFyKBCV33FZZCpAJN) | 3:49 | 2021-03-07 | 2021-07-04 |
 | [WHITE CRAYON](https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6) | 4:31 | 2020-04-10 |  |
 | [White Rabbit](https://open.spotify.com/track/52y9HSI3f2ajMYMCfGFS27) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [White Rabbit](https://open.spotify.com/album/1ZK8Qp67wMuKrZOWMSzM0V) | 4:33 | 2020-05-22 | 2021-05-09 |
@@ -701,6 +701,7 @@
 | [With You Now for This](https://open.spotify.com/track/5mJQZOr4eubxljEEo3VHj0) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT), [Lucey Way](https://open.spotify.com/artist/2wLX2D4Y82gemGsSO0Ep3m) | [Umbrella Drinks / WYNFT](https://open.spotify.com/album/2zvelwNzXU5uS5rZqeuNkL) | 3:54 | 2021-07-27 | 2022-07-29 |
 | [Woman](https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/5xLroFHEvbfDUBqsiYgk5Z) | 4:29 | 2021-05-11 | 2022-07-29 |
 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-07-22 |  |
+| [Woman Like Me](https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Woman Like Me](https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf) | 3:22 | 2022-08-05 |  |
 | [Won't Get Far](https://open.spotify.com/track/5Cl0KJjrKVqdVWqjC2ah6T) | [Mensing](https://open.spotify.com/artist/6ZDONpXSFquORDgdY6exLo), [Loux](https://open.spotify.com/artist/4tytgvhDpwF3119PFA1XRh) | [Won't Get Far](https://open.spotify.com/album/39m6P8dtQZrgWAaXc0DvJK) | 3:05 | 2021-10-10 | 2022-04-17 |
 | [Wonderful](https://open.spotify.com/track/5ua26DyJQQjTT5nDdFJGCu) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Wonderful](https://open.spotify.com/album/5d4kZu2NTyeW7qzHUYrhid) | 2:58 | 2019-11-22 | 2020-01-11 |
 | [Work It All Out](https://open.spotify.com/track/03FeQLI6yD3hMeAcbJwLc3) | [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [Work It All Out](https://open.spotify.com/album/7sB7yOYALbVnZ1XBMBFixT) | 2:39 | 2020-03-23 | 2020-04-24 |

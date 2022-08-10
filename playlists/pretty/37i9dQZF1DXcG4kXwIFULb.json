@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 89626,
+  "num_followers": 89722,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMGM5MDkzZjJlMjdiNTg0YjAwZGQ0ODc5NjU4MDYyZjM0",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMGEzNzVkMWJjOGE1ZDc5NTU4MmE5OGZhNWY1YTk3Yjgy",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The Richest Man In Babylon",
-        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Come Touch The Sun",
         "url": "https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 300693,
       "name": "Yes Baby Yes",
       "url": "https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "The Richest Man In Babylon",
+        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -651,8 +651,24 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Radio Retaliation",
-        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Nights Introlude",
+      "url": "https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "It Takes A Thief: The Very Best Of Thievery Corporation",
+        "url": "https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC"
       },
       "artists": [
         {
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Sweet Tides",
-      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
+      "duration_ms": 289866,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -683,18 +699,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm"
+        "name": "Paradise Blown",
+        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
         }
       ],
-      "duration_ms": 280266,
-      "name": "Nights Introlude",
-      "url": "https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk"
+      "duration_ms": 245493,
+      "name": "Black Jesus",
+      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -719,22 +735,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Paradise Blown",
-        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
-      },
-      "artists": [
-        {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Black Jesus",
-      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Constructions",
         "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
       },
@@ -751,8 +751,8 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "It Takes A Thief: The Very Best Of Thievery Corporation",
-        "url": "https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC"
+        "name": "Radio Retaliation",
+        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 289866,
-      "name": "Lebanese Blonde",
-      "url": "https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG"
+      "duration_ms": 288933,
+      "name": "Sweet Tides",
+      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -847,6 +847,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Koop Islands",
         "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+        "name": "H\u00f4tel Costes",
+        "url": "https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8"
       },
       "artists": [
         {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+          "name": "De-Phazz",
+          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
         }
       ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+      "duration_ms": 264253,
+      "name": "No jive",
+      "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -911,22 +927,6 @@
       "duration_ms": 258026,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "H\u00f4tel Costes",
-        "url": "https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8"
-      },
-      "artists": [
-        {
-          "name": "De-Phazz",
-          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "No jive",
-      "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "The Mating Game",
+        "url": "https://open.spotify.com/album/17FDgwgmO3tD7X7qX6m7Sy"
+      },
+      "artists": [
+        {
+          "name": "Bitter:Sweet",
+          "url": "https://open.spotify.com/artist/28bLlI81wfpcHUSUPgktlx"
+        }
+      ],
+      "duration_ms": 259600,
+      "name": "Bittersweet Faith",
+      "url": "https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Wax Poetic",
         "url": "https://open.spotify.com/album/4r2rfpOZy2TJgtIZJYOpBa"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 243426,
       "name": "Angels",
       "url": "https://open.spotify.com/track/5r3eWOSUAcHHbX7cydZ4Q7"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "The Mating Game",
-        "url": "https://open.spotify.com/album/17FDgwgmO3tD7X7qX6m7Sy"
-      },
-      "artists": [
-        {
-          "name": "Bitter:Sweet",
-          "url": "https://open.spotify.com/artist/28bLlI81wfpcHUSUPgktlx"
-        }
-      ],
-      "duration_ms": 259600,
-      "name": "Bittersweet Faith",
-      "url": "https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Good Looking Blues",
-        "url": "https://open.spotify.com/album/5drSlLdRONBLu76BhsVRDP"
-      },
-      "artists": [
-        {
-          "name": "Laika",
-          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "Badtimes",
-      "url": "https://open.spotify.com/track/1mvK5h91yWsm97sAugKy6K"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "There Is Love in You (Expanded Edition)",
         "url": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 239432,
       "name": "Angel Echoes",
       "url": "https://open.spotify.com/track/4ja4D4qcwGC5Zg1IwDWsIL"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Good Looking Blues",
+        "url": "https://open.spotify.com/album/5drSlLdRONBLu76BhsVRDP"
+      },
+      "artists": [
+        {
+          "name": "Laika",
+          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
+        }
+      ],
+      "duration_ms": 291200,
+      "name": "Badtimes",
+      "url": "https://open.spotify.com/track/1mvK5h91yWsm97sAugKy6K"
     },
     {
       "added_at": "2020-09-04 01:12:56",

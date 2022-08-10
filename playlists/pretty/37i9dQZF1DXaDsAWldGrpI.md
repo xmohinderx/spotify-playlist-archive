@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, caught in the act!  Recorded Live...just like you were there\.  Cover:  Kenny Chesney
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,959 likes - 85 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,975 likes - 85 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 20 | [Small Town USA \- Live at the Ryman](https://open.spotify.com/track/78XFo6H6HLkHRZ6DtKeuMz) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Live at the Ryman](https://open.spotify.com/album/2whvNZuhYac09csrAN05CI) | 4:07 |
 | 21 | [Good Day \- Live From Europe](https://open.spotify.com/track/4AQUPrWg2NKDJbLpHXBhol) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Live From Europe EP](https://open.spotify.com/album/16Ev85nNlG1LWDCiAsx75M) | 4:03 |
 | 22 | [Save It for a Rainy Day \(with Old Dominion\) \- Live](https://open.spotify.com/track/3ZMRJBNpfXaZTE5vHWAcR9) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 4:15 |
-| 23 | [What Hurts the Most](https://open.spotify.com/track/4hlgImGb2SeTELFkZuhJsu) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:35 |
+| 23 | [What Hurts the Most \- Live / 2011](https://open.spotify.com/track/4hlgImGb2SeTELFkZuhJsu) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:35 |
 | 24 | [Highway 20 Ride \- Live](https://open.spotify.com/track/0lTdSjQGlWeT2dc7g3XXV6) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Pass the Jar \[Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)\]](https://open.spotify.com/album/3ry9xiyNvOTqzI4wd74wKz) | 4:15 |
 | 25 | [21 Summer \- Live](https://open.spotify.com/track/49dulUPJIGiADT4YFygPKw) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 3:38 |
 | 26 | [Ours \- Live/2011](https://open.spotify.com/track/68QyrSzpnoU04AAhE5z8lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now World Tour Live](https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh) | 4:05 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 53 | [Rum \- Live](https://open.spotify.com/track/0fc6nQqs4gGotUovzlnM7v) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 5:41 |
 | 54 | [Colder Weather \(feat\. Little Big Town\) \- Live](https://open.spotify.com/track/6TUK6UJ3A0YbGsiyPgYzYV) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pass the Jar \[Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)\]](https://open.spotify.com/album/3ry9xiyNvOTqzI4wd74wKz) | 4:29 |
 | 55 | [I've Been a Long Time Leaving \(But I'll Be a Long Time Gone\) \- Live at the Fillmore New York at Irving Plaza, 2010](https://open.spotify.com/track/0Dz2sBmJO5CWYy3xtiDtfl) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 6:07 |
-| 56 | [Bless the Broken Road](https://open.spotify.com/track/3k9b7S4DKDvHZx5Krad6p4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:39 |
+| 56 | [Bless the Broken Road \- Live / 2011](https://open.spotify.com/track/3k9b7S4DKDvHZx5Krad6p4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:39 |
 | 57 | [Boys 'Round Here \(feat\. Pistol Annies\) \- Live](https://open.spotify.com/track/2AAtzf2ZnXaAYOKIGs5g6u) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Blake Shelton \(Live\)](https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y) | 5:07 |
 | 58 | [When You Say Nothing At All \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/3QRwconsUHckZPZeZJqEf0) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 4:21 |
 | 59 | [Any Man Of Mine \- Live](https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:30 |

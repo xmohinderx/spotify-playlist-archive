@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: ALVIN JO\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,887 likes - 71 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,888 likes - 71 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 59 | [Till I'm Forgiven](https://open.spotify.com/track/5HWBZo3yl45NOnvNr21xrd) | [Morgensoll](https://open.spotify.com/artist/60a7NWRbuo9IF8TelOWjl3), [denisa](https://open.spotify.com/artist/2fwvrk3t4SkpLOSvF1uoyg) | [NT/M\(o\)](https://open.spotify.com/album/1OmKagNtQZzIt8G2zB9giW) | 6:45 |
 | 60 | [Blue](https://open.spotify.com/track/2gD6XfMklqFzI766JU9xjt) | [Retlehs](https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX) | [Satyr's Satire](https://open.spotify.com/album/4wOvGi8aHdcRcjLJ9HLZY2) | 3:57 |
 | 61 | [Begitu Saja](https://open.spotify.com/track/6svzJnZQ1O1ciMbFewdkzi) | [Kamar Biru](https://open.spotify.com/artist/52nZj6Lipxai0eFic9yv74) | [Begitu Saja](https://open.spotify.com/album/5ehqnzJ1OuKbC0nTJStjWn) | 3:10 |
-| 62 | [QOQ \(Quality Of Quantity\)](https://open.spotify.com/track/6nI0uQ1bQDpn1SIf6N3Wuu) | [Ardetto](https://open.spotify.com/artist/4ui2mAcv3u153kPNdAWkub) | [QOQ \(Quality Of Quantity\)](https://open.spotify.com/album/2mIacip4PVyrbmVhvGpeTg) | 2:10 |
+| 62 | [QOQ \(Quality Of Quantity\)](https://open.spotify.com/track/6nI0uQ1bQDpn1SIf6N3Wuu) | [Ardetto](https://open.spotify.com/artist/4ui2mAcv3u153kPNdAWkub), [Ongker](https://open.spotify.com/artist/65KcpZKOHBbOlbsdF7Z8Jd), [MBXN](https://open.spotify.com/artist/3ObM5tIDrEcl9bPVCw61Vt), [Rocket Alif](https://open.spotify.com/artist/1tkCrIJJMO09E3WBvlagBz) | [QOQ \(Quality Of Quantity\)](https://open.spotify.com/album/2mIacip4PVyrbmVhvGpeTg) | 2:10 |
 | 63 | [Influenza](https://open.spotify.com/track/7e7kfWQajrwYf4gHTkHMuV) | [nabrl](https://open.spotify.com/artist/5GVJHGv60gaGD7fQCcXHi5) | [Influenza](https://open.spotify.com/album/3BGhIO04xMVOCdrMltCaak) | 3:46 |
 | 64 | [OOE](https://open.spotify.com/track/0dCbszZUcAkVxAxTjv1M2K) | [sheisjo](https://open.spotify.com/artist/4FhDAFXcMKUDJ6cOp9JoNI) | [OOE](https://open.spotify.com/album/7But4YFlqysC2goLhIfEr4) | 4:36 |
 | 65 | [Dikota Yang Sama](https://open.spotify.com/track/3noalAM3VwwhSvMwgRtOdb) | [Malik Ros](https://open.spotify.com/artist/1iMm7HKmKXs1MNVQ6genf3), [Galuhky](https://open.spotify.com/artist/5NVrgt74uUFoGxHr2Q3Yhz), [Luseta](https://open.spotify.com/artist/4YRkCA6u7aoyzyVowhUFnV) | [Dikota Yang Sama](https://open.spotify.com/album/63kHly6Wb8EGDgqCG8iCw3) | 3:16 |

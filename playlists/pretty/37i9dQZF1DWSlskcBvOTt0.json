@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 307580,
+  "num_followers": 307852,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGFhMTQxNGM0MDg5OThhYjU4NGYwYmFhNmZkYzg1NjU1",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGViNGQzNjE4OTYzYjM2MGNmMzc4MDU1NDFhMTRjMzBk",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/1W2eqS5HYJXHIhn7T8lWDZ"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Kami EP",
-        "url": "https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Lanarka / Sablier",
@@ -651,6 +635,22 @@
       "duration_ms": 568454,
       "name": "Lanarka",
       "url": "https://open.spotify.com/track/3CoXzpJExs6A23Y9r8WM4c"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Kami EP",
+        "url": "https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Secrets EP",
-        "url": "https://open.spotify.com/album/1aZ3SBhJnP4B8G4gQ65fT1"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        }
-      ],
-      "duration_ms": 604426,
-      "name": "Ashes in the Wind",
-      "url": "https://open.spotify.com/track/4PqD4wAf77OxpAiOODf1Rg"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 424979,
       "name": "Unlocked",
       "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Secrets EP",
+        "url": "https://open.spotify.com/album/1aZ3SBhJnP4B8G4gQ65fT1"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "duration_ms": 604426,
+      "name": "Ashes in the Wind",
+      "url": "https://open.spotify.com/track/4PqD4wAf77OxpAiOODf1Rg"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -991,6 +991,38 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Arkade Destinations Tulum",
+        "url": "https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR"
+      },
+      "artists": [
+        {
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+        }
+      ],
+      "duration_ms": 246462,
+      "name": "Bacall",
+      "url": "https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Night Bell (Arizona)",
+        "url": "https://open.spotify.com/album/5eFPnkzLRO1EGogagnJyx7"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "duration_ms": 448479,
+      "name": "Night Bell - Arizona",
+      "url": "https://open.spotify.com/track/7f1eD0myp4ntwnVLA5jmIU"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 3",
         "url": "https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV"
       },
@@ -1015,22 +1047,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Arkade Destinations Tulum",
-        "url": "https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR"
-      },
-      "artists": [
-        {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
-        }
-      ],
-      "duration_ms": 246462,
-      "name": "Bacall",
-      "url": "https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "A380",
         "url": "https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 286727,
       "name": "A380",
       "url": "https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Night Bell (Arizona)",
-        "url": "https://open.spotify.com/album/5eFPnkzLRO1EGogagnJyx7"
-      },
-      "artists": [
-        {
-          "name": "Kerala Dust",
-          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
-        }
-      ],
-      "duration_ms": 448479,
-      "name": "Night Bell - Arizona",
-      "url": "https://open.spotify.com/track/7f1eD0myp4ntwnVLA5jmIU"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Mesta",
+        "url": "https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+        }
+      ],
+      "duration_ms": 371106,
+      "name": "Mesta",
+      "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Farsi",
         "url": "https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 376585,
       "name": "Gargamel",
       "url": "https://open.spotify.com/track/1rCvDRlcOjhqBI8T7s1mpY"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Mesta",
-        "url": "https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Ilhan Ersahin",
-          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
-        }
-      ],
-      "duration_ms": 371106,
-      "name": "Mesta",
-      "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Alkebulan Remix",
-        "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
-      },
-      "artists": [
-        {
-          "name": "ANT LaROCK",
-          "url": "https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
-        },
-        {
-          "name": "David Mayer",
-          "url": "https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf"
-        }
-      ],
-      "duration_ms": 470243,
-      "name": "Alkebulan - David Mayer Remix",
-      "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "I Feel Love (Monkey Safari Remix)",
         "url": "https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o"
       },
@@ -1375,18 +1351,26 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Changes EP",
-        "url": "https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J"
+        "name": "Alkebulan Remix",
+        "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
       "artists": [
         {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+          "name": "ANT LaROCK",
+          "url": "https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        {
+          "name": "David Mayer",
+          "url": "https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf"
         }
       ],
-      "duration_ms": 341419,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
+      "duration_ms": 470243,
+      "name": "Alkebulan - David Mayer Remix",
+      "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Ellipse",
-        "url": "https://open.spotify.com/album/41MYb0d8BxiQhby575mvbj"
+        "name": "Changes EP",
+        "url": "https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J"
       },
       "artists": [
         {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
         }
       ],
-      "duration_ms": 411633,
-      "name": "Ellipse",
-      "url": "https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP"
+      "duration_ms": 341419,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Niteroi",
-        "url": "https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM"
+        "name": "Ellipse",
+        "url": "https://open.spotify.com/album/41MYb0d8BxiQhby575mvbj"
       },
       "artists": [
         {
-          "name": "Michael Canitrot",
-          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
         }
       ],
-      "duration_ms": 317770,
-      "name": "Niteroi",
-      "url": "https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi"
+      "duration_ms": 411633,
+      "name": "Ellipse",
+      "url": "https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP"
     },
     {
       "added_at": "2022-08-01 18:07:32",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Niteroi",
+        "url": "https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM"
+      },
+      "artists": [
+        {
+          "name": "Michael Canitrot",
+          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
+        }
+      ],
+      "duration_ms": 317770,
+      "name": "Niteroi",
+      "url": "https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Chaka / Viola",
         "url": "https://open.spotify.com/album/4L6q8ALQXky8iGVECuiRoP"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 200317,
       "name": "Chaka - Edit",
       "url": "https://open.spotify.com/track/4GGVpoLeVtvzJZyhV6J307"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "A Time To",
+        "url": "https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 231980,
+      "name": "A Time To",
+      "url": "https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1523,22 +1539,6 @@
       "duration_ms": 369219,
       "name": "Minero",
       "url": "https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "A Time To",
-        "url": "https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 231980,
-      "name": "A Time To",
-      "url": "https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME"
     },
     {
       "added_at": "2022-07-18 15:53:25",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "AKKAN",
-        "url": "https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3"
-      },
-      "artists": [
-        {
-          "name": "Akkan",
-          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 357703,
-      "name": "Amores",
-      "url": "https://open.spotify.com/track/3KTkkZvSPmh3leXluyABBs"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "About My Dreams",
         "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
       },
@@ -1679,18 +1659,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "FreedHome",
-        "url": "https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB"
+        "name": "AKKAN",
+        "url": "https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3"
       },
       "artists": [
         {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+          "name": "Akkan",
+          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 330240,
-      "name": "FreedHome",
-      "url": "https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9"
+      "duration_ms": 357703,
+      "name": "Amores",
+      "url": "https://open.spotify.com/track/3KTkkZvSPmh3leXluyABBs"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Under Darkening Skies",
-        "url": "https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU"
+        "name": "FreedHome",
+        "url": "https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
         }
       ],
-      "duration_ms": 277608,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
+      "duration_ms": 330240,
+      "name": "FreedHome",
+      "url": "https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1747,6 +1731,22 @@
       "duration_ms": 270008,
       "name": "To The Light - Fideles Remix",
       "url": "https://open.spotify.com/track/4dnmKgkhPvrRrDYjajpPS5"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Under Darkening Skies",
+        "url": "https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 277608,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
     },
     {
       "added_at": "2022-07-01 04:01:00",

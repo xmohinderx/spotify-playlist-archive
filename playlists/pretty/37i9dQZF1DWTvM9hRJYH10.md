@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,021 likes - 134 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,026 likes - 134 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,10 +137,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 127 | [Hard To Be Like You](https://open.spotify.com/track/2SwN4lQizVGH8xt2PV3Jn7) | [Tim Cote](https://open.spotify.com/artist/691irgH5wVKYSc2NkhFqR4) | [Hard To Be Like You](https://open.spotify.com/album/37ZmUNecp9w66EswqHTSQc) | 3:17 |
 | 128 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 |
 | 129 | [Running With Scissors](https://open.spotify.com/track/5FGrZwdOQCzg3eRZra9js9) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 2:51 |
-| 130 | [One Percent](https://open.spotify.com/track/79vB0nrWECOICS6byaQODr) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent](https://open.spotify.com/album/4QPCf7gH9NsJVMKaQftX6I) | 3:31 |
+| 130 | [One Percent](https://open.spotify.com/track/20PQQX3nfdCWPhGr92PUM3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent](https://open.spotify.com/album/7cfezNu3BKU8aTdhz3vP4i) | 3:31 |
 | 131 | [Love You Now, Love You Later](https://open.spotify.com/track/0o7j1UwXNH88OGQQOwM9Oe) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Cruise Control](https://open.spotify.com/album/5tUM4uP2IVeOa5Lh4F0FzS) | 2:26 |
 | 132 | [Ruin A Beach](https://open.spotify.com/track/0BVbf4047jr9EXMwrgMNEY) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Ruin A Beach](https://open.spotify.com/album/3KqFxUwQ2ltFATUisQU6U6) | 3:28 |
 | 133 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 | 134 | [Fallback](https://open.spotify.com/track/3Awkc2RG0sxtLjJWgnYAHx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Fallback](https://open.spotify.com/album/2tfzITEHPPyizfRoiTTzhX) | 2:53 |
 
-Snapshot ID: `MTY1OTM2ODkwMywwMDAwMDAwMDRmZGY4M2U2Y2JhNzhhNDY4N2JlYTYxZWUwZWZhYjNh`
+Snapshot ID: `MTY1OTM2ODkwMywwMDAwMDAwMGIwMmM3MGZkYjZiODlhMDI1ZGIzYWFkOTg0NjczMGFj`

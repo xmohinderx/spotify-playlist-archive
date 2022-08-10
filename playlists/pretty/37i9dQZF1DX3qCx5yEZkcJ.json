@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1489016,
+  "num_followers": 1489044,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyNTIwMCwwMDAwMDAwMDg1ZDgxYzk5YTAzM2VjMDM5YzFkNjcyY2ZhOTg1MzZl",
+  "snapshot_id": "MTY1OTYyNTIwMCwwMDAwMDAwMDBiMDBmZmIzOWQwNDQ3ZDZmNTAxOTg4MjUxYTFkMTQ2",
   "tracks": [
     {
       "added_at": "2022-08-04 15:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+        "name": "Flickshots & Quickscopes",
+        "url": "https://open.spotify.com/album/2TR1uEsxzXktTAltkGhBFH"
       },
       "artists": [
         {
-          "name": "Robert de Boron",
-          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+          "name": "baaskaT",
+          "url": "https://open.spotify.com/artist/0mvxieGhMmy9gnbYGYtnI6"
         }
       ],
-      "duration_ms": 201000,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
+      "duration_ms": 86000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4KFcmYICCe24YbAxAWEQAW"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Flickshots & Quickscopes",
-        "url": "https://open.spotify.com/album/2TR1uEsxzXktTAltkGhBFH"
-      },
-      "artists": [
-        {
-          "name": "baaskaT",
-          "url": "https://open.spotify.com/artist/0mvxieGhMmy9gnbYGYtnI6"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4KFcmYICCe24YbAxAWEQAW"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Lofi Loyal Caf\u00e9 Customer",
         "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 168000,
       "name": "Lofi Loyal Caf\u00e9 Customer",
       "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+      },
+      "artists": [
+        {
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Fantastic Farewell (2021 Remastered)",
-        "url": "https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts"
-      },
-      "artists": [
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        },
-        {
-          "name": "TiMT",
-          "url": "https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb"
-        }
-      ],
-      "duration_ms": 179570,
-      "name": "Dream In - TiMT Remix",
-      "url": "https://open.spotify.com/track/7yA5bPUdlZnsEdVqhBqJFs"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Tangerine Hues",
         "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 184346,
       "name": "Tangerine Hues",
       "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "Fantastic Farewell (2021 Remastered)",
+        "url": "https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        },
+        {
+          "name": "TiMT",
+          "url": "https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb"
+        }
+      ],
+      "duration_ms": 179570,
+      "name": "Dream In - TiMT Remix",
+      "url": "https://open.spotify.com/track/7yA5bPUdlZnsEdVqhBqJFs"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Paddling pool",
-        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
-      },
-      "artists": [
-        {
-          "name": "S I M",
-          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
-        }
-      ],
-      "duration_ms": 167874,
-      "name": "Paddling pool",
-      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "The Scenic Route",
         "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 173296,
       "name": "Recuring Dream",
       "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "Paddling pool",
+        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
+      },
+      "artists": [
+        {
+          "name": "S I M",
+          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
+        }
+      ],
+      "duration_ms": 167874,
+      "name": "Paddling pool",
+      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "easy",
-        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
-      },
-      "artists": [
-        {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "easy",
-      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "A Walk in the Park",
         "url": "https://open.spotify.com/album/343j4VCot2OFegemslrsbS"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 106666,
       "name": "Fresh Air",
       "url": "https://open.spotify.com/track/5jJZnHK679mNtMpXHOSvkx"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
-      },
-      "artists": [
-        {
-          "name": "Chill Select",
-          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
-        },
-        {
-          "name": "SYNC.EXE",
-          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Baby, It's Over",
         "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
@@ -1019,6 +999,26 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
+      },
+      "artists": [
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        },
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
         "name": "181's penny candy store #7",
         "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
       },
@@ -1031,38 +1031,6 @@
       "duration_ms": 186000,
       "name": "Win the Lottery",
       "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
-        "name": "Bubble Beat",
-        "url": "https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "Bubble Beat",
-      "url": "https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1083,18 +1051,18 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "That's Just Me",
-        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
       },
       "artists": [
         {
-          "name": "Ameba",
-          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
         }
       ],
-      "duration_ms": 90383,
-      "name": "That's Just Me",
-      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1111,6 +1079,38 @@
       "duration_ms": 125474,
       "name": "Please Chill",
       "url": "https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "Bubble Beat",
+        "url": "https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Bubble Beat",
+      "url": "https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
+      },
+      "artists": [
+        {
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+        }
+      ],
+      "duration_ms": 90383,
+      "name": "That's Just Me",
+      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Tiny Grains of Guilt",
-        "url": "https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP"
-      },
-      "artists": [
-        {
-          "name": "Handbook",
-          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
-        }
-      ],
-      "duration_ms": 124044,
-      "name": "Tiny Grains of Guilt",
-      "url": "https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Travels",
         "url": "https://open.spotify.com/album/4vDCdhC1ue2saRJMSkuWho"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
+        "name": "Tiny Grains of Guilt",
+        "url": "https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP"
+      },
+      "artists": [
+        {
+          "name": "Handbook",
+          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
+        }
+      ],
+      "duration_ms": 124044,
+      "name": "Tiny Grains of Guilt",
+      "url": "https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
         "name": "Dimensions",
         "url": "https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 135357,
       "name": "waves",
       "url": "https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "Legend (Instrumental)",
+        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
+      },
+      "artists": [
+        {
+          "name": "A.O.",
+          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "Legend - Instrumental",
+      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2022-08-04 15:00:00",
       "album": {
-        "name": "Legend (Instrumental)",
-        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
-      },
-      "artists": [
-        {
-          "name": "A.O.",
-          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
-        }
-      ],
-      "duration_ms": 218526,
-      "name": "Legend - Instrumental",
-      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
         "name": "Fog\u00e0o Love",
         "url": "https://open.spotify.com/album/4Xjr5RmALk2CSpiXlY1gmi"
       },
@@ -1279,26 +1279,6 @@
       "duration_ms": 104506,
       "name": "Fog\u00e0o Love",
       "url": "https://open.spotify.com/track/6MchsyWFhj6EAiD1nY0y5J"
-    },
-    {
-      "added_at": "2022-08-04 15:00:00",
-      "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/4MJ3GzvCQ78ky7ghnhkjzv"
-      },
-      "artists": [
-        {
-          "name": "LESKY",
-          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
-        },
-        {
-          "name": "Waywell",
-          "url": "https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj"
-        }
-      ],
-      "duration_ms": 127760,
-      "name": "Undercurrent",
-      "url": "https://open.spotify.com/track/2TC8zSdhsE7Rd5SmVTRFwd"
     },
     {
       "added_at": "2022-08-04 15:00:00",
@@ -1335,6 +1315,26 @@
       "duration_ms": 126076,
       "name": "Smiling World",
       "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
+    },
+    {
+      "added_at": "2022-08-04 15:00:00",
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/4MJ3GzvCQ78ky7ghnhkjzv"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Waywell",
+          "url": "https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj"
+        }
+      ],
+      "duration_ms": 127760,
+      "name": "Undercurrent",
+      "url": "https://open.spotify.com/track/2TC8zSdhsE7Rd5SmVTRFwd"
     },
     {
       "added_at": "2022-08-04 15:00:00",

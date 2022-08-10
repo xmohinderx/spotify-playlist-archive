@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain]
 
 > A collection of traditional carols and new classics by the biggest, brightest stars! Cover: Kristin Chenoweth
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,685 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,682 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain]
 | 79 | [That Spirit of Christmas](https://open.spotify.com/track/13lde8UEEgE4GRTagH2paS) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Today Is Christmas](https://open.spotify.com/album/2P4jHpHDEBsvnHN1htI824) | 4:52 |
 | 80 | [Merry Christmas](https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Merry Christmas](https://open.spotify.com/album/4e4Amgi25FhDCFIYhbyuEh) | 2:30 |
 | 81 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/60e4x4V1ElCjukbAteZdZn) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 2:57 |
-| 82 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
+| 82 | [Christmas All Over Again](https://open.spotify.com/track/1lVzU7SrUtTc7F1EpKqhEa) | [Tom Petty And The Heartbreakers](https://open.spotify.com/artist/6mBLihWcj51NU67NgevOyW) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/3LPghlMCICkwGHz3ab7U8R) | 4:13 |
 | 83 | [Little Drummer Boy](https://open.spotify.com/track/0Znrkkl2NYC2AEbgEbENSO) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Noël](https://open.spotify.com/album/4kqXw1yf9EKamws0zCarGt) | 4:20 |
 | 84 | [Little Jack Frost Get Lost](https://open.spotify.com/track/2a5G4TZmbJ9diTwCDj2zfE) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Holiday For Swing!](https://open.spotify.com/album/2RRdk9dTPqgDdeEWRSflbg) | 2:34 |
 | 85 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/0JdbNwLR6yn7cvigmTjPKE) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | ['Tis The Season](https://open.spotify.com/album/15q3oOSeIVFQeAtwKWiWcn) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain]
 | 99 | [Merry Christmas Baby](https://open.spotify.com/track/2AazSmeOckrWcJjbeGSlJx) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [A Neighborly Christmas](https://open.spotify.com/album/0ajvkNhkYG7yGdq0iQP4Z2) | 3:22 |
 | 100 | [I'll Be Home For Christmas](https://open.spotify.com/track/4riPMXBJX7DLcuxuGtTMGm) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Home For Christmas](https://open.spotify.com/album/4knfTM4vliB04OibXqaRnK) | 3:40 |
 
-Snapshot ID: `MTYzOTc5NjczOSwwMDAwMDAwMGZjODE0MWM4ZWRhMTgxMzQ2ZDI2MzI4NzViM2IyMGVm`
+Snapshot ID: `MTYzOTc5NjczOSwwMDAwMDAwMDJiMDQ2NmVjNTY0MDA0YmIxNTY1M2Y1NDA4YmE4NWI3`

@@ -4,7 +4,7 @@
 
 > Classic funk.
 
-57 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
+58 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Rock Steady](https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:13 | 2020-04-14 |  |
 | [Sea Groove](https://open.spotify.com/track/4lhFA1E4MFfPeO9gYJEZOs) | [Big Boss Man](https://open.spotify.com/artist/6ZEPiznKqWSTc8YMITtM0X) | [Humanize](https://open.spotify.com/album/7qMC3PZNBjYRXcBfOi7hgt) | 4:28 | 2020-04-14 |  |
 | [Serpentine Fire](https://open.spotify.com/track/0KDc8l4VNTu6OkMYK9D7HC) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:50 | 2020-04-14 |  |
-| [Shake Your Pants](https://open.spotify.com/track/5bAYlqojCiretR2ZO1Y3xZ) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Cameosis](https://open.spotify.com/album/3isnKnnCCC4lCXl4ngrSCL) | 6:24 | 2020-04-14 |  |
+| [Shake Your Pants](https://open.spotify.com/track/1PlbtE9lsZ1p9iDbXzvtCp) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Anthology](https://open.spotify.com/album/5QUldCK9QqBg5Gv1LVJvDI) | 6:22 | 2020-04-14 |  |
+| [Shake Your Pants](https://open.spotify.com/track/5bAYlqojCiretR2ZO1Y3xZ) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Cameosis](https://open.spotify.com/album/3isnKnnCCC4lCXl4ngrSCL) | 6:24 | 2020-04-14 | 2022-08-10 |
 | [Shakey Ground](https://open.spotify.com/track/1ELKkbWqtKRwvdCBGvETBp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [A Song For You](https://open.spotify.com/album/4GvCMazBPoxuazsfTFk6CU) | 4:01 | 2020-04-14 |  |
 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 | 2020-04-14 |  |
 | [Soul Power 74 \- Pt\. 2](https://open.spotify.com/track/7rFS1AleVTvi4Ye5fzLL44) | [Maceo And The Macks](https://open.spotify.com/artist/0rDIqnqwAmDPL1gyzoFH9y) | [Us](https://open.spotify.com/album/0xokdAGKPT5G5kld9cgcOX) | 4:08 | 2020-04-14 |  |

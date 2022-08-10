@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Murilo Huff com Maiara & Maraisa, Hugo & Guilherme, Mc Don Juan e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,765,906 likes - 96 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,766,274 likes - 96 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Perfeito Pra Ficar Sozinho \- Ao Vivo](https://open.spotify.com/track/4cxQWmXmmbFoWvV8qipQTe) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Perfeito Pra Ficar Sozinho \(Ao Vivo\)](https://open.spotify.com/album/0hSTkDethURIn0Bqp009ja) | 2:50 |
 | 2 | [Cheiro de Balada \- Ao Vivo](https://open.spotify.com/track/2ykYxd8UGHOsdjP3Z5jSHh) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2aeDFXeS2WvKqIfXQyKRGa) | 2:51 |
 | 3 | [Love Terremoto \- Ao Vivo](https://open.spotify.com/track/5fYMMUN5xPo77r9qiBH0A0) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Resenha Preferida, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0yLpav6I3BD1JQ0p3qeObJ) | 2:28 |
-| 4 | [Basiquinho](https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Basiquinho](https://open.spotify.com/album/66K770CKTCoFFTRTiZGEwJ) | 2:44 |
+| 4 | [Basiquinho \- Ao Vivo](https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Basiquinho \(Ao Vivo\)](https://open.spotify.com/album/66K770CKTCoFFTRTiZGEwJ) | 2:44 |
 | 5 | [Meio Fio \- Ao Vivo](https://open.spotify.com/track/1t5dhHyXMwdbAcI3EQRqFV) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo Em São Paulo Vol\. 2](https://open.spotify.com/album/0V3ZGohMB2SF82xhUEN8QC) | 2:33 |
 | 6 | [O Golpe \- Ao Vivo](https://open.spotify.com/track/3CSYg9MCyTBqfPAX0SYPlk) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [O Golpe \(Ao Vivo\)](https://open.spotify.com/album/3dnz3e3D6tAwjtg3JPXg1A) | 2:52 |
 | 7 | [Bololô](https://open.spotify.com/track/33ICe6z7IQhA4fQwkvHeL8) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Bololô](https://open.spotify.com/album/4sdzyilyauT3PhrwVr4MvR) | 2:51 |

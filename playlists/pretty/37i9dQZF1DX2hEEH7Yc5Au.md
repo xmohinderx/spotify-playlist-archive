@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 安溥 \(anpu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,802 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,808 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [外婆橋](https://open.spotify.com/track/1fZoJB9tee2LLp1wIa37jG) | [安溥 anpu](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [外婆橋](https://open.spotify.com/album/5HqV4KGoIXXvuTQMrtWKKm) | 6:05 |
+| 1 | [外婆橋](https://open.spotify.com/track/1fZoJB9tee2LLp1wIa37jG) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [外婆橋](https://open.spotify.com/album/5HqV4KGoIXXvuTQMrtWKKm) | 6:05 |
 | 2 | [Vanishing Love](https://open.spotify.com/track/63n0C5DD3gU1rUAfZ9pitu) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [Gei](https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts) | 4:40 |
 | 3 | [連名帶姓](https://open.spotify.com/track/4a5FvWpFaCs3YOzEnnpgR0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 5:33 |
 | 4 | [玫瑰少年](https://open.spotify.com/track/2uHMTG5xr9Xk7MrXIWrVUH) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 3:11 |

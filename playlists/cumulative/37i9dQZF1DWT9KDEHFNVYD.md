@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-278 songs - 1 day 2 hr 6 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
+279 songs - 1 day 2 hr 17 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Silva & Grimes](https://open.spotify.com/track/35nZHa9ZmXzTngqfHabyxb) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Latin](https://open.spotify.com/album/513PS43g6BIXvcm0bLD1pK) | 5:13 | 2021-07-30 | 2022-07-29 |
 | [Silva & Grimes](https://open.spotify.com/track/7MQ0frhsOQGYv4lHDyGeUi) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Latin](https://open.spotify.com/album/45nMlmlIPPDVWSCDwdvCB9) | 5:13 | 2021-07-30 |  |
 | [Silver Cloud](https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY) | [La Düsseldorf](https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0) | [La Düsseldorf](https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ) | 8:02 | 2021-07-30 | 2022-07-29 |
+| [Simple Headphone Mind](https://open.spotify.com/track/0auzo1bD9DMIP7bcvClRS9) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt), [Nurse With Wound](https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I) | [Simple Headphone Mind / Trippin' With The Birds](https://open.spotify.com/album/0WK9DyPkE7wGn958hjF6X4) | 10:46 | 2022-08-09 |  |
 | [Slow Learner](https://open.spotify.com/track/3anIPGbdjxjkbwtHoBG4W4) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/7GCnSXQc6H4vF8TU7hSdSk) | 3:11 | 2021-07-30 | 2022-07-29 |
 | [Slow Learner](https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:11 | 2021-07-30 |  |
 | [Sons Of Rother](https://open.spotify.com/track/1Y4gsRbnktzl6EYD8RXOKm) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [Satan's Circus](https://open.spotify.com/album/5FCJ8HyYcx3OwI0UE4CvK0) | 6:06 | 2021-07-30 |  |
@@ -240,7 +241,7 @@
 | [Take It or Leave It](https://open.spotify.com/track/3LOIshI7mOuWUHsjeFqbd5) | [Turtle Skull](https://open.spotify.com/artist/128UKyvBiHlCxTKzkwmcK8) | [Turtle Skull](https://open.spotify.com/album/2kbtjfE3P9Kf4tJS9kLxIL) | 8:26 | 2021-07-30 |  |
 | [Tangerine](https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 2:53 | 2021-07-30 |  |
 | [Tangerine](https://open.spotify.com/track/58Jr3maV9Kv94R8F3imczl) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Tangerine](https://open.spotify.com/album/2eazd6scouDAol8kgQUJRn) | 2:55 | 2021-07-30 | 2022-07-29 |
-| [The Light That Will Cease To Fail](https://open.spotify.com/track/0P9XN1acf0KdYBfzc7ymTz) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Super 45](https://open.spotify.com/album/0F5hFgbTqzIOTT8O88e98L) | 3:24 | 2021-07-30 |  |
+| [The Light That Will Cease To Fail](https://open.spotify.com/track/0P9XN1acf0KdYBfzc7ymTz) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Super 45](https://open.spotify.com/album/0F5hFgbTqzIOTT8O88e98L) | 3:24 | 2021-07-30 | 2022-08-10 |
 | [The Perfect Crime](https://open.spotify.com/track/7v2SOuHmuUzyFOemw8hqNB) | [The Stroppies](https://open.spotify.com/artist/6r5Oeuk1Jrn6TxkwcZVXYY) | [The Perfect Crime](https://open.spotify.com/album/3tKXSYiAIZcamtY0TvRsKs) | 4:40 | 2022-03-11 |  |
 | [The Pulse](https://open.spotify.com/track/4IZaX9YDhGG9sbZtGDpRLo) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [LP](https://open.spotify.com/album/3WIwlESqNDJjhxuUjLLSUd) | 5:56 | 2021-07-30 |  |
 | [The Pulse](https://open.spotify.com/track/5UPCDdclsMsl8h3jCB36vk) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [LP](https://open.spotify.com/album/0Ao6st67h8ANVAOcKdc7Vu) | 5:56 | 2021-07-30 | 2022-07-29 |

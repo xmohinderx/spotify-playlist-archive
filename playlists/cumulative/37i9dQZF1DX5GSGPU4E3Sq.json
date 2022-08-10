@@ -2955,6 +2955,24 @@
     {
       "album": {
         "name": "Nature's Cradle",
+        "url": "https://open.spotify.com/album/3ANL08Lrbqey32BoLpeTjW"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Night Music",
+          "url": "https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Nature's Cradle",
+      "url": "https://open.spotify.com/track/1iORN9lDsUet8tzaEK5AuQ"
+    },
+    {
+      "album": {
+        "name": "Nature's Cradle",
         "url": "https://open.spotify.com/album/4kolQoCPZsE5KrroNfaRNK"
       },
       "artists": [
@@ -3239,7 +3257,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 184272,
       "name": "Planetary",
       "url": "https://open.spotify.com/track/75zUF417TzAmLMAmggqUhP"

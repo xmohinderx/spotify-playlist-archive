@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,511 songs - 2 day 20 hr 32 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,512 songs - 2 day 20 hr 35 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Aller Anfang ist schwer](https://open.spotify.com/track/2XVccQz5rm9Uti3hrTmBoB) | [Jens Wechsler](https://open.spotify.com/artist/5BsoSlrs9ny1GMWKpESjyZ) | [Aller Anfang ist schwer](https://open.spotify.com/album/4Yscf6h8fgFnsq5Rbbnofn) | 2:01 | 2021-03-06\* | 2022-04-17 |
 | [Almost Here](https://open.spotify.com/track/69hsrgK6UtDli2C17OWO5v) | [Marta Cascales Alimbau](https://open.spotify.com/artist/5xXWh6pIT6H8NzENvUU9HN) | [Almost Here](https://open.spotify.com/album/4L04FqosazM9DVYEwObAUF) | 2:57 | 2021-03-08 | 2021-03-15 |
 | [Alone With My Dreams](https://open.spotify.com/track/3TexzlVcOjkZ6YBHLgRvH1) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx), [Amelie Evmark](https://open.spotify.com/artist/2OJcCy0s7bowPrykt9KT5G) | [Silent Waves](https://open.spotify.com/album/2prO7Ke2ASXq9cDTvvVPUk) | 2:34 | 2021-03-09 | 2022-04-20 |
+| [along the path](https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [along the path](https://open.spotify.com/album/3SbUeiVDfgcoz4264AHdPU) | 2:07 | 2022-08-08 |  |
 | [Alt jeg tør](https://open.spotify.com/track/6oCUME6tmQJi4LPHogLpUV) | [Elise Lindahl](https://open.spotify.com/artist/7dS19zpb3TVFJCjiedH4oM) | [Alt jeg tør](https://open.spotify.com/album/1EkBSKkkcNQryBtQk0CPna) | 2:22 | 2021-04-04 | 2022-07-28 |
 | [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 | 2022-07-27 |  |
 | [Altostratus](https://open.spotify.com/track/3YMYpyD7W2pSbKvESHI27t) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Flirting at the Masquerade](https://open.spotify.com/album/3ZswBFfSj9IiHpwqPFwyaB) | 2:37 | 2021-03-07 | 2022-04-17 |
@@ -961,7 +962,7 @@
 | [Passing By](https://open.spotify.com/track/4cKIi7twv61qQ0z0Apuoxu) | [Mikayo Koide](https://open.spotify.com/artist/32D46op6s0swxNHe7MCxLv) | [Passing By](https://open.spotify.com/album/7L0eqs9WBSnYhfhFQr2cko) | 2:19 | 2021-03-10 | 2022-02-06 |
 | [Passing time](https://open.spotify.com/track/5Ri3Dup6hhOTvVcLTStvoa) | [Lucinda Ryder](https://open.spotify.com/artist/7FJW6RgVugb3lB4EZuy3OD) | [Passing time](https://open.spotify.com/album/3MzJtPeZbImNFI9mOC63xC) | 2:26 | 2021-05-08 | 2021-05-13 |
 | [Passion](https://open.spotify.com/track/6maVLzdqxZgi7h07zU5U0V) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [Passion](https://open.spotify.com/album/2heJ8wHiB0Ikqy8tp6pZk5) | 4:16 | 2021-03-15 | 2022-07-03 |
-| [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2021-09-25 |  |
+| [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2021-09-25 | 2022-08-10 |
 | [Peace Of Mind](https://open.spotify.com/track/7pGfuq7ffLt0UbAX8xki74) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Hope And Glory](https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE) | 3:17 | 2021-03-18 | 2021-05-20 |
 | [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2021-04-02 | 2021-11-16 |
 | [Pearly White](https://open.spotify.com/track/32e2eC33BCyektlkaYjYIS) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Pearly White](https://open.spotify.com/album/5JkhzfBjn2jzwTozpuCrS9) | 2:25 | 2021-04-23 | 2022-04-16 |

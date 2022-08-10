@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Ezra Collective",
-  "num_followers": 201930,
+  "num_followers": 202062,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDZhZmU5YTgzZTRiZjI1ZjM1NTRjNzZhYWIwM2ZmYmE5",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDJjYzZhNzM1YmJhMWI1MjhhZDVmMTdkYjBiZWRiZWNh",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Wind Parade",
-        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "Wind Parade",
-      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "THE FUNK WILL PREVAIL",
@@ -207,6 +191,22 @@
       "duration_ms": 91733,
       "name": "CATS GROOVE",
       "url": "https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Wind Parade",
+        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "Wind Parade",
+      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
     },
     {
-      "added_at": "2021-12-17 05:02:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 290080,
-      "name": "Pull Your Pants Up",
-      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Long Live the King (Instrumental)",
@@ -721,32 +705,20 @@
       "url": "https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
+      "added_at": "2021-12-17 05:02:00",
       "album": {
-        "name": "Kresten Osgood Plays the Organ for You",
-        "url": "https://open.spotify.com/album/1ffpH63vJM6iPzjFh4zZvy"
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
       },
       "artists": [
         {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        },
-        {
-          "name": "Fridolin Nords\u00f8",
-          "url": "https://open.spotify.com/artist/2qLjyNymCY5pZCIqLAr8m8"
-        },
-        {
-          "name": "Ludomir Dietl",
-          "url": "https://open.spotify.com/artist/1w4oaKISx1TcNXycUS00sC"
-        },
-        {
-          "name": "Arto Eriksen",
-          "url": "https://open.spotify.com/artist/4AxRonSdmKJKu8ADVhRHKo"
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
         }
       ],
-      "duration_ms": 215754,
-      "name": "Play it Back",
-      "url": "https://open.spotify.com/track/56080Y6qVNpxpUAU5ho4Y7"
+      "duration_ms": 290080,
+      "name": "Pull Your Pants Up",
+      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -783,6 +755,34 @@
       "duration_ms": 316493,
       "name": "One In Seven",
       "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "Kresten Osgood Plays the Organ for You",
+        "url": "https://open.spotify.com/album/1ffpH63vJM6iPzjFh4zZvy"
+      },
+      "artists": [
+        {
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+        },
+        {
+          "name": "Fridolin Nords\u00f8",
+          "url": "https://open.spotify.com/artist/2qLjyNymCY5pZCIqLAr8m8"
+        },
+        {
+          "name": "Ludomir Dietl",
+          "url": "https://open.spotify.com/artist/1w4oaKISx1TcNXycUS00sC"
+        },
+        {
+          "name": "Arto Eriksen",
+          "url": "https://open.spotify.com/artist/4AxRonSdmKJKu8ADVhRHKo"
+        }
+      ],
+      "duration_ms": 215754,
+      "name": "Play it Back",
+      "url": "https://open.spotify.com/track/56080Y6qVNpxpUAU5ho4Y7"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -929,38 +929,6 @@
       "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Rajazz",
-        "url": "https://open.spotify.com/album/2IEJmkWyLc4HgpbDhSP6f2"
-      },
-      "artists": [
-        {
-          "name": "Alberto Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28"
-        },
-        {
-          "name": "Jeff Ballard",
-          "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
-        },
-        {
-          "name": "Daniel Somaroo",
-          "url": "https://open.spotify.com/artist/1lKgrajFyGCa9nq0grjZ9A"
-        },
-        {
-          "name": "Raphael Rosse",
-          "url": "https://open.spotify.com/artist/1T3rl1r7fJFstutBOCZ4Mp"
-        },
-        {
-          "name": "Gerry Lopez",
-          "url": "https://open.spotify.com/artist/5gU6wIqxR6dExHo6JJpknk"
-        }
-      ],
-      "duration_ms": 441426,
-      "name": "Rajazz",
-      "url": "https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Bitches Brew",
@@ -1003,6 +971,38 @@
       "duration_ms": 841333,
       "name": "Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
       "url": "https://open.spotify.com/track/0n8sBhOtUb6pDFKjpxfakj"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Rajazz",
+        "url": "https://open.spotify.com/album/2IEJmkWyLc4HgpbDhSP6f2"
+      },
+      "artists": [
+        {
+          "name": "Alberto Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28"
+        },
+        {
+          "name": "Jeff Ballard",
+          "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
+        },
+        {
+          "name": "Daniel Somaroo",
+          "url": "https://open.spotify.com/artist/1lKgrajFyGCa9nq0grjZ9A"
+        },
+        {
+          "name": "Raphael Rosse",
+          "url": "https://open.spotify.com/artist/1T3rl1r7fJFstutBOCZ4Mp"
+        },
+        {
+          "name": "Gerry Lopez",
+          "url": "https://open.spotify.com/artist/5gU6wIqxR6dExHo6JJpknk"
+        }
+      ],
+      "duration_ms": 441426,
+      "name": "Rajazz",
+      "url": "https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "The 2nd Crusade",
+        "url": "https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 531533,
+      "name": "A Message From The Inner City",
+      "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "Linger Lane",
         "url": "https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "The 2nd Crusade",
-        "url": "https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF"
+        "name": "Placebo Years 1971 - 1974",
+        "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
       },
       "artists": [
         {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+          "name": "Marc Moulin",
+          "url": "https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8"
         }
       ],
-      "duration_ms": 531533,
-      "name": "A Message From The Inner City",
-      "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
+      "duration_ms": 152400,
+      "name": "Humpty Dumpty - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 371080,
       "name": "The Hump",
       "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Placebo Years 1971 - 1974",
-        "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
-      },
-      "artists": [
-        {
-          "name": "Marc Moulin",
-          "url": "https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Humpty Dumpty - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
     },
     {
       "added_at": "2021-03-05 05:01:00",
@@ -1301,6 +1301,38 @@
       "url": "https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "The Best of the Light of the World",
+        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
+      },
+      "artists": [
+        {
+          "name": "Light Of The World",
+          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "London Town",
+      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
+    },
+    {
+      "added_at": "2022-07-22 04:02:00",
+      "album": {
+        "name": "SP's Galaxy",
+        "url": "https://open.spotify.com/album/4N3b8w28hUX5cxYL9rVgVG"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 165539,
+      "name": "SP's Galaxy",
+      "url": "https://open.spotify.com/track/5cgtYVTPaQgJPWCo1pOj7P"
+    },
+    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Interstellar Black Space",
@@ -1321,22 +1353,6 @@
       "url": "https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5"
     },
     {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "SP's Galaxy",
-        "url": "https://open.spotify.com/album/4N3b8w28hUX5cxYL9rVgVG"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 165539,
-      "name": "SP's Galaxy",
-      "url": "https://open.spotify.com/track/5cgtYVTPaQgJPWCo1pOj7P"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Sassy",
@@ -1355,38 +1371,6 @@
       "duration_ms": 258242,
       "name": "Sassy",
       "url": "https://open.spotify.com/track/6Fxil4EHqnMgQPGElnuYzb"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "The Best of the Light of the World",
-        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
-      },
-      "artists": [
-        {
-          "name": "Light Of The World",
-          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "London Town",
-      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Green Frog",
-        "url": "https://open.spotify.com/album/4d8TsTBz7yhj07JGAIaoZV"
-      },
-      "artists": [
-        {
-          "name": "The Natural Yogurt Band",
-          "url": "https://open.spotify.com/artist/6EKAnJX0ELDyHUq5JBMVRr"
-        }
-      ],
-      "duration_ms": 217077,
-      "name": "Green Frog",
-      "url": "https://open.spotify.com/track/6S4QY1HV2rJH6avwEAyO8Q"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 594133,
       "name": "Cloudburst",
       "url": "https://open.spotify.com/track/7iSSsyuZwrBrw9f3hernoc"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Green Frog",
+        "url": "https://open.spotify.com/album/4d8TsTBz7yhj07JGAIaoZV"
+      },
+      "artists": [
+        {
+          "name": "The Natural Yogurt Band",
+          "url": "https://open.spotify.com/artist/6EKAnJX0ELDyHUq5JBMVRr"
+        }
+      ],
+      "duration_ms": 217077,
+      "name": "Green Frog",
+      "url": "https://open.spotify.com/track/6S4QY1HV2rJH6avwEAyO8Q"
     },
     {
       "added_at": "2022-01-21 05:02:00",

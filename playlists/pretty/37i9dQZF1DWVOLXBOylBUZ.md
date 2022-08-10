@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 ### [El Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWVOLXBOylBUZ)
 
-> Tiago PZK tienen el ritmo que mueve Latinoamérica.
+> Rels B tiene el ritmo que mueve Latinoamérica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,281 likes - 104 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,615 likes - 104 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 103 | [Panamera](https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Panamera](https://open.spotify.com/album/587dbQNUDsGAL4xMkNScm6) | 3:55 |
 | 104 | [Mereces Menos](https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mereces Menos](https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1) | 3:00 |
 
-Snapshot ID: `MTY1OTY3NTYwMCwwMDAwMDAwMDE2MzViNjk4ZjRiODdiNzhhYzFmY2UwMGU2NzYxMzA0`
+Snapshot ID: `MTY2MDA2NTI3NSwwMDAwMDAwMDNiZDBjNzg0MGRjOGM2MDg1MDgwYzIyZTJjNWQ3NTJk`

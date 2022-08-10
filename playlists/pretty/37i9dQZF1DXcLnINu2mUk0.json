@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Richie Campbell",
-  "num_followers": 16199,
+  "num_followers": 16223,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMGE1Y2YwMjI4ZjhjNGZhZjc3ZTcxYThmOGQyZWNhNGRi",
+  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMDZjOWQwMDEwMmNkZDg5ZmNjNzI0NmM4MWJkMTY0MThh",
   "tracks": [
     {
       "added_at": "2022-08-04 23:00:00",
@@ -364,16 +364,16 @@
           "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
         },
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
           "name": "Ycee",
           "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
         },
         {
           "name": "Outcast Music",
           "url": "https://open.spotify.com/artist/2uNmS44lGiSLAV7R7jjbbh"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
       "duration_ms": 201824,
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "teach me how to love",
-        "url": "https://open.spotify.com/album/53a3gVxPs0JZvEYSTMrWRj"
-      },
-      "artists": [
-        {
-          "name": "colombianacallmegringo",
-          "url": "https://open.spotify.com/artist/1iSBDUpR3E3GBF02idlgMB"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "teach me how to love",
-      "url": "https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
         "name": "N\u00e3o Se Apaga",
         "url": "https://open.spotify.com/album/7hbucpKi4oPK6OxIY8MVoi"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 175411,
       "name": "N\u00e3o Se Apaga",
       "url": "https://open.spotify.com/track/0LiKroEN7hpEbN7rhhPOR6"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "teach me how to love",
+        "url": "https://open.spotify.com/album/53a3gVxPs0JZvEYSTMrWRj"
+      },
+      "artists": [
+        {
+          "name": "colombianacallmegringo",
+          "url": "https://open.spotify.com/artist/1iSBDUpR3E3GBF02idlgMB"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "teach me how to love",
+      "url": "https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
+        "name": "No Stress No Money",
+        "url": "https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l"
+      },
+      "artists": [
+        {
+          "name": "C\u00edntia",
+          "url": "https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU"
+        }
+      ],
+      "duration_ms": 177900,
+      "name": "No Stress No Money",
+      "url": "https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
         "name": "5MINUTES",
         "url": "https://open.spotify.com/album/26VyhByd0y1RsgrYus5bOz"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 188000,
       "name": "5MINUTES",
       "url": "https://open.spotify.com/track/4f96bCyt3UILSEJbfBUMqg"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "No Stress No Money",
-        "url": "https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l"
-      },
-      "artists": [
-        {
-          "name": "C\u00edntia",
-          "url": "https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU"
-        }
-      ],
-      "duration_ms": 177900,
-      "name": "No Stress No Money",
-      "url": "https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg"
     },
     {
       "added_at": "2022-08-04 23:00:00",

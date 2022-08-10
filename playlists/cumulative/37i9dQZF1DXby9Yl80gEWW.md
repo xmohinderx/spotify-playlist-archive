@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-180 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/4YsfLsdnQQm3Z91YQleLNc)
+181 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/4YsfLsdnQQm3Z91YQleLNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Fiddler's Dream](https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [Fiddler's Dream](https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG) | 3:37 | 2021-12-03 |  |
 | [Fiddler's Dream](https://open.spotify.com/track/69iYUGQUEblPnaPIpR6vjS) | [Rob Ickes](https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd), [Blue Highway](https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd) | [Bluegrass Number 1's](https://open.spotify.com/album/465KUMFbuTnXJd2WqxYCyY) | 2:18 | 2021-12-03 | 2022-05-18 |
 | [Finch In The Pantry](https://open.spotify.com/track/3A9Ko23awcO4gL0a9RTesh) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Finch In The Pantry](https://open.spotify.com/album/3GNgRPzfWWQ6UAkcYzTTvg) | 3:51 | 2021-12-03 |  |
+| [Fine Times at Our House](https://open.spotify.com/track/1v0N9HBqKKCJfhCLV9GuIb) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 2:17 | 2022-07-29 |  |
 | [Fine Times at Our House](https://open.spotify.com/track/3J7cN5yWjtDVLO45gtdJOf) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 2:17 | 2021-12-03 | 2022-07-27 |
 | [First And Last Waltz](https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Why Should The Fire Die?](https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb) | 1:53 | 2021-12-03 |  |
 | [Fisher's Hornpipe](https://open.spotify.com/track/6ugHF9FZMsDMQVCTHH6NFQ) | [Pretty Little Goat](https://open.spotify.com/artist/0S9WaFIgDMqkkWn0H8pGIB) | [Big Storm](https://open.spotify.com/album/1eRifq2mP6LmSV5IluOyxr) | 3:27 | 2022-03-25 | 2022-07-07 |
@@ -177,7 +178,7 @@
 | [Watch 'At Breakdown](https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [How To Grow A Woman From The Ground](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) | 4:14 | 2021-12-03 |  |
 | [Waveland](https://open.spotify.com/track/0RgsjTcfbWndH0oNiSvWtx) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Universal Favorite](https://open.spotify.com/album/72BjHzwfZXDbxm1HuiXcAo) | 2:58 | 2021-12-03 | 2022-07-23 |
 | [We Hide And Seek](https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Americana Master Series: Best Of The Sugar Hill Years](https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS) | 6:32 | 2021-12-03 |  |
-| [Wellington](https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF) | [Allison de Groot & Tatiana Hargreaves](https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe) | [Hurricane Clarice](https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76) | 3:23 | 2022-07-22 |  |
+| [Wellington](https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF) | [Allison de Groot & Tatiana Hargreaves](https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe) | [Hurricane Clarice](https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76) | 3:23 | 2022-07-22 | 2022-08-10 |
 | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9) | 4:15 | 2021-12-03 |  |
 | [Whiskerhead Goes to Leningrad](https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep) | [My Place in the Sun](https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH) | 3:46 | 2021-12-03 |  |
 | [Whiskey In The Jar](https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM) | [Josep Traver](https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D), [Tom Corbett](https://open.spotify.com/artist/2Q4oe8BUjskk1xLJI6KORE) | [Whiskey in the Jar](https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q) | 2:15 | 2022-01-28 | 2022-08-01 |

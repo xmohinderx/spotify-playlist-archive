@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u4f50\u85e4\u5343\u4e9c\u5983",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Tokimeki Records",
   "name": "Women's Voice",
   "published_playlist_ids": [
     "0SZUWy0MOvj9UVdaGWsuiR"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 196000,
       "name": "Aquarium Summer",
       "url": "https://open.spotify.com/track/5A4zrqYxmkTCHR4rVecd4w"
@@ -3047,7 +3047,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 267666,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
@@ -4129,7 +4129,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 296715,
       "name": "Secret lover - Vocal Version",
       "url": "https://open.spotify.com/track/0PV7OWnQMfhPzUqGWWVdb2"
@@ -4249,7 +4249,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 192484,
       "name": "Shower",
       "url": "https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd"
@@ -5073,7 +5073,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 239655,
       "name": "Toumeina",
       "url": "https://open.spotify.com/track/0d14hdzPAmU2OrhiTImPBo"
@@ -5885,6 +5885,28 @@
       "duration_ms": 233750,
       "name": "\u3046\u3064\u308d\u3076\u306d",
       "url": "https://open.spotify.com/track/6jJK86HoqRhebpT1Tisdfb"
+    },
+    {
+      "album": {
+        "name": "\u3046\u3089\u304e\u308a\u3082\u306e/\u3057\u308b\u3057",
+        "url": "https://open.spotify.com/album/2nC1uWzDL0LT7oGvolVw7p"
+      },
+      "artists": [
+        {
+          "name": "RYUTist",
+          "url": "https://open.spotify.com/artist/4BSpF4yQWrGiYdxNsLRdX1"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267968,
+      "name": "\u3046\u3089\u304e\u308a\u3082\u306e",
+      "url": "https://open.spotify.com/track/4PT1JrWIZyeF9koWq78PcP"
     },
     {
       "album": {
@@ -6795,7 +6817,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 296883,
       "name": "\u30a8\u30ec\u30b8\u30fc",
       "url": "https://open.spotify.com/track/7Bjojqjk1Mke5jrVBaSSN8"
@@ -7619,7 +7641,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 292000,
       "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6",
       "url": "https://open.spotify.com/track/3uwXWJcQd2jVz6h5DhbVGf"
@@ -8140,6 +8162,24 @@
     },
     {
       "album": {
+        "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287986,
+      "name": "\u4e16\u754c\u306e\u3064\u3065\u304d",
+      "url": "https://open.spotify.com/track/17zp5n2rbiRJzQtCaZpXDD"
+    },
+    {
+      "album": {
         "name": "\u4e88\u6e2c\u4e0d\u80fd\u306e1\u79d2\u5148\u3082\u6fc1\u6d41\u307f\u305f\u3044\u306b\u611b\u3057\u3066\u308b",
         "url": "https://open.spotify.com/album/4O6a6o4144MXUXETY2Rp08"
       },
@@ -8611,7 +8651,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 211866,
       "name": "\u590f\u306b\u6eba\u308c\u305f\u3044",
       "url": "https://open.spotify.com/track/3VHHhp7Si9eA8F6AvkrTUM"
@@ -9409,7 +9449,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 229262,
       "name": "\u672a\u6765\u3078",
       "url": "https://open.spotify.com/track/3EFZPT8yR3IXaw0IPwUiaX"
@@ -10751,6 +10791,24 @@
       "duration_ms": 236453,
       "name": "\u98a8\u304c\u5909\u308f\u3063\u305f\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/1CL4tTB5jYHhwZ4bcbYXeo"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272466,
+      "name": "\u98a8\u306e\u3086\u304f\u3048",
+      "url": "https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s"
     },
     {
       "album": {

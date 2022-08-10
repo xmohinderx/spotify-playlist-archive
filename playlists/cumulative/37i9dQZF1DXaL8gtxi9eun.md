@@ -2,9 +2,9 @@
 
 ### [Best of Arab Pop](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> Most adored pop hits from the Middle East and North Africa\. Cover: Tamer Hosny
+> Most adored pop hits from the Middle East and North Africa\. Cover: Wael Kfoury
 
-98 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
+99 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Alby Plastic](https://open.spotify.com/track/3d77XC3WK7ud2bP4JvyPZe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Alby Plastic](https://open.spotify.com/album/2BCKExJzkbbOOBAqx5JQeU) | 3:31 | 2022-05-04 |  |
 | [Allah Shahid](https://open.spotify.com/track/2su3mVU3b25vzhHBYUX8CS) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Allah Shahid](https://open.spotify.com/album/5oIMyoc9iYzGFemCMxoIcR) | 4:19 | 2022-05-04 |  |
 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 | 2022-05-04 | 2022-06-21 |
-| [Ana Law Zalana](https://open.spotify.com/track/4Z4WGTYz3lj5KLkkvc7XVO) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ana Law Zalana](https://open.spotify.com/album/5jlBWv94WL8GY0M1CYqjAj) | 4:11 | 2022-05-04 |  |
+| [Ana Law Zalana](https://open.spotify.com/track/4Z4WGTYz3lj5KLkkvc7XVO) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ana Law Zalana](https://open.spotify.com/album/5jlBWv94WL8GY0M1CYqjAj) | 4:11 | 2022-05-04 | 2022-08-10 |
 | [Ana Weyak](https://open.spotify.com/track/1EKrYEbzcAFz3s5Vkb4yQz) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Ana Weyak](https://open.spotify.com/album/2jmEslJVrYeCBlFcbDS9Um) | 3:22 | 2022-05-04 | 2022-07-15 |
 | [Ard Mostamer](https://open.spotify.com/track/1gIaBb1TIc7tmYJz1dfwst) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ard Mostamer](https://open.spotify.com/album/6n8z8mpak5pywihd9rOj8G) | 4:00 | 2022-05-04 | 2022-07-10 |
 | [Ayshin W Mesh Ayshin](https://open.spotify.com/track/43sJhmAjcJ98VVuO2XPpZD) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ayshin W Mesh Ayshin](https://open.spotify.com/album/5e8IEDGudsiSbHWSA9J7i1) | 3:18 | 2022-05-04 |  |
@@ -87,6 +87,7 @@
 | [Saheb Elgmal](https://open.spotify.com/track/7mVS4YxLT7IT2Ao4K7iIEo) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [صاحب الجمال](https://open.spotify.com/album/2eHo5yU1pR9oRmAbS6Ql41) | 3:35 | 2022-05-04 |  |
 | [Sahran](https://open.spotify.com/track/1VPjnnkxsxXdgaIbH2dhnq) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Sahran](https://open.spotify.com/album/08fHah0PYjQwfoqIis8y84) | 4:46 | 2022-05-04 | 2022-06-07 |
 | [Ser Alsada \( Mountain View\)](https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ser Alsada \( Mountain View\)](https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c) | 3:50 | 2022-05-04 |  |
+| [Set El Kel](https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Set El Kel](https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s) | 3:18 | 2022-08-09 |  |
 | [Shattabna](https://open.spotify.com/track/4138h4unKb8WMM4EgoZZGi) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Shattabna](https://open.spotify.com/album/3aqfxGWKG9jLi5Z3cuZUxW) | 3:52 | 2022-05-04 | 2022-07-15 |
 | [Tearaf Bahebak Leh](https://open.spotify.com/track/4J91ULN1DJ1FHPRD1G4FYN) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Tearaf Bahebak Leh](https://open.spotify.com/album/1ioz7toy8ZetQuqIH8cT1j) | 2:45 | 2022-05-04 | 2022-07-13 |
 | [Tegy Ntrahn](https://open.spotify.com/track/2NF0gMDLnJSaqIfj0SvrDi) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:00 | 2022-07-14 |  |

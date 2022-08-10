@@ -4,7 +4,7 @@
 
 > A collection of traditional carols and new classics by the biggest, brightest stars! Cover: Kristin Chenoweth
 
-127 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/7cn8GzbNCrgnadfJ65Q1Jc)
+128 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/7cn8GzbNCrgnadfJ65Q1Jc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Champagne & Wine](https://open.spotify.com/track/3Ba6QKkVnjt9JH2DCdVhnH) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Dreamer](https://open.spotify.com/album/7FN9qiQpqpz96scSSGBT0A) | 3:57 | 2021-12-17 |  |
 | [Champagne & Wine](https://open.spotify.com/track/2Lu0QdngNtLcPnZV8RdUF1) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [A Jazzy Christmas and a Funky New Year](https://open.spotify.com/album/60cv2HFAq35J0KJsJZpONs) | 3:57 | 2021-12-17 | 2022-07-29 |
 | [Christmas All Over Again](https://open.spotify.com/track/0FWQqtYOXN4J0IyJLjYWOg) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas \- Essential](https://open.spotify.com/album/2aE54NKgxMHrQrc7019KZI) | 4:13 | 2021-12-17 | 2022-07-29 |
-| [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 | 2021-12-17 |  |
+| [Christmas All Over Again](https://open.spotify.com/track/1lVzU7SrUtTc7F1EpKqhEa) | [Tom Petty And The Heartbreakers](https://open.spotify.com/artist/6mBLihWcj51NU67NgevOyW) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/3LPghlMCICkwGHz3ab7U8R) | 4:13 | 2021-12-17 |  |
+| [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 | 2021-12-17 | 2022-08-10 |
 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI) | 3:20 | 2021-12-17 |  |
 | [Christmas Don't Be Late](https://open.spotify.com/track/4EUgNt34cAvEwYEgoPvsRE) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 2:40 | 2021-12-17 |  |
 | [Christmas in New York](https://open.spotify.com/track/6ojf8Uq0jgu9zJggnifDHg) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Christmas in The City](https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC) | 3:15 | 2021-12-17 |  |

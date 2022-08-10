@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 403178,
+  "num_followers": 403367,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA2NDgwMCwwMDAwMDAwMGE1NDZhYTcwMjY2ZWVhYTZhNmFiNGM3YzFiNGMxYTQy",
+  "snapshot_id": "MTY1NjA2NDgwMCwwMDAwMDAwMDEyNWYzMDlkYTRhZmYwZTJlZjVkMmE2MDZkNWJmYTAz",
   "tracks": [
     {
       "added_at": "2022-06-24 10:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Pure Love EP",
-        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        }
-      ],
-      "duration_ms": 393495,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Finja",
         "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 218226,
       "name": "Finja",
       "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Pure Love EP",
+        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        }
+      ],
+      "duration_ms": 393495,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Spaziergang im All",
-        "url": "https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf"
-      },
-      "artists": [
-        {
-          "name": "Deorbiting",
-          "url": "https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr"
-        }
-      ],
-      "duration_ms": 498670,
-      "name": "Spaziergang im All",
-      "url": "https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Exoplanet",
         "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
+        "name": "Spaziergang im All",
+        "url": "https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf"
+      },
+      "artists": [
+        {
+          "name": "Deorbiting",
+          "url": "https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr"
+        }
+      ],
+      "duration_ms": 498670,
+      "name": "Spaziergang im All",
+      "url": "https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
         "name": "Planet Earth | March of the Giants",
         "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 457080,
       "name": "March of the giants",
       "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Wormhole",
+        "url": "https://open.spotify.com/album/10PmsWsXc3P2jeHkyJjkpT"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 437953,
+      "name": "Wormhole",
+      "url": "https://open.spotify.com/track/1ZE6ebWHUSp2v6JAPpp8eS"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -483,38 +499,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Wormhole",
-        "url": "https://open.spotify.com/album/10PmsWsXc3P2jeHkyJjkpT"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 437953,
-      "name": "Wormhole",
-      "url": "https://open.spotify.com/track/1ZE6ebWHUSp2v6JAPpp8eS"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "The Dawn",
-        "url": "https://open.spotify.com/album/0s1Uhx9QIQfSyFuGSI0OuT"
-      },
-      "artists": [
-        {
-          "name": "Alex Dovo",
-          "url": "https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL"
-        }
-      ],
-      "duration_ms": 463563,
-      "name": "Free Colombia",
-      "url": "https://open.spotify.com/track/0FvP1wBXZGMkZPRyFEtkdN"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "The Dawn",
+        "url": "https://open.spotify.com/album/0s1Uhx9QIQfSyFuGSI0OuT"
+      },
+      "artists": [
+        {
+          "name": "Alex Dovo",
+          "url": "https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL"
+        }
+      ],
+      "duration_ms": 463563,
+      "name": "Free Colombia",
+      "url": "https://open.spotify.com/track/0FvP1wBXZGMkZPRyFEtkdN"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Traum EP",
-        "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
-      },
-      "artists": [
-        {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Deep in My Mind - Original Mix",
-      "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Meertraum",
         "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 394418,
       "name": "Meertraum",
       "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Traum EP",
+        "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
+      },
+      "artists": [
+        {
+          "name": "Herr Lang",
+          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Deep in My Mind - Original Mix",
+      "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 570543,
-      "name": "Red Planet",
-      "url": "https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Sense of Wonder",
         "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 412500,
       "name": "Entrudo - Booka Shade Remix",
       "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 570543,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Piano & Electronic Ensemble Op. 1",
-        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
+        "name": "10 Years URSL - Reframed Future",
+        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
       },
       "artists": [
         {
-          "name": "Schlindwein",
-          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
+          "name": "Schlepp Geist",
+          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
         }
       ],
-      "duration_ms": 375483,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
+      "duration_ms": 425437,
+      "name": "Reframed Future",
+      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "10 Years URSL - Reframed Future",
-        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
+        "name": "Piano & Electronic Ensemble Op. 1",
+        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
       },
       "artists": [
         {
-          "name": "Schlepp Geist",
-          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
+          "name": "Schlindwein",
+          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
         }
       ],
-      "duration_ms": 425437,
-      "name": "Reframed Future",
-      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
+      "duration_ms": 375483,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -923,6 +923,22 @@
       "duration_ms": 374250,
       "name": "Symbiotic Nature",
       "url": "https://open.spotify.com/track/0FUUkCK8Mw51Bgq4in85Qp"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Hipotez",
+        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
+      },
+      "artists": [
+        {
+          "name": "Kerem Gell",
+          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Hipotez",
+      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -947,18 +963,18 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Hipotez",
-        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B"
       },
       "artists": [
         {
-          "name": "Kerem Gell",
-          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
         }
       ],
-      "duration_ms": 352920,
-      "name": "Hipotez",
-      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
+      "duration_ms": 414053,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -975,22 +991,6 @@
       "duration_ms": 406000,
       "name": "Flight Into the Void",
       "url": "https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 414053,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        }
+      ],
+      "duration_ms": 284187,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 364918,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Revolt",
-        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
-      },
-      "artists": [
-        {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        }
-      ],
-      "duration_ms": 284187,
-      "name": "Revolt",
-      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
+      },
+      "artists": [
+        {
+          "name": "Nick Schwenderling",
+          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 192016,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
-      },
-      "artists": [
-        {
-          "name": "Nick Schwenderling",
-          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Nebula",
-      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
     },
     {
       "added_at": "2022-06-24 10:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-06-24 10:00:00",
       "album": {
-        "name": "Kronos Pearl",
-        "url": "https://open.spotify.com/album/28MylNxFpfKWb16gVysnE6"
-      },
-      "artists": [
-        {
-          "name": "Modeplex",
-          "url": "https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU"
-        }
-      ],
-      "duration_ms": 501481,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/3zUdy1VfjnNYDezMxSGxyw"
-    },
-    {
-      "added_at": "2022-06-24 10:00:00",
-      "album": {
         "name": "Resurrect EP",
         "url": "https://open.spotify.com/album/2oPWTDFuxa9zguoGsPOYck"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 450595,
       "name": "Resurrect",
       "url": "https://open.spotify.com/track/2lV0ovLujswvwAquxjXw4D"
+    },
+    {
+      "added_at": "2022-06-24 10:00:00",
+      "album": {
+        "name": "Kronos Pearl",
+        "url": "https://open.spotify.com/album/28MylNxFpfKWb16gVysnE6"
+      },
+      "artists": [
+        {
+          "name": "Modeplex",
+          "url": "https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU"
+        }
+      ],
+      "duration_ms": 501481,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/3zUdy1VfjnNYDezMxSGxyw"
     },
     {
       "added_at": "2022-06-24 10:00:00",

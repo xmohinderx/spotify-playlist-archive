@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve?si=S7ldwapeTm\-sUkBHaUn\_NA">Muziqal Chef</a> and <a href="https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4?si=aTjtYAOZTtSPFKp59f4\-1A">Murumba Pitch</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,229 likes - 79 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,595 likes - 79 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

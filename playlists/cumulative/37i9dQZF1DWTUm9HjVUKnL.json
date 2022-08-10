@@ -1196,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Baghon Main (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4SEh8c2XvyqfyssNirqvfa"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327977,
+      "name": "Baghon Main - Spotify Singles",
+      "url": "https://open.spotify.com/track/6bnJzcoHGwqkrmBu23CXn0"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4rPjTRBqUIKSICPzURvzvm"
       },
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 327977,
       "name": "Baghon Main - Spotify Singles",
       "url": "https://open.spotify.com/track/767DqFjvUfMmpBp02QxApL"
@@ -3165,7 +3183,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 150568,
       "name": "DI MI NOMBRE - Spotify Singles",
       "url": "https://open.spotify.com/track/5ReoXjSl51PomPG8rYp0Zx"

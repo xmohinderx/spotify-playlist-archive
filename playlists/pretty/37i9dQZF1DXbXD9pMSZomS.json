@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 390895,
+  "num_followers": 391027,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk2NzIwMSwwMDAwMDAwMDU1MmUxOTExYzJiN2NjYTdkZWZiNDVkZGE4NGQyM2I0",
+  "snapshot_id": "MTY1OTk2NzIwMSwwMDAwMDAwMGJlYmYyZDhhNjczY2E0NDY3ZGM5ZjllYjAyZjI3NWYx",
   "tracks": [
     {
       "added_at": "2022-08-08 14:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-08-08 14:00:00",
       "album": {
-        "name": "elope",
-        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
-      },
-      "artists": [
-        {
-          "name": "dj poolboi",
-          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
-        }
-      ],
-      "duration_ms": 293999,
-      "name": "elope",
-      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
-    },
-    {
-      "added_at": "2022-08-08 14:00:00",
-      "album": {
         "name": "We Should Chill On The Windowsill More",
         "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
       },
@@ -271,18 +255,34 @@
     {
       "added_at": "2022-08-08 14:00:00",
       "album": {
-        "name": "lo-fi_house.zip",
-        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
+        "name": "elope",
+        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
       },
       "artists": [
         {
-          "name": "kemt",
-          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
         }
       ],
-      "duration_ms": 375000,
-      "name": "100 reasons",
-      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
+      "duration_ms": 293999,
+      "name": "elope",
+      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
+    },
+    {
+      "added_at": "2022-08-08 14:00:00",
+      "album": {
+        "name": "porco rosso",
+        "url": "https://open.spotify.com/album/1Fp9w0o4EBXaWTuV6UJ3VL"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "porco rosso",
+      "url": "https://open.spotify.com/track/5lwjdvgblpKI77ferBvdNl"
     },
     {
       "added_at": "2022-08-08 14:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-08-08 14:00:00",
       "album": {
-        "name": "porco rosso",
-        "url": "https://open.spotify.com/album/1Fp9w0o4EBXaWTuV6UJ3VL"
+        "name": "lo-fi_house.zip",
+        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
       },
       "artists": [
         {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+          "name": "kemt",
+          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
         }
       ],
-      "duration_ms": 219840,
-      "name": "porco rosso",
-      "url": "https://open.spotify.com/track/5lwjdvgblpKI77ferBvdNl"
+      "duration_ms": 375000,
+      "name": "100 reasons",
+      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
     },
     {
       "added_at": "2022-08-08 14:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-08-08 14:00:00",
       "album": {
-        "name": "The Small Room Sessions",
-        "url": "https://open.spotify.com/album/7q2toX28pVjzZi9IhFkou3"
-      },
-      "artists": [
-        {
-          "name": "upper class",
-          "url": "https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0"
-        }
-      ],
-      "duration_ms": 229835,
-      "name": "morning groove",
-      "url": "https://open.spotify.com/track/2ZQRfelYOFQ6i6A9rTx73j"
-    },
-    {
-      "added_at": "2022-08-08 14:00:00",
-      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
       },
@@ -419,6 +403,38 @@
       "duration_ms": 210000,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
+    },
+    {
+      "added_at": "2022-08-08 14:00:00",
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/76UMqatl6klSIhmOmd7UNx"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "duration_ms": 146949,
+      "name": "SEX IS GOOD BUT HAVE U EVER",
+      "url": "https://open.spotify.com/track/5Zoo5FV2AteC6zrFwGoukH"
+    },
+    {
+      "added_at": "2022-08-08 14:00:00",
+      "album": {
+        "name": "The Small Room Sessions",
+        "url": "https://open.spotify.com/album/7q2toX28pVjzZi9IhFkou3"
+      },
+      "artists": [
+        {
+          "name": "upper class",
+          "url": "https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0"
+        }
+      ],
+      "duration_ms": 229835,
+      "name": "morning groove",
+      "url": "https://open.spotify.com/track/2ZQRfelYOFQ6i6A9rTx73j"
     },
     {
       "added_at": "2022-08-08 14:00:00",
@@ -451,22 +467,6 @@
       "duration_ms": 244363,
       "name": "Pastis",
       "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
-    },
-    {
-      "added_at": "2022-08-08 14:00:00",
-      "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/76UMqatl6klSIhmOmd7UNx"
-      },
-      "artists": [
-        {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
-        }
-      ],
-      "duration_ms": 146949,
-      "name": "SEX IS GOOD BUT HAVE U EVER",
-      "url": "https://open.spotify.com/track/5Zoo5FV2AteC6zrFwGoukH"
     },
     {
       "added_at": "2022-08-08 14:00:00",
@@ -539,58 +539,6 @@
     {
       "added_at": "2022-08-08 14:00:00",
       "album": {
-        "name": "Hyperspace (feat. Teza Sumendra)",
-        "url": "https://open.spotify.com/album/1qnUz82hJ3LVACEPIzIIkX"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Teza Sumendra",
-          "url": "https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7"
-        }
-      ],
-      "duration_ms": 204445,
-      "name": "Hyperspace (feat. Teza Sumendra)",
-      "url": "https://open.spotify.com/track/5izPRm1uzeRQs7YRpw4IKw"
-    },
-    {
-      "added_at": "2022-08-08 14:00:00",
-      "album": {
-        "name": "The Sinner \u2014 Time Traveller",
-        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 282857,
-      "name": "The Sinner",
-      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
-    },
-    {
-      "added_at": "2022-08-08 14:00:00",
-      "album": {
-        "name": "The Sayers",
-        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
-      },
-      "artists": [
-        {
-          "name": "Klein Zage",
-          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
-        }
-      ],
-      "duration_ms": 293584,
-      "name": "The Sayers",
-      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
-    },
-    {
-      "added_at": "2022-08-08 14:00:00",
-      "album": {
         "name": "Fidelity Radio Club (Toy Tonics Remixes)",
         "url": "https://open.spotify.com/album/7vx7dd3xBvpZeXqKFM6UmF"
       },
@@ -611,6 +559,58 @@
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7"
+    },
+    {
+      "added_at": "2022-08-08 14:00:00",
+      "album": {
+        "name": "Hyperspace (feat. Teza Sumendra)",
+        "url": "https://open.spotify.com/album/1qnUz82hJ3LVACEPIzIIkX"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Teza Sumendra",
+          "url": "https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7"
+        }
+      ],
+      "duration_ms": 204445,
+      "name": "Hyperspace (feat. Teza Sumendra)",
+      "url": "https://open.spotify.com/track/5izPRm1uzeRQs7YRpw4IKw"
+    },
+    {
+      "added_at": "2022-08-08 14:00:00",
+      "album": {
+        "name": "The Sayers",
+        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
+      },
+      "artists": [
+        {
+          "name": "Klein Zage",
+          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
+        }
+      ],
+      "duration_ms": 293584,
+      "name": "The Sayers",
+      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
+    },
+    {
+      "added_at": "2022-08-08 14:00:00",
+      "album": {
+        "name": "The Sinner \u2014 Time Traveller",
+        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "The Sinner",
+      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
     },
     {
       "added_at": "2022-08-08 14:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-08-08 14:00:00",
       "album": {
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
+    },
+    {
+      "added_at": "2022-08-08 14:00:00",
+      "album": {
         "name": "Passeggiata",
         "url": "https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 136666,
       "name": "Ocean Drift",
       "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
-    },
-    {
-      "added_at": "2022-08-08 14:00:00",
-      "album": {
-        "name": "breath tapes",
-        "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 215222,
-      "name": "suddenly",
-      "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
     },
     {
       "added_at": "2022-08-08 14:00:00",
@@ -811,38 +811,6 @@
     {
       "added_at": "2022-08-08 14:00:00",
       "album": {
-        "name": "Mellow Mornings",
-        "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
-      },
-      "artists": [
-        {
-          "name": "Shopan",
-          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
-        }
-      ],
-      "duration_ms": 154814,
-      "name": "Mellow Mornings",
-      "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
-    },
-    {
-      "added_at": "2022-08-08 14:00:00",
-      "album": {
-        "name": "Carlito Archives",
-        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
-      },
-      "artists": [
-        {
-          "name": "Carlo",
-          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
-        }
-      ],
-      "duration_ms": 363960,
-      "name": "Anything Else Feat. Alix Edwards",
-      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
-    },
-    {
-      "added_at": "2022-08-08 14:00:00",
-      "album": {
         "name": "Moonlite",
         "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
       },
@@ -859,6 +827,22 @@
     {
       "added_at": "2022-08-08 14:00:00",
       "album": {
+        "name": "Mellow Mornings",
+        "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
+      },
+      "artists": [
+        {
+          "name": "Shopan",
+          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
+        }
+      ],
+      "duration_ms": 154814,
+      "name": "Mellow Mornings",
+      "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
+    },
+    {
+      "added_at": "2022-08-08 14:00:00",
+      "album": {
         "name": "Closer To The Essence",
         "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 161152,
       "name": "Closer To The Essence",
       "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+    },
+    {
+      "added_at": "2022-08-08 14:00:00",
+      "album": {
+        "name": "Carlito Archives",
+        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
+      },
+      "artists": [
+        {
+          "name": "Carlo",
+          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
+        }
+      ],
+      "duration_ms": 363960,
+      "name": "Anything Else Feat. Alix Edwards",
+      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
     },
     {
       "added_at": "2022-08-08 14:00:00",
@@ -903,26 +903,6 @@
       "duration_ms": 117660,
       "name": "Polar Circle",
       "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
-    },
-    {
-      "added_at": "2022-08-08 14:00:00",
-      "album": {
-        "name": "Secret Box",
-        "url": "https://open.spotify.com/album/4q3Q728Q7ZTIARRcZg77Sc"
-      },
-      "artists": [
-        {
-          "name": "Yuri Usachev",
-          "url": "https://open.spotify.com/artist/6PZFAmeUW0T9WhUYWcxYCu"
-        },
-        {
-          "name": "Nikita Kamenskiy",
-          "url": "https://open.spotify.com/artist/3ZGlXYdNl6D92Fu4143RLY"
-        }
-      ],
-      "duration_ms": 479253,
-      "name": "Barter",
-      "url": "https://open.spotify.com/track/77Jt26XQ3qTX8wbkFKmQCx"
     },
     {
       "added_at": "2022-08-08 14:00:00",
@@ -971,18 +951,22 @@
     {
       "added_at": "2022-08-08 14:00:00",
       "album": {
-        "name": "31 Minutes of Relaxing ASMR",
-        "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
+        "name": "Secret Box",
+        "url": "https://open.spotify.com/album/4q3Q728Q7ZTIARRcZg77Sc"
       },
       "artists": [
         {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+          "name": "Yuri Usachev",
+          "url": "https://open.spotify.com/artist/6PZFAmeUW0T9WhUYWcxYCu"
+        },
+        {
+          "name": "Nikita Kamenskiy",
+          "url": "https://open.spotify.com/artist/3ZGlXYdNl6D92Fu4143RLY"
         }
       ],
-      "duration_ms": 275131,
-      "name": "Chilli Heatwave",
-      "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
+      "duration_ms": 479253,
+      "name": "Barter",
+      "url": "https://open.spotify.com/track/77Jt26XQ3qTX8wbkFKmQCx"
     },
     {
       "added_at": "2022-08-08 14:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 178983,
       "name": "Lofi Vs. House",
       "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
+    },
+    {
+      "added_at": "2022-08-08 14:00:00",
+      "album": {
+        "name": "31 Minutes of Relaxing ASMR",
+        "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 275131,
+      "name": "Chilli Heatwave",
+      "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
     },
     {
       "added_at": "2022-08-08 14:00:00",

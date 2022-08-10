@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 229373,
       "name": "Aquella",
       "url": "https://open.spotify.com/track/0K2Dur3v8JaUlhNpt4Hwbg"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba"
@@ -1733,7 +1733,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 160750,
       "name": "Deja Que Tus Manos",
       "url": "https://open.spotify.com/track/1ONKgvfAhcbgHp4AKWAidI"
@@ -3247,7 +3247,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 182610,
       "name": "GIVENCHY",
       "url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze"
@@ -3683,7 +3683,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 200041,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/5sLeFOCod0pJMxM8CzVc1v"
@@ -5199,7 +5199,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 201347,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/4lgF0pKxpNKbXVNa6TMtJ5"
@@ -5901,7 +5901,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 158608,
       "name": "No lo pillas",
       "url": "https://open.spotify.com/track/5SO3nXcGKt5TWIsqTyzxvj"
@@ -6105,7 +6105,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 127206,
       "name": "No vuelvas mas",
       "url": "https://open.spotify.com/track/11NoDSITPImGX0uVgiNJAx"
@@ -6373,7 +6373,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 244444,
       "name": "Otro Atardecer",
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
@@ -7297,6 +7297,24 @@
       "duration_ms": 175903,
       "name": "PSL",
       "url": "https://open.spotify.com/track/6o4Gciys1ZIOQ2kDGnvKdm"
+    },
+    {
+      "album": {
+        "name": "Puto Perreo",
+        "url": "https://open.spotify.com/album/2kbwctNVrjYpXuUbfByNJD"
+      },
+      "artists": [
+        {
+          "name": "Aina Maro",
+          "url": "https://open.spotify.com/artist/1sgzWg4Btu0baEMWnsG4Ap"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Puto Perreo",
+      "url": "https://open.spotify.com/track/1ciZnR6aGDk4bSzuf1hglE"
     },
     {
       "album": {
@@ -9177,7 +9195,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 148143,
       "name": "Un Verano Sin Ti",
       "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
@@ -9385,7 +9403,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 273474,
       "name": "Volando - Remix",
       "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"

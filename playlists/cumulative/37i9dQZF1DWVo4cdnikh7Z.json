@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Thiruchitrambalam",
+  "description": "New Music from Kollywood.\nCover : Ponniyin Selvan",
   "name": "Latest Tamil",
   "published_playlist_ids": [
     "3lJTsYcdZXxaz1Tx9gEyN0"
@@ -3364,6 +3364,32 @@
     },
     {
       "album": {
+        "name": "Ponni Nadhi (From \"Ponniyin Selvan Part -1\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6uoefjrPMaieH3pKqBYDeM"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "A. R. Reihana",
+          "url": "https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh"
+        },
+        {
+          "name": "Bamba Bakya",
+          "url": "https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290526,
+      "name": "Ponni Nadhi (From \"Ponniyin Selvan Part -1\") - Tamil",
+      "url": "https://open.spotify.com/track/1uJ2czshFLqimctgvsxfv2"
+    },
+    {
+      "album": {
         "name": "The Legend (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N"
       },
@@ -3549,6 +3575,44 @@
       "duration_ms": 258553,
       "name": "Raati",
       "url": "https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2"
+    },
+    {
+      "album": {
+        "name": "Rangarattinam (From \"Natchathiram Nagargiradhu\")",
+        "url": "https://open.spotify.com/album/7FmTMzjqegboyCxwAKlj4z"
+      },
+      "artists": [
+        {
+          "name": "Tenma",
+          "url": "https://open.spotify.com/artist/2DrwyYWGYEu3ULzRzEGajY"
+        },
+        {
+          "name": "M.S Krsna",
+          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
+        },
+        {
+          "name": "Gana Muthu",
+          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
+        },
+        {
+          "name": "Sangita Santhosham",
+          "url": "https://open.spotify.com/artist/4dXWYL9FnxG8CKIv2EgBnn"
+        },
+        {
+          "name": "Kavitha Gopi",
+          "url": "https://open.spotify.com/artist/1xDvHwPzrmRQB6CPlyIoTI"
+        },
+        {
+          "name": "Karthik Manickavasakam",
+          "url": "https://open.spotify.com/artist/3YkUMVh7nPai0811Q22WPO"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289767,
+      "name": "Rangarattinam - From \"Natchathiram Nagargiradhu\"",
+      "url": "https://open.spotify.com/track/6dmb2PApaoXVYWHgljp8IT"
     },
     {
       "album": {
@@ -4441,6 +4505,28 @@
       "duration_ms": 313333,
       "name": "Uyir Urugudhey (From \"Cobra\")",
       "url": "https://open.spotify.com/track/4UKTifFM0LKxkhqyGndZHi"
+    },
+    {
+      "album": {
+        "name": "Vaa Baava (From \"Thudikkum Karangal\") - Single",
+        "url": "https://open.spotify.com/album/7gYA9ihsIkfNzXV0FeE2f4"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Y. Raghav Prasad",
+          "url": "https://open.spotify.com/artist/6QVQPJSvISqluxk5RId9fE"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229080,
+      "name": "Vaa Baava (From \"Thudikkum Karangal\")",
+      "url": "https://open.spotify.com/track/20oZQmKStmn9b7UvMvWdXq"
     },
     {
       "album": {

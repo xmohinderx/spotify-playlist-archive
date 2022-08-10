@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 184051,
+  "num_followers": 184112,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk0MDgwMCwwMDAwMDAwMDU0OWYxM2JjYTRkYmM3ZDVlZGJkMzhlY2Y4MjgxZmNi",
+  "snapshot_id": "MTY0NDk0MDgwMCwwMDAwMDAwMGIxOTFjZjc5MjVkNzVjZjQxOTIxYTM4ZjNmOTc1YzRk",
   "tracks": [
     {
       "added_at": "2022-02-15 16:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "El Amor",
-        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "La Asesina",
-      "url": "https://open.spotify.com/track/1WoDc1x28zHmxnPvvM5GLh"
-    },
-    {
-      "added_at": "2022-02-15 16:00:00",
-      "album": {
         "name": "A la Mar",
         "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 181466,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
+    },
+    {
+      "added_at": "2022-02-15 16:00:00",
+      "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "La Asesina",
+      "url": "https://open.spotify.com/track/1WoDc1x28zHmxnPvvM5GLh"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "De Rodillas Te Pido",
-        "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
       "artists": [
         {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
         }
       ],
-      "duration_ms": 233320,
-      "name": "De Rodillas Te Pido",
-      "url": "https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO"
+      "duration_ms": 205973,
+      "name": "Te So\u00f1\u00e9 - Bonus Track",
+      "url": "https://open.spotify.com/track/4lfwM9i07jPYy2iHyBmHTP"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "A la Mar",
-        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+        "name": "De Rodillas Te Pido",
+        "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
         }
       ],
-      "duration_ms": 205973,
-      "name": "Te So\u00f1\u00e9 - Bonus Track",
-      "url": "https://open.spotify.com/track/4lfwM9i07jPYy2iHyBmHTP"
+      "duration_ms": 233320,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "...A Pasito Lento!",
-        "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
       },
       "artists": [
         {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
         }
       ],
-      "duration_ms": 272400,
-      "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
-      "url": "https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX"
+      "duration_ms": 239866,
+      "name": "No Tengo Suerte En El Amor",
+      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
+        "name": "...A Pasito Lento!",
+        "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
       },
       "artists": [
         {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
         }
       ],
-      "duration_ms": 239866,
-      "name": "No Tengo Suerte En El Amor",
-      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
+      "duration_ms": 272400,
+      "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
+      "url": "https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "Frente A Frente : Dos Estrellas en Uno (Luis Segura Vs. Raulin Rodriguez)",
-        "url": "https://open.spotify.com/album/1e4guYZRcx5lqxvWCYgcx4"
+        "name": "Bachata",
+        "url": "https://open.spotify.com/album/4wbPbmtbTxKufauK9RaAIA"
       },
       "artists": [
         {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+          "name": "Orquesta Picante",
+          "url": "https://open.spotify.com/artist/2O1nM4vaWVhGZum3nhSP18"
         }
       ],
-      "duration_ms": 219040,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/3MoVVUGwLlQTW3k1kQUe5U"
+      "duration_ms": 241684,
+      "name": "Muchachita Loca",
+      "url": "https://open.spotify.com/track/0EWwi2Gt8xRYc90h8W0Q8A"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "Bachata",
-        "url": "https://open.spotify.com/album/4wbPbmtbTxKufauK9RaAIA"
+        "name": "Frente A Frente : Dos Estrellas en Uno (Luis Segura Vs. Raulin Rodriguez)",
+        "url": "https://open.spotify.com/album/1e4guYZRcx5lqxvWCYgcx4"
       },
       "artists": [
         {
-          "name": "Orquesta Picante",
-          "url": "https://open.spotify.com/artist/2O1nM4vaWVhGZum3nhSP18"
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
         }
       ],
-      "duration_ms": 241684,
-      "name": "Muchachita Loca",
-      "url": "https://open.spotify.com/track/0EWwi2Gt8xRYc90h8W0Q8A"
+      "duration_ms": 219040,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/3MoVVUGwLlQTW3k1kQUe5U"
     },
     {
       "added_at": "2022-02-15 16:00:00",

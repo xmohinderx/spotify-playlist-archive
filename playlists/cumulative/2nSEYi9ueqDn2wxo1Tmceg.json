@@ -232,6 +232,50 @@
     },
     {
       "album": {
+        "name": "Bicameral (Remixes)",
+        "url": "https://open.spotify.com/album/5GLgmRlxZ95bPWLxpcZOcl"
+      },
+      "artists": [
+        {
+          "name": "The Range",
+          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
+        },
+        {
+          "name": "Guedra Guedra",
+          "url": "https://open.spotify.com/artist/59bnrVjObngqDJYBOXH4kY"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191734,
+      "name": "Bicameral (Guedra Guedra Remix)",
+      "url": "https://open.spotify.com/track/0NzL0msOQx7CYfxVKVbkCr"
+    },
+    {
+      "album": {
+        "name": "Bicameral (Remixes)",
+        "url": "https://open.spotify.com/album/5GLgmRlxZ95bPWLxpcZOcl"
+      },
+      "artists": [
+        {
+          "name": "The Range",
+          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300028,
+      "name": "Bicameral (Tourist Remix)",
+      "url": "https://open.spotify.com/track/4WFJlcE8g3qRrbTbLkUgyo"
+    },
+    {
+      "album": {
         "name": "Blame",
         "url": "https://open.spotify.com/album/59dntsJjxfrBurSijHw97J"
       },

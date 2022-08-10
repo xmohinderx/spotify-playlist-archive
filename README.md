@@ -2522,6 +2522,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Old is Gold](/playlists/pretty/37i9dQZF1DWYRTlrhMB12D.md)
 - [On Fleek](/playlists/pretty/6j2ZnN1A2xcWQMELm6hcdI.md)
 - [On Record](/playlists/pretty/37i9dQZF1EOxZYPW3mrF6K.md)
+- [On Record \(2\)](/playlists/pretty/37i9dQZF1EOyGe4011iziL.md)
 - [On The Farm](/playlists/pretty/37i9dQZF1DX3fBYada3bEd.md)
 - [On to Something Good](/playlists/pretty/3FfBohQXFlgFnYubzrvoq4.md)
 - [Once Upon A Time](/playlists/pretty/37i9dQZF1DX6ALixlKf7N8.md)

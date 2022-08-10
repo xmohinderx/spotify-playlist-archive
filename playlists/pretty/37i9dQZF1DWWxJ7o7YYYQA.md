@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxJ7o7YYYQA.md) - [plain]
 
 > Cultural juggernauts whose tracks have shifted global narratives by The Juggernaut\. Cover: Riz Ahmed
 
-[Spotify](https://open.spotify.com/user/spotify) - 9 likes - 48 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 48 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

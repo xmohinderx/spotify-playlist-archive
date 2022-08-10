@@ -1,12 +1,12 @@
 {
   "description": "This is the best of today's true alternative rock scene.",
-  "num_followers": 468416,
+  "num_followers": 468457,
   "original_name": "New Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMDliNTE1MzY1ZWYzNzBhZWU5ZmU4NzRkZTc3YWNmZjE0",
+  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMDAwZDIyMmY4MjBhODBhYjA0N2EzZjM4MGU2YjljNzky",
   "tracks": [
     {
       "added_at": "2022-04-29 04:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "Amazing Things",
+        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 238783,
+      "name": "One True Prince",
+      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "hollywood sucks//",
         "url": "https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 153040,
       "name": "hollywood sucks//",
       "url": "https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Amazing Things",
-        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        }
-      ],
-      "duration_ms": 238783,
-      "name": "One True Prince",
-      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Cause You Got Me",
-        "url": "https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ"
-      },
-      "artists": [
-        {
-          "name": "MOSES",
-          "url": "https://open.spotify.com/artist/1y3itK0FVcrhTZoCIhXmum"
-        }
-      ],
-      "duration_ms": 232526,
-      "name": "Cause You Got Me",
-      "url": "https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Night Gnomes",
         "url": "https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 241859,
       "name": "Lava Lamp Pisco",
       "url": "https://open.spotify.com/track/23TrkSJOvl2mnka8F6POxd"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Cause You Got Me",
+        "url": "https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ"
+      },
+      "artists": [
+        {
+          "name": "MOSES",
+          "url": "https://open.spotify.com/artist/1y3itK0FVcrhTZoCIhXmum"
+        }
+      ],
+      "duration_ms": 232526,
+      "name": "Cause You Got Me",
+      "url": "https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "bad for you",
+        "url": "https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb"
+      },
+      "artists": [
+        {
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+        }
+      ],
+      "duration_ms": 114095,
+      "name": "bad for you",
+      "url": "https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "bad for you",
-        "url": "https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb"
+        "name": "Night Gnomes",
+        "url": "https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt"
       },
       "artists": [
         {
-          "name": "George Barnett",
-          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
         }
       ],
-      "duration_ms": 114095,
-      "name": "bad for you",
-      "url": "https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY"
+      "duration_ms": 190543,
+      "name": "Bubblegum Infinity",
+      "url": "https://open.spotify.com/track/3et7oRd1VMvQ3805uuor7N"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -871,22 +887,6 @@
       "duration_ms": 305345,
       "name": "Mother - Single Version",
       "url": "https://open.spotify.com/track/2IHxrbIAQB5sRZTGYvEd01"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Night Gnomes",
-        "url": "https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 190543,
-      "name": "Bubblegum Infinity",
-      "url": "https://open.spotify.com/track/3et7oRd1VMvQ3805uuor7N"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "Girl God Gun",
+        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "Girl God Gun",
+      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "MYSTERY",
         "url": "https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 187907,
       "name": "Stop Making Stupid People Famous (feat. Pussy Riot)",
       "url": "https://open.spotify.com/track/5L0VmR4Ny4PJpn9Gn0DB3w"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Girl God Gun",
-        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
-      },
-      "artists": [
-        {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        }
-      ],
-      "duration_ms": 205854,
-      "name": "Girl God Gun",
-      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "FLAG (Feel Like A Girl)",
-        "url": "https://open.spotify.com/album/7sc5khfJr42LvwdVVWiKjv"
+        "name": "Sego Sucks",
+        "url": "https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB"
       },
       "artists": [
         {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+          "name": "Sego",
+          "url": "https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj"
         }
       ],
-      "duration_ms": 168320,
-      "name": "FLAG (Feel Like A Girl)",
-      "url": "https://open.spotify.com/track/4eAB96x6wsijid73UsHfbO"
+      "duration_ms": 200080,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Sego Sucks",
-        "url": "https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB"
+        "name": "FLAG (Feel Like A Girl)",
+        "url": "https://open.spotify.com/album/7sc5khfJr42LvwdVVWiKjv"
       },
       "artists": [
         {
-          "name": "Sego",
-          "url": "https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj"
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
         }
       ],
-      "duration_ms": 200080,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg"
+      "duration_ms": 168320,
+      "name": "FLAG (Feel Like A Girl)",
+      "url": "https://open.spotify.com/track/4eAB96x6wsijid73UsHfbO"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "Around the Bend",
+        "url": "https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz"
+      },
+      "artists": [
+        {
+          "name": "Strata",
+          "url": "https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv"
+        }
+      ],
+      "duration_ms": 214109,
+      "name": "Around the Bend",
+      "url": "https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "Just For Love",
         "url": "https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 166834,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Around the Bend",
-        "url": "https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz"
-      },
-      "artists": [
-        {
-          "name": "Strata",
-          "url": "https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv"
-        }
-      ],
-      "duration_ms": 214109,
-      "name": "Around the Bend",
-      "url": "https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "I Feel Like I'm Falling",
-        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
+        "name": "Great Mass of Color",
+        "url": "https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp"
       },
       "artists": [
         {
-          "name": "HOKO",
-          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
         }
       ],
-      "duration_ms": 144240,
-      "name": "I Feel Like I'm Falling",
-      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+      "duration_ms": 360333,
+      "name": "Great Mass of Color",
+      "url": "https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Great Mass of Color",
-        "url": "https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp"
+        "name": "I Feel Like I'm Falling",
+        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
       "artists": [
         {
-          "name": "Deafheaven",
-          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+          "name": "HOKO",
+          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
         }
       ],
-      "duration_ms": 360333,
-      "name": "Great Mass of Color",
-      "url": "https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS"
+      "duration_ms": 144240,
+      "name": "I Feel Like I'm Falling",
+      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "Now and Then",
+        "url": "https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I"
+      },
+      "artists": [
+        {
+          "name": "Eliza & The Delusionals",
+          "url": "https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "Less Is More",
         "url": "https://open.spotify.com/album/5h30U6ym6HsxVEHKXwCNzQ"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 180000,
       "name": "Less Is More",
       "url": "https://open.spotify.com/track/7f0owLbR340tr059vrOu93"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Pillar On The Bridge Of You",
-        "url": "https://open.spotify.com/album/2FdeUBg9yKyD9910MoqoO8"
-      },
-      "artists": [
-        {
-          "name": "BODEGA",
-          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Pillar On The Bridge Of You",
-      "url": "https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Now and Then",
-        "url": "https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I"
+        "name": "Pillar On The Bridge Of You",
+        "url": "https://open.spotify.com/album/2FdeUBg9yKyD9910MoqoO8"
       },
       "artists": [
         {
-          "name": "Eliza & The Delusionals",
-          "url": "https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l"
+          "name": "BODEGA",
+          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
         }
       ],
-      "duration_ms": 203064,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm"
+      "duration_ms": 197853,
+      "name": "Pillar On The Bridge Of You",
+      "url": "https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2"
     },
     {
       "added_at": "2022-04-29 04:01:00",

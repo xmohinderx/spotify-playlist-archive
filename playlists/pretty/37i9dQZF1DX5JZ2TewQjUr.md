@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Luna Is A Bep
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,955 likes - 92 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,969 likes - 92 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 8 | [談戀愛甚麽時候變成一場比賽](https://open.spotify.com/track/2S0jex9nwUk6rRB0kByFjL) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m) | [談戀愛甚麽時候變成一場比賽](https://open.spotify.com/album/7FTK6VQCBzjwapvrZFU931) | 2:56 |
 | 9 | [Brown Liquor 2.0](https://open.spotify.com/track/3nNB3Ty4RH3gutOJOkBxEw) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Tommy Grooves](https://open.spotify.com/artist/1FFfMlrZrpn9wDWMRmNKQi) | [Still Going Through It \(Deluxe\)](https://open.spotify.com/album/3MzruzLrsSNyr4r5JyXkrS) | 3:40 |
 | 10 | [typical kid stuff](https://open.spotify.com/track/4dJNJSUrINX4mMAQIGZ480) | [thisisgrant](https://open.spotify.com/artist/1kAFDd4QiDBpkhMB4O0rzZ) | [typical kid stuff](https://open.spotify.com/album/52Aac91m4VFHhg4L93v5p9) | 3:18 |
-| 11 | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/track/3Y0kbp5xGJMk08m3lkOpYL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [OJ Reambillo](https://open.spotify.com/artist/4WfUNX10wpCi4UNCWFCtru) | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/album/1BsPa137X76tHyPl4dt3kU) | 3:26 |
+| 11 | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/track/3Y0kbp5xGJMk08m3lkOpYL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/album/1BsPa137X76tHyPl4dt3kU) | 3:26 |
 | 12 | [和暖的風](https://open.spotify.com/track/0lQyky5oqyrhyBqIdudekJ) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [和暖的風](https://open.spotify.com/album/6hb981Qe8zzsC9q3llvaz2) | 2:40 |
 | 13 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 |
 | 14 | [Edge of Desire](https://open.spotify.com/track/0cQtd5F6UurOj5WBojTuD1) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Edge of Desire](https://open.spotify.com/album/1jLC0DKxSoAxyVTSxT53Ft) | 5:31 |

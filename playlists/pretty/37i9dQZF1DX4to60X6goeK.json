@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 38899,
+  "num_followers": 38904,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTcyODUwMCwwMDAwMDAwMGYwOWJjODZmYTFiYzI5NWNlYmZhMGEzOGVjNWEzMjE4",
+  "snapshot_id": "MTY1NTcyODUwMCwwMDAwMDAwMDQ0ZmUxNTFhYzQ1MDQ3YjFhMTk1NThkYzhkMjQ2NzIx",
   "tracks": [
     {
       "added_at": "2022-06-20 12:35:00",
@@ -871,22 +871,18 @@
     {
       "added_at": "2022-06-20 12:35:00",
       "album": {
-        "name": "The Swarm / Hysteria",
-        "url": "https://open.spotify.com/album/5sLkqrD0IfgkdnrIavsciN"
+        "name": "High Roller",
+        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
       },
       "artists": [
         {
           "name": "Turno",
           "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Gino",
-          "url": "https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E"
         }
       ],
-      "duration_ms": 262921,
-      "name": "The Swarm",
-      "url": "https://open.spotify.com/track/7aB2972ZnAOJbwkNvepLgh"
+      "duration_ms": 275862,
+      "name": "High Roller",
+      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
     },
     {
       "added_at": "2022-06-20 12:35:00",
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2022-06-20 12:35:00",
       "album": {
-        "name": "High Roller",
-        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
+        "name": "The Swarm / Hysteria",
+        "url": "https://open.spotify.com/album/5sLkqrD0IfgkdnrIavsciN"
       },
       "artists": [
         {
           "name": "Turno",
           "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Gino",
+          "url": "https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E"
         }
       ],
-      "duration_ms": 275862,
-      "name": "High Roller",
-      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
+      "duration_ms": 262921,
+      "name": "The Swarm",
+      "url": "https://open.spotify.com/track/7aB2972ZnAOJbwkNvepLgh"
     },
     {
       "added_at": "2022-06-20 12:35:00",

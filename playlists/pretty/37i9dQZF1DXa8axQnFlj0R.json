@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 28840,
+  "num_followers": 28932,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU3ODA3MCwwMDAwMDAwMDU5YzdiMTNhN2Q3NmE1MTc0NDA5N2NmMmQyMGI2ZDI5",
+  "snapshot_id": "MTY0MTU3ODA3MCwwMDAwMDAwMGZjZGY0ZTIyZmJhZTNlMDY5Y2ZkYTVlNWU4NDMyNjhm",
   "tracks": [
     {
       "added_at": "2022-01-07 17:54:30",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Stay - Spotify Singles",
-      "url": "https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Inbred",
         "url": "https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Stay - Spotify Singles",
+      "url": "https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Everything Else Has Gone Wrong",
-        "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
+        "name": "Cubicle",
+        "url": "https://open.spotify.com/album/1AZnBpcbI5gTWkQlqoIhy3"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "Lizzie Reid",
+          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Racing Stripes",
-      "url": "https://open.spotify.com/track/3mOlGrCrh3rJYbjmhfMTiQ"
+      "duration_ms": 182653,
+      "name": "Company Car",
+      "url": "https://open.spotify.com/track/3lrVIxiQWnc1cLWsmlfe6F"
     }
   ],
   "unique_name": "Sweater Weather",

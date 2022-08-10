@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > Alternative meets electronic\. Cover: Sub Urban + BENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,641 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,749 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,14 +77,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 67 | [Just Breathing](https://open.spotify.com/track/1n57AukEXifaY4B0CYnui1) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Just Breathing](https://open.spotify.com/album/1DhPyUmy8h6xVPg4QOr3Kw) | 3:38 |
 | 68 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5bl2pNsPhMT37RkDUa57Ab) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/26sg6kzIjBRBeBV2dl6wzj) | 3:40 |
 | 69 | [Feel Real Pretty](https://open.spotify.com/track/58L9BLQuOAwAzHhCvTpp3l) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/0m2MtmlY7kOaQq5cVAg4DN) | 3:03 |
-| 70 | [Have My Back](https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Have My Back](https://open.spotify.com/album/4QQPP4xRp3wyW7QwZdsW5u) | 3:47 |
-| 71 | [Wolves](https://open.spotify.com/track/4opjWVKT2xmlkgn1ejStcY) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq) | 3:43 |
+| 70 | [Wolves](https://open.spotify.com/track/4opjWVKT2xmlkgn1ejStcY) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq) | 3:43 |
+| 71 | [Have My Back](https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Have My Back](https://open.spotify.com/album/4QQPP4xRp3wyW7QwZdsW5u) | 3:47 |
 | 72 | [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 |
-| 73 | [Last Resort & Spa](https://open.spotify.com/track/3I3wT9xnFlNWM9SlQyH9i1) | [Battle Tapes](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67) | [Form](https://open.spotify.com/album/5kvczjPMKDVYG5TFhU5gBl) | 4:14 |
-| 74 | [lost cause// \(with grandson\)](https://open.spotify.com/track/1zXoU7XohkF9xLMu5LHZ2G) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [lost cause// \(with grandson\)](https://open.spotify.com/album/30pzFBCamJulEWfJTco52K) | 2:51 |
-| 75 | [OH NAH OH NAH \(feat\. Kamiyada+\)](https://open.spotify.com/track/3DD5a4oJQo4ZIjDsYWvMjB) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [OH NAH OH NAH \(feat\. Kamiyada+\)](https://open.spotify.com/album/19284bUazQyICc55efdKcc) | 2:38 |
-| 76 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
-| 77 | [\#gimmeakiss](https://open.spotify.com/track/3FQj8E54GuqtkDbkGz0I9K) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [\#gimmeakiss](https://open.spotify.com/album/6wiF7SGjxF836JAwNWyxYr) | 2:08 |
+| 73 | [lost cause// \(with grandson\)](https://open.spotify.com/track/1zXoU7XohkF9xLMu5LHZ2G) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [lost cause// \(with grandson\)](https://open.spotify.com/album/30pzFBCamJulEWfJTco52K) | 2:51 |
+| 74 | [Last Resort & Spa](https://open.spotify.com/track/3I3wT9xnFlNWM9SlQyH9i1) | [Battle Tapes](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67) | [Form](https://open.spotify.com/album/5kvczjPMKDVYG5TFhU5gBl) | 4:14 |
+| 75 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
+| 76 | [\#gimmeakiss](https://open.spotify.com/track/3FQj8E54GuqtkDbkGz0I9K) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [\#gimmeakiss](https://open.spotify.com/album/6wiF7SGjxF836JAwNWyxYr) | 2:08 |
+| 77 | [OH NAH OH NAH \(feat\. Kamiyada+\)](https://open.spotify.com/track/3DD5a4oJQo4ZIjDsYWvMjB) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [OH NAH OH NAH \(feat\. Kamiyada+\)](https://open.spotify.com/album/19284bUazQyICc55efdKcc) | 2:38 |
 | 78 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 |
 | 79 | [I Like to Party](https://open.spotify.com/track/51cjBkdTwUsoZMz0XcPNd7) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [I Like to Party](https://open.spotify.com/album/0LQmcDlQQFV27k6pxm7rab) | 2:57 |
 | 80 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [Can't Get You Out of My Head](https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Can't Get You Out of My Head](https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV) | 3:10 |
 | 100 | [Days Go By](https://open.spotify.com/track/0OCIiW9YJEqpHZZAyLuqU3) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Days Go By](https://open.spotify.com/album/3hEjE2rKrMxZNV0qO40aTV) | 2:50 |
 
-Snapshot ID: `MTY1NTc1MDc5MywwMDAwMDAwMDU4NzI4ODQ3ODQ5NzAzMjA3NzJkYjE0ZmY2YWVhMDJi`
+Snapshot ID: `MTY1NTc1MDc5MywwMDAwMDAwMGM2YzVjYzkxZTlmYjQzYjNhNGE5ZmIwYWFiNDY3M2Nj`

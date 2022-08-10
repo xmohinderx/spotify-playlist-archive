@@ -4,7 +4,7 @@
 
 > A party full of glitter, confetti and beats.
 
-217 songs - 20 hr 40 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
+218 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Internal Jungle](https://open.spotify.com/track/0FxLMpVTDgdNmk0Ehc0ZKx) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [The Selador Showcase \- The Phenomenal Fifteenth](https://open.spotify.com/album/0IdBHTWEw5scv60okmQpFE) | 7:25 | 2022-04-15 | 2022-07-17 |
 | [Irani \- Joris Delacroix Remix](https://open.spotify.com/track/0RAKYllv4sHLI5GzDXIOqd) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Irani \(Joris Delacroix Remix\)](https://open.spotify.com/album/3mSD8QLyj9Nl7jAC82J2c6) | 3:48 | 2022-04-15 | 2022-06-16 |
 | [Is This Our Earth?](https://open.spotify.com/track/4oDRXykJhBsUZJOODiQ18M) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Is This Our Earth?](https://open.spotify.com/album/316bE5c2saBR5h40GBARwm) | 3:41 | 2022-06-24 |  |
+| [Lady Cherry](https://open.spotify.com/track/1FegqJzuhbp7XZY4gT5EoW) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Discreet Moment Thing Pt\. 2](https://open.spotify.com/album/7FK2B1ZpjFe2JI5B3MXea0) | 5:42 | 2022-06-24 |  |
 | [Lady Cherry](https://open.spotify.com/track/5Aub2PCLAJi4QuMnN5g5d3) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Discreet Moment Thing Pt\. 2](https://open.spotify.com/album/5eaviny1LfRUn4benBg9XD) | 5:42 | 2022-04-15 | 2022-07-27 |
 | [Let the Music Play! \- Original Mix](https://open.spotify.com/track/0f150GYVei3cniOzvZ3Q0i) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Let the Music Play!](https://open.spotify.com/album/4JFYLtAVAUqLAs0M5QCglG) | 7:21 | 2022-04-15 | 2022-04-28 |
 | [Let's Pretend \- Tube & Berger Remix](https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Let's Pretend \(Remixes\)](https://open.spotify.com/album/1amhFmHKiaNXQZ3AtW9AcJ) | 8:12 | 2022-06-17 | 2022-07-27 |
@@ -221,7 +222,7 @@
 | [Winner](https://open.spotify.com/track/1sXEkdWGaNYU7pZU8uLIit) | [Andreas Henneberg](https://open.spotify.com/artist/32fCH0Z7B8ydcz40ybZdqg) | [Lucky Winner EP](https://open.spotify.com/album/5xxcqa57m3B9IU2rlrj95H) | 5:44 | 2022-04-15 | 2022-07-06 |
 | [Won't Forget You \- Edit](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2022-04-15 |  |
 | [You](https://open.spotify.com/track/51k60Gf3Ka7wRICyicdSG8) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [You](https://open.spotify.com/album/7DVmu7ej3Nc0iMiFVW2B3W) | 5:47 | 2022-04-15 | 2022-07-29 |
-| [You Can Do It](https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb) | 3:48 | 2022-06-24 |  |
+| [You Can Do It](https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb) | 3:48 | 2022-06-24 | 2022-08-10 |
 | [You Know What I Got \- Edit](https://open.spotify.com/track/0wIvuXIoTyPvByoztyGFaW) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Liberty City](https://open.spotify.com/artist/2sahdynLTkzIxNwVAkgIDQ) | [You Know What I Got](https://open.spotify.com/album/5xyLXVYmtx9PmhxLLFS5Qg) | 2:51 | 2022-05-20 | 2022-06-01 |
 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2022-04-15 |  |
 | [Yours](https://open.spotify.com/track/5kNv1Du0DqYgKkFgXiBRu3) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Yours](https://open.spotify.com/album/4nx4lWkeRVuqVTIr0RBFH7) | 4:17 | 2022-04-15 |  |

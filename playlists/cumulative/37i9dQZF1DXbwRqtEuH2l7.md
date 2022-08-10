@@ -4,7 +4,7 @@
 
 > Long, dark and sustained.
 
-149 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
+150 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Hair Painted With Copper](https://open.spotify.com/track/704YanLK0sJpJvSVE28f5r) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [But All Spiked](https://open.spotify.com/album/3RViTFvlOX9A3KesPgqgt1) | 6:48 | 2022-05-25 | 2022-07-28 |
 | [Half Light of Dawn](https://open.spotify.com/track/58RJeiTXuurxd3MzLJJ28P) | [Abul Mogard](https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7) | [Circular Forms](https://open.spotify.com/album/0SvHo9qJFRL4GhNeIofWst) | 6:48 | 2022-05-25 | 2022-07-29 |
 | [Half Light of Dawn](https://open.spotify.com/track/7JvtQFXJOikRIcyQSr3azz) | [Abul Mogard](https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7) | [Circular Forms](https://open.spotify.com/album/4k4UMY26lPgkQnZKQFoZ6c) | 6:48 | 2022-07-08 |  |
-| [Hall of Judgement](https://open.spotify.com/track/03BFxsiPrJjV44ZXPwdksE) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 4:30 | 2022-05-25 |  |
+| [Hall of Judgement](https://open.spotify.com/track/03BFxsiPrJjV44ZXPwdksE) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 4:30 | 2022-05-25 | 2022-08-10 |
 | [Hidden Temple](https://open.spotify.com/track/2DwSppR5UkBHPFKLnxr65X) | [Vladzur](https://open.spotify.com/artist/4OmG0CBF0fwStw2Hfl3eM9) | [Anomalies](https://open.spotify.com/album/6Rbg5pnTLEXZkCTkB3E6TC) | 5:48 | 2022-05-25 | 2022-07-28 |
 | [Hope \- Roly Porter Remix](https://open.spotify.com/track/10hKUSqINYX3I0xrRw2Hob) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [One Hundred Billion Sparks Remixed](https://open.spotify.com/album/4OIZvVt94hWeqwaSuIz7Uh) | 6:21 | 2022-05-25 | 2022-07-25 |
 | [House of Mirrors](https://open.spotify.com/track/6a3ycdKnFJ5Kz4ceETBG2L) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Allegory of Allergies](https://open.spotify.com/album/4eFe4ZdFsQhPBnktKIRn3v) | 7:42 | 2022-05-25 | 2022-07-28 |
@@ -143,6 +143,7 @@
 | [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-05-25 | 2022-07-24 |
 | [The Look That Falls Upon Us Extends As If a Landform \- Remastered](https://open.spotify.com/track/6qR7UDfwNHj2NZjDX6hJ2i) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Sunlir \(Remastered\)](https://open.spotify.com/album/6FElkPlYYHMY2KkPSW9uqR) | 8:04 | 2022-07-01 | 2022-07-15 |
 | [The Sacrifice](https://open.spotify.com/track/1G2eapqHAjlEdmv9yFAMaQ) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [The Sacrifice](https://open.spotify.com/album/1uB9z63XmV3PRTK1wwr6dd) | 4:00 | 2022-05-25 | 2022-07-28 |
+| [The Sacrifice](https://open.spotify.com/track/4BEdj9G17kmBuElba6lShF) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [Blind Emperor](https://open.spotify.com/album/0HkYfpjWLP0WYIj0xNFJ0N) | 4:00 | 2022-07-08 |  |
 | [The Weight Of History](https://open.spotify.com/track/7a9u3Yk9hKzxa3lqBBbcXf) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 6:30 | 2022-05-25 | 2022-07-29 |
 | [Themes of Disobedience](https://open.spotify.com/track/4ru6UlcL6v9MneFu9ByxFD) | [Imre Kiss](https://open.spotify.com/artist/2AwKYu92FaDTlsoKDxTGzS) | [EXILES](https://open.spotify.com/album/2iqyvsEZcQL69PN9xycnuj) | 4:12 | 2022-05-25 | 2022-07-28 |
 | [Then a quick walk down the street](https://open.spotify.com/track/5NiqpQrxv2AHAJQV3lQzL2) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Then](https://open.spotify.com/album/0Nna3qZIrQrbGre4XWBslM) | 6:39 | 2022-06-17 | 2022-07-10 |

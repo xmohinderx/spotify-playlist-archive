@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-201 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
+202 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Chamber Of Reflection](https://open.spotify.com/track/1MJ5f5EYBC92ADD6xcz7nb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/1l9d1Zj9Iv2eOcdObVhdMy) | 3:51 | 2022-05-06 | 2022-07-20 |
 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2022-07-22 |  |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-05-06 | 2022-07-26 |
-| [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-07-22 |  |
+| [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-07-22 | 2022-08-10 |
 | [Chiquetere \(feat\. Rafa Villalba\)](https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [Chiquetere](https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6) | 2:43 | 2022-06-13 | 2022-07-28 |
 | [CICERENELLA](https://open.spotify.com/track/5YPPaiETBWl0uh22INkt56) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO II](https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ) | 5:22 | 2022-06-10 | 2022-07-29 |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2022-05-06 |  |
@@ -70,6 +70,7 @@
 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 | 2022-06-24 |  |
 | [DUE PUNTI PARENTESI](https://open.spotify.com/track/2eHWYDuQtme0a0nBmJn286) | [Demï](https://open.spotify.com/artist/7IwAuqqh9EUk6mlD9ZLFy0) | [DUE PUNTI PARENTESI](https://open.spotify.com/album/1UzynnhgvD247VCKQFIkVL) | 1:55 | 2022-06-24 | 2022-07-16 |
 | [Easy](https://open.spotify.com/track/5Tr0ol7vcovoGqotDfvkwB) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Easy](https://open.spotify.com/album/2tIsEywEdtGcrt5vj8hF8C) | 3:15 | 2022-06-21 | 2022-07-26 |
+| [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-08-09 |  |
 | [Essere Pelati](https://open.spotify.com/track/41cLnOB2fWQOs8m3CfXuqR) | [Garage Gang](https://open.spotify.com/artist/0nVylSfYAbjeETmI5FbRyM), [Aegeminus](https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN) | [Boomer Remover](https://open.spotify.com/album/5ZNIg3GIa9sRLMg7wmrPI5) | 3:49 | 2022-05-06 | 2022-07-20 |
 | [Estate](https://open.spotify.com/track/3BbLfgcR9pM3LZxAhizjR0) | [Lil Angel$](https://open.spotify.com/artist/6IQRYBzfChxRdujgZIyJIa) | [Estate](https://open.spotify.com/album/0ZpzUCCjh4vfzWYfNAVVLv) | 5:05 | 2022-06-13 | 2022-06-18 |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-05-13 | 2022-05-18 |

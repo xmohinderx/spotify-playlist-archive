@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-252 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+253 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Seaglass](https://open.spotify.com/track/0TUHrs2GSO8pqsdcq9uPNB) | [Hitori](https://open.spotify.com/artist/1BLxupu4NPracLOtvGHYbl) | [Seaglass](https://open.spotify.com/album/2c3WuMTZC67KCwgVcgqjr9) | 2:56 | 2022-06-17 |  |
 | [Second Chance](https://open.spotify.com/track/3a4s94tLNo2BCh6R3k9i07) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Moetown](https://open.spotify.com/artist/62j9JVhnSbDgA6ADHCBNPz) | [Second Chance](https://open.spotify.com/album/6vdYrqjeH5FhNkNOsKQwHs) | 2:04 | 2022-05-20 |  |
 | [Sensou \- Sleep Lofi](https://open.spotify.com/track/7ErI47g0p9FFnLGVhPOmvl) | [Kato](https://open.spotify.com/artist/3yTNaLgtCufxUYDsWa5MpA) | [Sensou \(Sleep Lofi\)](https://open.spotify.com/album/40LyiDymUu0TRDbwRwBeZL) | 1:21 | 2022-06-24 | 2022-07-15 |
-| [Shelter From The Rain](https://open.spotify.com/track/6uP0aj1IEsSN6M8Je3BCp2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L), [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [Shelter From The Rain](https://open.spotify.com/album/27kIzp2mhfvTRtFU0UDUwA) | 3:15 | 2022-06-17 |  |
+| [Shelter From The Rain](https://open.spotify.com/track/6uP0aj1IEsSN6M8Je3BCp2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L), [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [Shelter From The Rain](https://open.spotify.com/album/27kIzp2mhfvTRtFU0UDUwA) | 3:15 | 2022-06-17 | 2022-08-10 |
+| [Shelter In The Rain](https://open.spotify.com/track/5U2d7j8LzQwrVY8KvEBKhp) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L), [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [Shelter In The Rain](https://open.spotify.com/album/3qCyOFiIubZpFUbVc6cBnE) | 3:15 | 2022-08-05 |  |
 | [Sierra](https://open.spotify.com/track/1R5Oz0TO2zySLac0BMtzqn) | [oxinym](https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3) | [Sierra](https://open.spotify.com/album/4ofljCToMl7wVg6KPmA2IN) | 2:08 | 2022-08-05 |  |
 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 | 2022-05-20 |  |
 | [Sincere](https://open.spotify.com/track/3Kx9kmgg2iM4Fv84VllkJm) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47) | [Sincere](https://open.spotify.com/album/1i6oUKGKalSNKdLwNchOCl) | 2:11 | 2022-07-08 |  |

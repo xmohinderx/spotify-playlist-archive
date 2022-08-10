@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-192 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/1BjnPhemiZQgRsPsVy0WZP)
+194 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/1BjnPhemiZQgRsPsVy0WZP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 | 2022-07-08 |  |
 | [Emptiness in Memory](https://open.spotify.com/track/1YZLHAjxsXujbeQj6DkvgR) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Sound Doctrine](https://open.spotify.com/album/1ubAHHLocrHi2DnH3fg0gm) | 4:41 | 2022-05-11 | 2022-07-29 |
 | [empty \(With Boramiyu\)](https://open.spotify.com/track/111N35rXgqbERCu9lMpnou) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo) | 3:35 | 2022-06-20 | 2022-07-29 |
-| [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 | 2022-05-11 |  |
+| [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 | 2022-05-11 | 2022-08-10 |
 | [Ending Credit](https://open.spotify.com/track/2UMOOpEOKijO1n9HM3QIxx) | [Cotton Factory](https://open.spotify.com/artist/7qIgqm73XtRCwUenXiSnoE) | [Ending Credit](https://open.spotify.com/album/7n3JHIBZnKS51l2lYMGiyw) | 4:26 | 2022-05-11 | 2022-06-26 |
 | [Ending Scene](https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:09 | 2022-05-11 |  |
 | [Endlessly \(Prod\. SonIsaac\)](https://open.spotify.com/track/3CveBxz6yDXJAqQpeBjJDT) | [Choi Hyun Joon](https://open.spotify.com/artist/51Ch5o1UA1jHPQhzapDemW) | [DUSK, Diary Project Part\. 1](https://open.spotify.com/album/0jFl084uXUYSYsy9EQTuvl) | 4:03 | 2022-07-08 | 2022-07-16 |
@@ -102,6 +102,7 @@
 | [Just for a moment](https://open.spotify.com/track/0V7elfOc7DP0R0sOswnPsD) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/026uWhfvMFjZyNEF6p0GBs) | 4:32 | 2022-05-11 | 2022-06-08 |
 | [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 | 2022-07-08 |  |
 | [Just Friends 욕심](https://open.spotify.com/track/7qJ7KO2ClL5EHZyITBZBl1) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends 욕심](https://open.spotify.com/album/7LavsevvLKMEUrFOl42SXl) | 4:00 | 2022-05-11 | 2022-07-28 |
+| [Last Goodbye](https://open.spotify.com/track/0GGTcdfOMfP26Vc7z5GJsS) | [Choi jin soul](https://open.spotify.com/artist/52m9oodSHzgqZPhKucw0al) | [The first glance \(Original Television Soundtrack\) \(O'PENing\)](https://open.spotify.com/album/55BHWWpnvOki4ErfJ9EA8v) | 4:00 | 2022-08-09 |  |
 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 | 2022-05-11 |  |
 | [Let\`s never meet again](https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Once again OST Part 1](https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR) | 3:36 | 2022-05-11 | 2022-07-27 |
 | [Letter](https://open.spotify.com/track/2EfLLopFkhKx31PqzrtWWt) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Letter](https://open.spotify.com/album/3PitIQHJIId7Mn0kSPXubF) | 4:06 | 2022-05-11 | 2022-07-27 |
@@ -166,9 +167,10 @@
 | [The Art Of Farewell \(feat\. Hyelyn\)](https://open.spotify.com/track/4SsdS2qbyy2JRH1sNSanO4) | [MUSM](https://open.spotify.com/artist/7uT444qheRWiJsA0EGvXFh), [Hyelyn](https://open.spotify.com/artist/3AUu7kGxxt4tatQ5jNfm3L) | [MUSM, op\. 3](https://open.spotify.com/album/3IdhQk1jtUpHRJxpD2vPwR) | 4:02 | 2022-05-11 | 2022-06-07 |
 | [The day it rained](https://open.spotify.com/track/5h0hHh69n5unMxpEczoGYW) | [원종혁](https://open.spotify.com/artist/73zQMIVSjWRopbzmvfq26V) | [The day it raineded](https://open.spotify.com/album/45VFPh5qH7s0GMMO14IeAF) | 4:14 | 2022-05-11 | 2022-07-24 |
 | [The day was beautiful](https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The day was beautiful](https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF) | 3:55 | 2022-05-11 |  |
-| [The fact that we broke up \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/4PIJlapmFh8ZXCpKPvdLlU) | [Dawn window](https://open.spotify.com/artist/5nIoYbALPbBGdyajpNGqTm), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [The fact that we broke up](https://open.spotify.com/album/3e00wKIxPpDz6ROLp6wTDP) | 3:49 | 2022-06-20 |  |
+| [The fact that we broke up \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/4PIJlapmFh8ZXCpKPvdLlU) | [Dawn window](https://open.spotify.com/artist/5nIoYbALPbBGdyajpNGqTm), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [The fact that we broke up](https://open.spotify.com/album/3e00wKIxPpDz6ROLp6wTDP) | 3:49 | 2022-06-20 | 2022-08-10 |
 | [The Hardest Part](https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [The Hardest Part](https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY) | 4:18 | 2022-07-08 |  |
 | [The Hardest Part](https://open.spotify.com/track/6m2mG267Dck8xcEmUPrEAt) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [The Hardest Part](https://open.spotify.com/album/1kjaqaxbXPiLuFNTCIdJCa) | 4:18 | 2022-05-11 | 2022-07-25 |
+| [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 | 2022-08-09 |  |
 | [The night I drew you](https://open.spotify.com/track/27eU3lE6mbGK0GKqhypHH0) | [Youth Library](https://open.spotify.com/artist/5dXZbHN0uyD3Ds6lnJW1uF), [YAEBIN](https://open.spotify.com/artist/1NmZh9t8XzyL3gk2rRUojp) | [Youth Library EP.7](https://open.spotify.com/album/0TfiyUqKOxNm3ysgBEzc2r) | 4:26 | 2022-05-11 | 2022-07-25 |
 | [The Road](https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:15 | 2022-05-11 |  |
 | [The Snowman](https://open.spotify.com/track/5QBOylNG7y0dob40NZxF9p) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/2jb2k5LTycuATa7UjogpPg) | 3:56 | 2022-05-11 | 2022-07-29 |

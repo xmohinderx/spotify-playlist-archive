@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-150 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+151 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Pacific](https://open.spotify.com/track/6sRfy2yk9S1lANwfahVDJx) | [Chase Petra](https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3) | [Pacific](https://open.spotify.com/album/4m6flSORd5ArtoR4HDEae5) | 3:16 | 2022-05-17 |  |
 | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC) | [Kaden MacKay](https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x) | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/album/6mTcEL6EVR3bN1WO6obNz2) | 3:13 | 2022-05-17 |  |
 | [People Eater](https://open.spotify.com/track/1Sv71cSqfQLuzdPZlzb6QH) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [People Eater](https://open.spotify.com/album/54dJtwRtbMWK0poaUXYgIi) | 1:36 | 2022-05-17 | 2022-06-02 |
-| [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2022-06-03 |  |
+| [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2022-06-03 | 2022-08-10 |
+| [Perfume](https://open.spotify.com/track/4OJC6NJCMyvjX0pENJhSrL) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:27 | 2022-08-05 |  |
 | [Person in the Mirror](https://open.spotify.com/track/4L6mbkUpy4bmbeOQmw4hXu) | [Naethan Apollo](https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi) | [Person in the Mirror](https://open.spotify.com/album/3xypvFTyaBdnGjwTwc1iSg) | 1:11 | 2022-07-12 |  |
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-05-17 | 2022-06-02 |
 | [prom](https://open.spotify.com/track/1EtWJJbvPfmNsVDGOhTtSG) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [prom](https://open.spotify.com/album/3hsaSidYs7NWEn0c2ncIDA) | 3:20 | 2022-05-17 | 2022-08-06 |

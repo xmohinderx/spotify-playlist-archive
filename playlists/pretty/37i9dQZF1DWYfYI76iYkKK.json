@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 108160,
+  "num_followers": 108201,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTkzMDczMSwwMDAwMDAwMDBlZTQwYTZjOTc3Y2NlN2E4YzFmNzM0ODA4ZDJlOTFm",
+  "snapshot_id": "MTY1OTkzMDczMSwwMDAwMDAwMDI0Y2EyMTI3MjljMjM1ZGQxMjJmNGU1ZWZjMWE5OWZl",
   "tracks": [
     {
       "added_at": "2022-08-08 03:52:11",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-08-08 03:52:11",
       "album": {
-        "name": "\u504f\u504f\u6211\u537b\u90fd\u8a18\u5f97",
-        "url": "https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5"
+        "name": "\u6700\u597d\u7684\u6642\u5149",
+        "url": "https://open.spotify.com/album/6C05yqffaG1dElVIqOlcAn"
       },
       "artists": [
         {
-          "name": "Eve Ai",
-          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+          "name": "\u5b89\u6ea5",
+          "url": "https://open.spotify.com/artist/61IjTPLPTZSlgpKpgBoeQC"
         }
       ],
-      "duration_ms": 287010,
-      "name": "\u6211\u591a\u60f3\u8b8a\u6210\u5979",
-      "url": "https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz"
+      "duration_ms": 235716,
+      "name": "\u6700\u597d\u7684\u6642\u5149",
+      "url": "https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup"
     },
     {
       "added_at": "2022-08-08 03:52:11",
@@ -263,6 +263,22 @@
       "duration_ms": 301666,
       "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
       "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
+    },
+    {
+      "added_at": "2022-08-08 03:52:11",
+      "album": {
+        "name": "\u504f\u504f\u6211\u537b\u90fd\u8a18\u5f97",
+        "url": "https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5"
+      },
+      "artists": [
+        {
+          "name": "Eve Ai",
+          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+        }
+      ],
+      "duration_ms": 287010,
+      "name": "\u6211\u591a\u60f3\u8b8a\u6210\u5979",
+      "url": "https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz"
     },
     {
       "added_at": "2022-08-08 03:52:11",
@@ -331,22 +347,6 @@
       "duration_ms": 216450,
       "name": "\u592a\u967d\u96e8",
       "url": "https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G"
-    },
-    {
-      "added_at": "2022-08-08 03:52:11",
-      "album": {
-        "name": "\u6700\u597d\u7684\u6642\u5149",
-        "url": "https://open.spotify.com/album/6C05yqffaG1dElVIqOlcAn"
-      },
-      "artists": [
-        {
-          "name": "\u5b89\u6ea5",
-          "url": "https://open.spotify.com/artist/61IjTPLPTZSlgpKpgBoeQC"
-        }
-      ],
-      "duration_ms": 235716,
-      "name": "\u6700\u597d\u7684\u6642\u5149",
-      "url": "https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup"
     },
     {
       "added_at": "2022-08-08 03:52:11",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-08-08 03:52:11",
       "album": {
-        "name": "\u96db\u5f62",
-        "url": "https://open.spotify.com/album/6sP1HwzA0iqkGjoroBgog4"
-      },
-      "artists": [
-        {
-          "name": "LaLa Hsu",
-          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
-        }
-      ],
-      "duration_ms": 239832,
-      "name": "\u96db\u5f62",
-      "url": "https://open.spotify.com/track/3mrkmWt803vSvGxTlW27YI"
-    },
-    {
-      "added_at": "2022-08-08 03:52:11",
-      "album": {
         "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
         "url": "https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2022-08-08 03:52:11",
       "album": {
+        "name": "\u96db\u5f62",
+        "url": "https://open.spotify.com/album/6sP1HwzA0iqkGjoroBgog4"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "duration_ms": 239832,
+      "name": "\u96db\u5f62",
+      "url": "https://open.spotify.com/track/3mrkmWt803vSvGxTlW27YI"
+    },
+    {
+      "added_at": "2022-08-08 03:52:11",
+      "album": {
         "name": "\u88dd\u5e40",
         "url": "https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 270227,
       "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
       "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
+    },
+    {
+      "added_at": "2022-08-08 03:52:11",
+      "album": {
+        "name": "\u660e\u5929\u518d\u898b",
+        "url": "https://open.spotify.com/album/1qcnrw6fl5BkdSkd5MNfhx"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 202671,
+      "name": "\u660e\u5929\u518d\u898b",
+      "url": "https://open.spotify.com/track/6B80NMNDIYyA1YbiefVsSE"
     },
     {
       "added_at": "2022-08-08 03:52:11",
@@ -803,22 +819,6 @@
       "duration_ms": 325339,
       "name": "\u611b\u904e\u7684\u4eba",
       "url": "https://open.spotify.com/track/7EIYJLVmsUmmbq40SugYsk"
-    },
-    {
-      "added_at": "2022-08-08 03:52:11",
-      "album": {
-        "name": "\u9918\u984d",
-        "url": "https://open.spotify.com/album/6lVSxyo78hu9I5lEyKiU0L"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 212875,
-      "name": "\u9918\u984d",
-      "url": "https://open.spotify.com/track/1sd6CcDwuxcXXbcnqcuONx"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: SALES",
-  "num_followers": 1024229,
+  "num_followers": 1024440,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY4NjEzNCwwMDAwMDAwMDU4MjI4ZDQwYWFlZDI5NWQxY2ZkODNkNzEzYWZhZTMw",
+  "snapshot_id": "MTY1NjY4NjEzNCwwMDAwMDAwMGE0NjJiZjExZmIwMTZjODZkNGZhODc4MmU4NzM3ZTJk",
   "tracks": [
     {
       "added_at": "2021-10-14 22:02:43",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
     },
     {
-      "added_at": "2021-04-28 15:39:47",
-      "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Honey, No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
-    },
-    {
       "added_at": "2021-05-01 00:08:47",
       "album": {
         "name": "Looking Back",
@@ -895,6 +879,22 @@
       "duration_ms": 176751,
       "name": "Amtrak",
       "url": "https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z"
+    },
+    {
+      "added_at": "2021-04-28 15:39:47",
+      "album": {
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Honey, No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
     },
     {
       "added_at": "2021-09-10 20:10:10",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
     },
     {
-      "added_at": "2021-06-04 04:00:00",
-      "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
-    },
-    {
       "added_at": "2021-09-01 18:53:42",
       "album": {
         "name": "Untourable Album",
@@ -977,20 +961,20 @@
       "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
     },
     {
-      "added_at": "2021-02-27 16:02:07",
+      "added_at": "2021-06-04 04:00:00",
       "album": {
-        "name": "Prune, You Talk Funny",
-        "url": "https://open.spotify.com/album/7GRC1eaEDxAYaBXEV6TKoj"
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
         }
       ],
-      "duration_ms": 212701,
-      "name": "Prune, You Talk Funny",
-      "url": "https://open.spotify.com/track/6KKHXbJtnJPjla3V49YPac"
+      "duration_ms": 142000,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -1011,6 +995,22 @@
     {
       "added_at": "2021-02-27 16:02:07",
       "album": {
+        "name": "Prune, You Talk Funny",
+        "url": "https://open.spotify.com/album/7GRC1eaEDxAYaBXEV6TKoj"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 212701,
+      "name": "Prune, You Talk Funny",
+      "url": "https://open.spotify.com/track/6KKHXbJtnJPjla3V49YPac"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
         "name": "Lately EP",
         "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-02-27 16:02:07",
       "album": {
-        "name": "My Own Person",
-        "url": "https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 264873,
-      "name": "My Own Person",
-      "url": "https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 236893,
       "name": "Never Had The Balls",
       "url": "https://open.spotify.com/track/5h68UTytwmTJDwoGbqLwzV"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "My Own Person",
+        "url": "https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 264873,
+      "name": "My Own Person",
+      "url": "https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH"
     },
     {
       "added_at": "2022-05-16 14:37:31",
@@ -1105,24 +1105,20 @@
       "url": "https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS"
     },
     {
-      "added_at": "2022-03-04 17:18:32",
+      "added_at": "2021-02-27 16:02:07",
       "album": {
-        "name": "La Novela",
-        "url": "https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY"
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
         }
       ],
-      "duration_ms": 291750,
-      "name": "La Novela",
-      "url": "https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG"
+      "duration_ms": 156342,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -1141,20 +1137,24 @@
       "url": "https://open.spotify.com/track/2ymdaqbPPMSpp6FMT7Tf0T"
     },
     {
-      "added_at": "2021-02-27 16:02:07",
+      "added_at": "2022-03-04 17:18:32",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
+        "name": "La Novela",
+        "url": "https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY"
       },
       "artists": [
         {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 156342,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
+      "duration_ms": 291750,
+      "name": "La Novela",
+      "url": "https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG"
     },
     {
       "added_at": "2021-07-19 15:56:04",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/4JYJU761kWJEK91hyug33F"
     },
     {
-      "added_at": "2021-08-27 20:55:21",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 154115,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u"
-    },
-    {
       "added_at": "2022-03-04 17:18:32",
       "album": {
         "name": "beachin",
@@ -1271,6 +1255,22 @@
       "duration_ms": 194568,
       "name": "beachin",
       "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
+    },
+    {
+      "added_at": "2021-08-27 20:55:21",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 154115,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u"
     },
     {
       "added_at": "2022-03-04 17:18:32",
@@ -1385,6 +1385,22 @@
       "url": "https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY"
     },
     {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 93871,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
+    },
+    {
       "added_at": "2021-03-26 19:23:14",
       "album": {
         "name": "I Just Wanna",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2021-02-27 16:02:07",
       "album": {
-        "name": "Cotton Candy",
-        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 93871,
-      "name": "Cotton Candy",
-      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
         "name": "SUMMER GIRL",
         "url": "https://open.spotify.com/album/6qGinm5pwGdYnvcR4e2SUC"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 168384,
       "name": "SUMMER GIRL",
       "url": "https://open.spotify.com/track/7Ivlg6WEcmRLCqO32ZhfGd"
-    },
-    {
-      "added_at": "2021-07-19 15:56:04",
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -1463,6 +1447,22 @@
       "duration_ms": 100750,
       "name": "kissing girls",
       "url": "https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf"
+    },
+    {
+      "added_at": "2021-07-19 15:56:04",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
     },
     {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
-    },
-    {
       "added_at": "2022-03-04 17:18:32",
       "album": {
         "name": "Moonlight/Rare",
@@ -1607,6 +1591,22 @@
       "duration_ms": 184000,
       "name": "Rare",
       "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
       "added_at": "2021-10-29 19:49:36",
@@ -1709,38 +1709,6 @@
       "url": "https://open.spotify.com/track/7uKoqhOj7sfF1GowMuAc6I"
     },
     {
-      "added_at": "2021-09-10 20:10:10",
-      "album": {
-        "name": "friends or not",
-        "url": "https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "friends or not",
-      "url": "https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs"
-    },
-    {
-      "added_at": "2021-03-26 19:23:14",
-      "album": {
-        "name": "Looking Back",
-        "url": "https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 235667,
-      "name": "It's Got To Be You",
-      "url": "https://open.spotify.com/track/3EytmMZxK0woRgbh2NxenS"
-    },
-    {
       "added_at": "2021-11-19 18:32:59",
       "album": {
         "name": "MESS U MADE",
@@ -1757,6 +1725,22 @@
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
     },
     {
+      "added_at": "2021-09-10 20:10:10",
+      "album": {
+        "name": "friends or not",
+        "url": "https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "friends or not",
+      "url": "https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs"
+    },
+    {
       "added_at": "2021-08-27 20:55:21",
       "album": {
         "name": "Satellite",
@@ -1771,6 +1755,22 @@
       "duration_ms": 191505,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0kjRlBI8YIxDQKrP7PrZr4"
+    },
+    {
+      "added_at": "2021-03-26 19:23:14",
+      "album": {
+        "name": "Looking Back",
+        "url": "https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 235667,
+      "name": "It's Got To Be You",
+      "url": "https://open.spotify.com/track/3EytmMZxK0woRgbh2NxenS"
     },
     {
       "added_at": "2021-09-10 20:10:10",

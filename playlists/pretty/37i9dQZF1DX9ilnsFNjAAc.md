@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,583 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,607 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 53 | [The Drip](https://open.spotify.com/track/65Ub39ZeqI2Ybad13gNJTS) | [Identified Patient](https://open.spotify.com/artist/7f8YjXIXYXMDWaYCICYUUD), [Sophie du Palais](https://open.spotify.com/artist/35bmpfYBO4XTtt4HOmIJ7I) | [Signals in Snakes](https://open.spotify.com/album/2afYDJCjgBlbNmO5vmqCmo) | 5:59 |
 | 54 | [Black Dragons](https://open.spotify.com/track/3hkaTxcPol9mojh5NupAT3) | [Rabit](https://open.spotify.com/artist/2X3e2rDdxibDfJGv0CwS7A), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Black Dragons](https://open.spotify.com/album/0eJF1w6vSoYGLahJ1tyjFv) | 3:05 |
 | 55 | [Mimetic](https://open.spotify.com/track/6jtNPGYjvuUN0cWXjuAk5a) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX) | [Rogue Intruder, Soul Enhancer](https://open.spotify.com/album/5GDLaN1HaXPTAx16UYZAvZ) | 5:34 |
-| 56 | [Still Life](https://open.spotify.com/track/53Wta9OG7OLpXEQX17J9ak) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Still Life](https://open.spotify.com/album/744Npwd50fQXBiiZZFCar1) | 4:26 |
+| 56 | [Still Life](https://open.spotify.com/track/6YV2ZpwYd6w1mXPvKgSJUR) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Still Life](https://open.spotify.com/album/2v3WKTcGhKCXhok9uFoQqb) | 4:26 |
 | 57 | [Going Modd](https://open.spotify.com/track/7yzSIvMahNSLwvgwqV3p21) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Epic B](https://open.spotify.com/artist/6xY8OHC6hKe0hCheJvIUNz) | [Going Modd](https://open.spotify.com/album/2KYHSDryMLYVclmNthRcl6) | 3:05 |
 | 58 | [Stingray Shuffle](https://open.spotify.com/track/0NRQU03YgYNli44FANtQDN) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/7JsfdXH01XsWF2uVqvpPOk) | 2:43 |
 | 59 | [Harbinger](https://open.spotify.com/track/3smLcr5e84zq10h2LXByED) | [Alec Ness](https://open.spotify.com/artist/3qIOkb1528LbR4UIwJefsr) | [Temporary Awareness of Passing](https://open.spotify.com/album/1Or89jf0Su8WpBINgkvVLI) | 3:07 |
 | 60 | [Alucard](https://open.spotify.com/track/2ibgB5zU0EGIh1x7JM8AMD) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [Alucard](https://open.spotify.com/album/0KlEXfI6QhODTsxKdSjrl4) | 5:12 |
 
-Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMDI2ZWQwNjk3OWE2YTViMDZhMGEyNGMwNjhkYTBjNDI1`
+Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMDVhZDQyOWEwY2IxYTg1NjA1ZTVhNDc3OTBiMDVjODcw`

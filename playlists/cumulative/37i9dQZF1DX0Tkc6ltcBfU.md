@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: EST Gee
 
-354 songs - 16 hr 55 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
+355 songs - 16 hr 58 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Hard To Sleep](https://open.spotify.com/track/2We63UGhJEyD2x4n74jwpa) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Khaza](https://open.spotify.com/album/5ob4kF4KkXFDqC5ysCdCV8) | 2:24 | 2022-06-17 | 2022-07-30 |
 | [HIT](https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [HIT](https://open.spotify.com/album/03ckoZhTfbWybngUkIHqWv) | 2:05 | 2022-01-21 | 2022-02-19 |
 | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12) | 3:41 | 2022-04-22 | 2022-07-23 |
-| [Holy Spirit](https://open.spotify.com/track/6UmbEhrCtEHtUGcIBYoegg) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Holy Spirit](https://open.spotify.com/album/6OpBXPTvTiBwyaS9C4Z50d) | 3:09 | 2022-07-15 |  |
+| [Holy Spirit](https://open.spotify.com/track/5Br0IdRT5uRmKCckyr4juy) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Vibe Forever](https://open.spotify.com/album/5ZrM0Brv8XBs3XVHfkd6bk) | 3:09 | 2022-07-15 |  |
+| [Holy Spirit](https://open.spotify.com/track/6UmbEhrCtEHtUGcIBYoegg) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Holy Spirit](https://open.spotify.com/album/6OpBXPTvTiBwyaS9C4Z50d) | 3:09 | 2022-07-15 | 2022-08-10 |
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-02-18 | 2022-05-14 |
 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 | 2022-08-05 |  |
 | [Home Alone](https://open.spotify.com/track/1AOFIqezViAzT4EahxhRAd) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Home Alone](https://open.spotify.com/album/2PkeFYM57aVrVXKqKy0BWa) | 2:53 | 2022-01-21 | 2022-03-05 |

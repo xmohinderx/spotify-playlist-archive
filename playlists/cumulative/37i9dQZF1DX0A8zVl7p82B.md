@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Kelly Clarkson
 
-196 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/1cWqFYI6ySnzsyIBE6xMhO)
+197 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/1cWqFYI6ySnzsyIBE6xMhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Can You See \- Spotify Singles \- Holiday, Recorded at Spotify Studios NYC](https://open.spotify.com/track/6lIob2DRkcnjrymZN1QqU7) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Can You See \(Spotify Singles \- Holiday, Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/5a4CYbT8UXzcHfYDhW5aOy) | 4:02 | 2021-12-24 |  |
 | [Carol Of The Bells \- Spotify Singles Holiday](https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Carol Of The Bells \(Spotify Singles Holiday\)](https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY) | 1:42 | 2021-12-24 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 | 2021-12-24 |  |
-| [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 | 2021-12-24 |  |
+| [Christmas All Over Again](https://open.spotify.com/track/1lVzU7SrUtTc7F1EpKqhEa) | [Tom Petty And The Heartbreakers](https://open.spotify.com/artist/6mBLihWcj51NU67NgevOyW) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/3LPghlMCICkwGHz3ab7U8R) | 4:13 | 2021-12-24 |  |
+| [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 | 2021-12-24 | 2022-08-10 |
 | [Christmas All Over Again](https://open.spotify.com/track/1Bp6G88oEaskTIu0KNkF8o) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Four Christmases](https://open.spotify.com/album/7mBYONx7aIDvzevYOfsXJT) | 4:15 | 2021-12-24 | 2022-07-29 |
 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:06 | 2021-12-24 |  |
 | [Christmas Cookies](https://open.spotify.com/track/17WiZpPdtx4UaeUXjQOoDz) | [Emmi Elliott](https://open.spotify.com/artist/62oCSE7lShkspceh6yof92) | [Christmas Cookies](https://open.spotify.com/album/3PmCeRDgRz4NGmwLFAliJN) | 2:26 | 2021-12-24 |  |

@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: Herencia de Patrones
 
-233 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
+234 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [El Mando](https://open.spotify.com/track/6Zeams0oSJ5cxadvaXGT1O) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mando](https://open.spotify.com/album/1JNCWDC8UEJAjXz8vZ05mQ) | 3:37 | 2022-06-10 |  |
 | [El Muchacho Criticado](https://open.spotify.com/track/1Sy1tRL4ZahrECTitUFPXJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Los de La Lira](https://open.spotify.com/artist/3LfNPEkj2YjpkmAbY5CKhW) | [El Muchacho Criticado](https://open.spotify.com/album/0kQG1vhXQXehzRil28L26b) | 3:16 | 2022-06-17 |  |
 | [El Operativo](https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Entre Los Grandes](https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK) | 3:01 | 2022-05-13 | 2022-07-29 |
-| [El P1 Mentado](https://open.spotify.com/track/5eFUfgbfDQQl4n9Yc71lsQ) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [El P1 Mentado](https://open.spotify.com/album/12OHLObb5MgwucTWF6igSd) | 3:03 | 2022-05-13 |  |
+| [El P1 Mentado](https://open.spotify.com/track/5eFUfgbfDQQl4n9Yc71lsQ) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [El P1 Mentado](https://open.spotify.com/album/12OHLObb5MgwucTWF6igSd) | 3:03 | 2022-05-13 | 2022-08-10 |
+| [El P1 Mentado](https://open.spotify.com/track/4My2aKekUOLvml0YpPrEhq) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [El P1 Mentado](https://open.spotify.com/album/1ItHbyzbCsnjGu7s0AugXn) | 3:04 | 2022-08-05 |  |
 | [El Paletero](https://open.spotify.com/track/7i59lkJnUfuj3zVkHllttQ) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Paletero](https://open.spotify.com/album/6QcIkNSWU9o9pTBMnm4goh) | 2:56 | 2022-05-13 |  |
 | [El Pata](https://open.spotify.com/track/0vZ7HkpXPwnFbyMj5CD478) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Pata](https://open.spotify.com/album/2qRxzGDSGQhV5ukZaykWvr) | 2:23 | 2022-05-13 |  |
 | [El Piyi](https://open.spotify.com/track/5KjBaGZIszO9tpGTRB1mm2) | [Alta Autoridad](https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB) | [El Piyi](https://open.spotify.com/album/2ivT6bwCAYwa61GlEqTiuq) | 2:42 | 2022-05-27 |  |

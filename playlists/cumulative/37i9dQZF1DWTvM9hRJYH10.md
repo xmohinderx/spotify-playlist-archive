@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Megan Moroney
 
-210 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+211 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Old School Love](https://open.spotify.com/track/0pZTEmnD9xSpaVZVRSCYFZ) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Old School Love](https://open.spotify.com/album/5rWIkYxlGTNVRMIp2WuhHr) | 3:09 | 2022-02-18 |  |
 | [Older](https://open.spotify.com/track/5rjCjdmozegmHzswgh8DgP) | [Caleb Lovely](https://open.spotify.com/artist/588OniOrJFEKU5hWUDJ6V7) | [Older](https://open.spotify.com/album/5LOrHZhIqtiT7RbjWqoxTZ) | 3:31 | 2021-12-31 | 2022-01-22 |
 | [One Girl To Another](https://open.spotify.com/track/6P5B6KUAYlAfHyJmkmrFpf) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [One Girl To Another](https://open.spotify.com/album/6v70eBRRGOT2GHLbSBxedx) | 2:56 | 2022-07-01 |  |
-| [One Percent](https://open.spotify.com/track/79vB0nrWECOICS6byaQODr) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent](https://open.spotify.com/album/4QPCf7gH9NsJVMKaQftX6I) | 3:31 | 2021-12-31 |  |
+| [One Percent](https://open.spotify.com/track/20PQQX3nfdCWPhGr92PUM3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent](https://open.spotify.com/album/7cfezNu3BKU8aTdhz3vP4i) | 3:31 | 2022-08-01 |  |
+| [One Percent](https://open.spotify.com/track/79vB0nrWECOICS6byaQODr) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent](https://open.spotify.com/album/4QPCf7gH9NsJVMKaQftX6I) | 3:31 | 2021-12-31 | 2022-08-10 |
 | [Out of That Memory](https://open.spotify.com/track/1jg2kF8lorLHICXD2vwZjI) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Out of That Memory](https://open.spotify.com/album/15fAc3aWRijNYBEiP2J80K) | 3:14 | 2022-02-11 |  |
 | [Over Me](https://open.spotify.com/track/0jXKRePIfoF4Cx85AySGv0) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Over Me](https://open.spotify.com/album/4cbl9hNkpawd8VCyGe8IiB) | 3:25 | 2022-02-11 |  |
 | [Phoenix](https://open.spotify.com/track/0jPfIZjJwNQ2kIJo9ud0c2) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Phoenix](https://open.spotify.com/album/0HFuOIg1YEfWUuL3retuGf) | 2:55 | 2022-01-21 | 2022-05-28 |

@@ -4,7 +4,7 @@
 
 > Escuchá la banda de sonido de La Serie.
 
-60 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/5t0ADaneMsPzHagGYtx1HJ)
+61 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/5t0ADaneMsPzHagGYtx1HJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,9 +29,10 @@
 | [Dulce condena](https://open.spotify.com/track/61X9MrPozPv0V0WbX9ACUX) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Sin Documentos](https://open.spotify.com/album/1o4bpii08vZJWZUAmn6H1t) | 4:41 | 2020-09-18 |  |
 | [Día Feliz](https://open.spotify.com/track/5ZQgG2eYjGmqxWJMiJauVP) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:48 | 2020-09-18 |  |
 | [El 38](https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 2:29 | 2020-09-18 | 2022-07-29 |
-| [El 38](https://open.spotify.com/track/2qLmEdr1UoLetZUjPgSB9X) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [ROCK PESADO vol\. I](https://open.spotify.com/album/7raMr2V1jKqLN2c6sJZuGs) | 2:29 | 2020-09-18 |  |
-| [El 38](https://open.spotify.com/track/5Ywzb69fz015zVnTFMY22i) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Sin Roll no hay ROCK](https://open.spotify.com/album/0QHlimvlC1tLuERJYZJ3I2) | 2:29 | 2020-09-18 | 2022-08-01 |
-| [El Final Es En Donde Partí](https://open.spotify.com/track/3QVG9ezfGM2M4falJMZPpT) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Rockea Argentina](https://open.spotify.com/album/4Bc5A73Edp881CmU2WPsPj) | 4:36 | 2020-09-18 |  |
+| [El 38](https://open.spotify.com/track/2qLmEdr1UoLetZUjPgSB9X) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [ROCK PESADO vol\. I](https://open.spotify.com/album/7raMr2V1jKqLN2c6sJZuGs) | 2:29 | 2020-09-18 | 2022-08-10 |
+| [El 38](https://open.spotify.com/track/5Ywzb69fz015zVnTFMY22i) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Sin Roll no hay ROCK](https://open.spotify.com/album/0QHlimvlC1tLuERJYZJ3I2) | 2:29 | 2020-09-18 |  |
+| [El Final Es En Donde Partí](https://open.spotify.com/track/3QVG9ezfGM2M4falJMZPpT) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Rockea Argentina](https://open.spotify.com/album/4Bc5A73Edp881CmU2WPsPj) | 4:36 | 2020-09-18 | 2022-08-10 |
+| [El Final Es En Donde Partí](https://open.spotify.com/track/5aKMTFv6hkPfn5WwwR78Kg) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Pogo ROCK](https://open.spotify.com/album/4ETtOUHfTO2NJ70oaNLXIu) | 4:36 | 2020-09-18 |  |
 | [El Final Es En Donde Partí](https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:36 | 2020-09-18 | 2022-07-29 |
 | [El Ojo Blindado](https://open.spotify.com/track/5L0oNcUAPW4zFLBekccycM) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 2:14 | 2020-09-18 |  |
 | [El regreso](https://open.spotify.com/track/3jW0FwFsOG2zJIH0a3Nhs6) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [YACANTO](https://open.spotify.com/album/49f97tJOF5ZKTseAVoyKSR) | 5:23 | 2020-09-18 |  |

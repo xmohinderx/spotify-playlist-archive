@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Brray.",
-  "num_followers": 107904,
+  "num_followers": 107975,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ1OTY4NywwMDAwMDAwMDVhMDE3MWRiMWExMjIxNzY4M2FjY2I3YzQ3MDQ0OTli",
+  "snapshot_id": "MTY1ODQ1OTY4NywwMDAwMDAwMGU0MTliYzI4ZjczMmZmMjI1ZDA0NzJjNzA2MDdlZGIz",
   "tracks": [
     {
       "added_at": "2022-07-22 03:14:47",
@@ -743,26 +743,38 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Trakat\u00e1",
-        "url": "https://open.spotify.com/album/4v2y8esBwi06vh3jydfUA4"
+        "name": "La Mentira (Remix)",
+        "url": "https://open.spotify.com/album/1wFqv2q07zfETMmB1NMDyC"
       },
       "artists": [
         {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         },
         {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
         },
         {
-          "name": "Juacko",
-          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 178064,
-      "name": "Trakat\u00e1",
-      "url": "https://open.spotify.com/track/5fghgRsc8a3pSDXtjQ238F"
+      "duration_ms": 388800,
+      "name": "La Mentira - Remix",
+      "url": "https://open.spotify.com/track/4jBpZsZ9qx3cZhoEfuKElF"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -819,38 +831,26 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "La Mentira (Remix)",
-        "url": "https://open.spotify.com/album/1wFqv2q07zfETMmB1NMDyC"
+        "name": "Trakat\u00e1",
+        "url": "https://open.spotify.com/album/4v2y8esBwi06vh3jydfUA4"
       },
       "artists": [
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
         },
         {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
         }
       ],
-      "duration_ms": 388800,
-      "name": "La Mentira - Remix",
-      "url": "https://open.spotify.com/track/4jBpZsZ9qx3cZhoEfuKElF"
+      "duration_ms": 178064,
+      "name": "Trakat\u00e1",
+      "url": "https://open.spotify.com/track/5fghgRsc8a3pSDXtjQ238F"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 201858,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1479,6 +1479,30 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
+        "name": "No Est\u00e1 Interesada",
+        "url": "https://open.spotify.com/album/5f3mPNzP502Zzi8trbfItq"
+      },
+      "artists": [
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 250485,
+      "name": "No Est\u00e1 Interesada",
+      "url": "https://open.spotify.com/track/50MM1jSSqo8LndyiLsCO92"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
         "name": "Como Yo Lo Hago",
         "url": "https://open.spotify.com/album/43xXAUd12YpWC2yJsPSilZ"
       },
@@ -1503,22 +1527,6 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Un AK",
-        "url": "https://open.spotify.com/album/0Et7tz6NgIxkObwV4F03Dd"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "Un AK",
-      "url": "https://open.spotify.com/track/5I2NfzSxaCBzYVYMGAV8Cp"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
         "name": "No Vuelvas M\u00e1s",
         "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
       },
@@ -1535,26 +1543,18 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "No Est\u00e1 Interesada",
-        "url": "https://open.spotify.com/album/5f3mPNzP502Zzi8trbfItq"
+        "name": "Un AK",
+        "url": "https://open.spotify.com/album/0Et7tz6NgIxkObwV4F03Dd"
       },
       "artists": [
         {
-          "name": "Drago200",
-          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         }
       ],
-      "duration_ms": 250485,
-      "name": "No Est\u00e1 Interesada",
-      "url": "https://open.spotify.com/track/50MM1jSSqo8LndyiLsCO92"
+      "duration_ms": 168247,
+      "name": "Un AK",
+      "url": "https://open.spotify.com/track/5I2NfzSxaCBzYVYMGAV8Cp"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
+        "name": "No Me Equivoqu\u00e9",
+        "url": "https://open.spotify.com/album/0Kz84rkqWtlb5vFMN5ggvT"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "No Me Equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/735N73RiMdFDVV54nj2ZMA"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
         "name": "Guayo",
         "url": "https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 222301,
       "name": "Guayo",
       "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
-        "name": "No Me Equivoqu\u00e9",
-        "url": "https://open.spotify.com/album/0Kz84rkqWtlb5vFMN5ggvT"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "No Me Equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/735N73RiMdFDVV54nj2ZMA"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1987,6 +1987,26 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
+        "name": "Tussi Code Mari",
+        "url": "https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Crismj",
+          "url": "https://open.spotify.com/artist/73085QUq0HermcHl8fg65T"
+        }
+      ],
+      "duration_ms": 172390,
+      "name": "Tussi Code Mari",
+      "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
         "name": "Antonio",
         "url": "https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR"
       },
@@ -1999,26 +2019,6 @@
       "duration_ms": 158181,
       "name": "Antonio",
       "url": "https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
-        "name": "Cerrando Cap\u00edtulo",
-        "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 172054,
-      "name": "Coraz\u00f3n Ego\u00edsta",
-      "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -2043,22 +2043,22 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Tussi Code Mari",
-        "url": "https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K"
+        "name": "Cerrando Cap\u00edtulo",
+        "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
       },
       "artists": [
         {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
         },
         {
-          "name": "Crismj",
-          "url": "https://open.spotify.com/artist/73085QUq0HermcHl8fg65T"
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
         }
       ],
-      "duration_ms": 172390,
-      "name": "Tussi Code Mari",
-      "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
+      "duration_ms": 172054,
+      "name": "Coraz\u00f3n Ego\u00edsta",
+      "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
     },
     {
       "added_at": "2022-07-22 03:14:47",

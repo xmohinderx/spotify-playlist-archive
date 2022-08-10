@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,712 likes - 65 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,762 likes - 65 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Get Down](https://open.spotify.com/track/3H2I7X7POFyU5vUudT9Zxx) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Get Down](https://open.spotify.com/album/3gt7gWjurvDydPSUNdirlA) | 3:46 |
 | 2 | [My Imagination](https://open.spotify.com/track/78PQivV4gKwRAWv4kCT7An) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [My Imagination](https://open.spotify.com/album/4ad7ivsTg73hwCCt1uoGn3) | 3:04 |
 | 3 | [Habanera](https://open.spotify.com/track/2F1ppuYwY0sNjjJMPL90aL) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/3gKNp9a3iGKczsCql5UyYq) | 2:23 |
-| 4 | [Mayas](https://open.spotify.com/track/7C59TgKNzoPdXdOBjfxJyd) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [DJ Yuuki](https://open.spotify.com/artist/1L6AI2WBFlbXeG5ZibZSlP) | [Mayas](https://open.spotify.com/album/6O9KbQWhCCpPPapXiEWIDT) | 6:14 |
+| 4 | [Mayas](https://open.spotify.com/track/7C59TgKNzoPdXdOBjfxJyd) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb) | [Mayas](https://open.spotify.com/album/6O9KbQWhCCpPPapXiEWIDT) | 6:14 |
 | 5 | [Like This](https://open.spotify.com/track/4EMS6Lj2BL9KhXYQqb8i2t) | [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [Carlos Colleen](https://open.spotify.com/artist/6lunp2L5KJDCGpSt8Gvpx8) | [Like This](https://open.spotify.com/album/07fHGsN9a1FMdtTJMSF43S) | 4:05 |
 | 6 | [Alien Jazz](https://open.spotify.com/track/3VgVFI4bUo7gZbCOWsaigO) | [Synthetic System](https://open.spotify.com/artist/1uMxSMZa6qjrIoB3Lu3QYT), [Spectro Senses](https://open.spotify.com/artist/7DsAHY3nOADLLNrUND0YC6) | [Alien Jazz](https://open.spotify.com/album/0LTCgg2o7hPBn4Ne7cNPJ6) | 7:39 |
 | 7 | [Last One](https://open.spotify.com/track/61yMjxM2ratUj6mZZ9S7WM) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Last One](https://open.spotify.com/album/0hu6xWo3nW9dveTBMeDKDE) | 2:31 |

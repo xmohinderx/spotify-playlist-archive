@@ -2220,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "Perpetual Chaos",
+        "url": "https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY"
+      },
+      "artists": [
+        {
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210047,
+      "name": "Guided by Evil",
+      "url": "https://open.spotify.com/track/6os2CG54Dj1JRcKWzOh7RN"
+    },
+    {
+      "album": {
         "name": "Torque (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5jFK19mGDJW7l2TVL71pRD"
       },
@@ -3981,7 +3999,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 300266,
       "name": "Possessed by Fire",
       "url": "https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy"

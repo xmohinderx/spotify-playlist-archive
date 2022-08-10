@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 248000,
       "name": "Baby a Benzo",
       "url": "https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
@@ -912,6 +912,24 @@
     },
     {
       "album": {
+        "name": "Purple Hearts (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176859,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
+    },
+    {
+      "album": {
         "name": "Chase Atlantic",
         "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
       },
@@ -1079,10 +1097,36 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 177108,
       "name": "die first",
       "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+    },
+    {
+      "album": {
+        "name": "Dni ako tieto",
+        "url": "https://open.spotify.com/album/583lfLoJW2HZ8CAvjNzVUc"
+      },
+      "artists": [
+        {
+          "name": "Matej Straka",
+          "url": "https://open.spotify.com/artist/4WB1NUL01OyTTuhNkdyljG"
+        },
+        {
+          "name": "Jerry Lee",
+          "url": "https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg"
+        },
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Dni ako tieto",
+      "url": "https://open.spotify.com/track/1qNOOrPgSBFhjg5gdbJOaf"
     },
     {
       "album": {
@@ -1469,7 +1513,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
@@ -2053,10 +2097,36 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "KOMANDER PUMP IT UP",
       "url": "https://open.spotify.com/track/1sk1HMcretzLiljqIBAZ8J"
+    },
+    {
+      "album": {
+        "name": "K\u00fdm St\u00fapa Dym",
+        "url": "https://open.spotify.com/album/4ZFjxgNWHaH0RqlQueoFUL"
+      },
+      "artists": [
+        {
+          "name": "WIG",
+          "url": "https://open.spotify.com/artist/2ByQWzS4D7NeIg7ioQNDG4"
+        },
+        {
+          "name": "sak10denz",
+          "url": "https://open.spotify.com/artist/0vFxwYnfZWFzORdjR5Assr"
+        },
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210163,
+      "name": "K\u00fdm St\u00fapa Dym",
+      "url": "https://open.spotify.com/track/1QxoFtjpKWbC6PyR8TNAfH"
     },
     {
       "album": {
@@ -2583,6 +2653,24 @@
       "duration_ms": 164471,
       "name": "mne malo malo malo tebya",
       "url": "https://open.spotify.com/track/2D7Wdt5jiyPUYN213ynFtO"
+    },
+    {
+      "album": {
+        "name": "Mockingbird (Remix)",
+        "url": "https://open.spotify.com/album/7BXb7pTQSCicF0duwhWd9E"
+      },
+      "artists": [
+        {
+          "name": "E1 (3x3)",
+          "url": "https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192362,
+      "name": "Mockingbird - Remix",
+      "url": "https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw"
     },
     {
       "album": {
@@ -3451,7 +3539,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 90859,
       "name": "Sexu\u00e1lna",
       "url": "https://open.spotify.com/track/5tDBMJcg9I8Qr7GRadaZpJ"
@@ -3995,6 +4083,24 @@
       "duration_ms": 159219,
       "name": "Tvoja Hoe",
       "url": "https://open.spotify.com/track/4hFNCF6JHvSbu8GuYDvvH0"
+    },
+    {
+      "album": {
+        "name": "Tvojho brata brat m\u00e1 brata",
+        "url": "https://open.spotify.com/album/5uEOuSRH2Em1TGDzREzMe1"
+      },
+      "artists": [
+        {
+          "name": "Hork\u00fd\u017ee Sl\u00ed\u017ee",
+          "url": "https://open.spotify.com/artist/1Vokrr21dze8HRk1oeWq9o"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175695,
+      "name": "Tvojho brata brat m\u00e1 brata",
+      "url": "https://open.spotify.com/track/0Z8vTU6xcN2g3BPQeVdpZb"
     },
     {
       "album": {

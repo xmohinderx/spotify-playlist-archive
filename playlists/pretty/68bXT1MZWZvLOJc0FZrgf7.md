@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more! Cover: Calvin Harris
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,744 likes - 179 songs - 9 hr 27 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,738 likes - 179 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

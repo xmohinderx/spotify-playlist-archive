@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Lil Pump & Yo Yo Honey Singh
 
-131 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
+132 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,8 +117,9 @@
 | [Streets \- Disclosure Remix](https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Streets \(Disclosure Remix\)](https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA) | 4:14 | 2021-11-26 | 2022-02-02 |
 | [Sunset Sketch](https://open.spotify.com/track/2zRyLE4ZBBtphK9IQiiwpm) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn), [Ajay Prasanna](https://open.spotify.com/artist/0UcnzmNyNnUpA3RJNoUQ3H) | [Touch : 1](https://open.spotify.com/album/4Q1g7KOe05AfyGxIhdXV9h) | 3:35 | 2021-11-26 | 2022-02-02 |
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2021-11-26 | 2022-05-19 |
-| [Talk \(with Royal & the Serpent\)](https://open.spotify.com/track/0DnA3UhB37Iaq1XwnZwbIZ) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [To Believe \- EP](https://open.spotify.com/album/54meck8D5fOrFRuPTGmXG9) | 3:12 | 2022-07-22 |  |
+| [Talk \(with Royal & the Serpent\)](https://open.spotify.com/track/0DnA3UhB37Iaq1XwnZwbIZ) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [To Believe \- EP](https://open.spotify.com/album/54meck8D5fOrFRuPTGmXG9) | 3:12 | 2022-07-22 | 2022-08-10 |
 | [Talk \(with Royal & The Serpent\)](https://open.spotify.com/track/2OclKk08GDRSZbPF6M41XF) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [To Believe \- EP](https://open.spotify.com/album/7k4K95xPJ2RdnA1MN2MvuG) | 3:12 | 2022-05-18 | 2022-07-29 |
+| [Talk \(with Royal & the Serpent\)](https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Talk \(Remixes\)](https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k) | 3:12 | 2022-07-22 |  |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2022-02-01 | 2022-05-19 |
 | [Thing You Want \(Hindi\)](https://open.spotify.com/track/1QaTzmmY3Sxu4hwxhqnT0O) | [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [COLLABS VOL\. 1 \(INT’L VER.\)](https://open.spotify.com/album/4gG7E1oREuA5rNKvyj7zXE) | 3:26 | 2021-11-26 | 2022-02-02 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-11-26 | 2022-05-19 |

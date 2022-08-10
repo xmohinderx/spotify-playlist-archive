@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,208 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,228 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 34 | [Blood Moon](https://open.spotify.com/track/2Hf617oOAOOweOpLdsnGmr) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Blood Moon](https://open.spotify.com/album/7CgshNfNl5h5CNYR9RVPKi) | 7:50 |
 | 35 | [YOU CAN'T RUN AWAY](https://open.spotify.com/track/34yWYCjZzUAhRy6DKDlYWn) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [YOU CAN'T RUN AWAY](https://open.spotify.com/album/6dtR0STntbvuJx4ytx6gZP) | 4:09 |
 | 36 | [Future Memories](https://open.spotify.com/track/7hPKHjWDp2vmPEg6TCtjuP) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [The Quest](https://open.spotify.com/album/5mJQGS0NqD41OGyM77vIX9) | 5:07 |
-| 37 | [The Cynic](https://open.spotify.com/track/3cet6MhvWU3ztnQB55RHdK) | [Franklin Zoo](https://open.spotify.com/artist/78uVsW6GyF4JylRifvQtI3) | [The Dandelion Child](https://open.spotify.com/album/60M3UbywI2bpUHZ1USTL5E) | 5:53 |
+| 37 | [The Cynic](https://open.spotify.com/track/15Nl9URaaW0A3nQdzXZjxS) | [Franklin Zoo](https://open.spotify.com/artist/78uVsW6GyF4JylRifvQtI3) | [The Dandelion Child](https://open.spotify.com/album/3KboReNemDz3MBYjWrgIWK) | 5:53 |
 | 38 | [Harridan](https://open.spotify.com/track/1mnAE4tnyYZaUGTiazDdmR) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [CLOSURE / CONTINUATION](https://open.spotify.com/album/7meXKEI99ccqzh9AtmeeAR) | 8:07 |
 | 39 | [Zest](https://open.spotify.com/track/5KEPWv8U694JUye8sUSWWQ) | [Pelagos](https://open.spotify.com/artist/5791YwmwIl6tp7JMVKHVcn) | [Zest](https://open.spotify.com/album/6potYVC57bz0ScpEf2PeBd) | 4:49 |
 | 40 | [Fountainhead](https://open.spotify.com/track/6keB6agTeQshuQUVQYeLgL) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Escapades](https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo) | 3:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Unheavenly Creatures](https://open.spotify.com/track/3cExGgQKsI12aa7Fs3FoId) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Unheavenly Creatures](https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm) | 4:13 |
 | 75 | [Inertiatic Esp](https://open.spotify.com/track/16Elz7HJPLZPMylp13ewxv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 4:23 |
 
-Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMGE4MDkyZWE4NWQwNjk4Nzk4YWFlYmRiNGQ2M2JjMjg2`
+Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDE5MjA0NzQ1ODY5YmJhMDJkNTg0YTY1OTMzZTcyNmZm`

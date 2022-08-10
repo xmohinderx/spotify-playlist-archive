@@ -4,7 +4,7 @@
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-156 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/4rbybKMGrwMGLce2LU8aOy)
+157 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/4rbybKMGrwMGLce2LU8aOy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cuando Estés Acá](https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 4:55 | 2022-04-01 | 2022-07-29 |
 | [Cuando Me Muera](https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame \(Demo\)](https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv) | 2:06 | 2022-04-01 |  |
 | [Dale!](https://open.spotify.com/track/1zcbbI6C3RAziKuIpJPVEM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Dale!](https://open.spotify.com/album/6kjshhKSAHlVakwIgK2R15) | 5:10 | 2022-07-08 | 2022-07-22 |
-| [Dale!](https://open.spotify.com/track/1xfJQWdr43FJNdRn7Fr9pI) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Código Genético](https://open.spotify.com/album/1UUYlFcoM5lNaDVjrlfhUt) | 5:10 | 2022-07-08 |  |
+| [Dale!](https://open.spotify.com/track/1xfJQWdr43FJNdRn7Fr9pI) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Código Genético](https://open.spotify.com/album/1UUYlFcoM5lNaDVjrlfhUt) | 5:10 | 2022-07-08 | 2022-08-10 |
 | [De La Guitarra](https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 5:12 | 2022-04-01 | 2022-07-29 |
 | [De la Guitarra \- En Vivo Luna Park](https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio I\)](https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI) | 5:11 | 2022-04-01 | 2022-07-25 |
 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 | 2022-04-01 |  |
@@ -114,6 +114,7 @@
 | [Resaca de Carnaval](https://open.spotify.com/track/6FPYeXUbLfwmwcknp1f7VZ) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [No Se Lo Cuentes a Nadie](https://open.spotify.com/album/6FZ81NpFnYO5IOGUm8uzGk) | 3:41 | 2022-04-01 | 2022-07-29 |
 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 | 2022-04-01 |  |
 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 | 2022-04-01 | 2022-07-28 |
+| [Rotos y Descocidos](https://open.spotify.com/track/03gBHAQqX65jxtnDdfPj5m) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social II](https://open.spotify.com/album/2UsSavt2PWkbqaFnTSxHFg) | 3:06 | 2022-07-08 |  |
 | [Rotos y Descocidos](https://open.spotify.com/track/2u55FMNQoM8W7tHuO4JOgM) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social II](https://open.spotify.com/album/5zmuYdSpq60tyeNhGmbouj) | 3:06 | 2022-04-01 | 2022-07-17 |
 | [Ruleta](https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO) | 4:16 | 2022-04-01 |  |
 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 | 2022-04-01 |  |

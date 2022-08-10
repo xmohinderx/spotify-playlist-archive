@@ -4,7 +4,7 @@
 
 > Tudo o que está bombando e viralizando por aí!
 
-135 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+136 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Se Você Quiser](https://open.spotify.com/track/7JF7FB2phyOIYmuhQCj9UX) | [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Se Você Quiser](https://open.spotify.com/album/4Al0uGFYkzyHcMtULMNIer) | 1:47 | 2022-05-26 |  |
 | [Senta Com Amor](https://open.spotify.com/track/5axPfPSNybFFzhDOvCMhpP) | [Furacão Hit](https://open.spotify.com/artist/2p5DEEpHgoW3OlsmBkSBXF) | [Se Liga no Beat](https://open.spotify.com/album/2CgQC1DGvhMhHo3Y364sUQ) | 3:08 | 2022-05-26 | 2022-06-23 |
 | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi) | 3:06 | 2022-05-26 |  |
-| [Tem Cabaré essa Noite](https://open.spotify.com/track/1rJFFWDXrlMS0C5JlbqFbI) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré essa Noite](https://open.spotify.com/album/7i4B4BWHpZlMGWDdtbZ0rs) | 3:22 | 2022-07-20 |  |
+| [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 | 2022-08-09 |  |
+| [Tem Cabaré essa Noite](https://open.spotify.com/track/1rJFFWDXrlMS0C5JlbqFbI) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré essa Noite](https://open.spotify.com/album/7i4B4BWHpZlMGWDdtbZ0rs) | 3:22 | 2022-07-20 | 2022-08-10 |
 | [Teu Amigo Cuidou](https://open.spotify.com/track/44rtgsXvDPiJhxmqv0d2Pr) | [Mariana Reis](https://open.spotify.com/artist/3krfXUuYooEgUlJz32Enbb) | [Ao Vivo Abril 2022](https://open.spotify.com/album/5PvSUWL61aVF1Z1pQjUESX) | 3:33 | 2022-07-04 | 2022-08-05 |
 | [Tiffany](https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:32 | 2022-05-26 | 2022-07-29 |
 | [Tiffany](https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo) | 2:32 | 2022-07-28 |  |

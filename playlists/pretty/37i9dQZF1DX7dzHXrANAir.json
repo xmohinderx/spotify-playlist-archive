@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 62834,
+  "num_followers": 62944,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMGU3NDA2NTk2OWJjNTNhODc2YzMzNjA5NDI0MmVkY2I0",
+  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDI1MjI5ZDBmNGVmNDY1NWFhZDQ4MTgwZDgyM2UxZmY2",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -235,22 +235,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "We Could Stay",
-        "url": "https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w"
+        "name": "A Lifetime Rolls By (annasara Rework)",
+        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
       },
       "artists": [
         {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+          "name": "BPMoore",
+          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
         },
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "annasara",
+          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
         }
       ],
-      "duration_ms": 217194,
-      "name": "We Could Stay",
-      "url": "https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ"
+      "duration_ms": 176120,
+      "name": "A Lifetime Rolls By - annasara Rework",
+      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -275,22 +275,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "A Lifetime Rolls By (annasara Rework)",
-        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
+        "name": "We Could Stay",
+        "url": "https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w"
       },
       "artists": [
         {
-          "name": "BPMoore",
-          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
         },
         {
-          "name": "annasara",
-          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 176120,
-      "name": "A Lifetime Rolls By - annasara Rework",
-      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
+      "duration_ms": 217194,
+      "name": "We Could Stay",
+      "url": "https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Human Reworked",
-        "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        },
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
-      "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Patina",
         "url": "https://open.spotify.com/album/7aAavljDRxaxDMCq2c3YlV"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 161086,
       "name": "Cluster - Edit",
       "url": "https://open.spotify.com/track/6T6U15jco43HghuqfzCAeu"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Human Reworked",
+        "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        },
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Falling Colour",
-        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Falling Colour",
-      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Riva",
         "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 238602,
       "name": "Riva",
       "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Falling Colour",
+        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Falling Colour",
+      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Recaptures",
-        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
-      },
-      "artists": [
-        {
-          "name": "Minihi",
-          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Minquiers",
-      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Solitudes",
         "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 277021,
       "name": "We Begin",
       "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Recaptures",
+        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
+      },
+      "artists": [
+        {
+          "name": "Minihi",
+          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Minquiers",
+      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Solitudes, Vol. II",
-        "url": "https://open.spotify.com/album/3X8LQ3lxamJcRUSlOT7pxP"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 237827,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Enfantillages pittoresques: II. Berceuse [Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)]",
         "url": "https://open.spotify.com/album/1oVLQpp20OpriUDJLDZBsS"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "N\u00e9fos",
-        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+        "name": "Solitudes, Vol. II",
+        "url": "https://open.spotify.com/album/3X8LQ3lxamJcRUSlOT7pxP"
       },
       "artists": [
         {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 192000,
-      "name": "N\u00e9fos",
-      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
+      "duration_ms": 237827,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1015,6 +999,22 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "N\u00e9fos",
+        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "N\u00e9fos",
+      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Close To Her",
+        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "Close To Her",
+      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Higher Ground",
         "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 181460,
       "name": "Feel What You Need",
       "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Close To Her",
-        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "Close To Her",
-      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Mishkin & Septuagint",
-        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
-      },
-      "artists": [
-        {
-          "name": "Paul Haslinger",
-          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
-        }
-      ],
-      "duration_ms": 195719,
-      "name": "Mishkin",
-      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Tidal Oscillations (XXIM:EXPO #1)",
         "url": "https://open.spotify.com/album/7tZWWtjUsSpKSSoD9JYw7r"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 329999,
       "name": "A Dream, A Sequence",
       "url": "https://open.spotify.com/track/32VUIIpKt22BW8V1mLt4R4"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Mishkin & Septuagint",
+        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
+      },
+      "artists": [
+        {
+          "name": "Paul Haslinger",
+          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
+        }
+      ],
+      "duration_ms": 195719,
+      "name": "Mishkin",
+      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Clair de lune",
-        "url": "https://open.spotify.com/album/1ELRQdm7g1MR5HolqHIR38"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Carolina Eyck",
-          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "Clair de lune - Arr. for Theremin and Voice",
-      "url": "https://open.spotify.com/track/2VrCFjVIxFRT924d2NDyce"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Sound Visions",
         "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
       },
@@ -1423,6 +1403,46 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Clair de lune",
+        "url": "https://open.spotify.com/album/1ELRQdm7g1MR5HolqHIR38"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Carolina Eyck",
+          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "Clair de lune - Arr. for Theremin and Voice",
+      "url": "https://open.spotify.com/track/2VrCFjVIxFRT924d2NDyce"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M"
+      },
+      "artists": [
+        {
+          "name": "Pascal Schumacher",
+          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 266785,
+      "name": "Charles Duke",
+      "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
         "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
       },
@@ -1435,6 +1455,26 @@
       "duration_ms": 278613,
       "name": "February",
       "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Dale",
+          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
+        },
+        {
+          "name": "Joby Burgess",
+          "url": "https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2"
+        }
+      ],
+      "duration_ms": 428453,
+      "name": "Can't Sleep",
+      "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1475,26 +1515,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M"
-      },
-      "artists": [
-        {
-          "name": "Pascal Schumacher",
-          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        }
-      ],
-      "duration_ms": 266785,
-      "name": "Charles Duke",
-      "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "False Sunset (Todd & Klein Rework)",
         "url": "https://open.spotify.com/album/0g51tMtR6ktoyXnqTdSaqU"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 163945,
       "name": "Pattern of Water",
       "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Can't Sleep",
-        "url": "https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Dale",
-          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
-        },
-        {
-          "name": "Joby Burgess",
-          "url": "https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2"
-        }
-      ],
-      "duration_ms": 428453,
-      "name": "Can't Sleep",
-      "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Entanglement",
-        "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
+        "name": "Ensemb7e",
+        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
       },
       "artists": [
         {
-          "name": "Rooydad",
-          "url": "https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF"
+          "name": "Chapelier Fou",
+          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
         }
       ],
-      "duration_ms": 105600,
-      "name": "Everything in Life is Vibration",
-      "url": "https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr"
+      "duration_ms": 190120,
+      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
+      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
     }
   ],
   "unique_name": "Classical X",

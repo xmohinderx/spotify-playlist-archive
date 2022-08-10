@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 81831,
+  "num_followers": 81898,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDAxOTc0NSwwMDAwMDAwMDcwNmIwMzhmZTFmYzlkOTg4NTllNjk3YTNmZjAzMmY5",
+  "snapshot_id": "MTY0MDAxOTc0NSwwMDAwMDAwMDU2N2IxMjU0N2UyZGZhNzFlZWZiMzkyOTEyNzJkYzRk",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -303,26 +303,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl"
-      },
-      "artists": [
-        {
-          "name": "Sir Speedy",
-          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
-        },
-        {
-          "name": "Lumidee",
-          "url": "https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "Sientelo",
-      "url": "https://open.spotify.com/track/7qA6NCWBEpbEusd6Phx9hy"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Time To Kill II",
         "url": "https://open.spotify.com/album/6Hk8Nlz2rdI043PJNbDEOA"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 254720,
       "name": "Ponte Bruto",
       "url": "https://open.spotify.com/track/3CUqGQU7QYDyRFxtRT5ozd"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl"
+      },
+      "artists": [
+        {
+          "name": "Sir Speedy",
+          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
+        },
+        {
+          "name": "Lumidee",
+          "url": "https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Sientelo",
+      "url": "https://open.spotify.com/track/7qA6NCWBEpbEusd6Phx9hy"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -899,6 +899,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Reggae Hits, Vol. 11",
+        "url": "https://open.spotify.com/album/2JimbOB089I6bUYDvPLY6P"
+      },
+      "artists": [
+        {
+          "name": "Dirtsman",
+          "url": "https://open.spotify.com/artist/3WkWip0kyAQjb91nEJjUgs"
+        }
+      ],
+      "duration_ms": 209693,
+      "name": "Hot This Year",
+      "url": "https://open.spotify.com/track/0Pp9uh741YQbUAcAJlb2RJ"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Playero Dj Live",
         "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 416634,
       "name": "La Combinaci\u00f3n Perfecta Old School",
       "url": "https://open.spotify.com/track/3kfIzNY57LOd9LAHkTsYwk"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Dancehall Reggaespanol",
-        "url": "https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS"
-      },
-      "artists": [
-        {
-          "name": "Nando Boom",
-          "url": "https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "EL Desorden",
-      "url": "https://open.spotify.com/track/2byD4KjyL1FGzvldcPJUYL"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -971,18 +971,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Reggae Hits, Vol. 11",
-        "url": "https://open.spotify.com/album/2JimbOB089I6bUYDvPLY6P"
+        "name": "Dancehall Reggaespanol",
+        "url": "https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS"
       },
       "artists": [
         {
-          "name": "Dirtsman",
-          "url": "https://open.spotify.com/artist/3WkWip0kyAQjb91nEJjUgs"
+          "name": "Nando Boom",
+          "url": "https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko"
         }
       ],
-      "duration_ms": 209693,
-      "name": "Hot This Year",
-      "url": "https://open.spotify.com/track/0Pp9uh741YQbUAcAJlb2RJ"
+      "duration_ms": 233493,
+      "name": "EL Desorden",
+      "url": "https://open.spotify.com/track/2byD4KjyL1FGzvldcPJUYL"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 123723,
-      "name": "Muchos Quieren Tumbarme",
-      "url": "https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Playero Dj Live",
         "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 65618,
       "name": "Tu Amor Es un Crimen",
       "url": "https://open.spotify.com/track/7pvpmxMwwOAQcpoVDSfLip"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 123723,
+      "name": "Muchos Quieren Tumbarme",
+      "url": "https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+      },
+      "artists": [
+        {
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+        }
+      ],
+      "duration_ms": 123621,
+      "name": "Brutalidad",
+      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1llS73lFiGdCx72C9xOCfQ"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 207773,
       "name": "Tra, Tra",
       "url": "https://open.spotify.com/track/2xYB15HL6IjFSXnNTFyCLb"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
-      },
-      "artists": [
-        {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
-        }
-      ],
-      "duration_ms": 123621,
-      "name": "Brutalidad",
-      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
     },
     {
       "added_at": "2021-12-20 17:02:25",

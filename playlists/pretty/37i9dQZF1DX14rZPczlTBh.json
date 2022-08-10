@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for your Party.\nCover : Nithiin",
-  "num_followers": 24705,
+  "num_followers": 24723,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDQ0NDk5ZTQ3YWIzOTRjZjM5OTY3MzZiMTlmOTBhMGYx",
+  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDJkM2QxYzNkMWRiMTdkZDBlMjk1ZWYzZTE4MWZjYWM2",
   "tracks": [
     {
       "added_at": "2022-06-03 13:02:58",
@@ -123,6 +123,26 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
+      },
+      "artists": [
+        {
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+        },
+        {
+          "name": "Rita",
+          "url": "https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Seeti Maar",
+      "url": "https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "KGF Chapter 1 (Telugu)",
         "url": "https://open.spotify.com/album/5PEIGDUbwwr1LYbwHCsZs1"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 245760,
       "name": "Salaam Rocky Bhai",
       "url": "https://open.spotify.com/track/2PEJJ61X5HfpkrOkqvpB6Y"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "DJ",
-        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
-      },
-      "artists": [
-        {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
-        },
-        {
-          "name": "Rita",
-          "url": "https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "Seeti Maar",
-      "url": "https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -248,26 +248,6 @@
       },
       "artists": [
         {
-          "name": "M.C. Vickey",
-          "url": "https://open.spotify.com/artist/7bxJB2vrMkzPAHRBLhaeiL"
-        },
-        {
-          "name": "M. M. Manasi",
-          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Private Party",
-      "url": "https://open.spotify.com/track/55lcV76gPJUqAnHj3Z9xRd"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Sarrainodu",
-        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
-      },
-      "artists": [
-        {
           "name": "Shreya Ghoshal",
           "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         },
@@ -291,6 +271,26 @@
       "duration_ms": 304987,
       "name": "Blockbuster",
       "url": "https://open.spotify.com/track/37S2kL71k5LOmGxzJ7JLzE"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Sarrainodu",
+        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
+      },
+      "artists": [
+        {
+          "name": "M.C. Vickey",
+          "url": "https://open.spotify.com/artist/7bxJB2vrMkzPAHRBLhaeiL"
+        },
+        {
+          "name": "M. M. Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Private Party",
+      "url": "https://open.spotify.com/track/55lcV76gPJUqAnHj3Z9xRd"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -327,22 +327,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Ismart Shankar",
-        "url": "https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 252262,
-      "name": "Ismart Title Song",
-      "url": "https://open.spotify.com/track/40dF1b3S55REkQudnGiLkW"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Swing Zara (From \"Jai Lava Kusa\")",
         "url": "https://open.spotify.com/album/6GEMkqLNtpGvCicpkWRQv5"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 261387,
       "name": "Swing Zara",
       "url": "https://open.spotify.com/track/1SJOGijQV7cRrfLstfZHzE"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Ismart Shankar",
+        "url": "https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 252262,
+      "name": "Ismart Title Song",
+      "url": "https://open.spotify.com/track/40dF1b3S55REkQudnGiLkW"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Krishnarjuna Yudham",
-        "url": "https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8"
-      },
-      "artists": [
-        {
-          "name": "Penchal Das",
-          "url": "https://open.spotify.com/artist/1Gwagas1URF2FF769DMjVN"
-        }
-      ],
-      "duration_ms": 188684,
-      "name": "Dhaari Choodu",
-      "url": "https://open.spotify.com/track/6c85Eub4Ze7Jyhxv0xUrm3"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Daang Daang (From \"Sarileru Neekevvaru\")",
         "url": "https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 254618,
       "name": "Daang Daang (From \"Sarileru Neekevvaru\")",
       "url": "https://open.spotify.com/track/3qhq4cn3We0CXDIi44ckHa"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Krishnarjuna Yudham",
+        "url": "https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8"
+      },
+      "artists": [
+        {
+          "name": "Penchal Das",
+          "url": "https://open.spotify.com/artist/1Gwagas1URF2FF769DMjVN"
+        }
+      ],
+      "duration_ms": 188684,
+      "name": "Dhaari Choodu",
+      "url": "https://open.spotify.com/track/6c85Eub4Ze7Jyhxv0xUrm3"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "Businessman",
+        "url": "https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz"
+      },
+      "artists": [
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        }
+      ],
+      "duration_ms": 253700,
+      "name": "Pilla Chao",
+      "url": "https://open.spotify.com/track/0AEoopl9xD5DDfs0R3Aqqs"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Bruce Lee",
         "url": "https://open.spotify.com/album/2rB63Sy0Lbll94LSvqo0gE"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 244607,
       "name": "Ria",
       "url": "https://open.spotify.com/track/7Bx8NjcmtbItEVRqpaOdau"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Businessman",
-        "url": "https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz"
-      },
-      "artists": [
-        {
-          "name": "Rahul Nambiar",
-          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
-        }
-      ],
-      "duration_ms": 253700,
-      "name": "Pilla Chao",
-      "url": "https://open.spotify.com/track/0AEoopl9xD5DDfs0R3Aqqs"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Oopiri (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0HRQi8aWtSY1Vmkhfnzwj7"
-      },
-      "artists": [
-        {
-          "name": "Geetha Madhuri",
-          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
-        }
-      ],
-      "duration_ms": 243043,
-      "name": "Door Number Okati",
-      "url": "https://open.spotify.com/track/4yNJ3anRH1rMJzcDDTlOOk"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Maharshi",
         "url": "https://open.spotify.com/album/30rejoGJuhKKQZJ1cT25T0"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 196122,
       "name": "Everest Anchuna",
       "url": "https://open.spotify.com/track/7sIA06BeeKLxsheskUNSKP"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Oopiri (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0HRQi8aWtSY1Vmkhfnzwj7"
+      },
+      "artists": [
+        {
+          "name": "Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
+        }
+      ],
+      "duration_ms": 243043,
+      "name": "Door Number Okati",
+      "url": "https://open.spotify.com/track/4yNJ3anRH1rMJzcDDTlOOk"
     },
     {
       "added_at": "2021-06-24 14:44:57",

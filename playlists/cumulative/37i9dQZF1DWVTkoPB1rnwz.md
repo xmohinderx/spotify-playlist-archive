@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-231 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+232 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [conversations with grandma](https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/665irKdzu7aptrhBycT5NJ) | 1:26 | 2021-10-16 | 2022-07-28 |
 | [Cotorra Serrana Occidental](https://open.spotify.com/track/6AM73G2nArb4b9PQaIE2VZ) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Cotorra Serrana Occidental](https://open.spotify.com/album/7vRvlclOYYHnbP7Zqqz95x) | 4:05 | 2021-10-16 | 2022-06-02 |
 | [Crescent](https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Crescent](https://open.spotify.com/album/5nIIDBRXFx30wdaoWiklDE) | 2:23 | 2022-02-25 |  |
+| [Cuckoo](https://open.spotify.com/track/2BwiTu8QrHm09soMmegJbu) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 2:25 | 2021-10-16 |  |
 | [Daqui](https://open.spotify.com/track/180yWNMphJET6icsGgSfs1) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Daqui](https://open.spotify.com/album/48lhovTqxxgcP33S9d3RZu) | 1:22 | 2022-01-13 | 2022-07-20 |
 | [Daqui](https://open.spotify.com/track/6rr3OnsNcCHbnH9vvZLw6z) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Daqui](https://open.spotify.com/album/07R0w8wvaLwmvmsopkrTLC) | 1:22 | 2022-01-13 |  |
 | [Dream \#1 \[Arrival\]](https://open.spotify.com/track/4IXEVZuLscgxvGZdor0Acu) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams](https://open.spotify.com/album/6MaSpqMna6KfVZ84qzFbpO) | 4:18 | 2021-10-16 |  |
@@ -203,7 +204,7 @@
 | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/track/1E5DCumnwDMoZm6DGhUo4V) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/album/1gaKUiWdoNRRC7B3w5rCuv) | 2:40 | 2021-10-16 |  |
 | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/track/2xWuOQh9k5g3vjk4zaeoUy) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/album/3jSsSaLuFPCA1do6E9j1Cd) | 2:40 | 2021-10-16 | 2022-07-16 |
 | [they sink \- TOKiMONSTA remix](https://open.spotify.com/track/1wrVNFd1voyFZ12xX2elYT) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [they sink](https://open.spotify.com/album/7xnL3Sr60ByV3juvyDrYE0) | 4:42 | 2021-10-16 |  |
-| [Thus](https://open.spotify.com/track/6Kuue6voczzBMIbSBSinJ0) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6), [Flowerpulse](https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP) | [Thus](https://open.spotify.com/album/5Uc6SeZfeDHPwbbyfbMOEv) | 3:31 | 2021-10-16 |  |
+| [Thus](https://open.spotify.com/track/6Kuue6voczzBMIbSBSinJ0) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6), [Flowerpulse](https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP) | [Thus](https://open.spotify.com/album/5Uc6SeZfeDHPwbbyfbMOEv) | 3:31 | 2021-10-16 | 2022-08-10 |
 | [Tiny Sailboat](https://open.spotify.com/track/6JXipaQpflSAuYIg5cDQ6w) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Coniferous](https://open.spotify.com/album/1VSbrea427FoDmwsvDd7lt) | 2:30 | 2021-10-16 |  |
 | [Tomato Day](https://open.spotify.com/track/7zXTb9cnYZruPZzLM7MrA8) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Boiling, Steaming and Poaching](https://open.spotify.com/album/4Xs0BuqcVypp3XJDcdSK3K) | 4:19 | 2021-10-16 |  |
 | [Tour](https://open.spotify.com/track/19mD1E2IYCmHrxVREBJFvw) | [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Tour](https://open.spotify.com/album/7pFtYCAm2Kak0OcRT9d9r0) | 3:26 | 2021-10-16 | 2022-07-28 |

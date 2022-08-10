@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Himeno Tama / Boku to Georges Artwork: Thami Nabil",
-  "num_followers": 90259,
+  "num_followers": 90334,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5OTAwOCwwMDAwMDAwMDliNDgyYWUwMDI2MmZmOGM2MTU5ZTFmMjc0YzJiZTNm",
+  "snapshot_id": "MTY1OTQ5OTAwOCwwMDAwMDAwMGQxZTMxZGJjNjBmMzc5YjBkZTI1M2I3ZjdkYzYzOTUw",
   "tracks": [
     {
       "added_at": "2022-07-27 14:53:59",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/7tB3VQuxTJP6GcIvgkddjT"
     },
     {
-      "added_at": "2022-06-08 02:19:10",
-      "album": {
-        "name": "C Tactile Afferent",
-        "url": "https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2"
-      },
-      "artists": [
-        {
-          "name": "Ola Szmidt",
-          "url": "https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw"
-        }
-      ],
-      "duration_ms": 216102,
-      "name": "C Tactile Afferent",
-      "url": "https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa"
-    },
-    {
       "added_at": "2022-07-27 14:53:59",
       "album": {
         "name": "Carte Blanche",
@@ -335,6 +319,22 @@
       "duration_ms": 194050,
       "name": "Carte Blanche",
       "url": "https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt"
+    },
+    {
+      "added_at": "2022-06-08 02:19:10",
+      "album": {
+        "name": "C Tactile Afferent",
+        "url": "https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2"
+      },
+      "artists": [
+        {
+          "name": "Ola Szmidt",
+          "url": "https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw"
+        }
+      ],
+      "duration_ms": 216102,
+      "name": "C Tactile Afferent",
+      "url": "https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -761,20 +761,20 @@
       "url": "https://open.spotify.com/track/6vdav9M1Ylbowzt1qq0VQI"
     },
     {
-      "added_at": "2022-07-06 13:58:15",
+      "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Yug",
-        "url": "https://open.spotify.com/album/6IvEsKrJfvHvVggDbJhQyV"
+        "name": "Tongues",
+        "url": "https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh"
       },
       "artists": [
         {
-          "name": "HVAD",
-          "url": "https://open.spotify.com/artist/1QXjEEDCHutVkOzAD6g13J"
+          "name": "Tanya Tagaq",
+          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
         }
       ],
-      "duration_ms": 348385,
-      "name": "Echolocating Chamagaadad",
-      "url": "https://open.spotify.com/track/0mQmzyVmQVYoqwMMyZQVgv"
+      "duration_ms": 264253,
+      "name": "Colonizer",
+      "url": "https://open.spotify.com/track/5f4EAqwXpQ7kJGgZ7oVN60"
     },
     {
       "added_at": "2022-07-06 13:58:15",
@@ -793,20 +793,20 @@
       "url": "https://open.spotify.com/track/2XwMV1rdq0ALG4IyVzEbPP"
     },
     {
-      "added_at": "2022-06-29 16:46:05",
+      "added_at": "2022-07-06 13:58:15",
       "album": {
-        "name": "Tongues",
-        "url": "https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh"
+        "name": "Yug",
+        "url": "https://open.spotify.com/album/6IvEsKrJfvHvVggDbJhQyV"
       },
       "artists": [
         {
-          "name": "Tanya Tagaq",
-          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
+          "name": "HVAD",
+          "url": "https://open.spotify.com/artist/1QXjEEDCHutVkOzAD6g13J"
         }
       ],
-      "duration_ms": 264253,
-      "name": "Colonizer",
-      "url": "https://open.spotify.com/track/5f4EAqwXpQ7kJGgZ7oVN60"
+      "duration_ms": 348385,
+      "name": "Echolocating Chamagaadad",
+      "url": "https://open.spotify.com/track/0mQmzyVmQVYoqwMMyZQVgv"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "Interd\u00e9pendence",
-        "url": "https://open.spotify.com/album/3ZRaoTgfU3HHaAsOXgTq0N"
-      },
-      "artists": [
-        {
-          "name": "Ronan",
-          "url": "https://open.spotify.com/artist/4S1xu7bVWpAiNQWo3GWgu3"
-        }
-      ],
-      "duration_ms": 407804,
-      "name": "Interd\u00e9pendence",
-      "url": "https://open.spotify.com/track/0Zd6oKz2mNpi029VZgQPxs"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/6yXJbeTmzmIRmKQWYiIjCn"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 420893,
       "name": "Amalgamation",
       "url": "https://open.spotify.com/track/1CfrQxlwVBGJCoJmYjIFRW"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "Interd\u00e9pendence",
+        "url": "https://open.spotify.com/album/3ZRaoTgfU3HHaAsOXgTq0N"
+      },
+      "artists": [
+        {
+          "name": "Ronan",
+          "url": "https://open.spotify.com/artist/4S1xu7bVWpAiNQWo3GWgu3"
+        }
+      ],
+      "duration_ms": 407804,
+      "name": "Interd\u00e9pendence",
+      "url": "https://open.spotify.com/track/0Zd6oKz2mNpi029VZgQPxs"
     },
     {
       "added_at": "2022-07-27 14:53:59",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
+        "name": "Comfy Place",
+        "url": "https://open.spotify.com/album/344hmSXinXIbznevcvCt7p"
+      },
+      "artists": [
+        {
+          "name": "Shoko Igarashi",
+          "url": "https://open.spotify.com/artist/0rhogygCtWJLauB3rYvQsK"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Comfy Place",
+      "url": "https://open.spotify.com/track/578IASw3v1cdtzMPrq254X"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
         "name": "deciduous tree emoji",
         "url": "https://open.spotify.com/album/1MegsLrU1nOAce60GX6J30"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Comfy Place",
-        "url": "https://open.spotify.com/album/344hmSXinXIbznevcvCt7p"
-      },
-      "artists": [
-        {
-          "name": "Shoko Igarashi",
-          "url": "https://open.spotify.com/artist/0rhogygCtWJLauB3rYvQsK"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Comfy Place",
-      "url": "https://open.spotify.com/track/578IASw3v1cdtzMPrq254X"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "Picture Music",
         "url": "https://open.spotify.com/album/3Xp3hGmFGML38VXUD6Tv8i"
       },
@@ -1025,6 +1025,22 @@
       "url": "https://open.spotify.com/track/0J8HGawaxgKpOlpxkZq2OA"
     },
     {
+      "added_at": "2022-07-20 05:00:00",
+      "album": {
+        "name": "Unit 18",
+        "url": "https://open.spotify.com/album/2Rc70IZw7ca9NQuleDFYC7"
+      },
+      "artists": [
+        {
+          "name": "Ploy",
+          "url": "https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Stinky",
+      "url": "https://open.spotify.com/track/5ONj0MXsvwNOwGGajomnJC"
+    },
+    {
       "added_at": "2022-07-27 14:53:59",
       "album": {
         "name": "Fleeting Aspirations",
@@ -1045,20 +1061,20 @@
       "url": "https://open.spotify.com/track/56mJ8GeDzw84fJzFSWZWMj"
     },
     {
-      "added_at": "2022-07-20 05:00:00",
+      "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Unit 18",
-        "url": "https://open.spotify.com/album/2Rc70IZw7ca9NQuleDFYC7"
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1TGr8wA85mIUxewg8gyafM"
       },
       "artists": [
         {
-          "name": "Ploy",
-          "url": "https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN"
+          "name": "AHO",
+          "url": "https://open.spotify.com/artist/2A2jCODLLDdV7IZv93r2OG"
         }
       ],
-      "duration_ms": 342000,
-      "name": "Stinky",
-      "url": "https://open.spotify.com/track/5ONj0MXsvwNOwGGajomnJC"
+      "duration_ms": 453190,
+      "name": "You told me you love running so I started to run too",
+      "url": "https://open.spotify.com/track/0SXOuHsgTkrCHB3RBCFioo"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1077,20 +1093,20 @@
       "url": "https://open.spotify.com/track/6BgyBrCR3TV7M8aZ8C5fii"
     },
     {
-      "added_at": "2022-06-29 16:46:05",
+      "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1TGr8wA85mIUxewg8gyafM"
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/7AdbcETIVTQmmYDPFjM4Vr"
       },
       "artists": [
         {
-          "name": "AHO",
-          "url": "https://open.spotify.com/artist/2A2jCODLLDdV7IZv93r2OG"
+          "name": "Eusebeia",
+          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
         }
       ],
-      "duration_ms": 453190,
-      "name": "You told me you love running so I started to run too",
-      "url": "https://open.spotify.com/track/0SXOuHsgTkrCHB3RBCFioo"
+      "duration_ms": 332777,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/3HyEjRo5IQQGbPJBawmrmV"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Psyko Tropix",
-        "url": "https://open.spotify.com/album/41dR5jrIi0s9jXi5PSXp4N"
-      },
-      "artists": [
-        {
-          "name": "Vox Populi",
-          "url": "https://open.spotify.com/artist/1ytw8aB9k7QB3z4jg3zKgR"
-        }
-      ],
-      "duration_ms": 203317,
-      "name": "Caballo Blanco",
-      "url": "https://open.spotify.com/track/4hyrGkNTxTF35DE4E4O9Pi"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "Mother Earth Took Poison In Her Soil",
         "url": "https://open.spotify.com/album/51khhV7FVRw8a8zetDivzq"
       },
@@ -1141,36 +1141,20 @@
       "url": "https://open.spotify.com/track/1Gv11gEwbxAzwhXhPRcjyd"
     },
     {
-      "added_at": "2022-07-27 14:53:59",
+      "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/7AdbcETIVTQmmYDPFjM4Vr"
+        "name": "Psyko Tropix",
+        "url": "https://open.spotify.com/album/41dR5jrIi0s9jXi5PSXp4N"
       },
       "artists": [
         {
-          "name": "Eusebeia",
-          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
+          "name": "Vox Populi",
+          "url": "https://open.spotify.com/artist/1ytw8aB9k7QB3z4jg3zKgR"
         }
       ],
-      "duration_ms": 332777,
-      "name": "Cosmos",
-      "url": "https://open.spotify.com/track/3HyEjRo5IQQGbPJBawmrmV"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
-        "name": "Dream Telepathy",
-        "url": "https://open.spotify.com/album/7vDF5EblbrQ9ju6ShS6j0t"
-      },
-      "artists": [
-        {
-          "name": "Neukrapsio",
-          "url": "https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa"
-        }
-      ],
-      "duration_ms": 168005,
-      "name": "Dream Telepathy",
-      "url": "https://open.spotify.com/track/4iXK42dVRO9VNRCPsnW595"
+      "duration_ms": 203317,
+      "name": "Caballo Blanco",
+      "url": "https://open.spotify.com/track/4hyrGkNTxTF35DE4E4O9Pi"
     },
     {
       "added_at": "2022-07-27 14:53:59",
@@ -1187,6 +1171,22 @@
       "duration_ms": 302095,
       "name": "Hear/Say",
       "url": "https://open.spotify.com/track/354SiVY41qtnUPc0Ww6I1X"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "Dream Telepathy",
+        "url": "https://open.spotify.com/album/7vDF5EblbrQ9ju6ShS6j0t"
+      },
+      "artists": [
+        {
+          "name": "Neukrapsio",
+          "url": "https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa"
+        }
+      ],
+      "duration_ms": 168005,
+      "name": "Dream Telepathy",
+      "url": "https://open.spotify.com/track/4iXK42dVRO9VNRCPsnW595"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/4YlUqfyJ6IasiVEZ5D4GZE"
     },
     {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
-        "name": "igetunder",
-        "url": "https://open.spotify.com/album/5BHO11sWr5pt5BSpV5EkMb"
-      },
-      "artists": [
-        {
-          "name": "Aiden Marceron",
-          "url": "https://open.spotify.com/artist/7fEzFVP0ArPjriuTGCJIxf"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "igetunder",
-      "url": "https://open.spotify.com/track/6ufnWCg5FZi03nGBlVhmn5"
-    },
-    {
       "added_at": "2022-06-29 16:46:05",
       "album": {
         "name": "THIS MEANING TODAY",
@@ -1343,6 +1327,22 @@
       "duration_ms": 317893,
       "name": "potable water system emoji",
       "url": "https://open.spotify.com/track/6IQAmmBGmNGJYbfkgeN7hp"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "igetunder",
+        "url": "https://open.spotify.com/album/5BHO11sWr5pt5BSpV5EkMb"
+      },
+      "artists": [
+        {
+          "name": "Aiden Marceron",
+          "url": "https://open.spotify.com/artist/7fEzFVP0ArPjriuTGCJIxf"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "igetunder",
+      "url": "https://open.spotify.com/track/6ufnWCg5FZi03nGBlVhmn5"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
+        "name": "anytrip k.o",
+        "url": "https://open.spotify.com/album/3NC7GEko4qsdWQBFTeq1VI"
+      },
+      "artists": [
+        {
+          "name": "Shshellsh",
+          "url": "https://open.spotify.com/artist/7mTsEcQSj8X0AnxJDFwQQK"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "anytrip k.o",
+      "url": "https://open.spotify.com/track/2mtC9Uv2xJIk8wjA1wwboo"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
         "name": "No Rival",
         "url": "https://open.spotify.com/album/5OVvImHFdHqNf2hNRT5MS2"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 376384,
       "name": "No Rival",
       "url": "https://open.spotify.com/track/7FzOy6jnjFbU7NB8q0gXj9"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "anytrip k.o",
-        "url": "https://open.spotify.com/album/3NC7GEko4qsdWQBFTeq1VI"
-      },
-      "artists": [
-        {
-          "name": "Shshellsh",
-          "url": "https://open.spotify.com/artist/7mTsEcQSj8X0AnxJDFwQQK"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "anytrip k.o",
-      "url": "https://open.spotify.com/track/2mtC9Uv2xJIk8wjA1wwboo"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1601,6 +1601,22 @@
       "url": "https://open.spotify.com/track/5dAb6s9enOG038eYY4efBk"
     },
     {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/7F63gRu10MKegVkm7l9HZp"
+      },
+      "artists": [
+        {
+          "name": "Logic Lost",
+          "url": "https://open.spotify.com/artist/5lp3vcEKa04pzONHOZJ7Td"
+        }
+      ],
+      "duration_ms": 546500,
+      "name": "Inconsiderate",
+      "url": "https://open.spotify.com/track/5pTKnE4eUMLCKAnlF8mSO1"
+    },
+    {
       "added_at": "2022-06-29 16:46:05",
       "album": {
         "name": "The Images Within",
@@ -1631,22 +1647,6 @@
       "duration_ms": 229450,
       "name": "A Beat for Peace",
       "url": "https://open.spotify.com/track/4raCAWMhMMk0pXJoEsL47w"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/7F63gRu10MKegVkm7l9HZp"
-      },
-      "artists": [
-        {
-          "name": "Logic Lost",
-          "url": "https://open.spotify.com/artist/5lp3vcEKa04pzONHOZJ7Td"
-        }
-      ],
-      "duration_ms": 546500,
-      "name": "Inconsiderate",
-      "url": "https://open.spotify.com/track/5pTKnE4eUMLCKAnlF8mSO1"
     },
     {
       "added_at": "2022-07-27 14:53:59",

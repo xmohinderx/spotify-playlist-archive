@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!!  \nCover: Whiskey Myers",
-  "num_followers": 468039,
+  "num_followers": 468164,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDA3ODE0OTAzMTMyOTBmZTg5NDhlMjJkOTUwN2YyYmQw",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGVjZWEzZTYzMTg5MTI0ZTNjNmVhZmE2NDc3MmQ0NDZk",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Workin' Man",
-        "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 218419,
-      "name": "Workin' Man",
-      "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Call It Country",
         "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 151148,
       "name": "Call It Country",
       "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Workin' Man",
+        "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 218419,
+      "name": "Workin' Man",
+      "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Whole World Gone Crazy",
-        "url": "https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Whole World Gone Crazy",
-      "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "My Ex Came Over",
         "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 175000,
       "name": "My Ex Came Over",
       "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Whole World Gone Crazy",
+        "url": "https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Whole World Gone Crazy",
+      "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Frayed At Both Ends",
+        "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+        }
+      ],
+      "duration_ms": 268162,
+      "name": "Pull Me Under",
+      "url": "https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "To Hank (feat. HARDY, Brantley Gilbert & Colt Ford)",
         "url": "https://open.spotify.com/album/6PNMatU3htyk6mAK7xv6qW"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 197314,
       "name": "To Hank (feat. HARDY, Brantley Gilbert & Colt Ford)",
       "url": "https://open.spotify.com/track/5mOAXvYO4xSppP2NmrBhQu"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Frayed At Both Ends",
-        "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lewis",
-          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
-        }
-      ],
-      "duration_ms": 268162,
-      "name": "Pull Me Under",
-      "url": "https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "These Old Boots",
+        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
+      },
+      "artists": [
+        {
+          "name": "Seth Anthony",
+          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
+        }
+      ],
+      "duration_ms": 206307,
+      "name": "These Old Boots",
+      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "EOM - EP",
         "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 207215,
       "name": "Payback (feat. The Cadillac Three)",
       "url": "https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "These Old Boots",
-        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
-      },
-      "artists": [
-        {
-          "name": "Seth Anthony",
-          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
-        }
-      ],
-      "duration_ms": 206307,
-      "name": "These Old Boots",
-      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Long Shots",
-        "url": "https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs"
-      },
-      "artists": [
-        {
-          "name": "Tim Montana",
-          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Get Em Up",
-      "url": "https://open.spotify.com/track/17B1eRYbcpI808XW81JnMw"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Solid Gold Sounds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 251437,
       "name": "Hard Time With The Truth",
       "url": "https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Long Shots",
+        "url": "https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Get Em Up",
+      "url": "https://open.spotify.com/track/17B1eRYbcpI808XW81JnMw"
     },
     {
       "added_at": "2022-08-05 04:00:00",

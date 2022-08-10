@@ -2,7 +2,7 @@
 
 ### [Reggaetón Viejito](https://open.spotify.com/playlist/37i9dQZF1DWWU6Rfto8Ppm)
 
-> Acuérdate de estas canciones clásicas\. Foto: Plan B.
+> Acuérdate de estas canciones clásicas\. Foto: Wisin & Yandel, el Dúo de la Historia.
 
 333 songs - 20 hr 9 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
@@ -39,7 +39,7 @@
 | [Ayer La Vi](https://open.spotify.com/track/3gvGnkmg8zVZdBAx4B7Cvq) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings \(Armageddon Edition\)](https://open.spotify.com/album/5P7eeivoVmpnalOUtwzj4h) | 4:12 | 2021-12-17 | 2022-07-29 |
 | [Baila Morena](https://open.spotify.com/track/4dNRA8hrqj7XJvFhGSQsKe) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Emigrante Del Mundo \(Remastered\)](https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ) | 3:04 | 2022-07-27 |  |
 | [Baila Morena \- Original Reggaeton Mix](https://open.spotify.com/track/0kwaKhIcaezQuShga1djFA) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Baila Morena \(Reggaeton Mix\)](https://open.spotify.com/album/6bkuWevak6ZwLiXZaNVNSr) | 3:07 | 2021-12-17 | 2022-07-28 |
-| [Bailame](https://open.spotify.com/track/491iDJVvDHYffvfKUIMWhC) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [2007 Años De Exitos Reggaeton](https://open.spotify.com/album/26zyyIjsP6eCPV9H7urkVq) | 3:41 | 2022-05-24 |  |
+| [Bailame](https://open.spotify.com/track/491iDJVvDHYffvfKUIMWhC) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [2007 Años De Exitos Reggaeton](https://open.spotify.com/album/26zyyIjsP6eCPV9H7urkVq) | 3:41 | 2022-05-24 | 2022-08-10 |
 | [Bailando Fue](https://open.spotify.com/track/5IhmIlLgSpp9GtztqrTP2v) | [Randy](https://open.spotify.com/artist/3Bh5LUCB8SMwsScrfIRf6e), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Bailando Fue](https://open.spotify.com/album/4YB6pWN3gdxtfM3ZZt6AOh) | 4:21 | 2021-12-17 |  |
 | [Bailando Provocas](https://open.spotify.com/track/3IaMJw9SJ1VxI1pjUQUtWB) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 2:22 | 2021-12-17 |  |
 | [Bailando Quiero Verlas](https://open.spotify.com/track/7L70JFP6AVHi4DJKP1gH1p) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Playero 41: Past Present & Future Part 1](https://open.spotify.com/album/3flZYLVafxIZDaEiAdZ6y8) | 2:53 | 2022-05-24 | 2022-06-03 |
@@ -337,7 +337,7 @@
 | [Yo Se Que Tu Quieres \(feat\. Ñengo Flow\)](https://open.spotify.com/track/3fNnPoIaVT16aLZnswQdCV) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Yo Se Que Tu Quieres \(feat\. Ñengo Flow\)](https://open.spotify.com/album/01PhXmyyzAVc5bkcgS2cms) | 3:28 | 2021-12-17 |  |
 | [Yo Te Lo Dije](https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:40 | 2021-12-17 |  |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2021-12-17 |  |
-| [Yo Voy A Legar \(feat\. Zion\)](https://open.spotify.com/track/0m2CS9McLcfM6UNtUBagyn) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Mi Historia](https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR) | 3:59 | 2021-12-17 | 2022-07-29 |
+| [Yo Voy A Legar \(feat\. Zion\)](https://open.spotify.com/track/0m2CS9McLcfM6UNtUBagyn) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Mi Historia](https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR) | 3:59 | 2021-12-17 |  |
 | [Yo Voy A Llegar](https://open.spotify.com/track/6vakABC8veui722qtIXy18) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Flow La Discoteca Special Edition](https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX) | 3:45 | 2021-12-17 |  |
 | [Zun Da Da](https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 5:04 | 2021-12-17 |  |
 | [¿Por Que Te Demoras?](https://open.spotify.com/track/6nAlJuLlRlpAcq30xIqKJs) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2022-07-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 657135,
+  "num_followers": 657405,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU3NDY3MCwwMDAwMDAwMDg1MDljZWM4ZGExMzA0ODE5YTIxOTM5NDU3ZjA2ZDRl",
+  "snapshot_id": "MTY1NzU3NDY3MCwwMDAwMDAwMDE2MmQ2YTEwODJjZjE5ODE1MDFlMmY0OWFkNzU0NzIx",
   "tracks": [
     {
       "added_at": "2022-07-11 21:24:30",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 288493,
-      "name": "Milk & Honey - Alt Version",
-      "url": "https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Nocturne EP",
         "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 268626,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 288493,
+      "name": "Milk & Honey - Alt Version",
+      "url": "https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Noonday Dream",
-        "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 394320,
-      "name": "Nica Libres At Dusk",
-      "url": "https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Queen of Disaster",
         "url": "https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Bones EP",
-        "url": "https://open.spotify.com/album/6px8K9UGkJZ3gDzxsPGUyl"
+        "name": "Noonday Dream",
+        "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 265098,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/2iddHfAqBKMJkXerLA9F9I"
+      "duration_ms": 394320,
+      "name": "Nica Libres At Dusk",
+      "url": "https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -775,6 +759,22 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
+        "name": "Bones EP",
+        "url": "https://open.spotify.com/album/6px8K9UGkJZ3gDzxsPGUyl"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 265098,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/2iddHfAqBKMJkXerLA9F9I"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Don't You Cry For Me",
-        "url": "https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs"
-      },
-      "artists": [
-        {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
-        }
-      ],
-      "duration_ms": 256333,
-      "name": "Don't You Cry For Me",
-      "url": "https://open.spotify.com/track/6fhEYtnORqxaEoxSrMH2bx"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Fear Fun",
         "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 143240,
       "name": "O I Long to Feel Your Arms Around Me",
       "url": "https://open.spotify.com/track/0rGB4l2BHJhL4C1s8w6jZG"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Don't You Cry For Me",
+        "url": "https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "duration_ms": 256333,
+      "name": "Don't You Cry For Me",
+      "url": "https://open.spotify.com/track/6fhEYtnORqxaEoxSrMH2bx"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
+        "name": "Into the Glass - EP",
+        "url": "https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Laura Doggett",
+          "url": "https://open.spotify.com/artist/2lFvv8FA5ersMzaJyvmeae"
         }
       ],
-      "duration_ms": 212258,
-      "name": "Big Sky",
-      "url": "https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL"
+      "duration_ms": 203360,
+      "name": "Beautiful Undone",
+      "url": "https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1307,34 +1307,18 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Into the Glass - EP",
-        "url": "https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of"
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
       },
       "artists": [
         {
-          "name": "Laura Doggett",
-          "url": "https://open.spotify.com/artist/2lFvv8FA5ersMzaJyvmeae"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 203360,
-      "name": "Beautiful Undone",
-      "url": "https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf"
-      },
-      "artists": [
-        {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
-        }
-      ],
-      "duration_ms": 300960,
-      "name": "My Love Took Me Down To the River To Silence Me",
-      "url": "https://open.spotify.com/track/5wTh0TKsazGQ6iE2wJLOBH"
+      "duration_ms": 212258,
+      "name": "Big Sky",
+      "url": "https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "duration_ms": 300960,
+      "name": "My Love Took Me Down To the River To Silence Me",
+      "url": "https://open.spotify.com/track/5wTh0TKsazGQ6iE2wJLOBH"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
         "name": "Beneath The Skin (Deluxe)",
         "url": "https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Metals",
-        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "How Come You Never Go There",
-      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Gabrielle Shonk",
         "url": "https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 249413,
       "name": "Habit",
       "url": "https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Metals",
+        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "How Come You Never Go There",
+      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
     },
     {
       "added_at": "2022-07-11 21:24:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: Caio Luccas, Tz da Coronel, Dallass, Filipe Ret, Mc Maneirinho, PJ Houdini, Anezzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,865 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,653 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 15 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [MVK](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 |
 | 16 | [Quadriciclo](https://open.spotify.com/track/0J8LV0mKp1a2mBeiJTv1xZ) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Quadriciclo](https://open.spotify.com/album/4HsEBX999Dg4OHYPAWULJC) | 2:36 |
 | 17 | [Ai Calica](https://open.spotify.com/track/6NfcophozKrarDAfjAC8JB) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Joias do Bairro](https://open.spotify.com/album/4FbcW3acqCCa64ePx1fKOr) | 3:44 |
-| 18 | [O Justo Não Treme](https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [O Justo Não Treme](https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA) | 2:49 |
+| 18 | [O Justo Não Treme](https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [O Justo Não Treme](https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA) | 2:49 |
 | 19 | [Shinigami](https://open.spotify.com/track/67F9pN19ZExJW3jrAlhZon) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Shinigami](https://open.spotify.com/album/3pvaZgXR9WQxyQsM1s0nRP) | 2:53 |
 | 20 | [Tropa do Mais Novo](https://open.spotify.com/track/1Afqu53uuGNHKXyCfNIqhW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Tropa do Mais Novo](https://open.spotify.com/album/1HDwGbuDmbuu8WJG81cCMV) | 3:21 |
 | 21 | [A Cara do Crime 3 \(Brinde à Liberdade\)](https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP) | [A Cara do Crime 3 \(Brinde à Liberdade\)](https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv) | 5:00 |

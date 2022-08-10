@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGM4YjM3YmFmYWEyYmEwYjIyYTQ1ODhlZjlkOTgyY2Ey",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGUwZThlOGE5ZDlmYmUwMDQxZDUxYjY5NzM3YzFiNDRi",
   "tracks": [
     {
       "added_at": "2021-07-12 18:09:21",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Just Funkin' Around",
-        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
-      },
-      "artists": [
-        {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "Right Back Atcha",
-      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Quintastic",
         "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 243685,
       "name": "Quintastic",
       "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "Right Back Atcha",
+      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -599,18 +599,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Chocolate Vibez",
-        "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
       "artists": [
         {
-          "name": "Jeanette Harris",
-          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        },
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 254011,
-      "name": "Crown Royal",
-      "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
+      "duration_ms": 242413,
+      "name": "Groovin' U (f",
+      "url": "https://open.spotify.com/track/63XAVsskaasvNFwuX9bDrB"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -631,22 +635,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+        "name": "Chocolate Vibez",
+        "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        },
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Jeanette Harris",
+          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
         }
       ],
-      "duration_ms": 242413,
-      "name": "Groovin' U (f",
-      "url": "https://open.spotify.com/track/63XAVsskaasvNFwuX9bDrB"
+      "duration_ms": 254011,
+      "name": "Crown Royal",
+      "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -697,6 +697,26 @@
       "url": "https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Hello Tomorrow",
+        "url": "https://open.spotify.com/album/755FhIw58on45zjf2hSpz7"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 291386,
+      "name": "When Will I Know For Sure",
+      "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
+    },
+    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "West Coast Soul",
@@ -731,26 +751,6 @@
       "duration_ms": 253946,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Hello Tomorrow",
-        "url": "https://open.spotify.com/album/755FhIw58on45zjf2hSpz7"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        },
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 291386,
-      "name": "When Will I Know For Sure",
-      "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Poetry In Motion",
         "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 280613,
       "name": "Stratosphere",
       "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
     },
     {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Leave It to the Gods",
+        "url": "https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX"
+      },
+      "artists": [
+        {
+          "name": "D.S. Wilson",
+          "url": "https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "Leave It to the Gods",
+      "url": "https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu"
+    },
+    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "In the Moment",
@@ -969,20 +985,20 @@
       "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Leave It to the Gods",
-        "url": "https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX"
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
       },
       "artists": [
         {
-          "name": "D.S. Wilson",
-          "url": "https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO"
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
         }
       ],
-      "duration_ms": 266506,
-      "name": "Leave It to the Gods",
-      "url": "https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu"
+      "duration_ms": 316377,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -999,22 +1015,6 @@
       "duration_ms": 294946,
       "name": "Before I Let Go",
       "url": "https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "My One And Only One",
-        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 316377,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 248071,
-      "name": "Kiss and Tell",
-      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 256652,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 248071,
+      "name": "Kiss and Tell",
+      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/3AXyBPdf2uUHzQw2fec9vl"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 236273,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "G (Bonus Version)",
@@ -1203,6 +1187,22 @@
       "duration_ms": 244600,
       "name": "Taking Control",
       "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/3AXyBPdf2uUHzQw2fec9vl"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 236273,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1225,6 +1225,22 @@
       "url": "https://open.spotify.com/track/4CJZDnyEHyl8ZZlQ9WJxeF"
     },
     {
+      "added_at": "2021-08-06 04:01:00",
+      "album": {
+        "name": "Lookin' Up",
+        "url": "https://open.spotify.com/album/4RbIzwLIasB2M2l5cmPmdk"
+      },
+      "artists": [
+        {
+          "name": "Tom Braxton",
+          "url": "https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK"
+        }
+      ],
+      "duration_ms": 251142,
+      "name": "Sharon's Groove",
+      "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Smooth Jazz SAX Showcase",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Just Like Heaven",
-        "url": "https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jackson",
-          "url": "https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5"
-        }
-      ],
-      "duration_ms": 347066,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Pride And Joy",
         "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
       },
@@ -1273,20 +1273,20 @@
       "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
     },
     {
-      "added_at": "2021-08-06 04:01:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Lookin' Up",
-        "url": "https://open.spotify.com/album/4RbIzwLIasB2M2l5cmPmdk"
+        "name": "Just Like Heaven",
+        "url": "https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6"
       },
       "artists": [
         {
-          "name": "Tom Braxton",
-          "url": "https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK"
+          "name": "Antonio Jackson",
+          "url": "https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5"
         }
       ],
-      "duration_ms": 251142,
-      "name": "Sharon's Groove",
-      "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
+      "duration_ms": 347066,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Sexy Saxy, Vol. 3",
+        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 263128,
+      "name": "What U Want, What U Need",
+      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Undeniable",
         "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Sexy Saxy, Vol. 3",
-        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
-      },
-      "artists": [
-        {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
-        }
-      ],
-      "duration_ms": 263128,
-      "name": "What U Want, What U Need",
-      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Pulling Off The Covers",
-        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 248880,
-      "name": "Setembro",
-      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Soul Ties",
         "url": "https://open.spotify.com/album/5Qe5J6bW0EyChzBZwg7Zve"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 267272,
       "name": "Tailgate",
       "url": "https://open.spotify.com/track/60BTc4nKmy4zpHu9h93NQe"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Pulling Off The Covers",
+        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 248880,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "M.P.3",
+        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Gonna' Miss You",
+      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Moment of Truth",
         "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
       },
@@ -1573,22 +1589,6 @@
       "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 261401,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
-    },
-    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "Say What",
@@ -1603,22 +1603,6 @@
       "duration_ms": 227077,
       "name": "Say What",
       "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "M.P.3",
-        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Gonna' Miss You",
-      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1657,6 +1641,38 @@
       "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 261401,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Room 143",
+        "url": "https://open.spotify.com/album/6Cxe7koVb99G7Kj9xq1RAn"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 255034,
+      "name": "Room 143",
+      "url": "https://open.spotify.com/track/451nSdShMhPPmJ6OUTzOfC"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Can't Let Go",
@@ -1687,22 +1703,6 @@
       "duration_ms": 259019,
       "name": "Essence",
       "url": "https://open.spotify.com/track/0UyiDNoxlWfrJIeNXGOE5I"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "The Whisper of Your Heart",
-        "url": "https://open.spotify.com/album/413FMdhsdjpe4rWytLFtCW"
-      },
-      "artists": [
-        {
-          "name": "Igor Gerzina",
-          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
-        }
-      ],
-      "duration_ms": 243947,
-      "name": "The Whisper of Your Heart",
-      "url": "https://open.spotify.com/track/726pv7bhUv9r2ol9oIzehq"
     }
   ],
   "unique_name": "Sax and the City",

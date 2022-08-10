@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
-  "num_followers": 4562,
+  "num_followers": 4561,
   "original_name": "Viral 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEzMjkxMTA1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEzMzY1MzQyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Purple Hearts (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "duration_ms": 176859,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "engravings",
         "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
@@ -57,7 +57,39 @@
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "Shut Up and Listen",
         "url": "https://open.spotify.com/album/3wAAwpD30OPym42xsioMmc"
@@ -77,39 +109,7 @@
       "url": "https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "NEON BLADE",
-        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 265263,
-      "name": "NEON BLADE",
-      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
@@ -125,7 +125,23 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "Murder In My Mind",
         "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
@@ -141,43 +157,7 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
-      },
-      "artists": [
-        {
-          "name": "The Minions",
-          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
-        }
-      ],
-      "duration_ms": 98211,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Shootout",
-        "url": "https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5"
-      },
-      "artists": [
-        {
-          "name": "Izzamuzzic",
-          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        }
-      ],
-      "duration_ms": 295308,
-      "name": "Shootout",
-      "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -197,7 +177,27 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Shootout",
+        "url": "https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5"
+      },
+      "artists": [
+        {
+          "name": "Izzamuzzic",
+          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "duration_ms": 295308,
+      "name": "Shootout",
+      "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "Murder In My Mind (Sped Up)",
         "url": "https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ"
@@ -213,7 +213,127 @@
       "url": "https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Deaf 2 Society",
+        "url": "https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby"
+      },
+      "artists": [
+        {
+          "name": "Luclover",
+          "url": "https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60"
+        }
+      ],
+      "duration_ms": 103440,
+      "name": "L$d",
+      "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "duration_ms": 98211,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Chrissy, Wake Up",
+        "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
+      },
+      "artists": [
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        }
+      ],
+      "duration_ms": 65454,
+      "name": "Chrissy, Wake Up",
+      "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Baby Hotline / Tea Errors",
+        "url": "https://open.spotify.com/album/1AaAZVHtUWpJuLpq96VUuQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Stauber's Micropop",
+          "url": "https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC"
+        }
+      ],
+      "duration_ms": 291317,
+      "name": "Baby Hotline",
+      "url": "https://open.spotify.com/track/1R8kvV2AgNPCA2Pp4Im1Ao"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "K\u00fdm St\u00fapa Dym",
+        "url": "https://open.spotify.com/album/4ZFjxgNWHaH0RqlQueoFUL"
+      },
+      "artists": [
+        {
+          "name": "WIG",
+          "url": "https://open.spotify.com/artist/2ByQWzS4D7NeIg7ioQNDG4"
+        },
+        {
+          "name": "sak10denz",
+          "url": "https://open.spotify.com/artist/0vFxwYnfZWFzORdjR5Assr"
+        },
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        }
+      ],
+      "duration_ms": 210163,
+      "name": "K\u00fdm St\u00fapa Dym",
+      "url": "https://open.spotify.com/track/1QxoFtjpKWbC6PyR8TNAfH"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "Car's Outside",
+      "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
@@ -233,171 +353,7 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Betty (Get Money)",
-        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 146470,
-      "name": "Betty (Get Money)",
-      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "Car's Outside",
-      "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Baby Hotline / Tea Errors",
-        "url": "https://open.spotify.com/album/1AaAZVHtUWpJuLpq96VUuQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Stauber's Micropop",
-          "url": "https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC"
-        }
-      ],
-      "duration_ms": 291317,
-      "name": "Baby Hotline",
-      "url": "https://open.spotify.com/track/1R8kvV2AgNPCA2Pp4Im1Ao"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Chrissy, Wake Up",
-        "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
-      },
-      "artists": [
-        {
-          "name": "The Gregory Brothers",
-          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
-        }
-      ],
-      "duration_ms": 65454,
-      "name": "Chrissy, Wake Up",
-      "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Deaf 2 Society",
-        "url": "https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby"
-      },
-      "artists": [
-        {
-          "name": "Luclover",
-          "url": "https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60"
-        }
-      ],
-      "duration_ms": 103440,
-      "name": "L$d",
-      "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "MIDNIGHT",
-        "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
-      },
-      "artists": [
-        {
-          "name": "PLAYAMANE",
-          "url": "https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS"
-        },
-        {
-          "name": "Nateki",
-          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
-        }
-      ],
-      "duration_ms": 121972,
-      "name": "MIDNIGHT",
-      "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "IMMACULATE",
         "url": "https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt"
@@ -413,147 +369,23 @@
       "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
       "album": {
-        "name": "KOKAINA",
-        "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
       "artists": [
         {
-          "name": "DR. VODKA",
-          "url": "https://open.spotify.com/artist/3qb0oGqshqtUmp7AMfKoZi"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 166437,
-      "name": "KOKAINA",
-      "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 135902,
-      "name": "SNAP - High and Fast",
-      "url": "https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Shootout (Sped Up)",
-        "url": "https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr"
-      },
-      "artists": [
-        {
-          "name": "Izzamuzzic",
-          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        }
-      ],
-      "duration_ms": 242142,
-      "name": "Shootout (Sped Up)",
-      "url": "https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Ch\u00fdba\u0161 mi",
-        "url": "https://open.spotify.com/album/2OJ26HYxSjkzfKf62ilFCv"
-      },
-      "artists": [
-        {
-          "name": "SIMILIVINLIFE",
-          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
-        },
-        {
-          "name": "AstralKid22",
-          "url": "https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "Hot AF",
-      "url": "https://open.spotify.com/track/3TYJocQQ19oJT77bH3KVse"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Costa Rica",
-        "url": "https://open.spotify.com/album/4ywSu0JCtzQD1IpXZn2eQf"
-      },
-      "artists": [
-        {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        }
-      ],
-      "duration_ms": 141147,
-      "name": "Costa Rica",
-      "url": "https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "die first",
-        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 177108,
-      "name": "die first",
-      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "Victoria\u2019s Secret",
         "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
@@ -569,251 +401,23 @@
       "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
       "album": {
-        "name": "Like Wooh Wooh",
-        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+        "name": "Mockingbird (Remix)",
+        "url": "https://open.spotify.com/album/7BXb7pTQSCicF0duwhWd9E"
       },
       "artists": [
         {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+          "name": "E1 (3x3)",
+          "url": "https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B"
         }
       ],
-      "duration_ms": 196044,
-      "name": "Like Wooh Wooh",
-      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
+      "duration_ms": 192362,
+      "name": "Mockingbird - Remix",
+      "url": "https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Superache",
-        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 216094,
-      "name": "Family Line",
-      "url": "https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 159123,
-      "name": "For My Hand (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Paro (Speed Up)",
-        "url": "https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Paro - Speed Up",
-      "url": "https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Banan",
-        "url": "https://open.spotify.com/album/03VJ4k855Lav4Xj030ODgE"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
-        },
-        {
-          "name": "Peter Pann",
-          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
-        },
-        {
-          "name": "Pi\u0161ta Lakato\u0161",
-          "url": "https://open.spotify.com/artist/3opFasaiF4kBK4BZ60CifQ"
-        }
-      ],
-      "duration_ms": 245156,
-      "name": "Hop \u010cip",
-      "url": "https://open.spotify.com/track/7sqpK9TpNVIWSn01Nm2AUu"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Sexu\u00e1lna",
-        "url": "https://open.spotify.com/album/45E6EZY5CXPDhGLfvwMcW3"
-      },
-      "artists": [
-        {
-          "name": "Daniella Stylist",
-          "url": "https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp"
-        }
-      ],
-      "duration_ms": 90859,
-      "name": "Sexu\u00e1lna",
-      "url": "https://open.spotify.com/track/5tDBMJcg9I8Qr7GRadaZpJ"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "FCKBOI",
-        "url": "https://open.spotify.com/album/7n2Z1ZTkG3nSDGCOWL3tph"
-      },
-      "artists": [
-        {
-          "name": "Slaytiiina",
-          "url": "https://open.spotify.com/artist/4qFGmEv8VYKCZGZzxnU4sy"
-        },
-        {
-          "name": "Daniella Stylist",
-          "url": "https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp"
-        }
-      ],
-      "duration_ms": 208913,
-      "name": "FCKBOI",
-      "url": "https://open.spotify.com/track/2OBKWbdBdMbq7g4v4hu3nc"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Show Me Your Back",
-        "url": "https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR"
-      },
-      "artists": [
-        {
-          "name": "FindMyName",
-          "url": "https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Show Me Your Back",
-      "url": "https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "after dark x sweater weather",
-        "url": "https://open.spotify.com/album/7xZP5oKCuxb4cRlzX0sFUe"
-      },
-      "artists": [
-        {
-          "name": "really sad music",
-          "url": "https://open.spotify.com/artist/1ypLXSXPK2XBhdcCFMa8N3"
-        }
-      ],
-      "duration_ms": 290571,
-      "name": "after dark x sweater weather",
-      "url": "https://open.spotify.com/track/4sGPzDEbvgrtBePr2cPWiv"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Below the Surface",
-        "url": "https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE"
-      },
-      "artists": [
-        {
-          "name": "Griffinilla",
-          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
-        }
-      ],
-      "duration_ms": 134857,
-      "name": "Below the Surface",
-      "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "TRAPPIN LONELY",
-        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        },
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Baby a Benzo",
-      "url": "https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "COWBELL WARRIOR!",
-        "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
-      },
-      "artists": [
-        {
-          "name": "Sxmpra",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIOR!",
-      "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
-      },
-      "artists": [
-        {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
-        }
-      ],
-      "duration_ms": 257147,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
-    },
-    {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "Blitzkrieg 2022 - Drammen",
         "url": "https://open.spotify.com/album/3GUUcR6YtDVmGPg5yEhFIf"
@@ -841,7 +445,83 @@
       "url": "https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "FCKBOI",
+        "url": "https://open.spotify.com/album/7n2Z1ZTkG3nSDGCOWL3tph"
+      },
+      "artists": [
+        {
+          "name": "Slaytiiina",
+          "url": "https://open.spotify.com/artist/4qFGmEv8VYKCZGZzxnU4sy"
+        },
+        {
+          "name": "Daniella Stylist",
+          "url": "https://open.spotify.com/artist/4fC1mpmySGsvvDDmXQIAYp"
+        }
+      ],
+      "duration_ms": 208913,
+      "name": "FCKBOI",
+      "url": "https://open.spotify.com/track/2OBKWbdBdMbq7g4v4hu3nc"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Ch\u00fdba\u0161 mi",
+        "url": "https://open.spotify.com/album/2OJ26HYxSjkzfKf62ilFCv"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        },
+        {
+          "name": "AstralKid22",
+          "url": "https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "Hot AF",
+      "url": "https://open.spotify.com/track/3TYJocQQ19oJT77bH3KVse"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f"
@@ -857,7 +537,287 @@
       "url": "https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1"
     },
     {
-      "added_at": "2022-08-08 16:25:05",
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Betty (Get Money)",
+        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "Betty (Get Money)",
+      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Costa Rica",
+        "url": "https://open.spotify.com/album/4ywSu0JCtzQD1IpXZn2eQf"
+      },
+      "artists": [
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "duration_ms": 141147,
+      "name": "Costa Rica",
+      "url": "https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
+      },
+      "artists": [
+        {
+          "name": "PLAYAMANE",
+          "url": "https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS"
+        },
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        }
+      ],
+      "duration_ms": 121972,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Paro (Speed Up)",
+        "url": "https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Paro - Speed Up",
+      "url": "https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Dni ako tieto",
+        "url": "https://open.spotify.com/album/583lfLoJW2HZ8CAvjNzVUc"
+      },
+      "artists": [
+        {
+          "name": "Matej Straka",
+          "url": "https://open.spotify.com/artist/4WB1NUL01OyTTuhNkdyljG"
+        },
+        {
+          "name": "Jerry Lee",
+          "url": "https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg"
+        },
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Dni ako tieto",
+      "url": "https://open.spotify.com/track/1qNOOrPgSBFhjg5gdbJOaf"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Below the Surface",
+        "url": "https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE"
+      },
+      "artists": [
+        {
+          "name": "Griffinilla",
+          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
+        }
+      ],
+      "duration_ms": 134857,
+      "name": "Below the Surface",
+      "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 135902,
+      "name": "SNAP - High and Fast",
+      "url": "https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "after dark x sweater weather",
+        "url": "https://open.spotify.com/album/7xZP5oKCuxb4cRlzX0sFUe"
+      },
+      "artists": [
+        {
+          "name": "really sad music",
+          "url": "https://open.spotify.com/artist/1ypLXSXPK2XBhdcCFMa8N3"
+        }
+      ],
+      "duration_ms": 290571,
+      "name": "after dark x sweater weather",
+      "url": "https://open.spotify.com/track/4sGPzDEbvgrtBePr2cPWiv"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Show Me Your Back",
+        "url": "https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR"
+      },
+      "artists": [
+        {
+          "name": "FindMyName",
+          "url": "https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Show Me Your Back",
+      "url": "https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "KOKAINA",
+        "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
+      },
+      "artists": [
+        {
+          "name": "DR. VODKA",
+          "url": "https://open.spotify.com/artist/3qb0oGqshqtUmp7AMfKoZi"
+        }
+      ],
+      "duration_ms": 166437,
+      "name": "KOKAINA",
+      "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
+      },
+      "artists": [
+        {
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+        }
+      ],
+      "duration_ms": 257147,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 196044,
+      "name": "Like Wooh Wooh",
+      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Shootout (Sped Up)",
+        "url": "https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr"
+      },
+      "artists": [
+        {
+          "name": "Izzamuzzic",
+          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "duration_ms": 242142,
+      "name": "Shootout (Sped Up)",
+      "url": "https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Banan",
+        "url": "https://open.spotify.com/album/03VJ4k855Lav4Xj030ODgE"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        },
+        {
+          "name": "Pi\u0161ta Lakato\u0161",
+          "url": "https://open.spotify.com/artist/3opFasaiF4kBK4BZ60CifQ"
+        }
+      ],
+      "duration_ms": 245156,
+      "name": "Hop \u010cip",
+      "url": "https://open.spotify.com/track/7sqpK9TpNVIWSn01Nm2AUu"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
+      },
+      "artists": [
+        {
+          "name": "Sxmpra",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
       "album": {
         "name": "WITHOUT A HEAD",
         "url": "https://open.spotify.com/album/4G3FWN8MVKRy2CguLCuGA1"
@@ -871,6 +831,54 @@
       "duration_ms": 120137,
       "name": "WITHOUT A HEAD",
       "url": "https://open.spotify.com/track/4EMHwQzXsVW3wvGjvVICcQ"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "BIG BOY FM",
+        "url": "https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "KOMANDER PUMP IT UP",
+      "url": "https://open.spotify.com/track/1sk1HMcretzLiljqIBAZ8J"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 216094,
+      "name": "Family Line",
+      "url": "https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5"
+    },
+    {
+      "added_at": "2022-08-09 13:02:22",
+      "album": {
+        "name": "Tvojho brata brat m\u00e1 brata",
+        "url": "https://open.spotify.com/album/5uEOuSRH2Em1TGDzREzMe1"
+      },
+      "artists": [
+        {
+          "name": "Hork\u00fd\u017ee Sl\u00ed\u017ee",
+          "url": "https://open.spotify.com/artist/1Vokrr21dze8HRk1oeWq9o"
+        }
+      ],
+      "duration_ms": 175695,
+      "name": "Tvojho brata brat m\u00e1 brata",
+      "url": "https://open.spotify.com/track/0Z8vTU6xcN2g3BPQeVdpZb"
     }
   ],
   "unique_name": "Viral 50 - Slovakia",

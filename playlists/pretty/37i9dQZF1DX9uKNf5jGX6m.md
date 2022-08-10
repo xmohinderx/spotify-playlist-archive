@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,747,723 likes - 261 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,747,926 likes - 261 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,4 +270,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 260 | [Leaving Port](https://open.spotify.com/track/4Qaa8G7prYX6W6XHGq0OIw) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [Leaving Port](https://open.spotify.com/album/0KC8Z2Q9mFlfbx0SgUY6i9) | 2:34 |
 | 261 | [Calm Rivers](https://open.spotify.com/track/6KUSRcBYmNADirGQcEZ2gK) | [La Reve](https://open.spotify.com/artist/2ErQOxV30K78vn1Keuop5S) | [Wings of Glass](https://open.spotify.com/album/21e20xZy03LjLjyKeD3URK) | 3:03 |
 
-Snapshot ID: `MTY1ODk5NjkwMiwwMDAwMDAwMGMyMjlhNWJkODVhZWFkZGUwZTkxNTk3YTE3NWY3ODJm`
+Snapshot ID: `MTY2MDA1MDA4NSwwMDAwMDAwMGU3NTdhOGMwOTVjNWMwZDUxMjhhMzEwMDQ0MjU4MTBh`
