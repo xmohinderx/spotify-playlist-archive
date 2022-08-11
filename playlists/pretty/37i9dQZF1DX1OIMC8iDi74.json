@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 863758,
+  "num_followers": 863847,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDIwNzUzMjA1NmFmNTlkYWUxMWNhMTIwNWI1Nzk2OWU0",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDMzOGQxZGViMjE5NWI5MDkxOGZmNjFiYTU5MzQyYzMy",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Bap U",
+        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 168206,
+      "name": "Bap U",
+      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Bap U",
-        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 168206,
-      "name": "Bap U",
-      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -583,22 +583,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
+        "name": "6 FEET UNDER",
+        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
       },
       "artists": [
         {
-          "name": "Champagne Drip",
-          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
         },
         {
-          "name": "Lucii",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+          "name": "City Morgue",
+          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
         }
       ],
-      "duration_ms": 226285,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
+      "duration_ms": 154616,
+      "name": "WARDOGZ",
+      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -627,42 +627,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "6 FEET UNDER",
-        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
       },
       "artists": [
         {
-          "name": "GRAVEDGR",
-          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+          "name": "Champagne Drip",
+          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
         },
         {
-          "name": "City Morgue",
-          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
+          "name": "Lucii",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
         }
       ],
-      "duration_ms": 154616,
-      "name": "WARDOGZ",
-      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Cartel II",
-        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Reese LAFLARE",
-          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Fatal Attraction (feat. Reese LAFLARE)",
-      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
+      "duration_ms": 226285,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -683,6 +663,26 @@
       "duration_ms": 170000,
       "name": "O.G.",
       "url": "https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Cartel II",
+        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Fatal Attraction (feat. Reese LAFLARE)",
+      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "We Are Deadbeats (Vol. 4)",
+        "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 173413,
+      "name": "Stars Tonight",
+      "url": "https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "People I Know",
         "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 256500,
       "name": "Lone Wolf",
       "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "We Are Deadbeats (Vol. 4)",
-        "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 173413,
-      "name": "Stars Tonight",
-      "url": "https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Shiawase",
-        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
-      },
-      "artists": [
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 217787,
-      "name": "Shiawase",
-      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 121849,
       "name": "Spirits Pt. 2",
       "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Shiawase",
+        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 217787,
+      "name": "Shiawase",
+      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Apocalyptic",
-        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Apocalyptic",
-      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Blow the Roof",
         "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 245090,
       "name": "Do or Die (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Apocalyptic",
+        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Apocalyptic",
+      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
     },
     {
       "added_at": "2022-08-05 04:01:00",

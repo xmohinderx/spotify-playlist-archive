@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,223 likes - 74 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,262 likes - 74 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [432 Hz Crystal Bowl](https://open.spotify.com/track/77E3mdW9Yyw2SoSxod4UgG) | [Tibetanian](https://open.spotify.com/artist/2w4slIer7XY7fDEehJLONJ) | [432 Hz Crystal Bowl](https://open.spotify.com/album/4swun98t4e747mTtz4qkxg) | 2:54 |
 | 2 | [Sound of Sarvastivada](https://open.spotify.com/track/6U6vGLAjQBWeU4vmiujSaF) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Zen Gaya](https://open.spotify.com/album/54yk5I0Xqd2gL3B4h8Nff4) | 2:32 |
-| 3 | [Lamrim](https://open.spotify.com/track/0x8k5gECEEFCJV5x29S8z3) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 5:08 |
-| 4 | [Meditation Bowl](https://open.spotify.com/track/2oSyTqpN5HWrCCcBKLFJnf) | [Kristina Loveflower](https://open.spotify.com/artist/0DksfCfY3vEEIgwBRlmNkp) | [Singing Bowl Experience](https://open.spotify.com/album/2cx96BneOI9XIU7QCWqslK) | 1:52 |
-| 5 | [Spiritual Bowls](https://open.spotify.com/track/7yb3y3PY6fxWwH4IJaBDBv) | [Mantratown](https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV) | [Spiritual Bowls](https://open.spotify.com/album/5K2boNHVqwPsO7IdovXZdt) | 3:48 |
-| 6 | [Peaceful Bowls](https://open.spotify.com/track/5bqdWWJaK1sLMy58VYMIg4) | [Monkville](https://open.spotify.com/artist/53qEoYIkHrhdTdC6AaSoiJ) | [Gong Zone](https://open.spotify.com/album/1by9VUzQJ6RxtPpuFUR0WA) | 3:30 |
-| 7 | [Mixed Meditation Bowl Sounds](https://open.spotify.com/track/4w9bLHuNZlrvvv8E2vaFYN) | [Meditators](https://open.spotify.com/artist/35qLVQ5G13Moug3HQcf90C) | [Meditation Bowls](https://open.spotify.com/album/2AKGiEMHjSodVRkFyBdf0O) | 4:40 |
-| 8 | [Two Buddhas](https://open.spotify.com/track/5nswj67iqjMehDWatDDd1v) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 5:25 |
-| 9 | [Healing Mantra](https://open.spotify.com/track/4qNzM8Q6hYbm2bN0Q7lBOc) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 3:44 |
-| 10 | [Tibetan Singing Bowl E](https://open.spotify.com/track/295cCMtVjdRcrjzmKM3Y3Z) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Healing Tibetan Singing Bowl Notes](https://open.spotify.com/album/2EQ9a4prpb0I7eyvu4TTPE) | 2:25 |
-| 11 | [Crystal Bowl Dream](https://open.spotify.com/track/0f8DS6g7JIPQMzaONezO4g) | [iD8](https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z) | [Crystal Bowl Dream](https://open.spotify.com/album/6Bo4QllINweqhoOyn90NtA) | 2:15 |
-| 12 | [Tibetan Bowl \- Samadhi](https://open.spotify.com/track/6BtCrX8kKFEdKwq2FwRwmX) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Mindful Eclipse](https://open.spotify.com/album/0CfC4UCQEihJ4hNUz2rF3A) | 2:40 |
-| 13 | [Bodhisattva](https://open.spotify.com/track/4RgwHJ7kgVYp8sOICyshrh) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 3:27 |
+| 3 | [Mixed Meditation Bowl Sounds](https://open.spotify.com/track/4w9bLHuNZlrvvv8E2vaFYN) | [Meditators](https://open.spotify.com/artist/35qLVQ5G13Moug3HQcf90C) | [Meditation Bowls](https://open.spotify.com/album/2AKGiEMHjSodVRkFyBdf0O) | 4:40 |
+| 4 | [Lamrim](https://open.spotify.com/track/0x8k5gECEEFCJV5x29S8z3) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 5:08 |
+| 5 | [Two Buddhas](https://open.spotify.com/track/5nswj67iqjMehDWatDDd1v) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 5:25 |
+| 6 | [Healing Mantra](https://open.spotify.com/track/4qNzM8Q6hYbm2bN0Q7lBOc) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 3:44 |
+| 7 | [Tibetan Singing Bowl E](https://open.spotify.com/track/295cCMtVjdRcrjzmKM3Y3Z) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Healing Tibetan Singing Bowl Notes](https://open.spotify.com/album/2EQ9a4prpb0I7eyvu4TTPE) | 2:25 |
+| 8 | [Crystal Bowl Dream](https://open.spotify.com/track/0f8DS6g7JIPQMzaONezO4g) | [iD8](https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z) | [Crystal Bowl Dream](https://open.spotify.com/album/6Bo4QllINweqhoOyn90NtA) | 2:15 |
+| 9 | [Tibetan Bowl \- Samadhi](https://open.spotify.com/track/6BtCrX8kKFEdKwq2FwRwmX) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Mindful Eclipse](https://open.spotify.com/album/0CfC4UCQEihJ4hNUz2rF3A) | 2:40 |
+| 10 | [Bodhisattva](https://open.spotify.com/track/4RgwHJ7kgVYp8sOICyshrh) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 3:27 |
+| 11 | [Meditation Bowl](https://open.spotify.com/track/2oSyTqpN5HWrCCcBKLFJnf) | [Kristina Loveflower](https://open.spotify.com/artist/0DksfCfY3vEEIgwBRlmNkp) | [Singing Bowl Experience](https://open.spotify.com/album/2cx96BneOI9XIU7QCWqslK) | 1:52 |
+| 12 | [Spiritual Bowls](https://open.spotify.com/track/7yb3y3PY6fxWwH4IJaBDBv) | [Mantratown](https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV) | [Spiritual Bowls](https://open.spotify.com/album/5K2boNHVqwPsO7IdovXZdt) | 3:48 |
+| 13 | [Peaceful Bowls](https://open.spotify.com/track/5bqdWWJaK1sLMy58VYMIg4) | [Monkville](https://open.spotify.com/artist/53qEoYIkHrhdTdC6AaSoiJ) | [Gong Zone](https://open.spotify.com/album/1by9VUzQJ6RxtPpuFUR0WA) | 3:30 |
 | 14 | [Sati Bowl](https://open.spotify.com/track/4jgvF7VdROvGudjZCFsQv7) | [Dhyāna One](https://open.spotify.com/artist/0UFdIjW2UB80v8wuOMUrYC) | [Dhyāna](https://open.spotify.com/album/4aJArtbJHKy4F88Wy2pMn9) | 3:53 |
 | 15 | [Zen Tibetan Singing Bowls III](https://open.spotify.com/track/1t1JpR9dFGkoPaPemHT6My) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Zen Tibetan Singing Bowls](https://open.spotify.com/album/7fzlNnPVTaxRJSTnoo5UzM) | 4:26 |
 | 16 | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/track/6YnrlA0CTrkrjLVToXK0Eq) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/album/7mNJ2OhKnOiIuOAa61YzAb) | 2:53 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 | 73 | [528 Hz Singing Tibetan Bowl](https://open.spotify.com/track/5FlSEkinQuGnXatiZIs4XD) | [Chakra Shack](https://open.spotify.com/artist/3SeXI5wCsQRDEoReZONV4d) | [Awareness](https://open.spotify.com/album/6Sl36AMtt07HX5LVE6WG4a) | 2:15 |
 | 74 | [August](https://open.spotify.com/track/4ZbqtWFkXzlJS7HlmDmOrB) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Relaxing Tibetan Bowls](https://open.spotify.com/album/32WNC35kd87Lai664eZvwP) | 2:54 |
 
-Snapshot ID: `MTY1OTcxMjc0NywwMDAwMDAwMGEyMjIxZDIwOTRjM2JkMTc2YTViOTc1ZDA0NjlmYWRm`
+Snapshot ID: `MTY2MDEzMTA0OSwwMDAwMDAwMGI3ZGNhMGZmMGYzYzAxOTg3OWRjNzQ1ODBhY2Y1YjQw`

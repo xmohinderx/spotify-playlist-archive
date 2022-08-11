@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Josh Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,146 likes - 196 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,166 likes - 196 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

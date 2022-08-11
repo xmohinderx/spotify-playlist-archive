@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ben Reilly
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,504 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,695 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 45 | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP) | 3:08 |
 | 46 | [AMBEYONCÉ \(feat\. Smino\)](https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [GHETTO GODS \(Deluxe\)](https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2) | 3:21 |
 | 47 | [All Around The World \(with Duckwrth\)](https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [All Around The World \(with Duckwrth\)](https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt) | 2:47 |
-| 48 | [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 |
-| 49 | [The Root of All \(feat\. Slick Rick & Lil Wayne\)](https://open.spotify.com/track/3rSiXFJlhhhy36761mj9js) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hip Hop 50: Vol\. 1](https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm) | 2:17 |
+| 48 | [The Root of All \(feat\. Slick Rick & Lil Wayne\)](https://open.spotify.com/track/3rSiXFJlhhhy36761mj9js) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hip Hop 50: Vol\. 1](https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm) | 2:17 |
+| 49 | [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 |
 | 50 | [Hold you up \(feat\. Annahstasia & Steven Bamidele\)](https://open.spotify.com/track/0VofOfBQCt2kZkNqMawsqb) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE), [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Get Used To It](https://open.spotify.com/album/3mNfeGxCFJ3fRZotZ7UhSO) | 3:56 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMGIwODAzN2Q0ZDY1YzhlYmRhMmVkMzExNjZhNWU2ZmYw`
+Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDA0MWI5ODU1MmYxMDhiMTM4MzM1ZDVhMTM2MzZiNDcw`

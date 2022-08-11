@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marion Raw.",
-  "num_followers": 30072,
+  "num_followers": 30088,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkxMTMzNiwwMDAwMDAwMGVjZDkwMGRkMGI2Nzk5OTUwMmY4MGQ2N2FjMTU2NDZl",
+  "snapshot_id": "MTY1NzkxMTMzNiwwMDAwMDAwMDMxMWI1ZDZlZTA2N2I1YjM2YjljMjZiNjUwMTMzODVk",
   "tracks": [
     {
       "added_at": "2022-07-15 18:55:36",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Gracias por Cuidar el Equipo",
-        "url": "https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY"
-      },
-      "artists": [
-        {
-          "name": "MUGRE",
-          "url": "https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Directa",
-      "url": "https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "15 A\u00f1os de Exitos",
         "url": "https://open.spotify.com/album/3R1IPI5OFMNFXrd7PfgZW6"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 257079,
       "name": "Azul Casi Morado",
       "url": "https://open.spotify.com/track/2UU9JV6RUuyveQWqq3xlBF"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Gracias por Cuidar el Equipo",
+        "url": "https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY"
+      },
+      "artists": [
+        {
+          "name": "MUGRE",
+          "url": "https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Directa",
+      "url": "https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Fogones Nocturnos",
-        "url": "https://open.spotify.com/album/6Yq9lqtDXpfStCm0cLtXII"
-      },
-      "artists": [
-        {
-          "name": "Sol Bassa",
-          "url": "https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O"
-        }
-      ],
-      "duration_ms": 236386,
-      "name": "Fogones Nocturnos",
-      "url": "https://open.spotify.com/track/2Kz28K1EKmHQLgevGuKBgB"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "Volar despierto",
         "url": "https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR"
       },
@@ -1203,38 +1187,6 @@
       "duration_ms": 246357,
       "name": "Volar despierto",
       "url": "https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
-        "name": "Todo el mundo miente",
-        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 207669,
-      "name": "Todo el mundo miente",
-      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
-        "name": "Sola y Feliz",
-        "url": "https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP"
-      },
-      "artists": [
-        {
-          "name": "Tiburona",
-          "url": "https://open.spotify.com/artist/3PsuZ4oedTsZIUXGgyV1t3"
-        }
-      ],
-      "duration_ms": 188861,
-      "name": "Sola y Feliz",
-      "url": "https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1255,18 +1207,34 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Mujer Contra Mujer",
-        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
+        "name": "Todo el mundo miente",
+        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
       },
       "artists": [
         {
-          "name": "Sandra Y Celeste",
-          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
         }
       ],
-      "duration_ms": 229373,
-      "name": "Mujer Contra Mujer",
-      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
+      "duration_ms": 207669,
+      "name": "Todo el mundo miente",
+      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Fogones Nocturnos",
+        "url": "https://open.spotify.com/album/6Yq9lqtDXpfStCm0cLtXII"
+      },
+      "artists": [
+        {
+          "name": "Sol Bassa",
+          "url": "https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "Fogones Nocturnos",
+      "url": "https://open.spotify.com/track/2Kz28K1EKmHQLgevGuKBgB"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1283,6 +1251,38 @@
       "duration_ms": 203094,
       "name": "Suave",
       "url": "https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Sola y Feliz",
+        "url": "https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP"
+      },
+      "artists": [
+        {
+          "name": "Tiburona",
+          "url": "https://open.spotify.com/artist/3PsuZ4oedTsZIUXGgyV1t3"
+        }
+      ],
+      "duration_ms": 188861,
+      "name": "Sola y Feliz",
+      "url": "https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Mujer Contra Mujer",
+        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
+      },
+      "artists": [
+        {
+          "name": "Sandra Y Celeste",
+          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Mujer Contra Mujer",
+      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "2 Espinas",
-        "url": "https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV"
-      },
-      "artists": [
-        {
-          "name": "Jessy Bulbo",
-          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "2 Espinas",
-      "url": "https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 180680,
       "name": "Somos",
       "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "2 Espinas",
+        "url": "https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV"
+      },
+      "artists": [
+        {
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "2 Espinas",
+      "url": "https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Esquizofrenia",
-        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "Dulce Fuerte Grave",
         "url": "https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 224119,
       "name": "Vengas Conmigo",
       "url": "https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "duration_ms": 188330,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu"
+        "name": "14:14",
+        "url": "https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk"
       },
       "artists": [
         {
-          "name": "Jessy Bulbo",
-          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+          "name": "MOY",
+          "url": "https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V"
         }
       ],
-      "duration_ms": 125256,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h"
+      "duration_ms": 191078,
+      "name": "14:14",
+      "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "14:14",
-        "url": "https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk"
-      },
-      "artists": [
-        {
-          "name": "MOY",
-          "url": "https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V"
-        }
-      ],
-      "duration_ms": 191078,
-      "name": "14:14",
-      "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
         "name": "Piel Fina",
         "url": "https://open.spotify.com/album/4W3lgXzDMNcHBi5ZS4QxYY"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 142222,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/40Y5HOWo4FsOYQITh36Vnj"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu"
+      },
+      "artists": [
+        {
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
+        "name": "Amanece Alima\u00f1a",
+        "url": "https://open.spotify.com/album/6PE2MLlzZgxj0KvrcOrwtG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Guada\u00f1a",
+          "url": "https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p"
+        }
+      ],
+      "duration_ms": 220986,
+      "name": "Amanece Alima\u00f1a",
+      "url": "https://open.spotify.com/track/58eBeXMtDWfekjL1CfgBmq"
+    },
+    {
+      "added_at": "2022-07-15 18:55:36",
+      "album": {
         "name": "Truco o Trato (Cap\u00edtulo I)",
         "url": "https://open.spotify.com/album/1TCp9KH1KiLydlh3cXPnfJ"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2022-07-15 18:55:36",
       "album": {
-        "name": "Amanece Alima\u00f1a",
-        "url": "https://open.spotify.com/album/6PE2MLlzZgxj0KvrcOrwtG"
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Guada\u00f1a",
-          "url": "https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p"
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
         }
       ],
-      "duration_ms": 220986,
-      "name": "Amanece Alima\u00f1a",
-      "url": "https://open.spotify.com/track/58eBeXMtDWfekjL1CfgBmq"
+      "duration_ms": 127799,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3"
     },
     {
       "added_at": "2022-07-15 18:55:36",
@@ -1603,22 +1619,6 @@
       "duration_ms": 243722,
       "name": "Proclama",
       "url": "https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W"
-    },
-    {
-      "added_at": "2022-07-15 18:55:36",
-      "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1"
-      },
-      "artists": [
-        {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
-        }
-      ],
-      "duration_ms": 127799,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3"
     }
   ],
   "unique_name": "Rockeras",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Blon y las mejores batallas\. Descubre música original de los participantes, solo aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,319 likes - 74 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,323 likes - 74 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

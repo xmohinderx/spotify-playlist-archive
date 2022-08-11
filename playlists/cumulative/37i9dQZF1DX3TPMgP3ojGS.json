@@ -24848,6 +24848,24 @@
     },
     {
       "album": {
+        "name": "Tu as disparu",
+        "url": "https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD"
+      },
+      "artists": [
+        {
+          "name": "Laetitia Dostie",
+          "url": "https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115915,
+      "name": "Tu as disparu",
+      "url": "https://open.spotify.com/track/7guzWL6scF2bIRud4Mfk9Y"
+    },
+    {
+      "album": {
         "name": "Tu brilles",
         "url": "https://open.spotify.com/album/3qg5hHtKgkTimpSAbRVrhc"
       },
@@ -26609,7 +26627,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 162000,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0"

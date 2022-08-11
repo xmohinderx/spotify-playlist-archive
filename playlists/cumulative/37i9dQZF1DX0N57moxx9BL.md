@@ -4,7 +4,7 @@
 
 > Crank up the recent hits of Christian rock\.  Cover artist: Wolves At The Gate
 
-102 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
+103 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [In the Night](https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [In the Night](https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7) | 4:43 | 2022-01-14 |  |
 | [Lazarus](https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP) | [Bellarive](https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX) | [Before There Was](https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX) | 5:04 | 2021-05-28 |  |
 | [Legendary](https://open.spotify.com/track/0NNH7mKaH2TxnSDBYOlFMK) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Legendary](https://open.spotify.com/album/5LNUSHuKsMdWwU9tnJV96C) | 2:48 | 2021-05-28 |  |
-| [Let Go](https://open.spotify.com/track/4jMnVm9mlXLPEfmQv7AiG2) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Three Nails](https://open.spotify.com/album/0RE2vOB4UfAJspcAgOUM8w) | 3:30 | 2021-05-28 |  |
+| [Let Go](https://open.spotify.com/track/4jMnVm9mlXLPEfmQv7AiG2) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Three Nails](https://open.spotify.com/album/0RE2vOB4UfAJspcAgOUM8w) | 3:30 | 2021-05-28 | 2022-08-11 |
+| [Let Go](https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Three Nails](https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc) | 3:30 | 2022-03-11 |  |
 | [Listen Friend](https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK) | [Above Only](https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn) | [Listen Friend](https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M) | 4:32 | 2022-01-14 |  |
 | [Live Again](https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH) | [Torndown](https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ) | [Live Again](https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG) | 3:45 | 2021-05-28 |  |
 | [Louder Than a Lion](https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT) | [Eisley](https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg) | [I'm Only Dreaming](https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP) | 3:56 | 2021-05-28 |  |

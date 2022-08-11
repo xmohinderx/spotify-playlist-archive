@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,813 likes - 49 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,834 likes - 49 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

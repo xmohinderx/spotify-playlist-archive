@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 39924,
+  "num_followers": 39976,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDA1Yjg0MDJmM2M4MjY0YTc2MDdjZDU5ZDg1Mjg3NWUw",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDNlZjlkYmZhNTYzN2YwMjE0NGQ0NjU2ZjYzNmIxMjll",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The Very Best of Explainer Vol.1 & 2",
-        "url": "https://open.spotify.com/album/60R5LNq4oXT9jDPrTwF4UV"
-      },
-      "artists": [
-        {
-          "name": "Explainer",
-          "url": "https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H"
-        }
-      ],
-      "duration_ms": 361333,
-      "name": "Lorraine",
-      "url": "https://open.spotify.com/track/49Tx7hbC5mqsK2PdemDpNn"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1Kp7PlvFtOcW7NtITnKOr4"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 211653,
       "name": "Time to Wine",
       "url": "https://open.spotify.com/track/0RTurdrnHJGULylOqWmgVy"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "The Very Best of Explainer Vol.1 & 2",
+        "url": "https://open.spotify.com/album/60R5LNq4oXT9jDPrTwF4UV"
+      },
+      "artists": [
+        {
+          "name": "Explainer",
+          "url": "https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H"
+        }
+      ],
+      "duration_ms": 361333,
+      "name": "Lorraine",
+      "url": "https://open.spotify.com/track/49Tx7hbC5mqsK2PdemDpNn"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Caribbean Road March 2001 and More",
-        "url": "https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP"
-      },
-      "artists": [
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Tay Lay Lay",
-      "url": "https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Soca Gold 2001",
         "url": "https://open.spotify.com/album/6PKI32VFc89X22YQW0bUf7"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 216653,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5Oe39YjfLgr9bPh7JG1j7V"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Caribbean Road March 2001 and More",
+        "url": "https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP"
+      },
+      "artists": [
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "Tay Lay Lay",
+      "url": "https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -691,6 +691,30 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Charge",
+        "url": "https://open.spotify.com/album/6hYk9G38OkC0SQjFOLDoAY"
+      },
+      "artists": [
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Wayne Rodriguez",
+          "url": "https://open.spotify.com/artist/3tkTFE3gM6p7EWW385JsVJ"
+        }
+      ],
+      "duration_ms": 276093,
+      "name": "Footsteps (feat. Wayne Rodriguez)",
+      "url": "https://open.spotify.com/track/6Wq2U3xlL953CurfNLWfeM"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Soca 101 Vol. 1",
         "url": "https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa"
       },
@@ -723,46 +747,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The Very Best of Super Blue",
-        "url": "https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI"
-      },
-      "artists": [
-        {
-          "name": "Super Blue",
-          "url": "https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM"
-        }
-      ],
-      "duration_ms": 393693,
-      "name": "Get Something and Wave",
-      "url": "https://open.spotify.com/track/0qfXpnvNnGozj1YFbxyYUn"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Charge",
-        "url": "https://open.spotify.com/album/6hYk9G38OkC0SQjFOLDoAY"
-      },
-      "artists": [
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Wayne Rodriguez",
-          "url": "https://open.spotify.com/artist/3tkTFE3gM6p7EWW385JsVJ"
-        }
-      ],
-      "duration_ms": 276093,
-      "name": "Footsteps (feat. Wayne Rodriguez)",
-      "url": "https://open.spotify.com/track/6Wq2U3xlL953CurfNLWfeM"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "The Gilded Collection 1986 - 1989",
         "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 433266,
       "name": "Calypso Music",
       "url": "https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "The Very Best of Super Blue",
+        "url": "https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI"
+      },
+      "artists": [
+        {
+          "name": "Super Blue",
+          "url": "https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM"
+        }
+      ],
+      "duration_ms": 393693,
+      "name": "Get Something and Wave",
+      "url": "https://open.spotify.com/track/0qfXpnvNnGozj1YFbxyYUn"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Soca for De World",
-        "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
-      },
-      "artists": [
-        {
-          "name": "Nigel Lewis",
-          "url": "https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F"
-        }
-      ],
-      "duration_ms": 317857,
-      "name": "Movin To De Left",
-      "url": "https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Dance Party Gold",
         "url": "https://open.spotify.com/album/4fdqG9SOOd87uSIOVrUgDE"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 595866,
       "name": "Miss Mary - Medley",
       "url": "https://open.spotify.com/track/2oMTYzJIlpQBYQoIk7YeLT"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca for De World",
+        "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
+      },
+      "artists": [
+        {
+          "name": "Nigel Lewis",
+          "url": "https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F"
+        }
+      ],
+      "duration_ms": 317857,
+      "name": "Movin To De Left",
+      "url": "https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
+          "name": "Fay-Ann Lyons",
+          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Get On",
+      "url": "https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Pure Soca",
         "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 250733,
       "name": "Big Truck",
       "url": "https://open.spotify.com/track/2YH84hlyInKrhJupJQMGtj"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
-      },
-      "artists": [
-        {
-          "name": "Fay-Ann Lyons",
-          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Get On",
-      "url": "https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA"
     },
     {
       "added_at": "2022-02-24 18:00:00",

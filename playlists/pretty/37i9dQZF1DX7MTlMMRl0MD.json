@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata. Cover: Ivy Queen ",
-  "num_followers": 1817613,
+  "num_followers": 1817776,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3NjMyNCwwMDAwMDAwMGYxYWRlNzBjNzUzMTMzM2Q2YTc4NWUzN2I5NGM1ZTRj",
+  "snapshot_id": "MTY1OTY3NjMyNCwwMDAwMDAwMDRkOTA2Y2I5OTRlNzQ2Y2ZkMzBmZWNhNTdjYjA2ZjA4",
   "tracks": [
     {
       "added_at": "2022-08-05 05:12:04",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
+        "name": "Si Esta Casa Hablara (Bachata Version)",
+        "url": "https://open.spotify.com/album/5MmpJfCJwF1CPtxU3FhoPD"
+      },
+      "artists": [
+        {
+          "name": "Joel Santos",
+          "url": "https://open.spotify.com/artist/7pQKmVxIJROJ9FpYq3cLie"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "Si Esta Casa Hablara (Bachata Version)",
+      "url": "https://open.spotify.com/track/1rI0P3zoKjEgIUFWGIE6KG"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
         "name": "Cuando Te Toco",
         "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 246759,
       "name": "Cuando Te Toco",
       "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
-        "name": "Si Esta Casa Hablara (Bachata Version)",
-        "url": "https://open.spotify.com/album/5MmpJfCJwF1CPtxU3FhoPD"
-      },
-      "artists": [
-        {
-          "name": "Joel Santos",
-          "url": "https://open.spotify.com/artist/7pQKmVxIJROJ9FpYq3cLie"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "Si Esta Casa Hablara (Bachata Version)",
-      "url": "https://open.spotify.com/track/1rI0P3zoKjEgIUFWGIE6KG"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
+        "name": "Bachata Stereo",
+        "url": "https://open.spotify.com/album/6iM9rAYY16NQmUIqeMmeVd"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        },
+        {
+          "name": "Alexandra",
+          "url": "https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "Se Busca Un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7hLJ1QPDXowcJruOxrbHvK"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
         "name": "Amor de Verdad",
         "url": "https://open.spotify.com/album/24MCC33x034nPk15G6K8MU"
       },
@@ -1207,26 +1227,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Bachata Stereo",
-        "url": "https://open.spotify.com/album/6iM9rAYY16NQmUIqeMmeVd"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
-        },
-        {
-          "name": "Alexandra",
-          "url": "https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Se Busca Un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7hLJ1QPDXowcJruOxrbHvK"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "Religi\u00f3n",
         "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 188055,
       "name": "Bailando Bachata",
       "url": "https://open.spotify.com/track/4jCiC3KDKNk1x8y16tupUb"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "Momentos de Cine",
+        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Desnudos",
+      "url": "https://open.spotify.com/track/0OIIQRWuA7UvljV4FwU5Wi"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Aventurero",
-        "url": "https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Aventurero",
-      "url": "https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "\u00c9xitos De Yoskar Sarante",
         "url": "https://open.spotify.com/album/0nAAlwEXjpJwEkLJo7yvG0"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Momentos de Cine",
-        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Desnudos",
-      "url": "https://open.spotify.com/track/0OIIQRWuA7UvljV4FwU5Wi"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "La Raiz",
         "url": "https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 200437,
       "name": "Borracho Y Loco",
       "url": "https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "Aventurero",
+        "url": "https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "Aventurero",
+      "url": "https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "This Is My Time",
-        "url": "https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 228089,
-      "name": "La Misma Mentira",
-      "url": "https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "Momentos de Cine",
         "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 166011,
       "name": "Ella Baila",
       "url": "https://open.spotify.com/track/2SpZXqtlhjoivW2dRovLZF"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 228089,
+      "name": "La Misma Mentira",
+      "url": "https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Sigo Siendo El Due\u00f1o",
-        "url": "https://open.spotify.com/album/3KdLyJ86sNefLScruUYqfU"
-      },
-      "artists": [
-        {
-          "name": "Andy Andy",
-          "url": "https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw"
-        }
-      ],
-      "duration_ms": 226613,
-      "name": "Sigo Siendo El Due\u00f1o",
-      "url": "https://open.spotify.com/track/2amDEL2PDqi5VruNH3Z387"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "Eso Es Amor",
         "url": "https://open.spotify.com/album/1vqTyXMquKPCMAH5kU528d"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 232954,
       "name": "Eso Es Amor",
       "url": "https://open.spotify.com/track/3ZKJvmw8fTozLYGHbftkGn"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "Sigo Siendo El Due\u00f1o",
+        "url": "https://open.spotify.com/album/3KdLyJ86sNefLScruUYqfU"
+      },
+      "artists": [
+        {
+          "name": "Andy Andy",
+          "url": "https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw"
+        }
+      ],
+      "duration_ms": 226613,
+      "name": "Sigo Siendo El Due\u00f1o",
+      "url": "https://open.spotify.com/track/2amDEL2PDqi5VruNH3Z387"
     },
     {
       "added_at": "2022-08-05 05:12:04",

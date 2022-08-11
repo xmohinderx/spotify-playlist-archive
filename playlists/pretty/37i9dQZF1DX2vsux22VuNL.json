@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Rico Dalasam",
-  "num_followers": 224772,
+  "num_followers": 224894,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY2ODQwMCwwMDAwMDAwMGFjYjc2NTUzYTY5MjM1YjQyM2M5MTVhOWViM2IwOGQx",
+  "snapshot_id": "MTY1OTY2ODQwMCwwMDAwMDAwMDQ2OWRkYTNmM2MyZTM3MmM4ZDk2YzIwMmM4Mzk0YTJk",
   "tracks": [
     {
       "added_at": "2022-08-05 03:00:00",
@@ -267,30 +267,6 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "Desligado",
-        "url": "https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC"
-      },
-      "artists": [
-        {
-          "name": "Yago Oproprio",
-          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
-        }
-      ],
-      "duration_ms": 122777,
-      "name": "Desligado",
-      "url": "https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
         "name": "N\u00e3o Demora",
         "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 182003,
       "name": "N\u00e3o Demora",
       "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
+        "name": "Desligado",
+        "url": "https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
+        }
+      ],
+      "duration_ms": 122777,
+      "name": "Desligado",
+      "url": "https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "AQUELA SORTE",
-        "url": "https://open.spotify.com/album/1AEdoC9BnOyBqdNFRfYSdY"
-      },
-      "artists": [
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "AQUELA SORTE",
-      "url": "https://open.spotify.com/track/1KNgifou3TjbGa7Xs4hYw1"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
         "name": "Te Decifrar",
         "url": "https://open.spotify.com/album/5uJX90BeQPh4tqIW1rpBLe"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 163199,
       "name": "Te Decifrar",
       "url": "https://open.spotify.com/track/3GPPyDAh78UHavPVSGZSfe"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
+        "name": "AQUELA SORTE",
+        "url": "https://open.spotify.com/album/1AEdoC9BnOyBqdNFRfYSdY"
+      },
+      "artists": [
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "AQUELA SORTE",
+      "url": "https://open.spotify.com/track/1KNgifou3TjbGa7Xs4hYw1"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -1231,6 +1231,38 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
+        "name": "Ac\u00fastico Altamira #19 - Capricorniana",
+        "url": "https://open.spotify.com/album/5Vp32au4U8RWutxCWbln5n"
+      },
+      "artists": [
+        {
+          "name": "Ya Malb",
+          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
+        },
+        {
+          "name": "Biel",
+          "url": "https://open.spotify.com/artist/6SjLkpJ7cGqX5HWh23e74K"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Lukkas",
+          "url": "https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL"
+        },
+        {
+          "name": "Mylena Jardim",
+          "url": "https://open.spotify.com/artist/2XymXFnsg2qj9TPyK59Pke"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Ac\u00fastico Altamira #19 - Capricorniana",
+      "url": "https://open.spotify.com/track/5exFEVfRzxlbmfcRoGP8Eu"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
         "name": "Eu vim pra Somar",
         "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
       },
@@ -1275,38 +1307,6 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "Ac\u00fastico Altamira #19 - Capricorniana",
-        "url": "https://open.spotify.com/album/5Vp32au4U8RWutxCWbln5n"
-      },
-      "artists": [
-        {
-          "name": "Ya Malb",
-          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
-        },
-        {
-          "name": "Biel",
-          "url": "https://open.spotify.com/artist/6SjLkpJ7cGqX5HWh23e74K"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Lukkas",
-          "url": "https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL"
-        },
-        {
-          "name": "Mylena Jardim",
-          "url": "https://open.spotify.com/artist/2XymXFnsg2qj9TPyK59Pke"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Ac\u00fastico Altamira #19 - Capricorniana",
-      "url": "https://open.spotify.com/track/5exFEVfRzxlbmfcRoGP8Eu"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
         "name": "\u00daltima Mensagem",
         "url": "https://open.spotify.com/album/4qMQhFYLjAzYvFkxvVJOR4"
       },
@@ -1323,26 +1323,6 @@
       "duration_ms": 174482,
       "name": "\u00daltima Mensagem",
       "url": "https://open.spotify.com/track/0aiIX2aJenYmGFw1BWUyxc"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -1371,6 +1351,26 @@
       "duration_ms": 208762,
       "name": "Linda",
       "url": "https://open.spotify.com/track/3knUp342DsZsUmcY62m1vU"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
+        "name": "O Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "O Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
         "name": "Livro Aberto",
         "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 196559,
       "name": "Livro Aberto",
       "url": "https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
+        "name": "Supersticiosa",
+        "url": "https://open.spotify.com/album/7LdWR84aE9JHRGgGzbngWH"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Supersticiosa",
+      "url": "https://open.spotify.com/track/45d9aDL1AAugpRDfniawIJ"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/4dvXYcnSoDoKhcwgB32ByI"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 325750,
       "name": "On\u00e7a Sessions #2 - Sobe Adrenalina",
       "url": "https://open.spotify.com/track/4ohl1Edvlp5BNF03lAwGO7"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "Supersticiosa",
-        "url": "https://open.spotify.com/album/7LdWR84aE9JHRGgGzbngWH"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Supersticiosa",
-      "url": "https://open.spotify.com/track/45d9aDL1AAugpRDfniawIJ"
     },
     {
       "added_at": "2022-08-05 03:00:00",

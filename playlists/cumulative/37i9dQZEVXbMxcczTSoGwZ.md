@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-941 songs - 2 day 4 hr 11 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+942 songs - 2 day 4 hr 13 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [GAY](https://open.spotify.com/track/4Hy8NmXUsiHYhkrdXbP1ma) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [GAY](https://open.spotify.com/album/4MdiJIAjKoPTf2Qbn6J8rP) | 2:52 | 2022-07-09 |  |
 | [Get Together](https://open.spotify.com/track/46W9QGI2bVjitikXmpHFgv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Get Together](https://open.spotify.com/album/2ofQzyhu2LGNLPfIPM0209) | 2:42 | 2021-05-09 | 2021-05-10 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-05 |
+| [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-08-10 |  |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-10-28 | 2021-11-21 |
 | [Giftig](https://open.spotify.com/track/3Ye7vnZdrO2Gq5IyyH3cOp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:08 | 2022-04-30 | 2022-05-06 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |
@@ -434,7 +435,7 @@
 | [Kuuma jäbä](https://open.spotify.com/track/352xZpOxYzVTcsESmgCilA) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a) | [Kuuma jäbä](https://open.spotify.com/album/2jzWY3p5CNVMHOvcXkd8M8) | 2:59 | 2022-01-22 | 2022-03-06 |
 | [Kuuma kesä](https://open.spotify.com/track/3nqyrh7jYfc07FKMjUX1yf) | [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Pohjantähden alla](https://open.spotify.com/album/2Dl01K663ypobdsB7hezyR) | 3:03 | 2021-06-27 | 2022-06-28 |
 | [Kylmää](https://open.spotify.com/track/6mkIVmVRwXYKjgf5h2c8E2) | [Aitoarttu](https://open.spotify.com/artist/4zgPXHmA2SQlzEy047yBL8) | [Kylmää](https://open.spotify.com/album/52OiMxalpZrQQVTeM7blMY) | 2:16 | 2022-07-02 |  |
-| [Kyläbaari](https://open.spotify.com/track/0QO1QnI4tOXLwtgXQmVqPA) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Kyläbaari](https://open.spotify.com/album/06cvSKHIeSFxxb5TEUfXjW) | 3:46 | 2022-01-02 |  |
+| [Kyläbaari](https://open.spotify.com/track/0QO1QnI4tOXLwtgXQmVqPA) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Kyläbaari](https://open.spotify.com/album/06cvSKHIeSFxxb5TEUfXjW) | 3:46 | 2022-01-02 | 2022-08-11 |
 | [Kyläbaari](https://open.spotify.com/track/3H1AVr1EZqacjtG0btvXML) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Kyläbaari](https://open.spotify.com/album/1nFfc7DtNWDpXUQmSmymEI) | 3:46 | 2021-03-27\* | 2021-09-28 |
 | [Kynnet, kynnet \(Vain elämää kausi 12\)](https://open.spotify.com/track/0wXy9Xy7i1mRQ4y2pzPjoZ) | [Chisu](https://open.spotify.com/artist/0Wo2rgrMZVYn0u0uxlDPJP) | [Kynnet, kynnet \(Vain elämää kausi 12\)](https://open.spotify.com/album/5AKgrCasIVDdOODsJA6U4a) | 2:50 | 2021-11-28 | 2021-12-04 |
 | [Kysy mua ulos](https://open.spotify.com/track/3cZ0G6mmgj0FXOukUWWf1C) | [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Kysy mua ulos](https://open.spotify.com/album/4Nj3pEZDAX4CWFC3qSPQfh) | 3:12 | 2021-06-06 | 2021-07-04 |
@@ -630,7 +631,7 @@
 | [perjantai \(feat\. Perjantai4000\)](https://open.spotify.com/track/7GZ32jl5RaZjE0RViLEivo) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Perjantai4000](https://open.spotify.com/artist/5Dt2dm0mXz1X9MMExUb8Ys) | [perjantai \(feat\. Perjantai4000\)](https://open.spotify.com/album/78OuN2FNWQQ8d1474ikzNR) | 2:54 | 2022-02-26 | 2022-02-28 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-14 |
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2021-12-27 | 2022-01-17 |
-| [Perus \(feat\. Gettomasa\)](https://open.spotify.com/track/3lsgWIzfsEajnM1Ecat2Bm) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Perus \(feat\. Gettomasa\)](https://open.spotify.com/album/2QDNZPP2C11wMchIRYjMw4) | 2:36 | 2022-07-09 |  |
+| [Perus \(feat\. Gettomasa\)](https://open.spotify.com/track/3lsgWIzfsEajnM1Ecat2Bm) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Perus \(feat\. Gettomasa\)](https://open.spotify.com/album/2QDNZPP2C11wMchIRYjMw4) | 2:36 | 2022-07-09 | 2022-08-11 |
 | [Pettäjä](https://open.spotify.com/track/15TDRP0ynuKdPBN1ZjjH0v) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Pettäjä](https://open.spotify.com/album/2GusQizEonB6k9tnOdNTXK) | 3:22 | 2021-05-09 | 2021-08-15 |
 | [Pidä huolta](https://open.spotify.com/track/1GW9BNqRGTvPX0NdcGchJY) | [Toivon kärki](https://open.spotify.com/artist/6AN2uTlJcu9F6dbspQiTZZ) | [Pidä huolta](https://open.spotify.com/album/3xlpYv5W9WeocZQuFhtjIW) | 2:55 | 2021-09-24 | 2021-09-25 |
 | [Pieni ja hento ote \(SuomiLOVE\)](https://open.spotify.com/track/1xoGJk5YOjDjhWXQW6yCGk) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Pieni ja hento ote \(SuomiLOVE\)](https://open.spotify.com/album/4aPo4n25KW6kpRBFh3LxAd) | 3:56 | 2021-04-04 | 2021-04-16 |
@@ -732,7 +733,7 @@
 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2022-05-15 | 2022-05-22 |
 | [SloMo \- Eurovision's Dancebreak Edit](https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo \(Eurovision's Dancebreak Edit\)](https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA) | 3:00 | 2022-05-17 | 2022-05-19 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-05-16 | 2022-07-31 |
-| [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 | 2022-08-10 |
+| [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 |  |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-11-23 | 2021-12-31 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-10 | 2022-04-24 |
 | [Soppahousut](https://open.spotify.com/track/1MvT93PEpQOlH2rwzvyaKW) | [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k) | [Soppahousut](https://open.spotify.com/album/6PSqQH5B9ftNcm5aqUjzSG) | 2:42 | 2022-01-01 | 2022-01-08 |

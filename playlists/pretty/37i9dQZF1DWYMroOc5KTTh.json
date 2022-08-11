@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 358835,
+  "num_followers": 358880,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0NjE1OSwwMDAwMDAwMDViNjE3MDRmNjA4NjJkY2FkNjRhNTIxMGY2ZjViZmZi",
+  "snapshot_id": "MTY1OTM0NjE1OSwwMDAwMDAwMDZmZjVmNDc2NjhmN2Q4NWU0ZDBhOTk3MzNlZTExZDcw",
   "tracks": [
     {
       "added_at": "2022-08-01 09:29:19",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-01 09:29:19",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI"
-    },
-    {
-      "added_at": "2022-08-01 09:29:19",
-      "album": {
         "name": "B.O.T.A. (Baddest Of Them All) / Move To The",
         "url": "https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/7M1125M74qeHedad25bx4U"
+    },
+    {
+      "added_at": "2022-08-01 09:29:19",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI"
     },
     {
       "added_at": "2022-08-01 09:29:19",

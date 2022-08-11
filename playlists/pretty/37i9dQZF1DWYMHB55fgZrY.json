@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Zo\u00e9 en portada.",
-  "num_followers": 445849,
+  "num_followers": 445986,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM4MDI1NSwwMDAwMDAwMDkxMWJjN2ExOGY3MDU2YTdkNWMzZjgwYjViZTUyMmNk",
+  "snapshot_id": "MTY1OTM4MDI1NSwwMDAwMDAwMDlkZGU2YmQ0NDBiYmZkMzRjM2ZiNDI2OGMzZWM3YzE5",
   "tracks": [
     {
       "added_at": "2022-01-28 17:39:37",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "El Equilibrio De Los Jaguares",
+        "url": "https://open.spotify.com/album/345ZGeUupFETaN36llAJCR"
+      },
+      "artists": [
+        {
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Detr\u00e1s de los Cerros",
+      "url": "https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 228534,
       "name": "No Es Que No Te Quiera",
       "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "El Equilibrio De Los Jaguares",
-        "url": "https://open.spotify.com/album/345ZGeUupFETaN36llAJCR"
-      },
-      "artists": [
-        {
-          "name": "Jaguares",
-          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "Detr\u00e1s de los Cerros",
-      "url": "https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Soun Tha Mi Primer Amor - Remastered",
-      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
         "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Maldita Vecindad y los Hijos del Quinto Patio",
-        "url": "https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE"
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
         }
       ],
-      "duration_ms": 305213,
-      "name": "Morenaza",
-      "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
+      "duration_ms": 191000,
+      "name": "Soun Tha Mi Primer Amor - Remastered",
+      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -987,6 +971,22 @@
       "duration_ms": 232288,
       "name": "Reptilectric",
       "url": "https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Maldita Vecindad y los Hijos del Quinto Patio",
+        "url": "https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 305213,
+      "name": "Morenaza",
+      "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 278666,
-      "name": "De Que el Amor Apesta",
-      "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
         "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 224826,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 278666,
+      "name": "De Que el Amor Apesta",
+      "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Rock En Tu Idioma Sinf\u00f3nico, Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Dormir So\u00f1ando - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
-      "url": "https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Aqui",
         "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 198560,
       "name": "De Mis Pasos",
       "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Rock En Tu Idioma Sinf\u00f3nico, Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Dormir So\u00f1ando - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
+      "url": "https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ"
     },
     {
       "added_at": "2022-01-28 17:39:37",

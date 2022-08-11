@@ -2,7 +2,7 @@
 
 ### [Disney Junior Hits](https://open.spotify.com/playlist/37i9dQZF1DX4TzCf8od5BM)
 
-> Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Doc McStuffins in one playlist!
+> Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Marvel’s Spidey and His Amazing Friends in one playlist!
 
 153 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
 

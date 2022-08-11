@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!!  <br/>Cover: Whiskey Myers
 
-174 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+175 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amen](https://open.spotify.com/track/6jSebdcbIlp0GaBwpsYSRl) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Amen](https://open.spotify.com/album/7uWlZ5GhRBdSOzZuCrc37u) | 3:52 | 2021-11-01 |  |
 | [American Dream](https://open.spotify.com/track/3VnFk87TXGjpfuStmK3mhu) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Reno](https://open.spotify.com/album/5iiEBI9SRW5JtljCEBR9pM) | 3:26 | 2022-05-06 | 2022-08-07 |
 | [American Thread](https://open.spotify.com/track/0d0wIqxnYcavcm5AQjvBlB) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [American Thread](https://open.spotify.com/album/7vpWpFDu2k7eEWNrstjPwO) | 3:17 | 2021-11-01 | 2022-05-07 |
+| [Another Mile](https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Another Mile](https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz) | 3:36 | 2022-08-05 |  |
 | [Antioch](https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Antioch](https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn) | 4:05 | 2022-03-25 |  |
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 |  |
 | [Babies](https://open.spotify.com/track/045vMbY2pAsHzjFLqHcadn) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies](https://open.spotify.com/album/5NGiKgJuCfMAvKvEwgOnTn) | 2:59 | 2022-06-17 | 2022-07-09 |
@@ -120,7 +121,7 @@
 | [Pull Me Under](https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Frayed At Both Ends](https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar) | 4:28 | 2022-07-22 |  |
 | [Pull Me Under](https://open.spotify.com/track/6diaA6bkHgXuhlkmIYVAkf) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Pull Me Under](https://open.spotify.com/album/75aqS5tQ46UH4dsynit10p) | 4:28 | 2021-11-12 | 2022-07-29 |
 | [Put It in the Plate](https://open.spotify.com/track/11t73HjNMUYPcpaTFzdbzo) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Put It in the Plate](https://open.spotify.com/album/6jHIwtGXABMsY3SI56YV6k) | 2:43 | 2022-06-03 | 2022-07-10 |
-| [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 | 2021-11-01 |  |
+| [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 | 2021-11-01 | 2022-08-11 |
 | [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 | 2022-07-19 |  |
 | [Red Handed](https://open.spotify.com/track/62jzdCEsnubKdOSIEOLx7L) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Red Handed](https://open.spotify.com/album/0eSxk8QnMLkDt5DQ43kxfZ) | 2:42 | 2021-11-01 | 2022-07-26 |
 | [Rich Man's Game](https://open.spotify.com/track/2muHNimwAwlBbfdYf6yH5W) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Rich Man's Game](https://open.spotify.com/album/0r5fTsObknKZkwDQbOjRuO) | 3:50 | 2021-11-01 | 2022-07-28 |

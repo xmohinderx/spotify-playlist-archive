@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Frankie Cosmos
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,212 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,269 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 40 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 |
 | 41 | [RunRun](https://open.spotify.com/track/1SBlTvVNZ4UeKHVKWW91sx) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Posture and Attitude](https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe) | 2:46 |
 | 42 | [The Hard Way](https://open.spotify.com/track/6pfAOm26gNA5j9B15Ln2gq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [The Hard Way](https://open.spotify.com/album/047c12RSNKQoatoNBjSegE) | 3:26 |
-| 43 | [Whatchu Gonna...?](https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Whatchu Gonna...?](https://open.spotify.com/album/4C6O1vEFP0AM2ThBxFdma2) | 3:48 |
+| 43 | [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 |
 | 44 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
 | 45 | [Give You the World](https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:33 |
 | 46 | [Fallacy Actually](https://open.spotify.com/track/5FLd0SCmbuP3ZQqEt7Ew6N) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Fallacy Actually](https://open.spotify.com/album/76hqDrg4ewLgKcYtxkshJV) | 4:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Nightsift](https://open.spotify.com/track/2zxT7iTshvhM9K3439Ka7Y) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Freewave Lucifer f<ck f^ck f>ck](https://open.spotify.com/album/3b98O4yCJhkj5iiGNYLe0p) | 4:40 |
 | 75 | [Didn’t Care](https://open.spotify.com/track/4sc3GpJtxOB17Ng9PcdNVq) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Didn't Care](https://open.spotify.com/album/1iKIf39XkjsKa5xCKJmcN4) | 2:44 |
 
-Snapshot ID: `MTY1OTY1NDI1MywwMDAwMDAwMDg2OTAyMGE2YjM5NzVmYmRlMjI3ODY1ZTBlZDE0ZWFk`
+Snapshot ID: `MTY1OTY1NDI1MywwMDAwMDAwMGNkMzM4NGFiNWM3ODAxMDZlMGI0NGZlOGJiZjJkMjRj`

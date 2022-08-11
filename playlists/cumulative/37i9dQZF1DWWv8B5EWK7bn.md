@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-142 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+143 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 | 2021-10-06 | 2022-07-30 |
 | [Treasures](https://open.spotify.com/track/3WZhTPAbwI4rucw6soEBRp) | [Astral Brain](https://open.spotify.com/artist/7oDU5TJ0OiPqfxTlq2VMbk) | [The Bewildered Mind](https://open.spotify.com/album/432UfhVmmYhrzsaZepGgEW) | 3:43 | 2022-04-22 |  |
 | [Underwater](https://open.spotify.com/track/0bHFwdJ7C8tYDVxh6t3GBn) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/3A8AAAbDERbRTc3nZurEOg) | 6:45 | 2022-05-24 | 2022-07-29 |
-| [Underwater](https://open.spotify.com/track/76FqNXv4mY8xhkEyylm1gL) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/4jeSJc6vev3IZbIaVAvR0w) | 6:45 | 2022-05-24 |  |
+| [Underwater](https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature](https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF) | 6:45 | 2022-05-24 |  |
+| [Underwater](https://open.spotify.com/track/76FqNXv4mY8xhkEyylm1gL) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/4jeSJc6vev3IZbIaVAvR0w) | 6:45 | 2022-05-24 | 2022-08-11 |
 | [Unholy Affliction](https://open.spotify.com/track/7wMybZBcFkahdIp8w2J3Ml) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Unholy Affliction](https://open.spotify.com/album/3l1de4juXHVIvK7nsJMojQ) | 3:06 | 2022-04-25 | 2022-06-23 |
 | [Unpeopled Space](https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Unpeopled Space](https://open.spotify.com/album/3FiB7G1JTyvqS4XHp7dCtc) | 6:09 | 2022-02-25 |  |
 | [Up and Away](https://open.spotify.com/track/3im8VPUFdugX19ZgLoG64t) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1) | 3:11 | 2022-04-22 | 2022-07-29 |

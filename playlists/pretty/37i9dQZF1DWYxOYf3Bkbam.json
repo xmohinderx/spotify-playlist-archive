@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 28112,
+  "num_followers": 28132,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzMDI5NiwwMDAwMDAwMDA1Y2I2N2FkNzMyMGQ5MTQyYmZhMTJhYzJlY2IzZDM1",
+  "snapshot_id": "MTY1NzAzMDI5NiwwMDAwMDAwMDRhYmQ2YTRlNTIwOWU5OWUwOTM3MmYyMGI4N2JhNTU0",
   "tracks": [
     {
       "added_at": "2022-07-05 14:11:35",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
+        "name": "El Duende De Las Guitarras",
+        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Las Manos De Mi Madre",
+      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
         "name": "Chamame",
         "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 171399,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
-        "name": "El Duende De Las Guitarras",
-        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Las Manos De Mi Madre",
-      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
-        "name": "20 Super\u00e9xitos Originales, Vol. 2",
-        "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
-      },
-      "artists": [
-        {
-          "name": "Trio Cocomarola",
-          "url": "https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Retorno",
-      "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 132213,
       "name": "Te amare eternamente",
       "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
+        "name": "20 Super\u00e9xitos Originales, Vol. 2",
+        "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
+      },
+      "artists": [
+        {
+          "name": "Trio Cocomarola",
+          "url": "https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Retorno",
+      "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
-        "name": "Coraz\u00f3n Chamamecero",
-        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo Y Los Cardocitos",
-          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
-        }
-      ],
-      "duration_ms": 208346,
-      "name": "El Gaucho Gil",
-      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
         "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto (En Vivo en el Teatro Col\u00f3n)",
         "url": "https://open.spotify.com/album/502Tc6vY1fm9WQ9ceBhsZg"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 288866,
       "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
       "url": "https://open.spotify.com/track/4A2Gnw92jmcEWpFba6i7x9"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
+        "name": "Coraz\u00f3n Chamamecero",
+        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo Y Los Cardocitos",
+          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
+        }
+      ],
+      "duration_ms": 208346,
+      "name": "El Gaucho Gil",
+      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
-        "name": "Su Poes\u00eda y Su Voz, Vol. 2",
-        "url": "https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Jensen",
-          "url": "https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "De P\u00e1jaros y Campanas",
-      "url": "https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
         "name": "Consagraci\u00f3n del Chamam\u00e9",
         "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 163920,
       "name": "A\u00f1oranzas",
       "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
+        "name": "Su Poes\u00eda y Su Voz, Vol. 2",
+        "url": "https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Jensen",
+          "url": "https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "De P\u00e1jaros y Campanas",
+      "url": "https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "duration_ms": 192042,
+      "name": "La Leyenda de la Brasita de Fuego",
+      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
         "name": "Segundo Contacto",
         "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 194853,
       "name": "Para Volver a So\u00f1ar",
       "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
-        "name": "Noche de Tormenta",
-        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        }
-      ],
-      "duration_ms": 192042,
-      "name": "La Leyenda de la Brasita de Fuego",
-      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
-        "name": "Baile de Campo",
-        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
-      },
-      "artists": [
-        {
-          "name": "Los Taitas del Chamame",
-          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Baile de Campo",
-      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
         "name": "21 Grandes Exitos",
         "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 206573,
       "name": "Al Gaucho Gil",
       "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
+        "name": "Baile de Campo",
+        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
+      },
+      "artists": [
+        {
+          "name": "Los Taitas del Chamame",
+          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Baile de Campo",
+      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
-        "name": "Refugio de so\u00f1adores",
-        "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
-      },
-      "artists": [
-        {
-          "name": "Rudi y Nini Flores",
-          "url": "https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt"
-        }
-      ],
-      "duration_ms": 202025,
-      "name": "Refugio de so\u00f1adores",
-      "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
         "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
         "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
       },
@@ -1351,34 +1335,18 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+        "name": "Refugio de so\u00f1adores",
+        "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
       "artists": [
         {
-          "name": "Emiliano Cardozo",
-          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
+          "name": "Rudi y Nini Flores",
+          "url": "https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt"
         }
       ],
-      "duration_ms": 186013,
-      "name": "Las Penas del Provinciano",
-      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+      "duration_ms": 202025,
+      "name": "Refugio de so\u00f1adores",
+      "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1399,6 +1367,38 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo",
+          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Las Penas del Provinciano",
+      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
         "name": "Pajaro Chog\u00fci",
         "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 138893,
       "name": "Pajaro Chog\u00fci",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
-    },
-    {
-      "added_at": "2022-07-05 14:11:35",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
-        }
-      ],
-      "duration_ms": 134240,
-      "name": "La dama misteriosa",
-      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1452,13 +1436,13 @@
       },
       "artists": [
         {
-          "name": "Mario Romero canta Espindola Escobar",
-          "url": "https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n"
+          "name": "Palomita y Teresita base",
+          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
         }
       ],
-      "duration_ms": 160893,
-      "name": "Felicidades madrecita",
-      "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
+      "duration_ms": 110253,
+      "name": "Adios palomita ingrata",
+      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1468,13 +1452,13 @@
       },
       "artists": [
         {
-          "name": "Palomita y Teresita base",
-          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
         }
       ],
-      "duration_ms": 110253,
-      "name": "Adios palomita ingrata",
-      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
+      "duration_ms": 134240,
+      "name": "La dama misteriosa",
+      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1491,6 +1475,22 @@
       "duration_ms": 145280,
       "name": "Pasion oculta",
       "url": "https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73"
+    },
+    {
+      "added_at": "2022-07-05 14:11:35",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Mario Romero canta Espindola Escobar",
+          "url": "https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "Felicidades madrecita",
+      "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
     },
     {
       "added_at": "2022-07-05 14:11:35",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2022-07-05 14:11:35",
       "album": {
-        "name": "Sencillito Nom\u00e1s",
-        "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
+        "name": "Con Los Grandes",
+        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
       },
       "artists": [
         {
-          "name": "La Nueva Fuerza del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji"
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
         }
       ],
-      "duration_ms": 182200,
-      "name": "No Hay Mal Que por Bien No Venga",
-      "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
+      "duration_ms": 129693,
+      "name": "La Flecha",
+      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

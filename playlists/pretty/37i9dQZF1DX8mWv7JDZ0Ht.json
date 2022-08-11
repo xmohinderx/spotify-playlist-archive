@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Sandy, Wanessa Camargo",
-  "num_followers": 398895,
+  "num_followers": 399016,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY2ODQwMCwwMDAwMDAwMGNiM2FkOWJmY2M1YTk0YjY3ZTBjNDYwZDAyMTNiYTJj",
+  "snapshot_id": "MTY1OTY2ODQwMCwwMDAwMDAwMDcwOTc0OWQ2N2E5ZmRmYmI0ODA0YmMyY2FiOTc4OWJi",
   "tracks": [
     {
       "added_at": "2022-08-05 03:00:00",
@@ -287,26 +287,6 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "Voc\u00ea Aprendeu A Amar? (feat. Emicida)",
-        "url": "https://open.spotify.com/album/2hlozdNQv4uEOxtXLWEuci"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Alcantara",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 220149,
-      "name": "Voc\u00ea Aprendeu A Amar? (feat. Emicida)",
-      "url": "https://open.spotify.com/track/6mwF2kTs8wiJqqgHwbYqxl"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
         "name": "EITA MENINA",
         "url": "https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 187069,
       "name": "EITA MENINA",
       "url": "https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
+        "name": "Voc\u00ea Aprendeu A Amar? (feat. Emicida)",
+        "url": "https://open.spotify.com/album/2hlozdNQv4uEOxtXLWEuci"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 220149,
+      "name": "Voc\u00ea Aprendeu A Amar? (feat. Emicida)",
+      "url": "https://open.spotify.com/track/6mwF2kTs8wiJqqgHwbYqxl"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -427,26 +427,6 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
-        "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 188518,
-      "name": "DESCOBRIDOR",
-      "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
         "name": "da primeira vez (from the first time)",
         "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 201183,
       "name": "da primeira vez (from the first time)",
       "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
+        "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
+        "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 188518,
+      "name": "DESCOBRIDOR",
+      "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
+        "name": "A Bolha",
+        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 165356,
+      "name": "Anjo Ou Mulher",
+      "url": "https://open.spotify.com/track/3N1QUO1P5Vtil4aubCLcWR"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
         "name": "Teu Sorriso",
         "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
       },
@@ -531,18 +547,22 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "A Bolha",
-        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
+        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 165356,
-      "name": "Anjo Ou Mulher",
-      "url": "https://open.spotify.com/track/3N1QUO1P5Vtil4aubCLcWR"
+      "duration_ms": 202500,
+      "name": "VEJA BABY - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -563,26 +583,6 @@
       "duration_ms": 190937,
       "name": "Me Beija",
       "url": "https://open.spotify.com/track/4s5FI0NH6yiJ85tatkCJ8h"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
-        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "VEJA BABY - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
+        "name": "De Cabe\u00e7a Pra Baixo",
+        "url": "https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "A Vida N\u00e3o Erra",
+      "url": "https://open.spotify.com/track/3JPTkwFCf0SHfRVWOpZetC"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
         "name": "Somos Instantes",
         "url": "https://open.spotify.com/album/50cLjaea6W3hkVgK9nFDuB"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 225877,
       "name": "Somos Instantes",
       "url": "https://open.spotify.com/track/4aPNR8jCTJ4NqEktwxOGn2"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "De Cabe\u00e7a Pra Baixo",
-        "url": "https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "A Vida N\u00e3o Erra",
-      "url": "https://open.spotify.com/track/3JPTkwFCf0SHfRVWOpZetC"
     },
     {
       "added_at": "2022-08-05 03:00:00",

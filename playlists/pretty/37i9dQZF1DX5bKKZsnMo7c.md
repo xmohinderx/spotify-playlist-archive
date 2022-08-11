@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,791 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,645 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 13 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 |
 | 14 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
 | 15 | [Sex with a Ghost](https://open.spotify.com/track/1Y2583xYzwiEXDetAB7H1Q) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Sock\-Footed](https://open.spotify.com/album/3LRcVZVluaa0kIqcDjEuv7) | 4:00 |
-| 16 | [I Hear a Symphony](https://open.spotify.com/track/3KfTWH9HcFZtOnZXaMT0Rt) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/0ipYqwFFvSHdNU6CcbQEsZ) | 3:05 |
+| 16 | [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 |
 | 17 | [Laputa](https://open.spotify.com/track/0TO7y9uCA3eEYp7g9NsuGL) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/7FWEOSHm38Sq7dybOA4w7D) | 2:43 |
 | 18 | [I Deserve to Bleed](https://open.spotify.com/track/27cw0tNJKQQW2CJMGcCfZb) | [Sushi Soucy](https://open.spotify.com/artist/1EbbJiG9LzlH2i7fCjhkvv) | [I Deserve to Bleed](https://open.spotify.com/album/4ckUf8kp5DxcJRRsy0yjXm) | 1:44 |
 | 19 | [Fuck The Supreme Court \(Rant Song\)](https://open.spotify.com/track/4V2cyPgdRKrK2MxMsk5m5U) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Fuck The Supreme Court \(Rant Song\)](https://open.spotify.com/album/462TZxbkxvWlvQrxHk8iAN) | 2:50 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 89 | [Bombed Out Building](https://open.spotify.com/track/5wxyCrZAlw8YLx2SNKoxzy) | [Boychik](https://open.spotify.com/artist/3LmJZ3pIaRfNEghu7g1eLn) | [Bombed Out Building](https://open.spotify.com/album/7ogcVqi5yAHLSvDnnV16Xg) | 3:18 |
 | 90 | [Infinite Jest](https://open.spotify.com/track/4qH2jxgvGcGuxh2JReRte4) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Infinite Jest](https://open.spotify.com/album/0qgrQvpCkOLz3kCTUPr1CZ) | 4:34 |
 
-Snapshot ID: `MTY1OTk5NTkwNiwwMDAwMDAwMDBjM2RjMDFmMTI3MmY0MzdiY2M4MDkzMWY0Mzg4ODIx`
+Snapshot ID: `MTY1OTk5NTkwNiwwMDAwMDAwMGEzNTU4ODkyNGQ5ZDYxNWM5NzhiNDMyMmMyOWZlNGNi`

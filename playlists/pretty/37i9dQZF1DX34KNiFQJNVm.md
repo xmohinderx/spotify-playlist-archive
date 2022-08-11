@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Murilo Huff com Maiara & Maraisa, Hugo & Guilherme, Mc Don Juan e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,766,274 likes - 96 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,766,592 likes - 96 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 75 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 |
 | 76 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 |
 | 77 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 |
-| 78 | [Bebel](https://open.spotify.com/track/3XsnWRMGM7gooBbdY6huSr) | [DJ Lg do Sf](https://open.spotify.com/artist/72ipMVQcFmP8kVnlHbcV3q), [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [DJ 2K DO TAQUARIL](https://open.spotify.com/artist/2kZ9H7DxS0tzbLvCVrLgom), [MC Garoto](https://open.spotify.com/artist/69k2SvCVULrUSPe3ULz3hr) | [Bebel](https://open.spotify.com/album/3UxxQU78Gp3jQZ1U07RrGx) | 2:12 |
+| 78 | [Bebel](https://open.spotify.com/track/3XsnWRMGM7gooBbdY6huSr) | [DJ Lg do Sf](https://open.spotify.com/artist/72ipMVQcFmP8kVnlHbcV3q), [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [DJ 2K DO TAQUARIL](https://open.spotify.com/artist/2kZ9H7DxS0tzbLvCVrLgom), [MC Garoto](https://open.spotify.com/artist/69k2SvCVULrUSPe3ULz3hr), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3) | [Bebel](https://open.spotify.com/album/3UxxQU78Gp3jQZ1U07RrGx) | 2:12 |
 | 79 | [Perigosa](https://open.spotify.com/track/6XB2QInw6yU5Yzbe5edMmy) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Perigosa](https://open.spotify.com/album/7iszJxkCd6d6H8yc855kfH) | 3:03 |
 | 80 | [Sem Sentimento](https://open.spotify.com/track/2sG3LDasZcYlMhbWeV297t) | [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Vitão Do Savoy](https://open.spotify.com/artist/2XbYkRNqc0WKV871nxnOno), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Sem Sentimento](https://open.spotify.com/album/4q5y0Eg3yBkTtit6ggupMf) | 3:03 |
 | 81 | [Melhoria](https://open.spotify.com/track/3LKkZi9oRIq655ukQKC4Ad) | [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu), [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [MC Marotinho](https://open.spotify.com/artist/7sdf1L7Gw3lDXe5V6EvKk4), [DJ Tawan](https://open.spotify.com/artist/2ydsW9VfcxiyJBwUj1LM5b) | [Melhoria](https://open.spotify.com/album/2HjabuR1XuB0K3DLjcsRYu) | 5:16 |

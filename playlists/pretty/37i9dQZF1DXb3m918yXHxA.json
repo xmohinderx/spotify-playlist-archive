@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1247987,
+  "num_followers": 1248523,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAzNDg5OSwwMDAwMDAwMDAzZWM3MmEwZGE4NjNkYzJmNmIxNTkyODgzN2M1MDY2",
+  "snapshot_id": "MTY2MDE2ODc5MSwwMDAwMDAwMDQzOGFhZjk4ZjZmZjMwZjU2MTUxZDdiMjljZjA5ZmNj",
   "tracks": [
     {
       "added_at": "2022-07-28 19:01:39",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Robbie Dupree",
-        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
-      },
-      "artists": [
-        {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Steal Away - Remastered",
-      "url": "https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
         "name": "Sergio Mendes",
         "url": "https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 255600,
       "name": "Never Gonna Let You Go",
       "url": "https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
+        "name": "Robbie Dupree",
+        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
+      },
+      "artists": [
+        {
+          "name": "Robbie Dupree",
+          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "Steal Away - Remastered",
+      "url": "https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Rit, Vol. 1",
-        "url": "https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR"
+        "name": "Xanadu",
+        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
       "artists": [
         {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 269653,
-      "name": "Is It You",
-      "url": "https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq"
+      "duration_ms": 271666,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1179,6 +1179,22 @@
       "duration_ms": 236733,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/0YO8KsprTrEUEvJevpI7Na"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
+        "name": "Rit, Vol. 1",
+        "url": "https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        }
+      ],
+      "duration_ms": 269653,
+      "name": "Is It You",
+      "url": "https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1227,22 +1243,6 @@
       "duration_ms": 209106,
       "name": "Cool Cat - Remastered 2011",
       "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"
     }
   ],
   "unique_name": "Yacht Rock",

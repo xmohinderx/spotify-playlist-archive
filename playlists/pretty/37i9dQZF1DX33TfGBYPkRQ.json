@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 86785,
+  "num_followers": 86872,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDNjZGIwODBjZTdmMzU5ODc3MzM1NGFkZmI3MmJjOWM0",
+  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDE1MDAzOTY4ZjUyNTNmMjExOWM4N2YxYjhkOWNjYzM0",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "MASSEDUCTION",
-        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Cry Forever",
-        "url": "https://open.spotify.com/album/3pb256CZQ5vf8kbDlguYhD"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 181213,
-      "name": "Worst Day of My Life",
-      "url": "https://open.spotify.com/track/2xRUyAQeYVYCohZrEBpbiu"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "I\u2019ll Still Have Me",
         "url": "https://open.spotify.com/album/0bO19AlrcNsk8t5gOqKDgX"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 219267,
       "name": "I\u2019ll Still Have Me",
       "url": "https://open.spotify.com/track/71HEg3bYLyMAxHuJ3a6KIM"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Cry Forever",
+        "url": "https://open.spotify.com/album/3pb256CZQ5vf8kbDlguYhD"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 181213,
+      "name": "Worst Day of My Life",
+      "url": "https://open.spotify.com/track/2xRUyAQeYVYCohZrEBpbiu"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Wanderer",
-        "url": "https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 238176,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "I Forget Where We Were",
         "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 466040,
       "name": "End Of The Affair",
       "url": "https://open.spotify.com/track/0vqXG66zkKynUS0aJs9FyR"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 238176,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 215373,
+      "name": "Foreground",
+      "url": "https://open.spotify.com/track/2MTQDSB9XLD1ejc6tAMQfv"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "Better Oblivion Community Center",
         "url": "https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 272033,
       "name": "Dominos",
       "url": "https://open.spotify.com/track/5JquknF5yqKV2lZFeffMIQ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 215373,
-      "name": "Foreground",
-      "url": "https://open.spotify.com/track/2MTQDSB9XLD1ejc6tAMQfv"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 266053,
-      "name": "I Went To The Store One Day",
-      "url": "https://open.spotify.com/track/46OdBjlDe1JVm81dmNYdyX"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Sprained Ankle",
         "url": "https://open.spotify.com/album/5rfzi2DFB4gH5XhXjsuGQN"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 142046,
       "name": "Sprained Ankle",
       "url": "https://open.spotify.com/track/1qKDjasAnswlbgBsOd8DJp"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 266053,
+      "name": "I Went To The Store One Day",
+      "url": "https://open.spotify.com/track/46OdBjlDe1JVm81dmNYdyX"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "My Mistake (Piano Version)",
-        "url": "https://open.spotify.com/album/08igQqnY2HwbN9rCgu81Ij"
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
       "artists": [
         {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 292453,
-      "name": "My Mistake - Piano Version",
-      "url": "https://open.spotify.com/track/34KZBn42h1icn5V2w0YWEN"
+      "duration_ms": 378186,
+      "name": "Your Love is Killing Me",
+      "url": "https://open.spotify.com/track/4H8o2Xd10sJSgAUugTGrWw"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+        "name": "My Mistake (Piano Version)",
+        "url": "https://open.spotify.com/album/08igQqnY2HwbN9rCgu81Ij"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
         }
       ],
-      "duration_ms": 378186,
-      "name": "Your Love is Killing Me",
-      "url": "https://open.spotify.com/track/4H8o2Xd10sJSgAUugTGrWw"
+      "duration_ms": 292453,
+      "name": "My Mistake - Piano Version",
+      "url": "https://open.spotify.com/track/34KZBn42h1icn5V2w0YWEN"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "placeholder",
-        "url": "https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 230006,
-      "name": "placeholder",
-      "url": "https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "EPII (+ Skisser EP)",
         "url": "https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 184320,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "placeholder",
+        "url": "https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 230006,
+      "name": "placeholder",
+      "url": "https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "Fireworks - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Undiscovered",
         "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 255840,
       "name": "The Pieces Don't Fit Anymore",
       "url": "https://open.spotify.com/track/05muUAppQeMnnVxH8lVsw9"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Fireworks - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA"
     },
     {
       "added_at": "2021-04-30 17:29:47",

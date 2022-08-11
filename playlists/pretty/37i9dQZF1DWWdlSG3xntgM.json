@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 30855,
+  "num_followers": 30868,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY1NzUwMiwwMDAwMDAwMDBiMjJiMmY4YmZjMTY4NTQ4ZDlmOTA5NTU4NjAxZTY1",
+  "snapshot_id": "MTY1NDY1NzUwMiwwMDAwMDAwMDU0YWM0MThlYzBkNmVjODg1OWExMDM1MTlkZTRlZTkx",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:33",
@@ -399,8 +399,8 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "Best of Tr\u01b0\u1eddng V\u0169",
-        "url": "https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU"
+        "name": "Nh\u1eadt K\u00fd \u0110\u1eddi T\u00f4i",
+        "url": "https://open.spotify.com/album/6VNm9Szdku6nagVbX6ADtR"
       },
       "artists": [
         {
@@ -408,17 +408,13 @@
           "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
         },
         {
-          "name": "Manh Dinh",
-          "url": "https://open.spotify.com/artist/3EwJyciUZbuZc8gZTKKdAM"
-        },
-        {
-          "name": "M\u1ea1nh Qu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
+          "name": "Mai Thien Van",
+          "url": "https://open.spotify.com/artist/6DKJX322RvZsWhz0Xn2myz"
         }
       ],
-      "duration_ms": 356240,
-      "name": "Lk Ngh\u00e8o",
-      "url": "https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX"
+      "duration_ms": 247780,
+      "name": "N\u00f3i V\u1edbi Ng\u01b0\u1eddi T\u00ecnh",
+      "url": "https://open.spotify.com/track/09gYyhwSGWH5agBqRGPYsG"
     },
     {
       "added_at": "2022-03-11 05:02:33",
@@ -539,18 +535,18 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
-        "url": "https://open.spotify.com/album/2HFaqIATiNQLae9NBySEoS"
+        "name": "Hoa Su Nha Nang",
+        "url": "https://open.spotify.com/album/13L8sDBXx11AKJDMYV194J"
       },
       "artists": [
         {
-          "name": "Ho\u00e0i L\u00e2m",
-          "url": "https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW"
+          "name": "Tuan Vu",
+          "url": "https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP"
         }
       ],
-      "duration_ms": 298560,
-      "name": "X\u00f3t Xa",
-      "url": "https://open.spotify.com/track/3iCgmCxnEaDWv1FVoemabY"
+      "duration_ms": 265356,
+      "name": "Hoa Su Nha Nang",
+      "url": "https://open.spotify.com/track/3wkJe0YwbaAWwnKIqAWMUR"
     },
     {
       "added_at": "2022-03-11 05:02:33",
@@ -591,8 +587,8 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "Nh\u1eadt K\u00fd \u0110\u1eddi T\u00f4i",
-        "url": "https://open.spotify.com/album/6VNm9Szdku6nagVbX6ADtR"
+        "name": "Best of Tr\u01b0\u1eddng V\u0169",
+        "url": "https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU"
       },
       "artists": [
         {
@@ -600,13 +596,17 @@
           "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
         },
         {
-          "name": "Mai Thien Van",
-          "url": "https://open.spotify.com/artist/6DKJX322RvZsWhz0Xn2myz"
+          "name": "Manh Dinh",
+          "url": "https://open.spotify.com/artist/3EwJyciUZbuZc8gZTKKdAM"
+        },
+        {
+          "name": "M\u1ea1nh Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
         }
       ],
-      "duration_ms": 247780,
-      "name": "N\u00f3i V\u1edbi Ng\u01b0\u1eddi T\u00ecnh",
-      "url": "https://open.spotify.com/track/09gYyhwSGWH5agBqRGPYsG"
+      "duration_ms": 356240,
+      "name": "Lk Ngh\u00e8o",
+      "url": "https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX"
     },
     {
       "added_at": "2022-03-11 05:02:33",
@@ -627,18 +627,18 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "Hoa Su Nha Nang",
-        "url": "https://open.spotify.com/album/13L8sDBXx11AKJDMYV194J"
+        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/2HFaqIATiNQLae9NBySEoS"
       },
       "artists": [
         {
-          "name": "Tuan Vu",
-          "url": "https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP"
+          "name": "Ho\u00e0i L\u00e2m",
+          "url": "https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW"
         }
       ],
-      "duration_ms": 265356,
-      "name": "Hoa Su Nha Nang",
-      "url": "https://open.spotify.com/track/3wkJe0YwbaAWwnKIqAWMUR"
+      "duration_ms": 298560,
+      "name": "X\u00f3t Xa",
+      "url": "https://open.spotify.com/track/3iCgmCxnEaDWv1FVoemabY"
     },
     {
       "added_at": "2022-03-11 05:02:33",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "Bolero Edition",
-        "url": "https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL"
-      },
-      "artists": [
-        {
-          "name": "M\u1ef9 T\u00e2m",
-          "url": "https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g"
-        }
-      ],
-      "duration_ms": 359039,
-      "name": "Hoa Trinh N\u1eef",
-      "url": "https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk"
-    },
-    {
-      "added_at": "2022-03-11 05:02:33",
-      "album": {
         "name": "Xin Tr\u1ea3 T\u00f4i V\u1ec1",
         "url": "https://open.spotify.com/album/1r5OrgvrLx5yR89oBSA3Y8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 308013,
       "name": "Em V\u1ec1 V\u1edbi Ng\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/570XE89SCoxIOS8V4vgZmz"
+    },
+    {
+      "added_at": "2022-03-11 05:02:33",
+      "album": {
+        "name": "Bolero Edition",
+        "url": "https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL"
+      },
+      "artists": [
+        {
+          "name": "M\u1ef9 T\u00e2m",
+          "url": "https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g"
+        }
+      ],
+      "duration_ms": 359039,
+      "name": "Hoa Trinh N\u1eef",
+      "url": "https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk"
     },
     {
       "added_at": "2022-03-11 05:02:33",

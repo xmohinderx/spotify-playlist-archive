@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Duki en la casa del Trap de Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,837 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,130 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 13 | [Rompediscoteka](https://open.spotify.com/track/5IdLmgNH1r8QQbELC1GueB) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Rompediscoteka](https://open.spotify.com/album/22pOSKsw95pibnK4OZq2Om) | 3:02 |
 | 14 | [Comando](https://open.spotify.com/track/13GNmtxaAHgSYvf03I76IC) | [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [Comando](https://open.spotify.com/album/4x5esQA7Po5dgWjRi2eovS) | 3:09 |
 | 15 | [XL](https://open.spotify.com/track/3pEg3izEeG5LzBHZkykbMH) | [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [44 Kid](https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb), [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [XL](https://open.spotify.com/album/10IBYtlp0KVqhNF6W44A65) | 3:19 |
-| 16 | [Waso](https://open.spotify.com/track/5SY9rsZRAbcGKTpoSq6z7b) | [Gonzalo Nawel](https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5), [El Fenix](https://open.spotify.com/artist/5Eb2qY90PpBcU04APAFwBK) | [Waso](https://open.spotify.com/album/2fN6aCwIsAgoU6YLNQoAb7) | 3:03 |
+| 16 | [Waso](https://open.spotify.com/track/5SY9rsZRAbcGKTpoSq6z7b) | [Gonzalo Nawel](https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5), [El Fénix](https://open.spotify.com/artist/6gzlN8JzimeG2QV4Q8ElOE) | [Waso](https://open.spotify.com/album/2fN6aCwIsAgoU6YLNQoAb7) | 3:03 |
 | 17 | [Tamo Loco](https://open.spotify.com/track/3EsXS6UlpHtJvopnLTbsiT) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Antezana 247 \(Deluxe Edition\)](https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH) | 3:36 |
 | 18 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 |
 | 19 | [Jefa](https://open.spotify.com/track/5p3UrngKJuewvX42AqBBNe) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Jefa](https://open.spotify.com/album/1Sg6umTTHxbHrTveLYsA2q) | 2:15 |

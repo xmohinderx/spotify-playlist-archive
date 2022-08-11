@@ -1,12 +1,12 @@
 {
   "description": "Check out the official playlist from Umbrella Academy. Watch now on Netflix. ",
-  "num_followers": 397789,
+  "num_followers": 397811,
   "original_name": "The Umbrella Academy Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA3OTQ0NywwMDAwMDAwMDExOGY4NWMwMzNjZTNkODhkZTYyYWU5NTBhNmRkNGI2",
+  "snapshot_id": "MTY1NjA3OTQ0NywwMDAwMDAwMDc0ODI5OGJiYzk0M2M2MDMwMTEzY2Q5NGM4MjBkY2E1",
   "tracks": [
     {
       "added_at": "2022-06-22 15:55:51",
@@ -855,6 +855,26 @@
       "duration_ms": 301373,
       "name": "Major Tom - Coming Home",
       "url": "https://open.spotify.com/track/709ffFK4o4MtG1NKoLvOma"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "The Hawk",
+        "url": "https://open.spotify.com/album/6t08qdgCTaJV5CfUsTIuS4"
+      },
+      "artists": [
+        {
+          "name": "Joe Hunter",
+          "url": "https://open.spotify.com/artist/2pSgCWyN14Fl8zfCybIbkr"
+        },
+        {
+          "name": "Four Holidays",
+          "url": "https://open.spotify.com/artist/0W87O5rwe9qdB7k3LieHgZ"
+        }
+      ],
+      "duration_ms": 135743,
+      "name": "He Can't Love You",
+      "url": "https://open.spotify.com/track/1ieNiEe17fvlHnqalSoKZB"
     },
     {
       "added_at": "2022-06-17 04:02:00",

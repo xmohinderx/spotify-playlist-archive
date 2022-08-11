@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,177 likes - 75 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,208 likes - 75 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 32 | [Three Little Words](https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [On Impulse!](https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw) | 6:57 |
 | 33 | [Libra](https://open.spotify.com/track/64KJlRhJmdws647AvXw3mX) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Members Don't Get Weary](https://open.spotify.com/album/4IsvKtWOhpW3iutOJ8pU96) | 4:55 |
 | 34 | [Search For The New Land \- Remastered](https://open.spotify.com/track/3adOstnpR3h59VbfGpOkhf) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 15:45 |
-| 35 | [Long Wharf](https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp) | [Roy Haynes Quartet](https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX) | [Out Of The Afternoon](https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu) | 4:42 |
-| 36 | [Out To Lunch \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/6BD4u2tOTHMlACAZ8gX0Gs) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Out To Lunch \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX) | 12:09 |
+| 35 | [Out To Lunch \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/6BD4u2tOTHMlACAZ8gX0Gs) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Out To Lunch \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX) | 12:09 |
+| 36 | [Long Wharf](https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp) | [Roy Haynes Quartet](https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX) | [Out Of The Afternoon](https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu) | 4:42 |
 | 37 | [The Egg \- Remastered](https://open.spotify.com/track/1Anoc4BwtIQFvUthGe3rao) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 14:01 |
 | 38 | [E's Flat Ah's Flat Too](https://open.spotify.com/track/2uG5erIimWW9wLnz57BFFZ) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Blues & Roots](https://open.spotify.com/album/7EOQggjtK8JCqeRz9IG33e) | 6:42 |
 | 39 | [Mode For Joe \- Remastered](https://open.spotify.com/track/3kltDmshkHJ924f2ZL2Qsy) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Mode For Joe \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD) | 8:00 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 65 | [Speedball](https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 5:32 |
 | 66 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
 | 67 | [Love Song \- Rudy Van Gelder Edition/2009 Digital Remaster](https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 8:24 |
-| 68 | [Three\-Four vs\. Six\-Eight Four\-Four Ways](https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:40 |
-| 69 | [Perception \- Remastered](https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Down With It](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 5:42 |
+| 68 | [Perception \- Remastered](https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Down With It](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 5:42 |
+| 69 | [Three\-Four vs\. Six\-Eight Four\-Four Ways](https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:40 |
 | 70 | [Blessing In Disguise](https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [East Broadway Run Down](https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ) | 12:22 |
 | 71 | [Herzog](https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Total Eclipse](https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM) | 6:36 |
 | 72 | [Thumb Under](https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8) | [Lee Konitz Quintet](https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2) | [Peacemeal](https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh) | 3:14 |
-| 73 | [May Street \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/7EyrwcVkLXemac6DBXxCkO) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(Remastered\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 5:20 |
+| 73 | [Little Madimba \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(Remastered\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 8:32 |
 | 74 | [Kahlil The Prophet](https://open.spotify.com/track/25UXC18kep4qTng1062Fjf) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Destination...Out!](https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1) | 10:24 |
 | 75 | [East of the Sun \- Live@Monterey](https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 10:44 |
 
-Snapshot ID: `MTY1MTA3MTE0OCwwMDAwMDAwMGI0YWMyZDZkNzkyNWQ0NGJmNzQwOTgxOWIzODQ1OWE1`
+Snapshot ID: `MTY1MTA3MTE0OCwwMDAwMDAwMDgwM2QzOGZmNGIzMGVkYTYwYTM5ZjE1Y2JlMjk2NzY0`

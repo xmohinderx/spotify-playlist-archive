@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Nat King Cole",
-  "num_followers": 454488,
+  "num_followers": 454464,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMDRjOGE1NjM4MDliYWFlN2ZiYmQwZDFhNTk4MTMwZGIy",
+  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMDc0MzE1NzNjMWRkODNjY2I2ZmNiMGJiYjRmZjJjMDc4",
   "tracks": [
     {
       "added_at": "2021-11-12 15:48:58",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 174893,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Happy Holidays, Everyone",
-        "url": "https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Lister",
-          "url": "https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ"
-        }
-      ],
-      "duration_ms": 223315,
-      "name": "The Little Things",
-      "url": "https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Crescent City Christmas Card",
         "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 172960,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Happy Holidays, Everyone",
+        "url": "https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Lister",
+          "url": "https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ"
+        }
+      ],
+      "duration_ms": 223315,
+      "name": "The Little Things",
+      "url": "https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8"
     },
     {
       "added_at": "2021-11-12 15:48:58",

@@ -4,7 +4,7 @@
 
 > Love songs from your favorite films!
 
-117 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/5n4bAfqXL1AIL7z3Ma3gPK)
+118 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/5n4bAfqXL1AIL7z3Ma3gPK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Stay \(I Missed You\)](https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Stay \(I Missed You\)](https://open.spotify.com/album/0candONErDvN9wWFhOWXrS) | 3:04 | 2022-01-11 |  |
 | [Suddenly I See](https://open.spotify.com/track/51xAY9tR8iQm9I0KBFZfQ1) | [The Super Actives](https://open.spotify.com/artist/27N0scDxg764yxjSxQ8DKQ) | [Ultimate Housework Music Mix](https://open.spotify.com/album/0dCtvBJiL44jg8zTXaPvRN) | 3:15 | 2022-01-11 |  |
 | [Suddenly I See \(from "The Devil Wears Prada"\)](https://open.spotify.com/track/0sip7n4ZI0VOQ3uQUnaz8Q) | [Movie Soundtrack All Stars](https://open.spotify.com/artist/1znlOXPazXVYQkl8LWxkiF) | [65 Best Songs from Chick Flicks](https://open.spotify.com/album/3eYXMlXWr7P28t5rw8DQKG) | 3:15 | 2022-01-11 | 2022-07-29 |
-| [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 | 2022-01-11 |  |
+| [Summer Nights \- From “Grease”](https://open.spotify.com/track/1rqmjFbg6ODiHjSfQK0iQM) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Best Wedding Music](https://open.spotify.com/album/3AwViWMmXi0oxspOLyfs7Q) | 3:34 | 2022-01-11 |  |
+| [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 | 2022-01-11 | 2022-08-11 |
 | [Summer Nights \- From “Grease” Soundtrack](https://open.spotify.com/track/5to4N08x1jkGCwWgrJYPSq) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Gold](https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje) | 3:35 | 2022-01-11 | 2022-07-29 |
 | [Supermodel](https://open.spotify.com/track/4lHaUgqumnhiqLPwoG4MND) | [Jill Sobule](https://open.spotify.com/artist/16BoY9HfrtxVodHVdgad07) | [Clueless / Original Motion Picture Soundtrack](https://open.spotify.com/album/3OrviLrUARxsTuGdWdQTMh) | 3:07 | 2022-01-11 |  |
 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 | 2022-01-11 |  |

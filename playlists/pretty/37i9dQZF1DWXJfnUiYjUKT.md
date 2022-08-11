@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,196 likes - 96 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,390 likes - 96 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

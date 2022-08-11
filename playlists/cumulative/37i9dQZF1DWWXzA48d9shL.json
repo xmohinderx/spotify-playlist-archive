@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 145465,
       "name": "BURNER",
       "url": "https://open.spotify.com/track/1gANf7FccsLPFIwgueeo7u"
@@ -1695,6 +1695,24 @@
       "duration_ms": 92943,
       "name": "DELIRIOUS!",
       "url": "https://open.spotify.com/track/6KemhLE5U7fd5SBUJr2sRl"
+    },
+    {
+      "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/5UpCybC6vRO1n444JQwCez"
+      },
+      "artists": [
+        {
+          "name": "TWENTYTHREE",
+          "url": "https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130511,
+      "name": "DELIRIUM",
+      "url": "https://open.spotify.com/track/3dpXWb3vTMzyL6KbFqB61Y"
     },
     {
       "album": {

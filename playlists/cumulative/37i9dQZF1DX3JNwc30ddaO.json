@@ -386,6 +386,24 @@
     },
     {
       "album": {
+        "name": "I Am Alive",
+        "url": "https://open.spotify.com/album/5DzlpnpV0bHkMNgheu9zxr"
+      },
+      "artists": [
+        {
+          "name": "Meditaci\u00f3n Trascendental",
+          "url": "https://open.spotify.com/artist/7GBcK0tbzmq32W05O4V3gA"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "I Am Alive",
+      "url": "https://open.spotify.com/track/49MRwkWqwnCatZhVm3t9nu"
+    },
+    {
+      "album": {
         "name": "Immortal Grounds (Tibetan Bowls)",
         "url": "https://open.spotify.com/album/7mNJ2OhKnOiIuOAa61YzAb"
       },

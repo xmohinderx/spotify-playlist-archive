@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 3537,
+  "num_followers": 3543,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk1ODczNywwMDAwMDAwMGZlYTVjMGZhMTAzOTE1ZmU4MTQ1MjVhOTY0NTcyY2E1",
+  "snapshot_id": "MTY1OTk1ODczNywwMDAwMDAwMDhkNGMyY2I5ZGE4ODUyYjQwZWZjYzhiNTQzNDM5ODRi",
   "tracks": [
     {
       "added_at": "2022-08-08 11:38:57",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-08-08 11:38:57",
       "album": {
+        "name": "bimil:ier vol.6 \"Cloudy\"",
+        "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Cloudy",
+      "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
+    },
+    {
+      "added_at": "2022-08-08 11:38:57",
+      "album": {
         "name": "Like a Diamond",
         "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": "2022-08-08 11:38:57",
       "album": {
-        "name": "bimil:ier vol.6 \"Cloudy\"",
-        "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "Cloudy",
-      "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 186293,
       "name": "Today's Weather",
       "url": "https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "babyblue",
-        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
-      },
-      "artists": [
-        {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        }
-      ],
-      "duration_ms": 228120,
-      "name": "babyblue",
-      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
     },
     {
       "added_at": "2022-08-08 11:38:57",
@@ -392,13 +376,29 @@
           "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
         },
         {
-          "name": "\uc11c\ub3d9\ud604",
-          "url": "https://open.spotify.com/artist/1KqTeSB6Btq3D6StbKv3Uz"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
       "duration_ms": 162586,
       "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
       "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
+    },
+    {
+      "added_at": "2022-08-08 11:38:57",
+      "album": {
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
     },
     {
       "added_at": "2022-08-08 11:38:57",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-08-08 11:38:57",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 221369,
-      "name": "BETTER (with MINO)",
-      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
+    },
+    {
+      "added_at": "2022-08-08 11:38:57",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 221369,
+      "name": "BETTER (with MINO)",
+      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
     },
     {
       "added_at": "2022-08-08 11:38:57",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-08-08 11:38:57",
       "album": {
-        "name": "Island Island!",
-        "url": "https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD"
-      },
-      "artists": [
-        {
-          "name": "more",
-          "url": "https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM"
-        }
-      ],
-      "duration_ms": 175300,
-      "name": "happen",
-      "url": "https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 183281,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK"
+    },
+    {
+      "added_at": "2022-08-08 11:38:57",
+      "album": {
+        "name": "Island Island!",
+        "url": "https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD"
+      },
+      "artists": [
+        {
+          "name": "more",
+          "url": "https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM"
+        }
+      ],
+      "duration_ms": 175300,
+      "name": "happen",
+      "url": "https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F"
     },
     {
       "added_at": "2022-08-08 11:38:57",
@@ -679,8 +679,8 @@
     {
       "added_at": "2022-08-08 11:38:57",
       "album": {
-        "name": "kibun (feat. vntermude)",
-        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
+        "name": "BOKE (Remix) (feat. kojikoji)",
+        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
       },
       "artists": [
         {
@@ -688,13 +688,13 @@
           "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
         },
         {
-          "name": "vntermude",
-          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
         }
       ],
-      "duration_ms": 168498,
-      "name": "kibun (feat. vntermude)",
-      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
+      "duration_ms": 184510,
+      "name": "BOKE (Remix) (feat. kojikoji)",
+      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     },
     {
       "added_at": "2022-08-08 11:38:57",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-08-08 11:38:57",
       "album": {
+        "name": "How About You?",
+        "url": "https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 198807,
+      "name": "How About You?",
+      "url": "https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD"
+    },
+    {
+      "added_at": "2022-08-08 11:38:57",
+      "album": {
         "name": "INHALE",
         "url": "https://open.spotify.com/album/2x9HxolZ62HxwI0R4wcEPO"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 194178,
       "name": "TUXEDO (feat. UNE)",
       "url": "https://open.spotify.com/track/1tdHJMgpkwb2GwvNJUwpbN"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "How About You?",
-        "url": "https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87"
-      },
-      "artists": [
-        {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
-        }
-      ],
-      "duration_ms": 198807,
-      "name": "How About You?",
-      "url": "https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD"
     },
     {
       "added_at": "2022-08-08 11:38:57",
@@ -855,8 +855,8 @@
     {
       "added_at": "2022-08-08 11:38:57",
       "album": {
-        "name": "BOKE (Remix) (feat. kojikoji)",
-        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
+        "name": "kibun (feat. vntermude)",
+        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
       },
       "artists": [
         {
@@ -864,13 +864,13 @@
           "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
         },
         {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+          "name": "vntermude",
+          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
         }
       ],
-      "duration_ms": 184510,
-      "name": "BOKE (Remix) (feat. kojikoji)",
-      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
+      "duration_ms": 168498,
+      "name": "kibun (feat. vntermude)",
+      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
     },
     {
       "added_at": "2022-08-08 11:38:57",

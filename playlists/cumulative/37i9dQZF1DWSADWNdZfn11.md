@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-85 songs - 4 hr 41 min - not published yet
+85 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/6TQH1ddWIcxWjiiu5iMjvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

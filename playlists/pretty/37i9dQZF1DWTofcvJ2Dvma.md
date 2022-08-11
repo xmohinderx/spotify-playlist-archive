@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,862 likes - 200 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,917 likes - 200 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 199 | [Seed of a Thought](https://open.spotify.com/track/6smNHgmjTDNJWaovT0NbRR) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seed of a Thought](https://open.spotify.com/album/3GnK0lasJIQFXFEc8SwLak) | 1:59 |
 | 200 | [Elevator Jam](https://open.spotify.com/track/05OuE2FeaeCkiz0EAKIqYZ) | [Wall Giant](https://open.spotify.com/artist/2SJLqBkYtTHwb0tYJDxnrf) | [Elevator Jam](https://open.spotify.com/album/0ILqNHJ9j8QNhBa3KomCeH) | 2:48 |
 
-Snapshot ID: `MTY1OTAxMDA4OSwwMDAwMDAwMGNiNjVmYjkwMmVkZDU0NzFlY2NjOTI1N2FiODdkOTBl`
+Snapshot ID: `MTY2MDEzMTEyMCwwMDAwMDAwMDc3YTEwYWJiZTliYmQ3Y2U3MjFmZTFiZTYxNDQ2NDAz`

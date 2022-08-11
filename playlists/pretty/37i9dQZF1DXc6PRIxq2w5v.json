@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Asaph, BIG THE KIID",
-  "num_followers": 90707,
+  "num_followers": 90728,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODgzMSwwMDAwMDAwMDFhN2Q1YzNmMWVhNjliZGQ1NGE1YzY1OGZiNWVkYWU4",
+  "snapshot_id": "MTY1NjY0ODgzMSwwMDAwMDAwMGQ3MzI2ODhjMWRkNDNjOTg0ZjVlOTEwMjVhZTU2MTA4",
   "tracks": [
     {
       "added_at": "2022-07-01 04:13:51",
@@ -1071,38 +1071,6 @@
     {
       "added_at": "2022-07-01 04:13:51",
       "album": {
-        "name": "Minha Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 280113,
-      "name": "Minha Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB"
-    },
-    {
-      "added_at": "2022-07-01 04:13:51",
-      "album": {
-        "name": "BABY",
-        "url": "https://open.spotify.com/album/4dzKbTq1stnawn67OPO024"
-      },
-      "artists": [
-        {
-          "name": "Asaph",
-          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/2BRwBwyJfVjZcDW5LJ0Uow"
-    },
-    {
-      "added_at": "2022-07-01 04:13:51",
-      "album": {
         "name": "Se P\u00e1",
         "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
       },
@@ -1119,22 +1087,18 @@
     {
       "added_at": "2022-07-01 04:13:51",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/5xOFDQNt2vNsse9z7auAs3"
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/4dzKbTq1stnawn67OPO024"
       },
       "artists": [
         {
-          "name": "Machini",
-          "url": "https://open.spotify.com/artist/42wZKHNutqsKTcN9n5RrbI"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/5y4TUzw7Nn4H1OtXUdd6Vr"
+      "duration_ms": 147000,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/2BRwBwyJfVjZcDW5LJ0Uow"
     },
     {
       "added_at": "2022-07-01 04:13:51",
@@ -1159,6 +1123,42 @@
       "duration_ms": 209142,
       "name": "Deserto",
       "url": "https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU"
+    },
+    {
+      "added_at": "2022-07-01 04:13:51",
+      "album": {
+        "name": "Minha Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 280113,
+      "name": "Minha Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB"
+    },
+    {
+      "added_at": "2022-07-01 04:13:51",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/5xOFDQNt2vNsse9z7auAs3"
+      },
+      "artists": [
+        {
+          "name": "Machini",
+          "url": "https://open.spotify.com/artist/42wZKHNutqsKTcN9n5RrbI"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/5y4TUzw7Nn4H1OtXUdd6Vr"
     },
     {
       "added_at": "2022-07-01 04:13:51",

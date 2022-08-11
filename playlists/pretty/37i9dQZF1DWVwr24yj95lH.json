@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Seether",
-  "num_followers": 510396,
+  "num_followers": 510559,
   "original_name": "Post-Grunge Appreciation Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgyMDA1NywwMDAwMDAwMDlmNzgzMzExOTVlY2ZmMjY5YzdmZTI4OGU3NjZmODRl",
+  "snapshot_id": "MTY1NzgyMDA1NywwMDAwMDAwMGQ4ZWEwODM0ZDA3MjhiNDI2MmU3OTkzZWFmMDYwNDIy",
   "tracks": [
     {
       "added_at": "2022-06-28 19:49:04",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "Human Clay",
-        "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
-      },
-      "artists": [
-        {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        }
-      ],
-      "duration_ms": 316733,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
-    },
-    {
-      "added_at": "2022-06-28 19:49:04",
-      "album": {
         "name": "Come What(ever) May [10th Anniversary Edition]",
         "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 282946,
       "name": "Through Glass",
       "url": "https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"
+    },
+    {
+      "added_at": "2022-06-28 19:49:04",
+      "album": {
+        "name": "Human Clay",
+        "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "duration_ms": 316733,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "Weathered",
-        "url": "https://open.spotify.com/album/2ENlJXygQX6en4iziijet6"
-      },
-      "artists": [
-        {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        }
-      ],
-      "duration_ms": 294600,
-      "name": "My Sacrifice",
-      "url": "https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR"
-    },
-    {
-      "added_at": "2022-06-28 19:49:04",
-      "album": {
         "name": "Karma and Effect",
         "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 325600,
       "name": "Lightning Crashes",
       "url": "https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"
+    },
+    {
+      "added_at": "2022-06-28 19:49:04",
+      "album": {
+        "name": "Weathered",
+        "url": "https://open.spotify.com/album/2ENlJXygQX6en4iziijet6"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "My Sacrifice",
+      "url": "https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
+        "name": "Razorblade Suitcase (In Addition)",
+        "url": "https://open.spotify.com/album/5nLESM0i6o7nWCyu7FAeb9"
       },
       "artists": [
         {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
         }
       ],
-      "duration_ms": 460400,
-      "name": "Welcome To The Fold",
-      "url": "https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA"
+      "duration_ms": 291053,
+      "name": "Swallowed",
+      "url": "https://open.spotify.com/track/5eilSVtn5pkequUpyV6w9d"
     }
   ],
   "unique_name": "Post-Grunge Appreciation Society",

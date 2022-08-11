@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Allison Russell",
-  "num_followers": 260052,
+  "num_followers": 260087,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMGFlYjZjNjc4YzJmYmRkMzEwNzczYzJhMDQ0OTk2OWU5",
+  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMGI1MGEzNDQ0N2IzZGM4NzYxNTcxYjc0YWM0ZDhiYzU1",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
     },
     {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
       "added_at": "2021-03-05 17:16:41",
       "album": {
         "name": "At Swim",
@@ -1255,6 +1271,22 @@
       "duration_ms": 179826,
       "name": "Fall",
       "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Black Is the Color",
+        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
+      },
+      "artists": [
+        {
+          "name": "Lucette",
+          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "Bobby Reid",
+      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1275,34 +1307,18 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Black Is the Color",
-        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
       "artists": [
         {
-          "name": "Lucette",
-          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
         }
       ],
-      "duration_ms": 138440,
-      "name": "Bobby Reid",
-      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+      "duration_ms": 205080,
+      "name": "Sit Here And Love Me",
+      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Sit Here And Love Me",
-      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
         "name": "South Gotta Change",
         "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 225266,
       "name": "South Gotta Change",
       "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Total Freedom",
+        "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "duration_ms": 270120,
+      "name": "Glenfern",
+      "url": "https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1371,22 +1387,6 @@
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
-        "name": "Total Freedom",
-        "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Edwards",
-          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
-        }
-      ],
-      "duration_ms": 270120,
-      "name": "Glenfern",
-      "url": "https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Motel Bouquet",
-        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 184787,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
         "name": "Ear to the Ground",
         "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 131440,
       "name": "Little Boxes",
       "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Motel Bouquet",
+        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 184787,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1761,22 +1761,6 @@
       "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Time And Love: The Essential Masters",
-        "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
-      },
-      "artists": [
-        {
-          "name": "Laura Nyro",
-          "url": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Stoned Soul Picnic",
-      "url": "https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl"
-    },
-    {
       "added_at": "2021-03-05 17:16:41",
       "album": {
         "name": "Like An Old Fashioned Waltz (Deluxe Edition)",
@@ -1791,6 +1775,22 @@
       "duration_ms": 335626,
       "name": "Who Knows Where The Time Goes? - BBC Session - John Peel 11/9/73",
       "url": "https://open.spotify.com/track/0Adfl7F4StzQMrFgPcR5Ys"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Time And Love: The Essential Masters",
+        "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
+      },
+      "artists": [
+        {
+          "name": "Laura Nyro",
+          "url": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Stoned Soul Picnic",
+      "url": "https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Natural Conclusion",
-        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 268660,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 185506,
       "name": "Workin' Woman Blues",
       "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Natural Conclusion",
+        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 268660,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Banjo Haiku",
-        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+        "name": "Dark River",
+        "url": "https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu"
       },
       "artists": [
         {
-          "name": "Cathy Fink",
-          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
         }
       ],
-      "duration_ms": 110693,
-      "name": "Julie Ann Johnson",
-      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
+      "duration_ms": 194560,
+      "name": "Occasionally",
+      "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
+        "name": "Banjo Haiku",
+        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+      },
+      "artists": [
+        {
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Julie Ann Johnson",
+      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
         "name": "Mortal City",
         "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 287933,
       "name": "Iowa (Traveling, Pt. 3)",
       "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/6jMEXMw4i0LZ1ZwU7Bw0lW"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -2087,6 +2087,22 @@
       "duration_ms": 199146,
       "name": "Bloomsday",
       "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/6jMEXMw4i0LZ1ZwU7Bw0lW"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -2123,18 +2139,18 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Dark River",
-        "url": "https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu"
+        "name": "Black Irish",
+        "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
       },
       "artists": [
         {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
         }
       ],
-      "duration_ms": 194560,
-      "name": "Occasionally",
-      "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
+      "duration_ms": 241203,
+      "name": "Banshee Moan",
+      "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -2167,22 +2183,6 @@
       "duration_ms": 198893,
       "name": "Deer Creek Canyon",
       "url": "https://open.spotify.com/track/4bjK4okiLjAPmGjvxEjEBY"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
-        "name": "Black Irish",
-        "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
-      },
-      "artists": [
-        {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
-        }
-      ],
-      "duration_ms": 241203,
-      "name": "Banshee Moan",
-      "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Come Home to Mama",
-        "url": "https://open.spotify.com/album/54qkrDwwkVHPp3GncPG8EZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Wainwright",
-          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
-        }
-      ],
-      "duration_ms": 245133,
-      "name": "Proserpina",
-      "url": "https://open.spotify.com/track/3yKvqrD8fT9IvEQ4q4eUlC"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 134083,
       "name": "Always Room",
       "url": "https://open.spotify.com/track/74nuuKLWKLboj141dT2vBV"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Come Home to Mama",
+        "url": "https://open.spotify.com/album/54qkrDwwkVHPp3GncPG8EZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "Proserpina",
+      "url": "https://open.spotify.com/track/3yKvqrD8fT9IvEQ4q4eUlC"
     },
     {
       "added_at": "2021-03-05 17:16:41",

@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kim Hye Rim\(김혜림\)\) \(핫한 국내 록음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: msftz\(미스피츠\)\) \(핫한 국내 록음악을 만나보세요!\)
 
-369 songs - 22 hr 49 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
+370 songs - 22 hr 52 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [LET'S DO](https://open.spotify.com/track/4Qw55P1sgRoSP1hx8pH9bv) | [Neul](https://open.spotify.com/artist/5rtRatj0wvn1xhL7WuFUJA) | [LET'S DO](https://open.spotify.com/album/46Q2Smvsfn2kUZ99muta0E) | 3:46 | 2022-04-22 | 2022-04-24 |
 | [Let's go home](https://open.spotify.com/track/7J00hW1bd6Zp3wykjQCP8M) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:45 | 2022-04-12 | 2022-07-21 |
 | [Letter](https://open.spotify.com/track/5eQpbcCvsnvmp58ph8mOa1) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [Letter](https://open.spotify.com/album/3JnckYCOtlr4EmxYoXA7um) | 3:51 | 2022-06-09 | 2022-06-14 |
-| [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2022-04-22 |  |
+| [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2022-04-22 | 2022-08-11 |
 | [Let′s Get it](https://open.spotify.com/track/2w1jsbgkgR6aeg56H2AHSW) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [Royal Secret Inspector and Joy, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4UXcY00wGw2ZHMHHXzmyRN) | 3:14 | 2022-04-21 | 2022-04-23 |
 | [Life](https://open.spotify.com/track/2oxxGEfr7uciElfiDo135t) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA \(Complete Edition\)](https://open.spotify.com/album/2itIZTzeIXjJn7sqReMvQE) | 3:53 | 2022-04-22 | 2022-05-13 |
 | [Life Dancing](https://open.spotify.com/track/1Na51A7s9Fm1ullr4aVG5l) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Life Dancing](https://open.spotify.com/album/5Hw3PFHxV4GGfMJHZfnVyA) | 3:15 | 2022-04-22 | 2022-07-01 |
@@ -305,6 +305,7 @@
 | [Swimming](https://open.spotify.com/track/7hRxZMsZhyz2Azs4A4t2sz) | [Dan](https://open.spotify.com/artist/4BMnAOwN9giwY67owHDYYB) | [Swimming](https://open.spotify.com/album/6MFF00PGZQTQq3Gq4xgHTt) | 4:38 | 2022-04-22 | 2022-05-08 |
 | [SWIMMING](https://open.spotify.com/track/6y8BCw8EyaGOcjGpgqOnMx) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Piece of BTOB Vol.4](https://open.spotify.com/album/0maS5rDN2WBQElPQVR9GZW) | 4:20 | 2022-04-22 | 2022-05-01 |
 | [Take me out, tonight \- 2022 Version](https://open.spotify.com/track/4G7gSxgKxFim71L7wlyHm0) | [The Vastards](https://open.spotify.com/artist/7lUtWxDBvmHPTBlcekHVjf) | [CARNIVAL](https://open.spotify.com/album/0bF5gUOVTNZZ4sHtrAPsB6) | 3:42 | 2022-06-18 | 2022-07-09 |
+| [takeoff](https://open.spotify.com/track/5PRc30D1NLEGUKi7KeIetn) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [magicality](https://open.spotify.com/album/3lve3n6DTwvbU3vA4pimYz) | 3:14 | 2022-08-10 |  |
 | [Tallgrass](https://open.spotify.com/track/3ejKDgWyYihU4hKlzjgwlm) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Tallgrass](https://open.spotify.com/album/112a4wCjK6TpZtKhCxZhtt) | 2:22 | 2022-05-11 | 2022-07-29 |
 | [Teddy bear](https://open.spotify.com/track/6ED0tnBoWmQdJHDBKL0w4e) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:59 | 2022-04-22 | 2022-07-26 |
 | [Tempest](https://open.spotify.com/track/4RTeOflkCNdBmJymYk2JJj) | [Huckleberryfinn](https://open.spotify.com/artist/4HWH9BmIaKteAv5RmqWeZa) | [The Devil Judge \(Original Television Soundtrack\)](https://open.spotify.com/album/7dt9sjnoSCVuU4SLnHeFeG) | 4:29 | 2022-05-03 | 2022-07-09 |

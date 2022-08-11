@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: CHAI \(Japan\)
 
-305 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+306 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,8 @@
 | [Weigh me down](https://open.spotify.com/track/2Q5dyUrJK5IpXZEVHdfELv) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Weigh me down](https://open.spotify.com/album/399zSYDYVqJbuSpuCy937C) | 3:24 | 2022-03-24 | 2022-04-01 |
 | [Weli Ho](https://open.spotify.com/track/3xoeyCTIlvBaLuTmewPRwL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Weli Ho](https://open.spotify.com/album/7CgXTd6AhH7tNNBq8soFu7) | 3:20 | 2022-03-24 | 2022-04-22 |
 | [What Love Meant](https://open.spotify.com/track/51r4ThTtRZgGyDstKxgvgi) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [What Love Meant](https://open.spotify.com/album/0DAn2VlU2jpAvuoXKdJZfx) | 4:29 | 2022-06-30 |  |
-| [Whatchu Gonna...?](https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Whatchu Gonna...?](https://open.spotify.com/album/4C6O1vEFP0AM2ThBxFdma2) | 3:48 | 2022-07-28 |  |
+| [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 | 2022-08-04 |  |
+| [Whatchu Gonna...?](https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Whatchu Gonna...?](https://open.spotify.com/album/4C6O1vEFP0AM2ThBxFdma2) | 3:48 | 2022-07-28 | 2022-08-11 |
 | [When I Dream of Grapes Turning Blue](https://open.spotify.com/track/1kBZCCJpZGooNNALj2LcKt) | [So It Goes H.K](https://open.spotify.com/artist/20CPqsSBGSEECOrIakaBQT) | [Three](https://open.spotify.com/album/7vuIX2SrGXFpDAccHaFW8g) | 4:20 | 2022-06-16 | 2022-07-29 |
 | [When Reasons End](https://open.spotify.com/track/4y2iVcECRxIa9eyDPP0nYD) | [Ghost Fever](https://open.spotify.com/artist/1ZmDucAM1OEaljYZ1W4SLY) | [Here Comes The Neighbor](https://open.spotify.com/album/5tAYvG42QsTDsaaaxOQbLp) | 4:18 | 2022-05-19 | 2022-07-08 |
 | [Wherever the Wind Blows](https://open.spotify.com/track/3rcUdlMn6YQx8Byr511yo9) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Aquilo](https://open.spotify.com/album/3w8Rdn8i5qPGKVPURtvi42) | 3:28 | 2022-07-14 | 2022-07-22 |

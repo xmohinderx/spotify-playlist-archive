@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,321 likes - 105 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,496 likes - 105 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 80 | [God Bless America](https://open.spotify.com/track/63Od9t6xI8CiIkr7T3XZfr) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [God Bless America](https://open.spotify.com/album/0MFRDEEOBK2OW0Ij5mN5XY) | 3:05 |
 | 81 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 82 | [Still a Soldier](https://open.spotify.com/track/0twloQAnQbMRwCy9uDW8Q8) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Something's Going On](https://open.spotify.com/album/350yWsEhzbD2TOhZZAXglP) | 3:17 |
-| 83 | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/track/3yf1lOT3aAaVzkyDYkxQLF) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/album/1Z5vIsFPproLKSFGPx77ly) | 3:25 |
+| 83 | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/track/3yf1lOT3aAaVzkyDYkxQLF) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/album/1Z5vIsFPproLKSFGPx77ly) | 3:24 |
 | 84 | [Riding With Private Malone](https://open.spotify.com/track/4yym5ZJXwvg03d4kyhLVZO) | [David Ball](https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE) | [Amigo](https://open.spotify.com/album/475OBKjviIi9rmLKWHEHBa) | 4:35 |
 | 85 | [Blessed](https://open.spotify.com/track/0nGzwlShUTBEQePuzMoUjN) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Greatest Hits](https://open.spotify.com/album/467Cag6qid9mjW2hpnIcFi) | 4:36 |
 | 86 | [My Front Porch Looking In](https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Playlist: The Very Best Of Lonestar](https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5) | 3:43 |

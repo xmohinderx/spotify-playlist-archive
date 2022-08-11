@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 30703,
+  "num_followers": 30760,
   "original_name": "Dalkom Mukbang (\ub2ec\ucf64\uba39\ubc29)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2NDM1MiwwMDAwMDAwMGMxMWEyMjhkOGEyZGEzYzkzNWI3ZDZmMTg5NWM4ZGQ5",
+  "snapshot_id": "MTY2MDA2NDM1MiwwMDAwMDAwMDBlMzc3ODU2ZmY2MzQwZWE0Mzg3OTg4OGJiMWVmZDZj",
   "tracks": [
     {
       "added_at": "2022-08-09 16:59:12",
@@ -371,26 +371,6 @@
     {
       "added_at": "2022-08-09 16:59:12",
       "album": {
-        "name": "SNOW",
-        "url": "https://open.spotify.com/album/5PEqgoVQje28EbUTKPbVFn"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Lee Moon Sae",
-          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Snow (Feat. Lee Moon Sae)",
-      "url": "https://open.spotify.com/track/62SJ5qkvcNBorQ6QNg6Xcb"
-    },
-    {
-      "added_at": "2022-08-09 16:59:12",
-      "album": {
         "name": "In the Rain",
         "url": "https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 188760,
       "name": "Umbrella (feat. Ashley Alisha, Julian Rose)",
       "url": "https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm"
+    },
+    {
+      "added_at": "2022-08-09 16:59:12",
+      "album": {
+        "name": "SNOW",
+        "url": "https://open.spotify.com/album/5PEqgoVQje28EbUTKPbVFn"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Snow (Feat. Lee Moon Sae)",
+      "url": "https://open.spotify.com/track/62SJ5qkvcNBorQ6QNg6Xcb"
     },
     {
       "added_at": "2022-08-09 16:59:12",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-08-09 16:59:12",
       "album": {
-        "name": "A Call from My Dream",
-        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
-      },
-      "artists": [
-        {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
-        }
-      ],
-      "duration_ms": 273265,
-      "name": "Shower duty",
-      "url": "https://open.spotify.com/track/3vCbwbAIRB1vkQAGbNXO3F"
-    },
-    {
-      "added_at": "2022-08-09 16:59:12",
-      "album": {
         "name": "Farmers (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 157386,
       "name": "Strawberry Smoothie",
       "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
+    },
+    {
+      "added_at": "2022-08-09 16:59:12",
+      "album": {
+        "name": "A Call from My Dream",
+        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "duration_ms": 273265,
+      "name": "Shower duty",
+      "url": "https://open.spotify.com/track/3vCbwbAIRB1vkQAGbNXO3F"
     },
     {
       "added_at": "2022-08-09 16:59:12",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-08-09 16:59:12",
       "album": {
-        "name": "Seoul Check-in OST Part 6",
-        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 191208,
-      "name": "Check-In",
-      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
-    },
-    {
-      "added_at": "2022-08-09 16:59:12",
-      "album": {
         "name": "How Is It?",
         "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 189800,
       "name": "How Is It?",
       "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
+    },
+    {
+      "added_at": "2022-08-09 16:59:12",
+      "album": {
+        "name": "Seoul Check-in OST Part 6",
+        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 191208,
+      "name": "Check-In",
+      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
     },
     {
       "added_at": "2022-08-09 16:59:12",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-08-09 16:59:12",
       "album": {
-        "name": "Candy Pianist",
-        "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
-      },
-      "artists": [
-        {
-          "name": "Lee Jin Ah",
-          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Awake (Feat. Sam Kim)",
-      "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
-    },
-    {
-      "added_at": "2022-08-09 16:59:12",
-      "album": {
         "name": "BETTER - The 10th Album",
         "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
       },
@@ -967,18 +947,22 @@
     {
       "added_at": "2022-08-09 16:59:12",
       "album": {
-        "name": "\ub108\ub294\uc5b4\ub54c",
-        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
+        "name": "Candy Pianist",
+        "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
       },
       "artists": [
         {
-          "name": "Coldin",
-          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 260812,
-      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
-      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
+      "duration_ms": 259640,
+      "name": "Awake (Feat. Sam Kim)",
+      "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
     },
     {
       "added_at": "2022-08-09 16:59:12",
@@ -995,6 +979,22 @@
       "duration_ms": 228934,
       "name": "SMILE",
       "url": "https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51"
+    },
+    {
+      "added_at": "2022-08-09 16:59:12",
+      "album": {
+        "name": "\ub108\ub294\uc5b4\ub54c",
+        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
+      },
+      "artists": [
+        {
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
+      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
     },
     {
       "added_at": "2022-08-09 16:59:12",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-08-09 16:59:12",
       "album": {
-        "name": "The Fairy Tale",
-        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 239086,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
-    },
-    {
-      "added_at": "2022-08-09 16:59:12",
-      "album": {
         "name": "My Journey",
         "url": "https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 203285,
       "name": "My Journey",
       "url": "https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg"
+    },
+    {
+      "added_at": "2022-08-09 16:59:12",
+      "album": {
+        "name": "The Fairy Tale",
+        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 239086,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
     },
     {
       "added_at": "2022-08-09 16:59:12",

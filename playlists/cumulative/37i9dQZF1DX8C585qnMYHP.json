@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Himeno Tama / Boku to Georges Artwork: Thami Nabil",
+  "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Hatis Noit / Boku to Georges Artwork: Thami Nabil",
   "name": "Fresh Finds Experimental",
   "published_playlist_ids": [
     "7vHfjk9LwMkQlbKUYS7lDl"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 164333,
       "name": "All the Way up",
       "url": "https://open.spotify.com/track/1vUbhcm7MIRuqFYi0FZSuu"
@@ -1218,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Aral",
+        "url": "https://open.spotify.com/album/3JaoGku2I6BpJpsE70N0qN"
+      },
+      "artists": [
+        {
+          "name": "SK.EIN",
+          "url": "https://open.spotify.com/artist/7lO3132d2IEaNxgeMabPXy"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216882,
+      "name": "Aral",
+      "url": "https://open.spotify.com/track/1KSvw7Nbb93VfeTYv3PPEo"
+    },
+    {
+      "album": {
         "name": "Berlin Atonal: More Light",
         "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
       },
@@ -1609,6 +1627,28 @@
       "duration_ms": 347276,
       "name": "Aural Drift - T.Raumschmiere Remix",
       "url": "https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu"
+    },
+    {
+      "album": {
+        "name": "AUTOMATA",
+        "url": "https://open.spotify.com/album/611Ky02Hs2IIhRZfUossfE"
+      },
+      "artists": [
+        {
+          "name": "JunIzawa",
+          "url": "https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I"
+        },
+        {
+          "name": "WOZNIAK",
+          "url": "https://open.spotify.com/artist/1jrlC8PxkV1Lh1LIjPgdwj"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315130,
+      "name": "AUTOMATA",
+      "url": "https://open.spotify.com/track/3bTUfgHEEHzSowlHyfxc6n"
     },
     {
       "album": {
@@ -2511,7 +2551,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 216102,
       "name": "C Tactile Afferent",
       "url": "https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa"
@@ -3249,7 +3289,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 264253,
       "name": "Colonizer",
       "url": "https://open.spotify.com/track/5f4EAqwXpQ7kJGgZ7oVN60"
@@ -4111,7 +4151,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 277500,
       "name": "distance to breathe - KIRARA rework",
       "url": "https://open.spotify.com/track/7bKJ8YQ2TGBGA37Q6KMN22"
@@ -5971,7 +6011,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 264533,
       "name": "Fruits Of Labour",
       "url": "https://open.spotify.com/track/7tB3VQuxTJP6GcIvgkddjT"
@@ -6191,7 +6231,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 260334,
       "name": "Gel & Gewalt",
       "url": "https://open.spotify.com/track/3fxMGtWsPlHvPlTanYlrAF"
@@ -7136,6 +7176,24 @@
     },
     {
       "album": {
+        "name": "Biblically Accurate Fursona",
+        "url": "https://open.spotify.com/album/7C60sRZDmSH5f8CfPw4vHb"
+      },
+      "artists": [
+        {
+          "name": "Anita Velveeta",
+          "url": "https://open.spotify.com/artist/7ysa24HVkhXpjm5NpwnziR"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Hypersigil",
+      "url": "https://open.spotify.com/track/7IQc2oWrdj5Y5WnxE8usgV"
+    },
+    {
+      "album": {
         "name": "File Under UK Metaplasm",
         "url": "https://open.spotify.com/album/1GOCqu141EPdI8yiwfSBSY"
       },
@@ -7563,6 +7621,24 @@
       "duration_ms": 223375,
       "name": "Ikiru",
       "url": "https://open.spotify.com/track/3yw4z7qsxXc5128jcL3iC3"
+    },
+    {
+      "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "album": {
@@ -8008,6 +8084,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
+      "album": {
         "name": "Solutions",
         "url": "https://open.spotify.com/album/2EGQrhr4o23mpf3BOujLFk"
       },
@@ -8265,6 +8359,24 @@
       "duration_ms": 145001,
       "name": "Jazz Hands",
       "url": "https://open.spotify.com/track/7pOE1yRsCTsxpxgh4WxEoV"
+    },
+    {
+      "album": {
+        "name": "Castle In The Sky",
+        "url": "https://open.spotify.com/album/4z2WEOYZ7w5kOO0LVfMTWS"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Vanilla",
+          "url": "https://open.spotify.com/artist/2Itr8TQK5dkOjUpreaamWP"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124186,
+      "name": "Jennifer Calling",
+      "url": "https://open.spotify.com/track/6l22VxrbgYAV8tnWUbsHje"
     },
     {
       "album": {
@@ -10909,7 +11021,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 178285,
       "name": "Nebulosa di Orione",
       "url": "https://open.spotify.com/track/0DwbWhd5BzZI4P1xhrPzB0"
@@ -10971,7 +11083,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 259933,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/3TGUXBzeUqekCLeAxOfzfr"
@@ -11085,6 +11197,24 @@
       "duration_ms": 376082,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
+    },
+    {
+      "album": {
+        "name": "6\u00b030\u203233.372\u2033N 3\u00b022\u20320.66\u2033E",
+        "url": "https://open.spotify.com/album/5ORagktp2f72d9tqOAxz49"
+      },
+      "artists": [
+        {
+          "name": "Emeka Ogboh",
+          "url": "https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406365,
+      "name": "No Counterfeit",
+      "url": "https://open.spotify.com/track/3UCxLjpSymzhVKQRZHdLw8"
     },
     {
       "album": {
@@ -12772,6 +12902,24 @@
     },
     {
       "album": {
+        "name": "Third Places",
+        "url": "https://open.spotify.com/album/3IcMehEpCefcsYx1GESzZb"
+      },
+      "artists": [
+        {
+          "name": "RamonPang",
+          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241714,
+      "name": "Recklessly",
+      "url": "https://open.spotify.com/track/7MPIHBgqA4UN1WpZ8iaDrC"
+    },
+    {
+      "album": {
         "name": "Winter Solstice / Redwings",
         "url": "https://open.spotify.com/album/0frV42hB37xmPF1hvGgqMY"
       },
@@ -13341,6 +13489,24 @@
       "duration_ms": 865490,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/37tDVpm5e9B9mdNv7FzDO3"
+    },
+    {
+      "album": {
+        "name": "Melon Siesto",
+        "url": "https://open.spotify.com/album/7EUxrcuLp10Opfs3HT5RRl"
+      },
+      "artists": [
+        {
+          "name": "Emma DJ",
+          "url": "https://open.spotify.com/artist/5WPBoQGyVEaa54xmfsKsXF"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105404,
+      "name": "Sad as Drugs",
+      "url": "https://open.spotify.com/track/0cttWmmUrynVgGINzu6CVi"
     },
     {
       "album": {
@@ -15365,7 +15531,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 237166,
       "name": "The Break Up",
       "url": "https://open.spotify.com/track/7ocDXq81c6WcYzGJ6KuSna"
@@ -16207,7 +16373,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 391899,
       "name": "Tloque Nahuaque",
       "url": "https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5"
@@ -16637,6 +16803,24 @@
       "duration_ms": 310000,
       "name": "U+25CF",
       "url": "https://open.spotify.com/track/6irttctgzcG3O0NqRhD7e5"
+    },
+    {
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/51ED2mdClgKUQEEvwoleqR"
+      },
+      "artists": [
+        {
+          "name": "Krischvn",
+          "url": "https://open.spotify.com/artist/4VT88y8BOxQjndfg6LS2Od"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177964,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0UUtE4lVu3L0TWGlMSDwQd"
     },
     {
       "album": {

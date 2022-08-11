@@ -4,7 +4,7 @@
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-94 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/43vCWCUSR0OchxOLKb5RA4)
+95 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/43vCWCUSR0OchxOLKb5RA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [I Know You Got Soul \- Extended Version](https://open.spotify.com/track/2Wv0Tblv8PjQWMyaDdZAkE) | [Bobby Byrd](https://open.spotify.com/artist/6WXpplxbfcLvaAlhDbfEyO) | [Bobby Byrd Got Soul: The Best Of Bobby Byrd](https://open.spotify.com/album/1kkHnZPvg7XUNCtEyZTIUA) | 4:43 | 2020-12-01 |  |
 | [I Like Funky Music](https://open.spotify.com/track/6uUjQKZ7v1X6HQk6A9GtgE) | [Uncle Louie](https://open.spotify.com/artist/2xwBBWaOe9tXTOxcfFWkJ5), [Walter Murphy](https://open.spotify.com/artist/73JBR5s2PVvUjGu6tIqjqx) | [Uncle Louie's Here](https://open.spotify.com/album/7CG8lauMEe4VYWajCZ3lwH) | 4:00 | 2020-12-01 |  |
 | [I Wanna Be Your Lover](https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince](https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC) | 5:47 | 2020-12-01 |  |
+| [I'm Mr\. Big Stuff](https://open.spotify.com/track/51dfJUV8LcG9zNW72JsvmI) | [Jimmy Hicks](https://open.spotify.com/artist/2kPpkaVu7vuO0Xk8nOYPrM) | [Funky Funky New Orleans](https://open.spotify.com/album/5CNquk3KWmttvDzQ1UurfO) | 2:32 | 2020-12-01 |  |
 | [If It Ain't Funky](https://open.spotify.com/track/5xLqifhKZLv724YpWls2kJ) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [Bustin' Loose](https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub) | 6:04 | 2020-12-01 |  |
 | [If It Don't Turn You On \(You Oughta Leave It Alone\)](https://open.spotify.com/track/2YAt0zQ9bbrFkARVffhhDZ) | [B.T\. Express](https://open.spotify.com/artist/67PmHOmt1tveILUtasiYAf) | [Do It \('Til You're Satisfied\)](https://open.spotify.com/album/1aa8r527b20tcJqd7RdFeP) | 4:41 | 2020-12-01 |  |
 | [Jungle Boogie](https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 3:06 | 2020-12-01 |  |

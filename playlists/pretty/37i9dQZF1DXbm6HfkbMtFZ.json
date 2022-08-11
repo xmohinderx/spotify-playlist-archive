@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 593108,
+  "num_followers": 593287,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTc0Nzk5NCwwMDAwMDAwMDIxMDYyYmY5ZjVkNzA5YjY2MDUwMjgxNGQxNDJiMzBj",
+  "snapshot_id": "MTY1OTc0Nzk5NCwwMDAwMDAwMGI2YTJhMGE3NTBjN2RlMGIwZDIzMjRjZTQ3ODQ1ZWI2",
   "tracks": [
     {
       "added_at": "2022-08-06 01:06:33",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "Dumb Love",
-        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 282728,
-      "name": "Dumb Love",
-      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
-    },
-    {
-      "added_at": "2022-08-06 01:06:33",
-      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
+    },
+    {
+      "added_at": "2022-08-06 01:06:33",
+      "album": {
+        "name": "Dumb Love",
+        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 282728,
+      "name": "Dumb Love",
+      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
-    },
-    {
-      "added_at": "2022-08-06 01:06:33",
-      "album": {
         "name": "My First Car",
         "url": "https://open.spotify.com/album/66lLDYWrrbm8tsrBGNYC5E"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "Officer of Love",
-        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 239805,
-      "name": "Officer of Love",
-      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -783,6 +767,22 @@
       "duration_ms": 194082,
       "name": "Hano\u00ef caf\u00e9",
       "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+    },
+    {
+      "added_at": "2022-08-06 01:06:33",
+      "album": {
+        "name": "Officer of Love",
+        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 239805,
+      "name": "Officer of Love",
+      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Summer Girl - Bonus Track",
-      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
-    },
-    {
-      "added_at": "2022-08-06 01:06:33",
-      "album": {
         "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
         "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 222214,
       "name": "And the Birds Sing",
       "url": "https://open.spotify.com/track/2BrNovPlshaQqnOXiMK3tg"
+    },
+    {
+      "added_at": "2022-08-06 01:06:33",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Summer Girl - Bonus Track",
+      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "Soft Times",
-        "url": "https://open.spotify.com/album/2m5JZAFs0blQ8S4Gm8VJ7a"
-      },
-      "artists": [
-        {
-          "name": "Matt Duncan",
-          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "The Keys",
-      "url": "https://open.spotify.com/track/6ikh8e4YxgOlb11LWUaBp4"
-    },
-    {
-      "added_at": "2022-08-06 01:06:33",
-      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -1267,6 +1251,38 @@
       "duration_ms": 147466,
       "name": "Bitter with the Sweet",
       "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "added_at": "2022-08-06 01:06:33",
+      "album": {
+        "name": "You're so Fine",
+        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+      },
+      "artists": [
+        {
+          "name": "Papa Bear & His Cubs",
+          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "You're so Fine",
+      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+    },
+    {
+      "added_at": "2022-08-06 01:06:33",
+      "album": {
+        "name": "Soft Times",
+        "url": "https://open.spotify.com/album/2m5JZAFs0blQ8S4Gm8VJ7a"
+      },
+      "artists": [
+        {
+          "name": "Matt Duncan",
+          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "The Keys",
+      "url": "https://open.spotify.com/track/6ikh8e4YxgOlb11LWUaBp4"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1291,38 +1307,6 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "You're so Fine",
-        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
-      },
-      "artists": [
-        {
-          "name": "Papa Bear & His Cubs",
-          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "You're so Fine",
-      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
-    },
-    {
-      "added_at": "2022-08-06 01:06:33",
-      "album": {
-        "name": "Still Life - EP",
-        "url": "https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 200352,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo"
-    },
-    {
-      "added_at": "2022-08-06 01:06:33",
-      "album": {
         "name": "Best Worst Year",
         "url": "https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "Spreadin' Honey",
-        "url": "https://open.spotify.com/album/1bvotRLLCRLmoIv4eirps2"
+        "name": "Still Life - EP",
+        "url": "https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i"
       },
       "artists": [
         {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
         }
       ],
-      "duration_ms": 272573,
-      "name": "When It Was Wrong",
-      "url": "https://open.spotify.com/track/2fRXHXLFvYnaYbQwkyadeC"
+      "duration_ms": 200352,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
+        "name": "Spreadin' Honey",
+        "url": "https://open.spotify.com/album/1bvotRLLCRLmoIv4eirps2"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 272573,
+      "name": "When It Was Wrong",
+      "url": "https://open.spotify.com/track/2fRXHXLFvYnaYbQwkyadeC"
+    },
+    {
+      "added_at": "2022-08-06 01:06:33",
+      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 184413,
       "name": "Love That Girl",
       "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
+    },
+    {
+      "added_at": "2022-08-06 01:06:33",
+      "album": {
+        "name": "Love Survive",
+        "url": "https://open.spotify.com/album/2xdoZZGPjIn7atH79XSSvS"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 168345,
+      "name": "Love Survive",
+      "url": "https://open.spotify.com/track/50Hylr3XgpE10oDIahc6Cm"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "Love Survive",
-        "url": "https://open.spotify.com/album/2xdoZZGPjIn7atH79XSSvS"
+        "name": "Start Livin'",
+        "url": "https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg"
       },
       "artists": [
         {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
         }
       ],
-      "duration_ms": 168345,
-      "name": "Love Survive",
-      "url": "https://open.spotify.com/track/50Hylr3XgpE10oDIahc6Cm"
+      "duration_ms": 194420,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1515,22 +1531,6 @@
       "duration_ms": 131736,
       "name": "All Day, All Night",
       "url": "https://open.spotify.com/track/0H9PHWhpMI7LEhZu6U9Cfb"
-    },
-    {
-      "added_at": "2022-08-06 01:06:33",
-      "album": {
-        "name": "Start Livin'",
-        "url": "https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg"
-      },
-      "artists": [
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
-        }
-      ],
-      "duration_ms": 194420,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "The Atlantic Ocean",
-        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
-      },
-      "artists": [
-        {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
-    },
-    {
-      "added_at": "2022-08-06 01:06:33",
-      "album": {
         "name": "Cruisin' To The Parque feat. Y La Bamba",
         "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 215204,
       "name": "Cruisin' to the Parque feat. Y La Bamba",
       "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
+    },
+    {
+      "added_at": "2022-08-06 01:06:33",
+      "album": {
+        "name": "The Atlantic Ocean",
+        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
+      },
+      "artists": [
+        {
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1739,6 +1739,22 @@
       "duration_ms": 191746,
       "name": "Debbie",
       "url": "https://open.spotify.com/track/1NWQFhNItpBUiaE8c8vvNZ"
+    },
+    {
+      "added_at": "2022-08-06 01:06:33",
+      "album": {
+        "name": "Willowbank",
+        "url": "https://open.spotify.com/album/4xhEaaCBfWXGWQF6rUIb03"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 170027,
+      "name": "Depths (Pt. I)",
+      "url": "https://open.spotify.com/track/5JMY7l5GE5ze1mdkyDptdh"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1779,18 +1795,18 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "Willowbank",
-        "url": "https://open.spotify.com/album/4xhEaaCBfWXGWQF6rUIb03"
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 170027,
-      "name": "Depths (Pt. I)",
-      "url": "https://open.spotify.com/track/5JMY7l5GE5ze1mdkyDptdh"
+      "duration_ms": 220960,
+      "name": "Mambo Sun - 2003 Remaster",
+      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1831,18 +1847,18 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+        "name": "Float Back To You",
+        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
         }
       ],
-      "duration_ms": 220960,
-      "name": "Mambo Sun - 2003 Remaster",
-      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
+      "duration_ms": 231868,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1859,22 +1875,6 @@
       "duration_ms": 175946,
       "name": "If I Ever Was a Child",
       "url": "https://open.spotify.com/track/41Kl6LI2iFiT3I2IvXMsFT"
-    },
-    {
-      "added_at": "2022-08-06 01:06:33",
-      "album": {
-        "name": "Float Back To You",
-        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 231868,
-      "name": "Hypnosis",
-      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
     },
     {
       "added_at": "2022-08-06 01:06:33",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2022-08-06 01:06:33",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/171sgXlr8rxJFQhsbJFrQP"
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/5z4DOERCGnhGHovVe1RuXh"
       },
       "artists": [
         {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 414533,
-      "name": "Be Thankful for What You've Got - David Todd Remix",
-      "url": "https://open.spotify.com/track/5ndGYGQJGv1hbpTKD6gzLZ"
+      "duration_ms": 231965,
+      "name": "Crying Shame",
+      "url": "https://open.spotify.com/track/7vwzFVGdBhaFEjEZkqhjOH"
     }
   ],
   "unique_name": "Feel Good Dinner",

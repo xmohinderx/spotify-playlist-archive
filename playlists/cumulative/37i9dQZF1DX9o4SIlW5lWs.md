@@ -4,10 +4,11 @@
 
 > Al corazón!
 
-247 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/3iEESm2gcAYi2LsQmpsC4I)
+247 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/3iEESm2gcAYi2LsQmpsC4I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/7xABntVHfPeFk622h4VFqk) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4BRG4eLiI46NzgEFPG8EXb) | 0:00 | 2022-07-22 |  |
 | [A Decirme Que](https://open.spotify.com/track/4jPhSHPch4lho5b7q93JcS) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg), [El Golpe](https://open.spotify.com/artist/19kojTrPoAUZztbRwVqWqh) | [A Decirme Que](https://open.spotify.com/album/2AVEgTcqjRFVV1Q3SzmN4s) | 2:43 | 2022-05-27 | 2022-06-04 |
 | [A Pesar de Todos](https://open.spotify.com/track/3sruqhzDXhj9jqlgrUWqr6) | [Laura Rous](https://open.spotify.com/artist/7wOkY1qB4dkbIs0fsw12Zg), [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [A Pesar de Todos](https://open.spotify.com/album/2YfEzULYZfvoermyM6U2RO) | 4:14 | 2022-01-21 | 2022-06-27 |
 | [A Pesar del Tiempo](https://open.spotify.com/track/0XdgUC4vGY1veMA7vX9UTU) | [El Judas](https://open.spotify.com/artist/3h49aMKOWPOWA30BOR5gaf), [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [A Pesar del Tiempo](https://open.spotify.com/album/2KafK7USLLFxO0lzqZIefi) | 3:24 | 2022-01-21 | 2022-05-31 |
@@ -132,7 +133,6 @@
 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 | 2022-01-14 |  |
 | [Me Encanta](https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Me Encanta](https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi) | 3:31 | 2022-01-14 |  |
 | [Me Extrañarás](https://open.spotify.com/track/6yVDSab5QOdxlE6pPTdwID) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvidame Si Puedes \(Cumbia\)](https://open.spotify.com/album/1LW4AaUh6rk5ETHRHXEz9F) | 4:00 | 2022-01-14 | 2022-07-29 |
-| [Me Extrañarás](https://open.spotify.com/track/7xABntVHfPeFk622h4VFqk) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/4BRG4eLiI46NzgEFPG8EXb) | 4:00 | 2022-07-22 |  |
 | [Me Va Mejor Con el Alcohol](https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Me Va Mejor Con el Alcohol](https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB) | 3:17 | 2022-03-18 | 2022-06-13 |
 | [Me Vas a Extrañar](https://open.spotify.com/track/20G9tFLFSjdBSz65LlASqk) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Me Vas a Extrañar](https://open.spotify.com/album/3S6YMdtMKGqZMQ9Lq3GMMy) | 3:37 | 2022-01-21 | 2022-07-28 |
 | [Mentiras / Es Mi Culpa / Lo Intentamos \- En Vivo](https://open.spotify.com/track/6T3rr3WFTuwQ35v178QIyk) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Mentiras / Es Mi Culpa / Lo Intentamos \(En Vivo\)](https://open.spotify.com/album/5SU7PDzbzYTJW9ZkfzM9yM) | 7:54 | 2022-02-18 | 2022-07-05 |

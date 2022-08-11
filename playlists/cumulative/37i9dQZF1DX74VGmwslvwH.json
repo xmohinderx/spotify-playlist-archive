@@ -26,6 +26,42 @@
     },
     {
       "album": {
+        "name": "Baagh",
+        "url": "https://open.spotify.com/album/0G74nAuIStkxncdtQL3tnN"
+      },
+      "artists": [
+        {
+          "name": "Ranjan E",
+          "url": "https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203571,
+      "name": "Baagh",
+      "url": "https://open.spotify.com/track/55OXtWmZJuNMoy1MSKsGsj"
+    },
+    {
+      "album": {
+        "name": "Curing Rhythms",
+        "url": "https://open.spotify.com/album/529HbjzW3Tr01wmu7dginb"
+      },
+      "artists": [
+        {
+          "name": "Surrounding Life",
+          "url": "https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242288,
+      "name": "Bansuri Heaven",
+      "url": "https://open.spotify.com/track/6fdGoJ7yoQFuhUzQrIilwt"
+    },
+    {
+      "album": {
         "name": "Chote Hiran",
         "url": "https://open.spotify.com/album/5Ks9dlzmU0BGfoqZYDP7gc"
       },
@@ -337,6 +373,24 @@
       "duration_ms": 307200,
       "name": "Healing State (528 Hz)",
       "url": "https://open.spotify.com/track/1sW6M4j9gYX3OaJQFPVtIA"
+    },
+    {
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/7aL5MzV1V51hQ7lNdNBRXj"
+      },
+      "artists": [
+        {
+          "name": "AG Sintonia Project",
+          "url": "https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/5bx1gFT0aKeBgKnDSEzvwo"
     },
     {
       "album": {

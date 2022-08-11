@@ -4,7 +4,7 @@
 
 > See You Next Year's album is here, brought to you by Pigeons + Planes and Mike Dean, baby!!!
 
-1,788 songs - 3 day 23 hr 35 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,789 songs - 3 day 23 hr 37 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,7 +773,8 @@
 | [I Guess](https://open.spotify.com/track/6h1pkexVwi0SHvF6ouvtIf) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [I Guess](https://open.spotify.com/album/22oY8Wbbdaby2fXeAlyxoa) | 2:54 | 2022-06-28 | 2022-08-06 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-03 | 2022-03-11 |
 | [I Hate You So Much](https://open.spotify.com/track/1KizhCVnkyDoHx3SErDhDB) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Hate You So Much](https://open.spotify.com/album/712HIhRNFIlZxdG1iVmDGJ) | 2:28 | 2020-02-12 | 2020-03-19 |
-| [I hope that u think of me](https://open.spotify.com/track/5lIhvIPhfRcH0AF8dKZJDf) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/1FVfYBlG0W1RDyUReije3t) | 2:08 | 2022-01-07 |  |
+| [I hope that u think of me](https://open.spotify.com/track/5lIhvIPhfRcH0AF8dKZJDf) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/1FVfYBlG0W1RDyUReije3t) | 2:08 | 2022-01-07 | 2022-08-11 |
+| [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 | 2022-01-07 |  |
 | [I hope we can still be friends](https://open.spotify.com/track/2Fp2eFJSDMZCZ3Pc9OINmp) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I hope we can still be friends](https://open.spotify.com/album/2DFYfHxIagpHC6SrZ596qo) | 2:31 | 2022-07-29 |  |
 | [I Know \(feat\. Fiona Apple\) \- RISE Recording](https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [I Know \(feat\. Fiona Apple\) \[RISE Recording\]](https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z) | 4:59 | 2019-11-22 | 2020-01-10 |
 | [i know why you stay out](https://open.spotify.com/track/2xYzZbcky4jNfiH5A9eX7n) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [i know why you stay out](https://open.spotify.com/album/2X7m57LD0vjPSIrJx22HfZ) | 2:57 | 2021-05-28 | 2021-08-14 |

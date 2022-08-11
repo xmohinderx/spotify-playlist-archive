@@ -1,12 +1,12 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 96889,
+  "num_followers": 97015,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDE4NjUzOSwwMDAwMDAwMDkzMjMwMzI3M2E2MjU4Njg1ZDk3ZDIwNTAxMWJiNDU2",
+  "snapshot_id": "MTYxNDE4NjUzOSwwMDAwMDAwMDlmZjAwMTRlYzZlZDc2NWJmYTY5ZDg3ZTM5MWI3NWQ4",
   "tracks": [
     {
       "added_at": "2021-02-24 17:08:59",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Obras Cumbres (Parte 2)",
-        "url": "https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 292320,
-      "name": "Nada Personal",
-      "url": "https://open.spotify.com/track/2VWQAtJhyN3sQPJidCbP8v"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "Vol I",
         "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 198520,
       "name": "Viento Loco",
       "url": "https://open.spotify.com/track/1wgUsPEuNiMMOsKYIzKabj"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Obras Cumbres (Parte 2)",
+        "url": "https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292320,
+      "name": "Nada Personal",
+      "url": "https://open.spotify.com/track/2VWQAtJhyN3sQPJidCbP8v"
     },
     {
       "added_at": "2021-02-24 17:08:59",

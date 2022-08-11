@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop  Cover: GG Magree \\m/",
-  "num_followers": 267991,
+  "num_followers": 268143,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGI3NmQ4ZjlkMWJkZjFmNjZkMDQ3NzhmYTE5NGQzMWE0",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGQ5ZTc0MGNkYjQyOWFlZWJkOTM4YjY1ZDg4OWNlNDk3",
   "tracks": [
     {
       "added_at": "2022-06-24 04:01:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 237203,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 230344,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 237203,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Hearteater",
-        "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
       },
       "artists": [
         {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
         }
       ],
-      "duration_ms": 217394,
-      "name": "Hearteater",
-      "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1363,18 +1359,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
+        "name": "Hearteater",
+        "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
       },
       "artists": [
         {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
         }
       ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+      "duration_ms": 217394,
+      "name": "Hearteater",
+      "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1395,6 +1395,30 @@
       "duration_ms": 208000,
       "name": "LOUD (feat. Jason Aalon from FEVER 333)",
       "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Parachute",
+          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
+        },
+        {
+          "name": "Will Anderson",
+          "url": "https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1463,30 +1487,6 @@
       "duration_ms": 257349,
       "name": "11 Minutes (feat. Travis Barker) - Kayzo Remix",
       "url": "https://open.spotify.com/track/0YbKNvAu6wHeM4bfRTZFT3"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "Parachute",
-          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
-        },
-        {
-          "name": "Will Anderson",
-          "url": "https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "Emotion Sickness",
-      "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 201076,
+      "name": "Go on Then, Love",
+      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 291200,
       "name": "Flatlined",
       "url": "https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 201076,
-      "name": "Go on Then, Love",
-      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/70t8YB2KAuCo4u1h0z5Ohz"
-      },
-      "artists": [
-        {
-          "name": "Decadon",
-          "url": "https://open.spotify.com/artist/7wwtIX6gh50Mn4UKJPB3Vf"
-        },
-        {
-          "name": "Hunter Avant",
-          "url": "https://open.spotify.com/artist/2A9xhxtuJFOKqd8YSXUTeN"
-        }
-      ],
-      "duration_ms": 185608,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/6t5jyZK7AGBkUBIOUQyEED"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/70t8YB2KAuCo4u1h0z5Ohz"
+      },
+      "artists": [
+        {
+          "name": "Decadon",
+          "url": "https://open.spotify.com/artist/7wwtIX6gh50Mn4UKJPB3Vf"
+        },
+        {
+          "name": "Hunter Avant",
+          "url": "https://open.spotify.com/artist/2A9xhxtuJFOKqd8YSXUTeN"
+        }
+      ],
+      "duration_ms": 185608,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/6t5jyZK7AGBkUBIOUQyEED"
     },
     {
       "added_at": "2022-07-22 08:57:27",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Raindrops",
         "url": "https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD"
       },
@@ -1967,42 +1983,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Understand",
-        "url": "https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
-          "name": "Brendan Yates",
-          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
-        }
-      ],
-      "duration_ms": 223637,
-      "name": "Understand (Feat. Brendan Yates)",
-      "url": "https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Rain (Idris Elba Edit)",
         "url": "https://open.spotify.com/album/3WHV6xgHLbBCJ9iDdP7V1W"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 208500,
       "name": "Rain (Idris Elba Edit)",
       "url": "https://open.spotify.com/track/7zTnfiIlfE8qUtXp9lSH97"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "duration_ms": 223637,
+      "name": "Understand (Feat. Brendan Yates)",
+      "url": "https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Hit The Floor",
         "url": "https://open.spotify.com/album/1qV35eCz8zR0MdO823pMJZ"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 212307,
       "name": "Hit The Floor",
       "url": "https://open.spotify.com/track/2FHa5rOKOAhuKa0p7XfLTo"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2289,6 +2289,26 @@
       "url": "https://open.spotify.com/track/7Lc7Sqh2drQf8c2LK5v2Hu"
     },
     {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Composure (Toronto Is Broken Remix)",
+        "url": "https://open.spotify.com/album/6w3VkQovCWA7mB9rIlsTag"
+      },
+      "artists": [
+        {
+          "name": "Fight The Fade",
+          "url": "https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF"
+        },
+        {
+          "name": "Toronto Is Broken",
+          "url": "https://open.spotify.com/artist/3DaX9l3f0lsiPjgyJ454wI"
+        }
+      ],
+      "duration_ms": 237241,
+      "name": "Composure - Toronto Is Broken Remix",
+      "url": "https://open.spotify.com/track/4a8irWxaB5OdkK02dWNBbH"
+    },
+    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "WARNING",
@@ -2303,26 +2323,6 @@
       "duration_ms": 193103,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Regret (Remix)",
-        "url": "https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A"
-      },
-      "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi"
     },
     {
       "added_at": "2022-07-22 08:57:27",
@@ -2343,6 +2343,26 @@
       "duration_ms": 252800,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Regret (Remix)",
+        "url": "https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2383,26 +2403,6 @@
       "duration_ms": 151500,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/65YiXAuE5eA8pWI4COEhmQ"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Composure (Toronto Is Broken Remix)",
-        "url": "https://open.spotify.com/album/6w3VkQovCWA7mB9rIlsTag"
-      },
-      "artists": [
-        {
-          "name": "Fight The Fade",
-          "url": "https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF"
-        },
-        {
-          "name": "Toronto Is Broken",
-          "url": "https://open.spotify.com/artist/3DaX9l3f0lsiPjgyJ454wI"
-        }
-      ],
-      "duration_ms": 237241,
-      "name": "Composure - Toronto Is Broken Remix",
-      "url": "https://open.spotify.com/track/4a8irWxaB5OdkK02dWNBbH"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2447,26 +2447,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "RIOT",
-        "url": "https://open.spotify.com/album/5h6WP688YII1yf26BOxPtw"
-      },
-      "artists": [
-        {
-          "name": "KOU",
-          "url": "https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR"
-        },
-        {
-          "name": "SYN",
-          "url": "https://open.spotify.com/artist/7cEaR3OwxOjKvgUHDsk1Rr"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "RIOT",
-      "url": "https://open.spotify.com/track/4onluwupxaETxiabwcdeFH"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Radium Girls",
         "url": "https://open.spotify.com/album/3vpk9zb559Jo7dsmZRBZo9"
       },
@@ -2503,22 +2483,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "The Change (feat. DMA\u2019S)",
-        "url": "https://open.spotify.com/album/5Vtl2h8FGEaXymFYnJp2Z8"
+        "name": "RIOT",
+        "url": "https://open.spotify.com/album/5h6WP688YII1yf26BOxPtw"
       },
       "artists": [
         {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "KOU",
+          "url": "https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR"
         },
         {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+          "name": "SYN",
+          "url": "https://open.spotify.com/artist/7cEaR3OwxOjKvgUHDsk1Rr"
         }
       ],
-      "duration_ms": 277555,
-      "name": "The Change (feat. DMA\u2019S)",
-      "url": "https://open.spotify.com/track/7wjAu7AeBQFDVhSXQQ4Ji5"
+      "duration_ms": 245333,
+      "name": "RIOT",
+      "url": "https://open.spotify.com/track/4onluwupxaETxiabwcdeFH"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2543,6 +2523,26 @@
       "duration_ms": 196875,
       "name": "All In My Head (feat. grandson) - Saint Punk Remix",
       "url": "https://open.spotify.com/track/5GzBDqFoMUrjjfGtHEbGfY"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "The Change (feat. DMA\u2019S)",
+        "url": "https://open.spotify.com/album/5Vtl2h8FGEaXymFYnJp2Z8"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 277555,
+      "name": "The Change (feat. DMA\u2019S)",
+      "url": "https://open.spotify.com/track/7wjAu7AeBQFDVhSXQQ4Ji5"
     }
   ],
   "unique_name": "Rocktronic",

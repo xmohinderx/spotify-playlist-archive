@@ -219,7 +219,7 @@
     {
       "album": {
         "name": "Still Just Breathing",
-        "url": "https://open.spotify.com/album/3o8qPT3byMsUolOB3915wZ"
+        "url": "https://open.spotify.com/album/6pX8vrvmBoOg2HF8LK9Gr8"
       },
       "artists": [
         {
@@ -230,6 +230,24 @@
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217745,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/5A83Ob2zfm00oahV4ioFNt"
+    },
+    {
+      "album": {
+        "name": "Still Just Breathing",
+        "url": "https://open.spotify.com/album/3o8qPT3byMsUolOB3915wZ"
+      },
+      "artists": [
+        {
+          "name": "Set for the Fall",
+          "url": "https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr"
+        }
+      ],
+      "date_added": "2021-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
       "duration_ms": 217745,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/6VGItaHKo3GC7I6Ky5S57b"

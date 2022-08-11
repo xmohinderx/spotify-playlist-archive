@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 669045,
+  "num_followers": 669130,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5OTE3MiwwMDAwMDAwMGFjYTUzMjRjNjM3ZmM3OGVhZTQwYWJlZDU2MWQ3OGE5",
+  "snapshot_id": "MTY1OTA5OTE3MiwwMDAwMDAwMGJiZTM0YTUzZDAwZWYzYzVmM2M2Nzk4NjAxNTkxMzBj",
   "tracks": [
     {
       "added_at": "2022-07-29 12:52:52",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 241194,
+      "name": "Surefire",
+      "url": "https://open.spotify.com/track/6iWvETAILWAYOdm2DioSEF"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "The Walls Are Way Too Thin",
         "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 223813,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/2e62x0Mhv46Zx1ph0W4B3d"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 241194,
-      "name": "Surefire",
-      "url": "https://open.spotify.com/track/6iWvETAILWAYOdm2DioSEF"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "sail away",
+      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Caer",
         "url": "https://open.spotify.com/album/5eIgu8uJ3H18h8vVqJYggZ"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 205442,
       "name": "Saturdays (feat. HAIM)",
       "url": "https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "sail away",
-        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "sail away",
-      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Orca",
+        "url": "https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 279691,
+      "name": "Post Humorous",
+      "url": "https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Orca",
-        "url": "https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 279691,
-      "name": "Post Humorous",
-      "url": "https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Settling",
-        "url": "https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c"
-      },
-      "artists": [
-        {
-          "name": "Ripe",
-          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
-        }
-      ],
-      "duration_ms": 188316,
-      "name": "Settling",
-      "url": "https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 263080,
       "name": "All Comes Crashing",
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Settling",
+        "url": "https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c"
+      },
+      "artists": [
+        {
+          "name": "Ripe",
+          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
+        }
+      ],
+      "duration_ms": 188316,
+      "name": "Settling",
+      "url": "https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "f**k it, i'm the man",
-        "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "f**k it, i'm the man",
-      "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "Brighter Day",
         "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 193706,
       "name": "Brighter Day",
       "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "f**k it, i'm the man",
+        "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 150693,
+      "name": "f**k it, i'm the man",
+      "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Denial in Paradise",
+        "url": "https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY"
+      },
+      "artists": [
+        {
+          "name": "courtship.",
+          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/1zLEXRNVucrDxxI1qmGO9Z"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Blutooth / enough 4 u",
         "url": "https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 178480,
       "name": "Blutooth",
       "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Denial in Paradise",
-        "url": "https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY"
-      },
-      "artists": [
-        {
-          "name": "courtship.",
-          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
-        }
-      ],
-      "duration_ms": 192197,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/1zLEXRNVucrDxxI1qmGO9Z"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1675,6 +1675,54 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+      },
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Gimme Twice",
+      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "duration_ms": 203651,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 233976,
+      "name": "Why Did You Run?",
+      "url": "https://open.spotify.com/track/2xrRl0h13K2kqBpJN6P98Y"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Everything Will Be Ok Eventually",
         "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
       },
@@ -1707,22 +1755,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Pep Talks",
-        "url": "https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 233976,
-      "name": "Why Did You Run?",
-      "url": "https://open.spotify.com/track/2xrRl0h13K2kqBpJN6P98Y"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "Good Old Days",
         "url": "https://open.spotify.com/album/3iktifq9QfvjZBvaMRqBxs"
       },
@@ -1735,38 +1767,6 @@
       "duration_ms": 204428,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
-      },
-      "artists": [
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        }
-      ],
-      "duration_ms": 203651,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
-      },
-      "artists": [
-        {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Gimme Twice",
-      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1787,18 +1787,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Lean Into Life",
-        "url": "https://open.spotify.com/album/0cRE81Ug6gUBGBcktixA7G"
+        "name": "Head Up High",
+        "url": "https://open.spotify.com/album/0NcUgJYxrZwbrccKZLbmqD"
       },
       "artists": [
         {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+          "name": "FITZ",
+          "url": "https://open.spotify.com/artist/7FgfVur1vT0yQyKIi0feNB"
+        },
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
         }
       ],
-      "duration_ms": 237400,
-      "name": "DON'T TELL THE BOYS",
-      "url": "https://open.spotify.com/track/5RuMsudDPFkRC1XQsiheGT"
+      "duration_ms": 154808,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/1TPevUpxC1UyroBJWuMDtF"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -1819,22 +1823,18 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Head Up High",
-        "url": "https://open.spotify.com/album/0NcUgJYxrZwbrccKZLbmqD"
+        "name": "Lean Into Life",
+        "url": "https://open.spotify.com/album/0cRE81Ug6gUBGBcktixA7G"
       },
       "artists": [
         {
-          "name": "FITZ",
-          "url": "https://open.spotify.com/artist/7FgfVur1vT0yQyKIi0feNB"
-        },
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
         }
       ],
-      "duration_ms": 154808,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/1TPevUpxC1UyroBJWuMDtF"
+      "duration_ms": 237400,
+      "name": "DON'T TELL THE BOYS",
+      "url": "https://open.spotify.com/track/5RuMsudDPFkRC1XQsiheGT"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 179356,
-      "name": "Lone Survivor",
-      "url": "https://open.spotify.com/track/4xoMkzXVLIr2Lal6gIX18L"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "Castlecomer",
         "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
       },
@@ -2183,6 +2167,22 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 179356,
+      "name": "Lone Survivor",
+      "url": "https://open.spotify.com/track/4xoMkzXVLIr2Lal6gIX18L"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
         "name": "Monday",
         "url": "https://open.spotify.com/album/4YBN5F8yae1Gkner3Gyost"
       },
@@ -2195,6 +2195,38 @@
       "duration_ms": 176280,
       "name": "Monday",
       "url": "https://open.spotify.com/track/5qJOKIrlNVOe4QdhJHS2di"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Mixtape 2003",
+        "url": "https://open.spotify.com/album/2QcJ99k8skz7nxF2l4D4IH"
+      },
+      "artists": [
+        {
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Mixtape 2003",
+      "url": "https://open.spotify.com/track/4TICpB1Y6C8b6EK2Ga275x"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "Don't Take The Money",
+        "url": "https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 215539,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -2231,38 +2263,6 @@
       "duration_ms": 189423,
       "name": "Apple Crumble",
       "url": "https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Don't Take The Money",
-        "url": "https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 215539,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
-        "name": "Mixtape 2003",
-        "url": "https://open.spotify.com/album/2QcJ99k8skz7nxF2l4D4IH"
-      },
-      "artists": [
-        {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Mixtape 2003",
-      "url": "https://open.spotify.com/track/4TICpB1Y6C8b6EK2Ga275x"
     },
     {
       "added_at": "2022-07-29 12:52:52",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2022-07-29 12:52:52",
       "album": {
-        "name": "LIFE ON EARTH",
-        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "PIERCED ARROWS",
-      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
-    },
-    {
-      "added_at": "2022-07-29 12:52:52",
-      "album": {
         "name": "Preacher Man",
         "url": "https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 219389,
       "name": "Preacher Man",
       "url": "https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P"
+    },
+    {
+      "added_at": "2022-07-29 12:52:52",
+      "album": {
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
     },
     {
       "added_at": "2022-07-29 12:52:52",

@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 24175,
+  "num_followers": 24183,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMDI4NmIyNTU4YzU1NTYxZWVjNjViMDNkZjcwMDM1YTRk",
+  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMDZjOWZiNzY0ZGNmNzlkNTFkMjFiMjc3OGM1NWFkM2I0",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Snapshot",
-        "url": "https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s"
-      },
-      "artists": [
-        {
-          "name": "Matthew Parker",
-          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
-        },
-        {
-          "name": "JSteph",
-          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Snapshot",
-      "url": "https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Songs for Every Soul",
         "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 257399,
       "name": "Mercy's Tree",
       "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Snapshot",
+        "url": "https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s"
+      },
+      "artists": [
+        {
+          "name": "Matthew Parker",
+          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
+        },
+        {
+          "name": "JSteph",
+          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Snapshot",
+      "url": "https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf"
     },
     {
       "added_at": "2020-08-13 14:39:00",

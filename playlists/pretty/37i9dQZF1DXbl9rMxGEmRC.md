@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Behemoth
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,439 likes - 100 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,597 likes - 100 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,17 +57,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 47 | [Winter Bane](https://open.spotify.com/track/52cc27W3CNKpZ5c7VTYXrM) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Abbath](https://open.spotify.com/album/4eX4b9aQf2uzygScqcVE8Q) | 6:49 |
 | 48 | [Under a Funeral Moon \- Studio](https://open.spotify.com/track/1a0QUQlASChJk64UV2j9Go) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Under A Funeral Moon](https://open.spotify.com/album/2TXZleYLiza8MszRBsDMsj) | 5:06 |
 | 49 | [Into the Crypts of Rays](https://open.spotify.com/track/4xQO8MVtFZOW2KJMBuAB2p) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 3:39 |
-| 50 | [Virtus Asinaria \- Prayer](https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Virtus Asinaria \- Prayer](https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ) | 5:18 |
+| 50 | [Cruelty Brought Thee Orchids](https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Cruelty & The Beast](https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7) | 7:18 |
 | 51 | [Damned In Black](https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Damned In Black](https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau) | 6:51 |
 | 52 | [Inno A Satana](https://open.spotify.com/track/3hKxsjBdyJmqOyNMgv2wOx) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU) | 4:48 |
-| 53 | [Cruelty Brought Thee Orchids](https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Cruelty & The Beast](https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7) | 7:18 |
+| 53 | [Virtus Asinaria \- Prayer](https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Virtus Asinaria \- Prayer](https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ) | 5:18 |
 | 54 | [Ecstasies in night infinite](https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The Agony & Ecstasy of Watain](https://open.spotify.com/album/7qmZz6yfRiXAoW4lgOPi4W) | 4:00 |
 | 55 | [Wolves](https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Those of the Unlight](https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA) | 5:50 |
 | 56 | [Unsilent Storms In The North Abyss](https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Pure Holocaust](https://open.spotify.com/album/1oiueifrAKrGjrxZzpCYkQ) | 3:14 |
 | 57 | [Messiah](https://open.spotify.com/track/62Mx4j3cybbW4aXhogbtH4) | [Hellhammer](https://open.spotify.com/artist/3FrsGZO0uosIs2Vn2TJhQY) | [Demon Entrails](https://open.spotify.com/album/0GTNfSLAYvb7Z7b0NDaafF) | 4:18 |
 | 58 | [Pillars Of Mercy](https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8) | [Absu](https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP) | [Tara](https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke) | 4:21 |
-| 59 | [Fucking Your Ghost In Chains of Ice](https://open.spotify.com/track/5maiXlxUmXjlKqqqpJbctD) | [Leviathan](https://open.spotify.com/artist/6CJU2RwwB10D0KoYYqWYeM) | [The Tenth Sub Level Of Suicide](https://open.spotify.com/album/1a08Kc3CmrsUbCxEibttUx) | 5:40 |
-| 60 | [IRMOS I](https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt) | [Batushka](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [MARIA](https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz) | 4:49 |
+| 59 | [IRMOS I](https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt) | [Batushka](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [MARIA](https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz) | 4:49 |
+| 60 | [Fucking Your Ghost In Chains of Ice](https://open.spotify.com/track/5maiXlxUmXjlKqqqpJbctD) | [Leviathan](https://open.spotify.com/artist/6CJU2RwwB10D0KoYYqWYeM) | [The Tenth Sub Level Of Suicide](https://open.spotify.com/album/1a08Kc3CmrsUbCxEibttUx) | 5:40 |
 | 61 | [Fn .380 Acp\#19074](https://open.spotify.com/track/3yYfPXQ5hRYVV7lgOFlPWr) | [1914](https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz) | [Where Fear and Weapons Meet](https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW) | 5:54 |
 | 62 | [Wilde Kinder](https://open.spotify.com/track/0bMkybMw2NY63IbKx4TQ4D) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Wilde Kinder](https://open.spotify.com/album/1hMspoS89Nc4HVLu8bkE8z) | 4:22 |
 | 63 | [Begravelsesnatt](https://open.spotify.com/track/1FLfUPKZDEyqVq1CkhJrlV) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Pentagram](https://open.spotify.com/album/7nrkez4pvM9W3nrHr7xHim) | 2:33 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 87 | [Sovereign](https://open.spotify.com/track/38VAbDSyhAgdBgFuTb7U0U) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2CUsVsLGck7UNb0XCi7Mvw) | 6:14 |
 | 88 | [God Is Wasted](https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX) | 4:18 |
 | 89 | [Popecrusher](https://open.spotify.com/track/112ODhA6Xh9999jyqpYAmO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Popecrusher](https://open.spotify.com/album/5lp8Fhsz1D6kZypBMGUDn8) | 3:08 |
-| 90 | [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 |
-| 91 | [Frozen](https://open.spotify.com/track/3iRC1B4yp9fGXMrpCEsWc6) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [The Past is Alive \(The Early Misschief\)](https://open.spotify.com/album/0tDQkjDWcKYpuMPpCOSyYV) | 3:28 |
+| 90 | [Frozen](https://open.spotify.com/track/3iRC1B4yp9fGXMrpCEsWc6) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [The Past is Alive \(The Early Misschief\)](https://open.spotify.com/album/0tDQkjDWcKYpuMPpCOSyYV) | 3:28 |
+| 91 | [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 |
 | 92 | [Bathed in Clouds of Blood](https://open.spotify.com/track/0Ms5AudGd4Umj3nOyXlzYk) | [Judas Iscariot](https://open.spotify.com/artist/5G1MlYyOsiG56mjlsZHsLC) | [To Embrace the Corpses Bleeding](https://open.spotify.com/album/5aJR9XznroTV3CpKyhO8EQ) | 3:21 |
 | 93 | [I](https://open.spotify.com/track/20Ixhug1ZV3n3XXeB71kDF) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Nattens Madrigal](https://open.spotify.com/album/1Hod8O8aRjCE5RG6aI1GKl) | 6:16 |
 | 94 | [The Secrets of the Black Arts](https://open.spotify.com/track/4UmELaFGGfsLbN1P5kH5Ax) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [The Secrets of the Black Arts](https://open.spotify.com/album/7uybiQG5eHqdiXF69EDJOs) | 3:41 |
 | 95 | [The Fifth Illusion](https://open.spotify.com/track/7AYkjUqjPI3kDLLwKTQlYP) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Non Serviam](https://open.spotify.com/album/3o5Gb5maaKt6DZQQwk3Dal) | 5:34 |
-| 96 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves And Titan Woods](https://open.spotify.com/album/6wW5MkAhpOr0QRtznvqqPH) | 2:55 |
-| 97 | [Loke](https://open.spotify.com/track/27vcwfCcgCaso2A0hifBT9) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Frost](https://open.spotify.com/album/788vAauAwMdVMkdlgiyzMx) | 4:21 |
+| 96 | [Loke](https://open.spotify.com/track/27vcwfCcgCaso2A0hifBT9) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Frost](https://open.spotify.com/album/788vAauAwMdVMkdlgiyzMx) | 4:21 |
+| 97 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves And Titan Woods](https://open.spotify.com/album/6wW5MkAhpOr0QRtznvqqPH) | 2:55 |
 | 98 | [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 |
 | 99 | [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 |
 | 100 | [Warriors](https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 5:53 |
 
-Snapshot ID: `MTY1NzgyODgyMywwMDAwMDAwMGVhNTg3ZTI0NTFmNWRhODI0ODNjNmIwODUzNzk2NzI3`
+Snapshot ID: `MTY1NzgyODgyMywwMDAwMDAwMGVmYWViZDE0YWI2Y2MyYjY2MDg3NGQ1OTA0MGU4YTc3`

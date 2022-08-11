@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Bklava.",
-  "num_followers": 397748,
+  "num_followers": 397838,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDAxODRjNWJlYjA2YWFhZDFkOGEzNDAwNmJlODMyNTkz",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGNhY2Q1ZmE1YWE2NWY5M2ZjYTVlZDYzZTlmNjZhNWM1",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "P.R.O.G.",
-        "url": "https://open.spotify.com/album/2pYk1rLEFSKdJLd67mdIAd"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 178125,
-      "name": "P.R.O.G.",
-      "url": "https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/1rqnsguzp4curAq6xu8xfP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 242758,
       "name": "Sober",
       "url": "https://open.spotify.com/track/2DQuvfpU2uYaIk1BaBSJ15"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "P.R.O.G.",
+        "url": "https://open.spotify.com/album/2pYk1rLEFSKdJLd67mdIAd"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "P.R.O.G.",
+      "url": "https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "WIZZ (COBRAH REMIX)",
+        "url": "https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9"
+      },
+      "artists": [
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        },
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "WIZZ (COBRAH REMIX)",
+      "url": "https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Me Without Us (with Justin Jesso)",
         "url": "https://open.spotify.com/album/7jiMDmvOOc7eUi4dghaYCu"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 201254,
       "name": "Me Without Us (with Justin Jesso)",
       "url": "https://open.spotify.com/track/2jau2o7VtYdWkcU9IeDFBd"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "WIZZ (COBRAH REMIX)",
-        "url": "https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9"
-      },
-      "artists": [
-        {
-          "name": "COUCOU CHLOE",
-          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
-        },
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "WIZZ (COBRAH REMIX)",
-      "url": "https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/27XE3ZqaYVHk90dFLDJMLv"
-      },
-      "artists": [
-        {
-          "name": "Sol Rising",
-          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
-        },
-        {
-          "name": "Banaati",
-          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
-        }
-      ],
-      "duration_ms": 196625,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/5sYFhAc4iVN7qEXgEK0Bhf"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "This Time (Four Tet Remix)",
         "url": "https://open.spotify.com/album/0GY2LOgXecSnpqFTLxnmhb"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 260982,
       "name": "This Time - Four Tet Remix",
       "url": "https://open.spotify.com/track/1x62N4B6k427U5Oj2aFxRY"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/27XE3ZqaYVHk90dFLDJMLv"
+      },
+      "artists": [
+        {
+          "name": "Sol Rising",
+          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+        },
+        {
+          "name": "Banaati",
+          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
+        }
+      ],
+      "duration_ms": 196625,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/5sYFhAc4iVN7qEXgEK0Bhf"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Sex and the Machine",
+        "url": "https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        }
+      ],
+      "duration_ms": 240123,
+      "name": "Sex and the Machine",
+      "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "On Call",
         "url": "https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX"
       },
@@ -1243,50 +1259,6 @@
       "duration_ms": 147401,
       "name": "Like This",
       "url": "https://open.spotify.com/track/5A29lmXOMxoUnFsatOI8Vf"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Sex and the Machine",
-        "url": "https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        }
-      ],
-      "duration_ms": 240123,
-      "name": "Sex and the Machine",
-      "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Hold Up (Moore Kismet Remix)",
-        "url": "https://open.spotify.com/album/45CctAqSC6nioCkRjDmQrK"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        }
-      ],
-      "duration_ms": 193485,
-      "name": "Hold Up - Moore Kismet Remix",
-      "url": "https://open.spotify.com/track/2MPFcJ0k5OZTrTRwfLOntN"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1323,6 +1295,34 @@
       "duration_ms": 213616,
       "name": "Help (feat. John The Blind)",
       "url": "https://open.spotify.com/track/0039QPOnzG8LXRy8FA1sbv"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Hold Up (Moore Kismet Remix)",
+        "url": "https://open.spotify.com/album/45CctAqSC6nioCkRjDmQrK"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 193485,
+      "name": "Hold Up - Moore Kismet Remix",
+      "url": "https://open.spotify.com/track/2MPFcJ0k5OZTrTRwfLOntN"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "I Dream",
-        "url": "https://open.spotify.com/album/7IYT4bhpWWsBMNaFPf72fc"
-      },
-      "artists": [
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        }
-      ],
-      "duration_ms": 259532,
-      "name": "I Dream",
-      "url": "https://open.spotify.com/track/11sYiWOe56kOdOxD8qfEgG"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Uthando Lwakho",
         "url": "https://open.spotify.com/album/0TvupvGRZr7UozSsYep77I"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 322848,
       "name": "Uthando Lwakho",
       "url": "https://open.spotify.com/track/6UrCdosrSwYJAXAb9UQeW6"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "I Dream",
+        "url": "https://open.spotify.com/album/7IYT4bhpWWsBMNaFPf72fc"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 259532,
+      "name": "I Dream",
+      "url": "https://open.spotify.com/track/11sYiWOe56kOdOxD8qfEgG"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Car",
-        "url": "https://open.spotify.com/album/0eMI9hkq5zEBWJSgWFnN6a"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 128755,
-      "name": "Car",
-      "url": "https://open.spotify.com/track/6mwVFiVPsWvbwS4WedM2gP"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Ah Oh Uh",
         "url": "https://open.spotify.com/album/5PyaZzom3Pfl2jNZZOh8Q0"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 403756,
       "name": "Ah Oh Uh",
       "url": "https://open.spotify.com/track/1CySFxnVmZ4ss602pZ1syF"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Car",
+        "url": "https://open.spotify.com/album/0eMI9hkq5zEBWJSgWFnN6a"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 128755,
+      "name": "Car",
+      "url": "https://open.spotify.com/track/6mwVFiVPsWvbwS4WedM2gP"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Los Patrones",
-        "url": "https://open.spotify.com/album/5NF9rVY5ebtxfvDHFdRKsT"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "guerrA.",
-          "url": "https://open.spotify.com/artist/1KUnCjBj9GNvfjjZWKyogb"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Los Patrones",
-      "url": "https://open.spotify.com/track/0mhhuMPdTMsekIYqM7uWsv"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/0hmNprXazlsuIpupWZNfdn"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 219677,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/5vJGXwfzpam9FJi5buWKed"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Los Patrones",
+        "url": "https://open.spotify.com/album/5NF9rVY5ebtxfvDHFdRKsT"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "guerrA.",
+          "url": "https://open.spotify.com/artist/1KUnCjBj9GNvfjjZWKyogb"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Los Patrones",
+      "url": "https://open.spotify.com/track/0mhhuMPdTMsekIYqM7uWsv"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Pop Them Threat!",
-        "url": "https://open.spotify.com/album/28cgLLuxTxU9RGT276VV46"
-      },
-      "artists": [
-        {
-          "name": "Club Angel",
-          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
-        }
-      ],
-      "duration_ms": 198422,
-      "name": "Pop Them Threat!",
-      "url": "https://open.spotify.com/track/5cRhrmpBwkZjJ7eFMJKbVM"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Keep Trying",
         "url": "https://open.spotify.com/album/1hTi1sxhnA8R4Mff0Zke2o"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 357209,
       "name": "Keep Trying",
       "url": "https://open.spotify.com/track/3PrbAfcPM9XtuCrQgKNBFz"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Pop Them Threat!",
+        "url": "https://open.spotify.com/album/28cgLLuxTxU9RGT276VV46"
+      },
+      "artists": [
+        {
+          "name": "Club Angel",
+          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
+        }
+      ],
+      "duration_ms": 198422,
+      "name": "Pop Them Threat!",
+      "url": "https://open.spotify.com/track/5cRhrmpBwkZjJ7eFMJKbVM"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Lustful Chemicals",
-        "url": "https://open.spotify.com/album/3InFf82hTZHEStzp6m1pEg"
-      },
-      "artists": [
-        {
-          "name": "Joeski",
-          "url": "https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7"
-        }
-      ],
-      "duration_ms": 407040,
-      "name": "Lust For Me",
-      "url": "https://open.spotify.com/track/0JeK9skXF9FBT3PseGDQ8t"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/7gi48HpVdMNRAEOzKvV2Bo"
       },
@@ -1855,18 +1839,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Fragma",
-        "url": "https://open.spotify.com/album/6sDgDOIL1zzO94TrbC6QNe"
+        "name": "Lustful Chemicals",
+        "url": "https://open.spotify.com/album/3InFf82hTZHEStzp6m1pEg"
       },
       "artists": [
         {
-          "name": "Kamilo Sanclemente",
-          "url": "https://open.spotify.com/artist/2AYLgq9P1arichVXbNbjVy"
+          "name": "Joeski",
+          "url": "https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7"
         }
       ],
-      "duration_ms": 405853,
-      "name": "Fragma",
-      "url": "https://open.spotify.com/track/10zHoYhCaffNXpnIItuesJ"
+      "duration_ms": 407040,
+      "name": "Lust For Me",
+      "url": "https://open.spotify.com/track/0JeK9skXF9FBT3PseGDQ8t"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1883,6 +1867,22 @@
       "duration_ms": 280500,
       "name": "Rush Common",
       "url": "https://open.spotify.com/track/4M2jeGuJgzetD38Fk9WD63"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Fragma",
+        "url": "https://open.spotify.com/album/6sDgDOIL1zzO94TrbC6QNe"
+      },
+      "artists": [
+        {
+          "name": "Kamilo Sanclemente",
+          "url": "https://open.spotify.com/artist/2AYLgq9P1arichVXbNbjVy"
+        }
+      ],
+      "duration_ms": 405853,
+      "name": "Fragma",
+      "url": "https://open.spotify.com/track/10zHoYhCaffNXpnIItuesJ"
     },
     {
       "added_at": "2022-08-05 04:01:00",

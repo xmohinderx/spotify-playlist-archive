@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: girlpuppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,044 likes - 115 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,164 likes - 115 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

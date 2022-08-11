@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-169 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+170 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 | 2022-06-09 |  |
 | [Normal People](https://open.spotify.com/track/5fHTf9ZTdBkN3HTT3qLr4c) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal People](https://open.spotify.com/album/6HEPp8hIR1ax1cLTMDBLbL) | 2:58 | 2021-12-16 | 2022-01-21 |
 | [Nothing](https://open.spotify.com/track/1xtm5LyLJsOcCqyGY0qnTn) | [bloodmoon](https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB) | [Nothing](https://open.spotify.com/album/1SqK00QPYl2QcZe3HD1pel) | 3:59 | 2022-06-16 |  |
-| [Nothing Is Real](https://open.spotify.com/track/63QGDqeDMOdQe9j06GYLRd) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/3Zvib0aCBmAwaJIeAQu4mb) | 4:33 | 2022-03-31 |  |
+| [Nothing Is Real](https://open.spotify.com/track/3XWIRyN53ELqIgJJFsB7Vx) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/4O8ZUAxWtfxWxxkGqRaAbZ) | 4:33 | 2022-07-31 |  |
+| [Nothing Is Real](https://open.spotify.com/track/63QGDqeDMOdQe9j06GYLRd) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/3Zvib0aCBmAwaJIeAQu4mb) | 4:33 | 2022-03-31 | 2022-08-11 |
 | [Now, Life is Living You](https://open.spotify.com/track/2hsUzg683EDNgfLFcSE1Od) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Now, Life is Living You](https://open.spotify.com/album/3ZTMgdRwjtAQMEEXaY8cod) | 3:36 | 2021-12-16 | 2022-02-18 |
 | [Nullify](https://open.spotify.com/track/2wg36E0bVFuJIq7ZeKF3a8) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Nullify](https://open.spotify.com/album/2shB83IkSApaMd4D1h7OaQ) | 3:19 | 2022-06-23 |  |
 | [Personal Space](https://open.spotify.com/track/4QOTnsKNWG86hTp3AeFHsG) | [False Advertising](https://open.spotify.com/artist/0w0G0yLuHEK0PKsNnLytAp) | [Personal Space](https://open.spotify.com/album/26k38wPq6koIUKR7KtWXee) | 3:40 | 2021-12-16 | 2022-03-25 |

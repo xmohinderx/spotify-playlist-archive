@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,069 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,081 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 12 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
 | 13 | [I Feel Like Funkin' It Up \- Extended Mix](https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Do Watcha Wanna](https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi) | 5:35 |
 | 14 | [Black Bottom Stomp \- 2002 Remastered](https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Jazz King Of New Orleans](https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do) | 3:12 |
-| 15 | [West End Blues](https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS) | [Charlie Barnet](https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb), [Charlie Barnet & His Orchestra](https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU) | [Drop Me Off In Harlem](https://open.spotify.com/album/63mon9nIn254wR2aATwbBg) | 2:43 |
-| 16 | [My Feet Can't Fail Me Now](https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 4:38 |
+| 15 | [My Feet Can't Fail Me Now](https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 4:38 |
+| 16 | [West End Blues](https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS) | [Charlie Barnet](https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb), [Charlie Barnet & His Orchestra](https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU) | [Drop Me Off In Harlem](https://open.spotify.com/album/63mon9nIn254wR2aATwbBg) | 2:43 |
 | 17 | [You're Gonna Lose Your Gal](https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [Swing Out](https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc) | 2:53 |
 | 18 | [Eh, La Bas](https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans Vol\. 9](https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T) | 4:48 |
 | 19 | [I Hope Your Comin' Back To New Orleans](https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk) | [The New Orleans Jazz Vipers](https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j) | [Treme: Music From The HBO Original Series, Season 1](https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb) | 2:39 |
 | 20 | [Take It To The Street](https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Take It To The Street](https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM) | 4:19 |
-| 21 | [Stompin' Ground](https://open.spotify.com/track/1tXkEoNUFLVfgAdfF4SsNC) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT), [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Stompin' Ground](https://open.spotify.com/album/7BO9rd3sjrjgnEyGPjy5HB) | 4:31 |
-| 22 | [I'm Goin' Huntin'](https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ) | [Johnny Dodds](https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp), [Jimmy Blythe](https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C) | [Presenting Johnny Dodds](https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA) | 2:59 |
+| 21 | [I'm Goin' Huntin'](https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ) | [Johnny Dodds](https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp), [Jimmy Blythe](https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C) | [Presenting Johnny Dodds](https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA) | 2:59 |
+| 22 | [Stompin' Ground](https://open.spotify.com/track/1tXkEoNUFLVfgAdfF4SsNC) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT), [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Stompin' Ground](https://open.spotify.com/album/7BO9rd3sjrjgnEyGPjy5HB) | 4:31 |
 | 23 | [Doctor Jazz](https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Doctor Jazz](https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu) | 3:28 |
 | 24 | [Hot Lips](https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [New New Orleans Jazz](https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K) | 4:54 |
 | 25 | [The Bucket's Got a Hole in It](https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [The Complete Columbia Session 1946](https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Somebody Stole My Gal](https://open.spotify.com/track/6djAMSikLSwnAuKA4nnsMb) | [Johnny St\. Cyr](https://open.spotify.com/artist/4LVSbS8nWTaRm6G5XKueKN) | [Johnny St\. Cyr](https://open.spotify.com/album/6IkguZ3dD5fce9lfHRmelf) | 3:38 |
 | 50 | [On the Square](https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [The Great Olympia Band](https://open.spotify.com/album/0Wnrzvyabjext6HSTvJ4IB) | 3:43 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMGQ3OGI0NGRiZDljZmVlYmY5NDNiMjNjYzg5YTdkOTEy`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDU2ZDM1ZTBmODk0ZDc2YTk3MTRlNzQwMGU1ZTZiMDBj`

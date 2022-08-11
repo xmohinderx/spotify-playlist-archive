@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "darker area",
+        "url": "https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7"
+      },
+      "artists": [
+        {
+          "name": "Fluvis",
+          "url": "https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218019,
+      "name": "darker area",
+      "url": "https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L"
+    },
+    {
+      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/1CuxpTAaorXnbmN1xkLCTg"
       },
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 192187,
       "name": "Repose",
       "url": "https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv"

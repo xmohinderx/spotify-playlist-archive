@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2433406,
+  "num_followers": 2433324,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc1MTUzMSwwMDAwMDAwMDRmNmYxOGMyODY4ZDdiZTU4ZWI3MGQzNDdmNmNiMzU2",
+  "snapshot_id": "MTY0ODc1MTUzMSwwMDAwMDAwMDk5NGI0MWQ4YTYxMDQzODY0M2UxM2EyMDg4OGE2NWM4",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -251,26 +251,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "2030",
-        "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
-      },
-      "artists": [
-        {
-          "name": "Gone Gone Beyond",
-          "url": "https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5"
-        },
-        {
-          "name": "Moontricks",
-          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
-        }
-      ],
-      "duration_ms": 209711,
-      "name": "Coast",
-      "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Going In",
         "url": "https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 161324,
       "name": "Going In",
       "url": "https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "2030",
+        "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
+      },
+      "artists": [
+        {
+          "name": "Gone Gone Beyond",
+          "url": "https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5"
+        },
+        {
+          "name": "Moontricks",
+          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
+        }
+      ],
+      "duration_ms": 209711,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 210346,
       "name": "Smile",
       "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Expectations",
-      "url": "https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
+        "name": "Bears & Bulls",
+        "url": "https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "The Stone Foxes",
+          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
         }
       ],
-      "duration_ms": 193897,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
+      "duration_ms": 110293,
+      "name": "Stomp",
+      "url": "https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Bears & Bulls",
-        "url": "https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt"
+        "name": "Bad Moves",
+        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
       },
       "artists": [
         {
-          "name": "The Stone Foxes",
-          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
         }
       ],
-      "duration_ms": 110293,
-      "name": "Stomp",
-      "url": "https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU"
+      "duration_ms": 246800,
+      "name": "Bad Moves",
+      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Bad Moves",
-        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
       "artists": [
         {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Bad Moves",
-      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
+      "duration_ms": 193897,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
     },
     {
       "added_at": "2021-10-01 04:01:00",

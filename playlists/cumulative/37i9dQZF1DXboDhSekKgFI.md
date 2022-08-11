@@ -4,7 +4,7 @@
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-69 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/3yUTzo8lbBlDnOya9cliI9)
+70 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/3yUTzo8lbBlDnOya9cliI9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,9 @@
 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 | 2020-04-27 |  |
 | [Hey DJ \- Pop Version](https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Hey DJ \(Pop Version\)](https://open.spotify.com/album/5hHBkqV6gED9WKE6qr0DfP) | 3:06 | 2020-04-27 |  |
 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 | 2020-04-27 |  |
-| [I Like To Move It](https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \(Music From The Motion Picture\)](https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG) | 3:41 | 2020-04-27 |  |
+| [I Like To Move It](https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \(Music From The Motion Picture\)](https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG) | 3:41 | 2020-04-27 | 2022-08-11 |
 | [I Like To Move It](https://open.spotify.com/track/6FDncQmNl6WfOZDCpcrcti) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \- Music From The Motion Picture](https://open.spotify.com/album/53HHf3pv5FGl41cIa8iJQU) | 3:41 | 2020-04-27 | 2022-07-29 |
+| [I Like To Move It](https://open.spotify.com/track/3hYvZHS6dqEhvBbO302MjR) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Fiesta despúes de la siesta](https://open.spotify.com/album/4h6x8zsA7RXuHL2TEkYYy0) | 3:42 | 2020-04-27 |  |
 | [If I Can't Have You](https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:11 | 2020-04-27 |  |
 | [Ki Ki Kí \- Co Co Có \(Arturo Cabrera Remix\)](https://open.spotify.com/track/4retjOENUHtaD9bmnNrIIP) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T), [Arturo Cabrera](https://open.spotify.com/artist/2tnkqXDQ6S1FosAwwS0do1) | [Por Tí Y Para Tí](https://open.spotify.com/album/5lY38DKcpTaEsO0s3yzML8) | 3:42 | 2020-04-27 | 2022-07-29 |
 | [Ki Ki Kí \- Co Co Có \- Dance Remix](https://open.spotify.com/track/0dT11N8Apg5dqZrm5iYHyF) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Por Ti y para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:42 | 2020-04-27 |  |

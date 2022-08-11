@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Wyj\u0105tkowe spektrum d\u017awi\u0119k\u00f3w na jednej playli\u015bcie. Cover: Zawadzki",
-  "num_followers": 2293,
+  "num_followers": 2292,
   "original_name": "Pride Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMGRkYjg2ZmU2MTZjMWM4NDE2ZGYyM2E5Y2M3YmE0NWY1",
+  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMDJjMjY2MDVlYjBiYzE0NjlhYmQwY2RmYTI0NTQ2MWYz",
   "tracks": [
     {
       "added_at": "2022-07-22 08:13:30",
@@ -83,22 +83,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Bez powietrza",
-        "url": "https://open.spotify.com/album/1FOtCixEJUWnKMEAMttUag"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 179345,
-      "name": "Bez powietrza",
-      "url": "https://open.spotify.com/track/6BAkqxn8mtEU2AFqqt4Ti6"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "Shyness!",
         "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 210581,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "Bez powietrza",
+        "url": "https://open.spotify.com/album/1FOtCixEJUWnKMEAMttUag"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        }
+      ],
+      "duration_ms": 179345,
+      "name": "Bez powietrza",
+      "url": "https://open.spotify.com/track/6BAkqxn8mtEU2AFqqt4Ti6"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Kimkolwiek chc\u0119",
-        "url": "https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 174637,
-      "name": "Kimkolwiek chc\u0119",
-      "url": "https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "bezdech",
         "url": "https://open.spotify.com/album/33FAfgaa5ZMKsJElVNO16R"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 199168,
       "name": "bezdech",
       "url": "https://open.spotify.com/track/19TK1sdgx6H2l4uTl7Ti50"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "Kimkolwiek chc\u0119",
+        "url": "https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 174637,
+      "name": "Kimkolwiek chc\u0119",
+      "url": "https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "PINOKIO",
         "url": "https://open.spotify.com/album/1INLSAXzlp4hktzm4lWM6l"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "M\u0142odzi",
+        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
+      },
+      "artists": [
+        {
+          "name": "Agata Radziszewska",
+          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
+        }
+      ],
+      "duration_ms": 247880,
+      "name": "Cicho",
+      "url": "https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "DOM",
         "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
       },
@@ -343,6 +343,38 @@
       "duration_ms": 243979,
       "name": "Cie\u0144",
       "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
+      },
+      "artists": [
+        {
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -367,38 +399,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "M\u0142odzi",
-        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
-      },
-      "artists": [
-        {
-          "name": "Agata Radziszewska",
-          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
-        }
-      ],
-      "duration_ms": 247880,
-      "name": "Cicho",
-      "url": "https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "BSoD",
         "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
       },
@@ -411,26 +411,6 @@
       "duration_ms": 179986,
       "name": "BSoD",
       "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "Don't Collapse",
-        "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
-      },
-      "artists": [
-        {
-          "name": "Didi Lez",
-          "url": "https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v"
-        },
-        {
-          "name": "Julia Bossque",
-          "url": "https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "Don't Collapse",
-      "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -455,6 +435,26 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "Don't Collapse",
+        "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
+      },
+      "artists": [
+        {
+          "name": "Didi Lez",
+          "url": "https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v"
+        },
+        {
+          "name": "Julia Bossque",
+          "url": "https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Don't Collapse",
+      "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
         "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
       },
@@ -467,6 +467,26 @@
       "duration_ms": 248202,
       "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
       "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Nick Sinckler",
+          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -547,22 +567,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
-      },
-      "artists": [
-        {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
-        }
-      ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "Dla nas dom",
         "url": "https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf"
       },
@@ -579,22 +583,18 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "Nick Sinckler",
-          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
         }
       ],
-      "duration_ms": 174000,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Dziewczyna z NASA",
-        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        },
-        {
-          "name": "Panilas",
-          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Dziewczyna z NASA",
-      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "Girls, Gays, People",
         "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 207732,
       "name": "Jako\u015b To Przetrwamy",
       "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "Dziewczyna z NASA",
+        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        },
+        {
+          "name": "Panilas",
+          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Dziewczyna z NASA",
+      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
     },
     {
       "added_at": "2022-07-22 08:13:30",

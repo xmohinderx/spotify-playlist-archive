@@ -4,7 +4,7 @@
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
 
-95 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
+96 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Happy Days](https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 | 2020-08-18 |  |
 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 | 2022-04-26 |  |
 | [Hate To Say I Told You So](https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z) | 3:20 | 2020-08-18 | 2022-07-29 |
-| [Heaven 2.9](https://open.spotify.com/track/2nuyR7uWofLwfzHeveCdrm) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Making Enemies Is Good](https://open.spotify.com/album/3cZ8xIHA5iJs2j8okxnNb5) | 2:51 | 2022-04-26 |  |
+| [Heaven 2.9](https://open.spotify.com/track/6gfjeVtBYntpnQ12wG6oOJ) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Making Enemies Is Good](https://open.spotify.com/album/3WBiqMIPiRU9ybRTLxGSDh) | 2:51 | 2022-04-26 |  |
+| [Heaven 2.9](https://open.spotify.com/track/2nuyR7uWofLwfzHeveCdrm) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Making Enemies Is Good](https://open.spotify.com/album/3cZ8xIHA5iJs2j8okxnNb5) | 2:51 | 2022-04-26 | 2022-08-11 |
 | [Heaven 2.9](https://open.spotify.com/track/70ju11WAXAozZmB8WyJ09U) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Making Enemies Is Good](https://open.spotify.com/album/72iZGeLvhpedbqbdZ9uQPd) | 2:51 | 2020-08-18 | 2022-07-29 |
 | [Heaven Knows](https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 3:44 | 2022-04-26 |  |
 | [Heaven Knows](https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going to Hell](https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf) | 3:44 | 2020-08-18 | 2022-07-29 |

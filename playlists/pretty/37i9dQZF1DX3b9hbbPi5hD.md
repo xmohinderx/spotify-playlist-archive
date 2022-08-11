@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 
 > Tarantino not only produces great movies, he produces great soundtracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,622 likes - 44 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,812 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

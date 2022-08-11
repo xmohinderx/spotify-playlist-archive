@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Jaydan
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,951 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,006 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 74 | [Latidos](https://open.spotify.com/track/6okYVMIELsaHstd49DaQME) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Latidos](https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL) | 3:04 |
 | 75 | [Un Call](https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Un Call](https://open.spotify.com/album/41skV30829DyjovTu9BPas) | 3:34 |
 | 76 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 |
-| 77 | [Valiente Y Sereno](https://open.spotify.com/track/0xAdyFFIGkRyeVacoJfF3r) | [Yowcend la Igriega](https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mateo 10:16](https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd) | 3:02 |
-| 78 | [Por Si Me Muero](https://open.spotify.com/track/293nGU8oq5WSSawV3Mk4S5) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Gerardito La Promesa](https://open.spotify.com/artist/4EFZEWdVUPMkMGAp75LISF) | [Blanco\|Negro](https://open.spotify.com/album/1EryW4CnFqsvPWVWOOS4cI) | 4:26 |
-| 79 | [Pila De Versos](https://open.spotify.com/track/4NF7mdvxEAttDKo36bVaz1) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Eich Nothingness](https://open.spotify.com/artist/6cFqhnt1xZwIl7cR3Y7R2i), [New Generation Music](https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v) | [Pila De Versos](https://open.spotify.com/album/27rveY6PeFcs0Ipjwb67FT) | 2:53 |
+| 77 | [Por Si Me Muero](https://open.spotify.com/track/293nGU8oq5WSSawV3Mk4S5) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Gerardito La Promesa](https://open.spotify.com/artist/4EFZEWdVUPMkMGAp75LISF) | [Blanco\|Negro](https://open.spotify.com/album/1EryW4CnFqsvPWVWOOS4cI) | 4:26 |
+| 78 | [Pila De Versos](https://open.spotify.com/track/4NF7mdvxEAttDKo36bVaz1) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Eich Nothingness](https://open.spotify.com/artist/6cFqhnt1xZwIl7cR3Y7R2i), [New Generation Music](https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v) | [Pila De Versos](https://open.spotify.com/album/27rveY6PeFcs0Ipjwb67FT) | 2:53 |
+| 79 | [Valiente Y Sereno](https://open.spotify.com/track/0xAdyFFIGkRyeVacoJfF3r) | [Yowcend la Igriega](https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mateo 10:16](https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd) | 3:02 |
 | 80 | [Sin Exigir](https://open.spotify.com/track/2ryqtwvpQWCsys0DAXl1In) | [Juan Aponte](https://open.spotify.com/artist/0ygYfTO9oILMIWw0vEpCuJ), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Sin Exigir](https://open.spotify.com/album/6wWz7xuIroiNesMDa22SBd) | 3:33 |
 
-Snapshot ID: `MTY1MTIyMjA5NiwwMDAwMDAwMDEzY2U4MWFjYzdjN2QzODlhZTczMTQ3OTU2MzMwMWY0`
+Snapshot ID: `MTY1MTIyMjA5NiwwMDAwMDAwMDgwNjljYTMxMzkyMTI0ZTZiNTRhYzhiMTIyZTIyYTBi`

@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: Big Boss Vette",
-  "num_followers": 14790,
+  "num_followers": 14851,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDMzMzM1Yzc5OTQwMDU0Y2I1ZmZhN2FkMGZiN2IyZjMw",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDIwYzQzZWE3YzBlNDg1ZGI0MzZlMDBlYzhkNjk0MGRm",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -291,18 +291,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Smack a Bitch",
-        "url": "https://open.spotify.com/album/3Ja54bCouLvrDLt3XKzMii"
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
       },
       "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 138352,
-      "name": "Smack a Bitch",
-      "url": "https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND"
+      "duration_ms": 180076,
+      "name": "Swamp Bitches (with Rico Nasty)",
+      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -323,22 +327,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+        "name": "Smack a Bitch",
+        "url": "https://open.spotify.com/album/3Ja54bCouLvrDLt3XKzMii"
       },
       "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 180076,
-      "name": "Swamp Bitches (with Rico Nasty)",
-      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
+      "duration_ms": 138352,
+      "name": "Smack a Bitch",
+      "url": "https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 136629,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/0eihPScADJKzfuUwiShQQJ"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 147878,
       "name": "Stepper (feat. Nardo Wick)",
       "url": "https://open.spotify.com/track/7Cc0nFTbzoNvRLo2CTAq66"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 136629,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/0eihPScADJKzfuUwiShQQJ"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Ice Cream Dream (feat. French Montana)",
-        "url": "https://open.spotify.com/album/3UkdUEC0ih1F7F6tXMlXbT"
-      },
-      "artists": [
-        {
-          "name": "DreamDoll",
-          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 152182,
-      "name": "Ice Cream Dream (feat. French Montana)",
-      "url": "https://open.spotify.com/track/1BsZW3NH0aTEc7KMmglYWU"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Soufside",
         "url": "https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg"
       },
@@ -847,22 +827,6 @@
       "duration_ms": 110769,
       "name": "Soufside",
       "url": "https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/6SJDmsoNuteasF86EPiZQK"
-      },
-      "artists": [
-        {
-          "name": "Renni Rucci",
-          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
-        }
-      ],
-      "duration_ms": 121248,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1r1s3410xYexj6RHM670dc"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -883,6 +847,42 @@
       "duration_ms": 174176,
       "name": "Chanel Slides (feat. Kash Doll)",
       "url": "https://open.spotify.com/track/0Q7oKGmOMygeemUaUr6lYJ"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/6SJDmsoNuteasF86EPiZQK"
+      },
+      "artists": [
+        {
+          "name": "Renni Rucci",
+          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
+        }
+      ],
+      "duration_ms": 121248,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1r1s3410xYexj6RHM670dc"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Ice Cream Dream (feat. French Montana)",
+        "url": "https://open.spotify.com/album/3UkdUEC0ih1F7F6tXMlXbT"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 152182,
+      "name": "Ice Cream Dream (feat. French Montana)",
+      "url": "https://open.spotify.com/track/1BsZW3NH0aTEc7KMmglYWU"
     },
     {
       "added_at": "2022-08-05 04:01:00",

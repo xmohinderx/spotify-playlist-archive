@@ -1,18 +1,70 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vikrant Rona",
-  "num_followers": 36402,
+  "num_followers": 36470,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA1MDA2MywwMDAwMDAwMDkzZGM2NGY3ZWIwMzQzZTM0ZDk5NDRiM2UzYzRlYWY1",
+  "snapshot_id": "MTY2MDE1NzE4NSwwMDAwMDAwMGViYzdjZGE4M2JmNjMxODQ4ZGM5NWNhZDY0NjE1NmEy",
   "tracks": [
     {
       "added_at": "2022-07-18 06:13:34",
       "album": {
-        "name": "Hey Fakira (From \"Vikrant Rona\")",
-        "url": "https://open.spotify.com/album/64YmpCXj6doaZa7EW15zPZ"
+        "name": "Ra Ra Rakkamma (From \"Vikrant Rona\")",
+        "url": "https://open.spotify.com/album/4GnAFlvjXPln9VsUhJxoTC"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 218343,
+      "name": "Ra Ra Rakkamma (From \"Vikrant Rona\")",
+      "url": "https://open.spotify.com/track/0stbF4C1ACmIvx0aW81ZXa"
+    },
+    {
+      "added_at": "2022-08-10 18:46:25",
+      "album": {
+        "name": "Deva Deva [From \"Brahmastra (Kannada)\"]",
+        "url": "https://open.spotify.com/album/78j4M4PZMtQWaZlwGLhbn2"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "duration_ms": 276964,
+      "name": "Deva Deva (From \"Brahmastra (Kannada)\")",
+      "url": "https://open.spotify.com/track/0wKiyi7AlxyLo3fiVPX454"
+    },
+    {
+      "added_at": "2022-08-10 11:23:48",
+      "album": {
+        "name": "Manasella Neene (From \"Lucky Man\")",
+        "url": "https://open.spotify.com/album/6rMzebX4AnY4oooXmIVCzh"
       },
       "artists": [
         {
@@ -20,21 +72,17 @@
           "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
         },
         {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+          "name": "V2 Vijay Vicky",
+          "url": "https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF"
         },
         {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Anup Bhandari",
-          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
+          "name": "Dhananjay Rajan",
+          "url": "https://open.spotify.com/artist/2iJ67BcXWSOW7dPJzeyjXc"
         }
       ],
-      "duration_ms": 172206,
-      "name": "Hey Fakira (From \"Vikrant Rona\")",
-      "url": "https://open.spotify.com/track/71HXynGmLcg9br5GfS2Z8V"
+      "duration_ms": 272359,
+      "name": "Manasella Neene - From \"Lucky Man\"",
+      "url": "https://open.spotify.com/track/2HVlG7DELDQ3tcSITvLEV7"
     },
     {
       "added_at": "2022-08-06 18:28:58",
@@ -145,6 +193,34 @@
       "url": "https://open.spotify.com/track/7s0KFqgphHOEq4W0xIw95e"
     },
     {
+      "added_at": "2022-07-18 06:13:34",
+      "album": {
+        "name": "Hey Fakira (From \"Vikrant Rona\")",
+        "url": "https://open.spotify.com/album/64YmpCXj6doaZa7EW15zPZ"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Anup Bhandari",
+          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
+        }
+      ],
+      "duration_ms": 172206,
+      "name": "Hey Fakira (From \"Vikrant Rona\")",
+      "url": "https://open.spotify.com/track/71HXynGmLcg9br5GfS2Z8V"
+    },
+    {
       "added_at": "2022-08-09 12:48:36",
       "album": {
         "name": "Ae Tagaru Kano Ninu Mama (Dhum) [From \"Ae Tagaru Kano Ninu Mama\"]",
@@ -203,34 +279,6 @@
       "duration_ms": 290526,
       "name": "Ponni Nadhi [From \"PS-1 (Kannada)\"]",
       "url": "https://open.spotify.com/track/7MyFVhR8E6GnKBx4ZLHMYR"
-    },
-    {
-      "added_at": "2022-07-21 13:14:45",
-      "album": {
-        "name": "The Devil's Fury - Gumma Banda Gumma (From \"Vikrant Rona\") [KANNADA]",
-        "url": "https://open.spotify.com/album/5KDGBLIx7H0XCiRIW2GEEy"
-      },
-      "artists": [
-        {
-          "name": "Anup Bhandari",
-          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        },
-        {
-          "name": "Harshika Devanath",
-          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "The Devil's Fury - Gumma Banda Gumma (From \"Vikrant Rona\") [KANNADA]",
-      "url": "https://open.spotify.com/track/5J6yjAulDajwVuU9Rvgkwt"
     },
     {
       "added_at": "2022-07-18 06:13:34",
@@ -353,6 +401,34 @@
       "url": "https://open.spotify.com/track/0G7zNElFN13iZsbGgq6Z37"
     },
     {
+      "added_at": "2022-07-21 13:14:45",
+      "album": {
+        "name": "The Devil's Fury - Gumma Banda Gumma (From \"Vikrant Rona\") [KANNADA]",
+        "url": "https://open.spotify.com/album/5KDGBLIx7H0XCiRIW2GEEy"
+      },
+      "artists": [
+        {
+          "name": "Anup Bhandari",
+          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Harshika Devanath",
+          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "The Devil's Fury - Gumma Banda Gumma (From \"Vikrant Rona\") [KANNADA]",
+      "url": "https://open.spotify.com/track/5J6yjAulDajwVuU9Rvgkwt"
+    },
+    {
       "added_at": "2022-07-18 06:13:34",
       "album": {
         "name": "Gaalipata 2",
@@ -387,30 +463,6 @@
       "duration_ms": 265984,
       "name": "Aane Maadi Heluteeni - From \"Guru Shishyaru\"",
       "url": "https://open.spotify.com/track/6JdoeRdHNV2InrRl80NLac"
-    },
-    {
-      "added_at": "2022-07-18 06:13:34",
-      "album": {
-        "name": "Ra Ra Rakkamma (From \"Vikrant Rona\")",
-        "url": "https://open.spotify.com/album/4GnAFlvjXPln9VsUhJxoTC"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 218343,
-      "name": "Ra Ra Rakkamma (From \"Vikrant Rona\")",
-      "url": "https://open.spotify.com/track/0stbF4C1ACmIvx0aW81ZXa"
     },
     {
       "added_at": "2022-07-18 06:13:34",

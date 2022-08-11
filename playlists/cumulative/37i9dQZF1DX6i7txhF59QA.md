@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: YOUNGTAK\(영탁\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-760 songs - 1 day 19 hr 19 min - [published](https://open.spotify.com/playlist/4095CD5XCukMZYOcr7Aaxg)
+761 songs - 1 day 19 hr 24 min - [published](https://open.spotify.com/playlist/4095CD5XCukMZYOcr7Aaxg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [Shanghai romance](https://open.spotify.com/track/79YE9mpf9DTDhwrQKy8Suo) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART10](https://open.spotify.com/album/38YiZVacI8Yyu2PcauaRgT) | 3:26 | 2022-05-03 | 2022-06-03 |
 | [Shanghai Romance](https://open.spotify.com/track/4YRTsmrGk2Y8uVkTuGbdJj) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [LIPSTICK](https://open.spotify.com/album/1r2yoS5HLPjmz5j1ii5a3r) | 3:46 | 2022-05-03 |  |
 | [Shape of my Heart](https://open.spotify.com/track/04hJPe5xIHvxDyzMbf1TqK) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 2:06 | 2022-04-22 | 2022-07-01 |
-| [Shout Myself Out.](https://open.spotify.com/track/2tjNcmpxkxPG6d7as2w4z7) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART3](https://open.spotify.com/album/4yTFiZEUtbItfWaKTa1cOf) | 4:29 | 2022-04-21 |  |
+| [Shout Myself Out.](https://open.spotify.com/track/2tjNcmpxkxPG6d7as2w4z7) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART3](https://open.spotify.com/album/4yTFiZEUtbItfWaKTa1cOf) | 4:29 | 2022-04-21 | 2022-08-11 |
 | [Sincerity](https://open.spotify.com/track/6sApmwfcevoTzYeiFdaNVQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART5](https://open.spotify.com/album/6YRmEyaGc3q1NDWz5njgrB) | 2:57 | 2022-07-22 | 2022-07-27 |
 | [Singing and Dancing](https://open.spotify.com/track/3X7LDiQJA7GlDcekxucc4p) | [Jo Jung Min](https://open.spotify.com/artist/4fcBdN2QDEF58oIK2D4rzh) | [Love call center PART27](https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs) | 2:26 | 2022-04-22 | 2022-07-17 |
 | [Single\-minded dandelion](https://open.spotify.com/track/5ypMEjxCSuapcEf8eg3k53) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Music source of Mr\. Trot Death match Part2](https://open.spotify.com/album/1CDnEtpKkborv4DaFdb1PY) | 3:54 | 2022-04-22 | 2022-07-11 |
@@ -610,6 +610,7 @@
 | [Unwavering love](https://open.spotify.com/track/0Yqnw8z3zGc4VbBAYczq6G) | [KIM SOO CHAN](https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 3:23 | 2022-05-03 | 2022-07-28 |
 | [Uphill](https://open.spotify.com/track/35nqNtG1OLeQHg7x1VFlgD) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1M6LffVG2YZp0IzPKOMH0e) | 5:07 | 2022-04-22 | 2022-07-28 |
 | [Uphill](https://open.spotify.com/track/41WFSBmqmCm4nyM0K27cr7) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1H9T31njmTPATY5N7SseUE) | 5:07 | 2022-07-22 | 2022-08-03 |
+| [Uphill](https://open.spotify.com/track/4y5Nnom26zpxapJwACZxS4) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Kkondae Intern OST Part 3](https://open.spotify.com/album/6xrBdBOABBLTWdtWPH1ITO) | 5:07 | 2022-08-09 |  |
 | [Vanish 38th Parallel Away](https://open.spotify.com/track/6t6ganVRNCYmUQdl8t7PY0) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART4](https://open.spotify.com/album/3cCGXsqslsRzZhBiKWKhWB) | 3:15 | 2022-04-22 | 2022-05-31 |
 | [Viva La Vida \- Korean Version](https://open.spotify.com/track/243zY45l4DJVdwuEs57yDt) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Viva La Vida](https://open.spotify.com/album/4wCHCdtFgmEehMGc9snoZJ) | 2:51 | 2022-04-07 |  |
 | [Wait a minute](https://open.spotify.com/track/4qcb0Uv1ZSfoUIKFC0gs71) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 2:46 | 2022-04-21 | 2022-07-12 |

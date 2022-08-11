@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > Aquelas músicas que você ouve viralizando por aí mas não sabe o nome.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,417 likes - 76 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,669 likes - 76 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 14 | [Oi, Como Ce Tá?](https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Oi, Como Ce Tá?](https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou) | 2:36 |
 | 15 | [Hits 2021 \- Mashup](https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Hits 2021 \(Mashup\)](https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa) | 2:37 |
 | 16 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 |
-| 17 | [Mina Sensação](https://open.spotify.com/track/2ffHP14dBtOVFUO38N5hmG) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Regassa Paredão](https://open.spotify.com/album/62iCSGenOjxO9HWaKTDAdH) | 1:52 |
+| 17 | [Mina Sensação](https://open.spotify.com/track/4NWqFtTU1wnvlsU7XjeIGM) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Plutão](https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc) | 1:52 |
 | 18 | [Metflix](https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Metflix](https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj) | 2:13 |
 | 19 | [Me Chama de Amor \- Arrochadeira Remix](https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5) | [O Tubarão](https://open.spotify.com/artist/5oqu436HPM9PGpNSlPBpAT), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Me Chama de Amor \(Arrochadeira Remix\)](https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq) | 2:09 |
 | 20 | [Sitio do Tio Harry](https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Coisas Que Eu Só Falaria Brincando](https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE) | 4:51 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 75 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 |
 | 76 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
 
-Snapshot ID: `MTY2MDA3NTUxOSwwMDAwMDAwMDdhYTAxZmYwYTFkYWUzZWEwNzZmY2FmMmE2NTRhMGM3`
+Snapshot ID: `MTY2MDA3NTUxOSwwMDAwMDAwMDA5MzlmOWYyZWQwYTZhOGRiZTExNDI0NThkMDJjOWE0`

@@ -4,7 +4,7 @@
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/2Fr8s7ujhjKo7LWC8No6V7)
+62 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/2Fr8s7ujhjKo7LWC8No6V7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Chamaca](https://open.spotify.com/track/4Ygb0Vf5U5mRx9VtJXYgj8) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:52 | 2022-06-01 |  |
 | [Confesión](https://open.spotify.com/track/21ut7jcqCVEmgvP9YaKyz4) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [También Románticos](https://open.spotify.com/album/3VLGmlnHGYtLsKmbsVqxM5) | 2:59 | 2022-06-01 |  |
 | [Contestación A La Muerte De Marylee](https://open.spotify.com/track/6izucF9I6OfbHnefeFdFwz) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:04 | 2022-06-01 |  |
-| [Corazon Vacio \(En Vivo\)](https://open.spotify.com/track/3TQ6UHQeFMzSbE7NRPAZ6d) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [En Vivo Desde Monterrey, NL](https://open.spotify.com/album/5NuJqywzjzd5M77YyOTR6I) | 3:21 | 2022-06-01 |  |
+| [Corazon Vacio \(En Vivo\)](https://open.spotify.com/track/3TQ6UHQeFMzSbE7NRPAZ6d) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [En Vivo Desde Monterrey, NL](https://open.spotify.com/album/5NuJqywzjzd5M77YyOTR6I) | 3:21 | 2022-06-01 | 2022-08-11 |
 | [Dale Un Cuartazo Al Macho](https://open.spotify.com/track/5CaVmNwvbF9ryrr8RNWr7u) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Atrás Del Escenario](https://open.spotify.com/album/68uz1T0TeyArcH2MMVy6Kl) | 2:39 | 2022-06-01 |  |
 | [Destapé Otra Botella](https://open.spotify.com/track/1kchtVnM8zZJXGgugsHhuL) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 3:05 | 2022-06-01 |  |
 | [El Caimán \- En Vivo](https://open.spotify.com/track/4TrKU1y51lR2kjjZtQhqga) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Ricky López](https://open.spotify.com/artist/0tbis939faPuJg5RXYNRpo) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 2:43 | 2022-06-01 |  |
@@ -61,6 +61,7 @@
 | [Si Tu Te Vas](https://open.spotify.com/track/0qLNTZOUv7qdXxrtDWPejH) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:46 | 2022-06-05 | 2022-08-10 |
 | [Somos Ajenos](https://open.spotify.com/track/2ssVqXLiCALogRNO6MNr4k) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Las Más Pedidas, Vol\. 2](https://open.spotify.com/album/4FYk7meQNVhlLc9XyU44xP) | 2:58 | 2022-06-01 |  |
 | [Toco Madera](https://open.spotify.com/track/2qyQTvoprTG6xk05FCtRt7) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:06 | 2022-06-01 |  |
+| [Tres Por Una](https://open.spotify.com/track/7961JijxsrpZXUzWkquseT) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Cesáreo Sánchez](https://open.spotify.com/artist/6swcGvbGZVTU3bXVWlOGif), [Salomon Robles](https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu) | [Ni Amores Ni Deudas](https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY) | 3:04 | 2022-08-10 |  |
 | [Tres Veces Te Engañé](https://open.spotify.com/track/4FmlFs00vJVtRSNQddCQyJ) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Íconos 25 Éxitos](https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP) | 3:14 | 2022-06-01 |  |
 | [Tus Labios Y Mi Copa](https://open.spotify.com/track/4uClaTjzYCrVHKSY1Y34Um) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Íconos 25 Éxitos](https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP) | 2:44 | 2022-07-29 | 2022-07-31 |
 | [Ven](https://open.spotify.com/track/1yUMetUWBf8xoh8XBa4PZm) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Como Decirte](https://open.spotify.com/album/3zMm3HTIhFivAyQOSHjfYy) | 2:48 | 2022-06-01 |  |

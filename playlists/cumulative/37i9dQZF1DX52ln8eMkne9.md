@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental jazz\. Cover: Melody Gardot
 
-201 songs - 14 hr 58 min - [published](https://open.spotify.com/playlist/37IsdW9n0SlbPN5SfSK6qD)
+202 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/37IsdW9n0SlbPN5SfSK6qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [I Know I Dream](https://open.spotify.com/track/4tKuk0iRGIw12J8fwpI7OH) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream : The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH) | 5:36 | 2021-12-17 |  |
 | [I Loves You, Porgy](https://open.spotify.com/track/0sXqm4fPFlsvQFg7YVzrHE) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/7AdnrCG683BZgTuuoJ2dfg) | 6:06 | 2022-02-18 | 2022-07-29 |
 | [I Loves You, Porgy](https://open.spotify.com/track/4saZV3enmCs9p3JfdtpCwn) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/3GXSmLkrNU89CpYIuv9QD7) | 6:06 | 2022-07-28 |  |
+| [I Walk A Little Faster](https://open.spotify.com/track/13IsFI2oDwC0CNR2hLAKeS) | [María Esteban Quintet](https://open.spotify.com/artist/2sZxjmgR2KmuFB54tvc9YY), [María Esteban](https://open.spotify.com/artist/2IGB5nA5VbGU7bKSoJMqMN), [Edu Cabello](https://open.spotify.com/artist/0THtNsDRswHw7gbFaPrVU9), [Rai Paz](https://open.spotify.com/artist/7fyYCDMJffGkMcoatNcKHk), [Xavi Castillo](https://open.spotify.com/artist/5dC65gJBz1D1xqPE4PnKDp), [Santi Colomer](https://open.spotify.com/artist/39eWTAyXJRsLxEvTjJPvwa) | [Voces Veladas, Vol.2\-Un Homenaje a Letristas e Intérpretes de Jazz](https://open.spotify.com/album/68Zzm6yDNA2CUBGA5rsjbe) | 5:17 | 2022-08-10 |  |
 | [I Will Wait For You](https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [From New York To Paris](https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0) | 5:30 | 2022-02-18 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 3:19 | 2021-12-17 |  |
 | [I'll Follow the Sun](https://open.spotify.com/track/1bktB5CagQYfxL5YO3OctN) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d) | [I'll Follow The Sun](https://open.spotify.com/album/0UolljxEJxx4l5cDvEoqNE) | 2:19 | 2022-03-17 |  |
@@ -139,7 +140,7 @@
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/5fCsD2cRqXf0q5JAGTrmez) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/5xFn6wFCZJ3DTJwzEzaFEV) | 4:47 | 2022-07-28 |  |
 | [No Guarantees](https://open.spotify.com/track/6ZVC9vfwMNEKD2CwyrhMOp) | [Laura & Anton](https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy) | [No Guarantees](https://open.spotify.com/album/1nR6FaZr89igcbaPow6y8z) | 3:08 | 2021-12-17 |  |
 | [Oh My Love](https://open.spotify.com/track/22ckf5hC1cnHnFPY6pxINQ) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Gouache](https://open.spotify.com/album/3rTG744ZZuutEfX65xI88L) | 4:47 | 2022-05-13 | 2022-07-29 |
-| [Oh My Love](https://open.spotify.com/track/4k5cfX3AIWAHvl0cpCT7XA) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Saint Valentin jazz](https://open.spotify.com/album/3AXIQlRug6iCuHVNlumj9y) | 4:47 | 2022-07-28 |  |
+| [Oh My Love](https://open.spotify.com/track/4k5cfX3AIWAHvl0cpCT7XA) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Saint Valentin jazz](https://open.spotify.com/album/3AXIQlRug6iCuHVNlumj9y) | 4:47 | 2022-07-28 | 2022-08-11 |
 | [Ojos Cariñosos](https://open.spotify.com/track/4Fb1S8u90wKz2GYfrz1xIA) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Ojos Cariñosos](https://open.spotify.com/album/6ktn3I6uQQEkBhs1xQhlk3) | 7:44 | 2021-12-17 |  |
 | [One For My Baby](https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 5:11 | 2021-12-17 |  |
 | [Over The Rainbow](https://open.spotify.com/track/3TotnIhZuLlxAZY22hUw6k) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [So In Love](https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2) | 3:55 | 2021-12-17 | 2022-07-29 |

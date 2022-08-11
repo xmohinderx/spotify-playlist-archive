@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,773 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,780 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 93 | [怎麼忘記了你 \(feat.魏如昀\)](https://open.spotify.com/track/4a1lAgW1N5l2LJT5oInbRc) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA), [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [無視](https://open.spotify.com/album/5CkigNhinaroKJrFWQVLWQ) | 4:38 |
 | 94 | [裝可愛](https://open.spotify.com/track/1weZuPrgu0lR8QDbxybFZF) | [Fann 芳怡](https://open.spotify.com/artist/5omaz0dQQ7JeaFcqIJ1AvM) | [桃樂市](https://open.spotify.com/album/4qVr2jy6w7kjvBdW7OGGJt) | 3:26 |
 | 95 | [Somebody Else](https://open.spotify.com/track/2DwsuwDtMtZykInr8cFo1j) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [Somebody Else](https://open.spotify.com/album/2ea2BnHMjIMAEupSlrYoLq) | 2:49 |
-| 96 | [Whatchu Gonna...?](https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Whatchu Gonna...?](https://open.spotify.com/album/4C6O1vEFP0AM2ThBxFdma2) | 3:48 |
+| 96 | [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 |
 | 97 | [26](https://open.spotify.com/track/5n3A4Kk6ZaAsqUEhIIlZgT) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [26](https://open.spotify.com/album/40BW3u5z055WOOivOnExVF) | 4:05 |
 | 98 | [10000次](https://open.spotify.com/track/12mxdNpFoPPxAgIGx1xvY2) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [10000次](https://open.spotify.com/album/3knWnYquq3F0HQZaNnmwhy) | 3:55 |
 | 99 | [不想聽見的歌](https://open.spotify.com/track/6ZBWEbwzGrKZOcE2Hh2fZR) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [不想聽見的歌](https://open.spotify.com/album/39bMPyNcfUGGxHesBJGe1D) | 4:47 |
 | 100 | [不在一起就不會分開](https://open.spotify.com/track/4ozGCLtrgrzy6Ve3WWwtjN) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [不在一起就不會分開](https://open.spotify.com/album/3zdOCw1uKKB8I9jHC0E7Cg) | 4:47 |
 
-Snapshot ID: `MTY1OTkzMjQ1MSwwMDAwMDAwMDkwMmUyYjdkMzk1OTkxZWUxZGMwMDcxYjU4ODNjZmQy`
+Snapshot ID: `MTY1OTkzMjQ1MSwwMDAwMDAwMDVlMDM4NmE0YTQzYTk0MjNjYWMzZGFlY2Q0MjQ0MzY0`

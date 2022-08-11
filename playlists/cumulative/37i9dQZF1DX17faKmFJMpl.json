@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 238133,
       "name": "A Long Time Ago (feat. Heritage)",
       "url": "https://open.spotify.com/track/0ECcBoAhm3VML4sTbfSXgn"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 259160,
       "name": "Be Free (feat. Verbal Jint, Sean2Slow)",
       "url": "https://open.spotify.com/track/7cBNp79z2hlEV0YfaaZtDA"
@@ -2415,7 +2415,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 313893,
       "name": "Respect 4 Brotha (feat. Ill Skillz, K.O.D.)",
       "url": "https://open.spotify.com/track/4lcPZcMao0N1c61w7OC0sg"
@@ -3443,6 +3443,40 @@
     {
       "album": {
         "name": "Ill Skill",
+        "url": "https://open.spotify.com/album/3wluGULbyFDJrp41R7VdYf"
+      },
+      "artists": [
+        {
+          "name": "Leo Kekoa",
+          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
+        },
+        {
+          "name": "Pocyomkin",
+          "url": "https://open.spotify.com/artist/6IN0p90dq8Adz9mg4jXn6e"
+        },
+        {
+          "name": "1 Kyne",
+          "url": "https://open.spotify.com/artist/5mbtyCGys1Blku95lkAMVV"
+        },
+        {
+          "name": "Sean2Slow",
+          "url": "https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU"
+        },
+        {
+          "name": "Double K",
+          "url": "https://open.spotify.com/artist/6Xv8PJrOONqS2n2eSskF4C"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253453,
+      "name": "\ub5a0\ubc84\ub9ac Pt. 2 (feat. Pocyomkin, 1 Kyne, Sean2slow & \ub354\ube14\ucf00\uc774)",
+      "url": "https://open.spotify.com/track/45ZvoX8iUXO4rfdb30wyST"
+    },
+    {
+      "album": {
+        "name": "Ill Skill",
         "url": "https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ"
       },
       "artists": [
@@ -3549,7 +3583,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 224973,
       "name": "\ub9c8\ubd80",
       "url": "https://open.spotify.com/track/7fQmpoHQ4aVyx5wtWyOmSo"
@@ -3699,7 +3733,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 200933,
       "name": "\ubd88\ud55c\ub2f9's oblige",
       "url": "https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc"

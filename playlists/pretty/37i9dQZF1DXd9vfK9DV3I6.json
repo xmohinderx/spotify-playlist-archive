@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 195699,
+  "num_followers": 195899,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyOTcxOCwwMDAwMDAwMGZjODE1ZTE3ZmUxZjk3MmI4YTJkZjgxZjRjZWIxMzA2",
+  "snapshot_id": "MTY1OTYyOTcxOCwwMDAwMDAwMDhhOTk4ZDlkYWE2ZDc5ZGE2YzU3ZTdlMmQxNTU4OWVj",
   "tracks": [
     {
       "added_at": "2022-06-27 09:14:06",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Ya Ghayeb",
-        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
-      },
-      "artists": [
-        {
-          "name": "DJ Maximus",
-          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
-        },
-        {
-          "name": "Bob Zoabi",
-          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
-        }
-      ],
-      "duration_ms": 217211,
-      "name": "Ya Ghayeb",
-      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "Enta Omry Remix 2022",
         "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 278546,
       "name": "Enta Omry Remix 2022",
       "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Ya Ghayeb",
+        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
+      },
+      "artists": [
+        {
+          "name": "DJ Maximus",
+          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
+        },
+        {
+          "name": "Bob Zoabi",
+          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
+        }
+      ],
+      "duration_ms": 217211,
+      "name": "Ya Ghayeb",
+      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
         "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 166416,
       "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
       "url": "https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Buddha Bar XVII",
+        "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
+      },
+      "artists": [
+        {
+          "name": "Oum",
+          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
+        }
+      ],
+      "duration_ms": 323720,
+      "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
+      "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 176164,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Buddha Bar XVII",
-        "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
-      },
-      "artists": [
-        {
-          "name": "Oum",
-          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
-        }
-      ],
-      "duration_ms": 323720,
-      "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
-      "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Nentori",
         "url": "https://open.spotify.com/album/78iSNwTwoiMwvn6fspEObm"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 314336,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Che Danestam (Seventh Soul Remix)",
-        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
-      },
-      "artists": [
-        {
-          "name": "Homayoun Shajarian",
-          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
-        },
-        {
-          "name": "Seventh Soul",
-          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
-        }
-      ],
-      "duration_ms": 506666,
-      "name": "Che Danestam - Seventh Soul Remix",
-      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 218709,
       "name": "Salat Ala Nabina - Radio Edit",
       "url": "https://open.spotify.com/track/34v65aJB2ELQx3vpegUxb1"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Che Danestam (Seventh Soul Remix)",
+        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
+      },
+      "artists": [
+        {
+          "name": "Homayoun Shajarian",
+          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
+        },
+        {
+          "name": "Seventh Soul",
+          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
+        }
+      ],
+      "duration_ms": 506666,
+      "name": "Che Danestam - Seventh Soul Remix",
+      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Arab Money",
-        "url": "https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5"
-      },
-      "artists": [
-        {
-          "name": "Moonlight",
-          "url": "https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ"
-        },
-        {
-          "name": "Dayana",
-          "url": "https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Arab Money",
-      "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "My Useless Life",
         "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 141779,
       "name": "My Useless Life",
       "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Arab Money",
+        "url": "https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5"
+      },
+      "artists": [
+        {
+          "name": "Moonlight",
+          "url": "https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ"
+        },
+        {
+          "name": "Dayana",
+          "url": "https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Arab Money",
+      "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/1nqNVBXnqnVTE3WToXUKqG"
-      },
-      "artists": [
-        {
-          "name": "Ronna Riva",
-          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
-        }
-      ],
-      "duration_ms": 193808,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/3nhRbqeV3DpVPXHVL6cO9v"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "Yaman",
         "url": "https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO"
       },
@@ -2011,6 +1995,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/1nqNVBXnqnVTE3WToXUKqG"
+      },
+      "artists": [
+        {
+          "name": "Ronna Riva",
+          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
+        }
+      ],
+      "duration_ms": 193808,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/3nhRbqeV3DpVPXHVL6cO9v"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Three Wise Monkeys",
         "url": "https://open.spotify.com/album/30cXN71kK6LFGH7OBIUkXJ"
       },
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Yasmine",
+        "url": "https://open.spotify.com/album/7o6S5sfdr8dsTL79AjLgQs"
+      },
+      "artists": [
+        {
+          "name": "Etyen",
+          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
+        }
+      ],
+      "duration_ms": 341386,
+      "name": "Eibada",
+      "url": "https://open.spotify.com/track/2DB1K7RbZbFGACY9yiLLqH"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "The Long March (Remix)",
         "url": "https://open.spotify.com/album/1tFWncTkrPbL7eklHcNgR5"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 304091,
       "name": "The Long March - Remix",
       "url": "https://open.spotify.com/track/3Ufh9OCrtsLGduyRDPvn1P"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Yasmine",
-        "url": "https://open.spotify.com/album/7o6S5sfdr8dsTL79AjLgQs"
-      },
-      "artists": [
-        {
-          "name": "Etyen",
-          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
-        }
-      ],
-      "duration_ms": 341386,
-      "name": "Eibada",
-      "url": "https://open.spotify.com/track/2DB1K7RbZbFGACY9yiLLqH"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Bali",
-        "url": "https://open.spotify.com/album/0MPF0EVygO60VuV99r3p68"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 344464,
-      "name": "Delina",
-      "url": "https://open.spotify.com/track/7eJCU0qd9dvFVneR46G1os"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0YMBhvo8rwRFmiIzBEDj6m"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 169449,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Gig83Hs2CSExBM38e8YxC"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Bali",
+        "url": "https://open.spotify.com/album/0MPF0EVygO60VuV99r3p68"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 344464,
+      "name": "Delina",
+      "url": "https://open.spotify.com/track/7eJCU0qd9dvFVneR46G1os"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -2423,6 +2423,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Khayyam",
+        "url": "https://open.spotify.com/album/0hx3o4Hft3utx1kKA9AVcJ"
+      },
+      "artists": [
+        {
+          "name": "Jugurtha",
+          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
+        }
+      ],
+      "duration_ms": 681500,
+      "name": "Khayyam",
+      "url": "https://open.spotify.com/track/5XOYEJ3qSGxbZvRQEQVOYn"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/3KN4rQchOIqlXmKrMPNOG1"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 198000,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0qibsqCSPmacinQXUT8swR"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Khayyam",
-        "url": "https://open.spotify.com/album/0hx3o4Hft3utx1kKA9AVcJ"
-      },
-      "artists": [
-        {
-          "name": "Jugurtha",
-          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
-        }
-      ],
-      "duration_ms": 681500,
-      "name": "Khayyam",
-      "url": "https://open.spotify.com/track/5XOYEJ3qSGxbZvRQEQVOYn"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -2555,6 +2555,26 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Zagora",
+        "url": "https://open.spotify.com/album/4zNoZkafLXtBaFAHG8i5u4"
+      },
+      "artists": [
+        {
+          "name": "So Dubbed",
+          "url": "https://open.spotify.com/artist/7iIpChHfPHBIC5Yzt32xse"
+        },
+        {
+          "name": "Ravin",
+          "url": "https://open.spotify.com/artist/3HCPQCRWBlwDmunTTzn3bb"
+        }
+      ],
+      "duration_ms": 325165,
+      "name": "Zagora",
+      "url": "https://open.spotify.com/track/4ePH0udOkmmaS6CEASnj7N"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Helwa Belady El Samra (Kharma Remix)",
         "url": "https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7"
       },
@@ -2583,26 +2603,6 @@
       "duration_ms": 234693,
       "name": "Origin",
       "url": "https://open.spotify.com/track/1519QNTFdjIgk7YWYOw59y"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Zagora",
-        "url": "https://open.spotify.com/album/4zNoZkafLXtBaFAHG8i5u4"
-      },
-      "artists": [
-        {
-          "name": "So Dubbed",
-          "url": "https://open.spotify.com/artist/7iIpChHfPHBIC5Yzt32xse"
-        },
-        {
-          "name": "Ravin",
-          "url": "https://open.spotify.com/artist/3HCPQCRWBlwDmunTTzn3bb"
-        }
-      ],
-      "duration_ms": 325165,
-      "name": "Zagora",
-      "url": "https://open.spotify.com/track/4ePH0udOkmmaS6CEASnj7N"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -2731,6 +2731,26 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "The Clarinetto",
+        "url": "https://open.spotify.com/album/635atptPBSgJZjOnYtcssp"
+      },
+      "artists": [
+        {
+          "name": "Lele Cecchini",
+          "url": "https://open.spotify.com/artist/2lvhSvoriYrwIlGJMTwj9E"
+        },
+        {
+          "name": "K\u00d6NI",
+          "url": "https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "The Clarinetto",
+      "url": "https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Qalbi",
         "url": "https://open.spotify.com/album/1N729bxBcaOjbUXjgpCILJ"
       },
@@ -2759,26 +2779,6 @@
       "duration_ms": 210859,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/28RzIrtkutKpSVm6SrjRLt"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "The Clarinetto",
-        "url": "https://open.spotify.com/album/635atptPBSgJZjOnYtcssp"
-      },
-      "artists": [
-        {
-          "name": "Lele Cecchini",
-          "url": "https://open.spotify.com/artist/2lvhSvoriYrwIlGJMTwj9E"
-        },
-        {
-          "name": "K\u00d6NI",
-          "url": "https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "The Clarinetto",
-      "url": "https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771"
     },
     {
       "added_at": "2022-06-27 09:14:06",

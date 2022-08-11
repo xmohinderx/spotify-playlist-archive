@@ -4,7 +4,7 @@
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-293 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
+294 songs - 22 hr 21 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Grains](https://open.spotify.com/track/65kSgWVGY4JIWNLWnfEwbe) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Rogue](https://open.spotify.com/album/7mDi1BM9wnm55QUTedTelk) | 4:44 | 2021-05-07 | 2022-07-29 |
 | [Haunt Me](https://open.spotify.com/track/17zdyEVw9oe9FBDevjOl5c) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me](https://open.spotify.com/album/4EMZGTv76C32KyS0dZRwad) | 4:59 | 2021-05-07 |  |
 | [Haunt Me V.2](https://open.spotify.com/track/2USVsdlxRntLqOROwO422o) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me V.2](https://open.spotify.com/album/5zzz3bqkSSoU9nOnpigjTM) | 4:58 | 2021-09-03 |  |
+| [Hear Me Out](https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Hear Me Out](https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F) | 4:39 | 2022-08-05 |  |
 | [Hero](https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik) | [Spectacle](https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1) | 3:13 | 2021-05-07 |  |
 | [Hide and Seek \- Le Youth Remix](https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Hide and Seek \(Le Youth Remix\)](https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO) | 3:51 | 2021-05-07 |  |
 | [Higher](https://open.spotify.com/track/7pBUtlTE8IJZ6mvKloa6T0) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV), [Boxer](https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG) | [Higher](https://open.spotify.com/album/6dfeKG9t94b3SZGdESfAqn) | 3:48 | 2022-01-14 | 2022-07-29 |
@@ -151,7 +152,7 @@
 | [Lightning](https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Lightning](https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz) | 3:54 | 2022-06-03 |  |
 | [LINE IN THE SAND](https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO) | [KILL SCRIPT](https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [LINE IN THE SAND](https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk) | 5:05 | 2022-06-03 | 2022-07-29 |
 | [Lose Control](https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Deep State](https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo) | 5:37 | 2021-05-07 |  |
-| [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2021-05-07 |  |
+| [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2021-05-07 | 2022-08-11 |
 | [Lost at Sea](https://open.spotify.com/track/6DUiSnyXWYiNXSsRe6FJPc) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul / Lost at Sea](https://open.spotify.com/album/39S4MhNoCznHiI7csqfu7j) | 4:42 | 2022-06-10 | 2022-07-23 |
 | [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 | 2021-05-18 |  |
 | [Lucid](https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Lucid](https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR) | 3:04 | 2022-06-03 | 2022-08-04 |

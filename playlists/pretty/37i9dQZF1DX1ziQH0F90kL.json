@@ -1,12 +1,12 @@
 {
   "description": "The Reggaeton hits of yesterday and today.",
-  "num_followers": 63003,
+  "num_followers": 63063,
   "original_name": "Now & Then Reggaeton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE5OTUxOSwwMDAwMDAwMDQ5OGRiZDg4ZTFkZGE5YmNkOWNmNjA0MzVmZjE1MDY3",
+  "snapshot_id": "MTY1NDE5OTUxOSwwMDAwMDAwMDhlMjIxMTdkMDEyMGM0ZDIwYzkxY2Q4YmY2NDAxOTBm",
   "tracks": [
     {
       "added_at": "2022-06-02 19:51:59",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-06-02 19:51:59",
       "album": {
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Noche de Travesura",
+      "url": "https://open.spotify.com/track/1DdrejuwM8C3ExsXaPAgF8"
+    },
+    {
+      "added_at": "2022-06-02 19:51:59",
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 352093,
       "name": "LEYENDAS",
       "url": "https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp"
-    },
-    {
-      "added_at": "2022-06-02 19:51:59",
-      "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Noche de Travesura",
-      "url": "https://open.spotify.com/track/1DdrejuwM8C3ExsXaPAgF8"
     },
     {
       "added_at": "2022-06-02 19:51:59",

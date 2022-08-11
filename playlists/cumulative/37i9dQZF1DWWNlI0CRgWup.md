@@ -4,7 +4,7 @@
 
 > Découvrez notre sélection des artistes à suivre\. Photo : November Ultra
 
-67 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
+68 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [On m'a dit](https://open.spotify.com/track/0vg9919pYOV7mkiEZZDCHo) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [On m'a dit](https://open.spotify.com/album/0BP73xAURu61RwUrQvPyMu) | 3:28 | 2022-06-10 |  |
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-02 | 2022-06-11 |
 | [Parlons de nous](https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Parlons de nous](https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk) | 3:11 | 2021-12-02 |  |
+| [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2022-08-10 |  |
 | [postcard from Paris](https://open.spotify.com/track/08jQ7tWtdGYteyCmzFmv8r) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:04 | 2022-06-10 | 2022-06-18 |
 | [Que tout s'danse](https://open.spotify.com/track/5btPpAAwVyA8bRc3Ol8gqQ) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À nous](https://open.spotify.com/album/2dCJ1XBaEXo7JX38wXFJrm) | 3:34 | 2021-12-02 | 2022-03-25 |
 | [Rayons Gamma](https://open.spotify.com/track/3vk4CWWFlo1UAjCFG6ctZq) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Rayons Gamma](https://open.spotify.com/album/6ehX4nmU1nqwljgu7ZPbbn) | 3:15 | 2022-02-07 | 2022-06-11 |
@@ -74,6 +75,6 @@
 | [Vieux](https://open.spotify.com/track/3PcnIkTtKWGppswX0FErvk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Rendez\-vous](https://open.spotify.com/album/1NKIsDQiGPC5i8hoSYBINC) | 2:56 | 2022-06-10 |  |
 | [Vue sur la mer](https://open.spotify.com/track/6YkaP9iPyhk4tqZ6GcnTuU) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Enfant roi](https://open.spotify.com/album/6zz44IeTCesmYEWHPhMgkI) | 2:34 | 2022-02-07 |  |
 | [Été brûlant](https://open.spotify.com/track/5ZYNSdAGH1znlbUXqt8T84) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x), [Sandra Nicolle](https://open.spotify.com/artist/2zVnYGjWyf1PXEm5kru4Ll) | [Été brûlant](https://open.spotify.com/album/3H7feFG23ok09jr6Mby8MY) | 2:54 | 2022-02-03 | 2022-02-08 |
-| [ᛋ\. INSPIRÉ DE FAITS RÉELS \#4](https://open.spotify.com/track/02PO29J9Hjay8TPbyDskVH) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [ᛋ\. INSPIRÉ DE FAITS RÉELS \#4](https://open.spotify.com/album/027Oju4gY9xUnDqgAdavpT) | 3:12 | 2022-04-14 |  |
+| [ᛋ\. INSPIRÉ DE FAITS RÉELS \#4](https://open.spotify.com/track/02PO29J9Hjay8TPbyDskVH) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [ᛋ\. INSPIRÉ DE FAITS RÉELS \#4](https://open.spotify.com/album/027Oju4gY9xUnDqgAdavpT) | 3:12 | 2022-04-14 | 2022-08-11 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 192920,
+  "num_followers": 192918,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMGJkYTUzZmNjZjU0ZmRiNzdhMTZlYjZhYjRhNTY1Mjhk",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMGU5MzBmNGZhODlmMWJjMjYwMTkwNTY1ZjA1MjZjOTMx",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "WILD LOVE",
-        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "WILD LOVE",
-      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Just Like Heaven",
         "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 336572,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "WILD LOVE",
+        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 167499,
+      "name": "WILD LOVE",
+      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "How Far",
-        "url": "https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy"
-      },
-      "artists": [
-        {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "High Low",
         "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 205328,
       "name": "High Low",
       "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/59IUZfwB5cpxuYHQ9bz37b"
+        "name": "So Alive",
+        "url": "https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm"
       },
       "artists": [
         {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Warriors",
-      "url": "https://open.spotify.com/track/3dTVCb0537sxC1g9bhoFy1"
+      "duration_ms": 178619,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
     }
   ],
   "unique_name": "Pop for Life",

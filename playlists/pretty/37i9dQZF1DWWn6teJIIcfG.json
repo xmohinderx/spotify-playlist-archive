@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 112015,
+  "num_followers": 112249,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDlmMWJkNTQxYzFmOTRlN2QyZmE0NDhlYjQ1ODY2YzIz",
+  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDhkYmEwYzZkNTVhNmQ4NjAzMjc0N2VlMWRmZDYzZTQy",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -499,26 +499,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Consolation No. 3 in D-Flat Major, S. 172",
-      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Purcell / Handel: Theatre Music",
         "url": "https://open.spotify.com/album/5hDM58o2ym0GwqFVOg3FN5"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 85933,
       "name": "King Arthur, Z. 628, \"The British Worthy\": Air",
       "url": "https://open.spotify.com/track/3snc9m6T0b0TuxtSEsmP4U"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Consolation No. 3 in D-Flat Major, S. 172",
+      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+        }
+      ],
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Ravel: Orchestral Works, Vol. 3 \u2013 Orchestrations",
         "url": "https://open.spotify.com/album/4z9LfgCWY61TwlGfTpclne"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 55213,
       "name": "Pictures at an Exhibition (Orch. M. Ravel): Promenade",
       "url": "https://open.spotify.com/track/4JrrAz6CdcawJthf1LdCbE"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
-        }
-      ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -847,6 +847,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Grieg: Peer Gynt, Suite No. 1, Op. 46 / Suite No. 2, Op. 55 / Holberg Suite, Op. 40",
         "url": "https://open.spotify.com/album/77MuBVRR2QtTckEV4EluCQ"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 202240,
       "name": "Peer Gynt-Suite Nr. 1, Op. 46: III. Anitra's Dance",
       "url": "https://open.spotify.com/track/5ebC5YZw56vrVIkIbkbNvP"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
-        }
-      ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1215,6 +1215,30 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Albinoni: Concerti con oboe",
+        "url": "https://open.spotify.com/album/797IjJEv8C7EmawSFfgTqH"
+      },
+      "artists": [
+        {
+          "name": "Tomaso Albinoni",
+          "url": "https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq"
+        },
+        {
+          "name": "Paul Dombrecht",
+          "url": "https://open.spotify.com/artist/6LkaOkgpoXG7uAdOdMycek"
+        },
+        {
+          "name": "Il Fondamento",
+          "url": "https://open.spotify.com/artist/7iHZBMCzbCoiG7CUZQvfHN"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Concerto a cinque No. 2, Op. 9: I. Allegro e no presto",
+      "url": "https://open.spotify.com/track/0Ouz5wpLFbtXjAdxLRydQq"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
         "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
@@ -1243,30 +1267,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Albinoni: Concerti con oboe",
-        "url": "https://open.spotify.com/album/797IjJEv8C7EmawSFfgTqH"
-      },
-      "artists": [
-        {
-          "name": "Tomaso Albinoni",
-          "url": "https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq"
-        },
-        {
-          "name": "Paul Dombrecht",
-          "url": "https://open.spotify.com/artist/6LkaOkgpoXG7uAdOdMycek"
-        },
-        {
-          "name": "Il Fondamento",
-          "url": "https://open.spotify.com/artist/7iHZBMCzbCoiG7CUZQvfHN"
-        }
-      ],
-      "duration_ms": 234346,
-      "name": "Concerto a cinque No. 2, Op. 9: I. Allegro e no presto",
-      "url": "https://open.spotify.com/track/0Ouz5wpLFbtXjAdxLRydQq"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "The Flemish Piano Sonatina in the 20th Century",
         "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
       },
@@ -1283,6 +1283,26 @@
       "duration_ms": 112000,
       "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
       "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Works for Solo Piano",
+        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
+      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1311,26 +1331,6 @@
       "duration_ms": 275680,
       "name": "Pavane, Op. 50",
       "url": "https://open.spotify.com/track/2oqgnxjyNYItifLYl9MzaW"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Debussy: Images Books 1 & 2/Arabesques/R\u00eaverie etc.",
-        "url": "https://open.spotify.com/album/02JTufCkm8BKjqwHVDlvJr"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Zolt\u00e1n Kocsis",
-          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Deux Arabesques L. 66: No. 1 Andante con moto",
-      "url": "https://open.spotify.com/track/5eRfljNo9nICHm8i77T1rA"
     },
     {
       "added_at": "2022-07-29 13:33:43",

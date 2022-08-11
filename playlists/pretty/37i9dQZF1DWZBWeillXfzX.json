@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 12970,
+  "num_followers": 12980,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDY3NTM5YzU5ZjA0ZjQ0MWExYWVjMzEzNDQ5ZDRiMjg0",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDJmMzM3M2U4NTQ1Yjc3YWQzMGQ4MDliNzU1MjgyYjA0",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -331,6 +331,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Threw Me to the Wolves (Revisited)",
+        "url": "https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6"
+      },
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+        }
+      ],
+      "duration_ms": 232088,
+      "name": "Threw Me to the Wolves",
+      "url": "https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Ashes & Dust",
         "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 446346,
       "name": "Coal Tattoo",
       "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Threw Me to the Wolves (Revisited)",
-        "url": "https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6"
-      },
-      "artists": [
-        {
-          "name": "Jared James Nichols",
-          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
-        }
-      ],
-      "duration_ms": 232088,
-      "name": "Threw Me to the Wolves",
-      "url": "https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu"
     },
     {
       "added_at": "2020-10-21 17:37:12",

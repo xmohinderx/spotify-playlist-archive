@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Richie Campbell",
-  "num_followers": 16223,
+  "num_followers": 16245,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMDZjOWQwMDEwMmNkZDg5ZmNjNzI0NmM4MWJkMTY0MThh",
+  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMDI4OTI0MzQ5MjJkYzkzNTE5YWVlMmE1ODcyMzE2MmJm",
   "tracks": [
     {
       "added_at": "2022-08-04 23:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Teu Eternamente",
+      "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
         "name": "That's Me",
         "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Teu Eternamente",
-      "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/6rw2SnFtTME10y7rwVfszh"
+        "name": "Say Yeah",
+        "url": "https://open.spotify.com/album/2lAGHS6egl953MXfBMYUid"
       },
       "artists": [
         {
-          "name": "D\u00b4Lucca",
-          "url": "https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x"
+          "name": "Dilson",
+          "url": "https://open.spotify.com/artist/23ghAzuoE80qxROFQQ1twm"
+        },
+        {
+          "name": "MDO (Menino de Ouro)",
+          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
         }
       ],
-      "duration_ms": 159250,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/5zLtHIHaJ4O1EVVl76xvJi"
+      "duration_ms": 170666,
+      "name": "Say Yeah",
+      "url": "https://open.spotify.com/track/1ctGMBEia7oXjiIwceNT9m"
     }
   ],
   "unique_name": "Seda",

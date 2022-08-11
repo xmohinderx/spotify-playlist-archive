@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 178173,
       "name": "Corrido de la Hermana",
       "url": "https://open.spotify.com/track/5X9rrWWiacx19R8iIovft7"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 178000,
       "name": "Ella",
       "url": "https://open.spotify.com/track/2h2sz7i4jjDagK6GFyE6sS"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 174493,
       "name": "Esta tristeza m\u00eda",
       "url": "https://open.spotify.com/track/1OR4HEV1aNbxJiEZuGUd3H"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 174866,
       "name": "Gracias mujer",
       "url": "https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica"
@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "La reina de las bandas Vol. II",
+        "url": "https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167120,
+      "name": "Le\u00f1a de pirul",
+      "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
+    },
+    {
+      "album": {
         "name": "16 Reales hits",
         "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
       },
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 167120,
       "name": "Le\u00f1a de pirul",
       "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 216306,
       "name": "Mi guitarra y yo",
       "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 185866,
       "name": "Si la miro ma\u00f1ana",
       "url": "https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9"

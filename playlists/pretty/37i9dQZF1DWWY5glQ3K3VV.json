@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove",
-  "num_followers": 56469,
+  "num_followers": 56599,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDM5ZDZlY2IwMDIzNTkzYTIzZjhkMTEyZjkyZjBjOWRk",
+  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMGIxNTdhZWI0MGZmNDg2OGQyYzMxNjExNTAzNTE4MDNh",
   "tracks": [
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "C'EST PAS FACIL",
+      "url": "https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
         "name": "Scialla Semper (Emodrill Repack)",
         "url": "https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 249303,
       "name": "Polo nord - C+N Progressive Mix",
       "url": "https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Dystopic",
-          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "C'EST PAS FACIL",
-      "url": "https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ"
     },
     {
       "added_at": "2022-08-04 22:01:00",

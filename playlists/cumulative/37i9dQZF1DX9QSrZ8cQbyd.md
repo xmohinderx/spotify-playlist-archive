@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9QSrZ8cQbyd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9QSrZ8cQbyd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9QSrZ8cQbyd)
 
-### [Lullabells](https://open.spotify.com/playlist/37i9dQZF1DX9QSrZ8cQbyd)
+### [Baby Bells for Sleep](https://open.spotify.com/playlist/37i9dQZF1DX9QSrZ8cQbyd)
 
 > Glockenspiel lullabies for your baby to fall asleep.
 

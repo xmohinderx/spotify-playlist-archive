@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 113521,
+  "num_followers": 113572,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGI2ZTkzNTdjYTcyYjUxN2MzNmZkNTRjYWYyY2QwMjgx",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDk3YzAwYWEzMmMwMmZkNGFmNzI5YTBkMjA2OGVkOWYy",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 400760,
-      "name": "I Can't Quit You, Baby",
-      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "Whose Muddy Shoes",
@@ -327,6 +311,22 @@
       "duration_ms": 142813,
       "name": "Madison Blues",
       "url": "https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 400760,
+      "name": "I Can't Quit You, Baby",
+      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -395,22 +395,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Shake My Hand",
-        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
-      },
-      "artists": [
-        {
-          "name": "Snooky Pryor",
-          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Work With Me Annie",
-      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Living Chicago Blues, Vol. 1",
         "url": "https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 222893,
       "name": "Sittin' On Top Of The World",
       "url": "https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Shake My Hand",
+        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
+      },
+      "artists": [
+        {
+          "name": "Snooky Pryor",
+          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Work With Me Annie",
+      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
     },
     {
       "added_at": "2018-02-27 18:08:29",

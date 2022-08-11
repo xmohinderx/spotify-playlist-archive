@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 263958,
+  "num_followers": 264079,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQ3OTgwMSwwMDAwMDAwMGRjNDg4ZmNlNmQ4ODZmYWIwNjU1NzYzNmRlYzBmOTZh",
+  "snapshot_id": "MTY1NTQ3OTgwMSwwMDAwMDAwMDdiNWViOGViNjJhYzg0NTc4ZjNhZDM5ZmI3Y2YxYWFh",
   "tracks": [
     {
       "added_at": "2022-06-17 15:30:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
-        "name": "The K\u00e1rm\u00e1n Line",
-        "url": "https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 203657,
-      "name": "The K\u00e1rm\u00e1n Line",
-      "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
-    },
-    {
-      "added_at": "2022-06-17 15:30:00",
-      "album": {
         "name": "No Goodbye",
         "url": "https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2"
       },
@@ -487,22 +471,34 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
-        "name": "5 Seconds Before Sunrise",
-        "url": "https://open.spotify.com/album/1K2ATTJF7dA45WWBAHs4md"
+        "name": "The K\u00e1rm\u00e1n Line",
+        "url": "https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi"
       },
       "artists": [
         {
-          "name": "VER:WEST",
-          "url": "https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 275437,
-      "name": "5 Seconds Before Sunrise",
-      "url": "https://open.spotify.com/track/0hz9lCgIKOtZthsP2JTPAL"
+      "duration_ms": 203657,
+      "name": "The K\u00e1rm\u00e1n Line",
+      "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
+    },
+    {
+      "added_at": "2022-06-17 15:30:00",
+      "album": {
+        "name": "Wellenl\u00e4nge",
+        "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Wellenl\u00e4nge",
+      "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
     },
     {
       "added_at": "2022-06-17 15:30:00",
@@ -543,18 +539,22 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
-        "name": "Wellenl\u00e4nge",
-        "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
+        "name": "5 Seconds Before Sunrise",
+        "url": "https://open.spotify.com/album/1K2ATTJF7dA45WWBAHs4md"
       },
       "artists": [
         {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+          "name": "VER:WEST",
+          "url": "https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Wellenl\u00e4nge",
-      "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
+      "duration_ms": 275437,
+      "name": "5 Seconds Before Sunrise",
+      "url": "https://open.spotify.com/track/0hz9lCgIKOtZthsP2JTPAL"
     },
     {
       "added_at": "2022-06-17 15:30:00",
@@ -579,22 +579,18 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
-        "name": "High On Beat",
-        "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
       },
       "artists": [
         {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Bloom Twins",
-          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
         }
       ],
-      "duration_ms": 206223,
-      "name": "High On Beat",
-      "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2022-06-17 15:30:00",
@@ -615,18 +611,22 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+        "name": "High On Beat",
+        "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
       },
       "artists": [
         {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Bloom Twins",
+          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
         }
       ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
+      "duration_ms": 206223,
+      "name": "High On Beat",
+      "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
     },
     {
       "added_at": "2022-06-17 15:30:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
+        "name": "Quarantine",
+        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
+      },
+      "artists": [
+        {
+          "name": "Ante Perry",
+          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
+        }
+      ],
+      "duration_ms": 333223,
+      "name": "Quarantine - Original",
+      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
+    },
+    {
+      "added_at": "2022-06-17 15:30:00",
+      "album": {
         "name": "HAYII",
         "url": "https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 459661,
       "name": "HAYII",
       "url": "https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI"
-    },
-    {
-      "added_at": "2022-06-17 15:30:00",
-      "album": {
-        "name": "Quarantine",
-        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
-      },
-      "artists": [
-        {
-          "name": "Ante Perry",
-          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
-        }
-      ],
-      "duration_ms": 333223,
-      "name": "Quarantine - Original",
-      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
     },
     {
       "added_at": "2022-06-17 15:30:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
-        "name": "Made of Wood",
-        "url": "https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 390371,
-      "name": "La Veleta",
-      "url": "https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY"
-    },
-    {
-      "added_at": "2022-06-17 15:30:00",
-      "album": {
         "name": "Don't Go Asking",
         "url": "https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 197796,
       "name": "Don't Go Asking - Radio Edit",
       "url": "https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb"
+    },
+    {
+      "added_at": "2022-06-17 15:30:00",
+      "album": {
+        "name": "Made of Wood",
+        "url": "https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 390371,
+      "name": "La Veleta",
+      "url": "https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY"
     },
     {
       "added_at": "2022-06-17 15:30:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 352240,
+      "name": "Love We Found",
+      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
+    },
+    {
+      "added_at": "2022-06-17 15:30:00",
+      "album": {
         "name": "Wolfgang",
         "url": "https://open.spotify.com/album/3MqKJtMkjaIei2hB87qV7C"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 460000,
       "name": "Wolfgang",
       "url": "https://open.spotify.com/track/7fKQzhjitdrzOeJh43aydQ"
-    },
-    {
-      "added_at": "2022-06-17 15:30:00",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 352240,
-      "name": "Love We Found",
-      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
     },
     {
       "added_at": "2022-06-17 15:30:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/1xUg5I48NFmsizQGSNrcsP"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 184860,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/7hYT9hqQWoqV2FsCnd3eOX"
-    },
-    {
-      "added_at": "2022-06-17 15:30:00",
-      "album": {
         "name": "Sky Is the Limit",
         "url": "https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby"
       },
@@ -1263,18 +1247,34 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
-        "name": "Silence & Secrets",
-        "url": "https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/1xUg5I48NFmsizQGSNrcsP"
       },
       "artists": [
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
         }
       ],
-      "duration_ms": 268434,
-      "name": "Silence & Secrets",
-      "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
+      "duration_ms": 184860,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/7hYT9hqQWoqV2FsCnd3eOX"
+    },
+    {
+      "added_at": "2022-06-17 15:30:00",
+      "album": {
+        "name": "AvA",
+        "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
+      },
+      "artists": [
+        {
+          "name": "Amy Root",
+          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "AvA",
+      "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
     }
   ],
   "unique_name": "Afterhours",

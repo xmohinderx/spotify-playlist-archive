@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 841079,
+  "num_followers": 841433,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk1MDE3OSwwMDAwMDAwMGUxZmNhOTQ3ZWFlZjY2YjRmMWE1YzMxOGIxOTBiY2Fm",
+  "snapshot_id": "MTY1OTk1MDE3OSwwMDAwMDAwMDJmMzMwZGU3ZTc2Zjc1NmJlMmQwZGM5NDZkMDM1ZTI4",
   "tracks": [
     {
       "added_at": "2022-06-01 09:47:30",
@@ -257,22 +257,6 @@
       "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
       "added_at": "2019-08-02 12:07:51",
       "album": {
         "name": "Points On The Curve",
@@ -287,6 +271,22 @@
       "duration_ms": 240800,
       "name": "Dance Hall Days",
       "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2019-08-01 09:50:38",
@@ -499,22 +499,6 @@
     {
       "added_at": "2019-08-02 12:01:33",
       "album": {
-        "name": "Document - 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "The One I Love - Remastered 2012",
-      "url": "https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd"
-    },
-    {
-      "added_at": "2019-08-02 12:01:33",
-      "album": {
         "name": "This Is the Sea (Deluxe Version)",
         "url": "https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 302826,
       "name": "The Whole of the Moon - 2004 Remaster",
       "url": "https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl"
+    },
+    {
+      "added_at": "2019-08-02 12:01:33",
+      "album": {
+        "name": "Document - 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "The One I Love - Remastered 2012",
+      "url": "https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -939,6 +939,22 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
         "name": "Replicas",
         "url": "https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 239280,
       "name": "Eighties - 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Orchestral Manoeuvres In The Dark (Remastered 2003)",
         "url": "https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 219066,
       "name": "Electricity - Remastered 2003",
       "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Our Favourite Shop",
-        "url": "https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa"
-      },
-      "artists": [
-        {
-          "name": "The Style Council",
-          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Walls Come Tumbling Down",
-      "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 151693,
       "name": "Crash",
       "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Our Favourite Shop",
+        "url": "https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa"
+      },
+      "artists": [
+        {
+          "name": "The Style Council",
+          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Walls Come Tumbling Down",
+      "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2025,22 +2025,6 @@
       "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Thirty Thousand Feet Over China",
-        "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
-      },
-      "artists": [
-        {
-          "name": "The Passions",
-          "url": "https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "I'm In Love With A German Film Star",
-      "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
-    },
-    {
       "added_at": "2020-05-06 11:30:43",
       "album": {
         "name": "Chris Isaak",
@@ -2055,6 +2039,22 @@
       "duration_ms": 253906,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D"
+    },
+    {
+      "added_at": "2020-01-07 15:15:52",
+      "album": {
+        "name": "Lifes Rich Pageant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "Fall On Me - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
+        "name": "Thirty Thousand Feet Over China",
+        "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
+      },
+      "artists": [
+        {
+          "name": "The Passions",
+          "url": "https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3"
+        }
+      ],
+      "duration_ms": 241320,
+      "name": "I'm In Love With A German Film Star",
+      "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
         "name": "Steve McQueen",
         "url": "https://open.spotify.com/album/07CZepJZT17AllXPFRvogL"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 245906,
       "name": "When Love Breaks Down - 2007 Remastered Version",
       "url": "https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW"
-    },
-    {
-      "added_at": "2020-01-07 15:15:52",
-      "album": {
-        "name": "Lifes Rich Pageant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Fall On Me - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
     },
     {
       "added_at": "2018-12-18 07:25:29",
@@ -2317,38 +2317,6 @@
       "url": "https://open.spotify.com/track/2t8GBp5kQEXVamVq4Odwe2"
     },
     {
-      "added_at": "2021-10-17 09:47:36",
-      "album": {
-        "name": "Major Tom",
-        "url": "https://open.spotify.com/album/5lmdOsyfRU4v6FLXtUcqdU"
-      },
-      "artists": [
-        {
-          "name": "Peter Schilling",
-          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
-        }
-      ],
-      "duration_ms": 273750,
-      "name": "Major Tom",
-      "url": "https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "From The Lion's Mouth",
-        "url": "https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI"
-      },
-      "artists": [
-        {
-          "name": "The Sound",
-          "url": "https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz"
-        }
-      ],
-      "duration_ms": 258079,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2"
-    },
-    {
       "added_at": "2019-08-01 09:50:38",
       "album": {
         "name": "Lion and the Cobra",
@@ -2379,6 +2347,38 @@
       "duration_ms": 171506,
       "name": "Our Lips Are Sealed",
       "url": "https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye"
+    },
+    {
+      "added_at": "2021-10-17 09:47:36",
+      "album": {
+        "name": "Major Tom",
+        "url": "https://open.spotify.com/album/5lmdOsyfRU4v6FLXtUcqdU"
+      },
+      "artists": [
+        {
+          "name": "Peter Schilling",
+          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+        }
+      ],
+      "duration_ms": 273750,
+      "name": "Major Tom",
+      "url": "https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "From The Lion's Mouth",
+        "url": "https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI"
+      },
+      "artists": [
+        {
+          "name": "The Sound",
+          "url": "https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz"
+        }
+      ],
+      "duration_ms": 258079,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2"
     },
     {
       "added_at": "2018-12-12 10:56:53",

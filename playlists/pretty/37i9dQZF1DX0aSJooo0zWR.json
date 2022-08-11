@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 157992,
+  "num_followers": 158039,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDUwZmZkMmJjYTc5MTJlMzE5ZWMzMGJiOGRkNjNkOTNj",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDgxOWViMGI2ODc4ZTU4OTNhMDA5MGEzOTc5NzY0MGE3",
   "tracks": [
     {
       "added_at": "2022-06-10 04:02:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Black Market",
-        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
-      },
-      "artists": [
-        {
-          "name": "Weather Report",
-          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
-        }
-      ],
-      "duration_ms": 390640,
-      "name": "Black Market",
-      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Tore Down House",
         "url": "https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 352466,
       "name": "Dolemite",
       "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Black Market",
+        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
+      },
+      "artists": [
+        {
+          "name": "Weather Report",
+          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+        }
+      ],
+      "duration_ms": 390640,
+      "name": "Black Market",
+      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Wired",
-        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 354053,
-      "name": "Blue Wind",
-      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Master Strokes 1978-1985",
         "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 214333,
       "name": "Hell's Bells",
       "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 354053,
+      "name": "Blue Wind",
+      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -701,26 +701,6 @@
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
     },
     {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Funkdombe - edit",
-        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
-      },
-      "artists": [
-        {
-          "name": "Hector Bingert",
-          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 230374,
-      "name": "Funkdombe - edit",
-      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Jackets XL",
@@ -767,6 +747,26 @@
       "duration_ms": 145643,
       "name": "The New Heritage",
       "url": "https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr"
+    },
+    {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Funkdombe - edit",
+        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
+      },
+      "artists": [
+        {
+          "name": "Hector Bingert",
+          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 230374,
+      "name": "Funkdombe - edit",
+      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
     },
     {
       "added_at": "2021-10-29 04:02:00",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
     },
     {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "FLY! FLY! FLY!",
+        "url": "https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH"
+      },
+      "artists": [
+        {
+          "name": "T-SQUARE",
+          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Growing Up!",
+      "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
+    },
+    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Eastern Kaleidoscope",
@@ -1267,22 +1283,6 @@
       "duration_ms": 384356,
       "name": "Eastern Kaleidoscope",
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "FLY! FLY! FLY!",
-        "url": "https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH"
-      },
-      "artists": [
-        {
-          "name": "T-SQUARE",
-          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Growing Up!",
-      "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1413,42 +1413,6 @@
       "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "NIKARA presents Black Wall Street",
-        "url": "https://open.spotify.com/album/1ajCBcWKmPE52w4d0h0AhL"
-      },
-      "artists": [
-        {
-          "name": "NIKARA presents Black Wall Street",
-          "url": "https://open.spotify.com/artist/3aKINS5KI279EKkNpHcMng"
-        },
-        {
-          "name": "Kenny Barron",
-          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
-        }
-      ],
-      "duration_ms": 366236,
-      "name": "Heather Grey (BK Gritty)",
-      "url": "https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Hunting Heads",
-        "url": "https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        }
-      ],
-      "duration_ms": 422882,
-      "name": "Hunting Heads",
-      "url": "https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH"
-    },
-    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "TB",
@@ -1475,6 +1439,42 @@
       "duration_ms": 292899,
       "name": "TB",
       "url": "https://open.spotify.com/track/3hPVtMhgSYWioG9Q8ikl4N"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "Hunting Heads",
+        "url": "https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        }
+      ],
+      "duration_ms": 422882,
+      "name": "Hunting Heads",
+      "url": "https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "NIKARA presents Black Wall Street",
+        "url": "https://open.spotify.com/album/1ajCBcWKmPE52w4d0h0AhL"
+      },
+      "artists": [
+        {
+          "name": "NIKARA presents Black Wall Street",
+          "url": "https://open.spotify.com/artist/3aKINS5KI279EKkNpHcMng"
+        },
+        {
+          "name": "Kenny Barron",
+          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+        }
+      ],
+      "duration_ms": 366236,
+      "name": "Heather Grey (BK Gritty)",
+      "url": "https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ"
     }
   ],
   "unique_name": "Fusion Fest",

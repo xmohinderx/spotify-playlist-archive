@@ -1,13 +1,69 @@
 {
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u83c5\u539f\u572d",
-  "num_followers": 52147,
+  "num_followers": 52196,
   "original_name": "RADAR: Early Noise ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA1NzIwMCwwMDAwMDAwMDJmODg2NTU5YmI4MDU2ODRiNGYzMzNlMmQwNTY5MWQ2",
+  "snapshot_id": "MTY2MDA1NzIwMCwwMDAwMDAwMGYwZmFmNTVmNTNiYmJhYjE2ODIxZmEyZGJmYzIwMTE3",
   "tracks": [
+    {
+      "added_at": "2022-08-09 15:00:00",
+      "album": {
+        "name": "Blank",
+        "url": "https://open.spotify.com/album/5KKgfaPcmsuYRSbS1YmuvM"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        },
+        {
+          "name": "mao sasagawa",
+          "url": "https://open.spotify.com/artist/4ZqPdBTOiHdOUnv40Wqpy8"
+        }
+      ],
+      "duration_ms": 210243,
+      "name": "Blank",
+      "url": "https://open.spotify.com/track/4b0RQRCxvOa7qifoVPZ7NM"
+    },
+    {
+      "added_at": "2022-08-09 15:00:00",
+      "album": {
+        "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
+    },
+    {
+      "added_at": "2022-08-09 15:00:00",
+      "album": {
+        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 249254,
+      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+    },
     {
       "added_at": "2022-08-09 15:00:00",
       "album": {
@@ -171,6 +227,26 @@
     {
       "added_at": "2022-08-09 15:00:00",
       "album": {
+        "name": "signal",
+        "url": "https://open.spotify.com/album/0kT3niMIXUSdbzd7dLDO81"
+      },
+      "artists": [
+        {
+          "name": "AKIRA",
+          "url": "https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv"
+        },
+        {
+          "name": "SPENSR",
+          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
+        }
+      ],
+      "duration_ms": 219767,
+      "name": "signal",
+      "url": "https://open.spotify.com/track/5SAVeDv2tKYyfPm7NJ6zTr"
+    },
+    {
+      "added_at": "2022-08-09 15:00:00",
+      "album": {
         "name": "Chilli Beans.",
         "url": "https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O"
       },
@@ -271,6 +347,58 @@
       "duration_ms": 259760,
       "name": "Drippin' Desert",
       "url": "https://open.spotify.com/track/3oIRoQoLagPUYw3JcvuVeq"
+    },
+    {
+      "added_at": "2022-08-09 15:00:00",
+      "album": {
+        "name": "Pixel",
+        "url": "https://open.spotify.com/album/51Y53YMSaFCzxF6qEXkye9"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "\u8594\u8587\u8272\u306e\u591c",
+      "url": "https://open.spotify.com/track/5WvKQIdlbRHugb1QJNu4Ee"
+    },
+    {
+      "added_at": "2022-08-09 15:00:00",
+      "album": {
+        "name": "\u51b7\u3084\u3057\u30cd\u30ae\u854e\u9ea6 - Hikaru Arata Remix",
+        "url": "https://open.spotify.com/album/14yU1vwz25pnmQOBJWqJLZ"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        },
+        {
+          "name": "\u8352\u7530 \u6d38",
+          "url": "https://open.spotify.com/artist/5XIm5lvQ9sl3aZ9RuvZT2q"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "\u51b7\u3084\u3057\u30cd\u30ae\u854e\u9ea6 - Hikaru Arata Remix",
+      "url": "https://open.spotify.com/track/0d36v6tmmUuB9rfd27exK2"
+    },
+    {
+      "added_at": "2022-08-09 15:00:00",
+      "album": {
+        "name": "\u30b8\u30e3\u30b9\u30b3\u3001\u4e0a\u91ce",
+        "url": "https://open.spotify.com/album/5qYVPh95Bowgs3FMPV7W1s"
+      },
+      "artists": [
+        {
+          "name": "peanut butters",
+          "url": "https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP"
+        }
+      ],
+      "duration_ms": 233180,
+      "name": "\u30b8\u30e3\u30b9\u30b3\u3001\u4e0a\u91ce",
+      "url": "https://open.spotify.com/track/3qzlu7OhkK34jzXRJE1c61"
     },
     {
       "added_at": "2022-08-09 15:00:00",
@@ -631,6 +759,22 @@
       "duration_ms": 372248,
       "name": "Katte ni Shiyagare!",
       "url": "https://open.spotify.com/track/6oflgnyu1822rgT6HxE6WC"
+    },
+    {
+      "added_at": "2022-08-09 15:00:00",
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/1ZaoC8yEo6VQKh7eg8dizY"
+      },
+      "artists": [
+        {
+          "name": "AFTER SQUALL",
+          "url": "https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns"
+        }
+      ],
+      "duration_ms": 171532,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/7maRip4c5N18iAfzjf2u5j"
     },
     {
       "added_at": "2022-08-09 15:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 398025,
+  "num_followers": 398039,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDM1NzA3MzczMzJiNmM1ZGUyNjZhZTMyZWI0YjQ0OWZj",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDE3MjJkMjZhOTEzMDEyYzVkNWI1MjQ1YTdjNjdiYjlj",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Out Of Time (Remix Bundle)",
-        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "Out of Time - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "You're Free",
         "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 167298,
       "name": "You're Free",
       "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Out Of Time (Remix Bundle)",
+        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 275555,
+      "name": "Out of Time - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "The Funk",
+        "url": "https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj"
+      },
+      "artists": [
+        {
+          "name": "TIEKS",
+          "url": "https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 172863,
+      "name": "The Funk",
+      "url": "https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Let Somebody Go (Ofenbach Remix)",
         "url": "https://open.spotify.com/album/7lbSZjlBsWuXtR3WqsdOSN"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 194487,
       "name": "Let Somebody Go - Ofenbach Remix",
       "url": "https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "The Funk",
-        "url": "https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj"
-      },
-      "artists": [
-        {
-          "name": "TIEKS",
-          "url": "https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 172863,
-      "name": "The Funk",
-      "url": "https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk"
     }
   ],
   "unique_name": "Summer Hits (2)",

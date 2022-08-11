@@ -4,11 +4,13 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-72 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
+75 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 | 2022-05-13 |  |
+| [Baagh](https://open.spotify.com/track/55OXtWmZJuNMoy1MSKsGsj) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Baagh](https://open.spotify.com/album/0G74nAuIStkxncdtQL3tnN) | 3:23 | 2022-08-10 |  |
+| [Bansuri Heaven](https://open.spotify.com/track/6fdGoJ7yoQFuhUzQrIilwt) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Curing Rhythms](https://open.spotify.com/album/529HbjzW3Tr01wmu7dginb) | 4:02 | 2022-08-10 |  |
 | [Barsaa Paani](https://open.spotify.com/track/6y5EJ69G3DZmM1lzWMuxA4) | [Kapila Upsani](https://open.spotify.com/artist/1I8JjaC5qvXYmY4vRT3x1W) | [Chote Hiran](https://open.spotify.com/album/5Ks9dlzmU0BGfoqZYDP7gc) | 5:00 | 2022-05-13 |  |
 | [Beyond sand](https://open.spotify.com/track/6acWuuAAdgHHOFc30KHURk) | [Tetouze](https://open.spotify.com/artist/4L2vZe0dcqomV8OAhWNmQy), [Jehanne Drai](https://open.spotify.com/artist/0GCwjBKMBF9vSKb8YbxkmF) | [Beyond sand](https://open.spotify.com/album/1U5sg1ejtfqOh4FAEzmODB) | 7:18 | 2022-05-13 |  |
 | [Blossom](https://open.spotify.com/track/3NDKacIupHEbaXig16Rd96) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Blossom](https://open.spotify.com/album/7ICFrUMGEsDYWx3XehREpH) | 3:21 | 2022-05-13 |  |
@@ -26,6 +28,7 @@
 | [Golden Night](https://open.spotify.com/track/6mJfau3oJvpYztXxW1fxKi) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Raat ki Hawa](https://open.spotify.com/album/2M9KRROg3X52wfBWWDlkmu) | 3:18 | 2022-05-13 |  |
 | [Hansadhwani Flute Meditation](https://open.spotify.com/track/4BWaGsqpk4J1BtF8yCdQgH) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Hansadhwani Flute Meditation](https://open.spotify.com/album/2LtYdTh9JEqYk1QJ6E6JEp) | 2:37 | 2022-05-13 |  |
 | [Healing State \(528 Hz\)](https://open.spotify.com/track/1sW6M4j9gYX3OaJQFPVtIA) | [Modern Headspace](https://open.spotify.com/artist/1R9pWwzgOIsl5XMI4WCBRH) | [Healing State \(528 Hz\)](https://open.spotify.com/album/0cOMbJ1RBe4rhgwFkxnnDt) | 5:07 | 2022-05-13 |  |
+| [Himalaya](https://open.spotify.com/track/5bx1gFT0aKeBgKnDSEzvwo) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Himalaya](https://open.spotify.com/album/7aL5MzV1V51hQ7lNdNBRXj) | 3:34 | 2022-08-10 |  |
 | [indriya](https://open.spotify.com/track/2kW2cm8R1FEukN8K2WMtiu) | [Dhani Bhagat](https://open.spotify.com/artist/4nJNF3n7utXCdvAJyEsPy6) | [phir milenge](https://open.spotify.com/album/5cIVE1dbRd4usP53KZYABL) | 3:20 | 2022-07-14 |  |
 | [Jijivisha](https://open.spotify.com/track/4zBb2qVZPBPIGHyVgigcgX) | [Nima Aurora](https://open.spotify.com/artist/1UQGA6jKplD3UepAJH3W0o) | [Jijivisha](https://open.spotify.com/album/57GQpNtXgfP9I0cezGPr0o) | 3:42 | 2022-07-14 |  |
 | [Journey to Sedna](https://open.spotify.com/track/0UgTFuBrddYbJ1eqxS1pQw) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3b0HAeRSfhgtVaa3KO7KB5) | 4:41 | 2022-07-14 |  |

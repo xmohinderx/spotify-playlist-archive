@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1008041,
+  "num_followers": 1008346,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMDZiNzBiZGNlY2NiMjI2N2EyNTc1ZTYyN2YyZDhkMTdm",
+  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMDk0MzkxMjNmYWY1YTMxMTUxMGY3NDBkYWRkY2FiZWRi",
   "tracks": [
     {
       "added_at": "2022-07-28 22:00:00",
@@ -451,6 +451,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Donny In Valdez (PJ's Flip)",
+        "url": "https://open.spotify.com/album/3FIC8oblGMKDC7Y3nLPA4Z"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 113747,
+      "name": "Donny In Valdez - PJ's Flip",
+      "url": "https://open.spotify.com/track/2GDzymJClRxEhhDYGwQZz6"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
         "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 258933,
       "name": "Doin' Our Own Dang",
       "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Donny In Valdez (PJ's Flip)",
-        "url": "https://open.spotify.com/album/3FIC8oblGMKDC7Y3nLPA4Z"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 113747,
-      "name": "Donny In Valdez - PJ's Flip",
-      "url": "https://open.spotify.com/track/2GDzymJClRxEhhDYGwQZz6"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/6wHtvk49fos5YKb0Q9eEsV"
-      },
-      "artists": [
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
-        },
-        {
-          "name": "Abhi The Nomad",
-          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
-        }
-      ],
-      "duration_ms": 211384,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/3RcVlasiiuUSF9cQWDtPAA"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "You Don\u2019t Know",
         "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
@@ -1279,22 +1259,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Talk About Us",
-        "url": "https://open.spotify.com/album/3CzmXTz41QqnmC9xWE6QeC"
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/6wHtvk49fos5YKb0Q9eEsV"
       },
       "artists": [
         {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
         },
         {
-          "name": "Ady Suleiman",
-          "url": "https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88"
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
         }
       ],
-      "duration_ms": 195821,
-      "name": "Talk About Us",
-      "url": "https://open.spotify.com/track/5zEOSknIlvu5qsOXIuNKxE"
+      "duration_ms": 211384,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/3RcVlasiiuUSF9cQWDtPAA"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1315,6 +1295,26 @@
       "duration_ms": 171061,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/4GODOFCGfppXsod6Jogh5R"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Talk About Us",
+        "url": "https://open.spotify.com/album/3CzmXTz41QqnmC9xWE6QeC"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        },
+        {
+          "name": "Ady Suleiman",
+          "url": "https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88"
+        }
+      ],
+      "duration_ms": 195821,
+      "name": "Talk About Us",
+      "url": "https://open.spotify.com/track/5zEOSknIlvu5qsOXIuNKxE"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Fonografie",
-        "url": "https://open.spotify.com/album/0RnwCZYkpbdVnodYGVYY7T"
-      },
-      "artists": [
-        {
-          "name": "Koralle",
-          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
-        },
-        {
-          "name": "Isatta Sheriff",
-          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Laid Back",
-      "url": "https://open.spotify.com/track/4ol5yijURde62kN9JOV35E"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Rosy Lee",
         "url": "https://open.spotify.com/album/55yMb48WHIzbK1CG63qG0L"
       },
@@ -1475,6 +1455,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Fonografie",
+        "url": "https://open.spotify.com/album/0RnwCZYkpbdVnodYGVYY7T"
+      },
+      "artists": [
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "Isatta Sheriff",
+          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Laid Back",
+      "url": "https://open.spotify.com/track/4ol5yijURde62kN9JOV35E"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "New Day (feat. Illa J)",
         "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
       },
@@ -1495,22 +1495,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+        "name": "Head Highs",
+        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
       },
       "artists": [
         {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
         },
         {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+          "name": "jarjarjr",
+          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
         }
       ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+      "duration_ms": 155346,
+      "name": "Head Highs",
+      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1535,6 +1535,26 @@
       "duration_ms": 153750,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+      },
+      "artists": [
+        {
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
+        {
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+        }
+      ],
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1599,26 +1619,6 @@
       "duration_ms": 187175,
       "name": "Shine Thru",
       "url": "https://open.spotify.com/track/4QXkUqCzWJMU9znu821Kky"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Head Highs",
-        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
-      },
-      "artists": [
-        {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        },
-        {
-          "name": "jarjarjr",
-          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
-        }
-      ],
-      "duration_ms": 155346,
-      "name": "Head Highs",
-      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1691,6 +1691,30 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/2Esry53MOhCSaf5jOOcF4P"
+      },
+      "artists": [
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "Ezzy",
+          "url": "https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu"
+        },
+        {
+          "name": "Michael Christmas",
+          "url": "https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp"
+        }
+      ],
+      "duration_ms": 126839,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/7i1mHHP4XpCjBM7VHx7g7U"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Osmosis (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3SijTYVL4RJqAPvff3ZXZH"
       },
@@ -1731,30 +1755,6 @@
       "duration_ms": 334374,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/2Esry53MOhCSaf5jOOcF4P"
-      },
-      "artists": [
-        {
-          "name": "Kyle McEvoy",
-          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
-        },
-        {
-          "name": "Ezzy",
-          "url": "https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu"
-        },
-        {
-          "name": "Michael Christmas",
-          "url": "https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp"
-        }
-      ],
-      "duration_ms": 126839,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/7i1mHHP4XpCjBM7VHx7g7U"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1931,6 +1931,54 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Collecting Dust (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7keyFWzKUZDyxMmNTCXeNl"
+      },
+      "artists": [
+        {
+          "name": "Kista",
+          "url": "https://open.spotify.com/artist/3lmL8QuUlvLxMly5j2nHYD"
+        },
+        {
+          "name": "Glad2Mecha",
+          "url": "https://open.spotify.com/artist/6pokAyXBznXdV5T3gO6cNQ"
+        }
+      ],
+      "duration_ms": 167054,
+      "name": "Dreamchaser",
+      "url": "https://open.spotify.com/track/7C9Q8Q26nhw5IBloP9PGCt"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "KeepVibesNear",
+          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "Purple Cloud",
+          "url": "https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "What U Need",
+      "url": "https://open.spotify.com/track/6mbUvThGAzb6hep4dl9kze"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
@@ -1975,54 +2023,6 @@
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "KeepVibesNear",
-          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "Purple Cloud",
-          "url": "https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "What U Need",
-      "url": "https://open.spotify.com/track/6mbUvThGAzb6hep4dl9kze"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Collecting Dust (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7keyFWzKUZDyxMmNTCXeNl"
-      },
-      "artists": [
-        {
-          "name": "Kista",
-          "url": "https://open.spotify.com/artist/3lmL8QuUlvLxMly5j2nHYD"
-        },
-        {
-          "name": "Glad2Mecha",
-          "url": "https://open.spotify.com/artist/6pokAyXBznXdV5T3gO6cNQ"
-        }
-      ],
-      "duration_ms": 167054,
-      "name": "Dreamchaser",
-      "url": "https://open.spotify.com/track/7C9Q8Q26nhw5IBloP9PGCt"
     },
     {
       "added_at": "2022-07-28 22:00:00",

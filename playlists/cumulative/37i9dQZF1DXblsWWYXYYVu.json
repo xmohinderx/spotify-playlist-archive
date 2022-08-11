@@ -852,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Life Ain't Always Pretty",
+        "url": "https://open.spotify.com/album/1gclZGnEWXEl84IK0xRwb0"
+      },
+      "artists": [
+        {
+          "name": "Brett Sheroky",
+          "url": "https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Life Ain't Always Pretty",
+      "url": "https://open.spotify.com/track/1BNvU8Mn5aHnq0SxBIUoV4"
+    },
+    {
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/1ZKejl4URkEWj3I6f2ppsL"
       },
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 172990,
       "name": "Tell Yourself",
       "url": "https://open.spotify.com/track/5QjkvXMDRkZQhROtNkUoyz"

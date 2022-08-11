@@ -4,7 +4,7 @@
 
 > Relax to vocal and instrumental jazz.
 
-339 songs - 1 day 5 hr 18 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+340 songs - 1 day 5 hr 21 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Ballad for MC](https://open.spotify.com/track/79fmhV6NAraE4Xz3MIXnN4) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [Trying to Figure It Out](https://open.spotify.com/album/0bdzkLwOBum4GKlrVnOfAE) | 3:02 | 2022-04-14 |  |
 | [Ballad Of The Sad Young Men](https://open.spotify.com/track/2seZ8ZHnD5RQBkhT8RsBZu) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Vanished Gardens](https://open.spotify.com/album/2q6z7yobPwN2YTkR8U4i1z) | 6:17 | 2022-04-14 |  |
 | [Bamako Love Song \(featuring Shabaka Hutchings\)](https://open.spotify.com/track/17gEZxt93zKbDYZ3mGMQeA) | [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Shabaka Hutchings](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Welcome To This World](https://open.spotify.com/album/67cZKIWDd5rVWFaXdgOD3L) | 5:22 | 2022-04-14 | 2022-04-28 |
-| [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-14 |  |
+| [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-14 | 2022-08-11 |
 | [Beatrice](https://open.spotify.com/track/30qPlOpLeJWD1mASyON1po) | [Westend Jazz Trio](https://open.spotify.com/artist/0HaG0FgLppnqm1WHvtzUXu) | [Beatrice](https://open.spotify.com/album/1VJRaHnjfgwtQVlCV2NcQb) | 2:55 | 2022-04-14 |  |
 | [Beautiful Love](https://open.spotify.com/track/3Str3OZii9YMeMOuJLG577) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/7epEg8WuJeNQ0iXT6PRLQA) | 2:58 | 2022-04-14 | 2022-07-29 |
 | [Beautiful Love](https://open.spotify.com/track/4vrdSRSPdwRPjeLL5iqb3p) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/0kJ2PsNKRL8lA6jjeZcLDk) | 2:59 | 2022-06-30 |  |
@@ -81,6 +81,7 @@
 | [Draw Me Nearer](https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Eclipse](https://open.spotify.com/album/2tWjJCMYSGNRJg55XJj0rj) | 4:42 | 2022-04-14 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/26dt6n5cyVRdX7vD8rmUWw) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Classic](https://open.spotify.com/album/5Fb9lGRHz1WGZJnZeorwhr) | 3:05 | 2022-04-14 | 2022-04-27 |
 | [Dreamsville](https://open.spotify.com/track/24M4rafgMYq9b49CEYPpm9) | [David Halliday](https://open.spotify.com/artist/1tPE7mBsjG1eu2w2BikKry) | [Dreamsville](https://open.spotify.com/album/71Vzhdj0zMdTZKh2YNmld7) | 7:57 | 2022-04-14 | 2022-08-02 |
+| [Duke Ellington's Sound of Love](https://open.spotify.com/track/48jxbecHxRFUKKG53mJRjl) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Plays Charles Mingus](https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f) | 3:24 | 2022-08-10 |  |
 | [Easy Living](https://open.spotify.com/track/1UuGIqqp2QhYZU0N2PRh9G) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg) | 4:53 | 2022-06-30 |  |
 | [Easy Living](https://open.spotify.com/track/78RAfPGFpTUqnPSTV0LcmT) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/79jNUOF7HaumY5JoP3TpVr) | 4:53 | 2022-04-14 | 2022-07-29 |
 | [Eleanor](https://open.spotify.com/track/082zyi189u5lRp2gPkE8Lb) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/1FCCVEhBrN6ISs9xHmf9kr) | 4:49 | 2022-04-14 | 2022-07-29 |

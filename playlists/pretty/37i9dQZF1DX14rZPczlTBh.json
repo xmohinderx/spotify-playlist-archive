@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for your Party.\nCover : Nithiin",
-  "num_followers": 24723,
+  "num_followers": 24742,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDJkM2QxYzNkMWRiMTdkZDBlMjk1ZWYzZTE4MWZjYWM2",
+  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDAxNWJlZjk2OWI3ZjBjMTk3ZjQxODNkOGEwNjMyOWVj",
   "tracks": [
     {
       "added_at": "2022-06-03 13:02:58",
@@ -143,6 +143,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "Dhruva",
+        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
+      },
+      "artists": [
+        {
+          "name": "Padmalatha, Sniggy",
+          "url": "https://open.spotify.com/artist/1wuI7Wm1H1DGJKuD6a6Kth"
+        }
+      ],
+      "duration_ms": 200772,
+      "name": "Choosa Choosa",
+      "url": "https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "KGF Chapter 1 (Telugu)",
         "url": "https://open.spotify.com/album/5PEIGDUbwwr1LYbwHCsZs1"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 245760,
       "name": "Salaam Rocky Bhai",
       "url": "https://open.spotify.com/track/2PEJJ61X5HfpkrOkqvpB6Y"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
-      },
-      "artists": [
-        {
-          "name": "Padmalatha, Sniggy",
-          "url": "https://open.spotify.com/artist/1wuI7Wm1H1DGJKuD6a6Kth"
-        }
-      ],
-      "duration_ms": 200772,
-      "name": "Choosa Choosa",
-      "url": "https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Ismart Shankar",
-        "url": "https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 252262,
-      "name": "Ismart Title Song",
-      "url": "https://open.spotify.com/track/40dF1b3S55REkQudnGiLkW"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Dhruva",
         "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 207217,
       "name": "Dhruva Dhruva",
       "url": "https://open.spotify.com/track/4JPr25ag4mVbYtNEZ3QGVE"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Ismart Shankar",
+        "url": "https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 252262,
+      "name": "Ismart Title Song",
+      "url": "https://open.spotify.com/track/40dF1b3S55REkQudnGiLkW"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Holi Special Songs",
-        "url": "https://open.spotify.com/album/5B8AmuHx5y2pKQWTTDOo6A"
-      },
-      "artists": [
-        {
-          "name": "Narendra",
-          "url": "https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9"
-        }
-      ],
-      "duration_ms": 228760,
-      "name": "Colorful Chilaka",
-      "url": "https://open.spotify.com/track/73AMbnpUdXdJGciNl8Fsp5"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Janatha Garage",
         "url": "https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 259329,
       "name": "Pakka Local",
       "url": "https://open.spotify.com/track/3oLSlzMt3SD5PYSMf1Aqo0"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Holi Special Songs",
+        "url": "https://open.spotify.com/album/5B8AmuHx5y2pKQWTTDOo6A"
+      },
+      "artists": [
+        {
+          "name": "Narendra",
+          "url": "https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9"
+        }
+      ],
+      "duration_ms": 228760,
+      "name": "Colorful Chilaka",
+      "url": "https://open.spotify.com/track/73AMbnpUdXdJGciNl8Fsp5"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Krishnarjuna Yudham",
-        "url": "https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8"
-      },
-      "artists": [
-        {
-          "name": "Penchal Das",
-          "url": "https://open.spotify.com/artist/1Gwagas1URF2FF769DMjVN"
-        }
-      ],
-      "duration_ms": 188684,
-      "name": "Dhaari Choodu",
-      "url": "https://open.spotify.com/track/6c85Eub4Ze7Jyhxv0xUrm3"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Race Gurram",
         "url": "https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 239010,
       "name": "Down Down Duppa",
       "url": "https://open.spotify.com/track/3PP1G6ukDSE3fOn4BJBtUw"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Krishnarjuna Yudham",
+        "url": "https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8"
+      },
+      "artists": [
+        {
+          "name": "Penchal Das",
+          "url": "https://open.spotify.com/artist/1Gwagas1URF2FF769DMjVN"
+        }
+      ],
+      "duration_ms": 188684,
+      "name": "Dhaari Choodu",
+      "url": "https://open.spotify.com/track/6c85Eub4Ze7Jyhxv0xUrm3"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -627,26 +627,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Bruce Lee",
-        "url": "https://open.spotify.com/album/2rB63Sy0Lbll94LSvqo0gE"
-      },
-      "artists": [
-        {
-          "name": "Rabbit Mac",
-          "url": "https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7"
-        },
-        {
-          "name": "Deepak",
-          "url": "https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3"
-        }
-      ],
-      "duration_ms": 244607,
-      "name": "Ria",
-      "url": "https://open.spotify.com/track/7Bx8NjcmtbItEVRqpaOdau"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Jai Lava Kusa",
         "url": "https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 264823,
       "name": "Mind Block",
       "url": "https://open.spotify.com/track/4q4PNCWRo90nUTILn6Y048"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Bruce Lee",
+        "url": "https://open.spotify.com/album/2rB63Sy0Lbll94LSvqo0gE"
+      },
+      "artists": [
+        {
+          "name": "Rabbit Mac",
+          "url": "https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7"
+        },
+        {
+          "name": "Deepak",
+          "url": "https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3"
+        }
+      ],
+      "duration_ms": 244607,
+      "name": "Ria",
+      "url": "https://open.spotify.com/track/7Bx8NjcmtbItEVRqpaOdau"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -787,6 +787,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "MCA",
+        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
+      },
+      "artists": [
+        {
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Family Party",
+      "url": "https://open.spotify.com/track/2cOBMRGCQ3Qi7gHrTELdHn"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Tholi Prema",
         "url": "https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 250000,
       "name": "Ra Ra (Roar of the Revengers)",
       "url": "https://open.spotify.com/track/3bXNfFKUI9p5WKjjOgMqzs"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "MCA",
-        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
-      },
-      "artists": [
-        {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Family Party",
-      "url": "https://open.spotify.com/track/2cOBMRGCQ3Qi7gHrTELdHn"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1063,6 +1063,30 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "I - Manoharudu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Pareshanayya - Remix",
+      "url": "https://open.spotify.com/track/2zF9IP6ELZAOQqRjchVYhB"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Bandobast (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4oUNzRIdKqYBH3WQqMhYUQ"
       },
@@ -1087,30 +1111,6 @@
       "duration_ms": 272948,
       "name": "Hey Amigo",
       "url": "https://open.spotify.com/track/1bkkVI2YHt1c2iLEUyANAU"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "I - Manoharudu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Pareshanayya - Remix",
-      "url": "https://open.spotify.com/track/2zF9IP6ELZAOQqRjchVYhB"
     },
     {
       "added_at": "2021-06-24 14:44:57",

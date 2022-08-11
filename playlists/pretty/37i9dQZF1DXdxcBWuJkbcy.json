@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6421388,
+  "num_followers": 6422858,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4NDI3NCwwMDAwMDAwMDRkZjBjMzBmOTY1YjgyODA5ZjAyM2ExYjE5ODJjNjg3",
+  "snapshot_id": "MTY1OTY4NDI3NCwwMDAwMDAwMDAzYzMyMTVkOThiY2QzY2I3M2EwN2VjMWNhMzE1ZGRm",
   "tracks": [
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 247896,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
         "name": "I\u2019m Blue (with T-Pain)",
         "url": "https://open.spotify.com/album/7EzEjcZPL1ZrnxGFERqKuQ"
       },
@@ -1523,26 +1543,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 247896,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Save Me Now",
         "url": "https://open.spotify.com/album/4vJT6er7II3CDCYZsOBoci"
       },
@@ -1559,6 +1559,26 @@
       "duration_ms": 196080,
       "name": "Save Me Now",
       "url": "https://open.spotify.com/track/1gT4R71PKKWcd7kSqAmNWC"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Jenny From The Block",
+        "url": "https://open.spotify.com/album/03M2hC29lmLarzSiw8Sznt"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Jenny From The Block",
+      "url": "https://open.spotify.com/track/0bZL9EEh4nCiuRomDhMjwT"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1583,26 +1603,6 @@
       "duration_ms": 148624,
       "name": "Are You OK? (feat. ILIRA)",
       "url": "https://open.spotify.com/track/6Ppext7tYrK3trnspkoSry"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
-        "name": "Jenny From The Block",
-        "url": "https://open.spotify.com/album/03M2hC29lmLarzSiw8Sznt"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Jenny From The Block",
-      "url": "https://open.spotify.com/track/0bZL9EEh4nCiuRomDhMjwT"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
+        "name": "From Paris to Berlin (Chrit Leaf Remix)",
+        "url": "https://open.spotify.com/album/6NQEZ6aURGOWm5QxjEMiHo"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "Chrit Leaf",
+          "url": "https://open.spotify.com/artist/04df2ILEj2H1MUilOCAdx6"
+        }
+      ],
+      "duration_ms": 132712,
+      "name": "From Paris to Berlin (Chrit Leaf Remix)",
+      "url": "https://open.spotify.com/track/5fJKruTP0DiAFBDesEBR3C"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
         "name": "Losing My Religion (feat. MKLA)",
         "url": "https://open.spotify.com/album/2jS5seVFSTaXWGJTi2Zz48"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 168387,
       "name": "Losing My Religion (feat. MKLA)",
       "url": "https://open.spotify.com/track/7u6EvUNJUmycM4IHEiHasm"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
-        "name": "From Paris to Berlin (Chrit Leaf Remix)",
-        "url": "https://open.spotify.com/album/6NQEZ6aURGOWm5QxjEMiHo"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "Chrit Leaf",
-          "url": "https://open.spotify.com/artist/04df2ILEj2H1MUilOCAdx6"
-        }
-      ],
-      "duration_ms": 132712,
-      "name": "From Paris to Berlin (Chrit Leaf Remix)",
-      "url": "https://open.spotify.com/track/5fJKruTP0DiAFBDesEBR3C"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1887,6 +1887,26 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
+        "name": "We Don\u2019t Need",
+        "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 188644,
+      "name": "We Don\u2019t Need",
+      "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
         "name": "Make My Mind Go (with Jonasu)",
         "url": "https://open.spotify.com/album/5gfjgEbNItHW8BPeoLAA1u"
       },
@@ -1971,26 +1991,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "We Don\u2019t Need",
-        "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 188644,
-      "name": "We Don\u2019t Need",
-      "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/2ZcIGPPSC7LELS7zJ3JVSK"
       },
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "No Diggity",
-        "url": "https://open.spotify.com/album/5TbmhZbiBAEM8S0gWYmLJf"
-      },
-      "artists": [
-        {
-          "name": "Zhnark",
-          "url": "https://open.spotify.com/artist/4TFwiKetUJYXrUyTOMKEww"
-        }
-      ],
-      "duration_ms": 218894,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/0msZYAfoPw8Jbhr8Ufxgs3"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Step-Grandma",
         "url": "https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy"
       },
@@ -2083,6 +2067,30 @@
       "duration_ms": 190312,
       "name": "Written In The Stars",
       "url": "https://open.spotify.com/track/4UGvqi9PIjHesEpPOO7Hl8"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "123 (Dolly Song) (feat. Karma Child)",
+        "url": "https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp"
+      },
+      "artists": [
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 141652,
+      "name": "123 (Dolly Song) feat. Karma Child",
+      "url": "https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA"
     }
   ],
   "unique_name": "Motivation Mix",

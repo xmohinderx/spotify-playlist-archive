@@ -4,7 +4,7 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Phương Ly
 
-96 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
+97 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Ooh Just You](https://open.spotify.com/track/0HK8DbhsuwSbDQKziQqbQI) | [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ooh Just You](https://open.spotify.com/album/5NfolK8SWLUENeckj3zc9v) | 3:15 | 2022-05-27 | 2022-06-23 |
 | [Phải Chăng Em Đã Yêu?](https://open.spotify.com/track/3wGx3gYPjECKZazGNuPEX2) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Phải Chăng Em Đã Yêu?](https://open.spotify.com/album/4LWNcXaa7PRKgdX78WodcT) | 3:10 | 2022-05-27 | 2022-06-29 |
 | [Querry](https://open.spotify.com/track/6OcOCgmPa1a57xAAF7qKkW) | [QNT](https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Querry](https://open.spotify.com/album/2Q4OkyBdAr8dBlhPSMDbBw) | 3:50 | 2022-06-15 | 2022-06-23 |
+| [Quên Anh Đi](https://open.spotify.com/track/4pMSLfqswCeDzG2iVmwGkR) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Quên Anh Đi](https://open.spotify.com/album/3FE6u1nOMdVEhfnJKWiCIp) | 4:05 | 2022-08-10 |  |
 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 | 2022-05-27 |  |
 | [Răng Khôn \(feat\. RIN9\)](https://open.spotify.com/track/2c0QMztYu6PCfFrGLqHXIV) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf) | [Răng Khôn \(feat\. RIN9\)](https://open.spotify.com/album/2I6WOVWFnwifUUBgedQt6j) | 3:51 | 2022-05-27 | 2022-06-29 |
 | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/track/0IojBwrFi0lwPW1eE3BNdU) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/album/36Dvo2mP3FZEERwagzc0YB) | 5:02 | 2022-05-27 | 2022-08-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Ivy Queen en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,677 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,693 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 12 | [Te Llevaré](https://open.spotify.com/track/2hc8tJTziozCwZOslqnyrN) | [JayDare](https://open.spotify.com/artist/03v6qL5pOAZubN6WIsIm3y), [castleurbano](https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws) | [Te Llevaré](https://open.spotify.com/album/656c3IBVACSerPlICcR1sb) | 3:10 |
 | 13 | [Dónde Están Tus Promesas](https://open.spotify.com/track/4DmHyMwMcY8zTpjaPYUww7) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Dónde Están Tus Promesas](https://open.spotify.com/album/6WB90h49FN3lxERKThcrft) | 4:09 |
 | 14 | [Sobrio](https://open.spotify.com/track/2s6Msf6JuH7rQP6QauANU1) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg) | [Sobrio](https://open.spotify.com/album/2jREwOReGpbsTX3sTyPyas) | 3:41 |
-| 15 | [El Mito de la Ayahuasca](https://open.spotify.com/track/422hEiUIkdltQvJvk6xU6U) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR), [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy) | [El Mito de la Ayahuasca](https://open.spotify.com/album/5t6VxqdIyiOR0uB4nhuLvi) | 3:04 |
+| 15 | [El Mito del Ayahuasca](https://open.spotify.com/track/422hEiUIkdltQvJvk6xU6U) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR), [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy) | [El Mito del Ayahuasca](https://open.spotify.com/album/5t6VxqdIyiOR0uB4nhuLvi) | 3:04 |
 | 16 | [Tu Me Estas Enamorando \- Remix](https://open.spotify.com/track/42E9kXcFhJLuC6eteavetR) | [El Empuje](https://open.spotify.com/artist/7rtCjmJ5EIcfL9l1bt59hU) | [Tu Me Estas Enamorando \(Remix\)](https://open.spotify.com/album/0vmwQkMedSD8CEZcMyWQib) | 2:05 |
 | 17 | [Descarga profética](https://open.spotify.com/track/2xVpygIkcJI0UIb8wBaU8b) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow), [El Grupo Renacimiento](https://open.spotify.com/artist/6nKLOhfxHF891LIo15FQCZ) | [Meridian Brothers & El Grupo Renacimiento](https://open.spotify.com/album/7lH6L9KUFciaS90VDFaUNA) | 5:15 |
 | 18 | [Dicen](https://open.spotify.com/track/7lSpqlTDWgLTXpxAF2luHP) | [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W) | [Dicen](https://open.spotify.com/album/0TXboXG0tbW96A7M2b8mQh) | 4:17 |

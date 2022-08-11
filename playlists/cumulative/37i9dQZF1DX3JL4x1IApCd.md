@@ -4,7 +4,7 @@
 
 > Editor's pick: The best of Gengetone songs of 2021\. Cover: "https://open.spotify.com/artist/3MNSiKXQ08jmcwzhQD5JFv?si=ah1amS0nQ3iTfMhqoXh4Ow">Mbuzi Gang'</a>
 
-100 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/3E6GHAfjqTrPwpK3Gzst6H)
+101 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3E6GHAfjqTrPwpK3Gzst6H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Kawazim](https://open.spotify.com/track/0Wbv4vLYYAfEIQkJoluxnN) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q), [Sailors 254](https://open.spotify.com/artist/0tMrNU3RSWhGj80Nq1fO8a), [Magix Enga](https://open.spotify.com/artist/1tCvSfQztSDLnBzKaxk4TG) | [Kawazim](https://open.spotify.com/album/4pPngWlBbC5nSvI9N0L1sD) | 3:52 | 2021-12-01 |  |
 | [Kazoze](https://open.spotify.com/track/1OIJqrmq1zwsrImcEWCO1Q) | [MASTAR VK](https://open.spotify.com/artist/6MfFpPlImcpGNkoIIA1rDj), [Iano Ranking](https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4) | [Kazoze](https://open.spotify.com/album/4PVIGcqb0xKCH4Zrus9w85) | 2:28 | 2021-12-01 |  |
 | [Kibanda](https://open.spotify.com/track/3n5PmxplLwunP2INPa7daR) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7) | [Jungle Fever](https://open.spotify.com/album/7m1id3TS0HMpagZ9pdXutI) | 3:18 | 2021-12-01 |  |
+| [Kidungi](https://open.spotify.com/track/4amYGsYvrjGGuY62Ojjucp) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Kidungi](https://open.spotify.com/album/1Ay2SoQm3wijnDmmPytf9X) | 2:45 | 2021-12-01 |  |
 | [Kidungi](https://open.spotify.com/track/6TusoL09kQevAiGPH1ln2W) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Kidungi](https://open.spotify.com/album/2BghFS0i8KaP8B69S38zzK) | 2:47 | 2021-12-01 | 2022-07-29 |
 | [Kufa Juu](https://open.spotify.com/track/74g8xrR0G03XHUyAUoJ2NR) | [The Creme De La Creme](https://open.spotify.com/artist/5kgCZuVj8ugiU7e417fGZ7), [The Kansoul](https://open.spotify.com/artist/0phHIn9JpV5VtO2lVaszzt), [Tribeless](https://open.spotify.com/artist/6qUet8qzbZeAEfbfoWs20O) | [Kufa Juu](https://open.spotify.com/album/6vq60LBckK6NAJwdJiOxOc) | 3:44 | 2021-12-01 |  |
 | [Kuna Kichwa](https://open.spotify.com/track/4CxIs3plY39mHG8P8Vzro2) | [VDJ JONES](https://open.spotify.com/artist/0esgHtr7W67AGn1vQXcuYJ), [DANTEZ](https://open.spotify.com/artist/33phEa6nFD07FtqExXbOsx), [Zzero](https://open.spotify.com/artist/73F4BZXI81TzXZ3SCPfAhQ), [Breeder LW](https://open.spotify.com/artist/2xnRrbCBayUGy65qEaWKXO), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo) | [Kuna Kichwa](https://open.spotify.com/album/4Sg59HUPYBJ3UI5yAbLwOB) | 3:43 | 2021-12-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 64533,
+  "num_followers": 64594,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTYxNzU4OSwwMDAwMDAwMDgwNzc5M2ZiNjI1Mjc5ZDIyMWUwMzkyM2U1MzdjNTBi",
+  "snapshot_id": "MTY1MTYxNzU4OSwwMDAwMDAwMDRiODc3NDRhNWMyZTAwYjVjNWU0ZmQ2ODM4ODhkNGM1",
   "tracks": [
     {
       "added_at": "2022-05-03 22:39:49",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2022-05-03 22:39:49",
       "album": {
+        "name": "Michael Myers",
+        "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Michael Myers",
+      "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
+    },
+    {
+      "added_at": "2022-05-03 22:39:49",
+      "album": {
         "name": "Me Llamas",
         "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 327999,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
-    },
-    {
-      "added_at": "2022-05-03 22:39:49",
-      "album": {
-        "name": "Michael Myers",
-        "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Michael Myers",
-      "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
     },
     {
       "added_at": "2022-05-03 22:39:49",

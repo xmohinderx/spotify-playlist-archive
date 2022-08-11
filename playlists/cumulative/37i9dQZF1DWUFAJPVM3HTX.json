@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 197915,
       "name": "1 Four 7",
       "url": "https://open.spotify.com/track/5Y40ig9ntRQ5qrwe5CTuuu"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 158720,
       "name": "All They Wanna Do",
       "url": "https://open.spotify.com/track/1z3GRT22Vm8FWwadTqoxuq"
@@ -920,6 +920,24 @@
     },
     {
       "album": {
+        "name": "Baggage",
+        "url": "https://open.spotify.com/album/4apemMXegKNctKfGSXt18Q"
+      },
+      "artists": [
+        {
+          "name": "Nnashe",
+          "url": "https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156966,
+      "name": "Baggage",
+      "url": "https://open.spotify.com/track/4i4lAh5pW9DE4sgWMAfT3A"
+    },
+    {
+      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/13wWno0G43cztuh7WGXexr"
       },
@@ -967,7 +985,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 205998,
       "name": "Be Without You",
       "url": "https://open.spotify.com/track/5vdSk60SVmxr2ISu17KHB5"
@@ -1688,6 +1706,24 @@
     },
     {
       "album": {
+        "name": "CAN'T TELL ME NOTHING",
+        "url": "https://open.spotify.com/album/7jv2CuoOPH30iKKgWv367J"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217002,
+      "name": "CAN YOU BE MY BABY",
+      "url": "https://open.spotify.com/track/1DMEuTvueRO3VAe3Gn6BEo"
+    },
+    {
+      "album": {
         "name": "Can't Help Myself",
         "url": "https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ"
       },
@@ -1721,6 +1757,24 @@
       "duration_ms": 212860,
       "name": "Can't Make It Right",
       "url": "https://open.spotify.com/track/1hzoqVVayl8ciUFhK1ERo7"
+    },
+    {
+      "album": {
+        "name": "Can't Swim",
+        "url": "https://open.spotify.com/album/4WVNFBimWSkO7rSsG0lYNS"
+      },
+      "artists": [
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211761,
+      "name": "Can't Swim",
+      "url": "https://open.spotify.com/track/1w5LFTS023Y2RxtuLYzRbn"
     },
     {
       "album": {
@@ -3081,7 +3135,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 196414,
       "name": "Energy",
       "url": "https://open.spotify.com/track/12q3pDcjI9HYZwd5rhSSvY"
@@ -3179,6 +3233,24 @@
       "duration_ms": 163728,
       "name": "Eve",
       "url": "https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20"
+    },
+    {
+      "album": {
+        "name": "Every Button",
+        "url": "https://open.spotify.com/album/3oJ9ml6nHM85RZeHHPB7yY"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224055,
+      "name": "Every Button",
+      "url": "https://open.spotify.com/track/1GgVCmpzTxk9gLSGMA0LEO"
     },
     {
       "album": {
@@ -3291,7 +3363,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 163636,
       "name": "Faded",
       "url": "https://open.spotify.com/track/1syyw8E0hGhzOdR6ChVUoy"
@@ -3455,7 +3527,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 243750,
       "name": "Feel Everything",
       "url": "https://open.spotify.com/track/3cXOJWxmfKenN3fvpRMhS6"
@@ -3857,6 +3929,24 @@
       "duration_ms": 135970,
       "name": "fxck it then",
       "url": "https://open.spotify.com/track/6C6CivPw9ew0qPgvvbSloL"
+    },
+    {
+      "album": {
+        "name": "galaxy of you",
+        "url": "https://open.spotify.com/album/5Jj0HugoqEcqa6YL3LFBVa"
+      },
+      "artists": [
+        {
+          "name": "steve breaux",
+          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "galaxy of you",
+      "url": "https://open.spotify.com/track/2GCWZIRarWaFTGVCDhdPv6"
     },
     {
       "album": {
@@ -4339,6 +4429,24 @@
       "duration_ms": 154486,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/27V7dVBXaLd4wpysO3oSDh"
+    },
+    {
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/58OrFFZ6M0DI0RQ7J5Mgng"
+      },
+      "artists": [
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/5AWG9WZvWqx9w8am9Vl8TS"
     },
     {
       "album": {
@@ -5142,6 +5250,24 @@
     },
     {
       "album": {
+        "name": "In My Bed",
+        "url": "https://open.spotify.com/album/7Dw7n5YeIAb1IQ5klyRIae"
+      },
+      "artists": [
+        {
+          "name": "Sage Harris",
+          "url": "https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225943,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/3AXPn6A34rJcdwl59Xor4g"
+    },
+    {
+      "album": {
         "name": "In Tha Night",
         "url": "https://open.spotify.com/album/0PRAxft5EAqModwcGbsb8T"
       },
@@ -5283,7 +5409,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 207640,
       "name": "Is It Love?",
       "url": "https://open.spotify.com/track/2Lbfend8u6ccFu2zMFpPxF"
@@ -5572,6 +5698,24 @@
     },
     {
       "album": {
+        "name": "KLM",
+        "url": "https://open.spotify.com/album/7M8t6y4yEeARY88jrW1uEY"
+      },
+      "artists": [
+        {
+          "name": "MisterKay",
+          "url": "https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149053,
+      "name": "KLM",
+      "url": "https://open.spotify.com/track/61kUJ5SyDid5ujv4ZyrIjU"
+    },
+    {
+      "album": {
         "name": "Know It's Wrong",
         "url": "https://open.spotify.com/album/39K9QGEVT1iQnTgf5czaZ8"
       },
@@ -5810,6 +5954,24 @@
     },
     {
       "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/1SHEfFSl1FyILZ0ortRg0H"
+      },
+      "artists": [
+        {
+          "name": "Xades",
+          "url": "https://open.spotify.com/artist/2hrJX5VA0aLhBgRMrGAqHz"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197115,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/4kv4V1IH1IVGltBRLmsxrV"
+    },
+    {
+      "album": {
         "name": "Lonely In Nairobi",
         "url": "https://open.spotify.com/album/3O3f7B13CuboRb9Pbv505l"
       },
@@ -5847,6 +6009,24 @@
       "duration_ms": 198922,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/7ikpLVg5oCWF1VRybIK6IV"
+    },
+    {
+      "album": {
+        "name": "Look At What I'm Doing To You",
+        "url": "https://open.spotify.com/album/5tiIUsyEASKQuVHSjkWz2H"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199533,
+      "name": "Look At What I'm Doing To You",
+      "url": "https://open.spotify.com/track/0GNOgKyTYWY88OXjOPnnLc"
     },
     {
       "album": {
@@ -6877,7 +7057,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 160253,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/6RD9VzliQUDASSWdClnrPX"
@@ -7163,7 +7343,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 174163,
       "name": "Open",
       "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
@@ -7709,6 +7889,24 @@
       "duration_ms": 187438,
       "name": "Put D'Angelo On",
       "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"
+    },
+    {
+      "album": {
+        "name": "Queen St",
+        "url": "https://open.spotify.com/album/64uOosOXFR6OL8AGnSsOls"
+      },
+      "artists": [
+        {
+          "name": "Jayd Ink",
+          "url": "https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184303,
+      "name": "Queen St",
+      "url": "https://open.spotify.com/track/3y5kablQcdGYEmLHkTHvIF"
     },
     {
       "album": {
@@ -8984,6 +9182,24 @@
     },
     {
       "album": {
+        "name": "PARTY AT THE IVORY TOWER",
+        "url": "https://open.spotify.com/album/0DdcPRidAseNvSmaUOZaRj"
+      },
+      "artists": [
+        {
+          "name": "Bobby Earth",
+          "url": "https://open.spotify.com/artist/2oFkvZLEnTdEeGlkwT4aC8"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Sputnik",
+      "url": "https://open.spotify.com/track/12PiiW8Kbvjl8P64KI8rCD"
+    },
+    {
+      "album": {
         "name": "State of Mind",
         "url": "https://open.spotify.com/album/28OZ9yigKEWW29T8jOOS8F"
       },
@@ -9386,6 +9602,24 @@
     },
     {
       "album": {
+        "name": "TakeDown",
+        "url": "https://open.spotify.com/album/10BaDcEVvUbc9XeAayY981"
+      },
+      "artists": [
+        {
+          "name": "CHEEYA",
+          "url": "https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191047,
+      "name": "TakeDown",
+      "url": "https://open.spotify.com/track/60GindPZ2sQawC4MUObXQN"
+    },
+    {
+      "album": {
         "name": "UMBRA",
         "url": "https://open.spotify.com/album/1M9hDPUodGTzI6T5Sy92G1"
       },
@@ -9469,7 +9703,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 200275,
       "name": "Tease",
       "url": "https://open.spotify.com/track/5ttmYDw7JUPeBFV9I2DdbS"
@@ -9563,7 +9797,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 175041,
       "name": "The Coochie Song",
       "url": "https://open.spotify.com/track/1ZKnx75UImiBGaSHp4d8Kg"
@@ -9603,6 +9837,24 @@
       "duration_ms": 170874,
       "name": "The Process",
       "url": "https://open.spotify.com/track/2kjiX8AQZ5xlnEnNGJIhXg"
+    },
+    {
+      "album": {
+        "name": "Je Sais",
+        "url": "https://open.spotify.com/album/4jmw5Q6kxTnkLyY5mCY6Fv"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129199,
+      "name": "The Reproach",
+      "url": "https://open.spotify.com/track/01cZlSFtaZMmdujNjVpgdX"
     },
     {
       "album": {
@@ -10029,7 +10281,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 148374,
       "name": "under development",
       "url": "https://open.spotify.com/track/2Enq6k1YVPu3nWNnRiGmhf"
@@ -10185,7 +10437,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 183963,
       "name": "VENUS",
       "url": "https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl"
@@ -10239,7 +10491,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 161875,
       "name": "Visualize",
       "url": "https://open.spotify.com/track/73kOuVrN8PRINR9Lzvc5EM"
@@ -10665,7 +10917,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 171000,
       "name": "WHY! (Jack's Joint)",
       "url": "https://open.spotify.com/track/2BwSqHhFOMMHmgo8e5oQ5O"
@@ -10817,7 +11069,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 189960,
       "name": "You",
       "url": "https://open.spotify.com/track/4xJPWX1BFbsx9hrSIWmKWp"

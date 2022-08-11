@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128522,
+  "num_followers": 128529,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU2MywxZTcyODUzZmY3OGFhYzZiYWZlOGNmNmIxYzhjNjdkYWY0NWFhZjUx",
+  "snapshot_id": "MzU2NixjODUzNDRlZTFhY2I3ZjRhMjZkNmVlZGVkNDIxYWEwODhjZDRiNDAx",
   "tracks": [
+    {
+      "added_at": "2022-08-10 16:22:14",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4orkNzqYfSdlJYDBjCC4kT"
+      },
+      "artists": [
+        {
+          "name": "Forty Cats",
+          "url": "https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ"
+        },
+        {
+          "name": "Ra5im",
+          "url": "https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1a0SYFyOM3Vr1EEm77W2k5"
+    },
     {
       "added_at": "2022-08-09 16:46:29",
       "album": {
@@ -1099,46 +1119,6 @@
       "duration_ms": 224000,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1uI5SfxcOTpnxjU3DGlJGM"
-    },
-    {
-      "added_at": "2022-05-31 16:19:53",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab"
-      },
-      "artists": [
-        {
-          "name": "Bad Computer",
-          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh"
-    },
-    {
-      "added_at": "2022-05-30 18:08:48",
-      "album": {
-        "name": "505",
-        "url": "https://open.spotify.com/album/7o2wHfozPCR2KuIWE6q4at"
-      },
-      "artists": [
-        {
-          "name": "TYNAN",
-          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
-        },
-        {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
-        },
-        {
-          "name": "Guilt Chip",
-          "url": "https://open.spotify.com/artist/1PWCOmvvW8kVMRvPDyLC2P"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "505",
-      "url": "https://open.spotify.com/track/3KHdPiJC74XETgP6lCce3S"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

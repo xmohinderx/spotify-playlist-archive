@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Aqueous",
-  "num_followers": 3730,
+  "num_followers": 3807,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYzNTE3MywwMDAwMDAwMDM3MDM5NThmYTJhMGNkMTNiNTdmYjY2NmMwZmIxOGM2",
+  "snapshot_id": "MTY1OTYzNTE3MywwMDAwMDAwMGU3MDc1OGY5NTVkYzc1NDgzZDc3ZmYzNjQ3MTY4Mjg3",
   "tracks": [
     {
       "added_at": "2022-07-08 04:02:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Night Lights",
-        "url": "https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 401213,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Casino Cabaret",
         "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Collisions",
-        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
+        "name": "Night Lights",
+        "url": "https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4"
       },
       "artists": [
         {
-          "name": "Tauk",
-          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
         }
       ],
-      "duration_ms": 327541,
-      "name": "Mokuba",
-      "url": "https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk"
+      "duration_ms": 401213,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -543,6 +527,22 @@
       "duration_ms": 247106,
       "name": "Fannie",
       "url": "https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Collisions",
+        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
+      },
+      "artists": [
+        {
+          "name": "Tauk",
+          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
+        }
+      ],
+      "duration_ms": 327541,
+      "name": "Mokuba",
+      "url": "https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Strawberry Mansion",
-        "url": "https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Pets",
-          "url": "https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol"
-        }
-      ],
-      "duration_ms": 311437,
-      "name": "Shahryar's Rage",
-      "url": "https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Dopapod",
         "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 304826,
       "name": "Nuff",
       "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Strawberry Mansion",
+        "url": "https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Pets",
+          "url": "https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol"
+        }
+      ],
+      "duration_ms": 311437,
+      "name": "Shahryar's Rage",
+      "url": "https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Natural Mind",
-        "url": "https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj"
-      },
-      "artists": [
-        {
-          "name": "The Fritz",
-          "url": "https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8"
-        }
-      ],
-      "duration_ms": 505786,
-      "name": "Fact from Fiction",
-      "url": "https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Selections, Vol. 1",
         "url": "https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 731509,
       "name": "Get out of Your Head",
       "url": "https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Natural Mind",
+        "url": "https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj"
+      },
+      "artists": [
+        {
+          "name": "The Fritz",
+          "url": "https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8"
+        }
+      ],
+      "duration_ms": 505786,
+      "name": "Fact from Fiction",
+      "url": "https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9"
     },
     {
       "added_at": "2022-06-23 13:45:43",

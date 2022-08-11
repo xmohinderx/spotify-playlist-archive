@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 241888,
+  "num_followers": 241951,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzI2NzcyNCwwMDAwMDAwMDgzODE5MzQ5NjcwYjQzNWZmMzljZmJkOWRjYjZkMGNh",
+  "snapshot_id": "MTYzNzI2NzcyNCwwMDAwMDAwMGM0ZDkxM2U2MDExZmFhMDhiZTIzZTVlNThlMGM1ZTIx",
   "tracks": [
     {
       "added_at": "2021-11-12 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Party Dress",
         "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 194942,
       "name": "Party Dress",
       "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/3vscDGTguHZgyZeVR67cJr"
     },
     {
-      "added_at": "2021-11-18 20:35:24",
-      "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 215793,
-      "name": "Pick Apart",
-      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
-    },
-    {
       "added_at": "2021-11-12 05:00:00",
       "album": {
         "name": "In the Magic Hour",
@@ -895,6 +879,22 @@
       "duration_ms": 236400,
       "name": "The King of All Birds",
       "url": "https://open.spotify.com/track/2DXbvKaUSUlb7q02GNJjCF"
+    },
+    {
+      "added_at": "2021-11-18 20:35:24",
+      "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 215793,
+      "name": "Pick Apart",
+      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1145,6 +1145,22 @@
       "url": "https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ"
     },
     {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
+    },
+    {
       "added_at": "2021-11-18 20:35:24",
       "album": {
         "name": "Animal",
@@ -1167,22 +1183,6 @@
       "duration_ms": 285760,
       "name": "We Cannot Resist",
       "url": "https://open.spotify.com/track/068ZytZuPeqoSgaffebBVD"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "To Enjoy Is the Only Thing",
-        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Eastwick / Cold Caller",
-        "url": "https://open.spotify.com/album/1YQzACJ3FqQI4vqtK3e9sU"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 237015,
-      "name": "Cold Caller",
-      "url": "https://open.spotify.com/track/67eBpn7WYYSUcwI76Et8iN"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Eastwick / Cold Caller",
+        "url": "https://open.spotify.com/album/1YQzACJ3FqQI4vqtK3e9sU"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 237015,
+      "name": "Cold Caller",
+      "url": "https://open.spotify.com/track/67eBpn7WYYSUcwI76Et8iN"
     },
     {
       "added_at": "2021-11-12 05:00:00",

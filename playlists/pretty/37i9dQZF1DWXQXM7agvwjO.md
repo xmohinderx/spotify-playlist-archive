@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: CHAI \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,942 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,962 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 9 | [I Forget](https://open.spotify.com/track/4kteUmv5itspdKMNHAMF8A) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl), [KAYD](https://open.spotify.com/artist/083fVmyz4CEiqzDnLaSpU7) | [I Forget](https://open.spotify.com/album/4KK1XCxSqlQvHAAGto6vIB) | 3:37 |
 | 10 | [透明的你](https://open.spotify.com/track/4kKRDGpb1nNaPthYtRwYpW) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG), [Skippy](https://open.spotify.com/artist/1NOMIwjaZbLDHoruEWEQgl) | [透明的你](https://open.spotify.com/album/64bj7yraKPcvhOvW9yx09y) | 3:58 |
 | 11 | [Come Away](https://open.spotify.com/track/7newW6xmjNb1K9hWMp1DV5) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Come Away](https://open.spotify.com/album/2NZ6MllzTEfcd6ht85dYkQ) | 3:40 |
-| 12 | [Whatchu Gonna...?](https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Whatchu Gonna...?](https://open.spotify.com/album/4C6O1vEFP0AM2ThBxFdma2) | 3:48 |
+| 12 | [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 |
 | 13 | [My Little Lambs](https://open.spotify.com/track/3mLf0rGbBQHpkK0Sm8IQR6) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [My Little Lambs](https://open.spotify.com/album/3qSiB7QbxOnt7bx6ieXtm4) | 3:37 |
 | 14 | [Safe Flight](https://open.spotify.com/track/1UVOyw9vzAZ3f6Z9CAm5Vz) | [Will Mara](https://open.spotify.com/artist/5NxczTw9yZIX62WvzQ24mF) | [Safe Flight](https://open.spotify.com/album/3oZDDfuIuDzRDC12mnVrDF) | 2:51 |
 | 15 | [Your Eyes](https://open.spotify.com/track/4goXqBKlrjVDFdABSEYItt) | [Yulie](https://open.spotify.com/artist/7yH3sjveHQuOWB8eZRKk3k), [Blue Bone](https://open.spotify.com/artist/5hW5sCvcnV65dARCSETrkC) | [Your Eyes](https://open.spotify.com/album/5yolu7ryMRLvq8ZG0fpou7) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [Cadillac](https://open.spotify.com/track/1UfBoOR19ZMYASHCu60yfl) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [Cadillac](https://open.spotify.com/album/4fhBoDPPc6EXjQvKuMfHbm) | 2:27 |
 | 75 | [Dancing Flowers](https://open.spotify.com/track/0ipGt7HnFJHhDaA5kQGGWh) | [tie a tie](https://open.spotify.com/artist/7v9fLn8ZcdEdqzF1vX80n5) | [Dancing Flowers](https://open.spotify.com/album/0O1LXrV3c4gQt1dIgAWlh6) | 2:51 |
 
-Snapshot ID: `MTY1OTY1MzY1NiwwMDAwMDAwMGNjNDRkYzc1OGRjMTU5MDIxMjJiYTQ3ZGE0NDA4ZTVj`
+Snapshot ID: `MTY1OTY1MzY1NiwwMDAwMDAwMDcwMmE0ZjA5YjUxMDRkYTBhNmM0NDFkOTU0ZTUwMTkz`

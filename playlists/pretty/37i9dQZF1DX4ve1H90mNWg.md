@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,582 likes - 59 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,586 likes - 59 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 5 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 |
 | 6 | [Messy \(feat\. Teezo Touchdown & Bktherula\)](https://open.spotify.com/track/79D8MCSEt4fr3qq9XZuTLd) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 |
 | 7 | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm) | 2:17 |
-| 8 | [Rock](https://open.spotify.com/track/3q9UfLr6foEzn0ki0vKgHj) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/26kJC1nv4s6lOAjNiRILoT) | 4:03 |
+| 8 | [Rock](https://open.spotify.com/track/7kp8t9yexJdk7LuvTK47XI) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl) | 4:03 |
 | 9 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
 | 10 | [Fuck Alone \(Remix\) \[feat\. Kaash Paige\]](https://open.spotify.com/track/5fFoGKU6y3121VH0kHE3us) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Fuck Alone \(Remix\) \[feat\. Kaash Paige\]](https://open.spotify.com/album/0E8oKtWaoYMi8EPfEY0hLW) | 3:39 |
 | 11 | [Make your Move \(feat\. Slim Thug\)](https://open.spotify.com/track/4KnvPcopYg0heTIn0Ct59R) | [DJ X.O.](https://open.spotify.com/artist/3ix09kkqd9kYVXqzqWWJFf), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Make your Move \(feat\. Slim Thug\)](https://open.spotify.com/album/2HpV8JDlBrvPrjthyZ0jEp) | 2:31 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 58 | [I’m Not Kidding](https://open.spotify.com/track/5lkO0aXdKXWJXujSfSXKd4) | [Fade 'Em All](https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN) | [I’m Not Kidding](https://open.spotify.com/album/4SYPqCHMW50UULD6WdgPgV) | 3:52 |
 | 59 | [Who Do](https://open.spotify.com/track/5TBEzhlJqpBFwalNZ3FUpx) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Who Do](https://open.spotify.com/album/7hQEAJdHOrnsSVapYVdzmj) | 3:02 |
 
-Snapshot ID: `MTY1OTcxMzcyNSwwMDAwMDAwMDkxNGJiNWU3YTcyZDI0YzM5ZTBiMjkyOGNjODRkNTY0`
+Snapshot ID: `MTY1OTcxMzcyNSwwMDAwMDAwMDUzZGIxYjcxMGFiYmRiOGU3YTEzNDE5ZmRiNmQzMzFm`

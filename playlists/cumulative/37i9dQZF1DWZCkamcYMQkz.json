@@ -543,7 +543,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 161546,
       "name": "Dream a Little Dream of Me",
       "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 253240,
       "name": "He's My Guy",
       "url": "https://open.spotify.com/track/5Po3D0fxlUpQTciXYWOmnJ"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 308666,
       "name": "I Hear Music",
       "url": "https://open.spotify.com/track/3CoBpiBcaqi1qq58mzaJNi"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 236546,
       "name": "I Want To Feel Good Pt. 2",
       "url": "https://open.spotify.com/track/3r27cebLRzrn4w8HFSX7eH"
@@ -1081,6 +1081,28 @@
       "duration_ms": 138600,
       "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
       "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
+    },
+    {
+      "album": {
+        "name": "The Complete Clef & Verve Fifties Studio Recordings",
+        "url": "https://open.spotify.com/album/7GLEidBdAgwkHt3tDG5gvT"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "I'm Beginning To See The Light - Mono Version",
+      "url": "https://open.spotify.com/track/3oDZ1hAeCOUo0oJKlqc9sw"
     },
     {
       "album": {
@@ -1283,7 +1305,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 306133,
       "name": "It's Crazy",
       "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
@@ -2517,7 +2539,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 181626,
       "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
       "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
@@ -2687,7 +2709,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226613,
       "name": "You Can Have Him",
       "url": "https://open.spotify.com/track/1FIkhPVchSeLTinKQcC5tV"

@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 259354,
+  "num_followers": 259486,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk0NzU3MiwwMDAwMDAwMGMxOTVmZGE5MmIxZWFmMTlhMzNkMmJlZjNjNTEwOTFl",
+  "snapshot_id": "MTY1Njk0NzU3MiwwMDAwMDAwMGI5MTEyYWQxNmRiODZjNDdjYjM2MTk3N2IxMzk5YWNi",
   "tracks": [
     {
       "added_at": "2022-07-04 15:12:52",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
+        "name": "Galeria Caribe",
+        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
-        "name": "Galeria Caribe",
-        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Ida y Vuelta",
-        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/6OQlWTI5sHyahqP8WnQSnD"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
         "name": "Buler\u00eda",
         "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 275280,
       "name": "Esta Ausencia",
       "url": "https://open.spotify.com/track/0phL00aOVS9nHhvd5Vodei"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
+        "name": "Ida y Vuelta",
+        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/6OQlWTI5sHyahqP8WnQSnD"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1595,8 +1595,8 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE"
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
       "artists": [
         {
@@ -1604,9 +1604,9 @@
           "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 279480,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/7dfcQMlkSp40GntNwX98Z6"
+      "duration_ms": 294906,
+      "name": "Bella (She's All I Ever Had)",
+      "url": "https://open.spotify.com/track/5u1BrOqDnQdguBbgoeeEf1"
     },
     {
       "added_at": "2022-07-04 15:12:52",

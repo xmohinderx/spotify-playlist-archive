@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMGJkYjk4M2JkZDViZDFkYTcxZTM2ZjExMmYxYTg1MmZh",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDc1NTc3MWJhOTk5NzUwNmQ0YmViNDZlMjNkNThiYjFm",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "A Celebration Of Endings",
-        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 235946,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "homebody",
         "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 189000,
       "name": "homebody",
       "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "A Celebration Of Endings",
+        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 235946,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 136954,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Black Dog",
         "url": "https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 225454,
       "name": "Black Dog",
       "url": "https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 136954,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Question It All / White Car",
         "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 242854,
       "name": "Question It All",
       "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Greener",
-        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
-      },
-      "artists": [
-        {
-          "name": "Jade Emperor",
-          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 337426,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
+      },
+      "artists": [
+        {
+          "name": "Jade Emperor",
+          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Freckle Season",
         "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 166413,
       "name": "Oh GOD",
       "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "How Can I Make It Ok?",
-      "url": "https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 208988,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "How Can I Make It Ok?",
+      "url": "https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 198523,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/5xYhT6DfdLNOk9VYzkv0z9"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Something Good Will Happen",
         "url": "https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 204440,
       "name": "Caught Up & Confused",
       "url": "https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 198523,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/5xYhT6DfdLNOk9VYzkv0z9"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "California Screaming",
+        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "California Screaming",
+      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Like Sand",
         "url": "https://open.spotify.com/album/7pOUfwJOC4mxZ5sIaYJ48H"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 271201,
       "name": "Like Sand",
       "url": "https://open.spotify.com/track/2fWlUgX2Qa44ZQCT2rKF0U"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "California Screaming",
-        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
-      },
-      "artists": [
-        {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "California Screaming",
-      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "TRAP PHONE",
-        "url": "https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet"
-      },
-      "artists": [
-        {
-          "name": "BERWYN",
-          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
-        }
-      ],
-      "duration_ms": 250113,
-      "name": "TRAP PHONE",
-      "url": "https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "JOY (journal.30.03.2020)",
         "url": "https://open.spotify.com/album/61RjvAdIxRfGijHvmVRgb7"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "TRAP PHONE",
+        "url": "https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet"
+      },
+      "artists": [
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        }
+      ],
+      "duration_ms": 250113,
+      "name": "TRAP PHONE",
+      "url": "https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Uriah's Cry",
         "url": "https://open.spotify.com/album/4lo8NWKY2fTTDEoFm8J29W"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "So Simpatico",
-        "url": "https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "So Simpatico - Edit",
-      "url": "https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Wake UP!",
         "url": "https://open.spotify.com/album/2A2k0MgzDEiFjW3ejlpxxV"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 173211,
       "name": "Five and Dime",
       "url": "https://open.spotify.com/track/5ypn0mWrFJ8m2BeYBKwXec"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "So Simpatico",
+        "url": "https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "So Simpatico - Edit",
+      "url": "https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT"
     },
     {
       "added_at": "2021-08-12 14:57:38",

@@ -2805,7 +2805,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 209946,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
@@ -5521,7 +5521,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 228050,
       "name": "How high",
       "url": "https://open.spotify.com/track/6ENLajiEU6MkPq4SvXHXtW"
@@ -8543,6 +8543,24 @@
       "duration_ms": 163200,
       "name": "Matkhafesh Yamma",
       "url": "https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh"
+    },
+    {
+      "album": {
+        "name": "Mazalni",
+        "url": "https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77"
+      },
+      "artists": [
+        {
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260209,
+      "name": "Mazalni",
+      "url": "https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp"
     },
     {
       "album": {
@@ -12557,7 +12575,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 214258,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
@@ -13222,6 +13240,28 @@
     },
     {
       "album": {
+        "name": "Trigue Lycee (Remix)",
+        "url": "https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185192,
+      "name": "Trigue Lycee - Remix",
+      "url": "https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG"
+    },
+    {
+      "album": {
         "name": "TRILL",
         "url": "https://open.spotify.com/album/2zqBYm0eFdJRAPZ36V2vRl"
       },
@@ -13877,7 +13917,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 132000,
       "name": "Weld l9ount",
       "url": "https://open.spotify.com/track/2n3FZf0DBOjcLCjZ80dTGa"

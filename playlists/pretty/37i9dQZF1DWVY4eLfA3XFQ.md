@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Saison
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,789 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,853 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 19 | [For One Night](https://open.spotify.com/track/4PDxk8IXTMxbRlSv7Cx2Hb) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [For One Night](https://open.spotify.com/album/4rFPkGiWzoaLl59j11Ruj4) | 2:53 |
 | 20 | [What You Waiting For?](https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [What You Waiting For?](https://open.spotify.com/album/122TcLx7ilK2T5Ri3mJ92C) | 3:51 |
 | 21 | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA) | 3:31 |
-| 22 | [HYPNOSIS](https://open.spotify.com/track/5OdV0UCyyyNiH3QWEqMYDy) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HYPNOSIS](https://open.spotify.com/album/0ScMmsuo25SPrfJ4K7ezcX) | 2:38 |
+| 22 | [HYPNOSIS](https://open.spotify.com/track/7Hrdx0AjXCVQX6qnQiJ7We) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HYPNOSIS](https://open.spotify.com/album/1AFn827ZpGac5mVf7wPa6q) | 2:38 |
 | 23 | [Tuko Tuko](https://open.spotify.com/track/5YzoHnKF8AF4Ys76VPmpKR) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Tuko Tuko](https://open.spotify.com/album/6W3EQfiO498fLmBgCJNDwB) | 3:37 |
 | 24 | [Mucho Tiempo](https://open.spotify.com/track/58R6Ua18hdDJ7576ugCEE0) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Marco Tropeano](https://open.spotify.com/artist/1Iduln9qYbj41kvHf9yDJb) | [Mucho Tiempo](https://open.spotify.com/album/144tzxsJOE8473sAmCAeNB) | 3:20 |
 | 25 | [Aura](https://open.spotify.com/track/2Bj5ZUeHEke7ovkkpPbG7d) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jargen](https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl) | [Aura](https://open.spotify.com/album/0itIElpJrQZ30aPUilSDgn) | 3:04 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 94 | [False Need](https://open.spotify.com/track/2fSNDaBmTg8VucedIUA3IA) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [False Need](https://open.spotify.com/album/6XngZGEvyEzaPlZ3JaFs12) | 3:34 |
 | 95 | [Vale](https://open.spotify.com/track/155IiTveewoEfE7ISxjM8Y) | [Marco Carpentieri](https://open.spotify.com/artist/7qD17uug3YdoCuu1UqYTJa), [Tim Aroa](https://open.spotify.com/artist/3oqcNg6aegE3fUbfn6cTun), [Devan](https://open.spotify.com/artist/2hE6W430BpJRCFBNgZE3jB) | [Vale](https://open.spotify.com/album/0wpYb0HPKekYcETe7gV02O) | 2:43 |
 | 96 | [Di Da Di](https://open.spotify.com/track/6gXGso6sUgXkDTYb13zlz0) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Di Da Di](https://open.spotify.com/album/1wsSqrIvLM48vY7ru0QUFY) | 2:46 |
-| 97 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 |
+| 97 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 |
 | 98 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 |
 | 99 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 |
 | 100 | [Housemusic](https://open.spotify.com/track/6bBSlQDNFusI4R7yMdSBfB) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O), [Jess Kidd](https://open.spotify.com/artist/00PPjSt954K0mT5tDgfOan) | [Housemusic](https://open.spotify.com/album/4zx3amdm3TIskVdAzKKc4q) | 2:41 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDgzNGI4ZTEyMzM2ZWFiNjVmZWNmNWU1ZmVmYjQwMjQ1`
+Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDUyMGE5ZDAyNjdjYjQxZmU5MWIzNzcxYTNjNTBlOTY1`

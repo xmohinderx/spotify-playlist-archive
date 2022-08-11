@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > Lo nuevo del R&B Latino\. Fresh R&B Latin tracks\. Cover: Destiny Rogers
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,208 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,225 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 56 | [En un Rinconcito](https://open.spotify.com/track/3R44xWwx1miSjN58p7vlkd) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Fernanda Perochena](https://open.spotify.com/artist/3DxcAMHSrWV5c8PQafU2qS), [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6) | [Lo Que Muere No Acaba](https://open.spotify.com/album/7CSLDt5x0jtwohF2QlGmUo) | 3:32 |
 | 57 | [No Es Cierto](https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 4:33 |
 | 58 | [Sensualidad](https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Sensualidad](https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U) | 2:36 |
-| 59 | [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 |
-| 60 | [mira bien](https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [mira bien](https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg) | 3:44 |
+| 59 | [mira bien](https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [mira bien](https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg) | 3:44 |
+| 60 | [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 |
 | 61 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
 | 62 | [Amanecer](https://open.spotify.com/track/1hfA56vqCGk6SZzVSaOxSm) | [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Amanecer](https://open.spotify.com/album/7rjVDURaXjRbN21QQtwXY5) | 3:05 |
 | 63 | [Lluvia de Verano](https://open.spotify.com/track/2mQMfGmg6hiCYKyhUVj2t0) | [Kira Brown](https://open.spotify.com/artist/3pa5M2Ewzy6L18H0PtrcD8), [AMEX](https://open.spotify.com/artist/22yjgBso2UylN40c0ZVdFY) | [Lluvia de Verano](https://open.spotify.com/album/0XmxvGBUc7KYEuhXBmv83R) | 2:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 84 | [No Te Vayas](https://open.spotify.com/track/3WX42WpUx33EhAnKnXk8vc) | [Still Haze](https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z) | [No Te Vayas](https://open.spotify.com/album/1ZaahREmZ6yBDxWczMAUZZ) | 3:04 |
 | 85 | [Ven](https://open.spotify.com/track/6VUNbNPWB7o9pL2NYD2wOb) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 3:55 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGQyMjMzMTY5YjIzOWI0ZWQ2NGY5NDBmNzdkYzI0ZDI0`
+Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGE2Mjc4ZGU2ZDY3YzAzYjc1YzU1YmZiY2YyYzY2YjQ5`

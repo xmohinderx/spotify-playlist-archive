@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,387 likes - 52 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,389 likes - 52 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 45 | [Drown](https://open.spotify.com/track/7gZyVkRZKKmouF54ccQ5Pi) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Red For War](https://open.spotify.com/album/4N8Wt08zGOXDRC9wyoTm1Z) | 3:27 |
 | 46 | [Too Late](https://open.spotify.com/track/2HdXs8oiSI2I3K65sPg1WS) | [Amongst the Giants](https://open.spotify.com/artist/12rJfJCwHnKC7VuuLk9xtJ) | [Obscene](https://open.spotify.com/album/0lzEISCPcYEJ78E1qxWGQm) | 3:08 |
 | 47 | [Into the Night](https://open.spotify.com/track/0YhY80vK0EXnfKqWQROSHV) | [Ignescent](https://open.spotify.com/artist/6PQENi26ZkXCUo1ksPJ7mm) | [Into the Night](https://open.spotify.com/album/4EeZaYHOvgQUoKTRH0Iueu) | 3:34 |
-| 48 | [Breathe Again](https://open.spotify.com/track/6VGItaHKo3GC7I6Ky5S57b) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Still Just Breathing](https://open.spotify.com/album/3o8qPT3byMsUolOB3915wZ) | 3:37 |
+| 48 | [Breathe Again](https://open.spotify.com/track/5A83Ob2zfm00oahV4ioFNt) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Still Just Breathing](https://open.spotify.com/album/6pX8vrvmBoOg2HF8LK9Gr8) | 3:37 |
 | 49 | [Cuff the Criminal](https://open.spotify.com/track/7DBd9nxx1EOivWRY3kYGZM) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 3:32 |
 | 50 | [All It Takes](https://open.spotify.com/track/0pJ6aFAqdOANvIdzOQ4cVi) | [DAV](https://open.spotify.com/artist/3UhOrPbn8pGeF4rZjUNXuS), [Jon The Revalaytor](https://open.spotify.com/artist/44YUYpFeZPJv7FaafB4TTW) | [All It Takes](https://open.spotify.com/album/63h7zhtC6jR2TN4p071eDE) | 4:01 |
 | 51 | [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 4:40 |
 | 52 | [My Declaration](https://open.spotify.com/track/2uD6FPyDovbYAbI7oF2Srs) | [Bayless](https://open.spotify.com/artist/5cTZq90aOtEXdJBX4zThnu) | [My Declaration](https://open.spotify.com/album/1q7degKMC1ik1akGBNO0e9) | 4:12 |
 
-Snapshot ID: `MTYxODAxOTc3MCwwMDAwMDAwMDRlMmM3M2IyMzFiOWVkMWZjMWYyMzdmM2E0NzA2ZDNm`
+Snapshot ID: `MTYxODAxOTc3MCwwMDAwMDAwMDRiMGIzMjQ3OGE0MGM2YzM0NGIxNDkxZjMzYThhNDJm`

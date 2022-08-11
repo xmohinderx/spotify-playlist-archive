@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡MC Davo; Nicky Jam; Tokischa y Eladio Carrion; Kenia OS; Eminem y 50 Cent; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,009 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,084 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 17 | [LOS APARATOS](https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [LOS APARATOS](https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi) | 3:52 |
 | 18 | [ea diache](https://open.spotify.com/track/3nQmKjtOfpfc5UGE7eA08u) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:32 |
 | 19 | [Experimento 01](https://open.spotify.com/track/25yOopxmGC67836N4POHBg) | [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Experimento 01](https://open.spotify.com/album/0TD1YrV99XSu9wwRxe0MEa) | 2:54 |
-| 20 | [TU MANUAL](https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Savage Kreamly](https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU) | [FRÍO](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 2:48 |
+| 20 | [TU MANUAL](https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Savage Kreamly](https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU) | [Frío](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 2:48 |
 | 21 | [Laguna](https://open.spotify.com/track/6QN9glefJXPoy8vPZLiFL0) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Laguna](https://open.spotify.com/album/6HVsbMOf4kXG3KYBa1KOhD) | 3:31 |
 | 22 | [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 |
 | 23 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 |

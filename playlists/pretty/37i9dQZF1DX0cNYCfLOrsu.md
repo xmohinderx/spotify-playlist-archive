@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best to ever do it\. Cover: Jada Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,203 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,265 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 66 | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/track/7kaNSzp7gVRFoxEmE42IU9) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/album/7pMzHtdqbu6HGHp30GNp54) | 2:08 |
 | 67 | [Do That \(feat\. Tony Matterhorn\)](https://open.spotify.com/track/2l36ZNtoL7LxW93xU8EJyv) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:04 |
 | 68 | [Backseat](https://open.spotify.com/track/5w2OOk891slAH801IHVRDz) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Backseat](https://open.spotify.com/album/6OLU7kmYli7ZHLetkOvxI7) | 2:30 |
-| 69 | [Get Paid](https://open.spotify.com/track/6fjjjC1Swt5bxEdkXH8DFr) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:27 |
-| 70 | [Designer](https://open.spotify.com/track/4ZptztBp4PvoFsFti49pHu) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Designer](https://open.spotify.com/album/3xZ56cOpghgZNhnxdflXnn) | 3:30 |
+| 69 | [Designer](https://open.spotify.com/track/4ZptztBp4PvoFsFti49pHu) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Designer](https://open.spotify.com/album/3xZ56cOpghgZNhnxdflXnn) | 3:30 |
+| 70 | [Get Paid](https://open.spotify.com/track/6fjjjC1Swt5bxEdkXH8DFr) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:27 |
 | 71 | [Hard & Done](https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Hard & Done](https://open.spotify.com/album/2mdQ5xNL2QOBniNeHrhIDY) | 2:40 |
 | 72 | [Walk Out](https://open.spotify.com/track/5oQ90gRbe4rqJDkeqhPHIQ) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Walk Out](https://open.spotify.com/album/4n6NxquEZC0FMt1zH12iOS) | 3:10 |
 | 73 | [Batty Rider Shorts](https://open.spotify.com/track/0umOVszFJr1XMGBXK1i4xK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Batty Rider Shorts](https://open.spotify.com/album/3Wgc0ssm8QiWJ8UecTW8ex) | 3:19 |
 | 74 | [Naah Done](https://open.spotify.com/track/2569kuV4cvCN9Q0jQBgWlk) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Naah Done](https://open.spotify.com/album/3YILBKYE3k9kLTi3iFVFx2) | 3:19 |
 | 75 | [Wasteman](https://open.spotify.com/track/2qPSLoOyCXZyGB70Qf5H7K) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Wasteman](https://open.spotify.com/album/491hOjtl7Ifea5pY5xkwvr) | 3:29 |
 
-Snapshot ID: `MTY1NTc0Njc3NywwMDAwMDAwMDAxM2E4NWJlOTA5Y2Q2YzVmMjE1OTI3OWUwZmIxMGI5`
+Snapshot ID: `MTY1NTc0Njc3NywwMDAwMDAwMGNhZTljNGJmM2FhMjFlOGY0YmM2NmMzYmI4NjQ0ZTNj`

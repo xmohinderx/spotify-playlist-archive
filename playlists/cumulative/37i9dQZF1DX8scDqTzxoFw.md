@@ -4,7 +4,7 @@
 
 > Watch the kids go wild for these party tunes!
 
-137 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/0e2GAgSIxFVmpVZxEgmPmE)
+138 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/0e2GAgSIxFVmpVZxEgmPmE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 | 2021-10-08 |  |
 | [How Do You Sleep?](https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep?](https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo) | 3:22 | 2021-10-08 |  |
 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 | 2021-10-08 |  |
-| [I Like To Move It](https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \(Music From The Motion Picture\)](https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG) | 3:41 | 2022-07-05 |  |
+| [I Like To Move It](https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \(Music From The Motion Picture\)](https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG) | 3:41 | 2022-07-05 | 2022-08-11 |
 | [I Like To Move It](https://open.spotify.com/track/6FDncQmNl6WfOZDCpcrcti) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \- Music From The Motion Picture](https://open.spotify.com/album/53HHf3pv5FGl41cIa8iJQU) | 3:41 | 2021-10-08 | 2022-07-29 |
+| [I Like To Move It](https://open.spotify.com/track/3hYvZHS6dqEhvBbO302MjR) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Fiesta despúes de la siesta](https://open.spotify.com/album/4h6x8zsA7RXuHL2TEkYYy0) | 3:42 | 2022-07-05 |  |
 | [I'm A Believer](https://open.spotify.com/track/4lAYMPLPFOovwTCmtTt9b5) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth \(International Version\)](https://open.spotify.com/album/54E5K2EKljAOlJosBJsuUH) | 3:05 | 2021-10-08 | 2022-07-29 |
 | [I'm A Believer \- Radio Edit](https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth](https://open.spotify.com/album/0E0q3hPeALlDvoDvYztYeH) | 3:03 | 2022-07-05 |  |
 | [I'm a Lady \- from SMURFS: THE LOST VILLAGE](https://open.spotify.com/track/7MSFoTbgwi5BFpilewAbUo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [I'm a Lady \(from SMURFS: THE LOST VILLAGE\)](https://open.spotify.com/album/2WmgJ564fx8gNku6JdIjB5) | 2:44 | 2021-10-08 |  |

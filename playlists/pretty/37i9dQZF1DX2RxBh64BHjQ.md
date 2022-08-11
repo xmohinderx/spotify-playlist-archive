@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1iwUuIOKYjV7SKIg27v4zi">Real Boston Richey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,669,197 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,669,534 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 63 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
 | 64 | [Count Me Out](https://open.spotify.com/track/5uFJduSeHmCttOQzpaCgnu) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [B4PINK](https://open.spotify.com/album/0wgrKGnsLCq4tM0jIOBmkP) | 2:25 |
 | 65 | [Savages](https://open.spotify.com/track/4T7SSgpvgt0BfQz73sjAvM) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [The Golden Child](https://open.spotify.com/album/5JtuaEXZo0QZ2scZGo7QVn) | 2:34 |
-| 66 | [Rock](https://open.spotify.com/track/3q9UfLr6foEzn0ki0vKgHj) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/26kJC1nv4s6lOAjNiRILoT) | 4:03 |
+| 66 | [Rock](https://open.spotify.com/track/7kp8t9yexJdk7LuvTK47XI) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl) | 4:03 |
 | 67 | [Supercharge \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5UoKOaI2Dg2a9Qgw5TsStq) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Supercharge \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/07ODE2Qy9EfewM8DVkW7ST) | 2:54 |
 | 68 | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/album/0fFqPfWEy8FdDqaPzXMOLx) | 2:55 |
 | 69 | [SCHEMES](https://open.spotify.com/track/0rFNu0G170Z6wgakWF9Sdv) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [WTF is P¡NK](https://open.spotify.com/album/5WsHm6ThrGn78FvAg636ti) | 1:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Cheated](https://open.spotify.com/track/3Q80j15qNY73dkiotvMuLc) | [Lil Migo](https://open.spotify.com/artist/4weldYkJEu7VzU1lLUQPBF) | [Cheated](https://open.spotify.com/album/5pJfFvMVHkmPyqbxsRzSKf) | 2:28 |
 | 100 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 |
 
-Snapshot ID: `MTY1OTY3Mjk0NywwMDAwMDAwMDNkMzZhOTgzZjY2YmE3N2Y2Y2I0MjUzMWI3NjZjZjgy`
+Snapshot ID: `MTY1OTY3Mjk0NywwMDAwMDAwMGRkZjIzYzdlMGJiYTkyMzVkOTM1MWE3ZGRmYzZiOWI5`

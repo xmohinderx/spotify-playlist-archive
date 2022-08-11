@@ -4737,7 +4737,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 240200,
       "name": "Quizas - Remix",
       "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
@@ -5045,7 +5045,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 230240,
       "name": "Se Vale To-To",
       "url": "https://open.spotify.com/track/3SXo6PO3z3C0laMLCK9T7h"
@@ -6120,6 +6120,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de Mi",
+        "url": "https://open.spotify.com/album/5qzzkjzmwd0WF0KiEGILM4"
+      },
+      "artists": [
+        {
+          "name": "Jadiel el Incomparable",
+          "url": "https://open.spotify.com/artist/0ANypE7iy3sVMppNuKFpGh"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/1meA8imRWltOs5Jp0kaL0y"
+    },
+    {
+      "album": {
         "name": "The Last Don",
         "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
@@ -6737,7 +6755,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 239223,
       "name": "Yo Voy A Legar (feat. Zion)",
       "url": "https://open.spotify.com/track/0m2CS9McLcfM6UNtUBagyn"

@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-215 songs - 15 hr 51 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+216 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Short Story of the Mahale Mountains](https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO) | 2:42 | 2022-04-15 |  |
 | [Abuela Teresa](https://open.spotify.com/track/7GBsAHlkm0AApjZbvd14S6) | [Renzo Zong](https://open.spotify.com/artist/6wdEQYkry4yDmHKsU6ZcNn), [Dimitri Manga](https://open.spotify.com/artist/00yQmnDRAMXZcaZPYOGF6c) | [Abuela Teresa](https://open.spotify.com/album/0gFYzlvQ4FBAQgzcdXf87p) | 5:48 | 2022-04-15 | 2022-04-20 |
 | [Adiós Batata \- Cerrero Dub Mix](https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Adiós Batata \(Cerrero Dub Mix\)](https://open.spotify.com/album/7o7iFlxztqfLv1FbaSg8Zo) | 6:47 | 2021-11-26 | 2022-06-17 |
+| [Agujeros Blancos](https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3) | 2:24 | 2022-04-15 |  |
 | [Agujeros Blancos](https://open.spotify.com/track/74spSIGR2o7FrjHSG4AVM3) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2kle3HDOBmnyx5BrR9B8EW) | 2:24 | 2021-11-26 | 2022-06-04 |
 | [Agüita del Equilibrio \(Remix\)](https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Juan Campodonico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Agüita del Equilibrio \(Remix\)](https://open.spotify.com/album/43lARNcRvw8swQlr54FofW) | 4:47 | 2021-11-26 | 2022-07-23 |
 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 | 2021-11-26 |  |
@@ -216,7 +217,7 @@
 | [Ultravioleta \- DJ Raff Remix](https://open.spotify.com/track/5yoxKVZ1cqiB0ocI03iFeq) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ultravioleta Remixes](https://open.spotify.com/album/7ouXMhGcqxCHJzptPUZXhM) | 4:47 | 2021-11-26 | 2022-07-28 |
 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/17D02dGk9OaLePiabFtJFf) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/2iRT0PbeJWu7qgmeeO2wei) | 2:30 | 2022-04-15 | 2022-04-20 |
 | [Vamo a Dale Duro](https://open.spotify.com/track/1wwgINDRmCrx2P7fYOScIj) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Vamo a Dale Duro](https://open.spotify.com/album/4OSvkwaHIdJSuAdlQFIWtl) | 3:48 | 2021-11-26 | 2022-07-15 |
-| [Vayayó](https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Vayayó](https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf) | 2:09 | 2021-11-26 |  |
+| [Vayayó](https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Vayayó](https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf) | 2:09 | 2021-11-26 | 2022-08-11 |
 | [Viene de Mi](https://open.spotify.com/track/5YsWsf7LF92DPsBPFpP7va) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/607i19J3XLlO7eny7OplFK) | 3:50 | 2021-11-26 | 2022-07-27 |
 | [Viene de Mi](https://open.spotify.com/track/70eSJcVl6nOfDIgROsOMTr) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ) | 3:50 | 2022-04-15 |  |
 | [Woranait](https://open.spotify.com/track/0FoI2Vc2D7S4XNDykwZ8ig) | [Frikstailers](https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH) | [Woranait](https://open.spotify.com/album/0NWyOS3YDaME6XkouJg4sM) | 3:31 | 2022-04-15 | 2022-04-19 |

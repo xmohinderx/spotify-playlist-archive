@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 ### [Disney Junior Hits](https://open.spotify.com/playlist/37i9dQZF1DX4TzCf8od5BM)
 
-> Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Doc McStuffins in one playlist!
+> Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Marvel’s Spidey and His Amazing Friends in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,599 likes - 150 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,618 likes - 150 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 | 149 | [\(Muppet Baby\) You Can Be a Star](https://open.spotify.com/track/3IZDkjTFymwe24SA0Br1Pw) | [Cast \- Muppet Babies](https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:10 |
 | 150 | [The Nancy Way](https://open.spotify.com/track/2NCcDPOWpga6sCZXI4kJGR) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 |
 
-Snapshot ID: `MTY1OTY4OTk2MiwwMDAwMDAwMDYwNWFmODU4ZmM3ODAzMjRiMjY0OGFiYzg4NjA1NGQx`
+Snapshot ID: `MTY2MDE1MTYyNSwwMDAwMDAwMDc3NWU2ZDA5MWRmMGY4Mjk4OWE4YWM3OGMyN2ViMzc5`

@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-346 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
+348 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Garden Roses](https://open.spotify.com/track/1Hk5HsgILlZxv8hTDHjAFZ) | [Eden Parks](https://open.spotify.com/artist/4s4Bb2TBJLW89tZOV5pz8G) | [Songs from the valley](https://open.spotify.com/album/0WIBmu22RxfRMvqASl8MyA) | 2:29 | 2021-10-07 |  |
 | [Gentle Dreams](https://open.spotify.com/track/1kETBJfZROZUl3nngNRVRu) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Gentle Dreams](https://open.spotify.com/album/4f3WGJ9z4RtE9S8015k7pq) | 2:18 | 2021-10-07 |  |
 | [Georgie Porgie](https://open.spotify.com/track/5Ta2XWU7fE69bU1w3ZDILn) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:11 | 2021-10-07 |  |
-| [Go Tell It on the Mountain](https://open.spotify.com/track/544L02Es0F21ZS1G86YWOG) | [Leon Marcus](https://open.spotify.com/artist/2vZ0kN1eFvshSzRWBwd3jf) | [Go Tell It on the Mountain](https://open.spotify.com/album/0N74Q2xMw7rhxwjolOLCrE) | 2:22 | 2021-10-07 |  |
+| [Go Tell It on the Mountain](https://open.spotify.com/track/544L02Es0F21ZS1G86YWOG) | [Leon Marcus](https://open.spotify.com/artist/2vZ0kN1eFvshSzRWBwd3jf) | [Go Tell It on the Mountain](https://open.spotify.com/album/0N74Q2xMw7rhxwjolOLCrE) | 2:22 | 2021-10-07 | 2022-08-11 |
 | [Godnat min skat](https://open.spotify.com/track/3nIAPDblNehwcKzMmckknw) | [Grete Rosenkjær](https://open.spotify.com/artist/0R9BrQPB75F1VgukWfwXHw) | [Godnat min skat](https://open.spotify.com/album/5Pbg0ie2phwJOea0hvLwdw) | 1:07 | 2021-10-07 |  |
 | [Golden Slumbers](https://open.spotify.com/track/4PbD6tkvzVgwZcAQgUPxka) | [Gina Welper](https://open.spotify.com/artist/0t4QhpN4QfxhPTj0Qy7NNn) | [Golden Slumbers](https://open.spotify.com/album/5YFzaNU55WsVvHZZilzrnP) | 1:06 | 2021-10-07 |  |
 | [Gone Fishing](https://open.spotify.com/track/1iMnJYHMfk2ledh8jxypzl) | [Harper Gomez](https://open.spotify.com/artist/54HcGYTrzcGNYHa5cU9v6S) | [Gone Fishing](https://open.spotify.com/album/5GT0g5Pwv6HnAzvzahKD7q) | 1:44 | 2021-10-07 |  |
@@ -165,6 +165,7 @@
 | [Kumbayah](https://open.spotify.com/track/5wWAjBYLHEy8FwteKQqok0) | [Adelmar Borrego](https://open.spotify.com/artist/5bdLiUDd0rIMAkT1y6zLaE) | [Frère Jacques](https://open.spotify.com/album/0eG8Pkyoc91BZ7s7bsBtNi) | 1:36 | 2021-10-07 |  |
 | [La Cucaracha](https://open.spotify.com/track/3KtsEkq4GQSO80dcXmC8iS) | [Hannah Hill](https://open.spotify.com/artist/6OE5cqMEpVemAzsvpPKJuV) | [La Cucaracha](https://open.spotify.com/album/4XCAJuuV4XkzFgHZSo2ebo) | 1:40 | 2022-01-21 |  |
 | [Ladybird](https://open.spotify.com/track/29m9bqkYtMvxDEO6QQYLJ3) | [Bobbi Rafferty](https://open.spotify.com/artist/0m9pUjmNedBWPtNVf0ZVlt) | [Ladybird](https://open.spotify.com/album/4LTG85GVjf5C17cdMaWGsh) | 1:35 | 2022-02-10 |  |
+| [Lapprika](https://open.spotify.com/track/3uzZub2fRRFP402ZXO7NDI) | [Gretchen Andersen](https://open.spotify.com/artist/6JA3BkprYUjs2sL4u7FBpZ) | [Lapprika](https://open.spotify.com/album/2x2lvMLg9ExFjSKa1FOPH6) | 1:10 | 2022-08-10 |  |
 | [Lemon sky](https://open.spotify.com/track/3UvDZep35uVvjQs2C1kLLW) | [Aiden Kendal](https://open.spotify.com/artist/4sYmi0xVWyHLgYA0ur7NYt) | [Lemon sky](https://open.spotify.com/album/4GXco887kb4osKRxt2Ia8r) | 1:21 | 2021-10-07 |  |
 | [Leonel's First Steps](https://open.spotify.com/track/5mKfrBb5iCkXF7EkRO6lrA) | [Regina Scott](https://open.spotify.com/artist/12whHrHwuz0rDPhO3LY9a3) | [Leonel's First Steps](https://open.spotify.com/album/1BDjxKRPAh5yDiRfM1aBpw) | 1:59 | 2021-10-07 |  |
 | [Let's Call It A Night](https://open.spotify.com/track/3Hfc2BB0RAZ13TW1TFliE6) | [Lilly\-Ann Ottley](https://open.spotify.com/artist/6UVVSofDYobp2qJM6p35lL) | [Let's Call It A Night](https://open.spotify.com/album/0hRGRBZNsqFonXKYLxEEgJ) | 1:14 | 2022-04-19 |  |
@@ -263,7 +264,7 @@
 | [She'll Be Coming 'Round The Mountain](https://open.spotify.com/track/4RVbG2QUU8L8Fc1CUsYYWw) | [Irwin Boatwright](https://open.spotify.com/artist/0xi7Mc7fS0IL523uoVmdR8) | [She'll Be Coming 'Round The Mountain](https://open.spotify.com/album/4v10QZ8geeKAbbRRa5Tysa) | 1:44 | 2021-10-07 |  |
 | [Singing for You](https://open.spotify.com/track/3rQgsHrtcKW3rf9Cnx9dBn) | [Kayden Roydon](https://open.spotify.com/artist/33lopRkxhpLfc268jbtTxS) | [Singing for You](https://open.spotify.com/album/0niS3RXrOE4Go5ChPsJpLG) | 1:43 | 2021-10-07 |  |
 | [Skidamarink](https://open.spotify.com/track/4QlZFHDwrV9n8aZ8cWslaB) | [Tracey McNamara](https://open.spotify.com/artist/0v1APFeqkWd1gvdqMcGr1d) | [Skidamarink](https://open.spotify.com/album/53wDDZIU6ySWJE2taOJ0bd) | 2:05 | 2021-10-07 |  |
-| [Skip To My Lou](https://open.spotify.com/track/6r1N2c0I9Q6CeXRlJ1IcdN) | [Mary Robertson](https://open.spotify.com/artist/7HR9rPFMZJ63cm01ia7QRW) | [This Land Is Your Land](https://open.spotify.com/album/1RFf5nn2xOnP9DWszeHHWr) | 2:03 | 2021-10-07 |  |
+| [Skip To My Lou](https://open.spotify.com/track/6r1N2c0I9Q6CeXRlJ1IcdN) | [Mary Robertson](https://open.spotify.com/artist/7HR9rPFMZJ63cm01ia7QRW) | [This Land Is Your Land](https://open.spotify.com/album/1RFf5nn2xOnP9DWszeHHWr) | 2:03 | 2021-10-07 | 2022-08-11 |
 | [Skymningsvisan](https://open.spotify.com/track/4guXLGmN7Xp0UnnGiXgfkg) | [Rigmor Ljungman](https://open.spotify.com/artist/7sIlNeR6xW9xfJ65yOKH8Z) | [Skymningsvisan](https://open.spotify.com/album/1s8qEltYoiq8U80SzLuEoi) | 1:47 | 2021-10-07 |  |
 | [Slaapliedje](https://open.spotify.com/track/3cjgdSOVY0j6czqRCpRATA) | [Peggie Vos](https://open.spotify.com/artist/6y8LXnKJmwVyDhFfwg8vhE) | [Slaapliedje](https://open.spotify.com/album/2CQYzsHZvjE3UPF5qJFSIx) | 1:46 | 2021-10-07 |  |
 | [Sleep Little Kitten](https://open.spotify.com/track/0Xk7WSYruXStO4lxE0jpD6) | [Astor Ridgeback](https://open.spotify.com/artist/74H23wXq7l7ihMMGczxhL5) | [Sleep Little Kitten](https://open.spotify.com/album/5nwLFruk6vCAF2vm1ylrQe) | 1:39 | 2021-10-07 |  |
@@ -307,6 +308,7 @@
 | [The Muffin Man](https://open.spotify.com/track/5BhTxumZ4l4JEn1xOxVRKY) | [William Borne](https://open.spotify.com/artist/2vIJ2ofUVabbzvdJoLM5X9) | [Hungry Lullabies](https://open.spotify.com/album/40yKj9kDMPXtqscBzsZCcs) | 2:26 | 2021-10-07 |  |
 | [The Paw Paw Patch](https://open.spotify.com/track/5xQryMkcUZt2129uIOUfee) | [Sienna Hewitt](https://open.spotify.com/artist/6PjnavWTln3VeGwsHZgWPL) | [A Tisket, A Tasket](https://open.spotify.com/album/1eEmpwJloD85lVUhGvP1UN) | 0:54 | 2021-10-07 | 2022-03-18 |
 | [The Pumpkin](https://open.spotify.com/track/6jAFEN63YWuEYOPooILzEv) | [Marielle Wilson](https://open.spotify.com/artist/2XH0vhn32RdidOMQiqxOEG) | [The Pumpkin](https://open.spotify.com/album/44deX2eesCod2t3zC4SbNv) | 1:38 | 2021-10-07 |  |
+| [The Rabbit and The Sparrow](https://open.spotify.com/track/6nsgW7nE2R8b0XkzAgWf4i) | [Jenny Sarah](https://open.spotify.com/artist/42KXtMN44AvCxbW3NFxJHl) | [The Rabbit and The Sparrow](https://open.spotify.com/album/3GbHYS7cr3dGKOBf4gvTlc) | 1:51 | 2022-08-10 |  |
 | [The Rooster](https://open.spotify.com/track/7JiAg8jIQkAzSy0lEap7Zg) | [Lanny Peck](https://open.spotify.com/artist/02tsxaTHlK3q64g9iSXaSq) | [The Rooster](https://open.spotify.com/album/4h9R9eY5y1mcLmtmWYoyLb) | 1:26 | 2021-10-07 |  |
 | [The Sky is Smiling](https://open.spotify.com/track/1ufUQRuEPV4m0c4eWeKsOc) | [Norton Lamb](https://open.spotify.com/artist/6utcrNkoGuFBgRTGffKOSr) | [The Sky is Smiling](https://open.spotify.com/album/1zdFJYcJDloOSwS6jFFude) | 1:16 | 2021-10-07 |  |
 | [The Sweetest Dream](https://open.spotify.com/track/67Vd6Jkvz7xzAfqqjw1Fvy) | [Mirela Rubio](https://open.spotify.com/artist/5IQ0vabudI7APVrHXfEsCA) | [The Sweetest Dream](https://open.spotify.com/album/2HW02tpcHyD9OoNoG3Up1t) | 1:57 | 2021-10-07 |  |

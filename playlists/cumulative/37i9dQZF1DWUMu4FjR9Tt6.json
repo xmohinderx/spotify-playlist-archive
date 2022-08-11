@@ -569,6 +569,28 @@
     {
       "album": {
         "name": "The Hawk",
+        "url": "https://open.spotify.com/album/6t08qdgCTaJV5CfUsTIuS4"
+      },
+      "artists": [
+        {
+          "name": "Joe Hunter",
+          "url": "https://open.spotify.com/artist/2pSgCWyN14Fl8zfCybIbkr"
+        },
+        {
+          "name": "Four Holidays",
+          "url": "https://open.spotify.com/artist/0W87O5rwe9qdB7k3LieHgZ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135743,
+      "name": "He Can't Love You",
+      "url": "https://open.spotify.com/track/1ieNiEe17fvlHnqalSoKZB"
+    },
+    {
+      "album": {
+        "name": "The Hawk",
         "url": "https://open.spotify.com/album/7GQAorU7fViE9CyH61icRu"
       },
       "artists": [

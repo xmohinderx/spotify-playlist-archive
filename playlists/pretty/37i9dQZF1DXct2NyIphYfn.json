@@ -1,12 +1,12 @@
 {
   "description": "Some of the most beautiful French love songs. ",
-  "num_followers": 52003,
+  "num_followers": 52037,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMGU0NjQ4MDQxYmU0NGNkOTk5Zjg4NmE3OTM3MGQxYzkz",
+  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDY1NDJkMWI0MjI1MWVlMjcyODEyMzczNDUwM2U3MTk0",
   "tracks": [
     {
       "added_at": "2022-01-18 23:00:02",
@@ -309,20 +309,20 @@
       "url": "https://open.spotify.com/track/7C03dDo2QyGVq7zjWF5uGB"
     },
     {
-      "added_at": "2022-01-18 23:00:02",
+      "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Petite Amie (Edition D\u00e9lice)",
-        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
       },
       "artists": [
         {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
         }
       ],
-      "duration_ms": 239573,
-      "name": "A la Folie",
-      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
+      "duration_ms": 261106,
+      "name": "Je T\u2019aime",
+      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -341,20 +341,20 @@
       "url": "https://open.spotify.com/track/2RcrBSsrLtBVPKqEyYCqpy"
     },
     {
-      "added_at": "2021-01-30 03:13:15",
+      "added_at": "2022-01-18 23:00:02",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+        "name": "Petite Amie (Edition D\u00e9lice)",
+        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
       },
       "artists": [
         {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
         }
       ],
-      "duration_ms": 261106,
-      "name": "Je T\u2019aime",
-      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
+      "duration_ms": 239573,
+      "name": "A la Folie",
+      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Sarbacane (Remastered)",
-        "url": "https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 353266,
-      "name": "C'est \u00e9crit - Remastered",
-      "url": "https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "Live From Paris",
         "url": "https://open.spotify.com/album/0qE6Dd97eQiywwpbrhb5fX"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 230453,
       "name": "Je l'aime \u00e0 mourir - Live from Paris",
       "url": "https://open.spotify.com/track/0MOXq3Fg8y3HtFGT1qLH40"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Sarbacane (Remastered)",
+        "url": "https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "C'est \u00e9crit - Remastered",
+      "url": "https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Lisa LeBlanc",
-        "url": "https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V"
-      },
-      "artists": [
-        {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "Kraft Dinner",
-      "url": "https://open.spotify.com/track/75tmUxexYj2WgMpCdBtdT0"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "Learn French Thru Music",
         "url": "https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 163578,
       "name": "Quelqu'un M'a Dit",
       "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Lisa LeBlanc",
+        "url": "https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V"
+      },
+      "artists": [
+        {
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "Kraft Dinner",
+      "url": "https://open.spotify.com/track/75tmUxexYj2WgMpCdBtdT0"
     },
     {
       "added_at": "2021-01-30 03:13:15",

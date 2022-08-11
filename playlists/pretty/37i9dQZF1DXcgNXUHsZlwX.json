@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Connor Seidel (1969 Collective)",
-  "num_followers": 100943,
+  "num_followers": 100955,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1MjgwMCwwMDAwMDAwMDg0MDMzNmQ5MDhlYzcyYjFlNDk0YzZhYWQ1MDRiM2Uw",
+  "snapshot_id": "MTY1NzI1MjgwMCwwMDAwMDAwMDY2Zjg0MzAzM2I4YmE1Y2E5NjZlMjQzMTQzNTJiOGUx",
   "tracks": [
     {
       "added_at": "2022-07-08 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
         "name": "Swimmer",
         "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 213000,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Travelling",
-        "url": "https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA"
-      },
-      "artists": [
-        {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
-        }
-      ],
-      "duration_ms": 227446,
-      "name": "Le triomphe d'une perruche",
-      "url": "https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
         "name": "Cold World",
         "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 224520,
       "name": "Cold World",
       "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Travelling",
+        "url": "https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA"
+      },
+      "artists": [
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "duration_ms": 227446,
+      "name": "Le triomphe d'une perruche",
+      "url": "https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
         "name": "No Water, No Flowers",
         "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 195235,
       "name": "Sans Toi",
       "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "New Waves (Live Recordings \u201919-\u201921)",
-        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
+        "name": "Dans la for\u00eat num\u00e9rique",
+        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
         }
       ],
-      "duration_ms": 430506,
-      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
-      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
+      "duration_ms": 231906,
+      "name": "Nos corps",
+      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+        "name": "Heavy Stone",
+        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
         }
       ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+      "duration_ms": 188027,
+      "name": "Heavy Stone",
+      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -851,34 +851,34 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Heavy Stone",
-        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+        "name": "New Waves (Live Recordings \u201919-\u201921)",
+        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
       },
       "artists": [
         {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 188027,
-      "name": "Heavy Stone",
-      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
+      "duration_ms": 430506,
+      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
+      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
     },
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Dans la for\u00eat num\u00e9rique",
-        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00f4me Mini\u00e8re",
-          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Nos corps",
-      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
+        "name": "C'est Plus Comme Avant (Version Acoustique)",
+        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "C'est Plus Comme Avant - Version Acoustique",
+      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 218653,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "C'est Plus Comme Avant (Version Acoustique)",
-        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 166306,
-      "name": "C'est Plus Comme Avant - Version Acoustique",
-      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Life As It Comes",
-        "url": "https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Life As It Comes",
-      "url": "https://open.spotify.com/track/4t8LId4jMs76b41wETklvD"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Life As It Comes",
+        "url": "https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Life As It Comes",
+      "url": "https://open.spotify.com/track/4t8LId4jMs76b41wETklvD"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk"
+        "name": "Maison ouverte",
+        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
       },
       "artists": [
         {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
         }
       ],
-      "duration_ms": 200005,
-      "name": "Le Tour",
-      "url": "https://open.spotify.com/track/2bstLxHshzom3DVgB5j8m4"
+      "duration_ms": 239573,
+      "name": "Maison ouverte",
+      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Maison ouverte",
-        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk"
       },
       "artists": [
         {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
         }
       ],
-      "duration_ms": 239573,
-      "name": "Maison ouverte",
-      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
+      "duration_ms": 200005,
+      "name": "Le Tour",
+      "url": "https://open.spotify.com/track/2bstLxHshzom3DVgB5j8m4"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
+        "name": "Antigone",
+        "url": "https://open.spotify.com/album/3jVJxDHxlxY1UyaDPSS9CL"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 216009,
+      "name": "Antigone",
+      "url": "https://open.spotify.com/track/3gQrNbDCkxplgLJOQA8NJ7"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
         "name": "Au\u200b-\u200bdel\u00e0 de la mar\u00e9e (la m\u00e8re et le p\u00e8re et leur petit)",
         "url": "https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 195030,
       "name": "Prendre soin du beau",
       "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Antigone",
-        "url": "https://open.spotify.com/album/3jVJxDHxlxY1UyaDPSS9CL"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 216009,
-      "name": "Antigone",
-      "url": "https://open.spotify.com/track/3gQrNbDCkxplgLJOQA8NJ7"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-07-08 04:00:00",
       "album": {
-        "name": "Qui a mis le feu",
-        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
-      },
-      "artists": [
-        {
-          "name": "Mat Vezio",
-          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Qui a mis le feu",
-      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
         "name": "Le jardin se meurt",
         "url": "https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 347533,
       "name": "Le jardin se meurt",
       "url": "https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu"
+    },
+    {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Qui a mis le feu",
+        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
+      },
+      "artists": [
+        {
+          "name": "Mat Vezio",
+          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Qui a mis le feu",
+      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
     },
     {
       "added_at": "2022-07-08 04:00:00",

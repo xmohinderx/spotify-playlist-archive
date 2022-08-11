@@ -4,7 +4,7 @@
 
 > The UK's biggest dance playlist! Cover: Joel Corry & Becky Hill
 
-259 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/5fVCEeL6B4wf7pLEe8QzL4)
+260 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/5fVCEeL6B4wf7pLEe8QzL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Here For You](https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Cognition](https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0) | 3:46 | 2022-02-11 | 2022-05-21 |
 | [Higher Love](https://open.spotify.com/track/2yCyr5ZJHDm9CzpPRdduJ9) | [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [Higher Love](https://open.spotify.com/album/4yKC4uD981O8oCPzowwOjl) | 3:58 | 2022-03-08 | 2022-03-10 |
 | [HISTORY](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [HISTORY](https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78) | 2:56 | 2022-08-05 |  |
+| [Hold This](https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0) | [HStikkytokky](https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Hold This](https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA) | 2:25 | 2022-08-10 |  |
 | [Home To You](https://open.spotify.com/track/2L3d9zBy8Iq8mKIde7cwmJ) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Home To You](https://open.spotify.com/album/7d9uINjyNayVjn00b913Ah) | 3:23 | 2022-03-08 | 2022-03-10 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-06-30 |  |
 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 | 2021-11-03\* | 2022-03-10 |
@@ -161,7 +162,7 @@
 | [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 | 2022-07-28 | 2022-08-05 |
 | [Mine O' Mine](https://open.spotify.com/track/6nATiM03z9hZ5aPF8pswNe) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/3d1goOl1kD29hQPHRtywS9) | 3:13 | 2022-04-29 | 2022-07-29 |
 | [Missing You](https://open.spotify.com/track/0liLrRUJW0oTNwsZh8kPBx) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 3:42 | 2022-07-07 |  |
-| [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 | 2022-04-22 |  |
+| [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 | 2022-04-22 | 2022-08-11 |
 | [Monday Kind of Tuesday](https://open.spotify.com/track/6V8UEh7aSmuh1qxe1HnNnE) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Monday Kind of Tuesday](https://open.spotify.com/album/3UH4jh4TcxS2Iyk1EAHVgj) | 2:22 | 2022-04-01 | 2022-06-17 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-11-03\* | 2022-02-04 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-04-15 | 2022-06-17 |

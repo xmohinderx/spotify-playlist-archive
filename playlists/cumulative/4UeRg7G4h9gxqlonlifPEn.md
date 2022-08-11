@@ -4,7 +4,7 @@
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Southside, Lil Durk
 
-124 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
+125 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [No Face](https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Face](https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv) | 3:09 | 2022-07-15 |  |
 | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7) | 2:30 | 2022-06-03 | 2022-06-25 |
 | [Not Opps \(feat\. EST Gee\)](https://open.spotify.com/track/2C2LbwwnbtWuK396MKRERV) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:54 | 2022-07-08 |  |
+| [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-08-10 |  |
 | [OKAY! \(Prod\. Gesaffelstein\)](https://open.spotify.com/track/5UdXcCJfEye6TCwAvUvzgD) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [OKAY! \(Prod\. Gesaffelstein\)](https://open.spotify.com/album/06Rzy0mTJ33m3Wu2lRkMFw) | 4:35 | 2022-06-03 |  |
 | [One Night](https://open.spotify.com/track/6FvfnRAIGq6j3DJTDvOHTF) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [One Night](https://open.spotify.com/album/6Qvwo68BuUMDo0OTQGPLiX) | 2:46 | 2022-06-03 | 2022-06-25 |
 | [One Two \(feat\. YungManny\)](https://open.spotify.com/track/0YLKjMNe2YtC5pzCyRoypZ) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3), [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [One Two \(feat\. YungManny\)](https://open.spotify.com/album/5wRaQ7AhuwZhIwXOm1znT9) | 3:45 | 2022-06-03 |  |

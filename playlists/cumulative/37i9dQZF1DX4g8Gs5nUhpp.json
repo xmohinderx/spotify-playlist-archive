@@ -1250,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00ean Anh \u0110i",
+        "url": "https://open.spotify.com/album/3FE6u1nOMdVEhfnJKWiCIp"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245625,
+      "name": "Qu\u00ean Anh \u0110i",
+      "url": "https://open.spotify.com/track/4pMSLfqswCeDzG2iVmwGkR"
+    },
+    {
+      "album": {
         "name": "Real Love (The Heroes Version)",
         "url": "https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb"
       },

@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 4817,
+  "num_followers": 4840,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2NDE5MCwwMDAwMDAwMDIwNWNlYWY3MDFlYmI5MTI2ZjA0MTI0NTU1YzliNWU4",
+  "snapshot_id": "MTY2MDA2NDE5MCwwMDAwMDAwMDcyNGQzMmFkMzhhODdmOGM5NWI0N2QyNTgxMTg5YmQw",
   "tracks": [
     {
       "added_at": "2022-08-09 16:56:30",
@@ -715,6 +715,26 @@
     {
       "added_at": "2022-08-09 16:56:30",
       "album": {
+        "name": "EMO #1",
+        "url": "https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 217489,
+      "name": "Justin Bieber (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
+    },
+    {
+      "added_at": "2022-08-09 16:56:30",
+      "album": {
         "name": "VELVETMOTH",
         "url": "https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx"
       },
@@ -747,42 +767,6 @@
     {
       "added_at": "2022-08-09 16:56:30",
       "album": {
-        "name": "EMO #1",
-        "url": "https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 217489,
-      "name": "Justin Bieber (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
-    },
-    {
-      "added_at": "2022-08-09 16:56:30",
-      "album": {
-        "name": "kiss my lips",
-        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "kiss my lips",
-      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
-    },
-    {
-      "added_at": "2022-08-09 16:56:30",
-      "album": {
         "name": "mojo",
         "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 151880,
       "name": "LSD (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
+    },
+    {
+      "added_at": "2022-08-09 16:56:30",
+      "album": {
+        "name": "kiss my lips",
+        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "kiss my lips",
+      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
     },
     {
       "added_at": "2022-08-09 16:56:30",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-08-09 16:56:30",
       "album": {
-        "name": "XYZ",
-        "url": "https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc"
-      },
-      "artists": [
-        {
-          "name": "MRSHLL",
-          "url": "https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45"
-        },
-        {
-          "name": "oceanfromtheblue",
-          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
-        }
-      ],
-      "duration_ms": 237215,
-      "name": "DRiNK 2 4GET (feat. oceanfromtheblue)",
-      "url": "https://open.spotify.com/track/0Dmy2qmiAKQDbgv2ESvRhx"
-    },
-    {
-      "added_at": "2022-08-09 16:56:30",
-      "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 213000,
       "name": "I want to (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
+    },
+    {
+      "added_at": "2022-08-09 16:56:30",
+      "album": {
+        "name": "XYZ",
+        "url": "https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc"
+      },
+      "artists": [
+        {
+          "name": "MRSHLL",
+          "url": "https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45"
+        },
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "duration_ms": 237215,
+      "name": "DRiNK 2 4GET (feat. oceanfromtheblue)",
+      "url": "https://open.spotify.com/track/0Dmy2qmiAKQDbgv2ESvRhx"
     },
     {
       "added_at": "2022-08-09 16:56:30",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-08-09 16:56:30",
       "album": {
-        "name": "ETERNITY",
-        "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
-      },
-      "artists": [
-        {
-          "name": "msftz",
-          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "2080",
-      "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
-    },
-    {
-      "added_at": "2022-08-09 16:56:30",
-      "album": {
         "name": "I'M LOVIN' AMY",
         "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 202853,
       "name": "Murder On The Dance Floor",
       "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
+    },
+    {
+      "added_at": "2022-08-09 16:56:30",
+      "album": {
+        "name": "ETERNITY",
+        "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
+      },
+      "artists": [
+        {
+          "name": "msftz",
+          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "2080",
+      "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
     },
     {
       "added_at": "2022-08-09 16:56:30",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-08-09 16:56:30",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Runners",
-      "url": "https://open.spotify.com/track/4tQ5wivXoTknZ8PQrgtaYn"
-    },
-    {
-      "added_at": "2022-08-09 16:56:30",
-      "album": {
         "name": "Hate this love",
         "url": "https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 183896,
       "name": "Hate this love",
       "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
+    },
+    {
+      "added_at": "2022-08-09 16:56:30",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Runners",
+      "url": "https://open.spotify.com/track/4tQ5wivXoTknZ8PQrgtaYn"
     },
     {
       "added_at": "2022-08-09 16:56:30",

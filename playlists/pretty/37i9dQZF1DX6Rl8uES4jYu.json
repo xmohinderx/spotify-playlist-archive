@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 233064,
+  "num_followers": 233077,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk4NjMwNSwwMDAwMDAwMDA2MWVmMmQyOWI0ZDEyMzQ0NThmZDdjNTEwZDAwZDE4",
+  "snapshot_id": "MTY1OTk4NjMwNSwwMDAwMDAwMGJhNjMyNmZiOWZkMjAzYmFjOWIwYzUwZTU0ODlkYTEx",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "What A Night",
-        "url": "https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 124592,
-      "name": "What A Night",
-      "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Weekend Lover",
@@ -331,6 +315,22 @@
       "duration_ms": 186080,
       "name": "Weekend Lover",
       "url": "https://open.spotify.com/track/6rNV70K6yK3qd19aNYtf8E"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 124592,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-09-21 15:07:50",
       "album": {
-        "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
-        "url": "https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
-      "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
         "name": "Sweet Side",
         "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
       },
@@ -887,22 +871,6 @@
       "duration_ms": 205862,
       "name": "Undone",
       "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW"
-      },
-      "artists": [
-        {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
-        }
-      ],
-      "duration_ms": 208434,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -919,6 +887,38 @@
       "duration_ms": 302160,
       "name": "Berlin 1",
       "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
+        "url": "https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
+      "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Every Night",
@@ -1249,6 +1233,22 @@
       "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Lost & Alive",
@@ -1267,22 +1267,6 @@
       "duration_ms": 181330,
       "name": "Lost & Alive",
       "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Nothing To Do (Deja Vu)",
-        "url": "https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9"
-      },
-      "artists": [
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Nothing To Do (Deja Vu)",
-      "url": "https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij"
     },
     {
       "added_at": "2022-03-18 04:01:00",
@@ -1349,36 +1333,20 @@
       "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
     },
     {
-      "added_at": "2021-09-21 15:07:50",
+      "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/2pS27MgX6cEJZlbGSOjMbM"
+        "name": "Nothing To Do (Deja Vu)",
+        "url": "https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9"
       },
       "artists": [
         {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
         }
       ],
-      "duration_ms": 210693,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/3FMyC1ElB2UcLMBZQ4EKLJ"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 201201,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
+      "duration_ms": 205714,
+      "name": "Nothing To Do (Deja Vu)",
+      "url": "https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1401,6 +1369,22 @@
       "url": "https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb"
     },
     {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/2pS27MgX6cEJZlbGSOjMbM"
+      },
+      "artists": [
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/3FMyC1ElB2UcLMBZQ4EKLJ"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Good Time",
@@ -1417,6 +1401,22 @@
       "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 201201,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
+    },
+    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Attitude",
@@ -1431,22 +1431,6 @@
       "duration_ms": 175477,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/0HPiUXMvEXzVXNZGVXbeO9"
-      },
-      "artists": [
-        {
-          "name": "Brother Zulu",
-          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
-        }
-      ],
-      "duration_ms": 257020,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 188253,
       "name": "Chameleon (feat. Salt Cathedral)",
       "url": "https://open.spotify.com/track/0DcmjBeZnsf97sdVsTgqIk"
+    },
+    {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/0HPiUXMvEXzVXNZGVXbeO9"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "duration_ms": 257020,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
     }
   ],
   "unique_name": "Ready for the Day",

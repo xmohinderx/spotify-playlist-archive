@@ -4,7 +4,7 @@
 
 > Slow burners for late nights.
 
-375 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+376 songs - 23 hr 41 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Calico](https://open.spotify.com/track/51qhKBkmjhK6WhrGgHCtTu) | [Danny Diamonds](https://open.spotify.com/artist/2X4GEvrPvuF61jxYR1d9RL) | [Calico](https://open.spotify.com/album/5qAhzvuC5XGuZPrjNb13a0) | 2:17 | 2021-04-02 | 2022-07-13 |
 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 | 2020-12-21 |  |
 | [Call Me Up](https://open.spotify.com/track/5fBamKoQ3aXwQpe2Cch8K6) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Fresh Air](https://open.spotify.com/album/6hXa2OPdIt6xwGpaRpvDFz) | 2:28 | 2020-12-21 | 2022-04-18 |
+| [Can I](https://open.spotify.com/track/3e0ZGE7Gp034iLknjQk4QW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 3:09 | 2022-08-10 |  |
 | [Candy](https://open.spotify.com/track/1G6LCMsx0HPSrWXgSVzHKB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Candy](https://open.spotify.com/album/5NaAAxoTOC3eTwmVMHrxtK) | 3:51 | 2020-12-21 | 2022-04-21 |
 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 | 2020-12-21 |  |
 | [caroline](https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [caroline](https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd) | 3:18 | 2022-07-15 |  |
@@ -193,7 +194,7 @@
 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2020-12-21 | 2022-07-19 |
 | [Little Bit \(feat\. Lykke Li\)](https://open.spotify.com/track/524wvipGqxPKYWxkjf9y46) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:50 | 2022-05-06 | 2022-07-09 |
 | [Lonely](https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Long Distance](https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ) | 4:20 | 2020-12-21 | 2022-07-29 |
-| [Lonely Shade of Blue](https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 4:22 | 2020-12-21 |  |
+| [Lonely Shade of Blue](https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 4:22 | 2020-12-21 | 2022-08-11 |
 | [look at me](https://open.spotify.com/track/3ol0443PaVEBdnDATmEFkX) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [to be alone](https://open.spotify.com/album/1F9U2i7Aw40vtjj2njXlq3) | 2:54 | 2020-12-21 | 2022-07-21 |
 | [Looking for Knives](https://open.spotify.com/track/1kJYmG59kwtbs2rvkqpzB6) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Looking for Knives](https://open.spotify.com/album/1vdJozfZSMZJ2nUJ7D2lTc) | 6:13 | 2020-12-21 | 2022-04-20 |
 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2020-12-21 | 2022-04-19 |

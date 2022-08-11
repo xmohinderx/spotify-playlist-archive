@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\.  Cover: Zara Larsson, Jimmie Allen, and Ethel Cain.
 
-359 songs - 22 hr 13 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
+360 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Ivy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2vkGGrvr58ODOWEv3Yhwow) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/4wLrjxDH5got4zYw94sOEx) | 4:22 | 2021-09-24 | 2022-07-29 |
 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 | 2022-03-24 | 2022-04-21 |
 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7nebNowPcMMBKgjaS1nJlm) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w) | 2:44 | 2021-09-24 |  |
-| [Keep Ya Head Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/74sfJjVq74bYkxMQoOhH3r) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Spotify Singles](https://open.spotify.com/album/2NclReHquDka42tG31lbAY) | 2:43 | 2022-03-24 |  |
+| [Keep Ya Head Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/74sfJjVq74bYkxMQoOhH3r) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Spotify Singles](https://open.spotify.com/album/2NclReHquDka42tG31lbAY) | 2:43 | 2022-03-24 | 2022-08-11 |
 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 3:59 | 2022-06-07 |  |
 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6zXpmOXNuWMZG8RYcSmtH4) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/0SsFgST749MQC6oN9PLHLf) | 3:59 | 2022-03-24 | 2022-04-21 |
 | [Kiss \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7Kfpow0FQwvw3xxrRdXgf9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles](https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T) | 4:03 | 2021-09-24 | 2022-07-29 |
@@ -200,6 +200,7 @@
 | [Lost \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4rv4xuViNAAR7VeD14lACp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/7jrYTY6bfhAVzmHfNiQ9ko) | 3:54 | 2022-03-24 | 2022-06-01 |
 | [Lost \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5wjdouk5wQxXkmTeyOC12M) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn) | 3:54 | 2022-06-07 |  |
 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 | 2021-09-24 |  |
+| [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 | 2022-06-07 |  |
 | [Love And Happiness \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1OgjvzxeljGaL4LrZmV1Qj) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/3DkpSX4WupAad9H3DgdVji) | 5:07 | 2021-09-24 | 2022-05-01 |
 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 | 2021-09-24 |  |
 | [Lovesong \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:11 | 2021-09-24 | 2022-07-25 |

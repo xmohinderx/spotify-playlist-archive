@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez notre sélection des artistes à suivre\. Photo : November Ultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,217 likes - 31 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,228 likes - 31 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 |
 | 2 | [Ton nom](https://open.spotify.com/track/1d1mEmt257v9YrrW5LTNsG) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 3:13 |
-| 3 | [ᛋ\. INSPIRÉ DE FAITS RÉELS \#4](https://open.spotify.com/track/02PO29J9Hjay8TPbyDskVH) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [ᛋ\. INSPIRÉ DE FAITS RÉELS \#4](https://open.spotify.com/album/027Oju4gY9xUnDqgAdavpT) | 3:12 |
+| 3 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 |
 | 4 | [Vieux](https://open.spotify.com/track/3PcnIkTtKWGppswX0FErvk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Rendez\-vous](https://open.spotify.com/album/1NKIsDQiGPC5i8hoSYBINC) | 2:56 |
 | 5 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 |
 | 6 | [On m'a dit](https://open.spotify.com/track/0vg9919pYOV7mkiEZZDCHo) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [On m'a dit](https://open.spotify.com/album/0BP73xAURu61RwUrQvPyMu) | 3:28 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 30 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 |
 | 31 | [Parlons de nous](https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Parlons de nous](https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk) | 3:11 |
 
-Snapshot ID: `MTY1NzIzMTI2MCwwMDAwMDAwMDFkZmY0NWE3Y2Y4ZDBlZTAyODFjMTYwM2ZmMDE4YTA3`
+Snapshot ID: `MTY2MDEyMTcwOCwwMDAwMDAwMDUzM2JmNGYzY2VkYjc5NDUyYTQ4Yjc4NDYyYmQ4ZGI4`

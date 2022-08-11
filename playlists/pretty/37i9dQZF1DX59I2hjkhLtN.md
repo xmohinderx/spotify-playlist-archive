@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,451 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,467 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 2 | [Nós 2](https://open.spotify.com/track/2jXNTjDraMfBJIMBu7WCFu) | [Ice Burz](https://open.spotify.com/artist/6SsObOdnJiemnnXen3whsm), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB) | [Nós 2](https://open.spotify.com/album/0dDaOiYFh54wUPIZXeyMy0) | 1:46 |
 | 3 | [Lei de Atração](https://open.spotify.com/track/61bULnso8xS3uuA4sRMbSA) | [Cooliebadboi](https://open.spotify.com/artist/6yd1ttvgjna8jNWIVIPDBH) | [Lei de Atração](https://open.spotify.com/album/0MaZCPsES1Jd0lmAdReH8m) | 2:43 |
 | 4 | [Preço Certo](https://open.spotify.com/track/6qmVIklL8rJAyO8pNZnD07) | [MTR](https://open.spotify.com/artist/6rZXI4D21z8wF4zacGg4P2) | [Preço Certo](https://open.spotify.com/album/2BGx8NF6cixk80Kc4RbNqV) | 3:24 |
-| 5 | [Pull Up na C](https://open.spotify.com/track/6g6UypqyS4f1mNmf8lVZfE) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj) | [Pull Up na C](https://open.spotify.com/album/75VR8gQAwNvKRKTWTSYnyv) | 2:58 |
+| 5 | [Pull Up na C](https://open.spotify.com/track/6g6UypqyS4f1mNmf8lVZfE) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Pull Up na C](https://open.spotify.com/album/75VR8gQAwNvKRKTWTSYnyv) | 2:58 |
 | 6 | [Ronaldo](https://open.spotify.com/track/3CmccPzPZRHwXWKGoXUVde) | [Sekai](https://open.spotify.com/artist/4T5B6T18yziN16acvy3XtT) | [Ronaldo](https://open.spotify.com/album/5qPXzQhaqdBaWALdmAMt7T) | 2:20 |
 | 7 | [STARS](https://open.spotify.com/track/75Su9RTIGGx11CYQgGnebF) | [Zie](https://open.spotify.com/artist/75U7r2ra0FJQGE3NZeC38e) | [STARS](https://open.spotify.com/album/4mp5DvarBla5ioFV5K3lkY) | 3:38 |
 | 8 | [Sabes o Que é a Life? Pt\. 2](https://open.spotify.com/track/5p5hRYa6Lkerb0jTIgYZMe) | [Edi Ventura](https://open.spotify.com/artist/4Q8Yv1CiUWvjhLfNq7c72F) | [Sabes o Que é a Life? Pt\. 2](https://open.spotify.com/album/4QDBnHZTK19AixLoc7yqZm) | 4:32 |

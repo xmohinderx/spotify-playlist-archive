@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 51170,
+  "num_followers": 51204,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTIzMTQ1NiwwMDAwMDAwMDZmMTAxOGNkNDI5Njc5NGZlMjRjYTcwMzgxMmQxODE2",
+  "snapshot_id": "MTY1NTIzMTQ1NiwwMDAwMDAwMGI2MDkyN2Q5YTU3MmIwNDc3ZmU2MGEyMzVhZGVhN2Fk",
   "tracks": [
     {
       "added_at": "2022-06-14 18:30:56",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
+        "name": "The Rawkers (I <3 U SO Edition)",
+        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "duration_ms": 222407,
+      "name": "I <3 U SO",
+      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
         "name": "VSOD (Velvet Sky of Dreams)",
         "url": "https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 342000,
       "name": "VSOD - Velvet Sky of Dreams",
       "url": "https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
-        "name": "The Rawkers (I <3 U SO Edition)",
-        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
-      },
-      "artists": [
-        {
-          "name": "Cassius",
-          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
-        }
-      ],
-      "duration_ms": 222407,
-      "name": "I <3 U SO",
-      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
+        "name": "Hyperborea (Deluxe Version / Remastered 2020)",
+        "url": "https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 239238,
+      "name": "Love On A Real Train - From 'Risky Business' Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
         "name": "Lights Up (feat. Channel Tres)",
         "url": "https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 191537,
       "name": "Lights Up (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
-        "name": "Hyperborea (Deluxe Version / Remastered 2020)",
-        "url": "https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 239238,
-      "name": "Love On A Real Train - From 'Risky Business' Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
-        "name": "Variations",
-        "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
-      },
-      "artists": [
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        },
-        {
-          "name": "Anna Caragnano",
-          "url": "https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ"
-        }
-      ],
-      "duration_ms": 429000,
-      "name": "Parola - Rework",
-      "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 334586,
       "name": "My Lullaby for You",
       "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
+        "name": "Variations",
+        "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        },
+        {
+          "name": "Anna Caragnano",
+          "url": "https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ"
+        }
+      ],
+      "duration_ms": 429000,
+      "name": "Parola - Rework",
+      "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
-        "name": "Famous Monsters",
-        "url": "https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ"
-      },
-      "artists": [
-        {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
-        }
-      ],
-      "duration_ms": 397266,
-      "name": "Famous Monsters",
-      "url": "https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
         "name": "Musique, Vol. 1",
         "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 413600,
       "name": "Musique",
       "url": "https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
+        "name": "Famous Monsters",
+        "url": "https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 397266,
+      "name": "Famous Monsters",
+      "url": "https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
-        "name": "Amniotic",
-        "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 432266,
-      "name": "Return to Oz",
-      "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
         "name": "Premiers \u00e9mois",
         "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 233613,
       "name": "Lune est l'autre",
       "url": "https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
+        "name": "Amniotic",
+        "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 432266,
+      "name": "Return to Oz",
+      "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
-        "name": "Galazy EP",
-        "url": "https://open.spotify.com/album/5gCTPWjMbIIp7XaUkZV5UO"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
         }
       ],
-      "duration_ms": 412197,
-      "name": "Electrian",
-      "url": "https://open.spotify.com/track/6351qyccfDeVbjSgIR7Yvq"
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
+        "name": "Galazy EP",
+        "url": "https://open.spotify.com/album/5gCTPWjMbIIp7XaUkZV5UO"
       },
       "artists": [
         {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
+      "duration_ms": 412197,
+      "name": "Electrian",
+      "url": "https://open.spotify.com/track/6351qyccfDeVbjSgIR7Yvq"
     },
     {
       "added_at": "2022-06-14 18:30:56",

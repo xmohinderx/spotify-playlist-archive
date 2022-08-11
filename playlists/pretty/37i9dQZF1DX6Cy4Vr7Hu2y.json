@@ -1,12 +1,12 @@
 {
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: Kep1er(\ucf00\ud50c\ub7ec)) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 792686,
+  "num_followers": 792968,
   "original_name": "EQUAL K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1MjQwMCwwMDAwMDAwMDkxYTc2ZjA2YmEyZTZmMTYwMjk0Njg4ZmE4YWFjNTQ0",
+  "snapshot_id": "MTY1OTQ1MjQwMCwwMDAwMDAwMDI1ZDYyNzQxODgxNTNkNTJmZTVmY2Q5MDVjY2U1YjIx",
   "tracks": [
     {
       "added_at": "2022-08-02 15:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-08-02 15:00:00",
       "album": {
-        "name": "HIT YA!",
-        "url": "https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9"
-      },
-      "artists": [
-        {
-          "name": "Lapillus",
-          "url": "https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ"
-        }
-      ],
-      "duration_ms": 201724,
-      "name": "HIT YA!",
-      "url": "https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx"
-    },
-    {
-      "added_at": "2022-08-02 15:00:00",
-      "album": {
         "name": "strawberry moon",
         "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 205333,
       "name": "strawberry moon",
       "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
+    },
+    {
+      "added_at": "2022-08-02 15:00:00",
+      "album": {
+        "name": "HIT YA!",
+        "url": "https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9"
+      },
+      "artists": [
+        {
+          "name": "Lapillus",
+          "url": "https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ"
+        }
+      ],
+      "duration_ms": 201724,
+      "name": "HIT YA!",
+      "url": "https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx"
     },
     {
       "added_at": "2022-08-02 15:00:00",
@@ -855,18 +855,34 @@
     {
       "added_at": "2022-08-02 15:00:00",
       "album": {
-        "name": "<Queendom2> FINAL",
-        "url": "https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm"
+        "name": "Celebrity",
+        "url": "https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g"
       },
       "artists": [
         {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 238133,
-      "name": "THE GIRLS (Can\u2019t turn me down)",
-      "url": "https://open.spotify.com/track/5bZ8iEjZ0iLq6Hr6GPWsUR"
+      "duration_ms": 195546,
+      "name": "Celebrity",
+      "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
+    },
+    {
+      "added_at": "2022-08-02 15:00:00",
+      "album": {
+        "name": "Geekyland",
+        "url": "https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4"
+      },
+      "artists": [
+        {
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+        }
+      ],
+      "duration_ms": 178346,
+      "name": "Nerdy",
+      "url": "https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi"
     },
     {
       "added_at": "2022-08-02 15:00:00",
@@ -891,18 +907,18 @@
     {
       "added_at": "2022-08-02 15:00:00",
       "album": {
-        "name": "Celebrity",
-        "url": "https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g"
+        "name": "<Queendom2> FINAL",
+        "url": "https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
         }
       ],
-      "duration_ms": 195546,
-      "name": "Celebrity",
-      "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
+      "duration_ms": 238133,
+      "name": "THE GIRLS (Can\u2019t turn me down)",
+      "url": "https://open.spotify.com/track/5bZ8iEjZ0iLq6Hr6GPWsUR"
     },
     {
       "added_at": "2022-08-02 15:00:00",
@@ -919,22 +935,6 @@
       "duration_ms": 179156,
       "name": "Bicycle",
       "url": "https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz"
-    },
-    {
-      "added_at": "2022-08-02 15:00:00",
-      "album": {
-        "name": "Geekyland",
-        "url": "https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4"
-      },
-      "artists": [
-        {
-          "name": "PURPLE KISS",
-          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
-        }
-      ],
-      "duration_ms": 178346,
-      "name": "Nerdy",
-      "url": "https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi"
     },
     {
       "added_at": "2022-08-02 15:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-08-02 15:00:00",
       "album": {
+        "name": "iCE",
+        "url": "https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB"
+      },
+      "artists": [
+        {
+          "name": "Hyolyn",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "NO THANKS",
+      "url": "https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD"
+    },
+    {
+      "added_at": "2022-08-02 15:00:00",
+      "album": {
         "name": "pporappippam \ubcf4\ub77c\ube5b \ubc24",
         "url": "https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 190050,
       "name": "Tie a Cherry",
       "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
-    },
-    {
-      "added_at": "2022-08-02 15:00:00",
-      "album": {
-        "name": "iCE",
-        "url": "https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB"
-      },
-      "artists": [
-        {
-          "name": "Hyolyn",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "NO THANKS",
-      "url": "https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD"
     },
     {
       "added_at": "2022-08-02 15:00:00",

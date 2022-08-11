@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 143030,
+  "num_followers": 143052,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcwMDgwMCwwMDAwMDAwMDAxOTllYzIyNzkxMzUxNjRmZTQ3MmJmODIxZjQyMmZj",
+  "snapshot_id": "MTY1OTcwMDgwMCwwMDAwMDAwMGQ1NzgyNTk3Yzc3OTNhYWE5NTBmZjY1MDgzZDBmMDFk",
   "tracks": [
     {
       "added_at": "2022-08-05 12:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "The One I Love",
-        "url": "https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "The One I Love",
-      "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Fisherman's Woman",
         "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 184533,
       "name": "Sunny Road",
       "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "The One I Love",
+        "url": "https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "The One I Love",
+      "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Volition",
-        "url": "https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 257516,
-      "name": "Saving Us a Riot",
-      "url": "https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Back to You",
         "url": "https://open.spotify.com/album/6lGXUNcAoHF8eSNC17GPqy"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 222531,
       "name": "Everyone\u2019s Got Something",
       "url": "https://open.spotify.com/track/78daXDfx7T89qorS0ktsU0"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Volition",
+        "url": "https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 257516,
+      "name": "Saving Us a Riot",
+      "url": "https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "I'll Buy a House (Acoustic)",
-        "url": "https://open.spotify.com/album/6BtWRmzFx7OInkYziWbPJF"
-      },
-      "artists": [
-        {
-          "name": "Violet Skies",
-          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
-        }
-      ],
-      "duration_ms": 186187,
-      "name": "I'll Buy a House - Acoustic",
-      "url": "https://open.spotify.com/track/0DUYYLUzQNVNRMtr2vk1lh"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Island Life Coffee House (Vol. 1)",
         "url": "https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 234133,
       "name": "Be As You Are - Acoustic",
       "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "I'll Buy a House (Acoustic)",
+        "url": "https://open.spotify.com/album/6BtWRmzFx7OInkYziWbPJF"
+      },
+      "artists": [
+        {
+          "name": "Violet Skies",
+          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
+        }
+      ],
+      "duration_ms": 186187,
+      "name": "I'll Buy a House - Acoustic",
+      "url": "https://open.spotify.com/track/0DUYYLUzQNVNRMtr2vk1lh"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "Me Without You",
-        "url": "https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Me Without You - Acoustic",
-      "url": "https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Where Light Pours In",
         "url": "https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 219133,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Me Without You",
+        "url": "https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Me Without You - Acoustic",
+      "url": "https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/4jkqzylbWYyqwzsBthivea"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 163588,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/39ifiZKJ8VCwgyQTWy9cyL"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Give Me Something",
         "url": "https://open.spotify.com/album/0O9NVg82SmybQvWyUFDvx6"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 174946,
       "name": "Did We Miss the Morning?",
       "url": "https://open.spotify.com/track/4hKR9v8ZcQi0R0q7Dhp3e5"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/4jkqzylbWYyqwzsBthivea"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 163588,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/39ifiZKJ8VCwgyQTWy9cyL"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-08-05 12:00:00",
       "album": {
-        "name": "I'm on Fire",
-        "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 140130,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
         "name": "Dancing (Mumbai Wedding)",
         "url": "https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 217763,
       "name": "Dancing (Mumbai Wedding) - Acoustic Version",
       "url": "https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "I'm on Fire",
+        "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 140130,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
     }
   ],
   "unique_name": "Soft Morning",

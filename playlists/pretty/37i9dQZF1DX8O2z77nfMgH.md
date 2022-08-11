@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,566 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,645 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 8 | [Que Cojones](https://open.spotify.com/track/22TyikLrwsaXhsL31mewls) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Que Cojones](https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh) | 2:41 |
 | 9 | [Julieta](https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Julieta](https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1) | 3:05 |
 | 10 | [Hola](https://open.spotify.com/track/5VD5mr12uonOBeEFbqobXA) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Hola](https://open.spotify.com/album/5AcJamqKm6zHdBdwvztI0Z) | 2:47 |
-| 11 | [TU MANUAL](https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Savage Kreamly](https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU) | [FRÍO](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 2:48 |
+| 11 | [TU MANUAL](https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Savage Kreamly](https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU) | [Frío](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 2:48 |
 | 12 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 |
 | 13 | [Tengo Una Gata](https://open.spotify.com/track/0pSDNO7MU9P0RqCiol2gvD) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Tengo Una Gata](https://open.spotify.com/album/0AK1tdd6K55MyjqWRTaE0l) | 2:46 |
 | 14 | [FOLLOWS](https://open.spotify.com/track/13HFRTXdWFvXIRxGsjLsWc) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [FOLLOWS](https://open.spotify.com/album/6MkEiKy5O4kGghEqO9rt7E) | 3:57 |

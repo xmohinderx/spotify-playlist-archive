@@ -820,6 +820,24 @@
     },
     {
       "album": {
+        "name": "Funky Funky New Orleans",
+        "url": "https://open.spotify.com/album/5CNquk3KWmttvDzQ1UurfO"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Hicks",
+          "url": "https://open.spotify.com/artist/2kPpkaVu7vuO0Xk8nOYPrM"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152481,
+      "name": "I'm Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/51dfJUV8LcG9zNW72JsvmI"
+    },
+    {
+      "album": {
         "name": "Bustin' Loose",
         "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub"
       },

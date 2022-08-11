@@ -45,6 +45,24 @@
     {
       "album": {
         "name": "Pointless Nostalgic",
+        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306840,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/1R0wvgE1PnzLoE9YyXkkzb"
+    },
+    {
+      "album": {
+        "name": "Pointless Nostalgic",
         "url": "https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz"
       },
       "artists": [
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 196960,
       "name": "All Through The Night",
       "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 177006,
       "name": "Baby, What Else Can I Do?",
       "url": "https://open.spotify.com/track/0W74XoidEMmssr9r7QwE44"
@@ -315,7 +333,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 255480,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 337706,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 206493,
       "name": "For Heaven's Sake",
       "url": "https://open.spotify.com/track/2BUxmT11iPwKGdXx1frAUb"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 198866,
       "name": "From This Moment On",
       "url": "https://open.spotify.com/track/6eSkVenOm7gkZ9nD1SnNht"
@@ -864,6 +882,24 @@
     },
     {
       "album": {
+        "name": "So Warm",
+        "url": "https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162240,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn"
+    },
+    {
+      "album": {
         "name": "Etta Jones - A Collection",
         "url": "https://open.spotify.com/album/4KV996XKJaCh6Pkflm68Xh"
       },
@@ -965,7 +1001,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 182293,
       "name": "Just You, Just Me - Remastered 1999",
       "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
@@ -1019,7 +1055,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 264880,
       "name": "Let's Call The Whole Thing Off",
       "url": "https://open.spotify.com/track/0K4EFVqPaD9cpx7h42YycE"
@@ -1055,7 +1091,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 184720,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c"
@@ -1203,7 +1239,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 189866,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77"
@@ -1373,7 +1409,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253160,
       "name": "Please Be Kind",
       "url": "https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS"
@@ -1507,7 +1543,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 188266,
       "name": "Taking A Chance On Love",
       "url": "https://open.spotify.com/track/5xztcbdIaombDndOibp9Su"
@@ -1869,7 +1905,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 218066,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
@@ -1887,7 +1923,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 226973,
       "name": "These Foolish Things (Remind Me Of You)",
       "url": "https://open.spotify.com/track/7EizYZzw8hTQQ6twxOvfWl"
@@ -2025,7 +2061,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 132160,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
@@ -2317,7 +2353,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 142520,
       "name": "You Do Something To Me",
       "url": "https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB"
@@ -2357,6 +2393,24 @@
       "duration_ms": 203773,
       "name": "You Leave Me Breathless - 2015 Remastered Version",
       "url": "https://open.spotify.com/track/3CbN0iFlYubKNVsJHZPmuH"
+    },
+    {
+      "album": {
+        "name": "It's a Blue World (2015 Remastered Version)",
+        "url": "https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "You Leave Me Breathless - 2015 Remastered Version",
+      "url": "https://open.spotify.com/track/3MmiQ6gww1XjbWuJXIgZ9f"
     },
     {
       "album": {
@@ -2425,7 +2479,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 216240,
       "name": "You're My Thrill",
       "url": "https://open.spotify.com/track/2QIFlui5Q2CYUYJo2v5OlQ"

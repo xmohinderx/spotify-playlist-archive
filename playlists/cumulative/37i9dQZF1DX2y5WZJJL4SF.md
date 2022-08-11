@@ -4,7 +4,7 @@
 
 > Soft and calm renditions of songs for harp.
 
-150 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
+155 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Feeling Happy](https://open.spotify.com/track/6YemG0JU5lTv7X3Qc5UajS) | [Chad Isaacson](https://open.spotify.com/artist/5UzSphuk1wV4EkpEpsxfJJ) | [Feeling Happy](https://open.spotify.com/album/05XQpRE0NTHqKH0hQXjbPz) | 1:42 | 2021-11-11 |  |
 | [Find the Rabbit](https://open.spotify.com/track/0GDw6Hmmlu6InQbf6YakPD) | [Baldwin Grey](https://open.spotify.com/artist/4tULy2gwvcYvafnuk3qzdC) | [Find the Rabbit](https://open.spotify.com/album/1vqPMljPPgF9IVhNqopH7Y) | 1:56 | 2021-11-11 |  |
 | [Fireflies](https://open.spotify.com/track/6kU7GBwbKtsio1jgyAWa9z) | [Byrne Freeman](https://open.spotify.com/artist/09NXPHIx4m5wvbplZ11jvF) | [Fireflies](https://open.spotify.com/album/3z2L0RF2qEZ01ph2WMPvTb) | 1:56 | 2021-11-11 |  |
+| [Flowerpicking](https://open.spotify.com/track/4Q8dTf4AP4VcmhINwEJ3hr) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Flowerpicking](https://open.spotify.com/album/1PzBefJUzF6gTpIJJGGbuy) | 2:27 | 2022-08-10 |  |
 | [Fluffy Pillow](https://open.spotify.com/track/2VSsHM44RTyELzCJek78lG) | [Quinn Palmer](https://open.spotify.com/artist/6sCg5kvvJZOVhzRawPZpmF) | [Clumsy Kittens](https://open.spotify.com/album/5abiQcuHNgKv8AGebjaCWn) | 1:48 | 2021-11-11 |  |
 | [Fly among the stars](https://open.spotify.com/track/0Dbd6GrBYOdepkuaoLkb0n) | [Tibby Andrewson](https://open.spotify.com/artist/74Pwf4cFdOvPBXYqSO1LMe) | [Fly among the stars](https://open.spotify.com/album/65Y68Q2vhmKpgdlEjUdNSF) | 1:37 | 2021-11-11 |  |
 | [Fly With Sandyman](https://open.spotify.com/track/0FaGs1cOfVWG3DQ4CV2q2q) | [Charlie Irving](https://open.spotify.com/artist/67eyk5UeOpPHzU4BGjZvZJ) | [Fly With Sandyman](https://open.spotify.com/album/5H4Obfg21B88pXqMVgkR5d) | 1:25 | 2021-11-11 |  |
@@ -76,9 +77,11 @@
 | [Go the Distance](https://open.spotify.com/track/5mAtbHNvgNdQUICfdk5pIM) | [Gail Pearce](https://open.spotify.com/artist/0lSEF0q5lRRcn9599fxfeY) | [Go the Distance](https://open.spotify.com/album/06LMcXgAWJpLJI2lx5pVgg) | 1:20 | 2021-11-11 |  |
 | [Golden Slumbers](https://open.spotify.com/track/330V8YIP7p4hPAw5FWiAlB) | [Val Hughes](https://open.spotify.com/artist/4tHxIe8AIsYzEYNAmoXQUv) | [Golden Slumbers](https://open.spotify.com/album/6RRaSrvasshvtkJrjeDl3l) | 1:13 | 2022-01-21 |  |
 | [Good Night, Everyone](https://open.spotify.com/track/47Ehr3NNx21NOO1ggFIVFT) | [Morty Platt](https://open.spotify.com/artist/5OCwYaGPaxkqChAiKEGxOH) | [Good Night, Everyone](https://open.spotify.com/album/2ZGoTWS6V5VWCpgWuVoMni) | 1:15 | 2021-11-11 |  |
+| [Granny](https://open.spotify.com/track/2MOG3Xy69V748oSpESfSME) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Flowerpicking](https://open.spotify.com/album/1PzBefJUzF6gTpIJJGGbuy) | 3:44 | 2022-08-10 |  |
 | [Grootmoeder](https://open.spotify.com/track/6v4S9vW2oAshobL1lcjJnD) | [Rosalyn van Heeringen](https://open.spotify.com/artist/7oIzlrfSFDprcOzbN9RGyM) | [Ik hou van zwemmen](https://open.spotify.com/album/2Ag6f5EuEU5xXLzlapJmlG) | 1:29 | 2021-11-11 |  |
 | [Hope And Love](https://open.spotify.com/track/3iMOGERyDXvAwtw2alVSW4) | [Hudson Hull](https://open.spotify.com/artist/5nAHYyaImYxFBWBConOC5o) | [Hope And Love](https://open.spotify.com/album/3ItHo9jqG5hpQc0ioaM984) | 1:07 | 2021-11-11 |  |
 | [Hubert, the magic dog](https://open.spotify.com/track/2RXhj0DBi1UacZzk8fEn0h) | [Merv Royston](https://open.spotify.com/artist/2iJqTkHIrNCNYh4UjPMvQt) | [Hubert, the magic dog](https://open.spotify.com/album/4AXL1t0zCrdN7Q6s8TPtzT) | 1:24 | 2021-11-11 |  |
+| [Huggies](https://open.spotify.com/track/5LyKAsugwEKX7zDAN3rYmb) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Flowerpicking](https://open.spotify.com/album/1PzBefJUzF6gTpIJJGGbuy) | 2:30 | 2022-08-10 |  |
 | [Hush Little Baby](https://open.spotify.com/track/41gbj1zPSDVpYTV7xhM1Ki) | [Lina Rin](https://open.spotify.com/artist/4dMkHlQs3eMRKUoCWq7iCd) | [Hush Little Baby](https://open.spotify.com/album/5os2qnAgKy6PkLqFXTKW6t) | 1:55 | 2021-11-11 | 2022-02-11 |
 | [Hush My Little Angel](https://open.spotify.com/track/7LTCWsNXdsc0dtAQ570WLn) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [You Are My Sunshine](https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5) | 2:17 | 2021-11-11 | 2022-06-11 |
 | [I Can't Help Falling In Love \- Harp](https://open.spotify.com/track/6ufNUNeLxtMKI99EmZbG0p) | [Chloe Hulme](https://open.spotify.com/artist/547PuusQ4w9ybqTNLkI4Nu) | [I Can't Help Falling In Love](https://open.spotify.com/album/67udOFmO7YqGWCIJFqo88w) | 1:59 | 2022-05-17 |  |
@@ -115,6 +118,7 @@
 | [Our Quiet Place \- Harp Version](https://open.spotify.com/track/2lobqow3CzYBtgZTbzxnyc) | [Wunder Harp](https://open.spotify.com/artist/7Hki2k0mnobCrWYGthcAqO) | [Our Quiet Place \- Harp Version](https://open.spotify.com/album/7rRDK6ScjuwoLpGCMgMnZM) | 1:22 | 2022-07-29 |  |
 | [Pajama Time](https://open.spotify.com/track/2nIqwZQ8w0c0bP2IOGyhbT) | [Jonathan Behler](https://open.spotify.com/artist/0W4uCS7ueC32qLWzlz0jFh) | [Pajama Time](https://open.spotify.com/album/0mKeEcOqZK8ojLlO8RyDnt) | 1:39 | 2021-11-11 |  |
 | [Puppy Love](https://open.spotify.com/track/6DaTj3tFSinoMzMtdv1yVM) | [September Blackwood](https://open.spotify.com/artist/2U5xaVrnCTnR6xSNc7Pwrp) | [Come Sail Away](https://open.spotify.com/album/2Kusp6AwauNVXkSixFiUXu) | 1:42 | 2021-11-11 | 2022-07-02 |
+| [Rain On The Roof](https://open.spotify.com/track/4B8RHheYV6ZglY4JN4BBO0) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Tenderness](https://open.spotify.com/album/59m1u1lvpLt392J2EqP6sF) | 1:17 | 2022-08-10 |  |
 | [Rock\-a\-Bye Baby \(Harp Version\)](https://open.spotify.com/track/3pxobkrGecsRGt0YAT99nA) | [Gabriel Lucas](https://open.spotify.com/artist/3duTy2PIQRyuhd0Q0AnanD) | [Rock\-a\-Bye Baby](https://open.spotify.com/album/0u4yBrpeAFMwxc2Qp79Prr) | 1:50 | 2021-11-11 |  |
 | [shine snap](https://open.spotify.com/track/6kuFxLwrjqUHaIgTprDa4Q) | [arc](https://open.spotify.com/artist/1zftHN1R1J5FHVdCuIeuyV) | [shine snap](https://open.spotify.com/album/62xVJYuNMNerksBjEPrPwi) | 2:00 | 2021-11-11 | 2022-01-22 |
 | [Singing for You](https://open.spotify.com/track/0B3k2ftvKnPEwK6F0Wc0Pa) | [Willy Cotterill](https://open.spotify.com/artist/3nGSuqJpKUO7hQA0DFXJ5i) | [Singing for You](https://open.spotify.com/album/7s4mt8kbI8rNKnPasfOvca) | 1:43 | 2021-11-11 |  |
@@ -131,6 +135,7 @@
 | [Sunset Song](https://open.spotify.com/track/0ocglsPeTS5D5QLmvs6Umk) | [Glenda Bill](https://open.spotify.com/artist/4fsxQmjHZlspZqsCYziW0I) | [Sunset Song](https://open.spotify.com/album/2FGz6m9ZpNAwlgrOwV8acw) | 1:22 | 2021-11-11 |  |
 | [Süße Träume](https://open.spotify.com/track/0K6U4UeGHbYO2lgIvHeHkt) | [Beatrice Werner](https://open.spotify.com/artist/3RODO8LRNzu7ShXh3PMU3Z) | [Süße Träume](https://open.spotify.com/album/6XOMGeISXAGPrAN4BrvSqJ) | 1:35 | 2021-11-11 |  |
 | [Sweet Lullaby](https://open.spotify.com/track/7KfKKlOMT7DBC4gHlbTLek) | [Oswin Alvey](https://open.spotify.com/artist/619qDEWC7talyzV39o3j5p) | [Sweet Lullaby](https://open.spotify.com/album/2l4Ut4rKzqxqhQy3JEJ2QZ) | 1:08 | 2022-06-10 |  |
+| [Tenderness](https://open.spotify.com/track/33L2dpLJ77q2QoSAlFYEfy) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Tenderness](https://open.spotify.com/album/59m1u1lvpLt392J2EqP6sF) | 1:59 | 2022-08-10 |  |
 | [The Button Song](https://open.spotify.com/track/0FByOKDOnsN5oYIhGjgc8B) | [Tylar Attwood](https://open.spotify.com/artist/6xqjq2PyUby1Ztzel0o3vD) | [The Button Song](https://open.spotify.com/album/33NUTNBNe4YiY8mbZpG8ir) | 1:04 | 2021-11-11 |  |
 | [The Magic Blanket](https://open.spotify.com/track/3S8H2OJGPZ6JQujv8InoLz) | [Garth Winter](https://open.spotify.com/artist/48KlcKLmPswD1SWQhi6z5L) | [The Magic Blanket](https://open.spotify.com/album/2Bj8hEWN8NIpfqkNx1a71k) | 1:18 | 2022-04-26 |  |
 | [The Magic Pancake](https://open.spotify.com/track/7kfp6vxgUNSdNBLGRRTY60) | [Sophea Chen](https://open.spotify.com/artist/4jsOYWTRbpLg04JEGd0Bhj) | [The Magic Pancake](https://open.spotify.com/album/7jFUXstf6ltF9aIHfK9dhw) | 1:56 | 2021-11-11 |  |

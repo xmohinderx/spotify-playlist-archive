@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 450615,
+  "num_followers": 450648,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5ODk2NCwwMDAwMDAwMDg5NjVhY2U5YzY3NjY2MWM5MTViNTk4MmZlMmUyYmJi",
+  "snapshot_id": "MTY1OTQ5ODk2NCwwMDAwMDAwMDEwMGVjZGE1YWUwYmRhMzA2YTg3YjE1ZjE5ZTNhZjA2",
   "tracks": [
     {
       "added_at": "2022-06-08 02:12:56",
@@ -161,22 +161,6 @@
       "url": "https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ"
     },
     {
-      "added_at": "2022-02-01 00:27:33",
-      "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/2mz3UwcraODF5DIF7AnpDE"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 219936,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/3fTxLcPR2i8b9yIrvNScuC"
-    },
-    {
       "added_at": "2022-04-22 18:53:10",
       "album": {
         "name": "Tahara",
@@ -191,6 +175,22 @@
       "duration_ms": 213850,
       "name": "Tahara",
       "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
+    },
+    {
+      "added_at": "2022-02-01 00:27:33",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/2mz3UwcraODF5DIF7AnpDE"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 219936,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/3fTxLcPR2i8b9yIrvNScuC"
     },
     {
       "added_at": "2022-06-20 21:26:25",
@@ -261,6 +261,38 @@
       "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
+      "added_at": "2022-06-08 02:40:47",
+      "album": {
+        "name": "Foresight",
+        "url": "https://open.spotify.com/album/6iVJxfSQHYADuaTe842E5u"
+      },
+      "artists": [
+        {
+          "name": "Nuven",
+          "url": "https://open.spotify.com/artist/3Cdtqtl7PvG7793m9pkg34"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Foresight",
+      "url": "https://open.spotify.com/track/0J3ELKdZW68PTUDKtbggsy"
+    },
+    {
+      "added_at": "2022-01-13 02:05:11",
+      "album": {
+        "name": "Sweat Sonic",
+        "url": "https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY"
+      },
+      "artists": [
+        {
+          "name": "Closet Yi",
+          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
+        }
+      ],
+      "duration_ms": 382487,
+      "name": "Sweat Sonic",
+      "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
+    },
+    {
       "added_at": "2022-01-12 02:36:16",
       "album": {
         "name": "This Is An Advertisement",
@@ -299,38 +331,6 @@
       "duration_ms": 344120,
       "name": "Balani",
       "url": "https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69"
-    },
-    {
-      "added_at": "2022-01-13 02:05:11",
-      "album": {
-        "name": "Sweat Sonic",
-        "url": "https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY"
-      },
-      "artists": [
-        {
-          "name": "Closet Yi",
-          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
-        }
-      ],
-      "duration_ms": 382487,
-      "name": "Sweat Sonic",
-      "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
-    },
-    {
-      "added_at": "2022-06-08 02:40:47",
-      "album": {
-        "name": "Foresight",
-        "url": "https://open.spotify.com/album/6iVJxfSQHYADuaTe842E5u"
-      },
-      "artists": [
-        {
-          "name": "Nuven",
-          "url": "https://open.spotify.com/artist/3Cdtqtl7PvG7793m9pkg34"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Foresight",
-      "url": "https://open.spotify.com/track/0J3ELKdZW68PTUDKtbggsy"
     },
     {
       "added_at": "2022-07-15 18:13:54",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
     },
     {
-      "added_at": "2022-07-15 05:34:07",
-      "album": {
-        "name": "GRIT.",
-        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
-      },
-      "artists": [
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 331032,
-      "name": "Surrounded By Neighbours",
-      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
-    },
-    {
       "added_at": "2022-07-08 04:48:31",
       "album": {
         "name": "Closer (Daniel Avery Edit)",
@@ -415,6 +399,38 @@
       "duration_ms": 246696,
       "name": "Closer - Daniel Avery Edit",
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
+    },
+    {
+      "added_at": "2022-07-15 05:34:07",
+      "album": {
+        "name": "GRIT.",
+        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 331032,
+      "name": "Surrounded By Neighbours",
+      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2022-02-25 05:12:51",
@@ -439,22 +455,6 @@
     {
       "added_at": "2021-10-15 03:56:52",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
         "name": "Transactional Relationship",
         "url": "https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 193535,
       "name": "Transactional Relationship",
       "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
+    },
+    {
+      "added_at": "2022-01-11 00:01:58",
+      "album": {
+        "name": "Ones",
+        "url": "https://open.spotify.com/album/1DNOCMa2UrOXEHU8oJ8M7s"
+      },
+      "artists": [
+        {
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+        }
+      ],
+      "duration_ms": 245371,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/4h28da1metrUE6DMRbCYY5"
     },
     {
       "added_at": "2022-03-30 04:42:42",
@@ -515,22 +531,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2022-01-11 00:01:58",
-      "album": {
-        "name": "Ones",
-        "url": "https://open.spotify.com/album/1DNOCMa2UrOXEHU8oJ8M7s"
-      },
-      "artists": [
-        {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
-        }
-      ],
-      "duration_ms": 245371,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/4h28da1metrUE6DMRbCYY5"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
     },
     {
-      "added_at": "2022-03-30 05:37:06",
-      "album": {
-        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
-        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
-    },
-    {
       "added_at": "2022-05-06 03:38:46",
       "album": {
         "name": "infina ad nausea: the remixes [global magic pack]",
@@ -735,6 +719,22 @@
       "duration_ms": 359152,
       "name": "Blame Me - BAILE Remix",
       "url": "https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f"
+    },
+    {
+      "added_at": "2022-03-30 05:37:06",
+      "album": {
+        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
+        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
       "added_at": "2021-10-15 03:56:52",

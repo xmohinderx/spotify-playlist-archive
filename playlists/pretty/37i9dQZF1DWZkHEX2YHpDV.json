@@ -1,12 +1,12 @@
 {
   "description": "Pop-punk, emo, post-hardcore, alternative - it's whatever you want it to be. Cover: Sueco",
-  "num_followers": 436478,
+  "num_followers": 436605,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGIwZDVjODBkMTU2ZTJiNzM2MjFhY2IzYzJiMGY3MDE5",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDg1ZjAxNzU2YWZkNmU1Yjg1NjlhNWMxNWFlZTk4ZDBl",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "FLY",
-        "url": "https://open.spotify.com/album/3g9oDW0i1jxqlJByNSFxtp"
-      },
-      "artists": [
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        }
-      ],
-      "duration_ms": 188081,
-      "name": "Misfits T-Shirt",
-      "url": "https://open.spotify.com/track/2ZkWAGwx0UDKQSD9lmNecF"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Dangerous State of Mind",
         "url": "https://open.spotify.com/album/5dDbh3KtUuXAGq77CeFYGD"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 115620,
       "name": "Dangerous State of Mind",
       "url": "https://open.spotify.com/track/4iwjEJYExvmBM5w75RTuLv"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/3g9oDW0i1jxqlJByNSFxtp"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "duration_ms": 188081,
+      "name": "Misfits T-Shirt",
+      "url": "https://open.spotify.com/track/2ZkWAGwx0UDKQSD9lmNecF"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 168145,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/7gAfY8Y5aBrsAfNaejxXMY"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "acting like that (feat. Machine Gun Kelly)",
-        "url": "https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 191066,
-      "name": "acting like that (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/6PxNpy8jOjyZ8aGCD58LpW"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 124191,
       "name": "SIDEWAYS (with Travis Barker)",
       "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "acting like that (feat. Machine Gun Kelly)",
+        "url": "https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "acting like that (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/6PxNpy8jOjyZ8aGCD58LpW"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -971,22 +971,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Timebomb (feat. MOD SUN)",
-        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
+        "name": "I Hope You\u2019re Happy",
+        "url": "https://open.spotify.com/album/48M1E73JIiEgVpXKwppWLK"
       },
       "artists": [
         {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
         }
       ],
-      "duration_ms": 182040,
-      "name": "Timebomb (feat. MOD SUN)",
-      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
+      "duration_ms": 179850,
+      "name": "I Hope You\u2019re Happy",
+      "url": "https://open.spotify.com/track/4NDZlGtNiLIgFNkBgVhX9n"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "I Hope You\u2019re Happy",
-        "url": "https://open.spotify.com/album/48M1E73JIiEgVpXKwppWLK"
+        "name": "Timebomb (feat. MOD SUN)",
+        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
       },
       "artists": [
         {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         }
       ],
-      "duration_ms": 179850,
-      "name": "I Hope You\u2019re Happy",
-      "url": "https://open.spotify.com/track/4NDZlGtNiLIgFNkBgVhX9n"
+      "duration_ms": 182040,
+      "name": "Timebomb (feat. MOD SUN)",
+      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Trauma Factory",
-        "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 169450,
-      "name": "fake friend",
-      "url": "https://open.spotify.com/track/6pO9pxKxrIHuTRqK7VLP8B"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Trauma Factory",
+        "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 169450,
+      "name": "fake friend",
+      "url": "https://open.spotify.com/track/6pO9pxKxrIHuTRqK7VLP8B"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "MANIC MAN",
-        "url": "https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb"
-      },
-      "artists": [
-        {
-          "name": "Curtis Waters",
-          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
-        }
-      ],
-      "duration_ms": 134634,
-      "name": "MANIC MAN",
-      "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "She Likes My Tattoos",
         "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 164327,
       "name": "She Likes My Tattoos",
       "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "MANIC MAN",
+        "url": "https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        }
+      ],
+      "duration_ms": 134634,
+      "name": "MANIC MAN",
+      "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Death Of An Optimist",
-        "url": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 198365,
-      "name": "In Over My Head",
-      "url": "https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "LEVITATE (The Summer Song)",
         "url": "https://open.spotify.com/album/19xqa3tlSC1vzTVmirhB6I"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 142600,
       "name": "LEVITATE (The Summer Song)",
       "url": "https://open.spotify.com/track/6uIPSuyyTXhED74zn4weTS"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Death Of An Optimist",
+        "url": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 198365,
+      "name": "In Over My Head",
+      "url": "https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Now We're Even",
-        "url": "https://open.spotify.com/album/5TSXG1TFNWYVbyvOz2dsch"
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
       },
       "artists": [
         {
-          "name": "Brennan Savage",
-          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
         }
       ],
-      "duration_ms": 140800,
-      "name": "Now We're Even",
-      "url": "https://open.spotify.com/track/7qpDY56Q1TaByNCFEC352t"
+      "duration_ms": 163492,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Don't Be Racist",
         "url": "https://open.spotify.com/album/0VCDfLWvWT06qIxoCx33Mj"
       },
@@ -1607,22 +1591,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "I WENT TO HELL AND BACK",
-        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -1635,6 +1603,38 @@
       "duration_ms": 195898,
       "name": "The Antidote",
       "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Now We're Even",
+        "url": "https://open.spotify.com/album/5TSXG1TFNWYVbyvOz2dsch"
+      },
+      "artists": [
+        {
+          "name": "Brennan Savage",
+          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Now We're Even",
+      "url": "https://open.spotify.com/track/7qpDY56Q1TaByNCFEC352t"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "I WENT TO HELL AND BACK",
+        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Wouldn't That Be Nice",
-        "url": "https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1"
-      },
-      "artists": [
-        {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        }
-      ],
-      "duration_ms": 186214,
-      "name": "Wouldn't That Be Nice",
-      "url": "https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Chemical Warfare",
         "url": "https://open.spotify.com/album/7Jj4PREXmX0x6Jc0riWbca"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 166858,
       "name": "Lightning Strike",
       "url": "https://open.spotify.com/track/2g8vCXagoE2nrPw2aFwcAb"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Wouldn't That Be Nice",
+        "url": "https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        }
+      ],
+      "duration_ms": 186214,
+      "name": "Wouldn't That Be Nice",
+      "url": "https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY"
     },
     {
       "added_at": "2022-08-05 04:00:00",

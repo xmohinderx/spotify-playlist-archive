@@ -4,7 +4,7 @@
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate
 
-60 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/0qMMhfEEPvWBJQoaBQvSQq)
+61 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/0qMMhfEEPvWBJQoaBQvSQq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Black Light](https://open.spotify.com/track/01cIqV4RrN3YoRNcnzVXSr) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Violence](https://open.spotify.com/album/1JEGmU4yqtuuFceHpVCvHK) | 5:02 | 2021-04-10 |  |
 | [Bottom Feed](https://open.spotify.com/track/1juIgyx6a8G5O1Tnlnf4IB) | [Mawcore](https://open.spotify.com/artist/04vYfdkQAWRKmqmsitQbea) | [Where Breaking Begins](https://open.spotify.com/album/3bsRpywxqsiSORItREzXUN) | 3:32 | 2021-04-10 |  |
 | [Breaking Free \(feat\. Lacey Sturm\)](https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:52 | 2021-04-10 |  |
-| [Breathe Again](https://open.spotify.com/track/6VGItaHKo3GC7I6Ky5S57b) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Still Just Breathing](https://open.spotify.com/album/3o8qPT3byMsUolOB3915wZ) | 3:37 | 2021-04-10 |  |
+| [Breathe Again](https://open.spotify.com/track/5A83Ob2zfm00oahV4ioFNt) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Still Just Breathing](https://open.spotify.com/album/6pX8vrvmBoOg2HF8LK9Gr8) | 3:37 | 2021-04-10 |  |
+| [Breathe Again](https://open.spotify.com/track/6VGItaHKo3GC7I6Ky5S57b) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Still Just Breathing](https://open.spotify.com/album/3o8qPT3byMsUolOB3915wZ) | 3:37 | 2021-04-10 | 2022-08-11 |
 | [Closer](https://open.spotify.com/track/5dVODyGWLMoBPlmgtm86PU) | [Silversyde](https://open.spotify.com/artist/6J0UNeDm5txVjvcI7Pxqz4) | [Casting Shadows](https://open.spotify.com/album/539lpEirrlTBHMsQHgSZzm) | 3:12 | 2021-04-10 |  |
 | [Cuff the Criminal](https://open.spotify.com/track/0J0sGVSqnssg1jfgEcYQrv) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Love Letter Kill Shot](https://open.spotify.com/album/6lcb1LKEbn5HF9Q6N9rOEY) | 3:32 | 2021-04-10 | 2022-07-29 |
 | [Cuff the Criminal](https://open.spotify.com/track/7DBd9nxx1EOivWRY3kYGZM) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 3:32 | 2021-04-10 |  |

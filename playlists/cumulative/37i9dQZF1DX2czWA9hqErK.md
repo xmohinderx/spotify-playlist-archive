@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-365 songs - 20 hr 35 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+366 songs - 20 hr 37 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Free Your Mind](https://open.spotify.com/track/0LcJvZLePFuEdmeSv7Cbsq) | [Chloe Rodgers](https://open.spotify.com/artist/3dptXWP4MdgRHTg65bsR7U) | [Back To The Quay](https://open.spotify.com/album/5ObJmggdX2RKXFpTuph4lQ) | 6:02 | 2022-03-29 | 2022-04-14 |
 | [Ghost](https://open.spotify.com/track/3STrStLYHHbwSWopJ3yuj7) | [Hannah Evans](https://open.spotify.com/artist/3oXoiCGV7IVgCEBwHiJM1s) | [Ghost](https://open.spotify.com/album/71pmdc72U1xTn0LIvbp5c7) | 3:47 | 2022-03-29 | 2022-04-08 |
 | [Ghost Of Who](https://open.spotify.com/track/37xhyHXiXLVkYrCoLN0Uli) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Daydreaming \- EP](https://open.spotify.com/album/3cgKqMkYQ0Lknsj59jvy7r) | 3:24 | 2022-04-11 | 2022-04-20 |
-| [Give You Love](https://open.spotify.com/track/3Iz5IcBHY2rCw9LQ8zC3X4) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Give You Love](https://open.spotify.com/album/6dlnjl4CTkwgMAJbccuLo0) | 3:38 | 2022-01-17 |  |
+| [Give You Love](https://open.spotify.com/track/3Iz5IcBHY2rCw9LQ8zC3X4) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Give You Love](https://open.spotify.com/album/6dlnjl4CTkwgMAJbccuLo0) | 3:38 | 2022-01-17 | 2022-08-11 |
 | [Giving Up](https://open.spotify.com/track/0oTz1tAimsacngMWagNdfB) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Giving Up](https://open.spotify.com/album/6YSG96DO3ly6aSALcvSVqL) | 3:04 | 2022-02-21 | 2022-04-19 |
 | [Glass Ceiling](https://open.spotify.com/track/74KhpMF3TuwzanrFXwfsZj) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Sonder](https://open.spotify.com/album/0s99qJjgAT5jyqpFQnFLMh) | 3:04 | 2022-02-21 | 2022-04-21 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-08-02 |  |
@@ -211,6 +211,7 @@
 | [Magazines](https://open.spotify.com/track/7gT71c6WzCkifRtSQbggGz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Magazines](https://open.spotify.com/album/4hL7bPlgURwziybd5zBuEo) | 3:40 | 2021-12-16 | 2021-12-27 |
 | [Make Believe](https://open.spotify.com/track/01zA432f5V0ssx6YbMgk18) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/3NT1Gm0ikf2rUNlUT1bpL4) | 3:53 | 2021-12-16 | 2022-04-27 |
 | [Mama Said](https://open.spotify.com/track/4ZwB14yES6W9CvmnCtV437) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Mama Said](https://open.spotify.com/album/3f1baSN725q4v2aDdJZtoh) | 3:45 | 2022-05-31 | 2022-07-29 |
+| [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 | 2022-08-02 |  |
 | [Maybe I Know You](https://open.spotify.com/track/4mzKMjm4GLzhYhc5V7edRr) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Maybe I Know You](https://open.spotify.com/album/7MrgHjMvUPHkNRDsTJd4Su) | 3:26 | 2022-03-25 | 2022-07-23 |
 | [Me & God](https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Me & God](https://open.spotify.com/album/22q4KL4mUJzuUaUAPYM5Hv) | 2:55 | 2022-02-21 |  |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-31 |  |

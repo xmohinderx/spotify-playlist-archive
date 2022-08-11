@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > The perfect Latin tunes to get in the Christmas spirit\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,766 likes - 98 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,759 likes - 98 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 70 | [Cantemos Todos Cantemos](https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Navidad \- Canta Gallo, Canta](https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS) | 4:17 |
 | 71 | [Noche de Paz](https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Noche de Paz](https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW) | 3:41 |
 | 72 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/1tRVAYeI6YE3cV9PrJVCqZ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/4qyD4rgdJ7aLqk6CW5igSH) | 2:14 |
-| 73 | [Ave Maria](https://open.spotify.com/track/69lRinMppHC0aN5O6Tizwa) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Christmas From The Heart](https://open.spotify.com/album/1n7udHnNnkdV1vBoBuM5cU) | 5:42 |
-| 74 | [un deseo más](https://open.spotify.com/track/6itDHP5ANCPNQQgXHbQ36R) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [un deseo más](https://open.spotify.com/album/2jvjSpRhbTEyJv1kwyyIG4) | 2:25 |
-| 75 | [All I Want For Christmas Is You](https://open.spotify.com/track/4C2WMkrsgCgLHG9wH41rZN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:56 |
+| 73 | [All I Want For Christmas Is You](https://open.spotify.com/track/4C2WMkrsgCgLHG9wH41rZN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:56 |
+| 74 | [Ave Maria](https://open.spotify.com/track/69lRinMppHC0aN5O6Tizwa) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Christmas From The Heart](https://open.spotify.com/album/1n7udHnNnkdV1vBoBuM5cU) | 5:42 |
+| 75 | [un deseo más](https://open.spotify.com/track/6itDHP5ANCPNQQgXHbQ36R) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [un deseo más](https://open.spotify.com/album/2jvjSpRhbTEyJv1kwyyIG4) | 2:25 |
 | 76 | [Blanca Navidad](https://open.spotify.com/track/6Lmnli1aPgP4ze8SyWRzBf) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [América Fernández](https://open.spotify.com/artist/1t2pG2SILJIeGtJbLsKluI), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [Valentina Fernández](https://open.spotify.com/artist/6ZmC7bjmEwzBvBM8j3Q6ND) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:54 |
 | 77 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 |
 | 78 | [Llegó Navidad](https://open.spotify.com/track/2jLTyiQc2feKpFu3Ts325e) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Llegó Navidad](https://open.spotify.com/album/1U9KMlWgZVAghi8rk64qMd) | 4:00 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 80 | [24 de Diciembre](https://open.spotify.com/track/4NRHORueJPu3Cql7yTwTEW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Top Latino Navidad](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 3:30 |
 | 81 | [Esta noche es Nochebuena](https://open.spotify.com/track/6pC1M6oEqPwZ7qtVoAsMYm) | [Los Chunguitos](https://open.spotify.com/artist/5dRk8JyA2Tg9wL0iiTqbVu) | [Navidad En España](https://open.spotify.com/album/4C4U9Rmq9gdtAUreLkh5oO) | 2:41 |
 | 82 | [White Christmas](https://open.spotify.com/track/6zHDSfn8RvgFY4fXuDGQTY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:38 |
-| 83 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/1h6z5tth4WJLopBk5Bd0qM) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:54 |
-| 84 | [El Tamborilero](https://open.spotify.com/track/4SIRNOB4kL8Uox6xqr07Ej) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 3:45 |
+| 83 | [El Tamborilero](https://open.spotify.com/track/4SIRNOB4kL8Uox6xqr07Ej) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 3:45 |
+| 84 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/1h6z5tth4WJLopBk5Bd0qM) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:54 |
 | 85 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3ckZlXpLQyUF0xYYl11MlL) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 4:00 |
 | 86 | [Navidad Sin Ti](https://open.spotify.com/track/4omIIwntSC0rw0MNEUwkw8) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 3:59 |
 | 87 | [Llegó la Navidad](https://open.spotify.com/track/4NJS1xksQ2p0nJ5yNWx8Ak) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Llegó la Navidad](https://open.spotify.com/album/7Hzii1J4Rqkleye5rg57KJ) | 2:09 |
@@ -99,12 +99,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 89 | [Navidad Sin Ti](https://open.spotify.com/track/1eakbXygVlIzucgfkdaOMN) | [Los Disidentes](https://open.spotify.com/artist/6IyKGUc7TMv7KHGHj5KpnA) | [Dos Regalos](https://open.spotify.com/album/4RhUZdCnAS0AYM5dlKMZYN) | 3:30 |
 | 90 | [Cantares de Navidad](https://open.spotify.com/track/3CBwkURhT0xqoDCJQAoSZe) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Top Latino Navidad](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 5:04 |
 | 91 | [Ya es Navidad](https://open.spotify.com/track/2CZb2AfUdM9hhDyioxymTL) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Es Navidad](https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf) | 3:32 |
-| 92 | [El Mejor Regalo](https://open.spotify.com/track/1HlS59V3jDAQx9VWfj1Ztm) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 2:56 |
-| 93 | [O Holy Night](https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:55 |
+| 92 | [O Holy Night](https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:55 |
+| 93 | [El Mejor Regalo](https://open.spotify.com/track/1HlS59V3jDAQx9VWfj1Ztm) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 2:56 |
 | 94 | [Jingle Bell Rock](https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:28 |
 | 95 | [MI REGALO](https://open.spotify.com/track/6ADhPmQEjVr7vdwbfFBaV7) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [MI REGALO](https://open.spotify.com/album/1bvC8ES0BRTxc00gxwfOZO) | 2:13 |
 | 96 | [A los Santos Reyes](https://open.spotify.com/track/7Jfu8UvOHm76l4EtnujLkH) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Navidades En Puerto Rico](https://open.spotify.com/album/6FdVveHqsMNEPXFjvw18wZ) | 3:02 |
 | 97 | [La Fiesta Se Pone Buena](https://open.spotify.com/track/0iG4fSbECL4BUhLWVMZrSr) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Pupy Santiago](https://open.spotify.com/artist/1AwtkVab3KjuB4wHYVj28r) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 5:00 |
 | 98 | [El Niño Jesus](https://open.spotify.com/track/5nkotu365Il2wz2JnPYCNY) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [El Niño Jesus \- Single](https://open.spotify.com/album/2Y8Xbcwhyx5cw4UoeiMhJE) | 3:50 |
 
-Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDBjMzljOTk4OTVlZDBjNTVhNWE3NjZhN2ViNzk4NWQy`
+Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDMwZTQwOTRjODk0OGVkNTFmYzBjYjFmZmMyYTllNjg0`

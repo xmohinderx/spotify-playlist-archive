@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Best Bollywood love songs from last 10 years\. Cover\- Shamshera
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,281 likes - 90 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,694 likes - 90 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

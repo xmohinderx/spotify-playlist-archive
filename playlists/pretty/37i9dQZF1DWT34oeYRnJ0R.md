@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: LATENIGHTJIGGY
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,548 likes - 86 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,560 likes - 86 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 47 | [CERQUITA](https://open.spotify.com/track/2Xg3vz32NEuKWWU73Hi1mc) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p), [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [CERQUITA](https://open.spotify.com/album/3uj1zQCI0RiOEvqIAFIurW) | 2:39 |
 | 48 | [Back 2 Black \(Yo Regreso A\) \[feat\. De La Ghetto\] \- Spotify Singles](https://open.spotify.com/track/0lS2cknKcNCRi9xEN18bah) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Spotify Singles](https://open.spotify.com/album/6KlTtkhY5el9zjIoHqoQJp) | 2:52 |
 | 49 | [Too Much](https://open.spotify.com/track/4641GJZLmYVBT8mRXRKaid) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Too Much](https://open.spotify.com/album/4dZQkNMhgBKHOx9QOgqWWW) | 2:11 |
-| 50 | [DIADREAMER](https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:04 |
-| 51 | [Hace Mucho](https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Hace Mucho](https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl) | 3:16 |
+| 50 | [Hace Mucho](https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Hace Mucho](https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl) | 3:16 |
+| 51 | [DIADREAMER](https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:04 |
 | 52 | [Paraíso](https://open.spotify.com/track/0Dfmwxl6g35vW10qcU5UN1) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Paraíso](https://open.spotify.com/album/60zwZ3rcvhQZepAwfcpuYI) | 3:32 |
 | 53 | [Me Quiere No Me Quiere](https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [La Española](https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64) | 2:50 |
 | 54 | [My Summer Time](https://open.spotify.com/track/6lSUnwb0ba41qNUhTFfIoA) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summer Time](https://open.spotify.com/album/5lyIffJt0ugc2GApCIe0nr) | 3:07 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 80 | [Anormales](https://open.spotify.com/track/04E5qHTUW74EeWlOQQtteJ) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [Anormales](https://open.spotify.com/album/7nxb34o0raimYBHfxgUoOS) | 2:45 |
 | 81 | [Pausa](https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa) | [EVAH](https://open.spotify.com/artist/0Jq68za8AyaPdrI4NEuMni) | [Pausa](https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY) | 4:03 |
 | 82 | [Blah Blah](https://open.spotify.com/track/0D4gVyCQkDKq6bfvwA2SCI) | [Eric De Franco](https://open.spotify.com/artist/28dQMLSfdLnyiiZ227NsR0) | [Blah Blah](https://open.spotify.com/album/1v3DykStfkipWutZONNHE9) | 2:40 |
-| 83 | [Torero](https://open.spotify.com/track/2LXUg5dCkY9UCzoypbaaH3) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [Torero](https://open.spotify.com/album/766RXg8hOYak8eKMeZu5o7) | 3:00 |
-| 84 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
+| 83 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
+| 84 | [Torero](https://open.spotify.com/track/2LXUg5dCkY9UCzoypbaaH3) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [Torero](https://open.spotify.com/album/766RXg8hOYak8eKMeZu5o7) | 3:00 |
 | 85 | [Bad Guy](https://open.spotify.com/track/673ubniw51MnNmQt6eX8ba) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [Bad Guy](https://open.spotify.com/album/0peE24D1ZM89EqVswUhSFr) | 3:06 |
 | 86 | [Perderme](https://open.spotify.com/track/6lMW8lLquI5brwfYIVymn8) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [No Pueden Contra Mi](https://open.spotify.com/album/2X7Q5CvyfWbYdGygU1kVZ5) | 2:55 |
 
-Snapshot ID: `MTY1OTcyNzg2NywwMDAwMDAwMGI1NGU1MWFhZjJjZTZmZDU2Yzk5ZGRlZDdhYjY3M2I5`
+Snapshot ID: `MTY1OTcyNzg2NywwMDAwMDAwMGYzNWJkOWQ5YmFkZjVmOGIwZTI1NjE1YTUwMWQ5YzU0`

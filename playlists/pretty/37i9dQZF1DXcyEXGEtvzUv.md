@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap luso em 2021\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,330 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,336 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 23 | [STAY FLY](https://open.spotify.com/track/7dO4sx0Qw8i0RkadAYUHwv) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [A Nave Vai Em Tour](https://open.spotify.com/album/76y7DQxiILRuVy04Hq1fzo) | 3:54 |
 | 24 | [Hospedeira](https://open.spotify.com/track/64Oa8tg2cdXm9Zu4SmRf1f) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 4:25 |
 | 25 | [Giovanni Galli](https://open.spotify.com/track/5Y45nnVtoaYx4iRO3Ctx4c) | [Mad 283](https://open.spotify.com/artist/5hCD3ne9PkIC9mVzOJStwQ), [Breezy6ix 283](https://open.spotify.com/artist/3b9jceUE0RUM6tTewMPGmf) | [Giovanni Galli](https://open.spotify.com/album/2FL9S7gBWcrtLE1l8iarO4) | 3:29 |
-| 26 | [Facts](https://open.spotify.com/track/0anTwmXv0ZMVSuuHhFFvIs) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [Facts](https://open.spotify.com/album/3vPfTCseVUvo2QhT80VEzF) | 2:50 |
+| 26 | [Facts](https://open.spotify.com/track/0anTwmXv0ZMVSuuHhFFvIs) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Facts](https://open.spotify.com/album/3vPfTCseVUvo2QhT80VEzF) | 2:50 |
 | 27 | [Bonnie & Clyde](https://open.spotify.com/track/30A76Y7rYcNuZAzOIjcveL) | [Minguito 283](https://open.spotify.com/artist/1LvFNnGu8V8HBP8Qy2bhYv) | [Bonnie & Clyde](https://open.spotify.com/album/07fLryxsmiSAmBYEHqAXbE) | 3:15 |
 | 28 | [Nós](https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Nós](https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz) | 4:38 |
 | 29 | [Mudo de Vida](https://open.spotify.com/track/65TnBEqYie3BRoMbd8d30t) | [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [Mudo de Vida](https://open.spotify.com/album/1tjLg5elGpdZMSmmUoZbfi) | 3:28 |

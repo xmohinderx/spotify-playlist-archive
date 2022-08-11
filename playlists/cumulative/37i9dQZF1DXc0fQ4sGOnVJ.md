@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-111 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+112 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Way of Life](https://open.spotify.com/track/772E0ETHUfEwT5gJJOXW0C) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Denim](https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo) | 3:45 | 2022-07-22 |  |
 | [Way of Life \(feat\. the Lacs & Danny Boone\)](https://open.spotify.com/track/3IXRx2tstonB4eUtITZEWV) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Way of Life \(feat\. the Lacs & Danny Boone\)](https://open.spotify.com/album/7z7qWVxkrVvTuYysFabw3H) | 3:44 | 2021-05-21 | 2022-07-29 |
 | [We All Country \(feat\. Colt Ford, Sarah Ross & Charlie Farley\)](https://open.spotify.com/track/2SGjJdLuSIvyVB5eXAJXm7) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk), [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Calicountry](https://open.spotify.com/album/5LeysSgG4R2gezyQYFWKsv) | 4:22 | 2021-05-21 |  |
-| [When I Pull Up](https://open.spotify.com/track/36YL11gGDlMvhPvrIOYqQn) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [When I Pull Up](https://open.spotify.com/album/6NmIZGdsfYh21Fz2vFRI8K) | 2:26 | 2021-10-08 |  |
+| [When I Pull Up](https://open.spotify.com/track/36YL11gGDlMvhPvrIOYqQn) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [When I Pull Up](https://open.spotify.com/album/6NmIZGdsfYh21Fz2vFRI8K) | 2:26 | 2021-10-08 | 2022-08-11 |
+| [When I Pull Up](https://open.spotify.com/track/7aHzBx4XwGc0e1d7sKd5Md) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [When I Pull Up](https://open.spotify.com/album/7LfEgScSBQT6MD7ugKB6oa) | 2:26 | 2022-07-29 |  |
 | [White Trash](https://open.spotify.com/track/2RYTHqaNac6IoCVmXBiR9A) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [American White Trash](https://open.spotify.com/album/7nCe0ikRQH305XDZ7MUwpN) | 2:47 | 2022-07-22 |  |
 | [White Trash](https://open.spotify.com/track/3RmKYjsOGP80pentPT6BVR) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [American White Trash](https://open.spotify.com/album/7Cd2yocZtRnukhgMnfEbvn) | 2:47 | 2021-05-21 | 2022-07-29 |
 | [Who I Am](https://open.spotify.com/track/4rO6myJAeyQIb1laSwfyOq) | [Brandon Hartt](https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb) | [Who I Am](https://open.spotify.com/album/0rjjFia9xRgY9tr6d5kRBn) | 3:54 | 2022-06-24 | 2022-07-02 |

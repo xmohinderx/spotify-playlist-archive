@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: JAWNY",
-  "num_followers": 1706361,
+  "num_followers": 1706452,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNDczMiwwMDAwMDAwMDI2NGQzY2YyN2IxYzFhYzhiOTZmNGQzZDJhODNlMmU2",
+  "snapshot_id": "MTY1OTcxNDczMiwwMDAwMDAwMGIwMDkxMDI3YzY0NWJjMjM4NDBhMTEyZDQzZjQ4YTg0",
   "tracks": [
     {
       "added_at": "2022-08-05 15:46:26",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
-        "name": "The Yearbook",
-        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 218053,
-      "name": "Dover Beach",
-      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
-    },
-    {
-      "added_at": "2022-08-05 15:46:26",
-      "album": {
         "name": "don\u2019t miss me",
         "url": "https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 123949,
       "name": "don't miss me",
       "url": "https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl"
+    },
+    {
+      "added_at": "2022-08-05 15:46:26",
+      "album": {
+        "name": "The Yearbook",
+        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Dover Beach",
+      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
     },
     {
       "added_at": "2022-08-05 15:46:26",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 258319,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
-    },
-    {
-      "added_at": "2022-08-05 15:46:26",
-      "album": {
         "name": "Mess It Up",
         "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 171280,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
+    },
+    {
+      "added_at": "2022-08-05 15:46:26",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 258319,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
     },
     {
       "added_at": "2022-08-05 15:46:26",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
+        "name": "I'm Not In Love",
+        "url": "https://open.spotify.com/album/10VeT6WRqObxGPOirjcank"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 97293,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi"
+    },
+    {
+      "added_at": "2022-08-05 15:46:26",
+      "album": {
         "name": "Grocery Store",
         "url": "https://open.spotify.com/album/1eCqGxTppTVL3jtVMzD2Wd"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
-    },
-    {
-      "added_at": "2022-08-05 15:46:26",
-      "album": {
-        "name": "I'm Not In Love",
-        "url": "https://open.spotify.com/album/10VeT6WRqObxGPOirjcank"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        }
-      ],
-      "duration_ms": 97293,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi"
     },
     {
       "added_at": "2022-08-05 15:46:26",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-08-05 15:46:26",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 146273,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv"
-    },
-    {
-      "added_at": "2022-08-05 15:46:26",
-      "album": {
         "name": "Meteorite",
         "url": "https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 194630,
       "name": "Meteorite",
       "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
+    },
+    {
+      "added_at": "2022-08-05 15:46:26",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 146273,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv"
     },
     {
       "added_at": "2022-08-05 15:46:26",

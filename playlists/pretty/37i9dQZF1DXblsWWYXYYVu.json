@@ -1,13 +1,29 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 65873,
+  "num_followers": 65893,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDgzMWNhYmJkYmQ2NTAyZmE5Y2UyOTExMWU5YTAwZjM0",
+  "snapshot_id": "MTY2MDE1MjEzNiwwMDAwMDAwMDM4YzFiNTk1Nzk5ZmU5ZjhkNmY2M2MyNGViNjJhMDMy",
   "tracks": [
+    {
+      "added_at": "2022-08-10 17:22:16",
+      "album": {
+        "name": "Life Ain't Always Pretty",
+        "url": "https://open.spotify.com/album/1gclZGnEWXEl84IK0xRwb0"
+      },
+      "artists": [
+        {
+          "name": "Brett Sheroky",
+          "url": "https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Life Ain't Always Pretty",
+      "url": "https://open.spotify.com/track/1BNvU8Mn5aHnq0SxBIUoV4"
+    },
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
@@ -1611,22 +1627,6 @@
       "duration_ms": 261013,
       "name": "Til the River Takes Us Home",
       "url": "https://open.spotify.com/track/3EiIk1CUYBxFhDo2c38Elp"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Dear America",
-        "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 172990,
-      "name": "Tell Yourself",
-      "url": "https://open.spotify.com/track/5QjkvXMDRkZQhROtNkUoyz"
     }
   ],
   "unique_name": "Take it Slow",

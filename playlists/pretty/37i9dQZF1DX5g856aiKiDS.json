@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 409017,
+  "num_followers": 409187,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAzMDIxNiwwMDAwMDAwMDk3YWQ1N2IzY2Y3ODIyNTk4NGIwOTE3NmY5OGY0YTU0",
+  "snapshot_id": "MTY2MDAzMDIxNiwwMDAwMDAwMDA0ZTMxYzc4ZjY2NTc3MTk5YzFhMzVjNjc4MDk3ZDE3",
   "tracks": [
     {
       "added_at": "2022-08-09 07:30:15",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-08-09 07:30:15",
       "album": {
-        "name": "ZZZ",
-        "url": "https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "duration_ms": 202342,
-      "name": "Hello Tutorial",
-      "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
-    },
-    {
-      "added_at": "2022-08-09 07:30:15",
-      "album": {
         "name": "Maybe We Could Be a Thing",
         "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "added_at": "2022-08-09 07:30:15",
+      "album": {
+        "name": "ZZZ",
+        "url": "https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "duration_ms": 202342,
+      "name": "Hello Tutorial",
+      "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
     },
     {
       "added_at": "2022-08-09 07:30:15",

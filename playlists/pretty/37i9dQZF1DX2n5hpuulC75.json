@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 238716,
+  "num_followers": 238773,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDQ5ODVlZDg0MTRmZmUwZTE1NjNlMTIyZTM4NDAyZjdh",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDk3NWMwZDdlMDhmYmU4MzE2ZDFmN2NlNTdiNWViYWVi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -251,22 +251,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Aromanticism",
-        "url": "https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 188557,
-      "name": "Plastic",
-      "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "What You Want",
         "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 191986,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Aromanticism",
+        "url": "https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 188557,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -647,22 +647,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "After the Tone with Lossapardo",
-        "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
+        "name": "Surf",
+        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
       },
       "artists": [
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
-        },
-        {
-          "name": "Lossapardo",
-          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
+          "name": "Common Tiger",
+          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
         }
       ],
-      "duration_ms": 153700,
-      "name": "After the Tone with Lossapardo",
-      "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
+      "duration_ms": 175412,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -683,34 +679,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Self Edit",
-        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
+        "name": "After the Tone with Lossapardo",
+        "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
       },
       "artists": [
         {
-          "name": "Vesce",
-          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Zender",
-      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Surf",
-        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
-      },
-      "artists": [
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+        },
         {
-          "name": "Common Tiger",
-          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
+          "name": "Lossapardo",
+          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
         }
       ],
-      "duration_ms": 175412,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
+      "duration_ms": 153700,
+      "name": "After the Tone with Lossapardo",
+      "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -727,6 +711,38 @@
       "duration_ms": 339921,
       "name": "Fragment II",
       "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Self Edit",
+        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
+      },
+      "artists": [
+        {
+          "name": "Vesce",
+          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Zender",
+      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
+      },
+      "artists": [
+        {
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -767,22 +783,6 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
-      },
-      "artists": [
-        {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
       "added_at": "2018-12-11 21:12:31",

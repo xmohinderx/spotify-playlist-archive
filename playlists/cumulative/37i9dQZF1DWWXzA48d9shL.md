@@ -4,7 +4,7 @@
 
 > Sing Me a Lullaby, My Sweet Temptation, the latest album by the $uicideboy$.
 
-280 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+281 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bungee Gum](https://open.spotify.com/track/2UboK4rDkzSDhoBkox2vxR) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [Bungee Gum](https://open.spotify.com/album/0uS1LbaINYPzsp9EQBRpUd) | 1:46 | 2021-09-17 |  |
 | [Buried Alive](https://open.spotify.com/track/717pWgqqsMUEgydhiINRO1) | [Ca$tro Guapo](https://open.spotify.com/artist/0LAurKItZ2c5kltNoRMtKq) | [Buried Alive](https://open.spotify.com/album/1Y5YRaxd5Sg1qYwP9Cubrj) | 1:39 | 2022-05-27 | 2022-07-23 |
 | [Burn](https://open.spotify.com/track/0EaoOSTTsx7zqaOFqBaleS) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [Burn](https://open.spotify.com/album/0Jzy2rfQQAnYkQ5pfvNQ1s) | 2:50 | 2021-09-17 | 2022-07-27 |
-| [BURNER](https://open.spotify.com/track/1gANf7FccsLPFIwgueeo7u) | [Ak3k](https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [BURNER](https://open.spotify.com/album/4DGrJDl2ReUKTqYJsCDk0V) | 2:25 | 2022-05-13 |  |
+| [BURNER](https://open.spotify.com/track/1gANf7FccsLPFIwgueeo7u) | [Ak3k](https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [BURNER](https://open.spotify.com/album/4DGrJDl2ReUKTqYJsCDk0V) | 2:25 | 2022-05-13 | 2022-08-11 |
 | [BUSTER](https://open.spotify.com/track/7fm5r6dD04emTplbHD5wDP) | [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [BUSTER](https://open.spotify.com/album/2HgOwA2cq8gapCopf0NTtQ) | 2:21 | 2022-02-04 | 2022-04-21 |
 | [C4](https://open.spotify.com/track/3ro79xln1AuGHdAn0VjL4P) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [C4](https://open.spotify.com/album/4w7VFG3OGWMbSBRsKwLMpw) | 2:05 | 2021-09-17 | 2022-07-27 |
 | [CANNOT GET ANY BETTER](https://open.spotify.com/track/5M4r4rrjc3mXTRLIDH9qcG) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [CANNOT GET ANY BETTER](https://open.spotify.com/album/4C8JSXX0gamv4pllZ55XQV) | 2:24 | 2021-10-29 | 2022-04-21 |
@@ -91,6 +91,7 @@
 | [DEATH NOTE](https://open.spotify.com/track/7DmudsfAiii1mhBLk1EvaL) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [WORLD DOMINATION](https://open.spotify.com/album/0EwZh84BsSaWxG8H4alInK) | 2:08 | 2022-05-27 |  |
 | [DEATHSTROKE](https://open.spotify.com/track/1e9xiSiWgxpHkkDU08QhcM) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O) | [DEATHSTROKE](https://open.spotify.com/album/0AE5crow0ICzvYrpFCdGnc) | 2:25 | 2022-03-09 | 2022-04-21 |
 | [DELIRIOUS!](https://open.spotify.com/track/6KemhLE5U7fd5SBUJr2sRl) | [Championxiii](https://open.spotify.com/artist/0mYBT2Ek76Szd4MqbCgT5R), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [DELIRIOUS!](https://open.spotify.com/album/7LiafuGVnC731meL4S6cmi) | 1:32 | 2021-10-08 | 2022-04-21 |
+| [DELIRIUM](https://open.spotify.com/track/3dpXWb3vTMzyL6KbFqB61Y) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL) | [DELIRIUM](https://open.spotify.com/album/5UpCybC6vRO1n444JQwCez) | 2:10 | 2022-08-10 |  |
 | [dignity](https://open.spotify.com/track/1Ov0gxcMyTR2zwm2Xs9Bb8) | [KevinKempt](https://open.spotify.com/artist/5rW6rpuV2MZfke72uiQe8a) | [dignity](https://open.spotify.com/album/7nbZ5aIEgcTYtxJv3esZl6) | 2:58 | 2021-12-10 | 2022-04-20 |
 | [DISINTEGRATE](https://open.spotify.com/track/5M3T7YoQFE9xzxRZXzTBKX) | [K.V.N](https://open.spotify.com/artist/0spgIsDeSqUcUjfejGzMXc), [Cyberdrip$](https://open.spotify.com/artist/3FoS8RMVwPAVPfkHdeBygg) | [DISINTEGRATE](https://open.spotify.com/album/1NAyYqFwiV6v0t1e4Ztzea) | 1:54 | 2022-03-18 | 2022-04-20 |
 | [DON'T BREATHE!](https://open.spotify.com/track/77Aac38YQDZ14cN4A5JAFx) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [DON'T BREATHE!](https://open.spotify.com/album/0GwJVs8lPoM0uvlaWBesUd) | 2:33 | 2022-06-24 |  |

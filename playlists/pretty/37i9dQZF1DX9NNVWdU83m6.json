@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 27252,
+  "num_followers": 27286,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDk2OWQ2NzU5NDlkYzcwYzhmOGNlY2YwNDViMjVlNzNk",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDVmM2E4MDEwNzAwODE0MjZjYzQxZTcwMTMxMjk1NDQ4",
   "tracks": [
     {
       "added_at": "2022-07-15 04:02:00",
@@ -469,6 +469,22 @@
       "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
     },
     {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Akashic Xronicles",
+        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 267915,
+      "name": "Akashic Xronicles",
+      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Ultima",
@@ -491,22 +507,6 @@
       "duration_ms": 269920,
       "name": "Ultima",
       "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Akashic Xronicles",
-        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 267915,
-      "name": "Akashic Xronicles",
-      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
-      },
-      "artists": [
-        {
-          "name": "Cameron Graves",
-          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
-        }
-      ],
-      "duration_ms": 261506,
-      "name": "Sons of Creation",
-      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 183601,
       "name": "Taurian Matador",
       "url": "https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
+      },
+      "artists": [
+        {
+          "name": "Cameron Graves",
+          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
+        }
+      ],
+      "duration_ms": 261506,
+      "name": "Sons of Creation",
+      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
       "added_at": "2021-04-23 04:01:00",

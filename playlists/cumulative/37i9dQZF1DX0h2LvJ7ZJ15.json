@@ -2269,10 +2269,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 131853,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/7BXgUEEfz7SV4IPlozgmVt"
+    },
+    {
+      "album": {
+        "name": "revenge",
+        "url": "https://open.spotify.com/album/5MjrFJGP4kdd8BUMMfyWCc"
+      },
+      "artists": [
+        {
+          "name": "Xizt",
+          "url": "https://open.spotify.com/artist/3cFo74028DYWR3bYdIaPZ6"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131854,
+      "name": "revenge",
+      "url": "https://open.spotify.com/track/4Y3dDj1I3fEUuXMYsfrLUI"
     },
     {
       "album": {

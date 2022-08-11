@@ -1104,6 +1104,24 @@
     },
     {
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4"
+      },
+      "artists": [
+        {
+          "name": "TAIKING",
+          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244358,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm"
+    },
+    {
+      "album": {
         "name": "Homies",
         "url": "https://open.spotify.com/album/6PxGvjRqGO34UAw47JX7io"
       },
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 267666,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
@@ -2004,6 +2022,24 @@
     },
     {
       "album": {
+        "name": "Remember me",
+        "url": "https://open.spotify.com/album/1OQlchkVRwfKlCg02KEtSA"
+      },
+      "artists": [
+        {
+          "name": "peeto",
+          "url": "https://open.spotify.com/artist/2o7CvH7hLj3c3XbkFmnLXA"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Remember me",
+      "url": "https://open.spotify.com/track/02cpMqOFhYCBFcOf8u2V8P"
+    },
+    {
+      "album": {
         "name": "Rhythm of Your Heart",
         "url": "https://open.spotify.com/album/7BYeCDSK87JZGz8O1DPG6e"
       },
@@ -2171,7 +2207,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 203588,
       "name": "Sentimental - Neon Mix",
       "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
@@ -2229,7 +2265,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 212418,
       "name": "Signpost",
       "url": "https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc"
@@ -2572,6 +2608,28 @@
     },
     {
       "album": {
+        "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233920,
+      "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/55bvAdlPn6JTlv8MpTgLig"
       },
@@ -2717,6 +2775,24 @@
       "duration_ms": 223066,
       "name": "Tokyo Rouge",
       "url": "https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem"
+    },
+    {
+      "album": {
+        "name": "UNDR BLUE",
+        "url": "https://open.spotify.com/album/7o5PEy2vFqEbfN6UhV1yVj"
+      },
+      "artists": [
+        {
+          "name": "POOL",
+          "url": "https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "UNDR BLUE",
+      "url": "https://open.spotify.com/track/3WlVSWdPofy7KJWXHDx0A6"
     },
     {
       "album": {
@@ -2877,7 +2953,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
@@ -2895,7 +2971,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 201617,
       "name": "yugi",
       "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
@@ -3641,7 +3717,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 192000,
       "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
@@ -3849,6 +3925,24 @@
       "duration_ms": 252666,
       "name": "\u512a\u3057\u3044\u624b ~ Gentle Hands",
       "url": "https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306f1000%",
+        "url": "https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr"
+      },
+      "artists": [
+        {
+          "name": "Philosophy no Dance",
+          "url": "https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257083,
+      "name": "\u541b\u306f1000%",
+      "url": "https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid"
     },
     {
       "album": {
@@ -4397,6 +4491,24 @@
       "duration_ms": 209078,
       "name": "\u771f\u590f\u306e\u30b9\u30ad\u30e3\u30c3\u30c8 - 2022version",
       "url": "https://open.spotify.com/track/05ua1KAx7AcW7NUNd3F9He"
+    },
+    {
+      "album": {
+        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249254,
+      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Den BB & Oskar Westerlin
 
-227 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
+228 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Felleskjøpet\-dress](https://open.spotify.com/track/1yHGoNVtlz20xq2ny8QpxP) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Felleskjøpet\-dress](https://open.spotify.com/album/76O4WYc2C9IpIKepQCHhzj) | 3:12 | 2022-04-21 | 2022-07-29 |
 | [Fjellrypa](https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Sånn e livet \- Live 10 år](https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6) | 4:26 | 2022-03-24 | 2022-04-21 |
 | [Flaska](https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Flaska](https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I) | 2:31 | 2021-12-16 |  |
+| [FRATERNITY](https://open.spotify.com/track/7wcbaD93iX2uIcP1X9oDKq) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [FRATERNITY](https://open.spotify.com/album/6MG2YTCUxJnihyrrFOoA5I) | 2:06 | 2022-08-04 |  |
 | [FREDAG](https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [FREDAG](https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46) | 2:48 | 2021-12-16 |  |
 | [Fredag \- Digg å være norsk](https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB) | [Mr Melk](https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD) | [Fredag \(Digg å være norsk\)](https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy) | 2:13 | 2022-03-17 |  |
 | [Frædagskvæll](https://open.spotify.com/track/4JndQbgq1JpboD8EBCqd4t) | [Ingemars](https://open.spotify.com/artist/4UfyXFE2NHOawKTKOFQ62J) | [På Egne Væger](https://open.spotify.com/album/1G2TEyhcWHWekbwRmmN9in) | 2:41 | 2022-03-24 | 2022-04-21 |
@@ -200,7 +201,7 @@
 | [Splitter Pine](https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c) | [Dumdum Boys](https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv) | [Splitter Pine \(Remastered 2015\)](https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee) | 4:27 | 2022-03-24 | 2022-04-17 |
 | [Supa](https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Supa](https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG) | 2:52 | 2021-12-16 |  |
 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 | 2021-12-16 |  |
-| [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 | 2021-12-16 |  |
+| [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 | 2021-12-16 | 2022-08-11 |
 | [Sykepleierinnen \- Remix](https://open.spotify.com/track/7ysbOWocXnU71Td0ggrrGd) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sykepleierinnen \(Remix\)](https://open.spotify.com/album/1hF27RvzdmRbqHgJwaAxrt) | 3:35 | 2021-12-16 | 2022-01-17 |
 | [Syvers lørdagsdans](https://open.spotify.com/track/5NSFWJvhxEzDj0bNqVcovK) | [Nordans](https://open.spotify.com/artist/1M33yR7THq8rfvihKoUWHO) | [Råneran på Innherred og 20 andre gode danselåter](https://open.spotify.com/album/4wvID7cYL8u9T6feU1GfQd) | 2:40 | 2022-03-10 | 2022-07-25 |
 | [SÄNK DIESELPRISET](https://open.spotify.com/track/1NF8op28TqKOUPAb5NEpLC) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Femedia](https://open.spotify.com/artist/2oKbavAM3HBJQAPxY867tB), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [SÄNK DIESELPRISET](https://open.spotify.com/album/7KcTYUN4oW03vIxq9OZbDj) | 2:21 | 2022-07-21 | 2022-07-28 |

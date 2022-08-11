@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! Foto: Oscar D'Le\u00f3n",
-  "num_followers": 125894,
+  "num_followers": 125952,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MzYzMTY5NCwwMDAwMDAwMGNjNDAxZjRhNjJmZWIxYzJhOThjNWQ4ZTc1NTM5YTJj",
+  "snapshot_id": "MTU1MzYzMTY5NCwwMDAwMDAwMGI3NzJlODI2YjAxMmRjNDNkNDc2NDdlNTJhNzMxYzRm",
   "tracks": [
     {
       "added_at": "2019-02-21 18:14:14",
@@ -267,22 +267,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "La Universidad de La Salsa",
-        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "Y No Hago Mas Na'",
-      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Por el Buen Camino",
         "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 311800,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "La Universidad de La Salsa",
+        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "Y No Hago Mas Na'",
+      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -359,6 +359,22 @@
       "duration_ms": 344786,
       "name": "Nadie Igual Que tu",
       "url": "https://open.spotify.com/track/1E04xyii2FtGyCiAWgbm9k"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Salsa Exitos",
+        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
+      },
+      "artists": [
+        {
+          "name": "Pedro Conga",
+          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
+        }
+      ],
+      "duration_ms": 284240,
+      "name": "Me Niegas Tanto Amor",
+      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -415,22 +431,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Colecci\u00f3n De Oro",
-        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 278986,
-      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
-      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Salsa Greatest Hits",
         "url": "https://open.spotify.com/album/5cLsHBFKN5olOn3mQg7WU6"
       },
@@ -447,34 +447,34 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Aqui Estoy Yo",
-        "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
       },
       "artists": [
         {
-          "name": "Roberto Lugo",
-          "url": "https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 322360,
-      "name": "Si Me Dejas Amarte",
-      "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
+      "duration_ms": 278986,
+      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
+      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
     },
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Salsa Exitos",
-        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
+        "name": "20 \u00c9xitos Con Orquesta/Grupo",
+        "url": "https://open.spotify.com/album/28imweMDfB3oyByj6MySDQ"
       },
       "artists": [
         {
-          "name": "Pedro Conga",
-          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 284240,
-      "name": "Me Niegas Tanto Amor",
-      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
+      "duration_ms": 164440,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/7g4RwwhSrmX9iuNFE8wk2G"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -495,18 +495,18 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "20 \u00c9xitos Con Orquesta/Grupo",
-        "url": "https://open.spotify.com/album/28imweMDfB3oyByj6MySDQ"
+        "name": "Aqui Estoy Yo",
+        "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Roberto Lugo",
+          "url": "https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Lobo Domesticado",
-      "url": "https://open.spotify.com/track/7g4RwwhSrmX9iuNFE8wk2G"
+      "duration_ms": 322360,
+      "name": "Si Me Dejas Amarte",
+      "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
     },
     {
       "added_at": "2019-02-21 18:14:14",

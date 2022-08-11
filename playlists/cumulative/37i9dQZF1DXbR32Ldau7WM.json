@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "30minutes",
+        "url": "https://open.spotify.com/album/49UapnkmqyULff9EydUll5"
+      },
+      "artists": [
+        {
+          "name": "Kyoko",
+          "url": "https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212864,
+      "name": "30minutes",
+      "url": "https://open.spotify.com/track/0h5M1WuZUs7BDAmSWgzzlY"
+    },
+    {
+      "album": {
         "name": "A Spring Breath",
         "url": "https://open.spotify.com/album/1XJr7sq0j0c5bccwKMdTVw"
       },
@@ -279,7 +297,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 219360,
       "name": "Blaze",
       "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
@@ -1944,6 +1962,24 @@
     },
     {
       "album": {
+        "name": "Rakuenkyosokyoku",
+        "url": "https://open.spotify.com/album/6PYYgwwLgXkgR1XECqn7aB"
+      },
+      "artists": [
+        {
+          "name": "The Ravens",
+          "url": "https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Rakuenkyosokyoku",
+      "url": "https://open.spotify.com/track/6dwIyS9wjHibWSOLXqcbTL"
+    },
+    {
+      "album": {
         "name": "REBORN",
         "url": "https://open.spotify.com/album/1EAgEUIDCIrmB6eDoAORGX"
       },
@@ -2119,7 +2155,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 265420,
       "name": "Scratch",
       "url": "https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8"
@@ -2598,6 +2634,24 @@
     },
     {
       "album": {
+        "name": "Treasure hunting",
+        "url": "https://open.spotify.com/album/3ON4buFEMTNxdp0Klp1EY6"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305100,
+      "name": "Treasure hunting",
+      "url": "https://open.spotify.com/track/3p9K3VmLDSFBuOU0UYnhBC"
+    },
+    {
+      "album": {
         "name": "Adapt",
         "url": "https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4"
       },
@@ -2671,6 +2725,24 @@
       "duration_ms": 222693,
       "name": "United Sparrows",
       "url": "https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx"
+    },
+    {
+      "album": {
+        "name": "Unleash!!!!!",
+        "url": "https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Unleash!!!!!",
+      "url": "https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM"
     },
     {
       "album": {
@@ -4425,7 +4497,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 216760,
       "name": "\u661f\u8def (\u307f\u3061)",
       "url": "https://open.spotify.com/track/0TWwbu3qo6fglRBJerQ068"
@@ -4901,7 +4973,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 224399,
       "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
       "url": "https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH"

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-419 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+420 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Back to the Future \(Part I\)](https://open.spotify.com/track/6hAFh200VpVUPg1P14oaJr) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:22 | 2022-03-30 | 2022-04-17 |
 | [Bad Bad News](https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Bet Ain't Worth the Hand / Bad Bad News](https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7) | 3:27 | 2022-03-30 | 2022-04-17 |
 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 | 2022-07-26 |  |
-| [Be Thankful for What You've Got \- David Todd Remix](https://open.spotify.com/track/5ndGYGQJGv1hbpTKD6gzLZ) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/171sgXlr8rxJFQhsbJFrQP) | 6:54 | 2021-12-16 |  |
+| [Be Thankful for What You've Got \- David Todd Remix](https://open.spotify.com/track/5ndGYGQJGv1hbpTKD6gzLZ) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/171sgXlr8rxJFQhsbJFrQP) | 6:54 | 2021-12-16 | 2022-08-11 |
 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 | 2021-12-16 |  |
 | [Beatin’ tha Breaks \- Freddie Joachim Remix](https://open.spotify.com/track/4pL8MP37x4cMmXk6Tcn1dS) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [Future Disco: Beach Life](https://open.spotify.com/album/7BQpUHRGyTvl6q5gOj0vAz) | 4:08 | 2021-12-16 | 2022-07-01 |
 | [Beige 70 \- Domenique Dumont Bilingual Remix](https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Beige 70 \(Domenique Dumont Bilingual Remix\)](https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox) | 4:22 | 2021-12-16 | 2022-04-21 |
@@ -90,6 +90,7 @@
 | [Crazy Girls](https://open.spotify.com/track/78VX1YygxZMqYPGEwMIxBG) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [A River's Invitation](https://open.spotify.com/album/6oGFUErSaMw5kXdcYCQ3gL) | 3:57 | 2021-12-30 | 2022-05-05 |
 | [Cruisin' to the Parque feat\. Y La Bamba](https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:35 | 2022-07-26 |  |
 | [Cruisin' to the Parque feat\. Y La Bamba](https://open.spotify.com/track/5ogtCRgBDDaPjInCBcFHTg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/1m38XyH8I9KSgnkhv4Axd1) | 3:35 | 2021-12-16 | 2022-07-06 |
+| [Crying Shame](https://open.spotify.com/track/7vwzFVGdBhaFEjEZkqhjOH) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/5z4DOERCGnhGHovVe1RuXh) | 3:51 | 2022-08-06 |  |
 | [Crying Shame](https://open.spotify.com/track/78p9wcadMP3t2GddgN8eNc) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/3HyoK42Wc8CMxHJ8MDU3qA) | 3:53 | 2021-12-16 | 2022-07-29 |
 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 | 2022-03-30 |  |
 | [Dancing In The Moonlight](https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing In The Moonlight](https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s) | 2:58 | 2022-01-07 | 2022-07-29 |

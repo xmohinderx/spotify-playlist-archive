@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 94636,
+  "num_followers": 94682,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDVhYTk0N2FhZGIyMDc2YzMxZjBjZGUzYzY2NzU4ZmZi",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDgzNWQ2OWRjNThmMjg2MzE5NTRlNWE4NjVmN2NkMmQ5",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -251,18 +251,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+        "name": "Things I Used To Do",
+        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
       },
       "artists": [
         {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
         }
       ],
-      "duration_ms": 261920,
-      "name": "Good Texan",
-      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
+      "duration_ms": 173000,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -299,18 +299,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Things I Used To Do",
-        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
       "artists": [
         {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Let The Good Times Roll",
-      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
+      "duration_ms": 261920,
+      "name": "Good Texan",
+      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -395,22 +395,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
-      },
-      "artists": [
-        {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
         "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 347880,
       "name": "Givin' Up On Love",
       "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+      },
+      "artists": [
+        {
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -711,6 +711,22 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
+        "name": "The Very Baddest of... ZZ Top",
+        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Arrested for Driving While Blind",
+      "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
         "name": "Ride With Me",
         "url": "https://open.spotify.com/album/5coZhDRNQ6Tntf3EVbmCDk"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 246600,
       "name": "Starting All Over",
       "url": "https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "The Very Baddest of... ZZ Top",
-        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Arrested for Driving While Blind",
-      "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
     },
     {
       "added_at": "2018-02-27 16:43:49",

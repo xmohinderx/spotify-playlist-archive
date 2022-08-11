@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 13519,
+  "num_followers": 13524,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDgxYzI1OWI4Y2NkZjMzMWY4MmZkZTBlZjRjNjIzMDNh",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGY5MDZiZjI1ODIxMTYyZGZhODAzMDFiYTc4YzA1Njhh",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -247,18 +247,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
         }
       ],
-      "duration_ms": 183177,
-      "name": "Villa Crespo",
-      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
+      "duration_ms": 154951,
+      "name": "Ser\u00eda Facil Decir",
+      "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -279,22 +283,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 154951,
-      "name": "Ser\u00eda Facil Decir",
-      "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
+      "duration_ms": 183177,
+      "name": "Villa Crespo",
+      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
     },
     {
       "added_at": "2022-07-08 03:00:00",

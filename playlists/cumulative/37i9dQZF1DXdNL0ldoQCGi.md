@@ -4,7 +4,7 @@
 
 > Aquelas músicas que você ouve viralizando por aí mas não sabe o nome.
 
-111 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
+112 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Me Chama de Amor \- Arrochadeira Remix](https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5) | [O Tubarão](https://open.spotify.com/artist/5oqu436HPM9PGpNSlPBpAT), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Me Chama de Amor \(Arrochadeira Remix\)](https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq) | 2:09 | 2022-05-25 |  |
 | [Melo de Bafora o Lança 2022 \- Remix](https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn) | [Mario Mc](https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn), [Menor Adr](https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT) | [Melo de Bafora o Lança 2022 \(Remix\)](https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt) | 3:32 | 2022-08-08 |  |
 | [Metflix](https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Metflix](https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj) | 2:13 | 2022-07-28 |  |
-| [Mina Sensação](https://open.spotify.com/track/2ffHP14dBtOVFUO38N5hmG) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Regassa Paredão](https://open.spotify.com/album/62iCSGenOjxO9HWaKTDAdH) | 1:52 | 2022-07-28 |  |
+| [Mina Sensação](https://open.spotify.com/track/4NWqFtTU1wnvlsU7XjeIGM) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Plutão](https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc) | 1:52 | 2022-08-09 |  |
+| [Mina Sensação](https://open.spotify.com/track/2ffHP14dBtOVFUO38N5hmG) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Regassa Paredão](https://open.spotify.com/album/62iCSGenOjxO9HWaKTDAdH) | 1:52 | 2022-07-28 | 2022-08-11 |
 | [Mina Sensação](https://open.spotify.com/track/5o2yt2GUKVx7vpNkcxPMPe) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Regassa Paredão](https://open.spotify.com/album/0bnKqitEqDT67tuf2ukYzx) | 1:52 | 2022-07-20 | 2022-07-31 |
 | [MORANGO DO NORDESTE](https://open.spotify.com/track/5becemiQUfhRwDOmwc7LDS) | [DjVictorbateforte](https://open.spotify.com/artist/6IEZxXvbL97wnsamBtv4HC), [GATOPRETO](https://open.spotify.com/artist/4X4EBMP4C3RtLe6MGhc6aY) | [MORANGO DO NORDESTE](https://open.spotify.com/album/4mZhTD9apQZ00b5b3hhZzf) | 5:02 | 2022-05-25 |  |
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-05-25 |  |

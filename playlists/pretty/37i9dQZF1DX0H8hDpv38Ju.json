@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 699937,
+  "num_followers": 700209,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMGE4Y2VkZjcwYWI1NWFiYzU4ZDAzMDg1YzZlZDQzM2Q4",
+  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMDcwNTY2M2ViZGJjNWY2YjNjNTJlNGI2MDliMWVlZWMx",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 211680,
       "name": "Get Down On It - Single Version",
       "url": "https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Best Of/20th Century",
-        "url": "https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7"
-      },
-      "artists": [
-        {
-          "name": "Teena Marie",
-          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
-        }
-      ],
-      "duration_ms": 383706,
-      "name": "Square Biz",
-      "url": "https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Ready For The World",
         "url": "https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 240093,
       "name": "Oh Sheila",
       "url": "https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Best Of/20th Century",
+        "url": "https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7"
+      },
+      "artists": [
+        {
+          "name": "Teena Marie",
+          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
+        }
+      ],
+      "duration_ms": 383706,
+      "name": "Square Biz",
+      "url": "https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Guy",
+        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 273760,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/1RuIZ3XuB6TFN11ApV2tgG"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 232133,
       "name": "Back To Life (However Do You Want Me)",
       "url": "https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Guy",
-        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 273760,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2"
     }
   ],
   "unique_name": "\u201980s Jam Session",

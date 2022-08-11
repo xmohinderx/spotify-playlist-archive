@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Estelares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,497 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,586 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 27 | [De Nada Sirve](https://open.spotify.com/track/1U0Sdf0M4YoKDQiJwIO64m) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 7:36 |
 | 28 | [Perdido](https://open.spotify.com/track/4vlrKddAtbNTgxXvr24ovy) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Perdido](https://open.spotify.com/album/7wJl5MItC0c8sdRdTkKPBA) | 4:07 |
 | 29 | [Josefina](https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 2:40 |
-| 30 | [El Farolito \(Acústico\)](https://open.spotify.com/track/0FnR7sXg9R6gvnYk2B03RS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/2RJzwGQFNIyHuVUqLiTJyo) | 5:02 |
+| 30 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 |
 | 31 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 |
 | 32 | [Ya Lo Sabés](https://open.spotify.com/track/3qml78xRFn8FOQmdfq3PVE) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Ya Lo Sabés](https://open.spotify.com/album/3jhXMrOIcE2PHpXq52mY25) | 3:28 |
 | 33 | [Ex](https://open.spotify.com/track/6gsUGjcizYAKy2LBflu1Pw) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Ex](https://open.spotify.com/album/2qM8b51qb8jpolJ4AVRCGt) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Luna de Miel en la Mano](https://open.spotify.com/track/7hlgmoLuoZReMqVOBoUycx) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [ADN \(Capítulo A\)](https://open.spotify.com/album/5rinlFOFMszDRgJYFJJsDs) | 2:48 |
 | 100 | [Le Di Sol](https://open.spotify.com/track/0vslbOoaPP1sglPchHGrX9) | [Vanthra](https://open.spotify.com/artist/3APvOv4wyrZTgdYZxtCZ8l), [Abril Sosa](https://open.spotify.com/artist/7roniIo6ZzxBLAlFCf5fcl) | [Le Di Sol](https://open.spotify.com/album/0puy8tSxqpaYpy4FHY0NK9) | 4:21 |
 
-Snapshot ID: `MTY1OTY2ODQwMCwwMDAwMDAwMGNjZmE4MzZmNzFmZjI5NWNhZDI1ZjVjNGFmMzBkZWVh`
+Snapshot ID: `MTY1OTY2ODQwMCwwMDAwMDAwMDcyMjZjYzYzZDMxODk0ZjJlM2JkZGZmNmYxYTNkN2U0`

@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 128937,
+  "num_followers": 128978,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODgyMzQ0OCwwMDAwMDAwMDlmNjM3M2RlYjUyN2JiN2VmNDQ1ZTljMmEyYjM4YjIw",
+  "snapshot_id": "MTY1ODgyMzQ0OCwwMDAwMDAwMDhiZWM5OWUwY2MxMTUyNjE2ZTY1ZGEyNzFmZDg4YTQz",
   "tracks": [
     {
       "added_at": "2022-07-26 08:17:28",
@@ -219,6 +219,34 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -263,34 +291,6 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 148629,
-      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 219401,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -455,6 +439,22 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "Nieve",
+        "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Nieve",
+      "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 212500,
       "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "Nieve",
-        "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Nieve",
-      "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -767,6 +751,26 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "New Rave",
+        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 208095,
+      "name": "Kill Me Slow",
+      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Gold Skies",
         "url": "https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT"
       },
@@ -847,22 +851,22 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "New Rave",
-        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
+        "name": "SICKO MODE (Skrillex Remix)",
+        "url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 208095,
-      "name": "Kill Me Slow",
-      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
+      "duration_ms": 304512,
+      "name": "SICKO MODE - Skrillex Remix",
+      "url": "https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -883,26 +887,6 @@
       "duration_ms": 250264,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0OyM0Z2wdidouJdqQKT4e7"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "SICKO MODE (Skrillex Remix)",
-        "url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 304512,
-      "name": "SICKO MODE - Skrillex Remix",
-      "url": "https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1023,6 +1007,26 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "Menage A Trois",
+        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 168508,
+      "name": "Menage A Trois",
+      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Epic (Garmiani Remix)",
         "url": "https://open.spotify.com/album/3C2yoz4fitqOF92byjClX5"
       },
@@ -1043,26 +1047,6 @@
       "duration_ms": 155864,
       "name": "Epic - Garmiani Remix",
       "url": "https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "Menage A Trois",
-        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 168508,
-      "name": "Menage A Trois",
-      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
+      },
+      "artists": [
+        {
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+        }
+      ],
+      "duration_ms": 135499,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Drop It (feat. LUISAH)",
         "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 125760,
       "name": "Drop It (feat. LUISAH)",
       "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
-    },
-    {
-      "added_at": "2022-07-26 08:17:28",
-      "album": {
-        "name": "So What",
-        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
-      },
-      "artists": [
-        {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
-        }
-      ],
-      "duration_ms": 135499,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
     },
     {
       "added_at": "2022-07-26 08:17:28",
@@ -1731,6 +1715,30 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
+        "name": "Bonzai Channel One",
+        "url": "https://open.spotify.com/album/3PJ1YbvqnVpAAOtygBRetu"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Crossnaders",
+          "url": "https://open.spotify.com/artist/0SFycBapbIhuPacbhzDxI2"
+        }
+      ],
+      "duration_ms": 174949,
+      "name": "Bonzai Channel One",
+      "url": "https://open.spotify.com/track/07hm7hRuPbl0kG8hCuQoda"
+    },
+    {
+      "added_at": "2022-07-26 08:17:28",
+      "album": {
         "name": "Look",
         "url": "https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF"
       },
@@ -1811,26 +1819,18 @@
     {
       "added_at": "2022-07-26 08:17:28",
       "album": {
-        "name": "Bonzai Channel One",
-        "url": "https://open.spotify.com/album/3PJ1YbvqnVpAAOtygBRetu"
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "Crossnaders",
-          "url": "https://open.spotify.com/artist/0SFycBapbIhuPacbhzDxI2"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         }
       ],
-      "duration_ms": 174949,
-      "name": "Bonzai Channel One",
-      "url": "https://open.spotify.com/track/07hm7hRuPbl0kG8hCuQoda"
+      "duration_ms": 123228,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32"
     }
   ],
   "unique_name": "Ejercicio Total",

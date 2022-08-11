@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,604 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,633 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 12 | [Sing as One](https://open.spotify.com/track/5GIfm1C24I2fHYpVxM7yAG) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Maya Fadeeva](https://open.spotify.com/artist/3gIcFcSyNnXAmdsl5YrtYb) | [Sing as One](https://open.spotify.com/album/1gQvCVTBmZLXebIXBsueDU) | 3:31 |
 | 13 | [Mille rivages](https://open.spotify.com/track/3RGbbFVz6LfyLdqTCuTffa) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Mille rivages](https://open.spotify.com/album/6FNc6VIgy51x78oq812WKt) | 4:00 |
 | 14 | [Family](https://open.spotify.com/track/1QrcomVagx1mGbtibRpiGt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Family](https://open.spotify.com/album/0wfWEejlAeco0LVkpjt4fR) | 2:53 |
-| 15 | [Age Of Ascent](https://open.spotify.com/track/3ReELxpeTArWKsyTbmNoqn) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/3SOJxg7oLNmP5Z1WAhcJbA) | 4:58 |
+| 15 | [Age Of Ascent](https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 4:58 |
 | 16 | [Comes Love](https://open.spotify.com/track/3vYbPjjemMP62On3l9bgwp) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Comes Love](https://open.spotify.com/album/4bTV5R6pKEHPRu6JQnHejU) | 3:42 |
 | 17 | [Us](https://open.spotify.com/track/6LCI8AhbdDJzbuidDhGBv6) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:56 |
 | 18 | [Soulful](https://open.spotify.com/track/4uuF07XqmSTTrpmHEfkYSc) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Soulful](https://open.spotify.com/album/5ZPmWiHGNH6yU0jdD1LUAU) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Videogame](https://open.spotify.com/track/3wimSiydjydfXFkpzPpzIX) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Videogame](https://open.spotify.com/album/2SvVWK76JFpxikCtvZVN4L) | 4:14 |
 | 50 | [Hallelujah, I Love Him So \- First Sessions Outtake](https://open.spotify.com/track/1QLBKel4BFnZIk6VTQiiqY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:05 |
 
-Snapshot ID: `MTY1ODQ0MDg2MCwwMDAwMDAwMDI3YjM2N2ZlODBkNTUxMTEwMzg4NGFjZGYyZGZjOTI3`
+Snapshot ID: `MTY1ODQ0MDg2MCwwMDAwMDAwMDI0M2M4ZGYxMWUzYTEzMThlMjJjYmNhZTY0YmNjMTMy`

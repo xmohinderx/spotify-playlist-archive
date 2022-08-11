@@ -1,12 +1,12 @@
 {
   "description": "Spend some quality time with these romantic classical masterpieces.",
-  "num_followers": 394937,
+  "num_followers": 395007,
   "original_name": "Classical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcyMzkyMSwwMDAwMDAwMDEzNzlmYTg0YzIzNmNjYTcxYTFjZmNhOGUzNWZiNDIy",
+  "snapshot_id": "MTY1NzcyMzkyMSwwMDAwMDAwMDQ0ZWM0MDZjNDA3ZTY0NjNkNmIyN2M1ZjM2MzExYTBi",
   "tracks": [
     {
       "added_at": "2022-01-27 08:31:04",
@@ -311,6 +311,26 @@
       "duration_ms": 210333,
       "name": "Apr\u00e8s un r\u00eave - NIGHT SESSIONS",
       "url": "https://open.spotify.com/track/4wdRWXtt5SVGokz7ld4vGS"
+    },
+    {
+      "added_at": "2022-01-27 08:31:04",
+      "album": {
+        "name": "Chopin: Nocturnes, Vol. 1",
+        "url": "https://open.spotify.com/album/3RePY8Fh1liHgQQ2X8CjYH"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Luis Fernando P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2MDkMAXgLEGJFogdR000Au"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "Nocturne en Mi B\u00e9mol Majeur, Op. 9 No. 2",
+      "url": "https://open.spotify.com/track/7n92QzQomRCLlciO14X0kd"
     },
     {
       "added_at": "2022-01-27 08:31:04",

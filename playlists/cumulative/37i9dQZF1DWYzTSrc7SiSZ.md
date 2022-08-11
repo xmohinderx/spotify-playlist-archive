@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing\. Las vibras tranqui que ocupas en tu vida.
 
-171 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
+172 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Muy Muy Chico](https://open.spotify.com/track/4gesrDJeUIRwdbI7gZ5L5y) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Muy Muy Chico](https://open.spotify.com/album/70XdZ1wGz5BYZgVQcxb1TQ) | 2:12 | 2022-05-20 | 2022-07-29 |
 | [My Summer Time](https://open.spotify.com/track/6lSUnwb0ba41qNUhTFfIoA) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summer Time](https://open.spotify.com/album/5lyIffJt0ugc2GApCIe0nr) | 3:07 | 2022-07-11 |  |
 | [My Summertime](https://open.spotify.com/track/2PEBWGIrWhGDkCmW4F5Lmf) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summertime](https://open.spotify.com/album/6E8xuq7EGoActOijjeGrdw) | 3:07 | 2022-05-20 | 2022-07-29 |
+| [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 | 2022-08-10 |  |
 | [Nada Más Que Hablar](https://open.spotify.com/track/3Yf06TiTW89uu20Iyz32VJ) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Encanto](https://open.spotify.com/album/26AjKOBqXEbgvvYQNLydR7) | 3:53 | 2022-05-20 |  |
 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 | 2022-05-20 |  |
 | [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 | 2022-05-20 |  |
@@ -120,7 +121,7 @@
 | [Nena \- A COLORS SHOW](https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena \- A COLORS SHOW](https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m) | 2:33 | 2022-07-11 |  |
 | [No Eres Tú, Soy Yo](https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Confíen En Mí](https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy) | 1:48 | 2022-05-20 |  |
 | [no estás](https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [no estás](https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc) | 2:44 | 2022-05-20 |  |
-| [No Te Pude Soltar](https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [No Te Pude Soltar](https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4) | 2:44 | 2022-05-20 |  |
+| [No Te Pude Soltar](https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [No Te Pude Soltar](https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4) | 2:44 | 2022-05-20 | 2022-08-11 |
 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 | 2022-05-20 |  |
 | [Nunca Estoy](https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Nunca Estoy](https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9) | 2:42 | 2022-05-20 |  |
 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 | 2022-05-20 |  |

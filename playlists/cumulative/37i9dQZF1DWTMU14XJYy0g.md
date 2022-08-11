@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Estelares.
 
-120 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
+121 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/track/6Yp5cOsowqswSVrXxG3rCc) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/album/1tJKMu9iIZaQy9G3NjRu2C) | 3:14 | 2022-06-24 |  |
 | [Diamante](https://open.spotify.com/track/1gz7RDz6Z6WroNWmGqYtaQ) | [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [odio](https://open.spotify.com/album/2lkLm5GrGISldCNW4VWZkV) | 2:34 | 2022-06-24 |  |
 | [Día Mil](https://open.spotify.com/track/0C8sntkt9YJMgPNMJYDQEL) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Día Mil](https://open.spotify.com/album/5f61HbLZV9pWoCWYqo9nu1) | 3:38 | 2022-06-24 |  |
-| [El Farolito \(Acústico\)](https://open.spotify.com/track/0FnR7sXg9R6gvnYk2B03RS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/2RJzwGQFNIyHuVUqLiTJyo) | 5:02 | 2022-07-15 |  |
+| [El Farolito \(Acústico\)](https://open.spotify.com/track/0FnR7sXg9R6gvnYk2B03RS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/2RJzwGQFNIyHuVUqLiTJyo) | 5:02 | 2022-07-15 | 2022-08-11 |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/1IC9QfsEQx2aVhsscCsbTE) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [El Farolito \(Acústico\)](https://open.spotify.com/album/2ZtLtqU9H4IXLQn4EMDFjU) | 5:02 | 2022-06-24 | 2022-07-29 |
+| [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 | 2022-08-05 |  |
 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 | 2022-06-24 |  |
 | [En la Vereda del Sol](https://open.spotify.com/track/4cyCrbeYfe7xEozbfG2n23) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En la Vereda del Sol](https://open.spotify.com/album/6wR1dGuhXYzNdJbAFpTX3F) | 3:41 | 2022-07-08 |  |
 | [En Redondel](https://open.spotify.com/track/5D6vcVOKAzLeJ5zRfW6nGL) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [En Redondel](https://open.spotify.com/album/1VfGbyob5VJXF8D5AtH3GR) | 4:23 | 2022-06-24 |  |

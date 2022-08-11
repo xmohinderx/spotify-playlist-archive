@@ -4,12 +4,13 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-214 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+217 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10000回のL.O.V.E\. <3](https://open.spotify.com/track/4NenrnLwNcpnvZqxpj4ivi) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [10000回のL.O.V.E\. <3](https://open.spotify.com/album/3Na0PrQ0J4tMJzRLrLcnaS) | 4:16 | 2022-06-29 | 2022-07-29 |
 | [1989's](https://open.spotify.com/track/1maEK0VKEFEGpP1QXmZb1R) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [1989's](https://open.spotify.com/album/14984DgT52EAK32llFN3w6) | 4:37 | 2022-05-26 | 2022-07-20 |
+| [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 | 2022-08-09 |  |
 | [2 Good 2 Be True](https://open.spotify.com/track/4dYycLM4EDbr251mdAuBQa) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [2 Good 2 Be True](https://open.spotify.com/album/5cLFm0dJpxMqFoGE5U1paO) | 4:00 | 2022-07-19 | 2022-07-29 |
 | [2 Good 2 Be True](https://open.spotify.com/track/6cl31YpesxpPUaFDy8lLfr) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [2 Good 2 Be True](https://open.spotify.com/album/1nwqwZ3B2a3wj2TMfqAM80) | 4:00 | 2022-07-28 |  |
 | [a little question \- Shōtaro Aoyama Remix](https://open.spotify.com/track/32N789QPGczr0K0p5e9UvQ) | [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Shōtaro Aoyama](https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR) | [a little question \(Shōtaro Aoyama Remix\)](https://open.spotify.com/album/2VEX1IbbXHa3iz1NG5hvZq) | 6:03 | 2022-07-12 | 2022-07-20 |
@@ -144,6 +145,7 @@
 | [Summer Breezin'](https://open.spotify.com/track/5UHa3acNN5TRlySTh7aKWx) | [Purple Drip](https://open.spotify.com/artist/57AcMFAHVRDjh4jQ192fQf) | [Summer Breezin'](https://open.spotify.com/album/0vkQzj9TlazS1ATRpdeq0I) | 5:12 | 2022-07-28 |  |
 | [Summer Breezin’](https://open.spotify.com/track/7l0gkhracl0YHt0T5nivl2) | [Purple Drip](https://open.spotify.com/artist/57AcMFAHVRDjh4jQ192fQf) | [Summer Breezin’](https://open.spotify.com/album/4difJVvfZwNIaOEOC7jU7w) | 5:12 | 2022-06-28 | 2022-07-29 |
 | [Superpower \(KM Remix\)](https://open.spotify.com/track/7srrFIxUG3AqUwVf5GQS5K) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Superpower \(KM Remix\)](https://open.spotify.com/album/2MinXn5C1XQ9NN75AOTU1X) | 4:33 | 2022-07-19 |  |
+| [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-09 |  |
 | [T](https://open.spotify.com/track/4RQ6cTPYksga7oaaENY2ZV) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 4:09 | 2022-05-26 | 2022-06-15 |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-06-07 | 2022-07-06 |
 | [Tangerine](https://open.spotify.com/track/5BM1h0qH0CVWMjw0RIQtbn) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Tangerine](https://open.spotify.com/album/7Jox1gthhLqTpzfswyMnk2) | 3:22 | 2022-05-26 | 2022-07-27 |
@@ -190,6 +192,7 @@
 | [リップル](https://open.spotify.com/track/3ovSCyUHXi2QUlwgyOC3zx) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [リップル](https://open.spotify.com/album/5OYTQcR3aufuIJZ9Z0AJJb) | 2:44 | 2022-06-17 | 2022-07-29 |
 | [リビド](https://open.spotify.com/track/0YxhIRKmlFq7MnXU8K5oA0) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [リビド](https://open.spotify.com/album/2yhMN24X0Jjz1DogK5eliH) | 2:37 | 2022-08-01 |  |
 | [何年後も](https://open.spotify.com/track/4QzLOmfT6TzxAGAA7oCfCE) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [何年後も](https://open.spotify.com/album/1wwVLBXwlQ7SpR1ml1tTyt) | 3:23 | 2022-08-03 |  |
+| [僕らの大移動](https://open.spotify.com/track/7qSocdyfuHkk56HZeen5XR) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [僕らの大移動](https://open.spotify.com/album/5IGdu1jBdM5CN1vRVOdHPI) | 4:25 | 2022-08-09 |  |
 | [優しい手 \~ Gentle Hands](https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [優しい手 \~ Gentle Hands](https://open.spotify.com/album/411gDNgCzrBfYYiQgxMdu3) | 4:12 | 2022-07-26 | 2022-07-29 |
 | [北酒場 \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/6RPLd7T2Viv2MCXJp9lcQm) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Takashi Hosokawa](https://open.spotify.com/artist/0Ap43v8UntUyEB5kLb7vac) | [北酒場 \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/album/4fE21MtzOKLym1kMnkOS66) | 3:35 | 2022-06-30 | 2022-07-27 |
 | [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 | 2022-05-26 | 2022-06-07 |

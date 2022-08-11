@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-325 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/397jGpRsbRdsmrqQjQPUxi)
+326 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/397jGpRsbRdsmrqQjQPUxi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Cien años](https://open.spotify.com/track/2p5oPFJh3hQTmm0S9QVuTK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Colección Mitos Pedro Infante](https://open.spotify.com/album/5wB5GW76Pxi04k2twIkWD5) | 3:22 | 2021-05-15 | 2022-01-22 |
 | [Cien Mil Cosas](https://open.spotify.com/track/2r8h4sI14yTfjs8CVGNDP4) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Los Últimos De Celio González](https://open.spotify.com/album/53o3CHCIpAvcNWBMVBSWV8) | 2:45 | 2021-05-15 |  |
 | [Cinco Centavitos](https://open.spotify.com/track/53r1kOLbVsv3YdGzom4PeC) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Mis Mejores Boleros](https://open.spotify.com/album/0nvObzVPR44d5AS4pLUNOs) | 2:25 | 2022-01-21 | 2022-07-29 |
-| [Cinco Centavitos](https://open.spotify.com/track/0YtNuXTO8TZQYmz50FRVaZ) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Julio Jaramillo](https://open.spotify.com/album/76tPM7GpWJRaYdbsd9V5tM) | 2:29 | 2022-01-21 |  |
+| [Cinco Centavitos](https://open.spotify.com/track/7nlUn29j3SUJSY5kciaIBy) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Sentimientos Que Duelen](https://open.spotify.com/album/7hWcDFdcPslJocf1tVDwks) | 2:28 | 2022-01-21 |  |
+| [Cinco Centavitos](https://open.spotify.com/track/0YtNuXTO8TZQYmz50FRVaZ) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Julio Jaramillo](https://open.spotify.com/album/76tPM7GpWJRaYdbsd9V5tM) | 2:29 | 2022-01-21 | 2022-08-11 |
 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 | 2022-01-21 |  |
 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 | 2021-05-15 |  |
 | [Como un Duende](https://open.spotify.com/track/18299YKaaxnUPfmwiDh57d) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Brillantes\- Los Dandys](https://open.spotify.com/album/7KkgaKrYkx8qdqDTuCA5vp) | 2:56 | 2021-05-15 | 2022-01-22 |

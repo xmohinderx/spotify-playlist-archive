@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 44834,
+  "num_followers": 44832,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg1MTk5NywwMDAwMDAwMGYxYmJkZThjYjE1YjJjNTlkODM1MDZhNTJkZjAzZTll",
+  "snapshot_id": "MTY1NDg1MTk5NywwMDAwMDAwMGZjNDExZjU3NmViNTQ4M2NiM2IwNDhjZjZlNzgwYWM3",
   "tracks": [
     {
       "added_at": "2022-06-10 09:06:37",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
+        "name": "KI-KI",
+        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 141335,
+      "name": "KI-KI",
+      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
+    },
+    {
+      "added_at": "2022-06-10 09:06:37",
+      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 242285,
       "name": "Morena",
       "url": "https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0"
-    },
-    {
-      "added_at": "2022-06-10 09:06:37",
-      "album": {
-        "name": "KI-KI",
-        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "KI-KI",
-      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
     },
     {
       "added_at": "2022-06-10 09:06:37",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "La Revancha del Burro",
-        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
+        "name": "Mi ni\u00f1a Lola",
+        "url": "https://open.spotify.com/album/6idfhWkHdRSUcqSjKF87Tk"
       },
       "artists": [
         {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+          "name": "Buika",
+          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
         }
       ],
-      "duration_ms": 311981,
-      "name": "El Boton del Pantalon",
-      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
+      "duration_ms": 269400,
+      "name": "Mi ni\u00f1a Lola",
+      "url": "https://open.spotify.com/track/7uDjOQtIiy7wk2UQdHj97u"
     },
     {
       "added_at": "2022-06-10 09:06:37",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "Mi ni\u00f1a Lola",
-        "url": "https://open.spotify.com/album/6idfhWkHdRSUcqSjKF87Tk"
+        "name": "La Revancha del Burro",
+        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
       },
       "artists": [
         {
-          "name": "Buika",
-          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
         }
       ],
-      "duration_ms": 269400,
-      "name": "Mi ni\u00f1a Lola",
-      "url": "https://open.spotify.com/track/7uDjOQtIiy7wk2UQdHj97u"
+      "duration_ms": 311981,
+      "name": "El Boton del Pantalon",
+      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
     },
     {
       "added_at": "2022-06-10 09:06:37",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "Bitcoin",
-        "url": "https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC"
-      },
-      "artists": [
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        }
-      ],
-      "duration_ms": 201370,
-      "name": "Bitcoin",
-      "url": "https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH"
-    },
-    {
-      "added_at": "2022-06-10 09:06:37",
-      "album": {
         "name": "Gimme Light",
         "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 149000,
       "name": "Gimme Light",
       "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
+    },
+    {
+      "added_at": "2022-06-10 09:06:37",
+      "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
     },
     {
       "added_at": "2022-06-10 09:06:37",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
+        "name": "Bitcoin",
+        "url": "https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC"
       },
       "artists": [
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
         }
       ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
+      "duration_ms": 201370,
+      "name": "Bitcoin",
+      "url": "https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH"
     },
     {
       "added_at": "2022-06-10 09:06:37",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/1EfoYpgTD1HtuKIYHrrZei"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 302373,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/3eoZ06E3Pmf6jfgWHM0m5X"
+    },
+    {
+      "added_at": "2022-06-10 09:06:37",
+      "album": {
         "name": "Qu\u00e9 L\u00e1stima",
         "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/1EfoYpgTD1HtuKIYHrrZei"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 302373,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/3eoZ06E3Pmf6jfgWHM0m5X"
-    },
-    {
-      "added_at": "2022-06-10 09:06:37",
-      "album": {
         "name": "Ibeyi",
         "url": "https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "Las II Torres",
-        "url": "https://open.spotify.com/album/2IyzVWMQv5cHl9oN8tth6H"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        }
-      ],
-      "duration_ms": 222510,
-      "name": "Doble Filo",
-      "url": "https://open.spotify.com/track/1rOY4cLGxByL0VTaYIx6pD"
-    },
-    {
-      "added_at": "2022-06-10 09:06:37",
-      "album": {
         "name": "Michael X",
         "url": "https://open.spotify.com/album/5z8ftBDRoLV9zkyrzoegvZ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 204981,
       "name": "Michael X",
       "url": "https://open.spotify.com/track/4BDNef3IA4NkoXkZeqrxch"
+    },
+    {
+      "added_at": "2022-06-10 09:06:37",
+      "album": {
+        "name": "Las II Torres",
+        "url": "https://open.spotify.com/album/2IyzVWMQv5cHl9oN8tth6H"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        }
+      ],
+      "duration_ms": 222510,
+      "name": "Doble Filo",
+      "url": "https://open.spotify.com/track/1rOY4cLGxByL0VTaYIx6pD"
     },
     {
       "added_at": "2022-06-10 09:06:37",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "A Quien Pueda Interesar",
-        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Dormir Sola",
-      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
-    },
-    {
-      "added_at": "2022-06-10 09:06:37",
-      "album": {
         "name": "Na Pa Ti (feat. Kofi)",
         "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 173098,
       "name": "Na Pa Ti (feat. Kofi)",
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
+      "added_at": "2022-06-10 09:06:37",
+      "album": {
+        "name": "A Quien Pueda Interesar",
+        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Dormir Sola",
+      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
     },
     {
       "added_at": "2022-06-10 09:06:37",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
-    },
-    {
-      "added_at": "2022-06-10 09:06:37",
-      "album": {
         "name": "ABUC",
         "url": "https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 146023,
       "name": "Oye Mi Ritmo",
       "url": "https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq"
+    },
+    {
+      "added_at": "2022-06-10 09:06:37",
+      "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 146966,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
     },
     {
       "added_at": "2022-06-10 09:06:37",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "Lucky 7",
-        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
-      },
-      "artists": [
-        {
-          "name": "Luchy DR",
-          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
-    },
-    {
-      "added_at": "2022-06-10 09:06:37",
-      "album": {
         "name": "EnVy",
         "url": "https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 169412,
       "name": "EnVy",
       "url": "https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx"
+    },
+    {
+      "added_at": "2022-06-10 09:06:37",
+      "album": {
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
+      },
+      "artists": [
+        {
+          "name": "Luchy DR",
+          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
     },
     {
       "added_at": "2022-06-10 09:06:37",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "50 \u00e9xitos de salsa cubana",
-        "url": "https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb"
-    },
-    {
-      "added_at": "2022-06-10 09:06:37",
-      "album": {
         "name": "Nueva Era",
         "url": "https://open.spotify.com/album/1pj7w6r8Ae3bWJVOGB5gxW"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 298195,
       "name": "Don't Unplug My Body",
       "url": "https://open.spotify.com/track/1nQ57qUxbC32K6zWEPlttu"
+    },
+    {
+      "added_at": "2022-06-10 09:06:37",
+      "album": {
+        "name": "50 \u00e9xitos de salsa cubana",
+        "url": "https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 293173,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb"
     },
     {
       "added_at": "2022-06-10 09:06:37",

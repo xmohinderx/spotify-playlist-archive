@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,531 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,601 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 46 | [Come A Little Closer](https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63) | [Andy and the rockets](https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a) | [Big City Lights](https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi) | 2:58 |
 | 47 | [Rockin' at the House of Strange](https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8) | [The Meteors](https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9) | [The Power of 3](https://open.spotify.com/album/2gnRgPZJ0OqctKSfiap17y) | 3:01 |
 | 48 | [Not of This Earth](https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:22 |
-| 49 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
-| 50 | [2,3,4](https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN) | [Mad Sin](https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB) | [Chills and Thrills in a Drama of Mad Sins and Mystery \(Remastered\)](https://open.spotify.com/album/2Y2a0lq7MgirW3MR9zAsY5) | 1:57 |
+| 49 | [2,3,4](https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN) | [Mad Sin](https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB) | [Chills and Thrills in a Drama of Mad Sins and Mystery \(Remastered\)](https://open.spotify.com/album/2Y2a0lq7MgirW3MR9zAsY5) | 1:57 |
+| 50 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDNjZTM1NDUwZmUyNTI4MjBhZDZhNjI5NWQ2ZDIwMWRh`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMGQwYTY3ZmQzY2ZlMzNkNTkwZTY4ZGExNDg4NTIxZTcz`

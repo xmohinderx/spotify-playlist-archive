@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 131700,
+  "num_followers": 131829,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAzMjYwMCwwMDAwMDAwMDlkOGU2YWYyZGYxOTJiM2E0NDU2NWUyYjQ5YmIxYWI4",
+  "snapshot_id": "MTY1OTAzMjYwMCwwMDAwMDAwMDdkNTE4MmMxMTcwZTdmYmVmNzdjODJmOTI3ZDJmZjkz",
   "tracks": [
     {
       "added_at": "2022-07-28 18:23:20",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "My Paradise",
-        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 211029,
-      "name": "My Paradise",
-      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "365 (Thr33 6ix 5ive)",
         "url": "https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 151283,
       "name": "365 (Thr33 6ix 5ive)",
       "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "My Paradise",
+        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 211029,
+      "name": "My Paradise",
+      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/4VhyIMeKieQlTY0fv5OHab"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Jake Tarry",
-          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
-        }
-      ],
-      "duration_ms": 158074,
-      "name": "Once Again",
-      "url": "https://open.spotify.com/track/1Xxa1bDLOyCK5ck8gu8hpg"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Caught In The Rain",
         "url": "https://open.spotify.com/album/49Q6nGh5yaOQ85ttYKA3XX"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 142800,
       "name": "Caught In The Rain",
       "url": "https://open.spotify.com/track/1GvyPmmkOxcrnLBjpgFBPX"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/4VhyIMeKieQlTY0fv5OHab"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Jake Tarry",
+          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
+        }
+      ],
+      "duration_ms": 158074,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/1Xxa1bDLOyCK5ck8gu8hpg"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Domino Remixes",
+        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
+      },
+      "artists": [
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "duration_ms": 435266,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "Talamanca (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 190080,
       "name": "Talamanca - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "Domino Remixes",
-        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
-      },
-      "artists": [
-        {
-          "name": "Oxia",
-          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
-        }
-      ],
-      "duration_ms": 435266,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Love Is A State Of Mind (feat. Ramona Renea)",
-        "url": "https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Ramona Renea",
-          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
-      "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Lose My Mind (feat. Taylor Moody)",
         "url": "https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 196075,
       "name": "Lose My Mind (feat. Taylor Moody)",
       "url": "https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+        "url": "https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+      "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Doin Ya Thang",
-        "url": "https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2"
-      },
-      "artists": [
-        {
-          "name": "Oliver Dollar",
-          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
-        }
-      ],
-      "duration_ms": 415417,
-      "name": "Doin Ya Thang",
-      "url": "https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "You Got Me Calling",
         "url": "https://open.spotify.com/album/63IP36b0gsQzP3S8hAUvY4"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 159344,
       "name": "You Got Me Calling",
       "url": "https://open.spotify.com/track/0DE977kfUvSfnPtwl8P9t3"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Doin Ya Thang",
+        "url": "https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2"
+      },
+      "artists": [
+        {
+          "name": "Oliver Dollar",
+          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
+        }
+      ],
+      "duration_ms": 415417,
+      "name": "Doin Ya Thang",
+      "url": "https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Mvinline",
-        "url": "https://open.spotify.com/album/5FeNmn9ROaljE00OMnusjS"
-      },
-      "artists": [
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 199836,
-      "name": "Mvinline",
-      "url": "https://open.spotify.com/track/6bbx7nYlixYuElKMbYCzMm"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Pasci\u00e0",
         "url": "https://open.spotify.com/album/4qA2PpHEBkVquV3KFjCz5q"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 418899,
       "name": "Pasci\u00e0",
       "url": "https://open.spotify.com/track/3B9pguwtbemJQlVWkxrfeU"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Mvinline",
+        "url": "https://open.spotify.com/album/5FeNmn9ROaljE00OMnusjS"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 199836,
+      "name": "Mvinline",
+      "url": "https://open.spotify.com/track/6bbx7nYlixYuElKMbYCzMm"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2199,26 +2199,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Who Is He? (feat. Kevin Haden)",
-        "url": "https://open.spotify.com/album/3fR6uK85kD08zDg0ECaogD"
-      },
-      "artists": [
-        {
-          "name": "Alaia & Gallo",
-          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
-        },
-        {
-          "name": "Kevin Haden",
-          "url": "https://open.spotify.com/artist/5k8MFak0TtbPb5WQHIprYT"
-        }
-      ],
-      "duration_ms": 350857,
-      "name": "Who Is He? (feat. Kevin Haden) - Extended Mix",
-      "url": "https://open.spotify.com/track/5e5DWeS14hmBJOvgmHU9nD"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Petu EP",
         "url": "https://open.spotify.com/album/29wgJs8snld8eLbNkcjI70"
       },
@@ -2243,6 +2223,26 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Who Is He? (feat. Kevin Haden)",
+        "url": "https://open.spotify.com/album/3fR6uK85kD08zDg0ECaogD"
+      },
+      "artists": [
+        {
+          "name": "Alaia & Gallo",
+          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
+        },
+        {
+          "name": "Kevin Haden",
+          "url": "https://open.spotify.com/artist/5k8MFak0TtbPb5WQHIprYT"
+        }
+      ],
+      "duration_ms": 350857,
+      "name": "Who Is He? (feat. Kevin Haden) - Extended Mix",
+      "url": "https://open.spotify.com/track/5e5DWeS14hmBJOvgmHU9nD"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "HOUSE",
         "url": "https://open.spotify.com/album/2JqgwH2ZRmGhnwRJU4HWbi"
       },
@@ -2259,26 +2259,6 @@
       "duration_ms": 342136,
       "name": "HOUSE - Original Mix",
       "url": "https://open.spotify.com/track/4HUKkJ0VWYcYPj3E40WYgJ"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "Mary Go Wild! (Franky Rizardo \u201897 Remix)",
-        "url": "https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM"
-      },
-      "artists": [
-        {
-          "name": "Grooveyard",
-          "url": "https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf"
-        },
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 215648,
-      "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
-      "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2339,22 +2319,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Red Alert (Remixes)",
-        "url": "https://open.spotify.com/album/60bXKwhboGfLtL8b3kfZRA"
+        "name": "Mary Go Wild! (Franky Rizardo \u201897 Remix)",
+        "url": "https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM"
       },
       "artists": [
         {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+          "name": "Grooveyard",
+          "url": "https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf"
         },
         {
-          "name": "Grant Nelson",
-          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
         }
       ],
-      "duration_ms": 269666,
-      "name": "Red Alert - Grant Nelson Remix - Edit",
-      "url": "https://open.spotify.com/track/3uYz0ZtiATdgOU8TItF0vD"
+      "duration_ms": 215648,
+      "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
+      "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2379,6 +2359,42 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Red Alert (Remixes)",
+        "url": "https://open.spotify.com/album/60bXKwhboGfLtL8b3kfZRA"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Grant Nelson",
+          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Red Alert - Grant Nelson Remix - Edit",
+      "url": "https://open.spotify.com/track/3uYz0ZtiATdgOU8TItF0vD"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "She Likes To Dance",
+        "url": "https://open.spotify.com/album/3Wf7BuQrd5hzLn6cuczXIN"
+      },
+      "artists": [
+        {
+          "name": "Jizz",
+          "url": "https://open.spotify.com/artist/74VBh3o2WAWbQjsQrle0Ab"
+        }
+      ],
+      "duration_ms": 336385,
+      "name": "She Likes To Dance",
+      "url": "https://open.spotify.com/track/1Cq3QIdsUlTbRkmrMVqbHv"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "Spiritual Thing",
         "url": "https://open.spotify.com/album/02czhiYrZJ3tSJDQUCllv1"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 218880,
       "name": "Spiritual Thing",
       "url": "https://open.spotify.com/track/4FvJTqvTXr0e4reHF6CKH8"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "She Likes To Dance",
-        "url": "https://open.spotify.com/album/3Wf7BuQrd5hzLn6cuczXIN"
-      },
-      "artists": [
-        {
-          "name": "Jizz",
-          "url": "https://open.spotify.com/artist/74VBh3o2WAWbQjsQrle0Ab"
-        }
-      ],
-      "duration_ms": 336385,
-      "name": "She Likes To Dance",
-      "url": "https://open.spotify.com/track/1Cq3QIdsUlTbRkmrMVqbHv"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2503,6 +2503,26 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Spirit of House",
+        "url": "https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "Spirit of House",
+      "url": "https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "Harder (With Busta Rhymes) - Shermanology Remix",
         "url": "https://open.spotify.com/album/2YKdhOGgOq29ImtFWvwin2"
       },
@@ -2523,26 +2543,6 @@
       "duration_ms": 204651,
       "name": "Harder (Shermanology Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/2ZhZ76JnLYcjFmcExTdxNF"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "Spirit of House",
-        "url": "https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        },
-        {
-          "name": "Gene Farris",
-          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "Spirit of House",
-      "url": "https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2599,26 +2599,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Release Me (feat. Rationale) [Jess Bays Remix]",
-        "url": "https://open.spotify.com/album/19Tp9FoAw2zcmvizQ3mjO1"
+        "name": "R U",
+        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
       },
       "artists": [
         {
-          "name": "Billon",
-          "url": "https://open.spotify.com/artist/3O1pwCWEGC95srREtbTFy1"
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
         },
         {
-          "name": "Rationale",
-          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
-        },
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
         }
       ],
-      "duration_ms": 180223,
-      "name": "Release Me (feat. Rationale) - Jess Bays Remix",
-      "url": "https://open.spotify.com/track/6stPuBpZMA4zqgAHOFNEzC"
+      "duration_ms": 214285,
+      "name": "R U",
+      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2643,22 +2639,26 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Envision Remixes",
-        "url": "https://open.spotify.com/album/6h5GzvE8M453rbfa8NKjwK"
+        "name": "Release Me (feat. Rationale) [Jess Bays Remix]",
+        "url": "https://open.spotify.com/album/19Tp9FoAw2zcmvizQ3mjO1"
       },
       "artists": [
         {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+          "name": "Billon",
+          "url": "https://open.spotify.com/artist/3O1pwCWEGC95srREtbTFy1"
         },
         {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        },
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
         }
       ],
-      "duration_ms": 556306,
-      "name": "Envision - \u00c2me Remix",
-      "url": "https://open.spotify.com/track/7IXVjnFnFsGQ21qBV3Uo1T"
+      "duration_ms": 180223,
+      "name": "Release Me (feat. Rationale) - Jess Bays Remix",
+      "url": "https://open.spotify.com/track/6stPuBpZMA4zqgAHOFNEzC"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2675,6 +2675,26 @@
       "duration_ms": 281628,
       "name": "Savane Colour",
       "url": "https://open.spotify.com/track/5G21xDksGi4bc2Nfh4QvQW"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Envision Remixes",
+        "url": "https://open.spotify.com/album/6h5GzvE8M453rbfa8NKjwK"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "duration_ms": 556306,
+      "name": "Envision - \u00c2me Remix",
+      "url": "https://open.spotify.com/track/7IXVjnFnFsGQ21qBV3Uo1T"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2699,26 +2719,6 @@
       "duration_ms": 160437,
       "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
       "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "R U",
-        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        },
-        {
-          "name": "Gene Farris",
-          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "R U",
-      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2807,6 +2807,34 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Gettin' Started",
+        "url": "https://open.spotify.com/album/76ycOB9AAFMv3qRhG4Xrvn"
+      },
+      "artists": [
+        {
+          "name": "MANIBA",
+          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
+        },
+        {
+          "name": "Labi Ramaj",
+          "url": "https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB"
+        },
+        {
+          "name": "Arild Aas",
+          "url": "https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd"
+        },
+        {
+          "name": "Municipal",
+          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Gettin' Started",
+      "url": "https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "Underground Is My Home (Remix)",
         "url": "https://open.spotify.com/album/1qHrzuLwX9ip1sNSkcjgW9"
       },
@@ -2871,54 +2899,18 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Gettin' Started",
-        "url": "https://open.spotify.com/album/76ycOB9AAFMv3qRhG4Xrvn"
+        "name": "Calle EP",
+        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
       },
       "artists": [
         {
-          "name": "MANIBA",
-          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
-        },
-        {
-          "name": "Labi Ramaj",
-          "url": "https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB"
-        },
-        {
-          "name": "Arild Aas",
-          "url": "https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd"
-        },
-        {
-          "name": "Municipal",
-          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Gettin' Started",
-      "url": "https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "Heartbreak (Kerri Chandler Remix)",
-        "url": "https://open.spotify.com/album/6gxKfyBsjJVL2GdH2YBajb"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        },
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 379948,
-      "name": "Heartbreak - Kerri Chandler Remix",
-      "url": "https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT"
+      "duration_ms": 224262,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w"
     }
   ],
   "unique_name": "House Supreme",

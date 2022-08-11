@@ -861,7 +861,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 212330,
       "name": "Mehabooba",
       "url": "https://open.spotify.com/track/3Hl8IV6SLR8h40GiJquKDU"
@@ -1397,6 +1397,40 @@
       "duration_ms": 254000,
       "name": "Thalayude Vilayattu (Theme Song) (From \"Aaraattu\")",
       "url": "https://open.spotify.com/track/6e2AfDMyrTQ8noB8qovVhl"
+    },
+    {
+      "album": {
+        "name": "Thallumaala Paattu (From \"Thallumaala\")",
+        "url": "https://open.spotify.com/album/2SJjygAl0nTOitVhhBmhNn"
+      },
+      "artists": [
+        {
+          "name": "Hrithik Jayakish",
+          "url": "https://open.spotify.com/artist/1uyEDo5vVeOUdz0xbLBKb4"
+        },
+        {
+          "name": "Neha Girish",
+          "url": "https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv"
+        },
+        {
+          "name": "Eshaan Sanil",
+          "url": "https://open.spotify.com/artist/1zdLDvuJcKyCtgrPAKwEIQ"
+        },
+        {
+          "name": "Thejas Krishna",
+          "url": "https://open.spotify.com/artist/485YsYvNnyDA6LZOq4BGA2"
+        },
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183737,
+      "name": "Thallumaala Paattu",
+      "url": "https://open.spotify.com/track/1JGdOSXhyXpAu7xUpoygxW"
     },
     {
       "album": {

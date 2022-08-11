@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Ben Reilly",
-  "num_followers": 878504,
+  "num_followers": 878695,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGIwODAzN2Q0ZDY1YzhlYmRhMmVkMzExNjZhNWU2ZmYw",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDA0MWI5ODU1MmYxMDhiMTM4MzM1ZDVhMTM2MzZiNDcw",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Barely Miss",
-        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        }
-      ],
-      "duration_ms": 193656,
-      "name": "Barely Miss",
-      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Hip Hop 50: Vol. 1",
         "url": "https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 137994,
       "name": "The Root of All (feat. Slick Rick & Lil Wayne)",
       "url": "https://open.spotify.com/track/3rSiXFJlhhhy36761mj9js"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Barely Miss",
+        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "duration_ms": 193656,
+      "name": "Barely Miss",
+      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
     },
     {
       "added_at": "2022-08-05 04:01:00",

@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-599 songs - 1 day 13 hr 2 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+600 songs - 1 day 13 hr 6 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 | 2022-06-10 |  |
 | [I Would Die 4 U](https://open.spotify.com/track/38k2TOcAnlRoziKjLc3Ogd) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [The Return \(Love Comes Back\)](https://open.spotify.com/album/1UMLgFRhqyikYGgSxnkWSa) | 3:00 | 2021-10-20 | 2022-07-29 |
 | [I Would Die 4 U](https://open.spotify.com/track/7exBqqAMs0t2xDETXYvBAH) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [I Would Die 4 U](https://open.spotify.com/album/6DcwJRj8l5BvOpVjt7pLxS) | 3:00 | 2022-06-10 |  |
+| [I'll Keep It With Mine](https://open.spotify.com/track/5yeK60qK7eN7UuCvfu8hvi) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:17 | 2022-06-10 |  |
 | [I'll Stand by You](https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [I'll Stand by You](https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE) | 3:24 | 2021-10-20 |  |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/1rMzXMqvereQvS5417Ju3H) | [Keith McInally](https://open.spotify.com/artist/5ZJI40RFLH8wwxWMSKQhL1) | [Covers](https://open.spotify.com/album/1VwTpYxt1EVs3Z1XUwdtLn) | 3:53 | 2021-10-20 | 2022-07-29 |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0) | 3:32 | 2021-10-20 | 2022-07-29 |
@@ -491,7 +492,7 @@
 | [That's How I Got To Memphis](https://open.spotify.com/track/5mbYOavUzMPBgZIhybZsfT) | [Karl Blau](https://open.spotify.com/artist/7FeCvXxNn2D4Cf38i0zDul) | [Introducing Karl Blau](https://open.spotify.com/album/4Oin0XH6gnLnQSEcVoUIh3) | 4:03 | 2022-06-10 | 2022-07-21 |
 | [The a Team \- Live at the Tabernacle](https://open.spotify.com/track/0qSSbcZ2bvjJuB3Wy5lzK5) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Live in London](https://open.spotify.com/album/55BQeeBdoCapsI5SZFA3IN) | 5:32 | 2021-10-20 |  |
 | [The Air That I Breathe](https://open.spotify.com/track/7AyuLqGozNeloS5djeShEN) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Indianola](https://open.spotify.com/artist/3FMPtr5gEBAjsKxRbfc1kg) | [Busted Jukebox Volume 2](https://open.spotify.com/album/4cJyMkeK2D0fRaFZXFGK14) | 4:35 | 2021-10-20 | 2022-07-29 |
-| [The Boxer](https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [The Boxer](https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI) | 2:31 | 2021-10-20 |  |
+| [The Boxer](https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [The Boxer](https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI) | 2:31 | 2021-10-20 | 2022-08-11 |
 | [The Boxer](https://open.spotify.com/track/0YlUnqnC63U8hRGOkDDHie) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/5uJpRBjDkTW8wtwDimhkdm) | 4:05 | 2021-10-20 | 2022-07-19 |
 | [The Chain](https://open.spotify.com/track/4Lp9JF3yFhY7jP1S0m8iID) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 4:17 | 2022-04-29 | 2022-07-21 |
 | [The Circle Game \- 2008 Remaster](https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey) | [Tom Rush](https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp) | [The Circle Game \[Expanded & Remastered\]](https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm) | 5:17 | 2022-02-11 | 2022-07-27 |

@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\. Cover: Miley Cyrus.
 
-190 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/1gnHrTzwOKwLkCguLOL3Ry)
+191 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/1gnHrTzwOKwLkCguLOL3Ry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Maps \- Live In Manchester](https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:22 | 2022-04-14 | 2022-04-21 |
 | [ME! \- Live From Paris](https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [ME! \(Live From Paris\)](https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7) | 3:33 | 2022-04-14 |  |
 | [Mercy \- Acoustic Version](https://open.spotify.com/track/2j1fnJeu1aGvqbwZBpdrEF) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Dinner Party Pop](https://open.spotify.com/album/7aB1uY6jZNHZ1TisxZQTAw) | 3:35 | 2022-04-14 | 2022-07-29 |
-| [Mercy \- Live](https://open.spotify.com/track/4Q52hekxZoN7n4NO94IAJW) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:22 | 2022-04-14 |  |
+| [Mercy \- Live](https://open.spotify.com/track/4Q52hekxZoN7n4NO94IAJW) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:22 | 2022-04-14 | 2022-08-11 |
 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/6EvFLeZ3aUYoagV6K92cqq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:59 | 2022-04-14 | 2022-07-24 |
 | [Moves Like Jagger \- Live In Manchester](https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Stadium Rockers](https://open.spotify.com/album/7agGSP1myDt3SSIdKUuT1y) | 4:59 | 2022-04-14 | 2022-07-29 |
 | [My Love Is Your Love \- Live from Late Show with David Letterman](https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 3:46 | 2022-04-14 | 2022-07-29 |
@@ -189,6 +189,7 @@
 | [Wisemen \- Live in Ireland](https://open.spotify.com/track/7Juq8RQj5P0cexLR6NsFOk) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 3:49 | 2022-04-14 | 2022-07-29 |
 | [Woman Like Me \(feat\. Ms Banks\) \- Live from the BRITs 2019](https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [LM5 \- EP](https://open.spotify.com/album/4H9aW9bRNBV49fusgFUBGz) | 4:11 | 2022-04-14 | 2022-04-21 |
 | [Wrecking Ball X Nothing Compares 2 U \- Live](https://open.spotify.com/track/5ZhDyMdMJrcbkpHcOaGsmn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 5:13 | 2022-04-14 |  |
+| [Xanadu \- Live](https://open.spotify.com/track/3j32B9KLYeELoCvvyhVunF) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 3:30 | 2022-08-09 |  |
 | [Yellow \- Live](https://open.spotify.com/track/58MrV6J9oS46ViY1N6gTJX) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live 2012](https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m) | 6:51 | 2022-04-29 |  |
 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 | 2022-04-14 |  |
 | [You Give Me Something \- Live At The Hospital Club](https://open.spotify.com/track/2ZSZ3DVneZwm825D6FueYS) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [James Morrison – Live & Unplugged At The Hospital](https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx) | 5:00 | 2022-04-14 |  |

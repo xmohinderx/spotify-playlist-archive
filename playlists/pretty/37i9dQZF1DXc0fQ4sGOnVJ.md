@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,646 likes - 88 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,662 likes - 88 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 3 | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG) | 3:05 |
 | 4 | [Slow Ride](https://open.spotify.com/track/6OEX8FPaHyUyftZJWsve3Y) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 2:54 |
 | 5 | [Out Here](https://open.spotify.com/track/4BPhl5ZzoT61iWIZ3fSy9n) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Outlaw In Me](https://open.spotify.com/album/0Jwr7HyNF4D7v6xK1o8vfw) | 4:39 |
-| 6 | [When I Pull Up](https://open.spotify.com/track/36YL11gGDlMvhPvrIOYqQn) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [When I Pull Up](https://open.spotify.com/album/6NmIZGdsfYh21Fz2vFRI8K) | 2:26 |
+| 6 | [When I Pull Up](https://open.spotify.com/track/7aHzBx4XwGc0e1d7sKd5Md) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [When I Pull Up](https://open.spotify.com/album/7LfEgScSBQT6MD7ugKB6oa) | 2:26 |
 | 7 | [My Town](https://open.spotify.com/track/6auBQyfcdFBG4IZvdXBkdr) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Keys To The Country](https://open.spotify.com/album/42iTDTqmKABTGUfrOKk5YZ) | 2:57 |
 | 8 | [Colt 45 \(Country Remix\)](https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Colt 45 \(Country Remix\)](https://open.spotify.com/album/4hcoGCFaURlQwT0uFRdJd6) | 3:23 |
 | 9 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 87 | [Watch This](https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Tommy Chayne](https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Lethal](https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci) | 3:51 |
 | 88 | [Fire’t Up](https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 2:56 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDU4OTg5ZjZkYjQ5ZGU5ODRiMGEzOTZjNGNkNjI0OTIy`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGJiNzVjNTFlODdiN2Q0NmVhZmFkM2RiMTY2OGU1Njdi`

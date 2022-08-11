@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-155 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+156 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [EL Thoq AL Helw](https://open.spotify.com/track/1djs1SBvrnSFsuLySiGTHu) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [EL Thoq AL Helw](https://open.spotify.com/album/2lxYEVZGgHRxIdc4hMWDid) | 3:48 | 2022-05-06 |  |
 | [El Zorof](https://open.spotify.com/track/1l4uvmncXoL2a8rGBTp85J) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g) | [El Zorof](https://open.spotify.com/album/4jfqzJUtgLvfsLCkij0UIF) | 4:06 | 2021-12-23 | 2022-01-14 |
 | [Eli W Bas](https://open.spotify.com/track/3fpEyYxdyQx85agEsmwO55) | [Ahmed Jozi](https://open.spotify.com/artist/2UJj51oYPoSej5kE75b4vF) | [Eli W Bas](https://open.spotify.com/album/5OcjOoaCpgqXVIl75RRgHt) | 2:46 | 2022-03-24 | 2022-07-20 |
+| [Elk Nathir](https://open.spotify.com/track/0wgEd2trLis21up4IPj6hs) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Elk Nathir](https://open.spotify.com/album/4Tg7ogpzAMwVlVhrOPhVBx) | 4:17 | 2022-08-10 |  |
 | [Endi Rooh](https://open.spotify.com/track/1D01O8Tk05AZtAPqMQQT7C) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Endi Rooh](https://open.spotify.com/album/7HiwjvsxLEWs1IEZ6VK2J9) | 3:41 | 2022-03-30 | 2022-06-14 |
 | [Enta Gheir](https://open.spotify.com/track/54FelQ6xi1QjP3PcsKB8Eb) | [Ali Leo](https://open.spotify.com/artist/3syttYlmeD3RTKBv0dGrcf) | [Enta Gheir](https://open.spotify.com/album/3QYmHo0ILA2kXnVlNBg1vO) | 3:33 | 2021-12-23 | 2022-02-18 |
 | [Er7am 7ali](https://open.spotify.com/track/6SgEZAjgJCjqunDi1bKJfR) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Er7am 7ali](https://open.spotify.com/album/7bzq1yir1DHiQSS8E2B5hX) | 4:31 | 2022-06-09 |  |

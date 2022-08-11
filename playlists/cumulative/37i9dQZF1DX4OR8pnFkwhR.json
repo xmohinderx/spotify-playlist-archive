@@ -290,6 +290,28 @@
     },
     {
       "album": {
+        "name": "Blank",
+        "url": "https://open.spotify.com/album/5KKgfaPcmsuYRSbS1YmuvM"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        },
+        {
+          "name": "mao sasagawa",
+          "url": "https://open.spotify.com/artist/4ZqPdBTOiHdOUnv40Wqpy8"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210243,
+      "name": "Blank",
+      "url": "https://open.spotify.com/track/4b0RQRCxvOa7qifoVPZ7NM"
+    },
+    {
+      "album": {
         "name": "bloom",
         "url": "https://open.spotify.com/album/551wBdThRnp6v8uT8AlQug"
       },
@@ -2744,6 +2766,28 @@
     },
     {
       "album": {
+        "name": "signal",
+        "url": "https://open.spotify.com/album/0kT3niMIXUSdbzd7dLDO81"
+      },
+      "artists": [
+        {
+          "name": "AKIRA",
+          "url": "https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv"
+        },
+        {
+          "name": "SPENSR",
+          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219767,
+      "name": "signal",
+      "url": "https://open.spotify.com/track/5SAVeDv2tKYyfPm7NJ6zTr"
+    },
+    {
+      "album": {
         "name": "small talk",
         "url": "https://open.spotify.com/album/5bG9WMj67816n2pprdIgc0"
       },
@@ -3067,6 +3111,28 @@
       "duration_ms": 215898,
       "name": "Super Junky Monkey",
       "url": "https://open.spotify.com/track/0Us823Ur65e4Jc0u3UdhD0"
+    },
+    {
+      "album": {
+        "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233920,
+      "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
     },
     {
       "album": {
@@ -3469,6 +3535,24 @@
       "duration_ms": 243676,
       "name": "you too",
       "url": "https://open.spotify.com/track/0DMcyN8eYoh9RpcpMohTHf"
+    },
+    {
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/1ZaoC8yEo6VQKh7eg8dizY"
+      },
+      "artists": [
+        {
+          "name": "AFTER SQUALL",
+          "url": "https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171532,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/7maRip4c5N18iAfzjf2u5j"
     },
     {
       "album": {
@@ -4306,6 +4390,24 @@
     },
     {
       "album": {
+        "name": "\u30b8\u30e3\u30b9\u30b3\u3001\u4e0a\u91ce",
+        "url": "https://open.spotify.com/album/5qYVPh95Bowgs3FMPV7W1s"
+      },
+      "artists": [
+        {
+          "name": "peanut butters",
+          "url": "https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233180,
+      "name": "\u30b8\u30e3\u30b9\u30b3\u3001\u4e0a\u91ce",
+      "url": "https://open.spotify.com/track/3qzlu7OhkK34jzXRJE1c61"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30a4\u30df\u30fc",
         "url": "https://open.spotify.com/album/4WNjSPnIhgk7Tt2x0FWIO6"
       },
@@ -4833,6 +4935,28 @@
       "duration_ms": 235626,
       "name": "\u51b7\u3084\u3057\u30cd\u30ae\u854e\u9ea6",
       "url": "https://open.spotify.com/track/6xGo0VrMRvv7GupeWe6uM5"
+    },
+    {
+      "album": {
+        "name": "\u51b7\u3084\u3057\u30cd\u30ae\u854e\u9ea6 - Hikaru Arata Remix",
+        "url": "https://open.spotify.com/album/14yU1vwz25pnmQOBJWqJLZ"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        },
+        {
+          "name": "\u8352\u7530 \u6d38",
+          "url": "https://open.spotify.com/artist/5XIm5lvQ9sl3aZ9RuvZT2q"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217636,
+      "name": "\u51b7\u3084\u3057\u30cd\u30ae\u854e\u9ea6 - Hikaru Arata Remix",
+      "url": "https://open.spotify.com/track/0d36v6tmmUuB9rfd27exK2"
     },
     {
       "album": {
@@ -5892,6 +6016,24 @@
     },
     {
       "album": {
+        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249254,
+      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+    },
+    {
+      "album": {
         "name": "\u307b\u307c\u3086\u3081",
         "url": "https://open.spotify.com/album/2vrbvlctAX4AwbXSVYQV8G"
       },
@@ -6189,6 +6331,24 @@
       "duration_ms": 287169,
       "name": "\u82fa",
       "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
+    },
+    {
+      "album": {
+        "name": "Pixel",
+        "url": "https://open.spotify.com/album/51Y53YMSaFCzxF6qEXkye9"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "\u8594\u8587\u8272\u306e\u591c",
+      "url": "https://open.spotify.com/track/5WvKQIdlbRHugb1QJNu4Ee"
     },
     {
       "album": {

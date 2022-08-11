@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-118 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/1ClXmwh1TCTMLqrrjuRVQf)
+119 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/1ClXmwh1TCTMLqrrjuRVQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Numa](https://open.spotify.com/track/1IV8iXGRukHDsRQOmTNEhw) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:11 | 2022-07-26 |  |
 | [Number One \- New Mix Ver.](https://open.spotify.com/track/3CE47jlR1gbJ66JTv3x7KB) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Reunion](https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS) | 3:58 | 2022-07-26 |  |
 | [Number One \- New Mix ver.](https://open.spotify.com/track/4qz4MEIpHwFPUkO40vT714) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [REUNION](https://open.spotify.com/album/1CkrT3dECu8KidhUFgKkX6) | 3:58 | 2022-04-26 | 2022-07-29 |
+| [Onegai Muscle \- from CrosSing](https://open.spotify.com/track/4mqOfJPqfhkznL4UZuEiOj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Onegai Muscle \- from CrosSing](https://open.spotify.com/album/5Bt7BoV1R7s5Ihkv5D7Cf5) | 3:42 | 2022-08-09 |  |
 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 | 2022-07-26 |  |
 | [Petenshi no Yuuutsu](https://open.spotify.com/track/7aY5JhCXFCwy5Di77tODbW) | [Utsuki Chikage \(CV: Wataru Hatano\)](https://open.spotify.com/artist/2mJEBOqW95SK373lnenYtj) | [A3! Vivid Spring EP](https://open.spotify.com/album/7JnNNAbW1Li5QiBMoyjb8t) | 3:07 | 2022-07-26 |  |
 | [Rakuen Toshi](https://open.spotify.com/track/2vOTY8M4Hb2gy72iI2ywSc) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Rakuen Toshi](https://open.spotify.com/album/11sAMfCkGSjIgHl4aKacKD) | 3:46 | 2022-07-26 |  |

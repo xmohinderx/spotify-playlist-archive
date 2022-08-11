@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.\n",
-  "num_followers": 23456,
+  "num_followers": 23495,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTUxNywwMDAwMDAwMGE0ZTdiZmFmY2RlNmNhMTZkMzI2MzMyNTkzZDRkOGQ1",
+  "snapshot_id": "MTY1OTEwNTUxNywwMDAwMDAwMGJiNzQ4NTU1MGUxNDcwZjFlMzUwMjk5YmU1YjNhMzc1",
   "tracks": [
     {
       "added_at": "2022-07-29 14:38:36",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-07-29 14:38:36",
       "album": {
-        "name": "Still Frame Replay",
-        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 464453,
-      "name": "The Memory of Our Love",
-      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
-    },
-    {
-      "added_at": "2022-07-29 14:38:36",
-      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 213093,
       "name": "Souled Out On You",
       "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
+    },
+    {
+      "added_at": "2022-07-29 14:38:36",
+      "album": {
+        "name": "Still Frame Replay",
+        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 464453,
+      "name": "The Memory of Our Love",
+      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
     },
     {
       "added_at": "2022-07-29 14:38:36",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-07-29 14:38:36",
       "album": {
+        "name": "The Blues",
+        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 502973,
+      "name": "Lonely World",
+      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
+    },
+    {
+      "added_at": "2022-07-29 14:38:36",
+      "album": {
         "name": "Nothing But the Blues (Live)",
         "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 411960,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
-    },
-    {
-      "added_at": "2022-07-29 14:38:36",
-      "album": {
-        "name": "The Blues",
-        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 502973,
-      "name": "Lonely World",
-      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
     },
     {
       "added_at": "2022-07-29 14:38:36",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-07-29 14:38:36",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 255226,
-      "name": "You Shook Me",
-      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
-    },
-    {
-      "added_at": "2022-07-29 14:38:36",
-      "album": {
         "name": "Good Luck Man",
         "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 428266,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
+    },
+    {
+      "added_at": "2022-07-29 14:38:36",
+      "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 255226,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
     },
     {
       "added_at": "2022-07-29 14:38:36",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-07-29 14:38:36",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
-      },
-      "artists": [
-        {
-          "name": "Brianna Harness",
-          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
-    },
-    {
-      "added_at": "2022-07-29 14:38:36",
-      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 167330,
       "name": "Blues On The Bay",
       "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
+    },
+    {
+      "added_at": "2022-07-29 14:38:36",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
+      },
+      "artists": [
+        {
+          "name": "Brianna Harness",
+          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
     },
     {
       "added_at": "2022-07-29 14:38:36",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-07-29 14:38:36",
       "album": {
-        "name": "Man of the World: The Anthology 1968-1988",
-        "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
-    },
-    {
-      "added_at": "2022-07-29 14:38:36",
-      "album": {
         "name": "Open Road",
         "url": "https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 304868,
       "name": "That's Why I'm Crying",
       "url": "https://open.spotify.com/track/2oaHiYkuDjqbfMPZERPlKH"
+    },
+    {
+      "added_at": "2022-07-29 14:38:36",
+      "album": {
+        "name": "Man of the World: The Anthology 1968-1988",
+        "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
     },
     {
       "added_at": "2022-07-29 14:38:36",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-07-29 14:38:36",
       "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 183120,
+      "name": "Lonesome Road Blues",
+      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
+    },
+    {
+      "added_at": "2022-07-29 14:38:36",
+      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 329373,
       "name": "Sanctified, Holy And Hateful",
       "url": "https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa"
-    },
-    {
-      "added_at": "2022-07-29 14:38:36",
-      "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 183120,
-      "name": "Lonesome Road Blues",
-      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
     },
     {
       "added_at": "2022-07-29 14:38:36",

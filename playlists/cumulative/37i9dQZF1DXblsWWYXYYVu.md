@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-142 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+143 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 | 2022-04-22 |  |
 | [Landslide](https://open.spotify.com/track/4PxDI6s8o1oXyGxaOO7AHO) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Landslide](https://open.spotify.com/album/0eSZDWoQtDYJqkZb0MDJIR) | 2:50 | 2021-04-19 | 2022-04-29 |
 | [Leave the Pieces \- The Campfire Sessions](https://open.spotify.com/track/5ba3IQJQV5WI4SwtC0ePvD) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Leave the Pieces \(The Campfire Sessions\)](https://open.spotify.com/album/5Umb24lg8mJWCLBTUjfo2d) | 3:43 | 2021-04-19 |  |
+| [Life Ain't Always Pretty](https://open.spotify.com/track/1BNvU8Mn5aHnq0SxBIUoV4) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [Life Ain't Always Pretty](https://open.spotify.com/album/1gclZGnEWXEl84IK0xRwb0) | 3:26 | 2022-08-10 |  |
 | [Little Things](https://open.spotify.com/track/6e9LfLjJyQvJdIAkNPPU8u) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Little Things](https://open.spotify.com/album/1ZKejl4URkEWj3I6f2ppsL) | 3:36 | 2021-04-19 |  |
 | [Little Warble](https://open.spotify.com/track/1f7G1LfcxG3eTNqnSLT7Z5) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 3:56 | 2021-04-19 | 2022-04-29 |
 | [Looks Like Me \- Piano Acoustic](https://open.spotify.com/track/256ArsGaVttMIF56zoSzT9) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me \(Acoustic\)](https://open.spotify.com/album/47bsK3xszAvwlsfp0KubZS) | 3:05 | 2021-11-26 |  |
@@ -114,7 +115,7 @@
 | [Take The Chance](https://open.spotify.com/track/6noKDeExEd4bYp9qtSg6f5) | [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Behind This Guitar](https://open.spotify.com/album/4eu52uZltxOTS0ec73kDpu) | 3:37 | 2021-04-19 |  |
 | [Take This Hand](https://open.spotify.com/track/11PKwER5M6Rxu04BK7uTst) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Rosemary & Garlic](https://open.spotify.com/album/3BZ2g04bJWlE9WmuEs5vf3) | 3:32 | 2021-04-19 | 2022-04-29 |
 | [Tell Yourself](https://open.spotify.com/track/547AL64WHNaxc300apZx0V) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Tell Yourself](https://open.spotify.com/album/1vmA539j5gJu68QEVTUcaM) | 2:52 | 2021-08-20 | 2022-07-29 |
-| [Tell Yourself](https://open.spotify.com/track/5QjkvXMDRkZQhROtNkUoyz) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 2:52 | 2021-08-20 |  |
+| [Tell Yourself](https://open.spotify.com/track/5QjkvXMDRkZQhROtNkUoyz) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 2:52 | 2021-08-20 | 2022-08-11 |
 | [The End](https://open.spotify.com/track/0jzMbBZ2cycxT6QwqaT6QD) | [Andrew Maxman](https://open.spotify.com/artist/2WDyVWhRhGWexG3ZheOLvO) | [The End](https://open.spotify.com/album/5MwK9uEKXO8ArwNzOOH3vF) | 3:36 | 2021-04-19 |  |
 | [The One You Need](https://open.spotify.com/track/6ZfWLg7DPFHjIAYrvIP4LZ) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:05 | 2021-04-19 |  |
 | [The Trouble with Wanting](https://open.spotify.com/track/3UCFF2DMI2rbjusEuXHr5O) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:55 | 2021-04-19 | 2022-07-29 |

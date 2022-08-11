@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-146 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/4pr4mU2uzG9Ws0D5WIoeQn)
+147 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/4pr4mU2uzG9Ws0D5WIoeQn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Renegade \(Slowed + Reverb\)](https://open.spotify.com/track/7lCu7IgWLKeHBGcTR4HfgX) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/4hGbyUnXkhjeGdzecA25H0) | 4:39 | 2022-07-22 |  |
 | [Renegade \(Slowed + Reverb\)](https://open.spotify.com/track/0lOzjQKnffLWj7i6AqNMJG) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/3WUbnzlQ2VJRicGZVqwIz5) | 4:39 | 2021-10-01 | 2022-07-29 |
 | [Revenge](https://open.spotify.com/track/1fLHQ3KQtCQV5Ig0X3HVv2) | [Coldare](https://open.spotify.com/artist/2FHefNucZqH8nNdKcJX7tM) | [Revenge](https://open.spotify.com/album/0N7iF1ovuuKhVvNLorIt4N) | 2:11 | 2022-02-25 | 2022-07-29 |
-| [Revenge](https://open.spotify.com/track/7BXgUEEfz7SV4IPlozgmVt) | [kidolitx](https://open.spotify.com/artist/1RUHTffvKRhwvO1QtiUnKJ) | [Revenge](https://open.spotify.com/album/64dCGVdtuASuwRToxTPSta) | 2:11 | 2022-07-29 |  |
+| [Revenge](https://open.spotify.com/track/7BXgUEEfz7SV4IPlozgmVt) | [kidolitx](https://open.spotify.com/artist/1RUHTffvKRhwvO1QtiUnKJ) | [Revenge](https://open.spotify.com/album/64dCGVdtuASuwRToxTPSta) | 2:11 | 2022-07-29 | 2022-08-11 |
+| [revenge](https://open.spotify.com/track/4Y3dDj1I3fEUuXMYsfrLUI) | [Xizt](https://open.spotify.com/artist/3cFo74028DYWR3bYdIaPZ6) | [revenge](https://open.spotify.com/album/5MjrFJGP4kdd8BUMMfyWCc) | 2:11 | 2022-07-29 |  |
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \- Slowed + Reverb](https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \[Slowed + Reverb\]](https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC) | 2:18 | 2022-01-21 |  |
 | [save me \- slowed + reverbed](https://open.spotify.com/track/2cUXr81eb5qAqEeNv4R7oy) | [Jameel Patrick](https://open.spotify.com/artist/19fm7cZOZEDKP8Tx48HImG), [HeyMrNoOdLeS](https://open.spotify.com/artist/3SdLQFG1x7XTHmuPoYGrCn), [J Ultimate](https://open.spotify.com/artist/7aP0o1GdGDiH6d5JUrczFn) | [save me \(slowed + reverbed\)](https://open.spotify.com/album/4tp7sSgzvKghj6wXwFCGxg) | 3:23 | 2022-01-05 | 2022-04-24 |
 | [SCATY \(slowed\)](https://open.spotify.com/track/0eo4wxiJ4LvAm6DsX5w4kc) | [Baby Cryptic](https://open.spotify.com/artist/3B29YKN06NRnk3Bd163qOr), [3NIGMA](https://open.spotify.com/artist/6tZIB0k2xzSx5o7P1m7tvq) | [SCATY \(slowed\)](https://open.spotify.com/album/3vXrCGISUeHYfK0WHZ7e15) | 2:46 | 2021-11-12 | 2022-04-20 |

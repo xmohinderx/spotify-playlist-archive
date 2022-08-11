@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,888 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,056 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,17 +23,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 13 | [Tequila Moon](https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5) | 4:36 |
 | 14 | [Seventh Heaven \(feat\. Jeff Golub\)](https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7) | [Avenue Blue \(Featuring Jeff Golub\)](https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9) | [Nightlife](https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke) | 5:10 |
 | 15 | [Pacifica](https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 4:16 |
-| 16 | [Elevation](https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Babysoul](https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs) | 4:44 |
-| 17 | [Sky Watcher](https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:02 |
+| 16 | [Sky Watcher](https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:02 |
+| 17 | [Elevation](https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Babysoul](https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs) | 4:44 |
 | 18 | [Sundance](https://open.spotify.com/track/0t7lbaAiA6zU79AMi1Eb7K) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:49 |
 | 19 | [Revolving Door](https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:47 |
 | 20 | [Undun](https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Moonlight](https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk) | 4:53 |
-| 21 | [Summer Nights](https://open.spotify.com/track/61S3v0zujG9J171zdMEap7) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Pacific Coast Highway](https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ) | 3:58 |
-| 22 | [Window of the Soul](https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Presence](https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb) | 4:07 |
+| 21 | [Window of the Soul](https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Presence](https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb) | 4:07 |
+| 22 | [Summer Nights](https://open.spotify.com/track/61S3v0zujG9J171zdMEap7) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Pacific Coast Highway](https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ) | 3:58 |
 | 23 | [Steppin' Out](https://open.spotify.com/track/2vw0o63DPh9SEAtWN3kRgM) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [All For Love](https://open.spotify.com/album/13krE6l2QQwdBpjbPA5FwE) | 4:05 |
 | 24 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 |
-| 25 | [Bliss](https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 5:14 |
-| 26 | [Let It Flow](https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Night On The Town](https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq) | 4:49 |
+| 25 | [Let It Flow](https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Night On The Town](https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq) | 4:49 |
+| 26 | [Bliss](https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 5:14 |
 | 27 | [Low And Slow](https://open.spotify.com/track/7pRfQ35Qo8a9mZ8TfbTjVA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:08 |
 | 28 | [Something About You](https://open.spotify.com/track/06vu8fZlTlL7okvLGzhr47) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Something About You](https://open.spotify.com/album/5EHFd3yxzZdDvUiRuwSsTR) | 5:13 |
 | 29 | [Bluewave Bossanova](https://open.spotify.com/track/2QOqnhCrTIqTLzByQD7YQJ) | [Lawson Rollins](https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv) | [True North](https://open.spotify.com/album/3ym18a0dExcRA2VNAMAVBm) | 4:24 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 33 | [Feels Like Friday Night](https://open.spotify.com/track/3bDsnnpzrp67FMcHmxOCFQ) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Shakedown](https://open.spotify.com/album/1V6grlJgOrbatTYJAhfrFL) | 4:19 |
 | 34 | [Stronger Now](https://open.spotify.com/track/1ldNcaMyLRYnRgYORskmlX) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm) | [Stronger Now](https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC) | 3:43 |
 | 35 | [Exhale](https://open.spotify.com/track/5w4bufYITsxPjmG7xSu8Ga) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 5:14 |
-| 36 | [Because Of You](https://open.spotify.com/track/6neOhWrEXAny5DKmVGnlHo) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 5:16 |
-| 37 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 |
+| 36 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 |
+| 37 | [Because Of You](https://open.spotify.com/track/6neOhWrEXAny5DKmVGnlHo) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 5:16 |
 | 38 | [Reasons](https://open.spotify.com/track/1rhgEbGtMVOARoVGssCQDr) | [Michael C\. Lewis](https://open.spotify.com/artist/5eVoGHjBlD2E3OWOyAtPS4), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Reasons](https://open.spotify.com/album/5qAM5T1dtZgsbjRJeknBiB) | 4:29 |
 | 39 | [Amends](https://open.spotify.com/track/7InZJZjLe2rbSlVBL4PLXU) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY), [Jeff Lorber](https://open.spotify.com/artist/3JC3BBlfImI0p9y2na0bHK) | [The Story of Jaz](https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3) | 3:24 |
 | 40 | [Get Up, Stand Up](https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq), [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi) | 4:57 |
 | 41 | [Fluid](https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Fluid](https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH) | 4:25 |
 | 42 | [Soulfully](https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Soulfully](https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT) | 4:10 |
-| 43 | [Think of You](https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu) | [Brendan Rothwell](https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ) | [Sentiment](https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7) | 4:00 |
+| 43 | [Forever Yours](https://open.spotify.com/track/2RrsWRwIovqT8NXqVohHJo) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Retro Forward](https://open.spotify.com/album/6cF2eSwNvRcS8K1nYzI0tT) | 4:09 |
 | 44 | [Stockholm Summer](https://open.spotify.com/track/7nDChpaHBKx9ZCJmEcTdtX) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 4:55 |
-| 45 | [Forever Yours](https://open.spotify.com/track/2RrsWRwIovqT8NXqVohHJo) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Retro Forward](https://open.spotify.com/album/6cF2eSwNvRcS8K1nYzI0tT) | 4:09 |
-| 46 | [My Song for You](https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP) | 4:38 |
+| 45 | [My Song for You](https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP) | 4:38 |
+| 46 | [Think of You](https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu) | [Brendan Rothwell](https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ) | [Sentiment](https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7) | 4:00 |
 | 47 | [I'm Waiting For You](https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Lil' Man Soul](https://open.spotify.com/album/3GPPcFHouTopuZons7w27s) | 4:05 |
 | 48 | [Magic Hour](https://open.spotify.com/track/1AbQCUGbvIbO2NUen6tVAg) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Magic Hour](https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz) | 4:15 |
 | 49 | [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 |
 | 50 | [Cruising](https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 5:38 |
 
-Snapshot ID: `MTY1OTkzMTI5OCwwMDAwMDAwMGFhNWMxNmUwOTMxYTBhNDRjNDU0MDVmMGEzN2QzYTc0`
+Snapshot ID: `MTY1OTkzMTI5OCwwMDAwMDAwMDUwNDIwZDg0M2ZiY2YzZmRmMDA5MmNlYTg1ZWE1YjQx`

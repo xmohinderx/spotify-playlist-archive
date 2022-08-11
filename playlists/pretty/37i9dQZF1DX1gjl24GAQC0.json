@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? Cover: \bGolden Child(\uace8\ub4e0 \ucc28\uc77c\ub4dc) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 748963,
+  "num_followers": 750134,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk1ODUzNCwwMDAwMDAwMGJjMGVlMTExMDM3MmVmMzQwODU5MzE5Njk2NjE2NTM5",
+  "snapshot_id": "MTY2MDExMjQyNywwMDAwMDAwMGExZmU2YjUzODNhODBmZjNkYTI5ZjAwNGE4NWE2ZTE2",
   "tracks": [
     {
       "added_at": "2022-08-08 11:35:34",
@@ -707,6 +707,26 @@
     {
       "added_at": "2022-08-08 11:35:34",
       "album": {
+        "name": "NCT 2018 EMPATHY",
+        "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
+      },
+      "artists": [
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG"
+        },
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 210641,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix"
+    },
+    {
+      "added_at": "2022-08-08 11:35:34",
+      "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 212687,
       "name": "BUT YOU",
       "url": "https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv"
-    },
-    {
-      "added_at": "2022-08-08 11:35:34",
-      "album": {
-        "name": "NCT 2018 EMPATHY",
-        "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
-      },
-      "artists": [
-        {
-          "name": "NCT",
-          "url": "https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG"
-        },
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        }
-      ],
-      "duration_ms": 210641,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix"
     },
     {
       "added_at": "2022-08-08 11:35:34",

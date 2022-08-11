@@ -4,7 +4,7 @@
 
 > Meditative tones for clarity and healing.
 
-73 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/1wcoY7hOzprWoSsRPIyjVD)
+74 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/1wcoY7hOzprWoSsRPIyjVD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Healing Bowls](https://open.spotify.com/track/67DxDlLod2unLLBwdIBmDn) | [Sound of Muses](https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi) | [Healing Tibetan Singing Bowls](https://open.spotify.com/album/5NmADUzrobLLRJ271n2Q9W) | 2:54 | 2022-05-13 |  |
 | [Healing Tibetan Bowls](https://open.spotify.com/track/27R2tfIn7bS4Hvq14AelZI) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Sound Bath Escape](https://open.spotify.com/album/3rL8zuwDNsmKcOBCRgaXCb) | 3:45 | 2022-05-13 |  |
 | [Himalayan Bowls](https://open.spotify.com/track/54fOvKvdGylK3KdcR8gz2Z) | [Tibetan Meditation](https://open.spotify.com/artist/5UAgX4YftBF7I3DqNKazf5) | [Tibetan Singing Bowls](https://open.spotify.com/album/3zD1ESqCyJGPpeJDX0DBj9) | 2:25 | 2022-05-13 |  |
+| [I Am Alive](https://open.spotify.com/track/49MRwkWqwnCatZhVm3t9nu) | [Meditación Trascendental](https://open.spotify.com/artist/7GBcK0tbzmq32W05O4V3gA) | [I Am Alive](https://open.spotify.com/album/5DzlpnpV0bHkMNgheu9zxr) | 3:00 | 2022-08-10 |  |
 | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/track/6YnrlA0CTrkrjLVToXK0Eq) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/album/7mNJ2OhKnOiIuOAa61YzAb) | 2:53 | 2022-07-15 |  |
 | [Inharmonic](https://open.spotify.com/track/4dBF8Rb7rTZP08ndwnNZ4p) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:21 | 2022-05-13 |  |
 | [Lamrim](https://open.spotify.com/track/0x8k5gECEEFCJV5x29S8z3) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 5:08 | 2022-05-13 | 2022-07-16 |

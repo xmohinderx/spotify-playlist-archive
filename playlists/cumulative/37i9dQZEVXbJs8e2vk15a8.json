@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 159761,
       "name": "Arson",
       "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
@@ -2472,7 +2472,7 @@
     },
     {
       "album": {
-        "name": "FR\u00cdO",
+        "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
       },
       "artists": [
@@ -4109,7 +4109,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 235932,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf"
@@ -4831,7 +4831,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 123789,
       "name": "Session #1",
       "url": "https://open.spotify.com/track/57WxT83HImC4Sqff4zWaMC"
@@ -6285,6 +6285,24 @@
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "album": {
+        "name": "Xanadu - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208240,
+      "name": "Xanadu",
+      "url": "https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD"
     },
     {
       "album": {

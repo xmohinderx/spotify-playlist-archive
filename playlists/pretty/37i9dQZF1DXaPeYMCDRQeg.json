@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Black love, one song at a time.",
-  "num_followers": 133765,
+  "num_followers": 133896,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMGRhNWMwMTQ1ODUwMzkwZmNmMzJhZWFhY2UwMDdiM2Qy",
+  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMDhjYTU5YjgxMDA5ZTYwY2FkY2I3OTBhNjYxYTRmM2Qw",
   "tracks": [
     {
       "added_at": "2022-03-14 19:54:18",
@@ -27,22 +27,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 260640,
-      "name": "No Guidance (feat. Drake)",
-      "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -79,22 +79,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+      "duration_ms": 260640,
+      "name": "No Guidance (feat. Drake)",
+      "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 282333,
-      "name": "Kissin' You",
-      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "1st Born Second",
         "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 318666,
       "name": "Soul Sista",
       "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 282333,
+      "name": "Kissin' You",
+      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Juslisen",
+        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 304426,
+      "name": "Dontchange",
+      "url": "https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Dur&",
         "url": "https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 259493,
       "name": "Stuck.",
       "url": "https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Juslisen",
-        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 304426,
-      "name": "Dontchange",
-      "url": "https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Vibrations",
-        "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
+        "name": "Body (EP)",
+        "url": "https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p"
       },
       "artists": [
         {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
         }
       ],
-      "duration_ms": 240920,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
+      "duration_ms": 237037,
+      "name": "Whateva U Need",
+      "url": "https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Body (EP)",
-        "url": "https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p"
-      },
-      "artists": [
-        {
-          "name": "Grimm Lynn",
-          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
-        }
-      ],
-      "duration_ms": 237037,
-      "name": "Whateva U Need",
-      "url": "https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "New Amerykah Part Two: Return Of The Ankh",
         "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 279720,
       "name": "Gone Baby, Don't Be Long",
       "url": "https://open.spotify.com/track/0QQDaKW7eRRoqvbLCylzrn"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 240920,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
     },
     {
       "added_at": "2022-03-14 19:54:18",

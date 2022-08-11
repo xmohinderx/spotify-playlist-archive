@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. Cover: Miley Cyrus.",
-  "num_followers": 37544,
+  "num_followers": 37603,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAzODMyNSwwMDAwMDAwMDdlNzhjNWI4OGI4ZDY4MTU2M2I3MjIxNzdmYTVkZmQ1",
+  "snapshot_id": "MTY2MDAzODMyNSwwMDAwMDAwMDE1ZGZiNDYyOTljZTExZDk0ZGQ1Yzc5ZTU0NjEyYmU3",
   "tracks": [
     {
       "added_at": "2022-08-09 09:45:24",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Infinite Disco",
-        "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
-      "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live and in Session",
         "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 285930,
       "name": "I See Fire - Live and in Session",
       "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Infinite Disco",
+        "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
+      "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "You're The One That I Want - Live",
+      "url": "https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 352013,
-      "name": "Dancing Queen - Live",
-      "url": "https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "ME! (Live From Paris)",
         "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live 1976 - 1998: Tonight's the Night",
-        "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 307173,
-      "name": "I Don't Want to Talk About It - Live at Newcastle, England, 12/17/1976",
-      "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
+      "duration_ms": 352013,
+      "name": "Dancing Queen - Live",
+      "url": "https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Live 1976 - 1998: Tonight's the Night",
+        "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "I Don't Want to Talk About It - Live at Newcastle, England, 12/17/1976",
+      "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
       },
@@ -675,6 +691,22 @@
       "duration_ms": 288146,
       "name": "Goodbye My Lover - Live in Ireland",
       "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Serious Hits...Live! (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 336573,
+      "name": "Another Day in Paradise (Live from the Serious Tour 1990) - Remastered",
+      "url": "https://open.spotify.com/track/7bj48SzqJPtfoR5W01C1lT"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -699,18 +731,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Serious Hits...Live! (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 336573,
-      "name": "Another Day in Paradise (Live from the Serious Tour 1990) - Remastered",
-      "url": "https://open.spotify.com/track/7bj48SzqJPtfoR5W01C1lT"
+      "duration_ms": 274200,
+      "name": "Magic - Live",
+      "url": "https://open.spotify.com/track/14d4L1iSXXkgO1jJ8zu9M7"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -919,22 +951,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 298051,
-      "name": "Praying For Time - Live",
-      "url": "https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
         "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
       },
@@ -947,6 +963,22 @@
       "duration_ms": 250586,
       "name": "I Kissed A Girl - Live At MTV Unplugged, 2009",
       "url": "https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 298051,
+      "name": "Praying For Time - Live",
+      "url": "https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1015,22 +1047,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 334813,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
-      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Elton 60 - Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
       },
@@ -1043,6 +1059,22 @@
       "duration_ms": 249666,
       "name": "Your Song - Live At Madison Square Garden",
       "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 334813,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
+      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1095,18 +1127,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
-        "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
       },
       "artists": [
         {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 300953,
-      "name": "You Give Me Something - Live At The Hospital Club",
-      "url": "https://open.spotify.com/track/2ZSZ3DVneZwm825D6FueYS"
+      "duration_ms": 180346,
+      "name": "Hopelessly Devoted To You - Live",
+      "url": "https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1123,6 +1155,38 @@
       "duration_ms": 299159,
       "name": "When You Say Nothing At All - Live",
       "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
+        "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 300953,
+      "name": "You Give Me Something - Live At The Hospital Club",
+      "url": "https://open.spotify.com/track/2ZSZ3DVneZwm825D6FueYS"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Goodbye Yellow Brick Road - Live",
+      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1191,22 +1255,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Goodbye Yellow Brick Road - Live",
-      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Best Song Ever (From THIS IS US)",
         "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
       },
@@ -1235,22 +1283,6 @@
       "duration_ms": 345666,
       "name": "Listen to Your Heart - Live from Santiago 2012",
       "url": "https://open.spotify.com/track/0QrQYEtKj6R5xknD8Rw3TO"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "You're The One That I Want - Live",
-      "url": "https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1383,22 +1415,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Magic - Live",
-      "url": "https://open.spotify.com/track/14d4L1iSXXkgO1jJ8zu9M7"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
         "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Before You Go EP",
         "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 225047,
       "name": "Before You Go - Live from Brixton Academy, London, 2019",
       "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1491,6 +1507,22 @@
       "duration_ms": 225133,
       "name": "Candle In The Wind - Live",
       "url": "https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 210480,
+      "name": "Xanadu - Live",
+      "url": "https://open.spotify.com/track/3j32B9KLYeELoCvvyhVunF"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Hopelessly Devoted To You - Live",
-      "url": "https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "A new day - Live in Las Vegas",
         "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 195967,
       "name": "Parting Glass - Live at Wembley Stadium",
       "url": "https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 262864,
-      "name": "Mercy - Live",
-      "url": "https://open.spotify.com/track/4Q52hekxZoN7n4NO94IAJW"
     },
     {
       "added_at": "2022-08-09 09:45:24",

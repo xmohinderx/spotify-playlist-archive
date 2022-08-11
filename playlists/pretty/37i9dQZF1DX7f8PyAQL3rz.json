@@ -1,12 +1,12 @@
 {
   "description": "veigh dos predinho pra londres, exquece ",
-  "num_followers": 925324,
+  "num_followers": 925736,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY2ODU4MCwwMDAwMDAwMGQ2MTcyNWZiODRkZjlkOGQwZWI2Y2Y5OGMyMjgxOTMy",
+  "snapshot_id": "MTY1OTY2ODU4MCwwMDAwMDAwMDQ5MDMyNDdhMmJjYTZkNGEzNDRjZjRmOGIyYTkzZjcy",
   "tracks": [
     {
       "added_at": "2022-08-05 03:03:00",
@@ -431,54 +431,6 @@
     {
       "added_at": "2022-08-05 03:03:00",
       "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 150610,
-      "name": "212",
-      "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
-    },
-    {
-      "added_at": "2022-08-05 03:03:00",
-      "album": {
-        "name": "Me Sinto Aben\u00e7oado",
-        "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 214235,
-      "name": "Me Sinto Aben\u00e7oado",
-      "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
-    },
-    {
-      "added_at": "2022-08-05 03:03:00",
-      "album": {
         "name": "Poesia Ac\u00fastica 12 - Pra Sempre",
         "url": "https://open.spotify.com/album/34N8rLUMtF7t2uDA4sHtKr"
       },
@@ -527,6 +479,54 @@
       "duration_ms": 472173,
       "name": "Poesia Ac\u00fastica 12 - Pra Sempre",
       "url": "https://open.spotify.com/track/4can6ssapSsRCEbZZfYL8K"
+    },
+    {
+      "added_at": "2022-08-05 03:03:00",
+      "album": {
+        "name": "Me Sinto Aben\u00e7oado",
+        "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 214235,
+      "name": "Me Sinto Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
+    },
+    {
+      "added_at": "2022-08-05 03:03:00",
+      "album": {
+        "name": "212",
+        "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 150610,
+      "name": "212",
+      "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
     },
     {
       "added_at": "2022-08-05 03:03:00",
@@ -1151,6 +1151,34 @@
     {
       "added_at": "2022-08-05 03:03:00",
       "album": {
+        "name": "Cash",
+        "url": "https://open.spotify.com/album/4wE0QFfKjFvkvVojK4rmxT"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "duration_ms": 214507,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/5lMXToPjcZst8sItJeneYt"
+    },
+    {
+      "added_at": "2022-08-05 03:03:00",
+      "album": {
         "name": "Cora\u00e7\u00e3o Terra de Ningu\u00e9m",
         "url": "https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy"
       },
@@ -1183,34 +1211,6 @@
       "duration_ms": 313469,
       "name": "Swing de Morro",
       "url": "https://open.spotify.com/track/0Bl8lSsNsJ6fx2cAqJ0vVC"
-    },
-    {
-      "added_at": "2022-08-05 03:03:00",
-      "album": {
-        "name": "Cash",
-        "url": "https://open.spotify.com/album/4wE0QFfKjFvkvVojK4rmxT"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        }
-      ],
-      "duration_ms": 214507,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/5lMXToPjcZst8sItJeneYt"
     },
     {
       "added_at": "2022-08-05 03:03:00",

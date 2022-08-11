@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Richie Campbell
 
-78 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
+79 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,12 +65,13 @@
 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 | 2022-07-07 |  |
 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-07-07 |  |
 | [Rain](https://open.spotify.com/track/65GMCfqsrFRDSX7OWNoJeS) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Rain](https://open.spotify.com/album/1Pa6gereIqgxt2gsqw8mkr) | 3:42 | 2022-07-07 |  |
-| [Rewind](https://open.spotify.com/track/5zLtHIHaJ4O1EVVl76xvJi) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Rewind](https://open.spotify.com/album/6rw2SnFtTME10y7rwVfszh) | 2:39 | 2022-07-07 |  |
+| [Rewind](https://open.spotify.com/track/5zLtHIHaJ4O1EVVl76xvJi) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Rewind](https://open.spotify.com/album/6rw2SnFtTME10y7rwVfszh) | 2:39 | 2022-07-07 | 2022-08-11 |
 | [Ride \(feat\. Bárbara Bandeira\)](https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ) | [19.2k](https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K) | 3:13 | 2022-07-07 |  |
 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 | 2022-07-07 |  |
 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 | 2022-07-07 |  |
 | [Saudade](https://open.spotify.com/track/3OS9HqgLoWRd8JQWiSogyo) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/6sNUelgfRXdVV76YIOuGzY) | 5:06 | 2022-07-07 | 2022-07-29 |
 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 | 2022-07-21 |  |
+| [Say Yeah](https://open.spotify.com/track/1ctGMBEia7oXjiIwceNT9m) | [Dilson](https://open.spotify.com/artist/23ghAzuoE80qxROFQQ1twm), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Say Yeah](https://open.spotify.com/album/2lAGHS6egl953MXfBMYUid) | 2:50 | 2022-08-04 |  |
 | [Scroll](https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Scroll](https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ) | 2:37 | 2022-07-07 |  |
 | [Seguimos pela metade](https://open.spotify.com/track/1WPe6k0tslGlIRsO0obMTy) | [Denise](https://open.spotify.com/artist/6t9iYij561aIw8DBdos1Wr) | [Seguimos pela metade](https://open.spotify.com/album/1fb2OVGhNAxmpHXhISBMlR) | 3:09 | 2022-07-07 | 2022-08-05 |
 | [Sentimentos Acabam](https://open.spotify.com/track/7MDv6pCAscqW0spDgAoGaW) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [PILOTO](https://open.spotify.com/artist/4XYL8fTHht0gOWOPH9PXHJ), [Young Andrews Rockstar](https://open.spotify.com/artist/4fmagPKHMZvVVuofJ04q4i) | [Sentimentos Acabam](https://open.spotify.com/album/1yigosoZEhjG0G8r9pZQjB) | 3:39 | 2022-07-21 | 2022-07-29 |

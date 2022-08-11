@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk...",
-  "num_followers": 60796,
+  "num_followers": 60845,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5MDgyOCwwMDAwMDAwMDU3ZDU4NjJiMDQ3NzMxOTk5NGZkODYzMjVhNDdlYThh",
+  "snapshot_id": "MTY1OTA5MDgyOCwwMDAwMDAwMDFmODhkZDgxNDNkNzdmNDc1ODVmMjVlODk0ZTJjMjZj",
   "tracks": [
     {
       "added_at": "2022-07-29 10:33:48",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
+        "name": "Guitar Music",
+        "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
+      },
+      "artists": [
+        {
+          "name": "Leo Kottke",
+          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
+    },
+    {
+      "added_at": "2022-07-29 10:33:48",
+      "album": {
         "name": "The Midnight Broadcast",
         "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 150733,
       "name": "Well Well Well",
       "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
-    },
-    {
-      "added_at": "2022-07-29 10:33:48",
-      "album": {
-        "name": "Guitar Music",
-        "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
-      },
-      "artists": [
-        {
-          "name": "Leo Kottke",
-          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
     },
     {
       "added_at": "2022-07-29 10:33:48",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "Shadrach",
+      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
+    },
+    {
+      "added_at": "2022-07-29 10:33:48",
+      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 263999,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN"
-    },
-    {
-      "added_at": "2022-07-29 10:33:48",
-      "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "Shadrach",
-      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
     },
     {
       "added_at": "2022-07-29 10:33:48",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5"
+      },
+      "artists": [
+        {
+          "name": "Danny Paul Grody",
+          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
+        }
+      ],
+      "duration_ms": 303946,
+      "name": "Natural West",
+      "url": "https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ"
+    },
+    {
+      "added_at": "2022-07-29 10:33:48",
+      "album": {
         "name": "Willow Witchin' (Hot Take)",
         "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 260253,
       "name": "Can the Gwot Save Us?",
       "url": "https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO"
-    },
-    {
-      "added_at": "2022-07-29 10:33:48",
-      "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5"
-      },
-      "artists": [
-        {
-          "name": "Danny Paul Grody",
-          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
-        }
-      ],
-      "duration_ms": 303946,
-      "name": "Natural West",
-      "url": "https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ"
     },
     {
       "added_at": "2022-07-29 10:33:48",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-07-29 10:33:48",
       "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
-    },
-    {
-      "added_at": "2022-07-29 10:33:48",
-      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 152106,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
+    },
+    {
+      "added_at": "2022-07-29 10:33:48",
+      "album": {
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
     },
     {
       "added_at": "2022-07-29 10:33:48",

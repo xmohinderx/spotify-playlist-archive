@@ -1,12 +1,12 @@
 {
   "description": "All the classic keys in jazz. Cover: Oscar Peterson",
-  "num_followers": 32807,
+  "num_followers": 32899,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzNDU4OCwwMDAwMDAwMGQ0ZmUzNjI3NWNkMjFmYzBjMzUyYTNmOTc3MDczOTgx",
+  "snapshot_id": "MTY1MjQzNDU4OCwwMDAwMDAwMDg4MWRkZmZmNTFiMWQzYmEzYTM5YTkzZDg5ZWUxZDNk",
   "tracks": [
     {
       "added_at": "2022-05-13 09:36:28",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-05-13 09:36:28",
       "album": {
+        "name": "Fishin' In Stockholm",
+        "url": "https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21"
+      },
+      "artists": [
+        {
+          "name": "Freddie Redd",
+          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
+        }
+      ],
+      "duration_ms": 171609,
+      "name": "Dawn Mist",
+      "url": "https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb"
+    },
+    {
+      "added_at": "2022-05-13 09:36:28",
+      "album": {
         "name": "Duke's Dream",
         "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 440133,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
-    },
-    {
-      "added_at": "2022-05-13 09:36:28",
-      "album": {
-        "name": "Fishin' In Stockholm",
-        "url": "https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21"
-      },
-      "artists": [
-        {
-          "name": "Freddie Redd",
-          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
-        }
-      ],
-      "duration_ms": 171609,
-      "name": "Dawn Mist",
-      "url": "https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb"
     },
     {
       "added_at": "2022-05-13 09:36:28",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-05-13 09:36:28",
       "album": {
-        "name": "Lemuria - Seascape",
-        "url": "https://open.spotify.com/album/0Y6DrhObK1Fl1jJBZs0oLP"
-      },
-      "artists": [
-        {
-          "name": "Kenny Barron",
-          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Fungii Mama",
-      "url": "https://open.spotify.com/track/0jWvrsRsdxu0RxAHM5r48Q"
-    },
-    {
-      "added_at": "2022-05-13 09:36:28",
-      "album": {
         "name": "Trio And Quintet",
         "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 233320,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
+    },
+    {
+      "added_at": "2022-05-13 09:36:28",
+      "album": {
+        "name": "The John Lewis Piano",
+        "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
     },
     {
       "added_at": "2022-05-13 09:36:28",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2022-05-13 09:36:28",
       "album": {
-        "name": "The John Lewis Piano",
-        "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
+        "name": "Lemuria - Seascape",
+        "url": "https://open.spotify.com/album/0Y6DrhObK1Fl1jJBZs0oLP"
       },
       "artists": [
         {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+          "name": "Kenny Barron",
+          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
         }
       ],
-      "duration_ms": 269666,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
+      "duration_ms": 344000,
+      "name": "Fungii Mama",
+      "url": "https://open.spotify.com/track/0jWvrsRsdxu0RxAHM5r48Q"
     },
     {
       "added_at": "2022-05-13 09:36:28",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-05-13 09:36:28",
       "album": {
-        "name": "The Duke Plays Ellington",
-        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 152886,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
-    },
-    {
-      "added_at": "2022-05-13 09:36:28",
-      "album": {
         "name": "No Blues",
         "url": "https://open.spotify.com/album/1OEFn9mgfKhJRmnjWpu7tC"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 297560,
       "name": "My foolish heart",
       "url": "https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU"
+    },
+    {
+      "added_at": "2022-05-13 09:36:28",
+      "album": {
+        "name": "The Duke Plays Ellington",
+        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 152886,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
     },
     {
       "added_at": "2022-05-13 09:36:28",
@@ -1479,30 +1479,6 @@
     {
       "added_at": "2022-05-13 09:36:28",
       "album": {
-        "name": "The Trio Vol.2",
-        "url": "https://open.spotify.com/album/6NMTOGNNlCgC34TY8hkCN6"
-      },
-      "artists": [
-        {
-          "name": "Cedar Walton",
-          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
-        },
-        {
-          "name": "David Williams",
-          "url": "https://open.spotify.com/artist/1lW0yOfxgYlNLxJCszBwh3"
-        },
-        {
-          "name": "Billy Higgins",
-          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
-        }
-      ],
-      "duration_ms": 541000,
-      "name": "Off Minor",
-      "url": "https://open.spotify.com/track/3N3Hy7eQ5GboaKQYeJcFaX"
-    },
-    {
-      "added_at": "2022-05-13 09:36:28",
-      "album": {
         "name": "Belonging",
         "url": "https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv"
       },
@@ -1527,6 +1503,30 @@
       "duration_ms": 502866,
       "name": "The Windup",
       "url": "https://open.spotify.com/track/78zX3x0pFjsz6qSzNc7gA3"
+    },
+    {
+      "added_at": "2022-05-13 09:36:28",
+      "album": {
+        "name": "The Trio Vol.2",
+        "url": "https://open.spotify.com/album/6NMTOGNNlCgC34TY8hkCN6"
+      },
+      "artists": [
+        {
+          "name": "Cedar Walton",
+          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
+        },
+        {
+          "name": "David Williams",
+          "url": "https://open.spotify.com/artist/1lW0yOfxgYlNLxJCszBwh3"
+        },
+        {
+          "name": "Billy Higgins",
+          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
+        }
+      ],
+      "duration_ms": 541000,
+      "name": "Off Minor",
+      "url": "https://open.spotify.com/track/3N3Hy7eQ5GboaKQYeJcFaX"
     },
     {
       "added_at": "2022-05-13 09:36:28",
@@ -1627,6 +1627,30 @@
     {
       "added_at": "2022-05-13 09:36:28",
       "album": {
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "duration_ms": 612893,
+      "name": "You Took Advantage Of Me - Live",
+      "url": "https://open.spotify.com/track/3BUMqtDQfXIg2YPHmDj0j0"
+    },
+    {
+      "added_at": "2022-05-13 09:36:28",
+      "album": {
         "name": "Daylight Ghosts",
         "url": "https://open.spotify.com/album/4WMd6CHBI1xqYjD8svvoES"
       },
@@ -1655,30 +1679,6 @@
       "duration_ms": 372266,
       "name": "Empty Pockets - Remastered",
       "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
-    },
-    {
-      "added_at": "2022-05-13 09:36:28",
-      "album": {
-        "name": "Yesterdays",
-        "url": "https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Gary Peacock",
-          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
-        },
-        {
-          "name": "Jack DeJohnette",
-          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
-        }
-      ],
-      "duration_ms": 612893,
-      "name": "You Took Advantage Of Me - Live",
-      "url": "https://open.spotify.com/track/3BUMqtDQfXIg2YPHmDj0j0"
     },
     {
       "added_at": "2022-05-13 09:36:28",

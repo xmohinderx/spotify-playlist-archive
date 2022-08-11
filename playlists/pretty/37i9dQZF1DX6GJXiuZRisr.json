@@ -1,12 +1,12 @@
 {
   "description": "Dark and moody progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1377634,
+  "num_followers": 1378040,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDdiN2YyNDAyYzUxZjkxNjk2ZDEwM2FiODRhNWY3OTM0",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGNkZWI2MTc3MjI2YWY4YjBkNjY2OWQ5OGE0MzE0NTE2",
   "tracks": [
     {
       "added_at": "2022-07-01 11:37:35",
@@ -415,26 +415,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "About Us (feat. EMME)",
-        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
-        }
-      ],
-      "duration_ms": 286520,
-      "name": "About Us (feat. EMME)",
-      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Take Me Higher",
         "url": "https://open.spotify.com/album/7L0E4Y6UGHBACLLxiBikR8"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 199354,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/5RrhrF2WdWsFexwj7LXHvr"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "About Us (feat. EMME)",
+        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "duration_ms": 286520,
+      "name": "About Us (feat. EMME)",
+      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Should Have Seen It Coming",
-        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "AETHO",
-          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
-        }
-      ],
-      "duration_ms": 238072,
-      "name": "Should Have Seen It Coming",
-      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Hypercolour",
         "url": "https://open.spotify.com/album/2EFTTJUDOQhbJ6c9kc0Vgu"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 209081,
       "name": "Hypercolour",
       "url": "https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Should Have Seen It Coming",
+        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "AETHO",
+          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
+        }
+      ],
+      "duration_ms": 238072,
+      "name": "Should Have Seen It Coming",
+      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Neon Jungle Remixes",
-        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/5B5HDCCEGMkJELMnocaoSJ"
       },
       "artists": [
         {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 249919,
-      "name": "Neon Jungle - Lane 8 Remix",
-      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
+      "duration_ms": 222250,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/2rqgrjE3T96UvvQ0MheJ8T"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/5B5HDCCEGMkJELMnocaoSJ"
+        "name": "Neon Jungle Remixes",
+        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
       },
       "artists": [
         {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 222250,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/2rqgrjE3T96UvvQ0MheJ8T"
+      "duration_ms": 249919,
+      "name": "Neon Jungle - Lane 8 Remix",
+      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1345,6 +1345,22 @@
       "url": "https://open.spotify.com/track/41rjAEQbD85oUdFX9uPGqG"
     },
     {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "To The Ground",
+        "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        }
+      ],
+      "duration_ms": 233440,
+      "name": "To The Ground",
+      "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Turning Away",
@@ -1363,22 +1379,6 @@
       "duration_ms": 244543,
       "name": "Turning Away",
       "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "To The Ground",
-        "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
-      },
-      "artists": [
-        {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        }
-      ],
-      "duration_ms": 233440,
-      "name": "To The Ground",
-      "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1681,22 +1681,6 @@
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Lost Gravity EP",
-        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 305401,
-      "name": "Lost Gravity",
-      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
-    },
-    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Transitory",
@@ -1711,6 +1695,22 @@
       "duration_ms": 301960,
       "name": "Transitory",
       "url": "https://open.spotify.com/track/52peIXHrnQpSuANcws9IBr"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Lost Gravity EP",
+        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 305401,
+      "name": "Lost Gravity",
+      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1807,22 +1807,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/1jfZBmZUZeJsZZNluJL6zY"
+        "name": "Rush (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
       },
       "artists": [
         {
-          "name": "Tritonal",
-          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+          "name": "Sied Van Riel",
+          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 377142,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/7F8LoNeDRgItTcpTpYTmY3"
+      "duration_ms": 291840,
+      "name": "Rush - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1847,22 +1847,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Rush (Miss Monique Remix)",
-        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/1jfZBmZUZeJsZZNluJL6zY"
       },
       "artists": [
         {
-          "name": "Sied Van Riel",
-          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
+          "name": "Tritonal",
+          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
         },
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Rush - Miss Monique Remix",
-      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
+      "duration_ms": 377142,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/7F8LoNeDRgItTcpTpYTmY3"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1897,6 +1897,26 @@
       "url": "https://open.spotify.com/track/3iC26Le1kk7MrqUipyjzlk"
     },
     {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "duration_ms": 279555,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Spectacle",
@@ -1915,26 +1935,6 @@
       "duration_ms": 193563,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Lose Your Head (CamelPhat Remix)",
-        "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Lose Your Head - CamelPhat Remix",
-      "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
     }
   ],
   "unique_name": "Night Rider",

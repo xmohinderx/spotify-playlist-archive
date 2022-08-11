@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. Cover, Beyonce
 
-211 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+212 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Ratchet](https://open.spotify.com/track/014PLUZunFPW1EtbcXJLnu) | [Juan Mone](https://open.spotify.com/artist/4et46DfYJMlkRmpGMewaRG) | [SRT](https://open.spotify.com/album/5ZSibtsVrMCp5hvu1rbEM7) | 2:36 | 2022-04-15 |  |
 | [Respect My Team](https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Respect My Team](https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe) | 3:47 | 2022-07-01 | 2022-07-23 |
 | [Right Out The Gate](https://open.spotify.com/track/2ZFnkQzc6rWJ9HhRDoeEbq) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 2:57 | 2022-03-04 | 2022-06-11 |
-| [Rock](https://open.spotify.com/track/3q9UfLr6foEzn0ki0vKgHj) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/26kJC1nv4s6lOAjNiRILoT) | 4:03 | 2022-08-05 |  |
+| [Rock](https://open.spotify.com/track/3q9UfLr6foEzn0ki0vKgHj) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/26kJC1nv4s6lOAjNiRILoT) | 4:03 | 2022-08-05 | 2022-08-11 |
+| [Rock](https://open.spotify.com/track/7kp8t9yexJdk7LuvTK47XI) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl) | 4:03 | 2022-08-05 |  |
 | [ROKU](https://open.spotify.com/track/06LXe97w96150WPik2gRZ4) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [ROKU](https://open.spotify.com/album/5LQ2K1eNWz1zkdl0KVSofQ) | 2:11 | 2022-05-13 | 2022-07-23 |
 | [Rose Gold Stripper Pole \(feat\. 2 Chainz\)](https://open.spotify.com/track/41xbRAC6Vv2cu3o5HSh4tE) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Rose Gold Stripper Pole \(feat\. 2 Chainz\)](https://open.spotify.com/album/14eXE65nvhQnfzBwLIR4Td) | 2:50 | 2022-01-29 | 2022-03-18 |
 | [Round Trip To Atlanta](https://open.spotify.com/track/7EOsPEt5dvo7u8zhsOqnpK) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Round Trip To Atlanta](https://open.spotify.com/album/1uaYkIMLgI7Dnoh2B3yYvA) | 3:02 | 2022-05-13 | 2022-07-02 |

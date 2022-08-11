@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a Kevin Kaarl, nuestro artista Radar!",
-  "num_followers": 58806,
+  "num_followers": 58829,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk4Mjg3NiwwMDAwMDAwMDVjYWM0YWJkYTE1MDJmZWM4ZWVhZTY4YTViMTllOTAw",
+  "snapshot_id": "MTY1OTk4Mjg3NiwwMDAwMDAwMGU5MDQyN2U0OTA5Y2NhN2Y3NmVjZTViNWJlMTNjZDA1",
   "tracks": [
     {
       "added_at": "2022-08-01 05:00:00",
@@ -355,18 +355,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Consumo",
-        "url": "https://open.spotify.com/album/4USFiLBxSrjMfuXuZaxv4T"
+        "name": "t\u00fa vales la pena",
+        "url": "https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r"
       },
       "artists": [
         {
-          "name": "Jauria Santa",
-          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        },
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 212230,
-      "name": "Consumo",
-      "url": "https://open.spotify.com/track/39Yj12OXiBmQf7JmNh6gnI"
+      "duration_ms": 147180,
+      "name": "t\u00fa vales la pena",
+      "url": "https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -387,22 +391,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "t\u00fa vales la pena",
-        "url": "https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r"
+        "name": "Consumo",
+        "url": "https://open.spotify.com/album/4USFiLBxSrjMfuXuZaxv4T"
       },
       "artists": [
         {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        },
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Jauria Santa",
+          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
         }
       ],
-      "duration_ms": 147180,
-      "name": "t\u00fa vales la pena",
-      "url": "https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt"
+      "duration_ms": 212230,
+      "name": "Consumo",
+      "url": "https://open.spotify.com/track/39Yj12OXiBmQf7JmNh6gnI"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -533,46 +533,6 @@
       "url": "https://open.spotify.com/track/6Mhqj9OEN4w77nwDrX2w89"
     },
     {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Barbie Ven",
-        "url": "https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
-        }
-      ],
-      "duration_ms": 160942,
-      "name": "Barbie Ven",
-      "url": "https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr"
-    },
-    {
-      "added_at": "2022-06-03 15:10:16",
-      "album": {
-        "name": "El Tony",
-        "url": "https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Daniel Vazquez",
-          "url": "https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS"
-        }
-      ],
-      "duration_ms": 165442,
-      "name": "El Tony",
-      "url": "https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i"
-    },
-    {
       "added_at": "2022-08-08 18:21:16",
       "album": {
         "name": "Morena",
@@ -595,6 +555,46 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
+    },
+    {
+      "added_at": "2022-06-03 15:10:16",
+      "album": {
+        "name": "El Tony",
+        "url": "https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Daniel Vazquez",
+          "url": "https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS"
+        }
+      ],
+      "duration_ms": 165442,
+      "name": "El Tony",
+      "url": "https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Barbie Ven",
+        "url": "https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "duration_ms": 160942,
+      "name": "Barbie Ven",
+      "url": "https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "no me caigo tan bien",
-        "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 208443,
-      "name": "no me caigo tan bien",
-      "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Dm",
         "url": "https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 183956,
       "name": "Dm",
       "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "no me caigo tan bien",
+        "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 208443,
+      "name": "no me caigo tan bien",
+      "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
     },
     {
       "added_at": "2022-08-08 18:21:16",
@@ -811,6 +811,30 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "M\u00e1s Tarde (Remix)",
+        "url": "https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "M\u00e1s Tarde (Remix)",
+      "url": "https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "Caf\u00e9 Conmigo",
         "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
       },
@@ -845,46 +869,6 @@
       "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
     },
     {
-      "added_at": "2022-06-03 15:10:16",
-      "album": {
-        "name": "Hoy Todo Bien",
-        "url": "https://open.spotify.com/album/53n3wiMWTdEr2Hb11o6xq9"
-      },
-      "artists": [
-        {
-          "name": "El Bala",
-          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Hoy Todo Bien",
-      "url": "https://open.spotify.com/track/52YLbg0k9SzmW8R6EYWyyd"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "M\u00e1s Tarde (Remix)",
-        "url": "https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Elilluminari",
-          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "M\u00e1s Tarde (Remix)",
-      "url": "https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN"
-    },
-    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "Por Eso T\u00fa",
@@ -899,6 +883,22 @@
       "duration_ms": 192677,
       "name": "Por Eso T\u00fa",
       "url": "https://open.spotify.com/track/73Op2YIk2Ea5kJ9uHd99QH"
+    },
+    {
+      "added_at": "2022-06-03 15:10:16",
+      "album": {
+        "name": "Hoy Todo Bien",
+        "url": "https://open.spotify.com/album/53n3wiMWTdEr2Hb11o6xq9"
+      },
+      "artists": [
+        {
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Hoy Todo Bien",
+      "url": "https://open.spotify.com/track/52YLbg0k9SzmW8R6EYWyyd"
     },
     {
       "added_at": "2022-05-13 21:33:14",

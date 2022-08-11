@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 233629,
+  "num_followers": 233755,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc2NDU4MywwMDAwMDAwMDM2NWY2YzU3MjQ0ZWM1OGNkYjkxOGFiYjU5ODY3YTBi",
+  "snapshot_id": "MTY1ODc2NDU4MywwMDAwMDAwMDMwZWI3N2FhODZlMzZlYzVkOTRmOWMwZjBiNDg2NWJj",
   "tracks": [
     {
       "added_at": "2022-07-01 00:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
-        "name": "Emigrate",
-        "url": "https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri"
-      },
-      "artists": [
-        {
-          "name": "Emigrate",
-          "url": "https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1"
-        }
-      ],
-      "duration_ms": 257493,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
         "name": "Anima Inferna",
         "url": "https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 217826,
       "name": "Liar",
       "url": "https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
+        "name": "www.pitchshifter.com",
+        "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
+      },
+      "artists": [
+        {
+          "name": "Pitchshifter",
+          "url": "https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
-        "name": "www.pitchshifter.com",
-        "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
+        "name": "Emigrate",
+        "url": "https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri"
       },
       "artists": [
         {
-          "name": "Pitchshifter",
-          "url": "https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i"
+          "name": "Emigrate",
+          "url": "https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
+      "duration_ms": 257493,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
-        "name": "Helheim",
-        "url": "https://open.spotify.com/album/4iz7rIBmCZaLIEgjV9MzgI"
-      },
-      "artists": [
-        {
-          "name": "Erdling",
-          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
-        }
-      ],
-      "duration_ms": 192859,
-      "name": "Rabenherz",
-      "url": "https://open.spotify.com/track/2oar4Dbwg8UzuqyVU4gQZl"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
         "name": "Lord Of Chaos",
         "url": "https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 238765,
       "name": "Lord Of Chaos",
       "url": "https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
+        "name": "Helheim",
+        "url": "https://open.spotify.com/album/4iz7rIBmCZaLIEgjV9MzgI"
+      },
+      "artists": [
+        {
+          "name": "Erdling",
+          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
+        }
+      ],
+      "duration_ms": 192859,
+      "name": "Rabenherz",
+      "url": "https://open.spotify.com/track/2oar4Dbwg8UzuqyVU4gQZl"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
+        "name": "My Disintegration",
+        "url": "https://open.spotify.com/album/0w2LqSsoAxK8YbsmhoDxhk"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 380885,
+      "name": "My Disintegration",
+      "url": "https://open.spotify.com/track/4cE1NEHOx8VEI9UgOHWXOG"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
         "name": "S E X",
         "url": "https://open.spotify.com/album/0ZMVhQvyDY4vVPGqRCDE97"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 220553,
       "name": "S E X",
       "url": "https://open.spotify.com/track/3rx6ENPfEGYiQVPP1jsVtx"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "My Disintegration",
-        "url": "https://open.spotify.com/album/0w2LqSsoAxK8YbsmhoDxhk"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 380885,
-      "name": "My Disintegration",
-      "url": "https://open.spotify.com/track/4cE1NEHOx8VEI9UgOHWXOG"
     },
     {
       "added_at": "2022-07-01 00:00:00",

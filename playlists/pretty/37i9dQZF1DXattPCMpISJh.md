@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: The Knocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,105 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,261 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 12 | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/track/4pXlg4wiARIhv0CHx0pFMd) | [RELATIN](https://open.spotify.com/artist/0t3hsCFzCFOP4Zev9DOIw8), [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/album/2Txxw56PHJcWihrTHjFubI) | 3:48 |
 | 13 | [By the River](https://open.spotify.com/track/2ar9IljRFlIMT87P1j4Bkf) | [Bomel](https://open.spotify.com/artist/3Y2UFS2qa5dYTZ0CRKsPZ7), [Jullyh](https://open.spotify.com/artist/3SHhwCP9HUkfFLoXa2CTRD) | [By The River](https://open.spotify.com/album/1noFa2oAOfTNilEv8CMtzM) | 3:27 |
 | 14 | [Climbing Up](https://open.spotify.com/track/37cFA9RlQHyQ6r41LLzjCW) | [Colour Castle](https://open.spotify.com/artist/5PyXw8u0sJbvxMriq8qKBS), [Clicks](https://open.spotify.com/artist/3Bn9LAqhJqcTWngq8RWh7P), [Fleur De Mur](https://open.spotify.com/artist/1T8GyoQt9cAAsIFPEzRxzD) | [Climbing Up](https://open.spotify.com/album/2aToFPKZixcWBADYIsmBNU) | 3:53 |
-| 15 | [Try Again \- Single Edit](https://open.spotify.com/track/1V3roFh4ZJRPIJekw9Y78R) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Phenomenal Handclap Band](https://open.spotify.com/artist/3Qq1yaReJrvJr9GWSAddMy), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Try Again](https://open.spotify.com/album/73TY0JHIcJrLAvpgppmTQs) | 4:05 |
+| 15 | [Try Again \- Single Edit](https://open.spotify.com/track/1V3roFh4ZJRPIJekw9Y78R) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Try Again](https://open.spotify.com/album/73TY0JHIcJrLAvpgppmTQs) | 4:05 |
 | 16 | [Forever](https://open.spotify.com/track/0EvDKZOVkcDUkJdQOIscMA) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Forever](https://open.spotify.com/album/4jMu8CqTNq5VYVldMqa2qt) | 3:42 |
 | 17 | [Can't Get Enough](https://open.spotify.com/track/4iKhQ8ww70bM5rqFGmqcxq) | [Daniele Baldi](https://open.spotify.com/artist/6XCnlAqoGasmWxoLIghnVS) | [Can't Get Enough](https://open.spotify.com/album/1EDOh4foBxuhT5PaInDmlM) | 6:22 |
 | 18 | [In The Dark \- Aeroplane Remix](https://open.spotify.com/track/6FLuLyHNnBAHrFxn3ov7ve) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [In The Dark \(Aeroplane Remix\)](https://open.spotify.com/album/7lO7pL2T6Khbm9Q1enYj9V) | 3:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, fasma\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,606 likes - 114 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,640 likes - 114 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. En portada: Marki
 
-812 songs - 1 day 22 hr 3 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
+813 songs - 1 day 22 hr 6 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Muérete](https://open.spotify.com/track/3omPkda9VyWK6FDIxLgD0B) | [Mangus](https://open.spotify.com/artist/1MBFloPAlrKWbgNRCyldSF) | [Muérete](https://open.spotify.com/album/6nivkBTNb73eH5DnIwOaZd) | 3:05 | 2022-08-05 |  |
 | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/track/60uCZaPtkdQ5XXLYSLjLon) | [ADRIANAH](https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn) | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/album/5f8tUSpNqjENnKf3oKIGMU) | 3:29 | 2022-08-05 |  |
 | [Mágico](https://open.spotify.com/track/0ALwM0wbHw2WROsxxIFfof) | [Santi Vidal](https://open.spotify.com/artist/11UrD8gLTQnAQXWaut0WGg) | [Mágico](https://open.spotify.com/album/3aUUUPKsHFgXBBOZLZPxlj) | 2:43 | 2022-05-27 | 2022-06-04 |
+| [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 | 2022-08-10 |  |
 | [Más Allá](https://open.spotify.com/track/1J0we4R25J67VOZeNKQ7KS) | [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7) | [Más Allá](https://open.spotify.com/album/39WOJOVhSjQn4SSCnjjy9f) | 2:26 | 2022-03-25 | 2022-04-02 |
 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-05-06 | 2022-05-20 |
 | [Nada](https://open.spotify.com/track/17nqHpAG9jiJvwosUUqQ4F) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Nada](https://open.spotify.com/album/6H90daaYulhQchk0KB0uhR) | 3:59 | 2022-07-22 | 2022-07-30 |
@@ -534,7 +535,7 @@
 | [Nudos](https://open.spotify.com/track/3RVHFUDLPMYLEnvBOo6qxw) | [Killer Larrosa](https://open.spotify.com/artist/6N9Xsufs5wak8aNpdkpBln) | [Nudos](https://open.spotify.com/album/5oC2MIG3n7nBd9iK6LcK6W) | 3:23 | 2022-04-15 | 2022-04-23 |
 | [Números Rojos](https://open.spotify.com/track/0XW4qeY4Dyy42r4SH7vHHN) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Números Rojos](https://open.spotify.com/album/4pvpkeBKx2hy9MzRRjSsjo) | 2:36 | 2022-03-25 | 2022-04-02 |
 | [O \(feat\. Miranda!\)](https://open.spotify.com/track/5K4QBSArDF4Yy0nVgU8C6P) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Que Se Joda Todo Lo Demás](https://open.spotify.com/album/3SbwNSx1kvDqc6lvjNnrYr) | 3:52 | 2022-06-10 | 2022-06-25 |
-| [OBSESIÓN](https://open.spotify.com/track/76YrB0cxFjycMKRPJL6Zco) | [Pablo Caputto](https://open.spotify.com/artist/4YfqsOBCoCMbm9SpFe4cMl) | [OBSESIÓN](https://open.spotify.com/album/6TzvB0HAc9sEbqMWJGhyNz) | 3:35 | 2022-07-29 |  |
+| [OBSESIÓN](https://open.spotify.com/track/76YrB0cxFjycMKRPJL6Zco) | [Pablo Caputto](https://open.spotify.com/artist/4YfqsOBCoCMbm9SpFe4cMl) | [OBSESIÓN](https://open.spotify.com/album/6TzvB0HAc9sEbqMWJGhyNz) | 3:35 | 2022-07-29 | 2022-08-11 |
 | [Oh la la](https://open.spotify.com/track/1viuuuIRWtYP5Chx6MBpDD) | [Antònia Font](https://open.spotify.com/artist/503mwh1GWEiWy9bzzpiTFW) | [Un minut estroboscòpica](https://open.spotify.com/album/58a2p346V0Bs2SWDb6W9Ct) | 3:28 | 2022-03-25 | 2022-04-02 |
 | [Ojalá Fuéramos Amigos \(Buffetlibre Remix\)](https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Buffetlibre](https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh) | [Dime Algo \(bonito\) \(True Fans Edition\)](https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g) | 3:22 | 2022-05-20 | 2022-06-04 |
 | [Ojalá No Sea Verdad](https://open.spotify.com/track/0CBi8halgBp9zl2Nme8Ci3) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Ojalá No Sea Verdad](https://open.spotify.com/album/4TgBa71N7dcCzrS4vK5Hyj) | 2:56 | 2022-07-01 | 2022-07-09 |

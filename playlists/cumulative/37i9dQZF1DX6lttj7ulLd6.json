@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 263373,
       "name": "Caf\u00e9 Del Soul",
       "url": "https://open.spotify.com/track/1tDvUckdBbclTgBCAhUPs7"
@@ -622,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241306,
+      "name": "Givin\u2019 It Up",
+      "url": "https://open.spotify.com/track/31gDZG7i3ui4oLmWnhN0mG"
+    },
+    {
+      "album": {
         "name": "Got 2 Be Groovin'",
         "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
       },
@@ -853,7 +871,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 332920,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 277200,
       "name": "It Ain't Over BWB",
       "url": "https://open.spotify.com/track/2S7XYSL5qyBoJVQqm2mogJ"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 314760,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/1aXysFRgZfghWtgteEVQIz"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 325093,
       "name": "La Dolce Vita",
       "url": "https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 266338,
       "name": "Soul Vibration",
       "url": "https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 414834,
       "name": "Squeeze Me",
       "url": "https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 261506,
       "name": "Think About It",
       "url": "https://open.spotify.com/track/6XI1bDKgSfXWEyP297UaZS"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 273053,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/2H26ZEY1lP9uA1JTERztmg"

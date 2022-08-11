@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Bo Bundy",
-  "num_followers": 451495,
+  "num_followers": 451548,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzY2MCwwMDAwMDAwMDU0NGUyNjQ3OWU5ZWU3ZWRkMzI4MGE1YmFkN2I1NmU0",
+  "snapshot_id": "MTY1Nzg1NzY2MCwwMDAwMDAwMDE2YjY1NTFjNzgwMTdmODAzZTNkZmI0NjFiMmM1ZTdj",
   "tracks": [
     {
       "added_at": "2022-07-15 04:01:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Living Life",
-        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Ta To Saldo",
-      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Get Money",
         "url": "https://open.spotify.com/album/2k4cBntVyNcN7IQJf4Gy35"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 159322,
       "name": "Get Money",
       "url": "https://open.spotify.com/track/7uPDRSd1sVwlmEy5T1cv2R"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Ta To Saldo",
+      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "Katana",
+        "url": "https://open.spotify.com/album/5VgNI9y1vomTtEPzP4hIx9"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Leebrian",
+          "url": "https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4"
+        }
+      ],
+      "duration_ms": 160480,
+      "name": "Katana",
+      "url": "https://open.spotify.com/track/1G2BII1Wgl9NUBwXUByAjS"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "Apokalypsis 2",
         "url": "https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH"
       },
@@ -1635,26 +1655,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Katana",
-        "url": "https://open.spotify.com/album/5VgNI9y1vomTtEPzP4hIx9"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Leebrian",
-          "url": "https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4"
-        }
-      ],
-      "duration_ms": 160480,
-      "name": "Katana",
-      "url": "https://open.spotify.com/track/1G2BII1Wgl9NUBwXUByAjS"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Perico",
         "url": "https://open.spotify.com/album/5eTqqeddLq4MH4QmRRbCql"
       },
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "Mi Plebada",
+        "url": "https://open.spotify.com/album/0I9dpMxQeIbfbjbCRSkqb3"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Mi Plebada",
+      "url": "https://open.spotify.com/track/4V6o2CAtWXXw48VJCmdzwF"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/4jXbZdlo97CFzoRodQlB9t"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 224004,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/2wapNEqqu0aiD73B0uSXZA"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Mi Plebada",
-        "url": "https://open.spotify.com/album/0I9dpMxQeIbfbjbCRSkqb3"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Mi Plebada",
-      "url": "https://open.spotify.com/track/4V6o2CAtWXXw48VJCmdzwF"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "M\u00ednimo",
+        "url": "https://open.spotify.com/album/5F29828sgPmoMIbh38euyZ"
+      },
+      "artists": [
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "M\u00ednimo",
+      "url": "https://open.spotify.com/track/5PPtgvTTRPXGyEYnxbDGxR"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "Veintipico",
         "url": "https://open.spotify.com/album/0itQ63GbQW7k1bnEhS2k5R"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 201000,
       "name": "Veintipico",
       "url": "https://open.spotify.com/track/0nq0enzelDlBoQHcrwfEf5"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "M\u00ednimo",
-        "url": "https://open.spotify.com/album/5F29828sgPmoMIbh38euyZ"
-      },
-      "artists": [
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "M\u00ednimo",
-      "url": "https://open.spotify.com/track/5PPtgvTTRPXGyEYnxbDGxR"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "EL INCA",
-        "url": "https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 212454,
-      "name": "EL INCA",
-      "url": "https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Until the Day (Remix)",
         "url": "https://open.spotify.com/album/6U6Nt1f09c6lbtUGvbrqlW"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 290032,
       "name": "Until the Day - Remix",
       "url": "https://open.spotify.com/track/0Nrl6CH3oNL6QcnLOQlGVV"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "EL INCA",
+        "url": "https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 212454,
+      "name": "EL INCA",
+      "url": "https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2095,26 +2095,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Freestyle 15",
-        "url": "https://open.spotify.com/album/3X9CTnU2UNfL9kfIP2MvUQ"
-      },
-      "artists": [
-        {
-          "name": "Fariana",
-          "url": "https://open.spotify.com/artist/65z77qETTTAyCrniVuHxu1"
-        },
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 115615,
-      "name": "Freestyle 15",
-      "url": "https://open.spotify.com/track/0hR5ZTx3IexoOJLBcsh1x3"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Flow Challenge",
         "url": "https://open.spotify.com/album/1l6ja9nTrBVBUhM5bW0gFR"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 143426,
       "name": "Flow Challenge",
       "url": "https://open.spotify.com/track/3dcBPJ2GemXkY8VJtwOC8M"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Freestyle 15",
+        "url": "https://open.spotify.com/album/3X9CTnU2UNfL9kfIP2MvUQ"
+      },
+      "artists": [
+        {
+          "name": "Fariana",
+          "url": "https://open.spotify.com/artist/65z77qETTTAyCrniVuHxu1"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 115615,
+      "name": "Freestyle 15",
+      "url": "https://open.spotify.com/track/0hR5ZTx3IexoOJLBcsh1x3"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Matem\u00e1ticas Supremas",
-        "url": "https://open.spotify.com/album/4oPTBnjCIwZGZG7ZTF4iaa"
-      },
-      "artists": [
-        {
-          "name": "Phyzh Eye",
-          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
-        },
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Matem\u00e1ticas Supremas",
-      "url": "https://open.spotify.com/track/0iO1kK4B7JaqoZ6pBKla0V"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Apokalypsis 2",
         "url": "https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH"
       },
@@ -2195,6 +2175,26 @@
       "duration_ms": 218139,
       "name": "Milloneta",
       "url": "https://open.spotify.com/track/6U2fTWEr4MffXBDSMr2ML2"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Matem\u00e1ticas Supremas",
+        "url": "https://open.spotify.com/album/4oPTBnjCIwZGZG7ZTF4iaa"
+      },
+      "artists": [
+        {
+          "name": "Phyzh Eye",
+          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Matem\u00e1ticas Supremas",
+      "url": "https://open.spotify.com/track/0iO1kK4B7JaqoZ6pBKla0V"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Cotidiano",
-        "url": "https://open.spotify.com/album/5JXWsZ1nZVLDXfSV4d777m"
-      },
-      "artists": [
-        {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
-        }
-      ],
-      "duration_ms": 132680,
-      "name": "Cotidiano",
-      "url": "https://open.spotify.com/track/5fhXtKQWLg6pjE4Ca02hgd"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/3CEjATheM3YuuXKG0sU8XE"
       },
@@ -2399,22 +2383,18 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Mucho Brillo",
-        "url": "https://open.spotify.com/album/3cXFSV6uBvPOv3H16IDg4k"
+        "name": "Cotidiano",
+        "url": "https://open.spotify.com/album/5JXWsZ1nZVLDXfSV4d777m"
       },
       "artists": [
         {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
         }
       ],
-      "duration_ms": 232975,
-      "name": "Mucho Brillo",
-      "url": "https://open.spotify.com/track/3REVYw7xBn8zWLDhjpoY2P"
+      "duration_ms": 132680,
+      "name": "Cotidiano",
+      "url": "https://open.spotify.com/track/5fhXtKQWLg6pjE4Ca02hgd"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2435,6 +2415,26 @@
       "duration_ms": 214165,
       "name": "Harlem Pr",
       "url": "https://open.spotify.com/track/740mUk7sXKRH3k39Mv7q5n"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Mucho Brillo",
+        "url": "https://open.spotify.com/album/3cXFSV6uBvPOv3H16IDg4k"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        }
+      ],
+      "duration_ms": 232975,
+      "name": "Mucho Brillo",
+      "url": "https://open.spotify.com/track/3REVYw7xBn8zWLDhjpoY2P"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Flight 0006",
-        "url": "https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb"
-      },
-      "artists": [
-        {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Flight 0006",
-      "url": "https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "45",
         "url": "https://open.spotify.com/album/6O6upeYf5MwVKrqV29Ga1l"
       },
@@ -2595,6 +2579,22 @@
       "duration_ms": 189833,
       "name": "Beibi",
       "url": "https://open.spotify.com/track/6aguaDgP2NVtL3w2DK2IdR"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Flight 0006",
+        "url": "https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Flight 0006",
+      "url": "https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2671,6 +2671,26 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "Corta y Palo",
+        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
+      },
+      "artists": [
+        {
+          "name": "Joniel",
+          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
+        },
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Corta y Palo",
+      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "USTEDES [EL CASTii FREESTYLE 1]",
         "url": "https://open.spotify.com/album/1PjbGR9WPwbIOP1Q7c1QgT"
       },
@@ -2715,26 +2735,6 @@
       "duration_ms": 171962,
       "name": "WOW",
       "url": "https://open.spotify.com/track/4hOHayswD8yGZ28A07u57D"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Corta y Palo",
-        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
-      },
-      "artists": [
-        {
-          "name": "Joniel",
-          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
-        },
-        {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Corta y Palo",
-      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
     },
     {
       "added_at": "2022-07-15 04:01:00",

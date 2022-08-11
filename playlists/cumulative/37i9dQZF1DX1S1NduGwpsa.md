@@ -4,13 +4,14 @@
 
 > The best jazz new releases\. Photo : Melody Gardot
 
-106 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
+107 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Nightingale Sang in Berkeley Square](https://open.spotify.com/track/2Q7xtSxYk9wNFs5lGVhb8w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [A Nightingale Sang in Berkeley Square](https://open.spotify.com/album/61WnLVI6BAd9DcsVOVXaF5) | 3:05 | 2022-04-14 |  |
 | [Add Fiction](https://open.spotify.com/track/0QdXmMtJWdY0sCdjyKNOtw) | [Rémi Panossian Trio](https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh) | [Happy Birthdé](https://open.spotify.com/album/7vhIGT8Ks6L3xEHSUc9Drx) | 5:28 | 2022-04-21 |  |
-| [Age Of Ascent](https://open.spotify.com/track/3ReELxpeTArWKsyTbmNoqn) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/3SOJxg7oLNmP5Z1WAhcJbA) | 4:58 | 2022-07-21 |  |
+| [Age Of Ascent](https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 4:58 | 2022-07-21 |  |
+| [Age Of Ascent](https://open.spotify.com/track/3ReELxpeTArWKsyTbmNoqn) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/3SOJxg7oLNmP5Z1WAhcJbA) | 4:58 | 2022-07-21 | 2022-08-11 |
 | [Age Of Ascent](https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud) | 4:58 | 2022-06-09 | 2022-07-29 |
 | [Agua de Jamaica](https://open.spotify.com/track/47D5TbuwXksmz6iUhA6Q4u) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [Agua de Jamaica](https://open.spotify.com/album/1IaFBwOJ5c8r25XO4W0SmS) | 6:17 | 2022-04-14 | 2022-05-20 |
 | [Ahan](https://open.spotify.com/track/2g1PzerypMGvjcR518ZGNv) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 4:04 | 2022-06-23 |  |

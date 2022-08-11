@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 
 > Post\-hardcore\. Post\-punk\. Post\-rock\. Post\-everything\. Cover: Metz
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,029 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,129 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 | 14 | [One Armed Scissor](https://open.spotify.com/track/1lg8iruuIfdRL20TMmHRzJ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 4:20 |
 | 15 | [Esoteric](https://open.spotify.com/track/0CUMh0V0MTGs5pYGeQ611I) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/7sM244G1DwSq9Cqvv59xxz) | 2:37 |
 | 16 | [No Waves](https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIDLAR](https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs) | 2:14 |
-| 17 | [Making Breakfast](https://open.spotify.com/track/5HjqXQPZi27d92H5gCo1Oq) | [Twin Peaks](https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs) | [Wild Onion](https://open.spotify.com/album/1giZtAoxpO0kEFHhhXADXh) | 2:12 |
-| 18 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
+| 17 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
+| 18 | [Making Breakfast](https://open.spotify.com/track/5HjqXQPZi27d92H5gCo1Oq) | [Twin Peaks](https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs) | [Wild Onion](https://open.spotify.com/album/1giZtAoxpO0kEFHhhXADXh) | 2:12 |
 | 19 | [Drag My Body](https://open.spotify.com/track/0bEwPQwwgFyCvsqLkVOWhh) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Exister](https://open.spotify.com/album/2x5nSfk63pJXL47mDXA3Hh) | 3:21 |
 | 20 | [Floating Vibes](https://open.spotify.com/track/6UDYTfeSS4IVbJeHTaMxxA) | [Surfer Blood](https://open.spotify.com/artist/0IlQRCafsMrd0QkTRBU6n0) | [Astro Coast](https://open.spotify.com/album/62G9kmLUjDoqkYBsPHwp42) | 3:54 |
 | 21 | [Wolves in the Dark](https://open.spotify.com/track/4EPqLny9OKeJU62kBVg4Fh) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Wolves in the Dark](https://open.spotify.com/album/1Nie2cbGfLzmqavCGXZjRH) | 3:34 |
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 | 27 | [Image Of The Invisible](https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Vheissu](https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl) | 4:14 |
 | 28 | [Familiar Drugs](https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B) | 4:18 |
 | 29 | [Cave In](https://open.spotify.com/track/7foB3FgACotzkH5hkWOOAS) | [I The Mighty](https://open.spotify.com/artist/1aK2PiGHyEgc4wAIKQzMj2) | [Cave In](https://open.spotify.com/album/62qer7kVON5XSwZ3wd8W7B) | 3:27 |
-| 30 | [Don't Mess With Me](https://open.spotify.com/track/0UCYmgsllnNNl7werHn6Sb) | [Brody Dalle](https://open.spotify.com/artist/2mGlvfts36oW5O7KKPzfLk) | [Diploid Love](https://open.spotify.com/album/6YKRlT2dAjl6ge7Zs9nJel) | 3:38 |
-| 31 | [Jet](https://open.spotify.com/track/0QeR9qS8tqumgcjAFIwpTr) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [As You Please](https://open.spotify.com/album/2hHwKailiMAnyDxMev2G3A) | 3:43 |
+| 30 | [Jet](https://open.spotify.com/track/0QeR9qS8tqumgcjAFIwpTr) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [As You Please](https://open.spotify.com/album/2hHwKailiMAnyDxMev2G3A) | 3:43 |
+| 31 | [Don't Mess With Me](https://open.spotify.com/track/0UCYmgsllnNNl7werHn6Sb) | [Brody Dalle](https://open.spotify.com/artist/2mGlvfts36oW5O7KKPzfLk) | [Diploid Love](https://open.spotify.com/album/6YKRlT2dAjl6ge7Zs9nJel) | 3:38 |
 | 32 | [War](https://open.spotify.com/track/1CzagEt3BKgPOYjKTGdDKV) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Ultra Mono](https://open.spotify.com/album/0ojQHzflxMs6SfvBBkRKt6) | 3:07 |
 | 33 | [Lustration](https://open.spotify.com/track/7DFLwJ9iTCE9gOtWbnQSxq) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [The Amulet \(Deluxe\)](https://open.spotify.com/album/3mob5aLXsW82iZpISPK6OW) | 5:33 |
 | 34 | [Big Thinks Do Remarkable](https://open.spotify.com/track/0NNcqfgzO4ivslX7ALoz17) | [And So I Watch You from Afar](https://open.spotify.com/artist/7qKMNwlACMZOUdMG3acwst) | [All Hail Bright Futures \(Bonus Track Version\)](https://open.spotify.com/album/0Gsm99gxGRwEoEfdzZTDfq) | 3:51 |
 | 35 | [The End](https://open.spotify.com/track/65UEYdVQt67GikVCqiMYT6) | [The Beta Machine](https://open.spotify.com/artist/7G9ijzs5M3sEEyYYOjcfwn) | [All This Time](https://open.spotify.com/album/5ciFREDYWB91YoqWkfGI8B) | 4:07 |
 | 36 | [Where Were You When The Sky Opened Up](https://open.spotify.com/track/1SgQ50tUgpiQRe8CEyAuls) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Mother Nature](https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm) | 4:07 |
 | 37 | [Signals Over The Air](https://open.spotify.com/track/5k8viPkN0jExLQTlKsakKZ) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:10 |
-| 38 | [For Want Of](https://open.spotify.com/track/0Ca6zALpIkO7nwSHpT5hSg) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg) | 3:10 |
-| 39 | [Paradise and Plague](https://open.spotify.com/track/22JRnh2f6cfT7JYa43yMhk) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Nothing Left to Love](https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2) | 2:53 |
+| 38 | [Paradise and Plague](https://open.spotify.com/track/22JRnh2f6cfT7JYa43yMhk) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Nothing Left to Love](https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2) | 2:53 |
+| 39 | [For Want Of](https://open.spotify.com/track/0Ca6zALpIkO7nwSHpT5hSg) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg) | 3:10 |
 | 40 | [Fell In Love With A Ghost](https://open.spotify.com/track/2tmWeWTmfTX2TpLnNtnUlR) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn) | [Fell In Love With A Ghost](https://open.spotify.com/album/3lFbHdfhRD6jaqYleqNjpa) | 3:45 |
 | 41 | [If I Told You This Was Killing Me, Would You Stop?](https://open.spotify.com/track/3EP7G1q7sjCYHZiWLGCw0V) | [The Juliana Theory](https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m) | [Emotion Is Dead](https://open.spotify.com/album/6BfOCDtxUy6ixkS68vZSll) | 3:52 |
 | 42 | [It Was Fear of Myself That Made Me Odd](https://open.spotify.com/track/2UXB3a87WOVeQWmRsVwTQ0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:54 |
@@ -72,13 +72,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 | 62 | [Sick, Sad Heart](https://open.spotify.com/track/2bYy5LSFiCm8kA1TdrozRv) | [Gatherers](https://open.spotify.com/artist/45JFhgPpadhm9S0wIq9zIY) | [Sick, Sad Heart](https://open.spotify.com/album/5yng3kreZeoPZzI8mZsG6q) | 4:39 |
 | 63 | [December](https://open.spotify.com/track/63CWRhFuTxwv2oFAoaGtEH) | [Introvert](https://open.spotify.com/artist/7FwkSwnzWbhUzwJEwlqlJw) | [December](https://open.spotify.com/album/3H69MrgNv9Oc0zsam8VYQ9) | 3:06 |
 | 64 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 |
-| 65 | [shira](https://open.spotify.com/track/0HykTfW0Y0FmjzEJuA7H8U) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:57 |
-| 66 | [Firewood](https://open.spotify.com/track/4nrxXg3k9PM9EN5to4vNGj) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Green and Gray](https://open.spotify.com/album/48zxqHWN4hZ8Vc5vf4UTfS) | 5:13 |
+| 65 | [Firewood](https://open.spotify.com/track/4nrxXg3k9PM9EN5to4vNGj) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Green and Gray](https://open.spotify.com/album/48zxqHWN4hZ8Vc5vf4UTfS) | 5:13 |
+| 66 | [shira](https://open.spotify.com/track/0HykTfW0Y0FmjzEJuA7H8U) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:57 |
 | 67 | [Get My Mind Right](https://open.spotify.com/track/0XHX2cJ6kGYshbSytbExS6) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Get My Mind Right](https://open.spotify.com/album/0vWWAn7W7L10podK7A6tRB) | 2:58 |
 | 68 | [Better Ghost](https://open.spotify.com/track/0xR6mhvPlkMMB50A74XBFr) | [Vattnet](https://open.spotify.com/artist/7I0NQ9Wh3Keo3kZSviyxQK) | [Vattnet](https://open.spotify.com/album/0HHgYU1tglfk1jyFYZzJl0) | 6:40 |
 | 69 | [Dark Pools](https://open.spotify.com/track/3gRERmIzbCrQH0vSy7Q7pv) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [The Amulet \(Deluxe\)](https://open.spotify.com/album/3mob5aLXsW82iZpISPK6OW) | 4:49 |
-| 70 | [Hyde Howitzer](https://open.spotify.com/track/4KomSufeAvWBD27E3izXEz) | [The Kodiak](https://open.spotify.com/artist/2guJKLlSaMPI8CJFJ4aRcP) | [Hyde Howitzer](https://open.spotify.com/album/05GQTCg3QtryOaUwZb7HDr) | 3:28 |
-| 71 | [Vodka Soda Social Club](https://open.spotify.com/track/5oMxf22vhYyI6F1PmLzIEq) | [The Burden](https://open.spotify.com/artist/3iA9K8jcCoMr1k6h18VjCZ), [Quinn McGraw](https://open.spotify.com/artist/1IsEq91TMrZSeHRTLONsX6) | [Sinking Feeling](https://open.spotify.com/album/6GO3q7DY5EUozksnRqqudd) | 3:16 |
+| 70 | [Vodka Soda Social Club](https://open.spotify.com/track/5oMxf22vhYyI6F1PmLzIEq) | [The Burden](https://open.spotify.com/artist/3iA9K8jcCoMr1k6h18VjCZ), [Quinn McGraw](https://open.spotify.com/artist/1IsEq91TMrZSeHRTLONsX6) | [Sinking Feeling](https://open.spotify.com/album/6GO3q7DY5EUozksnRqqudd) | 3:16 |
+| 71 | [Hyde Howitzer](https://open.spotify.com/track/4KomSufeAvWBD27E3izXEz) | [The Kodiak](https://open.spotify.com/artist/2guJKLlSaMPI8CJFJ4aRcP) | [Hyde Howitzer](https://open.spotify.com/album/05GQTCg3QtryOaUwZb7HDr) | 3:28 |
 | 72 | [All Ready To Go](https://open.spotify.com/track/0rkg1WLUTCvzYM8ViG29d8) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Twenty](https://open.spotify.com/album/216CNxCLlMTynBoS9uZAb2) | 3:59 |
 | 73 | [Psychotic Episode](https://open.spotify.com/track/7sccWyVGdMHmxGWvZGi934) | [Royal Headache](https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1) | [Royal Headache](https://open.spotify.com/album/1GXo6hwDZtb3FCCUf7Kx47) | 2:13 |
 | 74 | [Neighbours](https://open.spotify.com/track/4zjBwjFMeZ5sYruyInDDIE) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Neighbours](https://open.spotify.com/album/4X04uW1W518fO5Ej2IQwkt) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 | 99 | [Strong Feelings](https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Strong Feelings](https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY) | 4:04 |
 | 100 | [Bitter Red](https://open.spotify.com/track/7mZxXLtIz6lfB7biIcicOD) | [Pianos Become The Teeth](https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C) | [Wait For Love](https://open.spotify.com/album/6UkmuaiAzMi21XJ4hyBzIE) | 4:43 |
 
-Snapshot ID: `MTY0ODY4MjAyMiwwMDAwMDAwMDdlNmRkM2E5ODFkYWU1YWM4NTM2ZjkyMTdkNzY0YzZl`
+Snapshot ID: `MTY0ODY4MjAyMiwwMDAwMDAwMDVmOTM1MWE2Zjc1OWRiNDg5M2Q5ZDBkNDA4OTM2Y2Fk`

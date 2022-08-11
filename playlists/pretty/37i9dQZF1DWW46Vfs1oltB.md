@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: pH\-1\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,691 likes - 67 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,960 likes - 67 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 2 | [BENZO](https://open.spotify.com/track/6rhq5U4vBZ90GpzhodA9rz) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BENZO](https://open.spotify.com/album/0BW5t9qhzscspZ6ozozmOa) | 2:22 |
 | 3 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 |
 | 4 | [Gangnam](https://open.spotify.com/track/4CCryLO92ELw3Fq0kTn8GV) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Gangnam](https://open.spotify.com/album/7F3GrKWxvLG3ZJr7iPzR04) | 2:33 |
-| 5 | [Drivin’ \(Feat\. Layone, BIG Naughty\)](https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [서동현](https://open.spotify.com/artist/1KqTeSB6Btq3D6StbKv3Uz) | [Drivin'](https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL) | 2:42 |
+| 5 | [Drivin’ \(Feat\. Layone, BIG Naughty\)](https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Drivin'](https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL) | 2:42 |
 | 6 | [POV](https://open.spotify.com/track/0IoLWiNmJNYwokQzC3ePR3) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [POV](https://open.spotify.com/album/71DWEP651eN5kkCX6CqoC4) | 3:34 |
 | 7 | [Flip Flap \(feat\. AJ Tracey & Hangzoo\)](https://open.spotify.com/track/7q6EXc4wuKtRl9jwQ5txIh) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ) | [Flip Flap \(feat\. AJ Tracey & Hangzoo\)](https://open.spotify.com/album/0fQsMuqqxIndrLwJHbvjzh) | 3:05 |
 | 8 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 |

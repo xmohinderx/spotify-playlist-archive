@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,512 songs - 2 day 20 hr 35 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,513 songs - 2 day 20 hr 36 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1380,6 +1380,7 @@
 | [Truthful](https://open.spotify.com/track/6OQcOlYGnrH4HeiyjvyCOo) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Truthful](https://open.spotify.com/album/0H5pipOYLuUxNK3GYcPMNx) | 2:07 | 2021-03-22 | 2022-04-17 |
 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2021-11-13 |  |
 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 | 2022-03-29 | 2022-06-06 |
+| [Tu as disparu](https://open.spotify.com/track/7guzWL6scF2bIRud4Mfk9Y) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Tu as disparu](https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD) | 1:55 | 2022-08-08 |  |
 | [Tu brilles](https://open.spotify.com/track/4lQ8UtqxO1SRpMf4m5pNa9) | [Tyra Lindqvist](https://open.spotify.com/artist/0i0eyDR8HC7sY4eUNKIAtI) | [Tu brilles](https://open.spotify.com/album/3qg5hHtKgkTimpSAbRVrhc) | 2:22 | 2021-03-10 | 2021-03-11 |
 | [Tu m'appartiens](https://open.spotify.com/track/4J3NvJOHStUHwgpc3Gqk2K) | [Tyra Lindqvist](https://open.spotify.com/artist/0i0eyDR8HC7sY4eUNKIAtI) | [Tu m'appartiens](https://open.spotify.com/album/51IDBLT4r765NspnUE0VFk) | 1:58 | 2022-04-12 | 2022-04-17 |
 | [Tuesday Saunter](https://open.spotify.com/track/5DlyTthy9x32FuYn7yZYvo) | [Dana Meijer](https://open.spotify.com/artist/7B9SANiyRivfQLmWiCzmm1) | [Tuesday Saunter](https://open.spotify.com/album/1rzhIWScywELe0BCmrUlCm) | 3:05 | 2022-03-29 | 2022-04-07 |
@@ -1477,7 +1478,7 @@
 | [Whirlwind](https://open.spotify.com/track/6XLHtgcoVSxYAo8EgXyGqy) | [Yitzhak Benjamin](https://open.spotify.com/artist/4I9Uarr9FJIWY02W2CzT4L) | [Whirlwind](https://open.spotify.com/album/6MnmCNHk4otC7QsfKWHtRg) | 2:01 | 2021-03-25 | 2021-10-05 |
 | [White Christmas](https://open.spotify.com/track/6svYbhJNpBNGMABD4aXD3n) | [Mila Crowell](https://open.spotify.com/artist/5abWpggjZABRz6VzlVjzyo) | [Soft Christmas](https://open.spotify.com/album/5NVZvHywOX33YAOZduxxCI) | 2:38 | 2021-03-09 | 2022-04-16 |
 | [White Water](https://open.spotify.com/track/0mAJr2W8VI3b7ErenwsTbG) | [Chris DiGiorgio](https://open.spotify.com/artist/2TzK3jTz6ETUS8ElO97lHl) | [White Water](https://open.spotify.com/album/2M464pJs8w3RhyZdEXRZEq) | 4:15 | 2021-05-05 | 2022-06-28 |
-| [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 | 2021-12-21 |  |
+| [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 | 2021-12-21 | 2022-08-11 |
 | [Whole Breaths](https://open.spotify.com/track/2kUno3T4aQEZcX96iRWxTO) | [Genevieve Harding](https://open.spotify.com/artist/5bQclaUyw221JG0BsDceAS) | [Whole Breaths](https://open.spotify.com/album/2qHWi9gDsue0bh7C490ENt) | 2:58 | 2021-05-24 | 2021-05-25 |
 | [Willow](https://open.spotify.com/track/7vGB0te1eym1Gf8NJlXKF7) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [Willow](https://open.spotify.com/album/0Dj4cbCUpaInhC1CfukTwT) | 2:06 | 2021-03-09 | 2022-07-27 |
 | [Windmills](https://open.spotify.com/track/1vMhhdVx2OF1F6WS2y1S0n) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Windmills](https://open.spotify.com/album/642yKB6e6rCEUuzke950pq) | 3:10 | 2021-05-17 | 2021-05-18 |

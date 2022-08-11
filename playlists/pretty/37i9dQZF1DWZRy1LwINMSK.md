@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Marcianeke
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,669 likes - 89 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,716 likes - 89 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 7 | [Jaguar](https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Jaguar](https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX) | 3:15 |
 | 8 | [My Blood Remix \(feat\. Julianno Sosa\)](https://open.spotify.com/track/0XisiywmNf0JO3HuYAHCjh) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [My Blood Remix \(feat\. Julianno Sosa\)](https://open.spotify.com/album/4891w8atdNgY3DQ1Mjiahq) | 4:12 |
 | 9 | [SHISHIBROKE](https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [SHISHI Mixtape](https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY) | 3:04 |
-| 10 | [TU MANUAL](https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Savage Kreamly](https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU) | [FRÍO](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 2:48 |
+| 10 | [TU MANUAL](https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Savage Kreamly](https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU) | [Frío](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 2:48 |
 | 11 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 |
 | 12 | [Mi Trap](https://open.spotify.com/track/1ClVzLNM120B8JIWs6aF1x) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Moonkey](https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf) | [Mi Trap](https://open.spotify.com/album/4UM2Lb9e4MBrj0vPjZA4OQ) | 3:52 |
 | 13 | [Fondo de Bikini](https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Vishoko](https://open.spotify.com/artist/2VoIm519FXqOTdQciVXLMe), [Ov Black](https://open.spotify.com/artist/7ulWyRMgAVwTZbDBTd6e35) | [Fondo de Bikini](https://open.spotify.com/album/2MDf7f36XF0Tm6r3ZWLIzl) | 4:07 |

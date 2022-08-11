@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 53578,
+  "num_followers": 53722,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY5NjQxMywwMDAwMDAwMDdiZDdhZjhlNzA2YmE5MDg3MTA1MjllZDZkMmVlMDBj",
+  "snapshot_id": "MTY1NjY5NjQxMywwMDAwMDAwMDA5YjZlNTkwZmY2MmNhOWYzNTU2MzgxZmE1NThiMGUy",
   "tracks": [
     {
       "added_at": "2022-07-01 17:26:53",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-07-01 17:26:53",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
-    },
-    {
-      "added_at": "2022-07-01 17:26:53",
-      "album": {
         "name": "The Very Best of Jimmy Reed",
         "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 169306,
       "name": "Shame, Shame, Shame",
       "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+    },
+    {
+      "added_at": "2022-07-01 17:26:53",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
     },
     {
       "added_at": "2022-07-01 17:26:53",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-07-01 17:26:53",
       "album": {
-        "name": "Blues Brothers 2000",
-        "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Born In Chicago",
-      "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
-    },
-    {
-      "added_at": "2022-07-01 17:26:53",
-      "album": {
         "name": "The Complete Imperial Recordings, 1950-1954",
         "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 150173,
       "name": "Strollin' With Bones",
       "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
+    },
+    {
+      "added_at": "2022-07-01 17:26:53",
+      "album": {
+        "name": "Blues Brothers 2000",
+        "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Born In Chicago",
+      "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
     },
     {
       "added_at": "2022-07-01 17:26:53",

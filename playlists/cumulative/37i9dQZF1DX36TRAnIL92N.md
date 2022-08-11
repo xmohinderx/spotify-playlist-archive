@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-95 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/0HPVZryw84KNhQatZ72i3g)
+96 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/0HPVZryw84KNhQatZ72i3g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-07-05 | 2022-07-29 |
 | [Addiction \- Original Mix](https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Addiction](https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F) | 6:30 | 2022-07-05 |  |
 | [Adrenaline](https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Adrenaline](https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh) | 6:53 | 2022-07-05 |  |
-| [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 | 2022-07-05 | 2022-07-29 |
+| [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 | 2022-07-05 |  |
 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 | 2022-07-05 |  |
 | [Attention](https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T) | [Attention](https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O) | 5:57 | 2022-07-05 |  |
 | [Aura](https://open.spotify.com/track/1fg0Cj0VYuMue9IWcEKtVP) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Aura](https://open.spotify.com/album/2G1zDCzWRHxouEiscYuz6D) | 6:52 | 2022-07-05 |  |
@@ -50,7 +50,8 @@
 | [Hypnos](https://open.spotify.com/track/347YMNFo0pJ43u0joTb8ww) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Hypnos](https://open.spotify.com/album/2cMqYqiJeFv7YfWwc1GF1P) | 4:49 | 2022-07-05 |  |
 | [In a Dream](https://open.spotify.com/track/7cIwpNlGQccW1LufQbLKF4) | [Karim Alkhayat](https://open.spotify.com/artist/1Jawgv4EJ23ap4WO59CE25) | [In a Dream](https://open.spotify.com/album/3A6kZChl99Ml9jA7Fd0sNw) | 5:55 | 2022-07-11 | 2022-07-29 |
 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 | 2022-07-11 |  |
-| [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 | 2022-07-05 |  |
+| [In Trance](https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [In Trance](https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7) | 5:57 | 2022-07-29 |  |
+| [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 | 2022-07-05 | 2022-08-11 |
 | [Journey To The Underworld](https://open.spotify.com/track/0O4H5enNBIDR3k0ibZBKa2) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Journey To The Underworld EP](https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB) | 7:39 | 2022-07-11 | 2022-07-27 |
 | [Katarze](https://open.spotify.com/track/47HUapTIiVAORkL3Eu04Su) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Katarze](https://open.spotify.com/album/5oadbRzPuGPkHAy3sRSINV) | 6:11 | 2022-07-05 | 2022-07-27 |
 | [Life](https://open.spotify.com/track/0hgBCww9bE8ufZPndRdURi) | [2088](https://open.spotify.com/artist/4m1zEw1eweA16IcRBIWxNo) | [Life](https://open.spotify.com/album/7lViivbC59hJG6hr6aYuJj) | 6:09 | 2022-07-05 | 2022-07-12 |
@@ -83,7 +84,7 @@
 | [Sentinel \- Original Mix](https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Sentinel](https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC) | 6:28 | 2022-07-05 |  |
 | [Soul](https://open.spotify.com/track/5RJHpBHM1gBJYrB9YlFnNG) | [Pomella](https://open.spotify.com/artist/1solOdc0xZiJ2nDl6vbH9v) | [Soul](https://open.spotify.com/album/1orZtgQNW26jOxSDSsZ9jK) | 2:55 | 2022-07-11 | 2022-07-24 |
 | [String Theory](https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [String Theory](https://open.spotify.com/album/64nnxFO6ZeVn19b7fGqOgN) | 4:21 | 2022-07-05 |  |
-| [Switch Play](https://open.spotify.com/track/095b9aJegbMOGNFHFAUGEC) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Switch Play](https://open.spotify.com/album/6UVsb3uNatjZclVfNF90OG) | 3:34 | 2022-07-05 |  |
+| [Switch Play](https://open.spotify.com/track/095b9aJegbMOGNFHFAUGEC) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Switch Play](https://open.spotify.com/album/6UVsb3uNatjZclVfNF90OG) | 3:34 | 2022-07-05 | 2022-08-11 |
 | [Synergy \- Nonameleft Remix](https://open.spotify.com/track/3fPucR04bxFLQgD8qHl8Pq) | [Flanko](https://open.spotify.com/artist/45g5ClZMjUBX1qwQBSs843), [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Synergy](https://open.spotify.com/album/15PPWV7GO8IGjqrKHDW1dS) | 6:50 | 2022-07-11 | 2022-07-13 |
 | [Terra](https://open.spotify.com/track/5sxjDcq1CPIQ6pmLbMRY1o) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Terra](https://open.spotify.com/album/2HE22ZqykGRTdLjqrTJuVN) | 6:50 | 2022-07-05 | 2022-07-28 |
 | [The Age Of Love \- Charlotte de Witte & Enrico Sangiuliano Remix](https://open.spotify.com/track/6X6Ow0iioCrYQSK1QDHQbC) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\)](https://open.spotify.com/album/6Ozmnoay8pclUfUO8CWKLU) | 8:09 | 2022-07-05 |  |

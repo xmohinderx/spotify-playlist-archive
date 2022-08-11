@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,379 likes - 67 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,424 likes - 67 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

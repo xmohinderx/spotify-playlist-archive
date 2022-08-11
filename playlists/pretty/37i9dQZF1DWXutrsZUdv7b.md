@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 
 > The legendary producer and songwriting duo: Kenneth Gamble and Leon A\. Huff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,788 likes - 104 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,844 likes - 104 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

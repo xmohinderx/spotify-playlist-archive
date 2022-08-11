@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX86uJ5hoOPYV.md) - [plain]
 
 > This South Asian Heritage Month, Sharmeen Obaid Chinoy shares her favorite Pakistani tracks accompanying her on her film travels all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213 likes - 28 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 28 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

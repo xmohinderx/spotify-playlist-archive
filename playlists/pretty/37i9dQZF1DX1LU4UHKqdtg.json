@@ -1,12 +1,12 @@
 {
   "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: TWICE",
-  "num_followers": 224150,
+  "num_followers": 224335,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA1NzIwMCwwMDAwMDAwMDNmZmVlOGEyMTVmYWI0ZDFhZDE2NzU1NzMxYzA2YWIw",
+  "snapshot_id": "MTY2MDA1NzIwMCwwMDAwMDAwMDQzMzBhYzYwNGQxZGI4NWRkZGZjZWYxNWI3YzAzZGY3",
   "tracks": [
     {
       "added_at": "2022-08-09 15:00:00",
@@ -159,6 +159,38 @@
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
+    },
+    {
+      "added_at": "2022-08-09 15:00:00",
+      "album": {
+        "name": "La Vida Loca",
+        "url": "https://open.spotify.com/album/7v5WJg3N0QQYC9BIlDnB0Z"
+      },
+      "artists": [
+        {
+          "name": "NIK",
+          "url": "https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "La Vida Loca",
+      "url": "https://open.spotify.com/track/5YazeJ15q1Mypr9ZYLJaT9"
+    },
+    {
+      "added_at": "2022-08-09 15:00:00",
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/6m3fEmldriKRNaxcCooP7T"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/4p25h8uVkSoSsq5Vl5NeJ3"
     },
     {
       "added_at": "2022-08-09 15:00:00",

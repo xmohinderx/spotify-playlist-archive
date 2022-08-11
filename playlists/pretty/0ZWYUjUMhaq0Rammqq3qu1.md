@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Get the good times started with this party playlist with jams from Zedd, Justin Bieber and more!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 117,782 likes - 119 songs - 6 hr 14 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 117,772 likes - 119 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Brent Faiyaz",
-  "num_followers": 32094,
+  "num_followers": 32132,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTc4MjY0MCwwMDAwMDAwMGVmYWU0MTljNmIzMWNjZjM5MTg0NDVhYTc2YjYyNzkz",
+  "snapshot_id": "MTY1OTc4MjY0MCwwMDAwMDAwMDJiMDQwZmUyMzUyZDRhOTcxYjVkY2U1YmQ1YjUyN2Nk",
   "tracks": [
     {
       "added_at": "2022-08-05 04:11:54",
@@ -781,6 +781,26 @@
       "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 195939,
+      "name": "Compromise (feat. Rema)",
+      "url": "https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Shea Butter Baby",
@@ -827,26 +847,6 @@
       "duration_ms": 220199,
       "name": "sorry",
       "url": "https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 195939,
-      "name": "Compromise (feat. Rema)",
-      "url": "https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz"
     },
     {
       "added_at": "2022-07-15 04:00:00",

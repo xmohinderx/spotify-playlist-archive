@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 78375,
+  "num_followers": 78481,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk0MjU3MiwwMDAwMDAwMDdkZmEyODdkODA2M2ViZDI3YTAwM2RlNzM1ODNhZTRh",
+  "snapshot_id": "MTY1OTk0MjU3MiwwMDAwMDAwMDZjMGJmMjkxNGFhMzllYjg4ZjRkMWE2N2U3ZmU3YTI3",
   "tracks": [
     {
       "added_at": "2022-08-08 07:09:32",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-08-08 07:09:32",
       "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "added_at": "2022-08-08 07:09:32",
+      "album": {
         "name": "Sweetest Pie",
         "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
-    },
-    {
-      "added_at": "2022-08-08 07:09:32",
-      "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
       "added_at": "2022-08-08 07:09:32",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-08 07:09:32",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2022-08-08 07:09:32",
-      "album": {
         "name": "DON'T YOU WORRY",
         "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
       },
@@ -751,26 +735,18 @@
     {
       "added_at": "2022-08-08 07:09:32",
       "album": {
-        "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
-        "url": "https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv"
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
       },
       "artists": [
         {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 144000,
-      "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
-      "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2022-08-08 07:09:32",
@@ -791,6 +767,30 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "added_at": "2022-08-08 07:09:32",
+      "album": {
+        "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
+        "url": "https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
+      "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
     },
     {
       "added_at": "2022-08-08 07:09:32",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-08 07:09:32",
       "album": {
+        "name": "MONTERO (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137875,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"
+    },
+    {
+      "added_at": "2022-08-08 07:09:32",
+      "album": {
         "name": "Simplesmente Ela",
         "url": "https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ"
       },
@@ -911,6 +927,26 @@
       "duration_ms": 161076,
       "name": "Simplesmente Ela",
       "url": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u"
+    },
+    {
+      "added_at": "2022-08-08 07:09:32",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Paradise (feat. Dermot Kennedy)",
+      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
       "added_at": "2022-08-08 07:09:32",
@@ -935,42 +971,6 @@
       "duration_ms": 141769,
       "name": "Malvad\u00e3o 3",
       "url": "https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH"
-    },
-    {
-      "added_at": "2022-08-08 07:09:32",
-      "album": {
-        "name": "MONTERO (Call Me By Your Name)",
-        "url": "https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137875,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"
-    },
-    {
-      "added_at": "2022-08-08 07:09:32",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Paradise (feat. Dermot Kennedy)",
-      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
       "added_at": "2022-08-08 07:09:32",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-08-08 07:09:32",
       "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
-    },
-    {
-      "added_at": "2022-08-08 07:09:32",
-      "album": {
         "name": "Do It Better (feat. Zoe Wees)",
         "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 170045,
       "name": "Do It Better (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
+    },
+    {
+      "added_at": "2022-08-08 07:09:32",
+      "album": {
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
     },
     {
       "added_at": "2022-08-08 07:09:32",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-08-08 07:09:32",
       "album": {
+        "name": "SloMo",
+        "url": "https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "SloMo",
+      "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
+    },
+    {
+      "added_at": "2022-08-08 07:09:32",
+      "album": {
         "name": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
         "url": "https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 115846,
       "name": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
       "url": "https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8"
-    },
-    {
-      "added_at": "2022-08-08 07:09:32",
-      "album": {
-        "name": "SloMo",
-        "url": "https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "SloMo",
-      "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
     },
     {
       "added_at": "2022-08-08 07:09:32",
@@ -1287,6 +1287,34 @@
     {
       "added_at": "2022-08-08 07:09:32",
       "album": {
+        "name": "The Drop",
+        "url": "https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        }
+      ],
+      "duration_ms": 121987,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
+    },
+    {
+      "added_at": "2022-08-08 07:09:32",
+      "album": {
         "name": "NAKAMURA",
         "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
       },
@@ -1319,34 +1347,6 @@
       "duration_ms": 136901,
       "name": "NO CH\u00c3O NOVINHA",
       "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
-    },
-    {
-      "added_at": "2022-08-08 07:09:32",
-      "album": {
-        "name": "The Drop",
-        "url": "https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicole Scherzinger",
-          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        }
-      ],
-      "duration_ms": 121987,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
     },
     {
       "added_at": "2022-08-08 07:09:32",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-08-08 07:09:32",
       "album": {
+        "name": "Juramento eterno de sal",
+        "url": "https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "Juramento eterno de sal",
+      "url": "https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw"
+    },
+    {
+      "added_at": "2022-08-08 07:09:32",
+      "album": {
         "name": "ME PASE (feat. Farruko)",
         "url": "https://open.spotify.com/album/4JMaZaBdFCVJDpEAkNb4nZ"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 181573,
       "name": "ME PASE (feat. Farruko)",
       "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
-    },
-    {
-      "added_at": "2022-08-08 07:09:32",
-      "album": {
-        "name": "Juramento eterno de sal",
-        "url": "https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "Juramento eterno de sal",
-      "url": "https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw"
     },
     {
       "added_at": "2022-08-08 07:09:32",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2022-08-08 07:09:32",
       "album": {
-        "name": "No Llores M\u00e1s",
-        "url": "https://open.spotify.com/album/5yBVHG6wgeyZjRxYQPRQs8"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 169806,
-      "name": "No Llores M\u00e1s",
-      "url": "https://open.spotify.com/track/0C3hl4giyPEnDQf2IlWpk2"
-    },
-    {
-      "added_at": "2022-08-08 07:09:32",
-      "album": {
         "name": "Trava na Pose, Chama no Zoom, Da um Close",
         "url": "https://open.spotify.com/album/5FY0hhzRFgldlHh2U8stHw"
       },
@@ -1739,18 +1719,22 @@
     {
       "added_at": "2022-08-08 07:09:32",
       "album": {
-        "name": "LOKKO",
-        "url": "https://open.spotify.com/album/4rnvgJNI65psp1SwM4gzve"
+        "name": "No Llores M\u00e1s",
+        "url": "https://open.spotify.com/album/5yBVHG6wgeyZjRxYQPRQs8"
       },
       "artists": [
         {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 158740,
-      "name": "LOKKO",
-      "url": "https://open.spotify.com/track/2xRyucSeonJTOAK8EBKFuC"
+      "duration_ms": 169806,
+      "name": "No Llores M\u00e1s",
+      "url": "https://open.spotify.com/track/0C3hl4giyPEnDQf2IlWpk2"
     },
     {
       "added_at": "2022-08-08 07:09:32",
@@ -1767,6 +1751,22 @@
       "duration_ms": 176239,
       "name": "Tudo Me Lembra Voc\u00ea",
       "url": "https://open.spotify.com/track/0HG6sEAcdl6XyPT7RT9IHd"
+    },
+    {
+      "added_at": "2022-08-08 07:09:32",
+      "album": {
+        "name": "LOKKO",
+        "url": "https://open.spotify.com/album/4rnvgJNI65psp1SwM4gzve"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "LOKKO",
+      "url": "https://open.spotify.com/track/2xRyucSeonJTOAK8EBKFuC"
     },
     {
       "added_at": "2022-08-08 07:09:32",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2022-08-08 07:09:32",
       "album": {
+        "name": "Afro Tropical",
+        "url": "https://open.spotify.com/album/5oSieYXT6iUxhTzoT2Iv4n"
+      },
+      "artists": [
+        {
+          "name": "IVANN",
+          "url": "https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm"
+        }
+      ],
+      "duration_ms": 151708,
+      "name": "Afro Tropical",
+      "url": "https://open.spotify.com/track/6HNe2fozm5lvsmmV2tPwTQ"
+    },
+    {
+      "added_at": "2022-08-08 07:09:32",
+      "album": {
         "name": "Errada Ela N\u00e3o T\u00e1",
         "url": "https://open.spotify.com/album/4GLifNiKf4dDkkencR04Bn"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 178461,
       "name": "Errada Ela N\u00e3o T\u00e1",
       "url": "https://open.spotify.com/track/5LOgoGZQf26eY74DGdYy0u"
-    },
-    {
-      "added_at": "2022-08-08 07:09:32",
-      "album": {
-        "name": "Afro Tropical",
-        "url": "https://open.spotify.com/album/5oSieYXT6iUxhTzoT2Iv4n"
-      },
-      "artists": [
-        {
-          "name": "IVANN",
-          "url": "https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm"
-        }
-      ],
-      "duration_ms": 151708,
-      "name": "Afro Tropical",
-      "url": "https://open.spotify.com/track/6HNe2fozm5lvsmmV2tPwTQ"
     },
     {
       "added_at": "2022-08-08 07:09:32",

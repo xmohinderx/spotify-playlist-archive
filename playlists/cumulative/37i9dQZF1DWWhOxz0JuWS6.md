@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-504 songs - 1 day 12 hr 25 min - [published](https://open.spotify.com/playlist/5Hsskn5n9BE0Rj9yfUKAoG)
+505 songs - 1 day 12 hr 28 min - [published](https://open.spotify.com/playlist/5Hsskn5n9BE0Rj9yfUKAoG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Athena](https://open.spotify.com/track/16USHlesFliQfb8Av8jiaI) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [It's Hard](https://open.spotify.com/album/7ISmM3vnNkZ7EWkaiH6hBH) | 3:48 | 2020-12-08 | 2022-07-29 |
 | [Back Chat \- Remastered 2011](https://open.spotify.com/track/14YQ2SSnv07HZjPP4Ud9mX) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 4:35 | 2020-12-08 | 2022-07-04 |
 | [Back Door Stranger](https://open.spotify.com/track/3X8FynvSPtlhlsaTBL2aWU) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Special Forces](https://open.spotify.com/album/4vWxauP6oFowwSQeBnFwRW) | 4:40 | 2020-12-08 | 2022-07-25 |
+| [Bad Mouth](https://open.spotify.com/track/1MkqBhP5byDttRYtZsDC6p) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:35 | 2020-12-08 |  |
 | [Bad Mouth](https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:35 | 2020-12-08 | 2022-05-25 |
 | [Be Good to Yourself](https://open.spotify.com/track/2D5xQtVNi4o6F3Gh1qxD3Y) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Raised On Radio](https://open.spotify.com/album/0o61yZjH9JNYjfQXQkdJFq) | 3:51 | 2020-12-08 |  |
 | [Beast of Burden](https://open.spotify.com/track/5WxgEfN1HROIUeAfJAP8KQ) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Experience The Divine \(Greatest Hits\)](https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD) | 3:45 | 2020-12-08 | 2022-07-29 |
@@ -378,7 +379,7 @@
 | [Someone Somewhere \(In Summertime\)](https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj) | 4:37 | 2020-12-08 |  |
 | [Someone Somewhere \(In Summertime\)](https://open.spotify.com/track/4GAODfoys7MDfMYXayR4Sv) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/1m8ybrw0umxg8FbBC3pH7K) | 4:37 | 2020-12-08 | 2022-07-25 |
 | [Something Big](https://open.spotify.com/track/7HBPbuE3mz20N0C2ZgvjzS) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises \(Reissue Remastered\)](https://open.spotify.com/album/5GFz7ZNmdtuFZIhUljI2YX) | 4:44 | 2020-12-08 | 2022-07-29 |
-| [Something So Strong](https://open.spotify.com/track/0eDwzWuy2gf1RJzqWl0dkF) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 2:51 | 2020-12-08 |  |
+| [Something So Strong](https://open.spotify.com/track/0eDwzWuy2gf1RJzqWl0dkF) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 2:51 | 2020-12-08 | 2022-08-11 |
 | [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 | 2020-12-08 |  |
 | [Son Of Alerik](https://open.spotify.com/track/2dNaODA8kNiR6oAJnDs6wM) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 10:02 | 2020-12-08 | 2022-07-23 |
 | [Spirit in the Sky](https://open.spotify.com/track/097Tr8QiDLiTQlEoLI96AP) | [Doctor & The Medics](https://open.spotify.com/artist/0auxGqduSBWubpKjjSNKLr) | [Laughing At the Pieces](https://open.spotify.com/album/0O2LDqpLcWUxONhKfvRK1g) | 3:28 | 2020-12-08 |  |

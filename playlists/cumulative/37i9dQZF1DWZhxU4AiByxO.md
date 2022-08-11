@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-221 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+224 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,8 @@
 | [Circles](https://open.spotify.com/track/7a0PtNlA2njR3OYszwCWJ1) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 3:30 | 2022-07-28 |  |
 | [Closer](https://open.spotify.com/track/7C58YH3nB4dMlxkEJYVwTY) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB) | 3:31 | 2021-10-22 | 2022-07-29 |
 | [Closer](https://open.spotify.com/track/2yHbz21uTypbfv0CCQnfGW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 3:31 | 2022-07-28 |  |
+| [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2022-08-10 |  |
+| [Come on Out](https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 3 \(Original Soundtrack\)](https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF) | 2:45 | 2022-08-10 |  |
 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 | 2022-03-29 |  |
 | [Con Altura](https://open.spotify.com/track/21wShvRGwZ3V12W786LplP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Con Altura](https://open.spotify.com/album/3GsSaZnRS5U0IMvZmHNQ5d) | 2:32 | 2021-10-22 |  |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2021-10-22 |  |
@@ -151,6 +153,7 @@
 | [Overpass Graffiti](https://open.spotify.com/track/5k4jxVDH5w00y8y3OvgguS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Do It To It](https://open.spotify.com/album/0ovB3nWOd0rRD1SAMufPht) | 3:32 | 2022-06-10 |  |
 | [Overpass Graffiti](https://open.spotify.com/track/6tznrNL9mL4Rxblx0RFFfr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Overpass Graffiti](https://open.spotify.com/album/6aiy2bxse7lzWxKSvRnk17) | 3:33 | 2022-03-29 |  |
 | [Panini](https://open.spotify.com/track/7LZXuhXXN03F1ndyQOzAZt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Panini](https://open.spotify.com/album/5wMUxEAX1APPs9PKKwMlhf) | 1:57 | 2021-10-22 |  |
+| [Peppermint Twist](https://open.spotify.com/track/5PpVetS87mgjvmKVF7gv9d) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Peppermint Twist](https://open.spotify.com/album/7C1905Zli5yhr2Nj8PMAka) | 1:58 | 2022-08-10 |  |
 | [Queen of Mean](https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 3 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy) | 3:09 | 2021-10-22 |  |
 | [Rain On Me](https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Rain On Me](https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV) | 3:04 | 2021-10-22 |  |
 | [Ride \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/6KZYD8mbuJJJpXjpDqmmbT) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Cars 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pBzQQ2NGZSIFv9ehTROhS) | 4:03 | 2021-10-22 |  |

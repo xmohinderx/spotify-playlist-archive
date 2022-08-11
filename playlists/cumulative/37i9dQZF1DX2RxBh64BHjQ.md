@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1iwUuIOKYjV7SKIg27v4zi">Real Boston Richey</a>
 
-566 songs - 1 day 1 hr 28 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
+567 songs - 1 day 1 hr 33 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,8 @@
 | [Right Back Out](https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Right Back Out](https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP) | 3:24 | 2022-07-15 |  |
 | [Riot](https://open.spotify.com/track/1cnhCYf4m2moDg9SnABIOs) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Riot](https://open.spotify.com/album/7glR8qsTx6uTCheooEyubi) | 1:48 | 2022-06-10 | 2022-07-23 |
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2021-09-24 | 2022-02-05 |
-| [Rock](https://open.spotify.com/track/3q9UfLr6foEzn0ki0vKgHj) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/26kJC1nv4s6lOAjNiRILoT) | 4:03 | 2022-07-22 |  |
+| [Rock](https://open.spotify.com/track/3q9UfLr6foEzn0ki0vKgHj) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/26kJC1nv4s6lOAjNiRILoT) | 4:03 | 2022-07-22 | 2022-08-11 |
+| [Rock](https://open.spotify.com/track/7kp8t9yexJdk7LuvTK47XI) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl) | 4:03 | 2022-07-22 |  |
 | [Rock Wit Proph](https://open.spotify.com/track/6c6WMifL0O4QXMTQOhbB9M) | [Prophet the Artist](https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU) | [Rock Wit Proph](https://open.spotify.com/album/2MzJhr9etdHt3IEGvCLZoN) | 2:45 | 2022-02-04 | 2022-03-05 |
 | [Rockin A Cardigan In Atlanta \- Remix](https://open.spotify.com/track/62eyQ0C0IbRBplVsU1C3rL) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Rockin A Cardigan In Atlanta \(Remix\)](https://open.spotify.com/album/2aSUpaAZwenC8KmgDZEBnI) | 2:18 | 2022-04-29 | 2022-06-26 |
 | [ROKU](https://open.spotify.com/track/06LXe97w96150WPik2gRZ4) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [ROKU](https://open.spotify.com/album/5LQ2K1eNWz1zkdl0KVSofQ) | 2:11 | 2022-04-22 | 2022-06-18 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-752 songs - 2 day 5 hr 12 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
+753 songs - 2 day 5 hr 19 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2021-09-03 |  |
 | [Speak to Me](https://open.spotify.com/track/574y1r7o2tRA009FW0LE7v) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 1:05 | 2019-07-25 | 2020-10-19 |
 | [Spike](https://open.spotify.com/track/4DxGYJgokpQi2ChUzQEzp6) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Spike](https://open.spotify.com/album/0QrP0xTuWwy3CBz0dHBpgs) | 7:36 | 2020-10-30 |  |
+| [Squarepusher Theme](https://open.spotify.com/track/058ko08nDcxWAEXJXkDNYC) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things \(Remastered\)](https://open.spotify.com/album/3mr4Eo5QyvLqvghU1usLM4) | 6:21 | 2022-07-01 |  |
 | [Squarepusher Theme](https://open.spotify.com/track/4edrhanho86qAWRHNfHo5x) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things](https://open.spotify.com/album/7qaIhnjJlxVRWkM8ii0Q8z) | 6:21 | 2021-07-23 | 2022-04-19 |
 | [Stairfoot Lane Bunker \- Minor Science Remix](https://open.spotify.com/track/3u8t4yJcbYFYzipDYQN59H) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Minor Science](https://open.spotify.com/artist/7xkfvmfvOfMBZmIGKaLtzi) | [Stairfoot Lane Bunker](https://open.spotify.com/album/6gSznbAWVTqqNXIJUmQtKo) | 5:40 | 2019-06-19\* | 2020-08-26 |
 | [Star Tripper](https://open.spotify.com/track/62GJnNUrj6V1LPBS5zaKrk) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 4:37 | 2019-05-26\* | 2020-10-22 |
@@ -750,7 +751,7 @@
 | [White Moon Garden](https://open.spotify.com/track/4KeuCAsq7wXLssyigUnAQh) | [Deadboy](https://open.spotify.com/artist/2YbV1TIoIl1Un54MmSvZ3V) | [White Magick \- EP](https://open.spotify.com/album/1g7st4CgzxGFNZFc8dutlE) | 5:16 | 2019-06-22 | 2020-10-22 |
 | [White Picket Fence](https://open.spotify.com/track/1S9N0MuXeSajQo0EcGgM3A) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [White Picket Fence](https://open.spotify.com/album/1AHfQkKelaUKhCXXn9kr1C) | 2:58 | 2021-07-23 | 2022-07-19 |
 | [Why Not](https://open.spotify.com/track/63fZmLcCAnG1tgGlqLQf0e) | [UTAH](https://open.spotify.com/artist/4n9KeaJeVwx1408RaOsUgL) | [Long Play](https://open.spotify.com/album/2528arkGrs9T77vJsE6nlM) | 3:16 | 2020-08-26 | 2020-11-14 |
-| [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0) | 5:04 | 2021-06-11 |  |
+| [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0) | 5:04 | 2021-06-11 | 2022-08-11 |
 | [wilhelm](https://open.spotify.com/track/1i7R2nENJySeUOTQTBpGlv) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X) | 1:20 | 2019-06-19\* | 2020-10-22 |
 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 | 2021-04-24 |  |
 | [With Every Intention Of](https://open.spotify.com/track/5v8U5p1tozSYYVCWuiKTVU) | [Matt Lange](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9) | [Ephemera](https://open.spotify.com/album/5RO33soLTH62sQM38L3RxV) | 1:53 | 2019-06-21 | 2022-04-09 |

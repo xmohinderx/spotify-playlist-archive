@@ -2330,6 +2330,24 @@
     },
     {
       "album": {
+        "name": "Various BLUE",
+        "url": "https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0"
+      },
+      "artists": [
+        {
+          "name": "Amamiya Sora",
+          "url": "https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268880,
+      "name": "Skyreach",
+      "url": "https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT"
+    },
+    {
+      "album": {
         "name": "Day of Bright Sunshine",
         "url": "https://open.spotify.com/album/4XapCPKTWCYcIEXoWsfguK"
       },
@@ -5909,7 +5927,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 148746,
       "name": "\u7d76\u4f53\u7d76\u547d",
       "url": "https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj"

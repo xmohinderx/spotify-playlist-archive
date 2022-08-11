@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7QUXSrhM7mI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7QUXSrhM7mI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7QUXSrhM7mI)
 
-### [Lazy Afternoon](https://open.spotify.com/playlist/37i9dQZF1DX7QUXSrhM7mI)
+### [Lazy Afternoon \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX7QUXSrhM7mI)
 
 > It's 3pm and we've peaced out for the day.
 

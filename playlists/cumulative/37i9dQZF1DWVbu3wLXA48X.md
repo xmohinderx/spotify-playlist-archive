@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Frankie Cosmos
 
-499 songs - 1 day 5 hr 23 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+500 songs - 1 day 5 hr 27 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,7 +477,8 @@
 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 | 2022-07-22 |  |
 | [What Love Meant](https://open.spotify.com/track/51r4ThTtRZgGyDstKxgvgi) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [What Love Meant](https://open.spotify.com/album/0DAn2VlU2jpAvuoXKdJZfx) | 4:29 | 2022-07-01 | 2022-08-05 |
 | [What Were You Hoping to Find?](https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [What Were You Hoping to Find?](https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp) | 3:45 | 2021-12-16 | 2022-01-29 |
-| [Whatchu Gonna...?](https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Whatchu Gonna...?](https://open.spotify.com/album/4C6O1vEFP0AM2ThBxFdma2) | 3:48 | 2022-07-29 |  |
+| [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 | 2022-08-04 |  |
+| [Whatchu Gonna...?](https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Whatchu Gonna...?](https://open.spotify.com/album/4C6O1vEFP0AM2ThBxFdma2) | 3:48 | 2022-07-29 | 2022-08-11 |
 | [When I Dream of Grapes Turning Blue](https://open.spotify.com/track/1kBZCCJpZGooNNALj2LcKt) | [So It Goes H.K](https://open.spotify.com/artist/20CPqsSBGSEECOrIakaBQT) | [Three](https://open.spotify.com/album/7vuIX2SrGXFpDAccHaFW8g) | 4:20 | 2022-06-17 | 2022-07-16 |
 | [When I'm Alone](https://open.spotify.com/track/1Ls0bZ0slPNAxuFMQPeBp6) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [When I'm Alone / How Does It Feel?](https://open.spotify.com/album/6oMoymBPqwsFLsimWYCckQ) | 3:05 | 2021-12-16 | 2022-01-29 |
 | [When we](https://open.spotify.com/track/5YBU3nnLZ51qJgBunwu4b6) | [Mademoiselle](https://open.spotify.com/artist/5ehbiyqYPwIDaUY4AxrhVq) | [As beautiful as the night](https://open.spotify.com/album/5Yi13McmVSfhAGMN7EKPlL) | 3:21 | 2022-01-20 | 2022-03-04 |

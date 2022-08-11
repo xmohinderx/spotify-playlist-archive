@@ -4,7 +4,7 @@
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-98 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/7b1BQYuQIj2i5nZNS1UeKq)
+99 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/7b1BQYuQIj2i5nZNS1UeKq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 | 2022-06-17 |  |
 | [Happy Together \(feat\. Ray Toro\)](https://open.spotify.com/track/0n0XAmYCMWlzj3W9VdMejw) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Ray Toro](https://open.spotify.com/artist/7vtO3glDQwyFDY5cTymz4E) | [Happy Together \(feat\. Ray Toro\)](https://open.spotify.com/album/5aoP0bnk5GoiW2NAX779eO) | 2:59 | 2022-06-17 |  |
 | [Hazy Shade of Winter \(feat\. Ray Toro\)](https://open.spotify.com/track/1tBZnhDT8xbgJTs43FiqrD) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Ray Toro](https://open.spotify.com/artist/7vtO3glDQwyFDY5cTymz4E) | [Hazy Shade of Winter \(feat\. Ray Toro\)](https://open.spotify.com/album/4NBFFGWZqYd06XlBPEmgMX) | 3:17 | 2022-06-17 |  |
+| [He Can't Love You](https://open.spotify.com/track/1ieNiEe17fvlHnqalSoKZB) | [Joe Hunter](https://open.spotify.com/artist/2pSgCWyN14Fl8zfCybIbkr), [Four Holidays](https://open.spotify.com/artist/0W87O5rwe9qdB7k3LieHgZ) | [The Hawk](https://open.spotify.com/album/6t08qdgCTaJV5CfUsTIuS4) | 2:15 | 2022-06-17 |  |
 | [He Can't Love You](https://open.spotify.com/track/6UVLjNjxh03GLwQ1p11Hxc) | [Joe Hunter](https://open.spotify.com/artist/2pSgCWyN14Fl8zfCybIbkr), [Four Holidays](https://open.spotify.com/artist/0W87O5rwe9qdB7k3LieHgZ) | [The Hawk](https://open.spotify.com/album/7GQAorU7fViE9CyH61icRu) | 2:15 | 2022-06-17 | 2022-07-29 |
 | [Hello](https://open.spotify.com/track/2ij8uf754WwccftaYn3kay) | [My Kullsvik](https://open.spotify.com/artist/5URiHHxjOuaGuNZPmccofu) | [Hello \(Swedish Cover\)](https://open.spotify.com/album/4HyNWn0hioQ8zyLbJVLa3i) | 4:22 | 2022-06-17 |  |
 | [Here Comes the End \(feat\. Judith Hill\)](https://open.spotify.com/track/0klnCzWGjoRQBjoPYe44Gl) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Here Comes the End \(feat\. Judith Hill\)](https://open.spotify.com/album/6FiV1sKS2tKXj82g2iWEPv) | 3:31 | 2022-06-17 |  |

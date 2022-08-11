@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Asaph, BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,707 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,728 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 52 | [Aliança](https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Fala pra eles que é o Felipin](https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB) | 2:59 |
 | 53 | [A Luz Se Apaga](https://open.spotify.com/track/17NTdbGeEofDmmiJxLQ2mU) | [Marone Falasha](https://open.spotify.com/artist/7G5ECe50jN1cy6ReJvAz7t), [Pr Rodrigo Luiz](https://open.spotify.com/artist/3VraCMcotmiLcIZJbqhyB0), [Mensageiros da Profecia](https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI) | [A Luz Se Apaga](https://open.spotify.com/album/1XggPUj8bQPjQ8f7W4cHMH) | 7:06 |
 | 54 | [As Cores do Céu](https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Juninho Lima](https://open.spotify.com/artist/6FReHEnPFd1oKskqqUya6B) | [As Cores do Céu](https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF) | 3:51 |
-| 55 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 |
+| 55 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
 | 56 | [BABY](https://open.spotify.com/track/2BRwBwyJfVjZcDW5LJ0Uow) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [BABY](https://open.spotify.com/album/4dzKbTq1stnawn67OPO024) | 2:27 |
-| 57 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
-| 58 | [Calma](https://open.spotify.com/track/5y4TUzw7Nn4H1OtXUdd6Vr) | [Machini](https://open.spotify.com/artist/42wZKHNutqsKTcN9n5RrbI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Calma](https://open.spotify.com/album/5xOFDQNt2vNsse9z7auAs3) | 2:35 |
-| 59 | [Deserto](https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB) | [Deserto](https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh) | 3:29 |
+| 57 | [Deserto](https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB) | [Deserto](https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh) | 3:29 |
+| 58 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 |
+| 59 | [Calma](https://open.spotify.com/track/5y4TUzw7Nn4H1OtXUdd6Vr) | [Machini](https://open.spotify.com/artist/42wZKHNutqsKTcN9n5RrbI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Calma](https://open.spotify.com/album/5xOFDQNt2vNsse9z7auAs3) | 2:35 |
 | 60 | [CQC](https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [CQC](https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC) | 3:01 |
 | 61 | [Cores Novas](https://open.spotify.com/track/5mumRcr5TySm83gAq490ZK) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Cores Novas](https://open.spotify.com/album/1yhKSiRIQgRJ4CV0v00Vr7) | 2:18 |
 | 62 | [Ele Vem](https://open.spotify.com/track/4U3NUh207OPeD3Lbu1N3MY) | [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Ele Vem](https://open.spotify.com/album/560mCdX9QL3CXea1KiWIKo) | 3:19 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [Gospel Playground](https://open.spotify.com/track/0Yq4ih2o7CdgP40g5Sqdic) | [Azorap](https://open.spotify.com/artist/6GGonHdpnl32PMkGKpV4mE), [AfroRagga](https://open.spotify.com/artist/3rA5mfURBk7U3O4bjt3kV0) | [Gospel Playground](https://open.spotify.com/album/75Vtuqs4tWoYRQ5mUDZKtZ) | 3:44 |
 | 65 | [Impostor](https://open.spotify.com/track/3G4WJPxXdI7EB4UR3H3OZV) | [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB), [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Impostor](https://open.spotify.com/album/5O81T9io3EMHKyUSt2pYTC) | 2:29 |
 
-Snapshot ID: `MTY1NjY0ODgzMSwwMDAwMDAwMDFhN2Q1YzNmMWVhNjliZGQ1NGE1YzY1OGZiNWVkYWU4`
+Snapshot ID: `MTY1NjY0ODgzMSwwMDAwMDAwMGQ3MzI2ODhjMWRkNDNjOTg0ZjVlOTEwMjVhZTU2MTA4`

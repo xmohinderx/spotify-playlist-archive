@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 44883,
+  "num_followers": 44970,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2MjM3MiwwMDAwMDAwMDM0OTlhZjkwYzhlMDZhNWRhNTBiNGZhZDA2MDk1NWM4",
+  "snapshot_id": "MTY2MDA2MjM3MiwwMDAwMDAwMDUxMmMyYTJkZmZlZGJhYjE5OGZhZjUwYzBhOWJlY2Q1",
   "tracks": [
     {
       "added_at": "2022-08-09 16:26:12",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-08-09 16:26:12",
       "album": {
-        "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "\u30d2\u30d0\u30ca -Reloaded-",
-      "url": "https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p"
-    },
-    {
-      "added_at": "2022-08-09 16:26:12",
-      "album": {
         "name": "\u30d9\u30ce\u30e0",
         "url": "https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 203033,
       "name": "\u30d9\u30ce\u30e0",
       "url": "https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA"
+    },
+    {
+      "added_at": "2022-08-09 16:26:12",
+      "album": {
+        "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "\u30d2\u30d0\u30ca -Reloaded-",
+      "url": "https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p"
     },
     {
       "added_at": "2022-08-09 16:26:12",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-08-09 16:26:12",
       "album": {
-        "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "\u4e59\u5973\u89e3\u5256",
-      "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"
-    },
-    {
-      "added_at": "2022-08-09 16:26:12",
-      "album": {
         "name": "\u30a8\u30b4\u30ed\u30c3\u30af (long ver.)",
         "url": "https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 294400,
       "name": "\u5c11\u5973\u30ec\u30a4",
       "url": "https://open.spotify.com/track/6bxGVlcX900tLZiZl5mFOR"
+    },
+    {
+      "added_at": "2022-08-09 16:26:12",
+      "album": {
+        "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "\u4e59\u5973\u89e3\u5256",
+      "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"
     },
     {
       "added_at": "2022-08-09 16:26:12",

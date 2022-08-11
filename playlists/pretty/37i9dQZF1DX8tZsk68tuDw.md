@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Miane.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,992,258 likes - 95 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,992,364 likes - 95 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 31 | [Kerching](https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Kerching](https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j) | 2:58 |
 | 32 | [Pan Jabi](https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Pan Jabi](https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G) | 2:47 |
 | 33 | [Needless](https://open.spotify.com/track/1TKxmDwCr7tloqmTWG7zlO) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Needless](https://open.spotify.com/album/34inHiKZWoWXZ3XAsZMGhO) | 2:53 |
-| 34 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 |
+| 34 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 |
 | 35 | [Give It To Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 |
 | 36 | [Lose My Mind](https://open.spotify.com/track/6bEMfZ4kYoz7HjM2odlpBz) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Lose My Mind](https://open.spotify.com/album/05KjDvoOT0zlL9ws0i0Pk8) | 3:11 |
 | 37 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 94 | [How’d You Go out Like That](https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [How’d You Go out Like That](https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia) | 2:42 |
 | 95 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMDNiNjcyZWEzYmE3ZDVmMWM3OTFlOTM2MGUzMDQ4NTQz`
+Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGNkMTMzYzZlMWUyNGNhODUyODJmZDNhMDJkZDBkMTM0`

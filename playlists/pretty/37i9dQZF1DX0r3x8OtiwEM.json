@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 755824,
+  "num_followers": 756253,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzMwNTc0NSwwMDAwMDAwMDczN2VkN2Q4OWRkODcwOTFiZGM4YzQwYmNhOTY3Nzkw",
+  "snapshot_id": "MTY1NzMwNTc0NSwwMDAwMDAwMDE5MGQwOWI5NmYzZWU4NjEzODk2MDY5NWNlYjRlNWU1",
   "tracks": [
     {
       "added_at": "2022-07-08 18:42:24",
@@ -367,26 +367,6 @@
     {
       "added_at": "2022-07-08 18:42:24",
       "album": {
-        "name": "Close Your Eyes - Spotify Singles",
-        "url": "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Close Your Eyes - Spotify Singles",
-      "url": "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
-    },
-    {
-      "added_at": "2022-07-08 18:42:24",
-      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 246944,
       "name": "Dance with My Ghost (feat. Elderbrook)",
       "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
+    },
+    {
+      "added_at": "2022-07-08 18:42:24",
+      "album": {
+        "name": "Close Your Eyes - Spotify Singles",
+        "url": "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Close Your Eyes - Spotify Singles",
+      "url": "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
     },
     {
       "added_at": "2022-07-08 18:42:24",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-07-08 18:42:24",
       "album": {
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
+    },
+    {
+      "added_at": "2022-07-08 18:42:24",
+      "album": {
         "name": "It's a Fine Day",
         "url": "https://open.spotify.com/album/0uU1QLNOmgVTDdFwhcmvAL"
       },
@@ -1099,38 +1115,18 @@
     {
       "added_at": "2022-07-08 18:42:24",
       "album": {
-        "name": "I WON'T STAY",
-        "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
+        "name": "Postquam",
+        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
       },
       "artists": [
         {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
         }
       ],
-      "duration_ms": 286423,
-      "name": "I WON'T STAY",
-      "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
-    },
-    {
-      "added_at": "2022-07-08 18:42:24",
-      "album": {
-        "name": "Woods, Tales & Friends (Part One)",
-        "url": "https://open.spotify.com/album/6nX8CFmSYfg79D8PpWP0iV"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        },
-        {
-          "name": "KUOKO",
-          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
-        }
-      ],
-      "duration_ms": 286717,
-      "name": "No Silence",
-      "url": "https://open.spotify.com/track/2UDEISJu7yrAyh2JrvS7fO"
+      "duration_ms": 498419,
+      "name": "Postquam",
+      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
     }
   ],
   "unique_name": "Lowkey Tech",

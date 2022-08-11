@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Sanchi, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Arunima Wali, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -2276,6 +2276,24 @@
     },
     {
       "album": {
+        "name": "ecstasy",
+        "url": "https://open.spotify.com/album/1ovG3bOQvtbjNl9UC3dNcf"
+      },
+      "artists": [
+        {
+          "name": "shae",
+          "url": "https://open.spotify.com/artist/20yaj5X7bXqTr7QY1q5VlB"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223058,
+      "name": "ecstasy",
+      "url": "https://open.spotify.com/track/2tIpTQjjwfKvmyW6UbBq9v"
+    },
+    {
+      "album": {
         "name": "Ek Aisi Shaam (An Evening To Remember)",
         "url": "https://open.spotify.com/album/2cir7bSOxeoW3exKiswmfz"
       },
@@ -3607,7 +3625,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 189333,
       "name": "In Denial",
       "url": "https://open.spotify.com/track/5edvBrslsD6xcBK3fWnQ75"
@@ -3887,7 +3905,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 189000,
       "name": "Jaane Kaise",
       "url": "https://open.spotify.com/track/3kfq4RYXDjt2lS0004Uz0s"
@@ -4023,6 +4041,24 @@
       "duration_ms": 228571,
       "name": "Jhoom Le",
       "url": "https://open.spotify.com/track/6kDvEQvBcXheghFesRJcOP"
+    },
+    {
+      "album": {
+        "name": "Jhula",
+        "url": "https://open.spotify.com/album/22YInXRNmQlXdCC6MuoQC9"
+      },
+      "artists": [
+        {
+          "name": "Idanim",
+          "url": "https://open.spotify.com/artist/5M0mLRE3vOHJTicVadLilt"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Jhula",
+      "url": "https://open.spotify.com/track/7HagQ0XH1WKPphsAqRGCgP"
     },
     {
       "album": {
@@ -4648,6 +4684,24 @@
     },
     {
       "album": {
+        "name": "Kho Gaya",
+        "url": "https://open.spotify.com/album/311zXjW8GBbL1aO8RAuKFL"
+      },
+      "artists": [
+        {
+          "name": "Autoplay",
+          "url": "https://open.spotify.com/artist/6HW2zqc3kJF0Ns43hSeVnG"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Kho Gaya",
+      "url": "https://open.spotify.com/track/45UASWwlQ56DyphGduRe6z"
+    },
+    {
+      "album": {
         "name": "Kho Gaya Dil",
         "url": "https://open.spotify.com/album/4XHokoR1hVhTiDTouPOiPt"
       },
@@ -4699,7 +4753,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 284215,
       "name": "Khoye Khoye",
       "url": "https://open.spotify.com/track/4MIevQx8eo9FZEYrPX0NMN"
@@ -5397,6 +5451,24 @@
       "duration_ms": 264500,
       "name": "Love You Too",
       "url": "https://open.spotify.com/track/3iOxcs19LCPhYzvE3lLb4n"
+    },
+    {
+      "album": {
+        "name": "Maahi Ve",
+        "url": "https://open.spotify.com/album/453Eg9ryoiddhnhxeUBoMe"
+      },
+      "artists": [
+        {
+          "name": "Kafir",
+          "url": "https://open.spotify.com/artist/5LG0hRTNbahKbRC8EW0cPg"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190869,
+      "name": "Maahi Ve",
+      "url": "https://open.spotify.com/track/6JXeBwpG5aoSrxjJRki3o3"
     },
     {
       "album": {
@@ -7221,7 +7293,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 251069,
       "name": "persephone",
       "url": "https://open.spotify.com/track/2wVUPIC27DOrJiQX9388EJ"
@@ -9361,7 +9433,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 185750,
       "name": "the song about her",
       "url": "https://open.spotify.com/track/3zbffMr4le9fps36xvhr7B"
@@ -9579,6 +9651,24 @@
       "duration_ms": 170666,
       "name": "too bad",
       "url": "https://open.spotify.com/track/5OwmOCipbCArL7sTnHbqEc"
+    },
+    {
+      "album": {
+        "name": "Trampoline",
+        "url": "https://open.spotify.com/album/3D0q9naAD8yq90FB2iQlx8"
+      },
+      "artists": [
+        {
+          "name": "Kowshik Saha",
+          "url": "https://open.spotify.com/artist/1eZS9tmup5gEujYw3L9CPb"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226771,
+      "name": "Trampoline",
+      "url": "https://open.spotify.com/track/62wIEo8z0vfdeYihXzrXsm"
     },
     {
       "album": {
@@ -9864,6 +9954,24 @@
     },
     {
       "album": {
+        "name": "Tumse Pyaar Hai",
+        "url": "https://open.spotify.com/album/2Zanv0MTkL3qlfC6ZecG9Y"
+      },
+      "artists": [
+        {
+          "name": "Madmast",
+          "url": "https://open.spotify.com/artist/33hUZqYtLAw9aOqExpKSOY"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317024,
+      "name": "Tumse Pyaar Hai",
+      "url": "https://open.spotify.com/track/3DVQWNRE8pYPZGEtovHjIJ"
+    },
+    {
+      "album": {
         "name": "Ud Chalo",
         "url": "https://open.spotify.com/album/4poQzoEjLTQlwfdw7FSy4R"
       },
@@ -9945,7 +10053,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 241967,
       "name": "Umeed",
       "url": "https://open.spotify.com/track/4cqq8AEHXZkfHuXHvJQ4je"

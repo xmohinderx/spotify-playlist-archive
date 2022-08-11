@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Julia Joia. Arte: Isu Kim",
-  "num_followers": 11369,
+  "num_followers": 11376,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY2ODQwMCwwMDAwMDAwMDk0YTcyNmU5OGFmZGQ0ZTM5Zjc3YTNiNzllNjM1ZGQ1",
+  "snapshot_id": "MTY1OTY2ODQwMCwwMDAwMDAwMDYxNzhkMWE3ZTg0ZDQ2YmFlMGIyNWVjODgzZWM2YzE3",
   "tracks": [
     {
       "added_at": "2022-08-05 03:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "<del>",
-        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
-      },
-      "artists": [
-        {
-          "name": "DeLuca",
-          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
-        }
-      ],
-      "duration_ms": 114081,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
         "name": "Da Vida",
         "url": "https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 180680,
       "name": "Da Vida",
       "url": "https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
+        "name": "<del>",
+        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
+      },
+      "artists": [
+        {
+          "name": "DeLuca",
+          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
+        }
+      ],
+      "duration_ms": 114081,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
+        "name": "Rebuli\u00e7o",
+        "url": "https://open.spotify.com/album/4fsZp3nHy7vFiFHbov9rbw"
+      },
+      "artists": [
+        {
+          "name": "Nano Orquestra",
+          "url": "https://open.spotify.com/artist/2uvzTxbSGqlSBIKb6hCl2o"
+        }
+      ],
+      "duration_ms": 227637,
+      "name": "Rebuli\u00e7o",
+      "url": "https://open.spotify.com/track/3l8NUXSdk2sofDn6hcnkR1"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
         "name": "Samba do Del\u00edrio",
         "url": "https://open.spotify.com/album/2TmbxV3EgXJXqB4T5XDUOS"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 145297,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1q4tX8F4m7D0LoaAr4woSv"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "Rebuli\u00e7o",
-        "url": "https://open.spotify.com/album/4fsZp3nHy7vFiFHbov9rbw"
-      },
-      "artists": [
-        {
-          "name": "Nano Orquestra",
-          "url": "https://open.spotify.com/artist/2uvzTxbSGqlSBIKb6hCl2o"
-        }
-      ],
-      "duration_ms": 227637,
-      "name": "Rebuli\u00e7o",
-      "url": "https://open.spotify.com/track/3l8NUXSdk2sofDn6hcnkR1"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "AUGE",
-        "url": "https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ"
+        "name": "Apaga a Luz",
+        "url": "https://open.spotify.com/album/3bNEsR5sEVn4EMfpNtLxDS"
       },
       "artists": [
         {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
         }
       ],
-      "duration_ms": 194782,
-      "name": "Meu Foco",
-      "url": "https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI"
+      "duration_ms": 152727,
+      "name": "Apaga a Luz",
+      "url": "https://open.spotify.com/track/5vyASrasZ8JObjelAgG3nJ"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
+        "name": "AUGE",
+        "url": "https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ"
+      },
+      "artists": [
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "Meu Foco",
+      "url": "https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
         "name": "Quantas Vezes a Gente Nasce?",
         "url": "https://open.spotify.com/album/1fuKrMfIn0bVrTyMZHPr3D"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 278354,
       "name": "Imperman\u00eancia",
       "url": "https://open.spotify.com/track/4OPNAQW0lPQNqcd8DQBfOL"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "Apaga a Luz",
-        "url": "https://open.spotify.com/album/3bNEsR5sEVn4EMfpNtLxDS"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Apaga a Luz",
-      "url": "https://open.spotify.com/track/5vyASrasZ8JObjelAgG3nJ"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -551,6 +551,22 @@
       "duration_ms": 235337,
       "name": "Quarta Obra",
       "url": "https://open.spotify.com/track/5rqGTsecw0HNMwOC3j3yCb"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
+        "name": "Jogo Da Paix\u00e3o",
+        "url": "https://open.spotify.com/album/6iFt6AWDNpxI4SR0qVCq1U"
+      },
+      "artists": [
+        {
+          "name": "BEATRICE",
+          "url": "https://open.spotify.com/artist/5Y6zeMMMmXGYYuLEPrqVLP"
+        }
+      ],
+      "duration_ms": 175672,
+      "name": "Jogo Da Paix\u00e3o",
+      "url": "https://open.spotify.com/track/3jq4KUkGLeNDyj7qqjfFmI"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -647,22 +663,6 @@
       "duration_ms": 181310,
       "name": "Estrago",
       "url": "https://open.spotify.com/track/6AFM8iycKKMnOxqh6JrJ1C"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "Jogo Da Paix\u00e3o",
-        "url": "https://open.spotify.com/album/6iFt6AWDNpxI4SR0qVCq1U"
-      },
-      "artists": [
-        {
-          "name": "BEATRICE",
-          "url": "https://open.spotify.com/artist/5Y6zeMMMmXGYYuLEPrqVLP"
-        }
-      ],
-      "duration_ms": 175672,
-      "name": "Jogo Da Paix\u00e3o",
-      "url": "https://open.spotify.com/track/3jq4KUkGLeNDyj7qqjfFmI"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
+        "name": "Desapego",
+        "url": "https://open.spotify.com/album/1SkhJ5w2ZTxXXC37NIMgJU"
+      },
+      "artists": [
+        {
+          "name": "Sandyal\u00ea",
+          "url": "https://open.spotify.com/artist/0S2198EHOgRJ1k1A8pnp3v"
+        }
+      ],
+      "duration_ms": 207844,
+      "name": "Pensando em Mim",
+      "url": "https://open.spotify.com/track/1uEwqigJMPy6jwdoO9n2Xd"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
         "name": "Oblomov II",
         "url": "https://open.spotify.com/album/0F9fNWVNLnhNJSaCOjSEAs"
       },
@@ -795,6 +811,22 @@
       "duration_ms": 322096,
       "name": "Olhos Coloridos",
       "url": "https://open.spotify.com/track/16uWITf1BYQrxq9579qi5n"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
+        "name": "Talvez Eu Dance Hoje",
+        "url": "https://open.spotify.com/album/1HwkXpLnBvZ5Cj9pnkMimr"
+      },
+      "artists": [
+        {
+          "name": "Ondular",
+          "url": "https://open.spotify.com/artist/7poNjn7hnhZ6XywHN5mePp"
+        }
+      ],
+      "duration_ms": 175313,
+      "name": "Talvez Eu Dance Hoje",
+      "url": "https://open.spotify.com/track/4tvYrQV9kBQiUCBkRXUIF3"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -819,50 +851,18 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "Desapego",
-        "url": "https://open.spotify.com/album/1SkhJ5w2ZTxXXC37NIMgJU"
+        "name": "Sedu\u00e7\u00e3o Vegetal",
+        "url": "https://open.spotify.com/album/5FwyfOFjaVL5jrpU5wVyeh"
       },
       "artists": [
         {
-          "name": "Sandyal\u00ea",
-          "url": "https://open.spotify.com/artist/0S2198EHOgRJ1k1A8pnp3v"
+          "name": "Matheus Souto",
+          "url": "https://open.spotify.com/artist/0FW6guSeedXBXOd8AK63Xp"
         }
       ],
-      "duration_ms": 207844,
-      "name": "Pensando em Mim",
-      "url": "https://open.spotify.com/track/1uEwqigJMPy6jwdoO9n2Xd"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "Talvez Eu Dance Hoje",
-        "url": "https://open.spotify.com/album/1HwkXpLnBvZ5Cj9pnkMimr"
-      },
-      "artists": [
-        {
-          "name": "Ondular",
-          "url": "https://open.spotify.com/artist/7poNjn7hnhZ6XywHN5mePp"
-        }
-      ],
-      "duration_ms": 175313,
-      "name": "Talvez Eu Dance Hoje",
-      "url": "https://open.spotify.com/track/4tvYrQV9kBQiUCBkRXUIF3"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "Espectro do Tempo",
-        "url": "https://open.spotify.com/album/7e2qIwqu2BubJgoskGFQ7S"
-      },
-      "artists": [
-        {
-          "name": "In\u00eas \u00e9 Morta",
-          "url": "https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG"
-        }
-      ],
-      "duration_ms": 273239,
-      "name": "Espectro do Tempo",
-      "url": "https://open.spotify.com/track/2ro19IYp4o8PIhNmpZzSxO"
+      "duration_ms": 335164,
+      "name": "Sedu\u00e7\u00e3o Vegetal",
+      "url": "https://open.spotify.com/track/31QqEJdMXREfM9LiiiXjzO"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "Sedu\u00e7\u00e3o Vegetal",
-        "url": "https://open.spotify.com/album/5FwyfOFjaVL5jrpU5wVyeh"
+        "name": "Espectro do Tempo",
+        "url": "https://open.spotify.com/album/7e2qIwqu2BubJgoskGFQ7S"
       },
       "artists": [
         {
-          "name": "Matheus Souto",
-          "url": "https://open.spotify.com/artist/0FW6guSeedXBXOd8AK63Xp"
+          "name": "In\u00eas \u00e9 Morta",
+          "url": "https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG"
         }
       ],
-      "duration_ms": 335164,
-      "name": "Sedu\u00e7\u00e3o Vegetal",
-      "url": "https://open.spotify.com/track/31QqEJdMXREfM9LiiiXjzO"
+      "duration_ms": 273239,
+      "name": "Espectro do Tempo",
+      "url": "https://open.spotify.com/track/2ro19IYp4o8PIhNmpZzSxO"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "Capsula do Tempo",
-        "url": "https://open.spotify.com/album/5DFSztWFj6wfvm19f2jSSA"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/4Wa9MXf7s93g8NPX9DFec2"
-        }
-      ],
-      "duration_ms": 143734,
-      "name": "Capsula do Tempo",
-      "url": "https://open.spotify.com/track/489aEO9UR1aPjzsZhBmyyz"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
         "name": "Fuga",
         "url": "https://open.spotify.com/album/5DWzUkiahHCRG1X1GsWNA1"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
+        "name": "Capsula do Tempo",
+        "url": "https://open.spotify.com/album/5DFSztWFj6wfvm19f2jSSA"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/4Wa9MXf7s93g8NPX9DFec2"
+        }
+      ],
+      "duration_ms": 143734,
+      "name": "Capsula do Tempo",
+      "url": "https://open.spotify.com/track/489aEO9UR1aPjzsZhBmyyz"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
         "name": "\u00c1gua de Coco",
         "url": "https://open.spotify.com/album/6Eqo1wVbjVkjstkxrSc7H9"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 160245,
       "name": "\u00c1gua de Coco",
       "url": "https://open.spotify.com/track/2d54xbByYlXbb7lwt0CM9W"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
+        "name": "Voc\u00ea Deveria Saber",
+        "url": "https://open.spotify.com/album/41s7qY4qhz77MgprH4wYJ5"
+      },
+      "artists": [
+        {
+          "name": "Miguel Arcanjo",
+          "url": "https://open.spotify.com/artist/5pEeF9Rqc5QgLrVYeSR8MS"
+        }
+      ],
+      "duration_ms": 204985,
+      "name": "Voc\u00ea Deveria Saber",
+      "url": "https://open.spotify.com/track/6bt69Qzr4sj6kPNH3oMQFe"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -1079,22 +1095,6 @@
       "duration_ms": 137000,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/4QR0Kn2lUmZkmGwMDquXkf"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
-        "name": "Voc\u00ea Deveria Saber",
-        "url": "https://open.spotify.com/album/41s7qY4qhz77MgprH4wYJ5"
-      },
-      "artists": [
-        {
-          "name": "Miguel Arcanjo",
-          "url": "https://open.spotify.com/artist/5pEeF9Rqc5QgLrVYeSR8MS"
-        }
-      ],
-      "duration_ms": 204985,
-      "name": "Voc\u00ea Deveria Saber",
-      "url": "https://open.spotify.com/track/6bt69Qzr4sj6kPNH3oMQFe"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "Guloso",
-        "url": "https://open.spotify.com/album/57jPWdnUYmLkkzDjnIPiA5"
-      },
-      "artists": [
-        {
-          "name": "Marela",
-          "url": "https://open.spotify.com/artist/44eYI8KeLkUoNxM0W0YQY9"
-        }
-      ],
-      "duration_ms": 232020,
-      "name": "Guloso",
-      "url": "https://open.spotify.com/track/76LNMzHaVkg9IwpCee1Ft7"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
         "name": "n\u00e3o quero mais",
         "url": "https://open.spotify.com/album/2V3LOIrrupnAe7GWofTlAV"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 188118,
       "name": "n\u00e3o quero mais",
       "url": "https://open.spotify.com/track/7xNzeLQ99dEHlVCc8HlZWH"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
+        "name": "Guloso",
+        "url": "https://open.spotify.com/album/57jPWdnUYmLkkzDjnIPiA5"
+      },
+      "artists": [
+        {
+          "name": "Marela",
+          "url": "https://open.spotify.com/artist/44eYI8KeLkUoNxM0W0YQY9"
+        }
+      ],
+      "duration_ms": 232020,
+      "name": "Guloso",
+      "url": "https://open.spotify.com/track/76LNMzHaVkg9IwpCee1Ft7"
     },
     {
       "added_at": "2022-08-05 03:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-08-05 03:00:00",
       "album": {
-        "name": "Perfume Do Meu Ex",
-        "url": "https://open.spotify.com/album/7lGwGVvB6s8jOy5UFwhxBD"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Gomlevsky",
-          "url": "https://open.spotify.com/artist/4X1EvqIQvKsc2v6jstmV6A"
-        }
-      ],
-      "duration_ms": 137669,
-      "name": "Perfume Do Meu Ex",
-      "url": "https://open.spotify.com/track/5BfCUFvuUJKc7gGtOGTxdi"
-    },
-    {
-      "added_at": "2022-08-05 03:00:00",
-      "album": {
         "name": "Arengueiro",
         "url": "https://open.spotify.com/album/4ssl923wnEWMnOyQg8FCeT"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 220096,
       "name": "Arengueiro",
       "url": "https://open.spotify.com/track/1eqCDSXJWFfJubteuPmBoa"
+    },
+    {
+      "added_at": "2022-08-05 03:00:00",
+      "album": {
+        "name": "Perfume Do Meu Ex",
+        "url": "https://open.spotify.com/album/7lGwGVvB6s8jOy5UFwhxBD"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Gomlevsky",
+          "url": "https://open.spotify.com/artist/4X1EvqIQvKsc2v6jstmV6A"
+        }
+      ],
+      "duration_ms": 137669,
+      "name": "Perfume Do Meu Ex",
+      "url": "https://open.spotify.com/track/5BfCUFvuUJKc7gGtOGTxdi"
     },
     {
       "added_at": "2022-08-05 03:00:00",

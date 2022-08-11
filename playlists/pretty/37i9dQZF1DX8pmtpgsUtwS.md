@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,488 likes - 65 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,496 likes - 65 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 12 | [Badarwa](https://open.spotify.com/track/7FkI3zkAGGL7q09PxpmpY4) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Badarwa](https://open.spotify.com/album/2IogLl0Rn9jq8Ru17JPihQ) | 3:44 |
 | 13 | [Takhtiyaan](https://open.spotify.com/track/5CxjXzKKDLLLEWBLv3ZYP4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z), [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Takhtiyaan](https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE) | 4:11 |
 | 14 | [Naina \(feat\. Isheeta Chakrvarty\)](https://open.spotify.com/track/3wfrzxr2n7RmtPakWCULys) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId) | [In Other Words](https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso) | 5:31 |
-| 15 | [Palkan Lagi](https://open.spotify.com/track/5n3WlH86m4OTnctsTv6JYM) | [Pragya Dasgupta](https://open.spotify.com/artist/4GYA4XRktJKOgy4ndFNcH9), [Jai Kothari](https://open.spotify.com/artist/21XfMuFWn5kc6kWCKuc3BW) | [Palkan Lagi](https://open.spotify.com/album/4oAiwIn4sXm8UTVtyPcpWg) | 2:49 |
+| 15 | [Palkan Lagi](https://open.spotify.com/track/5n3WlH86m4OTnctsTv6JYM) | [Pragya Dasgupta](https://open.spotify.com/artist/4GYA4XRktJKOgy4ndFNcH9), [Jai Kothari](https://open.spotify.com/artist/7vZjmMk8cVIsJyeW5btZq4) | [Palkan Lagi](https://open.spotify.com/album/4oAiwIn4sXm8UTVtyPcpWg) | 2:49 |
 | 16 | [Mohan Bin Radha](https://open.spotify.com/track/5uSh9y1mJ3oIZJv0VitrOX) | [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Mohan Bin Radha](https://open.spotify.com/album/2UQkdO6LhoeUUu0ex60FX1) | 3:19 |
 | 17 | [Ab Jaane Ki Zid Na Karo](https://open.spotify.com/track/2XvA8l5nma3jDO5onG3skp) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Satyansh Rajat](https://open.spotify.com/artist/2WvmxUMd2Pnekw7iHHyWLk) | [Ab Jaane Ki Zid Na Karo](https://open.spotify.com/album/1rmVytV1T9RRk8pr6jPsgd) | 3:01 |
 | 18 | [O Re Jiya](https://open.spotify.com/track/2CJ20GYw7NJLd4PMABIIEL) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Shankar Tucker](https://open.spotify.com/artist/1UUufrixCdzil1guLNM5JR), [SIRI](https://open.spotify.com/artist/41wifu6xToBViv1DGicbJj), [Konnakkol Somashekhar Jois](https://open.spotify.com/artist/12unLZAnBWkSY2W2Z0DDfx) | [O Re Jiya](https://open.spotify.com/album/4ar6dYD5PW028N2OsOh5Tn) | 4:22 |

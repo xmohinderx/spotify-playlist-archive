@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 6916,
+  "num_followers": 6928,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4NTcwNiwwMDAwMDAwMDk3YTE4MWRlYzdhODFjZmFiYWJlODE2ZWQ3ZWRhZTM0",
+  "snapshot_id": "MTY1OTY4NTcwNiwwMDAwMDAwMDlhYzIzZTIyMDg0OTA1MTMzYmM5OTFjMjMyM2U1ZmNl",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Naked Wire",
-        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Naked Wire",
-      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 185619,
       "name": "Confident",
       "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Naked Wire",
+        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Naked Wire",
+      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -595,6 +595,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 191544,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -869,6 +869,26 @@
       "url": "https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "CHERRY SWEET",
+        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "CHERRY SWEET",
+      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Dutty Love",
@@ -919,26 +939,6 @@
       "duration_ms": 198555,
       "name": "Bordeaux",
       "url": "https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "CHERRY SWEET",
-        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "CHERRY SWEET",
-      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/1nzmbzGyRa3X8n3s0AAubj"
     },
     {
+      "added_at": "2022-08-05 07:48:26",
+      "album": {
+        "name": "Brenda",
+        "url": "https://open.spotify.com/album/4hOK3Nmq4EVvaSv62bgvM2"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Brenda",
+      "url": "https://open.spotify.com/track/2S5dAgNweHQogi41SuAdkf"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "My WorlD With U",
@@ -1077,20 +1093,20 @@
       "url": "https://open.spotify.com/track/0O5ZbaNWha50PwklOprDgy"
     },
     {
-      "added_at": "2022-08-05 07:48:26",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Brenda",
-        "url": "https://open.spotify.com/album/4hOK3Nmq4EVvaSv62bgvM2"
+        "name": "Was It Something I Said?",
+        "url": "https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi"
       },
       "artists": [
         {
-          "name": "Ogranya",
-          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+          "name": "Titose",
+          "url": "https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7"
         }
       ],
-      "duration_ms": 189090,
-      "name": "Brenda",
-      "url": "https://open.spotify.com/track/2S5dAgNweHQogi41SuAdkf"
+      "duration_ms": 136270,
+      "name": "Summertime With You",
+      "url": "https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 173333,
       "name": "alright, ok",
       "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Was It Something I Said?",
-        "url": "https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi"
-      },
-      "artists": [
-        {
-          "name": "Titose",
-          "url": "https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7"
-        }
-      ],
-      "duration_ms": 136270,
-      "name": "Summertime With You",
-      "url": "https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1396,12 +1396,12 @@
       },
       "artists": [
         {
-          "name": "D3an",
-          "url": "https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ"
-        },
-        {
           "name": "DJ Tunez",
           "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "D3an",
+          "url": "https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ"
         }
       ],
       "duration_ms": 353230,
@@ -1423,6 +1423,50 @@
       "duration_ms": 230932,
       "name": "Life",
       "url": "https://open.spotify.com/track/3xBSBXvY0mSQuiWh58XP05"
+    },
+    {
+      "added_at": "2022-07-22 04:30:52",
+      "album": {
+        "name": "Want This",
+        "url": "https://open.spotify.com/album/1RFGquNgtyqEEboRGlHzsb"
+      },
+      "artists": [
+        {
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
+        },
+        {
+          "name": "QRITIQAL",
+          "url": "https://open.spotify.com/artist/578R7lup6wk8R3TcWYLvd1"
+        }
+      ],
+      "duration_ms": 166997,
+      "name": "Want This",
+      "url": "https://open.spotify.com/track/3JBRzPmIWSqGVCVUvKnxaL"
+    },
+    {
+      "added_at": "2022-08-05 07:48:26",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "See Through Solomon",
+          "url": "https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7"
+        },
+        {
+          "name": "KHAN KHALII",
+          "url": "https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1455,38 +1499,6 @@
       "duration_ms": 204000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "OTR Vol.2",
-        "url": "https://open.spotify.com/album/6YbuBOhChrDQBd8jeIvhjj"
-      },
-      "artists": [
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 183993,
-      "name": "Pulling Up",
-      "url": "https://open.spotify.com/track/2GHj2JqqPPByrkduQEQBYw"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/4T2bNnsrgOuqtfLSIODbin"
-      },
-      "artists": [
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 192043,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/3W9O4vJXIbD4CwfJJg7uoO"
     }
   ],
   "unique_name": "Chill Bops",

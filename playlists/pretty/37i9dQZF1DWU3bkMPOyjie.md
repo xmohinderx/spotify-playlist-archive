@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,233 likes - 72 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,261 likes - 72 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 32 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
 | 33 | [Crazy Bitch](https://open.spotify.com/track/5XfQTbialQHn9PhDb0p85H) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/7JzpvpbhqCCS4f54rkU1yV) | 3:24 |
 | 34 | [Girls of Summer](https://open.spotify.com/track/5hmZHlQiPUMUKBtYmtZqAt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/6qVrPDFldH0jxhALHppFQU) | 3:13 |
-| 35 | [Heaven 2.9](https://open.spotify.com/track/2nuyR7uWofLwfzHeveCdrm) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Making Enemies Is Good](https://open.spotify.com/album/3cZ8xIHA5iJs2j8okxnNb5) | 2:51 |
+| 35 | [Heaven 2.9](https://open.spotify.com/track/6gfjeVtBYntpnQ12wG6oOJ) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Making Enemies Is Good](https://open.spotify.com/album/3WBiqMIPiRU9ybRTLxGSDh) | 2:51 |
 | 36 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 |
 | 37 | [Girls In Their Summer Clothes](https://open.spotify.com/track/5kVSDFEAqgjKtcD6tRvRzY) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 4:19 |
 | 38 | [Summer In the City](https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Summer In the City](https://open.spotify.com/album/3E06stlTQWUMGzysbx6YUu) | 3:08 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 71 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 |
 | 72 | [hot girls in good moods](https://open.spotify.com/track/3j9ERO1WUkVvU71sNFRDEt) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [The Rise and Fall of..\. Butch Walker and The Let's\-Go\-Out\-Tonites](https://open.spotify.com/album/3RmqVZPcYT5LUFQ6Kl5N4B) | 3:45 |
 
-Snapshot ID: `MTY1MDk4MjgyOCwwMDAwMDAwMGMxZTNhNDg3MzAxODM0NWMyYjMyOTUwNzEzYmRkMmU4`
+Snapshot ID: `MTY1MDk4MjgyOCwwMDAwMDAwMDhiM2Y1NTRmNThmMWQ1NzZiNzU0YmY1NTY3Y2MwM2Rl`

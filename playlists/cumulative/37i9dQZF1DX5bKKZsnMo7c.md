@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-151 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+152 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [I Don't Want to Die Tonight](https://open.spotify.com/track/55uo07VOaxz3idi6p34Wsa) | [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I) | [Boom\. Done.](https://open.spotify.com/album/6onHzf3tLLdBEABZF4JxE7) | 3:17 | 2022-07-22 |  |
 | [I Don't Want to Die Tonight](https://open.spotify.com/track/72Vm3AzrhKYJr4ZOwV2Uvh) | [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I) | [Boom\. Done.](https://open.spotify.com/album/5tJcS8lOJYMD3EOHbQfQyJ) | 3:17 | 2022-07-22 | 2022-07-31 |
 | [I Fucked Yr Mom](https://open.spotify.com/track/70WFvp0yF9m1asIb60gKcj) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Juno Goes to the Big House](https://open.spotify.com/album/0bPiaza1NaQbzdg8s1CJOn) | 2:32 | 2022-05-17 |  |
-| [I Hear a Symphony](https://open.spotify.com/track/3KfTWH9HcFZtOnZXaMT0Rt) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/0ipYqwFFvSHdNU6CcbQEsZ) | 3:05 | 2022-05-17 |  |
+| [I Hear a Symphony](https://open.spotify.com/track/3KfTWH9HcFZtOnZXaMT0Rt) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/0ipYqwFFvSHdNU6CcbQEsZ) | 3:05 | 2022-05-17 | 2022-08-11 |
+| [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 | 2022-08-05 |  |
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2022-05-17 |  |
 | [I'm in Love With an E\-Girl](https://open.spotify.com/track/44wBlg3Y1KSAEmaze5BXe7) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [I'm in Love With an E\-Girl](https://open.spotify.com/album/2IrovQloj4bX8iUnCd0Usp) | 3:59 | 2022-05-17 | 2022-06-17 |
 | [I've Had Enough](https://open.spotify.com/track/534P1wgOzlgSogu8At0B6b) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [I've Had Enough](https://open.spotify.com/album/2iUmotCQAv7gJVmBKZGKwo) | 3:30 | 2022-08-04 |  |

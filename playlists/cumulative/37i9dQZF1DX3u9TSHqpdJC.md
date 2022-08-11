@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music by independent artists\. Updates every Wednesday\. Cover: Abigail Osborn, Artwork: Paola Saliby
+> The best new pop music by independent artists\. Updates every Wednesday\. Cover: Rachel Bochner, Artwork: Paola Saliby
 
-2,479 songs - 5 day 6 hr 54 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
+2,484 songs - 5 day 7 hr 10 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [acting like you're famous](https://open.spotify.com/track/78stlFEQRetcPVZkNnSVdT) | [Lucy Deakin](https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h) | [acting like you're famous](https://open.spotify.com/album/4eD8Z8Kgx3wTKowxTUmFIj) | 3:28 | 2021-05-27 | 2021-07-22 |
 | [ACTRESS](https://open.spotify.com/track/39b7sAlaMnJg6UK4ZaPbY0) | [Paige Garabito](https://open.spotify.com/artist/5yoJncvEp3IWsVWvH5f7fg) | [ACTRESS](https://open.spotify.com/album/782tBW2gWxAI0rQnfSX2ur) | 2:16 | 2020-11-27 | 2020-12-08 |
 | [actually happy](https://open.spotify.com/track/2a8LD3eiZsaybSOZR9nbV2) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [actually happy](https://open.spotify.com/album/2czDfsF6ycHDNT5ECHngXN) | 2:59 | 2021-06-03 | 2021-07-22 |
+| [Addicted](https://open.spotify.com/track/1R6PprhDIUmcbmobAihetx) | [Clara Lars](https://open.spotify.com/artist/49JmAjGLpf6BkXCvvLC2kY) | [Addicted](https://open.spotify.com/album/4xgOmTIBT7xg21lkBzUiMa) | 3:28 | 2022-08-10 |  |
 | [Adore](https://open.spotify.com/track/6rEwpaOKhBiyxu4qiUMEhP) | [mikeysdifferent](https://open.spotify.com/artist/2Aw9hCeCQVOKL8lNuab5Ml) | [Adore](https://open.spotify.com/album/4worF9tKYgABgPnUiSk5t0) | 2:26 | 2020-10-13\* | 2020-10-22 |
 | [AEIOU](https://open.spotify.com/track/5w5bqUkym4ALTA6zbH0Gi6) | [Jack Omstead](https://open.spotify.com/artist/3o9Z1zKnJEIuPtu20rQ8Br) | [AEIOU](https://open.spotify.com/album/7xsqmEYifrl7SNEnvj9oHH) | 2:19 | 2021-02-04 | 2021-03-11 |
 | [Afraid](https://open.spotify.com/track/35kJ77uyvOu7OrmzcBblKT) | [Balcony Weekend](https://open.spotify.com/artist/5T8zToy1aCHdnUQBVPTY6G) | [Afraid](https://open.spotify.com/album/3RuiPgutHfZVX1jlld9wi7) | 3:29 | 2021-10-21 | 2021-11-11 |
@@ -1153,6 +1154,7 @@
 | [Is Nothing Sacred](https://open.spotify.com/track/043cLZN7piVzfEILABbqcK) | [Ani Brava](https://open.spotify.com/artist/5nSfjpspE3LUNZyQFw5Xj4) | [Is Nothing Sacred](https://open.spotify.com/album/4CGz0p1P9g56ldXJgaHBtx) | 2:41 | 2022-01-12 | 2022-01-27 |
 | [is this how it all falls apart?](https://open.spotify.com/track/3PMcBQ3Bvm2Cy3rcy3URwm) | [dylxn](https://open.spotify.com/artist/5UlvB9ajvjZf8TDhySUF0i) | [is this how it all falls apart?](https://open.spotify.com/album/743gSzOguYGQzAntm3gvCV) | 2:26 | 2022-02-16 | 2022-04-07 |
 | [It Can't Be That Hard](https://open.spotify.com/track/3F32F6510rNHPcRg3UTU17) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [It Can't Be That Hard](https://open.spotify.com/album/5aZa1Yom0cS3cIVQmXfE95) | 3:19 | 2021-08-26 | 2021-09-24 |
+| [it doesn't hurt](https://open.spotify.com/track/609iYIv9754sBYh3cytlqG) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [it doesn't hurt](https://open.spotify.com/album/4Nnfxnk72qDvZPWywrQYhK) | 3:57 | 2022-08-10 |  |
 | [It Gets Better](https://open.spotify.com/track/3v5uYAI7bODu4gp6FHizGc) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [It Gets Better](https://open.spotify.com/album/39y3q6c8tlXnleiNyfuRBa) | 3:01 | 2021-09-30 | 2022-01-13 |
 | [It Goes Lyke](https://open.spotify.com/track/2ZTWkrWSc3hwz58WNWkLdu) | [Kilder](https://open.spotify.com/artist/7DvSsGJcVuhweaoQu7nta0), [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve) | [It Goes Lyke](https://open.spotify.com/album/112GlUnmYbGSrv07feWgTl) | 3:29 | 2020-10-13\* | 2020-10-29 |
 | [It Kills Me](https://open.spotify.com/track/2k4zN3NvnOHt5hZd3BNI39) | [Séamus](https://open.spotify.com/artist/4UWTzao3I8dwpES32qyoEc) | [Lament](https://open.spotify.com/album/1Vs0F5InlZgCGZm4NHFboi) | 3:19 | 2021-02-10 | 2021-03-11 |
@@ -1478,6 +1480,7 @@
 | [My Phone Knows](https://open.spotify.com/track/5jG6BQXopsEsKfbpNhqCve) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [My Phone Knows](https://open.spotify.com/album/2CydGuy0tU0R6EGcXxcIIW) | 2:00 | 2021-05-27 | 2021-06-18 |
 | [My Regret](https://open.spotify.com/track/6L9n9BNBbMKalNpVhpRRlZ) | [Madilyn Paige](https://open.spotify.com/artist/7gmqFSfEPYa2Sbt8NjIHDG) | [My Regret](https://open.spotify.com/album/52A9JbxmF5KOgazguuUkDE) | 3:03 | 2021-01-15 | 2021-02-17 |
 | [my wants, my needs](https://open.spotify.com/track/4uWEXmTRWphiDufd1QIOp1) | [Ni/Co](https://open.spotify.com/artist/2IR0GSCHsTo7gSw8HHLBnr) | [my wants, my needs](https://open.spotify.com/album/7KPZNjlCZGOYqNlyq4Yt6T) | 3:02 | 2022-02-09 | 2022-03-31 |
+| [Naked](https://open.spotify.com/track/7bI5GpjLRkil6k42fuFfAH) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Naked](https://open.spotify.com/album/5ShHPBnTeucExVbL6ccqXj) | 2:13 | 2022-08-10 |  |
 | [Napkins](https://open.spotify.com/track/077ULIWZuzfn7YWJl8s01U) | [Tony Ferrari](https://open.spotify.com/artist/2OwJfEHbju9I3yrWL5Fq3T) | [Napkins](https://open.spotify.com/album/6lQ6RVsg9TiaXuV3a4llw9) | 2:34 | 2021-08-12 | 2021-09-16 |
 | [Narcissist](https://open.spotify.com/track/4EuS5eJv33eIjZ7zU3km3D) | [Izzy Marcil](https://open.spotify.com/artist/5TLisHXAWT6wxNAPpBtKyW) | [Narcissist](https://open.spotify.com/album/1gAHlcmjZC6ZSaz2LeOh6y) | 2:43 | 2022-01-12 | 2022-03-03 |
 | [Natural Wonder](https://open.spotify.com/track/3nQ26cKpg4PrPZGWBUhwoP) | [EVER](https://open.spotify.com/artist/7f3i7KtcsMEyZO6jWYFPmI) | [Natural Wonder](https://open.spotify.com/album/19u57TNFykOsltJ40HvjDC) | 2:55 | 2022-05-04 | 2022-06-16 |
@@ -1775,6 +1778,7 @@
 | [Reset](https://open.spotify.com/track/6wSXxJVS9RKY54JzfFVecw) | [NATIIVE](https://open.spotify.com/artist/7iHTJPF1k1e9SF1BwqbAe0), [FINLAY](https://open.spotify.com/artist/2pAjU5iA2LSqy1junlcA6P) | [Reset](https://open.spotify.com/album/2WKPh3OLByXhZ6Pw5l05Hv) | 2:35 | 2021-02-10 | 2021-03-11 |
 | [Residing in the Sky](https://open.spotify.com/track/70DftaPYWGRGQQZit6LCZ4) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Residing in the Sky](https://open.spotify.com/album/6sPMMifhDAbaGCOyUaiCSy) | 3:30 | 2021-08-26 | 2021-09-10 |
 | [Resolve](https://open.spotify.com/track/2JsdWO0VNpeEawFeuPm1RV) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [Resolve](https://open.spotify.com/album/5LPCplAjMiv0GgdrgEEw7P) | 3:34 | 2021-03-25 | 2021-04-29 |
+| [Respect Me](https://open.spotify.com/track/1wlOtAKANbQbCOqVrEWFfu) | [KAYE](https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M) | [Neon God](https://open.spotify.com/album/10zUxDI6PILPIufjzdniXy) | 3:45 | 2022-08-10 |  |
 | [Rest In Peace](https://open.spotify.com/track/0uvPx6vZ0RcOZVh9DSQmfK) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Rest In Peace](https://open.spotify.com/album/5idgFT3dh8ls7dGFsGmkP3) | 3:22 | 2022-01-12 | 2022-02-24 |
 | [Restart](https://open.spotify.com/track/6lhgLWMshUZWiXZS8PmO1h) | [Amadelle](https://open.spotify.com/artist/60M8FJfBiqSIDUFNoJrlEG) | [Restart](https://open.spotify.com/album/0SBclnMhLlNnXgC7HDc20L) | 3:40 | 2021-11-19 | 2021-12-01 |
 | [Resting Power](https://open.spotify.com/track/7gAR8L0DqCg6LyTYFhKzoW) | [Dirty Versachi](https://open.spotify.com/artist/0gyh3MRutl5SLUS2jxIWus) | [Resting Power](https://open.spotify.com/album/2bhXJeIB2vlw117DxicXmp) | 2:45 | 2021-09-24 | 2021-10-28 |
@@ -2309,6 +2313,7 @@
 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 | 2022-03-23 | 2022-05-05 |
 | [Velvet Love](https://open.spotify.com/track/2fu5y0g4krZOioi8OBuUPb) | [Rachel Faith](https://open.spotify.com/artist/1HTgqPqtZFYdavaqVNtRdt) | [Velvet Love](https://open.spotify.com/album/0RLo0rJxaDLByhWzdghHJG) | 4:19 | 2021-01-28 | 2021-02-25 |
 | [Venice](https://open.spotify.com/track/1W5xuDGaa5CEx7eaPnKgNA) | [Citrîne](https://open.spotify.com/artist/6e9uuQOvPNMR1G6P2nuYmn) | [Venice](https://open.spotify.com/album/6aRi5mEOj8HuwE10lH7co5) | 3:04 | 2021-03-11 | 2021-04-08 |
+| [vent](https://open.spotify.com/track/4fvsrtA2vCNTlfT3wHlxJ7) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [vent](https://open.spotify.com/album/5h90kCMnNxDUOsrP2JM7yr) | 2:31 | 2022-08-10 |  |
 | [VENUS IN GEMINI](https://open.spotify.com/track/3WciK8hPMHi8JuwQMuruWY) | [BXB LOVE](https://open.spotify.com/artist/03k90jclqTrew2X2DFnRCC) | [VENUS IN GEMINI](https://open.spotify.com/album/7IGQiVOeWk2BlPJV3RmeaG) | 3:28 | 2021-09-10 | 2021-10-07 |
 | [verbal warnings](https://open.spotify.com/track/02JZIF70F9dpOCdenwFwH3) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [verbal warnings](https://open.spotify.com/album/71884HMgAShpsgBO7aR26P) | 3:03 | 2021-03-06 | 2021-04-01 |
 | [vertigo](https://open.spotify.com/track/4cHEOsQDb7geHppMbvkZI7) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [consume & grow](https://open.spotify.com/album/1iGncVNljTW2b51sNlXNPv) | 3:41 | 2021-06-24 | 2021-07-29 |

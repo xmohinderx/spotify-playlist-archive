@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 350949,
+  "num_followers": 351242,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDM0OGExOGUyNDg3MTFhNTk3OTI5NmY2NjkwYzI2ZDdh",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDc5MWJiNDcwYTQ1MzRjZTYyOTgwZjRhNGU3NDFkNjc2",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Here Today Gone Tomorrow",
-        "url": "https://open.spotify.com/album/20u2BADwHMxvAvFNNxtAGo"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 313084,
-      "name": "Facing the Sun",
-      "url": "https://open.spotify.com/track/4Ei691AKbjiGscPcMUdA4s"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Here Today Gone Tomorrow",
+        "url": "https://open.spotify.com/album/20u2BADwHMxvAvFNNxtAGo"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 313084,
+      "name": "Facing the Sun",
+      "url": "https://open.spotify.com/track/4Ei691AKbjiGscPcMUdA4s"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Sonnentanz",
-        "url": "https://open.spotify.com/album/1BBqa3UQfVawVGQN0aIcs4"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Will Heard",
-          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Sonnentanz - Sun Don't Shine",
-      "url": "https://open.spotify.com/track/5NKfB21hWeirObQjEN44x1"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Elohim (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6tbzSO8UHnbvsPFG449fb2"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 202886,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/1Wvzo4EotLEh4W3OVcQoDO"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Sonnentanz",
+        "url": "https://open.spotify.com/album/1BBqa3UQfVawVGQN0aIcs4"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Will Heard",
+          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Sonnentanz - Sun Don't Shine",
+      "url": "https://open.spotify.com/track/5NKfB21hWeirObQjEN44x1"
     },
     {
       "added_at": "2022-01-18 14:54:04",

@@ -1,12 +1,12 @@
 {
   "description": "Run to this collection of heavy rock jams.",
-  "num_followers": 782119,
+  "num_followers": 782481,
   "original_name": "Born To Run 150 BPM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAxOTg2MywwMDAwMDAwMGMzZjg0N2ZiZmNmYzYxNDdjYjE4ZTU2OGZlZjgwMDUw",
+  "snapshot_id": "MTY1NzAxOTg2MywwMDAwMDAwMDVlODllMzQ0MzlhNGI1NjAzYWE4OTU3OTU2ZTNmZWRm",
   "tracks": [
     {
       "added_at": "2022-07-05 11:17:43",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-07-05 11:17:43",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 457675,
-      "name": "Let's Dance - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
-    },
-    {
-      "added_at": "2022-07-05 11:17:43",
-      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 393666,
       "name": "Shout",
       "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
+    },
+    {
+      "added_at": "2022-07-05 11:17:43",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 457675,
+      "name": "Let's Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
     },
     {
       "added_at": "2022-07-05 11:17:43",

@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 1011,
+  "num_followers": 1094,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2MzEwNSwwMDAwMDAwMDc0MmVjOWI1MTQ0Y2JkNjAyMzgzYzQ0MDZkNDg0MmU3",
+  "snapshot_id": "MTY1OTQ2MzEwNSwwMDAwMDAwMDI0YWJjMjcyMWYxYzk1ODhlYTM3MjM0ODhjZjQxM2Ex",
   "tracks": [
     {
       "added_at": "2022-08-02 17:58:25",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
-        "name": "SUMMERIDE",
-        "url": "https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "SUMMERIDE",
-      "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 227083,
       "name": "V",
       "url": "https://open.spotify.com/track/3f5XXfnwDmo3z8fJPb9Oxa"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
+        "name": "SUMMERIDE",
+        "url": "https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "SUMMERIDE",
+      "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
     },
     {
       "added_at": "2022-08-02 17:58:25",
@@ -2071,6 +2071,26 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        }
+      ],
+      "duration_ms": 224564,
+      "name": "ON IT",
+      "url": "https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
         "name": "SOJU (Remix)",
         "url": "https://open.spotify.com/album/5up3gHITO86zXeGtDm79K8"
       },
@@ -2095,26 +2115,6 @@
       "duration_ms": 318747,
       "name": "SOJU - Remix",
       "url": "https://open.spotify.com/track/4QuqMDWbg2poF8ytkH6pCm"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "DJ Wegun",
-          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
-        }
-      ],
-      "duration_ms": 224564,
-      "name": "ON IT",
-      "url": "https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8"
     },
     {
       "added_at": "2022-08-02 17:58:25",
