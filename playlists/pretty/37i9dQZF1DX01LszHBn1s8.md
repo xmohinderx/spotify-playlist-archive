@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > how the hell you make me fall in love with you 💙
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,785 likes - 524 songs - 1 day 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,184 likes - 524 songs - 1 day 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

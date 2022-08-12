@@ -508,6 +508,36 @@
     },
     {
       "album": {
+        "name": "Creative Source (A-Trak Remix)",
+        "url": "https://open.spotify.com/album/3qbugsp6yK8VsEHhNW6Qbp"
+      },
+      "artists": [
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221066,
+      "name": "Creative Source - A-Trak Remix",
+      "url": "https://open.spotify.com/track/2KLOgdrNPjzcG0nUzdfSxy"
+    },
+    {
+      "album": {
         "name": "Creative Source (ABSOLUTE. Neon Energy Remix)",
         "url": "https://open.spotify.com/album/0ChR2w00RrCd7pCGnHqDGx"
       },

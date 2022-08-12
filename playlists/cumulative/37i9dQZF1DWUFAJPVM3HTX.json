@@ -1442,6 +1442,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/5NL3OQbQnmHQhdR1CJbERF"
+      },
+      "artists": [
+        {
+          "name": "Savannah Dumetz",
+          "url": "https://open.spotify.com/artist/4xFhyLd7xLpZ35Pz566Mow"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203251,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1yO7GdOGt3n2ByU2v6ZCp7"
+    },
+    {
+      "album": {
         "name": "Cure For Leisure",
         "url": "https://open.spotify.com/album/4b6TIF1YNGsXhPHiT9C6X5"
       },
@@ -2825,6 +2843,28 @@
     {
       "album": {
         "name": "DOWN",
+        "url": "https://open.spotify.com/album/31GoJ0WczdunQJicJmy4K4"
+      },
+      "artists": [
+        {
+          "name": "Malek Lasike",
+          "url": "https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e"
+        },
+        {
+          "name": "Donell Lewis",
+          "url": "https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164954,
+      "name": "DOWN",
+      "url": "https://open.spotify.com/track/24RyTvd6DR6BkUoCcbXBq1"
+    },
+    {
+      "album": {
+        "name": "DOWN",
         "url": "https://open.spotify.com/album/6PtM1fUUxBisX3p9mNvrN8"
       },
       "artists": [
@@ -3932,7 +3972,7 @@
     },
     {
       "album": {
-        "name": "galaxy of you",
+        "name": "GALAXY OF YOU",
         "url": "https://open.spotify.com/album/5Jj0HugoqEcqa6YL3LFBVa"
       },
       "artists": [
@@ -3945,7 +3985,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171000,
-      "name": "galaxy of you",
+      "name": "GALAXY OF YOU",
       "url": "https://open.spotify.com/track/2GCWZIRarWaFTGVCDhdPv6"
     },
     {

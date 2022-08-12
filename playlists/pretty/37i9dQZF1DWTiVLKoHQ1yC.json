@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 115542,
+  "num_followers": 115662,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMGJiMzJiYWM0NDgxNzRkOTJmNzk1ZTU2OWEwZTQ4NDAw",
+  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDkwN2M5NDBmMzVhOTYxY2VlNTJiZGExMjNmNTljM2Ey",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Face The Sun",
-        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
-      },
-      "artists": [
-        {
-          "name": "Yeadon",
-          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
-        }
-      ],
-      "duration_ms": 439437,
-      "name": "Face The Sun",
-      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Hope In Balance",
         "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
       },
@@ -659,22 +643,18 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
+        "name": "Face The Sun",
+        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
       },
       "artists": [
         {
-          "name": "Hidden Empire",
-          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
-        },
-        {
-          "name": "Artche",
-          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+          "name": "Yeadon",
+          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
         }
       ],
-      "duration_ms": 431162,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
+      "duration_ms": 439437,
+      "name": "Face The Sun",
+      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -707,6 +687,26 @@
       "duration_ms": 210356,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        },
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+        }
+      ],
+      "duration_ms": 431162,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev"
+      },
+      "artists": [
+        {
+          "name": "Kyau & Albert",
+          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/5b0xNdKy95XcpoGMrRlUto"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 466035,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/5n9si61BkJLFrxyCUABT62"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Shimmer",
-        "url": "https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev"
-      },
-      "artists": [
-        {
-          "name": "Kyau & Albert",
-          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
-        "url": "https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS"
-      },
-      "artists": [
-        {
-          "name": "Going Deeper",
-          "url": "https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4"
-        }
-      ],
-      "duration_ms": 283628,
-      "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
-      "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Influence",
         "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 259364,
       "name": "Influence - Edit",
       "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
+        "url": "https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS"
+      },
+      "artists": [
+        {
+          "name": "Going Deeper",
+          "url": "https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4"
+        }
+      ],
+      "duration_ms": 283628,
+      "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
+      "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "High Priestess-Jupiter",
+        "url": "https://open.spotify.com/album/1Bg000mySnXr2Sk4OZ5j6G"
+      },
+      "artists": [
+        {
+          "name": "The Yard Woman",
+          "url": "https://open.spotify.com/artist/4vrLjXzQTMGCbrdAYtkpQE"
+        }
+      ],
+      "duration_ms": 380487,
+      "name": "High Priestess - Original Mix",
+      "url": "https://open.spotify.com/track/0fzsMh6uGsW3k8hZCOPidw"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Lager Beers EP",
         "url": "https://open.spotify.com/album/5izcjEZQUvnhfeLWM67n72"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 253454,
       "name": "Heyoka",
       "url": "https://open.spotify.com/track/17cVuIl1z18wO2cZda3sxA"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "High Priestess-Jupiter",
-        "url": "https://open.spotify.com/album/1Bg000mySnXr2Sk4OZ5j6G"
-      },
-      "artists": [
-        {
-          "name": "The Yard Woman",
-          "url": "https://open.spotify.com/artist/4vrLjXzQTMGCbrdAYtkpQE"
-        }
-      ],
-      "duration_ms": 380487,
-      "name": "High Priestess - Original Mix",
-      "url": "https://open.spotify.com/track/0fzsMh6uGsW3k8hZCOPidw"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Could This B? / Stay Curious",
-        "url": "https://open.spotify.com/album/4Wj27s5tpvh6WVmSDGwj2R"
-      },
-      "artists": [
-        {
-          "name": "BluePrint",
-          "url": "https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Could This B?",
-      "url": "https://open.spotify.com/track/6oSaQH2n2x5SVOaGZZB0fi"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Freedom Call",
         "url": "https://open.spotify.com/album/3ePjxQHzc4yLtu7fuHOXTo"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 239789,
       "name": "Freedom Call",
       "url": "https://open.spotify.com/track/6CujcykyguhQMztfXWNlQz"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Could This B? / Stay Curious",
+        "url": "https://open.spotify.com/album/4Wj27s5tpvh6WVmSDGwj2R"
+      },
+      "artists": [
+        {
+          "name": "BluePrint",
+          "url": "https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Could This B?",
+      "url": "https://open.spotify.com/track/6oSaQH2n2x5SVOaGZZB0fi"
     },
     {
       "added_at": "2022-01-14 10:50:05",

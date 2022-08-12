@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 305221,
+  "num_followers": 305337,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMGUzMmZmN2M1Y2I0ZmEzNjAxNzViMmI3MjlhZWZiOWE5",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDJhZWZjYTg3OGZjMTQ4MTQxOTBmZmQ1ZjhhMzMxMThi",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK"
     },
     {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 257720,
-      "name": "Love Don't Live Here Anymore",
-      "url": "https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u"
-    },
-    {
       "added_at": "2022-07-22 14:40:52",
       "album": {
         "name": "It Never Rains (In SoCal)",
@@ -611,18 +595,34 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 311533,
-      "name": "Right And A Wrong Way",
-      "url": "https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH"
+      "duration_ms": 257720,
+      "name": "Love Don't Live Here Anymore",
+      "url": "https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Charlie, Last Name Wilson",
+        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
+      },
+      "artists": [
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "duration_ms": 302440,
+      "name": "Let's Chill",
+      "url": "https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu"
     }
   ],
   "unique_name": "Soul Revived",

@@ -504,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Clean Choices",
+        "url": "https://open.spotify.com/album/71ti5CfDSeCMbrAFRG5hsu"
+      },
+      "artists": [
+        {
+          "name": "KN\u0150DA",
+          "url": "https://open.spotify.com/artist/2fDqX2aMSmr0pVuSdK5tWy"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187397,
+      "name": "Clean Choices",
+      "url": "https://open.spotify.com/track/3alz0TE86DIB2JnbbAOEME"
+    },
+    {
+      "album": {
         "name": "Waterfalls",
         "url": "https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO"
       },
@@ -541,6 +559,24 @@
       "duration_ms": 165272,
       "name": "Cloud Forests",
       "url": "https://open.spotify.com/track/6CQ0fkFPyBvTseKtCflFOr"
+    },
+    {
+      "album": {
+        "name": "cloudyhead",
+        "url": "https://open.spotify.com/album/2MbXVSmzStW4mUMFiUEHdJ"
+      },
+      "artists": [
+        {
+          "name": "betahost",
+          "url": "https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "cloudyhead",
+      "url": "https://open.spotify.com/track/34Ypo4hhKwo8IQRGJHGWr9"
     },
     {
       "album": {
@@ -642,6 +678,24 @@
     },
     {
       "album": {
+        "name": "Cubism Crunk",
+        "url": "https://open.spotify.com/album/5mEhuvyfqlFX0N8fva83BP"
+      },
+      "artists": [
+        {
+          "name": "HEIXI",
+          "url": "https://open.spotify.com/artist/5XhBFCP9dO1Mi0elkhmC7s"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95172,
+      "name": "Cubism Crunk",
+      "url": "https://open.spotify.com/track/47PMOlkzkBanoQC4LknwZ5"
+    },
+    {
+      "album": {
         "name": "Digital lounge",
         "url": "https://open.spotify.com/album/1Lbp8hXI1Q1LSCfpwGZfVt"
       },
@@ -725,7 +779,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 111000,
       "name": "dunes",
       "url": "https://open.spotify.com/track/6olrZxU7zlcIPtOhnSx3Qa"
@@ -783,6 +837,24 @@
       "duration_ms": 168093,
       "name": "Elevator Jam",
       "url": "https://open.spotify.com/track/05OuE2FeaeCkiz0EAKIqYZ"
+    },
+    {
+      "album": {
+        "name": "Endless Trial",
+        "url": "https://open.spotify.com/album/2X5s9BJcQ3kWg3eMr9sIiI"
+      },
+      "artists": [
+        {
+          "name": "pipetiger",
+          "url": "https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108073,
+      "name": "Endless Trial",
+      "url": "https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc"
     },
     {
       "album": {
@@ -1001,7 +1073,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 112500,
       "name": "Frankie",
       "url": "https://open.spotify.com/track/6t6FeY6tESJeedpgsYS6jD"
@@ -1323,6 +1395,24 @@
       "duration_ms": 154681,
       "name": "Indigo Rum",
       "url": "https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE"
+    },
+    {
+      "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/4MBU05msVwXye21vYb8OHZ"
+      },
+      "artists": [
+        {
+          "name": "IKAAL",
+          "url": "https://open.spotify.com/artist/2twctSC6NO3YMJu1hvYUGR"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106000,
+      "name": "Insomnio",
+      "url": "https://open.spotify.com/track/0kT7Lmm1QRFZBQFrT3OIuw"
     },
     {
       "album": {
@@ -2069,7 +2159,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 147000,
       "name": "Past Reticence",
       "url": "https://open.spotify.com/track/00ww2dqh7xOhuCB8EcbJDp"
@@ -2239,7 +2329,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 189750,
       "name": "Polyforma",
       "url": "https://open.spotify.com/track/5TnCrehFKT6TsvHSeADpce"
@@ -2611,7 +2701,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 126000,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/4YAs0eBrhNzlrfHXyvs25T"
@@ -2633,6 +2723,24 @@
       "duration_ms": 171473,
       "name": "Shadowplay",
       "url": "https://open.spotify.com/track/395A5TBwtGEqsa5G8IYw1I"
+    },
+    {
+      "album": {
+        "name": "Shinin'",
+        "url": "https://open.spotify.com/album/2QjcsjYwpRoP0dRirJVc8Z"
+      },
+      "artists": [
+        {
+          "name": "nuttin",
+          "url": "https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135384,
+      "name": "Shinin'",
+      "url": "https://open.spotify.com/track/2s7rlnKjJJ8b8UskCtZ7VQ"
     },
     {
       "album": {
@@ -3111,7 +3219,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 156007,
       "name": "They Grew Around Her",
       "url": "https://open.spotify.com/track/0SIPvTIbcElBAiuM0E0c4w"
@@ -3165,7 +3273,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 131208,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/6ddmnmfULodDasWZZs2BP4"
@@ -3357,7 +3465,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 137777,
       "name": "warm haze",
       "url": "https://open.spotify.com/track/2cpd5QcPCStQUbFTg0AoY1"
@@ -3499,6 +3607,24 @@
       "duration_ms": 189521,
       "name": "Yellow Rose",
       "url": "https://open.spotify.com/track/0NoXLmUqcyoGB6mwGA1HmC"
+    },
+    {
+      "album": {
+        "name": "yume",
+        "url": "https://open.spotify.com/album/4ZfEICxa7tKz4UkrrQ3vPP"
+      },
+      "artists": [
+        {
+          "name": "Pat Poker",
+          "url": "https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "yume",
+      "url": "https://open.spotify.com/track/7AUPjm4vyi040tP5xrLJNH"
     },
     {
       "album": {

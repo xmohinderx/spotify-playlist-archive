@@ -4,7 +4,7 @@
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Annahstasia
 
-591 songs - 1 day 7 hr 17 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+593 songs - 1 day 7 hr 23 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Bravo](https://open.spotify.com/track/19JHmvMUhb5dGLZPufqEUh) | [Jerusha](https://open.spotify.com/artist/3Cq9dfQDBiFja0j9m717cW) | [Bravo](https://open.spotify.com/album/4P88Chg12Vuuwo8fbuqPDZ) | 2:10 | 2022-04-27 | 2022-06-10 |
 | [Break](https://open.spotify.com/track/41NfPrA9JEK6ufqJkUUU2N) | [Emily Muli](https://open.spotify.com/artist/5PF3HYijywmkoIgVSwXtP8) | [Break](https://open.spotify.com/album/6uoil0oYQ1OemgpS0QExn6) | 3:24 | 2022-01-12 | 2022-04-07 |
 | [Break](https://open.spotify.com/track/7MAF260QrFoPLbcigPfRFp) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Break](https://open.spotify.com/album/5BnZ7N719nnVLX9TFSyCIt) | 2:57 | 2022-03-23 | 2022-05-12 |
+| [Breathe](https://open.spotify.com/track/1yO7GdOGt3n2ByU2v6ZCp7) | [Savannah Dumetz](https://open.spotify.com/artist/4xFhyLd7xLpZ35Pz566Mow) | [Breathe](https://open.spotify.com/album/5NL3OQbQnmHQhdR1CJbERF) | 3:23 | 2022-08-10 |  |
 | [Brooklyn](https://open.spotify.com/track/3EWWdLJCxKcPqt20g27cBq) | [Berel](https://open.spotify.com/artist/1Sizk6ZBxTmddJGLGOtJjS) | [Cure For Leisure](https://open.spotify.com/album/4b6TIF1YNGsXhPHiT9C6X5) | 3:05 | 2022-01-12 | 2022-02-10 |
 | [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2021-12-01 | 2022-01-13 |
 | [Brutal](https://open.spotify.com/track/0bCru2ovpMwBY1dZdrKRms) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Brutal](https://open.spotify.com/album/79sn46ySVe1GiIQREIv169) | 3:05 | 2022-01-12 | 2022-02-03 |
@@ -156,6 +157,7 @@
 | [Don't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/7lTp8ScQlND1bNaO0ejh3r) | [Autumn Marini](https://open.spotify.com/artist/0Afau9cQ62igjVSDkkkG19), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Don't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/2D8PhtJcBp4rJx6l5BTRjZ) | 3:02 | 2022-07-27 |  |
 | [Dont Know](https://open.spotify.com/track/7imwOacEwo1uCGacu8lw2A) | [Elijah Seabrook](https://open.spotify.com/artist/4xtLpQ6VUR3djxL9FjcKT7) | [Pressure Rising](https://open.spotify.com/album/5mbrEXGcSjZYaUbTmMWYyi) | 2:53 | 2022-02-16 | 2022-03-24 |
 | [Dopamine](https://open.spotify.com/track/2Lpx8UUlTRWjeEEBmXA887) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Dopamine](https://open.spotify.com/album/1uxAsIDfTdZNDNL8SadH37) | 3:12 | 2022-03-02 | 2022-03-12 |
+| [DOWN](https://open.spotify.com/track/24RyTvd6DR6BkUoCcbXBq1) | [Malek Lasike](https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e), [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz) | [DOWN](https://open.spotify.com/album/31GoJ0WczdunQJicJmy4K4) | 2:44 | 2022-08-11 |  |
 | [DOWN](https://open.spotify.com/track/7IXo0p7e8dQY2cqpTYzBmu) | [Malek Lasike](https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e), [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz) | [DOWN](https://open.spotify.com/album/6PtM1fUUxBisX3p9mNvrN8) | 3:19 | 2022-08-03 | 2022-08-09 |
 | [Draft 7 "fruitless love"](https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN) | [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [Draft 7 "fruitless love"](https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI) | 2:46 | 2022-03-11 | 2022-04-28 |
 | [Dream On](https://open.spotify.com/track/5Z9Msjt9oqnGDZFFbSOCms) | [Cellz](https://open.spotify.com/artist/5BFEr8AvjXPRGzf1hZyel3), [Blue Glass](https://open.spotify.com/artist/1FOJ4LWMsMHcCBL3KBjF3Q) | [Dream On](https://open.spotify.com/album/0DnfhKZpuYWlh96KBxUT8n) | 3:00 | 2022-01-26 | 2022-03-03 |
@@ -214,7 +216,7 @@
 | [Frostprins](https://open.spotify.com/track/444HUkof2v9U0KDoY4JEyH) | [Nana](https://open.spotify.com/artist/0Dw8InecdpwJM1i30DSpth) | [Frostprins](https://open.spotify.com/album/2DbXbUnd6J20m19twP7rJj) | 3:10 | 2022-02-16 | 2022-03-18 |
 | [Fuck Alone \(Remix\) \[feat\. Kaash Paige\]](https://open.spotify.com/track/5fFoGKU6y3121VH0kHE3us) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Fuck Alone \(Remix\) \[feat\. Kaash Paige\]](https://open.spotify.com/album/0E8oKtWaoYMi8EPfEY0hLW) | 3:39 | 2022-07-29 |  |
 | [fxck it then](https://open.spotify.com/track/6C6CivPw9ew0qPgvvbSloL) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [fxck it then](https://open.spotify.com/album/5kNYmUqBUNBOvYhV6YqKhC) | 2:15 | 2021-12-01 | 2022-01-13 |
-| [galaxy of you](https://open.spotify.com/track/2GCWZIRarWaFTGVCDhdPv6) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [galaxy of you](https://open.spotify.com/album/5Jj0HugoqEcqa6YL3LFBVa) | 2:51 | 2022-08-10 |  |
+| [GALAXY OF YOU](https://open.spotify.com/track/2GCWZIRarWaFTGVCDhdPv6) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [GALAXY OF YOU](https://open.spotify.com/album/5Jj0HugoqEcqa6YL3LFBVa) | 2:51 | 2022-08-10 |  |
 | [Garden](https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Garden](https://open.spotify.com/album/2AZjeSF9UHQkPhyjMXP9aa) | 2:28 | 2022-06-02 |  |
 | [Get High, Get By](https://open.spotify.com/track/1VjBUsTjfdSipjpihEPOhg) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Get High, Get By](https://open.spotify.com/album/54pyZZdBYpNGdHprxAqTOD) | 4:33 | 2022-04-06 | 2022-07-10 |
 | [Get Up](https://open.spotify.com/track/7GX8dnikAPOsFjaantOhlv) | [AGGi DiX](https://open.spotify.com/artist/1Vd4zITUpdG9sIb2no0e9c) | [Simmer EP](https://open.spotify.com/album/2CxuPhsbPzSxuYV6upnkCN) | 2:30 | 2021-12-01 | 2022-01-13 |

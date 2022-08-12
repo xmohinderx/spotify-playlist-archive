@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Kidd Azzurra\n",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: MAJAN\n",
   "name": "me right now",
   "published_playlist_ids": [
     "4wMgKXJWsULbe4I9HZDGUL"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 232114,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 158709,
       "name": "Call",
       "url": "https://open.spotify.com/track/50aAZPbkB0yhfMQptxa8Dv"
@@ -1329,6 +1329,24 @@
     {
       "album": {
         "name": "Eiskalter Vodka",
+        "url": "https://open.spotify.com/album/5mnKhoyJ8JHy5kni0A01PR"
+      },
+      "artists": [
+        {
+          "name": "Mirco Kima",
+          "url": "https://open.spotify.com/artist/30RwqXb05doFA1yZM7HURb"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149018,
+      "name": "Eiskalter Vodka",
+      "url": "https://open.spotify.com/track/6aPVsvXCtTTUQ9OycaCKt3"
+    },
+    {
+      "album": {
+        "name": "Eiskalter Vodka",
         "url": "https://open.spotify.com/album/01jtc3ZgOmJv6moODyHvHw"
       },
       "artists": [
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 149655,
       "name": "Eiskalter Vodka",
       "url": "https://open.spotify.com/track/3kajf7IGh5sK7T99YAyFmy"
@@ -1604,6 +1622,24 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/50MeziN5Do8zDtN4wINTTS"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185493,
+      "name": "FENSTER",
+      "url": "https://open.spotify.com/track/78g5hX3gDG3jmszdwGQDbI"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -1811,7 +1847,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 162138,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2UbMJbQq6G0TJnmnubgolV"
@@ -1909,7 +1945,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 142676,
       "name": "HALB SO WILD",
       "url": "https://open.spotify.com/track/1N6RwEpFiPdsKKaz6eudj4"
@@ -2295,7 +2331,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 105120,
       "name": "In Love",
       "url": "https://open.spotify.com/track/5e6AR8ACevdfJHBi3xxNJn"
@@ -2727,7 +2763,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 143052,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5pwZVXgPUSSa2qGamy8T62"
@@ -2953,7 +2989,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 133333,
       "name": "Nachts um 3",
       "url": "https://open.spotify.com/track/16MRC7RnYU7pdGXzwj1ND2"
@@ -3521,6 +3557,44 @@
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "album": {
+        "name": "Runnin",
+        "url": "https://open.spotify.com/album/2BQvv9Z7z5GeqZu07GM4G6"
+      },
+      "artists": [
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        },
+        {
+          "name": "Monk",
+          "url": "https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE"
+        },
+        {
+          "name": "Longus Mongus",
+          "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        },
+        {
+          "name": "Ion Miles",
+          "url": "https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl"
+        },
+        {
+          "name": "Big Pat",
+          "url": "https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M"
+        },
+        {
+          "name": "Dead Dawg",
+          "url": "https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257759,
+      "name": "Runnin",
+      "url": "https://open.spotify.com/track/1viUVY9PeeVu4kqwLjBOyB"
     },
     {
       "album": {
@@ -4180,6 +4254,24 @@
     },
     {
       "album": {
+        "name": "Songs From Dawson's Creek, Vol. II",
+        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
+      },
+      "artists": [
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241840,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
+    },
+    {
+      "album": {
         "name": "teufel tr\u00e4gt prada",
         "url": "https://open.spotify.com/album/5sJrdCnVkjS7Xh7KpTO77D"
       },
@@ -4213,7 +4305,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 216110,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H"
@@ -4231,7 +4323,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 175150,
       "name": "The Emperor",
       "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
@@ -4387,7 +4479,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 191559,
       "name": "toxic energy (with The Used)",
       "url": "https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ"
@@ -4463,7 +4555,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
@@ -4681,6 +4773,24 @@
       "duration_ms": 147429,
       "name": "WAS WEISST DU SCHON",
       "url": "https://open.spotify.com/track/0SXYACnlcWvqlHlfN8Y177"
+    },
+    {
+      "album": {
+        "name": "Matrix",
+        "url": "https://open.spotify.com/album/68KqgAtY2T2J0jJS5hyCv9"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "We Are The People - Southstar Remix",
+      "url": "https://open.spotify.com/track/2e9GFQn2nNXTbnTl02U7YJ"
     },
     {
       "album": {
@@ -4903,7 +5013,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 127773,
       "name": "WER HAT AN DER UHR GEDREHT",
       "url": "https://open.spotify.com/track/4R0VFl0rNnhzLdrIAM0ZEk"
@@ -4979,6 +5089,24 @@
       "duration_ms": 113562,
       "name": "Without You",
       "url": "https://open.spotify.com/track/70iMhwrs7qZg64GiW8sMew"
+    },
+    {
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235493,
+      "name": "World War 3",
+      "url": "https://open.spotify.com/track/6UEsGMsL6vD77jqvjsmCOh"
     },
     {
       "album": {

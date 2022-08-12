@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-180 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+184 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Above the vast forest](https://open.spotify.com/track/4rtMTP9GeyxBF4pykocGoP) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Above the vast forest](https://open.spotify.com/album/71ZmOMo10LD4o1tWtBoIvI) | 2:13 | 2022-07-08 |  |
 | [Aeonian](https://open.spotify.com/track/5t5afa9dRzW41gHbAvUfHQ) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Aeonian](https://open.spotify.com/album/10TTVSf5z979cewemtMlep) | 2:46 | 2022-06-17 |  |
 | [Agricola Pamtillan](https://open.spotify.com/track/6oespGB8uH8MnFMPncsOiQ) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Agricola Pamtillan](https://open.spotify.com/album/1n0hHrMp1GmcW02jCTeGMJ) | 2:07 | 2022-06-17 |  |
+| [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-12 |  |
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-06-17 |  |
 | [Aria Amore](https://open.spotify.com/track/2gbiV6hshIr99CuE8Jmc1J) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Aria Amore](https://open.spotify.com/album/0dZ1cH2oc1byH1xvEMkwhE) | 2:36 | 2022-06-17 |  |
 | [Art Deco](https://open.spotify.com/track/2S1ddYY7BolUpyqjFVrgGv) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [West End](https://open.spotify.com/album/2ze5UXnapC2cmlXG70feQ3) | 2:33 | 2022-06-17 |  |
@@ -43,6 +44,7 @@
 | [Dawn in the Alps](https://open.spotify.com/track/3juEXNwsK231EL3cmEIYyh) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Dawn in the Alps](https://open.spotify.com/album/5ZBiuIE9R6XgDWRKMI7q4F) | 3:58 | 2022-06-17 |  |
 | [Days Like These](https://open.spotify.com/track/6yHEpp2Npgz3DGeUGjexgO) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt) | [Days Like These](https://open.spotify.com/album/54wydD6HnHaWq8AxbWk9vA) | 2:13 | 2022-06-17 |  |
 | [Days of Rain](https://open.spotify.com/track/2jsQWRYISLjXA2x3LQMzH6) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Days of Rain](https://open.spotify.com/album/4BytJNCzENodkN9futggYe) | 2:48 | 2022-06-17 |  |
+| [Delft](https://open.spotify.com/track/0Wrotq5gGyWP5hgYZcrnF3) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Shining Path](https://open.spotify.com/album/5gDgTrpRIVwJpRJHFo7O8u) | 2:29 | 2022-08-12 |  |
 | [Delilah](https://open.spotify.com/track/3F5CznF1pxGnp7VVfurpF5) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Delilah](https://open.spotify.com/album/7l8ACxfIyslVvGppzk6ma0) | 2:36 | 2022-06-17 |  |
 | [Descansando](https://open.spotify.com/track/77WrxZPDUBedSnspuu0b6n) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Descansando](https://open.spotify.com/album/78xPfC9TQHw0P3FbmYQBLY) | 2:34 | 2022-06-17 |  |
 | [Dois Mundos](https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [Clinton Hill](https://open.spotify.com/album/6TNK5hsPc9fZbRSnAejZeI) | 2:46 | 2022-06-17 |  |
@@ -92,6 +94,7 @@
 | [La Mestis](https://open.spotify.com/track/0blt7mXlKmi52DXcYUKiQL) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [La Mestis](https://open.spotify.com/album/0VPJYGbYJsCCMvWujKVoj7) | 2:00 | 2022-06-17 |  |
 | [La Sete D'Amore](https://open.spotify.com/track/4wLcJj4nrjiYGn3iRaDAmq) | [Elmer Soulé](https://open.spotify.com/artist/4lpow0wYafRp1sMMyCbOe2) | [La Sete D'Amore](https://open.spotify.com/album/3n5FEuPpGPkDhnG4jWJb8V) | 1:34 | 2022-06-17 |  |
 | [Leaving](https://open.spotify.com/track/4zhlwkxU3siDqjyTN9obCq) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Leaving](https://open.spotify.com/album/78Ixx68Z6lBKYHUbhMjRFt) | 3:25 | 2022-06-17 |  |
+| [Live Forever](https://open.spotify.com/track/5FPdwD2bN2dhamXq48ahzk) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Live Forever](https://open.spotify.com/album/49dxWodL0FhB1Uzg9iUETV) | 2:43 | 2022-08-12 |  |
 | [Long Walking Back Home](https://open.spotify.com/track/3rlhZSPaSjM9Xf3R8iInwG) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Long Walking Back Home](https://open.spotify.com/album/2uEL6m8Pq3u7m3HirU4NxX) | 3:08 | 2022-06-17 |  |
 | [Looking Back](https://open.spotify.com/track/6RZAuFGShnNxq37NM0SMbH) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Looking Back](https://open.spotify.com/album/73s0HB2kuLl7a0wo5N19lY) | 2:28 | 2022-06-17 |  |
 | [Love Letters](https://open.spotify.com/track/1WcxF14tMwAKjdSrBWGpf9) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Love Letters](https://open.spotify.com/album/2JPxZPWpH2NHVzFPDfc5PT) | 2:27 | 2022-06-17 |  |
@@ -148,6 +151,7 @@
 | [Saramjan](https://open.spotify.com/track/1fuyZkRvsGM42RQC8Hs306) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Saramjan](https://open.spotify.com/album/4HDS8pE5Mm1MMA3Gahxt6y) | 2:17 | 2022-06-17 |  |
 | [Sequoia](https://open.spotify.com/track/461cC9CgeIx0ROdpaIkMtw) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Sequoia](https://open.spotify.com/album/1t5CbziFDuyPWv75q3tnCY) | 2:51 | 2022-06-17 |  |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2022-06-17 |  |
+| [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-12 |  |
 | [Silver Rain](https://open.spotify.com/track/2cdQ3ro104pXdRecdTdcAT) | [Charles Weller](https://open.spotify.com/artist/1XFRy3zoPzIdsP8yfzXRem) | [Silver Rain](https://open.spotify.com/album/2CPIVrrXY1tHjKgOOxFm4e) | 1:40 | 2022-06-17 |  |
 | [Slowly Dreaming Away](https://open.spotify.com/track/1Q91XhVR27Sl9t5se58PfG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Slowly Dreaming Away](https://open.spotify.com/album/3eoR8gGsTOFQ9Su6w1sbtk) | 1:58 | 2022-06-17 |  |
 | [Solitaire](https://open.spotify.com/track/78z9A93mkKiW9QyhWazsli) | [Anayah Burke](https://open.spotify.com/artist/56snJZ1Nb0tP4197xTHV68) | [Solitaire](https://open.spotify.com/album/4pgQkUGJx1hijH9zqfun2f) | 3:01 | 2022-06-17 |  |

@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\. Cover: Miley Cyrus.
 
-191 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/1gnHrTzwOKwLkCguLOL3Ry)
+192 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/1gnHrTzwOKwLkCguLOL3Ry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Erotica \- Live](https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour](https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3) | 4:55 | 2022-04-29 | 2022-06-01 |
 | [Evergreen \(Love Theme from "A Star Is Born"\) \- Live](https://open.spotify.com/track/6P9X7AlQzsCvAL8J9fTfnP) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [One Voice](https://open.spotify.com/album/69TPOVVeA5VBEPWLrCMQ4f) | 3:03 | 2022-04-14 | 2022-07-29 |
 | [Every Time You Go Away \- Live at Live Aid, Wembley Stadium, 13th July 1985](https://open.spotify.com/track/0EmusWHa1oo4iRe1OqgOqH) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [Live Aid \(Live, 13th July 1985\)](https://open.spotify.com/album/5Ke7S3qdSjC6on0xfVkAss) | 7:04 | 2022-04-14 | 2022-07-29 |
-| [Every Time You Go Away \- Live at Wembley Stadium, 13th July 1985](https://open.spotify.com/track/3cgvF740F4AtDbZ1c5oBeT) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [Paul Young at Live Aid \(Live at Wembley Stadium, 13th July 1985\)](https://open.spotify.com/album/16Zjv01t1RghPzjvADyi1N) | 7:04 | 2022-04-29 |  |
+| [Every Time You Go Away \- Live at Wembley Stadium, 13th July 1985](https://open.spotify.com/track/3cgvF740F4AtDbZ1c5oBeT) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [Paul Young at Live Aid \(Live at Wembley Stadium, 13th July 1985\)](https://open.spotify.com/album/16Zjv01t1RghPzjvADyi1N) | 7:04 | 2022-04-29 | 2022-08-12 |
 | [Everything \- Live from Madison Square Garden](https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé Meets Madison Square Garden](https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt) | 3:37 | 2022-04-14 |  |
 | [Fading Like a Flower \(Every Time You Leave\) \- Live in Sydney](https://open.spotify.com/track/6yQ9U6ttRcwmiQrPbrzIq8) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride 30th Anniversary Edition](https://open.spotify.com/album/1pLZNTNM3IncoD6qVfO1rK) | 4:09 | 2022-04-14 | 2022-04-21 |
 | [Fallin' \- Live at Metropolis Studios, New York, NY \- May 2013](https://open.spotify.com/track/3pTHh8iYearZ6hCWvLvbX9) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Alicia Keys \- VH1 Storytellers](https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9) | 4:44 | 2022-04-14 | 2022-08-09 |
@@ -139,6 +139,7 @@
 | [Nothing Breaks Like a Heart \- Live](https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:54 | 2022-04-29 |  |
 | [Parting Glass \- Live at Wembley Stadium](https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 3:15 | 2022-04-14 |  |
 | [Party In The USA \- Live](https://open.spotify.com/track/5awub9b8qfJEAhJXhkiWez) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 7:00 | 2022-04-14 |  |
+| [Physical \- Live](https://open.spotify.com/track/2yT82AafNlbpU7EAZkMQbw) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 4:43 | 2022-08-09 |  |
 | [Praying For Time \- Live](https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:58 | 2022-04-14 |  |
 | [Rehab \- Live On Jools Holland](https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:41 | 2022-04-14 |  |
 | [Roman Holiday \- Live From Webster Hall](https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Live From Webster Hall\)](https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z) | 3:17 | 2022-04-29 | 2022-08-10 |

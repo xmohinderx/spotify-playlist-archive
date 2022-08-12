@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Consolation",
+        "url": "https://open.spotify.com/album/2nlJZihKLK6FiycKLEMaQd"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196707,
+      "name": "Consolation",
+      "url": "https://open.spotify.com/track/6aZui1qCJi7owqT0AANuHb"
+    },
+    {
+      "album": {
         "name": "Dagdraumur",
         "url": "https://open.spotify.com/album/2mwJKpI6depPe7yzYAIzGT"
       },
@@ -495,6 +513,24 @@
       "duration_ms": 121148,
       "name": "gahara sapana \u0917\u0939\u0930\u093e \u0938\u092a\u0928\u093e",
       "url": "https://open.spotify.com/track/3mima9lt5qBHwtEVzcRbwn"
+    },
+    {
+      "album": {
+        "name": "Geodesic",
+        "url": "https://open.spotify.com/album/2Fc1VN26UU4Zki3j99CRpR"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173812,
+      "name": "Geodesic",
+      "url": "https://open.spotify.com/track/79XI9zIPk3P4FICY1lC4PQ"
     },
     {
       "album": {

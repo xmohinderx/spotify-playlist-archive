@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-221 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+222 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Lifeless Major](https://open.spotify.com/track/7n9n0v33mqEMniNMTmxv1J) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lifeless Major](https://open.spotify.com/album/2lV37OXeIK3GBP5vTAevLp) | 2:46 | 2022-07-01 |  |
 | [Living Inside Your Love](https://open.spotify.com/track/2nRdWUhn7dEJbOSv9zrhMF) | [Monumental Men](https://open.spotify.com/artist/1g086QeJJCdi3HfyfpU22A) | [Living Inside Your Love](https://open.spotify.com/album/28BKM9sQYJudVEiVecxKT5) | 4:04 | 2019-10-04 | 2022-02-12 |
 | [Living Quarters](https://open.spotify.com/track/1ogoiiimWF8xDwZCIrc9AT) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Living Quarters](https://open.spotify.com/album/2rFeIx7pisAIFKwdy1rTYI) | 2:21 | 2021-10-26 | 2022-02-12 |
+| [Lost Boys](https://open.spotify.com/track/4pCD8UePjCSLPBZMiWbV2R) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Lost Boys](https://open.spotify.com/album/3HsiVf90EsNt1Bjk0KAcH1) | 3:17 | 2022-08-12 |  |
 | [Love and Fear](https://open.spotify.com/track/2yZLrdAVKZXS6dhWtnheXw) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Love and Fear](https://open.spotify.com/album/1iGrF9KFH0z04I75umd88i) | 2:13 | 2019-10-04 | 2022-02-12 |
 | [Low \- Kaskade Remix](https://open.spotify.com/track/2Vrg4Ar4v8KECMdwck1DRl) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:40 | 2022-02-11 |  |
 | [Low Life](https://open.spotify.com/track/28BEwylPqT4eAmVYbhC3iL) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Low Life](https://open.spotify.com/album/1BctYb6UkgBUGhEKAJ5JyD) | 2:59 | 2019-10-04 | 2022-02-12 |

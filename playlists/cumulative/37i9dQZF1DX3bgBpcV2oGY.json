@@ -512,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Shining Path",
+        "url": "https://open.spotify.com/album/5gDgTrpRIVwJpRJHFo7O8u"
+      },
+      "artists": [
+        {
+          "name": "Victor Manu",
+          "url": "https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149079,
+      "name": "Delft",
+      "url": "https://open.spotify.com/track/0Wrotq5gGyWP5hgYZcrnF3"
+    },
+    {
+      "album": {
         "name": "Distant Shore",
         "url": "https://open.spotify.com/album/2Vw8NgD0EVnt0k6SDtdHCY"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,465 likes - 64 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,650 likes - 64 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 46 | [Arabia](https://open.spotify.com/track/2x3y6FM0Ty44ee2uenURLW) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Dawiz](https://open.spotify.com/artist/16pbYWC2245gjzNQa3BlCs) | [Arabia](https://open.spotify.com/album/0ErzHJudrUIuFO67gYpcow) | 2:37 |
 | 47 | [Mar de Males](https://open.spotify.com/track/2dt8G6Jx5Ngp5WKvZQoXf1) | [Mayo 214](https://open.spotify.com/artist/7uXKIO6VDeOCo6ImWZpZJn), [La Cantera](https://open.spotify.com/artist/1T1XaAhbH2hFHDIAUhLAaa) | [Mar de Males](https://open.spotify.com/album/64lovgnKDKb6b0RZrgRozI) | 3:36 |
 | 48 | [Cómete Mi Éxito](https://open.spotify.com/track/4gFxJbsFvf0L97TlkGW04k) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe) | [Cómete Mi Éxito](https://open.spotify.com/album/1qA191L6gF00pamusjQHMw) | 3:23 |
-| 49 | [Chatarra](https://open.spotify.com/track/2pqaZXlvOQLL51UwDHDi4o) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Brawler](https://open.spotify.com/artist/3ou0JTD6UMkXvymmMrzBOJ), [Nerso](https://open.spotify.com/artist/2sA17fdEW3AIUbETkwrsKY) | [Chatarra](https://open.spotify.com/album/61AnsKPGiCjCPlGn7n1NS4) | 3:26 |
+| 49 | [Chatarra](https://open.spotify.com/track/0M9PsXoNAsUzmOeMlhbx44) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Brawler](https://open.spotify.com/artist/3ou0JTD6UMkXvymmMrzBOJ), [Nerso](https://open.spotify.com/artist/2sA17fdEW3AIUbETkwrsKY) | [Chatarra](https://open.spotify.com/album/1dZrdu4MxyX2gBuN4CWCC1) | 3:26 |
 | 50 | [Me Persigue](https://open.spotify.com/track/4Eaw8RLQsfYSMGPbuu0xZj) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Me Persigue](https://open.spotify.com/album/1kHi5vEAOoZrwV7TdptU7q) | 3:00 |
 | 51 | [Bukowski](https://open.spotify.com/track/04G7s84Y5Wpuq77I6IfVvX) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Bukowski](https://open.spotify.com/album/2CqlKHx9gPw8nfYvKZlaIZ) | 3:28 |
 | 52 | [Freestyle Session \#13](https://open.spotify.com/track/2yGN0LzE0AL7Ev9chjp9Nh) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Freestyle Session \#13](https://open.spotify.com/album/1erD5sfzkSeBKykn8baBla) | 5:39 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 58 | [Ante Todo](https://open.spotify.com/track/1rYeq652rsRn0K289Hhc6Y) | [SWIT EME](https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz) | [Ante Todo](https://open.spotify.com/album/1QaaCDAGbyYJV0Fy2sBBwQ) | 2:58 |
 | 59 | [Zenit](https://open.spotify.com/track/01T6sBu7sH9ptbJcDw43Go) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Zenit](https://open.spotify.com/album/66MM8SlomcjeC7UqlTGtvI) | 2:26 |
 | 60 | [Bengala](https://open.spotify.com/track/49FHrJRo7LTlNI2KPwpMVd) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6), [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y) | [Bengala](https://open.spotify.com/album/6nLTPZ7E0eZtUW472gZP4P) | 4:12 |
-| 61 | [Hasta el amanecer](https://open.spotify.com/track/05WcYNSHMxuM7ryv5sKIjX) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Hasta el amanecer](https://open.spotify.com/album/3Qqrz8rw1u72reNglIxn2z) | 3:40 |
+| 61 | [Hasta el amanecer](https://open.spotify.com/track/4BqWFdof5Lct3HBtD8ZzOZ) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Hasta el amanecer](https://open.spotify.com/album/6RWArjq04vnxbA3D4snTPp) | 3:40 |
 | 62 | [La Mili](https://open.spotify.com/track/3JZQr9C0hQbhs0uV98KLMo) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [La Mili](https://open.spotify.com/album/5IpcI6X72fiNGb23A0208k) | 2:56 |
-| 63 | [Dime que sí](https://open.spotify.com/track/0O4bCG1TnGt4rARJOFfa1N) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5ElCfa24Wz9evOfT5k6uEB) | 4:29 |
+| 63 | [Dime que sí](https://open.spotify.com/track/5WFukWVre2TgDKG6G4T5Wq) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 4:29 |
 | 64 | [A la tumba](https://open.spotify.com/track/5NwMiXLw1SnW4O7SgsaHeo) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 3:50 |
 
-Snapshot ID: `MTY1OTY1MDQ2MCwwMDAwMDAwMDMyODNiMDY4YzVjZjgzNjNmMzg0Y2VhMmNlOWYxYjdm`
+Snapshot ID: `MTY1OTY1MDQ2MCwwMDAwMDAwMDZiNjgxZWFmMmZhMDQ4OWNmYzc1YmRhNTFiMTk0ZWMx`

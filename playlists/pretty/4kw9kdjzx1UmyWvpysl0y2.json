@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128529,
+  "num_followers": 128535,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU2NixjODUzNDRlZTFhY2I3ZjRhMjZkNmVlZGVkNDIxYWEwODhjZDRiNDAx",
+  "snapshot_id": "MzU2OCw2ZmM5ZGEwZjYyYjY1YTIxNTBiNjI2ODZlYjQwZGJiODYzMjdhYzIw",
   "tracks": [
+    {
+      "added_at": "2022-08-11 16:12:48",
+      "album": {
+        "name": "Here For Now",
+        "url": "https://open.spotify.com/album/2imHKzs8s94B6vGL0DTtlf"
+      },
+      "artists": [
+        {
+          "name": "Fransis Derelle",
+          "url": "https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn"
+        },
+        {
+          "name": "CRaymak",
+          "url": "https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm"
+        },
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+        }
+      ],
+      "duration_ms": 229859,
+      "name": "Here For Now",
+      "url": "https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W"
+    },
     {
       "added_at": "2022-08-10 16:22:14",
       "album": {
@@ -1103,22 +1127,6 @@
       "duration_ms": 204800,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai"
-    },
-    {
-      "added_at": "2022-06-01 16:31:51",
-      "album": {
-        "name": "California Sessions",
-        "url": "https://open.spotify.com/album/4JuvwXDh08DajGwNrvVoOH"
-      },
-      "artists": [
-        {
-          "name": "Manu Zain",
-          "url": "https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1uI5SfxcOTpnxjU3DGlJGM"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

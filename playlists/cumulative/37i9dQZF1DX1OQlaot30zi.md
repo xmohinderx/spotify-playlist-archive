@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Shiva, Luchè, Sfera Ebbasta e tanti altri!
 
-532 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+533 songs - 1 day 0 hr 41 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Easy \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0DpTRR4HyiDJH4Waoj9hXU) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 3:26 | 2022-05-10 | 2022-05-27 |
 | [Eclissi \(feat\. J Lord & Speranza\)](https://open.spotify.com/track/0azAYaqLS3VSN6KCvsdIfc) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:14 | 2022-05-10 | 2022-05-20 |
 | [EDEN](https://open.spotify.com/track/2g2xwQuBCd2B4KiV0DgMPG) | [FKA 059](https://open.spotify.com/artist/0qs58UjHvEGo2rzfjxinmY), [Lester Nowhere](https://open.spotify.com/artist/0wolj0IKnhhYnBFynfNaQn) | [STARRY EYES](https://open.spotify.com/album/1TkhP0JzKWq7JoORODEXyM) | 2:12 | 2022-05-10 | 2022-05-13 |
+| [Egalité](https://open.spotify.com/track/2K5WVSBT5uN16sGpx2T5dA) | [8mike](https://open.spotify.com/artist/4g82Dq6YOjema0kQwuhB9N), [YaluDream](https://open.spotify.com/artist/2p06NWAbxsP7iFmrq9Ny4J) | [Egalitè](https://open.spotify.com/album/7AnpHFPZoNeLZI1UQmCByA) | 2:17 | 2022-08-11 |  |
 | [EGO](https://open.spotify.com/track/1UdXBJYOZ1XUdptM0IlzzJ) | [Goosie](https://open.spotify.com/artist/1Q5MLomG7ynZZsa8RcAEwI) | [EGO](https://open.spotify.com/album/7uladFoBRhD7lGfyKd0Ta2) | 1:52 | 2022-08-04 |  |
 | [EGO](https://open.spotify.com/track/6i88tx7811AzFNDknwILat) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/0iJVjnO4uw4vTJImGTwyXb) | 2:51 | 2022-05-26 | 2022-06-10 |
 | [Entriamo d'abuso](https://open.spotify.com/track/26d8hSpEjm2snnNZNZXW9Y) | [Oro Bianco](https://open.spotify.com/artist/7ClSHMB7VFSKtsNNuS6x8u), [Darié Baby](https://open.spotify.com/artist/5WUPU4vX8WxHQzLreRXwLX) | [Entriamo d'abuso](https://open.spotify.com/album/7mW1GfBtSbbg57PTUi4Nvc) | 2:04 | 2022-07-21 | 2022-08-05 |

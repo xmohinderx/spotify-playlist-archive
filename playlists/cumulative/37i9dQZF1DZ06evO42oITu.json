@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 150626,
       "name": "For Your Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 191560,
       "name": "Forever Man - 1999 Remaster",
       "url": "https://open.spotify.com/track/6d4uxTsF44xXW6KWnp5pJh"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 204453,
       "name": "Golden Ring - Live",
       "url": "https://open.spotify.com/track/09BuhppxQPlkW3vjHzNxsZ"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 411720,
       "name": "Have You Ever Loved a Woman - Live at the Fillmore, San Francisco, 1994",
       "url": "https://open.spotify.com/track/7AXdVkmpQny21kNFVlhus5"
@@ -796,6 +796,24 @@
     },
     {
       "album": {
+        "name": "Slowhand 35th Anniversary",
+        "url": "https://open.spotify.com/album/2c0bqDdHYpcyd8eQp55tbO"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288693,
+      "name": "Peaches And Diesel",
+      "url": "https://open.spotify.com/track/1Ahz461HRMTb87MMGT8AUY"
+    },
+    {
+      "album": {
         "name": "Pompous Fool",
         "url": "https://open.spotify.com/album/2BPC18y4vgEymeHhdhnacw"
       },
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"

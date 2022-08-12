@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Minions
 
-358 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+359 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 | 2022-02-02 | 2022-07-02 |
 | [Dat Way](https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo) | [Barely Legal](https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol), [Jay Browne](https://open.spotify.com/artist/345vrTFNzEOhTuVkrZD9aZ) | [Daytona](https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa) | 3:08 | 2022-03-11 | 2022-07-16 |
 | [Deadguy](https://open.spotify.com/track/1lITtbljRbadZO0eXgSoIX) | [Zelly Ocho](https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML) | [Vlamily](https://open.spotify.com/album/04UXzrSTCTv7AN32oxVpKF) | 1:55 | 2022-04-06 | 2022-05-25 |
-| [Dean Kissick](https://open.spotify.com/track/2ZAERMWil2FtIDHgnpek5Z) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Dean Kissick](https://open.spotify.com/album/6pgtop8AG6E2I6oVm6X4H3) | 1:48 | 2022-07-29 |  |
+| [Dean Kissick](https://open.spotify.com/track/09AILqJtBjyMGJah1zYyQB) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Dean Kissick](https://open.spotify.com/album/4GrqSrbnSOZZmCEvezSQYy) | 1:48 | 2022-07-29 |  |
+| [Dean Kissick](https://open.spotify.com/track/2ZAERMWil2FtIDHgnpek5Z) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Dean Kissick](https://open.spotify.com/album/6pgtop8AG6E2I6oVm6X4H3) | 1:48 | 2022-07-29 | 2022-08-12 |
 | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/track/1oPdIqXhjswpTnA5PPQs0K) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/album/3AocIGXpIRlNgd2BSoETUH) | 3:01 | 2021-12-07 | 2022-02-05 |
 | [DELIRIOUS!](https://open.spotify.com/track/6KemhLE5U7fd5SBUJr2sRl) | [Championxiii](https://open.spotify.com/artist/0mYBT2Ek76Szd4MqbCgT5R), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [DELIRIOUS!](https://open.spotify.com/album/7LiafuGVnC731meL4S6cmi) | 1:32 | 2021-10-08 | 2022-04-03 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-26 |  |

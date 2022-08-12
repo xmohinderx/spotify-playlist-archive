@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN?si=b34BKLtHQl6KTTEqBCpysQ\">Mafikizolo</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=fzYSGg0qR3OZpf06fSNyQQ\">Nomfundo Moh</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 293593,
       "name": "Ghanama",
       "url": "https://open.spotify.com/track/0AZxr9dlswnn6TNxIMyijH"
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 247688,
       "name": "Lilizela",
       "url": "https://open.spotify.com/track/7II1jN6iXtWsSt1e27wLVB"
@@ -2814,6 +2814,28 @@
     },
     {
       "album": {
+        "name": "Ngingo Wakho",
+        "url": "https://open.spotify.com/album/3fe1n8u2IjDzICZZwffugr"
+      },
+      "artists": [
+        {
+          "name": "Sparks Bantwana",
+          "url": "https://open.spotify.com/artist/4RHZEatdcV6Uz3j3DwOqIf"
+        },
+        {
+          "name": "Ngelosi",
+          "url": "https://open.spotify.com/artist/4BOwguMrG9l04OnWyBrmXg"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307802,
+      "name": "Ngingo Wakho",
+      "url": "https://open.spotify.com/track/4LwKC20vFWCqrU9vO62s8l"
+    },
+    {
+      "album": {
         "name": "Nginjena",
         "url": "https://open.spotify.com/album/2DbsYObKNlNtVBjhTEg9HW"
       },
@@ -2887,7 +2909,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 340885,
       "name": "Ngwago",
       "url": "https://open.spotify.com/track/34m91Dl71iUdtLVr3qmIFE"
@@ -2941,7 +2963,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 213750,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2f0qeOpJ552XhyyMcDnSgM"
@@ -3561,7 +3583,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 261428,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/3hpWzp9KP0DWe1BprlE0bl"
@@ -4307,6 +4329,44 @@
       "duration_ms": 278049,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/6l4EAi2hbZU9TfZWHUzDBE"
+    },
+    {
+      "album": {
+        "name": "Vuka (feat. Aubrey Qwana, Major Steez, Howard & Paula Sibiya)",
+        "url": "https://open.spotify.com/album/0fpNY0PwtMQK04zwJCRRRG"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2"
+        },
+        {
+          "name": "Shishiliza",
+          "url": "https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj"
+        },
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        },
+        {
+          "name": "Major Steez",
+          "url": "https://open.spotify.com/artist/53USZp90L3y9UWXMK0zKF6"
+        },
+        {
+          "name": "Howard",
+          "url": "https://open.spotify.com/artist/0aP1ZzvGhXjejlBmy1Gk6G"
+        },
+        {
+          "name": "Paula Sibiya",
+          "url": "https://open.spotify.com/artist/5mEZ8Btz4Qm529ID3lpoUv"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282558,
+      "name": "Vuka (feat. Aubrey Qwana, Major Steez, Howard & Paula Sibiya)",
+      "url": "https://open.spotify.com/track/4GYbqE7oCdcoR03s1dm768"
     },
     {
       "album": {

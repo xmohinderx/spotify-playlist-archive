@@ -1,13 +1,29 @@
 {
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q?si=dHc9UkpbQz2jb-MNOXBWbw\">Boondocks Gang</a> ",
-  "num_followers": 12235,
+  "num_followers": 12249,
   "original_name": "Gengetone Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4Njk3MiwwMDAwMDAwMGNlOWUyOGY3OWU4NDg3N2UxN2ViYzg0NjM5ODNhMGEz",
+  "snapshot_id": "MTY2MDI1MTU0MCwwMDAwMDAwMDNhMGY0MjlhZWJmYTRlNWZmNGUzMWJmNTNkNTY4OWJm",
   "tracks": [
+    {
+      "added_at": "2022-06-30 20:59:00",
+      "album": {
+        "name": "WANJAPI 2",
+        "url": "https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40"
+      },
+      "artists": [
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "WANJAPI 2",
+      "url": "https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ"
+    },
     {
       "added_at": "2022-08-05 08:09:32",
       "album": {
@@ -29,20 +45,20 @@
       "url": "https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu"
     },
     {
-      "added_at": "2022-06-30 20:59:00",
+      "added_at": "2022-08-11 20:59:00",
       "album": {
-        "name": "WANJAPI 2",
-        "url": "https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40"
+        "name": "Kanairo Dating",
+        "url": "https://open.spotify.com/album/0OH5okIVBbVDxhUfxdjt5J"
       },
       "artists": [
         {
-          "name": "Uncojingjong",
-          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
         }
       ],
-      "duration_ms": 210960,
-      "name": "WANJAPI 2",
-      "url": "https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ"
+      "duration_ms": 221332,
+      "name": "Kanairo Dating",
+      "url": "https://open.spotify.com/track/61yhVznYvsruXvl71ld3ig"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -75,6 +91,34 @@
       "duration_ms": 152999,
       "name": "Kamkora",
       "url": "https://open.spotify.com/track/3Dvxpka8fCFTidzANF4Xpm"
+    },
+    {
+      "added_at": "2022-08-11 20:59:00",
+      "album": {
+        "name": "Freshi Barida (Remix)",
+        "url": "https://open.spotify.com/album/4eXnMIxfeI9uvVhwanHigy"
+      },
+      "artists": [
+        {
+          "name": "Stevo Simple Boy",
+          "url": "https://open.spotify.com/artist/4AWQoDrvQdiwSMZgphLTfI"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Ntosh Ngazi",
+          "url": "https://open.spotify.com/artist/4QvwgtZXeVbmyeKTRqOczU"
+        },
+        {
+          "name": "Exray",
+          "url": "https://open.spotify.com/artist/4LuC7VnBIHO29vdcrMtk8l"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Freshi Barida - Remix",
+      "url": "https://open.spotify.com/track/5YGdJhOjYHJsJgE9PGlCMF"
     },
     {
       "added_at": "2022-05-19 20:59:00",
@@ -149,6 +193,30 @@
       "url": "https://open.spotify.com/track/2cy5jKcaRg831XEwEyxSR8"
     },
     {
+      "added_at": "2022-08-11 20:59:00",
+      "album": {
+        "name": "Naskia Poa Remix",
+        "url": "https://open.spotify.com/album/6sJIql7TeC3NVJ3Jgb9JTD"
+      },
+      "artists": [
+        {
+          "name": "Dmore",
+          "url": "https://open.spotify.com/artist/01v6UAGxwidjKJkYwX5zcr"
+        },
+        {
+          "name": "Ochungulo Family",
+          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
+        },
+        {
+          "name": "Bobo Nyosto",
+          "url": "https://open.spotify.com/artist/5520Pd7tpASXN6tyXlWJUc"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Naskia Poa Remix",
+      "url": "https://open.spotify.com/track/7CHCfjUFyQwUmFncAAmxwB"
+    },
+    {
       "added_at": "2022-07-01 03:54:45",
       "album": {
         "name": "Dweet",
@@ -207,6 +275,26 @@
       "duration_ms": 246883,
       "name": "Gin ama Whiskey",
       "url": "https://open.spotify.com/track/4avsKo1gmFshYWbaom1ziJ"
+    },
+    {
+      "added_at": "2022-08-11 20:59:00",
+      "album": {
+        "name": "Kata Simu Tupo Site",
+        "url": "https://open.spotify.com/album/55JPWUIgkSDbNao09s4Y1U"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        },
+        {
+          "name": "Mc Rayan The Dj",
+          "url": "https://open.spotify.com/artist/230ekA5qM5ff89XJ7qIN4Z"
+        }
+      ],
+      "duration_ms": 134843,
+      "name": "Kata Simu Tupo Site",
+      "url": "https://open.spotify.com/track/1im2flSA48HRObloZjJwOm"
     },
     {
       "added_at": "2022-06-23 20:59:00",
@@ -287,6 +375,30 @@
       "duration_ms": 178662,
       "name": "Kwaito",
       "url": "https://open.spotify.com/track/0Ufi9fI168Dv2QJqeyxtH6"
+    },
+    {
+      "added_at": "2022-08-11 20:59:00",
+      "album": {
+        "name": "Ng'ang'o",
+        "url": "https://open.spotify.com/album/0cCmWkYJragCVVC2seT3fc"
+      },
+      "artists": [
+        {
+          "name": "VDJ Jones",
+          "url": "https://open.spotify.com/artist/5CoXG9KZC7qK1LsZ4FYtAm"
+        },
+        {
+          "name": "Bussa J",
+          "url": "https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd"
+        },
+        {
+          "name": "Iano Ranking",
+          "url": "https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "Ng'ang'o",
+      "url": "https://open.spotify.com/track/1WuBrDXMqotDpjPJxLR9VP"
     },
     {
       "added_at": "2022-07-07 20:59:00",
@@ -1167,22 +1279,18 @@
     {
       "added_at": "2022-04-14 20:59:00",
       "album": {
-        "name": "Chachisha",
-        "url": "https://open.spotify.com/album/4u4IegzrprvRureffwEyPt"
+        "name": "Vivi The Album",
+        "url": "https://open.spotify.com/album/6aLva35MBow24eToRVDKC7"
       },
       "artists": [
         {
-          "name": "Vivian",
-          "url": "https://open.spotify.com/artist/7HXNJugma9up2G9x3zJqg4"
-        },
-        {
-          "name": "Sosuun",
-          "url": "https://open.spotify.com/artist/3t8wMKWLUkUB922JrL8rGU"
+          "name": "Vivian Kenya",
+          "url": "https://open.spotify.com/artist/5VPOmZOwOPNzb6rqlNkul3"
         }
       ],
       "duration_ms": 196310,
       "name": "Chachisha",
-      "url": "https://open.spotify.com/track/3B8HK99F4bvh2P2zD3LpE6"
+      "url": "https://open.spotify.com/track/2p5qCcxhQghPIXgExufeSC"
     },
     {
       "added_at": "2022-02-04 03:00:07",

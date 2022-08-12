@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mari Fernandez e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,176 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,358 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,22 +18,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 8 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 | 9 | [Ex De Ninguém \- Ao Vivo](https://open.spotify.com/track/1ZZJNyNnTXQS0siCpnWNUL) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:31 |
 | 10 | [Triscou Já Foi \- Ao Vivo](https://open.spotify.com/track/7cxum22Z75BDS2DTkTz2Ll) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Baseado em Fatos Reais, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/2F1IlArMVL10Uc8BQ4Po3E) | 2:41 |
-| 11 | [Segue Invicto](https://open.spotify.com/track/7JGsf3jzhsMWDu75sQdPCF) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Segue Invicto](https://open.spotify.com/album/6cSpSEmFKxpVasXThfY5Er) | 2:28 |
+| 11 | [Fiquei Careta](https://open.spotify.com/track/5YQzu3kIQmcS2PebmQZcEa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y) | [Fiquei Careta](https://open.spotify.com/album/3q5vBTu20xJkVziypKNPgk) | 2:23 |
 | 12 | [Neon](https://open.spotify.com/track/0FgmXd8120dvsuKa3Rb46q) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Neon](https://open.spotify.com/album/1cyehnMsZvdnhM55OaAEP3) | 3:19 |
 | 13 | [Todo Mundo Menos Você](https://open.spotify.com/track/053zWWZDziDJd3U94x8RuP) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:26 |
 | 14 | [Homem É Tudo Igual \- Ao Vivo](https://open.spotify.com/track/0FV4eVWzSAglihmcJPECiE) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Bar Das Coleguinhas 2](https://open.spotify.com/album/6o7dyRbOOXaXH6SPbrJyFO) | 2:24 |
 | 15 | [Zap](https://open.spotify.com/track/1p787PB1sNKkN8wpI49jcJ) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:35 |
-| 16 | [Fiquei Careta](https://open.spotify.com/track/5YQzu3kIQmcS2PebmQZcEa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y) | [Fiquei Careta](https://open.spotify.com/album/3q5vBTu20xJkVziypKNPgk) | 2:23 |
+| 16 | [Segue Invicto](https://open.spotify.com/track/7JGsf3jzhsMWDu75sQdPCF) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Segue Invicto](https://open.spotify.com/album/6cSpSEmFKxpVasXThfY5Er) | 2:28 |
 | 17 | [Me Trata Como Ex \- Ao Vivo](https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Me Trata Como Ex \(Ao Vivo\)](https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ) | 2:44 |
 | 18 | [Ainda Não Tô Pronta \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/0ZBQ5PAD9XjUJOc1VxRQri) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Ainda Não Tô Pronta \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/7h71zpFKYayNlr2sRGSf00) | 2:25 |
 | 19 | [Perigosinha "Louquinha"](https://open.spotify.com/track/0L3b6sD84Py9h9r6RnoJt4) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Perigosinha "Louquinha"](https://open.spotify.com/album/7w4dcc9ArowJKqX7BmBIw3) | 2:37 |
-| 20 | [Duas Caras](https://open.spotify.com/track/4OXWpVtae6WxWUPKApp66r) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Duas Caras](https://open.spotify.com/album/0kNvywWv6Hf5y0l2p4OBUq) | 2:42 |
-| 21 | [Como Eu Quero](https://open.spotify.com/track/20Mxqxf2u0Q6gNteDiViGm) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Como Eu Quero](https://open.spotify.com/album/1GomGMvKxYmMKapaPa1UKO) | 3:21 |
+| 20 | [Como Eu Quero](https://open.spotify.com/track/20Mxqxf2u0Q6gNteDiViGm) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Como Eu Quero](https://open.spotify.com/album/1GomGMvKxYmMKapaPa1UKO) | 3:21 |
+| 21 | [Duas Caras](https://open.spotify.com/track/4OXWpVtae6WxWUPKApp66r) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Duas Caras](https://open.spotify.com/album/0kNvywWv6Hf5y0l2p4OBUq) | 2:42 |
 | 22 | [Eclipse do Meu Coração](https://open.spotify.com/track/1L8z8xVcwsz50N0FOMS3wb) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Eclipse do Meu Coração](https://open.spotify.com/album/5MuqShBqOfBFxvfyUlZx2D) | 3:28 |
 | 23 | [Nem Te Culpo \- Ao Vivo](https://open.spotify.com/track/6WvbrxLv0bebldCrIPIGsL) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Nem Te Culpo \(Ao Vivo\)](https://open.spotify.com/album/6XlZZ1nClQTjNTxFebPpUi) | 3:32 |
 | 24 | [Erra na Minha Cama](https://open.spotify.com/track/12jP8FxoQN567vJnuoV3sw) | [Vitória Freitas](https://open.spotify.com/artist/1iaeAoN04tK7CK0UHppzAI) | [Erra na Minha Cama](https://open.spotify.com/album/5TLGkhsthQpZXti4F1X9iz) | 2:22 |
-| 25 | [Incomparável](https://open.spotify.com/track/2ORAf20kf1XGJ7rWCx5qdp) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Incomparável](https://open.spotify.com/album/5CcrQXqE34bSJNkJz3uwop) | 2:51 |
-| 26 | [Quem Jura Mente](https://open.spotify.com/track/1UhQf6drOjGtJ08aKYMoll) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Quem Jura Mente](https://open.spotify.com/album/5xKZcT2cd4xVQ0OAhuu6y3) | 3:30 |
+| 25 | [Quem Jura Mente](https://open.spotify.com/track/1UhQf6drOjGtJ08aKYMoll) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Quem Jura Mente](https://open.spotify.com/album/5xKZcT2cd4xVQ0OAhuu6y3) | 3:30 |
+| 26 | [Incomparável](https://open.spotify.com/track/2ORAf20kf1XGJ7rWCx5qdp) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Incomparável](https://open.spotify.com/album/5CcrQXqE34bSJNkJz3uwop) | 2:51 |
 | 27 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
 | 28 | [Que Amiga é Essa](https://open.spotify.com/track/5Kvk3PEnJlZ1uGuWTe3pat) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Foguete Não Tem Ré](https://open.spotify.com/album/2edfWtshuAu4zIJ2D6aW5V) | 2:45 |
 | 29 | [Prometo \- Ao Vivo Em Sete Lagoas, Brazil / 2019](https://open.spotify.com/track/3MYojEGnFql7awVqGlLWOS) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Origens \(Ao Vivo Em Sete Lagoas, Brazil / 2019\)](https://open.spotify.com/album/6icX4tuY88Hxubfzma8zu5) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [A de Casa Ou a da Rua \- Ao Vivo](https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 2:49 |
 | 50 | [Eu Não](https://open.spotify.com/track/4LoEqYbhvAsOihCKJBfEP0) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:30 |
 
-Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMGFjZDU3MTkyYWUxYTAxMWRmMmMwNTgzM2E3YjBiNDll`
+Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMDkxMzA1NTllNTNmNjMyMTk1NWE5ZDczNDY0YjdhNzUw`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 233755,
+  "num_followers": 233859,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc2NDU4MywwMDAwMDAwMDMwZWI3N2FhODZlMzZlYzVkOTRmOWMwZjBiNDg2NWJj",
+  "snapshot_id": "MTY1ODc2NDU4MywwMDAwMDAwMGMwY2I2ZTYwN2U5NjM5ZDUwODk4ZTBhN2IyOGQ4YjA2",
   "tracks": [
     {
       "added_at": "2022-07-01 00:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
-        "name": "Yggdrasil",
-        "url": "https://open.spotify.com/album/2HOo60acwIAeLm81e2B2Xw"
-      },
-      "artists": [
-        {
-          "name": "Erdling",
-          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Blizzard",
-      "url": "https://open.spotify.com/track/3l59WwONGVW1OIEVqxr5Li"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
         "name": "Symbols",
         "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 367933,
       "name": "Megalomaniac",
       "url": "https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
+        "name": "Yggdrasil",
+        "url": "https://open.spotify.com/album/2HOo60acwIAeLm81e2B2Xw"
+      },
+      "artists": [
+        {
+          "name": "Erdling",
+          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Blizzard",
+      "url": "https://open.spotify.com/track/3l59WwONGVW1OIEVqxr5Li"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
-        "name": "Prototype 6:17",
-        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
-      },
-      "artists": [
-        {
-          "name": "The Silverblack",
-          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
-        }
-      ],
-      "duration_ms": 208470,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
         "name": "PUMPED UP KICKS",
         "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 271666,
       "name": "PUMPED UP KICKS",
       "url": "https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
+        "name": "Prototype 6:17",
+        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
+      },
+      "artists": [
+        {
+          "name": "The Silverblack",
+          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
+        }
+      ],
+      "duration_ms": 208470,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
-        "name": "Helheim",
-        "url": "https://open.spotify.com/album/4iz7rIBmCZaLIEgjV9MzgI"
-      },
-      "artists": [
-        {
-          "name": "Erdling",
-          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
-        }
-      ],
-      "duration_ms": 192859,
-      "name": "Rabenherz",
-      "url": "https://open.spotify.com/track/2oar4Dbwg8UzuqyVU4gQZl"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
         "name": "Quartz",
         "url": "https://open.spotify.com/album/3shNcErdLLTLJiog9fUUcZ"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
-        "name": "Sex Reflex (Remastered)",
-        "url": "https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK"
+        "name": "Helheim",
+        "url": "https://open.spotify.com/album/4iz7rIBmCZaLIEgjV9MzgI"
       },
       "artists": [
         {
-          "name": "Bile",
-          "url": "https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj"
+          "name": "Erdling",
+          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
         }
       ],
-      "duration_ms": 292036,
-      "name": "In League",
-      "url": "https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx"
+      "duration_ms": 192859,
+      "name": "Rabenherz",
+      "url": "https://open.spotify.com/track/2oar4Dbwg8UzuqyVU4gQZl"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 289451,
       "name": "Ich wei\u00df es nicht",
       "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
+        "name": "Sex Reflex (Remastered)",
+        "url": "https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK"
+      },
+      "artists": [
+        {
+          "name": "Bile",
+          "url": "https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj"
+        }
+      ],
+      "duration_ms": 292036,
+      "name": "In League",
+      "url": "https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx"
     },
     {
       "added_at": "2022-07-01 00:00:00",

@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-71 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
+72 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Nocturne No\. 20 in C\-sharp minor, Op\. posthume](https://open.spotify.com/track/7btkqjF0Jw2DopaH6wvgvD) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jacques Loussier](https://open.spotify.com/artist/1VIbVO1ahhBhe1l8dEe245) | [Beyond Bach, Other Composers I Adore](https://open.spotify.com/album/2YSxMJokGpKxh9kc4Zj6Ro) | 1:56 | 2021-12-02 | 2022-07-29 |
 | [Nocturne No\. 20 in C\-sharp minor, Op\. posthume \(Arr\. for Jazz Solo\)](https://open.spotify.com/track/641dlUcV9G6s5I9BtfKAsE) | [Jacques Loussier](https://open.spotify.com/artist/1VIbVO1ahhBhe1l8dEe245) | [Beyond Bach, Other Composers I Adore](https://open.spotify.com/album/6wcn0aASsJ15iIE1a7KeC1) | 1:56 | 2022-07-07 |  |
 | [Nutcracker Suite \(Arr\. Ellington & Strayhorn\): Sugar Rum Cherry \(Dance of the Sugar Plum Fairy\)](https://open.spotify.com/track/4HUYWxC3FMK9lj1fBe0lZE) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Harmonie Ensemble/New York](https://open.spotify.com/artist/0GfLwr0Zsx7NNi8Hl4bJlo), [Steven Richman](https://open.spotify.com/artist/0brDqEtzVsH4OxYr4xEzhm) | [Tchaikovsky & Ellington: The Nutcracker Suites, Classical & Jazz](https://open.spotify.com/album/5WpLO4jvVGe7I237Jmjvcj) | 3:06 | 2021-12-02 |  |
+| [Orchestersuite D\-Dur BWV 1068: No\. 3 Air \(Arr\. Stefan König\)](https://open.spotify.com/track/5iVIFUBgVvatmKufC2CbVW) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Stephan\-König\-Trio](https://open.spotify.com/artist/7G0nAtg6I4jO03h1LlihYe), [Stephan König](https://open.spotify.com/artist/5z670iMlr1eCJCKK1UoyRP) | [Stephan König: Bach in Jazz](https://open.spotify.com/album/7AuOlhGRcKflgML8T52oDf) | 3:57 | 2022-07-29 |  |
 | [Orchestral Suite No\. 3 in D Major, BWV 1068: II\. Air \(On a G String\)](https://open.spotify.com/track/4FsUPnXoCN6VSgkU6wXAwz) | [Stephan\-König\-Trio](https://open.spotify.com/artist/1BY8RYFS2E4KErfJuQo8n7) | [Bach in Jazz](https://open.spotify.com/album/13cHPvZSrRbNIaFlFosi2i) | 3:57 | 2021-12-02 | 2022-07-29 |
 | [Ornithology \(Arr\. Horsting for Recorder and Ensemble\)](https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [Fuse](https://open.spotify.com/artist/1FayrEV2WYTH8tzkxkWZzP) | [Parker: Ornithology \(Arr\. Horsting for Recorder and Ensemble\)](https://open.spotify.com/album/1gi2fFJa1ablewcCparDeG) | 2:50 | 2022-06-24 |  |
 | [Orphée & Eurydice: Mélodie \- Arranged by Charl du Plessis](https://open.spotify.com/track/3N3QAAN8Z1VKOy4GEl0Yjf) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Charl du Plessis Trio](https://open.spotify.com/artist/5yVlXIvZfgyI6YyNE4cBsW) | [Baroqueswing Vol\. II](https://open.spotify.com/album/180MM5RltxV7A4JtjWFupO) | 3:43 | 2021-12-02 | 2022-07-29 |

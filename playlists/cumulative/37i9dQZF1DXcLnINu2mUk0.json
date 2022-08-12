@@ -274,6 +274,24 @@
     },
     {
       "album": {
+        "name": "Chega P'ra L\u00e1",
+        "url": "https://open.spotify.com/album/4efLnTaK16TYzuCJv4BHA2"
+      },
+      "artists": [
+        {
+          "name": "Hugo Casaca",
+          "url": "https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Chega P'ra L\u00e1",
+      "url": "https://open.spotify.com/track/7h9zNCAa8KLld9mHamzeGG"
+    },
+    {
+      "album": {
         "name": "Como Tu",
         "url": "https://open.spotify.com/album/03Lr0zZfF1ZtWjdgRykjbl"
       },
@@ -449,6 +467,24 @@
       "duration_ms": 185684,
       "name": "Don't Lie",
       "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
+    },
+    {
+      "album": {
+        "name": "Dona",
+        "url": "https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo"
+      },
+      "artists": [
+        {
+          "name": "NGA",
+          "url": "https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245217,
+      "name": "Dona",
+      "url": "https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ"
     },
     {
       "album": {
@@ -879,7 +915,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 221553,
       "name": "Moves",
       "url": "https://open.spotify.com/track/6Qd0m5xN4ngZvHdyy1SMVy"
@@ -1435,7 +1471,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 157714,
       "name": "teach me how to love",
       "url": "https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO"

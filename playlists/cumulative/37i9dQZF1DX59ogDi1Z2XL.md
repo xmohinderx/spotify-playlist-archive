@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Lou Phelps
 
-477 songs - 22 hr 21 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
+478 songs - 22 hr 25 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Kush In Motion](https://open.spotify.com/track/5TZAf2i5CQiSXVMiIOJ7w2) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Kush In Motion](https://open.spotify.com/album/5FCo6s08ViWIUt9dkXwH64) | 3:15 | 2022-07-08 | 2022-07-16 |
 | [Last Call \(Reg's Voicemail\)](https://open.spotify.com/track/7odhYEbktZ14tkDQabTiWX) | [Realcityfame](https://open.spotify.com/artist/5aGiv8WaosuW2FA3CQyul3), [RegSounds](https://open.spotify.com/artist/7o4Xk7xOkXMYZsvecMu8Ej) | [Pain In The City](https://open.spotify.com/album/3DNyLS7YfWoYY4W8B1jKEb) | 3:45 | 2022-07-15 |  |
 | [LAYAWAY](https://open.spotify.com/track/1vlmdl3EsujBerdit6baxa) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [LAYAWAY](https://open.spotify.com/album/6rJCz1RA9QYFaTC6ReiZ5R) | 2:39 | 2022-05-06 | 2022-06-04 |
-| [Legends Never Die](https://open.spotify.com/track/3tNnfVqWt21iy8qqEjf0vP) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Legends Never Die](https://open.spotify.com/album/2tn2GnKecKdjKWy81qdVZh) | 3:25 | 2022-08-05 |  |
+| [Legends Never Die](https://open.spotify.com/track/2brVCu8vXT1AaCXz7MFjC6) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Pressure](https://open.spotify.com/album/56Rs3X51PNd1VmiN16K5fM) | 3:25 | 2022-08-05 |  |
+| [Legends Never Die](https://open.spotify.com/track/3tNnfVqWt21iy8qqEjf0vP) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Legends Never Die](https://open.spotify.com/album/2tn2GnKecKdjKWy81qdVZh) | 3:25 | 2022-08-05 | 2022-08-12 |
 | [LETTER FROM MIAMI](https://open.spotify.com/track/18YeiBqeyJnFVCYFK4303J) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [LETTER FROM MIAMI](https://open.spotify.com/album/4JFr8zQThD8tjFDO1aFem9) | 2:36 | 2022-05-20 | 2022-06-11 |
 | [Letter From The Cell](https://open.spotify.com/track/1XGOH2yf8yQMjrpJFAmvSI) | [Mally Swayzz](https://open.spotify.com/artist/1pWrmfc18H91ApDFs8wJpF) | [Secret Sauce \(Deluxe\)](https://open.spotify.com/album/5e4PO2cP9dEOMfhdgOdHhF) | 2:00 | 2022-01-07 | 2022-02-19 |
 | [Letter To Pyro](https://open.spotify.com/track/6QTBGiepPG9AH9KwN90Hct) | [Slim Dinero](https://open.spotify.com/artist/5M6PQwimbEZ46FXjsIcZxd) | [Pyromaniac](https://open.spotify.com/album/5WLjjRDfTlRd4qcTeZb5aM) | 2:05 | 2022-01-07 | 2022-02-12 |

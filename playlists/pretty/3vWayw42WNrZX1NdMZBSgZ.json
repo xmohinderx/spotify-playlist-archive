@@ -1,13 +1,29 @@
 {
-  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Nicky Jam",
-  "num_followers": 56854,
+  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Silvestre Dangond",
+  "num_followers": 56855,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzQwMiwwOTYyZTA2ZjA0MWI5MGRlMDQ1ZmRmOGZlNGM0NjhmYjM4MzY3ZTMz",
+  "snapshot_id": "MzQwNSwyODE3OTViNzc3NzFlYjY4NDg0YjBjMjk3YmM4OWY0MTUzYmVkOGY0",
   "tracks": [
+    {
+      "added_at": "2022-08-11 22:03:23",
+      "album": {
+        "name": "Pa Que",
+        "url": "https://open.spotify.com/album/1P1yzzemBtMqCRT9qKON0f"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 195564,
+      "name": "Pa Que",
+      "url": "https://open.spotify.com/track/1Xeocn50sUEglN2083ISju"
+    },
     {
       "added_at": "2022-08-05 00:09:15",
       "album": {
@@ -53,6 +69,30 @@
       "url": "https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1"
     },
     {
+      "added_at": "2022-08-11 14:11:19",
+      "album": {
+        "name": "Ponle Dembow",
+        "url": "https://open.spotify.com/album/0hHPlPbwFAvowcLtTpy5qw"
+      },
+      "artists": [
+        {
+          "name": "Cauty",
+          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "574",
+          "url": "https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Ponle Dembow",
+      "url": "https://open.spotify.com/track/1zp23gHCrilG1NGfmjMy0f"
+    },
+    {
       "added_at": "2022-08-10 22:07:37",
       "album": {
         "name": "Si T\u00fa Te Vas (feat. Yung Beef) [Remix]",
@@ -65,7 +105,7 @@
         },
         {
           "name": "Khaled",
-          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+          "url": "https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K"
         },
         {
           "name": "Kaydy Cain",

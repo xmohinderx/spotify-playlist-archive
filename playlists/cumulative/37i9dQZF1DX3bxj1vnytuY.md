@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-118 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+120 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Kinshuka](https://open.spotify.com/track/6M4OAI2jfRNXxp2SXPZZs7) | [Toricos](https://open.spotify.com/artist/7G5OmcnjTOcCvqYcTq44Un) | [Kinshuka](https://open.spotify.com/album/6kGGObRVrrdM5zxs8jNvhg) | 6:25 | 2022-04-13 |  |
 | [Kondelelani](https://open.spotify.com/track/1qsflyGrjihmYDwEaTcdKz) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Kondelelani](https://open.spotify.com/album/0NckaNjRe6HWOLMUnW3GxZ) | 7:08 | 2022-04-13 |  |
 | [Kshama](https://open.spotify.com/track/41DoALg5bbmd2wNXNNyWsB) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Kshama](https://open.spotify.com/album/6uZ3d8tWQJQgmaTgoxdHy5) | 5:20 | 2022-04-13 |  |
+| [L'ame](https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 | 2022-08-04 |  |
 | [Lima](https://open.spotify.com/track/2ilC4aW81hmv8S1xd3DNcm) | [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Lima](https://open.spotify.com/album/794vccfp05jLVlOB3Pw7pI) | 3:32 | 2022-04-13 |  |
 | [Love Song](https://open.spotify.com/track/1wrQkDDLad13DQpWO1zKay) | [VICTHOR](https://open.spotify.com/artist/1w1sHYCtY7hh3pw9R1C9g9), [Christian Lepah](https://open.spotify.com/artist/0EUxPMFdUknfd9UjSpOJGz) | [Love Song](https://open.spotify.com/album/6BZ9PYniIE1kG9dpauKyYo) | 8:39 | 2022-04-13 |  |
 | [Lua \- Pippi Ciez Retake](https://open.spotify.com/track/4ufLhIy7LcTO1gD0aoM7pU) | [Djamou Sangare](https://open.spotify.com/artist/7MIDaIHvsSEayCv0pw3okp), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Pippi Ciez](https://open.spotify.com/artist/46aDUWf82wQR9U9G0k3J1v) | [Lua](https://open.spotify.com/album/0Hc205wUJI8fIBXNku5BEQ) | 7:47 | 2022-04-22 |  |
@@ -119,6 +120,7 @@
 | [Water](https://open.spotify.com/track/6CJRmGL7DViCD19b1AjZ3i) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Aüra](https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ), [Trick Beat](https://open.spotify.com/artist/7hPKG1dTcNZ1ybAkNxFWg1), [Djarah Kan](https://open.spotify.com/artist/1208Qot91BdSVTVUNhc01y) | [Water](https://open.spotify.com/album/6pXz2BeNjmBJJEIiDiomMB) | 7:06 | 2022-04-13 |  |
 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 | 2022-04-13 |  |
 | [Ya Albi](https://open.spotify.com/track/28H69jrYqYi7uTY0xr9Jjj) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Your Destiny Ep](https://open.spotify.com/album/1gJn7kasUhDdy6HJ8pg0uv) | 6:12 | 2022-04-13 |  |
+| [Ya Dam3i](https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 | 2022-08-04 |  |
 | [Ya Rayt \- Shkoon Radio Edit](https://open.spotify.com/track/4dQkzZlY6SKoanDrWGv8WQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7), [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Ya Rayt \(Shkoon Remix\)](https://open.spotify.com/album/5aBPfggkU1oEEA36MJ3yEg) | 3:32 | 2022-04-13 |  |
 | [Ya Sidi \- Valeron Remix](https://open.spotify.com/track/1j19dP73P1n6LJ8bgVyr9T) | [Sound Of Mint](https://open.spotify.com/artist/1YTxtF8PYrZhWBdqUE9cHz), [Farasha](https://open.spotify.com/artist/7zVycMpyEHdrwttDN91Emr), [Yahya](https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX), [Sami Chaouki](https://open.spotify.com/artist/6YEoLEd7EaY6Ti9ncefeiB), [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Ya Sidi \(Valeron Remix\)](https://open.spotify.com/album/2S6gresnCHFsbyIShyFckC) | 4:22 | 2022-04-13 |  |
 | [Yakar](https://open.spotify.com/track/2QgkP1kZPhav58whMHBOIr) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Lass](https://open.spotify.com/artist/3MRiVXzyKKIlt0WyYEQAkh) | [Yakar EP](https://open.spotify.com/album/3FTv2v8THnTT4IdmGC33cH) | 7:03 | 2022-04-13 |  |

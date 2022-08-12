@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-72 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+78 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,10 +21,13 @@
 | [Autumn](https://open.spotify.com/track/6C0xrpCLSiAIm242vKE7HA) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [Minimal Sounds](https://open.spotify.com/album/7FtBKp3NQyxi3cUBi4BMC4) | 3:46 | 2022-05-19 |  |
 | [Avant après](https://open.spotify.com/track/4p8JiWyVoMKubwtMWQEvfG) | [Grandbruit](https://open.spotify.com/artist/4seVtzX0ihqxPzPeCYlKXY) | [Ville inerte](https://open.spotify.com/album/7x9hzH6UQdNe7WDzceVLMF) | 8:23 | 2022-05-19 |  |
 | [Beauty](https://open.spotify.com/track/4sTJvOr6fwdXXQebRajeWl) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 1:58 | 2022-05-19 |  |
+| [Behind the Waterfall](https://open.spotify.com/track/4bqyQQx0Ezeun0Eem2OqlI) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Behind the Waterfall](https://open.spotify.com/album/3QH8aE7f8JB0nU8YrK5Bz8) | 2:49 | 2022-08-11 |  |
 | [Bohemian Paradise](https://open.spotify.com/track/76BZeboUrTw8niFWxWET13) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristocracy](https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR) | 4:54 | 2022-05-19 |  |
 | [Break The Cycle](https://open.spotify.com/track/5dUpUWlBPGIydeG9Ew0fQa) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 4:46 | 2022-05-19 |  |
 | [Chinsi](https://open.spotify.com/track/6sBNaiB80PUXMiFeJJ5wNc) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Yoru](https://open.spotify.com/album/19KxJBqNupp2VPFOg3ZgaH) | 4:13 | 2022-05-19 |  |
 | [Cold Air](https://open.spotify.com/track/01FewOTOeVj75RV6BYygod) | [Color of Time](https://open.spotify.com/artist/5GhEh1BgnOafsIAUgNtF02), [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV), [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL) | [Color of Time](https://open.spotify.com/album/7uEqAuTyaC02sBgYRQb8gI) | 2:52 | 2022-05-19 |  |
+| [Consolation](https://open.spotify.com/track/6aZui1qCJi7owqT0AANuHb) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Consolation](https://open.spotify.com/album/2nlJZihKLK6FiycKLEMaQd) | 3:16 | 2022-08-11 |  |
+| [Convergence](https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Convergence](https://open.spotify.com/album/1095m41z6UPcurOL35ybPa) | 3:14 | 2022-08-11 |  |
 | [Dandelions](https://open.spotify.com/track/6IFQFMp1sazAG1ZA6bIA57) | [Amanita Phalloides](https://open.spotify.com/artist/7dipuZgipLo3oDsGhl6dQL), [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Hope Never Dies](https://open.spotify.com/album/7o9JDarAd1qKHN5mTVI6P4) | 3:44 | 2022-05-19 |  |
 | [Day 1](https://open.spotify.com/track/4IqM95Bxy0Ki0xbSIrNYKN) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Morning Loops](https://open.spotify.com/album/518ACaHelXkskhf4AtBEvA) | 11:52 | 2022-05-19 |  |
 | [Eclipse](https://open.spotify.com/track/7BnfMue7oWPC0PO7zfPQAE) | [iamrw](https://open.spotify.com/artist/6Oo1b13eDooVjwNQHiFd5c) | [That Summer When We Met](https://open.spotify.com/album/4P5p2R8KInwS7VrVtBV1o2) | 2:12 | 2022-07-08 |  |
@@ -38,6 +41,7 @@
 | [Forest and Thought](https://open.spotify.com/track/5snFRLT6VELgxABotZyMmi) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 5:01 | 2022-05-19 |  |
 | [Forms](https://open.spotify.com/track/1bOHmmrh740p2MfJTs7kyw) | [Cardamom](https://open.spotify.com/artist/6GE1lOueuEqo5mZhGNrEOl) | [Forms](https://open.spotify.com/album/4zJyzTHbVAZOYfX8kXlGPO) | 3:00 | 2022-05-19 |  |
 | [Gentle Flow](https://open.spotify.com/track/5DsQEpDxcQXXbLyfPsLVFv) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Gentle Flow](https://open.spotify.com/album/0ww0IvjnA5SWBjhUECPgC6) | 3:29 | 2022-07-08 |  |
+| [Geodesic](https://open.spotify.com/track/79XI9zIPk3P4FICY1lC4PQ) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Geodesic](https://open.spotify.com/album/2Fc1VN26UU4Zki3j99CRpR) | 2:53 | 2022-08-11 |  |
 | [Ghost](https://open.spotify.com/track/1W2wqz5nQEafZZWXbESetq) | [MLO](https://open.spotify.com/artist/5tdfcn1EwWqTKoxHyv9G6g) | [Oumuamua](https://open.spotify.com/album/7bfDO9ymlhD1LaTxShxHwJ) | 3:04 | 2022-05-19 |  |
 | [glowing aura](https://open.spotify.com/track/2Oln7IKNcflZzS8Z9WMj5f) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glowing aura](https://open.spotify.com/album/1stXAsb8qN1pDW5FLj1Kd9) | 3:29 | 2022-08-05 |  |
 | [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 | 2022-05-19 |  |
@@ -53,6 +57,7 @@
 | [Moon of the Crusted Snow](https://open.spotify.com/track/2z0xcVWiSp0GBZ7YMHUu89) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 6:33 | 2022-05-19 |  |
 | [Morning Repose](https://open.spotify.com/track/0X32YnznPuE9Ass1qQMM0m) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:46 | 2022-07-08 |  |
 | [Narrative Forms](https://open.spotify.com/track/506TffN7fJgYBfrtXhfhq4) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 4:35 | 2022-05-19 |  |
+| [Natthimlen](https://open.spotify.com/track/5BszbdF2gMlCipttvuaZG7) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Natthimlen](https://open.spotify.com/album/0TsRc0E8cHfEhAlcKzYZjE) | 2:13 | 2022-08-11 |  |
 | [Nebula](https://open.spotify.com/track/0U4ueXuj5RV1szpREx3ow0) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Nebula](https://open.spotify.com/album/1zXUiNnIWZdgVQ0EacLlQe) | 3:17 | 2022-08-05 |  |
 | [Night Atmospheres](https://open.spotify.com/track/4A8XgsY1Jc0DhlkQdCFvPm) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:42 | 2022-05-19 |  |
 | [Nightime](https://open.spotify.com/track/6jrUeg6RAa2Nd9bXTFfi1W) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Hours](https://open.spotify.com/album/7bmYYxOYRSN6TIiMZoxYjj) | 10:58 | 2022-05-19 |  |
@@ -74,6 +79,7 @@
 | [Sweet Instability](https://open.spotify.com/track/2Z6TNKXEGu5D1WXJwDGFEQ) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 3:54 | 2022-05-19 |  |
 | [Through the Sky](https://open.spotify.com/track/5tbZ3AHIz1YfOFe2ceut3X) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Moving On](https://open.spotify.com/album/6A2eoA23xDnjlq0YkFUv3W) | 10:02 | 2022-05-19 |  |
 | [Time Decay](https://open.spotify.com/track/23WT7sg1JO2gIpfHWXmTgr) | [T\. R\. Jordan](https://open.spotify.com/artist/2i0hFEcpwz089PJYjZvWPH) | [Dwell Time](https://open.spotify.com/album/2ksmH4dSGntQzWt3rMYHl7) | 4:45 | 2022-05-19 |  |
+| [To Those Who Dwelt in a Land of Deep Darkness](https://open.spotify.com/track/2iXDeBnBFvrWvufJqblgKM) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [Wayne Robert Thomas](https://open.spotify.com/artist/7yueLMbHp3xEU37tq8JId1) | [To Those Who Dwelt in a Land of Deep Darkness](https://open.spotify.com/album/5gCoXk0VCqw3fLcK6aseuV) | 5:00 | 2022-08-11 |  |
 | [Treasure](https://open.spotify.com/track/6sgxMkvgsSjpHc9kdECxoC) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Framed Space: Selected Works 2014\-2017](https://open.spotify.com/album/1hOdkJC3mrDganKOFFjUWu) | 5:39 | 2022-05-19 |  |
 | [Unpacked](https://open.spotify.com/track/12XBxkyD9xTjxWawn0o31Z) | [Moving Gradients](https://open.spotify.com/artist/1MQW3gElFwQAw90LNwaFNy) | [Unpacked](https://open.spotify.com/album/1Jo4vSCOYpYYslXc1jvE0n) | 2:47 | 2022-05-19 |  |
 | [We Don't Like You](https://open.spotify.com/track/08cdH83ZfXtkGphVBTmDEa) | [Andrew Land](https://open.spotify.com/artist/20DtfXEcnCgoWY9b35nPXk) | [We Don't Like You](https://open.spotify.com/album/6YYArKrqw0tL9cG1y0Mr65) | 4:58 | 2022-07-08 |  |

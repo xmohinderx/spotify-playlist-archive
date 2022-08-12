@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata. Cover: Ivy Queen ",
-  "num_followers": 1817776,
+  "num_followers": 1817967,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3NjMyNCwwMDAwMDAwMDRkOTA2Y2I5OTRlNzQ2Y2ZkMzBmZWNhNTdjYjA2ZjA4",
+  "snapshot_id": "MTY1OTY3NjMyNCwwMDAwMDAwMGNkNDU0OThhNGY5YjUzNWMwNzk1NjQ2MGY4MGQ4NzNk",
   "tracks": [
     {
       "added_at": "2022-08-05 05:12:04",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
+        "name": "Hoja en Blanco",
+        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 198706,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
-        "name": "Hoja en Blanco",
-        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Soltera",
-        "url": "https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 182212,
-      "name": "Soltera",
-      "url": "https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "Episodes",
         "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 196640,
       "name": "Dile",
       "url": "https://open.spotify.com/track/5YaTs3P7JgHnM0UFKMWNnh"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 182212,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Devu\u00e9lveme Mi Libertad",
-        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Mujer de las Mil Batallas",
-      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "Johnny Sky",
         "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 229032,
       "name": "En Todo Fuiste la Mejor",
       "url": "https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "Devu\u00e9lveme Mi Libertad",
+        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Mujer de las Mil Batallas",
+      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "La Raiz",
-        "url": "https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 200437,
-      "name": "Borracho Y Loco",
-      "url": "https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "Aventurero",
         "url": "https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 209500,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "La Raiz",
+        "url": "https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 200437,
+      "name": "Borracho Y Loco",
+      "url": "https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Brindemos por Ellas",
-        "url": "https://open.spotify.com/album/5Yxk0RoPNkJAp4wGWQrFv2"
+        "name": "Bailemos Despacio",
+        "url": "https://open.spotify.com/album/0vmyINKhEFQmuqUiyNkMje"
       },
       "artists": [
         {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "Ronny Mercedes",
-          "url": "https://open.spotify.com/artist/5EzBKoSqSIvU8uQnBP74T2"
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Brindemos por Ellas",
-      "url": "https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6"
+      "duration_ms": 188691,
+      "name": "Bailemos Despacio",
+      "url": "https://open.spotify.com/track/4fkOo3hEaC0VRu86zgFZRW"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1735,18 +1731,22 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Bailemos Despacio",
-        "url": "https://open.spotify.com/album/0vmyINKhEFQmuqUiyNkMje"
+        "name": "Brindemos por Ellas",
+        "url": "https://open.spotify.com/album/5Yxk0RoPNkJAp4wGWQrFv2"
       },
       "artists": [
         {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "Ronny Mercedes",
+          "url": "https://open.spotify.com/artist/5EzBKoSqSIvU8uQnBP74T2"
         }
       ],
-      "duration_ms": 188691,
-      "name": "Bailemos Despacio",
-      "url": "https://open.spotify.com/track/4fkOo3hEaC0VRu86zgFZRW"
+      "duration_ms": 219000,
+      "name": "Brindemos por Ellas",
+      "url": "https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
+        "name": "Quit\u00e9monos la Ropa (Bachata / Pop)",
+        "url": "https://open.spotify.com/album/6GPawvc6g2tgsUgLE0ivlj"
+      },
+      "artists": [
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "Confi\u00e9sale",
+      "url": "https://open.spotify.com/track/6GWWpYCHvXk5RSD02XBq24"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
         "name": "Pa' Que Te Duela",
         "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
       },
@@ -1815,38 +1831,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Sigo Siendo El Due\u00f1o",
-        "url": "https://open.spotify.com/album/3KdLyJ86sNefLScruUYqfU"
-      },
-      "artists": [
-        {
-          "name": "Andy Andy",
-          "url": "https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw"
-        }
-      ],
-      "duration_ms": 226613,
-      "name": "Sigo Siendo El Due\u00f1o",
-      "url": "https://open.spotify.com/track/2amDEL2PDqi5VruNH3Z387"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
-        "name": "Quit\u00e9monos la Ropa (Bachata / Pop)",
-        "url": "https://open.spotify.com/album/6GPawvc6g2tgsUgLE0ivlj"
-      },
-      "artists": [
-        {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "Confi\u00e9sale",
-      "url": "https://open.spotify.com/track/6GWWpYCHvXk5RSD02XBq24"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "Como Duele",
         "url": "https://open.spotify.com/album/5ge3dQLnbFHYb043rtbh5M"
       },
@@ -1867,6 +1851,22 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
+        "name": "Sigo Siendo El Due\u00f1o",
+        "url": "https://open.spotify.com/album/3KdLyJ86sNefLScruUYqfU"
+      },
+      "artists": [
+        {
+          "name": "Andy Andy",
+          "url": "https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw"
+        }
+      ],
+      "duration_ms": 226613,
+      "name": "Sigo Siendo El Due\u00f1o",
+      "url": "https://open.spotify.com/track/2amDEL2PDqi5VruNH3Z387"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
         "name": "Dime Porque",
         "url": "https://open.spotify.com/album/0rHNWqNDjbVu2EU5XLtUNJ"
       },
@@ -1879,38 +1879,6 @@
       "duration_ms": 216186,
       "name": "Dime Porque",
       "url": "https://open.spotify.com/track/5ak2OdhjNeZrksibKWG19G"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
-        "name": "Te Lo Pido por Favor",
-        "url": "https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu"
-      },
-      "artists": [
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        }
-      ],
-      "duration_ms": 170208,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/64VA99RfGvRGN2WqNbOZCa"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
-        "name": "Este Soy Yo",
-        "url": "https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Ya Fu\u00e9 Bastante",
-      "url": "https://open.spotify.com/track/0S76ldR7V4vQ0BDjRFKxi4"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -1931,6 +1899,38 @@
       "duration_ms": 232024,
       "name": "Contando Minutos",
       "url": "https://open.spotify.com/track/1tGplKExpp5YI63Qzm5cMA"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "Este Soy Yo",
+        "url": "https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Ya Fu\u00e9 Bastante",
+      "url": "https://open.spotify.com/track/0S76ldR7V4vQ0BDjRFKxi4"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "Te Lo Pido por Favor",
+        "url": "https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 170208,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/64VA99RfGvRGN2WqNbOZCa"
     },
     {
       "added_at": "2022-08-05 05:12:04",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2022-08-05 05:12:04",
       "album": {
-        "name": "Hablamos En La Cama",
-        "url": "https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Como Lo Niego",
-      "url": "https://open.spotify.com/track/7BqMg9Xg1dTOwboB2uGJ2k"
-    },
-    {
-      "added_at": "2022-08-05 05:12:04",
-      "album": {
         "name": "Momentos de Cine",
         "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 210527,
       "name": "Batalla Perdida",
       "url": "https://open.spotify.com/track/1Nk2GBBfdskHJgEgATcHkz"
+    },
+    {
+      "added_at": "2022-08-05 05:12:04",
+      "album": {
+        "name": "Hablamos En La Cama",
+        "url": "https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Como Lo Niego",
+      "url": "https://open.spotify.com/track/7BqMg9Xg1dTOwboB2uGJ2k"
     },
     {
       "added_at": "2022-08-05 05:12:04",

@@ -657,6 +657,28 @@
     {
       "album": {
         "name": "Kingdom",
+        "url": "https://open.spotify.com/album/49xRLVsjKQubxMDktXX4Md"
+      },
+      "artists": [
+        {
+          "name": "Khanvict",
+          "url": "https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7"
+        },
+        {
+          "name": "Amritha Shakti",
+          "url": "https://open.spotify.com/artist/3qFny3pC23f3V8IHnomOL1"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/2eBpS2raMzMdeplIOavxdz"
+    },
+    {
+      "album": {
+        "name": "Kingdom",
         "url": "https://open.spotify.com/album/3XaqtBmW5tCFSHYjErfUuK"
       },
       "artists": [
@@ -671,7 +693,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 198000,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/7kmIkBCH8KkxdV4RlMRt6J"

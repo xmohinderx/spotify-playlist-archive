@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,776 likes - 98 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,812 likes - 98 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 49 | [Middle Of Nowhere](https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb) | 6:42 |
 | 50 | [I Won't](https://open.spotify.com/track/4dZOYn2YKHlRFDdYMabhNi) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [I Won't](https://open.spotify.com/album/1s9nYOISY7t8qS8hhLrYjk) | 3:35 |
 | 51 | [Reculver](https://open.spotify.com/track/6rkBNzraDcu5xuOMPGM041) | [lotusbliss](https://open.spotify.com/artist/7KasCF2ZfqwGRglWxqPFne) | [Bittersweet](https://open.spotify.com/album/3vbgdxeQbajiKQGphj6nkR) | 4:28 |
-| 52 | [Love 4 Nothing](https://open.spotify.com/track/0lh5GtmD9YlFSh1oLXQNa2) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Equinox EP](https://open.spotify.com/album/0iU3raXR3MLIelOv5vFnmr) | 2:57 |
+| 52 | [Love 4 Nothing](https://open.spotify.com/track/4LipRqIWLADc1LRKqEiXiW) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Equinox](https://open.spotify.com/album/0pOZQWbpllXoHEFeL48ivO) | 2:57 |
 | 53 | [Cartoon People](https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Cartoon People](https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT) | 3:33 |
 | 54 | [Goodbye](https://open.spotify.com/track/3bApjbLgcVRQOjgXSyIg5R) | [Grace Gillespie](https://open.spotify.com/artist/4owaayCKTzC8Y7PeADjuAk) | [Goodbye](https://open.spotify.com/album/7LhX8bhTNmCtuRLEYmzAh1) | 3:17 |
 | 55 | [Crystal Eternal](https://open.spotify.com/track/5aLzzVmJAN56Ra5zyyvjcR) | [Deja Blu](https://open.spotify.com/artist/1vKMD4LElQSFvLcdqaA1EB) | [Crystal Eternal](https://open.spotify.com/album/5UTjzWDYPKvjdYO1RgVLMC) | 5:26 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 97 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 | 98 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
 
-Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMDUyOTVjMDZkZDBlNTM0OWY2YTFiYjMzNzhjM2U4ZWEz`
+Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMDVmMjBhMjlmZDBjMzFjMDZhZmNhN2YxNWUzNzkyZDNj`

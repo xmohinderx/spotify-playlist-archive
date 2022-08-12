@@ -1734,6 +1734,24 @@
     },
     {
       "album": {
+        "name": "Quite Comfy",
+        "url": "https://open.spotify.com/album/3gf4STG2CwjdpqjqSJNKKw"
+      },
+      "artists": [
+        {
+          "name": "R.B James",
+          "url": "https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214817,
+      "name": "Quite Comfy",
+      "url": "https://open.spotify.com/track/0oAZ7VXoIgk8Q8Izs0YkhO"
+    },
+    {
+      "album": {
         "name": "Quercus",
         "url": "https://open.spotify.com/album/5UOtIQBUnWIYh40uPWNC2e"
       },

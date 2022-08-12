@@ -254,6 +254,24 @@
     },
     {
       "album": {
+        "name": "Behind the Waterfall",
+        "url": "https://open.spotify.com/album/3QH8aE7f8JB0nU8YrK5Bz8"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169520,
+      "name": "Behind the Waterfall",
+      "url": "https://open.spotify.com/track/4bqyQQx0Ezeun0Eem2OqlI"
+    },
+    {
+      "album": {
         "name": "In the Age of Aristocracy",
         "url": "https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR"
       },
@@ -331,6 +349,42 @@
       "duration_ms": 172000,
       "name": "Cold Air",
       "url": "https://open.spotify.com/track/01FewOTOeVj75RV6BYygod"
+    },
+    {
+      "album": {
+        "name": "Consolation",
+        "url": "https://open.spotify.com/album/2nlJZihKLK6FiycKLEMaQd"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196707,
+      "name": "Consolation",
+      "url": "https://open.spotify.com/track/6aZui1qCJi7owqT0AANuHb"
+    },
+    {
+      "album": {
+        "name": "Convergence",
+        "url": "https://open.spotify.com/album/1095m41z6UPcurOL35ybPa"
+      },
+      "artists": [
+        {
+          "name": "SleepTherapy",
+          "url": "https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Convergence",
+      "url": "https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS"
     },
     {
       "album": {
@@ -573,6 +627,24 @@
       "duration_ms": 209230,
       "name": "Gentle Flow",
       "url": "https://open.spotify.com/track/5DsQEpDxcQXXbLyfPsLVFv"
+    },
+    {
+      "album": {
+        "name": "Geodesic",
+        "url": "https://open.spotify.com/album/2Fc1VN26UU4Zki3j99CRpR"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173812,
+      "name": "Geodesic",
+      "url": "https://open.spotify.com/track/79XI9zIPk3P4FICY1lC4PQ"
     },
     {
       "album": {
@@ -847,6 +919,24 @@
       "duration_ms": 275384,
       "name": "Narrative Forms",
       "url": "https://open.spotify.com/track/506TffN7fJgYBfrtXhfhq4"
+    },
+    {
+      "album": {
+        "name": "Natthimlen",
+        "url": "https://open.spotify.com/album/0TsRc0E8cHfEhAlcKzYZjE"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6m",
+          "url": "https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133238,
+      "name": "Natthimlen",
+      "url": "https://open.spotify.com/track/5BszbdF2gMlCipttvuaZG7"
     },
     {
       "album": {
@@ -1233,6 +1323,28 @@
       "duration_ms": 285586,
       "name": "Time Decay",
       "url": "https://open.spotify.com/track/23WT7sg1JO2gIpfHWXmTgr"
+    },
+    {
+      "album": {
+        "name": "To Those Who Dwelt in a Land of Deep Darkness",
+        "url": "https://open.spotify.com/album/5gCoXk0VCqw3fLcK6aseuV"
+      },
+      "artists": [
+        {
+          "name": "zak\u00e8",
+          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+        },
+        {
+          "name": "Wayne Robert Thomas",
+          "url": "https://open.spotify.com/artist/7yueLMbHp3xEU37tq8JId1"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "To Those Who Dwelt in a Land of Deep Darkness",
+      "url": "https://open.spotify.com/track/2iXDeBnBFvrWvufJqblgKM"
     },
     {
       "album": {

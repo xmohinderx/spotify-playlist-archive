@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,284 songs - 3 day 17 hr 10 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,285 songs - 3 day 17 hr 12 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [Fading Memories](https://open.spotify.com/track/3iO88Yon2jOOeT9AefoGF2) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA), [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd), [Sam Halabi](https://open.spotify.com/artist/0kdzjDb2TKsCiJwWaBkZTQ) | [Fading Memories](https://open.spotify.com/album/5RzqSHBKXhYdHVf1X4B0Z6) | 2:40 | 2020-03-16 | 2021-03-10 |
 | [Fall \- 6AM Mix](https://open.spotify.com/track/63dG0sIaqOYLFZ0S94XF89) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Fall \(KC Lights Remixes\)](https://open.spotify.com/album/7amjEc3T8lTIJuOFFjbORO) | 3:17 | 2022-03-25 | 2022-07-29 |
 | [Fall in Deep](https://open.spotify.com/track/4pgOyxhTFOuNZJndYQJkKk) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Fall in Deep](https://open.spotify.com/album/0ro9l9lDWGBP8liktBsJOZ) | 3:37 | 2020-05-18 | 2021-01-11 |
-| [Falling](https://open.spotify.com/track/2B7o7cBAno5SaZLljqlPVc) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Falling](https://open.spotify.com/album/2u45jCKKoRA20flSf7Ry2r) | 3:22 | 2022-07-01 |  |
+| [Falling](https://open.spotify.com/track/2B7o7cBAno5SaZLljqlPVc) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Falling](https://open.spotify.com/album/2u45jCKKoRA20flSf7Ry2r) | 3:22 | 2022-07-01 | 2022-08-12 |
 | [Falling](https://open.spotify.com/track/6bdfM4I40ywx2gOtZjQ7Z6) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Falling](https://open.spotify.com/album/3PkOQ5jhbCAavcVUT8TgPf) | 3:22 | 2020-11-13 | 2022-07-17 |
 | [Falling](https://open.spotify.com/track/6uBImZ47dzAPRcPN7gXd44) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 4:28 | 2020-05-18 | 2020-07-03 |
 | [Falling](https://open.spotify.com/track/6JmRVEBNPIxEtAXWKPSsi5) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Carly Paige](https://open.spotify.com/artist/047WXnK2tIG3FGth7FyXaK) | [Falling](https://open.spotify.com/album/5hXasfS8x3j028u1O3B9yj) | 3:25 | 2020-03-17 | 2022-01-13 |
@@ -896,6 +896,7 @@
 | [Pray for Us](https://open.spotify.com/track/49X931MF0VVnHFkhVU3M5r) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:46 | 2020-04-03 | 2020-10-09 |
 | [Private Island \(coldbrew Remix\)](https://open.spotify.com/track/3zcUZg6MoJPHPjt7vM1wx7) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [Private Island \(coldbrew Remix\)](https://open.spotify.com/album/7JjYuptyDfJSIeGIZtiUr5) | 2:13 | 2020-08-06 | 2022-01-13 |
 | [Priviet](https://open.spotify.com/track/3e66lQYqNYhZX1X2mBeO4L) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Keeping the Little Things](https://open.spotify.com/album/1pT7zb48i6eE1YHC76IcLQ) | 4:55 | 2020-08-20 | 2020-10-09 |
+| [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-05 |  |
 | [Programmer](https://open.spotify.com/track/02f2u3zaWbEYDcBnqNZz2r) | [Aiiso](https://open.spotify.com/artist/5VMSahxKcDwmz2nYaBOd3V) | [City Lights / Programmer](https://open.spotify.com/album/2b0CwkJoJyfIoQOiTgzvJO) | 4:06 | 2020-02-29\* | 2020-03-16 |
 | [Proxima](https://open.spotify.com/track/5KeQ9CJ5dMgHkRjZTmDfJZ) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Proxima](https://open.spotify.com/album/2sbxil0PPjCnynktwKcMyJ) | 3:33 | 2022-05-27 | 2022-07-27 |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-07-28 |

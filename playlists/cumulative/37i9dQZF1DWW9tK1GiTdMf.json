@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "2 Tomarchio",
+        "url": "https://open.spotify.com/album/4LGMlP21yQtFMPsDALInxj"
+      },
+      "artists": [
+        {
+          "name": "Luca Land",
+          "url": "https://open.spotify.com/artist/2jm1zVWOscdOBrRNhntmdp"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159445,
+      "name": "2 Tomarchio",
+      "url": "https://open.spotify.com/track/0nOO9KQ1S25QgpdwIQRlxa"
+    },
+    {
+      "album": {
         "name": "20 Anni (Andale)",
         "url": "https://open.spotify.com/album/0Y8euCijZZYD0gHCefXtK6"
       },
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 208000,
       "name": "Canzone d'amore",
       "url": "https://open.spotify.com/track/1gCKZvQnUvuyURWo8iJfbS"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 135000,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/51fvbZ3wibIDS8Kz7fBqS5"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 208706,
       "name": "House of Memories",
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
@@ -1802,6 +1820,28 @@
     },
     {
       "album": {
+        "name": "LACRIME",
+        "url": "https://open.spotify.com/album/3VNariQYcnXLuIP9tAJkDD"
+      },
+      "artists": [
+        {
+          "name": "Revols",
+          "url": "https://open.spotify.com/artist/0VYCdJoXqN7ewgwV5Diz4r"
+        },
+        {
+          "name": "sadnineteenbaby",
+          "url": "https://open.spotify.com/artist/7uZvq84nHBNRptMjCbmood"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209790,
+      "name": "LACRIME",
+      "url": "https://open.spotify.com/track/7vk8Z4eaJGAnYG11sE7zZ1"
+    },
+    {
+      "album": {
         "name": "Lacrime di sale",
         "url": "https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A"
       },
@@ -1936,6 +1976,24 @@
     },
     {
       "album": {
+        "name": "Lo Sai",
+        "url": "https://open.spotify.com/album/23RdplWlOSwzWeuD4T3sZo"
+      },
+      "artists": [
+        {
+          "name": "Egos",
+          "url": "https://open.spotify.com/artist/5vDO6Ua0eg8CDkwCEiE2Vg"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171459,
+      "name": "Lo Sai",
+      "url": "https://open.spotify.com/track/1pnFnOqVPqeQ8TIzlgrEaa"
+    },
+    {
+      "album": {
         "name": "Locked Out",
         "url": "https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA"
       },
@@ -2013,6 +2071,24 @@
       "duration_ms": 205600,
       "name": "looney",
       "url": "https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi"
+    },
+    {
+      "album": {
+        "name": "Lost Honor",
+        "url": "https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239346,
+      "name": "Lost Honor",
+      "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
     },
     {
       "album": {
@@ -2980,6 +3056,28 @@
     },
     {
       "album": {
+        "name": "Quando non 6 con me",
+        "url": "https://open.spotify.com/album/4nlco0dP62n2pxukmW66rr"
+      },
+      "artists": [
+        {
+          "name": "Amsi",
+          "url": "https://open.spotify.com/artist/1YTas8G2Maqo3Md0AcBgc7"
+        },
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Quando non 6 con me",
+      "url": "https://open.spotify.com/track/3p64u1dRDQPuRoWZQQlozC"
+    },
+    {
+      "album": {
         "name": "Quanto ti vorrei",
         "url": "https://open.spotify.com/album/7euSTXADo7aG1X9FbgMBKN"
       },
@@ -3372,6 +3470,40 @@
     },
     {
       "album": {
+        "name": "SOTTONE DANNATO",
+        "url": "https://open.spotify.com/album/19nsl3rgHoUVzLGzxZKVBv"
+      },
+      "artists": [
+        {
+          "name": "COLLETTIVO",
+          "url": "https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq"
+        },
+        {
+          "name": "Quello",
+          "url": "https://open.spotify.com/artist/7GdkzNtMzNUCOMxqBYacF7"
+        },
+        {
+          "name": "Zzama",
+          "url": "https://open.spotify.com/artist/3d9yGJbbSuMUQ1wzNmGISp"
+        },
+        {
+          "name": "Oreste",
+          "url": "https://open.spotify.com/artist/1iEAHd4i99ehWHsruWZ6FL"
+        },
+        {
+          "name": "Lele",
+          "url": "https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192940,
+      "name": "SOTTONE DANNATO",
+      "url": "https://open.spotify.com/track/2hFvWFjEe67dgSYsHr4TNv"
+    },
+    {
+      "album": {
         "name": "Sottosopra",
         "url": "https://open.spotify.com/album/2wl48fvKt0jNKC5y6Z53Dr"
       },
@@ -3712,6 +3844,24 @@
     },
     {
       "album": {
+        "name": "The Emperor",
+        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175150,
+      "name": "The Emperor",
+      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
+    },
+    {
+      "album": {
         "name": "the idea",
         "url": "https://open.spotify.com/album/529HyBH38pXm03KrwyI0At"
       },
@@ -3799,6 +3949,28 @@
       "duration_ms": 168146,
       "name": "TIRA E MOLLA",
       "url": "https://open.spotify.com/track/57dc9zSqLocF0MjIAv6Yjx"
+    },
+    {
+      "album": {
+        "name": "toxic energy",
+        "url": "https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191559,
+      "name": "toxic energy (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ"
     },
     {
       "album": {

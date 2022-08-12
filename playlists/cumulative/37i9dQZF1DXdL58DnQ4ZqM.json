@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/7kCqbzZdyNMcW9lU0DTgOk"
+      },
+      "artists": [
+        {
+          "name": "Deauxnuts",
+          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154354,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/6LybVOJz7dRCCp8l2TAVPS"
+    },
+    {
+      "album": {
         "name": "W: Dinner Chill",
         "url": "https://open.spotify.com/album/6SYNQsVtomjub7ZDfDPZjh"
       },
@@ -5431,6 +5449,24 @@
       "duration_ms": 155136,
       "name": "Small Changes",
       "url": "https://open.spotify.com/track/3Daf2veJz0Z8kDoqnwiyJw"
+    },
+    {
+      "album": {
+        "name": "smoke & sleep",
+        "url": "https://open.spotify.com/album/5a6P31flOyTnuvVMQqNFvs"
+      },
+      "artists": [
+        {
+          "name": "soulful beats",
+          "url": "https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "smoke & sleep",
+      "url": "https://open.spotify.com/track/2CG8eXUcfA5IwAPnD9bKcN"
     },
     {
       "album": {

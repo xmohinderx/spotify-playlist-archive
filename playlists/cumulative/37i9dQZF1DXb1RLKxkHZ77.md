@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nuha Bahrin, Naufal Azrin
 
-68 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+69 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Rindu Setengah Mati](https://open.spotify.com/track/4NRbwtbSE7xikojPuG9HjK) | [Nidza Afham](https://open.spotify.com/artist/0zceqpBQTndQrTQiTnxZB9) | [Rindu Setengah Mati](https://open.spotify.com/album/5kdSL9VcYtWEIEP5VLXVmj) | 4:04 | 2022-05-25 |  |
 | [Roman Picisan](https://open.spotify.com/track/4d3Oc82rj1hVPlNZvcZ3KB) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Kangen](https://open.spotify.com/album/1Nu57IYMONBk10GTTaVkt7) | 5:01 | 2022-05-25 |  |
 | [Rumah Singgah](https://open.spotify.com/track/7th706Tw7ByAqOR9FMWXLg) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/7gVYaMTDC2GCbpswDSHWVT) | 4:06 | 2022-05-25 |  |
-| [Sahabat Tak Akan Pergi](https://open.spotify.com/track/001u88QTr9GonmqeQNwQ0F) | [Betrand Peto Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c), [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Sahabat Tak Akan Pergi](https://open.spotify.com/album/40aoVFlkmBnfF3iau8mBVM) | 4:01 | 2022-05-25 |  |
+| [Sahabat](https://open.spotify.com/track/3rjq1rRyoB9mlkiZaCjw5w) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD) | [Sahabat](https://open.spotify.com/album/3PbOq3PCQub4eGJ2f9z76L) | 4:05 | 2022-08-11 |  |
+| [Sahabat Tak Akan Pergi](https://open.spotify.com/track/001u88QTr9GonmqeQNwQ0F) | [Betrand Peto Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c), [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Sahabat Tak Akan Pergi](https://open.spotify.com/album/40aoVFlkmBnfF3iau8mBVM) | 4:01 | 2022-05-25 | 2022-08-12 |
 | [Sama Seperti Dulu](https://open.spotify.com/track/4g32N8Vl5Dp8pnuzuiVLEg) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Sama Seperti Dulu](https://open.spotify.com/album/7vUeBaFOGUh4pPy0r38E51) | 3:40 | 2022-05-25 | 2022-08-04 |
 | [Satu Malam Di Temasek](https://open.spotify.com/track/5nsfVwWz1M1sug2ILCVygq) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Satu Malam Di Temasek](https://open.spotify.com/album/6oMP9SqrAAZqr5QR2gVvWl) | 3:37 | 2022-07-21 |  |
 | [Sempurna](https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Sempurna](https://open.spotify.com/album/4sigvBSInHo1GXR6UUYTVm) | 4:11 | 2022-05-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The wave of U.S. Latinos in Hip-Hop. Cover: Coyote",
-  "num_followers": 14974,
+  "num_followers": 14991,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDFkNGE5YzU0MDczZWY0N2U1MTA5NDBhNzRlYmFjNzZm",
+  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMGJjMzZmMjZkZjU1NmU2ODY5NjBlYjlhZDRhYjI5MGUw",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Dead Homies",
-        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
-      },
-      "artists": [
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        }
-      ],
-      "duration_ms": 172654,
-      "name": "Dead Homies",
-      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Wait a Minute",
         "url": "https://open.spotify.com/album/7FhdsaSae4V3Gs2xitqWWt"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 205775,
       "name": "Wait a Minute",
       "url": "https://open.spotify.com/track/0rUAKtRrzkvUEHfFFtZxWq"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Dead Homies",
+        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
+      },
+      "artists": [
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 172654,
+      "name": "Dead Homies",
+      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "PRO CLUB",
+        "url": "https://open.spotify.com/album/23IDJMWYQ8AFrVkw7x5h61"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "PRO CLUB",
+      "url": "https://open.spotify.com/track/4aTOaLYeM0WOhY1kmwS0zz"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Rosary",
         "url": "https://open.spotify.com/album/5FkDXNLe2kioCXGj4ZoBp0"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 114916,
       "name": "P's Up",
       "url": "https://open.spotify.com/track/3qGC7ogRmw21BK7EBvSfVu"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "PRO CLUB",
-        "url": "https://open.spotify.com/album/23IDJMWYQ8AFrVkw7x5h61"
-      },
-      "artists": [
-        {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "PRO CLUB",
-      "url": "https://open.spotify.com/track/4aTOaLYeM0WOhY1kmwS0zz"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -995,22 +995,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Back Like I Never Left",
-        "url": "https://open.spotify.com/album/433hz4oOBpEoHnJrkU4UQX"
+        "name": "From The Gravel",
+        "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
       },
       "artists": [
         {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "J.I Bandz",
-          "url": "https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n"
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
         }
       ],
-      "duration_ms": 271463,
-      "name": "Trials n Tribulations",
-      "url": "https://open.spotify.com/track/2EJnJySNUDX3p2ccqELrcg"
+      "duration_ms": 117629,
+      "name": "From The Gravel",
+      "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "From The Gravel",
-        "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
+        "name": "Back Like I Never Left",
+        "url": "https://open.spotify.com/album/433hz4oOBpEoHnJrkU4UQX"
       },
       "artists": [
         {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n"
         }
       ],
-      "duration_ms": 117629,
-      "name": "From The Gravel",
-      "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
+      "duration_ms": 271463,
+      "name": "Trials n Tribulations",
+      "url": "https://open.spotify.com/track/2EJnJySNUDX3p2ccqELrcg"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Vida Por Tinta",
-        "url": "https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ"
-      },
-      "artists": [
-        {
-          "name": "Juanillo Diaz",
-          "url": "https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "Carta Para Dios",
-      "url": "https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "sometimes i like 2 sing <3",
         "url": "https://open.spotify.com/album/5ZqZlDsGEgt7o36WceHiET"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 184947,
       "name": "get 2 know ya",
       "url": "https://open.spotify.com/track/7LKRH8gSBHXJ5qKvoLJCa3"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Vida Por Tinta",
+        "url": "https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ"
+      },
+      "artists": [
+        {
+          "name": "Juanillo Diaz",
+          "url": "https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Carta Para Dios",
+      "url": "https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS"
     },
     {
       "added_at": "2022-07-15 04:00:00",

@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-183 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+184 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Hannya Shinkyo](https://open.spotify.com/track/1VHsSWOKnb9xBbwX1mCSRL) | [Lutez](https://open.spotify.com/artist/0PHF5hC5g9Pe7cBzSVlTFD), [Souki](https://open.spotify.com/artist/0cUf14Muj9Q2Hxcu6DN2yK) | [Hannya Shinkyo](https://open.spotify.com/album/7gUVJPp9VtWauvD78mBoLy) | 3:16 | 2022-04-15 | 2022-04-21 |
 | [Heaven](https://open.spotify.com/track/6m8BCfpZIVikVsm5YKVQrC) | [Kore\-G](https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7) | [Heaven](https://open.spotify.com/album/2VsEpgh56TrarcsrutyM5F) | 3:34 | 2022-04-15 |  |
 | [Heaven Eleven](https://open.spotify.com/track/2U3FOnuf7V4D5vcqgrZadj) | [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Heaven Eleven](https://open.spotify.com/album/6ZNeqWGIn6oqs8MyQ7Vy2O) | 9:33 | 2022-04-15 | 2022-07-29 |
-| [Here and Now](https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Jacob Lauing](https://open.spotify.com/artist/0pg6TFVif7XPHoCxF35ngj) | [Here and Now](https://open.spotify.com/album/2j446mPzcNYRgMqFZ3Kzsp) | 3:25 | 2022-08-04 |  |
+| [Here and Now](https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Jacob Lauing](https://open.spotify.com/artist/0pg6TFVif7XPHoCxF35ngj) | [Here and Now](https://open.spotify.com/album/2j446mPzcNYRgMqFZ3Kzsp) | 3:25 | 2022-08-04 | 2022-08-12 |
 | [Hero \- Infected Mushroom Remix](https://open.spotify.com/track/5e447qV9VjEOQfGM682o3W) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Elizaveta](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Hero \(Infected Mushroom Remix\)](https://open.spotify.com/album/3YxzVruTjT2lnAmr2EgQOz) | 5:04 | 2022-04-15 |  |
 | [Hi\-Psy](https://open.spotify.com/track/4P37PI8hE5xCrhXOx00OzY) | [Khardiac](https://open.spotify.com/artist/1pvJZA2bmnetebqwuIx8RN) | [Hi\-Psy](https://open.spotify.com/album/04audcK6i0bxG9KlhIgz5B) | 5:51 | 2022-04-15 |  |
 | [High Pressure](https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7) | [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [High Pressure](https://open.spotify.com/album/1rjPGCwMLNjqQ4tbxsjbs7) | 6:17 | 2022-04-15 | 2022-07-29 |
@@ -105,6 +105,7 @@
 | [Mystery](https://open.spotify.com/track/0lFjo6mqV1VtP1T0XFc3Ng) | [Medon](https://open.spotify.com/artist/1qgI7Ho1Ky0EbmK9JhWg5J), [Michelle Collin](https://open.spotify.com/artist/0JCIIVMatHevg7wqdpuNxg), [Rime Rix](https://open.spotify.com/artist/2athiHDmEGJuQKIInHGGkE) | [Mystery](https://open.spotify.com/album/4AcZelYRE1L3kOJsjDz0Jz) | 3:09 | 2022-04-15 | 2022-07-29 |
 | [NAMAHA](https://open.spotify.com/track/19vs5EKA0WfxAmjDLzLhnx) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [NAMAHA](https://open.spotify.com/album/3PfCixKb0AwioD7M8CJAjE) | 5:58 | 2022-04-15 | 2022-07-28 |
 | [Nasty](https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Max Tase](https://open.spotify.com/artist/1TciVq9gxOXxCUKcR05O8m) | [Nasty](https://open.spotify.com/album/2YIxJt6k9uC6ep6krFNuJG) | 3:39 | 2022-06-03 |  |
+| [Natural Connection](https://open.spotify.com/track/72eKr4Y8oTl3N6YowhUmgI) | [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN), [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Natural Connection](https://open.spotify.com/album/7fdd3jpfhZQR3sLn5HLQ3V) | 6:59 | 2022-08-11 |  |
 | [Never Be The Same](https://open.spotify.com/track/2QOlkqwaKI6JHVoAFvyfnm) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Dzp](https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D) | [Never Be The Same](https://open.spotify.com/album/1F46HHbNF6r8ANbJfnkCas) | 4:51 | 2022-04-15 | 2022-04-23 |
 | [Novo Mundo](https://open.spotify.com/track/04qez0ficd7e4SdHjkxoMq) | [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn), [Synesthetic](https://open.spotify.com/artist/3pj3146DprJSQuMVAKrfY6) | [Novo Mundo](https://open.spotify.com/album/1Xo9Exo6vF4R8uy7odTUsj) | 6:13 | 2022-04-15 |  |
 | [Obsession](https://open.spotify.com/track/5FM2LQo6zItfKqSPmDluYO) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [PIRAMD](https://open.spotify.com/artist/4ecOJ792RmcIiw2eJXPGAS), [Tropic Sound](https://open.spotify.com/artist/1bgdt86bM98eGqdbZjww7H) | [Obsession](https://open.spotify.com/album/5zAgAIwAQeBPDIb7LPu9Tt) | 4:27 | 2022-04-22 | 2022-07-24 |

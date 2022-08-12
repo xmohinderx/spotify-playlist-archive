@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Palmaria
+> Il meglio dell'R&B italiano\. Cover: Ama Dee
 
 159 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
@@ -46,7 +46,7 @@
 | [DARK DRAGONITE \(feat\. Missey\)](https://open.spotify.com/track/5S6J3X4G1ulSJyM5D0EUp9) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 2:48 | 2022-06-30 | 2022-07-29 |
 | [DIAMANTI](https://open.spotify.com/track/6S3Q6qeGe0DFTDYvO5ZetR) | [francesca moretti](https://open.spotify.com/artist/1JFwMGRpvznPGEcbWhQPpX) | [DIAMANTI](https://open.spotify.com/album/1xHqLNfHuyCFfuDYy2D2wi) | 3:16 | 2022-07-07 |  |
 | [Discoparty](https://open.spotify.com/track/3RVwiSkSpjzEvfO08tCH2J) | [Halba x Foldino](https://open.spotify.com/artist/4RFIOsKA6DuzE9DGGOHjPT) | [Coppa Martini](https://open.spotify.com/album/6P41Fu8o0MclS4ExYl6uUO) | 2:22 | 2022-05-05 |  |
-| [Dispersi](https://open.spotify.com/track/6DRQhfzlmOEfdvft0bMPGE) | [FLAMINIA](https://open.spotify.com/artist/5SHeDn87rQaynVVBCZrMG5) | [Dispersi](https://open.spotify.com/album/4eXZ2OUE8YzADOsUhKaD6l) | 2:44 | 2022-05-05 |  |
+| [Dispersi](https://open.spotify.com/track/6DRQhfzlmOEfdvft0bMPGE) | [FLAMINIA](https://open.spotify.com/artist/5SHeDn87rQaynVVBCZrMG5) | [Dispersi](https://open.spotify.com/album/4eXZ2OUE8YzADOsUhKaD6l) | 2:44 | 2022-05-05 | 2022-08-12 |
 | [Diversi](https://open.spotify.com/track/258bYaUpoQ5wJrLzqQ1JEj) | [Sebaa](https://open.spotify.com/artist/2j7tFhLm1Y5PfLudUFuEUD) | [Diversi](https://open.spotify.com/album/0tJdwwGSNGDEc2mODFtO1c) | 2:52 | 2022-06-02 |  |
 | [Domani](https://open.spotify.com/track/2m8xEUL7S1Q0qmYYNjS2rQ) | [Capo](https://open.spotify.com/artist/6HXHgAFc1EszRCOyFZ348T), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [VDN](https://open.spotify.com/artist/4aINMnSbwDnkR44YPqGqHx), [Jacopo](https://open.spotify.com/artist/4AEX5pSlB335DnmKZFTvT6) | [Domani](https://open.spotify.com/album/7eAu1k5HMSGehcGPpRCMxu) | 2:46 | 2022-05-05 |  |
 | [Domenica Berici](https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatoni](https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA) | 4:27 | 2022-05-26 |  |
@@ -73,7 +73,7 @@
 | [IL TEMPO DELLE MELE](https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [IL TEMPO DELLE MELE](https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w) | 2:16 | 2022-05-05 |  |
 | [In My Way \(chi sei\)](https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 2:14 | 2022-05-05 |  |
 | [Interno N.6](https://open.spotify.com/track/57SBANqHenDufs98cl35Vl) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Interno N.6](https://open.spotify.com/album/3TBGbh3LTDNsCUMHWX766z) | 3:24 | 2022-06-30 |  |
-| [Invisibile](https://open.spotify.com/track/16ul9kzVQqpjdFat8gRbeM) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Invisibile](https://open.spotify.com/album/56qIcB3BWjrEyKy49HB32z) | 2:47 | 2022-05-05 |  |
+| [Invisibile](https://open.spotify.com/track/16ul9kzVQqpjdFat8gRbeM) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Invisibile](https://open.spotify.com/album/56qIcB3BWjrEyKy49HB32z) | 2:47 | 2022-05-05 | 2022-08-12 |
 | [Io sono in paranoia](https://open.spotify.com/track/4TvvAnvrvyQmdJgv7FASaF) | [L'Alba](https://open.spotify.com/artist/1MZ9OluQIQngTfG27rhOcj), [Saffi](https://open.spotify.com/artist/33DnVEwpiJGyHynUdQR0VR), [Yako](https://open.spotify.com/artist/5R2zIsjbgxycc2BH8BPFV8) | [Io sono in paranoia](https://open.spotify.com/album/7sEJpEQ8zRtMwv7AD5ujVE) | 2:16 | 2022-06-23 |  |
 | [Ion](https://open.spotify.com/track/1YmNkL6FHnO8GgpN2HqWaS) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatoni](https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA) | 3:25 | 2022-05-26 | 2022-07-29 |
 | [Jeans Appeal](https://open.spotify.com/track/0SnJuW9iXV3s2nTgGN31Nb) | [Merrick](https://open.spotify.com/artist/5msEesooT4udZUDKyp8SPe) | [Jeans Appeal](https://open.spotify.com/album/78dWDklJ4ITsnQ14SIEojh) | 3:05 | 2022-06-23 |  |
@@ -113,7 +113,7 @@
 | [Odissea / Astronave](https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Odissea / Astronave](https://open.spotify.com/album/1ADCIxjTiItCD5YkuTUtPe) | 3:32 | 2022-06-16 |  |
 | [ORA CHE](https://open.spotify.com/track/1xhsbacBkdaTHatjLDfGls) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz), [Luca Notaro](https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p), [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [PeppOh](https://open.spotify.com/artist/5pMa92RIc1jc0gUnT545G6), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit) | [ORA CHE](https://open.spotify.com/album/2om36mteBQ9j7xLirdzcjf) | 2:48 | 2022-08-05 |  |
 | [Ormai \(feat\. Nico Kyni\)](https://open.spotify.com/track/46w5z88efX5KqYt6C8JfVN) | [Esa Abrate](https://open.spotify.com/artist/3NgxOxH2jpNzkyOOU5W2hD), [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [Ormai \(feat\. Nico Kyni\)](https://open.spotify.com/album/6Lt0209HACUMQr5WQcBLdd) | 2:03 | 2022-07-28 |  |
-| [Ossessione](https://open.spotify.com/track/2xTA9Fzx9W1VoqZAslxhgU) | [Riél](https://open.spotify.com/artist/0LGmCHNVaxGNAPTb73ndWL) | [Ossessione](https://open.spotify.com/album/4l8tNPanRmYX7lLkb5qbPy) | 3:08 | 2022-05-05 |  |
+| [Ossessione](https://open.spotify.com/track/2xTA9Fzx9W1VoqZAslxhgU) | [Riél](https://open.spotify.com/artist/0LGmCHNVaxGNAPTb73ndWL) | [Ossessione](https://open.spotify.com/album/4l8tNPanRmYX7lLkb5qbPy) | 3:08 | 2022-05-05 | 2022-08-12 |
 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 | 2022-06-02 |  |
 | [Pas pour toi](https://open.spotify.com/track/4ScqPc9ABKT0czGYbc0HLK) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Pas pour toi](https://open.spotify.com/album/5kw4tP7YxEDnEvJm4Hj2N2) | 3:19 | 2022-06-30 | 2022-07-29 |
 | [Passatempo](https://open.spotify.com/track/70URplGTkPeSuAEISU5SxS) | [VIMINE](https://open.spotify.com/artist/0K1uWTds9AnxHTy8RJQxEH) | [Passatempo](https://open.spotify.com/album/4kZbt4bD50aQgRAg6tJwC5) | 2:47 | 2022-05-19 |  |

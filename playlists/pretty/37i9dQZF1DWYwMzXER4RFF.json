@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Opus Kink",
-  "num_followers": 244387,
+  "num_followers": 244474,
   "original_name": "Post Punk 2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQyMDQwMCwwMDAwMDAwMGIyMjM2OWY0ZmU5ODNhNjRjZDdlNDI1MTJmZDY0YzIy",
+  "snapshot_id": "MTY1NTQyMDQwMCwwMDAwMDAwMGQ5MjlkNDAzYzRlY2I2YjAxODU1NDViMzI5NTU1MjI2",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
+        "name": "Audio Drag for Ego Slobs",
+        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 120268,
+      "name": "Book",
+      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
         "name": "The Overload",
         "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 200226,
       "name": "Pour Another",
       "url": "https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Sweet Princess EP",
-        "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 230121,
-      "name": "Magic of Meghan",
-      "url": "https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Audio Drag for Ego Slobs",
-        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+        "name": "Sweet Princess EP",
+        "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
       },
       "artists": [
         {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 120268,
-      "name": "Book",
-      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
+      "duration_ms": 230121,
+      "name": "Magic of Meghan",
+      "url": "https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Orc",
-        "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Nite Expo",
-      "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
         "name": "Signal",
         "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 149360,
       "name": "Calling It",
       "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Orc",
+        "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Nite Expo",
+      "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
+        "name": "Suntan",
+        "url": "https://open.spotify.com/album/4kaozidUUVbgoyxIEge7qm"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 299068,
+      "name": "Suntan",
+      "url": "https://open.spotify.com/track/3dX7k03fCG9VANcuLDiomu"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
         "name": "Dogrel",
         "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 105515,
       "name": "Big",
       "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Enola Gay",
-        "url": "https://open.spotify.com/album/4wqfGtPLQvvGSPdM7nr37q"
-      },
-      "artists": [
-        {
-          "name": "Enola Gay",
-          "url": "https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP"
-        }
-      ],
-      "duration_ms": 178608,
-      "name": "Scrappers",
-      "url": "https://open.spotify.com/track/14IvWKgBAZojoDYvlI0MGd"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Sympathy for Life",
-        "url": "https://open.spotify.com/album/3pimNTNgv34WFrdooDB0TT"
-      },
-      "artists": [
-        {
-          "name": "Parquet Courts",
-          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Homo Sapien",
-      "url": "https://open.spotify.com/track/4mflFeaji6SfBoJUaLuozF"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
         "name": "The Coldest Fire",
         "url": "https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW"
       },
@@ -819,34 +803,34 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "I Raise You (The Price of Your Head)",
-        "url": "https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt"
+        "name": "Enola Gay",
+        "url": "https://open.spotify.com/album/4wqfGtPLQvvGSPdM7nr37q"
       },
       "artists": [
         {
-          "name": "Folly Group",
-          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
+          "name": "Enola Gay",
+          "url": "https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP"
         }
       ],
-      "duration_ms": 231336,
-      "name": "I Raise You (The Price of Your Head)",
-      "url": "https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn"
+      "duration_ms": 178608,
+      "name": "Scrappers",
+      "url": "https://open.spotify.com/track/14IvWKgBAZojoDYvlI0MGd"
     },
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN"
+        "name": "Sympathy for Life",
+        "url": "https://open.spotify.com/album/3pimNTNgv34WFrdooDB0TT"
       },
       "artists": [
         {
-          "name": "Scott Lavene",
-          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
+          "name": "Parquet Courts",
+          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
         }
       ],
-      "duration_ms": 481813,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq"
+      "duration_ms": 175800,
+      "name": "Homo Sapien",
+      "url": "https://open.spotify.com/track/4mflFeaji6SfBoJUaLuozF"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -867,6 +851,38 @@
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN"
+      },
+      "artists": [
+        {
+          "name": "Scott Lavene",
+          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
+        }
+      ],
+      "duration_ms": 481813,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "I Raise You (The Price of Your Head)",
+        "url": "https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt"
+      },
+      "artists": [
+        {
+          "name": "Folly Group",
+          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
+        }
+      ],
+      "duration_ms": 231336,
+      "name": "I Raise You (The Price of Your Head)",
+      "url": "https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
         "name": "Concorde",
         "url": "https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 363773,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Slow (Loud)",
-        "url": "https://open.spotify.com/album/2vR7LW4YW3K44rcOlsJbM8"
-      },
-      "artists": [
-        {
-          "name": "black midi",
-          "url": "https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL"
-        }
-      ],
-      "duration_ms": 336624,
-      "name": "Slow (Loud)",
-      "url": "https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs"
     }
   ],
   "unique_name": "Post Punk 2k",

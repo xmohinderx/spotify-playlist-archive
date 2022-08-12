@@ -1124,6 +1124,32 @@
     },
     {
       "album": {
+        "name": "Lali",
+        "url": "https://open.spotify.com/album/4ApxdrM03o7lhMex0WCix0"
+      },
+      "artists": [
+        {
+          "name": "The Synaptik",
+          "url": "https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS"
+        },
+        {
+          "name": "Freek",
+          "url": "https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI"
+        },
+        {
+          "name": "EQuBE",
+          "url": "https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "Lali",
+      "url": "https://open.spotify.com/track/0QeVRDwmrjh4PJqQiRnATR"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
       },

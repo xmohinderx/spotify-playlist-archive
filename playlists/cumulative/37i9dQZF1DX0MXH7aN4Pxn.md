@@ -4,7 +4,7 @@
 
 > Turn the energy levels up and join the party wherever you are!
 
-291 songs - 14 hr 58 min - [published](https://open.spotify.com/playlist/1PuNlNfn3dc6Go7OukEidr)
+292 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/1PuNlNfn3dc6Go7OukEidr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Celebration](https://open.spotify.com/track/0sIWHEb9PH9J5n2ZZEMuGQ) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45) | [Celebration](https://open.spotify.com/album/0Ih9DQmjJCq6H6WtgvNsI0) | 3:22 | 2022-04-15 | 2022-07-06 |
 | [Cheat On Me](https://open.spotify.com/track/5cyhSoTAR7L0g6z6WcPL0T) | [Brunelle](https://open.spotify.com/artist/4g5oZpDOgN4hVwCS93BcXh) | [Cheat On Me](https://open.spotify.com/album/3KNn6Mx3WBIOayWEul8u1o) | 3:01 | 2022-06-20 | 2022-07-22 |
 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 | 2022-04-15 | 2022-07-24 |
+| [Children](https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR) | 4:05 | 2022-06-20 |  |
 | [Chucks](https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Chucks](https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW) | 2:49 | 2022-04-15 | 2022-06-12 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-04-15 |  |
 | [Come Around Again](https://open.spotify.com/track/5pr0RW6itk3yEfJHkg4DIF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 2:49 | 2022-06-20 |  |
@@ -193,7 +194,7 @@
 | [Nobody \(Can Love Me\) \[feat\. Tongue N Cheek\]](https://open.spotify.com/track/3nXHLS5Y4skfX3PLm1cOwc) | [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r), [Tongue N Cheek](https://open.spotify.com/artist/0b6y5LWta0uteNMAXakalp) | [Nobody \(Can Love Me\) \[feat\. Tongue N Cheek\]](https://open.spotify.com/album/1ZVgWfnbdxQUTKIrMjoO3C) | 2:54 | 2022-04-15 | 2022-05-16 |
 | [Not Giving Up On You \(feat\. Danny Dearden\)](https://open.spotify.com/track/2qdE9aIme8r2N6W1tE89UR) | [David Hopperman](https://open.spotify.com/artist/0VAX7m33WhAKE1Q5b8Mq7q), [Danny Dearden](https://open.spotify.com/artist/52kE0a8ilvPQop3NN7tplj) | [Not Giving Up On You \(feat\. Danny Dearden\)](https://open.spotify.com/album/0nzBCUdzsDwoLoqCcWhNOn) | 2:54 | 2022-06-20 | 2022-07-09 |
 | [Oh My](https://open.spotify.com/track/0ch3dHZLfhjbGJ2d8KbVA3) | [Parx](https://open.spotify.com/artist/2C45tSmv4vJEa6zD0aSwtO) | [Oh My](https://open.spotify.com/album/0G9RgLE92XGRzMtIJTySlh) | 3:00 | 2022-04-15 | 2022-07-29 |
-| [On & On](https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [On & On](https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0) | 2:43 | 2022-04-15 |  |
+| [On & On](https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [On & On](https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0) | 2:43 | 2022-04-15 | 2022-08-12 |
 | [On A Mission](https://open.spotify.com/track/3qvf9mABpuuYtBcEtD1F0H) | [Felon](https://open.spotify.com/artist/4mRHCOgJQT3Pe6zV89tfYC), [Jess Hayes](https://open.spotify.com/artist/6uquc5j00pSiEDRuRdGTNl) | [On A Mission](https://open.spotify.com/album/73B3xQxc2um8HqyPV6akQf) | 3:13 | 2022-04-15 | 2022-07-29 |
 | [On Repeat](https://open.spotify.com/track/560XM9FI9xl5H6RK8S1LqH) | [Mike Mago](https://open.spotify.com/artist/5lwT6gFdwV3Wcol07KUiJx), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [On Repeat](https://open.spotify.com/album/0ezmC8VHRQijLPVBPIri2S) | 3:03 | 2022-04-15 | 2022-07-26 |
 | [One Drink](https://open.spotify.com/track/5jNybMulXPmjstztzLe6bW) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [One Drink](https://open.spotify.com/album/2cIFOS0yrWsrjRGo7ShuDo) | 2:29 | 2022-04-15 | 2022-07-28 |

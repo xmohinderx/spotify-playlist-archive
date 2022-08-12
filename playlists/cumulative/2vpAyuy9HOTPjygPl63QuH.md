@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-329 songs - 18 hr 51 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+330 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [He A Freak](https://open.spotify.com/track/1cF0RIu8wJ2BdXHKub03IX) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [He A Freak](https://open.spotify.com/album/3UuI5UUSj4KZfeRMHctuvo) | 3:08 | 2022-05-29 | 2022-06-04 |
 | [Heaven](https://open.spotify.com/track/5DIw2CSHa5gn2lUS8du2sW) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Heaven](https://open.spotify.com/album/69pJO3uecsG3gL9pdCKi49) | 3:46 | 2022-05-13 | 2022-05-30 |
 | [Hey Sexy](https://open.spotify.com/track/5EOIOSUVWvA0fJ7eLwknNq) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Hey Sexy](https://open.spotify.com/album/5nfHEVKqzkqfspcBUmKGxG) | 2:50 | 2022-06-10 | 2022-06-18 |
+| [Higher](https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Umaedo](https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74) | [Higher](https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS) | 2:55 | 2022-08-11 |  |
 | [Hold It \- SQWAD Remix](https://open.spotify.com/track/5HKv8vLHtd0Hk3iT7SWlIB) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Hold It \(SQWAD Remix\)](https://open.spotify.com/album/6ytNjlwlKEtxFcE5Xa2roI) | 3:10 | 2022-07-01 | 2022-07-10 |
 | [Hold You](https://open.spotify.com/track/600nXwQNgfdY9bQxuOHlg8) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Dark Cities](https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y) | [Hold You](https://open.spotify.com/album/1D1ICjvkDEf2fyBbi4uh6X) | 2:53 | 2022-04-28 | 2022-05-14 |
 | [Honey](https://open.spotify.com/track/0Yh8sreGZzPkzshRpWrGTS) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Honey](https://open.spotify.com/album/1rbSmPyDTWkpTdLmEPkkd3) | 3:08 | 2022-07-15 | 2022-07-30 |

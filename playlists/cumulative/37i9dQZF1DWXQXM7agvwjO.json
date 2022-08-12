@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: CHAI (Japan)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: mindfreakkk (Thailand)",
   "name": ".ORG",
   "published_playlist_ids": [
     "150ZZwzNCm1BXFjIA5T8kJ"
@@ -35,6 +35,24 @@
       "duration_ms": 168000,
       "name": "13: 4",
       "url": "https://open.spotify.com/track/0g9QfoNxP3Y1UmCnQ357Y2"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/2XEHXx2cRclNP5ThLEqStX"
+      },
+      "artists": [
+        {
+          "name": "Rosalyn",
+          "url": "https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "20:37",
+      "url": "https://open.spotify.com/track/7wU9V3zmRUSHFLQGc7jRbP"
     },
     {
       "album": {
@@ -417,7 +435,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 147966,
       "name": "Beachtown Boys",
       "url": "https://open.spotify.com/track/3jPBFCltUQcJt65nLCqDFF"
@@ -720,6 +738,28 @@
     },
     {
       "album": {
+        "name": "Daydreaming In Blue",
+        "url": "https://open.spotify.com/album/6Uz82XlSwEfcoorKKPW09c"
+      },
+      "artists": [
+        {
+          "name": "Wobbebong",
+          "url": "https://open.spotify.com/artist/7I3A3nwRpgDiLfNhidWDcq"
+        },
+        {
+          "name": "Nio",
+          "url": "https://open.spotify.com/artist/7LOxl6Vaja1mOtFd900qn7"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Boy In My Head",
+      "url": "https://open.spotify.com/track/4k5R9IAbGNL6XrBASNoxEr"
+    },
+    {
+      "album": {
         "name": "BOYFRIEND (Chinese ver.)",
         "url": "https://open.spotify.com/album/1qWQtefX62aeppgwWdTYXW"
       },
@@ -811,7 +851,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 147867,
       "name": "Cadillac",
       "url": "https://open.spotify.com/track/1UfBoOR19ZMYASHCu60yfl"
@@ -923,6 +963,24 @@
       "duration_ms": 298909,
       "name": "Changes",
       "url": "https://open.spotify.com/track/2hfvgjrLurakx7qltP75KO"
+    },
+    {
+      "album": {
+        "name": "Chaos Calls",
+        "url": "https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236965,
+      "name": "Chaos Calls",
+      "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
     },
     {
       "album": {
@@ -1101,7 +1159,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 184506,
       "name": "cntrl:",
       "url": "https://open.spotify.com/track/1TAbrJpDjryYqi0CktMyho"
@@ -1235,7 +1293,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 171284,
       "name": "Dancing Flowers",
       "url": "https://open.spotify.com/track/0ipGt7HnFJHhDaA5kQGGWh"
@@ -1441,7 +1499,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
@@ -1735,6 +1793,32 @@
       "duration_ms": 224000,
       "name": "Fotan Jazz Club",
       "url": "https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR"
+    },
+    {
+      "album": {
+        "name": "9m88 Radio",
+        "url": "https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12"
+      },
+      "artists": [
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "starRo",
+          "url": "https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "Friend Zone",
+      "url": "https://open.spotify.com/track/0nzD87lkCYiY5Pxjvwp45P"
     },
     {
       "album": {
@@ -2377,7 +2461,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 151637,
       "name": "If You Leave Me Alone",
       "url": "https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI"
@@ -2801,7 +2885,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 195937,
       "name": "Little Balcony",
       "url": "https://open.spotify.com/track/2DvYI7HNzX3n9Ng20PBBQM"
@@ -3140,6 +3224,28 @@
     },
     {
       "album": {
+        "name": "Modern Problem",
+        "url": "https://open.spotify.com/album/6nK6jXwPvD5hSH5H1aFoVv"
+      },
+      "artists": [
+        {
+          "name": "Our Shame",
+          "url": "https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5"
+        },
+        {
+          "name": "LINION",
+          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220975,
+      "name": "Modern Problem",
+      "url": "https://open.spotify.com/track/79HxZf9djlyJ3tgNsZwEkf"
+    },
+    {
+      "album": {
         "name": "Bye Summer!",
         "url": "https://open.spotify.com/album/36RrBlXZvntyXzOhTmsEH5"
       },
@@ -3195,6 +3301,24 @@
       "duration_ms": 149200,
       "name": "Moonlight (Feat. YooJeong)",
       "url": "https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6"
+    },
+    {
+      "album": {
+        "name": "Music All We Have",
+        "url": "https://open.spotify.com/album/7HdVwXyh6GSIe8n6Ilnbo7"
+      },
+      "artists": [
+        {
+          "name": "SCALLER",
+          "url": "https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242507,
+      "name": "Music All We Have",
+      "url": "https://open.spotify.com/track/5BtEJ0u8sxno9kymiloA0S"
     },
     {
       "album": {
@@ -3719,7 +3843,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 185517,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/23VSaws85qOAO8bg1O5FyO"
@@ -3965,6 +4089,28 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "album": {
+        "name": "Blank",
+        "url": "https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Room for You (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
     },
     {
       "album": {
@@ -5119,7 +5265,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 228560,
       "name": "Whatchu Gonna...?",
       "url": "https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp"
@@ -5759,7 +5905,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 231210,
       "name": "\u81ea\u8aaa\u81ea\u8a71",
       "url": "https://open.spotify.com/track/7iufo31RxYOcahPUWTkyMT"

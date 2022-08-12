@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "/ / // / /",
+        "url": "https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz"
+      },
+      "artists": [
+        {
+          "name": "x0o0x_",
+          "url": "https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133757,
+      "name": "/ / // / /",
+      "url": "https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5"
+    },
+    {
+      "album": {
         "name": "\u521d\u97f3\u30df\u30af\u30b7\u30f3\u30d5\u30a9\u30cb\u30fc\u301cMiku Symphony 2019 \u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 \u30e9\u30a4\u30d6",
         "url": "https://open.spotify.com/album/6xSAG9LXKgsxm3QDc0L7FS"
       },
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 175000,
       "name": "Sky Passing Around, Moon Rabbit",
       "url": "https://open.spotify.com/track/5Zz1U1ghsgYAEs8cRSB7WE"

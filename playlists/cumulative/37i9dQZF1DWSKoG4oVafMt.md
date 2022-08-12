@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-474 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+476 songs - 1 day 1 hr 48 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Balle Ni Balle](https://open.spotify.com/track/3Quh2KLPpnsIi3itQWjuQR) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Balle Ni Balle](https://open.spotify.com/album/6Rj96raFzAxHkkrAwCVHYS) | 2:51 | 2022-04-08 | 2022-07-06 |
 | [Bas](https://open.spotify.com/track/1NfnyCDpRMTso2ow5fcfTL) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Bas](https://open.spotify.com/album/3JZ03IN16HsWOqVbz5pnhX) | 2:30 | 2022-03-18 | 2022-05-11 |
 | [Battiyan](https://open.spotify.com/track/4DHK5LbsQErwvi2Rtj288z) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK) | [Battiyan](https://open.spotify.com/album/5aqKAXAol6AQyV00T33dh5) | 3:12 | 2022-06-16 | 2022-07-06 |
+| [Be Mine](https://open.spotify.com/track/0GgN5LyCwRG3jlUIk19IOs) | [Sippy Gill](https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY) | [Anything For You](https://open.spotify.com/album/1NLXWJAvPEi3Lz1AJ61EXO) | 2:18 | 2022-08-11 |  |
 | [Beach Side](https://open.spotify.com/track/71Z54iTChBafBtFqzfdlao) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Beach Side](https://open.spotify.com/album/6Bcs0rdNppNnlt30wuS1wE) | 3:08 | 2022-08-05 |  |
 | [Befikra](https://open.spotify.com/track/32Tfuu9E7wDqSCkUaXpdeg) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV) | [Befikra](https://open.spotify.com/album/1IqfKGDaEnFn5zv6xFzJcW) | 3:26 | 2022-02-24 | 2022-04-06 |
 | [Belief](https://open.spotify.com/track/4fwgyNZyF5IzMOpHdAPsnF) | [Roop Jai Singh](https://open.spotify.com/artist/1cdUwU6zZAyCnMtAeORa3Z), [Enthamoment](https://open.spotify.com/artist/021ngzZoRi1o21azkbM1n3) | [Belief](https://open.spotify.com/album/2xK6wpJ14JVOuVx0R8vLhv) | 3:42 | 2022-07-29 |  |
@@ -430,6 +431,7 @@
 | [Teri Meri Kahani](https://open.spotify.com/track/5ftyuvT3jQotZvo6sJnyce) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Teri Meri Kahani](https://open.spotify.com/album/1xIyxjMzRm9npN8olJlz67) | 2:35 | 2022-07-29 |  |
 | [Teri Sardarni](https://open.spotify.com/track/3W4dGZMlTGDAfB3WoSI3qA) | [Kay Vee Singh](https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n) | [Teri Sardarni](https://open.spotify.com/album/3ruy1JXCCcVL4mfQlkjiuG) | 3:47 | 2021-12-02 | 2022-02-01 |
 | [The Punjaabban Song \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/1XSSm7oKOzNE8oUapjIRWV) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [The Punjaabban Song \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/6mIfxHJVpWhYXKPjHgn80M) | 3:19 | 2022-05-28 | 2022-07-06 |
+| [Till Last Breath](https://open.spotify.com/track/4xzF2qSbPeecqx9spSqNsA) | [Sippy Gill](https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY) | [Anything For You](https://open.spotify.com/album/1NLXWJAvPEi3Lz1AJ61EXO) | 2:54 | 2022-08-11 |  |
 | [Tim Horton](https://open.spotify.com/track/3b7xVbJWIncEr3GGG7Uzia) | [Satbir Aujla](https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy) | [Geetkaar](https://open.spotify.com/album/6pTzaVL8DYWRIAXTACbryg) | 3:15 | 2022-07-18 |  |
 | [Titliaan](https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Titliaan](https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku) | 3:15 | 2021-12-02 | 2022-02-01 |
 | [Tod Gayi](https://open.spotify.com/track/77rovUbI0HYyc1AMjvWvp5) | [Khan Saab](https://open.spotify.com/artist/1Y2YoNjhDco7zu09ZtiEjM), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Tod Gayi](https://open.spotify.com/album/2UKewxdeFG7QX7dszVholW) | 3:08 | 2022-03-29 | 2022-04-29 |

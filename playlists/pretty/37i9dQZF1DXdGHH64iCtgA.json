@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 51204,
+  "num_followers": 51235,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTIzMTQ1NiwwMDAwMDAwMGI2MDkyN2Q5YTU3MmIwNDc3ZmU2MGEyMzVhZGVhN2Fk",
+  "snapshot_id": "MTY1NTIzMTQ1NiwwMDAwMDAwMDY5OTQ1OTMxMjg4OWU5YjEwZGJmNWFmZGZiYzViYTc1",
   "tracks": [
     {
       "added_at": "2022-06-14 18:30:56",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
+        "name": "Controller",
+        "url": "https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 208460,
+      "name": "Controller",
+      "url": "https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
         "name": "Solitary Daze",
         "url": "https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 463405,
       "name": "Solitary Daze",
       "url": "https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
-        "name": "Controller",
-        "url": "https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 208460,
-      "name": "Controller",
-      "url": "https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
-        "name": "MAGDALENE",
-        "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 255720,
-      "name": "sad day",
-      "url": "https://open.spotify.com/track/68lrQ6jAW5cOyn7GX39uzz"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
         "name": "Caution",
         "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 155758,
       "name": "Caution",
       "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
+        "name": "MAGDALENE",
+        "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "sad day",
+      "url": "https://open.spotify.com/track/68lrQ6jAW5cOyn7GX39uzz"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
-        "name": "Lights Up (feat. Channel Tres)",
-        "url": "https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 191537,
-      "name": "Lights Up (feat. Channel Tres)",
-      "url": "https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
         "name": "DREAMLAND (DELUXE)",
         "url": "https://open.spotify.com/album/7yMUYER67OvjIuGqBgrdZO"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 228586,
       "name": "Zhudio54",
       "url": "https://open.spotify.com/track/2mIHEm6ZbKQ6ieeUeAlag3"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
+        "name": "Lights Up (feat. Channel Tres)",
+        "url": "https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 191537,
+      "name": "Lights Up (feat. Channel Tres)",
+      "url": "https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
-        "name": "Woodpecker",
-        "url": "https://open.spotify.com/album/0JygTmxFm484atUuryZF2F"
-      },
-      "artists": [
-        {
-          "name": "Castelle",
-          "url": "https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
         "name": "Adventures Beyond The Ultraworld",
         "url": "https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 267666,
       "name": "Little Fluffy Clouds",
       "url": "https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
+        "name": "Woodpecker",
+        "url": "https://open.spotify.com/album/0JygTmxFm484atUuryZF2F"
+      },
+      "artists": [
+        {
+          "name": "Castelle",
+          "url": "https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -935,26 +935,6 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
-        "name": "TASTY",
-        "url": "https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 230780,
-      "name": "TASTY - Boys Noize Remix",
-      "url": "https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
         "name": "First Album (2009 Reissue)",
         "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 319493,
       "name": "1982",
       "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
+        "name": "TASTY",
+        "url": "https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 230780,
+      "name": "TASTY - Boys Noize Remix",
+      "url": "https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
+        "name": "Birdie",
+        "url": "https://open.spotify.com/album/5QopGkCvcxWJRIKkblX89H"
+      },
+      "artists": [
+        {
+          "name": "Squire",
+          "url": "https://open.spotify.com/artist/6cwjZ6yYU9sr6IeiYy3vv8"
+        }
+      ],
+      "duration_ms": 417547,
+      "name": "Birdie",
+      "url": "https://open.spotify.com/track/3VIBhgSoVZq31ypQK1x4VL"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
         "name": "Club Eat",
         "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 230839,
       "name": "Young Lies",
       "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
-        "name": "Birdie",
-        "url": "https://open.spotify.com/album/5QopGkCvcxWJRIKkblX89H"
-      },
-      "artists": [
-        {
-          "name": "Squire",
-          "url": "https://open.spotify.com/artist/6cwjZ6yYU9sr6IeiYy3vv8"
-        }
-      ],
-      "duration_ms": 417547,
-      "name": "Birdie",
-      "url": "https://open.spotify.com/track/3VIBhgSoVZq31ypQK1x4VL"
     },
     {
       "added_at": "2022-06-14 18:30:56",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-06-14 18:30:56",
       "album": {
-        "name": "DIAMOND TAPE",
-        "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 246101,
-      "name": "3AM IN CHELSEA",
-      "url": "https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2"
-    },
-    {
-      "added_at": "2022-06-14 18:30:56",
-      "album": {
         "name": "Scacco Matto",
         "url": "https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 452853,
       "name": "Dance Tonight Revolution Tomorrow",
       "url": "https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs"
+    },
+    {
+      "added_at": "2022-06-14 18:30:56",
+      "album": {
+        "name": "DIAMOND TAPE",
+        "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 246101,
+      "name": "3AM IN CHELSEA",
+      "url": "https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2"
     },
     {
       "added_at": "2022-06-14 18:30:56",

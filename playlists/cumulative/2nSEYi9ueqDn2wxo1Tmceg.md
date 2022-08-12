@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-130 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+131 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 | 2022-06-08 | 2022-06-30 |
 | [Colour Film](https://open.spotify.com/track/1gjuzva1eaMj9nS8mldgmz) | [Joyeria](https://open.spotify.com/artist/4mECc7MwRyuIDdZdXRi5SB) | [Colour Film](https://open.spotify.com/album/4GjmRobInDP4UY65ZOZHI8) | 3:29 | 2022-08-10 |  |
 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:02 | 2022-06-08 | 2022-07-14 |
+| [Creative Source \- A\-Trak Remix](https://open.spotify.com/track/2KLOgdrNPjzcG0nUzdfSxy) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Creative Source \(A\-Trak Remix\)](https://open.spotify.com/album/3qbugsp6yK8VsEHhNW6Qbp) | 3:41 | 2022-08-11 |  |
 | [Creative Source \- ABSOLUTE\. Neon Energy Remix Edit](https://open.spotify.com/track/1Z371Q3L6nYMO112Xt5Ib0) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Creative Source \(ABSOLUTE\. Neon Energy Remix\)](https://open.spotify.com/album/0ChR2w00RrCd7pCGnHqDGx) | 3:29 | 2022-06-08 | 2022-07-21 |
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-07-26 |  |
 | [Dawn](https://open.spotify.com/track/6uc0M6efmcbQ3bfLON729b) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Night](https://open.spotify.com/album/6HyYMwVYkef8Yjb02Kjmuh) | 3:56 | 2022-06-08 | 2022-07-14 |

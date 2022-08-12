@@ -4,7 +4,7 @@
 
 > Just chill.
 
-306 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+307 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Like a Bird](https://open.spotify.com/track/3FUfo6bZ81aI5rBRfid4ge) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [New Daze](https://open.spotify.com/album/14BnLlh0vzQMHGFgtidto8) | 3:09 | 2020-10-02 | 2022-07-29 |
 | [Like a Bird](https://open.spotify.com/track/43l9LF9XUXvsSucTp7NOfm) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Ritual](https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w) | 3:09 | 2022-06-10 |  |
 | [Like Summer](https://open.spotify.com/track/3innRzfJF3RMcZbXv6It28) | [Kyan](https://open.spotify.com/artist/1fpemL1wk3ZyXVfpzlVEkL) | [Like Summer / Nothing Beyond](https://open.spotify.com/album/2PZ7bnYRX9sOawrIAKeGdT) | 5:36 | 2020-05-29 | 2022-01-22 |
-| [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2020-05-08 |  |
+| [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2020-05-08 | 2022-08-12 |
 | [Lonely Shade of Blue](https://open.spotify.com/track/3Xy4XTx8YUspuzOAP1VteX) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Lonely Shade of Blue](https://open.spotify.com/album/3yaYIRcHa4fwXW9TROD7ew) | 4:22 | 2019-12-06 | 2022-01-22 |
 | [longlife](https://open.spotify.com/track/34UAubDkqTKTIdLgFKFo4M) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [farawayfromeveryoneyouknow](https://open.spotify.com/album/1SFsD3MkBK6N9M9t7sJWXH) | 2:19 | 2020-04-24 | 2022-01-22 |
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2020-10-16 | 2022-01-22 |
@@ -255,6 +255,7 @@
 | [Sun is going down](https://open.spotify.com/track/362Ev5LFc9zje3MhnzugOZ) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Sun is going down](https://open.spotify.com/album/05wbtJpRjix8zvCI59bk5c) | 6:46 | 2021-02-27 | 2022-07-29 |
 | [Sun is going down](https://open.spotify.com/track/3DN0yq0VaZgiANOyTrWnUP) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Sun is going down](https://open.spotify.com/album/5ybhHe6n1NG337HnTFeBvj) | 6:46 | 2022-06-10 |  |
 | [Sunday in the park + STUTS](https://open.spotify.com/track/5Dxg3FrfL7RYTLgbiI0hmZ) | [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [Sunday in the park + STUTS](https://open.spotify.com/album/4nL3Vhs27eX3LZFKr3C0s3) | 4:34 | 2020-05-08 | 2022-01-22 |
+| [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 | 2022-08-11 |  |
 | [Sunrise](https://open.spotify.com/track/504BrFbtkCK5GG8U0wb2qb) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [Sunrise](https://open.spotify.com/album/38HbJPmQs9Hby1736L1GYZ) | 3:28 | 2020-01-07 |  |
 | [Supalonely \(Lownely\)](https://open.spotify.com/track/0hVZCUZKWsWFU6i5zlRZZr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Supalonely \(Lownely\)](https://open.spotify.com/album/7lkrgPpSZTMcgNi2yHdQ7E) | 3:19 | 2020-05-08 |  |
 | [Surf's Up, I'm Drowning](https://open.spotify.com/track/3hsBnnID20GgUjgY2nqkue) | [Jesse Aicher](https://open.spotify.com/artist/4fpOVrO6DmQdxQJSqiGIqQ), [Westerns](https://open.spotify.com/artist/4dYYNJWW0gqWLVGIfrxEsl) | [Surf's Up, I'm Drowning](https://open.spotify.com/album/0SxR5giaDLkKsmFLYTSXgP) | 2:45 | 2020-02-28 | 2022-01-22 |

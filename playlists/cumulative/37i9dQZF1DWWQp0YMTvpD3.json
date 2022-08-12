@@ -1750,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/3HsiVf90EsNt1Bjk0KAcH1"
+      },
+      "artists": [
+        {
+          "name": "Sylvani",
+          "url": "https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197181,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/4pCD8UePjCSLPBZMiWbV2R"
+    },
+    {
+      "album": {
         "name": "Love and Fear",
         "url": "https://open.spotify.com/album/1iGrF9KFH0z04I75umd88i"
       },

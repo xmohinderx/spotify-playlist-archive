@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDMxYmYwNjk1MjhhMGQ0Y2Y1M2YxODVkZTI4NDc1YTE2",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDllMGZlNzNiMzlkYzMxNjgxOTNlOWI1M2U3YzVlYTE0",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "The Carpenter",
+        "url": "https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "Live And Die",
+      "url": "https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Sing Into My Mouth",
         "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "The Carpenter",
-        "url": "https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "Live And Die",
-      "url": "https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+        "name": "I'll Be Your Girl",
+        "url": "https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
         }
       ],
-      "duration_ms": 207186,
-      "name": "Penny, Heads Up",
-      "url": "https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg"
+      "duration_ms": 208960,
+      "name": "Sucker's Prayer",
+      "url": "https://open.spotify.com/track/3pxhPssdL2SJObXb5hpCRu"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "I'll Be Your Girl",
-        "url": "https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6"
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
       },
       "artists": [
         {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 208960,
-      "name": "Sucker's Prayer",
-      "url": "https://open.spotify.com/track/3pxhPssdL2SJObXb5hpCRu"
+      "duration_ms": 207186,
+      "name": "Penny, Heads Up",
+      "url": "https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg"
     }
   ],
   "unique_name": "Wide Awake",

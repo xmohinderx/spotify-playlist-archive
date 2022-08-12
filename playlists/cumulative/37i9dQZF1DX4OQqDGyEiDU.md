@@ -4,13 +4,14 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-409 songs - 23 hr 55 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
+410 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [''''''](https://open.spotify.com/track/2IdCKcMOO5FuAGvYqsZ6p3) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [''''''](https://open.spotify.com/album/5uhEQY2SM46YFVt0KTBqTu) | 2:32 | 2022-06-30 | 2022-07-04 |
 | [\*ハロー、プラネット。](https://open.spotify.com/track/7ik5ZgXgjOj09MgqoMPZGD) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [ボーカロイドは終末鳥の夢を見るか?](https://open.spotify.com/album/6xLb6DYNftzLt6pgGGOJSM) | 5:01 | 2022-06-14 | 2022-07-26 |
 | [\-ERROR](https://open.spotify.com/track/6hNEOWmQNiZ9ZqJmwdkcl1) | [cillia](https://open.spotify.com/artist/5gDyO3OywEw4lcKIFpspyX) | [\-ERROR](https://open.spotify.com/album/5j1oxI6o9dJbJ0q0z7tiue) | 4:00 | 2022-06-14 | 2022-07-03 |
+| [/ / // / /](https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [/ / // / /](https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz) | 2:13 | 2022-08-11 |  |
 | [1/6 \-out of the gravity\- \(feat\. 初音ミク\) \- LIVE](https://open.spotify.com/track/6W2auQBKTSRwCoXuk8DrHi) | [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [初音ミクシンフォニー〜Miku Symphony 2019 オーケストラ ライブ](https://open.spotify.com/album/6xSAG9LXKgsxm3QDc0L7FS) | 4:25 | 2022-06-30 | 2022-07-05 |
 | [39](https://open.spotify.com/track/5ZVKlvVj2I3uvNPXsQTxAW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39](https://open.spotify.com/album/5kGi7b284QLCIhuwXMHnHf) | 3:39 | 2022-07-14 | 2022-07-19 |
 | [4BLOOD](https://open.spotify.com/track/6iBHIWfoGePzzfww89m2ST) | [KIRA](https://open.spotify.com/artist/11T32AM3Tp0oYZ3PEWHGLZ), [Hatsune Miku](https://open.spotify.com/artist/2AynL2BUHgIk5ApzFVwDIL) | [4BLOOD](https://open.spotify.com/album/047PvaOzsEUKH0rw40JLIT) | 3:06 | 2022-07-14 | 2022-07-18 |
@@ -91,7 +92,7 @@
 | [shake it! \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:45 | 2022-06-09 | 2022-07-17 |
 | [Shiwa](https://open.spotify.com/track/3NaZokOh98b1XBTMPnN7oz) | [buzzG](https://open.spotify.com/artist/19NXgOnueQiWGJqA2G9ux8) | [Exit Tunes Presents Gumitia From Megpoid](https://open.spotify.com/album/576susPyURtiacuy83kSAV) | 4:15 | 2022-06-14 | 2022-07-28 |
 | [SIU](https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 4:38 | 2022-07-26 |  |
-| [Sky Passing Around, Moon Rabbit](https://open.spotify.com/track/5Zz1U1ghsgYAEs8cRSB7WE) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [SEASIDE SOLILOQUIES](https://open.spotify.com/album/7mzOTGPUcJ30cYwYFqCHSc) | 2:55 | 2022-07-26 |  |
+| [Sky Passing Around, Moon Rabbit](https://open.spotify.com/track/5Zz1U1ghsgYAEs8cRSB7WE) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [SEASIDE SOLILOQUIES](https://open.spotify.com/album/7mzOTGPUcJ30cYwYFqCHSc) | 2:55 | 2022-07-26 | 2022-08-12 |
 | [Tell Your World](https://open.spotify.com/track/3FY8S1VGJEPw16ejMPILzY) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Upload](https://open.spotify.com/album/7LP4mt5orMMrzqiOWIFYT4) | 4:15 | 2022-06-28 | 2022-07-27 |
 | [Thanks for being Lifeless](https://open.spotify.com/track/051mZnDf307e5y9oflIUiC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [ZERO\-GO](https://open.spotify.com/album/0oaOHz6VowcZp1FUAwqDiD) | 4:24 | 2022-07-26 |  |
 | [The Vampire](https://open.spotify.com/track/2d49lHO5ybKcYAcuJh2hT2) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [MANNEQUIN](https://open.spotify.com/album/3qFF8RZSnHGf6q6jOcCXy5) | 2:58 | 2022-07-26 |  |

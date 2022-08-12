@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 167500,
       "name": "At Peace",
       "url": "https://open.spotify.com/track/2oC48TZ0X9mZvWrDULiU8e"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 227668,
       "name": "Atmos Eleven",
       "url": "https://open.spotify.com/track/0RIJAaogvQkeFuZVPhYlma"
@@ -764,6 +764,24 @@
     },
     {
       "album": {
+        "name": "Bortgjemt",
+        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Bortgjemt",
+      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
+    },
+    {
+      "album": {
         "name": "Boy Blowing Bubbles",
         "url": "https://open.spotify.com/album/7CuFbbQgSZqJBp1VudRHu6"
       },
@@ -869,6 +887,24 @@
       "duration_ms": 181136,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/5bKOctkwgdfCktzgabUPne"
+    },
+    {
+      "album": {
+        "name": "By Midnight",
+        "url": "https://open.spotify.com/album/0WcxDmPWwofsGWR9o08WZx"
+      },
+      "artists": [
+        {
+          "name": "Jon Stefans",
+          "url": "https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140416,
+      "name": "By Midnight",
+      "url": "https://open.spotify.com/track/5D8YiJqd8vNkBGO1ZSatnG"
     },
     {
       "album": {
@@ -1009,10 +1045,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 131276,
       "name": "Chasing Love",
       "url": "https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ"
+    },
+    {
+      "album": {
+        "name": "Circle Of Everything",
+        "url": "https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL"
+      },
+      "artists": [
+        {
+          "name": "Dance Of Centuries",
+          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Circle Of Everything",
+      "url": "https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D"
     },
     {
       "album": {
@@ -1197,7 +1251,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 215770,
       "name": "Convince Me",
       "url": "https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo"
@@ -1460,6 +1514,24 @@
     },
     {
       "album": {
+        "name": "Dr\u00f8mmende",
+        "url": "https://open.spotify.com/album/786ZDMgiNEMHHTqEm376n5"
+      },
+      "artists": [
+        {
+          "name": "Polysomni",
+          "url": "https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143487,
+      "name": "Dr\u00f8mmende",
+      "url": "https://open.spotify.com/track/417Rk6IHsMmM8tKtP3CNfB"
+    },
+    {
+      "album": {
         "name": "Ethereal Dream",
         "url": "https://open.spotify.com/album/3zt0kYKy8vVLE9Px2ZpEOn"
       },
@@ -1676,6 +1748,24 @@
     },
     {
       "album": {
+        "name": "Ending In Mist",
+        "url": "https://open.spotify.com/album/6YPKQpMvioaOTpIyx5AZA3"
+      },
+      "artists": [
+        {
+          "name": "Atlentea",
+          "url": "https://open.spotify.com/artist/6gvH5MuZx8Hr8tocFw6Uf4"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "Ending In Mist",
+      "url": "https://open.spotify.com/track/1EARYCS97kPiVGEf0wMhQt"
+    },
+    {
+      "album": {
         "name": "Endless Fragments of Time",
         "url": "https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL"
       },
@@ -1853,6 +1943,24 @@
       "duration_ms": 135325,
       "name": "Everyday Peace",
       "url": "https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699"
+    },
+    {
+      "album": {
+        "name": "Fernweh",
+        "url": "https://open.spotify.com/album/2uIbY1CNUyD16shr3k684S"
+      },
+      "artists": [
+        {
+          "name": "Iremia",
+          "url": "https://open.spotify.com/artist/2GQxq7lvcYy8w71KvQHJM6"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174023,
+      "name": "Fernweh",
+      "url": "https://open.spotify.com/track/6r2wMDEXAdpiZWXvRVrlL9"
     },
     {
       "album": {
@@ -2378,6 +2486,24 @@
     },
     {
       "album": {
+        "name": "H\u00e6den",
+        "url": "https://open.spotify.com/album/2hwrvBljVoZhj1Kx4FL6Gy"
+      },
+      "artists": [
+        {
+          "name": "Ganlas",
+          "url": "https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147562,
+      "name": "H\u00e6den",
+      "url": "https://open.spotify.com/track/36JtpkJGUtIEwIWF25LmCU"
+    },
+    {
+      "album": {
         "name": "In the deep",
         "url": "https://open.spotify.com/album/3zUScCSyKqXMIGVrOrz1Bt"
       },
@@ -2522,6 +2648,24 @@
     },
     {
       "album": {
+        "name": "Islands Above",
+        "url": "https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX"
+      },
+      "artists": [
+        {
+          "name": "Lunar Hush",
+          "url": "https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156974,
+      "name": "Islands Above",
+      "url": "https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d"
+    },
+    {
+      "album": {
         "name": "Fjarlagt Ljus",
         "url": "https://open.spotify.com/album/7kmXJFHI5btwoDpUN4JsiN"
       },
@@ -2609,6 +2753,24 @@
       "duration_ms": 220000,
       "name": "Jij bent alles",
       "url": "https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa"
+    },
+    {
+      "album": {
+        "name": "Jiva",
+        "url": "https://open.spotify.com/album/1IhH4kJuVq4iXffzIxlHsh"
+      },
+      "artists": [
+        {
+          "name": "Orvalis",
+          "url": "https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160973,
+      "name": "Jiva",
+      "url": "https://open.spotify.com/track/045bWmwbqV82V88ZQzEdaC"
     },
     {
       "album": {
@@ -3206,6 +3368,24 @@
     },
     {
       "album": {
+        "name": "Merikarp",
+        "url": "https://open.spotify.com/album/5hY826Klpc0SSULaKdylI1"
+      },
+      "artists": [
+        {
+          "name": "Fabien Tamm",
+          "url": "https://open.spotify.com/artist/2V39QR1IlcAPJjdsrdz2pM"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154499,
+      "name": "Merikarp",
+      "url": "https://open.spotify.com/track/1SucXU3xTOCyBAAqE22E8B"
+    },
+    {
+      "album": {
         "name": "Mezame",
         "url": "https://open.spotify.com/album/170wLhbCsUgbtt6DCFX1iG"
       },
@@ -3235,7 +3415,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 166500,
       "name": "midnight rain",
       "url": "https://open.spotify.com/track/7qeJ6bsw8pessFugI36oOd"
@@ -3347,6 +3527,24 @@
       "duration_ms": 181675,
       "name": "Morze Ba\u0142tyckie",
       "url": "https://open.spotify.com/track/1cpOnZ05SwPJ2uy2vIAqy4"
+    },
+    {
+      "album": {
+        "name": "Mountain View",
+        "url": "https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw"
+      },
+      "artists": [
+        {
+          "name": "Sweetscape",
+          "url": "https://open.spotify.com/artist/1BF35yKu7uZaQMKsHO3MRP"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152974,
+      "name": "Mountain View",
+      "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
     },
     {
       "album": {
@@ -3872,6 +4070,24 @@
     },
     {
       "album": {
+        "name": "Parallel Worlds",
+        "url": "https://open.spotify.com/album/2O45qC96vvpM1Kv78hAJnM"
+      },
+      "artists": [
+        {
+          "name": "Science Of Dreams",
+          "url": "https://open.spotify.com/artist/1KKkMFJaPv6zDbGVIPsM8c"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147825,
+      "name": "Parallel Worlds",
+      "url": "https://open.spotify.com/track/5TfShnc8JLVFBwpI7OYoG9"
+    },
+    {
+      "album": {
         "name": "Paranormal",
         "url": "https://open.spotify.com/album/0lUQkebaMN5Fa9O35WcMDu"
       },
@@ -3905,6 +4121,24 @@
       "duration_ms": 159230,
       "name": "Passage",
       "url": "https://open.spotify.com/track/49JzlkG8RI6iW9R95Ki2Sk"
+    },
+    {
+      "album": {
+        "name": "Pathway",
+        "url": "https://open.spotify.com/album/2niggcmzXvxZLnQbM0kpc5"
+      },
+      "artists": [
+        {
+          "name": "Yonatan Awate",
+          "url": "https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181061,
+      "name": "Pathway",
+      "url": "https://open.spotify.com/track/7dbha6Yw3WdhyMCeCiPW0v"
     },
     {
       "album": {
@@ -4081,7 +4315,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 156250,
       "name": "Pondering Life",
       "url": "https://open.spotify.com/track/7BM5WFlytFqJ8j0FewyhA7"
@@ -4693,7 +4927,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 180821,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/2R0jJNaZzXUklvrjpbRS66"
@@ -4736,6 +4970,24 @@
     },
     {
       "album": {
+        "name": "Skaisti",
+        "url": "https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV"
+      },
+      "artists": [
+        {
+          "name": "Adelina Palm",
+          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169574,
+      "name": "Skaisti",
+      "url": "https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8"
+    },
+    {
+      "album": {
         "name": "Forest Wisdom",
         "url": "https://open.spotify.com/album/6hZoc7bZWQxSUg0DyPMYIa"
       },
@@ -4751,6 +5003,24 @@
       "duration_ms": 183689,
       "name": "Sleeping Trees",
       "url": "https://open.spotify.com/track/4LGW9dwnuR8a3G1GWcAubi"
+    },
+    {
+      "album": {
+        "name": "Sleepwaves",
+        "url": "https://open.spotify.com/album/0B0KkOA8LKhE16HTnPq1aX"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Sine",
+          "url": "https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172036,
+      "name": "Sleepwaves",
+      "url": "https://open.spotify.com/track/3TzJZVPEKdiyFcv6aKDkOg"
     },
     {
       "album": {
@@ -5233,7 +5503,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 178608,
       "name": "The Golden Path",
       "url": "https://open.spotify.com/track/4Yfx8KnmfYaNr58SVLV4QY"
@@ -5327,6 +5597,42 @@
       "duration_ms": 209250,
       "name": "Tiniebla",
       "url": "https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo"
+    },
+    {
+      "album": {
+        "name": "To Be Expected",
+        "url": "https://open.spotify.com/album/3MF8k9t7mFtS48Y59BLrq8"
+      },
+      "artists": [
+        {
+          "name": "Egon Alram",
+          "url": "https://open.spotify.com/artist/4fHSfGpd33bVmfX6nKObBs"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209301,
+      "name": "To Be Expected",
+      "url": "https://open.spotify.com/track/2Z6KXTpofAbkZMhy6F34C0"
+    },
+    {
+      "album": {
+        "name": "Trail Winds",
+        "url": "https://open.spotify.com/album/4YutP0RPMH4eRnyZ3xKDY3"
+      },
+      "artists": [
+        {
+          "name": "Leo Lind",
+          "url": "https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130169,
+      "name": "Trail Winds",
+      "url": "https://open.spotify.com/track/6vNggvaJBLf6dSomU6sMhX"
     },
     {
       "album": {
@@ -5582,6 +5888,42 @@
     },
     {
       "album": {
+        "name": "Vishram - Sleep Version",
+        "url": "https://open.spotify.com/album/5vOajCeKyNwks56VYskW8Y"
+      },
+      "artists": [
+        {
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Vishram - Sleep Version",
+      "url": "https://open.spotify.com/track/7trOz2nilrr7ZWGnzQsraX"
+    },
+    {
+      "album": {
+        "name": "Vishram - Yoga Version",
+        "url": "https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi"
+      },
+      "artists": [
+        {
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Vishram - Yoga Version",
+      "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
+    },
+    {
+      "album": {
         "name": "Vi\u0301\u00f0sy\u0301ni",
         "url": "https://open.spotify.com/album/5XSm8RCqT1LqvbcYubwIfT"
       },
@@ -5665,7 +6007,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 160800,
       "name": "Water Poem",
       "url": "https://open.spotify.com/track/0pAwPXSKwaf4YqR448MtkI"

@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-126 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
+127 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Clicli](https://open.spotify.com/track/4Ybp2JxZFhAAZSwrMTWuiG) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4) | [Clicli](https://open.spotify.com/album/3LpYLnk2KFLdJNw2A09TK4) | 2:54 | 2021-12-22 | 2022-02-18 |
 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 | 2021-12-22 | 2022-02-18 |
 | [Count Your Blessings](https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF) | [Count Your Blessings](https://open.spotify.com/album/5EJsDFoL9jqVOsCS2UnXil) | 2:12 | 2022-07-07 |  |
-| [Dancehall](https://open.spotify.com/track/2sCG5Iwv9GdYNViAs5b7Gy) | [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Wordle Riddim](https://open.spotify.com/album/5Qzyi64m3ak0GXtcd5bemz) | 2:26 | 2022-07-07 |  |
+| [Dancehall](https://open.spotify.com/track/2sCG5Iwv9GdYNViAs5b7Gy) | [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Wordle Riddim](https://open.spotify.com/album/5Qzyi64m3ak0GXtcd5bemz) | 2:26 | 2022-07-07 | 2022-08-12 |
 | [Dancehall Wine](https://open.spotify.com/track/6ra6I1zN1PXRhTocLdaIfo) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Dancehall Wine](https://open.spotify.com/album/6wW1nEfVxqFVjJpeAXEKQO) | 3:29 | 2022-02-24 |  |
 | [Don Dadda](https://open.spotify.com/track/211zeYpya3uYHNlFzTKc9v) | [DJ Moiz](https://open.spotify.com/artist/5cjU6BX3PuLO7f510Fa65P), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr) | [Don Dadda](https://open.spotify.com/album/3dDGAjup8cc6F4Kx6VxzjE) | 2:09 | 2021-12-22 | 2022-03-18 |
 | [Down](https://open.spotify.com/track/0gGnXH7QOZZEZWfdyCOSri) | [FLAVAONE](https://open.spotify.com/artist/2GFWpFyxWhrhyv7tDM1Hg8), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr) | [Down](https://open.spotify.com/album/0lEXDwuGHhm6AWWdxc3Uxn) | 2:37 | 2022-01-27 | 2022-05-21 |
@@ -100,6 +100,7 @@
 | [PRETTY SUIT](https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [OUT:SIDE](https://open.spotify.com/album/3rPlEhJ2xkEM1zqrYczjzn) | 2:48 | 2022-07-21 |  |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-02-03 |  |
 | [PVDV](https://open.spotify.com/track/5Bnh17R2tIfcNCwQ0HR1RD) | [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1), [Reyel Ay](https://open.spotify.com/artist/7ArndI9V96Y7AXKQ4O54FH) | [PVDV](https://open.spotify.com/album/0Obzppmpm8XdZ2Um3lG90m) | 2:32 | 2022-02-03 | 2022-06-03 |
+| [Pwen Sansib](https://open.spotify.com/track/1fviAMexM8UoYeoLHCOubV) | [Riddla](https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw) | [Pwen Sansib](https://open.spotify.com/album/2pQBH39dnCeNKMRcOKs4mD) | 3:21 | 2022-08-11 |  |
 | [Pétard](https://open.spotify.com/track/5BdYCKJnrPu5sWoarvOAuQ) | [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [Pétard](https://open.spotify.com/album/0Njs4KqG16zTcKuIaTF2ja) | 2:55 | 2022-06-16 |  |
 | [Rayi](https://open.spotify.com/track/76YX35vB9aQETqzZQUThpR) | [CRAAZY](https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd), [WAH WAAH](https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Rayi](https://open.spotify.com/album/4hWzXmzOBcbjc6a3QrON66) | 3:12 | 2022-01-27 | 2022-07-01 |
 | [Real Dawgz](https://open.spotify.com/track/5zpTf2sn6BGjPVLi1pEOvo) | [Goldn.B](https://open.spotify.com/artist/4gGacdwZmUxzVWDOoGMomn) | [Or\(née\)](https://open.spotify.com/album/66i0k01MnJRSOALLcsu99J) | 3:09 | 2022-04-14 | 2022-06-24 |

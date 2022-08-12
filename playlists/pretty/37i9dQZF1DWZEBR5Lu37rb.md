@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,814 likes - 97 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,839 likes - 97 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Before You Wake Up](https://open.spotify.com/track/2PKRz9DR6lUX6zAJgW5aRV) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Before You Wake Up](https://open.spotify.com/album/7c3illLdUqSIVXTb6h3zEC) | 2:54 |
-| 2 | [Nobody but Me \(feat\. K.O\)](https://open.spotify.com/track/0VhQbntrTPGcGHqgCvYQdS) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Money Mondays](https://open.spotify.com/album/3TAUwPnG8hHgBWFE5obk17) | 3:58 |
+| 2 | [Nobody but Me \- Bonus Track](https://open.spotify.com/track/57rot16Tp9O8pwmkgPoGfd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7), [K.O](https://open.spotify.com/artist/7q2JZvjjqo4Btkt9qmCKkv) | [Money Mondays](https://open.spotify.com/album/7DU7E1G7ZDTejOwJgUgLVO) | 3:58 |
 | 3 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
 | 4 | [Ndizele Wena](https://open.spotify.com/track/15P4w866PR3iyQ4b3KlLbK) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Power](https://open.spotify.com/album/6dDz2SDdhnaeKTLoe0BRhH) | 2:38 |
 | 5 | [African Queen](https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:24 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 96 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 97 | [Haiwihaiwi \(feat\. Bienaime\)](https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT), [Bien Aime](https://open.spotify.com/artist/7F39RDj6PGoOTLqSxWcScL) | [My Essence](https://open.spotify.com/album/0zGiZdTgKFSRLVWd0XLeFi) | 3:29 |
 
-Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMDNhNmUxYTc4NWMyNmE3NTFhZWE4N2Y5MWUyZDk0N2Uw`
+Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMDAwZmQzMzg2MTJhOWM4ZDJhMzQwOWMzMjFjMjgwZDA2`

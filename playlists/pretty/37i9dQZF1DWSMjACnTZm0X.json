@@ -1,12 +1,12 @@
 {
-  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=u10hX4oCTl26On4ex5ecTQ\">Uncle Waffles</a>",
-  "num_followers": 2307,
+  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW?si=GvVFSOdGRW63e9q6_EcfKg\">Jux</a>",
+  "num_followers": 2337,
   "original_name": "Piano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDM0MCwwMDAwMDAwMGE3N2Q1MmRiY2M3YWEwOGYzY2Q1Y2RmNGVhYjA3NmQ2",
+  "snapshot_id": "MTY2MDI1NTE0MCwwMDAwMDAwMDM1ODNiMjgwMTY1NDQyNjM5NGI2YzdlOTIzMDM4NzE0",
   "tracks": [
     {
       "added_at": "2022-05-23 07:21:35",
@@ -343,6 +343,82 @@
     {
       "added_at": "2022-05-23 07:21:35",
       "album": {
+        "name": "Selema (Po Po)",
+        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+        }
+      ],
+      "duration_ms": 340846,
+      "name": "Selema (Po Po)",
+      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
+    },
+    {
+      "added_at": "2022-05-23 07:21:35",
+      "album": {
+        "name": "Mystery Lady (Scorpion Kings Remix)",
+        "url": "https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 450000,
+      "name": "Mystery Lady - Scorpion Kings Remix",
+      "url": "https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W"
+    },
+    {
+      "added_at": "2022-05-23 07:21:35",
+      "album": {
+        "name": "Bells",
+        "url": "https://open.spotify.com/album/5fb9nAydl4x1Orhsrd4622"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "TNK MusiQ",
+          "url": "https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN"
+        },
+        {
+          "name": "DJ Stopper",
+          "url": "https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8"
+        },
+        {
+          "name": "Eltonk SA",
+          "url": "https://open.spotify.com/artist/2UizOudF54jbl9PllMTaEM"
+        }
+      ],
+      "duration_ms": 351484,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/7c5rKCDYYbyBsLlJ00NgCD"
+    },
+    {
+      "added_at": "2022-05-23 07:21:35",
+      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v"
       },
@@ -493,82 +569,6 @@
       "url": "https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Selema (Po Po)",
-        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
-        }
-      ],
-      "duration_ms": 340846,
-      "name": "Selema (Po Po)",
-      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Mystery Lady (Scorpion Kings Remix)",
-        "url": "https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 450000,
-      "name": "Mystery Lady - Scorpion Kings Remix",
-      "url": "https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Bells",
-        "url": "https://open.spotify.com/album/5fb9nAydl4x1Orhsrd4622"
-      },
-      "artists": [
-        {
-          "name": "DBN Gogo",
-          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
-        },
-        {
-          "name": "TNK MusiQ",
-          "url": "https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN"
-        },
-        {
-          "name": "DJ Stopper",
-          "url": "https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8"
-        },
-        {
-          "name": "Eltonk SA",
-          "url": "https://open.spotify.com/artist/2UizOudF54jbl9PllMTaEM"
-        }
-      ],
-      "duration_ms": 351484,
-      "name": "Bells",
-      "url": "https://open.spotify.com/track/7c5rKCDYYbyBsLlJ00NgCD"
-    },
-    {
       "added_at": "2022-08-04 21:59:00",
       "album": {
         "name": "3ini",
@@ -583,6 +583,30 @@
       "duration_ms": 177749,
       "name": "3ini",
       "url": "https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU"
+    },
+    {
+      "added_at": "2022-08-11 21:59:00",
+      "album": {
+        "name": "BADDEST",
+        "url": "https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL"
+      },
+      "artists": [
+        {
+          "name": "DJ Shawn",
+          "url": "https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 225425,
+      "name": "BADDEST",
+      "url": "https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -749,60 +773,24 @@
       "url": "https://open.spotify.com/track/0R1LtMkJJxzE1cwKjwemkG"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2022-08-11 21:59:00",
       "album": {
-        "name": "Ozumba Mbadiwe (Remix)",
-        "url": "https://open.spotify.com/album/656VMGOU4NL8RpviUz5IYF"
+        "name": "Jaiye Foreign",
+        "url": "https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY"
       },
       "artists": [
         {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 211636,
-      "name": "Ozumba Mbadiwe - Remix",
-      "url": "https://open.spotify.com/track/0WZv29OGhRABeryXBPMAV6"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Softly (Cuppy Remix)",
-        "url": "https://open.spotify.com/album/4QJjnkrmYwQ3YypwLENCUQ"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Cuppy",
-          "url": "https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f"
-        }
-      ],
-      "duration_ms": 151388,
-      "name": "Softly - Cuppy Remix",
-      "url": "https://open.spotify.com/track/2APuTWMAHD8Co32wiLciyL"
-    },
-    {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "Selfmade $lick",
-        "url": "https://open.spotify.com/album/6m2yz9GrAqT8JZRRQYV8Md"
-      },
-      "artists": [
-        {
-          "name": "N\u00e1poles",
-          "url": "https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1"
-        }
-      ],
-      "duration_ms": 183902,
-      "name": "Selfmade $lick",
-      "url": "https://open.spotify.com/track/379ldnzfmpVV1aaXQQVVOC"
+      "duration_ms": 190164,
+      "name": "Jaiye Foreign",
+      "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -853,24 +841,20 @@
       "url": "https://open.spotify.com/track/7bwMgt5a2vGunZbqfQGYSN"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2022-08-11 21:59:00",
       "album": {
-        "name": "RAT-TAT-TAT",
-        "url": "https://open.spotify.com/album/3VbbTG4bH4VmdCjivJNjro"
+        "name": "Para",
+        "url": "https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE"
       },
       "artists": [
         {
-          "name": "audiot909",
-          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
-        },
-        {
-          "name": "AKKOGORILLA",
-          "url": "https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 223806,
-      "name": "RAT-TAT-TAT",
-      "url": "https://open.spotify.com/track/14oF3NwapfVlFLziXAknpM"
+      "duration_ms": 180062,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -937,24 +921,24 @@
       "url": "https://open.spotify.com/track/2zXEw82TxIqV9nYaUKJFxA"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2022-08-11 21:59:00",
       "album": {
-        "name": "Keep Hope Alive",
-        "url": "https://open.spotify.com/album/3ESaEubk0R9boWw4gj7a33"
+        "name": "Lie To Me (Tell Me a Fairy Tale)",
+        "url": "https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4"
       },
       "artists": [
         {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
         },
         {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+          "name": "Blocka Beats",
+          "url": "https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm"
         }
       ],
-      "duration_ms": 271992,
-      "name": "Banky Banky",
-      "url": "https://open.spotify.com/track/7BJbJvnGkTHFtf72Ijc80J"
+      "duration_ms": 198000,
+      "name": "Lie To Me (Tell Me a Fairy Tale)",
+      "url": "https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -993,32 +977,24 @@
       "url": "https://open.spotify.com/track/652CrDGK9rksRHkG7X0rlQ"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2022-08-11 21:59:00",
       "album": {
-        "name": "Beer Tam",
-        "url": "https://open.spotify.com/album/3sG9Yb7heI3k5qVWCgJvQZ"
+        "name": "ODG (Remix)",
+        "url": "https://open.spotify.com/album/6vh28C9UkOKgW8K1KQ5Q2M"
       },
       "artists": [
         {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+          "name": "Eltee Skhillz",
+          "url": "https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT"
         },
         {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "Abbah",
-          "url": "https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV"
-        },
-        {
-          "name": "Visca",
-          "url": "https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO"
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
         }
       ],
-      "duration_ms": 293846,
-      "name": "Beer Tam",
-      "url": "https://open.spotify.com/track/2YVBBDQoMn8oHrSysWWhla"
+      "duration_ms": 195225,
+      "name": "ODG - Remix",
+      "url": "https://open.spotify.com/track/3BqDMZ9MxSaoXe3zuVIKuR"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -1071,22 +1047,6 @@
       "duration_ms": 381586,
       "name": "Akulaleki",
       "url": "https://open.spotify.com/track/6IVjF6tfGdFBZr4wXhMRtC"
-    },
-    {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2022-05-23 07:21:35",

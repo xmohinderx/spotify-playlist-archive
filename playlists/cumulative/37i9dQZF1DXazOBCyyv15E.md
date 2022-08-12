@@ -2,9 +2,9 @@
 
 ### [The Other List](https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E)
 
-> The home of the best new alternative music\. Cover: Sad Night Dynamite
+> The home of the best new alternative music\. Cover: DellaXOZ
 
-989 songs - 2 day 10 hr 51 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+992 songs - 2 day 10 hr 59 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Both Sides Of A Smile \(feat\. James Blake\)](https://open.spotify.com/track/3hX0ilh84w2KGaiNw2rRCV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 7:59 | 2021-07-23 | 2021-08-27 |
 | [Bottle Rocket](https://open.spotify.com/track/2UNaGqS3RPjvkBzTtIS94A) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Bottle Rocket](https://open.spotify.com/album/4QOAYNpThe6GyIfce6KMvM) | 3:25 | 2020-09-29\* | 2020-10-23 |
 | [Brand New Face](https://open.spotify.com/track/53bvxBx7IL8wbo8DgR685q) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Brand New Face](https://open.spotify.com/album/6ofq11x9lVTSJVX2tJcyHI) | 4:04 | 2020-11-13 | 2021-01-15 |
+| [Brexit at Tiffany's](https://open.spotify.com/track/49BeIQzb05PWsS2YfSt87Q) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Brexit at Tiffany's](https://open.spotify.com/album/2vxRVqkq60c3ltJkt0JXkF) | 2:43 | 2022-08-11 |  |
 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2022-06-16 |  |
 | [Bug Eggs](https://open.spotify.com/track/0v1E9THk87pvNNlCpDP3js) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Bug Eggs/Tony Speaks!](https://open.spotify.com/album/6UkWylc9cWAoRzchdB8CCw) | 3:21 | 2021-07-30 | 2021-10-01 |
 | [Build Me a Way \- Single Version](https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Build Me a Way](https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4) | 2:21 | 2021-12-03 | 2022-02-04 |
@@ -138,6 +139,7 @@
 | [Bullet](https://open.spotify.com/track/1T0lAJEOOXatPXmT6ZVPxV) | [Yves Paquet](https://open.spotify.com/artist/7rIXWoVhS7nzMxupPhKmum) | [Every Now And Then](https://open.spotify.com/album/5toYHpzS7h0rHtjo8d2ULp) | 2:48 | 2021-04-02 | 2021-07-02 |
 | [bullet train](https://open.spotify.com/track/5oka498ZuBpOR2WTWq4XoB) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [bullet train](https://open.spotify.com/album/5H2UTwsW31W83uw9LklJV4) | 4:30 | 2021-04-23 | 2021-06-18 |
 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:17 | 2021-07-15 | 2021-08-27 |
+| [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 | 2022-08-11 |  |
 | [Burning Hour](https://open.spotify.com/track/3KumYJaFPKu21cmB9WaYcC) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Burning Hour](https://open.spotify.com/album/4n49IEbnELACOEq8ssVkHj) | 4:38 | 2020-09-29\* | 2020-10-02 |
 | [c.w.u.c](https://open.spotify.com/track/1zZo5HS1jPKm0yWcrL7gxy) | [Voidie](https://open.spotify.com/artist/2VAMqPJ0y15P6bK36DHLzN) | [c.w.u.c](https://open.spotify.com/album/2NVCPX7H2w1hsbldQttW1C) | 2:41 | 2022-06-16 |  |
 | [California](https://open.spotify.com/track/2nBKc6tiMagmwJR8P6bXqs) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0QVGIcTbPFeiArrgwRKKtG) | 4:08 | 2021-08-27 | 2021-10-16 |
@@ -944,6 +946,7 @@
 | [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 | 2021-04-02 | 2021-06-25 |
 | [We Are The Same](https://open.spotify.com/track/4zbcMhYBDIEhHBcYwxAH6B) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [We Are The Same](https://open.spotify.com/album/2iBEOVXBDhL99eAVqV8Oj3) | 3:58 | 2022-03-18 | 2022-05-20 |
 | [We Cannot Resist \- Edit](https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [We Cannot Resist](https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW) | 3:13 | 2021-07-02 | 2021-07-30 |
+| [we move!](https://open.spotify.com/track/0zPFNqf5TTuDLtZG6x49Z0) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [THE DELLA VARIANT](https://open.spotify.com/album/2Pqj9HuNS0iixWi8vMOL6X) | 2:02 | 2022-08-11 |  |
 | [We Need to Talk](https://open.spotify.com/track/4XHjtpHLcD4QIFjZHfkfO2) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/1hcwRc4Ic4tb2F8iLUGTTg) | 3:09 | 2021-10-08 | 2022-01-08 |
 | [Weightless](https://open.spotify.com/track/1yzqt7Pj8phSzklXVdoKCO) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Weightless](https://open.spotify.com/album/5Gb2D9Zxo36V2Efh6PAZlp) | 4:08 | 2021-09-10 | 2021-10-29 |
 | [Welcome To Hell](https://open.spotify.com/track/1PMHfsqnvnTO7mBwDA5pQL) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Welcome To Hell](https://open.spotify.com/album/0fMH4osxhvgAIbZhGE1kL3) | 4:09 | 2022-05-12 | 2022-06-17 |

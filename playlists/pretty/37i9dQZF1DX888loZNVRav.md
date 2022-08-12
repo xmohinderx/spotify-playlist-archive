@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,455 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,471 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 62 | [Johanna \(From "Sweeney Todd 2012 London Cast Recording"\)](https://open.spotify.com/track/3G87kJWKE9ZLgGvheG3V4d) | [Luke Brady](https://open.spotify.com/artist/66kT1WLXb2XY9l6dR1XwBx) | [Sweeney Todd \(The 2012 London Cast Recording\)](https://open.spotify.com/album/23MgjBTkvG44KQ9u6mX456) | 1:58 |
 | 63 | [I'd Rather Be Sailing](https://open.spotify.com/track/2UiBDVEGAWTEvas95hjdwL) | [Aaron Lazar](https://open.spotify.com/artist/6ETQCRI940NdLTF9wqAZhh), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [A New Brain \(2015 New York Cast Recording\)](https://open.spotify.com/album/6vsRhoxMNFQBUhRIZ3Ocr9) | 3:02 |
 | 64 | [Unworthy of Your Love](https://open.spotify.com/track/6fnMAKwPMYt1F204YW6rGu) | [Greg Germann](https://open.spotify.com/artist/57aHcccTKIBihdbiIBaWr1), [Annie Golden](https://open.spotify.com/artist/0zZCudK3BJR5TxxexmPTT6) | [Assassins \(Original Off\-Broadway Cast Recording\)](https://open.spotify.com/album/2YhmmaSqQpHrx1XmVW3TpV) | 3:31 |
-| 65 | [You Walk with Me](https://open.spotify.com/track/1kwrtoiuvnRAn1vg34pTyV) | [Jason Danieley](https://open.spotify.com/artist/0WZeAgkdC5N2uTCrTBUttb), [Romain Frugé](https://open.spotify.com/artist/20fhOCaUNLHcUXia9ysfHT) | [The Full Monty \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ryQjSxXsdtphq71mCKf9z) | 3:11 |
-| 66 | [Three Little Words](https://open.spotify.com/track/0UJxiPj0fSk91EKZX2FNZl) | [Original Cast Recording](https://open.spotify.com/artist/3HfGekNeA7D6kO5Yz1Pyjw) | [Ghost \- The Musical](https://open.spotify.com/album/0KUHaO8OBXXvyrag5kxdF5) | 3:40 |
+| 65 | [Three Little Words](https://open.spotify.com/track/0UJxiPj0fSk91EKZX2FNZl) | [Original Cast Recording](https://open.spotify.com/artist/3HfGekNeA7D6kO5Yz1Pyjw) | [Ghost \- The Musical](https://open.spotify.com/album/0KUHaO8OBXXvyrag5kxdF5) | 3:40 |
+| 66 | [You Walk with Me](https://open.spotify.com/track/1kwrtoiuvnRAn1vg34pTyV) | [Jason Danieley](https://open.spotify.com/artist/0WZeAgkdC5N2uTCrTBUttb), [Romain Frugé](https://open.spotify.com/artist/20fhOCaUNLHcUXia9ysfHT) | [The Full Monty \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ryQjSxXsdtphq71mCKf9z) | 3:11 |
 | 67 | [Before and After You](https://open.spotify.com/track/3W2O6SHHBJju8Twzk71ZKI) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [Bridges of Madison County \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3LaPdSklCPjDDz9etyDvIb) | 1:39 |
 | 68 | [Last Night Of The World \- Live](https://open.spotify.com/track/6p6PB9VGzcPrz65D15UGHq) | [Miss Saigon Original Cast](https://open.spotify.com/artist/0HMbvm4fAT9B8bAV3mBMJY), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Alistair Brammer](https://open.spotify.com/artist/2gQyb8LfnPZdPHykQ17FMk) | [Miss Saigon: The Definitive Live Recording](https://open.spotify.com/album/2xUT7XzLvPodBwB2qpViK4) | 4:09 |
 | 69 | [The Best Thing That Ever Has Happened \(with Alec Baldwin\)](https://open.spotify.com/track/6FMrzmKlLzrXKGp3qvQT1f) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Alec Baldwin](https://open.spotify.com/artist/6gDUFIEcDsus6j7kudW0Oa) | [Encore: Movie Partners Sing Broadway](https://open.spotify.com/album/5w4GRGWJFNFGmzPgMsvK9w) | 3:12 |
 | 70 | [Unusual Way](https://open.spotify.com/track/2Hl4nwPX321cC3zkpq2RgF) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Nine: The Musical \(New Broadway Cast Recording\)](https://open.spotify.com/album/6Qmou5RmL4htJOTZCKoyFe) | 5:00 |
 
-Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMGUwMWM5ZTcyNzc3Nzg3MmEzZTdhMjU0ODg2MmFkZjlm`
+Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMGI1MTcyMmZlNzU3YTUxMjVjNmQ5NTc4Y2NiYzdmOWZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 這些歌手將以其令人讚嘆的嗓音和演唱技巧牽動你的心弦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,735 likes - 27 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,737 likes - 27 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

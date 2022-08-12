@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 279093,
       "name": "Always",
       "url": "https://open.spotify.com/track/2HnkMywsGGmX7alLfLVeqH"
@@ -491,6 +491,24 @@
       "duration_ms": 177400,
       "name": "C'est Si Bon",
       "url": "https://open.spotify.com/track/5ltdjMGizJoqS5x7rZzij2"
+    },
+    {
+      "album": {
+        "name": "Can't Get Out of This Mood",
+        "url": "https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222401,
+      "name": "Can't Get Out of This Mood",
+      "url": "https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K"
     },
     {
       "album": {

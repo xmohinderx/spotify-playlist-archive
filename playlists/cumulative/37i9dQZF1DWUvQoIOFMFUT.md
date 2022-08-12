@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-126 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
+127 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Liquid Love](https://open.spotify.com/track/02X75Hn5XDRg60ZtLYLCqi) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:51 | 2021-10-14 |  |
 | [Liquid Love](https://open.spotify.com/track/7a27KSsp85L7DSNHdXWhyu) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/3V3jCmjrT9mhjUXgQc4ULy) | 3:51 | 2021-10-14 | 2022-07-29 |
 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 | 2021-10-14 |  |
-| [Love 4 Nothing](https://open.spotify.com/track/0lh5GtmD9YlFSh1oLXQNa2) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Equinox EP](https://open.spotify.com/album/0iU3raXR3MLIelOv5vFnmr) | 2:57 | 2021-10-14 |  |
+| [Love 4 Nothing](https://open.spotify.com/track/0lh5GtmD9YlFSh1oLXQNa2) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Equinox EP](https://open.spotify.com/album/0iU3raXR3MLIelOv5vFnmr) | 2:57 | 2021-10-14 | 2022-08-12 |
+| [Love 4 Nothing](https://open.spotify.com/track/4LipRqIWLADc1LRKqEiXiW) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Equinox](https://open.spotify.com/album/0pOZQWbpllXoHEFeL48ivO) | 2:57 | 2021-10-14 |  |
 | [Love Crimes](https://open.spotify.com/track/2CCwrjuDsnmsgpQaw7YdaJ) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Love Crimes](https://open.spotify.com/album/5bENxEMiIDx7w0HgJlEZH0) | 3:55 | 2021-10-14 |  |
 | [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 | 2021-10-14 |  |
 | [Magpie](https://open.spotify.com/track/4mRAyZ4H0WbktJqQ7CWCxR) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Magpie](https://open.spotify.com/album/2d7qZUjyAPfRYZ8FVM2pe1) | 5:57 | 2021-10-14 |  |

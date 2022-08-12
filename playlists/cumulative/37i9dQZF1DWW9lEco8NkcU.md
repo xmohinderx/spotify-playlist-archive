@@ -4,7 +4,7 @@
 
 > what are they doing up there?
 
-63 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
+65 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,11 @@
 | [in search of the golden horse](https://open.spotify.com/track/7wtgh498OV8HG3TXgRDy3F) | [document1](https://open.spotify.com/artist/7uI1OrKEj7NyJVZjqlEG0P) | [in search of the golden horse](https://open.spotify.com/album/1rTOAm2qzJP32quoeCMqOC) | 2:26 | 2022-07-08 |  |
 | [Iras](https://open.spotify.com/track/3idZRWEfhZPs2q58HFkyS0) | [Dan Powell](https://open.spotify.com/artist/6OgSVPoKPr2ajRadbdS9UY) | [Whatever!](https://open.spotify.com/album/2lQbrqbGqncgxheHek69pO) | 1:30 | 2022-07-08 |  |
 | [julia train slow down](https://open.spotify.com/track/7augc1ZVQvNRHJRjjtYU53) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [there is no such thing as a jellyfish](https://open.spotify.com/album/0mRUcNL02378si53jjOeUV) | 1:55 | 2022-07-08 |  |
+| [Kola Superdeep Borehole](https://open.spotify.com/track/4hQMZNO2nuQJUtSAolZg2p) | [Jim O'Rourke](https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f), [Elliott Sharp](https://open.spotify.com/artist/17PS6mukckWnUN4DwilBBs) | [Sakuraza](https://open.spotify.com/album/75nKCPFv0OkSZIFKrGzd61) | 3:34 | 2022-08-11 |  |
 | [Loss](https://open.spotify.com/track/0b7Eu5l20kNKKSpKJ3ZJv9) | [The Camera System](https://open.spotify.com/artist/1rU85PMucQXPcWKyu5L6U5) | [The Camera System](https://open.spotify.com/album/4cQFAMNyfivmXqBJm8NhiP) | 2:11 | 2022-07-08 |  |
 | [Lovejoy](https://open.spotify.com/track/1nZARe7MuRKn3G7HyKN6pJ) | [Kyler](https://open.spotify.com/artist/1CgrV85eyFoPFLr3rQbt6g) | [Pur Cosy Tales](https://open.spotify.com/album/1zlKJ0b68J7ng6marNz5VW) | 2:37 | 2022-07-08 |  |
 | [Lovejoy](https://open.spotify.com/track/4lZUUWMIdQPHxC2DltZRps) | [Kyler](https://open.spotify.com/artist/1CgrV85eyFoPFLr3rQbt6g) | [Pur Cosy Tales](https://open.spotify.com/album/1TuJ0mhO78q85SWSSv5rUo) | 2:37 | 2022-07-08 | 2022-07-29 |
+| [Me and Wayne Rogers](https://open.spotify.com/track/4hv71vgTltTUMqlaaTr3Lz) | [Azusa Plane](https://open.spotify.com/artist/1exN8SH7Aw6NLkjgFGAncB) | [Where the Sands Turn to Gold](https://open.spotify.com/album/4v867iqLmmDXh3gvmhwmeA) | 1:31 | 2022-08-11 |  |
 | [Musicbox](https://open.spotify.com/track/1yONlvObY8e2iqm86Dmtuo) | [Julien Neto](https://open.spotify.com/artist/4JVbuk3i6Z5WGR3ar8Wro2) | [Le Fumeur De Ciel](https://open.spotify.com/album/1SwfAtm5Rom8gcgEK8H5Qs) | 2:59 | 2022-07-08 |  |
 | [ode to houseplant](https://open.spotify.com/track/5M819M38P2Z85ntS1iEVCG) | [Glass Rivers](https://open.spotify.com/artist/5qQvSeMMwzvjZlw1pqmAC6) | [songs to live your life to](https://open.spotify.com/album/2v0p9MioK7YT1jIwQivVe1) | 2:48 | 2022-07-08 |  |
 | [Oxygen Waltz](https://open.spotify.com/track/1HQxnecMK8hRxIZ5MjlXJh) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/2b2NKMGXqjTtRkHQVXjkBS) | 4:09 | 2022-07-08 |  |

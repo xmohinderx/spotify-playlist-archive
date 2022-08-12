@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 12002,
+  "num_followers": 12019,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDc1NzdmNjIzOTY0N2E2YmM2NmNhYmE4N2JjM2MyODc4",
+  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDg5MTEyMWIyMzljYjU5N2FjZGYzYzAxY2E4ODA0YmMz",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
-        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 191426,
-      "name": "Tu Castigo",
-      "url": "https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Pl\u00e1cido Domingo - Be My Love",
         "url": "https://open.spotify.com/album/1QTrpC4Qsq9fxTWxC3B5sW"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 217133,
       "name": "\"Siboney\"",
       "url": "https://open.spotify.com/track/3VSGjOjXHCIqQlSdIfuCh1"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
+        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 191426,
+      "name": "Tu Castigo",
+      "url": "https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "M\u00e9xico 100 Canciones Vintage",
-        "url": "https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Huesca",
-          "url": "https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt"
-        }
-      ],
-      "duration_ms": 187988,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/7E94RnuinkUBYSengvutwL"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Ana Maria Parra, Vol. 1 (1958 - 1961 Remastered)",
         "url": "https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 134478,
       "name": "Las Chicas de la Cruz Roja (Fox Fado) - Remastered",
       "url": "https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "M\u00e9xico 100 Canciones Vintage",
+        "url": "https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Huesca",
+          "url": "https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt"
+        }
+      ],
+      "duration_ms": 187988,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/7E94RnuinkUBYSengvutwL"
     },
     {
       "added_at": "2022-01-01 08:00:00",

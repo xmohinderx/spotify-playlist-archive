@@ -750,6 +750,24 @@
     },
     {
       "album": {
+        "name": "Guapman",
+        "url": "https://open.spotify.com/album/3DXG5GrBLszaSduaQ5y3De"
+      },
+      "artists": [
+        {
+          "name": "menace Santana",
+          "url": "https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129024,
+      "name": "Guapman",
+      "url": "https://open.spotify.com/track/3UizQJoEShTLDSUUByJLDr"
+    },
+    {
+      "album": {
         "name": "G\u00e2chette",
         "url": "https://open.spotify.com/album/0qpgphzMRmKDgi9UGCLc2w"
       },
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 220920,
       "name": "Les gentils bandits",
       "url": "https://open.spotify.com/track/3Xw6c0oby7C6d7eAjyb1oD"

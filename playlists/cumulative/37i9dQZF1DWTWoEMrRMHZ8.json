@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Alma do Rio",
+        "url": "https://open.spotify.com/album/1c8C2ySygExIqIjSrUISYp"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175336,
+      "name": "A Alma do Rio",
+      "url": "https://open.spotify.com/track/4mhGat3U3yLyuWrn8lzz8p"
+    },
+    {
+      "album": {
         "name": "A Palo Seco (Radio Edit)",
         "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
       },
@@ -229,7 +247,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 177679,
       "name": "Amar de Novo",
       "url": "https://open.spotify.com/track/3iVsNP2H2Fx5q821ASJIsO"
@@ -429,7 +447,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 211200,
       "name": "Areia Fina",
       "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
@@ -662,6 +680,24 @@
     },
     {
       "album": {
+        "name": "Mil Coisas Invis\u00edveis",
+        "url": "https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166706,
+      "name": "BB (Garupa de Moto Amarela)",
+      "url": "https://open.spotify.com/track/3e8kgXoSaW5MQkpjSw9nYk"
+    },
+    {
+      "album": {
         "name": "Mesti\u00e7o",
         "url": "https://open.spotify.com/album/1uTHWGAA7LxCNwkj79goWp"
       },
@@ -782,6 +818,28 @@
     },
     {
       "album": {
+        "name": "Nada Tropical",
+        "url": "https://open.spotify.com/album/1EboAICOrhUiIE9Vz1OfPn"
+      },
+      "artists": [
+        {
+          "name": "Glue Trip",
+          "url": "https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259906,
+      "name": "Bessa Beat",
+      "url": "https://open.spotify.com/track/1AaRwprNAgh6mB4SgSuBGH"
+    },
+    {
+      "album": {
         "name": "Bloco do Prazer",
         "url": "https://open.spotify.com/album/5UYoNOet7BXse686Xt6FpI"
       },
@@ -851,7 +909,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 271293,
       "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
       "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
@@ -957,6 +1015,24 @@
       "duration_ms": 278139,
       "name": "Caminho de Santiago",
       "url": "https://open.spotify.com/track/0xTjK7Ko62EgY5m3KaqlH9"
+    },
+    {
+      "album": {
+        "name": "cantar (ao vivo no bona)",
+        "url": "https://open.spotify.com/album/4cxTrMMLnNp0x1kW3GkVge"
+      },
+      "artists": [
+        {
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266093,
+      "name": "cantar - ao vivo no bona",
+      "url": "https://open.spotify.com/track/46FwFi4komf0g3p80RTjBv"
     },
     {
       "album": {
@@ -1102,6 +1178,36 @@
     },
     {
       "album": {
+        "name": "Clarice Clar\u00e3o",
+        "url": "https://open.spotify.com/album/3XIPcBQshFIDjYT02ruvEY"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Azevedo",
+          "url": "https://open.spotify.com/artist/4fIGoIA5oaJn3HorAEQFNG"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Marcelo Costa",
+          "url": "https://open.spotify.com/artist/1tTqJwIDhSkWuFsME8jaro"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200095,
+      "name": "Circo",
+      "url": "https://open.spotify.com/track/2H2EVcoUH7keVApyE5plx8"
+    },
+    {
+      "album": {
         "name": "T\u00f4",
         "url": "https://open.spotify.com/album/3gh1IMLtHXtImzao8srodC"
       },
@@ -1157,7 +1263,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 246396,
       "name": "Como?",
       "url": "https://open.spotify.com/track/1mFmqjdb88botJAWytf5FN"
@@ -1295,7 +1401,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 244330,
       "name": "Deus Dar\u00e1",
       "url": "https://open.spotify.com/track/0BYlm0AWV6jp1lQ37BR027"
@@ -1734,6 +1840,24 @@
     },
     {
       "album": {
+        "name": "Feiti\u00e7o",
+        "url": "https://open.spotify.com/album/2U1ngEfcXGXQdAmaPcpnMD"
+      },
+      "artists": [
+        {
+          "name": "Samuca e a Selva",
+          "url": "https://open.spotify.com/artist/3xRsjZtEO4W7Y4Wgr4wSLD"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262425,
+      "name": "Feiti\u00e7o",
+      "url": "https://open.spotify.com/track/04Y5KWj5JKfr4IaMoPlQP3"
+    },
+    {
+      "album": {
         "name": "Origem",
         "url": "https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8"
       },
@@ -1771,6 +1895,28 @@
       "duration_ms": 176733,
       "name": "Feliz, Alegre e Forte",
       "url": "https://open.spotify.com/track/5wIytrxWis1yWdvAE5z890"
+    },
+    {
+      "album": {
+        "name": "Festa de Magia",
+        "url": "https://open.spotify.com/album/2ePHdcvNcavRLDMwUqRgGw"
+      },
+      "artists": [
+        {
+          "name": "Mestre M\u00f4a do Katend\u00ea",
+          "url": "https://open.spotify.com/artist/37DW7EAPNmsItmyh3WXrCc"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208368,
+      "name": "Festa de Magia",
+      "url": "https://open.spotify.com/track/3C4JbtVECDyIV2z83cFyL9"
     },
     {
       "album": {
@@ -1935,6 +2081,24 @@
       "duration_ms": 141290,
       "name": "Gostar do Mundo",
       "url": "https://open.spotify.com/track/7024VvpwAbXwL0NkKdwAca"
+    },
+    {
+      "album": {
+        "name": "PSSP",
+        "url": "https://open.spotify.com/album/0TXBnvtuuQHN4hBf54L0M3"
+      },
+      "artists": [
+        {
+          "name": "Filarm\u00f4nica de Pas\u00e1rgada",
+          "url": "https://open.spotify.com/artist/1R69Aq8ckV9adqn7u2U1f3"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183072,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/2toUFY0w5BWvOdpESF8HQH"
     },
     {
       "album": {
@@ -2193,7 +2357,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 196810,
       "name": "ladoAlado",
       "url": "https://open.spotify.com/track/251SKepsXZizogAxHaV8K3"
@@ -2361,6 +2525,28 @@
       "duration_ms": 148842,
       "name": "Mais",
       "url": "https://open.spotify.com/track/2oYZ2lqAp5QOTPHtPqyoIx"
+    },
+    {
+      "album": {
+        "name": "Mal Acostumada",
+        "url": "https://open.spotify.com/album/0Dvz457PJaalNw8ofRGlLi"
+      },
+      "artists": [
+        {
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270186,
+      "name": "Mal Acostumada",
+      "url": "https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk"
     },
     {
       "album": {
@@ -2753,7 +2939,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 421075,
       "name": "Navegando Juntos",
       "url": "https://open.spotify.com/track/5CX5aTB62ZX2POIFerBqga"
@@ -2855,7 +3041,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 115582,
       "name": "Nome de Rua",
       "url": "https://open.spotify.com/track/2QhxwG2CSZlPdsG7TflTry"
@@ -3025,7 +3211,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 228586,
       "name": "O Amor Em Tempos de C\u00f3lera",
       "url": "https://open.spotify.com/track/0lza7kmyA644A8tcbL1ZTs"
@@ -3628,6 +3814,24 @@
     },
     {
       "album": {
+        "name": "Feitura",
+        "url": "https://open.spotify.com/album/4fNLYFrL41L02UefiYHTCu"
+      },
+      "artists": [
+        {
+          "name": "Neila Kadh\u00ed",
+          "url": "https://open.spotify.com/artist/47HGZbxX41Scp2vCevPIwP"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Pra Me Benzer",
+      "url": "https://open.spotify.com/track/4NOqJ2OsEUw5fm7YPfu7Be"
+    },
+    {
+      "album": {
         "name": "Pra Melhorar",
         "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
       },
@@ -4065,7 +4269,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 201227,
       "name": "Rede",
       "url": "https://open.spotify.com/track/0OUA65qtlofrsqORgEyFfm"
@@ -5060,6 +5264,28 @@
     },
     {
       "album": {
+        "name": "Vai Passar",
+        "url": "https://open.spotify.com/album/5oHnMyqvoI6wpgXs8bwIUk"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Britto",
+          "url": "https://open.spotify.com/artist/1cyHhFmWDK80pd2IOK02QI"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Vai Passar",
+      "url": "https://open.spotify.com/track/3PS54iE0GBvHoD4q059UPo"
+    },
+    {
+      "album": {
         "name": "Valente",
         "url": "https://open.spotify.com/album/0Na74mLtHpPONrk9MJmsPX"
       },
@@ -5191,7 +5417,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 281120,
       "name": "Voc\u00ea Pra Sempre Em Mim",
       "url": "https://open.spotify.com/track/27Qv1EN4l1fNKpTweNdZ3O"

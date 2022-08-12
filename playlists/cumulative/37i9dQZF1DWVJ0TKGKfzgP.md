@@ -4,7 +4,7 @@
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-90 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/3f9kVVAg7rQUcBVrSRpqMR)
+93 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/3f9kVVAg7rQUcBVrSRpqMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Baby Be Mine](https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:20 | 2020-12-01 |  |
 | [Baby I'm a Star](https://open.spotify.com/track/2soBvUQBf5rbMj9HIyhzzK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:24 | 2020-12-01 |  |
 | [Baby Love](https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/59mwpuFNItrOg2gAbmdKEJ) | 5:53 | 2020-12-01 |  |
-| [Backfired](https://open.spotify.com/track/2BRTt2EUyjI5ckBtwZzN8v) | [Debbie Harry](https://open.spotify.com/artist/7FxMjqH6DH056sdsstGeVl) | [KooKoo](https://open.spotify.com/album/6ienHM68vnUy29Gpgp72Ei) | 4:53 | 2020-12-01 |  |
+| [Backfired](https://open.spotify.com/track/2BRTt2EUyjI5ckBtwZzN8v) | [Debbie Harry](https://open.spotify.com/artist/7FxMjqH6DH056sdsstGeVl) | [KooKoo](https://open.spotify.com/album/6ienHM68vnUy29Gpgp72Ei) | 4:53 | 2020-12-01 | 2022-08-12 |
 | [Best in the West](https://open.spotify.com/track/2rxEpk0dyfchiMOtOzMsok) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka Khan](https://open.spotify.com/album/7ndE9iVFDmgIRey7SyZv3G) | 4:03 | 2020-12-01 |  |
 | [Bounce Rock Skate Roll \- Part 1 \- 12" Version](https://open.spotify.com/track/3CPZShCxQb1rq5kv0sz1WG) | [Vaughan Mason and Crew](https://open.spotify.com/artist/5MBBgzM082fkQbg75YyKBO) | [Old School Funk Jams](https://open.spotify.com/album/24JldoBDWv2XgtQyiCJXU1) | 7:37 | 2020-12-01 |  |
 | [Can You Feel It](https://open.spotify.com/track/0RAiBUgOC5pgFUHsldtix3) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Triumph](https://open.spotify.com/album/5YhOA7OGN6xFPwQznkfe69) | 5:59 | 2020-12-01 |  |
@@ -32,6 +32,7 @@
 | [Danger Zone](https://open.spotify.com/track/3cnYiE0UEUyb3Hu3NSNMws) | [Midnight Express](https://open.spotify.com/artist/3lhIabehUG012TmJV9EEfe) | [Peoples Potential Family Album](https://open.spotify.com/album/38fSkJSYeHRFCsbIK75431) | 3:47 | 2020-12-01 |  |
 | [De Kleeer Ting](https://open.spotify.com/track/7JKAsbDgbK61EL5ThgY9P1) | [Kleeer](https://open.spotify.com/artist/0zaWqD1H9Rk0P14iF5oDnY) | [License To Dream](https://open.spotify.com/album/52QNtp54n9ycGvFRgqFhSS) | 4:43 | 2020-12-01 |  |
 | [Deeper Shade Of Soul](https://open.spotify.com/track/4KRMoo8vKWavy5f6dFpFmS) | [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [Mental Floss For The Globe / Hollywood Live 1990](https://open.spotify.com/album/5rUUFXK642ZrYTSocjVIcB) | 4:32 | 2020-12-01 |  |
+| [Destination](https://open.spotify.com/track/4scgGmqQvlsJsnOOL2tFOL) | [The Warriors](https://open.spotify.com/artist/3SQ9SxVUxmWPEmJcuVvGc1) | [Behind the Mask](https://open.spotify.com/album/5dZJvN5TUDuaXJYaz9bDEH) | 6:39 | 2022-08-11 |  |
 | [Don't Stop The Music](https://open.spotify.com/track/7C7TiKlyYsVGNdvNJR1QeS) | [Yarbrough & Peoples](https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV) | [D.J\. Masters: Slammin' Jams](https://open.spotify.com/album/3Hz9OiLdXkoltROdoKWbct) | 4:10 | 2020-12-01 |  |
 | [Down on the Street](https://open.spotify.com/track/0dhYNcWtbUVJwGEuP4e0yN) | [Shakatak](https://open.spotify.com/artist/5FFtX4eFjh2vZQEl31d2XJ) | [The Best Of](https://open.spotify.com/album/2sYY6PIDZ3QiiLbXj0jacx) | 3:16 | 2020-12-01 |  |
 | [Endicott](https://open.spotify.com/track/2EAK5uCyXRVHvrPC0LdBkS) | [Kid Creole And The Coconuts](https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1) | [Kid Creole Redux](https://open.spotify.com/album/6YWjmgotOvWvh2DCnDeQr8) | 4:26 | 2020-12-01 |  |
@@ -39,7 +40,7 @@
 | [Feel My Love](https://open.spotify.com/track/7w7D6vVWMiOSU36R6ynlki) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Stone Jam](https://open.spotify.com/album/7COD6hL6iPGejF8vX9DeuC) | 4:30 | 2020-12-01 |  |
 | [Find Yourself](https://open.spotify.com/track/2HARPm6aXw19rpIcnbO1cO) | [Bobby Broom](https://open.spotify.com/artist/29107k7pRQHk8z1uuoFQMs) | [Livin' For The Beat](https://open.spotify.com/album/6rU9V1ljBot8ZidSJHA3bg) | 5:56 | 2020-12-01 |  |
 | [Freaks Come Out at Night](https://open.spotify.com/track/7MaRvQWA6w7ZV2Cwbnvv2a) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:42 | 2020-12-01 |  |
-| [Funky Beat](https://open.spotify.com/track/3vuu5ZzHVZUP06pGVh3Cut) | [Bernard Wright](https://open.spotify.com/artist/2g8J4iI5qyYFMVHcpMcSsS) | [Funky Beat](https://open.spotify.com/album/2dTHsHrM8OX56YKtCTTPcf) | 5:40 | 2020-12-01 |  |
+| [Funky Beat](https://open.spotify.com/track/3vuu5ZzHVZUP06pGVh3Cut) | [Bernard Wright](https://open.spotify.com/artist/2g8J4iI5qyYFMVHcpMcSsS) | [Funky Beat](https://open.spotify.com/album/2dTHsHrM8OX56YKtCTTPcf) | 5:40 | 2020-12-01 | 2022-08-12 |
 | [Get Down On It \- Single Version](https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:31 | 2020-12-01 |  |
 | [Get To The Point](https://open.spotify.com/track/7j9XHBwgu2CaWA62WB2l7Y) | [Tony Cook](https://open.spotify.com/artist/1IibV6YF1Z2QI712E7f0yT), [Vernon Cheely](https://open.spotify.com/artist/1mZBvfkVMlVhK0FpyJ4sNb) | [Back To Reality](https://open.spotify.com/album/3JVEG3pl5Ku4rGSBpKzid4) | 5:58 | 2020-12-01 |  |
 | [Get Up Off a That Thing](https://open.spotify.com/track/6FF5ELHgdGephOTByBh75r) | [Screamin' Tony Baxter](https://open.spotify.com/artist/2ktLWvmW6V6zU83PWKe0t0) | [Classics Funky Music, Vol\. 5](https://open.spotify.com/album/6D0kpCU3P0uhtZOxyOBZHN) | 5:32 | 2021-01-02 |  |
@@ -61,6 +62,7 @@
 | [Keep On](https://open.spotify.com/track/50bxxJIwn0XnZjQH2OruOu) | [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe) | [You're the One for Me](https://open.spotify.com/album/6Cu53xS0YGhgEqyTqkVNeL) | 6:41 | 2020-12-01 |  |
 | [Koo Koo](https://open.spotify.com/track/2Tr5jDUYCVOxwtyL99TBUr) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [Sheila E.](https://open.spotify.com/album/4KvsP7hERJSIvJAoGX0ju6) | 3:25 | 2020-12-01 |  |
 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/7dcs4YfIp7PDDw76rWja2t) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [A Night to Remember \(Mixed By Tony Okungbowa & Jojoflores\)](https://open.spotify.com/album/1EaATYESKxC3pW4Whf2VvE) | 4:12 | 2020-12-01 |  |
+| [Let Me Go](https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 4:22 | 2022-08-11 |  |
 | [Let's Celebrate](https://open.spotify.com/track/3nf3xKlene4BpKqaCrdtwQ) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 5:33 | 2020-12-01 |  |
 | [Love Fever](https://open.spotify.com/track/0FkUIysh68ZdHTgJkvmogL) | [Gayle Adams](https://open.spotify.com/artist/15BDxaGYlN3CPzUdWddake) | [Love Fever](https://open.spotify.com/album/52ZVYXSDSMUmpmlzmNKvAh) | 6:41 | 2020-12-01 |  |
 | [Love Games \- Edit Album Version](https://open.spotify.com/track/3jEj0AW7fdDP2F3k4EcaLq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [The Early Tapes / Level 42](https://open.spotify.com/album/3jNbBEmjeHSUyrqKpDgiw8) | 5:13 | 2020-12-01 |  |
@@ -92,6 +94,7 @@
 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 | 2020-12-01 |  |
 | [The Pleasure Principle](https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:57 | 2020-12-01 |  |
 | [Tie Me Up](https://open.spotify.com/track/09nHziVFmEdVtguyIRlBVM) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [You, Me And He](https://open.spotify.com/album/0X7IwYZpOn6qyfiI9RLiR6) | 5:49 | 2020-12-01 |  |
+| [Turn It On](https://open.spotify.com/track/7cr6MHjxCKQwqiiCyZrbpo) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [The Early Tapes / Level 42](https://open.spotify.com/album/3jNbBEmjeHSUyrqKpDgiw8) | 4:40 | 2022-08-11 |  |
 | [Unity Part 1 \(The Third Coming\)](https://open.spotify.com/track/5miEPw9RhAQ9hModWqKxjT) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Looking for the Perfect Beat 1980 \-1985](https://open.spotify.com/album/2UrZ3obnsIpILX1x86hCfu) | 3:24 | 2020-12-01 |  |
 | [Walkin' The Line](https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Best Of ..Movin' & Changin'](https://open.spotify.com/album/70mFuD9TrIvjUoZN45R4M0) | 5:45 | 2020-12-01 |  |
 | [What Have You Done For Me Lately](https://open.spotify.com/track/2SFq0UIiBWkBgky0fkrHP0) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:59 | 2020-12-01 |  |

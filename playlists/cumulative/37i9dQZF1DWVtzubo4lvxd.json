@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 137764,
       "name": "Atlantic.Wav",
       "url": "https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL"
@@ -461,6 +461,24 @@
       "duration_ms": 140000,
       "name": "Casino Space Gun",
       "url": "https://open.spotify.com/track/2p83a4H9M3lElGRga9nEgm"
+    },
+    {
+      "album": {
+        "name": "Cats Walking",
+        "url": "https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps"
+      },
+      "artists": [
+        {
+          "name": "Yomoti",
+          "url": "https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "Cats Walking",
+      "url": "https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi"
     },
     {
       "album": {
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 107733,
       "name": "For Her",
       "url": "https://open.spotify.com/track/3CJpS12RnQe4gf00ssQnA7"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 103423,
       "name": "hand of god",
       "url": "https://open.spotify.com/track/5BkpjyhjGiptuzxI2n5L67"
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 133333,
       "name": "Lost Samurai",
       "url": "https://open.spotify.com/track/5jfNucPo7pMJZYF7kdBbne"
@@ -3499,7 +3517,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 118554,
       "name": "Water",
       "url": "https://open.spotify.com/track/1D1T85tGQBtiQwXbTRYXXC"

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: Linaje Escojido y Miel San Marcos",
-  "num_followers": 103623,
+  "num_followers": 103697,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3NzU3MCwwMDAwMDAwMDAyOTE4ZjEzZmY0OGNmMTgwZGJiZjk2YzJkMTY4ZWU3",
+  "snapshot_id": "MTY1OTY3NzU3MCwwMDAwMDAwMDkwNjc5ODJhNWVkNjU0NDZkMDY2MDUzOGIwOTI3Y2Vm",
   "tracks": [
     {
       "added_at": "2022-08-05 05:32:50",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
+        "name": "No Necesito Doctor.",
+        "url": "https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg"
+      },
+      "artists": [
+        {
+          "name": "Josh Gamez",
+          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "No Necesito Doctor.",
+      "url": "https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
         "name": "DULCE",
         "url": "https://open.spotify.com/album/73vUB3SE8B4k7DuKxUx3Bw"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "No Necesito Doctor.",
-        "url": "https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg"
+        "name": "Guiame",
+        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
       },
       "artists": [
         {
-          "name": "Josh Gamez",
-          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
         }
       ],
-      "duration_ms": 202040,
-      "name": "No Necesito Doctor.",
-      "url": "https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH"
+      "duration_ms": 200963,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -739,22 +755,6 @@
       "duration_ms": 232000,
       "name": "Aqu\u00ed Hay un Muchacho",
       "url": "https://open.spotify.com/track/6kHUp9rwMGcSG2xVclc2kB"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "Guiame",
-        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "Gu\u00edame",
-      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -795,26 +795,6 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Vuelo",
-        "url": "https://open.spotify.com/album/5vdIbqun6cWgFXRl5GEobV"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Angel Brown",
-          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "Vuelo",
-      "url": "https://open.spotify.com/track/5Fkqabb3R8drUNbWRZ0zep"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
         "name": "Firme Y Enfocado",
         "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 231627,
       "name": "Firme Y Enfocado",
       "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Vuelo",
+        "url": "https://open.spotify.com/album/5vdIbqun6cWgFXRl5GEobV"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Angel Brown",
+          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
+        }
+      ],
+      "duration_ms": 125714,
+      "name": "Vuelo",
+      "url": "https://open.spotify.com/track/5Fkqabb3R8drUNbWRZ0zep"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/4aGdIqQXhaVflnLZjYDL6Z"
-      },
-      "artists": [
-        {
-          "name": "El Leo Pa\u00b4",
-          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
-        }
-      ],
-      "duration_ms": 244793,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
         "name": "Si Tu Presencia Conmigo No Va",
         "url": "https://open.spotify.com/album/4VZcRhk7T5yg3xCpPdBHL4"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 337701,
       "name": "Si Tu Presencia Conmigo No Va",
       "url": "https://open.spotify.com/track/18kQ5kU3gninEy9vw4RKOo"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/4aGdIqQXhaVflnLZjYDL6Z"
+      },
+      "artists": [
+        {
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        }
+      ],
+      "duration_ms": 244793,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -995,22 +995,22 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Valor",
-        "url": "https://open.spotify.com/album/4a7I2zC17cptqkC2cu5MHl"
+        "name": "A Puerta Cerrada",
+        "url": "https://open.spotify.com/album/42XTtNruyb9nf3KAihCEG9"
       },
       "artists": [
         {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
         },
         {
-          "name": "Belu Rodriguez Kuhn",
-          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
         }
       ],
-      "duration_ms": 181266,
-      "name": "Valor",
-      "url": "https://open.spotify.com/track/1HRxYEsZog4p6x8gRbrFqG"
+      "duration_ms": 185172,
+      "name": "A Puerta Cerrada",
+      "url": "https://open.spotify.com/track/0HzcNtVVpTB3IdrzHhfrTO"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "A Puerta Cerrada",
-        "url": "https://open.spotify.com/album/42XTtNruyb9nf3KAihCEG9"
-      },
-      "artists": [
-        {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
-        },
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 185172,
-      "name": "A Puerta Cerrada",
-      "url": "https://open.spotify.com/track/0HzcNtVVpTB3IdrzHhfrTO"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
         "name": "Lo Volver\u00e1s a Hacer",
         "url": "https://open.spotify.com/album/7uLEeDyg4eehLd5qLh73Iq"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 348074,
       "name": "Lo Volver\u00e1s a Hacer",
       "url": "https://open.spotify.com/track/5MCSuE4VwYj7aOOcfnqiWJ"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Valor",
+        "url": "https://open.spotify.com/album/4a7I2zC17cptqkC2cu5MHl"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Valor",
+      "url": "https://open.spotify.com/track/1HRxYEsZog4p6x8gRbrFqG"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "River Szn",
-        "url": "https://open.spotify.com/album/4AzpEzJCV42uTeIi9vo74E"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Depre :/",
-      "url": "https://open.spotify.com/track/71BbRmBoqh6lA7xuD9v5Gq"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
         "name": "Somos Las Voces",
         "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Haz Lo Que Quieras",
-        "url": "https://open.spotify.com/album/3jYG6h2nn8WfZV4j2M9jn9"
+        "name": "River Szn",
+        "url": "https://open.spotify.com/album/4AzpEzJCV42uTeIi9vo74E"
       },
       "artists": [
         {
-          "name": "Shammai",
-          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
         }
       ],
-      "duration_ms": 704231,
-      "name": "Haz Lo Que Quieras",
-      "url": "https://open.spotify.com/track/02cqzD0CXc9YYRPRWg9YEe"
+      "duration_ms": 145920,
+      "name": "Depre :/",
+      "url": "https://open.spotify.com/track/71BbRmBoqh6lA7xuD9v5Gq"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1223,6 +1207,22 @@
       "duration_ms": 176201,
       "name": "As\u00ed Ser\u00e1",
       "url": "https://open.spotify.com/track/7D2UmdU3pYblpgD2VARtRd"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Haz Lo Que Quieras",
+        "url": "https://open.spotify.com/album/3jYG6h2nn8WfZV4j2M9jn9"
+      },
+      "artists": [
+        {
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+        }
+      ],
+      "duration_ms": 704231,
+      "name": "Haz Lo Que Quieras",
+      "url": "https://open.spotify.com/track/02cqzD0CXc9YYRPRWg9YEe"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
+        "name": "Si no hubiera sido",
+        "url": "https://open.spotify.com/album/0oRNDRYzlV7Ymm8NZdKDDX"
+      },
+      "artists": [
+        {
+          "name": "Ariel Coronel",
+          "url": "https://open.spotify.com/artist/2xk6MGRzIh9VMMGqgyuhLX"
+        }
+      ],
+      "duration_ms": 195326,
+      "name": "Si no hubiera sido",
+      "url": "https://open.spotify.com/track/30bIaZptiNe7z2kkf0eMXC"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
         "name": "El Hijo del Borracho",
         "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
       },
@@ -1411,24 +1427,8 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Si no hubiera sido",
-        "url": "https://open.spotify.com/album/0oRNDRYzlV7Ymm8NZdKDDX"
-      },
-      "artists": [
-        {
-          "name": "Ariel Coronel",
-          "url": "https://open.spotify.com/artist/2xk6MGRzIh9VMMGqgyuhLX"
-        }
-      ],
-      "duration_ms": 195326,
-      "name": "Si no hubiera sido",
-      "url": "https://open.spotify.com/track/30bIaZptiNe7z2kkf0eMXC"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "Vital",
-        "url": "https://open.spotify.com/album/01X9qSjYEJN5DndyA87Uzt"
+        "name": "NO ME MOVER\u00c9",
+        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
       },
       "artists": [
         {
@@ -1436,13 +1436,29 @@
           "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         },
         {
-          "name": "Ritzy Escobar",
-          "url": "https://open.spotify.com/artist/3n8Qm7dgXUXyeXC46feBS2"
+          "name": "Isaac Rojas",
+          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
         }
       ],
-      "duration_ms": 173354,
-      "name": "Vital",
-      "url": "https://open.spotify.com/track/0LjclnXU2tPq5HMycbNZju"
+      "duration_ms": 186660,
+      "name": "NO ME MOVER\u00c9",
+      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Mi Eterno Destino (Live Session From Los Angeles)",
+        "url": "https://open.spotify.com/album/4ZNs1mvGqLfSbHr86jynKy"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        }
+      ],
+      "duration_ms": 219878,
+      "name": "Mi Eterno Destino - Live Session From Los Angeles",
+      "url": "https://open.spotify.com/track/0R76qZVB37v5LpuwRNZgkB"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Mi Eterno Destino (Live Session From Los Angeles)",
-        "url": "https://open.spotify.com/album/4ZNs1mvGqLfSbHr86jynKy"
+        "name": "100K",
+        "url": "https://open.spotify.com/album/1vMr6e1dQhD9RDV0oJ29P8"
       },
       "artists": [
         {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
         }
       ],
-      "duration_ms": 219878,
-      "name": "Mi Eterno Destino - Live Session From Los Angeles",
-      "url": "https://open.spotify.com/track/0R76qZVB37v5LpuwRNZgkB"
+      "duration_ms": 316361,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/5FUuxaewWzBrQSjnN5JG7A"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1499,22 +1515,6 @@
       "duration_ms": 261957,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5jiXeesCYXiW25zH95Mg9Q"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "100K",
-        "url": "https://open.spotify.com/album/1vMr6e1dQhD9RDV0oJ29P8"
-      },
-      "artists": [
-        {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
-        }
-      ],
-      "duration_ms": 316361,
-      "name": "100K",
-      "url": "https://open.spotify.com/track/5FUuxaewWzBrQSjnN5JG7A"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
+        "name": "Vamo' a Celebrar",
+        "url": "https://open.spotify.com/album/2EAZ76xgfVUAEk8lz0EoGJ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Vamo' a Celebrar",
+      "url": "https://open.spotify.com/track/4YYKkzvtWZYfCmWvjjhtNB"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
         "name": "Tu Gracia",
         "url": "https://open.spotify.com/album/5ySfORGt7VVyZYX8SL8YqB"
       },
@@ -1603,24 +1619,8 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Vamo' a Celebrar",
-        "url": "https://open.spotify.com/album/2EAZ76xgfVUAEk8lz0EoGJ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Vamo' a Celebrar",
-      "url": "https://open.spotify.com/track/4YYKkzvtWZYfCmWvjjhtNB"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "NO ME MOVER\u00c9",
-        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
+        "name": "Vital",
+        "url": "https://open.spotify.com/album/01X9qSjYEJN5DndyA87Uzt"
       },
       "artists": [
         {
@@ -1628,13 +1628,13 @@
           "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         },
         {
-          "name": "Isaac Rojas",
-          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
+          "name": "Ritzy Escobar",
+          "url": "https://open.spotify.com/artist/3n8Qm7dgXUXyeXC46feBS2"
         }
       ],
-      "duration_ms": 186660,
-      "name": "NO ME MOVER\u00c9",
-      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
+      "duration_ms": 173354,
+      "name": "Vital",
+      "url": "https://open.spotify.com/track/0LjclnXU2tPq5HMycbNZju"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
+        "name": "...y Continuamos",
+        "url": "https://open.spotify.com/album/6cBviCYJc1U741HDe3kDdE"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        }
+      ],
+      "duration_ms": 223285,
+      "name": "No Pierdas la Fe",
+      "url": "https://open.spotify.com/track/3YcFkhYxJCPYWkCTowWdbu"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
         "name": "En \u00d3rbita",
         "url": "https://open.spotify.com/album/7BfsvNU8oyMaLyTI3AMwkL"
       },
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "...y Continuamos",
-        "url": "https://open.spotify.com/album/6cBviCYJc1U741HDe3kDdE"
-      },
-      "artists": [
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        }
-      ],
-      "duration_ms": 223285,
-      "name": "No Pierdas la Fe",
-      "url": "https://open.spotify.com/track/3YcFkhYxJCPYWkCTowWdbu"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
         "name": "M\u00e1s De Lo Que Yo So\u00f1\u00e9 (Live)",
         "url": "https://open.spotify.com/album/6U26VKkRAChM9xAIMW0M6A"
       },
@@ -1723,6 +1723,22 @@
       "duration_ms": 257859,
       "name": "M\u00e1s De Lo Que Yo So\u00f1\u00e9 - Live",
       "url": "https://open.spotify.com/track/4WwwvtI0JwMVZHwfJbl0Rq"
+    },
+    {
+      "added_at": "2022-08-05 05:32:50",
+      "album": {
+        "name": "Sencilla",
+        "url": "https://open.spotify.com/album/2HJpsX28qtcadY83yp9bzf"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ramirez",
+          "url": "https://open.spotify.com/artist/5EB2fVqgc03woRe0QG3gj1"
+        }
+      ],
+      "duration_ms": 201100,
+      "name": "Sencilla",
+      "url": "https://open.spotify.com/track/15HsYedFmsctJwujTQ8xUI"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1759,18 +1775,18 @@
     {
       "added_at": "2022-08-05 05:32:50",
       "album": {
-        "name": "Sencilla",
-        "url": "https://open.spotify.com/album/2HJpsX28qtcadY83yp9bzf"
+        "name": "El Ring De La Vida",
+        "url": "https://open.spotify.com/album/2gxUk3uzRhNKcSS76xY4Kf"
       },
       "artists": [
         {
-          "name": "Nancy Ramirez",
-          "url": "https://open.spotify.com/artist/5EB2fVqgc03woRe0QG3gj1"
+          "name": "Daniela Barroso",
+          "url": "https://open.spotify.com/artist/3NP42TOp4KwbNjjfQrQTtW"
         }
       ],
-      "duration_ms": 201100,
-      "name": "Sencilla",
-      "url": "https://open.spotify.com/track/15HsYedFmsctJwujTQ8xUI"
+      "duration_ms": 199130,
+      "name": "El Ring De La Vida",
+      "url": "https://open.spotify.com/track/4hmgJyJQ4gObdJBrbAIvUZ"
     },
     {
       "added_at": "2022-08-05 05:32:50",
@@ -1791,22 +1807,6 @@
       "duration_ms": 181188,
       "name": "M\u00e0s Que Este Momento",
       "url": "https://open.spotify.com/track/6F8NgSkvz8GfwyeGg1AfEm"
-    },
-    {
-      "added_at": "2022-08-05 05:32:50",
-      "album": {
-        "name": "El Ring De La Vida",
-        "url": "https://open.spotify.com/album/2gxUk3uzRhNKcSS76xY4Kf"
-      },
-      "artists": [
-        {
-          "name": "Daniela Barroso",
-          "url": "https://open.spotify.com/artist/3NP42TOp4KwbNjjfQrQTtW"
-        }
-      ],
-      "duration_ms": 199130,
-      "name": "El Ring De La Vida",
-      "url": "https://open.spotify.com/track/4hmgJyJQ4gObdJBrbAIvUZ"
     },
     {
       "added_at": "2022-08-05 05:32:50",

@@ -686,6 +686,24 @@
     },
     {
       "album": {
+        "name": "Faraktozy",
+        "url": "https://open.spotify.com/album/1OAttDR3r7GbxCNeSgElrE"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230804,
+      "name": "Faraktozy",
+      "url": "https://open.spotify.com/track/12h7uMuEanhGWfnzOyvo8h"
+    },
+    {
+      "album": {
         "name": "Farghty",
         "url": "https://open.spotify.com/album/40yxzlYTsLAMBhmzevbKvB"
       },

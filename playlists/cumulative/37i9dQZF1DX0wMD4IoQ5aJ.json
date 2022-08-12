@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "All Of This",
+        "url": "https://open.spotify.com/album/2OCF9t89MqZd5b2MUy5EqM"
+      },
+      "artists": [
+        {
+          "name": "Posij",
+          "url": "https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378123,
+      "name": "All Of This",
+      "url": "https://open.spotify.com/track/5081rjdnNA1APnghNrrwku"
+    },
+    {
+      "album": {
         "name": "All Roads Lead Here (Edit)",
         "url": "https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7"
       },

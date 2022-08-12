@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/7xABntVHfPeFk622h4VFqk) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4BRG4eLiI46NzgEFPG8EXb) | 0:00 | 2022-07-22 |  |
+| [](https://open.spotify.com/track/7xABntVHfPeFk622h4VFqk) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4BRG4eLiI46NzgEFPG8EXb) | 0:00 | 2022-07-22 | 2022-08-12 |
 | [A Decirme Que](https://open.spotify.com/track/4jPhSHPch4lho5b7q93JcS) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg), [El Golpe](https://open.spotify.com/artist/19kojTrPoAUZztbRwVqWqh) | [A Decirme Que](https://open.spotify.com/album/2AVEgTcqjRFVV1Q3SzmN4s) | 2:43 | 2022-05-27 | 2022-06-04 |
 | [A Pesar de Todos](https://open.spotify.com/track/3sruqhzDXhj9jqlgrUWqr6) | [Laura Rous](https://open.spotify.com/artist/7wOkY1qB4dkbIs0fsw12Zg), [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [A Pesar de Todos](https://open.spotify.com/album/2YfEzULYZfvoermyM6U2RO) | 4:14 | 2022-01-21 | 2022-06-27 |
 | [A Pesar del Tiempo](https://open.spotify.com/track/0XdgUC4vGY1veMA7vX9UTU) | [El Judas](https://open.spotify.com/artist/3h49aMKOWPOWA30BOR5gaf), [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [A Pesar del Tiempo](https://open.spotify.com/album/2KafK7USLLFxO0lzqZIefi) | 3:24 | 2022-01-21 | 2022-05-31 |
@@ -64,7 +64,7 @@
 | [Después De Ti](https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:19 | 2022-01-14 |  |
 | [Detente](https://open.spotify.com/track/0WrzoYSsOWbQ3b4ZFiD21m) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg) | [Detente](https://open.spotify.com/album/0G2y3AhSTSVYaQZbCz8yBi) | 3:05 | 2022-04-08 | 2022-05-20 |
 | [Dile Tu \- En Vivo](https://open.spotify.com/track/20mrMuyFD9lP8gTpuIKkxy) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Éxitos de Siempre \(En Vivo\)](https://open.spotify.com/album/5CprFOLiFLLU2EDC3BOUB6) | 2:00 | 2022-01-21 | 2022-07-12 |
-| [Donde Estas](https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT) | 2:37 | 2022-02-18 | 2022-07-21 |
+| [Donde Estas](https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT) | 2:37 | 2022-02-18 |  |
 | [Donde Estas](https://open.spotify.com/track/3yc2mUwr91MyZDkq98pVLQ) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Donde Estas](https://open.spotify.com/album/2josnzGzDa3cSeWJndXVEj) | 2:55 | 2022-01-21 | 2022-06-17 |
 | [Dueles](https://open.spotify.com/track/3j4K4BR0vC1nUq2WgukHJv) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Dueles](https://open.spotify.com/album/02FXUJdRn38OuHguwpSAkM) | 3:20 | 2022-01-21 | 2022-07-17 |
 | [Dueles](https://open.spotify.com/track/1QuGDS0fic3lyKzJhIMX99) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Dueles](https://open.spotify.com/album/4L1MCvgaAeK5Ot0bRjCj4P) | 4:24 | 2022-01-21 | 2022-06-29 |

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Phạm Nguyên Ngọc; thiết kế: Isu Kim
 
-491 songs - 1 day 4 hr 31 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+492 songs - 1 day 4 hr 35 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Bird of Paradise](https://open.spotify.com/track/6BPiVcsHx8yyq4pNYyA5ak) | [LOV](https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo) | [Bird of Paradise](https://open.spotify.com/album/5qClTakyBDhVvEoOIR2gR2) | 4:38 | 2022-06-09 |  |
 | [Biết Em](https://open.spotify.com/track/3m03j7w5yiPqF7arh4nLr9) | [Lynk Nguyen](https://open.spotify.com/artist/4NkJ2ST54TN8b1Mpp1d0Kh) | [Biết Em](https://open.spotify.com/album/0q0spQTpavLM5nYKQp1hOs) | 1:50 | 2022-01-06 | 2022-03-11 |
 | [Bobui Freestyle](https://open.spotify.com/track/3pOkZlDBwrpAGZWEIjEnEC) | [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ) | [Bobui Freestyle](https://open.spotify.com/album/5EN7VSVdZwcLymoQOcLXmv) | 2:06 | 2022-06-19 |  |
-| [Bring Me Back Into My Zone](https://open.spotify.com/track/0riysjEEB9kqxtiuu30HW5) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB) | [Bring Me Back Into My Zone](https://open.spotify.com/album/4TrlAzAIk9BgyBPCPCOcPU) | 3:05 | 2022-05-04 |  |
+| [Bring Me Back Into My Zone](https://open.spotify.com/track/0riysjEEB9kqxtiuu30HW5) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB) | [Bring Me Back Into My Zone](https://open.spotify.com/album/4TrlAzAIk9BgyBPCPCOcPU) | 3:05 | 2022-05-04 | 2022-08-12 |
 | [Buồn Nào Đẹp Như Thế \- “Chuyện Của Anh”](https://open.spotify.com/track/73qL57rvcXj1xEOL6cU66D) | [Haro](https://open.spotify.com/artist/6ONQpyORNnXnhfOPNcSYz2) | [Buồn Nào Đẹp Như Thế \- “Chuyện Của Anh”](https://open.spotify.com/album/6urRDwH88DqAZgZuc89FTY) | 3:03 | 2022-06-22 | 2022-07-17 |
 | [Bài Ca Em Và Gió](https://open.spotify.com/track/5Vll8jIV0qST8ccXFJRWaK) | [Koon](https://open.spotify.com/artist/2Ta6zLy9cyPXXKsUMnVMaK), [dwongg](https://open.spotify.com/artist/2jAZBISXczJL1MNyWBtgZg) | [Bài Ca Em Và Gió](https://open.spotify.com/album/4WHJ7KjzpQPMZYAU31OZ1F) | 3:12 | 2022-06-12 | 2022-06-22 |
 | [Bác Sĩ Tâm Lý \(feat\. Zury\)](https://open.spotify.com/track/6yPQP5wi1RpRN5cpMsl1Ji) | [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [Zury](https://open.spotify.com/artist/6trcC12iSMcsT5qalkoDZt) | [Bác Sĩ Tâm Lý \(feat\. Zury\)](https://open.spotify.com/album/6wr0qrBCAX0YoCw0MZ6UgQ) | 4:07 | 2022-01-06 | 2022-02-11 |
@@ -270,6 +270,7 @@
 | [Mảnh Ghép Cuối Cùng \- Acoustic Version](https://open.spotify.com/track/5MAmIL0UbCHn18JPtKzn0B) | [Long Cao](https://open.spotify.com/artist/7uOyzPXtHba1TMMQA6HJhk) | [Mảnh Ghép Cuối Cùng \(Acoustic Version\)](https://open.spotify.com/album/3h82YZF6pLdrd2KJjjDIn8) | 3:56 | 2022-02-10 | 2022-02-22 |
 | [Mập Mờ](https://open.spotify.com/track/011Ks90zes4U8WLfcY6YrS) | [Naggie](https://open.spotify.com/artist/2rAxHfpCAAkq2ZU2yfA1wi) | [Mập Mờ](https://open.spotify.com/album/0z5dVJCOFUXKtf9rvUaMUK) | 3:12 | 2022-06-07 | 2022-06-17 |
 | [Mắt Nhắm Môi Chạm Môi](https://open.spotify.com/track/1mbwFqd06Hr0bYKg4Q8pHT) | [Bình Lee](https://open.spotify.com/artist/2fws14OlBIRWL3CPLeVFH9) | [Mắt Nhắm Môi Chạm Môi](https://open.spotify.com/album/7blZFu1nAtOyteOykqTAqa) | 2:48 | 2022-05-15 | 2022-05-17 |
+| [Mặt Mộc](https://open.spotify.com/track/3dvkpe9FEekxxgaQtxOHQI) | [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK), [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [Ân Nhi](https://open.spotify.com/artist/7zwJ09FAPbh7EJYvwEAqDD), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Mặt Mộc](https://open.spotify.com/album/5Af8YESOWf6nK6BcLh3hkA) | 3:34 | 2022-08-11 |  |
 | [Một Bài Hát Cho Anh](https://open.spotify.com/track/4w3RO9wrlL7xGqZCoAt4Oh) | [Trường Anh](https://open.spotify.com/artist/43EaFqebBqXuX8XBScWVkg), [Mia Tran](https://open.spotify.com/artist/7Me0lNSh4B58YMJB966W06) | [Một Bài Hát Cho Anh](https://open.spotify.com/album/2bIGQ7vO4tqkvLJlEwHGxf) | 4:45 | 2022-05-27 | 2022-07-15 |
 | [Một Ngày Nào Đó](https://open.spotify.com/track/3KDz1QRGiVv7x5NytivOeh) | [Mias](https://open.spotify.com/artist/0OUo4odW5aRAYMhJYWNyEQ) | [Một Ngày Nào Đó](https://open.spotify.com/album/3wA2aDpkPJNnbtTfqrPDKy) | 2:56 | 2022-07-14 |  |
 | [Một Ngày Trong Xanh \(feat\. D.Khánh\)](https://open.spotify.com/track/6DoPkM8BDPEicZOz1yqwgX) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE), [d.khánh](https://open.spotify.com/artist/3cfTrF2z4x9PnGX1iORYk2) | [Một Ngày Trong Xanh \(feat\. D.Khánh\)](https://open.spotify.com/album/5uwjucwwvl490yStrDhHfx) | 4:00 | 2022-04-27 | 2022-06-22 |

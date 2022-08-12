@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,470 likes - 91 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,556 likes - 91 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 7 | [Gold Factory](https://open.spotify.com/track/3Aql9ZmLfqjhmGLKz73i1T) | [Gururaj Hosakote](https://open.spotify.com/artist/3vxlMDszwVdTntTasr5b0R), [Praveen\-Pradeep](https://open.spotify.com/artist/2Nh3McF50LBstOocdkW6m9) | [Elra Kaaleliyatte Kaala](https://open.spotify.com/album/5wLS6xF99ZFfvh0bbgWQNs) | 3:09 |
 | 8 | [Neene Nannalu](https://open.spotify.com/track/7s0KFqgphHOEq4W0xIw95e) | [Nikhil](https://open.spotify.com/artist/5GAbXkTL9BQlDbuRn2dWyf), [Priyadarshini](https://open.spotify.com/artist/1wDBxi2RFvSEl2k0sFjGAB) | [Rhythm](https://open.spotify.com/album/66ARqp6gk5tfV9QQF3nEjF) | 4:32 |
 | 9 | [Hey Fakira \(From "Vikrant Rona"\)](https://open.spotify.com/track/71HXynGmLcg9br5GfS2Z8V) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Anup Bhandari](https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL) | [Hey Fakira \(From "Vikrant Rona"\)](https://open.spotify.com/album/64YmpCXj6doaZa7EW15zPZ) | 2:52 |
-| 10 | [Ae Tagaru Kano Ninu Mama \(Dhum\) \- From "Ae Tagaru Kano Ninu Mama"](https://open.spotify.com/track/1JLQoeGSI4Pl9u5YxLG20c) | [JEEVAa VARSHINI](https://open.spotify.com/artist/5A1Dd1q3UnyDAltDOXGIIQ) | [Ae Tagaru Kano Ninu Mama \(Dhum\) \[From "Ae Tagaru Kano Ninu Mama"\]](https://open.spotify.com/album/0icZhdqeiIjKwTcednRnTg) | 4:20 |
+| 10 | [Ae Tagaru Kano Ninu Mama \(Dhum\) \- From "Ae Tagaru Kano Ninu Mama"](https://open.spotify.com/track/1JLQoeGSI4Pl9u5YxLG20c) | [JEEVAa VARSHINI](https://open.spotify.com/artist/5A1Dd1q3UnyDAltDOXGIIQ), [Lingaraaj](https://open.spotify.com/artist/4kThlcLpQpDq8PTMzKyM2d) | [Ae Tagaru Kano Ninu Mama \(Dhum\) \[From "Ae Tagaru Kano Ninu Mama"\]](https://open.spotify.com/album/0icZhdqeiIjKwTcednRnTg) | 4:20 |
 | 11 | [Muddada Moothi \(From "Monsoon Raaga"\)](https://open.spotify.com/track/2KIO29Dyw3rLXGkGxFjNrG) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Muddada Moothi \(From "Monsoon Raaga"\)](https://open.spotify.com/album/5fme2mkLOv1XxgJViBVwCH) | 2:44 |
 | 12 | [Ponni Nadhi \[From "PS\-1 \(Kannada\)"\]](https://open.spotify.com/track/7MyFVhR8E6GnKBx4ZLHMYR) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [A\. R\. Reihana](https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D) | [Ponni Nadhi \[From "PS\-1 \(Kannada\)"\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6qpXffrp9fE19qDviUsF5k) | 4:50 |
 | 13 | [Yaare Yaare](https://open.spotify.com/track/07VLlbJ0Xk5s9lqVfkUKEI) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Ek Love Ya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4QOXsn9u91ufIcv50eI90F) | 3:22 |

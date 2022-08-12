@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Abolir el alma (Un homenaje a Rafael Berrio)",
+        "url": "https://open.spotify.com/album/1oym7c033232iwjCqvCL0z"
+      },
+      "artists": [
+        {
+          "name": "Jose Ignacio Lapido",
+          "url": "https://open.spotify.com/artist/1iWumLWq8eGULX2Pvw7gC8"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "Abolir el alma - Un homenaje a Rafael Berrio",
+      "url": "https://open.spotify.com/track/0Nd3zT6Kuka6JMK2gksAzI"
+    },
+    {
+      "album": {
         "name": "Metamorfosis. En Directo Desde El Teatro Arriaga",
         "url": "https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr"
       },
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 245080,
       "name": "Galaxia",
       "url": "https://open.spotify.com/track/4k2rXEST4WhABauOv6Lhbu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Worship songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,573 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,588 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 31 | [If You're Saved and You Know It](https://open.spotify.com/track/4fBymO23KqavJifkRrMQDE) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Toddler 1 Minute Bible Songs](https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5) | 1:04 |
 | 32 | [I Am the Way \(John 14:6\)](https://open.spotify.com/track/76VHEBR3LQ6zYUg0fF09Hd) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:21 |
 | 33 | [He Is the Light](https://open.spotify.com/track/7Bi1ZbcjXppd20X6IyldE7) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Pop Praise: Jump for Joy](https://open.spotify.com/album/6RHcD6hREYs81gJahZIn1y) | 2:44 |
-| 34 | [Be Still \(Psalm 46:10\)](https://open.spotify.com/track/0Ie6BTfYSyMcvl845hGr94) | [Seeds Family Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [When You Lie Down: Lullabies & Scripture Songs, Vol\. 10](https://open.spotify.com/album/1nmoMC8L1uRXQIlD3k5q4k) | 4:02 |
+| 34 | [Be Still \(Psalm 46:10\)](https://open.spotify.com/track/0Ie6BTfYSyMcvl845hGr94) | [Seeds Lullabies](https://open.spotify.com/artist/7wcNLUZ3LAHgSP4eIIX1oM) | [When You Lie Down: Lullabies & Scripture Songs, Vol\. 10](https://open.spotify.com/album/1nmoMC8L1uRXQIlD3k5q4k) | 4:02 |
 | 35 | [Even When](https://open.spotify.com/track/3UbecA1E2TzGHRGsEoK89U) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [Even When](https://open.spotify.com/album/3EdWMarhtXqqaoZSso2TTn) | 3:27 |
 | 36 | [Your Ways \(Isaiah 55\) \- Live](https://open.spotify.com/track/3jmXhvsA6Y9SQX5HohC26n) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Your Ways \(Isaiah 55\) \[Live\]](https://open.spotify.com/album/6h3ij29LgLW3qannd61h1Q) | 4:02 |
 | 37 | [Masterpiece \(Ephesians 2:8\-10\)](https://open.spotify.com/track/5QvDM6ME84IIuvnGSVbntV) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Masterpiece](https://open.spotify.com/album/1MgJtpyHdmAytGnSaYW08a) | 3:58 |

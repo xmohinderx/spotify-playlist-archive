@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Among the Clouds",
+        "url": "https://open.spotify.com/album/4HcRsA5pd3BqTGUKWoxSv0"
+      },
+      "artists": [
+        {
+          "name": "Helmut Schenker",
+          "url": "https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180657,
+      "name": "Among the Clouds",
+      "url": "https://open.spotify.com/track/6RMZYwjAH5CVJriToCDuZ7"
+    },
+    {
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/6k7cnJ2DJKoIgZ9mAT2fxk"
       },
@@ -517,6 +535,24 @@
       "duration_ms": 249907,
       "name": "Freedom Fighters",
       "url": "https://open.spotify.com/track/2oDBvHqLKjMlZSi5k6xZCu"
+    },
+    {
+      "album": {
+        "name": "Full Momentum",
+        "url": "https://open.spotify.com/album/32WC7rSlZj9YyKzpbEJIqk"
+      },
+      "artists": [
+        {
+          "name": "Christoffer Moe Ditlevsen",
+          "url": "https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Full Momentum",
+      "url": "https://open.spotify.com/track/7MhgdmsY96bG8EQTsTOZfF"
     },
     {
       "album": {

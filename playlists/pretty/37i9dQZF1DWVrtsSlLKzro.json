@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
-  "num_followers": 499136,
+  "num_followers": 499487,
   "original_name": "Sad Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk3ODU4MSwwMDAwMDAwMDYxNzcxMTM4NzMyYjk0ZTBhOTVkOGMxMmVkMTk5NDY4",
+  "snapshot_id": "MTY1OTk3ODU4MSwwMDAwMDAwMGIyN2UyZTY2ZWEzOTQ4YTNmNjU2NDcyYjM2NzNjYzBl",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Black & Blue",
-        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Fallen Embers",
         "url": "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 230571,
       "name": "Blame Myself",
       "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -519,6 +519,26 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Sweet Nothings (feat. Minke)",
+        "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "Minke",
+          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
+        }
+      ],
+      "duration_ms": 228845,
+      "name": "Sweet Nothings (feat. Minke)",
+      "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Echo (with KSHMR)",
         "url": "https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 192352,
       "name": "Echo (with KSHMR)",
       "url": "https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Sweet Nothings (feat. Minke)",
-        "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
-      },
-      "artists": [
-        {
-          "name": "Holiday87",
-          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
-        },
-        {
-          "name": "Minke",
-          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
-        }
-      ],
-      "duration_ms": 228845,
-      "name": "Sweet Nothings (feat. Minke)",
-      "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        }
-      ],
-      "duration_ms": 197779,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Worst Case",
         "url": "https://open.spotify.com/album/7BxXZuYlYgPcqEaFn08usZ"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 178048,
       "name": "Worst Case",
       "url": "https://open.spotify.com/track/3zbbRebB1rzlXJgq7Ufn8V"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        }
+      ],
+      "duration_ms": 197779,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1123,18 +1123,26 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
       "artists": [
         {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 300506,
-      "name": "Poison For Lovers",
-      "url": "https://open.spotify.com/track/7HerYPWrex5mg6w9FiK0wk"
+      "duration_ms": 216125,
+      "name": "Walk Me Home",
+      "url": "https://open.spotify.com/track/5fWRLdgfMlbKDncAhdN9zI"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1159,6 +1167,22 @@
       "duration_ms": 225882,
       "name": "Hurts Sometimes (with Jonathan Mendelsohn)",
       "url": "https://open.spotify.com/track/2wwSQbfTJUqNqDch31XUpW"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Poison For Lovers",
+      "url": "https://open.spotify.com/track/7HerYPWrex5mg6w9FiK0wk"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1199,30 +1223,6 @@
       "duration_ms": 223129,
       "name": "Not In Love (feat. LOWES)",
       "url": "https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 216125,
-      "name": "Walk Me Home",
-      "url": "https://open.spotify.com/track/5fWRLdgfMlbKDncAhdN9zI"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Should Have Seen It Coming",
+        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "AETHO",
+          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
+        }
+      ],
+      "duration_ms": 238072,
+      "name": "Should Have Seen It Coming",
+      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "One More Day (with Chandler Leighton)",
         "url": "https://open.spotify.com/album/20BQqiuNutjnDzWLSBZfWL"
       },
@@ -1343,46 +1363,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Temper Temper (feat. ONR)",
-        "url": "https://open.spotify.com/album/78cHKcaJ2agjy5arczangj"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "ONR",
-          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "Temper Temper (feat. ONR)",
-      "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Should Have Seen It Coming",
-        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "AETHO",
-          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
-        }
-      ],
-      "duration_ms": 238072,
-      "name": "Should Have Seen It Coming",
-      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Messin\u2019 Me Up (feat. EVAN GIIA)",
         "url": "https://open.spotify.com/album/1BEJWAUubpBGTMS6V0UVck"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 181200,
       "name": "Messin' Me Up (feat. EVAN GIIA)",
       "url": "https://open.spotify.com/track/0cXSkPDfxh7rufiDSnLV3C"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Temper Temper (feat. ONR)",
+        "url": "https://open.spotify.com/album/78cHKcaJ2agjy5arczangj"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "ONR",
+          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
+        }
+      ],
+      "duration_ms": 213571,
+      "name": "Temper Temper (feat. ONR)",
+      "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Once You Love Someone",
-        "url": "https://open.spotify.com/album/3VlWMpcZ2KpQib2mh44QZS"
-      },
-      "artists": [
-        {
-          "name": "Tep No",
-          "url": "https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8"
-        },
-        {
-          "name": "Tilsen",
-          "url": "https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "Once You Love Someone",
-      "url": "https://open.spotify.com/track/3NDxc7r19AvChQiVOdUMoK"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "I Don't Wanna Know",
         "url": "https://open.spotify.com/album/5PM5mvpyBJ05Yepkh43gUz"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 202135,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/7BNVTdnnoMPzj8URWmmGMU"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Once You Love Someone",
+        "url": "https://open.spotify.com/album/3VlWMpcZ2KpQib2mh44QZS"
+      },
+      "artists": [
+        {
+          "name": "Tep No",
+          "url": "https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8"
+        },
+        {
+          "name": "Tilsen",
+          "url": "https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "Once You Love Someone",
+      "url": "https://open.spotify.com/track/3NDxc7r19AvChQiVOdUMoK"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/7LHWYD3ctxRIdao3ulv66S"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 228534,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/7GqrUxuTqiup3RGffuQ0y8"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/0nhFehBTPVt8Y5ZVheGCCc"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 214153,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/4RdZfdkgW1OmkajhvcOxA1"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/7LHWYD3ctxRIdao3ulv66S"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 228534,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/7GqrUxuTqiup3RGffuQ0y8"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/6EGOIYk1sgkYq8XevCOjmF"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/21UciS9u65KNCmrNXAToxK"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Break The Same",
         "url": "https://open.spotify.com/album/5H5YKFjy1FRbo5TCN1MDvZ"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 196721,
       "name": "Break The Same",
       "url": "https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/6EGOIYk1sgkYq8XevCOjmF"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/21UciS9u65KNCmrNXAToxK"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1899,6 +1899,30 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "i...",
+        "url": "https://open.spotify.com/album/7wVN5ydlkQju7GkA3OSv85"
+      },
+      "artists": [
+        {
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+        },
+        {
+          "name": "Gina Livia",
+          "url": "https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh"
+        },
+        {
+          "name": "damnboy!",
+          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "i...",
+      "url": "https://open.spotify.com/track/6RjDvJCnxjAOOEQ5TiqKLU"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Dark Places",
         "url": "https://open.spotify.com/album/28DuCb1V8dZDjQ8x18qczf"
       },
@@ -1935,30 +1959,6 @@
       "duration_ms": 275013,
       "name": "All Your Days",
       "url": "https://open.spotify.com/track/2QEBXYzURjg7nY8FjbBcUt"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "i...",
-        "url": "https://open.spotify.com/album/7wVN5ydlkQju7GkA3OSv85"
-      },
-      "artists": [
-        {
-          "name": "n\u00f8ll",
-          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
-        },
-        {
-          "name": "Gina Livia",
-          "url": "https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh"
-        },
-        {
-          "name": "damnboy!",
-          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "i...",
-      "url": "https://open.spotify.com/track/6RjDvJCnxjAOOEQ5TiqKLU"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Fall Down",
-        "url": "https://open.spotify.com/album/3BULrq5tWKnyI2GhIZfTwg"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Fall Down",
-      "url": "https://open.spotify.com/track/6591V8mJSzKn29si2hx9iC"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/0KUyqoyokHa7aCRSIf9Jne"
       },
@@ -2047,22 +2027,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Way Out",
-        "url": "https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE"
+        "name": "Fall Down",
+        "url": "https://open.spotify.com/album/3BULrq5tWKnyI2GhIZfTwg"
       },
       "artists": [
         {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
         },
         {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/3kRVuRS2HUrZYZvqDywznP"
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
         }
       ],
-      "duration_ms": 161538,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN"
+      "duration_ms": 166153,
+      "name": "Fall Down",
+      "url": "https://open.spotify.com/track/6591V8mJSzKn29si2hx9iC"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -2087,22 +2067,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/5PfEtYfR13izbJCJZe3pj0"
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE"
       },
       "artists": [
         {
-          "name": "Vincent",
-          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
         },
         {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/3kRVuRS2HUrZYZvqDywznP"
         }
       ],
-      "duration_ms": 280125,
-      "name": "Can't Help Myself",
-      "url": "https://open.spotify.com/track/64UQKc7huxeIY227ELVYMp"
+      "duration_ms": 161538,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -2123,6 +2103,26 @@
       "duration_ms": 203530,
       "name": "Love For You",
       "url": "https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5PfEtYfR13izbJCJZe3pj0"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 280125,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/64UQKc7huxeIY227ELVYMp"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -2343,6 +2343,26 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/71JDjU89pUcQs36ArVK8qd"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Zak Leever",
+          "url": "https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU"
+        }
+      ],
+      "duration_ms": 208264,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/5WnnOy3qXPS8qOwl3U5KWX"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/7uOy96yZhShwnQS2q4jkFt"
       },
@@ -2371,26 +2391,6 @@
       "duration_ms": 183000,
       "name": "Child",
       "url": "https://open.spotify.com/track/4b58UyTZK1qqkDAUVF0JN1"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/71JDjU89pUcQs36ArVK8qd"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Zak Leever",
-          "url": "https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU"
-        }
-      ],
-      "duration_ms": 208264,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/5WnnOy3qXPS8qOwl3U5KWX"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Keep Waiting",
+        "url": "https://open.spotify.com/album/1wdPSxtM4BIFEnldbhLrW5"
+      },
+      "artists": [
+        {
+          "name": "King Henry",
+          "url": "https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5"
+        }
+      ],
+      "duration_ms": 289071,
+      "name": "Keep Waiting",
+      "url": "https://open.spotify.com/track/1GzVJMwepmBdnqTEfyQhl5"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Be Ok",
         "url": "https://open.spotify.com/album/1EAYRPaU27CAiKlqf1tSRt"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 184038,
       "name": "Be Ok",
       "url": "https://open.spotify.com/track/1xe8rWI6ZToSgKdZ0HMNrO"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Keep Waiting",
-        "url": "https://open.spotify.com/album/1wdPSxtM4BIFEnldbhLrW5"
-      },
-      "artists": [
-        {
-          "name": "King Henry",
-          "url": "https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5"
-        }
-      ],
-      "duration_ms": 289071,
-      "name": "Keep Waiting",
-      "url": "https://open.spotify.com/track/1GzVJMwepmBdnqTEfyQhl5"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -2511,6 +2511,26 @@
       "duration_ms": 186000,
       "name": "Read Your Mind (with sad alex)",
       "url": "https://open.spotify.com/track/5YXpxCNleJkeXZ0bLKv7MJ"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
+      },
+      "artists": [
+        {
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
+        },
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        }
+      ],
+      "duration_ms": 247122,
+      "name": "We Know Who We Are",
+      "url": "https://open.spotify.com/track/2LWKBMNdzVJzmQe27IQGWc"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -2563,26 +2583,6 @@
       "duration_ms": 171636,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0D2JFwjnMhM6qgVUcFQdeI"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
-      },
-      "artists": [
-        {
-          "name": "Olivver the Kid",
-          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
-        },
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        }
-      ],
-      "duration_ms": 247122,
-      "name": "We Know Who We Are",
-      "url": "https://open.spotify.com/track/2LWKBMNdzVJzmQe27IQGWc"
     },
     {
       "added_at": "2022-07-15 04:00:00",

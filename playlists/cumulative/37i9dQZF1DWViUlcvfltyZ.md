@@ -2,16 +2,16 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Chitarre più o meno distorte \(e in cover i ROS!\)
+> Chitarre più o meno distorte \(e in cover gli Antartica\)
 
 141 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [118 \(feat\. Claudio Santamaria\)](https://open.spotify.com/track/7bgmhnVEmCFrMB3Byr0r9R) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Claudio Santamaria](https://open.spotify.com/artist/1QeSGnT5N0XR1CEr1tEpaG) | [118 \(feat\. Claudio Santamaria\)](https://open.spotify.com/album/4BL7Czy98tfrcBZMA9HVT9) | 3:38 | 2022-05-09 | 2022-05-27 |
-| [1789](https://open.spotify.com/track/0gTbFATVuvMa5dDFTItGGf) | [sabd](https://open.spotify.com/artist/5U31znzcujcQqe1noxyODw) | [1789](https://open.spotify.com/album/7B4PPuiKQkGXTAU79uX4Y8) | 2:50 | 2022-08-04 |  |
+| [1789](https://open.spotify.com/track/0gTbFATVuvMa5dDFTItGGf) | [sabd](https://open.spotify.com/artist/5U31znzcujcQqe1noxyODw) | [1789](https://open.spotify.com/album/7B4PPuiKQkGXTAU79uX4Y8) | 2:50 | 2022-08-04 | 2022-08-12 |
 | [A casa dei miei](https://open.spotify.com/track/5CyM9AldfTQmuvs0Tmy3B8) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [A casa dei miei](https://open.spotify.com/album/4a9Lx3MS7H0LTwrlAiGjNu) | 3:02 | 2022-07-21 |  |
-| [Afterimage](https://open.spotify.com/track/4kS29RC8JZ7rxIFOs30ppc) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Afterimage](https://open.spotify.com/album/12zYtbjFPBR7LVv8yCy0uN) | 2:28 | 2022-08-04 |  |
+| [Afterimage](https://open.spotify.com/track/4kS29RC8JZ7rxIFOs30ppc) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Afterimage](https://open.spotify.com/album/12zYtbjFPBR7LVv8yCy0uN) | 2:28 | 2022-08-04 | 2022-08-12 |
 | [Agata](https://open.spotify.com/track/4C2Bpn24iZZHWUSfpQvLiv) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Agata](https://open.spotify.com/album/5OvRahjqujnEOetZFcPesY) | 3:44 | 2022-05-09 | 2022-06-03 |
 | [AIP](https://open.spotify.com/track/1VLxvPzn2q95NsDQaqOwCM) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [AIP](https://open.spotify.com/album/0SLgtOJQyz2PiqMYGqPONw) | 2:57 | 2022-05-09 | 2022-06-03 |
 | [Always Before \(The Fire\)](https://open.spotify.com/track/1Zxk5vYIHVeHiFKRmEfx3y) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Always Before \(The Fire\)](https://open.spotify.com/album/4G1FKZqj3dzWVLKfnzDybm) | 4:10 | 2022-05-09 | 2022-06-24 |
@@ -83,7 +83,7 @@
 | [Lento](https://open.spotify.com/track/1Zf7qzYqsGk9SSWRxerDF0) | [Labissodeigiorniavenire](https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd) | [Lento](https://open.spotify.com/album/3578E1xDOOkKh9mVWCHXAP) | 3:01 | 2022-08-04 |  |
 | [Libellula](https://open.spotify.com/track/0XbO1VbFRlFlycqvnaNuYn) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY) | [Libellula](https://open.spotify.com/album/4xo1lo7z4A2sawH7WI7Eev) | 3:06 | 2022-06-30 |  |
 | [Livido](https://open.spotify.com/track/1FUcl9PpuDjDR8wuWugG9v) | [LAMECCA](https://open.spotify.com/artist/7mURROuseWxgGqL7cIyhc8) | [Ragazzina](https://open.spotify.com/album/3dKuOfQT48iqlWxEDPzMh6) | 3:48 | 2022-05-09 | 2022-06-10 |
-| [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-09 | 2022-08-05 |
+| [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-09 |  |
 | [Love Will Take You from Behind](https://open.spotify.com/track/2p1Wvj7F5s8I1ypZNkBJyP) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Love Will Take You from Behind](https://open.spotify.com/album/7ta4mTgSJ38tqR21MPHrWg) | 2:45 | 2022-07-07 |  |
 | [Matador](https://open.spotify.com/track/5g0aCS1VkUjInpKZJ5sqZw) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Matador](https://open.spotify.com/album/2HU1bNOzJU13btY8KjjNIC) | 3:20 | 2022-07-21 |  |
 | [Meravigliosa \(feat\. Ditonellapiaga\)](https://open.spotify.com/track/3Ji5zXZw7hDUgIp5IkLFiy) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Cari Fottutissimi Amici](https://open.spotify.com/album/43iU5QUL15hYLkbiZfk1aB) | 3:53 | 2022-05-26 | 2022-07-01 |

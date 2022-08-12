@@ -639,6 +639,36 @@
     {
       "album": {
         "name": "Chatarra",
+        "url": "https://open.spotify.com/album/1dZrdu4MxyX2gBuN4CWCC1"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "El Jincho",
+          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
+        },
+        {
+          "name": "Brawler",
+          "url": "https://open.spotify.com/artist/3ou0JTD6UMkXvymmMrzBOJ"
+        },
+        {
+          "name": "Nerso",
+          "url": "https://open.spotify.com/artist/2sA17fdEW3AIUbETkwrsKY"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206816,
+      "name": "Chatarra",
+      "url": "https://open.spotify.com/track/0M9PsXoNAsUzmOeMlhbx44"
+    },
+    {
+      "album": {
+        "name": "Chatarra",
         "url": "https://open.spotify.com/album/61AnsKPGiCjCPlGn7n1NS4"
       },
       "artists": [
@@ -661,7 +691,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 206816,
       "name": "Chatarra",
       "url": "https://open.spotify.com/track/2pqaZXlvOQLL51UwDHDi4o"
@@ -859,10 +889,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 269759,
       "name": "Dime que s\u00ed",
       "url": "https://open.spotify.com/track/0O4bCG1TnGt4rARJOFfa1N"
+    },
+    {
+      "album": {
+        "name": "Hijos de la ruina, vol. 3",
+        "url": "https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Recycled J",
+          "url": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269759,
+      "name": "Dime que s\u00ed",
+      "url": "https://open.spotify.com/track/5WFukWVre2TgDKG6G4T5Wq"
     },
     {
       "album": {
@@ -1299,10 +1351,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 220582,
       "name": "Hasta el amanecer",
       "url": "https://open.spotify.com/track/05WcYNSHMxuM7ryv5sKIjX"
+    },
+    {
+      "album": {
+        "name": "Hasta el amanecer",
+        "url": "https://open.spotify.com/album/6RWArjq04vnxbA3D4snTPp"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220582,
+      "name": "Hasta el amanecer",
+      "url": "https://open.spotify.com/track/4BqWFdof5Lct3HBtD8ZzOZ"
     },
     {
       "album": {

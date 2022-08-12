@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CGcax0KY23.md) - [plain]
 
 > <a href="spotify:artist:58zz0VTpGNHn7MGTlW2cxQ">Shingo Nakamura</a> presents his Tokyo Glow DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,663 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,687 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

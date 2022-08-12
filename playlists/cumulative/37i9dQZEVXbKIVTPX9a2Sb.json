@@ -1118,6 +1118,28 @@
     },
     {
       "album": {
+        "name": "Front 2 Back",
+        "url": "https://open.spotify.com/album/2SX1AOTHm5DjK9CQPdbA4C"
+      },
+      "artists": [
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        },
+        {
+          "name": "Manene",
+          "url": "https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "Back 2 Front",
+      "url": "https://open.spotify.com/track/3BnWd5vyv3bYzAndjkJh3x"
+    },
+    {
+      "album": {
         "name": "Back 2 Rave",
         "url": "https://open.spotify.com/album/6bE0jnPO1Nh5rbIvMZV76H"
       },
@@ -7975,7 +7997,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -9183,6 +9205,24 @@
       "duration_ms": 192000,
       "name": "MC ERIK & BARBARA",
       "url": "https://open.spotify.com/track/3U6V6QdJkUuxrrI6cx3JBs"
+    },
+    {
+      "album": {
+        "name": "MC ERIK & BARBARA (HARD STOKA REMIX)",
+        "url": "https://open.spotify.com/album/4lJOjTBSaEOGSUnhgS4LoV"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141016,
+      "name": "MC ERIK & BARBARA - HARD STOKA REMIX",
+      "url": "https://open.spotify.com/track/2LIfOk1gq0BbbY9FQEehPT"
     },
     {
       "album": {
@@ -13317,7 +13357,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
@@ -15809,7 +15849,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 212727,
       "name": "Viac",
       "url": "https://open.spotify.com/track/2zCkru42FlOYnguzb9Z4aT"
@@ -16589,7 +16629,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"

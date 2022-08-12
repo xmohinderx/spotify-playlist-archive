@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-130 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/1b0fcaaDfDUE8YINvG3jb0)
+131 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/1b0fcaaDfDUE8YINvG3jb0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Don't Worry Be Happy](https://open.spotify.com/track/4v52HuhZqVV0eNpP6vzH5I) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Best Of Bobby McFerrin](https://open.spotify.com/album/0L2VM5iuoVRAQXvw2lyRzV) | 4:51 | 2022-04-01 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/6n7PRM0pp868Qqg9JYwBdh) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Dream a Little Dream of Me](https://open.spotify.com/album/7pQMSHZhjabV71szsHMvWB) | 2:26 | 2022-04-01 |  |
 | [drivers license \- piano version](https://open.spotify.com/track/1llAxbdo760RjFmfM6Q1Ys) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [drivers license \(piano version\)](https://open.spotify.com/album/1ItBK0fChc27iy8oawnCWB) | 3:57 | 2022-04-01 |  |
+| [Everybody Get on Board](https://open.spotify.com/track/7c0JXmmCVgNCl2XVBNj9yn) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Space Cadet](https://open.spotify.com/album/1xhYQeDbUtt5wPbi9u89ZM) | 3:10 | 2022-08-11 |  |
 | [Everybody Hurts](https://open.spotify.com/track/3yGpnTqLeXUJdzmaonJXij) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [T\. Hardy Morris](https://open.spotify.com/artist/0M9xaBkkUEnshVOR77Dk6W) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 5:04 | 2022-04-01 |  |
 | [Father And Son](https://open.spotify.com/track/77vgQcXbwX5C4oapmx6phI) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Gold](https://open.spotify.com/album/1S1NJXGjE6yBGIq2PhVKyE) | 3:40 | 2022-04-01 | 2022-07-29 |
 | [Father And Son](https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:41 | 2022-04-01 |  |

@@ -1,13 +1,29 @@
 {
   "description": "new skaiwater",
-  "num_followers": 341263,
+  "num_followers": 341356,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4NTc0MCwwMDAwMDAwMDNkYmNmNWUwNzBjNzA4MzNmMDEzN2E0MzRlZTkzMjQ0",
+  "snapshot_id": "MTY2MDIzNTUxMSwwMDAwMDAwMDBlMjQyY2MyNTVkY2YxMDhkYjFkZjQzNzg5ZGZjN2Ey",
   "tracks": [
+    {
+      "added_at": "2022-08-11 16:31:32",
+      "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 149390,
+      "name": "claws",
+      "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
+    },
     {
       "added_at": "2022-08-05 07:49:00",
       "album": {
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/0ByIm1EVc6JvOYwoe67EqQ"
     },
     {
-      "added_at": "2022-07-29 13:25:15",
+      "added_at": "2022-08-05 07:49:00",
       "album": {
-        "name": "Hot Girl (Bodies Bodies Bodies)",
-        "url": "https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA"
+        "name": "paralyzed",
+        "url": "https://open.spotify.com/album/6LAJ80K0n0WnFNdynaG3SD"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Senses",
+          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
         }
       ],
-      "duration_ms": 157078,
-      "name": "Hot Girl (Bodies Bodies Bodies)",
-      "url": "https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud"
+      "duration_ms": 164734,
+      "name": "paralyzed",
+      "url": "https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34"
     },
     {
       "added_at": "2022-08-02 17:18:09",
@@ -75,6 +91,38 @@
     {
       "added_at": "2022-07-29 13:25:15",
       "album": {
+        "name": "Hot Girl (Bodies Bodies Bodies)",
+        "url": "https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 157078,
+      "name": "Hot Girl (Bodies Bodies Bodies)",
+      "url": "https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud"
+    },
+    {
+      "added_at": "2022-06-28 14:12:15",
+      "album": {
+        "name": "All Nighter, Vol. 6",
+        "url": "https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS"
+      },
+      "artists": [
+        {
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "6FINGERDEATHPUNCH",
+      "url": "https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3"
+    },
+    {
+      "added_at": "2022-07-29 13:25:15",
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV"
       },
@@ -87,38 +135,6 @@
       "duration_ms": 169819,
       "name": "ALL UP IN YOUR MIND",
       "url": "https://open.spotify.com/track/6hYgmQ27dGia58kKJWBLci"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
-        "name": "DRY2WET",
-        "url": "https://open.spotify.com/album/4iBpkXYFJvigJFG3YEoJ9L"
-      },
-      "artists": [
-        {
-          "name": "That Kid",
-          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "DRY2WET",
-      "url": "https://open.spotify.com/track/3FCShvRNGQU1agAnhsKcNS"
-    },
-    {
-      "added_at": "2022-08-05 07:49:00",
-      "album": {
-        "name": "paralyzed",
-        "url": "https://open.spotify.com/album/6LAJ80K0n0WnFNdynaG3SD"
-      },
-      "artists": [
-        {
-          "name": "Senses",
-          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
-        }
-      ],
-      "duration_ms": 164734,
-      "name": "paralyzed",
-      "url": "https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34"
     },
     {
       "added_at": "2022-01-14 18:09:29",
@@ -137,6 +153,22 @@
       "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
+      "added_at": "2022-08-05 07:49:00",
+      "album": {
+        "name": "DRY2WET",
+        "url": "https://open.spotify.com/album/4iBpkXYFJvigJFG3YEoJ9L"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "DRY2WET",
+      "url": "https://open.spotify.com/track/3FCShvRNGQU1agAnhsKcNS"
+    },
+    {
       "added_at": "2022-07-29 13:25:15",
       "album": {
         "name": "Spotify Singles",
@@ -151,22 +183,6 @@
       "duration_ms": 153624,
       "name": "i will follow you into the dark - Spotify Singles",
       "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
-    },
-    {
-      "added_at": "2022-06-28 14:12:15",
-      "album": {
-        "name": "All Nighter, Vol. 6",
-        "url": "https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS"
-      },
-      "artists": [
-        {
-          "name": "six impala",
-          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "6FINGERDEATHPUNCH",
-      "url": "https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3"
     },
     {
       "added_at": "2022-07-29 13:25:15",
@@ -1573,38 +1589,6 @@
       "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
     },
     {
-      "added_at": "2022-07-08 04:45:00",
-      "album": {
-        "name": "Disaster",
-        "url": "https://open.spotify.com/album/2cOq5ejPCmvslzeffqYLSb"
-      },
-      "artists": [
-        {
-          "name": "fish narc",
-          "url": "https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU"
-        },
-        {
-          "name": "Pentagrvm",
-          "url": "https://open.spotify.com/artist/4pFWYUDKzlU47DzKqUm9Qo"
-        },
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        },
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        },
-        {
-          "name": "YAWNS",
-          "url": "https://open.spotify.com/artist/7v2lRIAhCsWVstXkyATQHD"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/6EgL79TqpoUIT3aGJcTKKP"
-    },
-    {
       "added_at": "2022-06-10 15:02:05",
       "album": {
         "name": "selective altruism",
@@ -1619,58 +1603,6 @@
       "duration_ms": 203265,
       "name": "selective altruism",
       "url": "https://open.spotify.com/track/5t1L2Es0faTlZsAkfLTHVA"
-    },
-    {
-      "added_at": "2022-06-17 07:42:00",
-      "album": {
-        "name": "letterfromadeathbed",
-        "url": "https://open.spotify.com/album/4Wqck6hF61ejSvbMCtzMJo"
-      },
-      "artists": [
-        {
-          "name": "heffy",
-          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
-        }
-      ],
-      "duration_ms": 175235,
-      "name": "letterfromadeathbed",
-      "url": "https://open.spotify.com/track/0V2rYqtBTcm9YKU7GnHpEr"
-    },
-    {
-      "added_at": "2022-05-27 07:02:00",
-      "album": {
-        "name": "Be Like Me",
-        "url": "https://open.spotify.com/album/02IfUb431PzQxDWeQgq1k5"
-      },
-      "artists": [
-        {
-          "name": "GOM",
-          "url": "https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu"
-        }
-      ],
-      "duration_ms": 150248,
-      "name": "Be Like Me",
-      "url": "https://open.spotify.com/track/5yfmowSTfunM4Uqu6Bw7VN"
-    },
-    {
-      "added_at": "2022-06-10 15:02:05",
-      "album": {
-        "name": "12022021",
-        "url": "https://open.spotify.com/album/74FwKote0GXBDepwEN2cP3"
-      },
-      "artists": [
-        {
-          "name": "joss lockwood",
-          "url": "https://open.spotify.com/artist/7c0umSPytMVzf1GT9eL7f2"
-        },
-        {
-          "name": "boysinblush",
-          "url": "https://open.spotify.com/artist/5AQ4DoeRQE2PkkmYCyx1vJ"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "12022021",
-      "url": "https://open.spotify.com/track/2RnQhqo3PMmnZZZ5Qj5yDp"
     },
     {
       "added_at": "2022-05-06 06:31:00",
@@ -1789,22 +1721,6 @@
       "url": "https://open.spotify.com/track/7btVxzWmEnBuxdunhWWhUI"
     },
     {
-      "added_at": "2022-04-22 06:42:00",
-      "album": {
-        "name": "SLIDE SLIDE SLIDE",
-        "url": "https://open.spotify.com/album/4dMkxCx9XxsFCGNb29eeqo"
-      },
-      "artists": [
-        {
-          "name": "iris day",
-          "url": "https://open.spotify.com/artist/76aEuFvHvQUH4BKVPRUSWn"
-        }
-      ],
-      "duration_ms": 113620,
-      "name": "SLIDE SLIDE SLIDE",
-      "url": "https://open.spotify.com/track/7EhsP2yDjxskVJrEAUp4aY"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "WASTED",
@@ -1863,30 +1779,6 @@
       "duration_ms": 144419,
       "name": "glass",
       "url": "https://open.spotify.com/track/3uSzUWPz1uSvPAI9c3RVIA"
-    },
-    {
-      "added_at": "2022-04-29 06:17:00",
-      "album": {
-        "name": "ENGINE IN THE BACK",
-        "url": "https://open.spotify.com/album/2b6EUsEThRPhdFRgdlhHCr"
-      },
-      "artists": [
-        {
-          "name": "Alice Gas",
-          "url": "https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR"
-        },
-        {
-          "name": "Kid Trash",
-          "url": "https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh"
-        },
-        {
-          "name": "kuru",
-          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-        }
-      ],
-      "duration_ms": 167049,
-      "name": "ENGINE IN THE BACK",
-      "url": "https://open.spotify.com/track/3d0N2sq1boRwjmdK1Pc1ma"
     }
   ],
   "unique_name": "hyperpop",

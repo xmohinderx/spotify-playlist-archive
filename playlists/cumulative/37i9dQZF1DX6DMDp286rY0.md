@@ -4,7 +4,7 @@
 
 > Iconic South Asian women artists through the decades by Brown Girl Mag\. Cover: Arooj Aftab
 
-61 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/2bct1KnJY9BqTmsSmY4vN4)
+62 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2bct1KnJY9BqTmsSmY4vN4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Jee Rahein](https://open.spotify.com/track/4rIud33CcgH8Xg5g3UoW10) | [Dixi](https://open.spotify.com/artist/62WxDedGiMkY2IEP0effuM), [Dj Naveen Kumar](https://open.spotify.com/artist/06d2CoPgVK7O2XO5lPJCiT) | [Jee Rahein](https://open.spotify.com/album/5rQwpbZvOH7WGJYKx46ZBg) | 2:37 | 2022-07-25 |  |
 | [Jee Ve Sohaneya](https://open.spotify.com/track/12o5NY41wFKVswbWKWdrfj) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 4:09 | 2022-07-18 |  |
 | [Journey \(feat\. Mitch Wong\)](https://open.spotify.com/track/2tG2nzOL2dsQaWZ8ic5xsF) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 7:01 | 2022-07-18 |  |
-| [Kingdom](https://open.spotify.com/track/7kmIkBCH8KkxdV4RlMRt6J) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Amritha Shakti](https://open.spotify.com/artist/3qFny3pC23f3V8IHnomOL1) | [Kingdom](https://open.spotify.com/album/3XaqtBmW5tCFSHYjErfUuK) | 3:18 | 2022-07-18 |  |
+| [Kingdom](https://open.spotify.com/track/2eBpS2raMzMdeplIOavxdz) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Amritha Shakti](https://open.spotify.com/artist/3qFny3pC23f3V8IHnomOL1) | [Kingdom](https://open.spotify.com/album/49xRLVsjKQubxMDktXX4Md) | 3:18 | 2022-07-25 |  |
+| [Kingdom](https://open.spotify.com/track/7kmIkBCH8KkxdV4RlMRt6J) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Amritha Shakti](https://open.spotify.com/artist/3qFny3pC23f3V8IHnomOL1) | [Kingdom](https://open.spotify.com/album/3XaqtBmW5tCFSHYjErfUuK) | 3:18 | 2022-07-18 | 2022-08-12 |
 | [Ladke](https://open.spotify.com/track/17hbpd8PHheADKIJF6U7YK) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Ladke](https://open.spotify.com/album/4Uh9XqmhAOByEFxoM5zJ4q) | 2:32 | 2022-07-18 |  |
 | [Love Someone](https://open.spotify.com/track/3ImRkWFQbM9nzmhEgmV9Uu) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [Love Someone](https://open.spotify.com/album/6vNTBVBsAGBQSUBzxffkwY) | 3:37 | 2022-07-25 |  |
 | [Mad Dreams](https://open.spotify.com/track/2Yvo61WicgVinjoUOthyjx) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Mad Dreams](https://open.spotify.com/album/4eDS6fgdzXoWmEsBbov4DO) | 3:11 | 2022-07-18 |  |

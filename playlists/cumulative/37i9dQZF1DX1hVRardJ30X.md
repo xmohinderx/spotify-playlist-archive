@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Nicky Jam
 
-1,880 songs - 4 day 3 hr 58 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+1,881 songs - 4 day 4 hr 1 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1122,6 +1122,7 @@
 | [Nada Tuyo](https://open.spotify.com/track/5KyC2wlH7acp95IFTQ2yLN) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Nada Tuyo](https://open.spotify.com/album/2XqvAoaxho6Ls0SyvRHxY8) | 3:26 | 2022-04-22 | 2022-04-29 |
 | [Nadie](https://open.spotify.com/track/5idykJt11B56B8XdeDg3Tj) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Nadie](https://open.spotify.com/album/3X4XwTnwuaxVKs0T2ZHi9D) | 3:32 | 2022-03-18 | 2022-03-26 |
 | [Nadie](https://open.spotify.com/track/4KdHtVaVD3c0n8iUnU2uz1) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Frecuencia](https://open.spotify.com/album/6hfHnK0eRvNceDhHdlwevc) | 4:14 | 2022-05-06 | 2022-05-14 |
+| [Nadie La Mantiene](https://open.spotify.com/track/3dvMNHL50mtjkr47j9g5Qo) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Nadie La Mantiene](https://open.spotify.com/album/4VsBy8wJ0Tq1gbdX7gjPPK) | 3:44 | 2022-08-05 |  |
 | [Naiky](https://open.spotify.com/track/4mjCmn2Mepi8NpkjWicWwf) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Naiky](https://open.spotify.com/album/2NWK95vxT1vpCMW8GIa4Qe) | 2:36 | 2022-08-05 |  |
 | [NASA](https://open.spotify.com/track/7pt5VZBKEsd4JIQ67DZcnd) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [NASA](https://open.spotify.com/album/3mSoBmP83p0lgfWPB1MkEX) | 3:06 | 2022-06-17 | 2022-06-25 |
 | [Nascar](https://open.spotify.com/track/05acfdJrQk2xhi3KnZ37eH) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Nascar](https://open.spotify.com/album/2W3aBmu02k3Dj9dTREi0KX) | 2:47 | 2022-06-17 | 2022-06-25 |
@@ -1724,7 +1725,7 @@
 | [Tu Despertador](https://open.spotify.com/track/6fWNrtEd8z5ONHUCCiOuBS) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Tu Despertador](https://open.spotify.com/album/59YFx65z9ZB7oXbNdyzZDr) | 3:18 | 2022-07-29 | 2022-08-06 |
 | [Tu Juguete](https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Tu Juguete](https://open.spotify.com/album/2OpJPx9vdWJFMkXNV5iANk) | 3:51 | 2022-05-27 | 2022-06-04 |
 | [Tu Luna](https://open.spotify.com/track/3G2Dtbtw8YLZGpWVgidQei) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Tu Luna](https://open.spotify.com/album/4qkDvJPXV73brNrXPBrtgK) | 3:08 | 2022-06-17 | 2022-06-25 |
-| [TU MANUAL](https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Savage Kreamly](https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU) | [Frío](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 2:48 | 2022-08-05 |  |
+| [TU MANUAL](https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Savage Kreamly](https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU) | [FRÍO](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 2:48 | 2022-08-05 |  |
 | [Tu Me Matas](https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:59 | 2022-02-11 | 2022-02-19 |
 | [Tu Me Quemas](https://open.spotify.com/track/3uEWbXgG0WwrUNYC5QtiWx) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tu Me Quemas](https://open.spotify.com/album/0CWVqK706HOF8hlgImiRkJ) | 3:40 | 2022-06-10 | 2022-06-18 |
 | [Tu Me Querías \- Remix](https://open.spotify.com/track/5YeW2hwCzR6ZOzDoLMySuf) | [Robledo](https://open.spotify.com/artist/5VyXOfvTQljStUXx1coETY), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Tu Me Querías \(Remix\)](https://open.spotify.com/album/6tRZbRVEnTBxr2iZoIfdoK) | 3:38 | 2022-04-29 | 2022-05-07 |

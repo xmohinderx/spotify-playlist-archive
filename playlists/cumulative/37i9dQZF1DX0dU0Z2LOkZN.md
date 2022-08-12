@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-170 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+172 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Just Visiting](https://open.spotify.com/track/0dGgdtd0Y5JyPaOPDna8VE) | [Mtbrd](https://open.spotify.com/artist/6vXJ4kIg2HlqsSfX3S1RHV), [Cold Busted](https://open.spotify.com/artist/0uhd4ZyLS61oODSwmyhPfV) | [Just Visiting](https://open.spotify.com/album/1tGG3bDpld3wlMsVqJlpPX) | 1:58 | 2022-04-08 | 2022-07-22 |
 | [Kaiyo](https://open.spotify.com/track/1bswhbHDjFbr8Uju8Z4L9U) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Kaiyo](https://open.spotify.com/album/7HxwusHHdKvYmvpMmwTfHo) | 3:05 | 2022-07-22 |  |
 | [Keep It Real \- Instrumental](https://open.spotify.com/track/25t2JEAgYYHVKWPWXYiFZu) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [Keep It Real \(Instrumental\)](https://open.spotify.com/album/2p20DQMzqEfC0pbeGbLG84) | 3:09 | 2022-04-08 |  |
+| [Keep The Steal On My Hip \(pt.2\)](https://open.spotify.com/track/6QjNxMkUGlPAbwHWkKAt4T) | [Linkrust](https://open.spotify.com/artist/3W6MD03BtPEx7yJnj9jT2z), [Tekhedz](https://open.spotify.com/artist/4BNvYkYPrFioKA5ncdkP71) | [Keep The Steal On My Hip \(pt.2\)](https://open.spotify.com/album/1zek58sta7OjAOLuJE0qZN) | 3:09 | 2022-08-12 |  |
 | [Keeping it Simple](https://open.spotify.com/track/2EroBxY4W8upCJjPw1BLgy) | [ps\-www](https://open.spotify.com/artist/6XVRxs1WvIk0T0h3pdhCyp) | [Keeping it Simple](https://open.spotify.com/album/4Ha7Uno2UwquGMGMoiy70r) | 2:38 | 2021-11-11 |  |
 | [Key Credit](https://open.spotify.com/track/0dcNLhcMbcFd1eduLDNuNT) | [xJ\-Will](https://open.spotify.com/artist/14QbOxlbZBCybkcI60L96Z) | [Key Credit](https://open.spotify.com/album/3bcGQiLUIxSIWno3N42rMh) | 2:08 | 2021-11-11 |  |
 | [Lagoon](https://open.spotify.com/track/2uIwZfq0rC5EsKgEpWl6Pk) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Lagoon](https://open.spotify.com/album/2h2f1UgdOBIfZAkmmdIyaH) | 3:07 | 2022-07-29 |  |
@@ -148,6 +149,7 @@
 | [So Ready](https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [The Heat](https://open.spotify.com/album/0A3JVI8xHZsvfMQco4dVUj) | 2:24 | 2022-05-13 |  |
 | [Spin Cycle](https://open.spotify.com/track/7IRafpsoM8i4OirXU4olje) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Targets](https://open.spotify.com/album/2JTNVTUxl3Sf1UvdSw0pth) | 2:25 | 2021-11-11 | 2022-07-15 |
 | [Square Pusher](https://open.spotify.com/track/5ky4WPvi6mxjRpoW0CNFxV) | [Elisey](https://open.spotify.com/artist/5NNybcZtlWcExyH7LuIofh) | [Square Pusher](https://open.spotify.com/album/2RgnsphCZkHmIpZCyytiaL) | 1:51 | 2021-11-11 |  |
+| [Starshine](https://open.spotify.com/track/0cKNygs8IvaQ4ljxUWZWTy) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Starshine](https://open.spotify.com/album/6HDssgGT7U3SmmqndSOSlM) | 3:20 | 2022-08-12 |  |
 | [Stay](https://open.spotify.com/track/1n1WtbBkXFJNhskphoV05W) | [Dellasollounge](https://open.spotify.com/artist/55r17oOBrjjHLLXBC5BsE3) | [Stay](https://open.spotify.com/album/1fpKnA9khgdrwdOQCFfKbG) | 2:16 | 2022-04-22 | 2022-05-20 |
 | [Streuende Hunde](https://open.spotify.com/track/1XDqCTvcNdBlTInzddQ568) | [FLAME](https://open.spotify.com/artist/51p6dDt2ZdCX994xyeXdzu), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Streuende Hunde](https://open.spotify.com/album/4jnXu57WLZneXtBmdtRtUv) | 4:09 | 2021-11-11 |  |
 | [Summer Glen](https://open.spotify.com/track/0keJSAw0wJT9dF94RalMAr) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Zero Billion](https://open.spotify.com/album/1Ee55THzxRTRn3inLIquYM) | 1:57 | 2022-07-01 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Southalid; thi\u1ebft k\u1ebf: Isu Kim",
+  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Ph\u1ea1m Nguy\u00ean Ng\u1ecdc; thi\u1ebft k\u1ebf: Isu Kim",
   "name": "Fresh Finds Vietnam",
   "published_playlist_ids": [
     "11aHcAYmUYTKlrRmUuqYoO"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 185152,
       "name": "Bring Me Back Into My Zone",
       "url": "https://open.spotify.com/track/0riysjEEB9kqxtiuu30HW5"
@@ -5333,6 +5333,36 @@
       "duration_ms": 168066,
       "name": "M\u1eaft Nh\u1eafm M\u00f4i Ch\u1ea1m M\u00f4i",
       "url": "https://open.spotify.com/track/1mbwFqd06Hr0bYKg4Q8pHT"
+    },
+    {
+      "album": {
+        "name": "M\u1eb7t M\u1ed9c",
+        "url": "https://open.spotify.com/album/5Af8YESOWf6nK6BcLh3hkA"
+      },
+      "artists": [
+        {
+          "name": "Ph\u1ea1m Nguy\u00ean Ng\u1ecdc",
+          "url": "https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK"
+        },
+        {
+          "name": "VAnh",
+          "url": "https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo"
+        },
+        {
+          "name": "\u00c2n Nhi",
+          "url": "https://open.spotify.com/artist/7zwJ09FAPbh7EJYvwEAqDD"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214293,
+      "name": "M\u1eb7t M\u1ed9c",
+      "url": "https://open.spotify.com/track/3dvkpe9FEekxxgaQtxOHQI"
     },
     {
       "album": {

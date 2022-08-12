@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Quevedo
 
-198 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/0eEaxEcjouD8bXoqNOVuIi)
+199 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/0eEaxEcjouD8bXoqNOVuIi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2022-08-05 |  |
 | [Si Tu Kiere](https://open.spotify.com/track/2pjoPgjETrC1LQm64aVTGp) | [Soto Asa](https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4) | [Si Tu Kiere](https://open.spotify.com/album/45h2s1SjuZjuQSzgJ8SzJ3) | 3:00 | 2022-01-17 | 2022-04-02 |
 | [Si Tu Me Busca](https://open.spotify.com/track/7krngwvy6pL3EVgOhDe7zE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Si Tu Me Busca](https://open.spotify.com/album/6SAO7sX4PVuHgFC0nV3FPu) | 4:32 | 2022-04-01 | 2022-05-13 |
-| [Si Tu Te Vas](https://open.spotify.com/track/1KALUbjXvefSgNhTYJHZZt) | [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K) | [Si Tu Te Vas](https://open.spotify.com/album/6o64BvtMCuoKXguXZtmQyr) | 3:12 | 2022-07-18 |  |
+| [Si Tu Te Vas](https://open.spotify.com/track/1KALUbjXvefSgNhTYJHZZt) | [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K) | [Si Tu Te Vas](https://open.spotify.com/album/6o64BvtMCuoKXguXZtmQyr) | 3:12 | 2022-07-18 | 2022-08-12 |
+| [Si Tú Te Vas \(feat\. Yung Beef\) \- Remix](https://open.spotify.com/track/5cp1Nx2K3FUWIH6Rzt8u33) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Si Tú Te Vas \(feat\. Yung Beef\) \[Remix\]](https://open.spotify.com/album/06if2TD3XBlZsDAg8OS9ch) | 3:35 | 2022-08-11 |  |
 | [Sin Señal](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Sin Señal](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 | 2022-07-26 |  |
 | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/track/4pj68dTcvGVXgzD7qWAGEd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/album/7eoNzwrC6Hs8kYNSgAQEkE) | 4:33 | 2022-04-04 | 2022-05-27 |
 | [Soñando Despierto](https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [El Amor y Yo](https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf) | 2:56 | 2022-02-10 | 2022-03-04 |

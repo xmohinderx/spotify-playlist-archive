@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 
 > Great chilled house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,459 likes - 171 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,532 likes - 171 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 170 | [sweaty palms](https://open.spotify.com/track/4nRP3DPkiZICuDpYlliATw) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [sweaty palms](https://open.spotify.com/album/00gsJW5JdlirXTyipA6XkX) | 2:40 |
 | 171 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 |
 
-Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMGE0N2MxYjRkYzEwZWQzYWU0OTcyOWRlZDZiZTFlZjdh`
+Snapshot ID: `MTY2MDI2MjQwMCwwMDAwMDAwMDYzNzA1OGJmZDM0YzhmZmRiYzRmNzMxYjRiMWI1MmYw`

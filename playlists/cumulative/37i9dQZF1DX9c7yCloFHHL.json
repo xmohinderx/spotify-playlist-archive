@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The home of today\u2019s cutting edge Ambient, Atmospheric and Neo Classical music. Caterina Barbieri on cover. ",
+  "description": "The home of today\u2019s cutting edge Ambient, Atmospheric and Neo Classical music. Erland Cooper on cover. ",
   "name": "Ambiente",
   "published_playlist_ids": [
     "2VJZyunnZCFnCPLdfBtZ7N"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 456904,
       "name": ". . . on reflection (one)",
       "url": "https://open.spotify.com/track/1UCrxzeXf6umXnGgopWHvS"
@@ -634,6 +634,28 @@
     },
     {
       "album": {
+        "name": "Forever Ago",
+        "url": "https://open.spotify.com/album/06LhQdbiI54iofiFmoOx12"
+      },
+      "artists": [
+        {
+          "name": "Matt Tondut",
+          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
+        },
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184739,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/636VqcDq6zooXkyE9dedgG"
+    },
+    {
+      "album": {
         "name": "Almost Religious",
         "url": "https://open.spotify.com/album/6ySJimFTP97BD6OY6yFuV4"
       },
@@ -739,7 +761,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 256926,
       "name": "Alzheimer's Disease (Floor 1)",
       "url": "https://open.spotify.com/track/644RtTy8O2hT4zpF5BSVTA"
@@ -869,7 +891,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 297223,
       "name": "April (feat. Eric D. Johnson)",
       "url": "https://open.spotify.com/track/7cWyhgjztssF68xFPtfvWk"
@@ -6294,6 +6316,42 @@
     },
     {
       "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309173,
+      "name": "Music For Growing Flowers - Pt. 1",
+      "url": "https://open.spotify.com/track/0u3745sLYXG4RGNd61YRbK"
+    },
+    {
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "Music For Growing Flowers - Pt. 2",
+      "url": "https://open.spotify.com/track/71dSoY9stxFkrx7z9HcOwS"
+    },
+    {
+      "album": {
         "name": "Music For Growing Flowers \u2013 Pt. 5",
         "url": "https://open.spotify.com/album/3KTMP9GcFuVttRKCzWf3T6"
       },
@@ -6309,6 +6367,24 @@
       "duration_ms": 164826,
       "name": "Music For Growing Flowers - Pt. 5",
       "url": "https://open.spotify.com/track/7JDWgXllpyJqPlxGnaY80u"
+    },
+    {
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295306,
+      "name": "Music For Growing Flowers - Pt. 7",
+      "url": "https://open.spotify.com/track/3I2zndi9j1FAt30rA8ZHaz"
     },
     {
       "album": {
@@ -7269,7 +7345,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 672000,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/25z60PTirg7CybEQgRFOWk"
@@ -7407,7 +7483,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 186000,
       "name": "Planta Dance",
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
@@ -7559,6 +7635,24 @@
       "duration_ms": 115914,
       "name": "Precious Past Hours",
       "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
+    },
+    {
+      "album": {
+        "name": "Antarctican Dream Machine",
+        "url": "https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113933,
+      "name": "Preface",
+      "url": "https://open.spotify.com/track/3hu8vy5RPfIMdboW1vfcty"
     },
     {
       "album": {
@@ -9444,6 +9538,28 @@
     },
     {
       "album": {
+        "name": "The Outpost",
+        "url": "https://open.spotify.com/album/7eRUSbfgv7jye5EJgPiK1p"
+      },
+      "artists": [
+        {
+          "name": "Dear Gravity",
+          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
+        },
+        {
+          "name": "Broken Peak",
+          "url": "https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175775,
+      "name": "The Outpost",
+      "url": "https://open.spotify.com/track/1vz9XXnWl84Hy2CWQrlpax"
+    },
+    {
+      "album": {
         "name": "The Place We're Headed",
         "url": "https://open.spotify.com/album/24nhf4gGGP9jlosSkRvapT"
       },
@@ -9699,7 +9815,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 316640,
       "name": "there is always a girl with a secret",
       "url": "https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh"
@@ -10742,6 +10858,24 @@
     },
     {
       "album": {
+        "name": "watching the stars",
+        "url": "https://open.spotify.com/album/3bfpLvhbLmO5tekoSz2rWo"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99146,
+      "name": "watching the stars",
+      "url": "https://open.spotify.com/track/321PCApeQiLLrf03k83cCb"
+    },
+    {
+      "album": {
         "name": "Waves (Oliver Doerell & Helga Raimondi Rework)",
         "url": "https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB"
       },
@@ -11277,7 +11411,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 317941,
       "name": "\u041d\u0435\u0438\u0437\u0431\u0435\u0436\u043d\u043e",
       "url": "https://open.spotify.com/track/1zRpr4YLFJzoN72yrdteqN"

@@ -1,12 +1,12 @@
 {
   "description": "All-new releases by Latin artists! Cover: Nicky Jam",
-  "num_followers": 507365,
+  "num_followers": 507592,
   "original_name": "New Music Friday Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcyNzgyMywwMDAwMDAwMDdhNWY0ZDc3NTExZTRjOGRhN2ZjYTE0OWU0ZmNkZmM3",
+  "snapshot_id": "MTY1OTcyNzgyMywwMDAwMDAwMGJjYzFmNGRkOGI5MjIwOTk0Y2E0YTg1MThlMTcxNjk0",
   "tracks": [
     {
       "added_at": "2022-08-05 19:30:23",
@@ -383,6 +383,26 @@
     {
       "added_at": "2022-08-05 19:30:23",
       "album": {
+        "name": "Nadie La Mantiene",
+        "url": "https://open.spotify.com/album/4VsBy8wJ0Tq1gbdX7gjPPK"
+      },
+      "artists": [
+        {
+          "name": "YoGambii",
+          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Nadie La Mantiene",
+      "url": "https://open.spotify.com/track/3dvMNHL50mtjkr47j9g5Qo"
+    },
+    {
+      "added_at": "2022-08-05 19:30:23",
+      "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/3jwbDkYWtWgZ1RmkHk45Eu"
       },
@@ -539,7 +559,7 @@
     {
       "added_at": "2022-08-05 19:30:23",
       "album": {
-        "name": "Fr\u00edo",
+        "name": "FR\u00cdO",
         "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
       },
       "artists": [

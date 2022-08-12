@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,113 likes - 153 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,311 likes - 153 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 152 | [Desofa](https://open.spotify.com/track/04QMcqbujxNGFHIreoyqU1) | [Raphael Creed](https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK) | [Desofa](https://open.spotify.com/album/5eTWF1Hei352wmaobA7mdc) | 2:42 |
 | 153 | [Deep Breathing](https://open.spotify.com/track/0oXG5zbpP09PiSXMp8cmnp) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Deep Breathing](https://open.spotify.com/album/1kXgBAdzlspc1qzyVo74G4) | 2:59 |
 
-Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMGY0MDRiMDAxNTM0Mzg3NmQ0ZjcwZTEwM2ZlYjI4MmVl`
+Snapshot ID: `MTY2MDI2MjQwMCwwMDAwMDAwMDg3M2Y4NTkwNjdmYzQ3NDkyYTA2NGE5ZTkyZmJkOTNj`

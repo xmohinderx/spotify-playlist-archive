@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 298947,
+  "num_followers": 299102,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGFiYWNiMzQzZmJlNGQzZDU0MmQxYzRjNTA5MDY0YTJi",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGFjOGM0YWY3ODNiZjZmODVkMzk5YTVjMTQ0YzA4NDE2",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -521,6 +521,26 @@
       "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Cat Came Back",
+        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
+      },
+      "artists": [
+        {
+          "name": "Luca Lento",
+          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
+        },
+        {
+          "name": "Bdd",
+          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "The Cat Came Back - Bdd Remix Edit",
+      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
+    },
+    {
       "added_at": "2022-05-13 04:03:00",
       "album": {
         "name": "Boring 20s",
@@ -547,22 +567,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "The Cat Came Back",
-        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
+        "name": "Say What (2019)",
+        "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
       },
       "artists": [
         {
-          "name": "Luca Lento",
-          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
+          "name": "Cut Capers",
+          "url": "https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb"
         },
         {
-          "name": "Bdd",
-          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
         }
       ],
-      "duration_ms": 173296,
-      "name": "The Cat Came Back - Bdd Remix Edit",
-      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
+      "duration_ms": 193809,
+      "name": "Say What - Pisk Electro Swing Remix",
+      "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
     },
     {
       "added_at": "2021-09-10 04:02:00",
@@ -587,28 +607,8 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Say What (2019)",
-        "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
-      },
-      "artists": [
-        {
-          "name": "Cut Capers",
-          "url": "https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb"
-        },
-        {
-          "name": "Pisk",
-          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
-        }
-      ],
-      "duration_ms": 193809,
-      "name": "Say What - Pisk Electro Swing Remix",
-      "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/4HMagicni8MA9ifFgQH2Nj"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
         }
       ],
-      "duration_ms": 195463,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
+      "duration_ms": 192741,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -737,42 +737,6 @@
       "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Sonia Elisheva",
-          "url": "https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/4HMagicni8MA9ifFgQH2Nj"
-      },
-      "artists": [
-        {
-          "name": "Annella",
-          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
-        }
-      ],
-      "duration_ms": 192741,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Back in Time",
@@ -795,18 +759,18 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Mais Non (1920 Version)",
-        "url": "https://open.spotify.com/album/1WnrAf1vekSKVzhUUiixzO"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
       },
       "artists": [
         {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
         }
       ],
-      "duration_ms": 191801,
-      "name": "Mais Non - 1920 Version",
-      "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
+      "duration_ms": 195463,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -823,6 +787,42 @@
       "duration_ms": 187689,
       "name": "Glam - Electro-swing Remix",
       "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Mais Non (1920 Version)",
+        "url": "https://open.spotify.com/album/1WnrAf1vekSKVzhUUiixzO"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 191801,
+      "name": "Mais Non - 1920 Version",
+      "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Sonia Elisheva",
+          "url": "https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -973,26 +973,6 @@
       "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "It Don't Mean A Thing (Electro Swing Mix)",
-        "url": "https://open.spotify.com/album/0BUY69FrFq6yFf933Vp6AL"
-      },
-      "artists": [
-        {
-          "name": "The Hebbe Sisters",
-          "url": "https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 173735,
-      "name": "It Don't Mean A Thing - Electro Swing Mix",
-      "url": "https://open.spotify.com/track/5tNZ1Wj6jXBuTKLeDX5w5S"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "The Electric Swing Circus - Remixed Vol. 1",
@@ -1011,6 +991,26 @@
       "duration_ms": 224588,
       "name": "Mr Magpie - Jamie Berry Remix",
       "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
+    },
+    {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "It Don't Mean A Thing (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/0BUY69FrFq6yFf933Vp6AL"
+      },
+      "artists": [
+        {
+          "name": "The Hebbe Sisters",
+          "url": "https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "duration_ms": 173735,
+      "name": "It Don't Mean A Thing - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/5tNZ1Wj6jXBuTKLeDX5w5S"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Electro Carousel Club Night (Selected by Dr Cat)",
+        "url": "https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm"
+      },
+      "artists": [
+        {
+          "name": "Carola Jasmins",
+          "url": "https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo"
+        }
+      ],
+      "duration_ms": 200559,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
+    },
+    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Ma\u00f1ana (Jojo Effect & Gardener of Delight Remix)",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Re-Charleston (Electro Swing)",
         "url": "https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo"
       },
@@ -1267,18 +1267,38 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Electro Carousel Club Night (Selected by Dr Cat)",
-        "url": "https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm"
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
       },
       "artists": [
         {
-          "name": "Carola Jasmins",
-          "url": "https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo"
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
         }
       ],
-      "duration_ms": 200559,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
+      "duration_ms": 247500,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Never let you go",
+        "url": "https://open.spotify.com/album/6ilFub0J7EMvDS4BHEH5yZ"
+      },
+      "artists": [
+        {
+          "name": "Waldeck",
+          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
+        },
+        {
+          "name": "Patrizia Ferrara",
+          "url": "https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Never let you go",
+      "url": "https://open.spotify.com/track/5IK9dSUSzioE9lilLi4AEi"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1335,26 +1355,6 @@
       "duration_ms": 199963,
       "name": "Taking You with Me",
       "url": "https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Never let you go",
-        "url": "https://open.spotify.com/album/6ilFub0J7EMvDS4BHEH5yZ"
-      },
-      "artists": [
-        {
-          "name": "Waldeck",
-          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
-        },
-        {
-          "name": "Patrizia Ferrara",
-          "url": "https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Never let you go",
-      "url": "https://open.spotify.com/track/5IK9dSUSzioE9lilLi4AEi"
     },
     {
       "added_at": "2020-10-30 09:06:04",

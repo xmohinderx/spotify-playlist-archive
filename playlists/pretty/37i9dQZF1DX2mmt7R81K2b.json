@@ -1,12 +1,12 @@
 {
   "description": "Where jazz meets classical, and classical meets jazz. ",
-  "num_followers": 263824,
+  "num_followers": 263865,
   "original_name": "Jazz Meets Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGM1NjY3ZWU0YmMxYmQxZDRhMTA5YmFkYWY1MzI5ZTFh",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGU3ZjQzNzEwNzIxZDNiMzM4NGU2YWE2YmUyNjc0MjQz",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -243,6 +243,30 @@
       "duration_ms": 277693,
       "name": "Sicilyan Dream (D\u2019apr\u00e8s Siciliano, BWV. 1031 de Johann Sebastian Bach)",
       "url": "https://open.spotify.com/track/22DgAcWnb50oKlv0F8eziW"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Stephan K\u00f6nig: Bach in Jazz",
+        "url": "https://open.spotify.com/album/7AuOlhGRcKflgML8T52oDf"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Stephan-K\u00f6nig-Trio",
+          "url": "https://open.spotify.com/artist/7G0nAtg6I4jO03h1LlihYe"
+        },
+        {
+          "name": "Stephan K\u00f6nig",
+          "url": "https://open.spotify.com/artist/5z670iMlr1eCJCKK1UoyRP"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Orchestersuite D-Dur BWV 1068: No. 3 Air (Arr. Stefan K\u00f6nig)",
+      "url": "https://open.spotify.com/track/5iVIFUBgVvatmKufC2CbVW"
     },
     {
       "added_at": "2022-07-29 04:01:00",

@@ -2,9 +2,9 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: earring\(이명\)\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Zayvo\(제이보\)\)
 
-207 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
+208 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Lifemustgoon](https://open.spotify.com/track/1WMPcQcUGlBpB1fwTVzDfn) | [Os Noma](https://open.spotify.com/artist/2Iq56aPt8aSs2ONhBrDbYt), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Lifemustgoon](https://open.spotify.com/album/2b1RqPGUmDNjC05nWoY0Lv) | 1:59 | 2022-05-27 | 2022-07-05 |
 | [Liquor](https://open.spotify.com/track/4ouWk35JipdUIXfnvqg57U) | [Mesani](https://open.spotify.com/artist/7pua8I58KTTR311ZD8fagJ), [Jaeeun](https://open.spotify.com/artist/1HxM1IZDClrR9OCpaXPMNa), [Laura](https://open.spotify.com/artist/1xwZAAavDMKPqjGiE2tqNu) | [Liquor](https://open.spotify.com/album/0n1DZGOSHvWlTzU6ephAto) | 3:55 | 2022-05-27 | 2022-07-29 |
 | [love machine](https://open.spotify.com/track/1fSJP4kju7ptpwefeW4gbY) | [xiihu](https://open.spotify.com/artist/1VkBOxWu1Zt1mdsd7Ex1u1) | [Synthetic Heart](https://open.spotify.com/album/1uD8IR3fuDcIPWgvA1KS7c) | 3:05 | 2022-05-27 | 2022-07-28 |
-| [LOVE WRESTLE♡ \(feat\. NECTA\)](https://open.spotify.com/track/32cFWxZW9bVja4ffMXqOqg) | [earring](https://open.spotify.com/artist/4cF7iEYb69nJrn5PTTfj9S), [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [LOVE GAZE](https://open.spotify.com/album/5GcwUyyiaQAoX0uXJBVP02) | 2:48 | 2022-07-04 |  |
+| [LOVE WRESTLE♡ \(feat\. NECTA\)](https://open.spotify.com/track/32cFWxZW9bVja4ffMXqOqg) | [earring](https://open.spotify.com/artist/4cF7iEYb69nJrn5PTTfj9S), [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [LOVE GAZE](https://open.spotify.com/album/5GcwUyyiaQAoX0uXJBVP02) | 2:48 | 2022-07-04 | 2022-08-12 |
 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 | 2022-07-08 |  |
 | [Lustre](https://open.spotify.com/track/4XnUCJTdssEkFj1NiIQAp7) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/0zsXyoBNYf3hRMaSu5zdEj) | 3:34 | 2022-05-27 | 2022-07-29 |
 | [M.A.D\(More And Dare\)](https://open.spotify.com/track/7An9I90u0wHgOzqOLSLMuk) | [Twomyung](https://open.spotify.com/artist/6uENO0HTR2Tt1sZzQmPKst), [Trickyneko](https://open.spotify.com/artist/5UNMeC6UjnNmJRkpVZJsHd), [howaho](https://open.spotify.com/artist/4lEQCDab4fOSiY7r0SlOhi) | [M.A.D\(More And Dare\)](https://open.spotify.com/album/4ecOiOI9m7Ey1washio0rv) | 3:36 | 2022-05-27 | 2022-07-27 |
@@ -210,6 +210,7 @@
 | [Youth](https://open.spotify.com/track/0ISIKA8nLm1CQ3scd3ziTy) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Kim Chang Wan](https://open.spotify.com/artist/0Vu5WrZvGftFn4uBeA9mde) | [Youth](https://open.spotify.com/album/7IkwG181Ub4ygt2MqAezgM) | 4:32 | 2022-07-08 |  |
 | [Zizazu](https://open.spotify.com/track/0Fejc35mgnOla2Ptw9Vzry) | [Suji x Yuna](https://open.spotify.com/artist/180ZH9CiYEd7nkh5oA9X2s) | [Zizazu](https://open.spotify.com/album/1wCXK5DQsr52ZxZj4Kasyg) | 4:09 | 2022-05-27 | 2022-07-19 |
 | [그랑죠](https://open.spotify.com/track/4HhguQ9sgBBydl7iVzJhPc) | [SERUM](https://open.spotify.com/artist/3eGpjhDidVKd1snpd8As4A), [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [그랑죠](https://open.spotify.com/album/0ORaaKXUcQmZO0ZKuCrSM2) | 2:55 | 2022-06-29 | 2022-07-29 |
+| [눈을 감고 싶어요](https://open.spotify.com/track/2fjB4nrW8yaDvaDddhO06a) | [Zayvo](https://open.spotify.com/artist/0FmgnSatLqM7wQPSkdTN3g) | [Hope](https://open.spotify.com/album/2R7KBtvoygAaNAbQXmGDQ8) | 2:40 | 2022-08-11 |  |
 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 | 2022-05-27 |  |
 | [어때 넌 요즘](https://open.spotify.com/track/4AjQzjJd9M9C0NDBo0hwYC) | [태라](https://open.spotify.com/artist/3fc8KVKaLMfwfEGxwLmDio) | [어때 넌 요즘](https://open.spotify.com/album/4rLTzWYY9IA6Gk2ct5koEL) | 3:41 | 2022-07-08 | 2022-07-23 |
 | [원룸에선 사랑 할 수 없어요](https://open.spotify.com/track/2gZYmtDMLbNoSsshv67VXh) | [Gamichingoo](https://open.spotify.com/artist/0zSl9skWKuGbcQ69OY8te7) | [구주완 2](https://open.spotify.com/album/18ugxSLo7zG9h0EakD1l8s) | 3:58 | 2022-07-08 | 2022-07-27 |

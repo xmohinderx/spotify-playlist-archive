@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Bklava.",
-  "num_followers": 397838,
+  "num_followers": 397995,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGNhY2Q1ZmE1YWE2NWY5M2ZjYTVlZDYzZTlmNjZhNWM1",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGJhYmMzNjkzYmYzOGVlOTJmMDQ5NmYzNjVkYTU5MTQx",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Feel Your Body",
+        "url": "https://open.spotify.com/album/1hxGoj2oEogn1b8ESBaYl8"
+      },
+      "artists": [
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Feel Your Body",
+      "url": "https://open.spotify.com/track/3cIjfIqsLjCkuO31ycSBxP"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 190400,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Feel Your Body",
-        "url": "https://open.spotify.com/album/1hxGoj2oEogn1b8ESBaYl8"
-      },
-      "artists": [
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Feel Your Body",
-      "url": "https://open.spotify.com/track/3cIjfIqsLjCkuO31ycSBxP"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "GHOST",
-        "url": "https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "LEILAH",
-          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
-        }
-      ],
-      "duration_ms": 163021,
-      "name": "GHOST",
-      "url": "https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Fall To Pieces (feat. Jex)",
         "url": "https://open.spotify.com/album/1RZp0MwiZpYwUaRmhsx5fv"
       },
@@ -803,26 +783,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/3TLcHAHmvrwD310XAwZCy1"
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ"
       },
       "artists": [
         {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
         },
         {
-          "name": "Mark Bale",
-          "url": "https://open.spotify.com/artist/4zrsPs5wddzJnn6vSO2jlx"
-        },
-        {
-          "name": "Heleen",
-          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
         }
       ],
-      "duration_ms": 155273,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/1lXUp9i0d2Ev5ruKMrUrjF"
+      "duration_ms": 163021,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -847,18 +823,42 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "P.R.O.G.",
-        "url": "https://open.spotify.com/album/2pYk1rLEFSKdJLd67mdIAd"
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/3TLcHAHmvrwD310XAwZCy1"
       },
       "artists": [
         {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        },
+        {
+          "name": "Mark Bale",
+          "url": "https://open.spotify.com/artist/4zrsPs5wddzJnn6vSO2jlx"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
         }
       ],
-      "duration_ms": 178125,
-      "name": "P.R.O.G.",
-      "url": "https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j"
+      "duration_ms": 155273,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/1lXUp9i0d2Ev5ruKMrUrjF"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "No Good",
+        "url": "https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 141562,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "No Good",
-        "url": "https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X"
+        "name": "P.R.O.G.",
+        "url": "https://open.spotify.com/album/2pYk1rLEFSKdJLd67mdIAd"
       },
       "artists": [
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
         }
       ],
-      "duration_ms": 141562,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN"
+      "duration_ms": 178125,
+      "name": "P.R.O.G.",
+      "url": "https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "P\u00e1jaros en Verano",
-        "url": "https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "P\u00e1jaros en Verano",
-      "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Raw (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
@@ -1179,6 +1159,26 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "P\u00e1jaros en Verano",
+        "url": "https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "P\u00e1jaros en Verano",
+      "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Back Room",
         "url": "https://open.spotify.com/album/779eU0pmBcfnKgVi8KHYZl"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Your Future Looks Different In The Light",
-        "url": "https://open.spotify.com/album/5JinQowlojrjadrsJP9SeZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 359000,
-      "name": "Your Future Looks Different In The Light",
-      "url": "https://open.spotify.com/track/5uf5vCbAH9YeO2HfJKdlVo"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Sex and the Machine",
         "url": "https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "On Call",
-        "url": "https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX"
+        "name": "Your Future Looks Different In The Light",
+        "url": "https://open.spotify.com/album/5JinQowlojrjadrsJP9SeZ"
       },
       "artists": [
         {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 267750,
-      "name": "On Call",
-      "url": "https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H"
+      "duration_ms": 359000,
+      "name": "Your Future Looks Different In The Light",
+      "url": "https://open.spotify.com/track/5uf5vCbAH9YeO2HfJKdlVo"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 147401,
       "name": "Like This",
       "url": "https://open.spotify.com/track/5A29lmXOMxoUnFsatOI8Vf"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "On Call",
+        "url": "https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        }
+      ],
+      "duration_ms": 267750,
+      "name": "On Call",
+      "url": "https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "So Sweet",
-        "url": "https://open.spotify.com/album/065mf2RbQqEXKlFJ3kc981"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 363456,
-      "name": "So Sweet",
-      "url": "https://open.spotify.com/track/0mgFkAIp3ZGjvInX8pnTm4"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Flutech (feat. Ivan Ooze)",
         "url": "https://open.spotify.com/album/2WllXY8e6ozYMloJcpUJaS"
       },
@@ -1475,6 +1459,46 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "So Sweet",
+        "url": "https://open.spotify.com/album/065mf2RbQqEXKlFJ3kc981"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 363456,
+      "name": "So Sweet",
+      "url": "https://open.spotify.com/track/0mgFkAIp3ZGjvInX8pnTm4"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Loved By U (George FitzGerald Remix)",
+        "url": "https://open.spotify.com/album/3tFrA0bZ5Psy1gFhThCFyv"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "Loved By U (George FitzGerald Remix)",
+      "url": "https://open.spotify.com/track/1fBRJQDvNn7VTe1C0x7lm3"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Car",
         "url": "https://open.spotify.com/album/0eMI9hkq5zEBWJSgWFnN6a"
       },
@@ -1511,46 +1535,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Loved By U (George FitzGerald Remix)",
-        "url": "https://open.spotify.com/album/3tFrA0bZ5Psy1gFhThCFyv"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "Loved By U (George FitzGerald Remix)",
-      "url": "https://open.spotify.com/track/1fBRJQDvNn7VTe1C0x7lm3"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Droids",
-        "url": "https://open.spotify.com/album/0EKt8LXFDttDw5i9PffErv"
-      },
-      "artists": [
-        {
-          "name": "Koreless",
-          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
-        }
-      ],
-      "duration_ms": 236727,
-      "name": "Droids",
-      "url": "https://open.spotify.com/track/0dgA5EUIVNpiHNpVzguClf"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/0hmNprXazlsuIpupWZNfdn"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Droids",
+        "url": "https://open.spotify.com/album/0EKt8LXFDttDw5i9PffErv"
+      },
+      "artists": [
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "duration_ms": 236727,
+      "name": "Droids",
+      "url": "https://open.spotify.com/track/0dgA5EUIVNpiHNpVzguClf"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Los Patrones",
         "url": "https://open.spotify.com/album/5NF9rVY5ebtxfvDHFdRKsT"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "bee's knees",
-        "url": "https://open.spotify.com/album/4mHktgDVXkyWUiY86tEsrX"
-      },
-      "artists": [
-        {
-          "name": "warner case",
-          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
-        }
-      ],
-      "duration_ms": 185683,
-      "name": "bee's knees",
-      "url": "https://open.spotify.com/track/1nWyP7TzpqjEY0gJCs2jHp"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Hip Shakin Mama (Gerd Janson Piano Dub Mix)",
         "url": "https://open.spotify.com/album/0KGJqlbuBur7hekRXRF3TQ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 378236,
       "name": "Hip Shakin Mama - Gerd Janson Piano Dub Mix",
       "url": "https://open.spotify.com/track/3CU1uuYUjBsbA2JwH21lZv"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "bee's knees",
+        "url": "https://open.spotify.com/album/4mHktgDVXkyWUiY86tEsrX"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        }
+      ],
+      "duration_ms": 185683,
+      "name": "bee's knees",
+      "url": "https://open.spotify.com/track/1nWyP7TzpqjEY0gJCs2jHp"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/7gi48HpVdMNRAEOzKvV2Bo"
+      },
+      "artists": [
+        {
+          "name": "Seelo",
+          "url": "https://open.spotify.com/artist/4n68pXVRVB9JemWAyAgRan"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/2EKzesTMl7KXs7FoCOVxSV"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
         "name": "Awoken Mind",
         "url": "https://open.spotify.com/album/0Yz9FRmKhe1yD1eMBNlm13"
       },
@@ -1823,22 +1839,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/7gi48HpVdMNRAEOzKvV2Bo"
-      },
-      "artists": [
-        {
-          "name": "Seelo",
-          "url": "https://open.spotify.com/artist/4n68pXVRVB9JemWAyAgRan"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/2EKzesTMl7KXs7FoCOVxSV"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Lustful Chemicals",
         "url": "https://open.spotify.com/album/3InFf82hTZHEStzp6m1pEg"
       },
@@ -1851,6 +1851,22 @@
       "duration_ms": 407040,
       "name": "Lust For Me",
       "url": "https://open.spotify.com/track/0JeK9skXF9FBT3PseGDQ8t"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Holding on to You",
+        "url": "https://open.spotify.com/album/5FJQTiYHMOL01mewrJk7i4"
+      },
+      "artists": [
+        {
+          "name": "Self Tape",
+          "url": "https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI"
+        }
+      ],
+      "duration_ms": 252409,
+      "name": "Holding on to You",
+      "url": "https://open.spotify.com/track/3NOx5rHwKupINajmxRRnL1"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1883,22 +1899,6 @@
       "duration_ms": 405853,
       "name": "Fragma",
       "url": "https://open.spotify.com/track/10zHoYhCaffNXpnIItuesJ"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Holding on to You",
-        "url": "https://open.spotify.com/album/5FJQTiYHMOL01mewrJk7i4"
-      },
-      "artists": [
-        {
-          "name": "Self Tape",
-          "url": "https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI"
-        }
-      ],
-      "duration_ms": 252409,
-      "name": "Holding on to You",
-      "url": "https://open.spotify.com/track/3NOx5rHwKupINajmxRRnL1"
     },
     {
       "added_at": "2022-08-05 04:01:00",

@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-351 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+353 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 | 2022-05-20 |  |
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2022-05-20 | 2022-07-01 |
 | [Acrylic](https://open.spotify.com/track/5slcOZGvvt488R61ph95IP) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Acrylic](https://open.spotify.com/album/1v8SwfuVFz6qiNfceWzoaD) | 2:25 | 2022-06-24 |  |
+| [Agua Clara](https://open.spotify.com/track/6bnhuU80WPonEPeS5Alskr) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Agua Clara](https://open.spotify.com/album/06J6FivKeqJty8XESLzAVA) | 2:11 | 2022-08-12 |  |
 | [Agua de Coco](https://open.spotify.com/track/4lgsYg7OxR2vwtlZQ55CMK) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Agua de Coco](https://open.spotify.com/album/30QZOYyCdPZIlthnT29gla) | 2:37 | 2022-05-20 |  |
 | [Alter Witz](https://open.spotify.com/track/4FO8ygXmPAxWeU8xX0JiVT) | [Hairklep](https://open.spotify.com/artist/7hIODasG8UClMMJFKxA8IZ) | [Alter Witz](https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU) | 1:26 | 2022-05-20 |  |
 | [And All That Jazz](https://open.spotify.com/track/0FeZHrVcF4dJ664G38Qfb8) | [Sonic Park](https://open.spotify.com/artist/2y2VQ20ZdNjceBkKPaDF6B) | [Change Of Plans](https://open.spotify.com/album/4tMdzi2HQUG1lFtnfcmACK) | 2:38 | 2022-05-20 | 2022-07-01 |
@@ -254,6 +255,7 @@
 | [Rêverie](https://open.spotify.com/track/4aQ9wAM5HnKs3n5DtZQCpi) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Under The Stars](https://open.spotify.com/album/5SO2XvcXuAWClK2HFTc5XQ) | 2:45 | 2022-05-20 |  |
 | [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 | 2022-05-20 |  |
 | [Saturday Bbq](https://open.spotify.com/track/0TisGOx1QUhgqRLRJntfwe) | [Pat Kujala](https://open.spotify.com/artist/4myCjaaRFXSNYDhXsOOfUK) | [Saturday Bbq](https://open.spotify.com/album/5y1TH7dDW1uQrDoc8g5Zl2) | 2:26 | 2022-05-20 |  |
+| [Saudade](https://open.spotify.com/track/39sl6VM6ITxPqSQYIHGrHn) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [Saudade](https://open.spotify.com/album/36DlK3mhCxeNR9JUFEYaa9) | 2:38 | 2022-08-12 |  |
 | [Sault](https://open.spotify.com/track/65q3kfyuiECf7SyL4lL0oO) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 3:14 | 2022-05-20 |  |
 | [Second Moon](https://open.spotify.com/track/6c6O3C07YbA6oSNSmQqkMB) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG) | [Second Moon](https://open.spotify.com/album/30ccm4YshBL3AD1sBxNUWq) | 1:49 | 2022-07-15 |  |
 | [Secret Village](https://open.spotify.com/track/6boOSC8VmhBre8fg6sCnau) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Secret Village of Chill](https://open.spotify.com/album/4xHXC1XtNxxSZCHxT2eoFs) | 1:52 | 2022-05-20 |  |

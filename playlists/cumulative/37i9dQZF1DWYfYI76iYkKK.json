@@ -1172,6 +1172,24 @@
     },
     {
       "album": {
+        "name": "\u60b2\u50b7\u7684\u4e94\u500b\u6b65\u9a5f (Live Session)",
+        "url": "https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u8587",
+          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189190,
+      "name": "\u60b2\u50b7\u7684\u4e94\u500b\u6b65\u9a5f - Live Session",
+      "url": "https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I"
+    },
+    {
+      "album": {
         "name": "\u5982\u679c\u4f60\u4e5f\u611b\u6211\u5c31\u597d\u4e86",
         "url": "https://open.spotify.com/album/5s3lkz5pkdwPir6BwFqFDb"
       },
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 325339,
       "name": "\u611b\u904e\u7684\u4eba",
       "url": "https://open.spotify.com/track/7EIYJLVmsUmmbq40SugYsk"

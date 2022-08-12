@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-235 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+236 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Black Out](https://open.spotify.com/track/7s9GCH2s1koH3AwgQHRwYh) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [Black Out](https://open.spotify.com/album/2pStTbKsMaxqbsRIgPx0r5) | 3:11 | 2021-10-29 | 2022-07-28 |
 | [Bloodstream](https://open.spotify.com/track/7BJvauk2ddcxirw5px8Wfa) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Bloodstream](https://open.spotify.com/album/3uzIdtMI1baix8yp2GeiFQ) | 2:28 | 2021-10-29 | 2022-08-06 |
 | [Bohemian Like You \(feat\. Alle The Dreamer\)](https://open.spotify.com/track/4rqV7Gm5MApwJyHqmEl10o) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Yash](https://open.spotify.com/artist/56nH4qbcwdaa97oOxqMwYZ), [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Bohemian Like You \(feat\. Alle The Dreamer\)](https://open.spotify.com/album/4u1GOd1B9Dtf9rUiSgGoHT) | 3:24 | 2021-10-29 |  |
-| [Boss](https://open.spotify.com/track/6nKWZqp6hL5ROu8A6Z5Uq4) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Boss](https://open.spotify.com/album/0s9f6eCaISZJKe7krX12IS) | 3:04 | 2022-01-28 |  |
+| [Boss](https://open.spotify.com/track/6nKWZqp6hL5ROu8A6Z5Uq4) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Boss](https://open.spotify.com/album/0s9f6eCaISZJKe7krX12IS) | 3:04 | 2022-01-28 | 2022-08-12 |
 | [Breathin'](https://open.spotify.com/track/0zVVyVOnBmyh0giaGKgjFG) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e) | [Breathin'](https://open.spotify.com/album/1uJO6EsybIY0KZXIfmXx3G) | 2:43 | 2022-02-11 | 2022-02-14 |
 | [Bring Et](https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bring Et](https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk) | 2:22 | 2022-01-28 |  |
 | [Can't See](https://open.spotify.com/track/1kYkGEVNpugTZiigbiNK2W) | [NEVERGLOW](https://open.spotify.com/artist/2K7Hlrg5cti0mVKx4l0Rwz) | [Can't See](https://open.spotify.com/album/2BncSMJsjWgHrl6XbgMbjr) | 3:07 | 2022-04-29 | 2022-07-15 |
@@ -148,6 +148,7 @@
 | [My Thing](https://open.spotify.com/track/7w4AVHX30XFZpAqfbTYwcf) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Triple M](https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT) | [My Thing](https://open.spotify.com/album/4tbbX4leGDkZXfDEcIwwvM) | 2:24 | 2022-04-01 | 2022-07-11 |
 | [New Transition](https://open.spotify.com/track/44r1pQrd6IshgUFKGE1YrJ) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [New Transition](https://open.spotify.com/album/5EixwwR5Qh4COnnrfIME3i) | 2:49 | 2022-04-01 | 2022-07-23 |
 | [No Ass](https://open.spotify.com/track/7pmmkWdaBxJwYwmVwQeSYa) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [No Ass](https://open.spotify.com/album/2Bi5R2jfPGIRDBB3mSC82o) | 2:27 | 2021-10-29 | 2022-07-29 |
+| [No Diggity](https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj) | 3:38 | 2022-07-22 |  |
 | [No Diggity](https://open.spotify.com/track/74svMcorgPABViSTZka4yw) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st) | 3:38 | 2022-01-28 | 2022-07-31 |
 | [No Diggity](https://open.spotify.com/track/0msZYAfoPw8Jbhr8Ufxgs3) | [Zhnark](https://open.spotify.com/artist/4TFwiKetUJYXrUyTOMKEww) | [No Diggity](https://open.spotify.com/album/5TbmhZbiBAEM8S0gWYmLJf) | 3:38 | 2022-07-22 | 2022-08-11 |
 | [No Fun](https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 2:10 | 2022-07-22 |  |

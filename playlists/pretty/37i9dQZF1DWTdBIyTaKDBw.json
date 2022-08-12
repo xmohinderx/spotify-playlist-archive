@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 30760,
+  "num_followers": 30803,
   "original_name": "Dalkom Mukbang (\ub2ec\ucf64\uba39\ubc29)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2NDM1MiwwMDAwMDAwMDBlMzc3ODU2ZmY2MzQwZWE0Mzg3OTg4OGJiMWVmZDZj",
+  "snapshot_id": "MTY2MDA2NDM1MiwwMDAwMDAwMGU0YTUzMjJlYjVmYTA0OGVhMzgxMjk5MDM0MmQwNThj",
   "tracks": [
     {
       "added_at": "2022-08-09 16:59:12",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-08-09 16:59:12",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "Best Friend (with SEULGI)",
-      "url": "https://open.spotify.com/track/0F9Xy6OTbkqOv94pklkwKu"
-    },
-    {
-      "added_at": "2022-08-09 16:59:12",
-      "album": {
         "name": "Bambi - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 187306,
       "name": "Privacy",
       "url": "https://open.spotify.com/track/4WxthDZgaQqmj5tIuneDNX"
+    },
+    {
+      "added_at": "2022-08-09 16:59:12",
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "Best Friend (with SEULGI)",
+      "url": "https://open.spotify.com/track/0F9Xy6OTbkqOv94pklkwKu"
     },
     {
       "added_at": "2022-08-09 16:59:12",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-09 16:59:12",
       "album": {
-        "name": "BETTER - The 10th Album",
-        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 238093,
-      "name": "All That Jazz",
-      "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
-    },
-    {
-      "added_at": "2022-08-09 16:59:12",
-      "album": {
         "name": "Salt Rain (Prod. By Alfie Hole)",
         "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 217774,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
+    },
+    {
+      "added_at": "2022-08-09 16:59:12",
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 238093,
+      "name": "All That Jazz",
+      "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
     },
     {
       "added_at": "2022-08-09 16:59:12",
@@ -1036,7 +1036,7 @@
       },
       "artists": [
         {
-          "name": "Dyhe",
+          "name": "DYHE",
           "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
         }
       ],

@@ -438,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/1NLXWJAvPEi3Lz1AJ61EXO"
+      },
+      "artists": [
+        {
+          "name": "Sippy Gill",
+          "url": "https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138824,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/0GgN5LyCwRG3jlUIk19IOs"
+    },
+    {
+      "album": {
         "name": "Beach Side",
         "url": "https://open.spotify.com/album/6Bcs0rdNppNnlt30wuS1wE"
       },
@@ -8597,6 +8615,24 @@
       "duration_ms": 199029,
       "name": "The Punjaabban Song (From \"Jugjugg Jeeyo\")",
       "url": "https://open.spotify.com/track/1XSSm7oKOzNE8oUapjIRWV"
+    },
+    {
+      "album": {
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/1NLXWJAvPEi3Lz1AJ61EXO"
+      },
+      "artists": [
+        {
+          "name": "Sippy Gill",
+          "url": "https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Till Last Breath",
+      "url": "https://open.spotify.com/track/4xzF2qSbPeecqx9spSqNsA"
     },
     {
       "album": {

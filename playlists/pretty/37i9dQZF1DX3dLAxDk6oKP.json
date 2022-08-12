@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona! ",
-  "num_followers": 185061,
+  "num_followers": 185466,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3OTExNSwwMDAwMDAwMGU5YjVjNmJiNzEzZDAyMTAyYTI1NDJhMjExNzZhODU2",
+  "snapshot_id": "MTY1OTA3OTExNSwwMDAwMDAwMDhjYmZhOTAxM2JlMGJkYzlmYTgzOGI5MDBiN2QxNTk0",
   "tracks": [
     {
       "added_at": "2022-07-29 07:18:35",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Soy El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 222669,
-      "name": "Soy El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 174272,
       "name": "El Fat Tony",
       "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
+        "name": "Soy El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 222669,
+      "name": "Soy El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Buena Vibra",
-        "url": "https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1"
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
       "artists": [
         {
-          "name": "Jose Villarreal",
-          "url": "https://open.spotify.com/artist/02qtde8veYObRnk68N35sP"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 193874,
-      "name": "Buena Vibra",
-      "url": "https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy"
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+        "name": "Buena Vibra",
+        "url": "https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Jose Villarreal",
+          "url": "https://open.spotify.com/artist/02qtde8veYObRnk68N35sP"
         }
       ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
+      "duration_ms": 193874,
+      "name": "Buena Vibra",
+      "url": "https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Desde Abajo",
-        "url": "https://open.spotify.com/album/0zZqoFO424Fz2mTBqSGNQe"
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
       "artists": [
         {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Jesus Ojeda",
-          "url": "https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr"
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 218327,
-      "name": "Desde Abajo",
-      "url": "https://open.spotify.com/track/73zqylPsXYARg3tesE0Kfm"
+      "duration_ms": 185045,
+      "name": "18 Libras",
+      "url": "https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+        "name": "Desde Abajo",
+        "url": "https://open.spotify.com/album/0zZqoFO424Fz2mTBqSGNQe"
       },
       "artists": [
         {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Jesus Ojeda",
+          "url": "https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr"
         }
       ],
-      "duration_ms": 185045,
-      "name": "18 Libras",
-      "url": "https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe"
+      "duration_ms": 218327,
+      "name": "Desde Abajo",
+      "url": "https://open.spotify.com/track/73zqylPsXYARg3tesE0Kfm"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
+        "name": "Moreno 80 (feat. Herencia de Patrones)",
+        "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Moreno 80",
+      "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
         "name": "Pa Que Vayan y Digan",
         "url": "https://open.spotify.com/album/3mLFnv3XBh9olLHaCU9SIN"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 203800,
       "name": "El D\u00eda De Los Muertos",
       "url": "https://open.spotify.com/track/4u0XPm834TLSPBKbl9rWP3"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
-        "name": "Moreno 80 (feat. Herencia de Patrones)",
-        "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Moreno 80",
-      "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Vida Rencorosa",
-        "url": "https://open.spotify.com/album/4gNmyfqYP4Fy72OYAnbM6D"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Vida Rencorosa",
-      "url": "https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
         "name": "Corazon Tumbado",
         "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 197585,
       "name": "No Soy Lo Que Piensas",
       "url": "https://open.spotify.com/track/6YviOFfwGAS5ZFLaWiVXNo"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
+        "name": "Vida Rencorosa",
+        "url": "https://open.spotify.com/album/4gNmyfqYP4Fy72OYAnbM6D"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Vida Rencorosa",
+      "url": "https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
+        "name": "Pa Los Que Hoy",
+        "url": "https://open.spotify.com/album/36xEtIBvLwYCUrtHsw9rbU"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 218831,
+      "name": "Pa Los Que Hoy",
+      "url": "https://open.spotify.com/track/34zDAp4dTbCIt59a3Q4QBt"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
         "name": "El Muchacho Criticado",
         "url": "https://open.spotify.com/album/0kQG1vhXQXehzRil28L26b"
       },
@@ -1879,26 +1899,6 @@
       "duration_ms": 196318,
       "name": "El Muchacho Criticado",
       "url": "https://open.spotify.com/track/1Sy1tRL4ZahrECTitUFPXJ"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
-        "name": "Pa Los Que Hoy",
-        "url": "https://open.spotify.com/album/36xEtIBvLwYCUrtHsw9rbU"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 218831,
-      "name": "Pa Los Que Hoy",
-      "url": "https://open.spotify.com/track/34zDAp4dTbCIt59a3Q4QBt"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "En Vivo Con La Alta VOL.2",
-        "url": "https://open.spotify.com/album/42wxMygIEqqhM9cW5k7r96"
-      },
-      "artists": [
-        {
-          "name": "Alta Autoridad",
-          "url": "https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB"
-        }
-      ],
-      "duration_ms": 204815,
-      "name": "La MB",
-      "url": "https://open.spotify.com/track/20d12mRDXWEmP34H66JMbL"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
         "name": "Desde Morro",
         "url": "https://open.spotify.com/album/0rYYFBxcXHqlz0Xqk8V3ux"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 146387,
       "name": "Desde Morro",
       "url": "https://open.spotify.com/track/2bWpJItGLLM9cj8dvU2a0U"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
+        "name": "En Vivo Con La Alta VOL.2",
+        "url": "https://open.spotify.com/album/42wxMygIEqqhM9cW5k7r96"
+      },
+      "artists": [
+        {
+          "name": "Alta Autoridad",
+          "url": "https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB"
+        }
+      ],
+      "duration_ms": 204815,
+      "name": "La MB",
+      "url": "https://open.spotify.com/track/20d12mRDXWEmP34H66JMbL"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 127253,
+      "name": "Arsenal Efectivo",
+      "url": "https://open.spotify.com/track/48lGvpvrgmH0MHv07J9EUp"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
         "name": "Sigan En Lo Suyo",
         "url": "https://open.spotify.com/album/6gGOMx5ybe6nZyvTDWf1Ho"
       },
@@ -2111,22 +2127,6 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Vida Peligrosa",
-        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 127253,
-      "name": "Arsenal Efectivo",
-      "url": "https://open.spotify.com/track/48lGvpvrgmH0MHv07J9EUp"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
         "name": "Fue Mi Culpa",
         "url": "https://open.spotify.com/album/4ixj7UNFpQvZ4J0vRNlrI7"
       },
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Que Te Valga Verga",
-        "url": "https://open.spotify.com/album/7DAmH01Zs3AGPJugrq7MFH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Nuevo Equipo",
-          "url": "https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl"
-        }
-      ],
-      "duration_ms": 126685,
-      "name": "Que Te Valga Verga",
-      "url": "https://open.spotify.com/track/2TIRRX9lDuhujt0ojcZ8Y6"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
         "name": "Malandro Enamorado",
         "url": "https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 247198,
       "name": "Ahogandome",
       "url": "https://open.spotify.com/track/6k3n0JrUxNX2D5xh2EY1e3"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
+        "name": "Que Te Valga Verga",
+        "url": "https://open.spotify.com/album/7DAmH01Zs3AGPJugrq7MFH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nuevo Equipo",
+          "url": "https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl"
+        }
+      ],
+      "duration_ms": 126685,
+      "name": "Que Te Valga Verga",
+      "url": "https://open.spotify.com/track/2TIRRX9lDuhujt0ojcZ8Y6"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Vengo De La Tia",
-        "url": "https://open.spotify.com/album/6lvUaSYHo9i6jGfH5DiZ3Y"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        }
-      ],
-      "duration_ms": 188117,
-      "name": "Vengo De La Tia",
-      "url": "https://open.spotify.com/track/0BUWUqaqyopQd6Rj79xNdc"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
         "name": "It's Really True",
         "url": "https://open.spotify.com/album/36SluETnbHuUPXu8ef6Dpc"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 132548,
       "name": "Ya Les Contaron",
       "url": "https://open.spotify.com/track/6gSc7krJhPkUMvb7FKD7lP"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
+        "name": "Vengo De La Tia",
+        "url": "https://open.spotify.com/album/6lvUaSYHo9i6jGfH5DiZ3Y"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        }
+      ],
+      "duration_ms": 188117,
+      "name": "Vengo De La Tia",
+      "url": "https://open.spotify.com/track/0BUWUqaqyopQd6Rj79xNdc"
     }
   ],
   "unique_name": "La Mamalona",

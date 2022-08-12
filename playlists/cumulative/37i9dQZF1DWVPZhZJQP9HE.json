@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 191650,
       "name": "Adi Penne - Dad's Love",
       "url": "https://open.spotify.com/track/6OcnzwOfKQc0ZWJoMuFQam"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 240333,
       "name": "Asku Maaro",
       "url": "https://open.spotify.com/track/4gmZ9uup1Jl1AyzLGHdgDQ"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 279500,
       "name": "Enjoy Enjaami",
       "url": "https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 226142,
       "name": "God Damn Money",
       "url": "https://open.spotify.com/track/7pTrmAGQTNJjigU122skdm"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 246340,
       "name": "Gumbala Suthuvom",
       "url": "https://open.spotify.com/track/6X7jmbWjNkgvIrNtrlOwsY"
@@ -650,6 +650,24 @@
     },
     {
       "album": {
+        "name": "Hey Aara",
+        "url": "https://open.spotify.com/album/2FPmpo1FVMXpnjOg5PkGMr"
+      },
+      "artists": [
+        {
+          "name": "Sudharshan Senthilkumar",
+          "url": "https://open.spotify.com/artist/12FIsAEo2PTfy3o0fmsoyp"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220205,
+      "name": "Hey Aara",
+      "url": "https://open.spotify.com/track/0uSXccObNoMAHDaSjAi5dG"
+    },
+    {
+      "album": {
         "name": "Hey Girl",
         "url": "https://open.spotify.com/album/538f51h9Q9qDirlYzx7xkI"
       },
@@ -687,7 +705,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 231924,
       "name": "Hey Singari",
       "url": "https://open.spotify.com/track/5gwIXB335XKUb6tMlGepQv"
@@ -819,6 +837,32 @@
       "duration_ms": 504903,
       "name": "Jenmam Niraindhathu - Naatpadu Theral - 2",
       "url": "https://open.spotify.com/track/0YuLriSsTsu2SGzXw6mubg"
+    },
+    {
+      "album": {
+        "name": "Jokers",
+        "url": "https://open.spotify.com/album/4VPJ7W8FJTOkPmF7Z3bYTY"
+      },
+      "artists": [
+        {
+          "name": "Akira Da Rapwolf",
+          "url": "https://open.spotify.com/artist/4xQxr2dCxTIZRWNTxF3Km4"
+        },
+        {
+          "name": "Nigavithran",
+          "url": "https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf"
+        },
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/7BUpwacmZORknFyanmyq7Y"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Jokers",
+      "url": "https://open.spotify.com/track/6Kr5jY8gYGn2XpfvEjEPus"
     },
     {
       "album": {
@@ -1115,7 +1159,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 205560,
       "name": "Kangal Oya",
       "url": "https://open.spotify.com/track/6JjgvEIXbhanl8havLZD8g"
@@ -1163,6 +1207,24 @@
       "duration_ms": 251333,
       "name": "Kannadi Kannamma",
       "url": "https://open.spotify.com/track/4r7zOAAzRiL2keKpduBhmJ"
+    },
+    {
+      "album": {
+        "name": "Kannadi Valayal",
+        "url": "https://open.spotify.com/album/0y9CDFhebnfOj6HP0A3R9s"
+      },
+      "artists": [
+        {
+          "name": "Gana Docomo Mani",
+          "url": "https://open.spotify.com/artist/2MKDy9Gb6IP7bEyTjXLWj2"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255464,
+      "name": "Kannadi Valayal",
+      "url": "https://open.spotify.com/track/0gDy4cpCWmx0FLKxFqL3zS"
     },
     {
       "album": {
@@ -1381,7 +1443,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 174000,
       "name": "Maaran Ambu",
       "url": "https://open.spotify.com/track/2A5JPLInzNA6jr8ITGzWlN"
@@ -1425,6 +1487,24 @@
       "duration_ms": 244847,
       "name": "Maayam Seithaai Poovae - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/2QLaEmLzz4tfHtdxmMHbqX"
+    },
+    {
+      "album": {
+        "name": "Manadhin Oru Paadhi",
+        "url": "https://open.spotify.com/album/3UadsOOLsAcCKDMQkUcejb"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Manadhin Oru Paadhi",
+      "url": "https://open.spotify.com/track/6hSH5IxsxMEJXCI7TrBx1g"
     },
     {
       "album": {
@@ -1641,7 +1721,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 142464,
       "name": "Naakula Mookula",
       "url": "https://open.spotify.com/track/4OI0PCYI1lj9RiPWw6vIrY"
@@ -1703,7 +1783,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 185520,
       "name": "Naanum Rowdy Dhan",
       "url": "https://open.spotify.com/track/4mW6qUbgy5gZOOWgsOMrHf"
@@ -1781,7 +1861,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 258045,
       "name": "Nanba Nanba Nanba",
       "url": "https://open.spotify.com/track/7jiSqJNWijMZsqv4V12SwD"
@@ -1847,7 +1927,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 237843,
       "name": "Neeye Oli",
       "url": "https://open.spotify.com/track/4TZb8HB5VEIRphX4CV7qXj"
@@ -1957,6 +2037,24 @@
       "duration_ms": 160043,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/5tqMsLGykkIIkTX4We9zJO"
+    },
+    {
+      "album": {
+        "name": "Ok Kanmani",
+        "url": "https://open.spotify.com/album/7hPZ3wh5SLRbrZdBpXgctu"
+      },
+      "artists": [
+        {
+          "name": "Sudharshan Senthilkumar",
+          "url": "https://open.spotify.com/artist/12FIsAEo2PTfy3o0fmsoyp"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265228,
+      "name": "Ok Kanmani",
+      "url": "https://open.spotify.com/track/37l0opOPNNFZHQpb1ZW8XX"
     },
     {
       "album": {
@@ -2193,7 +2291,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 190200,
       "name": "Paramapadham - Acoustic",
       "url": "https://open.spotify.com/track/1hAurGoXZU6IwrkLDiXAjW"
@@ -2343,7 +2441,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 232042,
       "name": "Pidivathakaari",
       "url": "https://open.spotify.com/track/70Xe7AwTM7j7w1JVoZqYR8"
@@ -2427,7 +2525,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 250622,
       "name": "Poonja Kannazhagi",
       "url": "https://open.spotify.com/track/74y0lQHkzOnpvDQsuJAh3a"
@@ -2453,7 +2551,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 220173,
       "name": "Rendu Bottle Vodka - From \"Cosmo Kadhal\"",
       "url": "https://open.spotify.com/track/54cWlnscttOqFY0tsNLNLW"
@@ -2765,7 +2863,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 206000,
       "name": "thamizhachi.",
       "url": "https://open.spotify.com/track/3IeeDRRDhcTCNIrbF5Xo0i"
@@ -2893,7 +2991,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 186218,
       "name": "Thelivu",
       "url": "https://open.spotify.com/track/5Sk756XS6iB7qdIeHp7Uzh"
@@ -2919,6 +3017,32 @@
       "duration_ms": 204998,
       "name": "Thikki Thikki (feat. Sam Vishal)",
       "url": "https://open.spotify.com/track/132C9FKUMjowhus183wY21"
+    },
+    {
+      "album": {
+        "name": "Thunnindhu Sel",
+        "url": "https://open.spotify.com/album/0lvptAqJBvMhYCtSqJMlXG"
+      },
+      "artists": [
+        {
+          "name": "Ragu Branavan",
+          "url": "https://open.spotify.com/artist/6m1vrQWvtpNlq3pJBvkAiF"
+        },
+        {
+          "name": "Veena AE",
+          "url": "https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK"
+        },
+        {
+          "name": "Vishagar Arunan",
+          "url": "https://open.spotify.com/artist/2YF2ZSkdHzaDVmA3rJRr5e"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196467,
+      "name": "Thunnindhu Sel",
+      "url": "https://open.spotify.com/track/0x0Zys8tyGTaaAiDleN8WW"
     },
     {
       "album": {
@@ -2971,7 +3095,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 190736,
       "name": "Touch Screen Kadhal",
       "url": "https://open.spotify.com/track/4AU6KiMcQu8tdkqNXYWgMW"
@@ -3117,7 +3241,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 114720,
       "name": "Usharana Pullingo",
       "url": "https://open.spotify.com/track/3C3J9YUc4sVqfYm0UrO0GG"
@@ -3139,7 +3263,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 269250,
       "name": "Uyirthuli - Anthem on Breastfeeding Awareness",
       "url": "https://open.spotify.com/track/5tmf8OpFN5yGqJC93vha4j"
@@ -3233,7 +3357,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 196181,
       "name": "Vaadi En Chellakutty",
       "url": "https://open.spotify.com/track/4kn6th3uhNQtDxOrizmGuc"

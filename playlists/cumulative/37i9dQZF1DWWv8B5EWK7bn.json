@@ -1390,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/42NIAoehQ6eU03hGM4oTLN"
+      },
+      "artists": [
+        {
+          "name": "Zouj",
+          "url": "https://open.spotify.com/artist/2YsUJXkWJgXeuma5IB9lmo"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192565,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/55IuMUUnz2pohyH3fmLRwn"
+    },
+    {
+      "album": {
         "name": "Mouth",
         "url": "https://open.spotify.com/album/6pgLIoWlqTwulgAFoZhjve"
       },
@@ -2263,7 +2281,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 316640,
       "name": "there is always a girl with a secret",
       "url": "https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh"

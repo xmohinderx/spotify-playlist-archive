@@ -4,7 +4,7 @@
 
 > Find your flow with these instrumental trap and lofi beats.
 
-215 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+218 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,13 @@
 | [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 2:26 | 2022-05-26 |  |
 | [Ascend](https://open.spotify.com/track/0Gybm8PWOmYTQG4Bjqxh0f) | [DayoffSounds](https://open.spotify.com/artist/50Dn3JAzqpZVKtcykEz8NE) | [Instrumental Gems, Vol\. 1](https://open.spotify.com/album/0dvyfEiOU5Wks9vPjEQhfb) | 2:33 | 2022-04-08 | 2022-05-27 |
 | [Astro Beat](https://open.spotify.com/track/4U6d6txn9S3BV6MrFefQuI) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Astro Beat](https://open.spotify.com/album/2NY3CbNis1x7g34As1kKqc) | 3:41 | 2022-04-08 | 2022-05-27 |
+| [Astronot](https://open.spotify.com/track/79h3kQkXPWkSuY5RMhNvZd) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Astronot / Kulture](https://open.spotify.com/album/2suwTDpozA41xaxrpqFuly) | 2:56 | 2022-08-12 |  |
 | [Ataraxis](https://open.spotify.com/track/0CWViXbXU67Xto3hbeHcPI) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ascension](https://open.spotify.com/album/0G43axY2mZJzvnM7gHI0yq) | 3:16 | 2022-04-08 | 2022-05-27 |
 | [awareness](https://open.spotify.com/track/4fkuzFLzXSzslhrHWSGGhI) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [awareness](https://open.spotify.com/album/0YErBks7Y3JioAcB3RHZDd) | 2:12 | 2022-04-08 | 2022-05-27 |
 | [Back in Time](https://open.spotify.com/track/06ebw65TXHJKCCyLtTFRS5) | [Synth Experiment](https://open.spotify.com/artist/30VM2eiFpTUVf4SofL3veT) | [To the Sun](https://open.spotify.com/album/4wiuIwkqHzSpZas5ySVu7w) | 2:53 | 2022-04-08 | 2022-05-27 |
 | [Back the Line](https://open.spotify.com/track/6VmLAZAbbDoqPAm8OHFbPs) | [IZY REALLY](https://open.spotify.com/artist/2QpnXxnib6tVD5Vy4Hlvar) | [Power](https://open.spotify.com/album/0ygj6ZCtEMvOHL2835FW3k) | 2:54 | 2022-07-08 |  |
 | [Base de Rap Boombap](https://open.spotify.com/track/39une7hhwJWCPMgQ1CwMRa) | [AesUno](https://open.spotify.com/artist/6XhXfXQZNqlcxxo4VN5ZyV), [Reli Beats](https://open.spotify.com/artist/533xFrFfSzMUl4IvUT7YH5) | [Base de Rap Boombap](https://open.spotify.com/album/3tgWYDhnQloU9SpBaSBG9v) | 2:29 | 2022-06-24 |  |
+| [Bay Area](https://open.spotify.com/track/6v7quBa8h01DoX1doPfznH) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Bay Area](https://open.spotify.com/album/4WboSIs9ckTP0CgjwcCfGh) | 1:57 | 2022-08-12 |  |
 | [Better Together](https://open.spotify.com/track/3ZO2JrKZIxtk8DZN8YVLHP) | [North Polo](https://open.spotify.com/artist/1HCLXZk93Ezf3V9ZwubETv) | [Better Together](https://open.spotify.com/album/0pI1ZdcRCAz99blamoXobq) | 2:29 | 2022-04-08 | 2022-05-27 |
 | [Blood River](https://open.spotify.com/track/1GtUYgTlwDmMqDIKt7xIcT) | [Sylo Rader](https://open.spotify.com/artist/6x0PT9I77BHEDWT6xxlaRS) | [Blood River](https://open.spotify.com/album/34CmNdHetMdz9mCktAGyQo) | 2:59 | 2022-07-29 |  |
 | [Boarding](https://open.spotify.com/track/1tZR5quUNfqPsaBcO3ba9Y) | [Vanzeroy](https://open.spotify.com/artist/1vY5PJoeKYe3EGaq7xAcbv) | [Boarding](https://open.spotify.com/album/0S2AT8Pt2QfrMO6ZsdYq0k) | 2:08 | 2022-04-08 | 2022-05-27 |
@@ -165,6 +167,7 @@
 | [Rushing](https://open.spotify.com/track/1pdKU0AICafQKlNqbPG5KO) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Baies](https://open.spotify.com/album/7MWBmKFXfFEPTGnPHMNOP8) | 2:36 | 2022-04-08 | 2022-05-27 |
 | [Safari of the Mind](https://open.spotify.com/track/4KSfADgE00WidnWhCZm6WI) | [Zebra Daydream](https://open.spotify.com/artist/60cKOZGjA809YVwoBnrp41) | [Safari of the Mind](https://open.spotify.com/album/3MiLjpdp7Xam7nisn6JlDB) | 2:06 | 2022-04-08 |  |
 | [Saturn](https://open.spotify.com/track/36x1ZTVotGKal7CrouiqBl) | [Pink Oak](https://open.spotify.com/artist/18P0Pm5wkx4lfHBG0UnUrO) | [Origi](https://open.spotify.com/album/3z8uJOtd7lN9lQFH5R6TZ8) | 3:55 | 2022-05-26 |  |
+| [Serenade](https://open.spotify.com/track/4UKonMC9CO2XbvgNhnbPL7) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6) | [Sleepless Night](https://open.spotify.com/album/4RbUBdVqWlbRDXs5D8rBFd) | 2:07 | 2022-08-12 |  |
 | [Serum](https://open.spotify.com/track/3T7QlyJOTh1VqqgGWH5T7Q) | [Moofushi](https://open.spotify.com/artist/040nbVsOxXbFZt3vlgzcNb) | [Serum](https://open.spotify.com/album/6QE03sUqVgNIQHNPFA5V9Q) | 2:27 | 2022-04-08 | 2022-05-27 |
 | [Shipping Delay](https://open.spotify.com/track/5rmM3XcXEHcPQ3Xl0NjnJq) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Club Fantastic](https://open.spotify.com/album/79FoCOHKpYLTps1AAqiLCV) | 2:17 | 2022-04-08 |  |
 | [Showtime](https://open.spotify.com/track/14pC7BwY6F1i2T9oA4TFjI) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Starpower](https://open.spotify.com/album/2Pnt9baDF2LhYGqXAmrvaH) | 2:21 | 2022-05-26 |  |

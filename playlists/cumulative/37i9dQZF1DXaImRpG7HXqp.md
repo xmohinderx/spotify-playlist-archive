@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-302 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+306 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Dayspring Dew](https://open.spotify.com/track/2B5MVIV4kzaS4ehtL1UWFB) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Dayspring Dew](https://open.spotify.com/album/6ZJOzTo1OgudWntdAVZLTN) | 2:54 | 2021-12-08 | 2022-06-10 |
 | [De Tu Mano](https://open.spotify.com/track/0dDo9FPktLTFMxQ5h1JdIP) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [De Tu Mano](https://open.spotify.com/album/4zNO2HO1luGa0Goo6TxQuf) | 2:41 | 2021-12-08 | 2022-07-01 |
 | [Del Ardos](https://open.spotify.com/track/74NuJEyZ5dvqJPdn3qyKOq) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [Del Ardos](https://open.spotify.com/album/1oDtj613b1e1mdZEYstanH) | 2:09 | 2022-07-15 |  |
+| [Delft](https://open.spotify.com/track/0Wrotq5gGyWP5hgYZcrnF3) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Shining Path](https://open.spotify.com/album/5gDgTrpRIVwJpRJHFo7O8u) | 2:29 | 2022-08-12 |  |
 | [der Elch](https://open.spotify.com/track/4O13E1iUnn7rHagANfr69q) | [Diane Edison](https://open.spotify.com/artist/1zBXAlRbmBsKxR6q9Xwph9) | [colored ocean](https://open.spotify.com/album/698szoxtS7pr3ur5Km4CaX) | 3:25 | 2021-12-08 |  |
 | [Die einsame Zypresse](https://open.spotify.com/track/56Bwb6U1AQVx56ml7I6ue1) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Die einsame Zypresse](https://open.spotify.com/album/3zwwYsKtZJHmwEUnolz0s0) | 3:23 | 2021-12-08 | 2022-06-10 |
 | [Die ersten Zugvögel](https://open.spotify.com/track/1HhYvBOIh1fWWI4fkguP8d) | [Carsten Meyer](https://open.spotify.com/artist/6je5sFIVVOMLNUeTVnx3v6) | [Zweiter Frühling](https://open.spotify.com/album/5wmlwdZTpNEFTheAEhl0nU) | 2:48 | 2021-12-08 | 2022-06-10 |
@@ -237,6 +238,7 @@
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2021-12-08 | 2022-07-08 |
 | [Shifrin](https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 3:13 | 2021-12-08 | 2022-04-06 |
 | [Shift Of Focus](https://open.spotify.com/track/7MYziA9LrwwtlYlRGqTOTE) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Shift Of Focus](https://open.spotify.com/album/2atrHCFeptmvfEK8Q8qVBh) | 2:33 | 2021-12-08 |  |
+| [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-12 |  |
 | [Sleepover](https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Sleepover](https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1) | 1:38 | 2022-07-01 |  |
 | [Sombras Brillantes](https://open.spotify.com/track/3NR3svuOAd8gH6ZdJWLJhb) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ferreyra](https://open.spotify.com/album/6FHQVK0oq7y3Am6U0sYP7U) | 2:17 | 2021-12-08 |  |
 | [Something Beautiful](https://open.spotify.com/track/0ml29qYCXVp4FhVcZrkbl2) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Something Beautiful](https://open.spotify.com/album/1hom2yJ8gLUvbvSoIWEL1S) | 2:55 | 2021-12-08 | 2022-07-01 |
@@ -246,6 +248,7 @@
 | [Sonnen Diamant](https://open.spotify.com/track/5QSUroBMs5XaGfNqzObDEs) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Sonnen Diamant](https://open.spotify.com/album/62sKHUtfxZbVkZPe1TKqbT) | 2:34 | 2021-12-08 | 2022-07-22 |
 | [sonnenkerze](https://open.spotify.com/track/7kwwhAnyPuAFnMccLJwfB8) | [Alexander Mane](https://open.spotify.com/artist/5N2ZZuM02DNnOCXt94LFmu) | [moon tides](https://open.spotify.com/album/6oBU6aev2mlzkB6vkGcJfH) | 3:24 | 2021-12-08 |  |
 | [Sorrowful Disappearance](https://open.spotify.com/track/73N0xkf8N6FJQXBb6o6V0l) | [Sara Gadshill](https://open.spotify.com/artist/22RQ7nqf0fvL5ThmEP0cyD) | [Sorrowful Disappearance](https://open.spotify.com/album/5FWpJFZunTh3KsWAXwK5L8) | 2:29 | 2021-12-08 |  |
+| [SOS](https://open.spotify.com/track/4Bbp5cIa0seUWq4at7xblM) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [SOS](https://open.spotify.com/album/4W1mcPXdm2gLWJU2SChCcs) | 3:40 | 2022-08-12 |  |
 | [South](https://open.spotify.com/track/6Gv5nMj7F4bBMz6nR1QHYq) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [North](https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF) | 2:34 | 2022-04-05 |  |
 | [Sphinx](https://open.spotify.com/track/740LzA4Z4ArwYZGSU61X6S) | [Benito Novelli](https://open.spotify.com/artist/3V3Cv0iaImcAuGxsaESGyC) | [La Massana](https://open.spotify.com/album/5sFOpgxafc8hRzyzADz0q3) | 2:40 | 2021-12-08 |  |
 | [Spirited Away](https://open.spotify.com/track/4lE04Ccceo6nUADycSJZ4y) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Spirited Away](https://open.spotify.com/album/0IeQHK1faB5zkb1NbmCa3c) | 2:03 | 2021-12-08 | 2022-07-08 |
@@ -259,6 +262,7 @@
 | [Summer Nights](https://open.spotify.com/track/1mh5h5oMEhnYdv5kZPF7yS) | [Olivia Simons](https://open.spotify.com/artist/1cl0u4oWyjqmcGDpqDnMns) | [Summer Nights](https://open.spotify.com/album/1nZAeaNI9CR4D81bxSH7f5) | 3:15 | 2021-12-08 | 2022-08-05 |
 | [Sun over the rolling hills](https://open.spotify.com/track/1isTWddGjMgVoDrxsWUBIO) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 2:38 | 2021-12-08 | 2022-07-08 |
 | [Sunweb](https://open.spotify.com/track/66BHo1Nt0G7gGXBkVU25Z5) | [Valencia de Rojas](https://open.spotify.com/artist/3cVBLaz97HsIX9pYhm65NM) | [Sunweb](https://open.spotify.com/album/7MFPACYpEQ4JNzmzqWxds0) | 3:00 | 2021-12-08 |  |
+| [Super Trouper](https://open.spotify.com/track/4rzjaiJ7GXegXPyi6XKiSJ) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [Super Trouper](https://open.spotify.com/album/2jv28w0cx2bpaq9PFJibtG) | 4:03 | 2022-08-12 |  |
 | [Sweet Harbour](https://open.spotify.com/track/4Vn3gAiJNQdmlwW2OuXJCZ) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Sweet Harbour](https://open.spotify.com/album/2NC58fQcM4Pyf4DBLJdRW0) | 3:18 | 2021-12-08 |  |
 | [Symphony Road](https://open.spotify.com/track/6wD2btYlsmIi4VrHmsc5kY) | [Ruth Reynolds](https://open.spotify.com/artist/3PYUx4NhsZEBdLIk09FwRI) | [Symphony Road](https://open.spotify.com/album/1bQftBYXBT9z33Mwa4w8yG) | 2:27 | 2021-12-08 |  |
 | [Taar](https://open.spotify.com/track/0ojTn1yMJrTm7Kz8IlqtUn) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Chitarra](https://open.spotify.com/album/4NMl9FJpiyIFyVwBpdMv3O) | 3:42 | 2021-12-08 | 2022-07-22 |

@@ -548,6 +548,24 @@
     },
     {
       "album": {
+        "name": "chapter",
+        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
+      },
+      "artists": [
+        {
+          "name": "Hirotaka Shirotsubaki",
+          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218932,
+      "name": "last goodbye",
+      "url": "https://open.spotify.com/track/30fLDBLU4lo1OtreS7LF1U"
+    },
+    {
+      "album": {
         "name": "Victorialand",
         "url": "https://open.spotify.com/album/6dFmNBt5ZLbaqf7PCtuvUv"
       },
@@ -1327,6 +1345,24 @@
       "duration_ms": 348466,
       "name": "Through You",
       "url": "https://open.spotify.com/track/1WyfKeDIt4sJt2MpE81fN8"
+    },
+    {
+      "album": {
+        "name": "Where the Sands Turn to Gold",
+        "url": "https://open.spotify.com/album/4v867iqLmmDXh3gvmhwmeA"
+      },
+      "artists": [
+        {
+          "name": "Azusa Plane",
+          "url": "https://open.spotify.com/artist/1exN8SH7Aw6NLkjgFGAncB"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260533,
+      "name": "Tokyo Guitar Flashback",
+      "url": "https://open.spotify.com/track/10O5CCu0wFdQorEDlHXtXE"
     },
     {
       "album": {

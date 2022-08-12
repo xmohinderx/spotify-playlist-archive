@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Asaph, BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,728 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,753 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 29 | [Ainda Não É o Fim](https://open.spotify.com/track/5Mo3oOezde7Zt6jAUIPIFI) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Ainda Não É o Fim](https://open.spotify.com/album/4EUUBMaeGHezzHevYOoPu7) | 2:41 |
 | 30 | [Me Leva](https://open.spotify.com/track/5x5pQsHg5Gv42ueRrYvAK6) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Me Leva](https://open.spotify.com/album/626lo15ONMAnnmDINVOoCN) | 2:33 |
 | 31 | [Não Se Trata de Mim](https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb) | [Não Se Trata de Mim](https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y) | 3:17 |
-| 32 | [SEM MENTIRAS](https://open.spotify.com/track/1bsCdxcSHy1hqThOUJoEwr) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [SEM MENTIRAS](https://open.spotify.com/album/3FpPTJhEECVWMupYLvNALK) | 2:24 |
-| 33 | [Flow Rei Davi](https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Flow Rei Davi](https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7) | 1:58 |
+| 32 | [Flow Rei Davi](https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Flow Rei Davi](https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7) | 1:58 |
+| 33 | [SEM MENTIRAS](https://open.spotify.com/track/1bsCdxcSHy1hqThOUJoEwr) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [SEM MENTIRAS](https://open.spotify.com/album/3FpPTJhEECVWMupYLvNALK) | 2:24 |
 | 34 | [Ele É Deus Em Mim](https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Kivitz](https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:54 |
 | 35 | [Semeadores](https://open.spotify.com/track/01j3BWe6rxzqIAMrfWdRuS) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Cela Éfeso](https://open.spotify.com/artist/7ueKl9kOlGIYEi6uVdlYVB), [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [Rap Menorah](https://open.spotify.com/artist/0o2LKT3AcCDjM47LyERec2), [Welby See](https://open.spotify.com/artist/6W2muqMzUdzcqdZGN2TTtD) | [Semeadores](https://open.spotify.com/album/3E57sTfK3lSVfKFGh7Kueu) | 5:20 |
 | 36 | [Jardim](https://open.spotify.com/track/00u4kGgE3Dn2PHoXwSF63O) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Jardim](https://open.spotify.com/album/4zESGmL812r4wAGRRqcs9V) | 2:33 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 49 | [AQUI TÁ MEU CORAÇÃO \(feat\. MellowBeatz\)](https://open.spotify.com/track/7oHFW8VPbPafn7EjNNT0KV) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [MellowBeatz](https://open.spotify.com/artist/0ubntF0OwcTIoq3DorJqU5) | [ENTRE CÉU E ONDAS \- Vol.1](https://open.spotify.com/album/0dSOUXMV0pLaFCnY93aIdN) | 2:31 |
 | 50 | [Vazio](https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Vazio](https://open.spotify.com/album/769efKdD6PnmoEZnCbqyiA) | 2:34 |
 | 51 | [A Verdade Liberta](https://open.spotify.com/track/6u2zDBpRjRbxt9uEScDL6K) | [Lucas Dias](https://open.spotify.com/artist/5USBdQSHskaPcny3qnL92S) | [A Verdade Liberta](https://open.spotify.com/album/4fEAswHgT41nIulijzo9WD) | 3:06 |
-| 52 | [Aliança](https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Fala pra eles que é o Felipin](https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB) | 2:59 |
-| 53 | [A Luz Se Apaga](https://open.spotify.com/track/17NTdbGeEofDmmiJxLQ2mU) | [Marone Falasha](https://open.spotify.com/artist/7G5ECe50jN1cy6ReJvAz7t), [Pr Rodrigo Luiz](https://open.spotify.com/artist/3VraCMcotmiLcIZJbqhyB0), [Mensageiros da Profecia](https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI) | [A Luz Se Apaga](https://open.spotify.com/album/1XggPUj8bQPjQ8f7W4cHMH) | 7:06 |
-| 54 | [As Cores do Céu](https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Juninho Lima](https://open.spotify.com/artist/6FReHEnPFd1oKskqqUya6B) | [As Cores do Céu](https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF) | 3:51 |
-| 55 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
+| 52 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
+| 53 | [Aliança](https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Fala pra eles que é o Felipin](https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB) | 2:59 |
+| 54 | [A Luz Se Apaga](https://open.spotify.com/track/17NTdbGeEofDmmiJxLQ2mU) | [Marone Falasha](https://open.spotify.com/artist/7G5ECe50jN1cy6ReJvAz7t), [Pr Rodrigo Luiz](https://open.spotify.com/artist/3VraCMcotmiLcIZJbqhyB0), [Mensageiros da Profecia](https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI) | [A Luz Se Apaga](https://open.spotify.com/album/1XggPUj8bQPjQ8f7W4cHMH) | 7:06 |
+| 55 | [As Cores do Céu](https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Juninho Lima](https://open.spotify.com/artist/6FReHEnPFd1oKskqqUya6B) | [As Cores do Céu](https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF) | 3:51 |
 | 56 | [BABY](https://open.spotify.com/track/2BRwBwyJfVjZcDW5LJ0Uow) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [BABY](https://open.spotify.com/album/4dzKbTq1stnawn67OPO024) | 2:27 |
 | 57 | [Deserto](https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB) | [Deserto](https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh) | 3:29 |
 | 58 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [Gospel Playground](https://open.spotify.com/track/0Yq4ih2o7CdgP40g5Sqdic) | [Azorap](https://open.spotify.com/artist/6GGonHdpnl32PMkGKpV4mE), [AfroRagga](https://open.spotify.com/artist/3rA5mfURBk7U3O4bjt3kV0) | [Gospel Playground](https://open.spotify.com/album/75Vtuqs4tWoYRQ5mUDZKtZ) | 3:44 |
 | 65 | [Impostor](https://open.spotify.com/track/3G4WJPxXdI7EB4UR3H3OZV) | [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB), [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Impostor](https://open.spotify.com/album/5O81T9io3EMHKyUSt2pYTC) | 2:29 |
 
-Snapshot ID: `MTY1NjY0ODgzMSwwMDAwMDAwMGQ3MzI2ODhjMWRkNDNjOTg0ZjVlOTEwMjVhZTU2MTA4`
+Snapshot ID: `MTY1NjY0ODgzMSwwMDAwMDAwMDJmMDhkZTY1OWZkNDRlM2JmM2I5NjVhM2ZmNjM3MDBh`

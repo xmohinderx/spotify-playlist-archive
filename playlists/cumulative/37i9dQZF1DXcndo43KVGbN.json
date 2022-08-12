@@ -1094,6 +1094,28 @@
     },
     {
       "album": {
+        "name": "Muscle De Sable",
+        "url": "https://open.spotify.com/album/5EetnmbkfhXlohEzvivX3O"
+      },
+      "artists": [
+        {
+          "name": "Rom\u00e9o Poirier",
+          "url": "https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG"
+        },
+        {
+          "name": "Jan Jelinek",
+          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304250,
+      "name": "Muscle De Sable - Jan Jelinek Remix",
+      "url": "https://open.spotify.com/track/5tdUFUHZIRFwwSlAreykyL"
+    },
+    {
+      "album": {
         "name": "Sleep Installer",
         "url": "https://open.spotify.com/album/4BX3KdkiclzwYxHME4wHUz"
       },

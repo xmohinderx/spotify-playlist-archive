@@ -4,7 +4,7 @@
 
 > Trace the history of jazz from timeless classics to boundary\-breaking contemporary favorites\. Cover: Diana Krall
 
-165 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
+166 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alien](https://open.spotify.com/track/3NNtfdx0HYWqQiq39G78wp) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [Petite Afrique](https://open.spotify.com/album/0Pyd8G4UBFGXFKWBHcKST8) | 5:15 | 2021-12-02 |  |
 | [Alien](https://open.spotify.com/track/4EVOgxhFXQ0U6u8k4vebET) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [Alien](https://open.spotify.com/album/4wd3MrBQdLzBLd6LqwhKX2) | 5:15 | 2021-12-02 | 2022-02-11 |
 | [All of Me](https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:01 | 2021-12-02 |  |
-| [Always](https://open.spotify.com/track/2HnkMywsGGmX7alLfLVeqH) | [Aziza Mustafa Zadeh](https://open.spotify.com/artist/2TvWRRw5EFTbGryv1IbFM0), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Always](https://open.spotify.com/album/0yYBxAGmfF1kDnhuY6DsRA) | 4:39 | 2021-12-02 |  |
+| [Always](https://open.spotify.com/track/2HnkMywsGGmX7alLfLVeqH) | [Aziza Mustafa Zadeh](https://open.spotify.com/artist/2TvWRRw5EFTbGryv1IbFM0), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Always](https://open.spotify.com/album/0yYBxAGmfF1kDnhuY6DsRA) | 4:39 | 2021-12-02 | 2022-08-12 |
 | [Anything Goes](https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:07 | 2021-12-02 |  |
 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 | 2022-03-08 |  |
 | [At Last \- Single Version](https://open.spotify.com/track/1nd9moIZkGvWoHtReFqkRY) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Love Songs](https://open.spotify.com/album/7HiCDrSmwCZnrPYHNtL9S0) | 2:59 | 2021-12-02 | 2022-07-29 |
@@ -33,6 +33,7 @@
 | [Bring Him Home](https://open.spotify.com/track/4V6joFDGUPoVI36OZNkuMl) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz), [Crash Trio](https://open.spotify.com/artist/0VQ5CHc2za0YUjmN83gUYF) | [Melissa Aldana & Crash Trio](https://open.spotify.com/album/3CNXkqxyvlUw5883YxcPeh) | 5:09 | 2021-12-02 | 2022-07-29 |
 | [Bring Him Home](https://open.spotify.com/track/56n3i3qXPMDuEfU4maiBK6) | [Melissa Aldana & Crash Trio](https://open.spotify.com/artist/34IAv54nMtYZTtX3QVHDvL) | [Melissa Aldana & Crash Trio](https://open.spotify.com/album/24SzTzOtzYObsSaqgMEIw1) | 5:09 | 2022-03-08 |  |
 | [C'est Si Bon](https://open.spotify.com/track/5ltdjMGizJoqS5x7rZzij2) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Something's Gotta Give \- Music From The Motion Picture](https://open.spotify.com/album/40ibEmtXTv68y88YPXDoI4) | 2:57 | 2021-12-02 |  |
+| [Can't Get Out of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 | 2022-08-11 |  |
 | [Clip Joint](https://open.spotify.com/track/0FsXOJYuXIDTFitV7vbrd6) | [Lil Hardin Armstrong And Her Orchestra](https://open.spotify.com/artist/4KJbHQaQp524CJlAqbz9of) | [Chicago: The Living Legends](https://open.spotify.com/album/12MmtHlymqpECm7cC6Zam7) | 4:42 | 2021-12-02 |  |
 | [Come Away With Me](https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:18 | 2021-12-02 | 2022-07-29 |
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2022-03-08 |  |

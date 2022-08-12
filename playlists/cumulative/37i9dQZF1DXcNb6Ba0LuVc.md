@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-305 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+309 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Birch](https://open.spotify.com/track/3dOoEWVJqCZruubyO0W0Dt) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Birch](https://open.spotify.com/album/3QRUkSveMnmFIotjK9hivL) | 1:52 | 2021-11-11 | 2022-05-20 |
 | [Birch Sap](https://open.spotify.com/track/5tiP9vXHi7Z12WkGyup8zV) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 1](https://open.spotify.com/album/3PyZ6vA8aoyhW0nskqCZlj) | 2:37 | 2021-11-11 |  |
 | [Bloke](https://open.spotify.com/track/10hUkqbTHRVqoNiPHq8pdi) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Butterfly Effect](https://open.spotify.com/album/7lneB2Lrh6GkVOUsvDGwtM) | 1:46 | 2021-11-11 | 2022-07-01 |
+| [BLUE DREAM](https://open.spotify.com/track/1fOLDhre8l8JHpzHLQ2248) | [sleen.](https://open.spotify.com/artist/3X4HJ5umPM7L9AdqSwBEjh), [MOOD boy](https://open.spotify.com/artist/2YCuSc5zthk5gzM054mLOf) | [BLUE DREAM](https://open.spotify.com/album/0JmMFbirrMtI7YWFp0mgl4) | 2:14 | 2022-08-12 |  |
 | [Blue Paradise](https://open.spotify.com/track/65mR4MLv5dmCDc4addPpSV) | [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl), [Maxgonz](https://open.spotify.com/artist/5tqEVMpVVTtvK0AryNVoZY) | [Blue Paradise](https://open.spotify.com/album/4eaKY0gsrBcV8zbL2WOxKk) | 4:12 | 2022-08-05 |  |
 | [Bongo](https://open.spotify.com/track/1GAfF3ySbJ75jmgtHIxg2o) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG) | [Bongo](https://open.spotify.com/album/6LXfeDzhuHOlZi4yKZxCPy) | 2:26 | 2022-06-24 |  |
 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 | 2021-11-11 |  |
@@ -46,6 +47,7 @@
 | [Can We Just Vibe?](https://open.spotify.com/track/0wmr45zDNsSMy9cRgddm4E) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Can We Just Vibe?](https://open.spotify.com/album/5WsSwxseHP6HV4DVWl0CVn) | 2:44 | 2021-11-11 |  |
 | [carefree](https://open.spotify.com/track/0bPfSzjE7X5LUuvdJkv481) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [carefree](https://open.spotify.com/album/50IPTdTpfzN5xRncShypO9) | 3:07 | 2022-07-15 |  |
 | [Caribs](https://open.spotify.com/track/77IvFp174yhWdvqwBYkphA) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Caribs](https://open.spotify.com/album/26hrmwEdbhGyQSKcJ6nu1w) | 2:07 | 2021-11-11 | 2022-06-17 |
+| [Carombola](https://open.spotify.com/track/0YYp2tR5zcSvj4Xng6fAhx) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Carombola](https://open.spotify.com/album/1c1FzYnyzhVO4rYzHnfLE8) | 2:32 | 2022-08-12 |  |
 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 | 2021-11-11 |  |
 | [Celebrate You](https://open.spotify.com/track/5ZmTz0zMu1ENE9ksmNKuBi) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Celebrate You](https://open.spotify.com/album/6mur5z1CltJszyCwJFjLJx) | 2:22 | 2021-11-11 |  |
 | [Centraal](https://open.spotify.com/track/5fQZSvFRYJpv5etKkAe7LW) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Centraal](https://open.spotify.com/album/4tIVNhQ7RcIEPtTqbGnPwm) | 2:10 | 2022-07-08 |  |
@@ -66,6 +68,7 @@
 | [Coral](https://open.spotify.com/track/55RpiZ4sQaEEbcGAOukL3S) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Coral](https://open.spotify.com/album/7hIWp2pPbMvTSQw7btmWWz) | 2:33 | 2021-11-11 |  |
 | [Cruising Avenues](https://open.spotify.com/track/3pb6lOqe10g5OXtTyZA3Vb) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Thousand Islands](https://open.spotify.com/album/1xYOX8UICuZXSwo1e7vLVy) | 3:04 | 2021-11-11 |  |
 | [de la bell\-mére](https://open.spotify.com/track/5tjs8JIPAWEMXXt5WKSZbX) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [de la bell\-mére](https://open.spotify.com/album/0QIgwejCiO4kxYmp6q9YzX) | 1:48 | 2022-07-22 |  |
+| [Desert Mustang](https://open.spotify.com/track/3DBNG6S3TzIqzuBul1n9jd) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Pomegranate Beaches](https://open.spotify.com/album/5GFcwOXqDCLv73W91FVogB) | 2:24 | 2022-08-12 |  |
 | [Dimples](https://open.spotify.com/track/5zNXoNQMHEQYegSTnfn5Jo) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Dimples](https://open.spotify.com/album/7a3HiRaJgeMO3RQNza1JCh) | 1:55 | 2021-11-11 |  |
 | [Dreaming About It](https://open.spotify.com/track/7FEgFOeGLK4inE6UsMIrWH) | [Larry Lelobster](https://open.spotify.com/artist/6axFc4iYvZQGoop388BSSZ) | [Summer Love](https://open.spotify.com/album/2ffasP5vZ4BfXtPb314sBr) | 2:09 | 2021-11-11 |  |
 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 | 2022-05-13 |  |
@@ -262,6 +265,7 @@
 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 | 2021-11-11 | 2022-07-22 |
 | [That Strange Reminder](https://open.spotify.com/track/6a5zV8gf5eSgLaajCTP4cN) | [Emilioats](https://open.spotify.com/artist/0eQrkyv90qExbZcrazhnH4) | [That Strange Reminder](https://open.spotify.com/album/2N3NpgI7nvY4mq92opKPoj) | 2:32 | 2022-04-22 |  |
 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 | 2021-11-11 |  |
+| [The Daily Special](https://open.spotify.com/track/0cymQFMEAd4himK9cKzwEw) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Solar Daze](https://open.spotify.com/album/3TMRES3rVh3fKhri7JYgHW) | 2:12 | 2022-08-12 |  |
 | [The Love Pool](https://open.spotify.com/track/0S4I0Y3T6DiQFbF7Mh9TZl) | [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl), [Rigid Moods](https://open.spotify.com/artist/1RQFHOfP3K3mIBNr6xjgy7) | [The Love Pool](https://open.spotify.com/album/4Y8QUPvEtBLx6nJ2R0aU7z) | 3:12 | 2022-08-05 |  |
 | [The Neighborhood](https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Playground](https://open.spotify.com/album/5BIlSn25cEkCaw2FRNwCFT) | 1:32 | 2021-11-11 | 2022-05-27 |
 | [The Package Deal](https://open.spotify.com/track/4pNLT2LaDsj5jnW4DuPHlf) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Humidity](https://open.spotify.com/album/1VYKpdugWpXoVVMoGRMW83) | 2:42 | 2021-11-11 | 2022-05-20 |

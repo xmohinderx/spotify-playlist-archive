@@ -4,7 +4,7 @@
 
 > The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-90 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/78b2rp1nXUaWMPRj1Tflck)
+91 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/78b2rp1nXUaWMPRj1Tflck)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Iraga Iraga](https://open.spotify.com/track/2RCigtiYWf4LBCbp60m7Qg) | [Rahul Sipligunj, Mohana Bhogaraju](https://open.spotify.com/artist/61QdqNUW0qSz0GoaeVe6Gw) | [Naa Peru Surya Naa Illu India](https://open.spotify.com/album/3S0ezMfLB53pIEfYwAdG9R) | 4:00 | 2021-06-24 |  |
 | [Ismart Title Song](https://open.spotify.com/track/40dF1b3S55REkQudnGiLkW) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Ismart Shankar](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 4:12 | 2021-06-24 |  |
 | [King Of The Crowd 'Title Song' \(From "Ramarao On Duty"\)](https://open.spotify.com/track/1X56oGyHaLQgOZxDVBJBo5) | [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv) | [King Of The Crowd 'Title Song' \(From "Ramarao On Duty"\)](https://open.spotify.com/album/37hM9dL91U4SDRksCn7kHJ) | 3:25 | 2022-07-22 |  |
-| [Kiss Me Baby](https://open.spotify.com/track/0DB298HE0qsbJwyxFXLpet) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Kiss Day Special](https://open.spotify.com/album/5M8XU9Kz85M5d3yH0mrl8V) | 3:35 | 2021-06-24 |  |
+| [Kiss Me Baby](https://open.spotify.com/track/3aM2juY0azR4PZ9BtQdq29) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Mahanubhavudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1yqvJA4WwJQlyiUR1lwKvh) | 3:30 | 2021-06-24 |  |
+| [Kiss Me Baby](https://open.spotify.com/track/0DB298HE0qsbJwyxFXLpet) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Kiss Day Special](https://open.spotify.com/album/5M8XU9Kz85M5d3yH0mrl8V) | 3:35 | 2021-06-24 | 2022-08-12 |
 | [Kiss Me Baby](https://open.spotify.com/track/4rAZuZRc81Xy7HKvtkd3Wn) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Mahanubhavudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7mY1PNgmJDYE5Z1riSQVLG) | 3:35 | 2021-06-24 | 2022-07-29 |
 | [Let's Party All Night](https://open.spotify.com/track/2eAw9wwoNsqLXVv8VjQgSX) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Jaya Janaki Nayaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Jp6raaiCBdOWJMQofquHM) | 4:11 | 2021-06-24 |  |
 | [MCA](https://open.spotify.com/track/5MhnpBzKRDQpeAJgR7vmHV) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [MCA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4q7TQdPkWFRzo3CkhqQe4Q) | 3:17 | 2021-06-24 | 2022-07-29 |

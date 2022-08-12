@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 260176,
+  "num_followers": 260349,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMDEzOGEwMzc4Y2EzOGVlYjhmYjAwM2U0OWE1ZDc5Yjhk",
+  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMDZlYTkzZmY1MDYwOTkyZmVmZjE1NmQyNWU4ZGEyNjMw",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -299,6 +299,30 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
+        "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Rothman",
+          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
+        },
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        },
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 187364,
+      "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
+      "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
       },
@@ -327,30 +351,6 @@
       "duration_ms": 202922,
       "name": "80's High School",
       "url": "https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
-        "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Rothman",
-          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
-        },
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        },
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 187364,
-      "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
-      "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 236575,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -939,22 +939,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Cabin Fever Dreams",
-        "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
+        "name": "loom",
+        "url": "https://open.spotify.com/album/2RwKRxZFFi6s9WMJzcTjMz"
       },
       "artists": [
         {
-          "name": "RALPH TV",
-          "url": "https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy"
+          "name": "UQiYO",
+          "url": "https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW"
         },
         {
-          "name": "Nice Guys",
-          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
+          "name": "Ryohei Kubota",
+          "url": "https://open.spotify.com/artist/0sL6JedafeDm1h0jxhwaPx"
         }
       ],
-      "duration_ms": 206134,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
+      "duration_ms": 204178,
+      "name": "\u00c9lan Vital (feat. \u4e45\u4fdd\u7530\u30ea\u30e7\u30a6\u30d8\u30a4)",
+      "url": "https://open.spotify.com/track/6aOE6O7Q6F9DBD1Gx6hztn"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -975,22 +975,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "loom",
-        "url": "https://open.spotify.com/album/2RwKRxZFFi6s9WMJzcTjMz"
+        "name": "Cabin Fever Dreams",
+        "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },
       "artists": [
         {
-          "name": "UQiYO",
-          "url": "https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW"
+          "name": "RALPH TV",
+          "url": "https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy"
         },
         {
-          "name": "Ryohei Kubota",
-          "url": "https://open.spotify.com/artist/0sL6JedafeDm1h0jxhwaPx"
+          "name": "Nice Guys",
+          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
         }
       ],
-      "duration_ms": 204178,
-      "name": "\u00c9lan Vital (feat. \u4e45\u4fdd\u7530\u30ea\u30e7\u30a6\u30d8\u30a4)",
-      "url": "https://open.spotify.com/track/6aOE6O7Q6F9DBD1Gx6hztn"
+      "duration_ms": 206134,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Now It's Gone",
-        "url": "https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr"
-      },
-      "artists": [
-        {
-          "name": "Maria BC",
-          "url": "https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Now It's Gone",
-      "url": "https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Cosas Que Probablemente No Van a Pasar",
         "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 160000,
       "name": "Cosas que probablemente no van a pasar",
       "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Now It's Gone",
+        "url": "https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr"
+      },
+      "artists": [
+        {
+          "name": "Maria BC",
+          "url": "https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "Now It's Gone",
+      "url": "https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
-      },
-      "artists": [
-        {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
-        }
-      ],
-      "duration_ms": 235653,
-      "name": "The Dark",
-      "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Morningside",
         "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 240736,
       "name": "Jennifer",
       "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "The Dark",
+      "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "1990",
-        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Lean Into Life",
         "url": "https://open.spotify.com/album/4s4PfhSuN6uuMxpNYt2Zhw"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 327266,
       "name": "Lean Into Life",
       "url": "https://open.spotify.com/track/5eWH1AYlLn8UV2E1PthAhk"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "1990",
+        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        }
+      ],
+      "duration_ms": 100500,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
     },
     {
       "added_at": "2022-07-06 15:18:34",

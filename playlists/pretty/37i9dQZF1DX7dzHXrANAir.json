@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 63033,
+  "num_followers": 63123,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDA2ZDdhYmUxODYxOTc2YjFiNjhkNzU3ODkzNmQ3MWQw",
+  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDJjNzczNDhiMDEwNTJjYzJmNWVhNTcyNmZlYjllOTE5",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -239,22 +239,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "We Could Stay",
-        "url": "https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w"
+        "name": "hundred00",
+        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
       },
       "artists": [
         {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
         }
       ],
-      "duration_ms": 217194,
-      "name": "We Could Stay",
-      "url": "https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ"
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -275,18 +271,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "hundred00",
-        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
+        "name": "We Could Stay",
+        "url": "https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 289210,
-      "name": "hundred00",
-      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
+      "duration_ms": 217194,
+      "name": "We Could Stay",
+      "url": "https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Bird's Tail (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
-      },
-      "artists": [
-        {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 343893,
-      "name": "Bird's Tail - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Patina",
         "url": "https://open.spotify.com/album/7aAavljDRxaxDMCq2c3YlV"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 161086,
       "name": "Cluster - Edit",
       "url": "https://open.spotify.com/track/6T6U15jco43HghuqfzCAeu"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Bird's Tail (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 343893,
+      "name": "Bird's Tail - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Unfold (XXIM:EXPO #2)",
-        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
       },
       "artists": [
         {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 218743,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+      "duration_ms": 277021,
+      "name": "We Begin",
+      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Unfold (XXIM:EXPO #2)",
+        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        }
+      ],
+      "duration_ms": 218743,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 277021,
-      "name": "We Begin",
-      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -799,6 +799,34 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Moon Window",
+        "url": "https://open.spotify.com/album/3MKNn4Lo4Y3H5BCpoRPb0Q"
+      },
+      "artists": [
+        {
+          "name": "Freya Arde",
+          "url": "https://open.spotify.com/artist/7oizdx4Ik6jUKnjOqEeiMi"
+        },
+        {
+          "name": "Alina Gropper",
+          "url": "https://open.spotify.com/artist/4o3kRhGNgRWyQ5TStfVBgK"
+        },
+        {
+          "name": "Filip Sommer",
+          "url": "https://open.spotify.com/artist/6wvVtoBmo6KAUtjgj1mcSo"
+        },
+        {
+          "name": "Moritz Br\u00fcmmer",
+          "url": "https://open.spotify.com/artist/0VCDrXnPDQtZgyO9neIuUL"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Moon Window",
+      "url": "https://open.spotify.com/track/4PTSiJw3k6IYIofogD0uuI"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Post-Svalbard",
         "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
       },
@@ -835,22 +863,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6ZFQmOpcaqiMuEgPzbO82H"
-      },
-      "artists": [
-        {
-          "name": "David A. Molina",
-          "url": "https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug"
-        }
-      ],
-      "duration_ms": 238223,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "A Light Without Flame",
         "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
       },
@@ -867,30 +879,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Moon Window",
-        "url": "https://open.spotify.com/album/3MKNn4Lo4Y3H5BCpoRPb0Q"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6ZFQmOpcaqiMuEgPzbO82H"
       },
       "artists": [
         {
-          "name": "Freya Arde",
-          "url": "https://open.spotify.com/artist/7oizdx4Ik6jUKnjOqEeiMi"
-        },
-        {
-          "name": "Alina Gropper",
-          "url": "https://open.spotify.com/artist/4o3kRhGNgRWyQ5TStfVBgK"
-        },
-        {
-          "name": "Filip Sommer",
-          "url": "https://open.spotify.com/artist/6wvVtoBmo6KAUtjgj1mcSo"
-        },
-        {
-          "name": "Moritz Br\u00fcmmer",
-          "url": "https://open.spotify.com/artist/0VCDrXnPDQtZgyO9neIuUL"
+          "name": "David A. Molina",
+          "url": "https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug"
         }
       ],
-      "duration_ms": 167920,
-      "name": "Moon Window",
-      "url": "https://open.spotify.com/track/4PTSiJw3k6IYIofogD0uuI"
+      "duration_ms": 238223,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Enfantillages pittoresques: II. Berceuse [Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/1oVLQpp20OpriUDJLDZBsS"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 334653,
-      "name": "Enfantillages pittoresques: II. Berceuse - Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/5vXc6FRNDW6VkZNKJtTtb1"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Solitudes, Vol. II",
-        "url": "https://open.spotify.com/album/3X8LQ3lxamJcRUSlOT7pxP"
+        "name": "Enfantillages pittoresques: II. Berceuse [Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/1oVLQpp20OpriUDJLDZBsS"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 237827,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I"
+      "duration_ms": 334653,
+      "name": "Enfantillages pittoresques: II. Berceuse - Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/5vXc6FRNDW6VkZNKJtTtb1"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -999,6 +983,22 @@
       "duration_ms": 192000,
       "name": "N\u00e9fos",
       "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Solitudes, Vol. II",
+        "url": "https://open.spotify.com/album/3X8LQ3lxamJcRUSlOT7pxP"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 237827,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "knowledge",
+        "url": "https://open.spotify.com/album/2pmgXrNSfraUoYE9WezoOZ"
+      },
+      "artists": [
+        {
+          "name": "Gian Marco Castro",
+          "url": "https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6"
+        }
+      ],
+      "duration_ms": 299428,
+      "name": "knowledge",
+      "url": "https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Higher Ground",
         "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
       },
@@ -1147,34 +1163,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Klass (MISSUXO Film Edit)",
-        "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
+        "name": "Where the Light Touches",
+        "url": "https://open.spotify.com/album/1KFVYNTMDGdzN300QEMonW"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "Lindsay Wright",
+          "url": "https://open.spotify.com/artist/1cYnArE3YN2suL8k0QDVNc"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Klass - MISSUXO Film Edit",
-      "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "knowledge",
-        "url": "https://open.spotify.com/album/2pmgXrNSfraUoYE9WezoOZ"
-      },
-      "artists": [
-        {
-          "name": "Gian Marco Castro",
-          "url": "https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6"
-        }
-      ],
-      "duration_ms": 299428,
-      "name": "knowledge",
-      "url": "https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU"
+      "duration_ms": 224755,
+      "name": "Where The Light Touches",
+      "url": "https://open.spotify.com/track/1AJZpgI4qHJbsC8s7yfUq1"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Where the Light Touches",
-        "url": "https://open.spotify.com/album/1KFVYNTMDGdzN300QEMonW"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Wright",
-          "url": "https://open.spotify.com/artist/1cYnArE3YN2suL8k0QDVNc"
-        }
-      ],
-      "duration_ms": 224755,
-      "name": "Where The Light Touches",
-      "url": "https://open.spotify.com/track/1AJZpgI4qHJbsC8s7yfUq1"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Owls",
         "url": "https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 242880,
       "name": "Owls",
       "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Klass (MISSUXO Film Edit)",
+        "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Klass - MISSUXO Film Edit",
+      "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M"
-      },
-      "artists": [
-        {
-          "name": "Pascal Schumacher",
-          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        }
-      ],
-      "duration_ms": 266785,
-      "name": "Charles Duke",
-      "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Can't Sleep",
         "url": "https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 428453,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M"
+      },
+      "artists": [
+        {
+          "name": "Pascal Schumacher",
+          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 266785,
+      "name": "Charles Duke",
+      "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Bells Variation",
-        "url": "https://open.spotify.com/album/1xUcujAojrWcNUGWNmdGgZ"
-      },
-      "artists": [
-        {
-          "name": "Alban Claudin",
-          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
-        }
-      ],
-      "duration_ms": 179023,
-      "name": "Bells Variation",
-      "url": "https://open.spotify.com/track/2Th3UvKap32u5YdGLgsmRj"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "False Sunset (Todd & Klein Rework)",
         "url": "https://open.spotify.com/album/0g51tMtR6ktoyXnqTdSaqU"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 187850,
       "name": "False Sunset - Todd & Klein Rework",
       "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Bells Variation",
+        "url": "https://open.spotify.com/album/1xUcujAojrWcNUGWNmdGgZ"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "duration_ms": 179023,
+      "name": "Bells Variation",
+      "url": "https://open.spotify.com/track/2Th3UvKap32u5YdGLgsmRj"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Hazy Day",
-        "url": "https://open.spotify.com/album/6n1pAvuKmfKQL3HHeFTZHD"
-      },
-      "artists": [
-        {
-          "name": "Venceslas Catz",
-          "url": "https://open.spotify.com/artist/3wIgEya8AysFHG4ZF0mA7E"
-        }
-      ],
-      "duration_ms": 257142,
-      "name": "Hazy Day",
-      "url": "https://open.spotify.com/track/3sooQI7UYmnDwgqoJG2yQO"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "By The Sea (live)",
         "url": "https://open.spotify.com/album/4uDNPvTViSulNt01rFHM5R"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 300638,
       "name": "By The Sea (live)",
       "url": "https://open.spotify.com/track/3MYAcI8fKxQjDF2DrULm1B"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Hazy Day",
+        "url": "https://open.spotify.com/album/6n1pAvuKmfKQL3HHeFTZHD"
+      },
+      "artists": [
+        {
+          "name": "Venceslas Catz",
+          "url": "https://open.spotify.com/artist/3wIgEya8AysFHG4ZF0mA7E"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Hazy Day",
+      "url": "https://open.spotify.com/track/3sooQI7UYmnDwgqoJG2yQO"
     }
   ],
   "unique_name": "Classical X",

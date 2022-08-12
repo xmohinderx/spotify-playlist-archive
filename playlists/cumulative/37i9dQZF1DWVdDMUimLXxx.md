@@ -4,7 +4,7 @@
 
 > Add dramatic flair to your strategy game.
 
-70 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
+72 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Afterlight](https://open.spotify.com/track/2wklH1fCEBMwHyNvKHDLOW) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 2:17 | 2022-04-22 |  |
 | [Allegiances](https://open.spotify.com/track/2Pibzoc8ihtklVxLGDsczG) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Allegiances](https://open.spotify.com/album/68KKEyqsRqgLeVQFsS4IUi) | 2:13 | 2022-04-22 |  |
 | [Aléatoire](https://open.spotify.com/track/2eHtBGvfD7PD7SiTl52Vxr) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Aléatoire](https://open.spotify.com/album/7KA3DTbG22n9hPSSV3YruJ) | 2:58 | 2022-04-22 |  |
+| [Among the Clouds](https://open.spotify.com/track/6RMZYwjAH5CVJriToCDuZ7) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Among the Clouds](https://open.spotify.com/album/4HcRsA5pd3BqTGUKWoxSv0) | 3:00 | 2022-08-12 |  |
 | [Arrival](https://open.spotify.com/track/0CewGD0QltN3DCLHeg66Mb) | [Edgar Hopp](https://open.spotify.com/artist/5nn0v7ZNnO4cY7TEAjjfSx) | [Arrival](https://open.spotify.com/album/6k7cnJ2DJKoIgZ9mAT2fxk) | 4:15 | 2022-04-22 |  |
 | [Aspire to Inspire](https://open.spotify.com/track/6BgVfl711Hx4Xjmg5o0HsP) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [To All the Glory](https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM) | 3:32 | 2022-04-22 |  |
 | [Au Bord](https://open.spotify.com/track/7u2mAvNqT0ieHNLlz0cIz1) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Au Bord](https://open.spotify.com/album/1Ark20TQ8Q1mlxjYD4iuBv) | 3:38 | 2022-04-22 |  |
@@ -36,6 +37,7 @@
 | [Flight](https://open.spotify.com/track/08AlY11E0HRmvm32pt0K9d) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId) | 2:16 | 2022-07-08 |  |
 | [Flight](https://open.spotify.com/track/6x5tRBmT3426qhiOepUDOB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:16 | 2022-04-22 | 2022-07-29 |
 | [Freedom Fighters](https://open.spotify.com/track/2oDBvHqLKjMlZSi5k6xZCu) | [Jo Wandrini](https://open.spotify.com/artist/2KeSLpd8bmBZmHtcIOdVGL) | [Freedom Fighters](https://open.spotify.com/album/3BNbi9JetVTnz411TbhfKv) | 4:09 | 2022-04-22 |  |
+| [Full Momentum](https://open.spotify.com/track/7MhgdmsY96bG8EQTsTOZfF) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Full Momentum](https://open.spotify.com/album/32WC7rSlZj9YyKzpbEJIqk) | 2:49 | 2022-08-12 |  |
 | [Heavy Words We're Holding](https://open.spotify.com/track/2azxtIa58SBC6ozuvhzNh8) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Cinema Neon](https://open.spotify.com/album/76nFQ1XGcJUdkrpmpRE0iS) | 3:03 | 2022-04-22 |  |
 | [Holy \- String Ensemble](https://open.spotify.com/track/2635mg4Ef7isjdHXXkEcAy) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Holy & Mad At Disney \(String Ensemble\)](https://open.spotify.com/album/42yDUWgIoDifBUDAm7zhsi) | 2:49 | 2022-04-22 |  |
 | [Huddled in the Shadows](https://open.spotify.com/track/45mG9ywi5sbbxjA2Rdv95L) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [The Banner Saga](https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44) | 3:02 | 2022-04-22 |  |

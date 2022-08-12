@@ -3208,6 +3208,28 @@
     },
     {
       "album": {
+        "name": "Egalit\u00e8",
+        "url": "https://open.spotify.com/album/7AnpHFPZoNeLZI1UQmCByA"
+      },
+      "artists": [
+        {
+          "name": "8mike",
+          "url": "https://open.spotify.com/artist/4g82Dq6YOjema0kQwuhB9N"
+        },
+        {
+          "name": "YaluDream",
+          "url": "https://open.spotify.com/artist/2p06NWAbxsP7iFmrq9Ny4J"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Egalit\u00e9",
+      "url": "https://open.spotify.com/track/2K5WVSBT5uN16sGpx2T5dA"
+    },
+    {
+      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/7uladFoBRhD7lGfyKd0Ta2"
       },

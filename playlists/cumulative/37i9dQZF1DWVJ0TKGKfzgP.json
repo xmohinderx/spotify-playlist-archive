@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 293466,
       "name": "Backfired",
       "url": "https://open.spotify.com/track/2BRTt2EUyjI5ckBtwZzN8v"
@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Behind the Mask",
+        "url": "https://open.spotify.com/album/5dZJvN5TUDuaXJYaz9bDEH"
+      },
+      "artists": [
+        {
+          "name": "The Warriors",
+          "url": "https://open.spotify.com/artist/3SQ9SxVUxmWPEmJcuVvGc1"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399426,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/4scgGmqQvlsJsnOOL2tFOL"
+    },
+    {
+      "album": {
         "name": "D.J. Masters: Slammin' Jams",
         "url": "https://open.spotify.com/album/3Hz9OiLdXkoltROdoKWbct"
       },
@@ -577,7 +595,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 340680,
       "name": "Funky Beat",
       "url": "https://open.spotify.com/track/3vuu5ZzHVZUP06pGVh3Cut"
@@ -971,6 +989,24 @@
       "duration_ms": 252653,
       "name": "Last Night a D.J. Saved My Life",
       "url": "https://open.spotify.com/track/7dcs4YfIp7PDDw76rWja2t"
+    },
+    {
+      "album": {
+        "name": "The Luxury Gap (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6"
+      },
+      "artists": [
+        {
+          "name": "Heaven 17",
+          "url": "https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262506,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2"
     },
     {
       "album": {
@@ -1537,6 +1573,24 @@
       "duration_ms": 349466,
       "name": "Tie Me Up",
       "url": "https://open.spotify.com/track/09nHziVFmEdVtguyIRlBVM"
+    },
+    {
+      "album": {
+        "name": "The Early Tapes / Level 42",
+        "url": "https://open.spotify.com/album/3jNbBEmjeHSUyrqKpDgiw8"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280160,
+      "name": "Turn It On",
+      "url": "https://open.spotify.com/track/7cr6MHjxCKQwqiiCyZrbpo"
     },
     {
       "album": {

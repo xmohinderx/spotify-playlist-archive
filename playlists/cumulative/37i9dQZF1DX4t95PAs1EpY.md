@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-228 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+229 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Winter with U](https://open.spotify.com/track/161n2kcoBAL9JajzqP4KuU) | [Spinmont](https://open.spotify.com/artist/6CNlouXOE8j6UGHVmtagw6), [Luvbird](https://open.spotify.com/artist/2vmQ4q3IQKzvHaHTJAh3Ph) | [A Winter with U](https://open.spotify.com/album/2EYPWseqviUX4HXAgNOmUC) | 2:33 | 2021-12-07 |  |
 | [After the Storm](https://open.spotify.com/track/5GaujxTxVWtGIFBGiWFXCu) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [After the Storm](https://open.spotify.com/album/6DNQ6LG4GXuJy6Fi3qGwPA) | 2:31 | 2021-12-07 |  |
 | [all the things I can't control](https://open.spotify.com/track/7qQot1bz4npRHXSrPGbfVa) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [all the things I can't control](https://open.spotify.com/album/424klxgKsiS3TbbZjTylsD) | 2:14 | 2021-12-07 |  |
+| [Always](https://open.spotify.com/track/5TZNYj31M4fB79aYyHEJaz) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [Always](https://open.spotify.com/album/4VV6QDTyQLfqcesnfWV6s1) | 2:18 | 2022-08-12 |  |
 | [Amazone](https://open.spotify.com/track/5R0vZ0UWfjfyXoOpi1Er3T) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Amazone](https://open.spotify.com/album/2NPK0ag9hT3jqYNmevyMNQ) | 1:52 | 2022-07-08 |  |
 | [Andantino](https://open.spotify.com/track/6JONGK3utqMZaFK7l6QyTk) | [Odinson](https://open.spotify.com/artist/2NsbX1kNxxmyCPYNUwylr5) | [Lofi Chopin](https://open.spotify.com/album/6aPscdWMhIG3RrbE9wKp64) | 2:50 | 2021-12-07 |  |
 | [Anemone](https://open.spotify.com/track/7eNGBTOkvmEJqh7ylI2Kfu) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Anemone](https://open.spotify.com/album/7ek1qAaWiRo87eyr6vmbsE) | 2:30 | 2022-05-13 |  |

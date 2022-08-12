@@ -4,7 +4,7 @@
 
 > Beautiful noise: when Shoegaze goes Ambient\. Cocteau Twins on cover.
 
-85 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
+87 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [J's Heaven](https://open.spotify.com/track/5DBhB05IwvrJLWa0hDOCr0) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 6:45 | 2022-04-08 |  |
 | [Kids on LSD](https://open.spotify.com/track/44WLW50oOs9T9CuYMciM7g) | [MOLLY](https://open.spotify.com/artist/2ueChRFdpz3p8qhU9CJfY6) | [Sun Sun Sun](https://open.spotify.com/album/69XK2K8YOnPVrpG6nzMXtU) | 5:51 | 2022-04-08 |  |
 | [Kites \- Ambient World Version](https://open.spotify.com/track/1n6G7XsgJlem2gmHi7wz6t) | [Bing Satellites](https://open.spotify.com/artist/0K6ADYj3sxtqPrqyTq400i) | [The Ambient World of Bing Satellites, Vol\. 2 \(Ambient World Version\)](https://open.spotify.com/album/5lGytwtFhT25XEOnAengTU) | 4:18 | 2022-04-08 |  |
+| [last goodbye](https://open.spotify.com/track/30fLDBLU4lo1OtreS7LF1U) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [chapter](https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e) | 3:38 | 2022-08-11 |  |
 | [Lazy Calm](https://open.spotify.com/track/6MWnAibO1HAEhlrHoH1kNi) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Victorialand](https://open.spotify.com/album/6dFmNBt5ZLbaqf7PCtuvUv) | 6:34 | 2022-04-08 |  |
 | [Loom](https://open.spotify.com/track/7quGT1IG0GmqkUvHRJLJxn) | [Magnog](https://open.spotify.com/artist/1GGb0FEPX1916AUY6TgOdg) | [Magnog](https://open.spotify.com/album/4v7iaDR4bmA5sfwGHy1zTS) | 5:56 | 2022-04-08 |  |
 | [Lost Blve](https://open.spotify.com/track/3wxQwokHloPLk7GZUNaEVe) | [Threading](https://open.spotify.com/artist/4IuvDi4ag4P9pPehjdY4dm) | [Azure](https://open.spotify.com/album/2cM9rbmowtv1wmlQvooU4Y) | 3:12 | 2022-04-08 | 2022-08-05 |
@@ -81,6 +82,7 @@
 | [The Tiger Hunts Alone](https://open.spotify.com/track/60o0CpsHh3zwudJA4teKln) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [Ghost Colored Halo](https://open.spotify.com/album/00zkasQySDlLDFbpH8AJgX) | 5:54 | 2022-04-08 |  |
 | [They Hang Around](https://open.spotify.com/track/020zR0WTozG8RVfaZjyDcp) | [Indoor Voices](https://open.spotify.com/artist/6D56w3oYBWaQWjAfhJKUhK) | [Animal](https://open.spotify.com/album/5pdtKsFu8C9krpD14lmVWp) | 4:25 | 2022-04-08 |  |
 | [Through You](https://open.spotify.com/track/1WyfKeDIt4sJt2MpE81fN8) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Quique](https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt) | 5:48 | 2022-04-08 |  |
+| [Tokyo Guitar Flashback](https://open.spotify.com/track/10O5CCu0wFdQorEDlHXtXE) | [Azusa Plane](https://open.spotify.com/artist/1exN8SH7Aw6NLkjgFGAncB) | [Where the Sands Turn to Gold](https://open.spotify.com/album/4v867iqLmmDXh3gvmhwmeA) | 4:20 | 2022-08-11 |  |
 | [Under the Sun](https://open.spotify.com/track/4rjKvGbEHDPT9352LU5Sxw) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 3:32 | 2022-04-08 |  |
 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 | 2022-04-08 |  |
 | [Untethering](https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Untethering](https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw) | 6:58 | 2022-04-08 |  |

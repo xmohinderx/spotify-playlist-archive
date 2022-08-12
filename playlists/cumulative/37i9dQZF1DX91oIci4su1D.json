@@ -168,6 +168,28 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4SIHp025Lt02gLujQPN2Ta"
+      },
+      "artists": [
+        {
+          "name": "Victor Tellagio",
+          "url": "https://open.spotify.com/artist/0Tn4aSU1htOi0pMKKSuVkW"
+        },
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178456,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/48XRakTXOgK2zMGjWoIpxj"
+    },
+    {
+      "album": {
         "name": "All Over My Skin",
         "url": "https://open.spotify.com/album/1K4I9cTFAZfZw4Kc8hN9vM"
       },
@@ -3175,7 +3197,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 165483,
       "name": "Heroes For One Day",
       "url": "https://open.spotify.com/track/0GC56le7ReiMLDzRteFqGw"

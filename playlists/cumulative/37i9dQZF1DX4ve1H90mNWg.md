@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. Cover, Beyonce
 
-212 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+213 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Don't Miss](https://open.spotify.com/track/4lR5He1ObQeQ1immUSL8oW) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Don't Miss](https://open.spotify.com/album/5STr775eXjmZqssJIYBQCd) | 3:06 | 2022-03-18 | 2022-04-02 |
 | [Dont Like Me](https://open.spotify.com/track/3gZVyPO9Pec63WcuvcNefq) | [Kayykilo](https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG) | [Dont Like Me](https://open.spotify.com/album/5a9XakjFheiaQNzgjafoFt) | 2:15 | 2022-07-29 |  |
 | [Down](https://open.spotify.com/track/0RL5ZDytG4aZ3IeS711Cfm) | [Tyler Royale](https://open.spotify.com/artist/2BuWUjcrVmPvsObJKb3nzR), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Down](https://open.spotify.com/album/32fQhU6FdfYH4rYf5Vdzze) | 3:07 | 2022-04-29 |  |
-| [Down South](https://open.spotify.com/track/2QChpMXXMQCBFytoOUJdKT) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Let's Do A Drill](https://open.spotify.com/album/26kJC1nv4s6lOAjNiRILoT) | 2:32 | 2022-07-22 |  |
+| [Down South](https://open.spotify.com/track/1l5QrPFA5bJvcNEBM2vpqt) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Let's Do A Drill](https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl) | 2:32 | 2022-07-22 |  |
+| [Down South](https://open.spotify.com/track/2QChpMXXMQCBFytoOUJdKT) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Let's Do A Drill](https://open.spotify.com/album/26kJC1nv4s6lOAjNiRILoT) | 2:32 | 2022-07-22 | 2022-08-12 |
 | [Drink Up](https://open.spotify.com/track/5yESvfqq1TL2iS08XeD2m1) | [D\-Raww](https://open.spotify.com/artist/1CUr1a68mFrVuSY5is9tBR) | [Drink Up](https://open.spotify.com/album/3YUtJPzAMv608AJUH23LFr) | 2:38 | 2021-11-23 | 2022-04-29 |
 | [Droppin D](https://open.spotify.com/track/1vIsOBOjrEDG4DYeaZQEh9) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq) | [Droppin D](https://open.spotify.com/album/5VVw95GYBOhGMmK7hjEKFH) | 2:42 | 2022-04-29 | 2022-07-02 |
 | [Durag & Bonnet \(Chopped Not Slopped\)](https://open.spotify.com/track/4q78VhAl0vUjxTo05nPY2s) | [DJ Slim K](https://open.spotify.com/artist/6qdmKCBZwJO6YkYUJ775hq), [My'Key Iso](https://open.spotify.com/artist/5yYqiMfrgSaxWdTMmpySwS), [The Chopstars](https://open.spotify.com/artist/1flnYYrdMqrzdi6XarXuJW) | [Durag & Bonnet \(Chopped Not Slopped\)](https://open.spotify.com/album/1EPBB8dx1pgDZpWunXsDiy) | 7:15 | 2022-04-15 | 2022-05-14 |

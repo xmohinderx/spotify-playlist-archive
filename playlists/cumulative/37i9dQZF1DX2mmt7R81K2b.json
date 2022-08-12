@@ -912,6 +912,32 @@
     },
     {
       "album": {
+        "name": "Stephan K\u00f6nig: Bach in Jazz",
+        "url": "https://open.spotify.com/album/7AuOlhGRcKflgML8T52oDf"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Stephan-K\u00f6nig-Trio",
+          "url": "https://open.spotify.com/artist/7G0nAtg6I4jO03h1LlihYe"
+        },
+        {
+          "name": "Stephan K\u00f6nig",
+          "url": "https://open.spotify.com/artist/5z670iMlr1eCJCKK1UoyRP"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Orchestersuite D-Dur BWV 1068: No. 3 Air (Arr. Stefan K\u00f6nig)",
+      "url": "https://open.spotify.com/track/5iVIFUBgVvatmKufC2CbVW"
+    },
+    {
+      "album": {
         "name": "Bach in Jazz",
         "url": "https://open.spotify.com/album/13cHPvZSrRbNIaFlFosi2i"
       },

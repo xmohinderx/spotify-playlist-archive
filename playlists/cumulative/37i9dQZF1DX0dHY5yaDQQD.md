@@ -4,7 +4,7 @@
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-159 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
+161 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [La Parole](https://open.spotify.com/track/0Ro5RaxVlrskJdoVN3LB0G) | [Nkisi](https://open.spotify.com/artist/06egMm0xwc1DYUaApCCKiH) | [Berlin Atonal: More Light](https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA) | 7:44 | 2022-02-18 | 2022-07-29 |
 | [Let The Party Begin \- Looney Tunez Tot De Max! Mix](https://open.spotify.com/track/1c21KaTTebm4kBu5ectThE) | [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe), [Looney Tunez](https://open.spotify.com/artist/4GbZzCNI0pSY2RgNi41aTN) | [A Tribute To Klubb E.P.](https://open.spotify.com/album/3ytKGxjOLfeyt9Vd0qL9mw) | 6:33 | 2022-02-18 | 2022-07-28 |
 | [London Isn't England](https://open.spotify.com/track/7945wPK44rYV6jwVw2VDo2) | [Manni Dee](https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr), [Ewa Justka](https://open.spotify.com/artist/2MSBkKDh9Bt3iezxzxSt08) | [Throbs Of Discontent](https://open.spotify.com/album/1RdLyGmcuxT0zA9doA8wrj) | 6:57 | 2022-02-18 | 2022-07-30 |
+| [London Riot](https://open.spotify.com/track/03wYXX3B4koPUoEZj3F39d) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [Goon Club Allstars & Friends, Volume 1](https://open.spotify.com/album/4FyndPrM4ENuj3fHUK8jMA) | 4:37 | 2022-08-11 |  |
 | [LOVE 4 RAVE](https://open.spotify.com/track/2jjw8APg1tTkH23uB0AmM1) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [LOVE 4 RAVE](https://open.spotify.com/album/65CYSd8fqzKYUyYtQdKDhK) | 5:53 | 2022-02-18 | 2022-07-30 |
 | [LSD Superhero](https://open.spotify.com/track/68rF8EIqQhXAZUnT2z3vnF) | [Piezo](https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM) | [LSD Superhero](https://open.spotify.com/album/0UIe5wti37P33mVU499vL6) | 5:06 | 2022-07-29 |  |
 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2022-02-18 |  |
@@ -148,6 +149,7 @@
 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 | 2022-02-18 |  |
 | [The need to avoid](https://open.spotify.com/track/25PIpJMhgUa85Yaz7nvUxV) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Projections](https://open.spotify.com/album/1jLpg42UwBnazMOIgAZtRQ) | 3:08 | 2022-02-18 | 2022-07-30 |
 | [The Witness](https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Witness](https://open.spotify.com/album/2agQCuwawKF5udp9i3wD9t) | 7:03 | 2022-02-18 | 2022-07-30 |
+| [There U'Go Boi](https://open.spotify.com/track/4g3E15psqGmFo7DtCcar3i) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Legacy](https://open.spotify.com/album/7aiZNOEqeeN6muKostcqJC) | 4:19 | 2022-08-11 |  |
 | [Tinsel Teeth](https://open.spotify.com/track/0uFX5UEW0EZfuIvyWWsbLk) | [Kilbourne](https://open.spotify.com/artist/2puJJyoBDCIvN9N7M4yRh3) | [Tinsel Teeth](https://open.spotify.com/album/15JsxKquneMjlzZGL0rfrn) | 4:56 | 2022-02-18 |  |
 | [Trust me](https://open.spotify.com/track/7pZLO4oJ38FKtBt9yfOMkO) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Trust me](https://open.spotify.com/album/6Qv0SHKHK3U6jZfYo7ALcK) | 1:49 | 2022-02-18 | 2022-07-30 |
 | [Tutti Rutti](https://open.spotify.com/track/1p1oRgpvthwtOAtt48r1Dy) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Hungry Beats](https://open.spotify.com/artist/4120OK88Qq7ipIhxGHpHEY) | [Tutti Rutti](https://open.spotify.com/album/4lJQbfLroaRc6EK8cXxE02) | 2:13 | 2022-02-18 | 2022-07-30 |

@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-135 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+136 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Purechucho](https://open.spotify.com/track/6fkS6EqkQKsqOk4PLSaWzI) | [Ringunguinja](https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu) | [El Pejo](https://open.spotify.com/album/5jO5hpZ9DQ9GHqovA1jdoh) | 2:35 | 2022-06-17 |  |
 | [Quiet Desperation](https://open.spotify.com/track/362TuUwiVchoJhEa3DwyGK) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Quiet Desperation](https://open.spotify.com/album/24foBIGIoNgar9kqw7fxOu) | 2:16 | 2022-06-17 | 2022-07-29 |
 | [Quiet Desperation](https://open.spotify.com/track/44ke3kXk7W4i0jnsfc532k) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Quiet Desperation](https://open.spotify.com/album/2tcsnRaSNDS9SYKeXRBpmC) | 2:16 | 2022-07-29 |  |
+| [Quite Comfy](https://open.spotify.com/track/0oAZ7VXoIgk8Q8Izs0YkhO) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Quite Comfy](https://open.spotify.com/album/3gf4STG2CwjdpqjqSJNKKw) | 3:34 | 2022-08-12 |  |
 | [Recuerdos de la Alhambra, ift 44](https://open.spotify.com/track/5uqj1uRgouBQqdHzMLo2ag) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Heike Matthiesen](https://open.spotify.com/artist/7EFCTBKgRURpMVhzE8p9a5) | [Recuerdos de la Alhambra, ift 44](https://open.spotify.com/album/6mm8TY4WNUUE61hQxWCh3o) | 6:22 | 2022-07-29 |  |
 | [Red Maple Leaves](https://open.spotify.com/track/0I2PBwHOSV64TRDxqvdBIB) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [Red Maple Leaves](https://open.spotify.com/album/4o8yu9sJK3u53SGIZTduOW) | 3:22 | 2022-06-17 |  |
 | [Retornar](https://open.spotify.com/track/2RyKPVRF7xEKgGPxHsmz3n) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Retornar](https://open.spotify.com/album/5sRaOWsuKC0rFsPeBzSAni) | 4:21 | 2022-06-17 |  |

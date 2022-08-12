@@ -4,7 +4,7 @@
 
 > ملتقي أصوات النساء العربيات! الغلاف: أنغام
 
-182 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
+183 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Nesait Esmo](https://open.spotify.com/track/3KPGXN0WOj9CwOuLctZo7z) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Nesait Esmo](https://open.spotify.com/album/4DBTxotqYyYQhXVBjcwQxe) | 3:39 | 2022-04-08 | 2022-07-29 |
 | [Njib El Money \(pablo Escobar\)](https://open.spotify.com/track/044YKRzKttKARlfjsHSbzF) | [Manel Amara](https://open.spotify.com/artist/2E6PtFWoDSwZ3VXTVCbdpN) | [Njib El Money \(pablo Escobar\)](https://open.spotify.com/album/1Tu1cPyBT51plB72MoSSV1) | 3:03 | 2022-04-08 | 2022-07-24 |
 | [Ostaz Tamtheel](https://open.spotify.com/track/39rT9osEWFXLoI0u40IaCl) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ostaz Tamtheel](https://open.spotify.com/album/2xPQLFbXMUmy7GuG4XgbHA) | 3:39 | 2022-04-08 | 2022-07-29 |
-| [Ott W Far](https://open.spotify.com/track/0IskwRxa9fnjQHgCr4GCVu) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Ott W Far](https://open.spotify.com/album/6dOFlt4jAqAjlCQV6hYdY0) | 3:39 | 2022-04-08 |  |
+| [Ott W Far](https://open.spotify.com/track/0IskwRxa9fnjQHgCr4GCVu) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Ott W Far](https://open.spotify.com/album/6dOFlt4jAqAjlCQV6hYdY0) | 3:39 | 2022-04-08 | 2022-08-12 |
 | [Poco a Poco](https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH) | [Sonia Noor](https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX) | [Poco a Poco](https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC) | 3:42 | 2022-04-08 |  |
 | [Rahn Al Eshara](https://open.spotify.com/track/6VT3137LQvixurPqH71K3b) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Rahn Al Eshara](https://open.spotify.com/album/5Z9XBnaWqJrP4tuD7FZ0AI) | 3:14 | 2022-04-08 |  |
 | [Resala Mennak](https://open.spotify.com/track/1ChC38YBlUIrbbTkG6zGcZ) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Resala Mennak](https://open.spotify.com/album/3JhWAkCT2txqKB0PwkIM8H) | 4:18 | 2022-04-08 |  |
@@ -179,6 +179,7 @@
 | [بديت تخون](https://open.spotify.com/track/0MObXyHSdlisHTUUIRoGPs) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [بديت تخون](https://open.spotify.com/album/4KVWYxFQ7eBaEuwdhpo09K) | 3:05 | 2022-04-08 | 2022-07-29 |
 | [تعالى تشوف](https://open.spotify.com/track/4ekRE8jtEHBH9palfFvtqG) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [تعالى تشوف](https://open.spotify.com/album/1Swp3onpJy5TMMKQPF4cHu) | 3:20 | 2022-04-08 |  |
 | [حاجة قريبة](https://open.spotify.com/track/4qBTJLvvRt9plCuLtRMGEw) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [حاجة قريبة](https://open.spotify.com/album/78ompxruRSXdtmBkpfogEe) | 5:11 | 2022-04-08 |  |
+| [حنيت](https://open.spotify.com/track/0PlZwDn5oZ7cRpwpkJkr8R) | [Mai Mostafa](https://open.spotify.com/artist/30anNvRIZmx6agpOWolWRI) | [حنيت](https://open.spotify.com/album/13lyMOsPSJkVbWBILPdiU6) | 4:15 | 2022-08-10 |  |
 | [حنيت](https://open.spotify.com/track/4SbeEnZSqDyHZrOruHLMjh) | [Mai Mostafa](https://open.spotify.com/artist/30anNvRIZmx6agpOWolWRI) | [حنيت](https://open.spotify.com/album/2iAFWITELlig4HQfHQmq3G) | 4:15 | 2022-04-08 | 2022-07-29 |
 | [خالي بلاش](https://open.spotify.com/track/0m0CR7PeE1e7THI4ejvOO1) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [خالي بلاش](https://open.spotify.com/album/6lOBDVMS5R5bnBBB8yn2jS) | 2:50 | 2022-04-08 |  |
 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 | 2022-04-08 |  |

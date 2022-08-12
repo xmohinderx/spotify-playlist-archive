@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best new electronic music from Electronica to Techno. Cover: biskuwi",
+  "description": "The best new electronic music from Electronica to Techno. Cover: Rafael Cerato, Teologen",
   "name": "Electronic Rising",
   "published_playlist_ids": [
     "1PJKlmQboCNGXvNYEgYkxk"
@@ -284,6 +284,24 @@
     },
     {
       "album": {
+        "name": "A Time To (Techno Edit)",
+        "url": "https://open.spotify.com/album/272175FobKBZ9rQzsmFzaD"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185001,
+      "name": "A Time To - Techno Edit",
+      "url": "https://open.spotify.com/track/6NmPeSdPXUc7EeMZJCpqAg"
+    },
+    {
+      "album": {
         "name": "About My Dreams",
         "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
       },
@@ -331,7 +349,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 353175,
       "name": "Across the Ocean",
       "url": "https://open.spotify.com/track/5FV3MscnLGe0kvxhmf9WhE"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 432427,
       "name": "Brummer - Hannes Bieger Remix",
       "url": "https://open.spotify.com/track/2Geiz84qm3EkFPCBcfd7Vj"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 196721,
       "name": "Can't Sleep - Radio Edit",
       "url": "https://open.spotify.com/track/3EC0PjTZ92s3H3QSruFN8y"
@@ -2167,7 +2185,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 213441,
       "name": "Clavicle",
       "url": "https://open.spotify.com/track/6x7Dpmy13LxD0scMJlo7y0"
@@ -2473,7 +2491,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 213390,
       "name": "Cosmovision",
       "url": "https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc"
@@ -2709,7 +2727,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 341974,
       "name": "Dense Metaverse",
       "url": "https://open.spotify.com/track/6HgUNScygasBr2xtbTpueF"
@@ -2891,7 +2909,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 356097,
       "name": "Don't Hold Back - Yotto Remix",
       "url": "https://open.spotify.com/track/63ebHHCzHnakkKlDdQxb7Q"
@@ -3929,7 +3947,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 394545,
       "name": "Forever Together",
       "url": "https://open.spotify.com/track/4qFVxOgzPLCmpTvxdTbGsT"
@@ -4045,7 +4063,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 287002,
       "name": "From a World to Another",
       "url": "https://open.spotify.com/track/09XQ9G55yMCNyKdVjpEyp4"
@@ -4117,7 +4135,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 381254,
       "name": "Gamma",
       "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
@@ -4565,7 +4583,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 210880,
       "name": "Higher Planes",
       "url": "https://open.spotify.com/track/3DLxOjUuJNSECI4PZ6cL08"
@@ -4895,7 +4913,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 229266,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5lTOYADoL5tJq6SZcqXRnw"
@@ -6065,7 +6083,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 272250,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv"
@@ -6145,7 +6163,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 321892,
       "name": "Love Servant",
       "url": "https://open.spotify.com/track/4Vwbkn67eozZ6oQhBNIIay"
@@ -6553,7 +6571,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 312857,
       "name": "Mind Control - Stephan Jolk Remix",
       "url": "https://open.spotify.com/track/2ig7zIzaD3omrWSgJdlx4W"
@@ -7587,7 +7605,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 415278,
       "name": "Peace Originates",
       "url": "https://open.spotify.com/track/6eo79FArgVhkgcIzyNH5iZ"
@@ -7765,7 +7783,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 385846,
       "name": "Prison Grass",
       "url": "https://open.spotify.com/track/5lVmj7kLjBUeHRWbqZVDUq"
@@ -7863,7 +7881,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 281060,
       "name": "Rainbows and Dreams",
       "url": "https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7"
@@ -7899,7 +7917,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 322043,
       "name": "Rave King",
       "url": "https://open.spotify.com/track/6c8u6lK6IQHqMFz4cuTMn1"
@@ -7969,7 +7987,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 425962,
       "name": "Red - James Harcourt Remix",
       "url": "https://open.spotify.com/track/1mPcoVJF26uXKgX5qiyy5L"
@@ -8209,7 +8227,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 324191,
       "name": "Run & Hide",
       "url": "https://open.spotify.com/track/2ugboeyvu6sclWlZg1MijE"
@@ -8497,7 +8515,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 460800,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/5rwiInzM1WFq06CvCr8m1j"
@@ -8577,7 +8595,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 336930,
       "name": "Sl\u00f3\u00f0",
       "url": "https://open.spotify.com/track/5IBJpZrQQjMeGxGtqWQ8QB"
@@ -8671,7 +8689,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 486137,
       "name": "Solar Detroit",
       "url": "https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n"
@@ -9171,7 +9189,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 267096,
       "name": "Symphony on Acid",
       "url": "https://open.spotify.com/track/3sUrsA8NiiCppTphUk7ab7"
@@ -9465,7 +9483,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 246253,
       "name": "The Haze - Radio Edit",
       "url": "https://open.spotify.com/track/7JxCGqERhyW9Zi1JFgfBjY"
@@ -9969,7 +9987,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 424903,
       "name": "Transhumanism - Transhumanism Project (3/3)",
       "url": "https://open.spotify.com/track/1Bc1YCkgdW1AJ2GchM7g2C"
@@ -10685,7 +10703,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 298713,
       "name": "Water",
       "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
@@ -10863,7 +10881,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 437693,
       "name": "Wir sind die anderen - Boris Dlugosch Club Mix",
       "url": "https://open.spotify.com/track/6wa2mjBPvbXVTGZzFVTiXE"
@@ -10971,7 +10989,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 142153,
       "name": "You Can't Stop Us",
       "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"

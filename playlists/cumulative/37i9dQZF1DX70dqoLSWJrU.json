@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 127626,
       "name": "Baby Won't You Please Come Home",
       "url": "https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q"
@@ -363,6 +363,24 @@
       "duration_ms": 134173,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/232xRyJH3MqaD7pumWRCWH"
+    },
+    {
+      "album": {
+        "name": "Swedish Sensation",
+        "url": "https://open.spotify.com/album/0SBQvnFlDnaSxtufWUDtDi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136306,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/4eiDWp4axml2HOnc8ex4lS"
     },
     {
       "album": {
@@ -639,7 +657,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 275184,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/6vw2zBYluM9c3oudW6KDvf"
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "In Love In Vain",
       "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 198360,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/6Ju6ic1OHvHbvf8VphSYhC"
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 187666,
       "name": "My Old Flame",
       "url": "https://open.spotify.com/track/2tFhdY3DRVj2umeRuaQEfQ"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 207600,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ"
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 297866,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"

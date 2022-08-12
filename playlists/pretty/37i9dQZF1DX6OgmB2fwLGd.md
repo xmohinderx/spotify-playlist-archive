@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Minions
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199,390 likes - 89 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,201,204 likes - 89 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 58 | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/track/6foIbQlxDlg5RzMqY0uOwR) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/album/0K5ueKr5c9ZBfkl3kHNR9v) | 2:52 |
 | 59 | [Yale](https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:46 |
 | 60 | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/album/6aZ1P0WWtwVCRRW8tjyPfP) | 3:19 |
-| 61 | [Dean Kissick](https://open.spotify.com/track/2ZAERMWil2FtIDHgnpek5Z) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Dean Kissick](https://open.spotify.com/album/6pgtop8AG6E2I6oVm6X4H3) | 1:48 |
+| 61 | [Dean Kissick](https://open.spotify.com/track/09AILqJtBjyMGJah1zYyQB) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Dean Kissick](https://open.spotify.com/album/4GrqSrbnSOZZmCEvezSQYy) | 1:48 |
 | 62 | [fafo](https://open.spotify.com/track/2R711v6UpsgYvDuzCJ1iSl) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [fafo](https://open.spotify.com/album/0Q7DWii4IDrNrz9l4F6GPl) | 2:39 |
 | 63 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 |
 | 64 | [Phil Jackson](https://open.spotify.com/track/1gta8EqFZ9rpF7Ci4lo3vD) | [Tae Retro](https://open.spotify.com/artist/4nlZaWXDymf9NB5loJOko0), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [StanWill](https://open.spotify.com/artist/0fvPHeXr0H4AMsxvO62DdX) | [The Main Protagonist](https://open.spotify.com/album/4vgBuZTRJm9LJmoq6yqnp1) | 2:26 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 88 | [Red \(with Destroy Lonely\)](https://open.spotify.com/track/12hDqOKRx8i5pkgqkeQX2l) | [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Genesis](https://open.spotify.com/album/25afSl73scxb6SNMhsFcdt) | 3:17 |
 | 89 | [Plastic Girls](https://open.spotify.com/track/6DulwWv42sYCMcCrs3one7) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW) | [Plastic Girls](https://open.spotify.com/album/3mgenfgpKNOWkVMS1ASa9T) | 2:12 |
 
-Snapshot ID: `MTY2MDAwOTU1MiwwMDAwMDAwMDZhZjY0ODZkOTY0OTFlMmEzNTY4YjE1NTAxYjk4OTNm`
+Snapshot ID: `MTY2MDAwOTU1MiwwMDAwMDAwMDJhMWEzNTU0NGI0N2RlZjRmYWZlNmE0ZDM2OTRmNTBi`

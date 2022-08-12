@@ -1,13 +1,29 @@
 {
   "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Ben Reilly\n",
-  "num_followers": 188623,
+  "num_followers": 188676,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDE0NzIwMCwwMDAwMDAwMDI2NzIzOGViOGM3MGMxYTBmYTU2OTIxMzc5NmM4MDNl",
+  "snapshot_id": "MTY2MDI2MTM1MywwMDAwMDAwMDc2ZWM3NjE0YzFkMWY2OGU1OGVlMDcxNmMzYzUwM2Mz",
   "tracks": [
+    {
+      "added_at": "2022-08-11 23:42:33",
+      "album": {
+        "name": "Munch (Feelin\u2019 U)",
+        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 104819,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
+    },
     {
       "added_at": "2022-08-10 16:00:00",
       "album": {
@@ -99,6 +115,22 @@
       "duration_ms": 200933,
       "name": "where's the confetti?",
       "url": "https://open.spotify.com/track/74RrBP1bsNgecwVkqKCbXL"
+    },
+    {
+      "added_at": "2022-08-11 23:42:33",
+      "album": {
+        "name": "10 Missed Calls",
+        "url": "https://open.spotify.com/album/0lpFSTM1ZGaFdJfsNrlRPL"
+      },
+      "artists": [
+        {
+          "name": "KING AKH",
+          "url": "https://open.spotify.com/artist/5pVOuKzA3hhsdScwg2k4oA"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "10 Missed Calls",
+      "url": "https://open.spotify.com/track/3rsRFBpgO0xrR1eYIjyz3N"
     },
     {
       "added_at": "2022-08-10 16:00:00",
@@ -199,6 +231,22 @@
       "duration_ms": 172987,
       "name": "TOP DOWN",
       "url": "https://open.spotify.com/track/4YU8dkN9oM9plcHxpTrW5e"
+    },
+    {
+      "added_at": "2022-08-11 23:42:33",
+      "album": {
+        "name": "Ghetto",
+        "url": "https://open.spotify.com/album/3Xlh520MTKAEVURAqdiLOm"
+      },
+      "artists": [
+        {
+          "name": "Raxx",
+          "url": "https://open.spotify.com/artist/1PYcxZmCP9fQv3aY0oTjmF"
+        }
+      ],
+      "duration_ms": 150909,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0QVk6PwSRUvEd69ySUgISU"
     },
     {
       "added_at": "2022-08-10 16:00:00",
@@ -747,22 +795,6 @@
     {
       "added_at": "2022-08-10 16:00:00",
       "album": {
-        "name": "SIDEWAYS",
-        "url": "https://open.spotify.com/album/6xFfweLQOsikby2Q0epRas"
-      },
-      "artists": [
-        {
-          "name": "Aldeezy",
-          "url": "https://open.spotify.com/artist/7JHZnBE9nSxBz9OLdBlmU1"
-        }
-      ],
-      "duration_ms": 140808,
-      "name": "SIDEWAYS",
-      "url": "https://open.spotify.com/track/7851KeFyRMfXN0Qux5dFRL"
-    },
-    {
-      "added_at": "2022-08-10 16:00:00",
-      "album": {
         "name": "More Than Music",
         "url": "https://open.spotify.com/album/41WbpXYzqHoNwkTDYXOL4f"
       },
@@ -775,22 +807,6 @@
       "duration_ms": 128052,
       "name": "More Than Music",
       "url": "https://open.spotify.com/track/4S0lieDpguInwIsUzWuPjJ"
-    },
-    {
-      "added_at": "2022-08-10 16:00:00",
-      "album": {
-        "name": "8 days a week",
-        "url": "https://open.spotify.com/album/2qFr6n3kd8ySfxB3eDG5GZ"
-      },
-      "artists": [
-        {
-          "name": "Koi",
-          "url": "https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk"
-        }
-      ],
-      "duration_ms": 99115,
-      "name": "8 days a week",
-      "url": "https://open.spotify.com/track/0KowL4rI8ttFazFhC6TvmI"
     },
     {
       "added_at": "2022-08-10 16:00:00",

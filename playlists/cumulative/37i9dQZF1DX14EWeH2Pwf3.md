@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia\. Cover: AVA, Medy, VillaBanks
+> La playlist urban più grande d'Italia\. Cover: Vale Pain
 
 123 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
 

@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 135525,
       "name": "A cup of tea at night",
       "url": "https://open.spotify.com/track/0KWpMH25yh1oYqYKaEILyi"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 145000,
       "name": "Coffee Break",
       "url": "https://open.spotify.com/track/23UKeemGHRBC176rqCdXFf"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 206000,
       "name": "Halflife",
       "url": "https://open.spotify.com/track/1R02qM89MHLikDdUF2TlGo"
@@ -1971,7 +1971,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 167272,
       "name": "Hidden Path",
       "url": "https://open.spotify.com/track/3JcjNkPYzunshzSf4Pr2cq"
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 93176,
       "name": "jazzy nights",
       "url": "https://open.spotify.com/track/4NIaxyesiDfbwJPB15KO32"
@@ -2349,7 +2349,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 132391,
       "name": "Just Thinking",
       "url": "https://open.spotify.com/track/2t7Wg0h8l2yshHjrrbszqx"
@@ -3805,7 +3805,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 77241,
       "name": "po33_bounce",
       "url": "https://open.spotify.com/track/6RFjBcQZOtweKdV6CfA385"
@@ -4508,6 +4508,24 @@
     },
     {
       "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4UG7u3Cw7Kc98D27Mhb4T4"
+      },
+      "artists": [
+        {
+          "name": "Codewav",
+          "url": "https://open.spotify.com/artist/1Mbu0fBSAzxejpvhss6A5B"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/43ehM7IHlff5bePm8hhoe5"
+    },
+    {
+      "album": {
         "name": "3X",
         "url": "https://open.spotify.com/album/5SeTh6wHnrEFboMoQ4oGo5"
       },
@@ -4649,6 +4667,24 @@
       "duration_ms": 142420,
       "name": "Stay On the Couch",
       "url": "https://open.spotify.com/track/4GbNa88PqcIrsAfKcxV2SF"
+    },
+    {
+      "album": {
+        "name": "Stormy Weather",
+        "url": "https://open.spotify.com/album/5s0x6jVEZYJsZLqXBm4aoG"
+      },
+      "artists": [
+        {
+          "name": "LOKY",
+          "url": "https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135616,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/48RlLNUMdp0CLXxwvGvwYh"
     },
     {
       "album": {
@@ -4923,7 +4959,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 183000,
       "name": "The Summit Point - Lofi Minecraft Music",
       "url": "https://open.spotify.com/track/4Z7AKTdfeqfzJQuVJsEL0U"
@@ -5035,7 +5071,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 132244,
       "name": "Trinkets",
       "url": "https://open.spotify.com/track/5wj256fcPNeauu0DtN4JOz"

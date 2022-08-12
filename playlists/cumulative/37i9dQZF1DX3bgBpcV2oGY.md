@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-145 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+146 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Contemplation](https://open.spotify.com/track/02tk3raiAkGKpEsxlF3pKw) | [Calvin Nolan](https://open.spotify.com/artist/7qX73NefWkqJGQaxCT3UdA) | [Contemplation](https://open.spotify.com/album/5q0V9WTTDKaQ6YR8TT07WQ) | 2:06 | 2021-12-23 |  |
 | [Cuéntame Tu Vida](https://open.spotify.com/track/2vUJZddP9b4k5XsJIaYm1L) | [Juan Pedro Camoro](https://open.spotify.com/artist/0RU0eLI9MsXfF40bMd6Wh1) | [Cuéntame Tu Vida](https://open.spotify.com/album/3Y1mO7huUBt02ZH4ZUjWeZ) | 2:18 | 2021-12-23 |  |
 | [Davinci](https://open.spotify.com/track/74xrzR2MKdzp7AT06enGvk) | [Novia Stella](https://open.spotify.com/artist/5FsD7fr9sKWu0x5XdJHrDA) | [Davinci](https://open.spotify.com/album/1vkIgRJj1wNbkmEyOl9aUa) | 2:07 | 2021-12-23 |  |
+| [Delft](https://open.spotify.com/track/0Wrotq5gGyWP5hgYZcrnF3) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Shining Path](https://open.spotify.com/album/5gDgTrpRIVwJpRJHFo7O8u) | 2:29 | 2022-08-12 |  |
 | [Distant Shore](https://open.spotify.com/track/358grkBo9B5eR7qlnmSIGv) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Distant Shore](https://open.spotify.com/album/2Vw8NgD0EVnt0k6SDtdHCY) | 2:27 | 2021-12-23 | 2022-03-02 |
 | [Doldrums](https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Doldrums](https://open.spotify.com/album/5K7l55YIhPjl3HoY1eYgHF) | 2:20 | 2021-12-23 |  |
 | [Don't Throw It All Away](https://open.spotify.com/track/0sk49euUoY8Va350j6kPKs) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Don't Throw It All Away](https://open.spotify.com/album/7AWpethLnbaGcpBq1pLfTy) | 1:46 | 2022-07-22 |  |

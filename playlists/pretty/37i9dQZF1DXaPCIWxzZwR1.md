@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > in my showstopper, bad liar, homie hopper era\. cover: Huddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,793 likes - 101 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,046 likes - 101 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 132195,
+  "num_followers": 132406,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2OTQ3NSwwMDAwMDAwMDYzMDFkYzE4MWE4NmEyNmNhZTVlYTllYTdmMTY5NTAw",
+  "snapshot_id": "MTY2MDA2OTQ3NSwwMDAwMDAwMDQzZjY5MjdiNjZhMGRmYmEwYmM5NmM2ZTFkNTA2ODUx",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "A Little Honey",
-      "url": "https://open.spotify.com/track/1q5wF1wZQD41ura41yVqXb"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "The Marcus King Band",
         "url": "https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 265586,
       "name": "Rita Is Gone",
       "url": "https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "A Little Honey",
+      "url": "https://open.spotify.com/track/1q5wF1wZQD41ura41yVqXb"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -661,20 +661,20 @@
       "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
     },
     {
-      "added_at": "2022-04-05 15:36:09",
+      "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
       },
       "artists": [
         {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 237244,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
+      "duration_ms": 174520,
+      "name": "Sure Don't Miss You",
+      "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -693,20 +693,20 @@
       "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
+      "added_at": "2022-04-05 15:36:09",
       "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
         }
       ],
-      "duration_ms": 174520,
-      "name": "Sure Don't Miss You",
-      "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
+      "duration_ms": 237244,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Tell 'Em What Your Name Is!",
-        "url": "https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J"
-      },
-      "artists": [
-        {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "I'm Broke",
-      "url": "https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU"
-    },
-    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Easier Said Than Done",
@@ -1055,6 +1039,22 @@
       "duration_ms": 174586,
       "name": "Trade of Hearts",
       "url": "https://open.spotify.com/track/1n3lQ9NRhdY2Km9HGAUdmA"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Tell 'Em What Your Name Is!",
+        "url": "https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J"
+      },
+      "artists": [
+        {
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "I'm Broke",
+      "url": "https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Memories of Love",
-        "url": "https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa"
-      },
-      "artists": [
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 300677,
-      "name": "Whatever You Are",
-      "url": "https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "Arcadia",
@@ -1151,6 +1135,22 @@
       "duration_ms": 156733,
       "name": "Hear Me",
       "url": "https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Memories of Love",
+        "url": "https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 300677,
+      "name": "Whatever You Are",
+      "url": "https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11"
     },
     {
       "added_at": "2021-12-03 05:01:00",

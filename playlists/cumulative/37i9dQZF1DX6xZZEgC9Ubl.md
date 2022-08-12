@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: Brennan Savage
 
-710 songs - 1 day 8 hr 24 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+711 songs - 1 day 8 hr 28 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [dougie jones](https://open.spotify.com/track/1cxf0uqgT8mrRUryRj2GCx) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [dougie jones](https://open.spotify.com/album/7txL4P1ciH1FRiyzjWJSy9) | 3:36 | 2022-03-04 | 2022-07-25 |
 | [Down](https://open.spotify.com/track/2WJ43HcvQPZ8Wa7p9DiXcM) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [Down](https://open.spotify.com/album/0ciE6x4hK37aKcVrBcJSOw) | 2:28 | 2021-04-03 | 2021-05-15 |
 | [draw you inside my book \(feat\. KMays\)](https://open.spotify.com/track/0ZbghqrVhOtGom63oKxONU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [KMays](https://open.spotify.com/artist/2VTLKU8cAZDr5JuZ7HS4BA) | [draw you inside my book \(feat\. KMays\)](https://open.spotify.com/album/0w5Q4bGIpbvmEzTgAtDt72) | 2:24 | 2022-04-08 | 2022-04-22 |
-| [dream girl](https://open.spotify.com/track/3agflhasTpwVk5opeCab2a) | [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [dream girl](https://open.spotify.com/album/04rhxkRkDHgofGYxLkmg9a) | 1:27 | 2021-08-03 |  |
+| [dream girl](https://open.spotify.com/track/3agflhasTpwVk5opeCab2a) | [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [dream girl](https://open.spotify.com/album/04rhxkRkDHgofGYxLkmg9a) | 1:27 | 2021-08-03 | 2022-08-12 |
 | [Drip](https://open.spotify.com/track/2qtlendaMuYL5MceyLckzD) | [Ohsolow](https://open.spotify.com/artist/6PBi2MZwwSxgnb9oY5ZrVn), [sayk\_](https://open.spotify.com/artist/0tEV99Mi95s1JxCUezOgeo) | [Drip](https://open.spotify.com/album/4Jv02FSIcYZv5l3ueHoPsg) | 1:31 | 2021-11-05 | 2022-02-23 |
 | [drive by](https://open.spotify.com/track/0AAPdx9ewxMxetyBYqwcfL) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [HELLBOY](https://open.spotify.com/album/3PGFdp8MUJ25eJjUl0O58X) | 2:55 | 2020-12-13\* | 2021-01-05 |
 | [driveway](https://open.spotify.com/track/3Mf5CJ4c9wzdCI5Dib3V3B) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [crybaby](https://open.spotify.com/album/6ay4qFjg5VgZFqJmiGcIIm) | 2:39 | 2020-12-13\* | 2022-04-21 |
@@ -380,6 +380,7 @@
 | [Love Me More](https://open.spotify.com/track/2NSWi83peog6gHerzlMCqU) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Love Me More](https://open.spotify.com/album/6DNpFe4WAWTa84I6JBuey6) | 2:23 | 2021-01-15 | 2021-04-24 |
 | [Love Music](https://open.spotify.com/track/4xgIZG0FJG9Z81ku8l9P3I) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Love Music](https://open.spotify.com/album/4sfHMXmUi40x1bZvoMymzp) | 2:57 | 2021-07-04 | 2021-07-24 |
 | [Lovely](https://open.spotify.com/track/57SZSgIBdSmompKeZmHlc3) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [Lovely](https://open.spotify.com/album/7hS7VBAUEd40WIywEBWBvZ) | 2:47 | 2020-12-13\* | 2021-06-19 |
+| [Lovemark](https://open.spotify.com/track/004h8smbIoAkUNDJvVKwkG) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Loners Diary](https://open.spotify.com/album/69NoTefsCPepqAcyIjHke1) | 3:39 | 2022-08-05 |  |
 | [Lovemark](https://open.spotify.com/track/2pODLZGdMSgEaSZ5pSGhFu) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Loners Diary](https://open.spotify.com/album/25azvocJDDi8enMC4nbUMy) | 3:39 | 2021-02-12 | 2022-06-27 |
 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 | 2020-12-13\* |  |
 | [luck ain't real](https://open.spotify.com/track/6GW3j1j0cVxk2yyNl6fKNQ) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [TROJAN](https://open.spotify.com/album/2YFIN3eKNLfKZP3L54Mn1u) | 2:57 | 2021-09-17 | 2021-12-21 |

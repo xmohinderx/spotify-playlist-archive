@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh releases from your future favorite artists. Cover: BOIZ, Artwork: Isu Kim\n",
+  "description": "Fresh releases from your future favorite artists. Cover: Kayla Rivera, Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
   "published_playlist_ids": [
     "19D7ttJ9yoRDUaIqZ2rt1y"
@@ -5418,6 +5418,24 @@
     },
     {
       "album": {
+        "name": "Mukhang Pera Sa'yo",
+        "url": "https://open.spotify.com/album/1YhGYOTwLi6zi2r8zKak92"
+      },
+      "artists": [
+        {
+          "name": "Debonair District",
+          "url": "https://open.spotify.com/artist/2VuzHoCgTuDlkmStBfz1XI"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227010,
+      "name": "Mukhang Pera Sa'yo",
+      "url": "https://open.spotify.com/track/24sab7SJGXla3e4Tkk26Nq"
+    },
+    {
+      "album": {
         "name": "Muli",
         "url": "https://open.spotify.com/album/7FOxEuFJP4M4G7B4qY0YCt"
       },
@@ -6855,6 +6873,24 @@
       "duration_ms": 237631,
       "name": "Safer There",
       "url": "https://open.spotify.com/track/6Vrzs1fJryCViGiluZnjSC"
+    },
+    {
+      "album": {
+        "name": "Sagot",
+        "url": "https://open.spotify.com/album/0EefCriok1Scsye37Vz7LG"
+      },
+      "artists": [
+        {
+          "name": "Salazar",
+          "url": "https://open.spotify.com/artist/3ST9RflWZByhR6QsTKNHi1"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "Sagot",
+      "url": "https://open.spotify.com/track/3KrQ9wy8yloPmwWvHjWLTV"
     },
     {
       "album": {

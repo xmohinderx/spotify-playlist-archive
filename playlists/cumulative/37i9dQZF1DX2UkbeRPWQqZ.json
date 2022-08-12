@@ -314,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Bing Bong Song",
+        "url": "https://open.spotify.com/album/1ZJU0UL1r1yLihBg17hqq5"
+      },
+      "artists": [
+        {
+          "name": "Mimi Davies",
+          "url": "https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157292,
+      "name": "Bing Bong Song",
+      "url": "https://open.spotify.com/track/7FNjRbEVcYgKVAtvGWeKjV"
+    },
+    {
+      "album": {
         "name": "Bla\u030asippor",
         "url": "https://open.spotify.com/album/0YdmV5pPDZOp30GXboRo3g"
       },

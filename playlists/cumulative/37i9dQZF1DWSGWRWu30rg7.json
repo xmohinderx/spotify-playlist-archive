@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: ALVIN JO. Artwork: Isu Kim.",
+  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Kemal Dave. Artwork: Isu Kim.",
   "name": "Fresh Finds Indonesia",
   "published_playlist_ids": [
     "56sjum0leqDJVjHk9gB1Ns"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 241167,
       "name": "1/2",
       "url": "https://open.spotify.com/track/4EQRJi73vi9fxwanoVDWN5"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 180000,
       "name": "Bay",
       "url": "https://open.spotify.com/track/1pySonEHioL6xefVaMOvYr"
@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 190816,
       "name": "Begitu Saja",
       "url": "https://open.spotify.com/track/6svzJnZQ1O1ciMbFewdkzi"
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 192120,
       "name": "Bersama",
       "url": "https://open.spotify.com/track/0ShEmZLt231t8M8JlHHEyM"
@@ -1737,7 +1737,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 236666,
       "name": "Bersama Dirimu (Strollin' Down the Avenue) - Indonesian Version",
       "url": "https://open.spotify.com/track/5CFGXPuS6nCLEHgED2D88S"
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 196800,
       "name": "Better Off This Way",
       "url": "https://open.spotify.com/track/3zkDzmHX3Jp0zNnMfeXoa9"
@@ -1991,7 +1991,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 251152,
       "name": "Bitter Than Sweet",
       "url": "https://open.spotify.com/track/3V4zDb4DonsHySjOcwahBb"
@@ -2161,7 +2161,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 237141,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2gD6XfMklqFzI766JU9xjt"
@@ -2995,7 +2995,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 235543,
       "name": "Cintaku Di Ibukota",
       "url": "https://open.spotify.com/track/1C6e9clIGTRP37GjUjWFW6"
@@ -3403,7 +3403,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 171818,
       "name": "Dead Soul In Living Body",
       "url": "https://open.spotify.com/track/09oPpMzLofoIrDLXczqrFa"
@@ -3509,7 +3509,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 218247,
       "name": "Dengar Sahabat",
       "url": "https://open.spotify.com/track/6Y6sClT0QeyXrmuaq88glG"
@@ -3661,7 +3661,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 196489,
       "name": "Dikota Yang Sama",
       "url": "https://open.spotify.com/track/3noalAM3VwwhSvMwgRtOdb"
@@ -3838,6 +3838,24 @@
     },
     {
       "album": {
+        "name": "Don't Leave Me Now",
+        "url": "https://open.spotify.com/album/6T8xnLTymBWaJv7WNSNaJZ"
+      },
+      "artists": [
+        {
+          "name": "Kemal Dave",
+          "url": "https://open.spotify.com/artist/07ePMqEQlaEiE2r5QVTOAQ"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279824,
+      "name": "Don't Leave Me Now",
+      "url": "https://open.spotify.com/track/2V8ycpvrYT1m1NV4O8QR7j"
+    },
+    {
+      "album": {
         "name": "Don't Walk Away",
         "url": "https://open.spotify.com/album/4MPAJmWFLR31coJ8UoW18E"
       },
@@ -3867,7 +3885,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 171261,
       "name": "Don't You Go",
       "url": "https://open.spotify.com/track/7qINrsCcAiKCcAJcelpzQB"
@@ -4321,7 +4339,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 180573,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/69GmeA5mTdrbpxgsQnKD5p"
@@ -4549,7 +4567,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 218999,
       "name": "Feresy",
       "url": "https://open.spotify.com/track/3Ll6cpR9LADReX5YQsLzSM"
@@ -4567,7 +4585,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 297750,
       "name": "Figura",
       "url": "https://open.spotify.com/track/6GKcFTITqwSip9irjOozDg"
@@ -4769,7 +4787,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 232268,
       "name": "Forget Love",
       "url": "https://open.spotify.com/track/0gLZiJTW2VBkeoUBlT3e7h"
@@ -5337,7 +5355,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 124827,
       "name": "Hai Manis Lagi Apa Nih",
       "url": "https://open.spotify.com/track/7y70dHI6Vyr7trXi1FEi3h"
@@ -5579,7 +5597,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 225190,
       "name": "Hati Yang Salah",
       "url": "https://open.spotify.com/track/2YHI9cmQdtX8hV7NxKMcia"
@@ -5875,7 +5893,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 194312,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7qMXGcCbnTB4AAROsi9WuW"
@@ -6085,7 +6103,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 229500,
       "name": "I Could Be",
       "url": "https://open.spotify.com/track/1zAfxGhR6tW77L2UJ7azbR"
@@ -6765,7 +6783,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 226082,
       "name": "Influenza",
       "url": "https://open.spotify.com/track/7e7kfWQajrwYf4gHTkHMuV"
@@ -7506,6 +7524,24 @@
     },
     {
       "album": {
+        "name": "Kamu Bukan Sejarah",
+        "url": "https://open.spotify.com/album/7DIO74wT2ae00HTvNHYVHd"
+      },
+      "artists": [
+        {
+          "name": "Dinda Ghania",
+          "url": "https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190810,
+      "name": "Kamu Bukan Sejarah",
+      "url": "https://open.spotify.com/track/5LTGlsCCafTKZG63PilswE"
+    },
+    {
+      "album": {
         "name": "Kangen Kamu",
         "url": "https://open.spotify.com/album/4PAIOBJfnqMts1rbGeg7UN"
       },
@@ -7647,7 +7683,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 205090,
       "name": "Keep It This Way",
       "url": "https://open.spotify.com/track/11HbEquQhnApnsVmM4nxwy"
@@ -7723,7 +7759,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 226750,
       "name": "Kejamnya Dunia",
       "url": "https://open.spotify.com/track/3QyGXC6AkNFMyv74JayHou"
@@ -8131,7 +8167,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 245792,
       "name": "Lebih Baik Kesepian",
       "url": "https://open.spotify.com/track/2hQi92GVS6cSX3Ctw0n2eU"
@@ -8189,6 +8225,24 @@
       "duration_ms": 327314,
       "name": "Lekaslah Sembuh",
       "url": "https://open.spotify.com/track/6IUF2unlnenqpqQoZ4OAzd"
+    },
+    {
+      "album": {
+        "name": "Lelah",
+        "url": "https://open.spotify.com/album/1gC7jmVGv4roIglEJYWY1y"
+      },
+      "artists": [
+        {
+          "name": "Zanika",
+          "url": "https://open.spotify.com/artist/1pt62Q3By5sZXe4McD8bus"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251360,
+      "name": "Lelah",
+      "url": "https://open.spotify.com/track/1Irwr9p703D47S023U3JTo"
     },
     {
       "album": {
@@ -8637,7 +8691,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 290000,
       "name": "Love For Evermore",
       "url": "https://open.spotify.com/track/6IMrHuQELp3ShHMQrJqFNK"
@@ -9678,6 +9732,24 @@
     },
     {
       "album": {
+        "name": "Milliseconds",
+        "url": "https://open.spotify.com/album/73YnWvlOtTSvEqdNonOatH"
+      },
+      "artists": [
+        {
+          "name": "Azimah Fada",
+          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282954,
+      "name": "Milliseconds",
+      "url": "https://open.spotify.com/track/40uZFjFEJJMWJZpd8MwcY6"
+    },
+    {
+      "album": {
         "name": "Mimpi",
         "url": "https://open.spotify.com/album/3nlqyaP7f1pDlnbA6c4ujU"
       },
@@ -9971,7 +10043,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 245052,
       "name": "My Ways",
       "url": "https://open.spotify.com/track/0lgOyIxWf1A5PVkbxW4dOL"
@@ -10531,7 +10603,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 210302,
       "name": "On These Days",
       "url": "https://open.spotify.com/track/50tg0MhVYLYLlUIRkZMtlr"
@@ -10675,7 +10747,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 276000,
       "name": "OOE",
       "url": "https://open.spotify.com/track/0dCbszZUcAkVxAxTjv1M2K"
@@ -10755,7 +10827,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 178723,
       "name": "Outta Ur Mind",
       "url": "https://open.spotify.com/track/6UD20XNAKaAZ3YBfTEYiG8"
@@ -10960,6 +11032,24 @@
     },
     {
       "album": {
+        "name": "Penasaran",
+        "url": "https://open.spotify.com/album/04Ufb83ePEevNnQbTgLRaX"
+      },
+      "artists": [
+        {
+          "name": "TADI",
+          "url": "https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196914,
+      "name": "Penasaran",
+      "url": "https://open.spotify.com/track/57WrGCLZ2niF9I4og0Y6Ri"
+    },
+    {
+      "album": {
         "name": "Pendengar Terbaikmu",
         "url": "https://open.spotify.com/album/38I7RcUGZiD4gl0T6jeaNw"
       },
@@ -11079,7 +11169,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 191000,
       "name": "Percik / Sisa",
       "url": "https://open.spotify.com/track/55njNFlOd2Mtm9Ts9eX6Hm"
@@ -11303,7 +11393,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 200284,
       "name": "precious wall",
       "url": "https://open.spotify.com/track/711fqk0Mef2LTrqT7f7SvK"
@@ -11417,7 +11507,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 130533,
       "name": "QOQ (Quality Of Quantity)",
       "url": "https://open.spotify.com/track/6nI0uQ1bQDpn1SIf6N3Wuu"
@@ -11707,7 +11797,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 212466,
       "name": "Rehat",
       "url": "https://open.spotify.com/track/0ADuwm9OzELxnYBD0lBJpc"
@@ -11981,7 +12071,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 177740,
       "name": "Room 208",
       "url": "https://open.spotify.com/track/2rHSSkONJW6NVuLqPFoBUn"
@@ -12357,7 +12447,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 147503,
       "name": "Sampai Nanti",
       "url": "https://open.spotify.com/track/17MALrDyAzmbdfEGS65J99"
@@ -12527,7 +12617,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 207438,
       "name": "Say To You",
       "url": "https://open.spotify.com/track/6TzVlySQiD19ToP8nZAf1z"
@@ -12621,7 +12711,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 170467,
       "name": "secret",
       "url": "https://open.spotify.com/track/0fidHol1fH1yl5WpJtp2QF"
@@ -12765,7 +12855,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 221212,
       "name": "Semau-maumu",
       "url": "https://open.spotify.com/track/534adyxVMPYDNrpgYksogX"
@@ -13006,6 +13096,24 @@
     },
     {
       "album": {
+        "name": "Halfstoria",
+        "url": "https://open.spotify.com/album/65pZUsnAln7TSaFwegSEzD"
+      },
+      "artists": [
+        {
+          "name": "Caessaria",
+          "url": "https://open.spotify.com/artist/4Lqjj5kam5AMYcZvdkKTvd"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Seperti Babi",
+      "url": "https://open.spotify.com/track/2db8oXI1vxpegnQwRqiPGb"
+    },
+    {
+      "album": {
         "name": "Seperti Mereka",
         "url": "https://open.spotify.com/album/0cEnUTSYKC51N6ccdSsFbK"
       },
@@ -13101,7 +13209,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 183500,
       "name": "Set It Up",
       "url": "https://open.spotify.com/track/67lbvww5ckA2mwlsDizISx"
@@ -13195,6 +13303,24 @@
       "duration_ms": 141331,
       "name": "She So Bad (Dedicated For You) (Slowed + Reverb) - 2022 Remastered Version",
       "url": "https://open.spotify.com/track/2Lexzays0WTQYEyU3TazqF"
+    },
+    {
+      "album": {
+        "name": "Don't Make Any Expectations About Us - EP",
+        "url": "https://open.spotify.com/album/6xRuayDqlN9zMdkx5uVneO"
+      },
+      "artists": [
+        {
+          "name": "The White Flakes",
+          "url": "https://open.spotify.com/artist/5cjn9DTOV5zChT48Shd41k"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267007,
+      "name": "She Was 16",
+      "url": "https://open.spotify.com/track/3NkDzkpDpWmGuMrcqpH58A"
     },
     {
       "album": {
@@ -13645,6 +13771,24 @@
       "duration_ms": 183197,
       "name": "Something Different",
       "url": "https://open.spotify.com/track/10PKCKhE6tEjgKsQyh8Hul"
+    },
+    {
+      "album": {
+        "name": "Something More Than You",
+        "url": "https://open.spotify.com/album/5weA9xR4dT0gTfeNnPn0H8"
+      },
+      "artists": [
+        {
+          "name": "Abil Thufail",
+          "url": "https://open.spotify.com/artist/513CpMw4rlbm0nSgyEVqfO"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Something More Than You",
+      "url": "https://open.spotify.com/track/4gVvd96cZhc0BWBBlMWJJ0"
     },
     {
       "album": {
@@ -14704,6 +14848,24 @@
     },
     {
       "album": {
+        "name": "Taste of You",
+        "url": "https://open.spotify.com/album/3ry2byHe7IW7WaC2HlOKph"
+      },
+      "artists": [
+        {
+          "name": "Flueskies",
+          "url": "https://open.spotify.com/artist/73s3qYXkHlfJ5EzbsnBX7w"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224047,
+      "name": "Taste of You",
+      "url": "https://open.spotify.com/track/6Zi1FOMJzIPXXq5QP1hcfJ"
+    },
+    {
+      "album": {
         "name": "Tear Drop",
         "url": "https://open.spotify.com/album/71O4Y3mMJ7j52csFAMeWHP"
       },
@@ -15093,7 +15255,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 144000,
       "name": "The Life You Wanted",
       "url": "https://open.spotify.com/track/01XG1D7cQSiBNtA5BuHNh6"
@@ -15389,7 +15551,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 405333,
       "name": "Till I'm Forgiven",
       "url": "https://open.spotify.com/track/5HWBZo3yl45NOnvNr21xrd"
@@ -15541,7 +15703,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 248759,
       "name": "Too Good To Be True",
       "url": "https://open.spotify.com/track/7jeij8Q1MMWuWpKw2QHW7B"
@@ -16729,7 +16891,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 186000,
       "name": "You",
       "url": "https://open.spotify.com/track/5eTYLEFUEjkMazdUZarLJ9"
@@ -16899,6 +17061,24 @@
       "duration_ms": 195168,
       "name": "You're All I Need",
       "url": "https://open.spotify.com/track/2anWtMqqvSaPdtGDIkyT8f"
+    },
+    {
+      "album": {
+        "name": "You're Getting Older a Year",
+        "url": "https://open.spotify.com/album/3JXFa8YFv3KKTNyQzWElP8"
+      },
+      "artists": [
+        {
+          "name": "Myrza Fandhika",
+          "url": "https://open.spotify.com/artist/05PzbTy4rPnsy0VO3OUW9b"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268866,
+      "name": "You're Getting Older a Year",
+      "url": "https://open.spotify.com/track/5jr1UaWUde7y3G6SlGyZbf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Step Up for this Top Hit Telugu songs
 
-62 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/55N7eexil0MrFE02LmjUsZ)
+63 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/55N7eexil0MrFE02LmjUsZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Puttene Prema](https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs) | 3:46 | 2021-09-24 | 2022-07-29 |
 | [Puttene Prema](https://open.spotify.com/track/7LrGTUqYtt2SjoUfkQotXp) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/1mJ1tetqPpsLdQ8XyJRPuO) | 3:46 | 2021-09-24 | 2022-08-10 |
 | [Puttene Prema \(From "Gully Rowdy"\)](https://open.spotify.com/track/5jJZdMFA4bu71dmyISjMYS) | [Ram Miryala](https://open.spotify.com/artist/3yTbaDksVkNO0HnSzb35ZL) | [Best 2021 Love Songs](https://open.spotify.com/album/28Z0w9Wvc2Su65iDGAgZY1) | 3:46 | 2021-09-24 |  |
+| [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 | 2021-09-24 |  |
 | [Raaye Raaye](https://open.spotify.com/track/29qBy0joKFCno07bsANgFx) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xtHUDiKvUWB7IMLLdD3IN) | 3:30 | 2021-09-24 | 2022-07-29 |
 | [Reddy Ikkada Soodu](https://open.spotify.com/track/0AC0O74oBjVfCp0SHr3kQ6) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx), [Anjana Sowmya](https://open.spotify.com/artist/1MRWm9vbsdOdqD1GYQEihD) | [Aravindha Sametha](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 4:04 | 2021-09-24 |  |
 | [Rowdy Baby](https://open.spotify.com/track/7i0Fee6bIqMcj4VyO4gnPN) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Maari 2 \[Telugu\] \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22RsOcEtNYmdBQlCJ45SeQ) | 4:41 | 2021-09-24 |  |

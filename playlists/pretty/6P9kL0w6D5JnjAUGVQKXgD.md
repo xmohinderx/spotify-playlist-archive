@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, Kx5, deadmau5, Kaskade, Hayla
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,473 likes - 100 songs - 5 hr 11 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,474 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 65 | [Without You](https://open.spotify.com/track/1s47SzQECm3KBVTs70ZuaE) | [Jay Dixie](https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr) | [Without You](https://open.spotify.com/album/6XIesm3I61L982b2nw0nG2) | 2:24 |
 | 66 | [Dry & High \- Edit](https://open.spotify.com/track/0hzEI361Ekv59mGaVxp4Us) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Dry & High](https://open.spotify.com/album/5lczTqf9xL2Me3lzFmkW6x) | 3:38 |
 | 67 | [Teardrops \(feat\. Majid Jordan\)](https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Teardrops \(feat\. Majid Jordan\)](https://open.spotify.com/album/3Bq8vA5rwJGfe8KgT4Qdxy) | 2:50 |
-| 68 | [Fav Boyz \(feat\. Thutmose\) \- Steve Aoki's Gold Star Remix](https://open.spotify.com/track/0jYtnvT7QIGeAyJ5wbOZsj) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Fav Boyz \(Steve Aoki's Gold Star Remix\)](https://open.spotify.com/album/4p15vw43AeTpxA70sTnjvX) | 3:50 |
-| 69 | [These Nights](https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [These Nights](https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd) | 2:12 |
+| 68 | [These Nights](https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [These Nights](https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd) | 2:12 |
+| 69 | [Fav Boyz \(feat\. Thutmose\) \- Steve Aoki's Gold Star Remix](https://open.spotify.com/track/0jYtnvT7QIGeAyJ5wbOZsj) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Fav Boyz \(Steve Aoki's Gold Star Remix\)](https://open.spotify.com/album/4p15vw43AeTpxA70sTnjvX) | 3:50 |
 | 70 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 |
 | 71 | [STAY](https://open.spotify.com/track/4ArMwaJAUT2xC7vIETjqdU) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [STAY](https://open.spotify.com/album/123ztuDo7QJpwNbYMRGsRP) | 2:21 |
 | 72 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [LIGHTWAVES](https://open.spotify.com/track/46JbXTR6VNrnnoJJAsn6gN) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LIGHTWAVES](https://open.spotify.com/album/1JhkARu8eNtzhsxCNwjnte) | 2:21 |
 | 100 | [INTO THE UNKNOWN](https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng) | 3:58 |
 
-Snapshot ID: `MTM2NCwxMGUzNmRjNDY4YjVmZWE0ZGVhMzFjMTAyMmQyZDUyMTBkODVmMDY0`
+Snapshot ID: `MTM2NSxmMjY0M2ZhZTk3MDUzNzRhNWU5M2YyNWRkYmFiZDM0MzExMzczNjc3`

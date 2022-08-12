@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-110 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+111 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Baby Mine](https://open.spotify.com/track/0QuySdLpzsu6KNfvd79WVL) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Baby Mine](https://open.spotify.com/album/7uigbvctsvCz0qaxWUWVIW) | 2:17 | 2021-11-11 |  |
 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 | 2021-11-11 |  |
 | [Bedtimes Poems](https://open.spotify.com/track/6YpPCYMFLD5jU4lPptIRFF) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Bedtimes Poems](https://open.spotify.com/album/5AE0Q8Pjh7L6HpYobpbgdS) | 3:20 | 2022-06-10 |  |
+| [Bing Bong Song](https://open.spotify.com/track/7FNjRbEVcYgKVAtvGWeKjV) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Bing Bong Song](https://open.spotify.com/album/1ZJU0UL1r1yLihBg17hqq5) | 2:37 | 2022-08-11 |  |
 | [Blåsippor](https://open.spotify.com/track/0rGiMzYYgDInT9uJAhkhPi) | [Hjalmar Lagerqvist](https://open.spotify.com/artist/3Zk8GcjOL3OAI8zS8t1b0S) | [Blåsippor](https://open.spotify.com/album/0YdmV5pPDZOp30GXboRo3g) | 1:20 | 2021-11-11 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/4XpkimJZpewto3Pdy7fJ0v) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Zzzz](https://open.spotify.com/album/0qNimyY8eJHQRREEcznGGk) | 1:40 | 2021-11-11 | 2022-04-27 |
 | [Brahms Lullaby](https://open.spotify.com/track/6C5G5yWbUSPFiJvfuI1WaK) | [Jeffrey Keller](https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze) | [Amazing Grace](https://open.spotify.com/album/70Yu1jjbIaVz7Bhp5LsYWD) | 1:52 | 2022-04-26 |  |

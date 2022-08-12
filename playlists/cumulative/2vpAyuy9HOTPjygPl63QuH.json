@@ -2554,6 +2554,28 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Umaedo",
+          "url": "https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175424,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6"
+    },
+    {
+      "album": {
         "name": "Hold It (SQWAD Remix)",
         "url": "https://open.spotify.com/album/6ytNjlwlKEtxFcE5Xa2roI"
       },

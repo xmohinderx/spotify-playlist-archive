@@ -1,12 +1,12 @@
 {
   "description": "Indie music antimatter. Cover: Gorillaz",
-  "num_followers": 655588,
+  "num_followers": 655807,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk3ODY3OCwwMDAwMDAwMGQ5ZmY0NmRlNTA4NWMxMjUxZjc2MjBhNTBjZGI3NWY1",
+  "snapshot_id": "MTY1OTk3ODY3OCwwMDAwMDAwMDY2ODJjYWQyMGJlYmYyOTk5MDY1NWVmZGMwNDk5ODMw",
   "tracks": [
     {
       "added_at": "2022-08-08 17:11:17",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
+        "name": "Freakout/Release",
+        "url": "https://open.spotify.com/album/5SH3kCDtcn5XcNgxHPyZXx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 197372,
+      "name": "Freakout/Release",
+      "url": "https://open.spotify.com/track/2vnjsf8ju9ncJbnIEIKphO"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
         "name": "PORN ACTING*",
         "url": "https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 212763,
       "name": "Solar System",
       "url": "https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
-        "name": "Freakout/Release",
-        "url": "https://open.spotify.com/album/5SH3kCDtcn5XcNgxHPyZXx"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 197372,
-      "name": "Freakout/Release",
-      "url": "https://open.spotify.com/track/2vnjsf8ju9ncJbnIEIKphO"
     },
     {
       "added_at": "2022-08-08 17:11:17",

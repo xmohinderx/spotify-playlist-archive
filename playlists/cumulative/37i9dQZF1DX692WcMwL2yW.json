@@ -1908,6 +1908,24 @@
     },
     {
       "album": {
+        "name": "Haute",
+        "url": "https://open.spotify.com/album/0Y5EmDx0BdNzVkZxyGGy5i"
+      },
+      "artists": [
+        {
+          "name": "BLUE STEEL",
+          "url": "https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125216,
+      "name": "Haute",
+      "url": "https://open.spotify.com/track/3lvxTsa881E4gc6GHEOKGL"
+    },
+    {
+      "album": {
         "name": "Hear Me",
         "url": "https://open.spotify.com/album/4w1IUNKohLCeMuBoS3Svw1"
       },

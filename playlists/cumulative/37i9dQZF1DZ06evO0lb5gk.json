@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379800,
+      "name": "Adoration for none",
+      "url": "https://open.spotify.com/track/3l5h9gjuQDSC6CI0N6Fr0v"
+    },
+    {
+      "album": {
         "name": "Fortitude",
         "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
       },
@@ -829,7 +847,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 145173,
       "name": "Wisdom comes",
       "url": "https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 385706,
       "name": "Wolf down the earth",
       "url": "https://open.spotify.com/track/368sgQMnEzwo5mpShvPFJm"

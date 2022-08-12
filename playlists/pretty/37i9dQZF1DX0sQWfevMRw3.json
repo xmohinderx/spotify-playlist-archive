@@ -1,12 +1,12 @@
 {
   "description": "G\u00e5 loss till Spotifys fetaste festl\u00e5tar!",
-  "num_followers": 95009,
+  "num_followers": 95025,
   "original_name": "Det blir kaoz!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMGFlZjgxMzlkZDdhMDE5NDZhNTRmYTZmMjMxZjU2NjE4",
+  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMDNlM2Q5MWFmY2YzOGZjNzA1MzkzOGE1MjM4ZTRlZDdh",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:25",
@@ -695,30 +695,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Turning Me Up (Hadal Ahbek)",
-        "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        },
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Turning Me Up (Hadal Ahbek)",
-      "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -743,22 +719,26 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "White Lies",
-        "url": "https://open.spotify.com/album/6N3kk3LU2L3KweZh6vTq0a"
+        "name": "Turning Me Up (Hadal Ahbek)",
+        "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
         },
         {
-          "name": "Tokio Hotel",
-          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
         }
       ],
-      "duration_ms": 183588,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/2QuQkdLLzgktXwruPAz6f4"
+      "duration_ms": 144000,
+      "name": "Turning Me Up (Hadal Ahbek)",
+      "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -783,6 +763,26 @@
       "duration_ms": 206769,
       "name": "Blink 2022",
       "url": "https://open.spotify.com/track/3g8DqSjSZyY1o30Y4xnWqs"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/6N3kk3LU2L3KweZh6vTq0a"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/2QuQkdLLzgktXwruPAz6f4"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Boom Boom Pow",
-        "url": "https://open.spotify.com/album/3UTRfRr2s6XLj3It38Vw8d"
-      },
-      "artists": [
-        {
-          "name": "Zafrir",
-          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
-        },
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "Boom Boom Pow",
-      "url": "https://open.spotify.com/track/4S2qrsdY4BF0T5UFQLtqoU"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Baddest",
         "url": "https://open.spotify.com/album/0ayLG9HLt07N00Ycl60y5J"
       },
@@ -951,18 +931,42 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Die Young",
-        "url": "https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy"
+        "name": "Boom Boom Pow",
+        "url": "https://open.spotify.com/album/3UTRfRr2s6XLj3It38Vw8d"
       },
       "artists": [
         {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 150348,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP"
+      "duration_ms": 185413,
+      "name": "Boom Boom Pow",
+      "url": "https://open.spotify.com/track/4S2qrsdY4BF0T5UFQLtqoU"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "To the Moon",
+        "url": "https://open.spotify.com/album/7a33tuAXRrTQpjzIlUv57M"
+      },
+      "artists": [
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        }
+      ],
+      "duration_ms": 178812,
+      "name": "To the Moon",
+      "url": "https://open.spotify.com/track/68j909ukxFuw5Pwjwzx3X2"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -995,26 +999,6 @@
       "duration_ms": 187214,
       "name": "Life Like This",
       "url": "https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "To the Moon",
-        "url": "https://open.spotify.com/album/7a33tuAXRrTQpjzIlUv57M"
-      },
-      "artists": [
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        }
-      ],
-      "duration_ms": 178812,
-      "name": "To the Moon",
-      "url": "https://open.spotify.com/track/68j909ukxFuw5Pwjwzx3X2"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1099,6 +1083,26 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Lovers Say Goodbye",
+        "url": "https://open.spotify.com/album/2SCHhLKJQTLI3OExmZYaTz"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        }
+      ],
+      "duration_ms": 137213,
+      "name": "Lovers Say Goodbye",
+      "url": "https://open.spotify.com/track/7aVvHrB8hLb7421u4sp7S8"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Survivors",
         "url": "https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H"
       },
@@ -1135,26 +1139,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Lovers Say Goodbye",
-        "url": "https://open.spotify.com/album/2SCHhLKJQTLI3OExmZYaTz"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        }
-      ],
-      "duration_ms": 137213,
-      "name": "Lovers Say Goodbye",
-      "url": "https://open.spotify.com/track/7aVvHrB8hLb7421u4sp7S8"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "The Club Is Jumpin'",
         "url": "https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 135483,
       "name": "The Club Is Jumpin'",
       "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "SKOGSREJV",
+        "url": "https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "SKOGSREJV",
+      "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "SKOGSREJV",
-        "url": "https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "SKOGSREJV",
-      "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc"
       },
@@ -1247,30 +1231,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Leave The World Behind (feat. Alida)",
-        "url": "https://open.spotify.com/album/3zzjC0LclbWZxd59t6nlnU"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 179092,
-      "name": "Leave The World Behind (feat. Alida)",
-      "url": "https://open.spotify.com/track/7iVcAvK53hv3l2lHFzCyhW"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Sao Paulo",
         "url": "https://open.spotify.com/album/521mw9CgSRTzUDE594y3PK"
       },
@@ -1291,6 +1251,30 @@
       "duration_ms": 190312,
       "name": "Sao Paulo",
       "url": "https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Leave The World Behind (feat. Alida)",
+        "url": "https://open.spotify.com/album/3zzjC0LclbWZxd59t6nlnU"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 179092,
+      "name": "Leave The World Behind (feat. Alida)",
+      "url": "https://open.spotify.com/track/7iVcAvK53hv3l2lHFzCyhW"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1363,6 +1347,26 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Dance Until We Die",
+        "url": "https://open.spotify.com/album/7mmsP9uS2XOt70OnCdh43O"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "duration_ms": 122306,
+      "name": "Dance Until We Die",
+      "url": "https://open.spotify.com/track/3UX5bcccqDs6KYxqmeHvYb"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "What Is Love (feat. Nito-Onna)",
         "url": "https://open.spotify.com/album/7FFM8eDpTQPPVPrYoPu7gM"
       },
@@ -1391,26 +1395,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Dance Until We Die",
-        "url": "https://open.spotify.com/album/7mmsP9uS2XOt70OnCdh43O"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        }
-      ],
-      "duration_ms": 122306,
-      "name": "Dance Until We Die",
-      "url": "https://open.spotify.com/track/3UX5bcccqDs6KYxqmeHvYb"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/1QxdQYatNANaOMbnWmFw3F"
       },
@@ -1423,26 +1407,6 @@
       "duration_ms": 191250,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Stars Align (with Jolin Tsai)",
-        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Stars Align (with Jolin Tsai)",
-      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1467,6 +1431,26 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Stars Align (with Jolin Tsai)",
+        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Stars Align (with Jolin Tsai)",
+      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/10nkgVSZHm8Lr5ZuoqQQ7R"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 120000,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5jQxnJIy96OrUKQy8phVzh"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "IN I DIMMAN",
+        "url": "https://open.spotify.com/album/3DaOp0K3QU4qjprrt8qvsN"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "IN I DIMMAN",
+      "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "IN I DIMMAN",
-        "url": "https://open.spotify.com/album/3DaOp0K3QU4qjprrt8qvsN"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "IN I DIMMAN",
-      "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Rave In My Garage",
         "url": "https://open.spotify.com/album/493kHHcF2GPYpqtdMOxrcz"
       },
@@ -1559,30 +1543,6 @@
       "duration_ms": 140921,
       "name": "Rave In My Garage",
       "url": "https://open.spotify.com/track/4jy2oAJR2w61b9OMhx5pow"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Paradise (Topic Remix)",
-        "url": "https://open.spotify.com/album/7AzUBs2mUyC8CX9yPJkr2F"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 173709,
-      "name": "Paradise - Topic Remix",
-      "url": "https://open.spotify.com/track/4PZW5GQCtmdHAocDXLdU4j"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1611,6 +1571,30 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Paradise (Topic Remix)",
+        "url": "https://open.spotify.com/album/7AzUBs2mUyC8CX9yPJkr2F"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 173709,
+      "name": "Paradise - Topic Remix",
+      "url": "https://open.spotify.com/track/4PZW5GQCtmdHAocDXLdU4j"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/5hiXbFtIogyB0v5IQi2bFM"
       },
@@ -1631,6 +1615,26 @@
       "duration_ms": 147968,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2kCcvWpTKvKH9JLyioUAr0"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Booty Call",
+        "url": "https://open.spotify.com/album/1arVLyiIrvLgfFzvCG6N3I"
+      },
+      "artists": [
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 126500,
+      "name": "Booty Call",
+      "url": "https://open.spotify.com/track/41kMShsVIBgBYl3dIu6I0L"
     },
     {
       "added_at": "2022-07-28 22:10:25",

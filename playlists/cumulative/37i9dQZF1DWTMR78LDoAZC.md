@@ -2,7 +2,7 @@
 
 ### [Alternative Pride](https://open.spotify.com/playlist/37i9dQZF1DWTMR78LDoAZC)
 
-> The cool, indie/alt LGBTQQIA+ artists\. Cover: serpentwithfeet
+> Left of center indie/alternative LGBTQQIA+ artists\. Cover: serpentwithfeet
 
 147 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/1o8ms1O56QTOUykDBE7miG)
 

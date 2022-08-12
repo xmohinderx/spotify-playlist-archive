@@ -2,9 +2,9 @@
 
 ### [República Dembow](https://open.spotify.com/playlist/37i9dQZF1DWU3iv5mH3inV)
 
-> Prendete con tu lista favorita de Dembow\. Foto: Harry Nach, ITHAN NY, Galee Galee & Julianno Sosa.
+> Prendete con tu lista favorita de Dembow\. Foto: Tokischa
 
-254 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/0M7kUlhLiJGAPIrDjqZTS6)
+256 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/0M7kUlhLiJGAPIrDjqZTS6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bailalo](https://open.spotify.com/track/5qq6alfo5oP3H2vAdnAXkW) | [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Bailalo](https://open.spotify.com/album/1rfDlUcAZZALSkz3FWGbwQ) | 4:10 | 2021-12-10 | 2022-07-28 |
 | [Bailalo](https://open.spotify.com/track/0WIZPUEYMsLBMidzp9wf5j) | [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [HIT DEMBOW](https://open.spotify.com/album/53nhDhd29gXKOnE3vUS1DR) | 4:10 | 2022-05-28 | 2022-08-06 |
 | [Bailalo](https://open.spotify.com/track/7nO4lwCsURRXPjHo2ogvyF) | [Es Ariiel](https://open.spotify.com/artist/5GZ8MDYCuRFNoWG6Hepilz) | [Bailalo](https://open.spotify.com/album/7sGSTHZcGu1bMJ5amdW648) | 3:30 | 2022-01-04 | 2022-07-14 |
-| [Banda de Camion](https://open.spotify.com/track/2Ew7SW6TFwh4ddOhF38gi3) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Exitos Vol\. 1](https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU) | 3:16 | 2021-12-10 |  |
+| [Banda de Camion](https://open.spotify.com/track/2Ew7SW6TFwh4ddOhF38gi3) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Exitos Vol\. 1](https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU) | 3:16 | 2021-12-10 | 2022-08-12 |
 | [Bruja](https://open.spotify.com/track/5cxFAkgM6Gr9VFUr164Cos) | [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Bruja](https://open.spotify.com/album/7eBXArBA76Ul3M0g0gYUwA) | 2:51 | 2021-12-10 | 2022-07-29 |
 | [Brum Brum](https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Mr Brum Brum](https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40) | 2:52 | 2022-05-28 |  |
 | [Brum Brum](https://open.spotify.com/track/7J2W6n9CZDPmSVRjvEqkCQ) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Mr\. Brum Brum](https://open.spotify.com/album/2sPSfsRZZIol98oVlokN23) | 2:52 | 2021-12-10 | 2022-07-29 |
@@ -44,7 +44,7 @@
 | [Como Lo Capo](https://open.spotify.com/track/2YZgIF2JqepI5t3cZked9P) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Exitos del Dembow](https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0) | 4:48 | 2022-01-04 | 2022-07-15 |
 | [Como Yo Me Muevo](https://open.spotify.com/track/4apCtWKV39QyY7HUM6CTjY) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Dembow Exitos Vol\. 2](https://open.spotify.com/album/5uZUBnJDzBQAonZTM8PMLc) | 3:33 | 2021-12-10 | 2022-07-29 |
 | [Con Papa](https://open.spotify.com/track/5MppiyGbeD1JD0S7xgjObY) | [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q) | [La Libreta](https://open.spotify.com/album/4r1uqJ1sszy08pw3ehLcZh) | 3:13 | 2021-12-10 | 2022-07-23 |
-| [Con Silenciador](https://open.spotify.com/track/0CcQ48Vvf92W69agjplFmf) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [El Hombre](https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF) | 2:54 | 2022-05-28 |  |
+| [Con Silenciador](https://open.spotify.com/track/0CcQ48Vvf92W69agjplFmf) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [El Hombre](https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF) | 2:54 | 2022-05-28 | 2022-08-12 |
 | [Con Silenciador \(feat\. Anuel Aa\)](https://open.spotify.com/track/0T3Wg1Xf7HidFDTV0G4vEf) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [El Hombre](https://open.spotify.com/album/4PmIVwteqF16NOwoc2N0Pv) | 2:54 | 2021-12-10 | 2022-07-29 |
 | [Controla](https://open.spotify.com/track/1IXtqDHrziebliIRwciMHp) | [Sagcy](https://open.spotify.com/artist/4B91O0qMYtFEdc7wBrknT7), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Controla](https://open.spotify.com/album/1549LYCWsYWHPNItxIoi3n) | 2:49 | 2022-07-15 |  |
 | [Correazo](https://open.spotify.com/track/4umcAU9DuUctlImkcPATuB) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Correazo](https://open.spotify.com/album/4uCBlytvY5Y1XjtD67Zgn0) | 4:11 | 2021-12-10 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 | 2022-05-28 |  |
 | [Flyte](https://open.spotify.com/track/3YqTzC9YYQmiT5nDZgl01q) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk) | [Flyte](https://open.spotify.com/album/1oU2I4CFdemDR3aMtllc4h) | 3:14 | 2022-01-04 |  |
 | [Fuin Fuan](https://open.spotify.com/track/56EaO15oQUW0LrdcPIqOsT) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Exitos Vol\. 1](https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU) | 3:14 | 2021-12-10 | 2022-07-21 |
+| [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-08-11 |  |
 | [Guaya Guaya](https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:13 | 2021-12-10 |  |
 | [Guayabu](https://open.spotify.com/track/4ham8pWNaq8hCNtBXcQSiB) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk) | [Guayabu](https://open.spotify.com/album/28jJ2OiH7kFlUU2ILwDCmH) | 3:02 | 2021-12-10 | 2022-07-28 |
 | [Hablo](https://open.spotify.com/track/0yoWG7P5ViDLDcT5RjfEFR) | [Atuedad Va Segui](https://open.spotify.com/artist/2gmxjDsylLO5gWBeOBuO16), [Choco el Artista](https://open.spotify.com/artist/3S8gReptl7Q0T0f9ODyNZk) | [Hablo](https://open.spotify.com/album/202rIIguv3yFFpj9Hnkm8V) | 2:00 | 2022-01-04 | 2022-07-20 |
@@ -135,6 +136,7 @@
 | [Llevo La Vainita](https://open.spotify.com/track/1r7AXKQ0MQt3n65UYQ4XVF) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Llevo La Vainita](https://open.spotify.com/album/2v4PGOWo3I1mohKUjIqrjy) | 2:40 | 2022-01-04 | 2022-07-23 |
 | [Lokitroky \(Dembow Version\)](https://open.spotify.com/track/2HwnSUWQD8gqULSL6D2M88) | [Sarita](https://open.spotify.com/artist/1QxkThT4UZIVSv5KS7KS8I), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Lokitroky \(Dembow Version\)](https://open.spotify.com/album/7rubcrIZUCKciQ5aBGtByG) | 1:47 | 2022-04-20 | 2022-05-20 |
 | [Lorito](https://open.spotify.com/track/4QMzXTX5ePQIwdj4bJktFz) | [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq) | [Lorito](https://open.spotify.com/album/0oGOljyN6qexxje71tp3lb) | 2:22 | 2022-03-22 |  |
+| [LOS APARATOS](https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [LOS APARATOS](https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi) | 3:52 | 2022-08-11 |  |
 | [Los Bobo Son Mio](https://open.spotify.com/track/0CPwDsfPXKLigbah6wLCs7) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Los Bobo Son Mio](https://open.spotify.com/album/0XZwEGuc5TfJ7cv0a8yWxm) | 2:11 | 2021-12-10 | 2022-07-29 |
 | [Los Bobo Son Mio](https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Los Bobo Son Mio](https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF) | 2:11 | 2022-05-28 |  |
 | [Los Domingos Temprano](https://open.spotify.com/track/5O9Q7SvqRLXHdqA8V1zZST) | [Juangra 90](https://open.spotify.com/artist/2sHwzEqZEFO9KSRZSGQtE1), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Los Domingos Temprano](https://open.spotify.com/album/5jiIrj2Tv4DuLQRvr2Whje) | 2:47 | 2021-12-10 | 2022-07-25 |

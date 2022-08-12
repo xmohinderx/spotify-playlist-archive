@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-70 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
+71 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Distant Stars](https://open.spotify.com/track/4Wtytfcgk9Giy8Hea4DG1i) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Distant Stars](https://open.spotify.com/album/2Wv7iYzGIQwUGLuZBUbkGR) | 3:19 | 2022-08-05 |  |
 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 | 2022-08-05 |  |
 | [Doodling Radar](https://open.spotify.com/track/335ANcnuKDzAuvQvGoklAh) | [Paco Salazar](https://open.spotify.com/artist/5Syv7DIBildXX75Q22tu74) | [Male Beige Reality](https://open.spotify.com/album/2lIY4Vw9rUNu7GwsrLXbrB) | 8:30 | 2022-08-05 |  |
+| [Dragged by the Hand](https://open.spotify.com/track/5f8sbbWtGlVnMq7NdZSllo) | [Mutes](https://open.spotify.com/artist/52mqrsNlDf6CVhB6XJ6LHf) | [Dreams of Being Cornered](https://open.spotify.com/album/6zMCRZbdkAeiJTE3tZSmja) | 3:06 | 2022-08-11 |  |
 | [Dreamscape](https://open.spotify.com/track/79MhYCmw3XxLkMDHpPf2Tg) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Dreamscape](https://open.spotify.com/album/1qUHMN6ZXyCcYYXG5il9m4) | 5:00 | 2022-08-05 |  |
 | [Due North](https://open.spotify.com/track/2tUdai2UU5XoQelnTlew61) | [Peter Belec](https://open.spotify.com/artist/012xNfNlm7MiRwB2DuLaAu), [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Due North](https://open.spotify.com/album/6gu3jUasUB7uoy39BcBDvu) | 4:31 | 2022-08-05 |  |
 | [Ego Death](https://open.spotify.com/track/7nIaS8QW9aEkv2GUqGKXlo) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [Ego Death](https://open.spotify.com/album/1kBNO8Ioax8naEW0f7Y08R) | 6:40 | 2022-08-05 |  |

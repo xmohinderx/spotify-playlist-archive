@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, fasma\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,640 likes - 114 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,660 likes - 114 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 113 | [Punti di vista](https://open.spotify.com/track/5zi9PcOcGBQNbYGOquC4Lt) | [Mael+](https://open.spotify.com/artist/5WI9ughINoRS2iom1SU79n), [Puhf](https://open.spotify.com/artist/6Wg5mZaSksZatBkTApBsPj) | [Dove la luce non arriva](https://open.spotify.com/album/2nc0nFlQBDrqriStBtOEZs) | 2:43 |
 | 114 | [IO E TE](https://open.spotify.com/track/1jS9xU5AESvZSh1oDdtYDi) | [POLDOWG](https://open.spotify.com/artist/66jtpmf7aFU5KZXlAavqai), [GIOVXNE XNGELO](https://open.spotify.com/artist/1pdz43cnj0LpwSKD2z1NiA), [MXLVE](https://open.spotify.com/artist/2OEOLS6EFBBeiKgS58NsRh) | [IO E TE](https://open.spotify.com/album/7AZ5f357ol3fZtu83pR6st) | 2:49 |
 
-Snapshot ID: `MTY1OTY1MDQ2MCwwMDAwMDAwMGJhMDUxMDljZjc0NTBjNmI2MjhiNGQ0NWJhM2JmOGI1`
+Snapshot ID: `MTY2MDI1NTI2MCwwMDAwMDAwMDAyMjdlODQ3NjgwOWZlZjBkNjNiODI4ZjJmNDVmMmZh`

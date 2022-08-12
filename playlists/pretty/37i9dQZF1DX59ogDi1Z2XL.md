@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Lou Phelps
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,297 likes - 99 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,338 likes - 99 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 22 | [Back Again](https://open.spotify.com/track/2DJWzVAEjXu18mrqd4hphP) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [LB SPIFFY](https://open.spotify.com/artist/1f9suOMh8g32gAfMAHoNCI) | [Back Again](https://open.spotify.com/album/33VKyenlLfxRLnBKxC8yXi) | 2:11 |
 | 23 | [STUDIO VIBEZ](https://open.spotify.com/track/0kcthuFOWEHrbUiDAJfnRO) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [STUDIO VIBEZ](https://open.spotify.com/album/11lzteeRXXyfgRfBfWFhva) | 3:15 |
 | 24 | [Even When I'm Dolo](https://open.spotify.com/track/3loMfrPkkwIZbbrFbr0SKG) | [Pvrx](https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ) | [Even When I'm Dolo](https://open.spotify.com/album/3A72NhY1c0CSzZfbVe83Ge) | 1:46 |
-| 25 | [Legends Never Die](https://open.spotify.com/track/3tNnfVqWt21iy8qqEjf0vP) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Legends Never Die](https://open.spotify.com/album/2tn2GnKecKdjKWy81qdVZh) | 3:25 |
+| 25 | [Legends Never Die](https://open.spotify.com/track/2brVCu8vXT1AaCXz7MFjC6) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Pressure](https://open.spotify.com/album/56Rs3X51PNd1VmiN16K5fM) | 3:25 |
 | 26 | [Soulmate](https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Soulmate](https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr) | 3:11 |
 | 27 | [City Of Serpents](https://open.spotify.com/track/1lgUY0CDC92SbaVwcpyaRn) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [City Of Serpents](https://open.spotify.com/album/5ih9wrmTQmzJR4G1aCpGfQ) | 2:07 |
 | 28 | [Rush Hour Freestyle](https://open.spotify.com/track/6qJzLnyBXtq4XMuX98chkI) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Rush Hour Freestyle](https://open.spotify.com/album/0jrhdIDcWAq9gFmYcGBeqw) | 2:27 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 98 | [Big Willy](https://open.spotify.com/track/6VAZPdIBl2UCiDPjhrwPkh) | [Tre Nyce](https://open.spotify.com/artist/3HOxm7dZ7yd2mHjE6HQlS5) | [Big Willy](https://open.spotify.com/album/51vRpCYDf1RD0C4VciFTIe) | 2:13 |
 | 99 | [Head Space Freestyle](https://open.spotify.com/track/6gAjaV0vxSuKVw6DIuplvP) | [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Temia](https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa) | [Head Space Freestyle](https://open.spotify.com/album/4pNVj7o6u8ol0UmQlHzJJa) | 1:49 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGEwMTM3YmU1NDk1Y2FjOGNhYjY4MWMyZTU2ZTkxN2Zj`
+Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGFjNDZhZWE3MDljOTQ4YTFiN2RmYzMwZTA4OWIwZjQw`

@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. yungblud
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. deathbyromy
 
-267 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+269 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [MIDNIGHT MASS](https://open.spotify.com/track/19Rs8vYHdVLUzXVTjP3XrM) | [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4), [Matty Beats](https://open.spotify.com/artist/76AcKdJ3hdlxtEWPCUumqT) | [MIDNIGHT MASS](https://open.spotify.com/album/7iEDDAnSlGoep1RtdWyC3z) | 2:48 | 2022-03-04 |  |
 | [MIKE](https://open.spotify.com/track/4WkfTWEVvYavJ5DP14Trh7) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [MIKE](https://open.spotify.com/album/15SUIAmkfSHSByyyH4Savt) | 2:03 | 2022-02-18 | 2022-05-20 |
 | [MIND ON DRUGS](https://open.spotify.com/track/0OPFDnCPCwHk9O83lqBxzq) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [HOMELESS STAR](https://open.spotify.com/album/1vmk95l8FDuRgVyvplEQqw) | 2:09 | 2021-12-27 | 2022-01-19 |
+| [MINE](https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [MINE](https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU) | 2:02 | 2022-08-11 |  |
 | [Misfit](https://open.spotify.com/track/0VGRtiYYW4ch4SrkFkLlYJ) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Misfit](https://open.spotify.com/album/67szcbtvGILfdqgbg6MpNc) | 2:26 | 2021-12-27 | 2022-06-10 |
 | [Miss YOU!](https://open.spotify.com/track/3pXVmZh293nWtqxildz9jf) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Miss YOU!](https://open.spotify.com/album/1N4sOPjYya80HsT6idMO0f) | 1:32 | 2022-04-19 | 2022-04-29 |
 | [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 |  |
@@ -242,6 +243,7 @@
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-17 | 2022-08-05 |
 | [THE HUNTED](https://open.spotify.com/track/51E0TK4Hf3XMe87RQzVJAi) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [PREY//IV](https://open.spotify.com/album/0MA1g3G6pOmh1cc4FALDrZ) | 2:46 | 2022-02-18 |  |
 | [THE OUTSiDE](https://open.spotify.com/track/4w3wVlczJyL4zC627TcrFP) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [THE OUTSiDE](https://open.spotify.com/album/2fmiqcpr7yDQSuy3aUz9KY) | 3:03 | 2022-06-30 |  |
+| [The Void Stares Back](https://open.spotify.com/track/5V2okh49WkuGz0IvnRuqWL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [The Void Stares Back](https://open.spotify.com/album/0rUlejX6IaCZVF9oWgtwu7) | 3:51 | 2022-08-11 |  |
 | [THERAPY!](https://open.spotify.com/track/0GAWAziokyaTDufed63rEh) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [THERAPY!](https://open.spotify.com/album/54dV3Js8IaKPHDtF7vi6mW) | 2:13 | 2022-02-12 | 2022-08-06 |
 | [THERAPY!](https://open.spotify.com/track/6lzW55cVEYSovFmM4EcSS6) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL) | 2:13 | 2022-08-04 |  |
 | [this might be our last december](https://open.spotify.com/track/0M1dASu7GXGN0Bry7XcNRR) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [this might be our last december](https://open.spotify.com/album/0cOJKej242GN1wt65WW3N3) | 2:28 | 2021-12-27 | 2022-01-19 |

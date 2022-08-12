@@ -342,6 +342,24 @@
     },
     {
       "album": {
+        "name": "EL HALAL",
+        "url": "https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230208,
+      "name": "EL HALAL",
+      "url": "https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P"
+    },
+    {
+      "album": {
         "name": "MAQSOUM",
         "url": "https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Descubra Veigh e novos talentos brasileiros no horizonte.",
-  "num_followers": 421727,
+  "num_followers": 421721,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkyOTYwOCwwMDAwMDAwMDQxNjQxZTcyMzk5ZTdlYTMwMWQ1YmFiOThiNmU1ZTI3",
+  "snapshot_id": "MTY1ODkyOTYwOCwwMDAwMDAwMDZmOWYyMzYwY2Q3MmQ2ZTczYzQ0MTM5NDRiYzk2YjRi",
   "tracks": [
     {
       "added_at": "2022-07-27 13:46:48",
@@ -519,26 +519,6 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
-        "name": "Meu Amor",
-        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        },
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        }
-      ],
-      "duration_ms": 146347,
-      "name": "Meu Amor",
-      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
         "name": "Garrafa Colorida",
         "url": "https://open.spotify.com/album/13nFR7PUVvMRC1jx2BgFmC"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 164000,
       "name": "Garrafa Colorida",
       "url": "https://open.spotify.com/track/1JtXsY6NZbBhuBq0X8dzgE"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
+        "name": "Meu Amor",
+        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        },
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        }
+      ],
+      "duration_ms": 146347,
+      "name": "Meu Amor",
+      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
     },
     {
       "added_at": "2022-07-27 13:46:48",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
+        "name": "Capa de Revista",
+        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "Capa de Revista",
+      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
         "name": "Eu e Eu",
         "url": "https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 162799,
       "name": "Eu e Eu",
       "url": "https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
-        "name": "Capa de Revista",
-        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174314,
-      "name": "Capa de Revista",
-      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
     },
     {
       "added_at": "2022-07-27 13:46:48",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
-        "name": "Bendito Rol\u00ea",
-        "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        }
-      ],
-      "duration_ms": 185749,
-      "name": "Eu Fico",
-      "url": "https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
         "name": "BXD IN JAZZ",
         "url": "https://open.spotify.com/album/2ocVVPThABbahLeYHR9FBO"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 173147,
       "name": "Meu Grande Amor",
       "url": "https://open.spotify.com/track/06leULDpUK6vlq3I29zdvr"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
+        "name": "Bendito Rol\u00ea",
+        "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "Eu Fico",
+      "url": "https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT"
     },
     {
       "added_at": "2022-07-27 13:46:48",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
-        "name": "Sextou BB 4 Completo (Ao Vivo em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/7fj0Le4QkGQQkGdoZZtsGw"
-      },
-      "artists": [
-        {
-          "name": "\u00cdcaro e Gilmar",
-          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
-        }
-      ],
-      "duration_ms": 163879,
-      "name": "Que Amigo \u00c9 Esse (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6Ur3usqEbguXdqoc1WjA3K"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
         "name": "Comum - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 211428,
       "name": "Comum - A COLORS SHOW",
       "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
+        "name": "Sextou BB 4 Completo (Ao Vivo em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/7fj0Le4QkGQQkGdoZZtsGw"
+      },
+      "artists": [
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        }
+      ],
+      "duration_ms": 163879,
+      "name": "Que Amigo \u00c9 Esse (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6Ur3usqEbguXdqoc1WjA3K"
     },
     {
       "added_at": "2022-07-27 13:46:48",
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 139644,
-      "name": "Festa do Pijama",
-      "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 216923,
       "name": "Potranca",
       "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 139644,
+      "name": "Festa do Pijama",
+      "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
     },
     {
       "added_at": "2022-07-27 13:46:48",
@@ -1067,42 +1067,6 @@
     {
       "added_at": "2022-07-27 13:46:48",
       "album": {
-        "name": "S\u00f3 Me Liga pra Fazer Amor",
-        "url": "https://open.spotify.com/album/1Yscc4bPFtdYy7jduWE0Pa"
-      },
-      "artists": [
-        {
-          "name": "Nanara Bello",
-          "url": "https://open.spotify.com/artist/7qc6f7TxR5gpcuxBqVyZXb"
-        },
-        {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
-        }
-      ],
-      "duration_ms": 155382,
-      "name": "S\u00f3 Me Liga pra Fazer Amor",
-      "url": "https://open.spotify.com/track/1k1rB1VVyH72Woe4jS7SRt"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
-        "name": "Devagarin",
-        "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 154331,
-      "name": "Devagarin",
-      "url": "https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I"
-    },
-    {
-      "added_at": "2022-07-27 13:46:48",
-      "album": {
         "name": "Encruzilhada",
         "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
@@ -1119,6 +1083,22 @@
       "duration_ms": 151374,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
+        "name": "Devagarin",
+        "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 154331,
+      "name": "Devagarin",
+      "url": "https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I"
     },
     {
       "added_at": "2022-07-27 13:46:48",
@@ -1143,6 +1123,26 @@
       "duration_ms": 191911,
       "name": "Carta Que N\u00e3o Diz",
       "url": "https://open.spotify.com/track/2iXQ3CYVGQihlFpWCDDmJM"
+    },
+    {
+      "added_at": "2022-07-27 13:46:48",
+      "album": {
+        "name": "S\u00f3 Me Liga pra Fazer Amor",
+        "url": "https://open.spotify.com/album/1Yscc4bPFtdYy7jduWE0Pa"
+      },
+      "artists": [
+        {
+          "name": "Nanara Bello",
+          "url": "https://open.spotify.com/artist/7qc6f7TxR5gpcuxBqVyZXb"
+        },
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        }
+      ],
+      "duration_ms": 155382,
+      "name": "S\u00f3 Me Liga pra Fazer Amor",
+      "url": "https://open.spotify.com/track/1k1rB1VVyH72Woe4jS7SRt"
     },
     {
       "added_at": "2022-07-27 13:46:48",

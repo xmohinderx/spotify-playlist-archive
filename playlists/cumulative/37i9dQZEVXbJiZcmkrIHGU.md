@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,187 songs - 2 day 11 hr 14 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,188 songs - 2 day 11 hr 16 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,7 +781,7 @@
 | [Nicht adoptiert](https://open.spotify.com/track/6THVN1t1YtharuYdRhINBj) | [Alligatoah](https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb) | [Nicht adoptiert](https://open.spotify.com/album/4sfLHhUt5aCBBFkhMhBQNW) | 4:30 | 2022-03-12 | 2022-03-18 |
 | [Nicht da](https://open.spotify.com/track/1hmVbvTeSxe8lul1azKFgJ) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Nicht da](https://open.spotify.com/album/6cz2TinesOyBr1T7aEb7mq) | 2:43 | 2021-04-04 | 2021-04-11 |
 | [NICHT MEHR HIER](https://open.spotify.com/track/12igldvVbaELKrGqUaFsMT) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [AQUA](https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G) | 3:03 | 2021-07-04 | 2021-07-05 |
-| [Nicht verdient](https://open.spotify.com/track/1dVlMBDEkmRUZYZUOjGyfM) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Nicht verdient](https://open.spotify.com/album/2dQcXp89kpS2dLq5iHmeeZ) | 3:02 | 2022-08-06 |  |
+| [Nicht verdient](https://open.spotify.com/track/1dVlMBDEkmRUZYZUOjGyfM) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Nicht verdient](https://open.spotify.com/album/2dQcXp89kpS2dLq5iHmeeZ) | 3:02 | 2022-08-06 | 2022-08-12 |
 | [Nie begegnet](https://open.spotify.com/track/1oIzxvT61wXOtHjcL4Sybm) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Nie begegnet](https://open.spotify.com/album/5h1c4p8ZXHFj87z3HS18Ok) | 2:45 | 2022-03-24 | 2022-03-27 |
 | [Nie mehr Fastelovend](https://open.spotify.com/track/7AAcQMV6Uw3YXt9TTx4b6r) | [Querbeat](https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4) | [Fettes Q](https://open.spotify.com/album/4JNEX0FgXfXzYHdwcAPBH8) | 3:28 | 2022-02-25 | 2022-02-27 |
 | [Nie mehr zurück \(feat\. Kool Savas & Sido\)](https://open.spotify.com/track/52c2AgZdJgB34tYvo9uL20) | [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb), [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Nie mehr zurück \(feat\. Kool Savas & Sido\)](https://open.spotify.com/album/4qhOuqSS89AhVwFNYWW05N) | 2:44 | 2022-05-21 | 2022-06-18 |
@@ -799,6 +799,7 @@
 | [Nur ein Song \(I Need Some Sleep\)](https://open.spotify.com/track/6WrtlZnKUrg3KKDyjpnZBz) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Nur ein Song \(I Need Some Sleep\)](https://open.spotify.com/album/0mIMkAR1AK9yEls80nzUPc) | 2:41 | 2022-03-05 | 2022-03-13 |
 | [Nur ein Song \(I Need Some Sleep\)](https://open.spotify.com/track/6bfxmohPVmEuHveaFfzmjA) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [8](https://open.spotify.com/album/09mZJ7Dehdin0gblicwhkI) | 2:41 | 2022-03-12 | 2022-03-18 |
 | [OBSESSED \(feat\. RAF Camora\)](https://open.spotify.com/track/5t8abSvRpCuaLyDpRor2gD) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [OBSESSED \(feat\. RAF Camora\)](https://open.spotify.com/album/0l0PDgQIuNFT3pZnn25IHL) | 2:59 | 2022-05-07 | 2022-06-12 |
+| [OEO](https://open.spotify.com/track/5iRaaDJo5uz0ysY02Xedgz) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Bora / OEO](https://open.spotify.com/album/19uovrLfbW0AcgJClgRpMN) | 2:27 | 2022-08-11 |  |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-08-31 | 2021-09-05 |
 | [Offday](https://open.spotify.com/track/3z1wcTPPAKnuhKXHoFMXSb) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Magic](https://open.spotify.com/album/7AarLMaKEYfBWSmtUWZJ82) | 2:24 | 2022-02-26 | 2022-03-06 |
 | [OFFICIEL](https://open.spotify.com/track/4ZkwitJ9dSZDIdlI5xzX9q) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [AQUA](https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G) | 3:17 | 2021-07-04 | 2021-07-05 |

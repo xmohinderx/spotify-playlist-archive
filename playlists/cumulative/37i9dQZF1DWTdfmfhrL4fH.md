@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-512 songs - 1 day 8 hr 11 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+513 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Miss Nothing](https://open.spotify.com/track/1FFpE97M77Nf8HxF8SDJZJ) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/0moY5BetMaS0Vyi0Hh3zpb) | 3:13 | 2022-05-25 | 2022-07-27 |
 | [Missing You](https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 4:04 | 2022-05-25 |  |
 | [Monarchy of Roses](https://open.spotify.com/track/16Bf9uR4PI2dCoXDIjs0cP) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [I'm with You](https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB) | 4:11 | 2022-05-25 | 2022-07-22 |
+| [Money Run Low](https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:05 | 2022-05-25 |  |
 | [Mother](https://open.spotify.com/track/0Rzhp7yczZfx4LuMM2wDcL) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Future Dust](https://open.spotify.com/album/7sRAdyIMXnDLFiC6sVo2ke) | 4:46 | 2022-05-25 | 2022-07-02 |
 | [Mouth Of The River](https://open.spotify.com/track/1dekgAFF9uTCqLsklDaCWb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:41 | 2022-05-25 |  |
 | [Move](https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:07 | 2022-05-25 |  |
@@ -335,7 +336,7 @@
 | [Nuclear Family](https://open.spotify.com/track/7cuckwTEbDhjOzhZkG6otN) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nuclear Family](https://open.spotify.com/album/2eNZY34FfJ6ZURgN3jw5ee) | 3:03 | 2022-05-25 | 2022-07-29 |
 | [Oh Love](https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 5:03 | 2022-05-25 |  |
 | [Oh, What A Life](https://open.spotify.com/track/0ImkGucv1ID5EkuhslttfD) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:39 | 2022-05-25 | 2022-07-05 |
-| [On And On](https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:35 | 2022-05-25 |  |
+| [On And On](https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:35 | 2022-05-25 | 2022-08-12 |
 | [One Finger and a Fist](https://open.spotify.com/track/6PdEKf8CyyZfrFAGFi37gb) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Resilience \(Deluxe\)](https://open.spotify.com/album/46NkCKf9l9TVHryLpDSkr2) | 3:06 | 2022-05-25 |  |
 | [One Night Only](https://open.spotify.com/track/3DRZp9kykKCfnaU1Kd2AWY) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [One Night Only](https://open.spotify.com/album/6q0O4Hlf2h3BntR0TAwdTl) | 4:16 | 2022-05-25 | 2022-07-28 |
 | [Our Song](https://open.spotify.com/track/25JGo37w1o4LqeztjPGMp4) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [Formalities](https://open.spotify.com/album/3FLHbz0phIqAWQI55BMHln) | 3:43 | 2022-05-25 | 2022-07-19 |

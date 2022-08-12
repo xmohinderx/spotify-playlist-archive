@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
-  "num_followers": 19238,
+  "num_followers": 19245,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0ODIxNiwwMDAwMDAwMDZlZmQxMTliNDNkZmZmMDkwZWQwODFkZTk5ZTE3ZjVi",
+  "snapshot_id": "MTY1OTA0ODIxNiwwMDAwMDAwMDczMTlmZGMxODU0OGMzZTM5ODRjMjAwNjZlM2Q2MTA3",
   "tracks": [
     {
       "added_at": "2022-07-28 22:43:36",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
+        "name": "canci\u00f3n de amor",
+        "url": "https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 177002,
+      "name": "canci\u00f3n de amor",
+      "url": "https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
         "name": "a partes",
         "url": "https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 100744,
       "name": "uno x ciento",
       "url": "https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
-        "name": "canci\u00f3n de amor",
-        "url": "https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 177002,
-      "name": "canci\u00f3n de amor",
-      "url": "https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg"
     },
     {
       "added_at": "2022-07-28 22:43:36",

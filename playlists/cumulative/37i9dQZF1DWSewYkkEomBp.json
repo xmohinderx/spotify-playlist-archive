@@ -1999,10 +1999,28 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 230840,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/2ssl3oeVptDKx5PY59Sbm2"
+    },
+    {
+      "album": {
+        "name": "80s Summer Hits",
+        "url": "https://open.spotify.com/album/3FkmAdgCpCzxHgo3lfhnGi"
+      },
+      "artists": [
+        {
+          "name": "Womack & Womack",
+          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230840,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/59uRxvQjMJOjW5GrHLnVgb"
     },
     {
       "album": {

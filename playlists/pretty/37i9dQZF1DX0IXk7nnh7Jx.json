@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42098,
+  "num_followers": 42105,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDMzOGUyMzc5MzU4MDc3OGJhYzA4MGZmYWU3NGJmZmRk",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDM1NzU0OTQ5NTMwMGY1ZDczZjNjMDMxYTBjMDY3Njdh",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -159,22 +159,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Burn Out",
-        "url": "https://open.spotify.com/album/2cj6CrCchettlCriBNPSkr"
+        "name": "New Song (Psalm 40)",
+        "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
       },
       "artists": [
         {
-          "name": "A Beauty Initiative Within Focus",
-          "url": "https://open.spotify.com/artist/5cnbawSLtziDxZDqk93JKp"
-        },
-        {
-          "name": "Andrew Ascough",
-          "url": "https://open.spotify.com/artist/6K7tPy8fZS1sCr5Fw6dYbS"
+          "name": "The Dodds",
+          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
         }
       ],
-      "duration_ms": 263722,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/2GUvFoJipxwxQI6pvpHXDC"
+      "duration_ms": 254787,
+      "name": "New Song (Psalm 40)",
+      "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -195,18 +191,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "New Song (Psalm 40)",
-        "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/2cj6CrCchettlCriBNPSkr"
       },
       "artists": [
         {
-          "name": "The Dodds",
-          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
+          "name": "A Beauty Initiative Within Focus",
+          "url": "https://open.spotify.com/artist/5cnbawSLtziDxZDqk93JKp"
+        },
+        {
+          "name": "Andrew Ascough",
+          "url": "https://open.spotify.com/artist/6K7tPy8fZS1sCr5Fw6dYbS"
         }
       ],
-      "duration_ms": 254787,
-      "name": "New Song (Psalm 40)",
-      "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
+      "duration_ms": 263722,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/2GUvFoJipxwxQI6pvpHXDC"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -363,6 +363,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Find My Home",
+        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
+      },
+      "artists": [
+        {
+          "name": "Shiny Penny",
+          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Find My Home",
+      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "When the Well Runs Dry",
         "url": "https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 240853,
       "name": "When the Well Runs Dry",
       "url": "https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Find My Home",
-        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
-      },
-      "artists": [
-        {
-          "name": "Shiny Penny",
-          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Find My Home",
-      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Loved by You",
-        "url": "https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm"
-      },
-      "artists": [
-        {
-          "name": "Ian Yates",
-          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
-        }
-      ],
-      "duration_ms": 294780,
-      "name": "Loved by You",
-      "url": "https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Hollows",
         "url": "https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 266169,
       "name": "Held by Your Love",
       "url": "https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Loved by You",
+        "url": "https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm"
+      },
+      "artists": [
+        {
+          "name": "Ian Yates",
+          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
+        }
+      ],
+      "duration_ms": 294780,
+      "name": "Loved by You",
+      "url": "https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij"
     },
     {
       "added_at": "2020-12-18 06:02:14",

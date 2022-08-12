@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 347883,
+  "num_followers": 348072,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTYwMjEyMCwwMDAwMDAwMGRhZTJlZTRjM2NmYTNlNzY1NGIyMGZjYzMwNDQwNjJl",
+  "snapshot_id": "MTY1MTYwMjEyMCwwMDAwMDAwMDRlNDZiYTE4ZWFhOWJjZGU2M2QwNWQyZmIzYTliM2Iy",
   "tracks": [
     {
       "added_at": "2022-05-03 18:22:00",
@@ -659,22 +659,18 @@
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+        "name": "El Ramalazo",
+        "url": "https://open.spotify.com/album/1kllifC08UwQ9d0ZoI3gh4"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Lupe Tijerina y Rosendo Cantu",
-          "url": "https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD"
+          "name": "El As De La Sierra",
+          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
         }
       ],
-      "duration_ms": 145360,
-      "name": "Sucedio en el Aguaje",
-      "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"
+      "duration_ms": 175000,
+      "name": "Catarino y Los Rurales",
+      "url": "https://open.spotify.com/track/7pBNNMq6Bm3mVLCoNx1PnK"
     },
     {
       "added_at": "2022-01-28 04:38:41",
@@ -711,18 +707,22 @@
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
-        "name": "El Ramalazo",
-        "url": "https://open.spotify.com/album/1kllifC08UwQ9d0ZoI3gh4"
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
       "artists": [
         {
-          "name": "El As De La Sierra",
-          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Lupe Tijerina y Rosendo Cantu",
+          "url": "https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Catarino y Los Rurales",
-      "url": "https://open.spotify.com/track/7pBNNMq6Bm3mVLCoNx1PnK"
+      "duration_ms": 145360,
+      "name": "Sucedio en el Aguaje",
+      "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"
     },
     {
       "added_at": "2022-01-28 04:38:41",

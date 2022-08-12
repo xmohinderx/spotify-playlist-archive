@@ -2,7 +2,7 @@
 
 ### [The Roller Rink ](https://open.spotify.com/playlist/37i9dQZF1DWZXHVUlGM9Wp)
 
-> Keep on skating to the groovy boogie apt for skating
+> Keep on skating to the groovy boogie
 
 165 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/04amIGThswj9l5Ef18j76s)
 

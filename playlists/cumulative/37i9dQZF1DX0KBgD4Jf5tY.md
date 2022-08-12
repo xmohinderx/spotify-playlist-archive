@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Nuove scoperte della scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:0pb0sehd5pPALyoCt8B4MV">Leanò</a>
+> Nuove scoperte della scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:1B52Dud7YBQYoGLt2QxckH">Alice Pisano</a>
 
-325 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+326 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Che sera](https://open.spotify.com/track/41JsNduRhAuFLEU7gy9ckf) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Che sera](https://open.spotify.com/album/4VdWz9znOuVApJnqBcBcbl) | 4:11 | 2022-07-14 |  |
 | [Chi Può](https://open.spotify.com/track/2VEMPcAvKw6LMphb9XG9Hn) | [Marta Tenaglia](https://open.spotify.com/artist/0WqwCCw0Rn6Egu9rFFPQNi) | [Chi Può](https://open.spotify.com/album/2syZYTuhfVDFgKykIMttcc) | 2:14 | 2022-03-03 | 2022-05-20 |
 | [Chiedilo alla polvere](https://open.spotify.com/track/1SUyejNEjOB99z3X8bTJPM) | [REI](https://open.spotify.com/artist/5RKQsPEhrbjVv12FfQt4Tp), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Chiedilo alla polvere](https://open.spotify.com/album/7nnHrKin90yBnuxryuR0bi) | 2:33 | 2022-05-27 | 2022-07-01 |
-| [CHIUSO IN UNA STANZA](https://open.spotify.com/track/54VJjvNP7FdV5hIP33rioP) | [Sanga](https://open.spotify.com/artist/2RFkvuwuzehpQFC4oLDqxO), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [CHIUSO IN UNA STANZA](https://open.spotify.com/album/6EitS6JGTwFrCPiTn35DoI) | 2:41 | 2022-07-22 |  |
+| [CHIUSO IN UNA STANZA](https://open.spotify.com/track/54VJjvNP7FdV5hIP33rioP) | [Sanga](https://open.spotify.com/artist/2RFkvuwuzehpQFC4oLDqxO), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [CHIUSO IN UNA STANZA](https://open.spotify.com/album/6EitS6JGTwFrCPiTn35DoI) | 2:41 | 2022-07-22 | 2022-08-12 |
 | [Città Giardino](https://open.spotify.com/track/5k7qn1riAYxIip41Itqhz1) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Nuovo Maschio](https://open.spotify.com/album/2VvSOPOh3Vje4S8yYopX2n) | 3:13 | 2022-04-28 | 2022-05-20 |
 | [Coastal](https://open.spotify.com/track/499iMmA9adQFojnWynrU2r) | [Go Hawaii](https://open.spotify.com/artist/4dMyueIDZEOSvuCaXnqYli) | [Coastal](https://open.spotify.com/album/1jcbSFBD1tEXYfIqtcp2Pi) | 2:46 | 2022-02-24 | 2022-04-09 |
 | [Come vorrei](https://open.spotify.com/track/7tsODSyklruhthzaXOczUq) | [Fusaro](https://open.spotify.com/artist/0jFA30k5jRRpaIv1Xe0Ce3) | [Buongiorno \(per tutto il giorno\)](https://open.spotify.com/album/1KJli9hVV0fXjDEOGZWjYf) | 3:38 | 2022-05-27 | 2022-07-01 |
@@ -228,6 +228,7 @@
 | [Plastica](https://open.spotify.com/track/1P7eaFyOFgj6hLIEgTWKRh) | [Brividee](https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo) | [Controluce](https://open.spotify.com/album/1zu61ZwipzAOrHSbDXsG1I) | 3:27 | 2022-01-06 | 2022-02-18 |
 | [Plata o Plomo](https://open.spotify.com/track/6df02d2Z4huWdCHC3Z11za) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Plata o Plomo](https://open.spotify.com/album/1xwusIAkk54BU8cuDJJqSQ) | 2:15 | 2022-03-03 | 2022-03-25 |
 | [Politecnico Poliamore](https://open.spotify.com/track/1yUM7puCgxMvx4xrNn9VCe) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h), [Aegeminus](https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN) | [Politecnico Poliamore](https://open.spotify.com/album/5rDxDO36cXKDuHo6kbw4aT) | 3:14 | 2022-06-23 | 2022-07-15 |
+| [Pornolesbo](https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e) | [Baobab!](https://open.spotify.com/artist/0P9V5EdqoioSs6GYNliMTt) | [Pornolesbo](https://open.spotify.com/album/4YpQqDBJkMlpTPWBExpk03) | 2:24 | 2022-08-11 |  |
 | [Porpora](https://open.spotify.com/track/4wQlWWwxQn2MD5bowV2BwV) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Lunaire](https://open.spotify.com/album/4yoxH6CFV5aVbUE8Pb8HBm) | 2:55 | 2022-05-18 | 2022-06-24 |
 | [Preludio Y2K](https://open.spotify.com/track/4X8ReyOn5r60uQ0KyDaRhw) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Amour Toujours](https://open.spotify.com/album/2fEHNNjj3a7Y1Y0A7soYOl) | 2:48 | 2022-06-30 | 2022-07-29 |
 | [PREMI PLAY](https://open.spotify.com/track/3X1l6zRsguD3Fiiw9Aa1Be) | [Giovanni Neve](https://open.spotify.com/artist/5EZhdYH1kaoL7mUQe9U7LA) | [Premi Play](https://open.spotify.com/album/4McxEPqiG19gjFGlpxXY62) | 2:44 | 2022-02-25 | 2022-03-04 |

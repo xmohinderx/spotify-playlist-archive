@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Frankie Cosmos
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,126 likes - 160 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,348 likes - 160 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

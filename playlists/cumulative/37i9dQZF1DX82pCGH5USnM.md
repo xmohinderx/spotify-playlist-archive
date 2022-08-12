@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-532 songs - 1 day 7 hr 55 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+533 songs - 1 day 7 hr 58 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Parasol Paradise](https://open.spotify.com/track/0G42P5rpaqBp0dKWxG7OOo) | [Sunrise Collective](https://open.spotify.com/artist/63ADxbQmSnhOMqafX8Bfo6) | [Parasol Paradise](https://open.spotify.com/album/0PdU9sY4v5t0i5zuIJyeg8) | 2:46 | 2022-01-21 |  |
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2021-06-02 |  |
 | [Passing By](https://open.spotify.com/track/28lMyaJBMmgvw4Cn4OvoeH) | [Monday Motive](https://open.spotify.com/artist/4bCmFKZPJZBIZeQ5qVzIyN) | [Passing By](https://open.spotify.com/album/7tj4fpjyhDvNyPgp76Zhlb) | 3:05 | 2021-03-18 |  |
-| [Persist Display](https://open.spotify.com/track/77upAj6MD4twfI9UVQLT0d) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Persist Display](https://open.spotify.com/album/4JuU828Mu0bygg7RANN2cp) | 2:50 | 2021-11-08 |  |
+| [Persist Display](https://open.spotify.com/track/77upAj6MD4twfI9UVQLT0d) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Persist Display](https://open.spotify.com/album/4JuU828Mu0bygg7RANN2cp) | 2:50 | 2021-11-08 | 2022-08-12 |
 | [Peyote](https://open.spotify.com/track/2UogGmSbe5uiGVJSoe3PcS) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Peyote](https://open.spotify.com/album/0Z90edv3cnFePD7TkayWkb) | 3:48 | 2020-04-14 | 2020-12-16 |
 | [Phase Off](https://open.spotify.com/track/4jnuEF4AKcTnJg0bpiVsKQ) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Phase Off EP](https://open.spotify.com/album/2iEyHd5HSBeKQlRpHZMnar) | 3:32 | 2021-07-08 | 2021-08-20 |
 | [Piano Park](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Piano Park](https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr) | 2:08 | 2022-02-10 |  |
@@ -482,6 +482,7 @@
 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 | 2020-12-16 | 2022-04-06 |
 | [The Wait](https://open.spotify.com/track/324pDJfbknuqbfSmOp8p60) | [Alex Dovo](https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL) | [Makes Me Feel](https://open.spotify.com/album/29svWGr4NecSbSwbsLakw6) | 5:18 | 2020-04-14 | 2020-04-29 |
 | [There](https://open.spotify.com/track/01qXAjf3nFvBruXlYs6KXA) | [Jean Caillou](https://open.spotify.com/artist/5SBg90332jOPtNutyYo2Ns) | [Departure Unknown](https://open.spotify.com/album/2BED7q2PoMjs9gXvogPiGM) | 10:42 | 2021-03-18 | 2021-04-21 |
+| [They Were Always Here](https://open.spotify.com/track/79zkDBN7aTXvU9pVRPyO9I) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [They Were Always Here](https://open.spotify.com/album/7298JP39sHxMRN6qYftTn7) | 2:39 | 2022-08-12 |  |
 | [This is my Island](https://open.spotify.com/track/6jpYu1hpYh7jioilkeRQnz) | [Pure Indigo](https://open.spotify.com/artist/0kuQZf585oUCcp9aIKbgMu) | [Short and Sweet](https://open.spotify.com/album/0s21Rk25Kwhi4xPy8AYDhV) | 2:30 | 2020-08-04 | 2021-03-25 |
 | [Through The Night](https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 4:00 | 2020-04-03\* | 2021-02-10 |
 | [Tide](https://open.spotify.com/track/06pkN4tQun4WHnSzh2i0Mu) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Zanzibar](https://open.spotify.com/album/2jNYFdsgDIqY1iR4xIXVLE) | 3:30 | 2020-04-03\* | 2021-03-18 |

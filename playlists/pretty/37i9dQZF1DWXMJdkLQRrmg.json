@@ -1,12 +1,12 @@
 {
   "description": "Unplugged versions of your favorite rock & alt songs. Cover: Wolf Alice",
-  "num_followers": 283244,
+  "num_followers": 283311,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDgzMzcyMCwwMDAwMDAwMDIyNWFlMGQ3MTA4MWI5NDUxNWVlNzViMjdlZTViOGE4",
+  "snapshot_id": "MTY1NDgzMzcyMCwwMDAwMDAwMDA3ZWFlMmYyOGE0MTRiZDlmMjNjZjdiMmU4NzljN2Q2",
   "tracks": [
     {
       "added_at": "2022-06-10 04:02:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
         "name": "Golden Dandelions (Acoustic)",
         "url": "https://open.spotify.com/album/5W6WwaQUG7ZwgmpXIWcUFL"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 202576,
       "name": "Golden Dandelions - Acoustic",
       "url": "https://open.spotify.com/track/5H7Z2DdWYT9ctLSuKzqkSb"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Against The Wall (Acoustic Version)",
-        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 206824,
-      "name": "Against The Wall - Acoustic Version",
-      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
         "name": "Kill The Noise (Acoustic)",
         "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 161010,
       "name": "Kill The Noise - Acoustic",
       "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Against The Wall (Acoustic Version)",
+        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 206824,
+      "name": "Against The Wall - Acoustic Version",
+      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
     },
     {
       "added_at": "2022-06-10 04:02:00",

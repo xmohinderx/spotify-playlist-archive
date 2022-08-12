@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-342 songs - 21 hr 10 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+343 songs - 21 hr 13 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Kids](https://open.spotify.com/track/41KEwBsz0vFOMaSiujdfci) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Kids](https://open.spotify.com/album/4jyTfc5rR5SdTgGnlAdaCa) | 4:03 | 2022-02-25 | 2022-07-29 |
 | [Kiss](https://open.spotify.com/track/1IZ2RLaTBzvSnMPtLpyUf1) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj) | [Kiss](https://open.spotify.com/album/0Gj3yIbkS5mFPtU4GwHwxf) | 5:08 | 2021-03-12 | 2022-04-17 |
 | [Knee Deep at ATP](https://open.spotify.com/track/7GdIvzFCC3ZGS4sGsCuR9W) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/4COjHeRyvJkn9C5a2QnLkr) | 3:07 | 2022-01-11 | 2022-08-10 |
+| [Knee Deep at ATP](https://open.spotify.com/track/7GN5qZoCkvWxo4ENsFKA6B) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/6FaPUkwFu0JUmEc9yi3PPs) | 3:08 | 2022-08-09 |  |
 | [Knights Of Cydonia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MMhtroreghawB4y14vaUP) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 4:37 | 2021-03-12 | 2022-07-29 |
 | [La de Blink](https://open.spotify.com/track/6vjfB3BjJ9KjxULP5TwROw) | [Rococó](https://open.spotify.com/artist/69a8n82mR2VGTcVejFM2Dq) | [La de Blink](https://open.spotify.com/album/5pWgylTwP21EtG725ko5t5) | 2:48 | 2021-07-21 | 2022-04-19 |
 | [La Vie En Rose](https://open.spotify.com/track/0KohaUnLZU0PNJC3RZYDZ0) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [La Vie En Rose](https://open.spotify.com/album/4uWWvb7rkoUhYvaO8VEIC6) | 2:50 | 2021-03-12 | 2022-08-03 |
@@ -208,7 +209,7 @@
 | [Neon Moon](https://open.spotify.com/track/010gJrV78swYwVNAWjmWAb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/2kVYjc8G4UFWWc9QfLuFU8) | 3:45 | 2021-03-12 | 2022-06-30 |
 | [Neon Moon](https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm) | 3:45 | 2021-03-12 | 2022-08-10 |
 | [Never Said](https://open.spotify.com/track/2kM0E8Ho9dXXY4vogX6yIc) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Never Said](https://open.spotify.com/album/4W84KSXDyJuYmI8jbBMOjT) | 3:50 | 2021-03-12 | 2022-07-09 |
-| [Never Tear Us Apart](https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Never Tear Us Apart](https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk) | 3:18 | 2021-03-12 |  |
+| [Never Tear Us Apart](https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Never Tear Us Apart](https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk) | 3:18 | 2021-03-12 | 2022-08-12 |
 | [New Slang](https://open.spotify.com/track/7lCzEKcxTwvRlAT2hOwBIp) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Film Songs](https://open.spotify.com/album/2QF2nWpC2y5Gy8uNrUz4sg) | 3:18 | 2021-03-12 | 2022-04-21 |
 | [New Slang](https://open.spotify.com/track/2UGLTM8VWqQai7bq2X7OiK) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [New Slang](https://open.spotify.com/album/5n1bgsaXNRP8y4jXGOEic2) | 4:15 | 2021-08-13 | 2022-07-19 |
 | [No Diggity](https://open.spotify.com/track/2xD7RvKFJl52xyds3wQFXQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/1lqdYmOceSVAulxV7YuD7L) | 3:41 | 2021-03-12 | 2022-08-10 |

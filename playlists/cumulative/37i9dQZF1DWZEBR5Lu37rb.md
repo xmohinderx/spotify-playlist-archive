@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-97 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/2NQLrFSoKR34tgxbFWZBgI)
+98 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/2NQLrFSoKR34tgxbFWZBgI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Nikikutazama](https://open.spotify.com/track/2QweIUK69pkW3dgnEEzPaI) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Nikikutazama](https://open.spotify.com/album/54LLZZzjgU0cDnKJVKMvgl) | 3:56 | 2022-02-10 |  |
 | [Njiwa](https://open.spotify.com/track/25JonxVTCZOIul9uyv3ff6) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Njiwa](https://open.spotify.com/album/68mKgdafZqoom8qgiRBQLa) | 4:18 | 2022-02-10 |  |
 | [No One Like You \- Deluxe](https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Gameover \(Deluxe\)](https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2) | 4:28 | 2022-02-10 |  |
-| [Nobody but Me \(feat\. K.O\)](https://open.spotify.com/track/0VhQbntrTPGcGHqgCvYQdS) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Money Mondays](https://open.spotify.com/album/3TAUwPnG8hHgBWFE5obk17) | 3:58 | 2022-02-10 |  |
+| [Nobody but Me \(feat\. K.O\)](https://open.spotify.com/track/0VhQbntrTPGcGHqgCvYQdS) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Money Mondays](https://open.spotify.com/album/3TAUwPnG8hHgBWFE5obk17) | 3:58 | 2022-02-10 | 2022-08-12 |
+| [Nobody but Me \- Bonus Track](https://open.spotify.com/track/57rot16Tp9O8pwmkgPoGfd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7), [K.O](https://open.spotify.com/artist/7q2JZvjjqo4Btkt9qmCKkv) | [Money Mondays](https://open.spotify.com/album/7DU7E1G7ZDTejOwJgUgLVO) | 3:58 | 2022-02-10 |  |
 | [Nomvula](https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/2PGgRx2PWQEGzs9Eu2SM0A) | 4:37 | 2022-02-10 |  |
 | [Nota](https://open.spotify.com/track/5tPauDRDmFoM8GMEGRQPnt) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nota](https://open.spotify.com/album/6kLwbk0ix5h8oDblXNkImY) | 2:20 | 2022-02-10 |  |
 | [NTA](https://open.spotify.com/track/1Asv77Jhpw1FA6YjA5wwuV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [NTA](https://open.spotify.com/album/1BBx9Jp1fkh2yDd68hQXEG) | 3:26 | 2022-02-10 |  |

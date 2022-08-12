@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 17934,
+  "num_followers": 17942,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGZkZmIzNTBiNWE2YThmZWUxYzEwYzQ0YzUyNjU3NDM1",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGMxNjk3MmE4Y2ZlODAwOTI0OGNmYmIxNzNiNmFhNDlk",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -435,6 +435,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Tropicana",
+        "url": "https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP"
+      },
+      "artists": [
+        {
+          "name": "Trio From Rio",
+          "url": "https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH"
+        }
+      ],
+      "duration_ms": 212614,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Sones y Tradiciones (feat. Cachao)",
         "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 378333,
       "name": "Suavecito / En Manzanillo Se Baila el Son (Sones)",
       "url": "https://open.spotify.com/track/2Fx6r1ALj3nppAog9eJf7w"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Tropicana",
-        "url": "https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP"
-      },
-      "artists": [
-        {
-          "name": "Trio From Rio",
-          "url": "https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH"
-        }
-      ],
-      "duration_ms": 212614,
-      "name": "Tropicana",
-      "url": "https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX"
     },
     {
       "added_at": "2021-01-18 15:57:14",

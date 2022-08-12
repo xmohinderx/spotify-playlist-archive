@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-391 songs - 23 hr 40 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+393 songs - 23 hr 45 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ai No Chiara](https://open.spotify.com/track/5A4GJ0ZW0LZmpxtyDqVDUc) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Wishful Sora](https://open.spotify.com/album/7v1blyKpMqLIlwcI9s8GNX) | 3:12 | 2022-07-08 | 2022-07-10 |
 | [Ai No Chiara](https://open.spotify.com/track/79X0iexc4uC8QkSBwFQNG7) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 3:12 | 2022-07-29 |  |
 | [air like perfume](https://open.spotify.com/track/4nZY3o9EU0eOPTcjrbpkUt) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [air like perfume](https://open.spotify.com/album/4lKWekmYlSC9jzXqjdEcQf) | 2:30 | 2022-03-16 | 2022-07-09 |
+| [All Day](https://open.spotify.com/track/6LybVOJz7dRCCp8l2TAVPS) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [All Day](https://open.spotify.com/album/7kCqbzZdyNMcW9lU0DTgOk) | 2:34 | 2022-08-12 |  |
 | [AllyCator](https://open.spotify.com/track/0goFasywUgzwXrg3BsPGJy) | [Tripper](https://open.spotify.com/artist/4zgoEfX88yyhncZ3iWXFJo) | [W: Dinner Chill](https://open.spotify.com/album/6SYNQsVtomjub7ZDfDPZjh) | 5:16 | 2022-07-29 |  |
 | [AllyCator](https://open.spotify.com/track/1KSEiT9O35eLhTUZ0JidHc) | [Tripper](https://open.spotify.com/artist/4zgoEfX88yyhncZ3iWXFJo) | [W: Dinner Chill](https://open.spotify.com/album/5x8Cn4kfgxC3lv1FylWcLe) | 5:16 | 2021-08-10 | 2022-07-29 |
 | [American Beauty](https://open.spotify.com/track/2E9L2pqUerLhlxxe8P5z8m) | [Gary Stand](https://open.spotify.com/artist/2k0hsb0Ea3GZBquMpfeEIw) | [Late Night Lovers \(Best Of 2014\-2016\)](https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm) | 3:51 | 2021-08-10 | 2022-07-29 |
@@ -299,6 +300,7 @@
 | [Slowing Down Magic](https://open.spotify.com/track/2CLOXfkP0tfyUyXbg1jM8u) | [NkisOk](https://open.spotify.com/artist/5Ro0lkhTnZMLAexfXndLRo) | [Springflower](https://open.spotify.com/album/4sdUHMMnfxbhtpnoXYah4w) | 4:16 | 2022-07-29 |  |
 | [Slowing Down Magic](https://open.spotify.com/track/5VoHgAU6WTY4HOe951OpYl) | [NkisOk](https://open.spotify.com/artist/5Ro0lkhTnZMLAexfXndLRo) | [Springflower](https://open.spotify.com/album/36GCCVLhVQ4bUlrir0Ofsj) | 4:16 | 2022-07-08 | 2022-07-10 |
 | [Small Changes](https://open.spotify.com/track/3Daf2veJz0Z8kDoqnwiyJw) | [Red Licorice](https://open.spotify.com/artist/6qn4NL1rfrgTQV0zhFYrBS) | [143](https://open.spotify.com/album/4pGdR47gpr4oddp7TeojFp) | 2:35 | 2022-07-15 |  |
+| [smoke & sleep](https://open.spotify.com/track/2CG8eXUcfA5IwAPnD9bKcN) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [smoke & sleep](https://open.spotify.com/album/5a6P31flOyTnuvVMQqNFvs) | 2:12 | 2022-08-12 |  |
 | [So Sweet](https://open.spotify.com/track/38npxBNsIKBi1Fe0tJAb1I) | [Aqua Club](https://open.spotify.com/artist/62pwBPqHsz8O243t6m0E9B) | [By The Seaside \(Vol 2\)](https://open.spotify.com/album/2leWLr9dNRyi1QBUak1QB6) | 3:54 | 2022-07-29 |  |
 | [So Sweet](https://open.spotify.com/track/49V82zU6qm1e1B3qZANfIc) | [Aqua Club](https://open.spotify.com/artist/62pwBPqHsz8O243t6m0E9B) | [By The Seaside \(Vol 2\)](https://open.spotify.com/album/0g8FK5yjAMJoUiZDPi8bYX) | 3:54 | 2021-08-10 | 2022-07-29 |
 | [Solitary Fields](https://open.spotify.com/track/60y63A6yZWNiCtkfu30Wzy) | [Hologram](https://open.spotify.com/artist/2PPhHBy697OJbDKYAxmW6c) | [Day](https://open.spotify.com/album/2cW8bYjHiZ13eGm2BR7BtL) | 4:46 | 2022-07-29 |  |

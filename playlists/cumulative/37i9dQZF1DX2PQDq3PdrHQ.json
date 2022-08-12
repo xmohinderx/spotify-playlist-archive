@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 160000,
       "name": "A Beautiful Night",
       "url": "https://open.spotify.com/track/6VZ5dHZbJxG2OQ7ZWb0RTj"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 140571,
       "name": "Anubi",
       "url": "https://open.spotify.com/track/0cU8gpCcNiExEN7Vr2xv9c"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 176250,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/3TsxrZqyNETdeBmnV1G3Kz"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 184941,
       "name": "Cabin House",
       "url": "https://open.spotify.com/track/67deXf90gwZw4QeAWHiylh"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 129729,
       "name": "cushion",
       "url": "https://open.spotify.com/track/6R1YDJok4JBFMKz70S1YPS"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 129423,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/6ieQhFBkwB4dkMyDKPmmS6"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 123181,
       "name": "dream on",
       "url": "https://open.spotify.com/track/5RnjnsMxNLGqRCzbiKR2IB"
@@ -1147,6 +1147,24 @@
       "duration_ms": 130673,
       "name": "elevation",
       "url": "https://open.spotify.com/track/7spTNUW2VouHtkboiO30sF"
+    },
+    {
+      "album": {
+        "name": "Slow Dancing In Forest Rain",
+        "url": "https://open.spotify.com/album/1x2S3dt0e0GwupTrQIHZbh"
+      },
+      "artists": [
+        {
+          "name": "soitchy",
+          "url": "https://open.spotify.com/artist/3wDRe1dpTdbBrSOnvG6szY"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155686,
+      "name": "Emerald Earth",
+      "url": "https://open.spotify.com/track/48C4Ay5VNjwAVlDMwNfzhO"
     },
     {
       "album": {
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 156120,
       "name": "Flower Dance",
       "url": "https://open.spotify.com/track/2wNPKZ1ne2YwcEON1sGfif"
@@ -1498,6 +1516,24 @@
     },
     {
       "album": {
+        "name": "Grain of Pepper",
+        "url": "https://open.spotify.com/album/0QUGWCpsVE6BnoAaGffFwS"
+      },
+      "artists": [
+        {
+          "name": "Matt Kaff",
+          "url": "https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172375,
+      "name": "Grain of Pepper",
+      "url": "https://open.spotify.com/track/77YoUIwGlotxAqeWo6SLMs"
+    },
+    {
+      "album": {
         "name": "Grounding",
         "url": "https://open.spotify.com/album/2KqN3WUFFfQmRhRtVacP4N"
       },
@@ -1597,7 +1633,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 167763,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/1gWlkyc7p3l9tm6AwwKe0G"
@@ -1781,6 +1817,24 @@
       "duration_ms": 131156,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/1tCt6daH9VzL5EkacfDb3G"
+    },
+    {
+      "album": {
+        "name": "If Time Could Stop",
+        "url": "https://open.spotify.com/album/11czOpowLv3Vfju0mV5KjT"
+      },
+      "artists": [
+        {
+          "name": "Late Night Tones",
+          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129798,
+      "name": "If Time Could Stop",
+      "url": "https://open.spotify.com/track/0qgjSzVCHLCpHM19j6PBwH"
     },
     {
       "album": {
@@ -2071,7 +2125,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 82093,
       "name": "Lanterns",
       "url": "https://open.spotify.com/track/68vaAU5cIsDPu47auem0In"
@@ -2295,7 +2349,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 117445,
       "name": "Looking For Shapes",
       "url": "https://open.spotify.com/track/6LK0bn4SDCQPSRfuUXsqvB"
@@ -2501,7 +2555,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 142035,
       "name": "memories are all that is left",
       "url": "https://open.spotify.com/track/3LwFzfw1f2P3ROzc02Cdth"
@@ -2635,7 +2689,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 136666,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/6WDUcgnQGHLDvu8iVP5VIM"
@@ -3333,7 +3387,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 140875,
       "name": "prettylilclouds",
       "url": "https://open.spotify.com/track/20Dj5z23OuXZ8SGUIPxqdY"
@@ -3359,6 +3413,24 @@
       "duration_ms": 133448,
       "name": "puddles",
       "url": "https://open.spotify.com/track/1ICqwks7d1Jw0ivRAjnIUt"
+    },
+    {
+      "album": {
+        "name": "Seeing Lights",
+        "url": "https://open.spotify.com/album/4ve40kSJAcwvreHYSw735D"
+      },
+      "artists": [
+        {
+          "name": "Lumini",
+          "url": "https://open.spotify.com/artist/2cbLFoYZjIj973sMYSZRpu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146890,
+      "name": "Purple Lights",
+      "url": "https://open.spotify.com/track/7Jtj3NNMjeMXCiP6wmNrmQ"
     },
     {
       "album": {
@@ -3395,6 +3467,46 @@
       "duration_ms": 133492,
       "name": "Record Me",
       "url": "https://open.spotify.com/track/2kyQSBNIx3iuepznNZECY9"
+    },
+    {
+      "album": {
+        "name": "remember how we use to be",
+        "url": "https://open.spotify.com/album/4jXlZE2NYrSn2xMNmi6LJc"
+      },
+      "artists": [
+        {
+          "name": "Billy Wuot",
+          "url": "https://open.spotify.com/artist/7N3iUlklKpjkGB0X11eMx4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "remember how we use to be",
+      "url": "https://open.spotify.com/track/4BqA4LoQGIL3f4IKmPhI3O"
+    },
+    {
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/0fP29H4VwNonD78wnEMC1f"
+      },
+      "artists": [
+        {
+          "name": "Yuforia",
+          "url": "https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd"
+        },
+        {
+          "name": "KASE",
+          "url": "https://open.spotify.com/artist/6iI4o333BU6MmImw2N1NJs"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125290,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/3CZJ4uF6IyWt6KTQJeSEdZ"
     },
     {
       "album": {
@@ -3674,6 +3786,28 @@
     },
     {
       "album": {
+        "name": "Serendipia",
+        "url": "https://open.spotify.com/album/4y9fw4Ngps5SZtxy1shHxr"
+      },
+      "artists": [
+        {
+          "name": "Hetalia",
+          "url": "https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu"
+        },
+        {
+          "name": "m\u0117lyna",
+          "url": "https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Serendipia",
+      "url": "https://open.spotify.com/track/3lVzlqQPzLnWF4VheKVOIp"
+    },
+    {
+      "album": {
         "name": "Shelter From The Rain",
         "url": "https://open.spotify.com/album/27kIzp2mhfvTRtFU0UDUwA"
       },
@@ -3841,7 +3975,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 179017,
       "name": "Sleepless Night",
       "url": "https://open.spotify.com/track/3NzKAPEZA4my9KzPaLtn4e"
@@ -4069,6 +4203,24 @@
       "duration_ms": 138826,
       "name": "Suave Atardecer",
       "url": "https://open.spotify.com/track/2zKvPJR0yAqGzU5RLFyGdx"
+    },
+    {
+      "album": {
+        "name": "Sugar Plum Fairy",
+        "url": "https://open.spotify.com/album/19VLvrZrAyfkJVbmr62aK8"
+      },
+      "artists": [
+        {
+          "name": "David Payne",
+          "url": "https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sugar Plum Fairy",
+      "url": "https://open.spotify.com/track/3zAmy6lWGOr1pdZm22JKdD"
     },
     {
       "album": {
@@ -4327,7 +4479,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 117911,
       "name": "things will get easier",
       "url": "https://open.spotify.com/track/5vBs5CbT4Vl9Hji88GpXJy"
@@ -4378,6 +4530,24 @@
     },
     {
       "album": {
+        "name": "through the night",
+        "url": "https://open.spotify.com/album/0ilHrZXbbeG8Ui5J1zrbjv"
+      },
+      "artists": [
+        {
+          "name": "Wolf Schranze",
+          "url": "https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "through the night",
+      "url": "https://open.spotify.com/track/1YCERFz4MWdiraOD9xBAoE"
+    },
+    {
+      "album": {
         "name": "Through the Streets",
         "url": "https://open.spotify.com/album/3mJhG0cZjFW2UA2omCjrLD"
       },
@@ -4407,7 +4577,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 156000,
       "name": "Tinkerer",
       "url": "https://open.spotify.com/track/6L83ooUIEa5RyayCgTgnSo"
@@ -4447,7 +4617,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 155208,
       "name": "Tranquil",
       "url": "https://open.spotify.com/track/2dmsvwafPZwBKp4Q56xi2U"
@@ -4679,7 +4849,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 156000,
       "name": "weightless",
       "url": "https://open.spotify.com/track/6rKGlzIu5uxS2p0aHkqnUm"
@@ -4741,7 +4911,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 132000,
       "name": "Without you",
       "url": "https://open.spotify.com/track/3hTR7HnSyC6vmZSDeHl09Q"

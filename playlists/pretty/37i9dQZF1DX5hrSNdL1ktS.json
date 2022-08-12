@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU0NDQ5NSwwMDAwMDAwMDJmOWJhZDBhMTBlNWJlMmYwZmFkNTQyMWVlNjRkNWYx",
+  "snapshot_id": "MTY1OTU0NDQ5NSwwMDAwMDAwMGY3NmJmZTY4YzUyNWY4MGMxODg0YzA1ZTlhNjU3ODlm",
   "tracks": [
     {
       "added_at": "2022-08-03 16:34:55",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-08-03 16:34:55",
       "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8"
+      },
+      "artists": [
+        {
+          "name": "Luxxo",
+          "url": "https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ"
+    },
+    {
+      "added_at": "2022-08-03 16:34:55",
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/1HqFS49pmoR174vkddzArp"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 195493,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/7y5bcou13EfJefvPQCQIi3"
-    },
-    {
-      "added_at": "2022-08-03 16:34:55",
-      "album": {
-        "name": "Facetime",
-        "url": "https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8"
-      },
-      "artists": [
-        {
-          "name": "Luxxo",
-          "url": "https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "Facetime",
-      "url": "https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ"
     },
     {
       "added_at": "2022-08-03 16:34:55",

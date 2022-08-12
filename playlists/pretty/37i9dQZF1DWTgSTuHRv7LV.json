@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Bo Bundy",
-  "num_followers": 451548,
+  "num_followers": 451594,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzY2MCwwMDAwMDAwMDE2YjY1NTFjNzgwMTdmODAzZTNkZmI0NjFiMmM1ZTdj",
+  "snapshot_id": "MTY1Nzg1NzY2MCwwMDAwMDAwMGViNzVjNGM1NmEzOWRhYjRjNzA4MjBmNjhkZjNjYmZl",
   "tracks": [
     {
       "added_at": "2022-07-15 04:01:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "LYKE MIKE",
+        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 187897,
+      "name": "M\u00cdRENME AHORA",
+      "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
         "url": "https://open.spotify.com/album/1qc0uWlaS1bswH57YVEZHU"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 240100,
       "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
       "url": "https://open.spotify.com/track/340OYprIslmjNCuJZKRjwn"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "LYKE MIKE",
-        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 187897,
-      "name": "M\u00cdRENME AHORA",
-      "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Socios I",
-        "url": "https://open.spotify.com/album/0Fcbk98RH370akJ4nyMANT"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Socios",
-      "url": "https://open.spotify.com/track/79jBY8Pa0vCcpKothN5hdI"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "YEYO",
         "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 179576,
       "name": "CLOACA",
       "url": "https://open.spotify.com/track/0hsE4KoZ14iXURFc8Lf4dU"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Socios I",
+        "url": "https://open.spotify.com/album/0Fcbk98RH370akJ4nyMANT"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Socios",
+      "url": "https://open.spotify.com/track/79jBY8Pa0vCcpKothN5hdI"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "M\u00ednimo",
+        "url": "https://open.spotify.com/album/5F29828sgPmoMIbh38euyZ"
+      },
+      "artists": [
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "M\u00ednimo",
+      "url": "https://open.spotify.com/track/5PPtgvTTRPXGyEYnxbDGxR"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "Veo Veo",
         "url": "https://open.spotify.com/album/6axheBYNM1GRM1aMxZpDN0"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 173226,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/7dm2eWzZsI3mW1oKgF21qV"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "M\u00ednimo",
-        "url": "https://open.spotify.com/album/5F29828sgPmoMIbh38euyZ"
-      },
-      "artists": [
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "M\u00ednimo",
-      "url": "https://open.spotify.com/track/5PPtgvTTRPXGyEYnxbDGxR"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "Dunks",
+        "url": "https://open.spotify.com/album/4wsUzv8aXZHuMAMHiZXC5B"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "duration_ms": 140922,
+      "name": "Dunks",
+      "url": "https://open.spotify.com/track/77SKceRxQ0I9zCj85KVB3c"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "Matem\u00e1ticas Supremas",
         "url": "https://open.spotify.com/album/4oPTBnjCIwZGZG7ZTF4iaa"
       },
@@ -2199,18 +2215,18 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Dunks",
-        "url": "https://open.spotify.com/album/4wsUzv8aXZHuMAMHiZXC5B"
+        "name": "Lejos del 2",
+        "url": "https://open.spotify.com/album/0ZZlgtb4U35vMmeJ46jBTh"
       },
       "artists": [
         {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 140922,
-      "name": "Dunks",
-      "url": "https://open.spotify.com/track/77SKceRxQ0I9zCj85KVB3c"
+      "duration_ms": 160443,
+      "name": "Lejos del 2",
+      "url": "https://open.spotify.com/track/48o727mFrVfLqaB8ugnCy7"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2231,22 +2247,6 @@
       "duration_ms": 213253,
       "name": "Juego",
       "url": "https://open.spotify.com/track/4L8UrMGwneCQc71x2fPZSf"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Lejos del 2",
-        "url": "https://open.spotify.com/album/0ZZlgtb4U35vMmeJ46jBTh"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 160443,
-      "name": "Lejos del 2",
-      "url": "https://open.spotify.com/track/48o727mFrVfLqaB8ugnCy7"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2419,46 +2419,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Mucho Brillo",
-        "url": "https://open.spotify.com/album/3cXFSV6uBvPOv3H16IDg4k"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        }
-      ],
-      "duration_ms": 232975,
-      "name": "Mucho Brillo",
-      "url": "https://open.spotify.com/track/3REVYw7xBn8zWLDhjpoY2P"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Problemas",
-        "url": "https://open.spotify.com/album/6RshZ6diEoUBldSTEeWlEd"
-      },
-      "artists": [
-        {
-          "name": "Denilson",
-          "url": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-        },
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Problemas",
-      "url": "https://open.spotify.com/track/2ZyhTy2QNKXBCmq2XbJWaD"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Asesino (feat. Puri)",
         "url": "https://open.spotify.com/album/6Hs1A0vzKFvnHn6I7Fe0Vl"
       },
@@ -2483,6 +2443,46 @@
       "duration_ms": 166400,
       "name": "Asesino (feat. Puri)",
       "url": "https://open.spotify.com/track/2BsAjEvuw3PBoRr1T83hdH"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Problemas",
+        "url": "https://open.spotify.com/album/6RshZ6diEoUBldSTEeWlEd"
+      },
+      "artists": [
+        {
+          "name": "Denilson",
+          "url": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Problemas",
+      "url": "https://open.spotify.com/track/2ZyhTy2QNKXBCmq2XbJWaD"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Mucho Brillo",
+        "url": "https://open.spotify.com/album/3cXFSV6uBvPOv3H16IDg4k"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        }
+      ],
+      "duration_ms": 232975,
+      "name": "Mucho Brillo",
+      "url": "https://open.spotify.com/track/3REVYw7xBn8zWLDhjpoY2P"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2527,6 +2527,26 @@
       "duration_ms": 165941,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/6wAtZ3IHvs4Uc41A2pKUYg"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Corta y Palo",
+        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
+      },
+      "artists": [
+        {
+          "name": "Joniel",
+          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
+        },
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Corta y Palo",
+      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2599,6 +2619,26 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "C\u00d3DIGOS",
+        "url": "https://open.spotify.com/album/5HMWKVH3tJnZAriq0YeeQ8"
+      },
+      "artists": [
+        {
+          "name": "Denilson",
+          "url": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Icy",
+      "url": "https://open.spotify.com/track/0wdWp0BJKTDCiHvV0HivcM"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "Paperz",
         "url": "https://open.spotify.com/album/0KtWmfwO53A1QJcXUfnTct"
       },
@@ -2627,26 +2667,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "C\u00d3DIGOS",
-        "url": "https://open.spotify.com/album/5HMWKVH3tJnZAriq0YeeQ8"
-      },
-      "artists": [
-        {
-          "name": "Denilson",
-          "url": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Icy",
-      "url": "https://open.spotify.com/track/0wdWp0BJKTDCiHvV0HivcM"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Butti",
         "url": "https://open.spotify.com/album/1BZ8MMaQxXJPaWJNbuPWsF"
       },
@@ -2667,26 +2687,6 @@
       "duration_ms": 195431,
       "name": "Butti",
       "url": "https://open.spotify.com/track/6fKrZRNh52lVyijfxYF2O6"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Corta y Palo",
-        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
-      },
-      "artists": [
-        {
-          "name": "Joniel",
-          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
-        },
-        {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Corta y Palo",
-      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
     },
     {
       "added_at": "2022-07-15 04:01:00",

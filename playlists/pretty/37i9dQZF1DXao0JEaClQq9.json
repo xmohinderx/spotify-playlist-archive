@@ -1,12 +1,12 @@
 {
   "description": "if it feels ethereal, it's here. cover: Montell Fish ",
-  "num_followers": 304078,
+  "num_followers": 304144,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg2ODMzNiwwMDAwMDAwMGMwNTMzZDE2YzNlMTlmZDY2NzFhNDM1NzJkMzE4N2Fm",
+  "snapshot_id": "MTY1ODg2ODMzNiwwMDAwMDAwMDc0Yjg5N2UyMmE1MzRiYzFjNjNjNWVlYTE5ZmIyNjI0",
   "tracks": [
     {
       "added_at": "2021-06-03 16:59:20",
@@ -733,10 +733,10 @@
       "url": "https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD"
     },
     {
-      "added_at": "2021-11-15 17:43:30",
+      "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Call U Tomorrow",
-        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Call U Tomorrow",
-      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
+      "duration_ms": 139805,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
     },
     {
       "added_at": "2022-01-28 16:16:07",
@@ -869,10 +869,10 @@
       "url": "https://open.spotify.com/track/7CbNx8d9y7K60FONoUc82v"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
+      "added_at": "2021-11-15 17:43:30",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+        "name": "Call U Tomorrow",
+        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 139805,
-      "name": "Talk 2 Me",
-      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
+      "duration_ms": 186666,
+      "name": "Call U Tomorrow",
+      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
     },
     {
       "added_at": "2022-06-03 04:15:00",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB"
     },
     {
-      "added_at": "2022-07-01 20:53:37",
-      "album": {
-        "name": "Fourth of July",
-        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 223201,
-      "name": "Fourth of July - April Base Version",
-      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
-    },
-    {
       "added_at": "2021-06-03 16:59:20",
       "album": {
         "name": "The Other Lover (Little Dragon & Moses Sumney)",
@@ -1207,6 +1191,22 @@
       "duration_ms": 244883,
       "name": "The Other Lover (Little Dragon & Moses Sumney)",
       "url": "https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc"
+    },
+    {
+      "added_at": "2022-07-01 20:53:37",
+      "album": {
+        "name": "Fourth of July",
+        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 223201,
+      "name": "Fourth of July - April Base Version",
+      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
     },
     {
       "added_at": "2021-06-03 16:59:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: HUNJIYA\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,790 likes - 102 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,848 likes - 102 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 33 | [remember Remix \(with Chin, Uneducated Kid, Paul Blanco\)](https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [remember Remix](https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG) | 3:43 |
 | 34 | [MOTEL CALIFORNIA](https://open.spotify.com/track/4ptwR85sZUJghuTezDReht) | [mOOn](https://open.spotify.com/artist/6buvvKH2iRe1lunqlpOJpc), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [DR.RED](https://open.spotify.com/artist/3xCduQwGgxBE5p1Vg07hc3) | [MOTEL CALIFORNIA](https://open.spotify.com/album/5R7HKqj5L8c7Ot7BlGA4GU) | 3:38 |
 | 35 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(Original Television Soundtrack\) \(O′PENing\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
-| 36 | [Done \(feat\. Lil Sunder11 & Seiren\)](https://open.spotify.com/track/5xTs8Sbyi5zfOXoK6zAah5) | [Taeb2](https://open.spotify.com/artist/2PWVaWdOdocqnJhIdaGMRT), [Lil Sunder11](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW), [Seiren](https://open.spotify.com/artist/4gfhlsF2bTM0wS7Y1gvHzL) | [Done](https://open.spotify.com/album/2NNQA2an0JOnLPmeSxN6z8) | 3:12 |
+| 36 | [Done \(feat\. Lil Sunder11 & Seiren\)](https://open.spotify.com/track/5xTs8Sbyi5zfOXoK6zAah5) | [Taeb2](https://open.spotify.com/artist/2PWVaWdOdocqnJhIdaGMRT), [lil thunder](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW), [Seiren](https://open.spotify.com/artist/4gfhlsF2bTM0wS7Y1gvHzL) | [Done](https://open.spotify.com/album/2NNQA2an0JOnLPmeSxN6z8) | 3:12 |
 | 37 | [with the eyes of the moon](https://open.spotify.com/track/7qglpdOQtClVfNDper6YaH) | [Clean cotton](https://open.spotify.com/artist/4zMXJUvne9BlGw8kDi07wb) | [with the eyes of the moon](https://open.spotify.com/album/6OiLARt2DB1ptef8I6kNWs) | 3:46 |
 | 38 | [아무것도하기싫어](https://open.spotify.com/track/1zcn4vFOiz7E0lkKJXJDn1) | [서영](https://open.spotify.com/artist/3qbgph1ZJa7HlDrXbTrpia) | [아무것도하기싫어](https://open.spotify.com/album/0sfg7Vi4jNI6j1jbc0FZKj) | 3:14 |
 | 39 | [I was a Hero](https://open.spotify.com/track/6y2u3p63XWKrJr3PG9YGd3) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [I was a Hero](https://open.spotify.com/album/7o7JkBnQg1EK3kP6JSBKFD) | 3:19 |

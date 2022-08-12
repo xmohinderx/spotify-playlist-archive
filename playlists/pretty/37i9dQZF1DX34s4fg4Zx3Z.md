@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Phạm Nguyên Ngọc; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,269 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,282 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Em Thích](https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/0o0vf9ksC3aChWzJXZj6D0) | 2:56 |
-| 2 | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/track/3qv9LRzmaA4BX3v427FBi4) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6), [MaL.](https://open.spotify.com/artist/6n0P5VPfsk3qLSVja7xzb5) | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/album/0qIp0FFFHGlxfzyWuWG9zs) | 3:59 |
+| 1 | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/track/3qv9LRzmaA4BX3v427FBi4) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6), [MaL.](https://open.spotify.com/artist/6n0P5VPfsk3qLSVja7xzb5) | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/album/0qIp0FFFHGlxfzyWuWG9zs) | 3:59 |
+| 2 | [Mặt Mộc](https://open.spotify.com/track/3dvkpe9FEekxxgaQtxOHQI) | [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK), [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [Ân Nhi](https://open.spotify.com/artist/7zwJ09FAPbh7EJYvwEAqDD), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Mặt Mộc](https://open.spotify.com/album/5Af8YESOWf6nK6BcLh3hkA) | 3:34 |
 | 3 | [Giá Như Ta](https://open.spotify.com/track/7uOIMT5ZUuMR706rfUhx51) | [Starry Night](https://open.spotify.com/artist/3eIwGWU86iuKq4HoUoZl6P) | [Giá Như Ta](https://open.spotify.com/album/0S8sY3wJa8JwPRxdFHnQdm) | 3:45 |
 | 4 | [Giấc Mơ Rất Thơ](https://open.spotify.com/track/0xMIMrT7Vmwsejznw8LJAE) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [thaison!](https://open.spotify.com/artist/1VQyG9aks9QYQYzwmP12Fz) | [Giấc Mơ Rất Thơ](https://open.spotify.com/album/0Enf631SjxZSfjAHGPgpIU) | 2:52 |
 | 5 | [Quên Đặt Tên](https://open.spotify.com/track/0OYyivKo7eLtmHzYagW60S) | [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Quên Đặt Tên](https://open.spotify.com/album/0mSAYqvDCz9BcjSGLaRSyS) | 5:34 |
-| 6 | [Viết Cho Em](https://open.spotify.com/track/5pcngYmJI1MBkhZUjHhXrv) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Viết Cho Em](https://open.spotify.com/album/5SVndghkmunNquBI715Qiy) | 5:00 |
-| 7 | [Yêu Là](https://open.spotify.com/track/5UTUihDMJsCken93JlnxWt) | [Huy Vạc](https://open.spotify.com/artist/0b68vXEHFuQP71O9FOESra) | [Yêu Là](https://open.spotify.com/album/0qzXOmReCoDSDLbqKwA3sm) | 5:11 |
-| 8 | [Bring Me Back Into My Zone](https://open.spotify.com/track/0riysjEEB9kqxtiuu30HW5) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB) | [Bring Me Back Into My Zone](https://open.spotify.com/album/4TrlAzAIk9BgyBPCPCOcPU) | 3:05 |
+| 6 | [Em Thích](https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/0o0vf9ksC3aChWzJXZj6D0) | 2:56 |
+| 7 | [Viết Cho Em](https://open.spotify.com/track/5pcngYmJI1MBkhZUjHhXrv) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Viết Cho Em](https://open.spotify.com/album/5SVndghkmunNquBI715Qiy) | 5:00 |
+| 8 | [Yêu Là](https://open.spotify.com/track/5UTUihDMJsCken93JlnxWt) | [Huy Vạc](https://open.spotify.com/artist/0b68vXEHFuQP71O9FOESra) | [Yêu Là](https://open.spotify.com/album/0qzXOmReCoDSDLbqKwA3sm) | 5:11 |
 | 9 | [Falling In Love](https://open.spotify.com/track/3lhDQiFGOwkWR9jBZd72M9) | [Quốc Anh](https://open.spotify.com/artist/0xX1YgWck2nUQEEGDnwiGD) | [Falling In Love](https://open.spotify.com/album/4ppqfQLcqVzOu0giUWKFJO) | 2:59 |
 | 10 | [Đi](https://open.spotify.com/track/6jO30TtqbCEkG9ZGVX8pL0) | [Tony D.](https://open.spotify.com/artist/0XqppHVqDhLwMDOUmE4rRK), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Đi](https://open.spotify.com/album/7bxX1wKXGRVn3bgTHeAdfv) | 2:55 |
 | 11 | [Vô Thường](https://open.spotify.com/track/0Wqxp4vGLSFzBXvPEApigk) | [FSRio](https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY), [Young N](https://open.spotify.com/artist/2LavRswnUDiEi4r2qn006Q) | [Vô Thường](https://open.spotify.com/album/3FZs1sCTsee9pErIGhAYKf) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Sao Em Không Rep?](https://open.spotify.com/track/2IyaEEU6uYI20qnYpfBxeP) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [DAGIAM](https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg) | [Sao Em Không Rep?](https://open.spotify.com/album/5PAvmwRrUuTWwf3ImHeYJq) | 3:11 |
 | 100 | [Mai Về](https://open.spotify.com/track/4K9pEXPOH7GwBkfBfn7bBW) | [Dfoxie37](https://open.spotify.com/artist/4zg9WrDAFl1dGh2eSWLnOG), [Myhai](https://open.spotify.com/artist/6SECEHj3VXuc2JP9FmSwiZ) | [Mai Về](https://open.spotify.com/album/1e2eM8MOgpmvsaSoa1gqi2) | 5:00 |
 
-Snapshot ID: `MTY1OTkyNTgyMCwwMDAwMDAwMDY1Mzk4ODk1NzNkYzcyMzg2OTgzMWMwMDg1M2NjNzU3`
+Snapshot ID: `MTY2MDIyOTAxMSwwMDAwMDAwMDU1YzRmN2Q1MzQ5YjcyNjU3M2I5OTM2OGE0MGIxZmY2`

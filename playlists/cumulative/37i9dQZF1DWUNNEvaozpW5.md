@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Jarabe de Palo.
 
-163 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
+164 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 | 2022-05-19 |  |
 | [A un minuto de ti \(feat\. Coque Malla\)](https://open.spotify.com/track/3DXW50R1GIUkhq6zctX2Uz) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [A un minuto de ti \(feat\. Coque Malla\)](https://open.spotify.com/album/0yJhJbhjhJMmBOIY3fCrSC) | 4:08 | 2022-06-16 | 2022-07-22 |
 | [Abel y Caín \(feat\. Miguel Ríos\)](https://open.spotify.com/track/03BmkRkQPWT657aLBHTsuw) | [Rubén Pozo](https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz), [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Abel y Caín \(feat\. Miguel Ríos\)](https://open.spotify.com/album/5UubJeoGL0bStHJTdiY1pf) | 3:12 | 2022-05-19 | 2022-05-27 |
+| [Abolir el alma \- Un homenaje a Rafael Berrio](https://open.spotify.com/track/0Nd3zT6Kuka6JMK2gksAzI) | [Jose Ignacio Lapido](https://open.spotify.com/artist/1iWumLWq8eGULX2Pvw7gC8) | [Abolir el alma \(Un homenaje a Rafael Berrio\)](https://open.spotify.com/album/1oym7c033232iwjCqvCL0z) | 3:34 | 2022-08-11 |  |
 | [Abrázame](https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Metamorfosis\. En Directo Desde El Teatro Arriaga](https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr) | 5:29 | 2022-07-07 | 2022-07-17 |
 | [Acabo de llegar](https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 6:15 | 2022-05-19 | 2022-07-29 |
 | [Agradecido](https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Un Palo Al Agua \(20 Grandes Canciones\)](https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq) | 4:33 | 2022-05-19 | 2022-07-29 |
@@ -76,7 +77,7 @@
 | [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 | 2022-05-26 |  |
 | [Frío \(con Fito y Fitipaldis, Tarque y Rosendo\)](https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57) | [El Drogas](https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Un día nada más](https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x) | 4:09 | 2022-05-19 | 2022-07-29 |
 | [Fugitivo](https://open.spotify.com/track/15avNXf8vd4IDSkmwlvg21) | [Lobonegro](https://open.spotify.com/artist/6rclMO4vYyPBQL7Q0NHLyf) | [Fugitivo](https://open.spotify.com/album/6miBc8f3smDjLHOYTO2zEG) | 3:18 | 2022-06-02 | 2022-06-17 |
-| [Galaxia](https://open.spotify.com/track/4k2rXEST4WhABauOv6Lhbu) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Ruido de fondo](https://open.spotify.com/album/6x344jhmhatHn4Qknm8CGp) | 4:05 | 2022-07-21 |  |
+| [Galaxia](https://open.spotify.com/track/4k2rXEST4WhABauOv6Lhbu) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Ruido de fondo](https://open.spotify.com/album/6x344jhmhatHn4Qknm8CGp) | 4:05 | 2022-07-21 | 2022-08-12 |
 | [Gotas](https://open.spotify.com/track/62gGpZumuoV79n8groGV4s) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Gotas](https://open.spotify.com/album/5poBsCI8udX6rnYxNdChAG) | 2:56 | 2022-05-19 | 2022-06-10 |
 | [Historia de dos ciudades](https://open.spotify.com/track/143bxX8ra8hQdZNVFTpGtU) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Diario de una tregua](https://open.spotify.com/album/7cmVvrFXZuMgiEakavUfQO) | 4:57 | 2022-05-19 | 2022-05-27 |
 | [Hormigon, Mujeres y Alcohol \- Edición 35 aniversario](https://open.spotify.com/track/2kdcgSLw6FzxdL0gkhAT16) | [Ramoncin](https://open.spotify.com/artist/1S83AICkpMqmowvInvbizT) | [Arañando La Ciudad \- 35 aniversario](https://open.spotify.com/album/1ckB2GAUFFgnlAUjyWptsY) | 2:27 | 2022-05-26 | 2022-07-13 |

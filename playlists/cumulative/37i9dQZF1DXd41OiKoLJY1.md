@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Fresh releases from your future favorite artists\. Cover: BOIZ, Artwork: Isu Kim
+> Fresh releases from your future favorite artists\. Cover: Kayla Rivera, Artwork: Isu Kim
 
-467 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
+469 songs - 1 day 4 hr 11 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Move With Me](https://open.spotify.com/track/5jJetLGNFoBeyLOFFmhzFS) | [Noy Cajilig](https://open.spotify.com/artist/7hZlzZiPRDfVE6iR2LPngo) | [Move With Me](https://open.spotify.com/album/0bzZlGLm9xnMfZxyjsNxhP) | 2:58 | 2022-01-20 | 2022-02-11 |
 | [Moving On](https://open.spotify.com/track/7ykQxImrJdypa6x32abHbX) | [Matty J](https://open.spotify.com/artist/25KKc9q1O6bKVS9NdgMdGF) | [Moving On](https://open.spotify.com/album/56y9HetpA4gCHfbE3SlfnL) | 3:13 | 2022-06-02 | 2022-06-17 |
 | [Much Like Any](https://open.spotify.com/track/5dnqdBN9E8jNFH7IKEpHEU) | [Mimi Donado](https://open.spotify.com/artist/5LEvN6umswMlIK7ChUCRl6) | [Much Like Any](https://open.spotify.com/album/5qPbZCz3TCo7kcbwxvqXy1) | 3:44 | 2022-02-10 | 2022-04-01 |
+| [Mukhang Pera Sa'yo](https://open.spotify.com/track/24sab7SJGXla3e4Tkk26Nq) | [Debonair District](https://open.spotify.com/artist/2VuzHoCgTuDlkmStBfz1XI) | [Mukhang Pera Sa'yo](https://open.spotify.com/album/1YhGYOTwLi6zi2r8zKak92) | 3:47 | 2022-08-11 |  |
 | [Muli](https://open.spotify.com/track/7F3EgtpZ6PBMTNm4q42fiO) | [Kade.](https://open.spotify.com/artist/67c67s2gF7grLnIFt3Uqd4) | [Muli](https://open.spotify.com/album/7FOxEuFJP4M4G7B4qY0YCt) | 3:17 | 2022-05-05 | 2022-07-01 |
 | [Munting Hiling](https://open.spotify.com/track/0y0wwvz7vUPlxLMbSCPUBN) | [Melissa Corpus](https://open.spotify.com/artist/0gju7dDWpRtQTmqAl8IH5x), [Arjie King](https://open.spotify.com/artist/3eYWchZEKh8C4alSP0zmB1) | [Munting Hiling](https://open.spotify.com/album/0dhnEzK0Fw4PUPd7AtbN29) | 4:45 | 2022-03-31 | 2022-05-06 |
 | [My Demons](https://open.spotify.com/track/5lMRNzSznP146iHWN77xQT) | [Zynfinity](https://open.spotify.com/artist/3hhvszAhc2fpQ8Sm6HmQhr) | [My Demons](https://open.spotify.com/album/58PN9epQbr0WV4B2QqVwxd) | 4:52 | 2022-07-21 |  |
@@ -365,6 +366,7 @@
 | [Sabihin Mo Na](https://open.spotify.com/track/4JufCkLFHjwC9famgxgq20) | [Mark Justin](https://open.spotify.com/artist/30K3mHt4wKILhJfrDapwnu), [Ken Magalong of K88 Beats](https://open.spotify.com/artist/6PWnYLaI35bvIPkcjzy3WP) | [Sabihin Mo Na](https://open.spotify.com/album/7GU2exWb4WAW8MtLSJGp3N) | 3:40 | 2022-03-10 | 2022-04-01 |
 | [Sabik](https://open.spotify.com/track/1UMgf1mR9DGmH8fEUbeqPQ) | [Pippen](https://open.spotify.com/artist/6UeQ71kDQ5Si4U3OzSrwae) | [Sabik](https://open.spotify.com/album/0mT9mEbm3pGdEnvSNqOTgW) | 4:09 | 2022-03-10 | 2022-04-01 |
 | [Safer There](https://open.spotify.com/track/6Vrzs1fJryCViGiluZnjSC) | [Faye PH](https://open.spotify.com/artist/3x12spQmP0Rkljly58lcR9) | [Safer There](https://open.spotify.com/album/002T7d19jGcBbGdrplceep) | 3:57 | 2022-06-02 | 2022-06-17 |
+| [Sagot](https://open.spotify.com/track/3KrQ9wy8yloPmwWvHjWLTV) | [Salazar](https://open.spotify.com/artist/3ST9RflWZByhR6QsTKNHi1) | [Sagot](https://open.spotify.com/album/0EefCriok1Scsye37Vz7LG) | 2:56 | 2022-08-11 |  |
 | [Sakin Ka Lang Tumingin](https://open.spotify.com/track/1Hg6UR0KlFFkq3VbPurXRR) | [Gabriel Tagadtad](https://open.spotify.com/artist/6CadRLbU858nkPpPPkA3KC) | [Sakin Ka Lang Tumingin](https://open.spotify.com/album/6QZ68MjPCufLCq6kaCfK2w) | 2:27 | 2022-03-24 | 2022-04-01 |
 | [Salamat](https://open.spotify.com/track/73IdoTMphQ3SDfernUxHAZ) | [Rikiboi](https://open.spotify.com/artist/26gSoXtC2XbGxRMqXW8jGe), [Metroboyz](https://open.spotify.com/artist/1hubGeUlmhPeJ16nUYhE4y), [Borhuh](https://open.spotify.com/artist/5mheAaS72JKiklL2CvvDnH), [Daryl Kagah](https://open.spotify.com/artist/3IwqLTK74WPjRxCfgqlltQ) | [Salamat](https://open.spotify.com/album/1N3FXsnHFs0DcsbdEoef0R) | 3:23 | 2022-01-07 | 2022-02-25 |
 | [Salamat Na Lang Sa Lahat](https://open.spotify.com/track/4EUyhpNRNK9CypbWbd7nxn) | [Letrang Norte](https://open.spotify.com/artist/5iTqe9oNgs5E3Wm4W3hFKq) | [Salamat Na Lang Sa Lahat](https://open.spotify.com/album/6OLLroJpHKPnjjpUWFWZLu) | 4:45 | 2022-04-28 | 2022-06-17 |

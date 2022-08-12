@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-175 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+176 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,10 +99,11 @@
 | [Loba](https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3) | [Quixosis](https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA) | [Especies Afines](https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g) | 5:48 | 2021-10-15 | 2022-01-20 |
 | [Lone Swordsman](https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H) | 3:53 | 2021-10-15 | 2022-03-31 |
 | [Look How Hard I've Tried](https://open.spotify.com/track/6GNXHie8d6aN0rxFMnj2tx) | [Barker](https://open.spotify.com/artist/3LEGPWdr7sarYtf2u0ETWN) | [Debiasing EP](https://open.spotify.com/album/7wKUtfY6wtS65qsA4RRAvq) | 5:16 | 2021-10-15 | 2022-02-10 |
-| [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-06-08 |  |
+| [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-06-08 | 2022-08-12 |
 | [Los](https://open.spotify.com/track/4KjlO4yts8Oe8slM4aeCBe) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Los](https://open.spotify.com/album/2I8rQGhMfiaghzGshYvL2w) | 4:50 | 2021-10-15 | 2022-02-17 |
 | [Lost In Cyberspace](https://open.spotify.com/track/4jlg3sAomqzv3h0ccndkfa) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [Lost In Cyberspace](https://open.spotify.com/album/60czEHzF6zWI3DA5vW1IPX) | 1:09 | 2022-01-11 | 2022-03-12 |
 | [Magic Pony Ride \(Pt.1\)](https://open.spotify.com/track/2np71UUbhAVIJ61jkQDRDe) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Magic Pony Ride](https://open.spotify.com/album/0bzc0YF4nKy4ZuJPO847uN) | 3:50 | 2022-06-20 | 2022-07-16 |
+| [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-11 |  |
 | [Maru \- Skee Mask Remix](https://open.spotify.com/track/3fiy3JpgypzYRwWeVgSvcf) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Maru \(Skee Mask Remix\)](https://open.spotify.com/album/5IegphIbabveJVR2dipcLc) | 6:22 | 2021-10-15 | 2022-01-20 |
 | [Marzipan Leftlovers \(Ignazz Remix\)](https://open.spotify.com/track/0WMa0q6v76ctwdjI6Ph0ZG) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB), [Ignazz](https://open.spotify.com/artist/19MnaXSqp5A9hlDNrRz8XV) | [Remix EP](https://open.spotify.com/album/3PVDGasKBN3TP516jfu4hr) | 4:18 | 2021-10-15 | 2022-02-10 |
 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 | 2022-04-12 |  |

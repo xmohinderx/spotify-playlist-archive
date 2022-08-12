@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: JUSTHIS(\uc800\uc2a4\ub514\uc2a4)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: Shin Sae Byeok(\uc2e0\uc0c8\ubcbd)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "published_playlist_ids": [
     "50vXMaH1sm7s2jq2W5LswS"
@@ -1060,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267280,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
+    },
+    {
+      "album": {
         "name": "HIDEOUT: THE NEW DAY WE STEP INTO - SEASON 2.",
         "url": "https://open.spotify.com/album/0XI2pmH6pUEjx0d9iOqx9x"
       },
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
@@ -1867,6 +1885,24 @@
       "duration_ms": 226253,
       "name": "Don't Leave Me, My Love",
       "url": "https://open.spotify.com/track/2yqaOTRo1plpmNkbnZs2YY"
+    },
+    {
+      "album": {
+        "name": "Don't say anything",
+        "url": "https://open.spotify.com/album/5l7cpVCSMVAjF0t1A11cBK"
+      },
+      "artists": [
+        {
+          "name": "LEEWOO",
+          "url": "https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244226,
+      "name": "Don't say anything",
+      "url": "https://open.spotify.com/track/4TnRGdiATWzXYut78YX1KZ"
     },
     {
       "album": {
@@ -2661,7 +2697,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 264480,
       "name": "For Youth",
       "url": "https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5"
@@ -4391,7 +4427,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 235840,
       "name": "Learning to Live",
       "url": "https://open.spotify.com/track/58PKHsshq0OSPJvdEHhWin"
@@ -5047,7 +5083,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 220373,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/3b4QaFrYPu9M151olXh3rD"
@@ -8337,7 +8373,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 194493,
       "name": "Why",
       "url": "https://open.spotify.com/track/2oSIQr1TSYNJWf2snALmiC"

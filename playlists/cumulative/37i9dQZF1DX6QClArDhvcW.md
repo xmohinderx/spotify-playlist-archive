@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-205 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+206 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [weather report](https://open.spotify.com/track/2liZi98khYvEHs03lAveyv) | [kesno](https://open.spotify.com/artist/79GO1ze6oDiQU9dGQONP1a) | [weather report](https://open.spotify.com/album/1GKmluPzmRiW3do5FuANaM) | 2:12 | 2022-05-20 |  |
 | [whale tale](https://open.spotify.com/track/6B7wBkh0TOpn8MPWYLRO3z) | [Edwinn](https://open.spotify.com/artist/5MGZZJ42ckotNMrC7mxIDE) | [whale tale](https://open.spotify.com/album/7KMUOBXOItn4Yvd4mfalH1) | 2:10 | 2022-05-20 |  |
 | [What I Wouldn't Give](https://open.spotify.com/track/3RzhjKBCVghvkRStpV23Ua) | [Atium](https://open.spotify.com/artist/0PW19PrYxmKaE37EEaH9s9) | [The Love of Others](https://open.spotify.com/album/4rAf6xMcvu5nqVa10IwVoT) | 2:51 | 2022-05-20 | 2022-06-17 |
+| [What Is Your Story?](https://open.spotify.com/track/4TR425bbXD95wspJRqroWJ) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [What Is Your Story?](https://open.spotify.com/album/1SkfVYardPOl3Piwd9nH4m) | 2:14 | 2022-08-12 |  |
 | [Wondering 5](https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY) | [Azera](https://open.spotify.com/artist/3muI7swfmpO7OmPROPjkdA) | [Ukulele](https://open.spotify.com/album/31seuRl1i2CyFkByfIFGex) | 1:55 | 2022-05-20 |  |
 | [Wynwood](https://open.spotify.com/track/0q4YTXB99koLTdFXkgNQwr) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Wynwood](https://open.spotify.com/album/58mvCS8POnTN5AmROCw5p5) | 2:08 | 2022-05-27 | 2022-06-17 |
 | [Yambula](https://open.spotify.com/track/4ecmvloQdEjcx1a85qhHe1) | [Elengi](https://open.spotify.com/artist/3wCEfYsM06yRGxVUgvnuAZ) | [Yambula](https://open.spotify.com/album/3OMuwO9VZvWQ3InylSXOLz) | 1:54 | 2022-05-20 |  |
