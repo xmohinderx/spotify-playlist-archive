@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,286 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,545 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 95 | [Inside Out](https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:32 |
 | 96 | [Café Del Soul](https://open.spotify.com/track/1tDvUckdBbclTgBCAhUPs7) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 4:23 |
 | 97 | [Givin’ It Up](https://open.spotify.com/track/31gDZG7i3ui4oLmWnhN0mG) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:01 |
-| 98 | [Lights Down Low](https://open.spotify.com/track/7uHtZIoR7GnrvKrupnSICf) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Seduction](https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D) | 4:32 |
-| 99 | [Saturday Cool](https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:37 |
-| 100 | [It's All Good](https://open.spotify.com/track/1aXysFRgZfghWtgteEVQIz) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 5:14 |
+| 98 | [Liquid Soul](https://open.spotify.com/track/36TH6l0hRy22WrYiQXXR8q) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 6:07 |
+| 99 | [In The City Life](https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ) | [Gota](https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ) | [Smooth Jazz Radio Hits Volume Two](https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS) | 3:36 |
+| 100 | [Ocean Way](https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 5:03 |
 
-Snapshot ID: `MTY2MDEyMTc3NiwwMDAwMDAwMDAxY2E3ZDk0MGRlY2Q3ZTUxZDBlM2Q3Y2Q2YjUyZWE2`
+Snapshot ID: `MTY2MDMxMjE2NywwMDAwMDAwMDQ1NWUxZDY5ODcxZWU5MTRmZjNjOTk2NmYxM2Y3NDEy`

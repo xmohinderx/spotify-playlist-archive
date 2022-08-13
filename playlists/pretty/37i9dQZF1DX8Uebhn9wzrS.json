@@ -1,12 +1,12 @@
 {
   "description": "The perfect study beats, twenty four seven.",
-  "num_followers": 961718,
+  "num_followers": 962066,
   "original_name": "chill lofi study beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMDNkY2FkNzdlNGRhYTQ1M2IxOTYxYjY4MDkyMTU2MTQ1",
+  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMGQxYzViZWYxMmMyMjcwNDM1OWFjOTRiNzEwMjM4YmY4",
   "tracks": [
     {
       "added_at": "2022-08-12 00:00:00",
@@ -4587,6 +4587,46 @@
     {
       "added_at": "2022-08-12 00:00:00",
       "album": {
+        "name": "somewhere in time",
+        "url": "https://open.spotify.com/album/5mgWGyzUMyDKXtAF0wvvk1"
+      },
+      "artists": [
+        {
+          "name": "leonoel",
+          "url": "https://open.spotify.com/artist/1kGDwOMmp0ZnSQLP74MHfo"
+        },
+        {
+          "name": "Adam Panek",
+          "url": "https://open.spotify.com/artist/4irDpwU4JhKKCu4r1yRbR9"
+        },
+        {
+          "name": "Oscar Jakonen",
+          "url": "https://open.spotify.com/artist/1uUseRx5lV0ENp9BbNUcng"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "somewhere in time",
+      "url": "https://open.spotify.com/track/3HFdGHqnhjH2QizQW46oBt"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "The Thing You Do",
+        "url": "https://open.spotify.com/album/0H95L6BfWccbPaHlAPJJo8"
+      },
+      "artists": [
+        {
+          "name": "Ouija Chords",
+          "url": "https://open.spotify.com/artist/3tcxWYxIzG1rkrWBRqybBT"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "The Thing You Do",
+      "url": "https://open.spotify.com/track/0qXKoANAT73DdBjwlpPT5G"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/0tXIIM7OPMIuMFB8MeqrrM"
       },
@@ -4599,6 +4639,62 @@
       "duration_ms": 110315,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1D2tsPNJJ99p7suTnZowyZ"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "everything i once held dear",
+        "url": "https://open.spotify.com/album/5Tj11EgWn90NjKqGiwMtyC"
+      },
+      "artists": [
+        {
+          "name": "sxxnt.",
+          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
+        },
+        {
+          "name": "melo",
+          "url": "https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko"
+        }
+      ],
+      "duration_ms": 171111,
+      "name": "everything i once held dear",
+      "url": "https://open.spotify.com/track/1MUFBNIJtbTomAOxJxE9kJ"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Night With You",
+        "url": "https://open.spotify.com/album/2IBrWBqOYfZgcmw9roJWkZ"
+      },
+      "artists": [
+        {
+          "name": "Wieland & Ulrich",
+          "url": "https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "Night With You",
+      "url": "https://open.spotify.com/track/4SF52wX2daxB1fMYoPoo78"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Feeling Relaxed",
+        "url": "https://open.spotify.com/album/76Het5EiAMnghGM3B14KtR"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        }
+      ],
+      "duration_ms": 128034,
+      "name": "Feeling Relaxed",
+      "url": "https://open.spotify.com/track/3Xs7hvI1tofJ5KAwcHKzoO"
     },
     {
       "added_at": "2022-08-12 00:00:00",
@@ -4639,6 +4735,26 @@
     {
       "added_at": "2022-08-12 00:00:00",
       "album": {
+        "name": "Ripples",
+        "url": "https://open.spotify.com/album/2XBRBjmpfhSIvFBP0PpKqo"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm"
+        },
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        }
+      ],
+      "duration_ms": 158873,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/3WeZQ5yOSPwWrZKONN0DCG"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/0NDk4uZ6k6piDilUfMX80e"
       },
@@ -4655,6 +4771,34 @@
       "duration_ms": 104388,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/2x7ZGOrxT7aLnMO9d3XZUa"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Nadis",
+        "url": "https://open.spotify.com/album/7iQ51FgRgNmMi2mIK1i4yt"
+      },
+      "artists": [
+        {
+          "name": "Pixie Dust",
+          "url": "https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR"
+        },
+        {
+          "name": "Alpstar",
+          "url": "https://open.spotify.com/artist/5LyqaR9qKCY366KoR95KAu"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        },
+        {
+          "name": "yani",
+          "url": "https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li"
+        }
+      ],
+      "duration_ms": 126400,
+      "name": "Nadis",
+      "url": "https://open.spotify.com/track/3EmmopcqTsF4BvbCoadpMP"
     },
     {
       "added_at": "2022-08-12 00:00:00",

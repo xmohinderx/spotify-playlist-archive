@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,088 likes - 80 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,152 likes - 80 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Hunting Heads](https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Hunting Heads](https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E) | 7:02 |
 | 80 | [Heather Grey \(BK Gritty\)](https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ) | [NIKARA presents Black Wall Street](https://open.spotify.com/artist/3aKINS5KI279EKkNpHcMng), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [NIKARA presents Black Wall Street](https://open.spotify.com/album/1ajCBcWKmPE52w4d0h0AhL) | 6:06 |
 
-Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMGY4YzIwZDQwZjk1NzkxZjU5MTIxMzUwMzNjYmMxYjcy`
+Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDZmMTFkOTE4MjA0NGVhYjU1ZTdjN2E3YTgxMWEyMTYz`

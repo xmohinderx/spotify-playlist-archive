@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,130 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,132 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 32 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
 | 33 | [This Song Scares People](https://open.spotify.com/track/2xUvfzTPwPPMz6oifXCtUg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [This Song Scares People](https://open.spotify.com/album/6PlpFIqZENnbLoDD8JaCV3) | 2:03 |
 | 34 | [Tower](https://open.spotify.com/track/5Ek9fda1mgxvVS92lCE7Qn) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Tower](https://open.spotify.com/album/3ow68IUvYEltOQb9Jqco1H) | 3:30 |
-| 35 | [Winter Is Coming \- Rome in Silver Remix](https://open.spotify.com/track/0rfuJq6P2Albwy2dykCD75) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Winter Is Coming \(Rome in Silver Remix\)](https://open.spotify.com/album/2hQI3kzX2UdSF765BX5jvJ) | 3:26 |
+| 35 | [Winter Is Coming \- Rome in Silver Remix](https://open.spotify.com/track/5HVt7dT8UY2BOlPZmOjpAO) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 3:26 |
 | 36 | [Welcome to the Zombie Disco](https://open.spotify.com/track/3sWYJawOFRDom4ghfmmdgK) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Trick or Treat](https://open.spotify.com/album/26Fb4hs1Hadb6XXkH5bzYj) | 4:54 |
 | 37 | [Terror Squad](https://open.spotify.com/track/3iua7Qv6SauKb6AIRErIDE) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Reanimated EP](https://open.spotify.com/album/0pvo5DotmMpj4hvnWAYkwJ) | 4:17 |
 | 38 | [Grave](https://open.spotify.com/track/0qkSTDOUNmyPsMjTJ4jISd) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Grave](https://open.spotify.com/album/6nDCvCvEZjvYMWxDoa2lXF) | 4:36 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 76 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 77 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MTYzNTM5MzYwMCwwMDAwMDAwMDczOWI3ZjliMzNjNDkxYmJiZThmMWFlZmI3YmUyYTdm`
+Snapshot ID: `MTYzNTM5MzYwMCwwMDAwMDAwMGUzMjgzMGY4NWExYjNiYTJhNWI5OGI2YmE2YjVjMmYw`

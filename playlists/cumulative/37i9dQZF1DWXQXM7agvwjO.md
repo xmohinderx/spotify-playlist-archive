@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: mindfreakkk \(Thailand\)
 
-313 songs - 18 hr 41 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+316 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [I'm An Artiste](https://open.spotify.com/track/1tpHsyhnjet2NILsgbYN66) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw), [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa) | [I'm An Artiste](https://open.spotify.com/album/0aW6jBFPOBDKqZXkrzs49e) | 3:06 | 2022-05-26 | 2022-06-10 |
 | [i\-](https://open.spotify.com/track/1bAW51MKzvzhzKPDlaRJd0) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [i\-](https://open.spotify.com/album/4OvbVVqxYpYn3wZkRXWYuy) | 2:56 | 2022-04-07 | 2022-06-24 |
 | [If You Leave Me Alone](https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Bones & The Boy](https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT) | 2:31 | 2022-06-23 | 2022-08-12 |
+| [Impossible Isle](https://open.spotify.com/track/6Vehur5lQnlJrEV6lAO0AA) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 3:58 | 2022-08-11 |  |
 | [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-04 |  |
 | [In Your Loudest Fear](https://open.spotify.com/track/4oAUeju7DwlPHBWqbzGDP5) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a) | [Water Will Find Me](https://open.spotify.com/album/7b89kC8vOz2uvWgdG4ZybI) | 6:05 | 2022-07-21 |  |
 | [insomnia](https://open.spotify.com/track/0qbRKE96kcbb8LNhs43cTs) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [insomnia](https://open.spotify.com/album/60u9cSJBnwIS0QuoBUQMWz) | 4:46 | 2022-04-07 | 2022-05-13 |
@@ -291,6 +292,7 @@
 | [Wintertime Is Over](https://open.spotify.com/track/6hAWz1CnpMd8a7JmkJiigT) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [ANT](https://open.spotify.com/artist/64ZqV2zqmap4c0HqxzAoYv) | [Wintertime Is Over](https://open.spotify.com/album/0MzjNHWmx9BwvnK0WOVOiY) | 3:09 | 2022-06-16 | 2022-07-22 |
 | [Witches](https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f) | 3:51 | 2022-05-12 | 2022-07-01 |
 | [Would You Ever](https://open.spotify.com/track/6G5nyQPvqSfojOVzXfNAHf) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Everything Is](https://open.spotify.com/album/0peIMKBxWe8WVIFdUYs0OD) | 4:37 | 2022-05-19 | 2022-07-08 |
+| [Xylo \(Shouldn't Have Called It\)](https://open.spotify.com/track/7IMQuX237UE0BgT3eXj3Xw) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Xylo \(Shouldn't Have Called It\)](https://open.spotify.com/album/2hBDHksfKvzXLbPAFY6BrM) | 2:42 | 2022-08-11 |  |
 | [Yellow Light](https://open.spotify.com/track/2xTthDrC8bvxrZUKWWks1O) | [diondjokoadi](https://open.spotify.com/artist/3whzsIqAkpNv0rxyARK82D) | [Yellow Light](https://open.spotify.com/album/3DIl4oQDEz5X1s19h1vRHZ) | 3:05 | 2022-03-24 | 2022-05-13 |
 | [YES \- vanguard mix](https://open.spotify.com/track/0RNmlHZm28K6l9yKAqhGS3) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [YES \(vanguard mix\)](https://open.spotify.com/album/1ro49FQ5xgl9pIINxlRozK) | 4:29 | 2022-04-14 | 2022-05-27 |
 | [Your Eyes](https://open.spotify.com/track/4goXqBKlrjVDFdABSEYItt) | [Yulie](https://open.spotify.com/artist/7yH3sjveHQuOWB8eZRKk3k), [Blue Bone](https://open.spotify.com/artist/5hW5sCvcnV65dARCSETrkC) | [Your Eyes](https://open.spotify.com/album/5yolu7ryMRLvq8ZG0fpou7) | 3:04 | 2022-07-28 |  |
@@ -303,6 +305,7 @@
 | [วิเศษ \(Magic\)](https://open.spotify.com/track/2Z9U0wFqsxoALv3qtJKlwH) | [MaxMillor](https://open.spotify.com/artist/4Yk2QTFYbKN55vfo8ghH63) | [Just a bad day not a bad life, isn't it](https://open.spotify.com/album/4I4Y5PxyYgJzyTBmQed9Em) | 3:40 | 2022-05-19 | 2022-07-01 |
 | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/track/2b8mCK6lkTlaFLXwEfhxyv) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/album/75cxwoKlB11QNon32KVYyU) | 3:04 | 2022-03-24 | 2022-05-07 |
 | [เวลาที่เราพบกัน](https://open.spotify.com/track/6hnbGLKPcXARQWsskL5Jm5) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [เวลาที่เราพบกัน](https://open.spotify.com/album/40CmwSfgz4OiDO9rRS5UCV) | 4:11 | 2022-05-06 | 2022-06-17 |
+| [こんにちは](https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 2:52 | 2022-08-11 |  |
 | [わたしたちへ](https://open.spotify.com/track/78XrrMFIEGU8yOUdkn5umM) | [Ayano Kaneko](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [わたしたちへ](https://open.spotify.com/album/6bi87bNy6rch5PTXdjW1I6) | 4:05 | 2022-04-14 | 2022-04-29 |
 | [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 | 2022-08-05 |
 | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/track/1ybhaEBjWHBWzXyZO8Wtay) | [沈安](https://open.spotify.com/artist/2tT4arcwVKQK6wfZV23vTt) | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/album/4dFxr1czYW41LhmWo6LbRg) | 3:29 | 2022-04-21 | 2022-05-13 |

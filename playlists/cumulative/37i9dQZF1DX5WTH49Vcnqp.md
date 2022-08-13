@@ -4,7 +4,7 @@
 
 > all the hottest indie tunes in the world rn feat\. Thelma Plum, PinkPantheress & Rex Orange County 🐍
 
-490 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+491 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Domino](https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Domino](https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU) | 3:35 | 2022-07-21 | 2022-07-29 |
 | [don't jump the gun](https://open.spotify.com/track/5A4IUiCLfZAjEME2QPgf8P) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [don't jump the gun](https://open.spotify.com/album/3GrECJ07gyegeBtv5ZMG7T) | 2:35 | 2022-07-21 |  |
 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 | 2022-01-13 | 2022-03-24 |
+| [Don't Wanna See You Down](https://open.spotify.com/track/0dRT0xytWgkjufsBxavQQH) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Don't Wanna See You Down](https://open.spotify.com/album/61apFO26VhHNA0RadiFgls) | 2:28 | 2022-08-11 |  |
 | [Double Espresso](https://open.spotify.com/track/2GefMW8nR2IoEhuZU9Neo6) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Double Espresso](https://open.spotify.com/album/12dgqT2wKdRfFKo4vanOS8) | 3:25 | 2022-01-13 | 2022-03-31 |
 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 | 2022-04-07 | 2022-06-17 |
 | [draw you inside my book \(feat\. KMays\)](https://open.spotify.com/track/0ZbghqrVhOtGom63oKxONU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [KMays](https://open.spotify.com/artist/2VTLKU8cAZDr5JuZ7HS4BA) | [draw you inside my book \(feat\. KMays\)](https://open.spotify.com/album/0w5Q4bGIpbvmEzTgAtDt72) | 2:24 | 2022-04-07 | 2022-05-31 |

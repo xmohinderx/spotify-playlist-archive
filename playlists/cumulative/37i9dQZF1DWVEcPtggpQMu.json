@@ -1220,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/32d7sDMNwsvNjIJ88mfzj7"
+      },
+      "artists": [
+        {
+          "name": "ZuluMecca",
+          "url": "https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/3moGgZ1itm9HgYuJstsWib"
+    },
+    {
+      "album": {
         "name": "Current State Of Mind",
         "url": "https://open.spotify.com/album/3XTwECwTavv0evdNXEF2pz"
       },
@@ -1836,6 +1854,24 @@
     },
     {
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/6HzUnTetNVWZ88YxbLJRbt"
+      },
+      "artists": [
+        {
+          "name": "Miss Lia",
+          "url": "https://open.spotify.com/artist/5ZMqgKG086LLHqteiVk43r"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182740,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/6S1LuvA8rTJefGmWJMHyw0"
+    },
+    {
+      "album": {
         "name": "HEALING",
         "url": "https://open.spotify.com/album/0A8XGvOiCxiF3SIl5Y1fjf"
       },
@@ -2033,6 +2069,28 @@
       "duration_ms": 240327,
       "name": "GIVE IT ALL",
       "url": "https://open.spotify.com/track/46h458VF2f9hLopjF460O6"
+    },
+    {
+      "album": {
+        "name": "God Is A Black Woman",
+        "url": "https://open.spotify.com/album/2gEToWe7xbkYqQUERfGkG4"
+      },
+      "artists": [
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "KayGizm",
+          "url": "https://open.spotify.com/artist/7zZJ8uMyYLA5IXhjf1wlw2"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "God Is A Black Woman",
+      "url": "https://open.spotify.com/track/08rcbLs7BrwOMFSGASlLgs"
     },
     {
       "album": {

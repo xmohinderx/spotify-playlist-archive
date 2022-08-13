@@ -4,7 +4,7 @@
 
 > A mix of floor shattering bass, dub plates & purple vibes\. Back to the roots and the original sounds of Dubstep.
 
-372 songs - 1 day 4 hr 46 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+374 songs - 1 day 4 hr 53 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Big Boi](https://open.spotify.com/track/4nJ7HHtJat66JqV8Oa6Tlv) | [Ramsez](https://open.spotify.com/artist/6u8RwyERnGpgixqrLjyVGL) | [Big Boi](https://open.spotify.com/album/21cs74Puy6O94G398bJ6jb) | 4:53 | 2022-02-17 | 2022-06-30 |
 | [Big Sound](https://open.spotify.com/track/6AwqqoSLwFSHHEsh4wB3id) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/0enzWFgcbJ1nT5qtrwsWxj) | 4:39 | 2022-02-17 | 2022-07-29 |
 | [Big Sound](https://open.spotify.com/track/6dlCxzq1BmPXFLArScNz2i) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/2fsd0lJ3k6Fig0x8eulNnB) | 4:39 | 2022-07-08 |  |
+| [Bleed](https://open.spotify.com/track/6XEL57IMhRLsT9Q4XiCF7W) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [From a Vein](https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu) | 3:20 | 2022-08-12 |  |
 | [Bliss \- Original Mix](https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20) | [SubDimension](https://open.spotify.com/artist/6fwIH24ZNPIqkWa6BLjyqb) | [Woe & Bliss EP](https://open.spotify.com/album/1rwQMdcIf52wbSVG3YvmOH) | 6:13 | 2022-02-17 | 2022-07-30 |
 | [Boks](https://open.spotify.com/track/6AhoZHpoeXmIyH37QrIDYN) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Unreleased Classics\. Vol.2 2004\-2006](https://open.spotify.com/album/4t4cgkh5JyDnl3lyD8RliW) | 5:36 | 2022-02-17 | 2022-04-08 |
 | [Boondow Bai](https://open.spotify.com/track/7cLgBeRNgizZbKr9CPeBOU) | [Dalek One](https://open.spotify.com/artist/3c3aIUcvGaeRYmqRm9rXqb) | [Boondow Bai](https://open.spotify.com/album/1bgC0CA9FzaT2NRKJ5GOCj) | 4:07 | 2022-02-17 | 2022-07-29 |
@@ -166,7 +167,7 @@
 | [Kicked](https://open.spotify.com/track/6mkdWnNMw9tFc3gdwvxSJR) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR), [FLY](https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda) | [Kicked](https://open.spotify.com/album/6XhvNhayfGvoixsMaboxG7) | 2:45 | 2022-02-17 |  |
 | [Kopstoot \- Hebbe Remix](https://open.spotify.com/track/1Eey1ZEf4hXRAOvJLQOAK2) | [Sweepa](https://open.spotify.com/artist/0mfu0QSlPDMgCNNskqdDDY), [Francesco Paolo Tosti](https://open.spotify.com/artist/4JMye18gQjYis7boz7XWyC), [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [Kopstoot \(Hebbe remix\)](https://open.spotify.com/album/3gvAGT8z2rrPTZkRgwFgEz) | 4:27 | 2022-02-17 | 2022-07-26 |
 | [Kula Kula \- The Widdler Remix](https://open.spotify.com/track/74EvryuRQteh7iK4OOyKYv) | [Pushloop](https://open.spotify.com/artist/4FgEa4SLDSV3oGpaFvlZi9), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Midnight Wax](https://open.spotify.com/album/2JMJL7VIJZcZQjffjjwnVJ) | 4:48 | 2022-02-17 |  |
-| [Lankershim Stroll](https://open.spotify.com/track/3LHETC47Ll94QcwN1Y0gMx) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Los Angeles EP](https://open.spotify.com/album/4hsPWLX9kUyCecLp2BsNIj) | 5:03 | 2022-07-08 |  |
+| [Lankershim Stroll](https://open.spotify.com/track/3LHETC47Ll94QcwN1Y0gMx) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Los Angeles EP](https://open.spotify.com/album/4hsPWLX9kUyCecLp2BsNIj) | 5:03 | 2022-07-08 | 2022-08-13 |
 | [Lankershim Stroll](https://open.spotify.com/track/7bgsXfDhYf7ueIUJwTG6q5) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Los Angeles EP](https://open.spotify.com/album/0BN2Z3kViWJevgBmZ5nSSG) | 5:03 | 2022-02-17 | 2022-07-29 |
 | [Lark Ascending](https://open.spotify.com/track/5gOTLdE7dwmGFhaXhUko1u) | [Geode](https://open.spotify.com/artist/4tGSBDIaOYKNt0xhYjtdQd) | [Geode Selection](https://open.spotify.com/album/2q6m3cqBB8nU6MEC17QGx8) | 5:07 | 2022-02-17 |  |
 | [Latter](https://open.spotify.com/track/3dXRUF6hOOjrhEJrRR7r3R) | [Hatcha](https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet), [Surge](https://open.spotify.com/artist/2hs3oToysI1GJJi8lS80ac) | [The Trial](https://open.spotify.com/album/2jt66gHlgZnYPfxpikMaV5) | 5:22 | 2022-02-17 | 2022-07-29 |
@@ -228,6 +229,7 @@
 | [Obstacles](https://open.spotify.com/track/0qxcrxQYorvcuFeefFtuq6) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD) | [Obstacles](https://open.spotify.com/album/3k4NrjqrsxhTqueiAbS21F) | 5:03 | 2022-02-17 |  |
 | [Old & New](https://open.spotify.com/track/0TvSuQHGGyVODHyJ2GzYSF) | [Teffa](https://open.spotify.com/artist/3w8EiOMwnAuuWfPmX5kRqb) | [Old & New EP](https://open.spotify.com/album/2OHPsDdQ0pIWfly7ZWg3XJ) | 3:41 | 2022-02-17 |  |
 | [Olifant](https://open.spotify.com/track/1Mukld06lxTZSXDsiGqyT3) | [TMSV](https://open.spotify.com/artist/3gy5cNrDadVI5kDFcYgelE) | [Zoned Out](https://open.spotify.com/album/7kztBY8GxGe5EdvSLT2nkg) | 5:15 | 2022-02-17 |  |
+| [Oneness](https://open.spotify.com/track/77PQJG1op6vWwJldyXIi0E) | [Distance](https://open.spotify.com/artist/1FvQZpPhaVvSoQnpslxnvb) | [Oneness](https://open.spotify.com/album/6g69zaN5wm9YhmTX9PUoNC) | 4:10 | 2022-08-12 |  |
 | [Operation High Jump](https://open.spotify.com/track/4j1kCLxPTg0Eoe9ORTCPVJ) | [Dark Tantrums](https://open.spotify.com/artist/3IS3VcgbwqLG5Oncu79fmE) | [Operation High Jump EP](https://open.spotify.com/album/6G1sToHWxMmSn8ul4tSvD4) | 5:43 | 2022-02-17 | 2022-07-29 |
 | [Original Dubplate](https://open.spotify.com/track/1KVyEzlWGeV3J37SfsIboa) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Original Dubplate EP](https://open.spotify.com/album/3IcCjKeXlb1yqOil0Vilt1) | 3:42 | 2022-02-17 |  |
 | [Out Here](https://open.spotify.com/track/2d5mIkHNiBzHfpRpPAxV3o) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8) | [FKOFd043](https://open.spotify.com/album/1nlEE0hPDSYxJd6R2y5rLR) | 3:37 | 2022-02-17 |  |
@@ -235,7 +237,7 @@
 | [Outsider](https://open.spotify.com/track/07y4T2wnzanwqOd1oKJ1Gl) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Outsider](https://open.spotify.com/album/2yrmCs1rJzdEJHAiaQY8lV) | 5:05 | 2022-07-08 |  |
 | [Outsider](https://open.spotify.com/track/1oXyK54bcvrHNNtSOAgHDw) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Outsider](https://open.spotify.com/album/4AnGaGVFpOVLacdRqyGQ83) | 5:05 | 2022-02-17 | 2022-07-29 |
 | [Over Deh So](https://open.spotify.com/track/23RPCs2edmTWH0yJTCiz6m) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Abattoir](https://open.spotify.com/album/2b1HN0avZHrA8vNL0vP1Gw) | 5:09 | 2022-02-17 | 2022-05-08 |
-| [Oxytocin \- Original](https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio) | [Myxed Up](https://open.spotify.com/artist/2mR4ZcnojwIngGlGGCeDma) | [Oxytocin](https://open.spotify.com/album/0ETitPaX7CspZoPHtrdSMb) | 4:33 | 2022-02-17 |  |
+| [Oxytocin \- Original](https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio) | [Myxed Up](https://open.spotify.com/artist/2mR4ZcnojwIngGlGGCeDma) | [Oxytocin](https://open.spotify.com/album/0ETitPaX7CspZoPHtrdSMb) | 4:33 | 2022-02-17 | 2022-08-13 |
 | [Paradisius](https://open.spotify.com/track/3Rbs2FjHW5RdpNW3mfdUm8) | [CJ Broad](https://open.spotify.com/artist/6KvQZNIPCsdqw8zLV2w4AV), [Oxidia](https://open.spotify.com/artist/6mFF0UJS77vtqd8RKYXTjK) | [Eventually](https://open.spotify.com/album/3330jVvbXSjdT8vlQx2zHf) | 5:05 | 2022-02-17 | 2022-04-09 |
 | [Parsley Tea](https://open.spotify.com/track/333rUt9ztQHYmwMjcS0CaB) | [DPRTNDRP](https://open.spotify.com/artist/1OsyLdBrbBzicSLMOKUUEH) | [Unshaken](https://open.spotify.com/album/5Cx5XQNyEIiajYz3qdhlun) | 4:13 | 2022-02-17 | 2022-07-28 |
 | [Pistola](https://open.spotify.com/track/65ztgzqmVXzHqHQ7DuPMhT) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/7IqtStixf9Y4W529LVRxca) | 5:31 | 2022-07-08 | 2022-07-30 |

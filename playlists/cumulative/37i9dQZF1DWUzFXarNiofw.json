@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The newest, freshest R&B tunes.  Cover: Leon Thomas & Ty Dolla $ign",
+  "description": "The newest, freshest R&B tunes.  Cover: Kehlani & Babyface",
   "name": "New Jams",
   "published_playlist_ids": [
     "2y3HQxunEcE7pPAyHu4buJ"
@@ -45,6 +45,32 @@
       "duration_ms": 184081,
       "name": "2 seater (feat. Smino)",
       "url": "https://open.spotify.com/track/31utIsi83TdTRNLxvDHZTU"
+    },
+    {
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/7DtDowNbgFYIyDYnp3ZfA0"
+      },
+      "artists": [
+        {
+          "name": "Maurice Moore",
+          "url": "https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws"
+        },
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "Jermaine Elliott",
+          "url": "https://open.spotify.com/artist/60jDnkxR5FyCUAGUX4zDNv"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221938,
+      "name": "22",
+      "url": "https://open.spotify.com/track/4U6yLrVw2BrPIzDQ5cDiEk"
     },
     {
       "album": {
@@ -1286,6 +1312,28 @@
     },
     {
       "album": {
+        "name": "City of Angels",
+        "url": "https://open.spotify.com/album/7LuzVcbZIaIH3MYWo81k2q"
+      },
+      "artists": [
+        {
+          "name": "Nesta",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130619,
+      "name": "City of Angels",
+      "url": "https://open.spotify.com/track/6dQ2LusAx9Lr7NwkwHkYIC"
+    },
+    {
+      "album": {
         "name": "City of Gods (Part II)",
         "url": "https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J"
       },
@@ -1535,6 +1583,24 @@
       "duration_ms": 165786,
       "name": "Countless Times",
       "url": "https://open.spotify.com/track/5sZGJQjdAAGiqF8AtAMv4f"
+    },
+    {
+      "album": {
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+      },
+      "artists": [
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "album": {
@@ -1931,7 +1997,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 145945,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2vzbsLzYwD9St0phYhR0Lt"
@@ -2001,6 +2067,46 @@
       "duration_ms": 393846,
       "name": "Ego - Extended Mix",
       "url": "https://open.spotify.com/track/5GhhWK3Ge4JBCJa7S4NTyV"
+    },
+    {
+      "album": {
+        "name": "Energy (featuring Pink Sweat$)",
+        "url": "https://open.spotify.com/album/36N7aZLCMbUr7MHItTQaqC"
+      },
+      "artists": [
+        {
+          "name": "Nakkia Gold",
+          "url": "https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190169,
+      "name": "Energy (featuring Pink Sweat$)",
+      "url": "https://open.spotify.com/track/2mpcqMEvFFWHaFUprs0wv7"
+    },
+    {
+      "album": {
+        "name": "Entice Me",
+        "url": "https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156874,
+      "name": "Entice Me",
+      "url": "https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE"
     },
     {
       "album": {
@@ -2878,6 +2984,24 @@
     },
     {
       "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+    },
+    {
+      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -3180,6 +3304,24 @@
     },
     {
       "album": {
+        "name": "I.O.U.",
+        "url": "https://open.spotify.com/album/6IiJEA5jKiufcTeqIJ9Irn"
+      },
+      "artists": [
+        {
+          "name": "GoGo Morrow",
+          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166079,
+      "name": "I.O.U.",
+      "url": "https://open.spotify.com/track/39UemJN9cUuOLZE4nVDnYD"
+    },
+    {
+      "album": {
         "name": "ICED OUT SUMMER",
         "url": "https://open.spotify.com/album/6xOEoNnvwiGdOX6Kr7WM5P"
       },
@@ -3337,6 +3479,24 @@
       "duration_ms": 172946,
       "name": "In The Club",
       "url": "https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze"
+    },
+    {
+      "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/47jzJC3JouRl3o89fbUrxW"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193291,
+      "name": "In The Moment",
+      "url": "https://open.spotify.com/track/5T7CQ8uxqtIEzZ47zUBnz0"
     },
     {
       "album": {
@@ -4120,6 +4280,24 @@
     },
     {
       "album": {
+        "name": "Love Quotes",
+        "url": "https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195401,
+      "name": "Love Quotes",
+      "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
+    },
+    {
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/1Ar587sV7dgGcapzP1HOLU"
       },
@@ -4215,6 +4393,32 @@
       "duration_ms": 207961,
       "name": "M.I.A.",
       "url": "https://open.spotify.com/track/2rFQ1Bgm8w6nqKVANQVhMz"
+    },
+    {
+      "album": {
+        "name": "Make Me Say It Again, Girl",
+        "url": "https://open.spotify.com/album/52b0FH5bRs92vajujszHo0"
+      },
+      "artists": [
+        {
+          "name": "Ronald Isley",
+          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314424,
+      "name": "Make Me Say It Again, Girl",
+      "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
     },
     {
       "album": {
@@ -4669,6 +4873,24 @@
       "duration_ms": 213306,
       "name": "Night Calls (MiSCHiEF MiX)",
       "url": "https://open.spotify.com/track/1NJiLlSmcyEkyLUbIXoCn1"
+    },
+    {
+      "album": {
+        "name": "No Closure",
+        "url": "https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185997,
+      "name": "No Closure",
+      "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
     },
     {
       "album": {
@@ -5666,6 +5888,28 @@
     },
     {
       "album": {
+        "name": "Seamless (with Kehlani)",
+        "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195265,
+      "name": "Seamless (with Kehlani)",
+      "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "album": {
         "name": "Shame On You",
         "url": "https://open.spotify.com/album/3htnYj3YlMe1IfnjlTs8bn"
       },
@@ -5783,7 +6027,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 253340,
       "name": "Sober (With Jeremih)",
       "url": "https://open.spotify.com/track/3dZJ85uBHJpE2blaL9E1LE"
@@ -5951,6 +6195,28 @@
       "duration_ms": 260519,
       "name": "Stars Align (with Drake)",
       "url": "https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B"
+    },
+    {
+      "album": {
+        "name": "KEYS II",
+        "url": "https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218906,
+      "name": "Stay (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G"
     },
     {
       "album": {
@@ -6129,7 +6395,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 155298,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
@@ -6475,6 +6741,24 @@
       "duration_ms": 149865,
       "name": "Treat Me",
       "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
+    },
+    {
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/02J88YmFnbuXmGUpRwpqDW"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/3MPh6fCxLilH9ZJ1sTLBlN"
     },
     {
       "album": {

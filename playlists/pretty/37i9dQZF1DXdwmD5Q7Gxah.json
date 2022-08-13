@@ -1,12 +1,12 @@
 {
-  "description": "See You Next Year's album is here, brought to you by Pigeons + Planes and Mike Dean, baby!!! ",
-  "num_followers": 926970,
+  "description": "rex :) ",
+  "num_followers": 927089,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA4NzQ2MiwwMDAwMDAwMDFkZjE0NWMxYjZkZDM3ZGQ2OGFjMWIyMTRlZjViMmVm",
+  "snapshot_id": "MTY2MDMyNzUyMiwwMDAwMDAwMGYwODMyYzQ3NzQwZWUzNDFkMzA1YmQwNzE0MjI1YzYw",
   "tracks": [
     {
       "added_at": "2022-08-09 23:24:22",
@@ -41,6 +41,42 @@
       "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
     },
     {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Ivory (Marfil)",
+        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 154119,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Picture in my mind",
+        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Picture in my mind",
+      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+    },
+    {
       "added_at": "2022-07-29 04:00:00",
       "album": {
         "name": "Bumblebee",
@@ -55,6 +91,26 @@
       "duration_ms": 200000,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Light (with BENEE)",
+        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+      },
+      "artists": [
+        {
+          "name": "Finn Falcon",
+          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Light (with BENEE)",
+      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
     },
     {
       "added_at": "2022-08-09 18:13:19",
@@ -97,20 +153,20 @@
       "url": "https://open.spotify.com/track/0hzVEWIYibIGxMdn2NkjXw"
     },
     {
-      "added_at": "2022-08-08 18:07:14",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "spin you round",
-        "url": "https://open.spotify.com/album/3crMTdCiX7xKxIbYvKqOkK"
+        "name": "Picture Of You",
+        "url": "https://open.spotify.com/album/7oqxbjrUn7rnoAnozLLC6w"
       },
       "artists": [
         {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+          "name": "Estrada",
+          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
         }
       ],
-      "duration_ms": 126610,
-      "name": "spin you round",
-      "url": "https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN"
+      "duration_ms": 258818,
+      "name": "Picture Of You",
+      "url": "https://open.spotify.com/track/4jr4dG2kr1A5iQHX6s9C0q"
     },
     {
       "added_at": "2022-08-03 15:35:43",
@@ -127,6 +183,22 @@
       "duration_ms": 156008,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2022-08-08 18:07:14",
+      "album": {
+        "name": "spin you round",
+        "url": "https://open.spotify.com/album/3crMTdCiX7xKxIbYvKqOkK"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 126610,
+      "name": "spin you round",
+      "url": "https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN"
     },
     {
       "added_at": "2022-08-02 17:13:46",
@@ -213,6 +285,22 @@
       "url": "https://open.spotify.com/track/3sbjrdgu7GEau6kvjWGL54"
     },
     {
+      "added_at": "2022-08-12 18:05:22",
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+    },
+    {
       "added_at": "2022-06-22 04:32:24",
       "album": {
         "name": "Change",
@@ -227,6 +315,22 @@
       "duration_ms": 177641,
       "name": "Change",
       "url": "https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/44y89J6pXeVRJbEjcjQVu2"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Good Looking (Stripped)",
+      "url": "https://open.spotify.com/track/5LCX1wM1PVSbAdMZOMWF6j"
     },
     {
       "added_at": "2022-07-18 15:38:02",
@@ -501,6 +605,22 @@
       "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H"
     },
     {
+      "added_at": "2022-07-15 12:08:06",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 164708,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR"
+    },
+    {
       "added_at": "2022-08-05 04:00:00",
       "album": {
         "name": "Pigeons & Planes & Big.Ass.Kids present: See You Next Year",
@@ -537,6 +657,22 @@
       "url": "https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt"
     },
     {
+      "added_at": "2022-05-24 18:50:39",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+    },
+    {
       "added_at": "2022-08-03 15:35:43",
       "album": {
         "name": "What Does That Make Me?",
@@ -551,22 +687,6 @@
       "duration_ms": 173641,
       "name": "What Does That Make Me?",
       "url": "https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "MY DREAM",
-        "url": "https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
-        }
-      ],
-      "duration_ms": 215132,
-      "name": "MY DREAM",
-      "url": "https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -637,6 +757,26 @@
       "url": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
     },
     {
+      "added_at": "2022-01-07 16:47:25",
+      "album": {
+        "name": "Hard Times / Bad Trips",
+        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        },
+        {
+          "name": "Lucys",
+          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "I hope that you think of me",
+      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
+    },
+    {
       "added_at": "2022-07-21 16:00:00",
       "album": {
         "name": "Archetype",
@@ -699,22 +839,6 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0"
-    },
-    {
-      "added_at": "2022-06-22 15:24:45",
-      "album": {
-        "name": "caroline",
-        "url": "https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "caroline",
-      "url": "https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB"
     },
     {
       "added_at": "2022-07-15 12:08:06",
@@ -857,22 +981,6 @@
       "url": "https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX"
     },
     {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Anywhere With You",
-      "url": "https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD"
-    },
-    {
       "added_at": "2022-07-15 12:08:06",
       "album": {
         "name": "I Think I Left the Stove On",
@@ -905,20 +1013,36 @@
       "url": "https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET"
     },
     {
-      "added_at": "2022-07-20 18:22:39",
+      "added_at": "2022-06-29 21:12:21",
       "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
       "artists": [
         {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 230800,
-      "name": "Sweet Disposition",
-      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "touch tank",
+        "url": "https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "touch tank",
+      "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1001,20 +1125,68 @@
       "url": "https://open.spotify.com/track/1I9CYgnoP99PAgTqkPPO4o"
     },
     {
-      "added_at": "2022-07-15 12:08:06",
+      "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm"
+        "name": "MY DREAM",
+        "url": "https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
         }
       ],
-      "duration_ms": 164708,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR"
+      "duration_ms": 215132,
+      "name": "MY DREAM",
+      "url": "https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6"
+    },
+    {
+      "added_at": "2022-06-22 15:24:45",
+      "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "caroline",
+      "url": "https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD"
+    },
+    {
+      "added_at": "2022-07-20 18:22:39",
+      "album": {
+        "name": "Conditions",
+        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
     },
     {
       "added_at": "2022-07-27 16:18:19",
@@ -1083,22 +1255,6 @@
       "duration_ms": 115879,
       "name": "Disbeliever",
       "url": "https://open.spotify.com/track/654zDjl1CT3CqA7IP1KXxa"
-    },
-    {
-      "added_at": "2022-06-29 21:12:21",
-      "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232114,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1245,22 +1401,6 @@
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
-      "added_at": "2022-05-24 18:50:39",
-      "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140080,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
-    },
-    {
       "added_at": "2022-07-07 17:59:52",
       "album": {
         "name": "Aura",
@@ -1345,22 +1485,6 @@
       "url": "https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "touch tank",
-        "url": "https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "touch tank",
-      "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
-    },
-    {
       "added_at": "2022-06-24 00:04:38",
       "album": {
         "name": "Shitty People",
@@ -1393,22 +1517,6 @@
       "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
     },
     {
-      "added_at": "2022-06-24 00:04:38",
-      "album": {
-        "name": "Superache",
-        "url": "https://open.spotify.com/album/7FC09mQFRxQnKhNXDikU6p"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 179967,
-      "name": "Summer Child",
-      "url": "https://open.spotify.com/track/17XgSTOKbdWHtMsHKFUWYp"
-    },
-    {
       "added_at": "2022-06-28 00:59:58",
       "album": {
         "name": "So Good",
@@ -1423,22 +1531,6 @@
       "duration_ms": 146273,
       "name": "So Good",
       "url": "https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "HUES",
-        "url": "https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Boy",
-          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
-        }
-      ],
-      "duration_ms": 164557,
-      "name": "HUES",
-      "url": "https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC"
     },
     {
       "added_at": "2022-05-20 15:58:41",
@@ -1491,22 +1583,6 @@
       "duration_ms": 194630,
       "name": "Meteorite",
       "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
-        "name": "globe",
-        "url": "https://open.spotify.com/album/3gk5PW6aSsD8qSwjBdTVDY"
-      },
-      "artists": [
-        {
-          "name": "carwash",
-          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "globe",
-      "url": "https://open.spotify.com/track/2pEbVa6xv8bwzjOqOU1W6w"
     },
     {
       "added_at": "2022-06-15 18:13:56",
@@ -1591,26 +1667,6 @@
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2022-01-07 16:47:25",
-      "album": {
-        "name": "Hard Times / Bad Trips",
-        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
-      },
-      "artists": [
-        {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        },
-        {
-          "name": "Lucys",
-          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "I hope that you think of me",
-      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
     },
     {
       "added_at": "2022-03-10 19:30:24",

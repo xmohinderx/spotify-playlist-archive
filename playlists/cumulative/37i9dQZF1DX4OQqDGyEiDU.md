@@ -4,14 +4,14 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-410 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
+411 songs - 1 day 0 hr 1 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [''''''](https://open.spotify.com/track/2IdCKcMOO5FuAGvYqsZ6p3) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [''''''](https://open.spotify.com/album/5uhEQY2SM46YFVt0KTBqTu) | 2:32 | 2022-06-30 | 2022-07-04 |
 | [\*ハロー、プラネット。](https://open.spotify.com/track/7ik5ZgXgjOj09MgqoMPZGD) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [ボーカロイドは終末鳥の夢を見るか?](https://open.spotify.com/album/6xLb6DYNftzLt6pgGGOJSM) | 5:01 | 2022-06-14 | 2022-07-26 |
 | [\-ERROR](https://open.spotify.com/track/6hNEOWmQNiZ9ZqJmwdkcl1) | [cillia](https://open.spotify.com/artist/5gDyO3OywEw4lcKIFpspyX) | [\-ERROR](https://open.spotify.com/album/5j1oxI6o9dJbJ0q0z7tiue) | 4:00 | 2022-06-14 | 2022-07-03 |
-| [/ / // / /](https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [/ / // / /](https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz) | 2:13 | 2022-08-11 |  |
+| [/ / // / /](https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [/ / // / /](https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz) | 2:13 | 2022-08-11 | 2022-08-13 |
 | [1/6 \-out of the gravity\- \(feat\. 初音ミク\) \- LIVE](https://open.spotify.com/track/6W2auQBKTSRwCoXuk8DrHi) | [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [初音ミクシンフォニー〜Miku Symphony 2019 オーケストラ ライブ](https://open.spotify.com/album/6xSAG9LXKgsxm3QDc0L7FS) | 4:25 | 2022-06-30 | 2022-07-05 |
 | [39](https://open.spotify.com/track/5ZVKlvVj2I3uvNPXsQTxAW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39](https://open.spotify.com/album/5kGi7b284QLCIhuwXMHnHf) | 3:39 | 2022-07-14 | 2022-07-19 |
 | [4BLOOD](https://open.spotify.com/track/6iBHIWfoGePzzfww89m2ST) | [KIRA](https://open.spotify.com/artist/11T32AM3Tp0oYZ3PEWHGLZ), [Hatsune Miku](https://open.spotify.com/artist/2AynL2BUHgIk5ApzFVwDIL) | [4BLOOD](https://open.spotify.com/album/047PvaOzsEUKH0rw40JLIT) | 3:06 | 2022-07-14 | 2022-07-18 |
@@ -30,6 +30,7 @@
 | [CHO \-DARI\-](https://open.spotify.com/track/6yKuRTRiaM1fUmxasPWCUu) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [LIME](https://open.spotify.com/album/17dYvFTZVCtDhz8LewtGGa) | 2:39 | 2022-06-30 | 2022-07-17 |
 | [Chubyou Gekihatsu Boy](https://open.spotify.com/track/6Lxu9Er4UWqLrYxqQSLJET) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Chubyou Gekihatsu Boy](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:26 | 2022-06-09 | 2022-07-16 |
 | [Cinderella \- Giga First Night Remix](https://open.spotify.com/track/2p8z2rZWj7G7hFkhU77SLz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Cinderella \(Giga First Night Remix\)](https://open.spotify.com/album/6hN2meZRTAyOBCw7zTDIVw) | 2:22 | 2022-06-14 | 2022-07-28 |
+| [City](https://open.spotify.com/track/26aXmMU69wVGqjfVAeAO2P) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [City](https://open.spotify.com/album/2AXLE5uha6JuuyUB8yHwc7) | 3:39 | 2022-08-11 |  |
 | [Corruption](https://open.spotify.com/track/2v4XHce3jhMqouDohhSpxa) | [Paseri Onuma](https://open.spotify.com/artist/5eSWEOCUeNBF0st7okwgG2) | [Chromosome](https://open.spotify.com/album/2Gbl2xafjzYDuWHyiGBAQg) | 3:10 | 2022-07-19 | 2022-07-24 |
 | [Daikokuten](https://open.spotify.com/track/3HDZ3ziwAT19sCVSleTVuj) | [RuLu](https://open.spotify.com/artist/0xFS8oBdlugpwYgW8dxoQm), [Youi](https://open.spotify.com/artist/79lJNIwRztO9qEL6iI5dc0) | [Daikokuten](https://open.spotify.com/album/41AWwBAG57MWfVIH5PuHUh) | 3:20 | 2022-06-30 | 2022-07-03 |
 | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) | 2:47 | 2022-07-26 |  |

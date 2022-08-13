@@ -4,7 +4,7 @@
 
 > Yksi kaikkien aikojen suurimmista on poissa\. Kiitos kaikesta, Vesa\-Matti.
 
-70 songs - 4 hr 33 min - not published yet
+70 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/6LZeStzCfps36HfmCwPdMq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Classic Artists New Music](https://open.spotify.com/playlist/37i9dQZF1DWX3wsvr7czQx)
 
-> Icons only\. Cover: Van Morrison
+> Icons only\. Cover: Richard Marx
 
-68 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
+69 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Never Gonna Rain](https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Gonna Rain](https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia) | 3:17 | 2022-01-28 | 2022-03-12 |
 | [Newspaper Pane](https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Hey Clockface](https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE) | 4:10 | 2021-10-22 |  |
 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2021-12-03 | 2022-02-26 |
+| [One Day Longer](https://open.spotify.com/track/7Fi5nCKmCDd29fdhdE60Qz) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [One Day Longer](https://open.spotify.com/album/34ygCQzhnvp9bwGX6HZlXt) | 4:07 | 2022-08-12 |  |
 | [One Hell Of A Life](https://open.spotify.com/track/0bQWgz0oobVeFcyG1oAhYd) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/65FrNv74cknKGNRLOUVmgM) | 5:23 | 2021-12-03 |  |
 | [One Hell Of A Life](https://open.spotify.com/track/3td9rTUTQRbaBQ5mD7ZiTr) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/5QAf18dGZUv4X5FKc3T7i7) | 5:23 | 2021-12-03 | 2022-07-29 |
 | [One More Cup Of Coffee](https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/06iDUt5q4pxGHcide19i7X) | 3:45 | 2021-10-29 |  |
@@ -74,7 +75,7 @@
 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/4Y3TDAf1jKhdithIywJKCb) | 3:37 | 2021-10-22 | 2022-03-26 |
 | [We Gotta Find Love](https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [One World](https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL) | 4:46 | 2021-10-22 |  |
 | [When You Danced With Me](https://open.spotify.com/track/46OKHucGhjhskazqD8tKnH) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 2:50 | 2021-11-05 |  |
-| [Where Is Our Love Song \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/7d41wCresuSZFzFh2VRnd2) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Where Is Our Love Song](https://open.spotify.com/album/3rgaqrCj7z4EdOwuDTTjBi) | 3:37 | 2021-10-22 |  |
+| [Where Is Our Love Song \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/7d41wCresuSZFzFh2VRnd2) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Where Is Our Love Song](https://open.spotify.com/album/3rgaqrCj7z4EdOwuDTTjBi) | 3:37 | 2021-10-22 | 2022-08-13 |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2021-11-05 |  |
 
 \*This playlist was first scraped on 2022-02-06. Prior content cannot be recovered.

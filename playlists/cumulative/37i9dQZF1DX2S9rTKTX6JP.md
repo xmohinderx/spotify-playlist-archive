@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-254 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
+256 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 | 2022-06-17 |  |
 | [Hard To Handle](https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 3:08 | 2020-12-16 |  |
 | [Head Like A Hole](https://open.spotify.com/track/3F83hObRzmIEQZgIJOzvnh) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6), [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Head Like A Hole](https://open.spotify.com/album/3rooJJzvrHDSf8ywIW6rNj) | 3:50 | 2021-07-20 | 2022-06-06 |
-| [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Heart Of Glass / Midnight Sky](https://open.spotify.com/album/4shNUtOEh07Rco2Jy5ArAF) | 3:33 | 2022-03-25 |  |
+| [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5GK1GYXH16RdfmltogHhAk) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:33 | 2022-07-29 |  |
+| [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Heart Of Glass / Midnight Sky](https://open.spotify.com/album/4shNUtOEh07Rco2Jy5ArAF) | 3:33 | 2022-03-25 | 2022-08-13 |
 | [Heathens / Jumpsuit \- Cover](https://open.spotify.com/track/0zdSIybpeOhaZMqTGmjbkF) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Heathens / Jumpsuit \(Cover\)](https://open.spotify.com/album/7nwWHa5kaT5etQ0NexBq4K) | 3:39 | 2020-12-16 | 2022-07-21 |
 | [Hello](https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu) | 4:53 | 2022-03-25 | 2022-04-21 |
 | [Hemorrhage](https://open.spotify.com/track/56u2Yu2UYKR89oTHOmV24o) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Hemorrhage](https://open.spotify.com/album/6BtA6047bgkAUPYSa3OODx) | 3:06 | 2020-12-16 | 2022-07-05 |
@@ -261,6 +262,7 @@
 | [You Really Got Me \- 2015 Remaster](https://open.spotify.com/track/0upLyFR8Rr52ZpMp5esQoq) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 2:36 | 2020-12-16 |  |
 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 | 2022-03-25 |  |
 | [Zombie](https://open.spotify.com/track/6UD805FeP4YDa8IRyWmOnS) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Zombie](https://open.spotify.com/album/1qyeASulNTYBH7UaPj80ws) | 3:35 | 2020-12-16 | 2022-07-28 |
-| [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV) | 4:50 | 2020-12-16 |  |
+| [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/0olaaJrCBTMJJvqPdvNpsx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 4:50 | 2022-07-29 |  |
+| [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV) | 4:50 | 2020-12-16 | 2022-08-13 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

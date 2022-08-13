@@ -6,8 +6,48 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU2OCw2ZmM5ZGEwZjYyYjY1YTIxNTBiNjI2ODZlYjQwZGJiODYzMjdhYzIw",
+  "snapshot_id": "MzU3Miw1YTczODgyMzk5NDIwYzdjNjQ2Y2EyYjYxYTU5ZTAyNzUxOWU2ZjMy",
   "tracks": [
+    {
+      "added_at": "2022-08-12 16:40:56",
+      "album": {
+        "name": "Black Velvet",
+        "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
+    },
+    {
+      "added_at": "2022-08-12 16:40:41",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/5PluCcUGUOuGdODZhrYkRH"
+      },
+      "artists": [
+        {
+          "name": "Into The Ether",
+          "url": "https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v"
+        },
+        {
+          "name": "Lumynesynth",
+          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/6q0Dab9y6ztIqXXMuqx9Oe"
+    },
     {
       "added_at": "2022-08-11 16:12:48",
       "album": {
@@ -1087,46 +1127,6 @@
       "duration_ms": 155625,
       "name": "Your Heart",
       "url": "https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN"
-    },
-    {
-      "added_at": "2022-06-03 16:19:20",
-      "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/29OJjQm5SnnJqguRFVVvwi"
-      },
-      "artists": [
-        {
-          "name": "Melchi",
-          "url": "https://open.spotify.com/artist/7LG5EbBmbQORP6SG9BDzSA"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/1bI70ChgVQeRFWPlcf8Mjz"
-    },
-    {
-      "added_at": "2022-06-02 16:15:19",
-      "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge"
-      },
-      "artists": [
-        {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        },
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

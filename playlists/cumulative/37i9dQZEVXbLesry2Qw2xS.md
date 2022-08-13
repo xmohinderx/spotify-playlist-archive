@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-962 songs - 2 day 3 hr 47 min - [published](https://open.spotify.com/playlist/3HQPm29HNUlIDpNo0WRR2W)
+963 songs - 2 day 3 hr 52 min - [published](https://open.spotify.com/playlist/3HQPm29HNUlIDpNo0WRR2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 | 2021-11-30 | 2021-12-29 |
 | [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 | 2022-07-20 | 2022-08-02 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-07 | 2022-05-08 |
+| [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2022-08-12 |  |
 | [durag activity \(with Travis Scott\)](https://open.spotify.com/track/4JJcP0Rv9AgyPD6ZGaC8EE) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [durag activity \(with Travis Scott\)](https://open.spotify.com/album/2JFAT4IDF89ZMmuxoOKbQ1) | 3:45 | 2021-05-03 | 2021-05-05 |
 | [Düün](https://open.spotify.com/track/5bgKslt8cAfLMhfgRiEDjz) | [Reket](https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN) | [Palun Puhka](https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D) | 2:16 | 2022-05-07 | 2022-05-15 |
 | [e95](https://open.spotify.com/track/68p5qnyXJwY9Cu66oa0Q5g) | [5MIINUST](https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an) | [kõik on süüdi](https://open.spotify.com/album/4vli3Up0fYiKWWSS9nXCws) | 3:08 | 2021-12-03 | 2022-01-07 |
@@ -566,7 +567,7 @@
 | [Mr\. Morale](https://open.spotify.com/track/7zvfDihYiJ8RQ1nRcpKBF5) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:30 | 2022-05-14 | 2022-05-17 |
 | [Muinastulede Öö](https://open.spotify.com/track/7c5x4cNEuy2IAEyFhbcO8x) | [Reket](https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN) | [Palun Puhka](https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D) | 3:05 | 2022-05-07 | 2022-05-15 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-07-07 |  |
-| [Murder In My Mind \- Sped Up](https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind \(Sped Up\)](https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ) | 1:55 | 2022-08-07 |  |
+| [Murder In My Mind \- Sped Up](https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind \(Sped Up\)](https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ) | 1:55 | 2022-08-07 | 2022-08-13 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-06-10 |
 | [my future](https://open.spotify.com/track/3YUMWmx8EJq0DurfuIwoGh) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 | 2021-08-01 | 2021-08-04 |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2021-11-21 | 2021-12-02 |

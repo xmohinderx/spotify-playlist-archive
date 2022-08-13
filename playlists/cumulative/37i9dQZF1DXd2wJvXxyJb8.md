@@ -4,7 +4,7 @@
 
 > Tudo o que está bombando e viralizando por aí!
 
-140 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+141 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,8 +140,9 @@
 | [VEM COMIGO FAZENDO HEY HOW](https://open.spotify.com/track/3cp9OkYFbnMUSo39R9TSrZ) | [DJ Guina](https://open.spotify.com/artist/5fCHotgAd9p3j9evxovskc), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [VEM COMIGO FAZENDO HEY HOW](https://open.spotify.com/album/4UMUQgGcD7bAsKl9rPU0nL) | 2:40 | 2022-05-26 |  |
 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 | 2022-07-28 |  |
 | [Videozin pra Tiktok](https://open.spotify.com/track/0IU0HtCAk6AXO5BqWW4lwy) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [MC Roger](https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj) | [Videozin pra Tiktok](https://open.spotify.com/album/7eypky4JCgx0P4T2Oka3ce) | 2:21 | 2022-05-26 |  |
+| [Voltei pra Cachorrada](https://open.spotify.com/track/1yDct8mBgo25FwphztHzBK) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Cyclone](https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi) | [Voltei pra Cachorrada](https://open.spotify.com/album/1GJpHpIn2jwo7Bo5eGd2f7) | 3:26 | 2022-08-11 |  |
 | [Voltei pra Cachorrada](https://open.spotify.com/track/3bJ4nTkTXMYpYgM7zoUqPY) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Cyclone](https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi) | [Voltei pra Cachorrada](https://open.spotify.com/album/0tNsjTh1mnsApOzQe9CBEc) | 3:26 | 2022-05-26 | 2022-07-30 |
-| [Voltei Pra Cachorrada](https://open.spotify.com/track/3fRvT5duPFMwQ6MiXVIA36) | [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [DJ Cyclone](https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi) | [Voltei Pra Cachorrada](https://open.spotify.com/album/4yH4u8yBTw52klnu7mhALX) | 3:26 | 2022-07-28 |  |
+| [Voltei Pra Cachorrada](https://open.spotify.com/track/3fRvT5duPFMwQ6MiXVIA36) | [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [DJ Cyclone](https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi) | [Voltei Pra Cachorrada](https://open.spotify.com/album/4yH4u8yBTw52klnu7mhALX) | 3:26 | 2022-07-28 | 2022-08-13 |
 | [Voltei pra Put4Ria](https://open.spotify.com/track/724pvVQHyko3mId2lLWQJ9) | [Mc Jaovittin](https://open.spotify.com/artist/05E23554F57Qsq97Ii8o2f) | [Voltei pra Put4Ria](https://open.spotify.com/album/67RQHtXdCKzTTzy1Sa9ZuB) | 1:58 | 2022-07-18 |  |
 | [Vou Falar Que Não Quero \- Remix](https://open.spotify.com/track/0YluTOlBctnpHPABgFSXEw) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [Vou Falar Que Não Quero \(Remix\)](https://open.spotify.com/album/6eh4MYSvuU5bKcIPcFrFHm) | 2:31 | 2022-05-26 | 2022-07-05 |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-05-26 |  |

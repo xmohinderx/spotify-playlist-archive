@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,770 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,793 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 86 | [Aguas Turbulentas](https://open.spotify.com/track/7GXEbrbXdBi3v3KHFzZYc3) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [222 BIOGRAMA](https://open.spotify.com/album/6R8WKBSETdBft1jXtbvBmo) | 3:30 |
 | 87 | [Felicidad](https://open.spotify.com/track/6maz5qNXcVL8PG8UP99QcK) | [Nagual](https://open.spotify.com/artist/0EHTNOyiEIqOIkE5tlnV4u) | [Pacto de Sangre](https://open.spotify.com/album/5hbILog4k1bsYkJTnnLDcT) | 4:03 |
 | 88 | [Picante](https://open.spotify.com/track/5VB2lmH2J2tnJBjMURSN6r) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Picante](https://open.spotify.com/album/2vM4XgkyBTi7kKpxFvrpdl) | 3:07 |
-| 89 | [Chica De Oro](https://open.spotify.com/track/7BUorbyLYeQD41wIQma3Dw) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastia Scorpio](https://open.spotify.com/album/0kKonx1ECQcHDDGoAfYveS) | 3:53 |
+| 89 | [Todo el Día](https://open.spotify.com/track/7vX3ImcbaAn5VW18HrXm76) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Todo el Día](https://open.spotify.com/album/0DRQAO4xwdVD2o6jD08AcJ) | 3:43 |
 | 90 | [Policarbonatos de Plutonio](https://open.spotify.com/track/1H3GvWazWl7oGBJfpT8Onz) | [La Chancha Muda](https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T) | [Sinfonías Libertarias](https://open.spotify.com/album/19zeVAtY5p7o5n7xLOkKya) | 3:49 |
 | 91 | [Sábado](https://open.spotify.com/track/20qY3fMWpcMN0lWIeMRvXz) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 4:16 |
-| 92 | [Todo el Día](https://open.spotify.com/track/7vX3ImcbaAn5VW18HrXm76) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Todo el Día](https://open.spotify.com/album/0DRQAO4xwdVD2o6jD08AcJ) | 3:43 |
-| 93 | [Gente cool](https://open.spotify.com/track/6JDFOZuHBoLd7cfIWAQODM) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [Clandestino](https://open.spotify.com/album/5qu9yhvRNZKouzxyUa4luV) | 3:19 |
-| 94 | [Tengo Todo](https://open.spotify.com/track/6x9PGO5Dijv5BfqfLRuKDS) | [Los Mentidores](https://open.spotify.com/artist/1o17CAvZHduKv8DzVs1UXT), [Ricardo Tapia](https://open.spotify.com/artist/3NONwjxJLj1yc4GjBdBeUY) | [Tipos Serios](https://open.spotify.com/album/3zNyBEZmtuO1FKmuGWV5Vh) | 2:30 |
-| 95 | [Habladurías](https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [Habladurías](https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W) | 3:09 |
-| 96 | [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 |
-| 97 | [Fijate](https://open.spotify.com/track/07o3nk0mDAspJ2qgU0qOtn) | [Micky Rodriguez](https://open.spotify.com/artist/0QXzxmIHIeQEYvRCOmJ0vB) | [Fijate](https://open.spotify.com/album/3E6wu3CunRtERaWHh3klj8) | 3:54 |
-| 98 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 |
-| 99 | [Paisano De Hurlingham](https://open.spotify.com/track/76Ljrd2GAJsHi7CHvZQS26) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 3:58 |
+| 92 | [Gente cool](https://open.spotify.com/track/6JDFOZuHBoLd7cfIWAQODM) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [Clandestino](https://open.spotify.com/album/5qu9yhvRNZKouzxyUa4luV) | 3:19 |
+| 93 | [Tengo Todo](https://open.spotify.com/track/6x9PGO5Dijv5BfqfLRuKDS) | [Los Mentidores](https://open.spotify.com/artist/1o17CAvZHduKv8DzVs1UXT), [Ricardo Tapia](https://open.spotify.com/artist/3NONwjxJLj1yc4GjBdBeUY) | [Tipos Serios](https://open.spotify.com/album/3zNyBEZmtuO1FKmuGWV5Vh) | 2:30 |
+| 94 | [Habladurías](https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [Habladurías](https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W) | 3:09 |
+| 95 | [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 |
+| 96 | [Fijate](https://open.spotify.com/track/07o3nk0mDAspJ2qgU0qOtn) | [Micky Rodriguez](https://open.spotify.com/artist/0QXzxmIHIeQEYvRCOmJ0vB) | [Fijate](https://open.spotify.com/album/3E6wu3CunRtERaWHh3klj8) | 3:54 |
+| 97 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 |
+| 98 | [Paisano De Hurlingham](https://open.spotify.com/track/76Ljrd2GAJsHi7CHvZQS26) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 3:58 |
+| 99 | [Chica de Oro](https://open.spotify.com/track/6gqqdXshLNeVIXUV7B5O6p) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 3:53 |
 | 100 | [Banda de Garage \- Antes \- Ferro 2014 en Vivo](https://open.spotify.com/track/6VeDyMhky3csClQ1jABaCB) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Qué Placer Verte Otra Vez \(Ferro 2014 En Vivo\)](https://open.spotify.com/album/2ZyM4nbcyK6UlPZfxdqQ0m) | 4:26 |
 
-Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMDNiMmZhYWNhZjcwZjEyMjBjMDc2N2Y3NmYwMmViMTQ3`
+Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMGYxM2I3YTVlNWEzMTNlNWI4NzFjMDU5ZWVkMDNiZDky`

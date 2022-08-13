@@ -630,6 +630,28 @@
     },
     {
       "album": {
+        "name": "Black Velvet",
+        "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
+    },
+    {
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE"
       },
@@ -1071,6 +1093,28 @@
       "duration_ms": 177656,
       "name": "Ding Dong",
       "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
+    },
+    {
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/5PluCcUGUOuGdODZhrYkRH"
+      },
+      "artists": [
+        {
+          "name": "Into The Ether",
+          "url": "https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v"
+        },
+        {
+          "name": "Lumynesynth",
+          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/6q0Dab9y6ztIqXXMuqx9Oe"
     },
     {
       "album": {
@@ -2307,7 +2351,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 231000,
       "name": "Lights",
       "url": "https://open.spotify.com/track/1bI70ChgVQeRFWPlcf8Mjz"
@@ -2975,7 +3019,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 204800,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai"

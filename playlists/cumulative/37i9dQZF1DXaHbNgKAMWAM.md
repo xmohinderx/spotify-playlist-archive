@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-186 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+187 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 | 2022-07-08 |  |
 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 | 2022-05-11 |  |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-20 |  |
-| [Happy Birthday](https://open.spotify.com/track/0fElururinZektfZMpFFdN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Happy Birthday](https://open.spotify.com/album/4ATg7M4n35AokS3748RFFO) | 3:54 | 2022-06-20 |  |
+| [Happy Birthday](https://open.spotify.com/track/0fElururinZektfZMpFFdN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Happy Birthday](https://open.spotify.com/album/4ATg7M4n35AokS3748RFFO) | 3:54 | 2022-06-20 | 2022-08-13 |
 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 | 2022-06-09 |  |
 | [HOME](https://open.spotify.com/track/19wmQD19yr6piH6Uto8OSm) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [BROWN EYED SOUL 4th Regular Album ‘SOUL COOKE’](https://open.spotify.com/album/283nFxxtOCBUaiAC4OitCo) | 4:43 | 2022-05-11 | 2022-07-28 |
 | [I Always Love You](https://open.spotify.com/track/1JbUf8ma0z1xrpQxnJKssz) | [Gu seul i](https://open.spotify.com/artist/58wCBXOmVPsbvDjpjYjl47) | [I Always Love You](https://open.spotify.com/album/3w9XoUYhJaQSxMt9Wf0KPh) | 4:03 | 2022-05-11 | 2022-07-23 |
@@ -153,6 +153,7 @@
 | [Tale 동화](https://open.spotify.com/track/1O6gfRnuWW3jRG77Tn8gHW) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/3vzUq0hnovgWpP6yfgGtXB) | 3:47 | 2022-05-11 | 2022-07-29 |
 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 | 2022-05-11 | 2022-08-05 |
 | [The Best Present \(Prod\. by PSY\)](https://open.spotify.com/track/12nafIbZ2LAVfht3WMy33b) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [The Best Present](https://open.spotify.com/album/5IhMtglLwKtJWeHCz4KcA4) | 3:59 | 2022-05-11 | 2022-07-21 |
+| [The Love](https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [The Love](https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW) | 3:30 | 2022-08-12 |  |
 | [The Night](https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ) | 3:41 | 2022-07-08 |  |
 | [The Night](https://open.spotify.com/track/4J9rYQeCN7kNDlaAKLWmQ8) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4OPs1ewSg1KJOFzeMNKllB) | 3:41 | 2022-05-11 | 2022-07-29 |
 | [The One I Love](https://open.spotify.com/track/3yWyzP3pL3a0sd774Z63Lx) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Jang Beom June 1st Album](https://open.spotify.com/album/107fG3CrNpvCVaFp9unNpG) | 4:41 | 2022-05-11 | 2022-07-21 |

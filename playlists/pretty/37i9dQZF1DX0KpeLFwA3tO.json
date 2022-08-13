@@ -1,12 +1,12 @@
 {
   "description": "The best new music from the wide world of punk. Cover: Baby Bugs",
-  "num_followers": 265083,
+  "num_followers": 265251,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1ODgwMCwwMDAwMDAwMGFhNDY0MmQzNmFiNzRmNGQ1YWQ5M2ViYTAxMjgxNWQ5",
+  "snapshot_id": "MTY2MDI1ODgwMCwwMDAwMDAwMDlhYmFmNDI4MjFkMWUxZGIzMjJkMDNlZjQ3ZGRmMjhm",
   "tracks": [
     {
       "added_at": "2022-08-11 23:00:00",
@@ -51,6 +51,78 @@
     {
       "added_at": "2022-08-11 23:00:00",
       "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 179707,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE"
+    },
+    {
+      "added_at": "2022-08-11 23:00:00",
+      "album": {
+        "name": "I Told You So",
+        "url": "https://open.spotify.com/album/4D5L0IcHAbPFA8NgIQRdzf"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        }
+      ],
+      "duration_ms": 84339,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/30Hw87HEEW4pDpqHjOYW7v"
+    },
+    {
+      "added_at": "2022-08-11 23:00:00",
+      "album": {
+        "name": "A Foul Form",
+        "url": "https://open.spotify.com/album/6KbOhrDyyCuTtqsknmyX4w"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        },
+        {
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+        }
+      ],
+      "duration_ms": 97706,
+      "name": "Frock Block",
+      "url": "https://open.spotify.com/track/6KWW1x8oC7yMIsQYFEjzS9"
+    },
+    {
+      "added_at": "2022-08-11 23:00:00",
+      "album": {
+        "name": "just in case the world ends (deluxe edition)",
+        "url": "https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        },
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        }
+      ],
+      "duration_ms": 134385,
+      "name": "TEEN POP SENSATION",
+      "url": "https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp"
+    },
+    {
+      "added_at": "2022-08-11 23:00:00",
+      "album": {
         "name": "MINE",
         "url": "https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU"
       },
@@ -63,6 +135,22 @@
       "duration_ms": 122823,
       "name": "MINE",
       "url": "https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv"
+    },
+    {
+      "added_at": "2022-08-11 23:00:00",
+      "album": {
+        "name": "Take Back Your Voice",
+        "url": "https://open.spotify.com/album/7fcLIMU8rRFN0v32oPHjiM"
+      },
+      "artists": [
+        {
+          "name": "Ten Foot Pole",
+          "url": "https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW"
+        }
+      ],
+      "duration_ms": 238972,
+      "name": "Take Back Your Voice",
+      "url": "https://open.spotify.com/track/7BLCCHWAOIhOawOYwCkuI0"
     },
     {
       "added_at": "2022-08-11 23:00:00",

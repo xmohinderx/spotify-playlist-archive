@@ -1,12 +1,12 @@
 {
   "description": "The beautiful sound of the Spanish guitar to help you wind down.",
-  "num_followers": 99981,
+  "num_followers": 100113,
   "original_name": "Relaxing Spanish Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMDZmOWE2NDYwNDkzMzBiZWUyZWI5ODczZTMwYTYxMDQ5",
+  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMDVkMjE5Nzc0MmU1MzQ5ZTUyMmQ4ZDI1OTM5NDI4ZmU5",
   "tracks": [
     {
       "added_at": "2022-08-12 00:00:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2022-08-12 00:00:00",
       "album": {
+        "name": "Bungalows",
+        "url": "https://open.spotify.com/album/5JvGMHNP9ZoxrL25nhcG4O"
+      },
+      "artists": [
+        {
+          "name": "Elson Complex",
+          "url": "https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX"
+        },
+        {
+          "name": "Nylonwings",
+          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+        }
+      ],
+      "duration_ms": 184124,
+      "name": "Bungalows",
+      "url": "https://open.spotify.com/track/1mBPJN2NO56flat9UoRAnq"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
         "name": "Medianoche",
         "url": "https://open.spotify.com/album/16jVhTdkRtcfjnCWnOnmbL"
       },
@@ -1231,6 +1251,62 @@
       "duration_ms": 163520,
       "name": "Adriana",
       "url": "https://open.spotify.com/track/6nrkZq4K0NuOYmfx3ZEe6O"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Valsa Sem Nome",
+        "url": "https://open.spotify.com/album/7Gqab034S6MlTLAjdiFZcz"
+      },
+      "artists": [
+        {
+          "name": "Baden Powell",
+          "url": "https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr"
+        },
+        {
+          "name": "J\u00fcrg Kindle",
+          "url": "https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm"
+        }
+      ],
+      "duration_ms": 177678,
+      "name": "Valsa Sem Nome",
+      "url": "https://open.spotify.com/track/1zJafeATKvIfikaHqheJIc"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Paso Melanc\u00f3lico",
+        "url": "https://open.spotify.com/album/79k0KjfMGvEaobyEjqW5xw"
+      },
+      "artists": [
+        {
+          "name": "Stevi Win",
+          "url": "https://open.spotify.com/artist/46VkR1SQMbx73wa2qR0zfO"
+        },
+        {
+          "name": "Synthy Lights",
+          "url": "https://open.spotify.com/artist/3vgQlaHcCTwK9jj4XP38lA"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Paso Melanc\u00f3lico",
+      "url": "https://open.spotify.com/track/4fg0qmqEpbseJX7l3xcehf"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4qrSM02InSMtRouW2fHfVP"
+      },
+      "artists": [
+        {
+          "name": "Manuel Gal\u00e1n",
+          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
+        }
+      ],
+      "duration_ms": 119265,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4qUIaxxEtetvqZ9CdnUDwj"
     },
     {
       "added_at": "2022-08-12 00:00:00",

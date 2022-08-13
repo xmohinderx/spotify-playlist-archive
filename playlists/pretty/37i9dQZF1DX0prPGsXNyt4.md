@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Paulin da Capital, Mc Dricka
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,654 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,708 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 42 | [Love \- Acústico](https://open.spotify.com/track/59glxsHIDG5MSdPuqh8fpW) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Dj TOTU](https://open.spotify.com/artist/30icW65DJZaWkotebdICkU), [Mc Nathan ZK](https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE), [MC Suh](https://open.spotify.com/artist/2pAmbNN8mzxnBgYwZ4hSSo), [Mc Barone](https://open.spotify.com/artist/5b7N6Le7TXrNRdoTcqOLMF), [Mc Neguinho do ITR](https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA), [MC Liro](https://open.spotify.com/artist/3i7YFHRKEJmsz4cVqeF2eG), [Mc CL](https://open.spotify.com/artist/2I6tDfWEkn4Ozfb6ePjRX4), [Andressinha](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al), [Young Mascka](https://open.spotify.com/artist/5p1071Vgc8NglO8E3JAv4Q) | [Love \(Acústico\)](https://open.spotify.com/album/75CDVz8yhYyB920rQGszBf) | 10:10 |
 | 43 | [Deixa Eu Te Chamar de Mozão](https://open.spotify.com/track/2YNG9JeshL9zj6WzcFn63T) | [Dj Juninho 22](https://open.spotify.com/artist/4T47gOchMUCmHFoVBE28NH), [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8) | [Deixa Eu Te Chamar de Mozão](https://open.spotify.com/album/3YnHedfeESbbi1atWZzxHF) | 3:42 |
 | 44 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 |
-| 45 | [O Cria e a Trem Barbie](https://open.spotify.com/track/18J3esEjavdGInlCLqSYAI) | [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS) | [O Cria e a Trem Barbie](https://open.spotify.com/album/1IMW7wN7Eon2Qcc9SivWoz) | 2:44 |
+| 45 | [Mundo Pequeno](https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Mundo Pequeno](https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI) | 3:48 |
 | 46 | [Te Escolhi](https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3) | [Te Escolhi](https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0) | 1:48 |
-| 47 | [Mundo Pequeno](https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Mundo Pequeno](https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI) | 3:48 |
+| 47 | [Pretinha](https://open.spotify.com/track/1aJKGjRUYuuPzQxXwhfhWa) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h) | [Pretinha](https://open.spotify.com/album/37IJvH1R66xwTDAIvrIkcB) | 2:25 |
 | 48 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |
-| 49 | [Pretinha](https://open.spotify.com/track/1aJKGjRUYuuPzQxXwhfhWa) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h) | [Pretinha](https://open.spotify.com/album/37IJvH1R66xwTDAIvrIkcB) | 2:25 |
+| 49 | [Provocando](https://open.spotify.com/track/0PanANwAb7ojeeHjJJI4BG) | [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Provocando](https://open.spotify.com/album/4WuVhChDFRJCtY1FoJkazO) | 2:46 |
 | 50 | [Jogo Sujo \(ATO I\)](https://open.spotify.com/track/0d6T67z5wBofFyqmtFzNJg) | [Elli Gomes](https://open.spotify.com/artist/0OFsWETMLou9cRVE45KRqD), [Mop](https://open.spotify.com/artist/7bTwe8ZOLnUGdpX0d9JLzT) | [Jogo Sujo \(ATO I\)](https://open.spotify.com/album/7vLQsKtEo0Wv6lfB3PjWJl) | 2:27 |
 
-Snapshot ID: `MTY1NzI0OTI2MCwwMDAwMDAwMDAzYTViZjgzNjlmMWVhYjU1M2RiY2JjNTIwNDdmNWY2`
+Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMDdjMGFmNDIzMGQyMzk3ZjdiYjRjZGVkNDZmNGI0ZGQw`

@@ -344,6 +344,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/1WTy67zxmMsbrc69eItWdu"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/5SNMqFlOLURnth98KwSe8s"
+    },
+    {
+      "album": {
         "name": "As Long as You Love Me",
         "url": "https://open.spotify.com/album/3jyAmeckEV9bX0N7Nw3iqD"
       },
@@ -1996,6 +2014,24 @@
     },
     {
       "album": {
+        "name": "glimpse of us",
+        "url": "https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "glimpse of us",
+      "url": "https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6"
+    },
+    {
+      "album": {
         "name": "Go Your Own Way",
         "url": "https://open.spotify.com/album/23adg4MHzuH1gjIp6COp5h"
       },
@@ -2739,6 +2775,28 @@
       "duration_ms": 195840,
       "name": "I'm Not the Only One - Live from Spotify, London",
       "url": "https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND"
+    },
+    {
+      "album": {
+        "name": "I'm With You",
+        "url": "https://open.spotify.com/album/3Omupu2Y8hvpJk9cinOi4a"
+      },
+      "artists": [
+        {
+          "name": "Alex Goot",
+          "url": "https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux"
+        },
+        {
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173334,
+      "name": "I'm With You",
+      "url": "https://open.spotify.com/track/3zLsU8qJbhTnd2QUu7pLtJ"
     },
     {
       "album": {

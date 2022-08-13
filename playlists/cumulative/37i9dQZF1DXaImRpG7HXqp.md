@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-306 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+307 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Waltz from Eikr Eyia](https://open.spotify.com/track/2IRlO6UaWmiu8EDJyREsKB) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [Waltz from Eikr Eyia](https://open.spotify.com/album/4cd0u4xEyR8EfyuVlw4KXa) | 3:46 | 2021-12-08 |  |
 | [Waterfall](https://open.spotify.com/track/0kUvYvrYM7xJnnJJFwNW1r) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Waterfall](https://open.spotify.com/album/05PM1kvfCNBafQMRFv4zWJ) | 2:27 | 2022-07-08 |  |
 | [Way Harder Than I Thought](https://open.spotify.com/track/0aInkt9zWTzd5TeBoUXS74) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Way Harder Than I Thought](https://open.spotify.com/album/54k6cq8bMjnlDjVWSinIN5) | 3:04 | 2021-12-08 |  |
+| [Welcomed By The Forest](https://open.spotify.com/track/3rJhEXYvo24oB4s2LAsKYv) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Welcomed By The Forest](https://open.spotify.com/album/4K9IY6EW8bxTbCpeprxQKz) | 2:57 | 2022-08-12 |  |
 | [We´re Ok](https://open.spotify.com/track/5A06rT73B83damBvMVwp6A) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [We´re Ok](https://open.spotify.com/album/76w4CGhDqw94xOmbrYuGML) | 3:23 | 2021-12-08 | 2022-07-08 |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/2SvmLf1WGMevA1POgmsE1j) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/album/6swVpYrlkNRQXgKuvLPN6n) | 2:46 | 2022-04-05 |  |
 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 | 2021-12-08 | 2022-06-17 |

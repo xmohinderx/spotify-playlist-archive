@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-126 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
+127 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 | 2021-12-20 |  |
 | [\(What A\) Wonderful World](https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:09 | 2022-05-12 |  |
 | [\(What A\) Wonderful World \- Remastered](https://open.spotify.com/track/27K3ZDS5B4fwjhwyihrdzC) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Wonderful World Of Sam Cooke \(Remastered\)](https://open.spotify.com/album/4y3NeFX7yaEzQfxy70NhZ3) | 2:05 | 2021-12-20 | 2022-07-29 |
-| [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 | 2021-12-20 |  |
+| [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 | 2022-08-12 |  |
+| [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 | 2021-12-20 | 2022-08-13 |
 | [A Fool In Love](https://open.spotify.com/track/0BEAJe98RE0jJepJYlpPMB) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The Soul Of Ike & Tina Turner/Dynamite](https://open.spotify.com/album/4RWnp2sE62F8sOMSrLpLD1) | 2:40 | 2022-03-24 | 2022-06-23 |
 | [A World Without Love](https://open.spotify.com/track/1A0j6qANKHgk7VZ6uvYO06) | [Peter And Gordon](https://open.spotify.com/artist/6lHC2EQMEMZiEmSfFloarn) | [The Ultimate Peter And Gordon](https://open.spotify.com/album/2Eabt9Pi7zWreJJxcNkIw6) | 2:40 | 2022-03-24 | 2022-04-20 |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 | 2021-12-20 | 2022-07-29 |

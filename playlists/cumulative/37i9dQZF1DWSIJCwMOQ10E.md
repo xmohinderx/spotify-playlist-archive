@@ -4,7 +4,7 @@
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: La Mambanegra
 
-140 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/31e0N9ZhkPd7GKHDb9NQgd)
+141 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/31e0N9ZhkPd7GKHDb9NQgd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Lo Veo y No Lo Creo](https://open.spotify.com/track/5f6RxRulaBQGyZZ3daBlbS) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:19 | 2021-10-01 | 2022-07-02 |
 | [Los Caminos De La Vida](https://open.spotify.com/track/7E9NAI3oX8C8TDelKR179x) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:35 | 2021-10-01 | 2022-07-29 |
 | [Los Caminos De La Vida](https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sorpresa Caribe](https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC) | 4:35 | 2022-07-01 |  |
+| [Lágrimas Negras](https://open.spotify.com/track/3r71UoGicsU90BSDylT9Mh) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [Vida, Porque Solo Hay Una \(Soundtrack Oficial\)](https://open.spotify.com/album/2yheBqj8Rgo6NyMzUX6KDW) | 2:40 | 2022-08-12 |  |
 | [Mala](https://open.spotify.com/track/3Er6TBbH18r8V4b9eCj7Cm) | [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t), [Majida Issa](https://open.spotify.com/artist/3N4eiKlBhalVh3ezRXV99N) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:18 | 2021-10-01 | 2022-07-02 |
 | [Mala Memoria](https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:40 | 2021-10-01 |  |
 | [Materialista \(feat\. Nicky Jam\)](https://open.spotify.com/track/1zh3aQOBNovad73Frmb7MP) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Materialista \(feat\. Nicky Jam\)](https://open.spotify.com/album/74vZkYjOAFrBbwB9KMWzUu) | 3:10 | 2021-10-01 | 2022-07-29 |
@@ -106,7 +107,7 @@
 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 | 2021-10-01 | 2022-07-29 |
 | [Persona Ideal](https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Millenium Hits](https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof) | 4:41 | 2022-07-01 |  |
 | [Persona Ideal](https://open.spotify.com/track/0u2LbmKA70atp4J59QUnHW) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/7caeVU9hU1Jn0KPLXBlGeX) | 4:43 | 2021-10-01 | 2022-07-29 |
-| [Poniéndote a Gozar](https://open.spotify.com/track/4pHiVeIatSlwNiLHMtCIGT) | [Rancho Aparte](https://open.spotify.com/artist/2YQc5vx5VbiKcc3oudaHoW) | [Rancho Aparte](https://open.spotify.com/album/2QsEO6AUWwk0A5rmDSzv3V) | 4:18 | 2022-07-01 |  |
+| [Poniéndote a Gozar](https://open.spotify.com/track/4pHiVeIatSlwNiLHMtCIGT) | [Rancho Aparte](https://open.spotify.com/artist/2YQc5vx5VbiKcc3oudaHoW) | [Rancho Aparte](https://open.spotify.com/album/2QsEO6AUWwk0A5rmDSzv3V) | 4:18 | 2022-07-01 | 2022-08-13 |
 | [Por Ella](https://open.spotify.com/track/61BoBnTname2M5evtYyU6k) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Mis Favoritas](https://open.spotify.com/album/1wPCKuOe9I7dLDwYtBhFIh) | 4:39 | 2021-10-01 |  |
 | [Ras Tas Tas Full Hd](https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z) | [Cali Flow Latino](https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD) | [Full HD](https://open.spotify.com/album/1Iyffk6V5WgDjMc3SAoSHj) | 4:19 | 2022-07-01 |  |
 | [Ras Tas Tas Full Hd](https://open.spotify.com/track/1cm0T4HV7oJw343AT9N2Z8) | [Cali Flow Latino](https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD) | [Ras Tas Tas Full Hd](https://open.spotify.com/album/0db4PzdxmNMUUq7FqZj0sa) | 4:26 | 2021-10-01 | 2022-07-29 |

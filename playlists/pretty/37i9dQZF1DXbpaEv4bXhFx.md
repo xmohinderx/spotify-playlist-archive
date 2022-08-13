@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,253 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,308 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 49 | [Ask Me Out](https://open.spotify.com/track/12VxAgB6wsdwxWoTNumEGh) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Dear X Who Doesn't Love Me, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4jdwECuw0825yQKD5CJCHm) | 4:18 |
 | 50 | [Rainy Saturday](https://open.spotify.com/track/2GmFwSUgGg8IQvLc0417AN) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Rainy Saturday](https://open.spotify.com/album/1Ew9gqTpDDL1HmwoKbHeI2) | 4:04 |
 
-Snapshot ID: `MTY1OTk1ODc4NCwwMDAwMDAwMGYyNDI4ZTI2MzhmZTE4MmU4MzZlZmQ3YmQwMzIyYjIx`
+Snapshot ID: `MTY2MDMzMDQwNywwMDAwMDAwMDY2OTBmNmM4YzZmMDcxZTAyMjhlMTQ2M2ViOWQ0OTkz`

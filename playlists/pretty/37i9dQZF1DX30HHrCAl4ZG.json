@@ -1,13 +1,45 @@
 {
-  "description": "On the pulse of new indie rock. Cover: Quarters of Change\n",
-  "num_followers": 836956,
+  "description": "The pulse of new indie rock. Cover: Alvvays\n",
+  "num_followers": 837095,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA3NTM4MiwwMDAwMDAwMDIzMTRjOWRlNTk0M2IyNDBmM2JiYTFmY2Q1OTk1YWYx",
+  "snapshot_id": "MTY2MDMzNTAzMSwwMDAwMDAwMDdlODg2ODM3M2E0MmQwNTZhMzk2MjdiMTk1YjIzYzlk",
   "tracks": [
+    {
+      "added_at": "2022-08-12 04:20:00",
+      "album": {
+        "name": "Easy On Your Own?",
+        "url": "https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 174627,
+      "name": "Easy On Your Own?",
+      "url": "https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47"
+    },
+    {
+      "added_at": "2022-08-12 04:20:00",
+      "album": {
+        "name": "SIDE B",
+        "url": "https://open.spotify.com/album/0e7O2OWagUpoL2JXFkKGQj"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "duration_ms": 172672,
+      "name": "Singapore",
+      "url": "https://open.spotify.com/track/6KYHEjY1Q6PskPAjQlzw6z"
+    },
     {
       "added_at": "2022-07-18 20:46:02",
       "album": {
@@ -23,6 +55,70 @@
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
+    },
+    {
+      "added_at": "2022-07-18 20:46:02",
+      "album": {
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "added_at": "2022-07-22 04:05:00",
+      "album": {
+        "name": "Emotional Creature",
+        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Weeds",
+      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
+    },
+    {
+      "added_at": "2022-08-12 04:20:00",
+      "album": {
+        "name": "Lost Honor",
+        "url": "https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Lost Honor",
+      "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
+    },
+    {
+      "added_at": "2022-07-29 04:20:00",
+      "album": {
+        "name": "Into The Rift",
+        "url": "https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y"
+      },
+      "artists": [
+        {
+          "name": "Quarters of Change",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+        }
+      ],
+      "duration_ms": 181519,
+      "name": "Ms. Dramatic",
+      "url": "https://open.spotify.com/track/493u0mah1icJ3e1Tmllra4"
     },
     {
       "added_at": "2022-07-01 14:01:58",
@@ -43,54 +139,6 @@
     {
       "added_at": "2022-07-22 04:05:00",
       "album": {
-        "name": "Emotional Creature",
-        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Weeds",
-      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
-    },
-    {
-      "added_at": "2022-07-18 20:46:02",
-      "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
-    },
-    {
-      "added_at": "2022-07-29 04:20:00",
-      "album": {
-        "name": "Into The Rift",
-        "url": "https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y"
-      },
-      "artists": [
-        {
-          "name": "Quarters of Change",
-          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
-        }
-      ],
-      "duration_ms": 181519,
-      "name": "Ms. Dramatic",
-      "url": "https://open.spotify.com/track/493u0mah1icJ3e1Tmllra4"
-    },
-    {
-      "added_at": "2022-07-22 04:05:00",
-      "album": {
         "name": "I Miss When I Smelled Like You",
         "url": "https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH"
       },
@@ -103,22 +151,6 @@
       "duration_ms": 231626,
       "name": "I Miss When I Smelled Like You",
       "url": "https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX"
-    },
-    {
-      "added_at": "2022-07-29 04:20:00",
-      "album": {
-        "name": "Gloom",
-        "url": "https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 120808,
-      "name": "Gloom",
-      "url": "https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW"
     },
     {
       "added_at": "2022-07-01 14:01:58",
@@ -137,20 +169,36 @@
       "url": "https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
+      "added_at": "2022-07-29 04:20:00",
       "album": {
-        "name": "TVI",
-        "url": "https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN"
+        "name": "Gloom",
+        "url": "https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz"
       },
       "artists": [
         {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 161200,
-      "name": "TVI",
-      "url": "https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5"
+      "duration_ms": 120808,
+      "name": "Gloom",
+      "url": "https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW"
+    },
+    {
+      "added_at": "2022-08-12 04:20:00",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 262346,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF"
     },
     {
       "added_at": "2022-08-05 18:08:09",
@@ -199,6 +247,22 @@
       "duration_ms": 169200,
       "name": "Dog Eat Dog",
       "url": "https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL"
+    },
+    {
+      "added_at": "2022-08-12 04:20:00",
+      "album": {
+        "name": "Vault of Heaven",
+        "url": "https://open.spotify.com/album/7qdCGuVbA0N9oU7wiTMoPe"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 239485,
+      "name": "Vault of Heaven",
+      "url": "https://open.spotify.com/track/0g8SY6YeGKw3Tf54aKXziD"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -281,6 +345,22 @@
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
     },
     {
+      "added_at": "2022-08-12 20:10:31",
+      "album": {
+        "name": "The Sound of Music",
+        "url": "https://open.spotify.com/album/6C6WyEUddjLjNQEEh6Lr7C"
+      },
+      "artists": [
+        {
+          "name": "Kiwi jr.",
+          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/6CMOvQKKSDoNeDtgolwZET"
+    },
+    {
       "added_at": "2022-07-01 14:01:58",
       "album": {
         "name": "off the grid",
@@ -311,6 +391,22 @@
       "duration_ms": 151454,
       "name": "I hope we can still be friends",
       "url": "https://open.spotify.com/track/2Fp2eFJSDMZCZ3Pc9OINmp"
+    },
+    {
+      "added_at": "2022-08-12 04:20:00",
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/5wdTC4sxASTdWthmF5cRRR"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 247323,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1BCQcNvwUVXtagkgdVNRx7"
     },
     {
       "added_at": "2022-08-05 18:08:09",
@@ -391,6 +487,22 @@
       "duration_ms": 210773,
       "name": "Shut Up and Show Me",
       "url": "https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g"
+    },
+    {
+      "added_at": "2022-08-12 04:20:00",
+      "album": {
+        "name": "Been Stellar",
+        "url": "https://open.spotify.com/album/2GJ26CJoley2UA0ytkHteu"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "duration_ms": 329432,
+      "name": "Ohm",
+      "url": "https://open.spotify.com/track/1Wo5tkzxPBoqOfwoTSMNJU"
     },
     {
       "added_at": "2022-07-01 14:01:58",
@@ -973,38 +1085,6 @@
       "url": "https://open.spotify.com/track/3w0F6bkQdev902vrCxDHe4"
     },
     {
-      "added_at": "2022-07-06 16:20:09",
-      "album": {
-        "name": "Pharmacist",
-        "url": "https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 124247,
-      "name": "Pharmacist",
-      "url": "https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt"
-    },
-    {
-      "added_at": "2022-07-29 04:20:00",
-      "album": {
-        "name": "I'm Not A Boy",
-        "url": "https://open.spotify.com/album/2OMpy04GBRgxTgdJhuXTyk"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "I'm Not A Boy",
-      "url": "https://open.spotify.com/track/1RP67chizWCvjmCIBzzsCv"
-    },
-    {
       "added_at": "2022-07-01 14:01:58",
       "album": {
         "name": "Looking For Something",
@@ -1261,22 +1341,6 @@
       "url": "https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "STAR STUFF",
-        "url": "https://open.spotify.com/album/5X9TPHbtJ6TOBQ11spB2MM"
-      },
-      "artists": [
-        {
-          "name": "IAN SWEET",
-          "url": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "DIE A MILLION TIMES",
-      "url": "https://open.spotify.com/track/2IyoD78j9rD0TvYyvQnNgm"
-    },
-    {
       "added_at": "2022-08-05 18:08:09",
       "album": {
         "name": "Mark on You",
@@ -1501,22 +1565,6 @@
       "url": "https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9"
     },
     {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/6f2DJDgxBufS0JVEcHUDhL"
-      },
-      "artists": [
-        {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
-        }
-      ],
-      "duration_ms": 168970,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/4QZa3y2uKeSl92MkYKZLlf"
-    },
-    {
       "added_at": "2022-07-22 04:05:00",
       "album": {
         "name": "Easy",
@@ -1551,38 +1599,6 @@
     {
       "added_at": "2022-07-01 14:01:58",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 261556,
-      "name": "Imaginary Girl",
-      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
-    },
-    {
-      "added_at": "2022-08-05 18:08:09",
-      "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39"
-    },
-    {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
         "name": "A Light for Attracting Attention",
         "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 240153,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/4zBFWizKHRrrgHmb3VQvuJ"
-    },
-    {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "Call Me Junior",
-        "url": "https://open.spotify.com/album/4OF5G4ZW72busgHBEjiTXb"
-      },
-      "artists": [
-        {
-          "name": "Razorlight",
-          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "Call Me Junior",
-      "url": "https://open.spotify.com/track/6i40xnCskeEWHGqWjNv7I5"
     }
   ],
   "unique_name": "Today's Indie Rock",

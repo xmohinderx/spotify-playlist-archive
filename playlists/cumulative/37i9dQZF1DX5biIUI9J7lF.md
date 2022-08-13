@@ -4,7 +4,7 @@
 
 > more than just a lifestyle
 
-59 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/0NLbMYpAMwQLpeCANQMHmc)
+60 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/0NLbMYpAMwQLpeCANQMHmc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 | 2022-07-27 |  |
 | [Gbona](https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:07 | 2022-07-27 |  |
 | [Have Fun](https://open.spotify.com/track/0lfDJO9YpO6LdPAmeZSy50) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Have Fun](https://open.spotify.com/album/3oGGPxoSSnThtJaFp210lv) | 2:16 | 2022-07-27 |  |
+| [Her](https://open.spotify.com/track/52BpPsMPPdCtepeJ9CQufq) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/0LYo4Dt6xHT5Hl38gYPv0i) | 2:17 | 2022-08-12 |  |
 | [ICED OUT SUMMER](https://open.spotify.com/track/1PpsJPjSge3JHkNYJImD08) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [MINIKINGZ](https://open.spotify.com/artist/6C3nOkdYuYvX3xXy4lJCa9) | [ICED OUT SUMMER](https://open.spotify.com/album/6xOEoNnvwiGdOX6Kr7WM5P) | 2:40 | 2022-07-27 |  |
 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 | 2022-07-27 |  |
 | [Just Because](https://open.spotify.com/track/0YL65Oqm2oVKSC2GIdZf69) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Just Because](https://open.spotify.com/album/1nNcCg5KTRsySgCji6NvcS) | 3:12 | 2022-07-27 |  |
@@ -44,7 +45,7 @@
 | [Lifestyle](https://open.spotify.com/track/5hXEPdj7dDxfKcowpjiVwf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:32 | 2022-07-27 |  |
 | [Like Tu Danz](https://open.spotify.com/track/1JseAs562lQva7llJ0bibp) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 3:29 | 2022-07-27 |  |
 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 | 2022-07-27 |  |
-| [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 | 2022-07-27 |  |
+| [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 | 2022-07-27 | 2022-08-13 |
 | [Money Bag](https://open.spotify.com/track/7zNxJelOT54ax0bLw21qDJ) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Money Bag](https://open.spotify.com/album/1DljXwHBRFBGAnKqJKOt3D) | 2:36 | 2022-07-27 |  |
 | [Mood \(feat\. Buju\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 | 2022-07-27 |  |
 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 | 2022-07-27 |  |

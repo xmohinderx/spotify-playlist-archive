@@ -1,12 +1,12 @@
 {
   "description": "Start your day with these beautiful scores.",
-  "num_followers": 22646,
+  "num_followers": 22663,
   "original_name": "Fresh Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMGVjZWI5NTVhM2RjNTljMWRlNGRmZmEzOTY5M2RmMmMw",
+  "snapshot_id": "MTY2MDMxMDg3NCwwMDAwMDAwMGEwYTgxMWUxZDBkYjJiMGY4NjQ4YzNlYWMyMzYwMzVm",
   "tracks": [
     {
       "added_at": "2022-08-12 00:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-08-12 00:00:00",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/4I7VJg3F07ymbMiobj6yfP"
-      },
-      "artists": [
-        {
-          "name": "Karel Havl\u00ed\u010dek",
-          "url": "https://open.spotify.com/artist/2Yuk4eHfD3UrJ1qnYCHmJl"
-        }
-      ],
-      "duration_ms": 179577,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1pJrauys2fPNopv4TuyltK"
-    },
-    {
-      "added_at": "2022-08-12 00:00:00",
-      "album": {
         "name": "Quartet Classics Series - Pyotr Ilyich Tchaikovsky: Andante Cantabile from String Quartet No. 1",
         "url": "https://open.spotify.com/album/5KlxEx79Sg65QjigB56iHj"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 218405,
       "name": "Second Sleep",
       "url": "https://open.spotify.com/track/6pGsdGElugsC8HygWqcSSK"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/6kkCrSH59rXLNsYFEHkQ59"
+      },
+      "artists": [
+        {
+          "name": "Omar Raafat",
+          "url": "https://open.spotify.com/artist/1WbvLPPRx9AHgPt2OwUbi3"
+        }
+      ],
+      "duration_ms": 158674,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/2DrBcfPBdC9rQ1puxyDkDB"
     },
     {
       "added_at": "2022-08-12 00:00:00",

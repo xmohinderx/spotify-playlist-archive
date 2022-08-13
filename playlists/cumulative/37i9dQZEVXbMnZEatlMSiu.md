@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-455 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+456 songs - 1 day 4 hr 5 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-05-01 | 2022-05-08 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-28 | 2022-06-20 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-09-05 | 2021-09-12 |
+| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-06 |  |
 | [I am not a woman, I'm a god](https://open.spotify.com/track/5RhFmJifQe83FpQ6ZFFTZ5) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:56 | 2021-09-04 | 2021-09-05 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-30 |
@@ -419,7 +420,7 @@
 | [縱橫四海](https://open.spotify.com/track/46ALtWhiHtNpJVrr3pfcut) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/3J7Fpv3maowZeSOcX3ZLju) | 4:01 | 2021-07-23 | 2021-08-12 |
 | [繞 \- 原創影集《火神的眼淚》片尾曲](https://open.spotify.com/track/2XyCniKJUGKglRg01aehRn) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u) | [繞 \(原創影集《火神的眼淚》片尾曲\)](https://open.spotify.com/album/33PYcY5m2zHwJ32YtMYRQp) | 4:27 | 2021-05-27 | 2021-06-19 |
 | [續寫 \- 電視劇《一生一世》主題曲](https://open.spotify.com/track/3eiSB7mTeNI49OAs7I8u39) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [續寫 \(電視劇《一生一世》主題曲\)](https://open.spotify.com/album/5KkkO7JNoXMQdoNLn8wAEy) | 3:48 | 2021-09-30 | 2021-10-08 |
-| [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 | 2022-07-25 |  |
+| [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 | 2022-07-25 | 2022-08-13 |
 | [能火](https://open.spotify.com/track/0edXRhdQfF6YY9f7ZGZITt) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X) | [PRO](https://open.spotify.com/album/34T8LkJ3sKBl1cVXGM6W2k) | 3:42 | 2022-05-12 | 2022-05-28 |
 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 | 2022-03-18 | 2022-04-06 |
 | [與我無關](https://open.spotify.com/track/2qlUhwv6Hqx5ZZHCucRlGF) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [與我無關](https://open.spotify.com/album/2nVfpyVu94tgwFT9XX7ufJ) | 4:00 | 2021-07-22 | 2022-07-02 |

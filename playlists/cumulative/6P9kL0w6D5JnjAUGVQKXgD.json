@@ -12771,7 +12771,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 238125,
       "name": "INTO THE UNKNOWN",
       "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
@@ -13225,6 +13225,28 @@
       "duration_ms": 163832,
       "name": "Just In Case",
       "url": "https://open.spotify.com/track/2AAMkITmFcCL9MtTKFui2k"
+    },
+    {
+      "album": {
+        "name": "Just Me & You",
+        "url": "https://open.spotify.com/album/4VBdvAu9fnmYoE9RuYd4e3"
+      },
+      "artists": [
+        {
+          "name": "DJ Phellix",
+          "url": "https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV"
+        },
+        {
+          "name": "AndyBear",
+          "url": "https://open.spotify.com/artist/3PTvL4CPoyATF3fct0pQtc"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130819,
+      "name": "Just Me & You",
+      "url": "https://open.spotify.com/track/0UVlIrfKC5mRs6IeUaicWL"
     },
     {
       "album": {

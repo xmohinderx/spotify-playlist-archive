@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-505 songs - 22 hr 42 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+509 songs - 22 hr 52 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Brevet](https://open.spotify.com/track/2DGlspVkq3a1Nlqtij7Fba) | [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA) | [Brevet](https://open.spotify.com/album/1Yn5thhBSdeUtmeoB2cIje) | 3:07 | 2022-04-07 | 2022-04-26 |
 | [BROWSKI](https://open.spotify.com/track/5d3uBfGQIczWe9sTXyoj3y) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [BROWSKI](https://open.spotify.com/album/5AWWvcnT3ypzv19CYjhdgf) | 2:18 | 2022-08-04 |  |
 | [Burna](https://open.spotify.com/track/7tSP6GfktCDSFH0mMNuDnm) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Burna](https://open.spotify.com/album/5MdxhgGDUrPfL3zWQQNZY3) | 2:16 | 2022-01-19 | 2022-03-05 |
+| [BÄNG](https://open.spotify.com/track/3C5Gkb8n1MXl1KmuafcVOb) | [Grillat & Grändy](https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R), [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4) | [BÄNG](https://open.spotify.com/album/5p2LuLvGlglG2ly6GBzfHQ) | 2:31 | 2022-08-12 |  |
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-21 | 2022-06-03 |
 | [BÄSTFRIEND](https://open.spotify.com/track/5Ml5sKivSir3NaGABhIdnO) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [BÄSTFRIEND](https://open.spotify.com/album/4CKyLYdFdBTnY4um39sbv5) | 2:22 | 2022-07-21 |  |
 | [C'est La Vie](https://open.spotify.com/track/3NUHbbHRlfmPrplPfs0bMk) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [C'est La Vie](https://open.spotify.com/album/4TetvRlfTHlzTuBYK5L86P) | 3:09 | 2022-05-26 | 2022-06-17 |
@@ -111,6 +112,7 @@
 | [Co co co co](https://open.spotify.com/track/0qQMy60bBgVqwInOTRuWfJ) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [Co co co co](https://open.spotify.com/album/1KHoZqSE8CaFq84pAxmAtM) | 2:38 | 2022-06-23 |  |
 | [Coca Cola \(feat\. Greekazo\)](https://open.spotify.com/track/1iVDF9OECddDwnBVkP0zrk) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Coca Cola \(feat\. Greekazo\)](https://open.spotify.com/album/58RhlH18p4imaWDVEN45bC) | 2:22 | 2022-03-24 | 2022-05-06 |
 | [COME MY WAY \(D1MA X VC Barre\)](https://open.spotify.com/track/2wmgX2Cyrif63Xg3lfYFhP) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [COME MY WAY \(D1MA X VC Barre\)](https://open.spotify.com/album/64ZO389Qi6MAZhu7S0Y9xi) | 2:12 | 2022-03-04 | 2022-03-18 |
+| [Company](https://open.spotify.com/track/07axCjbrJZ4DfXUAWo5Rwo) | [Simeon](https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk) | [Company](https://open.spotify.com/album/73YJMkju5YIAsyRfU7IHz6) | 2:04 | 2022-08-12 |  |
 | [CORAZON](https://open.spotify.com/track/6BG2tzAVb5HgtfiXpaqHIm) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [MYROR I BRALLAN](https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt) | 2:24 | 2022-02-03 | 2022-03-05 |
 | [CORAZON](https://open.spotify.com/track/0J0e6xg3NUfL7Ic6aqKySC) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [CORAZON](https://open.spotify.com/album/0tTkm8fXx4VNrZSWRSo12o) | 2:30 | 2022-08-05 |  |
 | [D.G.B.N](https://open.spotify.com/track/5gP8Kh3dMBSASOEwUcULCQ) | [DnoteOnDaBeat](https://open.spotify.com/artist/4wsqTX9xCVoObzRPvjoV4H), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0) | [D.G.B.N](https://open.spotify.com/album/2j8jCljGlEbwttO6CJui5v) | 2:48 | 2022-01-13 | 2022-02-25 |
@@ -394,6 +396,7 @@
 | [SE DIG OMKRING](https://open.spotify.com/track/29zXVASHgYRx5mmDQmhUZr) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W) | [SE DIG OMKRING](https://open.spotify.com/album/1z1mrFk2fxJniRhwhckodf) | 3:07 | 2022-03-04 | 2022-04-22 |
 | [Sedan start](https://open.spotify.com/track/4rpdNg2kSv8bMXmC5mUxiw) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Sedan start](https://open.spotify.com/album/5EMQu4MkRNeljsQ6UtacqX) | 2:49 | 2022-07-25 |  |
 | [Selfmade](https://open.spotify.com/track/4Hf6kEGsZmIdTzar565Gn1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade](https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt) | 2:11 | 2022-06-23 |  |
+| [SEVILLA](https://open.spotify.com/track/1YRrnU7iBSHsdyG5AVIC2Y) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [SEVILLA](https://open.spotify.com/album/24EnvnJxCORX2zeI9s72NJ) | 2:55 | 2022-08-12 |  |
 | [SHOOTERS](https://open.spotify.com/track/47YtnjhdF6CTYSWWcSR8P5) | [Biggie Juke](https://open.spotify.com/artist/1iFBAUJba6rHRgFNOJYUDD), [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [TRAPSTAR2RAPSTAR](https://open.spotify.com/album/1SkVQ9hBud6TJEXv2w8doq) | 2:09 | 2021-12-16 | 2022-01-28 |
 | [Siluetter](https://open.spotify.com/track/4WBlidviA9LiJc4kLHfjfY) | [Lucaz](https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ) | [Siluetter](https://open.spotify.com/album/3X7bd4ko3jbuWu1IEqWf4E) | 2:35 | 2022-05-26 | 2022-06-17 |
 | [SIMEONE](https://open.spotify.com/track/33ffhHeLPecWksV6W1cLZj) | [AIVA](https://open.spotify.com/artist/07ogFFhRxjjGsPHfq4dSQb) | [SIMEONE](https://open.spotify.com/album/7djxz0ojilwz6aMYBAlEg8) | 2:20 | 2022-05-05 | 2022-05-27 |
@@ -503,6 +506,7 @@
 | [WINNER \(feat\. A36\)](https://open.spotify.com/track/0i0ZCP4Yh3kLl1Z0k9BhBX) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [WINNER \(feat\. A36\)](https://open.spotify.com/album/2NYYASJxQRlVDysDHjqL2z) | 2:37 | 2022-03-17 | 2022-05-06 |
 | [Winning](https://open.spotify.com/track/6BPksZKJ3YKACbkgpFJYEe) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade](https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt) | 2:00 | 2022-06-23 | 2022-07-01 |
 | [Woman – Spotify Studio 100 Recording](https://open.spotify.com/track/2NsStPAsAhgdVqFl67R56M) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Woman – Spotify Studio 100 Recording](https://open.spotify.com/album/4qGxMmnCtIluxut29qDVUy) | 2:18 | 2022-02-10 |  |
+| [WORK](https://open.spotify.com/track/5OzdrftdnWSlMGe0DvClHQ) | [Artie](https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE) | [WORK](https://open.spotify.com/album/2WS16GROWxzLYGZZ9hZ2uC) | 2:27 | 2022-08-12 |  |
 | [Wrong](https://open.spotify.com/track/7v8xBtqysin09ZJydjvBrU) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Wrong](https://open.spotify.com/album/3EcMZZdQTERvCfqacWzDJY) | 2:22 | 2022-04-07 | 2022-05-13 |
 | [X](https://open.spotify.com/track/3AJAmTxurgfdXiQ6ppZ16o) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7) | [X](https://open.spotify.com/album/62BatDUk0pR2ytYCNViSV1) | 2:32 | 2021-12-16 | 2022-01-20 |
 | [Ya habiba](https://open.spotify.com/track/6TmJczGUH3vjgnwZ78adyb) | [Abbadi](https://open.spotify.com/artist/30evSY1KEZxqkjWB3aphyn) | [Ya habiba](https://open.spotify.com/album/6s3AsuZptEdDEvtWgNP1Ju) | 2:30 | 2021-12-30 | 2022-01-28 |

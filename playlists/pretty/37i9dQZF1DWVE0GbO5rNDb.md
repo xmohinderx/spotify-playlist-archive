@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Musica dance per le tue giornate di sole!
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,522 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,526 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 |
 | 100 | [Why Do I Call](https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Why Do I Call](https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN) | 2:38 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDRiZWUxZDQwMmY5YmQyNWQ2ODdjMGVkOTRjZTBhZmY5`
+Snapshot ID: `MTY2MDMxMTI4OCwwMDAwMDAwMGE0MDEzZTI5YThkN2Y0MzMwODdlMjU3NzM1YWY3OWVi`

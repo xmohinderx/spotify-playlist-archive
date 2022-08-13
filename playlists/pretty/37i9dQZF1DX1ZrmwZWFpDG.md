@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZrmwZWFpDG.md) - [plain]
 
 > Let's end the year with a bang\. These are the ultimate floorfillers for your New Year's party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,422 likes - 36 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,421 likes - 36 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The songs you just keep coming back to\. Cover: Central Cee
+> The songs you just keep coming back to\. Cover: Nicki Minaj
 
 587 songs - 1 day 5 hr 57 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
 

@@ -4,7 +4,7 @@
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-30 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/66WeKwe1hMKbsitXdspXoC)
+31 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/66WeKwe1hMKbsitXdspXoC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,5 +38,6 @@
 | [Sumaré](https://open.spotify.com/track/0y5YbL7xqCaU0ZAr6SWw84) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Sumaré](https://open.spotify.com/album/78eTIQrkvrsLuAksOAdPtu) | 5:36 | 2020-10-30 | 2022-07-29 |
 | [W.O.W.](https://open.spotify.com/track/4pWCOoHPXIApCUoQUlPutI) | [San Juno](https://open.spotify.com/artist/6ySI72iUUVh0BvHG902xKP) | [W.O.W.](https://open.spotify.com/album/5vowc93bQCIz3mw8TDtojH) | 3:31 | 2020-10-30 |  |
 | [What Comes Up](https://open.spotify.com/track/6tlJzNvB2RXQ3GEiFzWhRb) | [Anders Widmark](https://open.spotify.com/artist/4ZgY2pumPsq9z3kNxGTDef) | [HEAR ME TALKIN'](https://open.spotify.com/album/7lLPjXy0KlcClwXwJU10Na) | 3:36 | 2020-10-30 | 2022-07-29 |
+| [What Comes Up](https://open.spotify.com/track/7qGvSZRd9wqpDFGxOJ4E1I) | [Anders Widmark](https://open.spotify.com/artist/4ZgY2pumPsq9z3kNxGTDef) | [Hear Me Talkin'](https://open.spotify.com/album/6WVg7QuomPZPCMHDjziHnX) | 3:36 | 2020-10-30 |  |
 
 \*This playlist was first scraped on 2022-02-24. Prior content cannot be recovered.

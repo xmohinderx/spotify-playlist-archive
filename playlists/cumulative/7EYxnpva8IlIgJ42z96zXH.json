@@ -922,6 +922,46 @@
     },
     {
       "album": {
+        "name": "BREAK MY SOUL (THE QUEENS REMIX)",
+        "url": "https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356000,
+      "name": "BREAK MY SOUL - THE QUEENS REMIX",
+      "url": "https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr"
+    },
+    {
+      "album": {
+        "name": "Bump Bump Bump (Bom Bom)",
+        "url": "https://open.spotify.com/album/72UksATBqIoaadFYwn0Dqh"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bump Bump Bump (Bom Bom)",
+      "url": "https://open.spotify.com/track/0Kh1JKeJMAvFxv91HZ8uYU"
+    },
+    {
+      "album": {
         "name": "Butter (Hotter Remix)",
         "url": "https://open.spotify.com/album/2IQPegT8Rg7fqc8ox58CVW"
       },
@@ -1857,7 +1897,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
@@ -1930,6 +1970,32 @@
     },
     {
       "album": {
+        "name": "Day N Night",
+        "url": "https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk"
+      },
+      "artists": [
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179199,
+      "name": "Day N Night",
+      "url": "https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2"
+    },
+    {
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -1953,7 +2019,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
@@ -2253,7 +2319,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 257633,
       "name": "Drift",
       "url": "https://open.spotify.com/track/5tZaOoBRvZMps12aLFmwYj"
@@ -3347,7 +3413,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 172936,
       "name": "Good Light",
       "url": "https://open.spotify.com/track/7rRVHNqYBjIjKdNRheCDud"
@@ -5300,6 +5366,28 @@
     },
     {
       "album": {
+        "name": "Ma Baker",
+        "url": "https://open.spotify.com/album/0hWvJRAX4Di5ImH3BI06vK"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146592,
+      "name": "Ma Baker",
+      "url": "https://open.spotify.com/track/7pGiiHmMfOPHVEXNnfqw00"
+    },
+    {
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -5345,6 +5433,42 @@
       "duration_ms": 178625,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+    },
+    {
+      "album": {
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291721,
+      "name": "Mango Feedback",
+      "url": "https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9"
+    },
+    {
+      "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
     },
     {
       "album": {
@@ -5647,7 +5771,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 173329,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/3BCh6kycUH2qMzNwEmqLn5"
@@ -5761,7 +5885,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 227344,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/1MZmduhi0sK3RbF4cN3dbv"
@@ -6391,6 +6515,28 @@
       "duration_ms": 155463,
       "name": "Party's Over",
       "url": "https://open.spotify.com/track/4DPRz4NNpFtmqYTqbAnEvU"
+    },
+    {
+      "album": {
+        "name": "People Ain't Dancing (feat. Kah-Lo)",
+        "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
+      },
+      "artists": [
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154859,
+      "name": "People Ain't Dancing (feat. Kah-Lo)",
+      "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
     },
     {
       "album": {
@@ -7646,6 +7792,36 @@
     },
     {
       "album": {
+        "name": "Somos Iguales",
+        "url": "https://open.spotify.com/album/3Q9cZSRC2at6mZjfdOlVJ3"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Louchie Lou",
+          "url": "https://open.spotify.com/artist/4DxlG8gbthzgDeDZiywaoQ"
+        },
+        {
+          "name": "Michie One",
+          "url": "https://open.spotify.com/artist/1otleRGxIU5q64yzCNUHsi"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172414,
+      "name": "Somos Iguales",
+      "url": "https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1"
+    },
+    {
+      "album": {
         "name": "South",
         "url": "https://open.spotify.com/album/0MzMp0hFCB4eOv5OFrEPGD"
       },
@@ -8263,7 +8439,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
@@ -9397,7 +9573,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

@@ -1,13 +1,33 @@
 {
   "description": "The best in blues right now. Cover: Kirk Fletcher",
-  "num_followers": 39433,
+  "num_followers": 39466,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDQ1YzYwN2ZiOTI5MzY5YmMwYzNlM2FjMDk0YWUzN2Jk",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGI2YjIxNjdlYTg4ODQ2Y2NiOTc3YWZmMWIyMzI3ZjY4",
   "tracks": [
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Gunsmoke Blues (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "Gunsmoke Blues (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
+    },
     {
       "added_at": "2022-07-15 04:02:00",
       "album": {

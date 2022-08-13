@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > Early pioneers that brought the underground to the foreground\. Cover: Depeche Mode
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,868 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,084 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Buena](https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:19 |
 | 75 | [The Lovecats](https://open.spotify.com/track/5GHwCpwEos0FzYe55slXEp) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 3:40 |
 
-Snapshot ID: `MTY1MzYwMzU3NywwMDAwMDAwMDhmNTVlMWVmYThlMGExNzcyMzMyM2UwNThiYTY1NmZi`
+Snapshot ID: `MTY2MDMyODk2OCwwMDAwMDAwMDM4MDYwYTg1MDg0MTM2ODBhYzJiZjU5NTRhMWRhNmE5`

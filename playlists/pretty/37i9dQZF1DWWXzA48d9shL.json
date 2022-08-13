@@ -1,13 +1,65 @@
 {
   "description": "Sing Me a Lullaby, My Sweet Temptation, the latest album by the $uicideboy$. ",
-  "num_followers": 256344,
+  "num_followers": 256651,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDE2ODQ2MiwwMDAwMDAwMDU0MmRhZjExZjllYmY5M2M3N2JmYjBiMWRmOWJlNDJj",
+  "snapshot_id": "MTY2MDI4MDk0MCwwMDAwMDAwMGE2OGYwMDFiYjk3ZTZlOGI5MWRhMzNkYzg0M2ZkMjVm",
   "tracks": [
+    {
+      "added_at": "2022-08-12 05:09:00",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "duration_ms": 108013,
+      "name": "Want (feat. prodby668)",
+      "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
+    },
+    {
+      "added_at": "2022-08-12 05:09:00",
+      "album": {
+        "name": "BALL LIKE THIS",
+        "url": "https://open.spotify.com/album/3uqHaUjyxgXQb6FD4w4LFQ"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "BALL LIKE THIS",
+      "url": "https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x"
+    },
+    {
+      "added_at": "2022-08-10 21:54:22",
+      "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/5UpCybC6vRO1n444JQwCez"
+      },
+      "artists": [
+        {
+          "name": "TWENTYTHREE",
+          "url": "https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL"
+        }
+      ],
+      "duration_ms": 130511,
+      "name": "DELIRIUM",
+      "url": "https://open.spotify.com/track/3dpXWb3vTMzyL6KbFqB61Y"
+    },
     {
       "added_at": "2022-07-29 04:15:00",
       "album": {
@@ -43,42 +95,6 @@
     {
       "added_at": "2022-07-29 04:15:00",
       "album": {
-        "name": "Kick Rocks (feat. Lil Darkie)",
-        "url": "https://open.spotify.com/album/6C0f36HZNOlyU5w1v4g1Ch"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        },
-        {
-          "name": "Lil Darkie",
-          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
-        }
-      ],
-      "duration_ms": 171680,
-      "name": "Kick Rocks (feat. Lil Darkie)",
-      "url": "https://open.spotify.com/track/3E6coZX2cGtJVVfC3qeDwQ"
-    },
-    {
-      "added_at": "2022-07-29 04:15:00",
-      "album": {
-        "name": "Sing Me a Lullaby, My Sweet Temptation",
-        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 195994,
-      "name": "Fucking Your Culture",
-      "url": "https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk"
-    },
-    {
-      "added_at": "2022-07-29 04:15:00",
-      "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
       },
@@ -97,38 +113,6 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2022-08-10 21:54:22",
-      "album": {
-        "name": "DELIRIUM",
-        "url": "https://open.spotify.com/album/5UpCybC6vRO1n444JQwCez"
-      },
-      "artists": [
-        {
-          "name": "TWENTYTHREE",
-          "url": "https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL"
-        }
-      ],
-      "duration_ms": 130511,
-      "name": "DELIRIUM",
-      "url": "https://open.spotify.com/track/3dpXWb3vTMzyL6KbFqB61Y"
-    },
-    {
-      "added_at": "2022-07-29 04:15:00",
-      "album": {
-        "name": "ANTI-ICON",
-        "url": "https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 151625,
-      "name": "Fed Up",
-      "url": "https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp"
-    },
-    {
       "added_at": "2022-07-29 04:15:00",
       "album": {
         "name": "IFeelLikeDirt",
@@ -143,6 +127,22 @@
       "duration_ms": 75428,
       "name": "AirplaneMode",
       "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
+    },
+    {
+      "added_at": "2022-07-29 04:15:00",
+      "album": {
+        "name": "Sing Me a Lullaby, My Sweet Temptation",
+        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 195994,
+      "name": "Fucking Your Culture",
+      "url": "https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk"
     },
     {
       "added_at": "2022-07-29 04:15:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-07-29 04:15:00",
       "album": {
-        "name": "Wrath",
-        "url": "https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 113553,
-      "name": "Wrath",
-      "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
-    },
-    {
-      "added_at": "2022-07-29 04:15:00",
-      "album": {
         "name": "LOOK AT ME: THE ALBUM",
         "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 173320,
       "name": "#ImSippinTeaInYoHood",
       "url": "https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w"
+    },
+    {
+      "added_at": "2022-07-29 04:15:00",
+      "album": {
+        "name": "ANTI-ICON",
+        "url": "https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 151625,
+      "name": "Fed Up",
+      "url": "https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp"
     },
     {
       "added_at": "2022-07-29 04:15:00",
@@ -243,6 +243,22 @@
       "duration_ms": 95483,
       "name": "Break Shit",
       "url": "https://open.spotify.com/track/46PndWC5iW7JpdmaY2Jswq"
+    },
+    {
+      "added_at": "2022-07-29 04:15:00",
+      "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 113553,
+      "name": "Wrath",
+      "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
     },
     {
       "added_at": "2022-07-29 04:15:00",
@@ -295,6 +311,26 @@
       "duration_ms": 158710,
       "name": "CHROME BERETTA",
       "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
+    },
+    {
+      "added_at": "2022-07-29 04:15:00",
+      "album": {
+        "name": "Kick Rocks (feat. Lil Darkie)",
+        "url": "https://open.spotify.com/album/6C0f36HZNOlyU5w1v4g1Ch"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "duration_ms": 171680,
+      "name": "Kick Rocks (feat. Lil Darkie)",
+      "url": "https://open.spotify.com/track/3E6coZX2cGtJVVfC3qeDwQ"
     },
     {
       "added_at": "2022-07-29 04:15:00",
@@ -1091,6 +1127,22 @@
     {
       "added_at": "2022-07-29 04:15:00",
       "album": {
+        "name": "HOBGOBLIN",
+        "url": "https://open.spotify.com/album/3BlOHRQuFEG7sOUQtT6EBp"
+      },
+      "artists": [
+        {
+          "name": "Witchouse 40k",
+          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
+        }
+      ],
+      "duration_ms": 206355,
+      "name": "HOBGOBLIN",
+      "url": "https://open.spotify.com/track/7I7sdHRJhSqQnwPPZbrsmv"
+    },
+    {
+      "added_at": "2022-07-29 04:15:00",
+      "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/47ezrM6e8x0BirhB2PGhyJ"
       },
@@ -1219,22 +1271,6 @@
     {
       "added_at": "2022-07-29 04:15:00",
       "album": {
-        "name": "HOBGOBLIN",
-        "url": "https://open.spotify.com/album/3BlOHRQuFEG7sOUQtT6EBp"
-      },
-      "artists": [
-        {
-          "name": "Witchouse 40k",
-          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
-        }
-      ],
-      "duration_ms": 206355,
-      "name": "HOBGOBLIN",
-      "url": "https://open.spotify.com/track/7I7sdHRJhSqQnwPPZbrsmv"
-    },
-    {
-      "added_at": "2022-07-29 04:15:00",
-      "album": {
         "name": "Metal",
         "url": "https://open.spotify.com/album/021icRE8txfPQMBmEz6j2r"
       },
@@ -1303,42 +1339,6 @@
       "duration_ms": 148360,
       "name": "LOOK BACK.",
       "url": "https://open.spotify.com/track/6LcmaUtUnGlVgGdFpCs01n"
-    },
-    {
-      "added_at": "2022-07-29 04:15:00",
-      "album": {
-        "name": "GET IT",
-        "url": "https://open.spotify.com/album/5yeTKwzuIOiVA6nN9RMnDv"
-      },
-      "artists": [
-        {
-          "name": "Chrmng,",
-          "url": "https://open.spotify.com/artist/5hNoJE5m6FoCBI0SM6lhia"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "GET IT",
-      "url": "https://open.spotify.com/track/2euA4prGtHli9OH3Yd1G3D"
-    },
-    {
-      "added_at": "2022-07-29 04:15:00",
-      "album": {
-        "name": "ALL BLACK ATTIRE",
-        "url": "https://open.spotify.com/album/4Y705O8UoVmJuhZHOZrX9R"
-      },
-      "artists": [
-        {
-          "name": "SHUSH",
-          "url": "https://open.spotify.com/artist/17qcgleNjGWZoAqUM0MQHs"
-        },
-        {
-          "name": "ONI INC.",
-          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "ALL BLACK ATTIRE",
-      "url": "https://open.spotify.com/track/3ljyB9X8TMFKRkLEJ6JgtD"
     }
   ],
   "unique_name": "Tirade",

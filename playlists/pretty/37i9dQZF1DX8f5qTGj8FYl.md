@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,592 likes - 80 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,700 likes - 80 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Spherical \(Tiny Room Sessions\)](https://open.spotify.com/track/0lXo6V2m1WTDNWMjgbhy1U) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Geoffrey Keezer](https://open.spotify.com/artist/6blxY1iqiaDxSkZ1OGPUZ7), [Benjamin Sheperd](https://open.spotify.com/artist/5hO610eZdaKyNxoLG7Rfw2), [Bob Reynolds](https://open.spotify.com/artist/6GcgRheAQRGpkEhsg5nG6m), [Curtis Taylor](https://open.spotify.com/artist/6BAp78tMVI0vqwkbAePCim) | [Spherical \(Tiny Room Sessions\)](https://open.spotify.com/album/4z46D1eyVfrciFdFbYlNNT) | 8:08 |
 | 80 | [Say Goodbye](https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Nate Edgar](https://open.spotify.com/artist/5XJx5aio4PF3x4rdTkGmG0) | [Say Goodbye](https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG) | 3:07 |
 
-Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMDU4ZmVmYWI1OTMzZTk3Y2RkM2UyZTBkOWIwN2IyNzdl`
+Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDA5MzUzOWUwMjkyMGRjZWY3Y2M1MjBlMmE2NDQ2NzYy`

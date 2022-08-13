@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Mukeka di Rato
 
-194 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+196 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Queima!](https://open.spotify.com/track/0pF769SkaUcmdqoZysvcAY) | [Inocentes](https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2) | [Queima!](https://open.spotify.com/album/0y1eK5Qgz9md8R9SambB6h) | 2:30 | 2022-07-29 | 2022-08-02 |
 | [Quero Ser Eu Mesmo](https://open.spotify.com/track/4KRdoq2lJw8dKg9QvJkx07) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN), [Samurai Ghile](https://open.spotify.com/artist/3kSm6WL86cVmLKLTFS3G6N) | [Quero Ser Eu Mesmo](https://open.spotify.com/album/04YbltMjXDT4Kmv07nbxXO) | 3:26 | 2022-01-14 | 2022-04-16 |
 | [raiva](https://open.spotify.com/track/5ohmUHZRVYckbotO3zP30w) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [raiva](https://open.spotify.com/album/3ahG4lLXnrvZjc9Sb89BP1) | 3:15 | 2022-05-20 |  |
-| [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 | 2022-01-14 |  |
+| [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 | 2022-01-14 | 2022-08-13 |
 | [Rinoceronte](https://open.spotify.com/track/6NEOZ30uXiSutCh3ax2KE3) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Rinoceronte](https://open.spotify.com/album/0PcIqZqVzfpPfUNgw39tJe) | 2:22 | 2022-01-14 | 2022-02-19 |
 | [Roqueiro Reaça](https://open.spotify.com/track/2hFtbTCu2KfmqEb6UQl3Cn) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Roqueiro Reaça](https://open.spotify.com/album/1Dn3XMgCSJM8gVuUCxrj9b) | 3:06 | 2022-01-14 | 2022-02-19 |
 | [Rouca](https://open.spotify.com/track/59Fp36OwfUVP7y2iqhUIHV) | [Deb and The Mentals](https://open.spotify.com/artist/3adFOhZcvNnHWUSe7YwYvf) | [Babilônia](https://open.spotify.com/album/5wwCWwHPueo7qgbVZMF8Ri) | 3:52 | 2022-04-22 | 2022-05-20 |
@@ -183,7 +183,7 @@
 | [Só Sei Sonhar](https://open.spotify.com/track/7BXnoQfWd5o1r9FpR2CWFJ) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor De Nossas Vidas](https://open.spotify.com/album/1fH5R79UA8H7gSGHko4ayZ) | 2:54 | 2022-07-15 |  |
 | [Só Sei Sonhar](https://open.spotify.com/track/7rvqdkHOXdSqZXaMHctNly) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor De Nossas Vidas](https://open.spotify.com/album/05SpB7CONVVtt0VosXk0nh) | 2:54 | 2022-01-14 | 2022-07-29 |
 | [Tempo de Brincar](https://open.spotify.com/track/6cLVxeHljKgjD1mQ75QKhp) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Tempo de Brincar](https://open.spotify.com/album/6Mx3z11ITwsYgfCRdYFo0b) | 2:46 | 2022-01-14 | 2022-07-02 |
-| [Tenho](https://open.spotify.com/track/2hsIagU1eyyvJ4clxjn0BX) | [João Gordo](https://open.spotify.com/artist/7aoHAC7aGNfSiDCIHxRO84) | [Tenho](https://open.spotify.com/album/61IbbRFO2Y1aB2qHkRZS9O) | 2:17 | 2022-08-05 |  |
+| [Tenho](https://open.spotify.com/track/2hsIagU1eyyvJ4clxjn0BX) | [João Gordo](https://open.spotify.com/artist/7aoHAC7aGNfSiDCIHxRO84) | [Tenho](https://open.spotify.com/album/61IbbRFO2Y1aB2qHkRZS9O) | 2:17 | 2022-08-05 | 2022-08-13 |
 | [The Pretender](https://open.spotify.com/track/4BCaOIprZimDnp4EYbH4Th) | [Nordex](https://open.spotify.com/artist/1pgvtOneo1dhcIp9An2xnC) | [The Pretender](https://open.spotify.com/album/5yWFXP10H3JZ27grcXe4DQ) | 4:28 | 2022-04-15 | 2022-07-02 |
 | [They Wanna Turn Me into a Politician](https://open.spotify.com/track/2GZOCsPD74NaqNOnfMLjfk) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [They Wanna Turn Me into a Politician](https://open.spotify.com/album/00norKuCaNr7z3yNLDS2Ln) | 1:56 | 2022-05-20 | 2022-05-28 |
 | [Todo Dia é Dia de Comemorar \- Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/track/2FgMoBbrgy2hzetNNrbbXz) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/album/7mf53NHZ8LnRVDy0qFwdOH) | 3:40 | 2022-02-18 | 2022-05-14 |
@@ -200,7 +200,9 @@
 | [Vai Vai](https://open.spotify.com/track/12XAtuI5NdUvOQhoLEnWLs) | [Gus Nascimento](https://open.spotify.com/artist/2WeX0MjSzcLnqnZbbskV9q) | [Vai Vai](https://open.spotify.com/album/5exaN1f9dHKtVqdHNLMBoq) | 3:44 | 2022-04-01 | 2022-04-16 |
 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 | 2022-01-21 | 2022-05-14 |
 | [Veneno](https://open.spotify.com/track/5JcRGsmaV5nBVp3TiyqdlO) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Balla e os Cristais](https://open.spotify.com/artist/3FGzyFpLecpQSUzx46x6h0) | [Veneno](https://open.spotify.com/album/5X6ItCVdeZvBugR9j0P8GM) | 3:54 | 2022-01-14 |  |
+| [Vitória](https://open.spotify.com/track/2uRlVcj6AjZKAMP2Gc1xpj) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt.3](https://open.spotify.com/album/13x5PRkYrO2vLrTntH0Jkh) | 3:20 | 2022-08-12 |  |
 | [Voe](https://open.spotify.com/track/4auuWHV7lGdaYLRrCACoeT) | [Abel Capella](https://open.spotify.com/artist/6sC9qbOTdfboHJIWQF3lkw) | [Voe](https://open.spotify.com/album/7fdN4LLQLWYveuG4Mrcalp) | 3:41 | 2022-01-14 |  |
+| [White Rabbit](https://open.spotify.com/track/54pB8OIuoBTo0zb7PnM562) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [White Rabbit](https://open.spotify.com/album/6CGbvVdgtohBklk6hpUOjr) | 2:46 | 2022-08-12 |  |
 | [Última Chamada](https://open.spotify.com/track/6FH9aolGr0wmaFbSjGgdJ6) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G), [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p) | [Última Chamada](https://open.spotify.com/album/2tX9KoW6xtGzNRECNJJ0RY) | 2:53 | 2022-05-06 | 2022-05-28 |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

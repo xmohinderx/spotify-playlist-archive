@@ -1782,6 +1782,28 @@
     },
     {
       "album": {
+        "name": "Morsi",
+        "url": "https://open.spotify.com/album/2rZEMo1uGjBPEOnMCCL1GP"
+      },
+      "artists": [
+        {
+          "name": "Andrea Blanc",
+          "url": "https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4"
+        },
+        {
+          "name": "David Blank",
+          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209525,
+      "name": "Morsi",
+      "url": "https://open.spotify.com/track/5k0bWnsm97QQQHuMs0wIvG"
+    },
+    {
+      "album": {
         "name": "Negli Occhi",
         "url": "https://open.spotify.com/album/5kjmW3BcCHutYbwm7M2diZ"
       },

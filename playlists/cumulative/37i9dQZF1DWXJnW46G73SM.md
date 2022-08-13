@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: احمد كامل
 
-191 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+192 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Downtown](https://open.spotify.com/track/5mJwIPGuMG8jhvhr9igD4W) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Downtown](https://open.spotify.com/album/1l7zke8JZbv83flMvXW99N) | 3:36 | 2022-03-03 | 2022-06-24 |
 | [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/track/3n1Ay9tmg5lJXEgEbalNye) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/album/4889Xh1DOnyxnXKfNoinDe) | 4:04 | 2022-06-09 |  |
 | [Eiish Ahla Snin](https://open.spotify.com/track/5cTeuErPw3vt8SBga9YAfM) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Eiish Ahla Snin](https://open.spotify.com/album/0I58q7plyh0jifvzl4gMzh) | 3:13 | 2022-07-14 |  |
+| [Eish'ha B Afia \(Khatir\)](https://open.spotify.com/track/0VoGUSTCDyz5855v4S278P) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Eish'ha B Afia \(Khatir\)](https://open.spotify.com/album/3qgIRDfNgnyxHi0YykyrWW) | 3:18 | 2022-08-12 |  |
 | [El Alb Galo Hoboot](https://open.spotify.com/track/1moe9UH2JUoBYes6RzrUk6) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [El Alb Galo Hoboot](https://open.spotify.com/album/1qqhyewwExUUhz98GwuWPa) | 4:43 | 2021-12-23 | 2022-03-10 |
 | [El Fatra Di](https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:49 | 2022-01-27 | 2022-05-02 |
 | [El Halawa Di](https://open.spotify.com/track/5hpzNmbYpjS4WcQW1nAt3j) | [Ahmed Basyoni](https://open.spotify.com/artist/2T6gqh96T1Cy8YfvzEPr49), [Hussein Gamal](https://open.spotify.com/artist/6qsRiXkSz88prbplwiKpmr) | [El Halawa Di](https://open.spotify.com/album/2Ea9QzlkBwrVGd7ENONLsf) | 2:57 | 2022-01-28 | 2022-05-19 |
@@ -115,7 +116,7 @@
 | [Ma Kan Ala Baly](https://open.spotify.com/track/1055RLG3kqVGBfOusIH8wg) | [Andrew Mounir](https://open.spotify.com/artist/5j87IbPLinOmiegvVuuDAA), [Hana Ghoneim](https://open.spotify.com/artist/6Ob3o641XhD90mvYqSU4Uk), [Ahmed Nihad](https://open.spotify.com/artist/2nRvsNbmm4kJSHmM3rel9r) | [Ma Kan Ala Baly](https://open.spotify.com/album/1tgXPdVUYVgPvb8vuXDvTZ) | 3:43 | 2022-01-20 | 2022-04-01 |
 | [Maat El Kalam](https://open.spotify.com/track/75CTXFuRMEA6gX7D56Ivlo) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Maat El Kalam](https://open.spotify.com/album/3hginZfdRtOqnDuOEeeG3w) | 3:28 | 2022-03-03 | 2022-06-24 |
 | [Mabahrbsh](https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabahrbsh](https://open.spotify.com/album/4T7NjcvE00AM4tNqYpIYu5) | 4:05 | 2022-03-14 | 2022-07-08 |
-| [Mabhtmesh](https://open.spotify.com/track/442OhScPDEPFjZ2Hou2j7S) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabhtmesh](https://open.spotify.com/album/6UVU26B9pUXpcrwD7i4GbD) | 3:32 | 2022-05-03 |  |
+| [Mabhtmesh](https://open.spotify.com/track/442OhScPDEPFjZ2Hou2j7S) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabhtmesh](https://open.spotify.com/album/6UVU26B9pUXpcrwD7i4GbD) | 3:32 | 2022-05-03 | 2022-08-13 |
 | [Malak](https://open.spotify.com/track/6Ghgn3JIGwJq3H9SuTCikZ) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:00 | 2022-01-20 | 2022-04-08 |
 | [Maleket El Helwen](https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Maleket El Helwen](https://open.spotify.com/album/34e97XGQaJKS80MfqFS1y7) | 3:38 | 2021-12-23 | 2022-01-21 |
 | [Manstghnash](https://open.spotify.com/track/6tiAvjptfjuV1itslVeR5K) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Manstghnash](https://open.spotify.com/album/6YgGZaFXO9BSoK5MTE9Q24) | 3:52 | 2021-12-23 | 2022-02-18 |

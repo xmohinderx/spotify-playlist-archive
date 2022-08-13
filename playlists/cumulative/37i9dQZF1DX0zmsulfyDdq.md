@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-175 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
+176 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Kiss the Girl](https://open.spotify.com/track/2huXICYr99NnodThC8me1m) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Chill](https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP) | 2:53 | 2022-04-15 |  |
 | [Kiss the Girl](https://open.spotify.com/track/5WQaJnGiwJYHvRkfmWtDde) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Love](https://open.spotify.com/album/2H671Hg8bphx28BBFEP2pI) | 2:10 | 2022-04-29 |  |
 | [Know Who You Are](https://open.spotify.com/track/2gPZknA95eTef8yib3bXA8) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Self\-Care Day](https://open.spotify.com/album/2crUCxYkIcOdS25kaR5GgM) | 1:57 | 2022-04-15 |  |
+| [La La Lu](https://open.spotify.com/track/3Fou4O94pyR80OxdSj3pI8) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Lady and The Tramp and Friends](https://open.spotify.com/album/5nmEqzKRjL3WyA5X7Zppdc) | 1:36 | 2022-08-12 |  |
 | [Lava](https://open.spotify.com/track/3Ak0AtnSK0QECEPKHupxkC) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Soothing](https://open.spotify.com/album/4s0t0BbmkfB9iESE8FGRaa) | 2:35 | 2022-05-09 |  |
 | [Lavender Blue \(Dilly Dilly\) \- Instrumental](https://open.spotify.com/track/41xfXGP8qwohCKMIv61DmF) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Baby Sweet Dreams and Lullabies](https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg) | 1:31 | 2022-04-15 |  |
 | [Lavender Blue \(Dilly Dilly\) \- Instrumental](https://open.spotify.com/track/5JcXeicEC7wvtASq8H0Mua) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Lullaby & Goodnight](https://open.spotify.com/album/5XM8EEuQ4D9EsygINToYny) | 3:17 | 2022-05-23 |  |

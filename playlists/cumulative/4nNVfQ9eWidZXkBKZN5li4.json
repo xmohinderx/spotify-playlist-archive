@@ -88,6 +88,40 @@
     },
     {
       "album": {
+        "name": "Akdi Pakdi (From \"Liger\")",
+        "url": "https://open.spotify.com/album/0sqF7xlWsmlPf3wVMvMf8n"
+      },
+      "artists": [
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        {
+          "name": "Sunil Kashyap",
+          "url": "https://open.spotify.com/artist/4ZTli8xiH8txCfWJtulNXQ"
+        },
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        },
+        {
+          "name": "Pawni Pandey",
+          "url": "https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230200,
+      "name": "Akdi Pakdi (From \"Liger\")",
+      "url": "https://open.spotify.com/track/79xjw95DSvcl8sDtghDOGo"
+    },
+    {
+      "album": {
         "name": "Baarishon Mein",
         "url": "https://open.spotify.com/album/0HsLFcmpM2dtnQ30RuiCjT"
       },
@@ -749,7 +783,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 223189,
       "name": "Dance Meri Rani",
       "url": "https://open.spotify.com/track/2Og3TvRiujRDfgnkmgaOhW"
@@ -827,6 +861,36 @@
       "duration_ms": 168000,
       "name": "DESIRES",
       "url": "https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY"
+    },
+    {
+      "album": {
+        "name": "Deva Deva (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/6zwucxlWusEUCZt6DeQJCu"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279107,
+      "name": "Deva Deva (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O"
     },
     {
       "album": {
@@ -4397,7 +4461,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 321773,
       "name": "Yeh Dosti Hum Nahin - From \"Sholay\"",
       "url": "https://open.spotify.com/track/11TCBXUQxfI67zmdMVyJFG"

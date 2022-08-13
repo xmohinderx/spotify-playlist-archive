@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania.
 
-139 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+140 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Ni Wewe](https://open.spotify.com/track/7w9rWg34rariNBWQavgu5c) | [K2ga](https://open.spotify.com/artist/1Tg2IP8iwTQwYyoggU9ZAW) | [Safari](https://open.spotify.com/album/4qCYaL1T88OgIGTwMe1nXF) | 3:46 | 2021-12-06 | 2022-04-01 |
 | [Ni Wewe](https://open.spotify.com/track/5kZpQHkVT0EtRDPlE5nHkO) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Ni Wewe](https://open.spotify.com/album/4M1Dg9hKg46sGnSarGiJfI) | 3:00 | 2021-09-23 |  |
 | [Nibebe](https://open.spotify.com/track/0wAeptB1IYnjfmU4yP6Mxn) | [Mzee Yusuph](https://open.spotify.com/artist/1JyYRDJWdQMECFjJGWjMqm) | [Tamu Kwa Tamu](https://open.spotify.com/album/0VYGQMTaK2E8l8lWresCxq) | 4:08 | 2022-07-07 |  |
+| [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 | 2022-08-11 |  |
 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 | 2021-11-25 | 2022-02-25 |
 | [Nimekuzoea](https://open.spotify.com/track/6UpuTAuQF82c95Hg7lCBUe) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Nimekuzoea](https://open.spotify.com/album/0Hr25mTjVlrkNexp2CbKDc) | 2:43 | 2021-08-26 |  |
 | [Nioneshe \(feat\. Alikiba\)](https://open.spotify.com/track/6oLjaEGYQzinmglh4IwqIt) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 3:32 | 2022-05-19 |  |

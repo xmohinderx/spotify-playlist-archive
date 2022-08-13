@@ -146,6 +146,28 @@
     },
     {
       "album": {
+        "name": "Caminemos de la Mano",
+        "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214695,
+      "name": "Caminemos de la Mano",
+      "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
+    },
+    {
+      "album": {
         "name": "Casi Amor De Verano",
         "url": "https://open.spotify.com/album/1wiaYWxg54mycc3A5cGRI0"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Kokoroko",
+  "description": "New jazz for open minds. Cover: Takuya Kuroda",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -920,6 +920,36 @@
     },
     {
       "album": {
+        "name": "Birds of Rocky Point",
+        "url": "https://open.spotify.com/album/5F1WeC3LSzBwCyjOYsDqg5"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        },
+        {
+          "name": "Slug",
+          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157975,
+      "name": "Birds of Rocky Point",
+      "url": "https://open.spotify.com/track/7CurxbuwMd0zxu2DOtI94j"
+    },
+    {
+      "album": {
         "name": "Jean Carne JID012",
         "url": "https://open.spotify.com/album/4LnwmwZBGpxR7pY55udol1"
       },
@@ -1209,6 +1239,36 @@
       "duration_ms": 296666,
       "name": "Brouhaha",
       "url": "https://open.spotify.com/track/5d6C0v7ir8lVRCymD9X2Ss"
+    },
+    {
+      "album": {
+        "name": "Caliber",
+        "url": "https://open.spotify.com/album/1Gr1MnBQE43JRmeccpu8La"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        },
+        {
+          "name": "Dana Hawkins",
+          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
+        },
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        },
+        {
+          "name": "Fredrik Thordendal",
+          "url": "https://open.spotify.com/artist/5I0eQC4oxRaW8DRe4XithF"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193813,
+      "name": "Caliber",
+      "url": "https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp"
     },
     {
       "album": {
@@ -2319,7 +2379,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 351034,
       "name": "Everyday Life",
       "url": "https://open.spotify.com/track/2YiahKzwRhNZBuV9dOcnZJ"
@@ -3165,7 +3225,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 429501,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/4X41g2qYikss19onM4xH6F"
@@ -3532,6 +3592,28 @@
     },
     {
       "album": {
+        "name": "In Control",
+        "url": "https://open.spotify.com/album/183FRkYZkIrn8kV7swfRgZ"
+      },
+      "artists": [
+        {
+          "name": "Mahealane",
+          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
+        },
+        {
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238783,
+      "name": "In Control",
+      "url": "https://open.spotify.com/track/7JuCr0yFTeGqaiRCV3YODS"
+    },
+    {
+      "album": {
         "name": "In Tense",
         "url": "https://open.spotify.com/album/1oSItwGozcn529fK0NIZWt"
       },
@@ -3683,6 +3765,32 @@
       "duration_ms": 374653,
       "name": "It Might as Well Be Spring",
       "url": "https://open.spotify.com/track/0mmhNRfvI599pLb0bNV13N"
+    },
+    {
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
     },
     {
       "album": {
@@ -4047,7 +4155,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 398400,
       "name": "Legend",
       "url": "https://open.spotify.com/track/4g8Bj7G8Q3V2DiiiKNGRSO"
@@ -4728,6 +4836,24 @@
     },
     {
       "album": {
+        "name": "Midnight Crisp",
+        "url": "https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG"
+      },
+      "artists": [
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326552,
+      "name": "Midnight Crisp",
+      "url": "https://open.spotify.com/track/44egUa8FkT17spwSFvQis6"
+    },
+    {
+      "album": {
         "name": "Undertones (Live)",
         "url": "https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw"
       },
@@ -4931,6 +5057,36 @@
       "duration_ms": 156986,
       "name": "My Old Flame",
       "url": "https://open.spotify.com/track/65bV7W1domslLwDqyYQgKk"
+    },
+    {
+      "album": {
+        "name": "One for GP!",
+        "url": "https://open.spotify.com/album/5epwV8OznrljN63umxfRrs"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Niclas Campagnol",
+          "url": "https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL"
+        },
+        {
+          "name": "Niels Guffi Pallesen",
+          "url": "https://open.spotify.com/artist/4abK8Vr4bGKLv8D4jlybRP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/7LXX1hufu9ltR2L8pP3dOX"
     },
     {
       "album": {
@@ -5331,7 +5487,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 303066,
       "name": "Older But Not Less Confused",
       "url": "https://open.spotify.com/track/1N2zt93hkfw01OeWQuSj2x"
@@ -6682,6 +6838,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/5FvPuFpUndULeIq6M3Mukq"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338409,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2shMADzVKhee4Mx2dWZGAU"
+    },
+    {
+      "album": {
         "name": "Stay Home",
         "url": "https://open.spotify.com/album/0MGcACJPvZcVPqOwi97oXd"
       },
@@ -6749,6 +6923,32 @@
       "duration_ms": 150000,
       "name": "Strange Times",
       "url": "https://open.spotify.com/track/2qXGNdB8IJq3JX1SgIA8oi"
+    },
+    {
+      "album": {
+        "name": "Street Cats",
+        "url": "https://open.spotify.com/album/4LYilS2sUOrypI5ePa7xmg"
+      },
+      "artists": [
+        {
+          "name": "Jules Hiero",
+          "url": "https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J"
+        },
+        {
+          "name": "Ant\u00f4nio Neves",
+          "url": "https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683"
+        },
+        {
+          "name": "Ed Santana",
+          "url": "https://open.spotify.com/artist/6M74DHDHLcc0kD9OefNZUo"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Street Cats",
+      "url": "https://open.spotify.com/track/2PS9WemolaLcdYk6Jv3IyO"
     },
     {
       "album": {
@@ -6835,7 +7035,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 317146,
       "name": "Sun Wall",
       "url": "https://open.spotify.com/track/1cgxHxucqANla7OHXov2wB"
@@ -7768,6 +7968,24 @@
     },
     {
       "album": {
+        "name": "I Survived, It's Over",
+        "url": "https://open.spotify.com/album/1KErFGaU1RWUTJDeHKJoK2"
+      },
+      "artists": [
+        {
+          "name": "Rich Ruth",
+          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478000,
+      "name": "Thou Mayest",
+      "url": "https://open.spotify.com/track/3BEKXDWGxIDKnHylby91tb"
+    },
+    {
+      "album": {
         "name": "Times (feat. Lex Amor)",
         "url": "https://open.spotify.com/album/3WV8Wbjfb3VROt5l5kSRoz"
       },
@@ -7862,6 +8080,24 @@
     },
     {
       "album": {
+        "name": "Tributary",
+        "url": "https://open.spotify.com/album/4Smd5XsAnGKCt8QepEw9AM"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347240,
+      "name": "Tributary",
+      "url": "https://open.spotify.com/track/7q6UmBKNhBLgMt0dg9UKr2"
+    },
+    {
+      "album": {
         "name": "Trinity",
         "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
       },
@@ -7895,6 +8131,44 @@
       "duration_ms": 396133,
       "name": "Tripwire",
       "url": "https://open.spotify.com/track/2rg5OGqoqTTnUmu27yuyNM"
+    },
+    {
+      "album": {
+        "name": "TRKNTRKX.MMBL (Live)",
+        "url": "https://open.spotify.com/album/64hND37L4kRr9XyL3yQGCM"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Damon Soulful Samurai Poole",
+          "url": "https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ"
+        },
+        {
+          "name": "Jezial Chavez",
+          "url": "https://open.spotify.com/artist/61jUZ0ZY7RViijKOw9In6K"
+        },
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "Luke Fitzwater",
+          "url": "https://open.spotify.com/artist/52ZeUtgvGp6bCov9Uo654h"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196159,
+      "name": "TRKNTRKX.MMBL - Live",
+      "url": "https://open.spotify.com/track/6nMy3z2bsQ08FpQ4CLIiIK"
     },
     {
       "album": {
@@ -7961,7 +8235,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 153174,
       "name": "Truly Another Classic",
       "url": "https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A"
@@ -8409,7 +8683,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 392829,
       "name": "Water: Giver of Life - from The Elements - Water",
       "url": "https://open.spotify.com/track/5MyeZsgAC2tTel4jZomXvn"
@@ -8505,7 +8779,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 314723,
       "name": "We The People Of The Myths",
       "url": "https://open.spotify.com/track/6QPZ2Aph9zvFxAAVOXJpjD"
@@ -8639,7 +8913,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 195853,
       "name": "Word For Word",
       "url": "https://open.spotify.com/track/5gS2IxkC4s2PQkYuGbT0vc"
@@ -8705,7 +8979,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 136716,
       "name": "XPBTTMS.MMBL",
       "url": "https://open.spotify.com/track/5glJ3oP3FC2KQbQHQ9nqLE"
@@ -8789,7 +9063,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 520172,
       "name": "You've Got to Have Freedom",
       "url": "https://open.spotify.com/track/4flZ2zmTcUGQCrCDVpnJr7"

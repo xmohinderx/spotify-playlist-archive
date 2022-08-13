@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Ali Loka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,710 likes - 59 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,722 likes - 59 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

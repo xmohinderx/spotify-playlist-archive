@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Nicolle Galyon
 
-328 songs - 18 hr 40 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
+329 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [back to back](https://open.spotify.com/track/0SQKYOdKg5bvNCbvhty9r7) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [these words are all for you](https://open.spotify.com/album/19Nw7Jat25JYGPSWwMA7Ce) | 3:45 | 2021-11-19 | 2022-07-29 |
 | [Be Somebody](https://open.spotify.com/track/03IItNj9PppGuPjVx0wVC8) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Be Somebody](https://open.spotify.com/album/2JADOEbL4IXyki8dEy6orH) | 3:02 | 2022-01-21 | 2022-02-01 |
 | [Beat of My Heart](https://open.spotify.com/track/44fTa1co7zmof732liprRg) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Tides](https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk) | 3:35 | 2021-11-19 | 2022-07-29 |
-| [Becoming All Alone](https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Becoming All Alone](https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n) | 4:18 | 2022-03-11 |  |
+| [Becoming All Alone](https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Becoming All Alone](https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n) | 4:18 | 2022-03-11 | 2022-08-13 |
 | [Bed I Made](https://open.spotify.com/track/0YL1bs7CYi7mhG0FuctgcO) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [APART](https://open.spotify.com/album/3qBXZkDcgHfptEbAw840wL) | 3:00 | 2021-11-19 | 2022-07-29 |
 | [Bed I Made](https://open.spotify.com/track/1wdDPuoYhNk5Zr9XYgURww) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 3:00 | 2022-07-15 |  |
 | [Before You Let Me Go](https://open.spotify.com/track/7qNrSxc8OtSVxQlCKpmIgY) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/1W9yQ05UVOZDwT6u5DrnEs) | 3:42 | 2021-11-19 | 2022-05-23 |
@@ -306,6 +306,7 @@
 | [Too Close](https://open.spotify.com/track/4fekeaiYWxyRYI3cyH8UEj) | [Willa Amai](https://open.spotify.com/artist/0iP3BGoRpnHIZRVnEQLlHF) | [I Can Go to Bed Whenever](https://open.spotify.com/album/4BX08pmwqUCqKmdlGKUeDN) | 3:25 | 2021-11-19 | 2022-02-22 |
 | [Tractor](https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Tractor](https://open.spotify.com/album/1p0cwpoCTRfDYEvE5hoaRs) | 3:26 | 2021-11-26 |  |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-11-19 | 2022-02-21 |
+| [Turnham Green](https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Turnham Green](https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N) | 3:45 | 2022-08-12 |  |
 | [two different parties \- acoustic](https://open.spotify.com/track/3C47Z2rokmHtZvt6zNHsOz) | [Caroline Dare](https://open.spotify.com/artist/729VtCqRPf0MwVTXAPz7wr) | [two different parties \(acoustic\)](https://open.spotify.com/album/76sNyWFclmUHKyAImS47JL) | 3:46 | 2022-07-15 | 2022-07-27 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2021-11-19 |  |
 | [Until You](https://open.spotify.com/track/07J2YnBDALX80kWIdQoK7Q) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/719riSyZnHWIJibYVpTS96) | 3:18 | 2021-11-19 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIlyW5yvFjI.md) - [plain]
 
 > Beautiful noise: when Shoegaze goes Ambient\. Cocteau Twins on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,831 likes - 77 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,877 likes - 77 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

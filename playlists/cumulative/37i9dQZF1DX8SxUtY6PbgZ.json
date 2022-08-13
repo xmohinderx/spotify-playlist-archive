@@ -554,6 +554,24 @@
     },
     {
       "album": {
+        "name": "The Social Network",
+        "url": "https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99278,
+      "name": "It Catches up With You",
+      "url": "https://open.spotify.com/track/2cryrajucGmbV6mwNUhQPB"
+    },
+    {
+      "album": {
         "name": "Nine Perfect Strangers (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/6IEFqwgyEboJzqneOMkJiA"
       },

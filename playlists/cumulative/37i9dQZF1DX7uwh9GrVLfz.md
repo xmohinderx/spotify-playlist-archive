@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk.
 
-436 songs - 23 hr 51 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+437 songs - 23 hr 53 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Believer](https://open.spotify.com/track/4TJeTiTmNhzBBZeI4bSVTV) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2NK3TmaOmduXVBSm0LZ28N) | 2:49 | 2022-05-12 | 2022-07-27 |
 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 | 2022-07-21 |  |
 | [Better Days](https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [H.U.E.](https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x) | 3:53 | 2022-05-12 |  |
-| [Better Luck](https://open.spotify.com/track/3rgQQ8C7PGzpW5gsWUTZO1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar), [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP), [locofrank](https://open.spotify.com/artist/16LHeL1NFVUDTC6dLzkwcm) | [Better Luck](https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA) | 3:45 | 2022-05-12 |  |
+| [Better Luck](https://open.spotify.com/track/3rgQQ8C7PGzpW5gsWUTZO1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar), [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP), [locofrank](https://open.spotify.com/artist/16LHeL1NFVUDTC6dLzkwcm) | [Better Luck](https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA) | 3:45 | 2022-05-12 | 2022-08-13 |
 | [Better Off Dead](https://open.spotify.com/track/5YeC2YVuszZ7Wmg0MIwIeM) | [Velvet Sighs](https://open.spotify.com/artist/0CWI9gU5g8Kjz9IldPjJeH) | [Better Off Dead](https://open.spotify.com/album/7tADwDxklwB0GjzKiJklF7) | 2:44 | 2022-07-19 |  |
 | [Better Way](https://open.spotify.com/track/11MccDXhhW4MTKBOC0YC3t) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [Better Way](https://open.spotify.com/album/2pCbPUcGS6YRWGL3MJ5BWU) | 3:09 | 2022-05-17 | 2022-07-28 |
 | [Betty](https://open.spotify.com/track/1xLlG6M2xQgLJA1WMgeORO) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [Travel The Galaxy](https://open.spotify.com/album/4hgbIPdkKiarkm4cNqw3gd) | 4:36 | 2022-07-19 |  |
@@ -110,6 +110,7 @@
 | [Hello Blue Days](https://open.spotify.com/track/1mtq1S2EZyjlLhhRUkDPGx) | [KEYTALK](https://open.spotify.com/artist/0nES8AwBZpeQ69oZZp47OL), [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [Hello Blue Days](https://open.spotify.com/album/4Ni0wTAllPGsBOGLbh2F56) | 3:58 | 2022-06-14 | 2022-06-23 |
 | [Helpless Romantic](https://open.spotify.com/track/3NCTdY91obERGJngTaW4yC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [4Wheels 9Lives](https://open.spotify.com/album/5YHNqtIpmeDxkMMPW3yoKQ) | 3:23 | 2022-05-12 | 2022-07-29 |
 | [HEY DUDE](https://open.spotify.com/track/5R8lXeqwyncJRScMuVJpml) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [HEY DUDE](https://open.spotify.com/album/0PPU4QuBERLv3aJlcJFu9y) | 4:01 | 2022-05-12 | 2022-07-29 |
+| [Hey! Stay by my side!](https://open.spotify.com/track/5IDfSmahBmnRrbbEZiOjNF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Hey! Stay by my side!](https://open.spotify.com/album/64DJ8QPZHszlBdA0R9SeZz) | 2:27 | 2022-08-12 |  |
 | [HOLYCALLING](https://open.spotify.com/track/0SlRTp6ykBPHjkB0HlZFiC) | [I LOVE CMF](https://open.spotify.com/artist/66tH1YT5eQsD7dcHWF4Jge) | [COMMO dos DRAGONS](https://open.spotify.com/album/4lVVrvpQtieYHulHWcCvaY) | 2:31 | 2022-05-12 | 2022-07-26 |
 | [Homies](https://open.spotify.com/track/5ET2DvVkvKHIdCIVuIcGlm) | [PRAY FOR ME](https://open.spotify.com/artist/1kSsu9AQF5hSdLgkWFbmtF) | [Home is…](https://open.spotify.com/album/7esl263ge8LFdNp7giZhNY) | 2:43 | 2022-06-07 | 2022-07-29 |
 | [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 | 2022-05-12 | 2022-07-28 |

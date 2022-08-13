@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-222 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+223 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2022-02-11 |  |
 | [Nevada](https://open.spotify.com/track/3gCskbRL90fyXnTg6kNaUu) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/1JGBUKbvb8xKBddvKP0ASW) | 6:03 | 2022-02-12 | 2022-07-15 |
 | [New Creation](https://open.spotify.com/track/1yKDappVhFf05peEb9NFR8) | [Vertical Sight](https://open.spotify.com/artist/59fdBKobn0AP6yV1aI53W7) | [New Creation](https://open.spotify.com/album/4kV127M8gRdovkFwvwLGcA) | 2:42 | 2022-02-11 |  |
+| [Night Street](https://open.spotify.com/track/54NurX7EtFspwo0YvSeyN2) | [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [Night Street](https://open.spotify.com/album/5SLLE63V5AX27iDYdSYh3R) | 4:25 | 2022-08-12 |  |
 | [No Problem](https://open.spotify.com/track/5ER8Qb144767nRWtLxZqGD) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [No Problem](https://open.spotify.com/album/3eqOLVEqqN5rSlDyLcsH0S) | 2:58 | 2022-02-12 |  |
 | [Nocturne](https://open.spotify.com/track/03vZMNnBKCtR79aOvCnwzf) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Nocturne](https://open.spotify.com/album/1X3hAhpKf9B1Vf6HSfEfyQ) | 2:02 | 2022-02-12 |  |
 | [Novice Juggler](https://open.spotify.com/track/4qll3wRtSGgLmpj7liqNEr) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Novice Juggler](https://open.spotify.com/album/4AQx07SKH6WpZqcLHWw6jb) | 3:11 | 2019-10-04 | 2022-02-12 |

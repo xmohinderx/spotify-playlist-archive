@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 
 > Get ready for dinner with some upbeat, cool, funky and cooking jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,715 likes - 100 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,754 likes - 100 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

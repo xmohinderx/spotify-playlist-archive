@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 45038,
+  "num_followers": 45123,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIyNDQwMSwwMDAwMDAwMDA4NDk3NzIwYTY5NjY4MzQ4MTQzMTljYTkzMjcxZTJj",
+  "snapshot_id": "MTY2MDIyNDQwMSwwMDAwMDAwMGY4MmY2Yjg3NzZlM2U3NDFiNzQ5MGQxMDc0NDZjZTg3",
   "tracks": [
     {
       "added_at": "2022-08-11 13:26:41",
@@ -95,18 +95,18 @@
     {
       "added_at": "2022-08-11 13:26:41",
       "album": {
-        "name": "ANTICYCLONE",
-        "url": "https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB"
+        "name": "City",
+        "url": "https://open.spotify.com/album/2AXLE5uha6JuuyUB8yHwc7"
       },
       "artists": [
         {
-          "name": "\u7a32\u8449\u66c7",
-          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
+          "name": "jon-YAKITORY",
+          "url": "https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB"
         }
       ],
-      "duration_ms": 204497,
-      "name": "Lost Umbrella",
-      "url": "https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9"
+      "duration_ms": 219358,
+      "name": "City",
+      "url": "https://open.spotify.com/track/26aXmMU69wVGqjfVAeAO2P"
     },
     {
       "added_at": "2022-08-11 13:26:41",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-08-11 13:26:41",
       "album": {
+        "name": "ANTICYCLONE",
+        "url": "https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB"
+      },
+      "artists": [
+        {
+          "name": "\u7a32\u8449\u66c7",
+          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
+        }
+      ],
+      "duration_ms": 204497,
+      "name": "Lost Umbrella",
+      "url": "https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9"
+    },
+    {
+      "added_at": "2022-08-11 13:26:41",
+      "album": {
         "name": "Daisy 2.0 (feat. Hatsune Miku)",
         "url": "https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 167157,
       "name": "Daisy 2.0 (feat. Hatsune Miku)",
       "url": "https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq"
-    },
-    {
-      "added_at": "2022-08-11 13:26:41",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3"
-      },
-      "artists": [
-        {
-          "name": "Siinamota",
-          "url": "https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Young Girl A",
-      "url": "https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6"
     },
     {
       "added_at": "2022-08-11 13:26:41",
@@ -211,18 +211,18 @@
     {
       "added_at": "2022-08-11 13:26:41",
       "album": {
-        "name": "SIU",
-        "url": "https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3"
       },
       "artists": [
         {
-          "name": "Maretu",
-          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+          "name": "Siinamota",
+          "url": "https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD"
         }
       ],
-      "duration_ms": 278808,
-      "name": "SIU",
-      "url": "https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g"
+      "duration_ms": 221500,
+      "name": "Young Girl A",
+      "url": "https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6"
     },
     {
       "added_at": "2022-08-11 13:26:41",
@@ -259,22 +259,18 @@
     {
       "added_at": "2022-08-11 13:26:41",
       "album": {
-        "name": "Miku",
-        "url": "https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p"
+        "name": "SIU",
+        "url": "https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ"
       },
       "artists": [
         {
-          "name": "Anamanaguchi",
-          "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
         }
       ],
-      "duration_ms": 223124,
-      "name": "Miku",
-      "url": "https://open.spotify.com/track/2wxeIeofgy4AHaOhtePamJ"
+      "duration_ms": 278808,
+      "name": "SIU",
+      "url": "https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g"
     },
     {
       "added_at": "2022-08-11 13:26:41",
@@ -295,18 +291,22 @@
     {
       "added_at": "2022-08-11 13:26:41",
       "album": {
-        "name": "GHOST",
-        "url": "https://open.spotify.com/album/3euL5ADirJFFXvoX9OlIfA"
+        "name": "Miku",
+        "url": "https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p"
       },
       "artists": [
         {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+          "name": "Anamanaguchi",
+          "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Ghost Rule",
-      "url": "https://open.spotify.com/track/1OAp6qN5KmoGUQ2edICKsC"
+      "duration_ms": 223124,
+      "name": "Miku",
+      "url": "https://open.spotify.com/track/2wxeIeofgy4AHaOhtePamJ"
     },
     {
       "added_at": "2022-08-11 13:26:41",
@@ -347,18 +347,18 @@
     {
       "added_at": "2022-08-11 13:26:41",
       "album": {
-        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj"
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/3euL5ADirJFFXvoX9OlIfA"
       },
       "artists": [
         {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
         }
       ],
-      "duration_ms": 155692,
-      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
+      "duration_ms": 210000,
+      "name": "Ghost Rule",
+      "url": "https://open.spotify.com/track/1OAp6qN5KmoGUQ2edICKsC"
     },
     {
       "added_at": "2022-08-11 13:26:41",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-08-11 13:26:41",
       "album": {
-        "name": "Coin locker Baby",
-        "url": "https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg"
+        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj"
       },
       "artists": [
         {
-          "name": "Maretu",
-          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
         }
       ],
-      "duration_ms": 259230,
-      "name": "Mind brand",
-      "url": "https://open.spotify.com/track/2KvhjbZPPtNXTB6wib1rXB"
+      "duration_ms": 155692,
+      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
     },
     {
       "added_at": "2022-08-11 13:26:41",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-08-11 13:26:41",
       "album": {
-        "name": "\u30b5\u30e9\u30de\u30f3\u30c0\u30fc",
-        "url": "https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 155647,
-      "name": "\u30b5\u30e9\u30de\u30f3\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR"
-    },
-    {
-      "added_at": "2022-08-11 13:26:41",
-      "album": {
         "name": "\u5343\u672c\u685c",
         "url": "https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 252467,
       "name": "\u5343\u672c\u685c",
       "url": "https://open.spotify.com/track/38mUTswfszVFQ952r89AP8"
+    },
+    {
+      "added_at": "2022-08-11 13:26:41",
+      "album": {
+        "name": "Coin locker Baby",
+        "url": "https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "duration_ms": 259230,
+      "name": "Mind brand",
+      "url": "https://open.spotify.com/track/2KvhjbZPPtNXTB6wib1rXB"
     },
     {
       "added_at": "2022-08-11 13:26:41",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-08-11 13:26:41",
       "album": {
+        "name": "\u30b5\u30e9\u30de\u30f3\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 155647,
+      "name": "\u30b5\u30e9\u30de\u30f3\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR"
+    },
+    {
+      "added_at": "2022-08-11 13:26:41",
+      "album": {
         "name": "GRAPHIX",
         "url": "https://open.spotify.com/album/6TIBa4yqhBXdrcbui3TGzt"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 220930,
       "name": "Gimme\u00d7Gimme feat. \u521d\u97f3\u30df\u30af\u30fb\u93e1\u97f3\u30ea\u30f3",
       "url": "https://open.spotify.com/track/5XJh3VbvvnGYrkubcQwzys"
-    },
-    {
-      "added_at": "2022-08-11 13:26:41",
-      "album": {
-        "name": "Exit Tunes Presents Supernova",
-        "url": "https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X"
-      },
-      "artists": [
-        {
-          "name": "wowaka",
-          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Rollin\u2019 Girl",
-      "url": "https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2"
     },
     {
       "added_at": "2022-08-11 13:26:41",
@@ -587,6 +587,22 @@
       "duration_ms": 129059,
       "name": "day by days",
       "url": "https://open.spotify.com/track/6SRkWroP8AXI5bqNfmI6Mn"
+    },
+    {
+      "added_at": "2022-08-11 13:26:41",
+      "album": {
+        "name": "Exit Tunes Presents Supernova",
+        "url": "https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X"
+      },
+      "artists": [
+        {
+          "name": "wowaka",
+          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Rollin\u2019 Girl",
+      "url": "https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2"
     },
     {
       "added_at": "2022-08-11 13:26:41",
@@ -739,22 +755,6 @@
     {
       "added_at": "2022-08-11 13:26:41",
       "album": {
-        "name": "\u30a8\u30b4\u30ed\u30c3\u30af (long ver.)",
-        "url": "https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u308a\u3043",
-          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
-        }
-      ],
-      "duration_ms": 169529,
-      "name": "\u30a8\u30b4\u30ed\u30c3\u30af - long ver.",
-      "url": "https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx"
-    },
-    {
-      "added_at": "2022-08-11 13:26:41",
-      "album": {
         "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
         "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 223400,
       "name": "\u4e59\u5973\u89e3\u5256",
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"
+    },
+    {
+      "added_at": "2022-08-11 13:26:41",
+      "album": {
+        "name": "\u30a8\u30b4\u30ed\u30c3\u30af (long ver.)",
+        "url": "https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u308a\u3043",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "duration_ms": 169529,
+      "name": "\u30a8\u30b4\u30ed\u30c3\u30af - long ver.",
+      "url": "https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx"
     },
     {
       "added_at": "2022-08-11 13:26:41",
@@ -831,22 +847,6 @@
       "duration_ms": 197931,
       "name": "\u30d3\u30bf\u30fc\u30c1\u30e7\u30b3\u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU"
-    },
-    {
-      "added_at": "2022-08-11 13:26:41",
-      "album": {
-        "name": "/ / // / /",
-        "url": "https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz"
-      },
-      "artists": [
-        {
-          "name": "x0o0x_",
-          "url": "https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz"
-        }
-      ],
-      "duration_ms": 133757,
-      "name": "/ / // / /",
-      "url": "https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5"
     }
   ],
   "unique_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",

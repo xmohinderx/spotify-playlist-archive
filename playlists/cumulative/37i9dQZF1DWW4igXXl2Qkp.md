@@ -4,7 +4,7 @@
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Ben Reilly
 
-439 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+440 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [Lump Sums](https://open.spotify.com/track/40SSNky5ForcHL6H8KUDYU) | [Kip](https://open.spotify.com/artist/7uQ8zukpIb0N6yvDyssRgH), [Jayy Grams](https://open.spotify.com/artist/6q8DZBLBYqEUdKZl54sqGd) | [Lump Sums](https://open.spotify.com/album/3gIPZTX59AAhSTpMYq7BpE) | 2:12 | 2022-03-09 | 2022-04-14 |
 | [Luv Me](https://open.spotify.com/track/0rW8l9ETgwyWq5kd7e0KyA) | [Zay Williams](https://open.spotify.com/artist/3jzjytncNfoigh4sF7a3Db) | [Luv Me](https://open.spotify.com/album/1LPXGEtzqTRr6iwMostHU7) | 2:14 | 2021-12-01 | 2022-01-14 |
 | [M$](https://open.spotify.com/track/1wJ17YT2GuwtXlsbLBfyX8) | [Juvy](https://open.spotify.com/artist/5WW1ErMJvuGaxJypZBfvy7) | [M$](https://open.spotify.com/album/1DpDSmXLK4vb9FhLCvvblA) | 2:50 | 2022-06-30 | 2022-08-11 |
-| [M3GA TRUTH](https://open.spotify.com/track/0PZuIkYLyx7mV0k6h0WdiN) | [K11NG LV](https://open.spotify.com/artist/3BPUxPloFYcoauw9ctqqQ5) | [M3GA TRUTH](https://open.spotify.com/album/4OIAA2jMdNTutZ86YnbV1j) | 3:54 | 2022-08-10 |  |
+| [M3GA TRUTH](https://open.spotify.com/track/0PZuIkYLyx7mV0k6h0WdiN) | [K11NG LV](https://open.spotify.com/artist/3BPUxPloFYcoauw9ctqqQ5) | [M3GA TRUTH](https://open.spotify.com/album/4OIAA2jMdNTutZ86YnbV1j) | 3:54 | 2022-08-10 | 2022-08-13 |
+| [M3ga Truth](https://open.spotify.com/track/68RBqPT6xgU3g5CTMJqQm1) | [K11NG LV](https://open.spotify.com/artist/3BPUxPloFYcoauw9ctqqQ5) | [M3GA TRUTH](https://open.spotify.com/album/1hgWV0xGW5XO5uXp4KnvTj) | 3:54 | 2022-08-10 |  |
 | [Main Line](https://open.spotify.com/track/28tm5peRtid0jX6eYqGstU) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [BSG](https://open.spotify.com/album/0TI6jFxQXiuspIZuoB6dF3) | 3:40 | 2022-01-26 | 2022-03-03 |
 | [Marathon](https://open.spotify.com/track/3SE71ytwae4ZgBiYpu93QG) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab) | [Marathon](https://open.spotify.com/album/5yA3Dxs5IxVxQMFLZFEp2j) | 2:16 | 2022-01-13 | 2022-02-17 |
 | [maserati](https://open.spotify.com/track/76TaITRKyi7ETr5sCApNY3) | [Astrus\*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR), [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [maserati](https://open.spotify.com/album/62KiLCDN5uVSg5yx2xbjaN) | 2:36 | 2022-03-16 | 2022-04-14 |

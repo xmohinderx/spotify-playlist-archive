@@ -4,7 +4,7 @@
 
 > Kappa Jotta entra na zona.
 
-93 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+95 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 | 2022-07-16 |  |
 | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/track/7Hv96cbXLVcSFW1EBpjA8t) | [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Xakal Da Gun](https://open.spotify.com/artist/4swNK0k8teorELHJdglw6S) | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/album/1ROz5se04TrvGR6sIaMZGv) | 4:10 | 2022-07-16 |  |
 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 | 2022-07-16 |  |
+| [Marcas De Bikini](https://open.spotify.com/track/6lk0wakzghDJLnlQVK9qD3) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Marcas De Bikini](https://open.spotify.com/album/7FOJWf7cL28upX4jHRdEL3) | 3:23 | 2022-08-11 |  |
 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 | 2022-07-16 |  |
 | [Melanina](https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Melanina](https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch) | 4:04 | 2022-07-21 |  |
 | [Mo Money Mo Problems](https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Mo Money Mo Problems](https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap) | 2:38 | 2022-07-16 |  |
@@ -87,6 +88,7 @@
 | [Primeira Vez](https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Primeira Vez](https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE) | 2:35 | 2022-07-16 |  |
 | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/track/295wfiB7UTuXo4ijuwyCgt) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/album/0TExxh5ZuuPjZG596GkoiH) | 3:39 | 2022-07-16 | 2022-07-29 |
 | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/track/46Pfb5oErr8WVn3frcXybC) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:39 | 2022-07-21 |  |
+| [Quitada](https://open.spotify.com/track/2syKsGREUuYq4pzIBxInwQ) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi) | [Quitada](https://open.spotify.com/album/1UKouz84LcP3b8XMmJiPmo) | 3:28 | 2022-08-11 |  |
 | [Rock](https://open.spotify.com/track/2tubwnOo6pAp2KvcwIWF02) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Rock](https://open.spotify.com/album/6wHyH4x6k4wmF410HE9RJH) | 2:59 | 2022-07-16 |  |
 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 | 2022-07-16 |  |
 | [Sabi na Sabura](https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sabi na Sabura](https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7) | 3:06 | 2022-07-16 |  |

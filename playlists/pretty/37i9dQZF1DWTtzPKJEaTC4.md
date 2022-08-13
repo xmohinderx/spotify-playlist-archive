@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:4UpA1KitN1RgIZVyWDbZ0U">DOMi & JD BECK</a> collaborates with Spotify on this playlist to share their jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,021 likes - 33 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,047 likes - 33 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

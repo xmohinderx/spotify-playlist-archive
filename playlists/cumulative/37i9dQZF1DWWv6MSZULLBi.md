@@ -2,21 +2,22 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: The Franklin Electric
+> A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-161 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+164 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 |  |
 | [All Dressed Up](https://open.spotify.com/track/16h6xRMuKHYA2cisxfhKSg) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time](https://open.spotify.com/album/5j3jNzAU44DXD91QpIFF8u) | 3:25 | 2022-05-13 | 2022-06-04 |
+| [All My Friends](https://open.spotify.com/track/6X0UL3iw1o9ngNVirhvYqR) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [All My Friends](https://open.spotify.com/album/5Z4sI8FwDmPDKk9IIHRrKv) | 4:15 | 2022-08-12 |  |
 | [All This Time Running](https://open.spotify.com/track/0s7MLG3lt8mzq9SDfsYRcu) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/6PF9U9H1F7NNTYEd4kRuhc) | 3:05 | 2022-05-13 | 2022-05-20 |
 | [And \(Sam Sarty's Version\)](https://open.spotify.com/track/4NAYWrsA9caIZOXxb6hvIY) | [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv), [Sam Sarty](https://open.spotify.com/artist/3GhrR3d8MxwPRiGjJUOLDb) | [And \(Sam Sarty's Version\)](https://open.spotify.com/album/28DI3Mg5t9QXqIopQrvrHO) | 3:45 | 2022-06-17 |  |
 | [Animals](https://open.spotify.com/track/6lcfBmZ4McYR0s2lTKKMKO) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Animals](https://open.spotify.com/album/51gMj5yc7pBiLdKosMzfBd) | 4:25 | 2022-07-29 |  |
 | [Annie](https://open.spotify.com/track/4cbwJEhIBM7WSn73X63Vgj) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:07 | 2022-05-13 |  |
 | [Answers](https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Answers](https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a) | 2:47 | 2022-05-13 | 2022-07-30 |
 | [Armour](https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Armour](https://open.spotify.com/album/6FSGKvGRDmBSGmhfSmVEh8) | 3:13 | 2022-06-29 |  |
-| [Baby, You Know](https://open.spotify.com/track/4t5wDXWX3BwwgkqzdYieH3) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Baby, You Know](https://open.spotify.com/album/330iEZ1HuQ1ghRg53B0xog) | 3:02 | 2022-07-01 |  |
+| [Baby, You Know](https://open.spotify.com/track/4t5wDXWX3BwwgkqzdYieH3) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Baby, You Know](https://open.spotify.com/album/330iEZ1HuQ1ghRg53B0xog) | 3:02 | 2022-07-01 | 2022-08-13 |
 | [Bandages](https://open.spotify.com/track/32z65nCDfiHwd7Ly1AyN2t) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Bandages](https://open.spotify.com/album/7qUzSfHicu7sV7EIflvMtR) | 2:54 | 2022-07-01 |  |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-03 |  |
 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 | 2022-05-13 | 2022-06-11 |
@@ -55,6 +56,7 @@
 | [flowers in the garden](https://open.spotify.com/track/1HModMENiKhlpB1P16bKMk) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [flowers in the garden](https://open.spotify.com/album/1KQvHodSIwDWG6R2Oevl5L) | 2:54 | 2022-05-13 | 2022-07-09 |
 | [Friends Are Miracles](https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 3:17 | 2022-05-13 |  |
 | [Get Well](https://open.spotify.com/track/3TLoHaTjiHZa8smASRwzXk) | [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Get Well / Body Knows](https://open.spotify.com/album/16aw3U3CBhtms6esqGw6xM) | 4:04 | 2022-07-29 |  |
+| [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 | 2022-08-12 |  |
 | [Heavy Heart](https://open.spotify.com/track/0OmapDIHy05UtpIf4eG60E) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [That Was You and Me](https://open.spotify.com/album/02erdeh5796mUBRQLIi6qH) | 3:10 | 2022-06-03 |  |
 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-05-13 | 2022-06-04 |
 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 | 2022-05-13 | 2022-06-18 |
@@ -160,6 +162,7 @@
 | [Westward](https://open.spotify.com/track/1P0IOG572jMDIXR4K0EGwX) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:22 | 2022-05-13 |  |
 | [What In The World](https://open.spotify.com/track/2tnP8nZxy6lx3qow73IZ7A) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [What In The World](https://open.spotify.com/album/36t9kuw9Y14nkK8aOceiFY) | 3:42 | 2022-05-13 | 2022-07-29 |
 | [What in the World](https://open.spotify.com/track/6Bt8N0YVzHZsQYqKIGwmEv) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 3:42 | 2022-07-22 |  |
+| [What Remains](https://open.spotify.com/track/718WbSuYzjlBxu4MshY3e0) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/2YIO4ZeMpjH5g5ZSQSvchV) | 4:16 | 2022-08-12 |  |
 | [When I Fly](https://open.spotify.com/track/3OKoCqjPpCJUYQAlnCS2dV) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Roses](https://open.spotify.com/album/0t2iOdlsZEn4DmXMkRKBIe) | 3:25 | 2022-05-13 |  |
 | [When I Was a Girl in Colorado](https://open.spotify.com/track/7fEXK4nlHRU4WyGDCwx9AT) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [When I Was a Girl in Colorado](https://open.spotify.com/album/75sA20SoPvoZCsXdg0NKMx) | 5:00 | 2022-05-13 |  |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-05-13 | 2022-07-09 |

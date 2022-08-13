@@ -1,15 +1,31 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 3551,
+  "num_followers": 3558,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk1ODczNywwMDAwMDAwMDFjNWI3MDk5NDcxM2VmMzQ3MjEzZGQ2YjE1MmFkODhl",
+  "snapshot_id": "MTY2MDMzMDM2OCwwMDAwMDAwMDI2NGZlNzg4NzIxMDQxMGM0OTg0MDQ4ODI5N2NlMDVk",
   "tracks": [
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "WINE",
         "url": "https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Heart Burn",
         "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Syndrome",
         "url": "https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
@@ -129,7 +145,23 @@
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/4ieiyt4oVsEZGBY430vwaz"
@@ -149,7 +181,7 @@
       "url": "https://open.spotify.com/track/00qHTh5I15qb1IToZI6PoZ"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "daisy.",
         "url": "https://open.spotify.com/album/5AeOL2dXWWsW1AccDq1Eou"
@@ -165,7 +197,39 @@
       "url": "https://open.spotify.com/track/4yhP7gATZS2EJfVXEc9wNB"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "She lives in Paris",
+        "url": "https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "She lives in Paris",
+      "url": "https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
@@ -185,55 +249,7 @@
       "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "She lives in Paris",
-        "url": "https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "She lives in Paris",
-      "url": "https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "BOKE",
-        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE",
-      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
@@ -253,27 +269,7 @@
       "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 262394,
-      "name": "Sad ending (Feat. george)",
-      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "California Love",
         "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
@@ -293,7 +289,23 @@
       "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "BOKE",
+        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE",
+      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Pearl",
         "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
@@ -309,7 +321,27 @@
       "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 262394,
+      "name": "Sad ending (Feat. george)",
+      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "bimil:ier vol.6 \"Cloudy\"",
         "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Like a Diamond",
         "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
@@ -345,7 +377,7 @@
       "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Drivin'",
         "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "babyblue",
         "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
@@ -401,23 +433,7 @@
       "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
@@ -433,7 +449,23 @@
       "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "Love is alone",
+      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Kangaroo",
         "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
@@ -469,7 +501,7 @@
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
@@ -485,7 +517,7 @@
       "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
@@ -501,23 +533,7 @@
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "#mood",
         "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02"
@@ -553,7 +569,23 @@
       "url": "https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
@@ -569,7 +601,7 @@
       "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
@@ -585,7 +617,23 @@
       "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
+      },
+      "artists": [
+        {
+          "name": "COOING",
+          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Sun Dance",
+      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "SPACE MULAN",
         "url": "https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9"
@@ -605,7 +653,7 @@
       "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ"
@@ -621,7 +669,7 @@
       "url": "https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "Night Swimming",
         "url": "https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5"
@@ -637,39 +685,7 @@
       "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "Island Island!",
-        "url": "https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD"
-      },
-      "artists": [
-        {
-          "name": "more",
-          "url": "https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM"
-        }
-      ],
-      "duration_ms": 175300,
-      "name": "happen",
-      "url": "https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "theme park",
-        "url": "https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i"
-      },
-      "artists": [
-        {
-          "name": "chilly",
-          "url": "https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "theme park",
-      "url": "https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "BOKE (Remix) (feat. kojikoji)",
         "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
@@ -689,7 +705,39 @@
       "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Island Island!",
+        "url": "https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD"
+      },
+      "artists": [
+        {
+          "name": "more",
+          "url": "https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM"
+        }
+      ],
+      "duration_ms": 175300,
+      "name": "happen",
+      "url": "https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "theme park",
+        "url": "https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i"
+      },
+      "artists": [
+        {
+          "name": "chilly",
+          "url": "https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "theme park",
+      "url": "https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
@@ -705,7 +753,7 @@
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "To us (feat. wave to earth & WAVY)",
         "url": "https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3"
@@ -729,127 +777,7 @@
       "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "New Edition 42",
-        "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
-      },
-      "artists": [
-        {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        },
-        {
-          "name": "Kim Yuna",
-          "url": "https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI"
-        }
-      ],
-      "duration_ms": 164288,
-      "name": "Eunha Store (feat. KIM YUNA)",
-      "url": "https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "Hug me tight",
-        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
-      },
-      "artists": [
-        {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
-        }
-      ],
-      "duration_ms": 227756,
-      "name": "Hug me tight",
-      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "Far From the Madding City",
-        "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
-      },
-      "artists": [
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 274582,
-      "name": "TENNIS",
-      "url": "https://open.spotify.com/track/3D2w1uW57boDEssh53zZWB"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "28 DREAM",
-        "url": "https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z"
-      },
-      "artists": [
-        {
-          "name": "JOHA",
-          "url": "https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "28 DREAM",
-      "url": "https://open.spotify.com/track/7Jj4ro3G9jFZFfr2S3C4yW"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "How About You?",
-        "url": "https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87"
-      },
-      "artists": [
-        {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
-        }
-      ],
-      "duration_ms": 198807,
-      "name": "How About You?",
-      "url": "https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "INHALE",
-        "url": "https://open.spotify.com/album/2x9HxolZ62HxwI0R4wcEPO"
-      },
-      "artists": [
-        {
-          "name": "Z.flat",
-          "url": "https://open.spotify.com/artist/0y2EA2TQKYjLSbzlPRhBDq"
-        },
-        {
-          "name": "UNE",
-          "url": "https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS"
-        }
-      ],
-      "duration_ms": 194178,
-      "name": "TUXEDO (feat. UNE)",
-      "url": "https://open.spotify.com/track/1tdHJMgpkwb2GwvNJUwpbN"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
-      "album": {
-        "name": "\ub0b4\uc77c (KSTAGE X \ud0dc\uc601 Of \ube14\ub799\ub808\ubca8)",
-        "url": "https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY"
-      },
-      "artists": [
-        {
-          "name": "\ud0dc\uc601",
-          "url": "https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv"
-        }
-      ],
-      "duration_ms": 240609,
-      "name": "\ub0b4\uc77c",
-      "url": "https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj"
-    },
-    {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
         "name": "kibun (feat. vntermude)",
         "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
@@ -869,20 +797,88 @@
       "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
     },
     {
-      "added_at": "2022-08-08 11:38:57",
+      "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "TURNED",
-        "url": "https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u"
+        "name": "New Edition 42",
+        "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
       },
       "artists": [
         {
-          "name": "KimYeji",
-          "url": "https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9"
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI"
         }
       ],
-      "duration_ms": 182015,
-      "name": "SHE IS MINE",
-      "url": "https://open.spotify.com/track/39sMLCnZcXAD9yAtEJipUM"
+      "duration_ms": 164288,
+      "name": "Eunha Store (feat. KIM YUNA)",
+      "url": "https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "duration_ms": 227756,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Far From the Madding City",
+        "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 274582,
+      "name": "TENNIS",
+      "url": "https://open.spotify.com/track/3D2w1uW57boDEssh53zZWB"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "28 DREAM",
+        "url": "https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z"
+      },
+      "artists": [
+        {
+          "name": "JOHA",
+          "url": "https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "28 DREAM",
+      "url": "https://open.spotify.com/track/7Jj4ro3G9jFZFfr2S3C4yW"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "How About You?",
+        "url": "https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 198807,
+      "name": "How About You?",
+      "url": "https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

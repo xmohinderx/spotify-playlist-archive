@@ -4,7 +4,7 @@
 
 > 125%
 
-62 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+63 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All Falls Down \(feat\. Juliander\) \- Sped up Remix](https://open.spotify.com/track/2LFqAEqtqHPYDFVlOvseUR) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Sped up](https://open.spotify.com/album/15nKoT8899TsRJfPWaTkXW) | 2:55 | 2022-07-22 |  |
 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 | 2022-06-09 |  |
 | [Alternative Girl \(Sped Up + Reverb\)](https://open.spotify.com/track/1smghCB7wGjb4Spg0IocM1) | [Mix The Take](https://open.spotify.com/artist/6vrA33ZpKXZ0xXng1H0Frg) | [Alternative Girl \(Slowed/Sped Up + Reverb\)](https://open.spotify.com/album/07Q2bdlMtshCPpC1gG5YGv) | 2:06 | 2022-06-09 | 2022-07-23 |
+| [Atlantis \- Extra Sped Up Version](https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Atlantis](https://open.spotify.com/album/16Q4jVtBWq9UNO78ZLOvwk) | 3:10 | 2022-08-12 |  |
 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 | 2022-06-22 |  |
 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 | 2022-06-09 |  |
 | [Black Out Days \- Sped Up](https://open.spotify.com/track/2pXZpxidEYMMNUlPOBADGa) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Black Out Days \(Sped Up\)](https://open.spotify.com/album/6Ac5Ik66ewaCqABSkrKJal) | 3:01 | 2022-06-09 |  |

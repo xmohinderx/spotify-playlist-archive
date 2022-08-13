@@ -4,7 +4,7 @@
 
 > \\m/ ft\. LØLØ
 
-294 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+296 songs - 14 hr 35 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:10 | 2022-07-29 |  |
 | [Nino](https://open.spotify.com/track/0vRhAqPvF2yFCcRHWWTeJf) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nino](https://open.spotify.com/album/1SHFgXR5Lw4T2vGWXrL8NR) | 1:49 | 2022-01-07 | 2022-02-04 |
 | [no more](https://open.spotify.com/track/46RrAbibdqv8FpIgoEwSkL) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more](https://open.spotify.com/album/67x9FY7e6O6PEfZnBUOUFy) | 2:44 | 2022-02-18 | 2022-07-22 |
+| [NOT actin rite](https://open.spotify.com/track/7Iwh9fDTuiiLtN6tfU0RSa) | [JSTNXMLLR](https://open.spotify.com/artist/7Ibb0686FyhOvwYCuVa3CG) | [NOT actin rite](https://open.spotify.com/album/6n7aidZ2WpTzxT7CwjefSw) | 2:50 | 2022-08-11 |  |
 | [NOTHING LASTS FOREVER](https://open.spotify.com/track/2kOzx5IjzzR7qocdNM4j3j) | [BOXBOY](https://open.spotify.com/artist/2fqFwtlZfeARcbEVdXSwoM) | [NOTHING LASTS FOREVER](https://open.spotify.com/album/3r8wFIWyOeukTYjZhOZkb0) | 2:21 | 2022-03-25 |  |
 | [NUMB](https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [NUMB](https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0) | 1:52 | 2021-12-31 | 2022-01-08 |
 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 | 2021-12-31 | 2022-01-08 |
@@ -221,6 +222,7 @@
 | [Sad Girl Summer](https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Summer](https://open.spotify.com/album/6BD3f64782idv4IF2npufe) | 3:13 | 2022-05-26 |  |
 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2021-12-31 | 2022-01-08 |
 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 | 2022-01-14 | 2022-04-01 |
+| [self sabotage](https://open.spotify.com/track/5d3Cl60y4e8LTLpq6EN7Mk) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [self sabotage](https://open.spotify.com/album/34u86bUB4rmIcU8FGjPj4C) | 3:02 | 2022-08-11 |  |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-07-07 |  |
 | [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 | 2022-06-16 |  |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 | 2022-04-01 |

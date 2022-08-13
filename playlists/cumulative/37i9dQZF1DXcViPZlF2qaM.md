@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-162 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/6dA0HeDmTyKtqD8bj9rk8f)
+163 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/6dA0HeDmTyKtqD8bj9rk8f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [En tu pelo](https://open.spotify.com/track/7pfyOy1Tbz68brlpi2JrZU) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [En tu pelo](https://open.spotify.com/album/61JJTXsxJCbeU3J3rOcadz) | 3:04 | 2021-10-16 | 2022-07-29 |
 | [Esperanza](https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Esperanza](https://open.spotify.com/album/4PtPHfnj1DZZIkVNlVjpyq) | 5:28 | 2022-01-21 |  |
 | [Estadio Azteca](https://open.spotify.com/track/26izWj0yVgSQtHPikc388j) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Dios Los Cría](https://open.spotify.com/album/1K9AuVjYM9zMHR3wrLJuRK) | 4:11 | 2021-10-16 | 2022-07-29 |
+| [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 | 2022-08-12 |  |
 | [Fried Neck Bones And Some Home Fries](https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Uno Dos Tres 1\-2\-3](https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k) | 3:03 | 2021-10-16 |  |
 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 | 2021-10-16 |  |
 | [Glorieta](https://open.spotify.com/track/0dARdGOhNNCNf8y4fubUwV) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/3W9U1PYHL85h599ZUMBBQR) | 2:28 | 2022-01-12 | 2022-07-25 |
@@ -78,7 +79,7 @@
 | [Guaracha Vegana](https://open.spotify.com/track/5VeuIfEw3Le7T2Hs8lO3PV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:33 | 2022-04-23 | 2022-07-28 |
 | [Guerrera](https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Guerrera](https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD) | 4:11 | 2021-11-10 | 2022-07-29 |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-10-16 | 2022-07-29 |
-| [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 | 2021-10-16 |  |
+| [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 | 2021-10-16 | 2022-08-13 |
 | [Hasta siempre](https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7) | [Soledad Bravo](https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2) | [Cantos revolucionarios de america latina](https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k) | 4:30 | 2022-03-30 |  |
 | [Japonesita](https://open.spotify.com/track/4mbfsepM9hLmTe8jXyFyrI) | [Guillermo Perata](https://open.spotify.com/artist/1dxRH5SIYTk5nVqLKHRfU9), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Japonesita](https://open.spotify.com/album/4sZiO9rwaQTAGmxoEBpO2c) | 2:49 | 2021-10-16 | 2022-07-20 |
 | [Juana Azurduy](https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn), [Estela de Carlotto](https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32) | [Juana Azurduy](https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH) | 3:38 | 2022-03-11 | 2022-07-29 |

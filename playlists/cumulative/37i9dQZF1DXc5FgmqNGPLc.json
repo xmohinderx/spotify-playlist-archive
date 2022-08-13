@@ -1300,6 +1300,32 @@
     },
     {
       "album": {
+        "name": "Saturday Night in San Francisco (Expanded Edition) [Live]",
+        "url": "https://open.spotify.com/album/0ucEskHaCyeqMWBmgT3J3n"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        },
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425746,
+      "name": "Splendido Sundance - Live at Warfield Theater, San Francisco, CA - December 6, 1980",
+      "url": "https://open.spotify.com/track/7evFX4LIgofxcz2MGnPaf5"
+    },
+    {
+      "album": {
         "name": "Jazz At Oberlin (OJC Remaster)",
         "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
       },

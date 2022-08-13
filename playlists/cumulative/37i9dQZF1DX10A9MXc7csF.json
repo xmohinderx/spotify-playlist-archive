@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Polo Gonzalez",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Estevan Plazola, Tony Loya.",
   "name": "M\u00fasica Mexicana Rising",
   "published_playlist_ids": [
     "5fGjTGABmDRAhYaKIhz6Cv"
@@ -157,6 +157,28 @@
       "duration_ms": 190000,
       "name": "Airplanes",
       "url": "https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM"
+    },
+    {
+      "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1wHn57myq1O3YA2X5E4xnN"
+      },
+      "artists": [
+        {
+          "name": "Angel Yerena",
+          "url": "https://open.spotify.com/artist/4maqFMlGcJ3IkEGhcD4tMb"
+        },
+        {
+          "name": "Grupo Nueva Sensacion",
+          "url": "https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210162,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/315eNKS2P0FPjd4TlmnoFO"
     },
     {
       "album": {
@@ -611,7 +633,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 184520,
       "name": "Dime Por Que",
       "url": "https://open.spotify.com/track/2J0L6Gktqr2LwrLeHJWwnq"
@@ -2160,6 +2182,24 @@
     },
     {
       "album": {
+        "name": "No Pienso Perdonarte",
+        "url": "https://open.spotify.com/album/0mC4DYeXiXfhw0w4M5UbYE"
+      },
+      "artists": [
+        {
+          "name": "Plan Exclusivo",
+          "url": "https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "No Pienso Perdonarte",
+      "url": "https://open.spotify.com/track/05GnkIRQEoOzODaGfPj8dO"
+    },
+    {
+      "album": {
         "name": "No Te Quiero",
         "url": "https://open.spotify.com/album/7MOOGT46ED3uzZdCDbhggc"
       },
@@ -2503,7 +2543,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 152663,
       "name": "Sabor a Fresa",
       "url": "https://open.spotify.com/track/71h1ux9lFORYa5CTWV7vn9"

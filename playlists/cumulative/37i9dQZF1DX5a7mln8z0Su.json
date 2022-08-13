@@ -554,6 +554,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "album": {
         "name": "daisy.",
         "url": "https://open.spotify.com/album/5AeOL2dXWWsW1AccDq1Eou"
       },
@@ -1223,6 +1241,24 @@
       "duration_ms": 227756,
       "name": "Hug me tight",
       "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+    },
+    {
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
     },
     {
       "album": {
@@ -2353,7 +2389,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 182015,
       "name": "SHE IS MINE",
       "url": "https://open.spotify.com/track/39sMLCnZcXAD9yAtEJipUM"
@@ -2585,6 +2621,24 @@
       "duration_ms": 174827,
       "name": "Summer again",
       "url": "https://open.spotify.com/track/6bXF7zDtURCYPaHI2ApJ8f"
+    },
+    {
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
+      },
+      "artists": [
+        {
+          "name": "COOING",
+          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217106,
+      "name": "Sun Dance",
+      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
     },
     {
       "album": {
@@ -2995,7 +3049,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 194178,
       "name": "TUXEDO (feat. UNE)",
       "url": "https://open.spotify.com/track/1tdHJMgpkwb2GwvNJUwpbN"
@@ -3383,7 +3437,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 240609,
       "name": "\ub0b4\uc77c",
       "url": "https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj"

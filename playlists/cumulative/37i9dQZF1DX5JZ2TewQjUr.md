@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Peace Lo
 
-202 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+205 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [月後](https://open.spotify.com/track/2XVmxvFfD4DukqOE4yNCN7) | [惡夢扭蛋](https://open.spotify.com/artist/3ncvp8T5o3rj75jezVG2lt) | [月後](https://open.spotify.com/album/7glic7027atzTWpfkT48ue) | 4:07 | 2022-05-26 | 2022-06-10 |
 | [有啲嘢唔講得](https://open.spotify.com/track/3B7HiByTGUFZucAnzgUxIw) | [Wolfe](https://open.spotify.com/artist/5BS8OU8Qoy4brGmgm6X2pA) | [有啲嘢唔講得](https://open.spotify.com/album/6bjo2tylboKAk7YFUfnva1) | 3:03 | 2022-05-26 | 2022-07-29 |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-26 | 2022-07-29 |
+| [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-08-12 |  |
 | [柴灣角街](https://open.spotify.com/track/7l7wDs93UypiYGOd4tdfs0) | [TomFatKi](https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ), [East City](https://open.spotify.com/artist/4h6dvXIVMq6JdWWfcHT1kw) | [柴灣角街](https://open.spotify.com/album/666epeXOJkJ4M6hx7DBj9O) | 4:13 | 2022-08-04 |  |
 | [根](https://open.spotify.com/track/3mzT1U5DPtfqR2kqYoJVzZ) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [根](https://open.spotify.com/album/1NWJ3D5Cy3LUiMfJAESX5r) | 3:09 | 2022-07-28 |  |
 | [此在 \(Day Version\)](https://open.spotify.com/track/34jpkyoDBqKFDLWj8hINHN) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT), [楊智遠](https://open.spotify.com/artist/3z1plF2EanRX8DWiJ24jbU) | [此在 \(Day Version\)](https://open.spotify.com/album/7uQiVWRn2oY2DrSaWbnpAN) | 2:59 | 2022-05-26 | 2022-06-10 |
@@ -185,6 +186,7 @@
 | [沒遺憾放任](https://open.spotify.com/track/2SWcfQhQjXiOBOjMvtvI4x) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [沒遺憾放任](https://open.spotify.com/album/0kJMO4VITpQiRg1pSzXX6h) | 4:11 | 2022-08-11 |  |
 | [海](https://open.spotify.com/track/6WRmnuCmMkhNsNh4YMFtH4) | [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [海](https://open.spotify.com/album/63G6P8TO1nh0OFuhnFlqHB) | 3:47 | 2022-06-28 |  |
 | [淚滴](https://open.spotify.com/track/52jPcpCLX9gCpyk3uZHMym) | [2K88](https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY) | [re](https://open.spotify.com/album/0ZilItnu4eIzaBdCz8CEsr) | 1:57 | 2022-07-28 |  |
+| [深夜之後](https://open.spotify.com/track/4KPVvdXUECWemNy0GB40NR) | [Rosy Sea](https://open.spotify.com/artist/0YST7KLN9Qt4qxBTXQM6c2) | [深夜之後](https://open.spotify.com/album/2eWm1O3MyfAk2NB4T4gQsQ) | 3:30 | 2022-08-12 |  |
 | [渡澗](https://open.spotify.com/track/02ZY4yT03JQ8kGnwztaWmn) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [渡澗](https://open.spotify.com/album/7djuyiU90mqDbVeqg6WXnE) | 3:31 | 2022-05-26 | 2022-06-10 |
 | [無拘](https://open.spotify.com/track/0hzNJEBrLzyIzaUaXOmPiX) | [陳浩](https://open.spotify.com/artist/02B3n4s3tZqb73uiLoegXu) | [無拘](https://open.spotify.com/album/2pNP263g6TpbOUQD8EU5IH) | 3:34 | 2022-05-26 | 2022-06-10 |
 | [留在原地等你追](https://open.spotify.com/track/4lX0k2U34XEVZcAhh9xSOu) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [留在原地等你追](https://open.spotify.com/album/4QBcJM4hB8sRAQP2s6SRDL) | 3:42 | 2022-07-21 |  |
@@ -193,6 +195,7 @@
 | [笑死](https://open.spotify.com/track/0ByUo4Ddhi8hZalg0wDAx4) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [笑死](https://open.spotify.com/album/1d0pWF0p4h1raeWv8s9vP4) | 2:31 | 2022-05-26 | 2022-07-29 |
 | [純屬意外](https://open.spotify.com/track/4Z3Ace3WggPau7oaDm6D52) | [ANEWA](https://open.spotify.com/artist/7suYWmDTY81Lj4FhMx36cA) | [純屬意外](https://open.spotify.com/album/22TVB3rNju4rjPORgV0uU8) | 3:42 | 2022-07-28 |  |
 | [自作孽](https://open.spotify.com/track/0ALHyLLnWdAt4i160NlmqU) | [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [自作孽](https://open.spotify.com/album/1KC3yzxSiXWbA1hlEGQDRq) | 2:48 | 2022-05-26 | 2022-07-29 |
+| [臭西西女人](https://open.spotify.com/track/6YaK7a44wwHBmoiRbgpW3e) | [李三鳩](https://open.spotify.com/artist/10AU7r92ACndtTFKsDJTVm) | [臭西西女人](https://open.spotify.com/album/7ozJodyUY4f36OLGKMRSzG) | 2:34 | 2022-08-12 |  |
 | [荒謬](https://open.spotify.com/track/2ffz1KYTxcH0szaFI7FPyv) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [ZiNG!](https://open.spotify.com/album/238I1dAZg6aMYIazEk4eiv) | 3:48 | 2022-05-26 | 2022-07-29 |
 | [藍色時期](https://open.spotify.com/track/41SLYJForXFleyuyKHqm7k) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [藍色時期](https://open.spotify.com/album/1jSDKKhHUaLjq4JbiWYOtX) | 3:25 | 2022-07-21 |  |
 | [蘋果樹下](https://open.spotify.com/track/1hZGlDhhkGdNCAo5TBL7hG) | [HeartShine](https://open.spotify.com/artist/2N77bYeH8lzQ2jfhSiqNDB) | [蘋果樹下](https://open.spotify.com/album/59Dt1xdXS8HE6z7f22or8T) | 4:25 | 2022-05-26 | 2022-06-10 |

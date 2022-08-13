@@ -2,9 +2,9 @@
 
 ### [Global Club Music](https://open.spotify.com/playlist/37i9dQZF1DWVXBHEDDpqLs)
 
-> The biggest club songs from regions around the world\. Cover: Black Rave Culture
+> Take a world tour on the club floor\. <br/>Cover: Jubilee
 
-149 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/5QQpMPs6GIuzG9aq7Y4uCu)
+150 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/5QQpMPs6GIuzG9aq7Y4uCu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,8 +127,9 @@
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-07-08 |  |
 | [Sub Poppin](https://open.spotify.com/track/3pFcZbT0YVipT9LNrCutFk) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Sub Poppin](https://open.spotify.com/album/34ea1zRekZvYeW2L2CkoZf) | 5:41 | 2022-01-14 |  |
 | [Suck My](https://open.spotify.com/track/49Op14mpMfU3abLUhiKuFL) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Suck My](https://open.spotify.com/album/1KjPej1arUt9qWMDYXRQpF) | 4:15 | 2022-03-04 | 2022-05-07 |
+| [sunscreen](https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [sunscreen](https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew) | 4:07 | 2022-08-12 |  |
 | [Swagg Talk](https://open.spotify.com/track/0J9RDo9EBTaFcqPlYw49Mj) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/5yfFuazY1M6OyMj14yly14) | 2:58 | 2022-07-08 |  |
-| [Sweaty Clothes \(feat\. Cerrissa Koza\)](https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT), [Cerrissa Koza](https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs) | [Sweaty Clothes \(feat\. Cerrissa Koza\)](https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY) | 2:37 | 2021-12-10 |  |
+| [Sweaty Clothes \(feat\. Cerrissa Koza\)](https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT), [Cerrissa Koza](https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs) | [Sweaty Clothes \(feat\. Cerrissa Koza\)](https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY) | 2:37 | 2021-12-10 | 2022-08-13 |
 | [Switch](https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju), [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Switch](https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC) | 2:46 | 2022-01-28 |  |
 | [Tabasco](https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn) | [BASE](https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf) | [Tabasco](https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs) | 2:09 | 2021-12-10 |  |
 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 | 2022-07-01 |  |

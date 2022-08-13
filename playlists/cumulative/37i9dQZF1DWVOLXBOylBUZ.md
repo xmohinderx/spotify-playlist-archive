@@ -4,7 +4,7 @@
 
 > Ozuna y Tokischa tienen el ritmo que mueve Latinoamérica.
 
-282 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/3K8lWo1A5PGXtJdAZf1WiQ)
+283 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/3K8lWo1A5PGXtJdAZf1WiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Dame Break](https://open.spotify.com/track/7LVyfGaXMOu4bsLdluFFLc) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Dame Break](https://open.spotify.com/album/6bMIvydO8SPINO43xbqiJF) | 3:31 | 2022-07-08 |  |
 | [De Vacaciones](https://open.spotify.com/track/0hRKaSIym7bBRZ5oXLUsfx) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [De Vacaciones](https://open.spotify.com/album/3hGXppZGM4VXr1v3m6DVX3) | 2:21 | 2022-06-10 |  |
 | [De X Vida](https://open.spotify.com/track/7KdlLGCuAA25rzatYxDNHM) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [De X Vida](https://open.spotify.com/album/46dyRolsnFXlMp7J707OIc) | 3:04 | 2022-03-11 |  |
+| [Dejate Cae](https://open.spotify.com/track/4JGngLD7xutDmfJf44gCJK) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Dejate Cae](https://open.spotify.com/album/4mdEsdd31vZjuaNw0dpWFg) | 3:20 | 2022-08-12 |  |
 | [DELITO\_V13.wav](https://open.spotify.com/track/7Cdk27Tv9qnUTbk2cQwEnn) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [DELITO\_V13.wav](https://open.spotify.com/album/2VQUkiRY3bBImrgN7x4szm) | 2:21 | 2022-03-04 | 2022-03-26 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-03-04 | 2022-05-07 |
 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0VWYVoOxUQptaILUkwC4is) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7G2kdR2j7OTHgnZFiKtvGG) | 3:43 | 2022-05-06 | 2022-07-29 |

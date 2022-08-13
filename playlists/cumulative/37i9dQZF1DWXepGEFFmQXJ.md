@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Amy Sheppard
 
-196 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+201 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 | 2021-12-30 | 2022-04-01 |
 | [For You](https://open.spotify.com/track/612Ys0YTvXm1I1FYqeVkFb) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [For You](https://open.spotify.com/album/55LxFPmn7AbimJXSmetluH) | 3:03 | 2021-12-30 | 2022-01-22 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-04 | 2022-05-20 |
+| [Get Even](https://open.spotify.com/track/36l59Hx86AH7T3LpMgZA3F) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Get Even](https://open.spotify.com/album/3jViv3WtbhilkvlwXDdrFq) | 2:58 | 2022-08-11 |  |
 | [Get It Girl](https://open.spotify.com/track/4mmq0ddxmYMaclRzat1syG) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Get It Girl](https://open.spotify.com/album/4YMLdLyEfY41B8PlFBUFQ5) | 3:19 | 2021-12-30 | 2022-04-01 |
 | [Get To Know Ya](https://open.spotify.com/track/1jS01RraB3eTBL3GnYXCaN) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Get To Know Ya](https://open.spotify.com/album/73OAVag102lgJ7XCQ4zHFb) | 3:25 | 2022-01-27 | 2022-05-27 |
 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-03-17 | 2022-06-10 |
@@ -77,6 +78,7 @@
 | [Gold](https://open.spotify.com/track/1V580djyyXDniHemhjL906) | [Take Two](https://open.spotify.com/artist/3xpf0WFUBNHdkPVxKvrrGm), [Missy Lancaster](https://open.spotify.com/artist/4D3jbGqN1G7WxpRYJ1R6gL) | [Gold](https://open.spotify.com/album/53HGyaGglyCQzDFNQhkgYM) | 3:15 | 2022-08-05 |  |
 | [Gone Gone Gone](https://open.spotify.com/track/3e8guey6EYihDMOgFmUsAv) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Gone Gone Gone](https://open.spotify.com/album/0ZF1G8jsIxqhvl6IMlAQgH) | 3:16 | 2021-12-30 | 2022-03-05 |
 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 | 2022-01-06 |  |
+| [Good Enough](https://open.spotify.com/track/4Wg8wu154gsVjKVa6JoOCe) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Good Enough](https://open.spotify.com/album/43NoHT80dHB7tWnhjdHtnJ) | 3:42 | 2022-08-11 |  |
 | [Good Fight](https://open.spotify.com/track/3qJ0l2SKlEwd4ZLg5MBSce) | [Dozzi](https://open.spotify.com/artist/3oJVfkpZAG0eof3DVocdLB) | [Good Fight](https://open.spotify.com/album/66tCqC4TP9TKDNZ1htQhHo) | 3:25 | 2022-06-16 |  |
 | [Good One](https://open.spotify.com/track/1zIV0opbIvd7gmFjSZm64X) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [Good One](https://open.spotify.com/album/5XaWYXtUEkxfbeNxzOU4Fd) | 2:49 | 2021-12-30 | 2022-04-08 |
 | [Good Things](https://open.spotify.com/track/0n2ZsjzilyRjIyCr7Mcgk7) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/6ap7EgZFWKOCrsGZyAzM9U) | 2:28 | 2021-12-30 | 2022-03-18 |
@@ -166,6 +168,8 @@
 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 | 2022-01-31 | 2022-07-12 |
 | [Stereotype](https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55) | 3:42 | 2022-03-31 | 2022-07-15 |
 | [Still The One](https://open.spotify.com/track/6drVWzBYAceXUCAtdl1Fnu) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Still The One](https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw) | 2:38 | 2021-12-30 | 2022-05-06 |
+| [Stubborn Pride](https://open.spotify.com/track/414EsuxXyDJ5vpUllmt2ue) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Stubborn Pride](https://open.spotify.com/album/1aTYKaVzN0q2tPHiYfkhTj) | 7:09 | 2022-08-11 |  |
+| [Summer Rain](https://open.spotify.com/track/7AS0u8nC57oTNALtjslOIv) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG) | [Summer Rain](https://open.spotify.com/album/7n5QThNlUNiJ36AmEYFdPI) | 2:21 | 2022-08-11 |  |
 | [Sunday Best](https://open.spotify.com/track/6nnVrHv3oozFP5XeJZzedx) | [Bryce Sainty](https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t), [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Sunday Best](https://open.spotify.com/album/6ICdRiXlIgUk87yd43eBsP) | 3:25 | 2022-06-09 |  |
 | [Takin' Me Back](https://open.spotify.com/track/7vfwqVbhwWK8dSVba68EYY) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Takin' Me Back](https://open.spotify.com/album/7pLkHBQvgIPDH0AGXDZrkG) | 3:01 | 2021-12-30 | 2022-03-18 |
 | [The Good Old Days](https://open.spotify.com/track/5fj9aeDmJqhW1a8oOf93RN) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [The Good Old Days](https://open.spotify.com/album/0roXqyLV3kV0cEDv2dZ0lz) | 3:46 | 2022-07-28 |  |
@@ -191,6 +195,7 @@
 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2022-06-30 |  |
 | [What You Make It](https://open.spotify.com/track/5ruiqSweVb8QjUTYfKlomJ) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Kids On Cassette](https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni) | 3:05 | 2021-12-30 | 2022-05-20 |
 | [Whatchawanna](https://open.spotify.com/track/3etK7qSs7H551b8KNPygjx) | [Cornell And Carr](https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8) | [Whatchawanna](https://open.spotify.com/album/4GmKCBn3BCo41XByDKb1Wj) | 3:22 | 2021-12-30 | 2022-02-05 |
+| [Where Do We Go](https://open.spotify.com/track/1F5XEDslgSefeZsY2FQRlw) | [Yochai Harpaz](https://open.spotify.com/artist/3fzVomDV4c7uvquIkzpdTg) | [Where Do We Go](https://open.spotify.com/album/0mhA076UonW1mofUE8HnGG) | 3:16 | 2022-08-11 |  |
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-03-31 |  |
 | [Whiskey Me Away](https://open.spotify.com/track/0wF5NIMrLi7ZzsFiDNVqIB) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Whiskey Me Away](https://open.spotify.com/album/1lOiIiSj6MYinTYSMg0yOb) | 3:14 | 2021-12-30 | 2022-04-01 |
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2022-05-26 |  |

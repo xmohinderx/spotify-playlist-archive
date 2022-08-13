@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 ### [Electronic + Dance Frequency](https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz)
 
-> Electronic + Dance making waves, every month\. Cover: TSHA.
+> Electronic + Dance making waves, every month\. Cover: Austin Millz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,685 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,714 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Twin Flame](https://open.spotify.com/track/2QZb1ps0j6TQAGIRbpYboE) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/4rZPUX1MOeZ4XpJSta8Epm) | 3:52 |
-| 2 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
-| 3 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 |
-| 4 | [Tukuntazo \(Austin Millz Remix\)](https://open.spotify.com/track/1qb5Uty8dhjbJUrHkTqttE) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [Tukuntazo \(Austin Millz Remix\)](https://open.spotify.com/album/5yEc7JEGFUFl4TZ0vSQXqY) | 3:24 |
+| 1 | [Tukuntazo \(Austin Millz Remix\)](https://open.spotify.com/track/1qb5Uty8dhjbJUrHkTqttE) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [Tukuntazo \(Austin Millz Remix\)](https://open.spotify.com/album/5yEc7JEGFUFl4TZ0vSQXqY) | 3:24 |
+| 2 | [Twin Flame](https://open.spotify.com/track/2QZb1ps0j6TQAGIRbpYboE) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/4rZPUX1MOeZ4XpJSta8Epm) | 3:52 |
+| 3 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
+| 4 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 |
 | 5 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 |
 | 6 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 |
 | 7 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 99 | [Keep You Close](https://open.spotify.com/track/3xYWczqcz54jMm3K7vD9zu) | [Monsieur Frazier](https://open.spotify.com/artist/3hHJfet2F71jJl9FE7WALQ), [Nick Garcia](https://open.spotify.com/artist/6bYqAD7QrVbEFYtlqvvlsG) | [Monsieur Frazier EP](https://open.spotify.com/album/79jwkyOfXm3NDYkFsMhapz) | 4:43 |
 | 100 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMGQwODA3YTc3ZWIxZjgxZWJiNTA3OTg5NWE3NjFhYzkx`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGY3ZmQ3OWQzY2M3MWI2OTZlMzhkMjExNWFjZWQ0ZTQ5`

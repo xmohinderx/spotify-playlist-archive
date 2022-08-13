@@ -4,7 +4,7 @@
 
 > Sounds to wrap you in relaxation and ease\. Curated by the <a href="https://mamaglowfoundation.org/">Mama Glow Foundation</a> advancing reproductive justice and birth equity through education, advocacy and the arts \| Cover: A Beautiful Chorus
 
-51 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/31D8aL5P5FRmx6GLWrdxLs)
+52 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/31D8aL5P5FRmx6GLWrdxLs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Mama Saturn](https://open.spotify.com/track/4hFMRhstDgryaAzsoA3Mih) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Mama Saturn](https://open.spotify.com/album/4HwksAJuGyWxhgrD1OCCdC) | 3:38 | 2022-03-08 |  |
 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 | 2022-03-08 |  |
 | [My Angel \(Malaika\)](https://open.spotify.com/track/0eP52OQtijQQzZBXDc923Z) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:15 | 2022-03-08 |  |
-| [Mystic Lover](https://open.spotify.com/track/5Qs1FoJHwRJWx258CMJSxH) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Mystic Lover](https://open.spotify.com/album/6NUcMrmhoAIwvO0kAhk6Rt) | 3:55 | 2022-03-08 |  |
+| [Mystic Lover](https://open.spotify.com/track/1HxXVcsrUrclgHA5TeEWZx) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 3:55 | 2022-03-08 |  |
+| [Mystic Lover](https://open.spotify.com/track/5Qs1FoJHwRJWx258CMJSxH) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Mystic Lover](https://open.spotify.com/album/6NUcMrmhoAIwvO0kAhk6Rt) | 3:55 | 2022-03-08 | 2022-08-13 |
 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 | 2022-03-08 |  |
 | [Petal](https://open.spotify.com/track/12Aq4Ryc1rZQ0hWnT8wZNe) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 3:07 | 2022-03-08 |  |
 | [Pick Up Your Feelings](https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:49 | 2022-03-08 |  |

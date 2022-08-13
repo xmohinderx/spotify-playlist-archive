@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-330 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+331 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Havana Vieja](https://open.spotify.com/track/5ykTeQ3ky7XyS7js8jqRNW) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Havana Vieja](https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf) | 2:51 | 2022-03-04 |  |
 | [Hemma är vid havet](https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Hemma är vid havet](https://open.spotify.com/album/6J0FxxEmI1YFvtEKPfInUH) | 2:52 | 2022-04-22 |  |
 | [Here On My Own Again](https://open.spotify.com/track/7N051dt6qiLMLbQ7GLsxKz) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Here On My Own Again](https://open.spotify.com/album/65N8jIGVxUBU88fAIiJQzn) | 2:14 | 2022-04-22 | 2022-05-11 |
+| [Hidden](https://open.spotify.com/track/2BwQ6drWtHOWO4BzJmifrD) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/3uFB8d62V6muqEN5XTeV25) | 2:24 | 2022-08-12 |  |
 | [High Hopes](https://open.spotify.com/track/53ARH2FEbhj5Fyqa0f77t5) | [Sara Gadshill](https://open.spotify.com/artist/22RQ7nqf0fvL5ThmEP0cyD) | [High Hopes](https://open.spotify.com/album/3TxGQnoRo3X3gsRtNjF8ob) | 2:58 | 2022-05-10 | 2022-07-15 |
 | [Hou Van Me](https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Hou Van Me](https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr) | 2:10 | 2021-12-08 |  |
 | [I Still Believe In You](https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [I Still Believe In You](https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4) | 2:36 | 2022-02-15 |  |

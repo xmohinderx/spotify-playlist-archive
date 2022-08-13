@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the new Core at its finest. Cover: August Burns Red",
+  "description": "This is the new Core at its finest. Cover: Norma Jean",
   "name": "The Core",
   "published_playlist_ids": [
     "3WEyotDPwbgzHjigMpDgbN"
@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "Deathrattle Sing for Me",
+        "url": "https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284485,
+      "name": "A Killing Word",
+      "url": "https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI"
+    },
+    {
+      "album": {
         "name": "A King To Rise",
         "url": "https://open.spotify.com/album/4T9qyGOab2jMhedAUMMdJG"
       },
@@ -117,7 +135,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 188307,
       "name": "A King To Rise",
       "url": "https://open.spotify.com/track/4bc7Ag4yPuuUlLRmew6HjW"
@@ -3749,7 +3767,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 210857,
       "name": "Fault Line",
       "url": "https://open.spotify.com/track/3dbLhhWTAh1JcezKuttLFo"
@@ -9522,6 +9540,24 @@
     },
     {
       "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "The Watcher",
+      "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
+    },
+    {
+      "album": {
         "name": "The Price Of Dreaming",
         "url": "https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4"
       },
@@ -9555,6 +9591,24 @@
       "duration_ms": 204541,
       "name": "Thinking in Tongues",
       "url": "https://open.spotify.com/track/4bWxvvHZSbnCERC2liTnIq"
+    },
+    {
+      "album": {
+        "name": "Bullet For My Valentine (Deluxe)",
+        "url": "https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235018,
+      "name": "This Means War",
+      "url": "https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL"
     },
     {
       "album": {
@@ -10381,7 +10435,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 230068,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/48gotqEngeagErLW3C1FUs"

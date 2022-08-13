@@ -4,7 +4,7 @@
 
 > The freshest smooth jazz\. Cover: Nick Colionne
 
-263 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
+264 songs - 18 hr 43 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Heat](https://open.spotify.com/track/3a7zmPCdfzu6JKwTpPPoNP) | [Ilya Serov](https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Heat](https://open.spotify.com/album/6rFoUDFCO3v0HqXUlxlsGB) | 3:53 | 2021-01-08 | 2022-03-18 |
 | [High Heels](https://open.spotify.com/track/7KesmZG74pZzj69FUC57HK) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 4:09 | 2020-10-30 | 2022-03-18 |
 | [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 | 2022-07-01 |  |
-| [Hrs and Hrs](https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Hrs and Hrs](https://open.spotify.com/album/6V18NGCK4t7I0Nisj5lZcR) | 3:28 | 2022-02-25 |  |
+| [Hrs and Hrs](https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Hrs and Hrs](https://open.spotify.com/album/6V18NGCK4t7I0Nisj5lZcR) | 3:28 | 2022-02-25 | 2022-08-13 |
 | [I Can Let Go Now \- Instrumental Version](https://open.spotify.com/track/24UVZM3ETZsEKCLfkQ5INR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Steve Tavaglione](https://open.spotify.com/artist/24DYsjzmOJblWOhpdEDUJE), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4) | [I Can Let Go Now](https://open.spotify.com/album/2uXOfbXLXLOWOWRW7SrGl1) | 3:50 | 2020-10-30 | 2022-02-28 |
 | [I Wanna Be Down](https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [I Wanna Be Down](https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ) | 4:54 | 2022-06-03 |  |
 | [I'll Be There](https://open.spotify.com/track/3l1j42roicNXApsbTtebuo) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The Collective II](https://open.spotify.com/album/0pvXCuppcMxYTi2vCXmGyW) | 4:08 | 2021-04-16 | 2022-03-03 |
@@ -218,6 +218,7 @@
 | [Stay Above the Fray \- Radio](https://open.spotify.com/track/7E3vISTOBBPeEylraGPU3t) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Stay Above the Fray](https://open.spotify.com/album/1CgCxO55ob4oGZtAK5xthX) | 4:07 | 2021-02-12 | 2022-03-18 |
 | [Staycation](https://open.spotify.com/track/3Q5OzOo58pfmgTxKMC09yr) | [Tony Craddock, Jr.](https://open.spotify.com/artist/75CcM6i2mssXh9hUXluBrH) | [Staycation](https://open.spotify.com/album/4eCkaluFRTjSVobSvFgtYF) | 3:58 | 2020-10-30 | 2022-03-17 |
 | [Step into Love](https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [The Trilogy, Pt\. 3: White](https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh) | 5:08 | 2022-05-06 |  |
+| [Step to This](https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Step to This](https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM) | 3:52 | 2022-08-12 |  |
 | [Steppin' Out](https://open.spotify.com/track/0viZzJzhYf6jD4avVOZu34) | [Walter Chancellor Jr.](https://open.spotify.com/artist/5DifEKflQuv5GbPmJCg8VF) | [Steppin' Out](https://open.spotify.com/album/0iJiNge95zikgBOzPoEJGg) | 3:36 | 2020-10-30 | 2022-03-16 |
 | [Step’N Out \(feat\. Elan Trotman\)](https://open.spotify.com/track/7jRLSooJCY7tM7cEttM6ZY) | [Gregory Goodloe](https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY), [Elan Trotman](https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww) | [Step'N Out \(feat\. Elan Trotman\)](https://open.spotify.com/album/1ecNE9lJgrbTXcmfsggT2f) | 4:18 | 2021-01-22 | 2022-03-18 |
 | [Still Got It](https://open.spotify.com/track/2aryC91gGWrtN4Xe00pDIN) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [A New Day](https://open.spotify.com/album/299mWpZxdi2ddAcJJEDmnH) | 4:43 | 2020-10-30 | 2022-03-17 |

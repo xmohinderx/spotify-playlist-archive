@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2AwZEdm5C3ZwyVr3E1j91g">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210 likes - 36 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 209 likes - 36 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 19 | [Professor Da Fé](https://open.spotify.com/track/1cCeyyYDcmSM0OVuuCq6cs) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Professor Da Fé](https://open.spotify.com/album/0V3eiSD7WJckQ3rYQOizyr) | 5:20 |
 | 20 | [Más Veloz](https://open.spotify.com/track/7h6wsQoTMVmtR0BgZADere) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 3:52 |
 | 21 | [Ele Vem](https://open.spotify.com/track/2OQzta0fwH98eh2n6XGXRK) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:19 |
-| 22 | [Maravilhoso](https://open.spotify.com/track/2NlMQxiWYX7ZXOYkgi9YFn) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 3:59 |
-| 23 | [Sólo en Tu Brazos](https://open.spotify.com/track/6AdKEowNdjZNuoYVl9ZRcA) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:17 |
+| 22 | [Sólo en Tu Brazos](https://open.spotify.com/track/6AdKEowNdjZNuoYVl9ZRcA) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:17 |
+| 23 | [Maravilhoso](https://open.spotify.com/track/2NlMQxiWYX7ZXOYkgi9YFn) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 3:59 |
 | 24 | [Sonhos de José](https://open.spotify.com/track/0WStd5zTa892KcxoMAiwMx) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:46 |
 | 25 | [Altar da Graça](https://open.spotify.com/track/3kKsYXQevowt1FwbP8Fvac) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 5:29 |
 | 26 | [Seu Amigo](https://open.spotify.com/track/1LCzoXgWyDy8zMsuiiSsnx) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Matheus Bird](https://open.spotify.com/artist/5eDSBAfXhtDmDcuA4x6oed) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:46 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 35 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
 | 36 | [Vem Sabendo](https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Tudo Novo](https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg) | 4:59 |
 
-Snapshot ID: `Mjc2NzExMDEsMDAwMDAwMDA1NTkyNDRlMTQ1M2Y2NTBjZWZmN2FmOGZjZDNmNzgxYQ==`
+Snapshot ID: `Mjc2NzI1NDIsMDAwMDAwMDA3YWFlOWU1MTg2NmMyOGY0ODc3NzYzMjU3ZWQ2ZjEwZg==`

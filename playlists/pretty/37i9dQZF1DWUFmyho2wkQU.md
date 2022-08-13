@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmyho2wkQU.md) - [plain]
 
 > Drive slow homie\. cover: Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,711 likes - 150 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,114 likes - 150 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p?si=q0vJwxXwRCOr7B0n66OzUA\" > Jae5 </a>, <a href=\"https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK?si=MGmorvkESEy2IEuQBNsnfA\" > Dave </a> and <a href=\"https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=5pgDQyLCSx62BCzPvuporQ\" > BNXN </a>",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL?si=FiOiEsFvSe2rzVZ8pJRTOg\" > Aymos </a> and <a href=\"https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq?si=zbz0yK_-R-WuVPvE_Ct9pA\" > M1llions </a>",
   "name": "Gone Abroad ",
   "published_playlist_ids": [
     "3Y8M6G8CEpUSth190sL4SQ"
@@ -1470,6 +1470,36 @@
     },
     {
       "album": {
+        "name": "Gbedu",
+        "url": "https://open.spotify.com/album/2yitQbZzLOU5MhydiXzzC0"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Snypa",
+          "url": "https://open.spotify.com/artist/1wqYhpSZlIFP08MrmhKAQd"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "Gbedu",
+      "url": "https://open.spotify.com/track/7rl0Xnk0GstBbkJ853xx41"
+    },
+    {
+      "album": {
         "name": "GIDI GIDI (feat. Black Sherif & Tory Lanez)",
         "url": "https://open.spotify.com/album/4lzR3AibElx6qdeVSehxeL"
       },
@@ -2639,6 +2669,24 @@
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+    },
+    {
+      "album": {
+        "name": "No Closure",
+        "url": "https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185997,
+      "name": "No Closure",
+      "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
     },
     {
       "album": {
@@ -4825,6 +4873,32 @@
       "duration_ms": 235339,
       "name": "you know.",
       "url": "https://open.spotify.com/track/0GYpa6GYpJAOvC1ySnNRGE"
+    },
+    {
+      "album": {
+        "name": "Ziya Khala",
+        "url": "https://open.spotify.com/album/5SJD74L6baR4ROiiVFMVYf"
+      },
+      "artists": [
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "MDU aka TRP",
+          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344419,
+      "name": "Ziya Khala",
+      "url": "https://open.spotify.com/track/2rmAdvW1snyycYiCgSKsrp"
     },
     {
       "album": {

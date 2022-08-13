@@ -2764,6 +2764,24 @@
     },
     {
       "album": {
+        "name": "Mi Peor Error",
+        "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Mi Peor Error",
+      "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
+    },
+    {
+      "album": {
         "name": "El Amor Que Merecemos",
         "url": "https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l"
       },

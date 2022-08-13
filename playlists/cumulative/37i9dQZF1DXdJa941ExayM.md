@@ -4,12 +4,13 @@
 
 > maybe it's punk, maybe it's not\. Cover: Tobias Dray
 
-143 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+145 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 MUCH](https://open.spotify.com/track/5rStXNNkYIN1GMq8OIWrOy) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [2 MUCH](https://open.spotify.com/album/6Y76D62j01Kux6tcG60yyR) | 2:12 | 2021-12-20 | 2022-02-16 |
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2022-01-21 |  |
+| [3 Pound Pints](https://open.spotify.com/track/5NBXebY5O7Q8EGXo6R7zoK) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [3 Pound Pints](https://open.spotify.com/album/6QQdto2JCrakFVK0PVhs13) | 2:10 | 2022-08-11 |  |
 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 | 2021-12-20 |  |
 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 | 2022-04-25 |  |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2021-12-20 |  |
@@ -137,6 +138,7 @@
 | [storyboard for a pessimist](https://open.spotify.com/track/6UObhqa3DmniQ0YTWg2AqW) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [fell in love with a lie](https://open.spotify.com/album/7m9wfRDxzEXAsQugb5xd93) | 2:38 | 2021-12-20 |  |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-12-20 |  |
 | [Talking To Ourselves \- IDLES Inner Monologue Remix](https://open.spotify.com/track/3tCihDQBzsGFRtfIn3KPG6) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Talking To Ourselves \(IDLES Inner Monologue Remix\)](https://open.spotify.com/album/1QXOX0l2HAa7ekuS9QtPpe) | 4:52 | 2022-03-18 |  |
+| [TEEN POP SENSATION](https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [just in case the world ends \(deluxe edition\)](https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y) | 2:14 | 2022-08-11 |  |
 | [The Void Stares Back](https://open.spotify.com/track/5V2okh49WkuGz0IvnRuqWL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [The Void Stares Back](https://open.spotify.com/album/0rUlejX6IaCZVF9oWgtwu7) | 3:51 | 2022-08-11 |  |
 | [The World Is You](https://open.spotify.com/track/7lqdh6P5XFsXXLvyOQhdzD) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [BRUT](https://open.spotify.com/album/17RcrngElFsVOUInoEtsC9) | 3:33 | 2021-12-20 |  |
 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 | 2021-12-20 |  |

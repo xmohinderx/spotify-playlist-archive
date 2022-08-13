@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi hits with AP Dhillon
 
-125 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+126 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2022-05-29 |  |
 | [Chithiyaan](https://open.spotify.com/track/36T47GIlXspprLND3cJKqT) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Chithiyaan](https://open.spotify.com/album/5XDyPkPyOSt6ahOZ3CP1vi) | 3:18 | 2022-07-28 |  |
 | [Chithiyaan](https://open.spotify.com/track/7HRvfjNicVkQnohrpOvjjL) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Chithiyaan](https://open.spotify.com/album/0q5ukWwsWsMiAX18I6D3zK) | 3:18 | 2022-05-29 | 2022-07-29 |
+| [Coka 2.0 \(From "Liger"\)](https://open.spotify.com/track/6TtNVOFQUbQDUbTQwdILH1) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Lijo George\-Dj Chetas](https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Coka 2.0 \(From "Liger"\)](https://open.spotify.com/album/4HHY31rL3PutmhdbuIhzmK) | 2:46 | 2022-08-12 |  |
 | [DESIRES](https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:48 | 2022-05-29 |  |
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Grewal](https://open.spotify.com/artist/6Wg3YW7eun3woBKYL8jJT6), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2022-05-29 |  |
 | [Dream](https://open.spotify.com/track/1qbD2xTTBGif2ki4D5Po7P) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Dream](https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n) | 3:35 | 2022-05-29 | 2022-06-21 |
@@ -44,7 +45,7 @@
 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 | 2022-05-29 |  |
 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 | 2022-05-29 |  |
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2022-05-29 |  |
-| [Guilty](https://open.spotify.com/track/2W9awzkFJzPRddvLXtCSOU) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Guilty](https://open.spotify.com/album/2VrJduggZoDkUsshnQbFi5) | 2:58 | 2022-07-28 |  |
+| [Guilty](https://open.spotify.com/track/2W9awzkFJzPRddvLXtCSOU) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Guilty](https://open.spotify.com/album/2VrJduggZoDkUsshnQbFi5) | 2:58 | 2022-07-28 | 2022-08-13 |
 | [Guilty](https://open.spotify.com/track/0CEZeiRvjL3iHPu1JKI9zW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk) | [Guilty](https://open.spotify.com/album/7dK05D7NqHnhkSD3N2yaE1) | 2:59 | 2022-05-29 | 2022-07-29 |
 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 | 2022-05-29 |  |
 | [Gutt](https://open.spotify.com/track/6Y8r5v3lwWX80fr7oRNK9V) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Gutt](https://open.spotify.com/album/1Rw1ZFDTs08NyLop4Vz9ck) | 3:38 | 2022-05-29 |  |

@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Sael, el pibe.
 
-131 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
+132 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [El Maquinon](https://open.spotify.com/track/1NOImFygNaIBUSoL3C6Jnt) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [El Maquinon](https://open.spotify.com/album/0bMZM5lXzUqJonFQyMU49P) | 2:16 | 2022-05-27 |  |
 | [Ella Dice](https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Ella Dice](https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS) | 2:41 | 2022-05-24 | 2022-06-04 |
 | [En la Oscuridad](https://open.spotify.com/track/4OrAAeefsDOdUSfE87C6WR) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 2:53 | 2022-05-24 |  |
-| [Enchuladita](https://open.spotify.com/track/1yr5jqX0NuFvXn27ttb2Hz) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Enchuladita](https://open.spotify.com/album/638ziIBdtwAWjdy3p3arn2) | 2:50 | 2022-08-05 |  |
+| [Enchuladita](https://open.spotify.com/track/1yr5jqX0NuFvXn27ttb2Hz) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Enchuladita](https://open.spotify.com/album/638ziIBdtwAWjdy3p3arn2) | 2:50 | 2022-08-05 | 2022-08-13 |
 | [Esa Noche](https://open.spotify.com/track/7nWqU2IJs9i0hcVIR90mnv) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [Esa Noche](https://open.spotify.com/album/6jIPyNjDzIStyEOUB3NezY) | 2:40 | 2022-05-24 |  |
 | [Esos Días](https://open.spotify.com/track/6oRyIk7U3jWGFH6zRKOT5T) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días](https://open.spotify.com/album/5YTwmNj6F1khhCCos7DV7w) | 2:31 | 2022-07-28 |  |
 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2022-05-24 | 2022-07-29 |
@@ -59,6 +59,7 @@
 | [Inseguridades](https://open.spotify.com/track/7LbbirHUrbo8NzKwiT7yOW) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Inseguridades](https://open.spotify.com/album/2ssQJdINLCv9ecZqOuIHk8) | 3:26 | 2022-05-24 |  |
 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [INTERESTELAR](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 | 2022-05-24 |  |
 | [Jake Long](https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Jake Long](https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM) | 2:38 | 2022-05-24 |  |
+| [Julieta](https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Julieta](https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1) | 3:05 | 2022-08-12 |  |
 | [JUNGLE](https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [JUNGLE](https://open.spotify.com/album/6XromBO32uhidY3LWZORO1) | 2:54 | 2022-05-24 |  |
 | [Ke No Importe Na](https://open.spotify.com/track/3VwuVG1pdI45jJ7RGps0sn) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Ke No Importe Na](https://open.spotify.com/album/6kehms0cE5sDqL2PF42jJt) | 2:34 | 2022-05-24 | 2022-06-18 |
 | [KILOWA](https://open.spotify.com/track/54acJyeShQSK5DfEdW7J7n) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [KILOWA](https://open.spotify.com/album/1U4rNnGAuoDm01x3kOHnU9) | 2:12 | 2022-05-24 | 2022-05-28 |

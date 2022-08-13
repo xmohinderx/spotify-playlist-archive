@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,843 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,961 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 7 | [Reggaezin Do LotHzin](https://open.spotify.com/track/7DMbWO0qRvliv85AneFv2M) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a) | [Reggaezin Do LotHzin](https://open.spotify.com/album/6mQpdAV0b0CIiz5TA3gcyy) | 2:47 |
 | 8 | [Cabulosa](https://open.spotify.com/track/5QBiAcDEqOEYRmE7A2CbDr) | [Jonathan Couto](https://open.spotify.com/artist/58E9fUoMdCjVB0B4MwMsp1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Cabulosa](https://open.spotify.com/album/5qk2dEtHizbt6x4rxZJR4J) | 2:47 |
 | 9 | [Esse Teu Sorriso](https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb) | [DOM7NICO](https://open.spotify.com/artist/620szMALjTzToFTwfdGlFc) | [Esse Teu Sorriso](https://open.spotify.com/album/6PVqvFnGpciV0hzLuvIiIN) | 3:09 |
-| 10 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 |
-| 11 | [Marshmallow](https://open.spotify.com/track/6Vgcv9xcSMztBg3Z3Z77kG) | [RAMON](https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl), [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h) | [Marshmallow](https://open.spotify.com/album/24O2Emosddo9pRVxZcAwAT) | 2:22 |
+| 10 | [Não Sou de Ninguém](https://open.spotify.com/track/4RIYZ53YLgBsuSSVlA85fQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [Burbon](https://open.spotify.com/artist/69SLft0U310nwqClQ51Czo), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH), [Pascon](https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Não Sou de Ninguém](https://open.spotify.com/album/6t6gIQ5fxkqYgbrfQVhqdM) | 3:34 |
+| 11 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 |
 | 12 | [Meia Noite e Pouca](https://open.spotify.com/track/12sxunAocKmrn8AzPVn8hU) | [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q), [Simøn](https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA) | [Fases](https://open.spotify.com/album/03Xtrk1TYuWG8249nRdPfa) | 2:38 |
 | 13 | [Cartas \(feat\. Luccas Carlos\) \(feat\. Paiva Prod\)](https://open.spotify.com/track/1q0PCH6sQOaeXGmeJfGWXb) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Cartas \(feat\. Luccas Carlos\) \(feat\. Paiva Prod\)](https://open.spotify.com/album/1NOfFitxHCDTeTZMsU1yGR) | 3:22 |
 | 14 | [Pra Você Ficar](https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96) | [Pra Você Ficar](https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl) | 2:40 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 64 | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/track/3KArCRSFdHcVxN0z7tlX0F) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Batz Ninja](https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/album/7M1FD7Ji63zxEUpaZD5E1D) | 3:41 |
 | 65 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
 
-Snapshot ID: `MTY1OTA2MzY2MCwwMDAwMDAwMDdmODM2MTAzY2UwOGY2YzdhZDNkYzU2YmZkN2U3MGQy`
+Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMGIwYzk3ZWMxZDVjNjgzZDdiZTk1MjFlYWZlYzg1NTk3`

@@ -4,7 +4,7 @@
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Standly & Cris Mj.
 
-95 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
+96 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bailando](https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailando](https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI) | 3:44 | 2022-04-14 |  |
 | [Bailemos Reggaeton](https://open.spotify.com/track/0YRgRpM2bdmQEkiI8bWDBA) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailemos Reggaeton](https://open.spotify.com/album/22Suc9rycbfTgtCYqfIz5M) | 2:58 | 2022-04-14 |  |
 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2022-08-11 |  |
+| [Caminemos de la Mano](https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Caminemos de la Mano](https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB) | 3:34 | 2022-08-12 |  |
 | [Casi Amor De Verano](https://open.spotify.com/track/3HSVuIkPGY4rdtifvEU3xz) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Casi Amor De Verano](https://open.spotify.com/album/1wiaYWxg54mycc3A5cGRI0) | 3:30 | 2022-04-14 | 2022-05-20 |
 | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Abhir Hathi](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0), [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [EL IMA](https://open.spotify.com/artist/00vsUIEaNHw6qoQnh8DQM2) | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb) | 6:53 | 2022-04-14 | 2022-08-05 |
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-14 | 2022-06-03 |

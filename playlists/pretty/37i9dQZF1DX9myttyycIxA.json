@@ -1,13 +1,29 @@
 {
   "description": "Underground indie rock gems. Cover: girlpuppy",
-  "num_followers": 264247,
+  "num_followers": 264323,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4MTMwMCwwMDAwMDAwMGIwY2JlY2YzYWVhNmRhN2M5YzcxNzI2OWM1ODBiZDQz",
+  "snapshot_id": "MTY2MDMzNTA1MiwwMDAwMDAwMDU1OGQ4ZjAzMzE5NmYxNzVkZWRmM2RmN2IxYzFhZDhj",
   "tracks": [
+    {
+      "added_at": "2022-08-12 20:10:52",
+      "album": {
+        "name": "lust",
+        "url": "https://open.spotify.com/album/5UVCryBuK6Pv0IilUHXqL0"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "duration_ms": 125830,
+      "name": "lust",
+      "url": "https://open.spotify.com/track/4rQfKnYd88L1mu9NEZn1kp"
+    },
     {
       "added_at": "2022-07-22 04:04:00",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 255067,
       "name": "What Once Was",
       "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
+    },
+    {
+      "added_at": "2022-08-12 20:10:52",
+      "album": {
+        "name": "pg.4 a picture of three hedges/through your window",
+        "url": "https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB"
+      },
+      "artists": [
+        {
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "duration_ms": 224565,
+      "name": "through your window",
+      "url": "https://open.spotify.com/track/0Kw8SXw92PXokAfPPaP2Ot"
     },
     {
       "added_at": "2022-08-05 06:35:00",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/17BELTAKQdOdV0TC5vDnvY"
     },
     {
+      "added_at": "2022-08-12 20:10:52",
+      "album": {
+        "name": "Before Dawn",
+        "url": "https://open.spotify.com/album/1yXSX2NYq0beXees0O5EXg"
+      },
+      "artists": [
+        {
+          "name": "Unflirt",
+          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
+        }
+      ],
+      "duration_ms": 257614,
+      "name": "Before Dawn",
+      "url": "https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4"
+    },
+    {
       "added_at": "2022-08-05 06:35:00",
       "album": {
         "name": "Please Don't Think About Tomorrow",
@@ -137,6 +185,22 @@
       "url": "https://open.spotify.com/track/0OPD9fnjX6xWgHBQ4QClgu"
     },
     {
+      "added_at": "2022-08-12 20:10:52",
+      "album": {
+        "name": "Been Stellar",
+        "url": "https://open.spotify.com/album/2GJ26CJoley2UA0ytkHteu"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "duration_ms": 329432,
+      "name": "Ohm",
+      "url": "https://open.spotify.com/track/1Wo5tkzxPBoqOfwoTSMNJU"
+    },
+    {
       "added_at": "2022-07-20 17:24:06",
       "album": {
         "name": "Cowboy Bepop",
@@ -183,6 +247,22 @@
       "duration_ms": 206569,
       "name": "Nowhere, LA",
       "url": "https://open.spotify.com/track/7MmY1Y5pzY7U84sf8KH7uE"
+    },
+    {
+      "added_at": "2022-08-12 20:10:52",
+      "album": {
+        "name": "Chainsaw the Door",
+        "url": "https://open.spotify.com/album/4QSb6tII3D5Y9BIW2sTMi9"
+      },
+      "artists": [
+        {
+          "name": "The Garden",
+          "url": "https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz"
+        }
+      ],
+      "duration_ms": 148506,
+      "name": "Chainsaw the Door",
+      "url": "https://open.spotify.com/track/1OPM1BmEoywWzFfQxMRj7L"
     },
     {
       "added_at": "2022-08-05 06:35:00",

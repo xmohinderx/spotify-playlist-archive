@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Ben Reilly
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,676 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,755 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 37 | [DO NOT KNOW YOU](https://open.spotify.com/track/7uVNWO2CAqAnGWDm9ipczc) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [DO NOT KNOW YOU](https://open.spotify.com/album/5O4I4RUSGTurL6VKPCMeJJ) | 2:00 |
 | 38 | [Pusha Man](https://open.spotify.com/track/5qNqTVBAbtPRKH3KHiUAu8) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [No Forgetting This \(N.F.T.\)](https://open.spotify.com/album/4SsPpuTKIGKbZPJWkjLkIe) | 3:47 |
 | 39 | [Long Road](https://open.spotify.com/track/5KV3n2x5xhuncoftBjaB4j) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Long Road](https://open.spotify.com/album/6bSTwLKArRudSRMIaQPoBU) | 3:24 |
-| 40 | [M3GA TRUTH](https://open.spotify.com/track/0PZuIkYLyx7mV0k6h0WdiN) | [K11NG LV](https://open.spotify.com/artist/3BPUxPloFYcoauw9ctqqQ5) | [M3GA TRUTH](https://open.spotify.com/album/4OIAA2jMdNTutZ86YnbV1j) | 3:54 |
+| 40 | [M3ga Truth](https://open.spotify.com/track/68RBqPT6xgU3g5CTMJqQm1) | [K11NG LV](https://open.spotify.com/artist/3BPUxPloFYcoauw9ctqqQ5) | [M3GA TRUTH](https://open.spotify.com/album/1hgWV0xGW5XO5uXp4KnvTj) | 3:54 |
 | 41 | [J Randle](https://open.spotify.com/track/2nhgWdeCCkL1MPY1o8nfjH) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [J Randle](https://open.spotify.com/album/5eitjXa3pw92aeGS17TVVO) | 1:29 |
 | 42 | [BAFWM](https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Redemption](https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er) | 2:47 |
 | 43 | [Lets Play](https://open.spotify.com/track/7wEWnGFd5Ux7dwQhaLhKAi) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [Lets Play](https://open.spotify.com/album/3VW4YruQAZ1HOYLNvo8H8T) | 1:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 49 | [Who You Touch](https://open.spotify.com/track/5lZ7DUgnBIF8MbpvTtu63v) | [Mel Glizzy](https://open.spotify.com/artist/3oHslHONGm8430YAleJiOk), [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Who You Touch](https://open.spotify.com/album/7c1dknlYYI8gHRQ7Ekedt8) | 1:48 |
 | 50 | [OOTAZ](https://open.spotify.com/track/0WmDdW0eCWfNN6Yr386WUD) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp), [TG Crippy](https://open.spotify.com/artist/2imWKJY5TRQoXxDmKsIHps), [Jay Da Chaser](https://open.spotify.com/artist/0JylLcrOkiUSkBMbDoiWYl) | [OOTAZ](https://open.spotify.com/album/5s0FhQROk8RQ9jLb4nD2ZQ) | 3:40 |
 
-Snapshot ID: `MTY2MDI2MTM1MywwMDAwMDAwMDc2ZWM3NjE0YzFkMWY2OGU1OGVlMDcxNmMzYzUwM2Mz`
+Snapshot ID: `MTY2MDI2MTM1MywwMDAwMDAwMGJjZjIzY2MxMTUyNTg3ZjI0M2Q3MDJmNjIzNzRlOTNi`

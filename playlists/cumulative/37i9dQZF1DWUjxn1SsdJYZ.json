@@ -408,6 +408,24 @@
     },
     {
       "album": {
+        "name": "BL!P",
+        "url": "https://open.spotify.com/album/3jQrRpgeCfb9lJhA8RvELG"
+      },
+      "artists": [
+        {
+          "name": "Menarku'",
+          "url": "https://open.spotify.com/artist/32oHm5EdLmXdut63QhEZZR"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123490,
+      "name": "BL!P",
+      "url": "https://open.spotify.com/track/1fRejLP4jAjKWD9jjRxXN0"
+    },
+    {
+      "album": {
         "name": "Bold Man",
         "url": "https://open.spotify.com/album/0E3DfMrhpbxUfatIiE4bDA"
       },
@@ -803,6 +821,28 @@
       "duration_ms": 148988,
       "name": "Daughters & Sons",
       "url": "https://open.spotify.com/track/5ff3xc5gxH4mIFW896UIJQ"
+    },
+    {
+      "album": {
+        "name": "Die Young (Freestyle)",
+        "url": "https://open.spotify.com/album/7vNXmSOmVFDo7GnsKNrU2z"
+      },
+      "artists": [
+        {
+          "name": "Moses",
+          "url": "https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs"
+        },
+        {
+          "name": "New Wave",
+          "url": "https://open.spotify.com/artist/1itGTqVfKk3HKGvYqFOy2s"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151359,
+      "name": "Die Young (Freestyle)",
+      "url": "https://open.spotify.com/track/31dmeMMLyx7IFTeydxC8Ed"
     },
     {
       "album": {
@@ -1309,6 +1349,32 @@
       "duration_ms": 198854,
       "name": "Grime",
       "url": "https://open.spotify.com/track/6pXQRgHROE1GsSgE0Ey1pE"
+    },
+    {
+      "album": {
+        "name": "Guap 2",
+        "url": "https://open.spotify.com/album/3MSWBG0Ib2V3Tz5DJlKzAX"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        },
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "Guap 2",
+      "url": "https://open.spotify.com/track/66NM4endRHSnt6GpJ8sYA7"
     },
     {
       "album": {

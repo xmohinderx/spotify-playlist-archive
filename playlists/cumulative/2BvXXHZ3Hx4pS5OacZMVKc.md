@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-170 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+172 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Love Me](https://open.spotify.com/track/13b1CS1bUJOJD9HanXSs3c) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [FERGO](https://open.spotify.com/artist/2vlOppSBEJkAVos6JTshXF) | [Love Me](https://open.spotify.com/album/0yEscGCEQmz8G7GGyySaz5) | 2:12 | 2022-02-03 |  |
 | [Luna \- Mendum Remix](https://open.spotify.com/track/6ubM8S8Dn9vT5Xq1DVROnS) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [GalaxyTones](https://open.spotify.com/artist/49Ue58UGhN03frcpvJsHnH), [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [DNAKM](https://open.spotify.com/artist/20N95on2Bu0e3AZyiEUMz1) | [Luna \(Mendum Remix\)](https://open.spotify.com/album/50H2keG7LNU0oSNsBuiXem) | 3:25 | 2022-02-04 |  |
 | [MATAFAKA](https://open.spotify.com/track/0y9TOfsQ9wANedFV3Us5Wa) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [MATAFAKA](https://open.spotify.com/album/6Meqo4cySmYW0tYBMvpACy) | 3:17 | 2022-02-03 |  |
+| [Memory Lane](https://open.spotify.com/track/3I4i9lPdYexRsU79R7KnoM) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Memory Lane](https://open.spotify.com/album/0msuqg81uxdZOmmFkS3ot7) | 4:02 | 2022-08-12 |  |
 | [Met You](https://open.spotify.com/track/3JAMjDgXLQAKkt744Rv6Yd) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Met You](https://open.spotify.com/album/4KfC8XxPaONYiApcN5uV5i) | 3:10 | 2022-02-03 |  |
 | [Mistakes](https://open.spotify.com/track/23zK1RgtpCKU7gokQh40pi) | [Sekai](https://open.spotify.com/artist/4T5B6T18yziN16acvy3XtT), [Spitfya](https://open.spotify.com/artist/25u4Wltpv2iu8205c400T8), [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Emily Stiles](https://open.spotify.com/artist/3PmIYYpYp4KcM7bc51JffC) | [Mistakes](https://open.spotify.com/album/0d7vMAmLbViMcLYpcDbzfD) | 4:20 | 2022-02-03 |  |
 | [Moments](https://open.spotify.com/track/1sTKNKmcwHyE8Nxo2gNq77) | [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Moments](https://open.spotify.com/album/7IpkM4Q4T63J4C56pAFgQc) | 3:39 | 2022-04-14 |  |
@@ -148,6 +149,7 @@
 | [Sunrise](https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Sunrise](https://open.spotify.com/album/0N16seYtml6g0DXWo9Ff25) | 2:25 | 2022-07-05 | 2022-07-12 |
 | [Sunshine](https://open.spotify.com/track/3LcuxzO1gLRhcRZbZJh0hE) | [Gelow](https://open.spotify.com/artist/1XOwklRW1AGECnhcL0lvfj), [BPRTS](https://open.spotify.com/artist/37oLcPpZmGMirasruONASH) | [Sunshine](https://open.spotify.com/album/5yPX9eTafy1WFFtWtIJ1Ak) | 2:40 | 2022-07-21 |  |
 | [Superhero In My Sleep](https://open.spotify.com/track/1BHhgOM82RNW9fjZS6cPVs) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn) | [Superhero In My Sleep](https://open.spotify.com/album/4MJSwyVBS3qwMhaMF0icOb) | 3:06 | 2022-02-03 |  |
+| [Symbolism pt\. III](https://open.spotify.com/track/3j9repS7j0ic94QnkmBWow) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Symbolism pt\. III](https://open.spotify.com/album/2W3HSyUgF9aoXOUIxB5xyx) | 4:06 | 2022-08-12 |  |
 | [Take It Easy \- DNB Edit](https://open.spotify.com/track/0ixRU1IxaGqqPR6b4dUtek) | [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU), [Mia Vaile](https://open.spotify.com/artist/38SIErfZNd7u2qlIzFeZqm) | [Take It Easy \(DNB Edit\)](https://open.spotify.com/album/2U4tG5P74xLImzIen1UFa3) | 3:24 | 2022-06-17 |  |
 | [Take Me](https://open.spotify.com/track/1w7rP4pnAMKrqzUvXzYm4N) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Take Me](https://open.spotify.com/album/1dn6xT7eVtBBzwRtOVdOn4) | 3:13 | 2022-04-23 |  |
 | [Take Me Away](https://open.spotify.com/track/5TaN8tKUze7Mxk2xFhgIud) | [NATSUMI](https://open.spotify.com/artist/7DCltfdFTL9tQFRM9KXPuz) | [Take Me Away](https://open.spotify.com/album/2DhfIfaRMwomT29376ejzP) | 2:54 | 2022-02-03 |  |

@@ -4309,7 +4309,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 187288,
       "name": "Menthol",
       "url": "https://open.spotify.com/track/1o98t1JlVOEvRmvJsMO9XQ"
@@ -4938,6 +4938,32 @@
     },
     {
       "album": {
+        "name": "on air",
+        "url": "https://open.spotify.com/album/3o3WxRyujYTqTpvqPOvRDm"
+      },
+      "artists": [
+        {
+          "name": "always centered at night",
+          "url": "https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252227,
+      "name": "on air",
+      "url": "https://open.spotify.com/track/2x6nALrYw5RU5EZZppj4Kj"
+    },
+    {
+      "album": {
         "name": "On Your Side (stud1nt Remix)",
         "url": "https://open.spotify.com/album/6vFMDi2N6jrb0HzzgCEiky"
       },
@@ -5405,7 +5431,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 224343,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe"
@@ -5445,6 +5471,28 @@
       "duration_ms": 248698,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaros en Verano",
+        "url": "https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "P\u00e1jaros en Verano",
+      "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
     },
     {
       "album": {

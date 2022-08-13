@@ -4,7 +4,7 @@
 
 > Don't stress out\. Stay relaxed with these easy, upbeat songs.
 
-341 songs - 20 hr 43 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
+342 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Brand New](https://open.spotify.com/track/5EQ9yEra0SzVd673ZfKT4C) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Brand New](https://open.spotify.com/album/4E2YvGzYMgr4DizJJ0PQoo) | 4:03 | 2019-07-29\* | 2021-03-21 |
 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 | 2019-07-29\* | 2019-12-10 |
 | [Bridges](https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5) | 3:36 | 2019-08-21 | 2022-06-10 |
-| [Brighter Day](https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Brighter Day](https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT) | 3:13 | 2022-04-19 |  |
+| [Brighter Day](https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Brighter Day](https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT) | 3:13 | 2022-04-19 | 2022-08-13 |
 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 | 2021-10-30 |  |
 | [Budapest](https://open.spotify.com/track/7q0aQpiLv5tIsupcgQ3Ny4) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/7L4ZwpSwKQCerDQv9C4O1M) | 3:20 | 2019-07-29\* | 2021-12-21 |
 | [Calm Yourself Down](https://open.spotify.com/track/5Bdmiyetb619RJdTPkEKLc) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi), [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Calm Yourself Down](https://open.spotify.com/album/5xx8BTKXLgkOlXbaAwTS66) | 3:15 | 2020-06-17 | 2022-07-29 |
@@ -65,7 +65,7 @@
 | [Come Home](https://open.spotify.com/track/51qT7GJC1ycvGmcS7Iy3AW) | [CHAPPO](https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6) | [Moonwater](https://open.spotify.com/album/3LrB8b3EMojBZZZ7mWrtmm) | 3:27 | 2021-02-26 | 2022-04-18 |
 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 | 2019-07-29\* | 2022-04-21 |
 | [Comeback Kid \(That's My Dog\)](https://open.spotify.com/track/621CFhl91BygHysX0igkyY) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [The Definitive Collection](https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF) | 3:25 | 2019-07-29\* | 2021-10-13 |
-| [Comes In Waves](https://open.spotify.com/track/0gDGS8oW4kLxU7G4BYZG3y) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 5:30 | 2022-07-19 |  |
+| [Comes In Waves](https://open.spotify.com/track/0gDGS8oW4kLxU7G4BYZG3y) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 5:30 | 2022-07-19 | 2022-08-13 |
 | [Control](https://open.spotify.com/track/0H2oAJ06XboQPa4DnKSbXL) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Control](https://open.spotify.com/album/7Ea1qWHjd65hekrOI51DJl) | 3:30 | 2021-10-10 | 2022-04-21 |
 | [Count On Me](https://open.spotify.com/track/5r47m8Td4m1CCzCHiKDBEd) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Count On Me](https://open.spotify.com/album/4vCgoFfuABp7ULoCl70tAC) | 2:40 | 2019-12-15 | 2022-07-29 |
 | [Cross My Mind](https://open.spotify.com/track/3T7KFsyl6n3UklWgfn0Lnp) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [Twin Forks](https://open.spotify.com/album/6WU9Z2HcsYNL3ImMBzZNow) | 3:34 | 2019-07-29\* | 2022-04-16 |
@@ -125,7 +125,7 @@
 | [Hello My Old Heart](https://open.spotify.com/track/2c62Xf5Po1YSa1N6LOjPHy) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/1a3UYpjNVB67soVfvtHoG8) | 4:16 | 2019-07-29\* | 2022-04-19 |
 | [Hello My Old Heart](https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W) | 4:16 | 2022-07-18 |  |
 | [Hero](https://open.spotify.com/track/6GRDI9suQHikFP6euIXnpq) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/14SCnv027L0HidHq0URIDu) | 3:10 | 2019-07-29\* | 2021-10-16 |
-| [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 | 2022-06-21 | 2022-07-02 |
+| [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 | 2022-06-21 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/5i0eU4qWEhgsDcG6xO5yvy) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco](https://open.spotify.com/album/31JOfqUiCWs5facQRPdeUk) | 3:36 | 2019-07-29\* | 2020-08-05 |
 | [Highroad](https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Highroad](https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY) | 3:50 | 2019-08-20 |  |
 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2019-07-29\* | 2021-10-16 |
@@ -265,6 +265,7 @@
 | [Stars](https://open.spotify.com/track/1LHE8cxWt7SVCitinqEhyl) | [Future Generations](https://open.spotify.com/artist/3wKj5PmSpnrtz9n9hG2QCA) | [Future Generations](https://open.spotify.com/album/3bIqG0mLXWMFgACHLxDI7m) | 3:53 | 2019-07-29\* | 2021-10-11 |
 | [Stay High](https://open.spotify.com/track/3fDqdR9QqcsgFTRFqy14Ki) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High](https://open.spotify.com/album/4gb0j034W6vgCDwRO2N88c) | 3:11 | 2019-08-27 | 2022-04-21 |
 | [Steady Love](https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA) | 3:44 | 2022-03-11 | 2022-07-29 |
+| [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-08-12 |  |
 | [Story Of A Fish](https://open.spotify.com/track/6QvLssSgD8MhY4UrvQ3WrF) | [Jeremy Ivey](https://open.spotify.com/artist/08Gc0o3GdjIKtQVoNYaVNG) | [Story Of A Fish](https://open.spotify.com/album/1JBQiowIA9EjwO3Q1EnPtp) | 3:22 | 2019-10-03 | 2022-04-18 |
 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 | 2020-08-05 | 2022-04-21 |
 | [Strangers](https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Strangers](https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui) | 3:13 | 2020-03-18 | 2020-07-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave, co\-curated with <a href="https://tejanonation.net/">Tejano Nation</a>! La nueva ola de la música tejana\. Cover: Stefani Montiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,145 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,154 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -785,7 +785,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 199679,
       "name": "Dixie Biscuit - Radio Edit",
       "url": "https://open.spotify.com/track/1ImjgOgKUZwZfpLRoYV4ED"
@@ -2373,6 +2373,28 @@
       "duration_ms": 199186,
       "name": "POP SONG",
       "url": "https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ"
+    },
+    {
+      "album": {
+        "name": "Posture (Wolfgang Lohr Remix)",
+        "url": "https://open.spotify.com/album/33cm8hJKxHtcFELOZB2eJy"
+      },
+      "artists": [
+        {
+          "name": "Lamuzgueule",
+          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Posture - Wolfgang Lohr Remix",
+      "url": "https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv"
     },
     {
       "album": {

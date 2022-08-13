@@ -1,12 +1,12 @@
 {
   "description": "Beat the traffic blues with these killer tunes.",
-  "num_followers": 5228,
+  "num_followers": 5240,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTkzMzgxOSwwMDAwMDAwMDMxZTdmNmU0NzU4YWE2YjYyZGFlM2VjYjQ0NTY1YzFk",
+  "snapshot_id": "MTY2MDI5Mzc5NiwwMDAwMDAwMDA0N2Q2NWI5NTljZDFiOThhNjYzZThmMzhiMThkYjcw",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -217,6 +217,22 @@
       "url": "https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA"
     },
     {
+      "added_at": "2022-08-12 08:43:16",
+      "album": {
+        "name": "Sounds of My World (Deluxe)",
+        "url": "https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 276266,
+      "name": "Osu Riddim",
+      "url": "https://open.spotify.com/track/6ERFpGobKqOTMruIRXx280"
+    },
+    {
       "added_at": "2022-06-16 23:00:00",
       "album": {
         "name": "Peace Be Unto You (PBUY)",
@@ -265,22 +281,6 @@
       "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
-    },
-    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Love, Damini",
@@ -301,24 +301,20 @@
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
+      "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 213860,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+      "duration_ms": 196800,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
     },
     {
       "added_at": "2022-08-08 04:43:39",
@@ -339,6 +335,26 @@
       "duration_ms": 154631,
       "name": "Machala",
       "url": "https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 213860,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -377,6 +393,26 @@
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0WeSQZI8q1oY5FkCJh8sH7"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "No Wahala (Remix)",
@@ -399,26 +435,6 @@
       "duration_ms": 178413,
       "name": "No Wahala - Remix",
       "url": "https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0WeSQZI8q1oY5FkCJh8sH7"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -639,26 +655,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/4TBJjgBalFgE5fqiof8mWh"
       },
@@ -691,6 +687,26 @@
       "duration_ms": 205191,
       "name": "Want You",
       "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1195,6 +1211,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Holy F4k",
         "url": "https://open.spotify.com/album/2vu3ZG15dRi4HNkEUkLJWB"
       },
@@ -1223,22 +1255,6 @@
       "duration_ms": 195428,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/6PTiCTZVL30tsXGh22Yga1"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1333,6 +1349,26 @@
       "url": "https://open.spotify.com/track/5JfN1hE5h7uquuSEd90uU9"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Alright (feat. Shatta Wale)",
+        "url": "https://open.spotify.com/album/4BLHs4HKOkzO4lofvYlHa4"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 178662,
+      "name": "Alright (feat. Shatta Wale)",
+      "url": "https://open.spotify.com/track/2UTceOEpYfmOud3DVdH5YI"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Party",
@@ -1355,26 +1391,6 @@
       "duration_ms": 145842,
       "name": "Party",
       "url": "https://open.spotify.com/track/0RdO7NC6LgugflNKRmNeAn"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Alright (feat. Shatta Wale)",
-        "url": "https://open.spotify.com/album/4BLHs4HKOkzO4lofvYlHa4"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 178662,
-      "name": "Alright (feat. Shatta Wale)",
-      "url": "https://open.spotify.com/track/2UTceOEpYfmOud3DVdH5YI"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1523,30 +1539,6 @@
       "duration_ms": 183118,
       "name": "E Choke",
       "url": "https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Follow You",
-        "url": "https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4"
-      },
-      "artists": [
-        {
-          "name": "Fiokee",
-          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
-        },
-        {
-          "name": "chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 191544,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
     }
   ],
   "unique_name": "Troski Rhythms",

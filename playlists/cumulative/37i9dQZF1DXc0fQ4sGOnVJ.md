@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-112 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+113 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Remember My Name](https://open.spotify.com/track/7eE8qUTi5in1pkshmphRec) | [Jonezen](https://open.spotify.com/artist/7D1pMUc7dEMckSNVUo2EnA), [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV) | [Remember My Name](https://open.spotify.com/album/1cZnPFq1ExNM8hYynZXP2H) | 3:04 | 2021-08-06 |  |
 | [Rippin It up \(feat\. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz\)](https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG) | [Jawga Sparxxx](https://open.spotify.com/artist/4Tmi4eRiBmTkJCEJuFnKuP), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Boondock Kingz](https://open.spotify.com/artist/5t1SNVbHSuaQWZ0FXnLGcK), [Porch Matthews](https://open.spotify.com/artist/6mzpnqqXaw7OEOXKXJtPp7), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Muddy Days Drunken Nights](https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK) | 3:12 | 2021-05-21 |  |
 | [Rodeo](https://open.spotify.com/track/66il80iAlMZqtGDRaHkg1n) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Rodeo](https://open.spotify.com/album/3bG0CVdUftTND8ovcRNRty) | 2:55 | 2021-05-21 |  |
+| [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 | 2022-08-12 |  |
 | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2) | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE) | 3:55 | 2021-05-21 |  |
 | [Rural Legends](https://open.spotify.com/track/5pIS6NPdQS6qwb3mvUSfBB) | [DurtE](https://open.spotify.com/artist/6VZRx4elqkf5cXo3nrc8y7), [Redneck Souljers](https://open.spotify.com/artist/5FY8IkeSIChD7WcmPPH5NW) | [Rural Legends](https://open.spotify.com/album/09CrDUYOa0KrpzWiZylKGk) | 4:56 | 2021-05-21 | 2022-02-05 |
 | [Shawty In The Truck](https://open.spotify.com/track/0gvThRb8Wfo7Lotup0uVTg) | [DJ CANNON BANYON](https://open.spotify.com/artist/2LRrFl4GOEkg86nmlQiGCG), [Samroc](https://open.spotify.com/artist/1m4hS0iTIVDX3LuYAXkvSb), [T.J\. Freeq](https://open.spotify.com/artist/5E1uNCtJkKkFFJe5NvIeiq), [Big Jimmy](https://open.spotify.com/artist/09CKHoyg9Icjir1uOOYKSl), [Mo Beatz](https://open.spotify.com/artist/3PMIDJZdpCViOzn3XZ5Wjt) | [Shawty In The Truck](https://open.spotify.com/album/3rzBqaNxEiFZ0Qjd0Isf8A) | 4:33 | 2021-05-21 |  |

@@ -1,28 +1,28 @@
 {
-  "description": "Heavy new bands you need to have an eye on. Cover: Nicolas Cage Fighter",
-  "num_followers": 1569,
+  "description": "Heavy new bands you need to have an eye on. Cover: Chat Pile",
+  "num_followers": 1692,
   "original_name": "New Blood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcwNDQwMCwwMDAwMDAwMGI3YTE3MTQ5MDU5OTEwYzM5NDg1ZTFjNWU2YWFlNTMy",
+  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMDdlN2Q3MDVjMGJmN2Y1ZWJiOGI4YTRjMzQ5NDNjODQ1",
   "tracks": [
     {
       "added_at": "2022-07-29 13:00:00",
       "album": {
-        "name": "The Bones That Grew from Pain",
-        "url": "https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe"
+        "name": "Slaughterhouse",
+        "url": "https://open.spotify.com/album/2hjoCyFS7hbm8DhUPuFBeL"
       },
       "artists": [
         {
-          "name": "Nicolas Cage Fighter",
-          "url": "https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl"
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
         }
       ],
-      "duration_ms": 227731,
-      "name": "Static Abyss",
-      "url": "https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ"
+      "duration_ms": 252182,
+      "name": "Slaughterhouse",
+      "url": "https://open.spotify.com/track/6TbRUyqguhyHq4ZuM4Azf1"
     },
     {
       "added_at": "2022-07-29 13:00:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-07-29 13:00:00",
       "album": {
+        "name": "The Bones That Grew from Pain",
+        "url": "https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Cage Fighter",
+          "url": "https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl"
+        }
+      ],
+      "duration_ms": 227731,
+      "name": "Static Abyss",
+      "url": "https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ"
+    },
+    {
+      "added_at": "2022-07-29 13:00:00",
+      "album": {
         "name": "Burning Throne",
         "url": "https://open.spotify.com/album/7banxw62PIcV3P4My3qr3k"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 137250,
       "name": "NADA",
       "url": "https://open.spotify.com/track/3Hci2iLarYEtZxuQBfIgyZ"
-    },
-    {
-      "added_at": "2022-07-29 13:00:00",
-      "album": {
-        "name": "Slaughterhouse",
-        "url": "https://open.spotify.com/album/2hjoCyFS7hbm8DhUPuFBeL"
-      },
-      "artists": [
-        {
-          "name": "Chat Pile",
-          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
-        }
-      ],
-      "duration_ms": 252182,
-      "name": "Slaughterhouse",
-      "url": "https://open.spotify.com/track/6TbRUyqguhyHq4ZuM4Azf1"
     },
     {
       "added_at": "2022-07-29 13:00:00",

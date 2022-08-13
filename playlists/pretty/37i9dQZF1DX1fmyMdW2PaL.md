@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,393 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,538 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

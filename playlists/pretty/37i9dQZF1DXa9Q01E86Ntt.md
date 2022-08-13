@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,934 likes - 33 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,958 likes - 33 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. deathbyromy",
-  "num_followers": 271230,
+  "num_followers": 271373,
   "original_name": "misfits 2.0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1ODgwMCwwMDAwMDAwMDQyYTFmNzhiZjAyNDU0ZGExNDg2MDkxOTQ4ODE4MWFh",
+  "snapshot_id": "MTY2MDI1ODgwMCwwMDAwMDAwMGQyM2NjNjQ1ZDgwZDRjNzY2M2M4ZmM3YzFiNTkzNzdl",
   "tracks": [
     {
       "added_at": "2022-08-11 23:00:00",
@@ -1367,6 +1367,26 @@
       "duration_ms": 202573,
       "name": "We're All Going To Die",
       "url": "https://open.spotify.com/track/6jQmhIdemWV7Sp9STU55Fp"
+    },
+    {
+      "added_at": "2022-08-11 23:00:00",
+      "album": {
+        "name": "Fighting Fate",
+        "url": "https://open.spotify.com/album/7nFQVDz1vhFcxnnr3ylX5K"
+      },
+      "artists": [
+        {
+          "name": "Yung'cid",
+          "url": "https://open.spotify.com/artist/1It5FG5hReUrQInrg7Be1Q"
+        },
+        {
+          "name": "Baby Doll",
+          "url": "https://open.spotify.com/artist/4htyNjCI51sL6pterwxVCq"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "Fighting Fate",
+      "url": "https://open.spotify.com/track/4PNPN7lA1UMYbKtTco1JtB"
     }
   ],
   "unique_name": "misfits 2.0",

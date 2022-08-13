@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Megan Moroney
 
-211 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+213 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Eyes Wide Open](https://open.spotify.com/track/5pYg8qll5inckV7GI3VNcd) | [Jeston Cade](https://open.spotify.com/artist/2mJNGAPfePeKRLanONzfcU) | [Eyes Wide Open](https://open.spotify.com/album/3YJNpxClcsc5qMmcZSgFHe) | 3:48 | 2021-12-31 |  |
 | [Fallback](https://open.spotify.com/track/3Awkc2RG0sxtLjJWgnYAHx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Fallback](https://open.spotify.com/album/2tfzITEHPPyizfRoiTTzhX) | 2:53 | 2021-12-31 |  |
 | [Fine Line](https://open.spotify.com/track/6x65rzPIbTNgRjSXBwvmFs) | [Sasha McVeigh](https://open.spotify.com/artist/4yrY81mNjR3hqlOAhu80IQ) | [Fine Line](https://open.spotify.com/album/2R4MEKaLTRhMZzTXo9mhv3) | 3:31 | 2022-05-13 | 2022-05-20 |
+| [Fireworks](https://open.spotify.com/track/3Y7omwsDJdFCPnfzrlU4J6) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Fireworks](https://open.spotify.com/album/1jjaT5DFXEu1bJUEiH6k5a) | 3:09 | 2022-08-12 |  |
 | [First Time](https://open.spotify.com/track/3CusVXKAMVGcxv9NcB4mHP) | [Brooks Huntley](https://open.spotify.com/artist/0qkwQ7ZLjeOdypr1UQCe9m) | [First Time](https://open.spotify.com/album/1qO6Xi9yMZEhLGKZqsVmcc) | 3:08 | 2021-12-31 |  |
 | [Fix You Too](https://open.spotify.com/track/2dOz227iHvVgTiVDVHOicN) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Fix You Too](https://open.spotify.com/album/2OJmbi6N4nP1yDIJRYdHot) | 3:07 | 2022-07-15 |  |
 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 | 2022-07-29 |  |
@@ -95,6 +96,7 @@
 | [In My Head](https://open.spotify.com/track/6Nk2OjwtxyrNeP6v8Y5s8b) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [In My Head](https://open.spotify.com/album/6aFXC1z6tjtpYfS2CylqeW) | 3:30 | 2022-06-24 |  |
 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 | 2021-12-31 |  |
 | [Jealous of the Sun](https://open.spotify.com/track/28RKuL2HO40ZQkrmOrL2C9) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Jealous of the Sun](https://open.spotify.com/album/2scEI8g9oSSqagxctpMQEj) | 3:23 | 2021-12-31 | 2022-02-12 |
+| [Just Like July](https://open.spotify.com/track/6AV8mVeFUk0seEUx9m04zL) | [Anslee Davidson](https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7) | [Just Like July](https://open.spotify.com/album/3B0vTKdSiAYKG3zp49qzTM) | 3:14 | 2022-08-12 |  |
 | [Kinda](https://open.spotify.com/track/7k4eO6vkBNU9OO8LAonra4) | [Jake Rose](https://open.spotify.com/artist/6uj6GUVOExWu9W98Gq5i98) | [Kinda](https://open.spotify.com/album/0ldOhc6vksH0Eja0Eai5Oi) | 2:26 | 2021-12-31 |  |
 | [King Of The World](https://open.spotify.com/track/6yK2aEEVtYTmQ2ca3wja3S) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [King Of The World](https://open.spotify.com/album/2YP4ubZ2u87XOAkeRaKwlU) | 3:19 | 2022-04-15 |  |
 | [Kiss About It](https://open.spotify.com/track/4atQ9Mu2f3s4ym4U2y811i) | [Cash Campbell](https://open.spotify.com/artist/57niI6IBcl5QLGLY45pEdw) | [Kiss About It](https://open.spotify.com/album/0H8cRuaKhqv98RjOWowmN7) | 3:16 | 2021-12-31 | 2022-01-08 |

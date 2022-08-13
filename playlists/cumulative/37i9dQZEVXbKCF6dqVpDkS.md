@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-713 songs - 1 day 13 hr 15 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+714 songs - 1 day 13 hr 19 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [AMS \- BCN](https://open.spotify.com/track/0TMysfbsGcUHv8zYL9DFpj) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [AMS \- BCN](https://open.spotify.com/album/5MNOw6rs4svzemQ0VgO7X0) | 2:52 | 2021-07-11 | 2021-07-18 |
 | [Amsterdam](https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Amsterdam](https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3) | 2:53 | 2022-01-15 | 2022-06-19 |
 | [Amsterdam](https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Amsterdam](https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz) | 2:52 | 2021-10-13 | 2021-10-23 |
-| [Amsterdam](https://open.spotify.com/track/7lP1zUASWfS5TLBdQDj3DA) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Amsterdam](https://open.spotify.com/album/7KHdVm9HMTNUfdeyUO1zeW) | 2:52 | 2021-10-23 |  |
+| [Amsterdam](https://open.spotify.com/track/7lP1zUASWfS5TLBdQDj3DA) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Amsterdam](https://open.spotify.com/album/7KHdVm9HMTNUfdeyUO1zeW) | 2:52 | 2021-10-23 | 2022-08-13 |
 | [Anders](https://open.spotify.com/track/2gAxRaBbFvQpRlSKDd2MCM) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 3:41 | 2022-01-29 | 2022-02-05 |
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2021-04-26 | 2021-05-16 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-03-09 |  |
@@ -330,6 +330,7 @@
 | [Ik Ben Kachel](https://open.spotify.com/track/0rEuuYpZ2yWU6ppTJpe9wT) | [OBZ](https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA) | [Ik Ben Kachel](https://open.spotify.com/album/3ygyqKtepTq08YA0SGPAgr) | 3:27 | 2022-06-26 | 2022-07-06 |
 | [Ik Ga Zwemmen](https://open.spotify.com/track/6u5qi5Va5afHWJ18fHjJyi) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Ga Zwemmen](https://open.spotify.com/album/3EjQWN7jICXAxg5iL0ob7j) | 2:59 | 2021-08-02 | 2022-07-05 |
 | [Ik Heb Je \(met Henkie T & Yssi SB\)](https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Ik Heb Je](https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz) | 3:14 | 2021-10-03 | 2021-10-11 |
+| [IK TRIP 'M](https://open.spotify.com/track/5gRYw2JYH3QUr5k2BQvpFZ) | [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb) | [IK TRIP 'M](https://open.spotify.com/album/2mv5IRXfeUNzqHnrlDRera) | 3:07 | 2022-08-12 |  |
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-06-10 | 2021-09-29 |
 | [In De Goot](https://open.spotify.com/track/0e0vYAPSEvR9wkiCGE2nin) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [In De Goot](https://open.spotify.com/album/7Kq3g34php4lnzdfP8CjaS) | 2:33 | 2022-06-11 | 2022-07-03 |
 | [In De Nacht](https://open.spotify.com/track/5Epo9KIQxMprDVCaPzfnys) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [In De Nacht](https://open.spotify.com/album/6fyLVAtPIAPNc4twVtiyXo) | 3:26 | 2021-10-23 | 2022-03-13 |

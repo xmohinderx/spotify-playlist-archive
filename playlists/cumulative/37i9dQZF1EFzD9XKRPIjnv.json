@@ -874,6 +874,28 @@
     },
     {
       "album": {
+        "name": "Sex Music 2022",
+        "url": "https://open.spotify.com/album/073OlgyLvyBMC4PhZfzMgk"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "High",
+      "url": "https://open.spotify.com/track/06XpRLWimmj4dauJN10slW"
+    },
+    {
+      "album": {
         "name": "Musicas para Fuder",
         "url": "https://open.spotify.com/album/3i2OgGH7zU9uv16Z9zECgP"
       },
@@ -933,7 +955,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 196706,
       "name": "High (& Dua Lipa)",
       "url": "https://open.spotify.com/track/3dD9yyYTQ73SZvyOygyKva"

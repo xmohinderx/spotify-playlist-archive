@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: DellaXOZ
 
-992 songs - 2 day 10 hr 59 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+994 songs - 2 day 11 hr 5 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2.](https://open.spotify.com/track/3ahMoKvNOADvZ8zD0MNLLC) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq), [Search Party Animal](https://open.spotify.com/artist/2SdChJVcsPBYIrFDsjc72Z) | [2.](https://open.spotify.com/album/2XWc8IIONjuxbTCQXq14Dd) | 3:20 | 2021-04-09 | 2021-05-21 |
 | [21/04/20](https://open.spotify.com/track/3a6Bj474rn6AGwRGgNBFMp) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation II](https://open.spotify.com/album/5rNCZ6U1GRpP3BULqeIIgN) | 3:02 | 2021-04-23 | 2021-05-21 |
 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2021-11-26 | 2022-02-04 |
+| [3 Pound Pints](https://open.spotify.com/track/5NBXebY5O7Q8EGXo6R7zoK) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [3 Pound Pints](https://open.spotify.com/album/6QQdto2JCrakFVK0PVhs13) | 2:10 | 2022-08-11 |  |
 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 | 2021-09-10 | 2021-10-29 |
 | [405 \- Metronomy x Biig Piig](https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [405 \- Metronomy x Biig Piig](https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi) | 4:25 | 2021-09-17 | 2021-10-29 |
 | [4AM](https://open.spotify.com/track/0DZR0DvzNAOqEA9d1R78gS) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody), [Wolfgang Flür](https://open.spotify.com/artist/2bXLBqSNmadcnCjRQaePRj) | [4AM](https://open.spotify.com/album/5KtRQ7foThUhGLBdHgEJkU) | 4:43 | 2022-07-28 |  |
@@ -737,6 +738,7 @@
 | [Savannah](https://open.spotify.com/track/4oes0FIEuGTlSLDmUMVdwc) | [DEWEY](https://open.spotify.com/artist/00qXkZH8ggiTZqn3z4ocQ7) | [Savannah](https://open.spotify.com/album/4Wj6IfYRbKiNSp47xoBVhd) | 4:06 | 2020-10-16 | 2020-11-20 |
 | [Say It](https://open.spotify.com/track/6PyZGb1rB7oLKCICWTmGYa) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:40 | 2021-03-08 | 2021-03-09 |
 | [Say What You Will](https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Say What You Will](https://open.spotify.com/album/2SCoCvaMwKuORfPTK7B33O) | 4:40 | 2021-07-23 | 2021-08-20 |
+| [Sci\-Fi](https://open.spotify.com/track/63Ycrpi5da05jRSG5qGPM9) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Sci\-Fi](https://open.spotify.com/album/1FrpZt5NaPZlmdNonpKVse) | 2:56 | 2022-08-11 |  |
 | [Science Fair](https://open.spotify.com/track/7lXLUOrEnz0ZVenSnO3NWv) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Science Fair](https://open.spotify.com/album/6O6mwM5RhR27oacgA7xxMU) | 6:20 | 2020-10-30 | 2021-01-15 |
 | [Scrambled Tricks](https://open.spotify.com/track/1cHYDnLAxWViNcokpzxjMT) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Scrambled Tricks](https://open.spotify.com/album/6rf2cQjKufkdYacRQhDsfU) | 2:22 | 2022-06-24 |  |
 | [Sea Demon](https://open.spotify.com/track/7h9Qb2MMCCALucfx2Tglzt) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Sea Demon](https://open.spotify.com/album/5Ah4JlqxlgK6hHfd1wg72f) | 2:54 | 2021-09-03 | 2021-10-29 |

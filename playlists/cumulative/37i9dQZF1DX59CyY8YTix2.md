@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: リーガルリリー \(Regallily\)
 
-524 songs - 1 day 9 hr 51 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+525 songs - 1 day 9 hr 53 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Hazy](https://open.spotify.com/track/4FVa8gBOeGfudL1RBUbGB1) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [Hazy](https://open.spotify.com/album/2Gtmx2juAWHnng5a6CIElX) | 3:34 | 2022-05-26 | 2022-06-01 |
 | [Hello](https://open.spotify.com/track/4S1uySqJu78dzQqE6fRYpD) | [Hi Cheers!](https://open.spotify.com/artist/3FtZDTzCnJcwj722rHC53o) | [Hello](https://open.spotify.com/album/52eN8y1YMIh7G6JvhjggCs) | 3:36 | 2022-06-21 | 2022-07-08 |
 | [Here](https://open.spotify.com/track/6QUB4Q7E9FCcGE8jFKDzxi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Moving Days](https://open.spotify.com/album/2kYsJo5o2lMbctAPWMYsqi) | 5:26 | 2022-06-07 | 2022-07-23 |
+| [Hey! Stay by my side!](https://open.spotify.com/track/5IDfSmahBmnRrbbEZiOjNF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Hey! Stay by my side!](https://open.spotify.com/album/64DJ8QPZHszlBdA0R9SeZz) | 2:27 | 2022-08-11 |  |
 | [hide and seek](https://open.spotify.com/track/6F4lTc2TJxGIy60AC5Y4Tf) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [hide and seek](https://open.spotify.com/album/6SRhWB0D2HOLNeKUurGb1d) | 2:04 | 2022-06-27 | 2022-07-21 |
 | [HOME](https://open.spotify.com/track/0XpmARPe6ogeB3QlKcot6R) | [室田夏海](https://open.spotify.com/artist/6ztutPVgQQELxy0clZEGKF) | [HOME](https://open.spotify.com/album/1hqlSmgJUwG5tc60o33zwF) | 3:20 | 2022-06-02 | 2022-06-08 |
 | [Honey](https://open.spotify.com/track/5fOLC1RDNcqkDLcemd3n3i) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 3:10 | 2022-06-07 | 2022-07-19 |
@@ -100,7 +101,7 @@
 | [Laid back \(feat\. Kazma Kobayashi\)](https://open.spotify.com/track/5EwJvQdjjvBbKrZQzShYIR) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s), [Kazuma Kobayashi](https://open.spotify.com/artist/2Alp7bBEvBhzmxDaiHtSXZ) | [Bearwear/The tiva](https://open.spotify.com/album/5XAIEWhmdFMVt6Cagjd8BN) | 3:54 | 2022-05-26 | 2022-07-16 |
 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 | 2022-05-26 |  |
 | [lean forward](https://open.spotify.com/track/6YXm0b3TVVGOz1K82ye05R) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [lean forward](https://open.spotify.com/album/22QvSMhfacTzmNNmvVkIOO) | 4:30 | 2022-06-28 | 2022-06-30 |
-| [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 | 2022-06-02 |  |
+| [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 | 2022-06-02 | 2022-08-13 |
 | [Leon](https://open.spotify.com/track/0ctWWj9EtgPRx61Z6nw06r) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Reveal](https://open.spotify.com/album/0hK64US1J7Tt2F07xNsxsS) | 3:33 | 2022-06-16 | 2022-07-29 |
 | [LiE LiE LiE](https://open.spotify.com/track/6XH4XZRcMAKfCE3fjyM6vI) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [LiE LiE LiE](https://open.spotify.com/album/3LgdW4j5F11p7tfDPfGjaD) | 2:55 | 2022-07-12 | 2022-07-15 |
 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 | 2022-05-26 | 2022-07-27 |

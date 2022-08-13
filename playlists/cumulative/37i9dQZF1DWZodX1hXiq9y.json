@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 410373,
       "name": "Abraxas",
       "url": "https://open.spotify.com/track/4TLC5QFrgt4STktauA5G68"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 313013,
       "name": "All of You",
       "url": "https://open.spotify.com/track/00M3x3gYIj8sbO6SPVa2oz"
@@ -249,6 +249,46 @@
       "duration_ms": 454720,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
+    },
+    {
+      "album": {
+        "name": "The Bad Plus Joshua Redman",
+        "url": "https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412613,
+      "name": "As This Moment Slips Away",
+      "url": "https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd"
+    },
+    {
+      "album": {
+        "name": "The Magnificent Charlie Parker",
+        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162805,
+      "name": "Au Privave - Take 3 Master",
+      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
     },
     {
       "album": {
@@ -511,7 +551,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 446194,
       "name": "Blues in G Flat",
       "url": "https://open.spotify.com/track/0Ue2r9lo6Af2Ix8V1OJWy4"
@@ -533,6 +573,24 @@
       "duration_ms": 187893,
       "name": "Blues In Pig Alley",
       "url": "https://open.spotify.com/track/63FHjEdLJDR1VStrTg9LmY"
+    },
+    {
+      "album": {
+        "name": "You're Driving Me Crazy",
+        "url": "https://open.spotify.com/album/0BE0WOuZalUmHhg76lKup5"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188226,
+      "name": "Blues in Pig Alley",
+      "url": "https://open.spotify.com/track/0KH7vOWkGMs1IXgrllV20R"
     },
     {
       "album": {
@@ -734,6 +792,24 @@
     },
     {
       "album": {
+        "name": "Giant Steps (Mono)",
+        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145115,
+      "name": "Countdown - Mono",
+      "url": "https://open.spotify.com/track/0V2dEdN7vtaoIiR4MKY2vR"
+    },
+    {
+      "album": {
         "name": "Four For Trane",
         "url": "https://open.spotify.com/album/3sAkK5Zm8cigSNCgeoAqOa"
       },
@@ -835,7 +911,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 458560,
       "name": "Den Tex - Remastered",
       "url": "https://open.spotify.com/track/3HPiRAD1iqEdjCWk4MrrFy"
@@ -961,7 +1037,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 368053,
       "name": "Eco - Remastered",
       "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
@@ -1076,6 +1152,28 @@
     },
     {
       "album": {
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400560,
+      "name": "Funkallero",
+      "url": "https://open.spotify.com/track/265nuzhZ75CqbXvuQcDEvv"
+    },
+    {
+      "album": {
         "name": "Giant Steps (2020 Remaster)",
         "url": "https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp"
       },
@@ -1105,7 +1203,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 444840,
       "name": "Haghia Sophia",
       "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
@@ -1413,7 +1511,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 447600,
       "name": "J.E.V.",
       "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
@@ -1431,7 +1529,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 605013,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
@@ -1827,7 +1925,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 329200,
       "name": "New Days",
       "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
@@ -1853,7 +1951,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 315520,
       "name": "Nigeria",
       "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
@@ -2046,6 +2144,36 @@
     },
     {
       "album": {
+        "name": "Twio",
+        "url": "https://open.spotify.com/album/2ekSSgd5FCCjgkMwT3qVXb"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        },
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367773,
+      "name": "On the Trail",
+      "url": "https://open.spotify.com/track/5MKKKVSZZalOWxwTfIDxkO"
+    },
+    {
+      "album": {
         "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
         "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
       },
@@ -2129,7 +2257,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 485920,
       "name": "Pannonica",
       "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
@@ -2361,7 +2489,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 304733,
       "name": "Salt And Pepper",
       "url": "https://open.spotify.com/track/1FISZKmm2qIIbh5dZttoFi"
@@ -2401,7 +2529,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 578880,
       "name": "Slidin' Through",
       "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
@@ -2634,6 +2762,24 @@
     },
     {
       "album": {
+        "name": "Very Cool",
+        "url": "https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485013,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7EzUxzOUcq6HocnqSUr8JT"
+    },
+    {
+      "album": {
         "name": "Very Cool + Tranquillity",
         "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
       },
@@ -2771,7 +2917,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 799425,
       "name": "The Last Train",
       "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
@@ -2789,7 +2935,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 447466,
       "name": "The Mac Man",
       "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
@@ -2977,7 +3123,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 497906,
       "name": "Vertigo - Remastered",
       "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
@@ -3319,7 +3465,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 549520,
       "name": "Zec",
       "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"

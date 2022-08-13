@@ -1052,6 +1052,28 @@
     },
     {
       "album": {
+        "name": "Gunsmoke Blues (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188973,
+      "name": "Gunsmoke Blues (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
+    },
+    {
+      "album": {
         "name": "Hangover Blues",
         "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
       },

@@ -1162,6 +1162,28 @@
     },
     {
       "album": {
+        "name": "Ghouroub",
+        "url": "https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423414,
+      "name": "Ya Dam3i",
+      "url": "https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG"
+    },
+    {
+      "album": {
         "name": "Ya Ghali",
         "url": "https://open.spotify.com/album/4sYmsgBNSQrOXjV4GqmbHE"
       },

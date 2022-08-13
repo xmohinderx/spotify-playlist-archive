@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 
 ### [Energy Booster: Pop](https://open.spotify.com/playlist/37i9dQZF1DX0vHZ8elq0UK)
 
-> Need to get your energy level up? This will help!
+> Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,849 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,333 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 | 149 | [Wings](https://open.spotify.com/track/3180WDzph4WrS4sLSNcGfa) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:41 |
 | 150 | [One Day](https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [One Day](https://open.spotify.com/album/5CDBGbuOAyXOAefzMLbXuZ) | 2:32 |
 
-Snapshot ID: `MTY2MDIxMTAxNywwMDAwMDAwMDUwYmIyN2RkOWM1N2E1ZjZiZWM4NmYzMjY0NGJlOWQ3`
+Snapshot ID: `MTY2MDMwNzQ0NiwwMDAwMDAwMDdlYjk1YjZlMmQ0MzQ2Nzc4MThhODMyYWE0NDJmMzY0`

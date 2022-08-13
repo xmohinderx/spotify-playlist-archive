@@ -1,12 +1,12 @@
 {
-  "description": "The hottest Afropop records on the planet. Cover: <a href=\"https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=iTVSZI1LTiuiQNsbEmFzuA\"> Mr Eazi </a>  ",
-  "num_followers": 345032,
+  "description": "The hottest Afropop records on the planet. Cover: <a href=\"https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW?si=ilnXOEf6RyCGlkb_LCZl6Q\"> Jux </a>  ",
+  "num_followers": 345342,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3NDAzNiwwMDAwMDAwMGZmMzQ0MzJmYjFhYzE4ZDhhNjM5M2M4MmI3ZDNiYWZm",
+  "snapshot_id": "MTY2MDI4MTgwNCwwMDAwMDAwMDE2YTFmNzVhZDY1YWVmYTg3NDdjNzVjYTc1YjgwZDlm",
   "tracks": [
     {
       "added_at": "2022-07-07 23:00:00",
@@ -29,20 +29,32 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
-      "added_at": "2022-08-05 04:33:56",
+      "added_at": "2022-08-12 05:23:24",
       "album": {
-        "name": "Personal Baby",
-        "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
+        "name": "Nice (Kiss)",
+        "url": "https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
         }
       ],
-      "duration_ms": 173646,
-      "name": "Personal Baby",
-      "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
+      "duration_ms": 297857,
+      "name": "Nice (Kiss)",
+      "url": "https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1093,20 +1105,20 @@
       "url": "https://open.spotify.com/track/771tThfRECkaHjTKb6clZx"
     },
     {
-      "added_at": "2022-06-08 08:17:45",
+      "added_at": "2022-08-05 04:33:56",
       "album": {
-        "name": "Summer Yomuthi",
-        "url": "https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW"
+        "name": "Personal Baby",
+        "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
       },
       "artists": [
         {
-          "name": "Blaq Diamond",
-          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 273600,
-      "name": "Summer YoMuthi",
-      "url": "https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp"
+      "duration_ms": 173646,
+      "name": "Personal Baby",
+      "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
     }
   ],
   "unique_name": "Afropop",

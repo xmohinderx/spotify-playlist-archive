@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz to get you in a good mood.
 
-142 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
+143 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Jump Up](https://open.spotify.com/track/2N4oRvZUu8RWkjdBjLQJKt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [LD+3](https://open.spotify.com/album/7LI05bZ0W1MaDccphFQqzj) | 6:37 | 2022-01-13 |  |
 | [Just Friends](https://open.spotify.com/track/3LaeuU3ARGFpakTK7o06Ue) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Carmelo Leotta](https://open.spotify.com/artist/5XjdbxwJFTIrDkSVQNhn0k), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [Barcode](https://open.spotify.com/album/5dHw1e3fXPa7efFkzAR0V8) | 5:20 | 2021-12-17 | 2022-07-29 |
 | [Just Friends](https://open.spotify.com/track/795N79I1xfTR1FnfL7J8pp) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Carmelo Leotta](https://open.spotify.com/artist/5XjdbxwJFTIrDkSVQNhn0k), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [Barcode](https://open.spotify.com/album/36Xt075p8VSDs0wTkfcciE) | 5:20 | 2022-06-29 |  |
+| [Just You, Just Me](https://open.spotify.com/track/5beii4gDylW7eFnWJ1uZaH) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 7:37 | 2022-08-12 |  |
 | [K.D.'s Motion \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/6CuppdxxPFj7v81NCHfaJa) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Afro\-Cuban \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ) | 5:28 | 2022-01-13 |  |
 | [Keepin' It Real](https://open.spotify.com/track/0RpoxmvBTYAE1wvAliVzjK) | [Bobby Watson](https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ) | [Keepin' It Real](https://open.spotify.com/album/0kdRFLe5A9IvAA81P3yCCZ) | 7:08 | 2021-12-17 | 2022-07-29 |
 | [Keepin' It Real](https://open.spotify.com/track/3Nyx99YpA8OEL6XVAgU6gZ) | [Bobby Watson](https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ) | [Keepin' It Real](https://open.spotify.com/album/3P5wS8FWs63cAV2WxpD4bq) | 7:08 | 2022-06-29 |  |

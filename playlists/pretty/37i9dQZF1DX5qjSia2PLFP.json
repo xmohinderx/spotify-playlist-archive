@@ -1,13 +1,169 @@
 {
-  "description": "New music breaking waves.  Cover: bLAck pARty",
-  "num_followers": 17543,
+  "description": "New music breaking waves.  Cover: Doechii",
+  "num_followers": 17576,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY4MDQ0OSwwMDAwMDAwMDU2ZjhlMTY5YzM4YjY3MjgyYThjODdhZTBkMmJhYmVm",
+  "snapshot_id": "MTY2MDI4Nzg5NywwMDAwMDAwMDllY2QwODIzOTYwYTc0ZWM3MTNjN2EyMmM5OGNmYzBk",
   "tracks": [
+    {
+      "added_at": "2022-08-05 06:20:49",
+      "album": {
+        "name": "JUST SAY THAT (Remix) (feat. Quavo & GloRilla)",
+        "url": "https://open.spotify.com/album/4YaTl6b04ax8sSywFGcrPC"
+      },
+      "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 278443,
+      "name": "JUST SAY THAT (Remix) (feat. Quavo & GloRilla)",
+      "url": "https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc"
+    },
+    {
+      "added_at": "2022-08-12 07:04:57",
+      "album": {
+        "name": "Pretty In Black (Deluxe)",
+        "url": "https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 123636,
+      "name": "AVENTADOR",
+      "url": "https://open.spotify.com/track/2NhVY8tOBvbQRCLvBXFrUJ"
+    },
+    {
+      "added_at": "2022-08-12 07:04:57",
+      "album": {
+        "name": "Immaculate",
+        "url": "https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Immaculate",
+      "url": "https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3"
+    },
+    {
+      "added_at": "2022-08-12 07:04:57",
+      "album": {
+        "name": "803MAYJOR VOL. 1",
+        "url": "https://open.spotify.com/album/1dlNnLmFEu4gzUpT2ob5qp"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 80883,
+      "name": "WILD WILD WEST",
+      "url": "https://open.spotify.com/track/0XorGtwWuDhvbjbqNVxQXY"
+    },
+    {
+      "added_at": "2022-08-12 07:04:57",
+      "album": {
+        "name": "DIAMOND DALLAS.",
+        "url": "https://open.spotify.com/album/5bWtO72zAGUbqaWOuK0zcl"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 168117,
+      "name": "DIAMOND DALLAS.",
+      "url": "https://open.spotify.com/track/0hZAwaGhANCzy84BJHtILG"
+    },
+    {
+      "added_at": "2022-08-12 07:04:57",
+      "album": {
+        "name": "Arrogant",
+        "url": "https://open.spotify.com/album/1oDxRgxS0Bj7atLNd7E7dr"
+      },
+      "artists": [
+        {
+          "name": "Sainte",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Arrogant",
+      "url": "https://open.spotify.com/track/6fugJLhec4sxCmooCeklD9"
+    },
+    {
+      "added_at": "2022-08-12 07:04:57",
+      "album": {
+        "name": "Picture in my mind",
+        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Picture in my mind",
+      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+    },
+    {
+      "added_at": "2022-08-12 07:04:57",
+      "album": {
+        "name": "No Closure",
+        "url": "https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 185997,
+      "name": "No Closure",
+      "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
+    },
+    {
+      "added_at": "2022-08-12 07:04:57",
+      "album": {
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+      },
+      "artists": [
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+        }
+      ],
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
+    },
     {
       "added_at": "2022-08-05 06:20:49",
       "album": {
@@ -29,28 +185,24 @@
       "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
     },
     {
-      "added_at": "2022-08-05 06:20:49",
+      "added_at": "2022-08-12 07:04:57",
       "album": {
-        "name": "JUST SAY THAT (Remix) (feat. Quavo & Glorilla)",
-        "url": "https://open.spotify.com/album/4YaTl6b04ax8sSywFGcrPC"
+        "name": "Persuasive (with SZA)",
+        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
       },
       "artists": [
         {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 278443,
-      "name": "JUST SAY THAT (Remix) (feat. Quavo & Glorilla)",
-      "url": "https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc"
+      "duration_ms": 210346,
+      "name": "Persuasive (with SZA)",
+      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
       "added_at": "2022-08-05 06:20:49",
@@ -727,158 +879,6 @@
       "duration_ms": 116571,
       "name": "By My Side (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/3Dh8wVPKowAxy0aGYZIVAA"
-      },
-      "artists": [
-        {
-          "name": "Chanel Loren",
-          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
-        }
-      ],
-      "duration_ms": 170248,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Spring Cleaning",
-        "url": "https://open.spotify.com/album/7IJW92NOjPepBorGcCSJBQ"
-      },
-      "artists": [
-        {
-          "name": "Bairi",
-          "url": "https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP"
-        }
-      ],
-      "duration_ms": 132540,
-      "name": "Spring Cleaning",
-      "url": "https://open.spotify.com/track/2JkXhRy52nxXS6Fgx8kimn"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "SCARLET",
-        "url": "https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k"
-      },
-      "artists": [
-        {
-          "name": "Benita",
-          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
-        }
-      ],
-      "duration_ms": 169498,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/2ARyZvxGYqUaUgAtqwyBsq"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Call 2 The Diaspora",
-        "url": "https://open.spotify.com/album/5lU5yTkm8LBPh6on2BOyhb"
-      },
-      "artists": [
-        {
-          "name": "Mwanje",
-          "url": "https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Call 2 The Diaspora",
-      "url": "https://open.spotify.com/track/3iqfgfU9k5AtkRSdsIthoi"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "B4BMG: The Experience",
-        "url": "https://open.spotify.com/album/1EeapC8eRWGPZkfPJrvPSs"
-      },
-      "artists": [
-        {
-          "name": "TyFontaine",
-          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
-        }
-      ],
-      "duration_ms": 123053,
-      "name": "LOVE4FREE",
-      "url": "https://open.spotify.com/track/3zoXpiq5f5q87a2xnGdAdQ"
-    },
-    {
-      "added_at": "2022-05-06 04:15:57",
-      "album": {
-        "name": "Ghetto Praise",
-        "url": "https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc"
-      },
-      "artists": [
-        {
-          "name": "Jay 305",
-          "url": "https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        }
-      ],
-      "duration_ms": 193756,
-      "name": "Ghetto Praise",
-      "url": "https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "FOREVER FIGUEROA 2",
-        "url": "https://open.spotify.com/album/0DVvePo3RyEeGE6BArKnsc"
-      },
-      "artists": [
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        }
-      ],
-      "duration_ms": 117504,
-      "name": "BUDDAH ARMS",
-      "url": "https://open.spotify.com/track/7AuogiLJdOZop0gEhqD1gT"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "AINT NOBODY COOL",
-        "url": "https://open.spotify.com/album/0Vr0ETwAJxwGSstVwOhQo0"
-      },
-      "artists": [
-        {
-          "name": "Idontknowjeffery",
-          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
-        },
-        {
-          "name": "RXK Nephew",
-          "url": "https://open.spotify.com/artist/2TsbsGsq2Jkj2qeNCITEBq"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Price So High",
-      "url": "https://open.spotify.com/track/1YHC1Gk86WpGJ1CjbxUYLY"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "bloom!",
-        "url": "https://open.spotify.com/album/3PFYIt7KLgjS34js0Wsz8i"
-      },
-      "artists": [
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 87576,
-      "name": "bloom!",
-      "url": "https://open.spotify.com/track/67hbTDETlOrG5rGjhvnXux"
     }
   ],
   "unique_name": "Ripple Effect",

@@ -1,13 +1,97 @@
 {
   "description": "The hottest Hip-Hop of today all over the world.  (Cover:  The Game)",
-  "num_followers": 402238,
+  "num_followers": 402360,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzMDAwMCwwMDAwMDAwMDg4NmVjNzgxNDgwYzQ2MzYyZWZlMGM5YWY5ZTkyN2Rh",
+  "snapshot_id": "MTY2MDIzMDAwMCwwMDAwMDAwMDYyNWUzMWE0YThlYWRlYzE4NDk2ODg3YjBiMDFjNjI5",
   "tracks": [
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "DRILLMATIC Heart vs. Mind",
+        "url": "https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        },
+        {
+          "name": "CHILLER",
+          "url": "https://open.spotify.com/artist/3klsOr0E1Vro9ojNeiHkWQ"
+        }
+      ],
+      "duration_ms": 235872,
+      "name": "Fortunate (Feat. Kanye West, Dreezy & CHILLER)",
+      "url": "https://open.spotify.com/track/1w3CY37sZRF124apyxxzH2"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "DRILLMATIC Heart vs. Mind",
+        "url": "https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 625793,
+      "name": "The Black Slim Shady",
+      "url": "https://open.spotify.com/track/4I3rFSrhlsrRiFn0G2CW7P"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 188964,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh"
+    },
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
@@ -171,6 +255,42 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/0q8IQGk6wdsplmtxTcLyfG"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 150780,
+      "name": "SAY LESS (with French Montana)",
+      "url": "https://open.spotify.com/track/5MHWydvAwPPpCtW95txrIS"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 213288,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/557DLyFeg06jCV2cpT005C"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
         "name": "Community D**k (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/7CpjNiYREFDviV1IpdoSfq"
       },
@@ -187,6 +307,46 @@
       "duration_ms": 190926,
       "name": "Community D**k (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/5IVPl9SbDAe28LCRHBNpBa"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "Nigga Now",
+        "url": "https://open.spotify.com/album/1KOvN1fAbx5v4083QlA7al"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 194923,
+      "name": "Nigga Now (feat. Tech N9ne)",
+      "url": "https://open.spotify.com/track/4KDPQhJXXE3DILEbOXBltl"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "MING LING (feat. Yung Raja)",
+        "url": "https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        }
+      ],
+      "duration_ms": 163780,
+      "name": "MING LING (feat. Yung Raja)",
+      "url": "https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -211,6 +371,26 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
+        "name": "Somedays",
+        "url": "https://open.spotify.com/album/7wFo8l8GxXiztEjDyVBnox"
+      },
+      "artists": [
+        {
+          "name": "80 Empire",
+          "url": "https://open.spotify.com/artist/1E9J4hV2WmL5I3aE3RawEO"
+        },
+        {
+          "name": "7xvethegenius",
+          "url": "https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Somedays",
+      "url": "https://open.spotify.com/track/4EDgWcaPUNMOUMgNVhNznm"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
         "name": "MURDAMAN! (feat. Chief Keef)",
         "url": "https://open.spotify.com/album/4MAiy2yUEGl1Pkx5arNtxO"
       },
@@ -227,6 +407,22 @@
       "duration_ms": 222798,
       "name": "MURDAMAN! (feat. Chief Keef)",
       "url": "https://open.spotify.com/track/32DFtWSM5SpEAHcyzW3m0A"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "The Heaven Experience, Vol. 1",
+        "url": "https://open.spotify.com/album/0lQUDDBMXBJGaRVeRTXnci"
+      },
+      "artists": [
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/0NERHZ0a3KX3BUPHi88bUj"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -267,6 +463,38 @@
       "duration_ms": 177865,
       "name": "Georgetown (feat. John Agard)",
       "url": "https://open.spotify.com/track/1TFI1ltSMuCIoEc7as1Wvy"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "Dead Wrong",
+        "url": "https://open.spotify.com/album/3znv6GDb3h4zrDGHTZpyFj"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "duration_ms": 157821,
+      "name": "Dead Wrong",
+      "url": "https://open.spotify.com/track/2RWHnUfoeI5RPU3EINDl3R"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "Jaguar",
+        "url": "https://open.spotify.com/album/2n1yOyunYZ8TVeHkPBFzwd"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "duration_ms": 250170,
+      "name": "Jaguar",
+      "url": "https://open.spotify.com/track/0nHKapDyGEnX6uLz6VZZXz"
     },
     {
       "added_at": "2022-08-11 15:00:00",

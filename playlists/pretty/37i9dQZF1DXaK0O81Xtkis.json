@@ -1,13 +1,29 @@
 {
   "description": "make it pop! cover: King Princess",
-  "num_followers": 197379,
+  "num_followers": 197418,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGE2OWIyNjlkNDI0ZjAyN2FjOTgzZDBmNTI3MGM2M2Zl",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDQxYWUxMWU4NTE0YWE0NzgyMzJiZDRhZmI2YTZjN2E2",
   "tracks": [
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/635j5Fdn0ZKF7fhPhJU7e6"
+      },
+      "artists": [
+        {
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+        }
+      ],
+      "duration_ms": 166569,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/5DYZiEZfIKBEEwhiTXhLND"
+    },
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Backpack",
-        "url": "https://open.spotify.com/album/5J4h56xIvfwj8Dppu6ArF1"
+        "name": "Give Me A Kiss",
+        "url": "https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw"
       },
       "artists": [
         {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
         }
       ],
-      "duration_ms": 177095,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/6c2GmMxmjmDbytdyXpHPvw"
+      "duration_ms": 169204,
+      "name": "Give Me A Kiss",
+      "url": "https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -55,6 +71,42 @@
       "duration_ms": 233088,
       "name": "Let Us Die",
       "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "I hope you're well in these crazy times",
+        "url": "https://open.spotify.com/album/4jJpB6oqm4IiyyUYqetD7i"
+      },
+      "artists": [
+        {
+          "name": "courtship.",
+          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
+        }
+      ],
+      "duration_ms": 182590,
+      "name": "Sheryl Crow",
+      "url": "https://open.spotify.com/track/3YDMI9nKu5mbYYt0ODKkSu"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "WHO HURT YOU?",
+        "url": "https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 216194,
+      "name": "The Look (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -89,6 +141,102 @@
       "url": "https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz"
     },
     {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/08UKPRDFopACdPdjkdZ52G"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 148712,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5zsMuiYeqw2JoSBulihbwo"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2"
+      },
+      "artists": [
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        },
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        },
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 169569,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27"
+      },
+      "artists": [
+        {
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Backpack",
+        "url": "https://open.spotify.com/album/5J4h56xIvfwj8Dppu6ArF1"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 177095,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/6c2GmMxmjmDbytdyXpHPvw"
+    },
+    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "kaleidoscope",
@@ -119,22 +267,6 @@
       "duration_ms": 162172,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "strawberry chainsaw",
-        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 156008,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -593,22 +725,6 @@
       "url": "https://open.spotify.com/track/6UfOWl2K7ges1EWwJEpXpu"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "I Could Do This All Night",
-        "url": "https://open.spotify.com/album/6TV5kVpf7hUVDhJ3lroF2V"
-      },
-      "artists": [
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "I Could Do This All Night",
-      "url": "https://open.spotify.com/track/4MYVPz0rYU0jhT5HtFQni3"
-    },
-    {
       "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Back in Bed",
@@ -655,22 +771,6 @@
       "duration_ms": 158656,
       "name": "Beautiful Boy",
       "url": "https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Friend Right Now",
-        "url": "https://open.spotify.com/album/4F7oZLETHlEAovFGgp4VAI"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        }
-      ],
-      "duration_ms": 153181,
-      "name": "Friend Right Now",
-      "url": "https://open.spotify.com/track/1525qKTOc3G2KJNYRG3rSQ"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -737,54 +837,6 @@
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
-      "added_at": "2022-07-01 03:58:18",
-      "album": {
-        "name": "CIGARETTES",
-        "url": "https://open.spotify.com/album/0W2PW9SzUoZYRAoYS2YKnH"
-      },
-      "artists": [
-        {
-          "name": "Zachary Knowles",
-          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
-        }
-      ],
-      "duration_ms": 149501,
-      "name": "CIGARETTES",
-      "url": "https://open.spotify.com/track/2e1SliQSsHs1YutpnfuNYC"
-    },
-    {
-      "added_at": "2022-07-01 03:58:18",
-      "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj"
-      },
-      "artists": [
-        {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
-    },
-    {
-      "added_at": "2022-07-01 03:58:18",
-      "album": {
-        "name": "bedroom",
-        "url": "https://open.spotify.com/album/755NEywIEUsh0WHJeq9mBJ"
-      },
-      "artists": [
-        {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        }
-      ],
-      "duration_ms": 100012,
-      "name": "bedroom",
-      "url": "https://open.spotify.com/track/4UXPKAbY2EoCWcbN57En0A"
-    },
-    {
       "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Like the Holidays",
@@ -815,22 +867,6 @@
       "duration_ms": 153457,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3f9gj7aK0IIrbnJ6YHDqFj"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "What's Been On Your Mind?",
-        "url": "https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 172490,
-      "name": "What's Been On Your Mind?",
-      "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -887,22 +923,6 @@
       "duration_ms": 168682,
       "name": "hate you to love myself",
       "url": "https://open.spotify.com/track/3oc1q4iEemlaf1Bb5ji061"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/517WLHJFXu00Jxxy6KyU6p"
-      },
-      "artists": [
-        {
-          "name": "Madhouse",
-          "url": "https://open.spotify.com/artist/5bScfl9QpBaP9DOmlIqQUY"
-        }
-      ],
-      "duration_ms": 105779,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/3QURQWfDKCipGVFTf5hd2k"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -987,22 +1007,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Banish The Banshee",
-        "url": "https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 170226,
-      "name": "Sunburn",
-      "url": "https://open.spotify.com/track/5QWa0fcJrAZIv9jtcHUg4J"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "Dry Spell",
         "url": "https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK"
       },
@@ -1047,38 +1051,6 @@
       "duration_ms": 177879,
       "name": "Me Myself & I",
       "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/4kfE30WhdmfdBrrRly5WPY"
-      },
-      "artists": [
-        {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
-        }
-      ],
-      "duration_ms": 151664,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1195,22 +1167,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Chelsea's Coming Over",
-        "url": "https://open.spotify.com/album/1VA0zdqUK2Y7mIHzLsUpql"
-      },
-      "artists": [
-        {
-          "name": "Little Hurt",
-          "url": "https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO"
-        }
-      ],
-      "duration_ms": 168336,
-      "name": "Chelsea's Coming Over",
-      "url": "https://open.spotify.com/track/3HmmoFYkenukJHgHFUf38A"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial"
       },
@@ -1243,22 +1199,6 @@
       "duration_ms": 187059,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/2JSwrpnYbxzKJVmc69cGZ9"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Sentimental Playback",
-        "url": "https://open.spotify.com/album/6FKK7ur4THucPZZgxlkHX5"
-      },
-      "artists": [
-        {
-          "name": "19&YOU",
-          "url": "https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/3ONd0dyKjNU4Rm63byFPbT"
     },
     {
       "added_at": "2022-06-10 04:00:00",

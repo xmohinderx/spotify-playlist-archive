@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Lizzo.",
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Sia.",
   "name": "Pop Remix",
   "published_playlist_ids": [
     "19uNHWTaOVDySWkMTC6J3e"
@@ -2483,6 +2483,28 @@
       "duration_ms": 140059,
       "name": "Freaky Deaky - R3HAB Remix",
       "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
+    },
+    {
+      "album": {
+        "name": "Free Yourself (Paul Woolford Remix)",
+        "url": "https://open.spotify.com/album/4eSdCOymBMoeuqHH1V6yeL"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181670,
+      "name": "Free Yourself - Paul Woolford Remix",
+      "url": "https://open.spotify.com/track/6HakCt8rCQejqqoB3RKj4Y"
     },
     {
       "album": {
@@ -6207,7 +6229,7 @@
       ],
       "date_added": "2021-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 189677,
       "name": "Show Me Love - Dubdogz Remix",
       "url": "https://open.spotify.com/track/3rawuN6ZSevOzM5FiAFRIO"
@@ -6607,7 +6629,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 188031,
       "name": "Still Dancing - Kito Remix",
       "url": "https://open.spotify.com/track/1XttwTKO9oQAPnAwiLrK2S"
@@ -6847,6 +6869,32 @@
       "duration_ms": 161406,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/5BEkEUIQfXc7VTKQ3Y0yKM"
+    },
+    {
+      "album": {
+        "name": "Sunroof (Loud Luxury Remix)",
+        "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        },
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173658,
+      "name": "Sunroof - Loud Luxury Remix",
+      "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
     },
     {
       "album": {

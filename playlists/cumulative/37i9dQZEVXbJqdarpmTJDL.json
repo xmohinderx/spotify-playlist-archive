@@ -504,6 +504,28 @@
     },
     {
       "album": {
+        "name": "ADRENALINA",
+        "url": "https://open.spotify.com/album/5llOuE82CLyPvoW9wzM1pb"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219661,
+      "name": "ADRENALINA",
+      "url": "https://open.spotify.com/track/0v4BTk3Vlhmfduww4WFOwA"
+    },
+    {
+      "album": {
         "name": "Aeraki (To Thiliko)",
         "url": "https://open.spotify.com/album/4tJtx4Ah4XKMoqQwnEJ0Gv"
       },
@@ -559,7 +581,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 164536,
       "name": "Aftoktonia",
       "url": "https://open.spotify.com/track/7IokpTW54OgzPu6Q3fkVHn"
@@ -4740,6 +4762,28 @@
     },
     {
       "album": {
+        "name": "Egw & Esy",
+        "url": "https://open.spotify.com/album/1zRXNHNn9OahCcQdhG5zwH"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186885,
+      "name": "Egw & Esy",
+      "url": "https://open.spotify.com/track/3N2iBFazoTUIvgcqu2PdDZ"
+    },
+    {
+      "album": {
         "name": "Egw Ki Esy",
         "url": "https://open.spotify.com/album/6Az4jJ1gutegsszavSJXsB"
       },
@@ -6111,7 +6155,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 230517,
       "name": "Gennimeni",
       "url": "https://open.spotify.com/track/4ZhJ5N8Er4CfpaNakUQTkP"

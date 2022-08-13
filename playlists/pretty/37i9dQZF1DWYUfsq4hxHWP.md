@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Anna Vaus, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,246 likes - 86 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,283 likes - 86 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

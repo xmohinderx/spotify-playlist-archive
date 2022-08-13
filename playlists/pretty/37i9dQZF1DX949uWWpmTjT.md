@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow jazz soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,723 likes - 125 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,854 likes - 125 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 124 | [Sunday](https://open.spotify.com/track/6LkPWM2a6mHTjhw2ejgIYs) | [Lee Konitz Quartet](https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj) | [Tranquility](https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F) | 3:25 |
 | 125 | [You Don't Know What Love Is](https://open.spotify.com/track/0wcQDO4yEU952sOaSiJvQF) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:28 |
 
-Snapshot ID: `MTY2MDI1NTIwMCwwMDAwMDAwMGY2Njg4NDdlNTBjY2ExZWU2ZjkxOTEzZTk0ZGJkNTYw`
+Snapshot ID: `MTY2MDMwOTE1NCwwMDAwMDAwMGJmNTNhZTQxMmVkMGYwNGUxYjc4ZmU1ZDdkNzJhMjFj`

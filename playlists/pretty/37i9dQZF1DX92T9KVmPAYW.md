@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92T9KVmPAYW.md) - [plain]
 
 > Classic Ambient and Environmental music made in Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,023 likes - 47 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,059 likes - 46 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,17 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92T9KVmPAYW.md) - [plain]
 | 33 | [Orientate](https://open.spotify.com/track/4NJ9PJPU4g7ArQcJXKqety) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 5:02 |
 | 34 | [Bananatron](https://open.spotify.com/track/03CbUuPxmE1hvo5fuCs86N) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 7:40 |
 | 35 | [Seiko 2](https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH) | 1:08 |
-| 36 | [See The Light](https://open.spotify.com/track/4T9asf08sPU9aAMiPe3wWh) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [White Morning](https://open.spotify.com/album/6iharVUME5RJn4wkC9sPmH) | 24:56 |
-| 37 | [Atrium](https://open.spotify.com/track/7CV8NzeND4AZIdKRRVAYW4) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 8:25 |
-| 38 | [Flius](https://open.spotify.com/track/7H6JZas9n5Lc3UkwWyXZoe) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons I](https://open.spotify.com/album/3UyKEfm5Yg8XUf5LmHiRDZ) | 9:32 |
-| 39 | [Ice Copy](https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 2:55 |
-| 40 | [Old Dream Spell](https://open.spotify.com/track/6y57EpCattl9PxuMRR0Vc0) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 14:49 |
-| 41 | [WASSER](https://open.spotify.com/track/3OzrPtmhcFBHguQi4i0qAp) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 4:18 |
-| 42 | [さてと](https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Dementos](https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc) | 2:49 |
-| 43 | [Evocations 2](https://open.spotify.com/track/7LsaMGZqUxbfujsF4ML0HG) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 7:11 |
-| 44 | [TO THE AIR/空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 |
-| 45 | [Hagoromo](https://open.spotify.com/track/1OAauBqF32EtJHTVsd12Zv) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 3:52 |
-| 46 | [Blink](https://open.spotify.com/track/0Bc4abgrOxonETzZupd4BE) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:44 |
-| 47 | [Tomoshibi](https://open.spotify.com/track/7lmpi4NLJ86s013B9f6XSf) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 7:00 |
+| 36 | [Atrium](https://open.spotify.com/track/7CV8NzeND4AZIdKRRVAYW4) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 8:25 |
+| 37 | [Flius](https://open.spotify.com/track/7H6JZas9n5Lc3UkwWyXZoe) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons I](https://open.spotify.com/album/3UyKEfm5Yg8XUf5LmHiRDZ) | 9:32 |
+| 38 | [Ice Copy](https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 2:55 |
+| 39 | [Old Dream Spell](https://open.spotify.com/track/6y57EpCattl9PxuMRR0Vc0) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 14:49 |
+| 40 | [WASSER](https://open.spotify.com/track/3OzrPtmhcFBHguQi4i0qAp) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 4:18 |
+| 41 | [さてと](https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Dementos](https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc) | 2:49 |
+| 42 | [Evocations 2](https://open.spotify.com/track/7LsaMGZqUxbfujsF4ML0HG) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 7:11 |
+| 43 | [TO THE AIR/空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 |
+| 44 | [Hagoromo](https://open.spotify.com/track/1OAauBqF32EtJHTVsd12Zv) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 3:52 |
+| 45 | [Blink](https://open.spotify.com/track/0Bc4abgrOxonETzZupd4BE) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:44 |
+| 46 | [Tomoshibi](https://open.spotify.com/track/7lmpi4NLJ86s013B9f6XSf) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 7:00 |
 
-Snapshot ID: `MTY1MzY0OTQ1OCwwMDAwMDAwMGZiMzcwY2FiNDNlMmJmNmI5YzBmNjNmZjBjZjBjMDg4`
+Snapshot ID: `MTY2MDMyMDAzMywwMDAwMDAwMGJmYjQ1YzNhZjFhOWIzMWYyMjA1ZjIwNWNkYjFlMDhl`

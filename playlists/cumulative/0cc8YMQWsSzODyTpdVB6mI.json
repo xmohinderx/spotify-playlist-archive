@@ -979,7 +979,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 160776,
       "name": "Recharge",
       "url": "https://open.spotify.com/track/0jweI4ue2Q3FAcBEiz2Bf0"
@@ -1023,6 +1023,28 @@
       "duration_ms": 255770,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/1WMAmiHJjj3jiQlPMFFdGi"
+    },
+    {
+      "album": {
+        "name": "Ren\u00e9 Laloux",
+        "url": "https://open.spotify.com/album/0Ai0eRRJWnJ8FnZv0IHdLn"
+      },
+      "artists": [
+        {
+          "name": "Hotel",
+          "url": "https://open.spotify.com/artist/1RfaBLjlSEdEMRMaj3dWwc"
+        },
+        {
+          "name": "Prince Matton",
+          "url": "https://open.spotify.com/artist/6QjIoVAOqLki2UAmoD5yuX"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270199,
+      "name": "Ren\u00e9 Laloux",
+      "url": "https://open.spotify.com/track/74l4tSkfHX8iLW9Kc74ePm"
     },
     {
       "album": {

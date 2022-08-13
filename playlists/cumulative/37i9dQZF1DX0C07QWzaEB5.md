@@ -4,7 +4,7 @@
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-149 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
+150 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Feel It](https://open.spotify.com/track/577eaC9LGK8hlnrNLmyUE0) | [ANDO](https://open.spotify.com/artist/5BVuWXvqlzHEQVXIiKKjoR) | [TWO HEART](https://open.spotify.com/album/6TuNNvxe3ArEVFIyvdiYdu) | 3:17 | 2021-12-07 |  |
 | [FEVER](https://open.spotify.com/track/6eKNfMj4VnioR0LcXo6ktd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:25 | 2021-12-07 |  |
 | [Find Somebody Else](https://open.spotify.com/track/1t6ewrLUZ5RrhPKc9PkatT) | [KhaN](https://open.spotify.com/artist/2MvqBmsKl7mOXVWQQqbmNH) | [1987](https://open.spotify.com/album/4T4nrZWwcw0aJScpg2jzYQ) | 3:26 | 2021-12-07 |  |
+| [GO](https://open.spotify.com/track/7lK9XQFIMihBvPy2jIpqXy) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR) | [GO](https://open.spotify.com/album/0Sp6AZTcrjkNEDQcuL5VWA) | 3:28 | 2022-08-12 |  |
 | [Good day Gasnah](https://open.spotify.com/track/7vHNUStfTWtegYOlpSaW3V) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [YUNU IN THE HOUSE](https://open.spotify.com/album/3rDbsIFKjrkptbHxxftXA3) | 3:15 | 2021-12-07 | 2022-07-29 |
 | [Good day Gasnah](https://open.spotify.com/track/7jQAc9xYi3ZFr2d82mUXs2) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [YUNU IN THE HOUSE](https://open.spotify.com/album/2nymtjmxk4qln1pMCCRJG1) | 3:15 | 2022-07-04 |  |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-07-04 |  |

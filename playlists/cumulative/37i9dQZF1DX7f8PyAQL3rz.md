@@ -2,7 +2,7 @@
 
 ### [creme](https://open.spotify.com/playlist/37i9dQZF1DX7f8PyAQL3rz)
 
-> veigh dos predinho pra londres, exquece
+> chama as rouffers pq são elas: tasha & tracie
 
 89 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/5KoqCQZRKW4rzG9099X41H)
 

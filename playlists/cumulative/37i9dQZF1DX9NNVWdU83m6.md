@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-116 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/43Z6HObQV3nVWqyO3c383T)
+117 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/43Z6HObQV3nVWqyO3c383T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Impetu](https://open.spotify.com/track/1q05Sv46RtdjOhLME49EKW) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Impetu](https://open.spotify.com/album/5YxPMp28WpuaUx05fzK4F1) | 5:16 | 2021-04-09 | 2022-07-27 |
 | [Inner Babylon](https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/7Mzsu0oVInnu9zOzVSBgK2) | 5:20 | 2021-01-27 |  |
 | [Inner Babylon](https://open.spotify.com/track/3OQ3kWHotovS0RE3ZMgeNY) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/55Xi3WIyXMIUYPRRVboNQK) | 5:20 | 2021-01-27 | 2022-05-05 |
-| [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 | 2021-01-27 |  |
+| [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 | 2021-01-27 | 2022-08-13 |
 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 | 2021-01-27 |  |
 | [Just Call Me Nige](https://open.spotify.com/track/1acyO8D2JMAxZtxUohyFZy) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Mehliana: Taming the Dragon](https://open.spotify.com/album/7veyvtvK49ca1UMEEmZ00q) | 5:41 | 2021-01-27 | 2022-07-26 |
 | [Kid](https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big](https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t) | 7:21 | 2021-01-27 |  |
@@ -74,6 +74,7 @@
 | [Novruz](https://open.spotify.com/track/5a4psUHksmJQl6OXWSAJLC) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Novruz](https://open.spotify.com/album/5pUuSd6GdorUyn2dR0wGmm) | 5:32 | 2021-03-26 | 2022-07-27 |
 | [Ornithophobia](https://open.spotify.com/track/7ltIEsCk076HtkZRJaoA9g) | [Troyka](https://open.spotify.com/artist/0BxmFQFbzdxyrUlumvE7zz) | [Ornithophobia](https://open.spotify.com/album/71i59tB4Mw5xifmg0RRIoq) | 4:56 | 2021-01-27 | 2022-07-27 |
 | [Outcry](https://open.spotify.com/track/4gFVpvXL947NOItXJXDpdo) | [Dejan Terzic](https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065), [Axiom](https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS), [Chris Speed](https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO), [Bojan Zulfikarpašić](https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k) | [Outcry](https://open.spotify.com/album/0xyPOCgXbaR8b4FYEmxNMp) | 7:12 | 2021-04-23 | 2022-07-28 |
+| [OVERTURE: SQUIGGLECORE](https://open.spotify.com/track/6OUxAgDqU17HYb1CboXEob) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [PREHISTORY](https://open.spotify.com/album/2e0D29Q3V8DUdg2bbmE1Xa) | 1:30 | 2022-08-12 |  |
 | [Petrichor](https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Shapeless](https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq) | 5:48 | 2021-01-29 |  |
 | [Philip](https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Blind](https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26) | 4:21 | 2022-03-11 | 2022-07-29 |
 | [Planetary Prince](https://open.spotify.com/track/0RDPruYI8wmOrFTi3RMx6K) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Planetary Prince](https://open.spotify.com/album/6lJJ95URcncW4mCDW0SEI0) | 8:06 | 2021-01-27 | 2022-07-27 |

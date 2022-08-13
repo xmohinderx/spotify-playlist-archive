@@ -4,7 +4,7 @@
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-181 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/21ccch0oSyRxb8T4kGUPOS)
+182 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/21ccch0oSyRxb8T4kGUPOS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Nightmare](https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 6:14 | 2021-12-15 |  |
 | [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 | 2021-12-15 |  |
 | [No More Hollywood Endings](https://open.spotify.com/track/0S8hHlISzm8GebwdtTDPkD) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/album/27a6npYtoMBSwG9qqNoQvM) | 3:54 | 2022-04-01 | 2022-04-21 |
-| [No More Hollywood Endings](https://open.spotify.com/track/4LlEtj8I2XUhkrXFzBBtFJ) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/album/7H4gPkbdQlDM7jRTRnsnyO) | 3:54 | 2022-07-05 |  |
+| [No More Hollywood Endings](https://open.spotify.com/track/4LlEtj8I2XUhkrXFzBBtFJ) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/album/7H4gPkbdQlDM7jRTRnsnyO) | 3:54 | 2022-07-05 | 2022-08-13 |
 | [Nocturnal](https://open.spotify.com/track/3q1PFPjwZqBRsZKAknXCxz) | [Frontstreet](https://open.spotify.com/artist/4o29o81D4SvbqRZ6GAt06n) | [Bad Habit / Nocturnal](https://open.spotify.com/album/5S7ssOrPoEbSscAOFwespN) | 4:40 | 2022-04-01 | 2022-04-19 |
 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2021-12-15 |  |
 | [Over It](https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:47 | 2022-07-05 |  |
@@ -135,6 +135,7 @@
 | [Same Direction](https://open.spotify.com/track/4TE3J7Je90igUpS3ntQS7W) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/3wwRx7Tjr2BXD9Z4yGliie) | 3:15 | 2022-04-01 | 2022-04-21 |
 | [Save Me](https://open.spotify.com/track/04y87ZHRUltfVDeJBg3krN) | [Hinder](https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY) | [Save Me](https://open.spotify.com/album/0b3GR8IkCHjIoCdjqOvqUC) | 2:48 | 2022-04-01 | 2022-04-16 |
 | [Seal The Deal](https://open.spotify.com/track/67gIy3f2Kfdun5illopj4t) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal](https://open.spotify.com/album/70D2TjnHZG72kUxZoUeBQk) | 4:09 | 2021-12-15 | 2022-07-29 |
+| [Seal The Deal](https://open.spotify.com/track/7HyEcQge7Nj46xNFpKrsi5) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 4:09 | 2022-08-12 |  |
 | [Seasons](https://open.spotify.com/track/1NE4ga03C5fRXGPcDIo9pA) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Against The Grain](https://open.spotify.com/album/3T2Hq3PpqBroi2CcnmcUUH) | 3:47 | 2022-04-01 | 2022-04-19 |
 | [Seize the Day](https://open.spotify.com/track/1gqPcliPEmNXSOi7Vvr95e) | [The Mendenhall Experiment](https://open.spotify.com/artist/1i5khuFFnwuwwDwWbwbyLL) | [Seize the Day \- Single](https://open.spotify.com/album/35t5Xqrz49iF8M7fieKVRs) | 3:50 | 2021-12-15 | 2022-07-01 |
 | [Sham Pain](https://open.spotify.com/track/03HyPRDdAwvkovBE6XubBC) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Sham Pain](https://open.spotify.com/album/44udkZDmo8afuEnu0nTgUY) | 3:29 | 2021-12-15 | 2022-07-28 |

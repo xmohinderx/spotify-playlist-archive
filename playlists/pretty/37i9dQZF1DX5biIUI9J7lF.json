@@ -1,12 +1,12 @@
 {
   "description": "more than just a lifestyle",
-  "num_followers": 302,
+  "num_followers": 332,
   "original_name": "soft life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkyNzY5NiwwMDAwMDAwMGNjOTFjNmRiYWNmN2FiMmNiN2IzOGU5YjkyYWQ2ZGI3",
+  "snapshot_id": "MTY2MDI4MTU1NSwwMDAwMDAwMDhiNzgwY2YwMDJjMWE3MjA0NjhhNmZjYTFkYzM3YTc0",
   "tracks": [
     {
       "added_at": "2022-07-27 09:28:40",
@@ -59,6 +59,22 @@
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M"
+    },
+    {
+      "added_at": "2022-08-12 05:19:15",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/0LYo4Dt6xHT5Hl38gYPv0i"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/52BpPsMPPdCtepeJ9CQufq"
     },
     {
       "added_at": "2022-07-27 09:28:40",
@@ -715,26 +731,6 @@
       "duration_ms": 175000,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp"
-    },
-    {
-      "added_at": "2022-07-27 09:28:40",
-      "album": {
-        "name": "Money (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 150652,
-      "name": "Money (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
     },
     {
       "added_at": "2022-07-27 09:28:40",

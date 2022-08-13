@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-309 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+312 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [just relax](https://open.spotify.com/track/0POolioSzFOWb0n0it50Lz) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:36 | 2021-11-11 | 2022-05-27 |
 | [Just Vibin’](https://open.spotify.com/track/4XqMeXDc6GrMIhKo9AIFeQ) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Just Vibin’](https://open.spotify.com/album/1sbGkDsIHzeesq8VTbdaOM) | 2:06 | 2021-11-11 |  |
 | [keyless](https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC) | [artoban](https://open.spotify.com/artist/3sQE7gxylG2AydTX4UutZT) | [dry&high](https://open.spotify.com/album/1mVUu7fnWB58ld4PTUd8dQ) | 1:41 | 2021-11-11 |  |
+| [Kickers & Curbs](https://open.spotify.com/track/3LbzFO5sGl57tqGrb9Uvb7) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Cvsket Pretty](https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I), [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Kickers & Curbs](https://open.spotify.com/album/5KXxlwvQrn3RkaQXqF5MoC) | 1:51 | 2022-08-12 |  |
 | [Koji](https://open.spotify.com/track/1nC17MFFBInGll7Wjun7XS) | [Calabrese](https://open.spotify.com/artist/3Bbd9D85OngaqLISpyDUmf), [Jay PowPow](https://open.spotify.com/artist/4iKJ2T8WvQc8SDxg6qdbrg) | [Koji](https://open.spotify.com/album/2h0JTol7uA3XQxaVgFfKG1) | 2:45 | 2022-04-15 |  |
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2021-11-11 |  |
 | [Lab](https://open.spotify.com/track/2kHDQldORUg2dYR1BOQlWc) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Lab](https://open.spotify.com/album/4CnTuWjhnYgnE2Wqv57AUc) | 2:21 | 2021-11-11 | 2022-07-08 |
@@ -225,6 +226,7 @@
 | [Run Boy](https://open.spotify.com/track/57kn96jwh3J2BzIeYrHURr) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Dissolve](https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS) | 2:32 | 2021-11-11 |  |
 | [Rêverie](https://open.spotify.com/track/4aQ9wAM5HnKs3n5DtZQCpi) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Under The Stars](https://open.spotify.com/album/5SO2XvcXuAWClK2HFTc5XQ) | 2:45 | 2022-04-08 |  |
 | [safety match](https://open.spotify.com/track/1QNezn0xbaGoNsMiSNNJeO) | [arithmetic underflow](https://open.spotify.com/artist/6uk5o7O5Wz3xVIUv3zG9Gr) | [safety match](https://open.spotify.com/album/0rUBTL4CTReuG3tx7HFjwh) | 2:54 | 2022-06-17 |  |
+| [Sakura Swing](https://open.spotify.com/track/7kIaI2ibCp2mMNHCO25lgn) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Sakura Swing](https://open.spotify.com/album/6lfROtvEjk7t1VTzfvc4T8) | 3:32 | 2022-08-12 |  |
 | [Samba da benção \- Lofi](https://open.spotify.com/track/74mHsmHOsqZbEMwB4TAbz0) | [IzaBeats](https://open.spotify.com/artist/4DtFzX8vn47Rdc5c4fHcEk) | [Samba da benção \(Lofi\)](https://open.spotify.com/album/2NyWsJq14vYgLPQd0udHJB) | 3:08 | 2022-07-22 |  |
 | [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 | 2021-11-11 |  |
 | [Saturday Afternoon](https://open.spotify.com/track/5GSoiFJwXZY3DfPDkVHwS6) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Back Alley Conversations](https://open.spotify.com/album/4JetmNvKwzrCbsIKyliwPp) | 2:01 | 2021-11-11 | 2022-05-27 |
@@ -281,6 +283,7 @@
 | [Tokyo Trainspotting](https://open.spotify.com/track/1bFNVPttUZyzRxfsJAFkJx) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 2:00 | 2022-07-29 |  |
 | [Tokyo Trainspotting](https://open.spotify.com/track/71xDIzNBNBymTelTTUz3YC) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/0YMPRcQiUqkkWM6DHjUNRO) | 2:00 | 2021-11-11 | 2022-07-29 |
 | [Tomorrow Will Be Better](https://open.spotify.com/track/62zFKMb9q7pnJgV64UQX1f) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Inner Passages](https://open.spotify.com/album/2SAg5ASeGWGt7YDXqiOEs7) | 2:34 | 2021-11-11 | 2022-07-08 |
+| [Too Far Gone](https://open.spotify.com/track/1AadAbds0Iy5BwY5VZrhyg) | [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws), [Groove.](https://open.spotify.com/artist/1rnUiXNVWDd67U1519BKnN), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Too Far Gone](https://open.spotify.com/album/5FOxkmClpxoF9XgQQmwKd6) | 2:30 | 2022-08-12 |  |
 | [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 | 2021-11-11 |  |
 | [Train Ride](https://open.spotify.com/track/4mHEsCjfyA1vKlIIgsMDrU) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 2:31 | 2021-11-11 |  |
 | [Trillest](https://open.spotify.com/track/2PmHbcDaBmWr3OmoD09vTd) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l) | [Playground Sessions Vol 1](https://open.spotify.com/album/2fPD6SfAuDrOmNMBjNpeTa) | 1:32 | 2021-11-11 | 2022-06-10 |

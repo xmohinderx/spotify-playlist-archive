@@ -1,12 +1,12 @@
 {
   "description": "beats + birds = <3\u2028",
-  "num_followers": 126126,
+  "num_followers": 126227,
   "original_name": "The Lofi Garden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMGU3Mjc3ZWE4OWQxMTcxNTUwNjZmNjAzZmNkNTUyNTQ3",
+  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMGNjODg5ZGEyOThiYzQ3Y2QzYzg3NTkyOWU5MzQ4MGM3",
   "tracks": [
     {
       "added_at": "2022-08-12 00:00:00",
@@ -2139,6 +2139,38 @@
     {
       "added_at": "2022-08-12 00:00:00",
       "album": {
+        "name": "park walk",
+        "url": "https://open.spotify.com/album/3gCAuvEpg2fYeroRriEk5F"
+      },
+      "artists": [
+        {
+          "name": "Jokabi",
+          "url": "https://open.spotify.com/artist/7F93sQ33frkSEdmSunHEcP"
+        }
+      ],
+      "duration_ms": 124054,
+      "name": "park walk",
+      "url": "https://open.spotify.com/track/2tYqNlXXcHJwBFStIOyZye"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/20NfbcfBukHVfywISL3O6t"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "duration_ms": 109446,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/7ihm82jyb6DctY4XuGJUBZ"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4VV6QDTyQLfqcesnfWV6s1"
       },
@@ -2151,6 +2183,42 @@
       "duration_ms": 138527,
       "name": "Always",
       "url": "https://open.spotify.com/track/5TZNYj31M4fB79aYyHEJaz"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Recollection",
+        "url": "https://open.spotify.com/album/7ENS1n8vblqe9EcXpQxLDW"
+      },
+      "artists": [
+        {
+          "name": "D0d.",
+          "url": "https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB"
+        },
+        {
+          "name": "Nothingtosay",
+          "url": "https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA"
+        }
+      ],
+      "duration_ms": 153846,
+      "name": "Recollection",
+      "url": "https://open.spotify.com/track/2kmvhCpX4xOyfBmCfk3Oy6"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Aubade",
+        "url": "https://open.spotify.com/album/55tPJivAF0H4j5Zy85kVfU"
+      },
+      "artists": [
+        {
+          "name": "Tom Doolie",
+          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
+        }
+      ],
+      "duration_ms": 111253,
+      "name": "Aubade",
+      "url": "https://open.spotify.com/track/0gbUFxxYG1tnXjFcsCLNk2"
     },
     {
       "added_at": "2022-08-12 00:00:00",

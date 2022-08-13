@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/track/20bNmfHntXFvYInCEQZYfp?si=e255ce242aff4eae">latte foam art, tiny pumpkins, fuzzy comfy socks</a>
 
-145 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/0mBRoCtoHT76cBA1H5bvPI)
+146 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/0mBRoCtoHT76cBA1H5bvPI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 | 2021-12-03 |  |
 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2022-06-22 |  |
 | [All I Want](https://open.spotify.com/track/2jTidefcsTu6VQhpIImJrt) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 5:05 | 2021-12-03 | 2022-07-29 |
-| [All That You Are](https://open.spotify.com/track/7G1EM2JFj32L6UBsPJrhoH) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [All That You Are](https://open.spotify.com/album/5QKtAAUxkQLhKT1hLX910o) | 4:11 | 2021-12-03 |  |
+| [All That You Are](https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 4:10 | 2022-06-22 |  |
+| [All That You Are](https://open.spotify.com/track/7G1EM2JFj32L6UBsPJrhoH) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [All That You Are](https://open.spotify.com/album/5QKtAAUxkQLhKT1hLX910o) | 4:11 | 2021-12-03 | 2022-08-13 |
 | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/track/5pZLsASxnWyLYdGj0FJxCb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/album/6iLFzruqCNyIXjIgRioa2c) | 9:58 | 2021-12-03 |  |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2021-12-03 |  |
 | [Amsterdam](https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:18 | 2021-12-03 |  |

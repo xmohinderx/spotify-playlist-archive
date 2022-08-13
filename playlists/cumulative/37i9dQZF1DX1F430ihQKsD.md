@@ -4,7 +4,7 @@
 
 > La crème de la crème of Montréal's music scene\. Photo: Men I Trust
 
-177 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+178 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Janet Planet](https://open.spotify.com/track/75nGdj0oz2EaRRVrlIKeiL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Empty Seats](https://open.spotify.com/album/5as79P2kyTlrSsHZoWJLDw) | 3:21 | 2022-05-13 |  |
 | [Jardin d'orages](https://open.spotify.com/track/390izvGBLKyKv3IC3tup84) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45) | [Mes ombres](https://open.spotify.com/album/3pd4ayFDk7ZMY8XjRG31LP) | 3:40 | 2022-03-25 |  |
 | [Jaune](https://open.spotify.com/track/14QJlmd5ulzXXRbjRaS45z) | [Baladeur](https://open.spotify.com/artist/2MnBL1e3Gf1pHK0mXokTST) | [Jaune](https://open.spotify.com/album/3rChcXBXEiIULMsBZYXGdi) | 3:17 | 2022-06-03 |  |
+| [JD](https://open.spotify.com/track/4rODIAkyRLz9tYFN6YGHhI) | [Amki](https://open.spotify.com/artist/5xKr6yXoMkJVDj8NUt2KW1) | [JD](https://open.spotify.com/album/29UvcSPfJphjgNqgFLL9wr) | 3:46 | 2022-08-12 |  |
 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 | 2022-06-03 |  |
 | [La faute](https://open.spotify.com/track/6UKQBUkXOe2ifFhJgOVpto) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Entre mes insomnies](https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4) | 3:29 | 2022-04-29 |  |
 | [La nuit](https://open.spotify.com/track/5qMGT6jepsNyROTcf3LpFu) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [La nuit](https://open.spotify.com/album/5FGyf0eRWDMEQ22dxUKwVP) | 3:41 | 2022-06-03 | 2022-07-16 |

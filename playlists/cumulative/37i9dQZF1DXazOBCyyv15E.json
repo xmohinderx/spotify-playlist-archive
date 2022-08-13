@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "3 Pound Pints",
+        "url": "https://open.spotify.com/album/6QQdto2JCrakFVK0PVhs13"
+      },
+      "artists": [
+        {
+          "name": "Hyphen",
+          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "3 Pound Pints",
+      "url": "https://open.spotify.com/track/5NBXebY5O7Q8EGXo6R7zoK"
+    },
+    {
+      "album": {
         "name": "3:45/buslane",
         "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
       },
@@ -13783,6 +13801,24 @@
       "duration_ms": 280993,
       "name": "Say What You Will",
       "url": "https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8"
+    },
+    {
+      "album": {
+        "name": "Sci-Fi",
+        "url": "https://open.spotify.com/album/1FrpZt5NaPZlmdNonpKVse"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176349,
+      "name": "Sci-Fi",
+      "url": "https://open.spotify.com/track/63Ycrpi5da05jRSG5qGPM9"
     },
     {
       "album": {

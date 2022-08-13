@@ -2,7 +2,7 @@
 
 ### [Energy Booster: Pop](https://open.spotify.com/playlist/37i9dQZF1DX0vHZ8elq0UK)
 
-> Need to get your energy level up? This will help!
+> Need to get your energy level up?
 
 278 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/3dFpEZOph8mFn8DS5f5LPj)
 

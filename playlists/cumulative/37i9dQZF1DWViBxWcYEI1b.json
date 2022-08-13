@@ -2310,6 +2310,28 @@
     },
     {
       "album": {
+        "name": "Retrospected (Acoustic)",
+        "url": "https://open.spotify.com/album/6vSzhFfKnR6QoOG73ZFD7X"
+      },
+      "artists": [
+        {
+          "name": "Classified",
+          "url": "https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN"
+        },
+        {
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156295,
+      "name": "Good News - Acoustic",
+      "url": "https://open.spotify.com/track/0oCjeB16Bj0pLrbNzCnKcM"
+    },
+    {
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
       },
@@ -2447,7 +2469,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 199111,
       "name": "Hard Feelings",
       "url": "https://open.spotify.com/track/7CCWJdlWbrgLX9pgF3ZQhV"
@@ -4206,6 +4228,24 @@
     },
     {
       "album": {
+        "name": "MUTUAL FRIEND",
+        "url": "https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206943,
+      "name": "MUTUAL FRIEND",
+      "url": "https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq"
+    },
+    {
+      "album": {
         "name": "My Eyes Only",
         "url": "https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19"
       },
@@ -5564,6 +5604,28 @@
     },
     {
       "album": {
+        "name": "KEYS II",
+        "url": "https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218906,
+      "name": "Stay (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G"
+    },
+    {
+      "album": {
         "name": "The Joy of Music",
         "url": "https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA"
       },
@@ -6297,7 +6359,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 170375,
       "name": "When You Look At Me",
       "url": "https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB"

@@ -4,7 +4,7 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-66 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/6xU7IIhg8fqq5qz8ymx5AK)
+67 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/6xU7IIhg8fqq5qz8ymx5AK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [River at Dawn](https://open.spotify.com/track/2OEUrK1H4m4e9R0eqsDESE) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 3:06 | 2022-05-19 |  |
 | [Rotation 4](https://open.spotify.com/track/1vGqaAyqv40nLOynEdNvwM) | [Svet Stoyanov](https://open.spotify.com/artist/5rhkJDapJojVLUICCMUq0e) | [Percussive Counterpoint](https://open.spotify.com/album/2ouOC24z4c8Fnyj5pymylB) | 2:24 | 2022-05-19 |  |
 | [Sacred Ground \(Percussion Only\)](https://open.spotify.com/track/5M8BTt6WQjBfUORnHDQ7FT) | [Native Spirit](https://open.spotify.com/artist/2OE9yjoQB6ctlwY1uznBb9) | [Sacred Ground: Traditional Native American Flute & Drums](https://open.spotify.com/album/2BGeocG4BEHp52QHZhtPb3) | 1:59 | 2022-05-19 |  |
+| [Shamanic Journeywork](https://open.spotify.com/track/76grNKEDQdFpMIftWZP3BY) | [Shamanic Journey Drumming](https://open.spotify.com/artist/10eDAAmRvolRXSFsGAT8Ht) | [Shamanic Journey Drumming](https://open.spotify.com/album/1C3dY4h7p3auKgPknDmq9v) | 3:54 | 2022-08-12 |  |
 | [Shamanic Taiko](https://open.spotify.com/track/6XR02DiusEaXXtOJ89iqGT) | [Deep Meditation](https://open.spotify.com/artist/2fqkqEsGgtIToaqV8snUV6) | [Deep Meditation](https://open.spotify.com/album/6E9qV9HvDHkmSEgx5pqUEO) | 2:04 | 2022-05-19 |  |
 | [Slow Pace Papa](https://open.spotify.com/track/78ReLTBbzeqosiozbRwDkG) | [Southside Beatsters](https://open.spotify.com/artist/3TYCmQgTFXUbE460KfTlYe) | [Brewin' Afro Beats](https://open.spotify.com/album/0kET8NvmV0lCfGhFFfG1Wn) | 3:08 | 2022-05-19 |  |
 | [Song of the Morning](https://open.spotify.com/track/4fqfpPg6umah8ZSgCJtXtT) | [Jeremy Arndt](https://open.spotify.com/artist/7KZzcubMLbaEJMPIHw9Q1T) | [Journeys: Handpan Solo](https://open.spotify.com/album/32VPq59sHG028ot4awVMUW) | 3:56 | 2022-05-19 |  |

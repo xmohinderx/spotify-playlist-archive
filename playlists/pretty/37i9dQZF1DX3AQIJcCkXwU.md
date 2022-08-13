@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 
 > Sitar, flute, and sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,958 likes - 99 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,097 likes - 98 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 | 95 | [Mereya](https://open.spotify.com/track/4ob12xPI4xKPLoryBcxHmz) | [Dangle](https://open.spotify.com/artist/5hoKc2VVEGfNKUOWtPCRwv) | [Mereya](https://open.spotify.com/album/4GvbUJO6wPX6d5yD2rInya) | 2:53 |
 | 96 | [King of the Ragas \(Darbari\)](https://open.spotify.com/track/7n4BUekVuwAYTIHtxoz9n4) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Ãnanda Nãda](https://open.spotify.com/album/1MYMwqJ5tCmMUjCc2NkJsZ) | 8:00 |
 | 97 | [Nani](https://open.spotify.com/track/3bqXrL2BwTK9sI2tjVF7FL) | [Kaatru](https://open.spotify.com/artist/5r5gWXcE1w7MgJjxSIcKRC) | [Nani](https://open.spotify.com/album/0wI1AG8bR82kMffk7jiuyU) | 3:27 |
-| 98 | [Kirwani](https://open.spotify.com/track/0j438lJoTSWzhmdaokcljh) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [Ragas from Lahore: Improvisations with Jaubi](https://open.spotify.com/album/5SB0DHPRMnyCY8tbMvDkmB) | 4:32 |
-| 99 | [Raga Sundara](https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg) | [Yantra Mantra](https://open.spotify.com/artist/1eE1hRgkFrYyoFuCO3WSOZ) | [Buddah's Chill, Vol\. 7 \(Buddha Asian Bar Lounge\)](https://open.spotify.com/album/7yb68aQVIHJeNfbdSjBnMj) | 4:06 |
+| 98 | [Raga Sundara](https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg) | [Yantra Mantra](https://open.spotify.com/artist/1eE1hRgkFrYyoFuCO3WSOZ) | [Buddah's Chill, Vol\. 7 \(Buddha Asian Bar Lounge\)](https://open.spotify.com/album/7yb68aQVIHJeNfbdSjBnMj) | 4:06 |
 
-Snapshot ID: `MTY1ODE0MDU3NiwwMDAwMDAwMDg2YzE2N2E4NDY0NjhmNmJjOTY1M2RjNGY4OTc5MzBh`
+Snapshot ID: `MTY2MDI5NTE5OSwwMDAwMDAwMGRhMzJlZDIyY2ZjMjg1OGJjOTdiYTgwNzE3NDJiMmNj`

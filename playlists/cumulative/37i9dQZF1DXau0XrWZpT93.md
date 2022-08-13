@@ -4,7 +4,7 @@
 
 > Start your day with these beautiful scores.
 
-80 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+81 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Blossom Peak](https://open.spotify.com/track/5NRyda6chosK9GspXprHgK) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Blossom Peak & Warmcrest](https://open.spotify.com/album/5M8iB0dg3kg54ppszLVI9G) | 2:56 | 2022-06-10 |  |
 | [Breathing Softly](https://open.spotify.com/track/5fOXMCEaxYSAObSdJ7nvCV) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Breathing Softly](https://open.spotify.com/album/6W9cOGtIJZtT1J5ypPCcHR) | 2:43 | 2022-06-10 |  |
 | [Daydream](https://open.spotify.com/track/1WlaTc6LFDBrag4vKuiuRs) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:15 | 2022-06-10 |  |
-| [Daylight](https://open.spotify.com/track/1pJrauys2fPNopv4TuyltK) | [Karel Havlíček](https://open.spotify.com/artist/2Yuk4eHfD3UrJ1qnYCHmJl) | [Daylight](https://open.spotify.com/album/4I7VJg3F07ymbMiobj6yfP) | 2:59 | 2022-07-15 |  |
+| [Daylight](https://open.spotify.com/track/1pJrauys2fPNopv4TuyltK) | [Karel Havlíček](https://open.spotify.com/artist/2Yuk4eHfD3UrJ1qnYCHmJl) | [Daylight](https://open.spotify.com/album/4I7VJg3F07ymbMiobj6yfP) | 2:59 | 2022-07-15 | 2022-08-13 |
 | [Deasyn Moira \(Piano and Strings\)](https://open.spotify.com/track/0ebRVAx7crlZr9lkXK4cm3) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Piano and Strings](https://open.spotify.com/album/6L20li4JZ6jmRfwwts9CO4) | 2:26 | 2022-07-01 |  |
 | [Deep Forest \- Cello Version](https://open.spotify.com/track/7gi7v5tKoJ1R7yunvDeU5F) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest \(Strings Version\)](https://open.spotify.com/album/436RU3hjPms95JzFFDXPma) | 1:52 | 2022-06-10 |  |
 | [Desert Parade](https://open.spotify.com/track/4xOHne4S1xas4MI5qPs69D) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Breathing Like the Pastures](https://open.spotify.com/album/2rzImKEk1JZHAyC6dVGJ5t) | 3:08 | 2022-06-10 |  |
@@ -83,6 +83,7 @@
 | [The Streets of Belgrade](https://open.spotify.com/track/57zYO8q3f19ksGdHcCFpk9) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:21 | 2022-07-29 |  |
 | [Three Pointer](https://open.spotify.com/track/1gUHSxsrCohFFQC8zuI1Cv) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Three Pointer](https://open.spotify.com/album/29ELg1RDinuDy0xw7oPd9L) | 1:00 | 2022-06-10 |  |
 | [To Capture The Infinite](https://open.spotify.com/track/0hrTFLbtNvhe5X8b40DVOC) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Capture The Infinite](https://open.spotify.com/album/1d8nHTu03NrgdX7KtwmNHk) | 2:47 | 2022-06-10 |  |
+| [Together](https://open.spotify.com/track/2DrBcfPBdC9rQ1puxyDkDB) | [Omar Raafat](https://open.spotify.com/artist/1WbvLPPRx9AHgPt2OwUbi3) | [The Traveler](https://open.spotify.com/album/6kkCrSH59rXLNsYFEHkQ59) | 2:38 | 2022-08-12 |  |
 | [Transition](https://open.spotify.com/track/00Jh6031MKpE5nunLJzvyM) | [Elora Bonilla](https://open.spotify.com/artist/5ytoulK1Bp6GLoU6VWs0Nr) | [Transition](https://open.spotify.com/album/0P61A45wt4xVVneycMqdyp) | 2:55 | 2022-06-10 |  |
 | [Under The Stars](https://open.spotify.com/track/0V0w0j63zyFlZTeKsjHF7e) | [Cinespacial](https://open.spotify.com/artist/2Z6ZkwaWC7kYWhQcift8d4) | [Under The Stars](https://open.spotify.com/album/0RyHnHgWSqhXO95qvByvUm) | 3:10 | 2022-06-10 |  |
 | [Valleys](https://open.spotify.com/track/5MSVACqJSKrICwAQQW91wb) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Ripples](https://open.spotify.com/album/174WdSc7Cncl9KwFmF7mGd) | 3:05 | 2022-06-10 |  |

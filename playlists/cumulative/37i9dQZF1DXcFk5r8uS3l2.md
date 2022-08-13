@@ -2,9 +2,9 @@
 
 ### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
-> You've come to the crossroads of soul, folk, and the blues\. Cover: Cedric Burnside
+> You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-191 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+193 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl) | 3:43 | 2021-12-17 |  |
 | [Catfish Blues](https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws) | 4:11 | 2021-12-17 | 2022-07-29 |
 | [Catfish Blues](https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK) | 4:11 | 2022-01-28 |  |
+| [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 | 2022-08-12 |  |
 | [Change My Mind](https://open.spotify.com/track/0H2MZlPGsXeQuNzLY6dL1P) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Change My Mind](https://open.spotify.com/album/5D4wpw1J1QrlUFg9N95wHh) | 5:01 | 2021-12-17 | 2022-06-11 |
 | [Clotilda's On Fire](https://open.spotify.com/track/1B3KOfW9ZxFB4sVDK4s9a8) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Clotilda's On Fire](https://open.spotify.com/album/47ADK0ggtSLXrjHdLqRf9D) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2021-12-17 |  |
@@ -131,6 +132,7 @@
 | [Order out of Chaos](https://open.spotify.com/track/0g4O3fIl76RzfB6YvPjEhI) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [Order out of Chaos](https://open.spotify.com/album/474UZkOJiONk1qZbePll0F) | 5:02 | 2022-04-15 | 2022-06-11 |
 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 | 2021-12-17 |  |
 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 | 2021-12-17 | 2022-07-28 |
+| [Profit](https://open.spotify.com/track/4kw9x3gkvWRNk3IIv6cYGW) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:13 | 2022-08-12 |  |
 | [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-15 |  |
 | [Remember Me](https://open.spotify.com/track/2KioWFaFI2I2seZe7CJNII) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Remember Me](https://open.spotify.com/album/6BIJ51eimU9fVigSw41HXy) | 2:19 | 2022-04-29 | 2022-07-01 |
 | [River](https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:58 | 2021-12-17 | 2022-07-29 |
@@ -159,7 +161,7 @@
 | [Sound & Color](https://open.spotify.com/track/65wx71brAmEQz66GXXF8gI) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/2IVZPDXb7LFbyukqaoWpYR) | 3:02 | 2021-12-17 | 2022-07-23 |
 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 | 2021-12-17 |  |
 | [Splintered](https://open.spotify.com/track/4ImN33OfhmbjjWBAB7pElK) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/1LwaJSz2vxOtE5nq4P4khN) | 4:10 | 2021-12-17 | 2022-04-16 |
-| [Standing In The Doorway](https://open.spotify.com/track/4JxTF9cczFqEYFd1aJIl3W) | [Andy Sydow](https://open.spotify.com/artist/3wriMPzjc6B2yfJzzgIGhE), [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Modern Songwriters Vol\. 1 \(Hiss Golden Messenger\)](https://open.spotify.com/album/6iLfP1B6qKkDUHG4MAyV5c) | 3:27 | 2022-08-05 |  |
+| [Standing In The Doorway](https://open.spotify.com/track/4JxTF9cczFqEYFd1aJIl3W) | [Andy Sydow](https://open.spotify.com/artist/3wriMPzjc6B2yfJzzgIGhE), [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Modern Songwriters Vol\. 1 \(Hiss Golden Messenger\)](https://open.spotify.com/album/6iLfP1B6qKkDUHG4MAyV5c) | 3:27 | 2022-08-05 | 2022-08-13 |
 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 | 2022-01-28 |  |
 | [Step In](https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Step In](https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg) | 2:35 | 2021-12-17 | 2022-07-29 |
 | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE), [Dashawn Hickman](https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY) | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO) | 2:56 | 2021-12-17 | 2022-07-29 |
@@ -167,7 +169,7 @@
 | [Sure Don't Miss You](https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [Take Me Down](https://open.spotify.com/track/5NFV5HquTXQXR3q384YMhc) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Take Me Down](https://open.spotify.com/album/6aNOScaYORjI8CSliGxUql) | 4:47 | 2021-12-17 | 2022-01-29 |
 | [Take Me In](https://open.spotify.com/track/4AAFd6yIz0UwjxKsmStjrR) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Take Me In](https://open.spotify.com/album/1rIO1N6XbLqEbh5hgUgf8Z) | 3:47 | 2021-12-17 | 2022-06-11 |
-| [The Battle of Atlanta](https://open.spotify.com/track/6vwDgv1N8Iyv8YyMDpuUqx) | [Lee Bains + The Glory Fires](https://open.spotify.com/artist/1oTNCl6SRphYGb9NQ0toVE) | [The Battle of Atlanta](https://open.spotify.com/album/3UmdOo3j5KVnz4KBCtzu9K) | 5:16 | 2022-08-05 |  |
+| [The Battle of Atlanta](https://open.spotify.com/track/6vwDgv1N8Iyv8YyMDpuUqx) | [Lee Bains + The Glory Fires](https://open.spotify.com/artist/1oTNCl6SRphYGb9NQ0toVE) | [The Battle of Atlanta](https://open.spotify.com/album/3UmdOo3j5KVnz4KBCtzu9K) | 5:16 | 2022-08-05 | 2022-08-13 |
 | [The Fifth of June](https://open.spotify.com/track/2qx6g41H1pK7yP0G1wo3MY) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [The Fifth of June](https://open.spotify.com/album/6VRdWjagHR5bwoq8iI7uYF) | 3:12 | 2022-06-10 | 2022-07-27 |
 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 | 2022-03-11 | 2022-07-29 |
 | [The Kids Are Having None Of It](https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [U kin B the Sun](https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C) | 4:49 | 2021-12-17 |  |

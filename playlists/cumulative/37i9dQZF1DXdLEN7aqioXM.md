@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdLEN7aqioXM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdLEN7aqioXM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdLEN7aqioXM)
 
-### [RetroWave / Outrun](https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM)
+### [Retrowave // Outrun](https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM)
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
@@ -36,7 +36,7 @@
 | [Bad Night at Black's Beach](https://open.spotify.com/track/2vgL4j2cyWWBul8FWQ3GQO) | [L.A\. Takedown](https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v) | [Bad Night At Black's Beach](https://open.spotify.com/album/3gjBetsmhoUBsikaY4e6bQ) | 2:50 | 2021-10-15 | 2022-07-29 |
 | [Bad Night at Black's Beach](https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam) | [L.A\. Takedown](https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v) | [II](https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73) | 2:50 | 2022-07-22 |  |
 | [Bend & Break \- Instrumental](https://open.spotify.com/track/0DvOD9MYBxtXywC54zLYtJ) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk), [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Bend & Break](https://open.spotify.com/album/1ce4M8suREfo8SIZDkE1PY) | 5:16 | 2022-02-04 |  |
-| [Beta Girl Lost in Forever](https://open.spotify.com/track/0UnklwphmoX6I0kZJK8Gg7) | [SelloRekt / LA Dreams](https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa) | [Parallel Lines](https://open.spotify.com/album/7tsBX856UU0zaXCUTqEyLB) | 3:36 | 2022-04-01 |  |
+| [Beta Girl Lost in Forever](https://open.spotify.com/track/0UnklwphmoX6I0kZJK8Gg7) | [SelloRekt / LA Dreams](https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa) | [Parallel Lines](https://open.spotify.com/album/7tsBX856UU0zaXCUTqEyLB) | 3:36 | 2022-04-01 | 2022-08-13 |
 | [Black To The Future](https://open.spotify.com/track/3RZZ8KnNq63Isfqo67KI4W) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH) | [Avengers After Dark](https://open.spotify.com/album/1fnYuEIp9Vk5nbgDKcRfsi) | 4:52 | 2021-10-15 | 2022-05-28 |
 | [Blackout](https://open.spotify.com/track/7s59SzYLvJOM4j23J1dOs3) | [Axel Le Baron](https://open.spotify.com/artist/41uv2mafbkMfpRYMF4H5dO), [Arnaud Diaz](https://open.spotify.com/artist/6DW60YY7dGV5ZH4webX87F) | [Retrowave](https://open.spotify.com/album/3zKj0Uhic2uNL84tPvmIXu) | 4:12 | 2021-10-15 | 2022-04-21 |
 | [Blink of an Eye](https://open.spotify.com/track/3kgtLhFbasJILGIK952ww0) | [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER), [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Blink of an Eye](https://open.spotify.com/album/7lmlsXhQkWpaMvDYRyycZo) | 3:34 | 2021-10-15 | 2022-07-29 |
@@ -232,7 +232,7 @@
 | [Part Time God](https://open.spotify.com/track/14juitXdt9JqvBQAQP3i5L) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Songs About People Including Myself \(Deluxe Edition\)](https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC) | 3:37 | 2021-10-15 | 2022-04-02 |
 | [Party at Kitty & Stud's](https://open.spotify.com/track/3THa36K3k5UzEQREL9w9Xx) | [80s Stallone](https://open.spotify.com/artist/1kbrY3DkdlVnrp4NCTPCpx) | [Party At Kitty & Stud's](https://open.spotify.com/album/2n4shhAODxZT9SxXWVtG0G) | 4:20 | 2022-04-01 |  |
 | [Past Present](https://open.spotify.com/track/6NWqbfviq3zwoGqIlSnzuR) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [Asutenki](https://open.spotify.com/artist/14BiKqKsX9hV5nvNNHA5Xo) | [Past Present](https://open.spotify.com/album/1fQWDkBdjgUsbYiuNDu9Ig) | 4:10 | 2021-10-15 | 2022-03-22 |
-| [Patission Street](https://open.spotify.com/track/6J7Q5juj1OHA7UdgHbxGht) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Horizon's Glow](https://open.spotify.com/album/0lrDYbaeW955aR9WzAGuqk) | 3:08 | 2022-04-01 | 2022-08-10 |
+| [Patission Street](https://open.spotify.com/track/6J7Q5juj1OHA7UdgHbxGht) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Horizon's Glow](https://open.spotify.com/album/0lrDYbaeW955aR9WzAGuqk) | 3:08 | 2022-04-01 |  |
 | [Pelée](https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Fundamentals, Vol\. III](https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh) | 5:16 | 2022-02-04 |  |
 | [Peripheral Vision](https://open.spotify.com/track/7JjpqTuimad5QSRyw2X4xT) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Peripheral Vision](https://open.spotify.com/album/6Ldmn3CqdXYp38q0thv2RO) | 4:10 | 2022-04-01 | 2022-04-20 |
 | [Power Light](https://open.spotify.com/track/2jyAfwmsqF6wynsf70zIUQ) | [Æ7](https://open.spotify.com/artist/68Rpj4TxoMVq6JRyH13UAO) | [Power Light](https://open.spotify.com/album/4rCh8RUK2Me7KY7y6zafQg) | 4:21 | 2022-06-10 |  |

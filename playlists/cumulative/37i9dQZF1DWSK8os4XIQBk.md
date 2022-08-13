@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Nothing but the best modern country music\. Cover: Jade Eagleson
+> Nothing but the best modern country music\. Cover: Steven Lee Olsen
 
-277 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
+278 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Honky Tonk Disco Nights](https://open.spotify.com/track/29MFOazYTBfOCg8XksAYlU) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Honky Tonk Disco Nights](https://open.spotify.com/album/6ywn9Y2pX7AqCSGp8YMwdU) | 2:42 | 2022-06-24 |  |
 | [Horseshoes and Hand Grenades](https://open.spotify.com/track/25pLhVpi2zzPeo2D7LNQKR) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The Low Light Sessions](https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC) | 3:31 | 2022-04-15 | 2022-04-29 |
 | [Horseshoes and Hand Grenades](https://open.spotify.com/track/3o0hiPJ7SzxusicnXlzkBt) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Horseshoes and Hand Grenades](https://open.spotify.com/album/7q7T3eIdjbppmEEii3kKci) | 3:31 | 2022-03-04 | 2022-04-16 |
+| [House A Home](https://open.spotify.com/track/6oCbRkGrfFJ4K0IUX686G5) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [House A Home](https://open.spotify.com/album/2cx5eXBGhY0q4b781pInHz) | 2:58 | 2022-08-12 |  |
 | [How Do You Love \(with Lee Brice & Lindsay Ell\)](https://open.spotify.com/track/6deDpxfbapjMLgHoaNuAx6) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [How Do You Love \(with Lee Brice & Lindsay Ell\)](https://open.spotify.com/album/3s8fBzIbBGrRhlR2dOk4bq) | 3:30 | 2021-12-31 | 2022-02-26 |
 | [How To Talk To Girls](https://open.spotify.com/track/0TmtIEVQGDMYHWmgYw3Zlq) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [How To Talk To Girls](https://open.spotify.com/album/4G7ZM1XjOlhHBpiCh2QctX) | 3:20 | 2021-12-31 | 2022-03-19 |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-25 | 2022-04-29 |
@@ -162,7 +163,7 @@
 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 | 2021-12-31 |  |
 | [My Left Hand](https://open.spotify.com/track/4xvjIj6hR1HNv5G0ooi0CG) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand](https://open.spotify.com/album/4auLkhQRuYKdmz2EBDvPDH) | 3:07 | 2022-05-20 |  |
 | [My Poor Mama](https://open.spotify.com/track/4Q3BRVk8Yn3iR3PI42siD2) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Nothing Is Meaningless](https://open.spotify.com/album/6mbfe0uLpLTiqc8chVvqIW) | 3:06 | 2021-12-31 | 2022-01-15 |
-| [Nashville Or Nothing](https://open.spotify.com/track/27VXGsgJOEj7aYW6uWdJxK) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Nashville Or Nothing](https://open.spotify.com/album/0u7mZIt4MJk667bsC1ZFIf) | 2:45 | 2022-03-18 |  |
+| [Nashville Or Nothing](https://open.spotify.com/track/27VXGsgJOEj7aYW6uWdJxK) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Nashville Or Nothing](https://open.spotify.com/album/0u7mZIt4MJk667bsC1ZFIf) | 2:45 | 2022-03-18 | 2022-08-13 |
 | [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:42 | 2022-06-17 | 2022-08-06 |
 | [Never Met A Beer](https://open.spotify.com/track/2DiDaZdGU6Ey3mn6LCDVnh) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM), [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [Never Met A Beer](https://open.spotify.com/album/6Xn7RynwBkQup3YmWgzpGZ) | 2:52 | 2022-08-05 |  |
 | [Never Run Outta Road](https://open.spotify.com/track/01va2FpLNEdeWuAR1t4isp) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Everbound](https://open.spotify.com/album/46w9JKmyydAsnkVW34kP6I) | 3:28 | 2021-12-31 | 2022-03-12 |

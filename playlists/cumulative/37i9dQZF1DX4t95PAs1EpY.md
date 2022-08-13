@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-229 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+233 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anemone](https://open.spotify.com/track/7eNGBTOkvmEJqh7ylI2Kfu) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Anemone](https://open.spotify.com/album/7ek1qAaWiRo87eyr6vmbsE) | 2:30 | 2022-05-13 |  |
 | [Aphrodite](https://open.spotify.com/track/0yZ11M8p1uSTz1H4rwICSs) | [KojimaBeats](https://open.spotify.com/artist/5S61jcmSfM4Hg6s8bJ16BN) | [Aphrodite](https://open.spotify.com/album/4iO4ZqgrW7EMgJcWcAswa4) | 2:42 | 2022-05-13 |  |
 | [Artwork](https://open.spotify.com/track/5J5NcN1lGvb3Yo794ohu8f) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Artwork](https://open.spotify.com/album/1S2pNdwEk83jQrPJlPqbmS) | 2:20 | 2022-02-28 |  |
+| [Aubade](https://open.spotify.com/track/0gbUFxxYG1tnXjFcsCLNk2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Aubade](https://open.spotify.com/album/55tPJivAF0H4j5Zy85kVfU) | 1:51 | 2022-08-12 |  |
 | [Bamboo](https://open.spotify.com/track/1Eds8oDDD5wYBGNgp8GpjF) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Two Piece](https://open.spotify.com/album/4WUWDPlKnLRNTv7AIS2TO3) | 2:02 | 2022-06-03 |  |
 | [Bay Leaves](https://open.spotify.com/track/7LKRVeyuMdIxLFhr49n7sT) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Bay Leaves](https://open.spotify.com/album/5ktazOzcMJcyaEg2lcYlKS) | 2:04 | 2021-12-07 |  |
 | [Better Life](https://open.spotify.com/track/32jgxWTiEcXChtfT4BdFyK) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Better Life](https://open.spotify.com/album/43SGwBqaSpuOA5D9stfmLy) | 2:40 | 2021-12-07 |  |
@@ -64,6 +65,7 @@
 | [Evergreen Forest](https://open.spotify.com/track/2qrTpPdOoAVbqONnV0p6mN) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Evergreen Forest](https://open.spotify.com/album/1SaDSYQdoE17uanBI6qxes) | 2:10 | 2021-12-07 |  |
 | [Everything Once Again](https://open.spotify.com/track/6VIVyMdXYvA18tqfY9LNss) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [Everything Once Again](https://open.spotify.com/album/5UWIOdwytfQBtbrJzq2exd) | 2:30 | 2021-12-07 |  |
 | [Exhibit A](https://open.spotify.com/track/7eSGgkpKap0NkmcsyX9DbN) | [Divine Stacks](https://open.spotify.com/artist/3gxhMzrCpxtLnUvLo1bEQC) | [Pellegrino](https://open.spotify.com/album/0UHLq4m23c1rspMr8rsqHe) | 2:09 | 2021-12-07 |  |
+| [Fantasy](https://open.spotify.com/track/7ihm82jyb6DctY4XuGJUBZ) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Fantasy](https://open.spotify.com/album/20NfbcfBukHVfywISL3O6t) | 1:49 | 2022-08-12 |  |
 | [Faro](https://open.spotify.com/track/6jL7VAN6WbWWWGH092DHKB) | [Sou El](https://open.spotify.com/artist/11UKM0qEi2HoFEIsS18t9f) | [Faro](https://open.spotify.com/album/1moyLhxoQIXe2rogVoUckL) | 2:35 | 2021-12-07 |  |
 | [Feel Jolly](https://open.spotify.com/track/2X7IEYH1ani18XiYyhFYaY) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Feel Jolly](https://open.spotify.com/album/43mTxTivOAECBc4LcAaHz5) | 2:52 | 2021-12-07 |  |
 | [Feeling Home](https://open.spotify.com/track/6XsYemXw6IHXqVyFFzk2sX) | [Abbesses Square](https://open.spotify.com/artist/6FSygvawNhfzoREb50lmFL) | [Buskin](https://open.spotify.com/album/51srnMKZ1Ic8qAFmBJK9xP) | 3:59 | 2021-12-07 |  |
@@ -161,6 +163,7 @@
 | [overcast](https://open.spotify.com/track/5HhaJtn3ilA7rjQHctEI1y) | [Sophia Lopez](https://open.spotify.com/artist/6cgDJHmQSZ3o3jVAQA7lKp) | [overcast](https://open.spotify.com/album/65JKVp9Jb7pc9ickxQoEdF) | 2:00 | 2021-12-07 |  |
 | [Pacific Ave](https://open.spotify.com/track/6G0L1J6Vg2kY2HHjdvKJ8E) | [Peaches & Boo](https://open.spotify.com/artist/0jts2tk2AOzVPENYEBK4TT) | [Pacific Ave](https://open.spotify.com/album/0N8NoIShc8iKKuLeaIEeEc) | 1:26 | 2021-12-07 | 2022-05-20 |
 | [park stroll](https://open.spotify.com/track/1lm9DJDac6sVS6PyhDMMTv) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [park stroll & pathways](https://open.spotify.com/album/7azzpnzNfYqZQR3bCmuqYn) | 2:50 | 2021-12-07 |  |
+| [park walk](https://open.spotify.com/track/2tYqNlXXcHJwBFStIOyZye) | [Jokabi](https://open.spotify.com/artist/7F93sQ33frkSEdmSunHEcP) | [park walk](https://open.spotify.com/album/3gCAuvEpg2fYeroRriEk5F) | 2:04 | 2022-08-12 |  |
 | [Peace](https://open.spotify.com/track/0qt32QPTlsD4qL8l2B4Hj3) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Peace](https://open.spotify.com/album/49upUTh206ilyzBPbsJt3H) | 2:00 | 2022-05-13 | 2022-07-29 |
 | [Perfect Dark](https://open.spotify.com/track/6rMfRzs0lpnKY8gVk8dh6W) | [Orangelo](https://open.spotify.com/artist/6rGGEz9rM3t9SeOvwLJNIT) | [Midnight Sun](https://open.spotify.com/album/61ggX6ltMrTBy7fv96Bbip) | 2:14 | 2021-12-07 |  |
 | [picnic blanket](https://open.spotify.com/track/3gcHdJFeWqf8xXjlwxbatl) | [feathered friend](https://open.spotify.com/artist/2UKCPn2w6i8etI4ZyIcAwu) | [picnic blanket](https://open.spotify.com/album/5Lt3o5YQ5PfF6bqtwSV0Pw) | 2:30 | 2022-08-05 |  |
@@ -177,6 +180,7 @@
 | [Rain Relaxation](https://open.spotify.com/track/4UNI7NvY0ti3jJikm4f4ld) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rain Relaxation](https://open.spotify.com/album/12rvDONgzBXcUOS62Z1GZZ) | 3:00 | 2021-12-07 |  |
 | [Random Happiness](https://open.spotify.com/track/78sZViilyy3YOEfZjWfPSr) | [Enoki](https://open.spotify.com/artist/1ioPe940lafF8R9ejGRRpW) | [Random Happiness](https://open.spotify.com/album/0Gu7chi8C1LXP4urOyN0Wx) | 1:42 | 2022-05-13 |  |
 | [Reattachment](https://open.spotify.com/track/5jaPyxDqTmJNaWb6FV5Iqy) | [Avery Palm](https://open.spotify.com/artist/0dJz1wtsMh5DrqCnoyiQDr) | [Give It Up](https://open.spotify.com/album/42LL7ZVY3mIcW74gVmkgmZ) | 1:44 | 2022-04-08 |  |
+| [Recollection](https://open.spotify.com/track/2kmvhCpX4xOyfBmCfk3Oy6) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Recollection](https://open.spotify.com/album/7ENS1n8vblqe9EcXpQxLDW) | 2:33 | 2022-08-12 |  |
 | [Red Dove](https://open.spotify.com/track/7LebLMIwvYvoWbBd9GYtxW) | [Greenland](https://open.spotify.com/artist/58WLeCP383TOf9KPchxyLl) | [Red Dove](https://open.spotify.com/album/7GJpLw4jMbTx00deI5jpOa) | 2:02 | 2021-12-07 | 2022-05-20 |
 | [Red Wine at Dawn](https://open.spotify.com/track/5w7snuYJzYBSeCwgZPwpME) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Red Wine at Dawn](https://open.spotify.com/album/78JpJyBCQgkOIVdk91YwE3) | 3:01 | 2021-12-07 |  |
 | [Reefs](https://open.spotify.com/track/78oUWiCHOMslcfcbksmeoN) | [Oddability](https://open.spotify.com/artist/2mjU7FFvohRKtvj3xgRkqk), [Beat fanatics](https://open.spotify.com/artist/2bguEpHQ7ttxrLnqrDrr4w) | [Triptych EP](https://open.spotify.com/album/3HA4fm1yar4RbG9k0sK5Sz) | 1:37 | 2021-12-07 |  |

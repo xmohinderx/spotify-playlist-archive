@@ -1,12 +1,12 @@
 {
   "description": "De playlist voor magic, motion en summer vibes! Cover: Rotjoch",
-  "num_followers": 301841,
+  "num_followers": 301924,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1NTIwMCwwMDAwMDAwMDlmOTQwZTgwZTdhYjFmMjI2NzAzNGEwYTEwYTYwNDVl",
+  "snapshot_id": "MTY2MDI1NTIwMCwwMDAwMDAwMGIxYWU2NDgyOTVhZWM1OTk0ZDU2NWU2MWRjMGM2YmFh",
   "tracks": [
     {
       "added_at": "2022-08-11 22:00:00",
@@ -91,6 +91,30 @@
       "duration_ms": 188033,
       "name": "ICE (feat. Dopebwoy & Murda)",
       "url": "https://open.spotify.com/track/2Drq3S61mlk0IJFWtQktyU"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/6KDkAd47FLbeLIaymhkiYG"
+      },
+      "artists": [
+        {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 120465,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/1iOuMmgWQGonnhIwvow7Ac"
     },
     {
       "added_at": "2022-08-11 22:00:00",

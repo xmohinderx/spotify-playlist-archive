@@ -2,9 +2,9 @@
 
 ### [Trap Land](https://open.spotify.com/playlist/37i9dQZF1DXde9tuMHuIsj)
 
-> The best of Latin Trap\. Cover: Eladio Carrion
+> The best of Latin Trap\. Cover: Eladio Carrion, YOVNCHIMI
 
-152 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
+154 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dos Mil 16](https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:28 | 2022-06-03 |  |
 | [Drug Dealer](https://open.spotify.com/track/0I3UatrHgOu864I8a9SL0b) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Drug Dealer](https://open.spotify.com/album/0V11CgvmJjeZLsIaQTsQki) | 3:28 | 2022-03-18 | 2022-05-04 |
 | [El Congreso](https://open.spotify.com/track/1ds3UoIlolByK0rNyNbmvP) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [El Congreso](https://open.spotify.com/album/1WShl2Ns50BWfZuyqsKDXP) | 3:20 | 2022-04-01 |  |
+| [El de la Caña](https://open.spotify.com/track/7cn4vTsi42PPl9yJSxCG15) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [El de la Caña](https://open.spotify.com/album/4tcD9vE6UcsVcQWgpYJa5G) | 5:14 | 2022-08-12 |  |
 | [El Fucking MVP](https://open.spotify.com/track/4bZe10GGfnMktu6OZlgnub) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [El Fucking MVP](https://open.spotify.com/album/5nrTy8lrAvz3a0f96CxEH4) | 3:00 | 2022-06-03 |  |
 | [EL INCA](https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [EL INCA](https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0) | 3:32 | 2022-03-18 | 2022-04-16 |
 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 | 2022-03-18 |  |
@@ -95,6 +96,7 @@
 | [Mi Ego](https://open.spotify.com/track/7kMEULSicpabScwQenlnK7) | [El Pinche Valentin](https://open.spotify.com/artist/7EquQBFR1KIRdtc9wtq77m), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Anubis](https://open.spotify.com/album/4dP6IVaVS03eOk30hJqLby) | 2:25 | 2022-04-01 | 2022-05-04 |
 | [Milloneta](https://open.spotify.com/track/6U2fTWEr4MffXBDSMr2ML2) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Apokalypsis 2](https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH) | 3:38 | 2022-03-18 | 2022-05-04 |
 | [MOOD \- Remix](https://open.spotify.com/track/65wccjJxugGBsPKZcsHG49) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [MOOD \(Remix\)](https://open.spotify.com/album/7HSebWoyKTGMZTfnoahW3G) | 3:46 | 2022-05-03 |  |
+| [Muévelo Lento](https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Muévelo Lento](https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m) | 3:02 | 2022-08-12 |  |
 | [Mvrda Cartel](https://open.spotify.com/track/52gnw9ctHcycIpMREoMMt9) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Mvrda Cartel](https://open.spotify.com/album/2nTgaQvTxMsk9DorINL6yy) | 3:12 | 2022-06-03 |  |
 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 | 2022-03-18 |  |
 | [Naiky](https://open.spotify.com/track/4mjCmn2Mepi8NpkjWicWwf) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Naiky](https://open.spotify.com/album/2NWK95vxT1vpCMW8GIa4Qe) | 2:36 | 2022-08-05 |  |

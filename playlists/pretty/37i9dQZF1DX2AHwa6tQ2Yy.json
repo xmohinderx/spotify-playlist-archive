@@ -1,13 +1,29 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 27253,
+  "num_followers": 27286,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxOTI1OCwwMDAwMDAwMDI2MTY3MTRhY2I0OWU5YWViY2M0ZTU2NWJiODA1Njhi",
+  "snapshot_id": "MTY2MDIxOTI1OCwwMDAwMDAwMDg1YmE2MmM4MGUxYzAyNTBhMjJlZDIwNjkwNDk5NjE5",
   "tracks": [
+    {
+      "added_at": "2022-08-11 12:00:58",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+    },
     {
       "added_at": "2022-08-11 12:00:58",
       "album": {

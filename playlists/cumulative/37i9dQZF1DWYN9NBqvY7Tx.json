@@ -114,6 +114,32 @@
     },
     {
       "album": {
+        "name": "All That Really Matters (Will Clarke Remix)",
+        "url": "https://open.spotify.com/album/4PXFoJesZ5XrO4mmwTSNfm"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229663,
+      "name": "All That Really Matters - Will Clarke Remix",
+      "url": "https://open.spotify.com/track/67stT9mRSOt6eO1bjB2AlH"
+    },
+    {
+      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY"
       },
@@ -185,7 +211,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 142857,
       "name": "Artemis",
       "url": "https://open.spotify.com/track/4xwdCGKQNzjHy7y4DLD6KH"
@@ -313,6 +339,36 @@
       "duration_ms": 169528,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/5N9ffOcjA48gaNzQzuNTyL"
+    },
+    {
+      "album": {
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
       "album": {
@@ -1505,7 +1561,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 193186,
       "name": "Fall 'N' Roll",
       "url": "https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL"
@@ -4629,7 +4685,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 168000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6ww1NBmkrMqaEdWk1PsatX"
@@ -5489,7 +5545,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 183424,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc"

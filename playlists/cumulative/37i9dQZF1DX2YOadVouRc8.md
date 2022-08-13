@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-84 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/1py77qQXoVwE0Vmpffvuvp)
+85 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/1py77qQXoVwE0Vmpffvuvp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [In The Morning](https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [In The Morning](https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW) | 3:07 | 2022-06-09 |  |
 | [Jo](https://open.spotify.com/track/3vQDViTCjRem00CGS7Rr6J) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Jo](https://open.spotify.com/album/5ibum2SHIL8CmOqguxiolN) | 3:13 | 2022-06-09 |  |
 | [Jump On It \- Suté Iwar Remix](https://open.spotify.com/track/6lpkLT4vmzTAyDJA8SF5bF) | [Bankyondbeatz](https://open.spotify.com/artist/7DpKQ2Ynq3k9C1zgV8fxJV), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Jump On It \(REMIX\)](https://open.spotify.com/album/3JI4J8tbDetUugD4Dn7CU8) | 2:45 | 2022-06-09 |  |
-| [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 | 2022-06-09 |  |
+| [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 | 2022-06-09 | 2022-08-13 |
 | [Kondo](https://open.spotify.com/track/7k6pqLzmKGrFC5DJfTKEJy) | [Afrisounds](https://open.spotify.com/artist/7xRBFwkWrKG1Ql2OOOLT1A), [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R), [Madi Banja](https://open.spotify.com/artist/0LdzDrRc2RESpGqwyhbE3t), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Kondo](https://open.spotify.com/album/2uCfT1EHCbCJPciM5D5xtL) | 4:25 | 2022-06-09 | 2022-08-07 |
 | [Life](https://open.spotify.com/track/3xBSBXvY0mSQuiWh58XP05) | [J'Dess](https://open.spotify.com/artist/2aUctDbYODpqWfleSUpK6s) | [Ada](https://open.spotify.com/album/6nZ7n5DR6sqV7AqsGAithg) | 3:50 | 2022-06-09 |  |
 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 | 2022-06-09 |  |
@@ -66,6 +66,7 @@
 | [Oha](https://open.spotify.com/track/2PZlJEj06ZZZAe13OdHM22) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [Crave](https://open.spotify.com/album/15OKHri5NUgFB11KpzmfW3) | 3:12 | 2022-06-09 |  |
 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-06-09 |  |
 | [Osondu](https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 4:18 | 2022-06-09 |  |
+| [Osu Riddim](https://open.spotify.com/track/6ERFpGobKqOTMruIRXx280) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 4:36 | 2022-08-12 |  |
 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 | 2022-06-09 |  |
 | [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 | 2022-06-09 |  |
 | [Peace Of Mind](https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Peace Of Mind](https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP) | 3:28 | 2022-06-09 |  |

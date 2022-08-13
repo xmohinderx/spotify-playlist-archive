@@ -4,7 +4,7 @@
 
 > These country songs know exactly how you feel.
 
-147 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/68FV8d2Esz4dF7OiEcvcDQ)
+148 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/68FV8d2Esz4dF7OiEcvcDQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Far Boy \(with Austin Burke\)](https://open.spotify.com/track/72IZFSjcDbtrtqn4sfrIjR) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6), [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Far Boy \(with Austin Burke\)](https://open.spotify.com/album/3pzUW3z7WUMgfLqRwIZY3a) | 3:06 | 2021-12-03 | 2022-07-27 |
 | [Forgetting You](https://open.spotify.com/track/1jaG6JK3NRTHUiKmVbWw8e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Forgetting You](https://open.spotify.com/album/2wxxVIPFHehCMJsUvRGCGc) | 3:04 | 2022-01-28 | 2022-07-29 |
 | [Giving You Up \- Acoustic](https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up \(Acoustic\)](https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD) | 3:52 | 2022-02-18 |  |
-| [Goin' Through The Big D](https://open.spotify.com/track/4s6Q9zPmiYcpo5MR7uoVnt) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Greatest Hits: Mark Chesnutt](https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg) | 2:35 | 2022-04-01 |  |
+| [Goin' Through The Big D](https://open.spotify.com/track/4s6Q9zPmiYcpo5MR7uoVnt) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Greatest Hits: Mark Chesnutt](https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg) | 2:35 | 2022-04-01 | 2022-08-13 |
 | [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 | 2022-02-11 |  |
 | [Goodbye Town](https://open.spotify.com/track/3W0iMYTgiCNGXDiS2h4GJ8) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Goodbye Town](https://open.spotify.com/album/5AhSIefPyhXGbysvz51ZCH) | 3:24 | 2021-12-03 | 2022-04-20 |
 | [Grew Apart](https://open.spotify.com/track/2JK5ALIvepkQAWNItmKBZu) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Grew Apart](https://open.spotify.com/album/6wbU7rsPqKrKBibzEdtw6m) | 2:49 | 2021-12-03 | 2022-07-29 |
@@ -85,6 +85,7 @@
 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2021-12-03 | 2022-07-29 |
 | [Make You Miss Me](https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:45 | 2021-12-03 |  |
 | [Marry Me](https://open.spotify.com/track/2mNunIwTYWrNEYgWYrj97p) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes \(Big Machine Radio Release Special\)](https://open.spotify.com/album/6nBXl4WJtnGtcA1QUAC2lM) | 3:26 | 2021-12-03 | 2022-07-29 |
+| [Maybe In Another Life](https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB) | 4:07 | 2022-08-12 |  |
 | [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 | 2021-12-03 |  |
 | [Mercy](https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:37 | 2021-12-03 |  |
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2021-12-03 |  |

@@ -1,15 +1,15 @@
 {
   "description": "You say guilty, we say a delight!",
-  "num_followers": 3207613,
+  "num_followers": 3208393,
   "original_name": "Guilty Pleasures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMwNzI3OSwwMDAwMDAwMDAyZmRiMjkwNjM4ZWMwMDkyYjE1MTY3NTJkNTNiMDgw",
+  "snapshot_id": "MTY2MDMzMTI0MCwwMDAwMDAwMDY3YzBjODlmNjY2MjZhMzkyYTMxMTNlNjJjNTAwZGYz",
   "tracks": [
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -25,55 +25,7 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
-      "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
-    },
-    {
-      "added_at": "2022-07-31 22:41:19",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 292613,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
-    },
-    {
-      "added_at": "2022-07-31 22:41:19",
-      "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
-    },
-    {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
@@ -93,7 +45,55 @@
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Be Not Nobody",
         "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Onka's Big Moka",
         "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Hunting High and Low",
         "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Hybrid Theory (Bonus Edition)",
         "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Mail on Sunday",
         "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Don't Kill the Magic",
         "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Millennium",
         "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Reason (15th Anniversary Deluxe)",
         "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "All That We Needed",
         "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Foundation",
         "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Sweet Caroline",
         "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Silver Side Up",
         "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Beautiful Girls",
         "url": "https://open.spotify.com/album/71clfVkkopYLrgweVj2cow"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Oops!... I Did It Again",
         "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
         "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
@@ -961,7 +961,7 @@
       "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "A Little Bit of Mambo",
         "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "August And Everything After",
         "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Very Best of Bonnie Tyler",
         "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
@@ -1009,7 +1009,7 @@
       "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Abba",
         "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
@@ -1057,7 +1057,7 @@
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Face Value (Deluxe Editon)",
         "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
@@ -1073,7 +1073,7 @@
       "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Time Of Our Lives",
         "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Partners In Crime",
         "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
@@ -1105,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Sixpence None the Richer",
         "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
@@ -1121,7 +1121,7 @@
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
@@ -1137,7 +1137,7 @@
       "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "iSouljaBoyTellem",
         "url": "https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu"
@@ -1157,7 +1157,7 @@
       "url": "https://open.spotify.com/track/2q4rjDy9WhaN3o9MvDbO21"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Knee Deep In The Hoopla",
         "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
@@ -1173,7 +1173,7 @@
       "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
@@ -1189,7 +1189,7 @@
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -1205,7 +1205,7 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
@@ -1221,7 +1221,7 @@
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Freeze Frame",
         "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
@@ -1237,7 +1237,7 @@
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
@@ -1253,7 +1253,7 @@
       "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Welcome Interstate Managers",
         "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
@@ -1269,7 +1269,7 @@
       "url": "https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
@@ -1289,7 +1289,7 @@
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -1305,7 +1305,7 @@
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
@@ -1321,7 +1321,7 @@
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
@@ -1337,7 +1337,7 @@
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
         "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
@@ -1353,7 +1353,7 @@
       "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Epiphany (Expanded Edition)",
         "url": "https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h"
@@ -1373,7 +1373,7 @@
       "url": "https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Return of the Mack",
         "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
@@ -1389,7 +1389,7 @@
       "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
@@ -1405,7 +1405,7 @@
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
@@ -1421,7 +1421,7 @@
       "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Rock n Roll Jesus",
         "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
@@ -1437,7 +1437,7 @@
       "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "souljaboytellem.com",
         "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
@@ -1453,7 +1453,7 @@
       "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
@@ -1469,7 +1469,7 @@
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
         "url": "https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU"
@@ -1485,7 +1485,7 @@
       "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
@@ -1501,7 +1501,7 @@
       "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Maybe You've Been Brainwashed Too",
         "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
@@ -1517,7 +1517,7 @@
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Colour By Numbers",
         "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
@@ -1533,7 +1533,7 @@
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Eye Of The Tiger",
         "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
@@ -1549,7 +1549,7 @@
       "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
@@ -1565,7 +1565,7 @@
       "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
@@ -1581,7 +1581,7 @@
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Here's To The Good Times",
         "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
@@ -1597,7 +1597,7 @@
       "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
@@ -1613,7 +1613,7 @@
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
@@ -1629,7 +1629,7 @@
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Raw & The Cooked",
         "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
@@ -1645,7 +1645,7 @@
       "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Let's Talk About Love",
         "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
@@ -1661,7 +1661,7 @@
       "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
@@ -1677,7 +1677,7 @@
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Armageddon - The Album",
         "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
@@ -1693,7 +1693,7 @@
       "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN"
@@ -1709,7 +1709,7 @@
       "url": "https://open.spotify.com/track/2i0AUcEnsDm3dsqLrFWUCq"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
         "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
@@ -1725,7 +1725,7 @@
       "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
@@ -1741,7 +1741,7 @@
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
@@ -1761,7 +1761,7 @@
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
@@ -1777,7 +1777,7 @@
       "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
@@ -1793,7 +1793,7 @@
       "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Jealous Ones Still Envy (J.O.S.E)",
         "url": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
@@ -1817,7 +1817,7 @@
       "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
@@ -1833,7 +1833,7 @@
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Kings Of Crunk",
         "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
@@ -1853,7 +1853,7 @@
       "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Reflection (Deluxe)",
         "url": "https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP"
@@ -1873,7 +1873,7 @@
       "url": "https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
@@ -1889,7 +1889,7 @@
       "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
@@ -1905,7 +1905,7 @@
       "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Pain Is Love",
         "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"
@@ -1925,7 +1925,7 @@
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
@@ -1941,7 +1941,7 @@
       "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Wheatus",
         "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
@@ -1957,7 +1957,7 @@
       "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "D-12 World",
         "url": "https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ"
@@ -1973,7 +1973,7 @@
       "url": "https://open.spotify.com/track/4XHQyvbrBsQaaBUW1VvmsL"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
@@ -1989,7 +1989,7 @@
       "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Blazzin' Fire",
         "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
@@ -2005,7 +2005,7 @@
       "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf"
@@ -2021,7 +2021,7 @@
       "url": "https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
@@ -2037,7 +2037,7 @@
       "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Barefoot Blue Jean Night",
         "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
@@ -2053,7 +2053,7 @@
       "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Girls, Girls, Girls",
         "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
@@ -2069,7 +2069,7 @@
       "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Essential Journey",
         "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
@@ -2085,7 +2085,7 @@
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
@@ -2105,7 +2105,7 @@
       "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
@@ -2121,7 +2121,7 @@
       "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Gift Of Game",
         "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
@@ -2137,7 +2137,7 @@
       "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
@@ -2153,7 +2153,7 @@
       "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
@@ -2169,7 +2169,7 @@
       "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Party Album!",
         "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
@@ -2185,7 +2185,7 @@
       "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
@@ -2201,7 +2201,7 @@
       "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Tal Bachman",
         "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
@@ -2217,7 +2217,7 @@
       "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "In the Summertime",
         "url": "https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY"
@@ -2233,7 +2233,7 @@
       "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Finest",
         "url": "https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM"
@@ -2249,7 +2249,7 @@
       "url": "https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
@@ -2265,7 +2265,7 @@
       "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
@@ -2281,7 +2281,7 @@
       "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Best Of Men At Work: Contraband",
         "url": "https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy"
@@ -2297,7 +2297,7 @@
       "url": "https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
@@ -2313,7 +2313,7 @@
       "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Cosmic Thing",
         "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
@@ -2329,7 +2329,7 @@
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
@@ -2345,7 +2345,7 @@
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Everytime We Touch (Premium Edition)",
         "url": "https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD"
@@ -2361,7 +2361,7 @@
       "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Christina Aguilera (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
@@ -2377,7 +2377,7 @@
       "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC"
@@ -2393,7 +2393,7 @@
       "url": "https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "When The World Comes Down",
         "url": "https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ"
@@ -2409,7 +2409,7 @@
       "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "So Excited! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
@@ -2425,7 +2425,7 @@
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
@@ -2441,7 +2441,7 @@
       "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
@@ -2457,7 +2457,7 @@
       "url": "https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "Hands All Over",
         "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
@@ -2477,7 +2477,7 @@
       "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
     },
     {
-      "added_at": "2022-07-31 22:41:19",
+      "added_at": "2022-08-12 19:07:20",
       "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"

@@ -2,7 +2,7 @@
 
 ### [This Is Coldplay](https://open.spotify.com/playlist/37i9dQZF1DXaQm3ZVg9Z2X)
 
-> This is Coldplay\. The essential tracks, all in one place.
+> Watch Tour Diaries with Coldplay’s Chris Martin now!
 
 54 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/1oCJ3Q02CA2EhAiPR90yH4)
 

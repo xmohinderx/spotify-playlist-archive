@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist.
 
-248 songs - 17 hr 7 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+249 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Fourth of July](https://open.spotify.com/track/1LjVNoqN5YsWf9vGu2JzhF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 4:39 | 2022-07-01 |  |
 | [Frederick](https://open.spotify.com/track/1AWSemPzuGu4A9lVhSsFWJ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 3:04 | 2020-08-30 | 2020-09-11 |
 | [Freedom Now](https://open.spotify.com/track/64raCIYgrD3ymY0bF8IARP) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Crossroads](https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5) | 4:05 | 2020-08-30 | 2020-09-11 |
-| [Friends That Break Your Heart](https://open.spotify.com/track/40FsuBI6VgWa0ouG9KcB0c) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:21 | 2021-10-08 |  |
+| [Friends That Break Your Heart](https://open.spotify.com/track/40FsuBI6VgWa0ouG9KcB0c) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:21 | 2021-10-08 | 2022-08-13 |
 | [Funeral](https://open.spotify.com/track/0xF4pgg7PrOG1HccKenJYz) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/1p16WxrdVBNIAAxbpZMWJR) | 3:52 | 2020-06-19 | 2022-07-29 |
 | [Funeral](https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:52 | 2022-07-15 |  |
 | [Furious](https://open.spotify.com/track/78XTKnmE1zQSwvholRJb31) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Furious](https://open.spotify.com/album/3T9Bo1irL6Aye8vk1dZ1JY) | 3:39 | 2019-09-29\* | 2020-11-17 |
@@ -134,6 +134,7 @@
 | [Mean Old World](https://open.spotify.com/track/1v4BpOiU0WuSwiNbdYvdWd) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:45 | 2020-08-30 | 2020-09-11 |
 | [Milk](https://open.spotify.com/track/7qbQiDc6OZgw8p91UTy2fE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Milk](https://open.spotify.com/album/4RgHhQQ1Q0UPrDyqsJCMfE) | 3:54 | 2019-09-29\* |  |
 | [Miss Misanthrope](https://open.spotify.com/track/0u6rjHF61bxe25gZOOZ5hx) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX) | 3:55 | 2019-09-29\* | 2022-04-10 |
+| [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 | 2022-08-12 |  |
 | [My Blood Will Call out to You from the Ground](https://open.spotify.com/track/3Ha5BnM3hnMom3B7wPSBYU) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6), [The Musicians of the Apocalypse](https://open.spotify.com/artist/3daEbPQTOefptx00Snvn7K) | [When I Shoot at You with Arrows, I Will Shoot to Destroy You](https://open.spotify.com/album/7k0VVDoF8jwZ1joYO7SBJp) | 3:26 | 2019-09-29\* | 2022-04-10 |
 | [My Mind is a Mess in the Morning](https://open.spotify.com/track/0gsFYbnx6GAQ3YOQlMsR5u) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Morning / Midnight // My Mind is a Mess in the Morning](https://open.spotify.com/album/0dnf61lE4vYKAivDQwUaTk) | 4:24 | 2022-04-22 |  |
 | [My Wandering Days Are Over](https://open.spotify.com/track/56tvIKcMb2C5Zyuk7eQSr9) | [Belle & Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Tigermilk](https://open.spotify.com/album/5OHv40uxVjNFuilXYmuAo5) | 5:24 | 2020-08-30 | 2020-09-11 |

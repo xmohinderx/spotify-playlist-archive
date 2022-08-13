@@ -2346,6 +2346,24 @@
     },
     {
       "album": {
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/3uFB8d62V6muqEN5XTeV25"
+      },
+      "artists": [
+        {
+          "name": "Luna Grove",
+          "url": "https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144078,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/2BwQ6drWtHOWO4BzJmifrD"
+    },
+    {
+      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/3TxGQnoRo3X3gsRtNjF8ob"
       },

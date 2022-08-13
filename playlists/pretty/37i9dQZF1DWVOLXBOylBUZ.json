@@ -1,12 +1,12 @@
 {
   "description": "Ozuna y Tokischa tienen el ritmo que mueve Latinoam\u00e9rica.",
-  "num_followers": 455160,
+  "num_followers": 455412,
   "original_name": "El Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMGQwNjNhYzRlNzlmNDNmNDdiOGRiMjM0MDQxMGFiYzY3",
+  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMDFlNDhiODhmOTg2N2Q0YjY2YzI0OGQ4NTFkNTVkZjY5",
   "tracks": [
     {
       "added_at": "2022-08-12 00:00:00",
@@ -395,6 +395,26 @@
       "duration_ms": 165521,
       "name": "Byemalandra",
       "url": "https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Dejate Cae",
+        "url": "https://open.spotify.com/album/4mdEsdd31vZjuaNw0dpWFg"
+      },
+      "artists": [
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        },
+        {
+          "name": "Alexis Play",
+          "url": "https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Dejate Cae",
+      "url": "https://open.spotify.com/track/4JGngLD7xutDmfJf44gCJK"
     },
     {
       "added_at": "2022-08-12 00:00:00",

@@ -2306,6 +2306,24 @@
     },
     {
       "album": {
+        "name": "Trails of Me",
+        "url": "https://open.spotify.com/album/6wjDGE6rWctp7CZm69z9C7"
+      },
+      "artists": [
+        {
+          "name": "Laeds",
+          "url": "https://open.spotify.com/artist/0hqZLWRcPUaQ6chCgYYi7g"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259062,
+      "name": "Trails of Me",
+      "url": "https://open.spotify.com/track/0YYOvEXpjVsMPEJaUvFWG5"
+    },
+    {
+      "album": {
         "name": "Turnover",
         "url": "https://open.spotify.com/album/1aCpnw0VjbPYz38eNzdNWe"
       },

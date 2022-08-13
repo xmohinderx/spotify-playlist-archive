@@ -840,6 +840,36 @@
     },
     {
       "album": {
+        "name": "Brahms: Clarinet Trio in A Minor, Op. 114: I. Allegro",
+        "url": "https://open.spotify.com/album/67VKbmP2eGc7npbd3F2e5j"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Andreas Ottensamer",
+          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459213,
+      "name": "Clarinet Trio in A Minor, Op. 114: I. Allegro",
+      "url": "https://open.spotify.com/track/3XscpxBMDGN1Jhm9ZL3Wsg"
+    },
+    {
+      "album": {
         "name": "Brahms: Double Concerto / Schumann: Cello Concerto in A Minor",
         "url": "https://open.spotify.com/album/2TjDr3r0HgvLyxVpq7q8P6"
       },
@@ -1921,7 +1951,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 480373,
       "name": "Trio in A minor for clarinet/viola, cello and piano, Op. 114: I. Allegro",
       "url": "https://open.spotify.com/track/7docq1VLmM6j5ZAU8m6y75"

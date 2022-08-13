@@ -1,884 +1,832 @@
 {
-  "description": "The latest and greatest metal tracks. Cover: Alter Bridge",
-  "num_followers": 655657,
+  "description": "The latest and greatest metal tracks. Cover: Megadeth",
+  "num_followers": 655811,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzAwMCwwMDAwMDAwMDYyM2IyYjU1M2I2ZWIxZGM2ODA5MzQ5NmEzN2U0NGMw",
+  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMDRlNTFhMzA2MTZiOWViZGZmZjc4Mjg5YWUxZGZiODY2",
   "tracks": [
     {
-      "added_at": "2022-08-05 13:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "Silver Tongue",
-        "url": "https://open.spotify.com/album/60gDJXh5wx8VyyvFkt7fbf"
+        "name": "Soldier On! / Night Stalkers / We\u2019ll Be Back",
+        "url": "https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv"
       },
       "artists": [
         {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 258786,
-      "name": "Silver Tongue",
-      "url": "https://open.spotify.com/track/7l3WTEY9owUL3kRgna75Bd"
+      "duration_ms": 294426,
+      "name": "Soldier On!",
+      "url": "https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt"
     },
     {
-      "added_at": "2022-08-05 13:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "The Great Deceiver",
-        "url": "https://open.spotify.com/album/7z9CvBMKxahud7VulgomWT"
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
       "artists": [
         {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 225314,
-      "name": "The Great Deceiver",
-      "url": "https://open.spotify.com/track/1rnNJckSOjUlvoCw3gV5ob"
+      "duration_ms": 298000,
+      "name": "The Watcher",
+      "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
     },
     {
-      "added_at": "2022-08-05 16:30:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "Yen",
-        "url": "https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ"
+        "name": "End (The Other Side)",
+        "url": "https://open.spotify.com/album/17nKRRDxikQd0YstkhOMjF"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
         }
       ],
-      "duration_ms": 285315,
-      "name": "Yen",
-      "url": "https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0"
+      "duration_ms": 230602,
+      "name": "End (The Other Side)",
+      "url": "https://open.spotify.com/track/3h7bP5UMx6pHlPPlzYM0dL"
     },
     {
-      "added_at": "2022-08-05 13:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "Bullet For My Valentine (Deluxe)",
-        "url": "https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF"
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/4gWScx9oKTfu3VNz0KBZMI"
       },
       "artists": [
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "Hell Fire",
+          "url": "https://open.spotify.com/artist/6hwtkhYiDooPPfKqzumCkb"
         }
       ],
-      "duration_ms": 235018,
-      "name": "This Means War",
-      "url": "https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL"
+      "duration_ms": 285962,
+      "name": "It Ends Tonight",
+      "url": "https://open.spotify.com/track/1V1QWXnUZZlfcjqmdkylP9"
     },
     {
-      "added_at": "2022-08-05 13:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "The Retaliators Theme Song (21 Bullets) [feat. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New]",
-        "url": "https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k"
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/3F3uPCy4CYXslDAPCEdQmI"
       },
       "artists": [
         {
-          "name": "The Retaliators",
-          "url": "https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5"
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 189103,
+      "name": "A Matter of Time - Single Edit",
+      "url": "https://open.spotify.com/track/5iJEjTYbaZBNICxMvESTbz"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/5V9EPlNksqsh3zYGtFJe4t"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/36VzVdJWZgpfyjxqS91JeS"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Misplaced Among The Angels",
+        "url": "https://open.spotify.com/album/2f7rYHGoxeZMt5G6tYf9mz"
+      },
+      "artists": [
+        {
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
         },
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Floor Jansen",
+          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
+        }
+      ],
+      "duration_ms": 316111,
+      "name": "Misplaced Among The Angels",
+      "url": "https://open.spotify.com/track/5XDIHNzjClZ8ZJvEqtmvk4"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Free Fall",
+        "url": "https://open.spotify.com/album/4RgLCwZ533xrSElcqGTOhD"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/0pwAgbbfHOUOJIXH8dniQ7"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "The White",
+        "url": "https://open.spotify.com/album/7485grlDpuG0eaWKlKd8lx"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "The White",
+      "url": "https://open.spotify.com/track/7rY7FlrJDxVg4HfvFfxbIl"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "1984",
+        "url": "https://open.spotify.com/album/5RYY90zPEcG3XxZhueE6Y3"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "1984",
+      "url": "https://open.spotify.com/track/7LG0FEpKoKvHCv1S6FUrBY"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Puritania (The Kolbotn Tapes)",
+        "url": "https://open.spotify.com/album/2zOvw7u5XelDbYsxQMPQDI"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 169394,
+      "name": "Puritania - The Kolbotn Tapes",
+      "url": "https://open.spotify.com/track/69vWSqVEctJbTKD3qKaAnD"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Origin of Sin",
+        "url": "https://open.spotify.com/album/6KWoIxUadz6amzRLJv8nrx"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 265890,
+      "name": "Origin of Sin",
+      "url": "https://open.spotify.com/track/6j726iGVPshdVnmWOk2bKp"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "1982",
+        "url": "https://open.spotify.com/album/3zuUeMhZxpoQLAEHYgam4e"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "1982",
+      "url": "https://open.spotify.com/track/3ePP3sUwCuuLntLKswMBnu"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Deathrattle Sing for Me",
+        "url": "https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 284485,
+      "name": "A Killing Word",
+      "url": "https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "hope ur happy",
+        "url": "https://open.spotify.com/album/5EdHcdhFgLz97LkkxcTDyt"
+      },
+      "artists": [
+        {
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+        }
+      ],
+      "duration_ms": 197581,
+      "name": "hope ur happy",
+      "url": "https://open.spotify.com/track/1XZnyemgPYfkVuywyjTLmN"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "The Quest and the Curse",
+        "url": "https://open.spotify.com/album/3YRZ0mvJUhVAzVFMkSpV9b"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "duration_ms": 297244,
+      "name": "The Quest and the Curse",
+      "url": "https://open.spotify.com/track/0pPNiIxCIqVexxmHBWHT23"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Princess of the Night",
+        "url": "https://open.spotify.com/album/3gifO98xgoWejhXIyxVKMI"
+      },
+      "artists": [
+        {
+          "name": "Mono Inc.",
+          "url": "https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX"
+        }
+      ],
+      "duration_ms": 265955,
+      "name": "Princess of the Night",
+      "url": "https://open.spotify.com/track/5iizX9i6w2N6lgIMkOZJGG"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/5TtmOTZjo4LvagdKOyO3Jy"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Heavy Is The Crown",
+      "url": "https://open.spotify.com/track/7Fme04dKGHTPnTfsCgFg5a"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0qUrukPlx9OC3KClB5EZ0W"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 281343,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/2EXKbD2c3MtgbHX63dry8q"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Days Of The Lost",
+        "url": "https://open.spotify.com/album/1Xs6w4Qx0rHSteeQls8LRI"
+      },
+      "artists": [
+        {
+          "name": "The Halo Effect",
+          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "In Broken Trust",
+      "url": "https://open.spotify.com/track/46SwDyuP8p8dJPYjRSZWgC"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/3qAvABCZZwK3bCPGmDf9oO"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
         },
         {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+          "name": "Marcus Vik",
+          "url": "https://open.spotify.com/artist/0oWYLRgh1a8jKMFM42dXgC"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/192z5AU22EGicFz4xTpLQw"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Eternal Traveller",
+        "url": "https://open.spotify.com/album/7Eqi1Jbhb4rkGg13NKM7OR"
+      },
+      "artists": [
+        {
+          "name": "Andromida",
+          "url": "https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr"
+        }
+      ],
+      "duration_ms": 303193,
+      "name": "Eternal Traveller",
+      "url": "https://open.spotify.com/track/6JCZculamK3NWoDMXQKhX3"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Carved",
+        "url": "https://open.spotify.com/album/7dyFujX4rQFB48xfx19rnw"
+      },
+      "artists": [
+        {
+          "name": "Bloodbath",
+          "url": "https://open.spotify.com/artist/7eYmDBinb760MUIfoRdlGQ"
         },
         {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "Luc Lemay",
+          "url": "https://open.spotify.com/artist/6Y9ZFge0XcwsaEFBwu2MJ1"
+        }
+      ],
+      "duration_ms": 208140,
+      "name": "Carved",
+      "url": "https://open.spotify.com/track/091mDipKXTsrd5j3zlgMgW"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Goblin Slayer Main Theme",
+        "url": "https://open.spotify.com/album/5m0BBM6aOfFnM0s7oA8ci1"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Motta",
+          "url": "https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Goblin Slayer Main Theme",
+      "url": "https://open.spotify.com/track/2QVghLxn30nYo059bNynPk"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Re-Crucified",
+        "url": "https://open.spotify.com/album/77XfLxerAe9wxR6xBrzpxB"
+      },
+      "artists": [
+        {
+          "name": "Revocation",
+          "url": "https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3"
         },
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 242336,
-      "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Asking Alexandria, Ice Nine Kills, From Ashes To New)",
-      "url": "https://open.spotify.com/track/3iEmgajStVBooooNaltdOv"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Mind Right",
-        "url": "https://open.spotify.com/album/2sOtTpQaKQkMAa7Sq4D1Ck"
-      },
-      "artists": [
-        {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Mind Right",
-      "url": "https://open.spotify.com/track/4HRZod3GJM4LeC59Ytn3JC"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Rain on My Happy Days",
-        "url": "https://open.spotify.com/album/7sJJUh4wU3Scz3OI0OvRu7"
-      },
-      "artists": [
-        {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        }
-      ],
-      "duration_ms": 210401,
-      "name": "Rain on My Happy Days",
-      "url": "https://open.spotify.com/track/1DwrTPdKCr0XuvmsnMMVr2"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Oshi",
-        "url": "https://open.spotify.com/album/4ZUpuFGK7EBVAp7GBtd4oz"
-      },
-      "artists": [
-        {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+          "name": "Trevor Strnad",
+          "url": "https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb"
         },
         {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+          "name": "George \"Corpsegrinder\" Fisher",
+          "url": "https://open.spotify.com/artist/0GD75s6RNE4DIqLDjmHtU6"
         }
       ],
-      "duration_ms": 210370,
-      "name": "Oshi",
-      "url": "https://open.spotify.com/track/0KOzmAjaNyLIsndxzlqMKn"
+      "duration_ms": 224600,
+      "name": "Re-Crucified",
+      "url": "https://open.spotify.com/track/2CBoAdAWDHxZWoWYIzEnWL"
     },
     {
-      "added_at": "2022-08-05 13:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "The Great Heathen Army",
-        "url": "https://open.spotify.com/album/49RfDv9BawZQq8hJq0V5wB"
+        "name": "Let It Ring",
+        "url": "https://open.spotify.com/album/5cujJ1IMkwnCAhIUlhAByr"
       },
       "artists": [
         {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 270613,
-      "name": "Find a Way or Make One",
-      "url": "https://open.spotify.com/track/4NtpLuz8QFPrCofWmeBYy8"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/2YNo3hFTwzeycL7KtdnyYY"
-      },
-      "artists": [
-        {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "Firefly",
-      "url": "https://open.spotify.com/track/3wMUMqhUy0OqLVwJljS4rE"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Gold: SSD",
-        "url": "https://open.spotify.com/album/25P2bx1A34EW3PaAPwPE1Z"
-      },
-      "artists": [
-        {
-          "name": "Dagames",
-          "url": "https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx"
-        }
-      ],
-      "duration_ms": 278862,
-      "name": "Gold: SSD",
-      "url": "https://open.spotify.com/track/0X0WmjTp6K6b58dlLqDwut"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Totem",
-        "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
-      },
-      "artists": [
-        {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
-        }
-      ],
-      "duration_ms": 331436,
-      "name": "Totem",
-      "url": "https://open.spotify.com/track/2mScyIbHo4Gyz9vFxCmlP6"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "HEAVEN DON'T CRY",
-        "url": "https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 265706,
-      "name": "HEAVEN DON'T CRY",
-      "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Alive now",
-        "url": "https://open.spotify.com/album/0Sw29z6omYwVOuYPmeiVDf"
-      },
-      "artists": [
-        {
-          "name": "Saltatio Mortis",
-          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
-        }
-      ],
-      "duration_ms": 209986,
-      "name": "Alive now",
-      "url": "https://open.spotify.com/track/4ElCDvMJqvkTo9cG7Dhg0O"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Force Majeure",
-        "url": "https://open.spotify.com/album/7zZWupvmKvZuRnj4ukzhAm"
-      },
-      "artists": [
-        {
-          "name": "H.E.A.T",
-          "url": "https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Tainted Blood",
-      "url": "https://open.spotify.com/track/52zG02CRpp5YTUhH9ddCHv"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "W2HA",
-        "url": "https://open.spotify.com/album/0B4sNPNY4NCofYjtllUPKt"
-      },
-      "artists": [
-        {
-          "name": "In Hearts Wake",
-          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
-        }
-      ],
-      "duration_ms": 244124,
-      "name": "W2HA",
-      "url": "https://open.spotify.com/track/5ikHpkAOzpx9k6qpNLeGgU"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "What Have I Done",
-        "url": "https://open.spotify.com/album/4HYReu5QQXoONqDlDMLVXq"
-      },
-      "artists": [
-        {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
-        }
-      ],
-      "duration_ms": 242473,
-      "name": "What Have I Done",
-      "url": "https://open.spotify.com/track/5DHXFo1TdrDxLL4FJj9Ml9"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Mary Shelley",
-        "url": "https://open.spotify.com/album/5EhsYmMaeCUGnDDjRkch9n"
-      },
-      "artists": [
-        {
-          "name": "Callejon",
-          "url": "https://open.spotify.com/artist/1ce15ppX5OYxPsBVESZG3W"
-        }
-      ],
-      "duration_ms": 259428,
-      "name": "Mary Shelley",
-      "url": "https://open.spotify.com/track/2tnICnOKQd3TbAq0X9f6zp"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Pretend",
-        "url": "https://open.spotify.com/album/3BNhZTvDYSV0xew8tYLCEI"
-      },
-      "artists": [
-        {
-          "name": "Project Vela",
-          "url": "https://open.spotify.com/artist/271JhHWMjcrOcExyEO92Hj"
-        }
-      ],
-      "duration_ms": 196384,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/5gIJOl2Yt1kt2DczvT7Ty8"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Bread & Roses",
-        "url": "https://open.spotify.com/album/19iiNYMSHozMMm1Ln1lqQv"
-      },
-      "artists": [
-        {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
         },
         {
-          "name": "Jesse Barnett",
-          "url": "https://open.spotify.com/artist/3Gewmn2K1RTMfqcYREUxTl"
+          "name": "Ziey Kizzy",
+          "url": "https://open.spotify.com/artist/2lVHX4G8SuMo5EiZ403UAo"
         }
       ],
-      "duration_ms": 225293,
-      "name": "Bread & Roses",
-      "url": "https://open.spotify.com/track/68OwHKJI6LiNu2uFb46inK"
+      "duration_ms": 186352,
+      "name": "Let It Ring",
+      "url": "https://open.spotify.com/track/2RRgEEYDh08bLNRyNXVTMj"
     },
     {
-      "added_at": "2022-08-05 13:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/0D8ILihNzvA6rIHaKpRV43"
+        "name": "Apologies",
+        "url": "https://open.spotify.com/album/7pozJJ6427SRJWFCoBWml6"
       },
       "artists": [
         {
-          "name": "Dayshell",
-          "url": "https://open.spotify.com/artist/4yextvMjXxQXzyQkyS1jYX"
+          "name": "Cold Kingdom",
+          "url": "https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/7MvvzxYf46cvAZAjQggy6c"
+      "duration_ms": 233400,
+      "name": "Apologies",
+      "url": "https://open.spotify.com/track/3U9jZ9dtB3BoPv7dmm75d3"
     },
     {
-      "added_at": "2022-08-05 13:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "Ivy",
-        "url": "https://open.spotify.com/album/4AA6fu9JueYbioiopYM3UN"
+        "name": "You're so Hideous",
+        "url": "https://open.spotify.com/album/3nLPmnIpHWJeL2tMGwffOb"
       },
       "artists": [
         {
-          "name": "Time, The Valuator",
-          "url": "https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ"
+          "name": "Wednesday 13",
+          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
         }
       ],
-      "duration_ms": 198979,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/5ESCNhqyWhpauGnzaYeUlp"
+      "duration_ms": 187303,
+      "name": "You're so Hideous",
+      "url": "https://open.spotify.com/track/3fD70CkCeR4i6zX87iiZbe"
     },
     {
-      "added_at": "2022-08-05 13:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "The Rival",
-        "url": "https://open.spotify.com/album/1z0UB6HRmDv88EY9HmVKoo"
+        "name": "Soul Seller",
+        "url": "https://open.spotify.com/album/3jTKVkfnC1z1L6etL7t1Ux"
       },
       "artists": [
         {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+          "name": "Tearmyself",
+          "url": "https://open.spotify.com/artist/29wILATaYUneAGI1ELlZ99"
         },
         {
-          "name": "Lauren Babic",
-          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+          "name": "Thou",
+          "url": "https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo"
         }
       ],
-      "duration_ms": 289548,
-      "name": "The Rival",
-      "url": "https://open.spotify.com/track/0j92GB9tOSKMHYXpz1PQDP"
+      "duration_ms": 183420,
+      "name": "Soul Seller",
+      "url": "https://open.spotify.com/track/0T6V1d4yi8cG3G8tE59URY"
     },
     {
-      "added_at": "2022-08-05 13:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "Sulfate",
-        "url": "https://open.spotify.com/album/7J5pu9L08VK9kkR2HphhWH"
+        "name": "Safety",
+        "url": "https://open.spotify.com/album/6bdy6GbCOL37hqYRGksZTh"
       },
       "artists": [
         {
-          "name": "For The Fallen Dreams",
-          "url": "https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Sulfate",
-      "url": "https://open.spotify.com/track/6DsJlK6C8M7dqn1creyUeE"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Soulbreaker",
-        "url": "https://open.spotify.com/album/5fKKdVUf2wAaOd4vtFKmo6"
-      },
-      "artists": [
-        {
-          "name": "Fallujah",
-          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
-        }
-      ],
-      "duration_ms": 250832,
-      "name": "Soulbreaker",
-      "url": "https://open.spotify.com/track/5X8MudyKLT19ecsUjNVH5U"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/6UgHhlsIDIvaywnsLGAuJV"
-      },
-      "artists": [
-        {
-          "name": "Eyes Wide Open",
-          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Duality",
-      "url": "https://open.spotify.com/track/0rU5EgxILoGvRvK1lBAmMR"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Shadows in Time",
-        "url": "https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 224511,
-      "name": "Shadows in Time",
-      "url": "https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 226128,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "The Boy's",
-        "url": "https://open.spotify.com/album/5A0ahf6W1xNecadC8LKTcN"
-      },
-      "artists": [
-        {
-          "name": "A Killer's Confession",
-          "url": "https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM"
+          "name": "Reliqa",
+          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
         },
         {
-          "name": "Matthew Trumpy",
-          "url": "https://open.spotify.com/artist/0rTufxEj1F7BLrqPWNmBZC"
+          "name": "Sean Harmanis",
+          "url": "https://open.spotify.com/artist/6sFaaNUaT2CyTFTwOs6soQ"
+        }
+      ],
+      "duration_ms": 283440,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/6Q5hbkq1Hos08mpUU0z8mj"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/1KDsvtmMuPPQYQsNfbL7VO"
+      },
+      "artists": [
+        {
+          "name": "Designer Disguise",
+          "url": "https://open.spotify.com/artist/6CIDG937dHbankZzK4IlYu"
+        }
+      ],
+      "duration_ms": 106643,
+      "name": "Destroyer",
+      "url": "https://open.spotify.com/track/7A72ibWcokpV3b4JueLoo7"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Heaven's Broken Heart",
+        "url": "https://open.spotify.com/album/6cxB3o0ncxmv59OZIuH57Z"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "duration_ms": 197285,
+      "name": "Heaven's Broken Heart",
+      "url": "https://open.spotify.com/track/2fZwiRDSjsthSAq1AeaK0k"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Animalistic",
+        "url": "https://open.spotify.com/album/0Ebk9fi0BBtqKbMwQpG61n"
+      },
+      "artists": [
+        {
+          "name": "Nordic Union",
+          "url": "https://open.spotify.com/artist/7JGoXMYBPyLNwcQwc2N2Tu"
+        }
+      ],
+      "duration_ms": 260359,
+      "name": "Animalistic",
+      "url": "https://open.spotify.com/track/7ztz37uMYOqUbYDVo0TdVw"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Forgotten Shades of Life",
+        "url": "https://open.spotify.com/album/5cf3AdviYFfkEVMyLqdk47"
+      },
+      "artists": [
+        {
+          "name": "Shiraz Lane",
+          "url": "https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk"
+        }
+      ],
+      "duration_ms": 205313,
+      "name": "Back to Life",
+      "url": "https://open.spotify.com/track/7DTtvt23SLiqzKovsk1sRs"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/102MJh0MKiOnsLpBYeKiAT"
+      },
+      "artists": [
+        {
+          "name": "About Monsters",
+          "url": "https://open.spotify.com/artist/3MgpEbOPTYbUAOt9uyn5pb"
+        }
+      ],
+      "duration_ms": 217714,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/3ZHlt3QOnchSvAfrNRrZkm"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/458twJVgadOIyd9DtntpW6"
+      },
+      "artists": [
+        {
+          "name": "Daemon Grey",
+          "url": "https://open.spotify.com/artist/5JCa4aQDrKf3nFxPfJ34Sv"
+        }
+      ],
+      "duration_ms": 157261,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2M7YNvYq58O3yq5KCnBIH5"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "God Of Existence",
+        "url": "https://open.spotify.com/album/6HXRxrXny5JzVgjZ4Clu5x"
+      },
+      "artists": [
+        {
+          "name": "Neverland In Ashes",
+          "url": "https://open.spotify.com/artist/1udZMRTk7TTItuCsMDm3Q1"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "God Of Existence",
+      "url": "https://open.spotify.com/track/16XTyWZZdTShh6gxaS8yIp"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Ugly and Cold",
+        "url": "https://open.spotify.com/album/33Gqssn517CToLu7w1lAcK"
+      },
+      "artists": [
+        {
+          "name": "Shining",
+          "url": "https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Ugly and Cold",
+      "url": "https://open.spotify.com/track/6NeqtbvVvOOIDqCeIrYzDs"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Officer Down",
+        "url": "https://open.spotify.com/album/54bWcL6AMQ3c2mSDDz52GS"
+      },
+      "artists": [
+        {
+          "name": "Venom Prison",
+          "url": "https://open.spotify.com/artist/3iSORLy7akvZ1g6QUMnM5f"
+        }
+      ],
+      "duration_ms": 295250,
+      "name": "Officer Down",
+      "url": "https://open.spotify.com/track/6fb1iYhSXpPoZLrXWaPaJi"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Oathbreaker",
+        "url": "https://open.spotify.com/album/62uaABaHeRRoN4Qc7kxED3"
+      },
+      "artists": [
+        {
+          "name": "Exmortus",
+          "url": "https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "Oathbreaker",
+      "url": "https://open.spotify.com/track/7lCULWtiLdjGJnzdwFJzrP"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "fourthh.love",
+        "url": "https://open.spotify.com/album/5Rc9t2bIIWY7XfQczIhlAd"
+      },
+      "artists": [
+        {
+          "name": "Weeping Wound",
+          "url": "https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn"
+        }
+      ],
+      "duration_ms": 222128,
+      "name": "fourthh.love",
+      "url": "https://open.spotify.com/track/069TWN782MDQjfc4k3JdgF"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Flames of Hatred",
+        "url": "https://open.spotify.com/album/5fTAhepFynCZ7LP4mqoWLn"
+      },
+      "artists": [
+        {
+          "name": "Razor",
+          "url": "https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "Flames of Hatred",
+      "url": "https://open.spotify.com/track/6te3dVpVNzo1ZvxUHnaiBJ"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Headline",
+        "url": "https://open.spotify.com/album/0k0yvY4HUXGFDj4BTHYNd9"
+      },
+      "artists": [
+        {
+          "name": "April Art",
+          "url": "https://open.spotify.com/artist/5SIU6vqESwt2muetzRSX7f"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Headline",
+      "url": "https://open.spotify.com/track/0FoKhdMtXRH8a6rYd2FZmb"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Dominion Day",
+        "url": "https://open.spotify.com/album/2Rj1WBkLIjVfI3w7q5wCr9"
+      },
+      "artists": [
+        {
+          "name": "Osyron",
+          "url": "https://open.spotify.com/artist/5bBK2zUbVtvkvbtVBjchFB"
+        }
+      ],
+      "duration_ms": 280386,
+      "name": "Dominion Day",
+      "url": "https://open.spotify.com/track/1ZavGVIkj81XUHMFpX5NFF"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Edge of the Knife",
+        "url": "https://open.spotify.com/album/7cfG0Vsp7igYjX0fkl7n89"
+      },
+      "artists": [
+        {
+          "name": "Sumerlands",
+          "url": "https://open.spotify.com/artist/5rASExwQQilVMuKmaOV2eW"
+        }
+      ],
+      "duration_ms": 251383,
+      "name": "Edge of the Knife",
+      "url": "https://open.spotify.com/track/5GbyW6BfkDFasyyZlLgsL7"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "A Mighty Warrior",
+        "url": "https://open.spotify.com/album/5o67mg7b3wOgZlcCN0FUD3"
+      },
+      "artists": [
+        {
+          "name": "Balboa Son",
+          "url": "https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi"
+        }
+      ],
+      "duration_ms": 224338,
+      "name": "A Mighty Warrior",
+      "url": "https://open.spotify.com/track/5BysgLku2ETNAoMjL1xh5W"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "The Horror Ov the Old Gods",
+        "url": "https://open.spotify.com/album/5SJSgwaTeUMKNX3GHbRbyg"
+      },
+      "artists": [
+        {
+          "name": "A Wake in Providence",
+          "url": "https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa"
+        }
+      ],
+      "duration_ms": 273260,
+      "name": "The Horror Ov the Old Gods",
+      "url": "https://open.spotify.com/track/7nXuyUSyP8ELaRAjY1Qwzc"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Moonlit Torture (feat. Dwid Hellion - Integrity)",
+        "url": "https://open.spotify.com/album/1gRyk7ckJ2MGol5tP2th1m"
+      },
+      "artists": [
+        {
+          "name": "Spiritworld",
+          "url": "https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE"
         },
         {
-          "name": "Jon Dale",
-          "url": "https://open.spotify.com/artist/2Tk6NFSlqcs6TeKpjqU8Tq"
+          "name": "Integrity",
+          "url": "https://open.spotify.com/artist/3L3FDQpQskFnHiISPYHmBo"
         }
       ],
-      "duration_ms": 252878,
-      "name": "The Boy's",
-      "url": "https://open.spotify.com/track/7ixkfxmztYj0doRnnTQv3n"
+      "duration_ms": 274746,
+      "name": "Moonlit Torture (feat. Dwid Hellion - Integrity)",
+      "url": "https://open.spotify.com/track/0nyydGaHafNp44nIlMNwta"
     },
     {
-      "added_at": "2022-08-05 13:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "My name is blank",
-        "url": "https://open.spotify.com/album/52cd2XJ69sfexcnuoAtooC"
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/5t2jT2SbEcroY9lseecVp7"
       },
       "artists": [
         {
-          "name": "Boris",
-          "url": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+          "name": "Hills Have Eyes",
+          "url": "https://open.spotify.com/artist/3Fv2tsp92SxLAAjln6MfQf"
         }
       ],
-      "duration_ms": 195546,
-      "name": "My name is blank",
-      "url": "https://open.spotify.com/track/66KZXDJylzBFsIXXUWKQHs"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Vol II: Music for Living Failures",
-        "url": "https://open.spotify.com/album/5BFNFpJ9MiGeEjXTtUdm8A"
-      },
-      "artists": [
-        {
-          "name": "\u751f Conform \u6b7b",
-          "url": "https://open.spotify.com/artist/37mOmrBhYDEfRM1aSp91bl"
-        },
-        {
-          "name": "Jacson Robb",
-          "url": "https://open.spotify.com/artist/1j5vzo0DpHKWUvT0slSpHd"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Big Homie",
-      "url": "https://open.spotify.com/track/4p1d6pUPeCtuCUE2djaqi6"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/78ZwGLrxOdolJCFtqD2ak6"
-      },
-      "artists": [
-        {
-          "name": "Voyager",
-          "url": "https://open.spotify.com/artist/16fltNcwTM5V9rnxIlcha4"
-        }
-      ],
-      "duration_ms": 177258,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/2Vn1W7YDw0X1TH46Lg8AkB"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Flammenvogel",
-        "url": "https://open.spotify.com/album/3qM4agqvdrfHuugrqN2D3j"
-      },
-      "artists": [
-        {
-          "name": "Vogelfrey",
-          "url": "https://open.spotify.com/artist/3pyjoONcLKvzpSCtk3zAkh"
-        }
-      ],
-      "duration_ms": 266704,
-      "name": "Flammenvogel",
-      "url": "https://open.spotify.com/track/6JY5BxL8egLnEl6vKxRRb0"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Divine Council",
-        "url": "https://open.spotify.com/album/0OWQiWfo2tc10YghREVUSR"
-      },
-      "artists": [
-        {
-          "name": "Psycroptic",
-          "url": "https://open.spotify.com/artist/2O8ZayBAqBqoXujSAAx7pm"
-        }
-      ],
-      "duration_ms": 286197,
-      "name": "Enslavement",
-      "url": "https://open.spotify.com/track/4ZOgpiU2JBCfhWHAG734ri"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "I BLIND MYSELF TO SEE THE WAY THAT YOU SEE",
-        "url": "https://open.spotify.com/album/7N0PzciuYHDRUNSD0jTiNX"
-      },
-      "artists": [
-        {
-          "name": "Undead Ronin",
-          "url": "https://open.spotify.com/artist/2YCMottDWKQCUucck5bBdv"
-        }
-      ],
-      "duration_ms": 149075,
-      "name": "I BLIND MYSELF TO SEE THE WAY THAT YOU SEE",
-      "url": "https://open.spotify.com/track/5heaIJNBZEbNhxNUBqS45J"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Run Boy Run",
-        "url": "https://open.spotify.com/album/1jxMjxC6uvAjLN2BijVxDR"
-      },
-      "artists": [
-        {
-          "name": "Nouveau Arcade",
-          "url": "https://open.spotify.com/artist/2NfoN7WCze5NEJe3J98CQx"
-        },
-        {
-          "name": "KJ Sawka",
-          "url": "https://open.spotify.com/artist/4aXNROgbVMZlegk6TS2sZe"
-        }
-      ],
-      "duration_ms": 220714,
-      "name": "Run Boy Run",
-      "url": "https://open.spotify.com/track/0IP6NLF0542dAKgLGBCMlJ"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Katharsis",
-        "url": "https://open.spotify.com/album/3OVH9xHKV2vlqcb4Jjpr9f"
-      },
-      "artists": [
-        {
-          "name": "Avalanche Effect",
-          "url": "https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb"
-        },
-        {
-          "name": "Mirza Radonjica",
-          "url": "https://open.spotify.com/artist/6IJ172Wtmx3Ap9wQacSyeO"
-        },
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 334635,
-      "name": "Katharsis",
-      "url": "https://open.spotify.com/track/0tyGKnZ3DRSV0ps0HmFXA9"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Dissolve",
-        "url": "https://open.spotify.com/album/1cLVKutiND7BbiLO40lCp1"
-      },
-      "artists": [
-        {
-          "name": "Orthodox",
-          "url": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP"
-        }
-      ],
-      "duration_ms": 186663,
-      "name": "Dissolve",
-      "url": "https://open.spotify.com/track/61cEE5HRsqLvSjGAmVxd8h"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Still Lonely",
-        "url": "https://open.spotify.com/album/4VOYmamRJ1BVEucgQKUrqc"
-      },
-      "artists": [
-        {
-          "name": "Outloved",
-          "url": "https://open.spotify.com/artist/1zsGwHTBAXXWKOnUaKGrhd"
-        }
-      ],
-      "duration_ms": 167003,
-      "name": "Still Lonely",
-      "url": "https://open.spotify.com/track/4tPE9ruQJ4Lhw8izRb2Xbc"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Dis Morta",
-        "url": "https://open.spotify.com/album/6U2Z6XkY2VQcR63aVascjH"
-      },
-      "artists": [
-        {
-          "name": "Toxik",
-          "url": "https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Dis Morta",
-      "url": "https://open.spotify.com/track/34sER4Yidh5EClHLqWBbHG"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "The Calling",
-        "url": "https://open.spotify.com/album/70KyZaQj2QFjNNWxFgQRqp"
-      },
-      "artists": [
-        {
-          "name": "Becoming The Archetype",
-          "url": "https://open.spotify.com/artist/2lt0aSPzPngGw8KsfLYRyF"
-        }
-      ],
-      "duration_ms": 299708,
-      "name": "The Calling",
-      "url": "https://open.spotify.com/track/5s0rXrAOBDs6CS7jR3X2jg"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Thruster",
-        "url": "https://open.spotify.com/album/2t1Bcwl4mAU07aZ7khjSYQ"
-      },
-      "artists": [
-        {
-          "name": "Ruby the Hatchet",
-          "url": "https://open.spotify.com/artist/49evT9ZbNUmyT62Uh8qzGw"
-        }
-      ],
-      "duration_ms": 307197,
-      "name": "Thruster",
-      "url": "https://open.spotify.com/track/38AhUim0YNNsdugknuBU8z"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3WTV16cd7j6U3UYhFxz4Je"
-      },
-      "artists": [
-        {
-          "name": "Points of Conception",
-          "url": "https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf"
-        }
-      ],
-      "duration_ms": 201062,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/75S8DCu7ZCr2dxjGgLQu8h"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Consume (Instrumental)",
-        "url": "https://open.spotify.com/album/7p7FznpFFh3a85xVWfPQTs"
-      },
-      "artists": [
-        {
-          "name": "Seeing Things",
-          "url": "https://open.spotify.com/artist/0PQdHOK4NlRByaOMPQeWEH"
-        }
-      ],
-      "duration_ms": 232857,
-      "name": "Consume - Instrumental",
-      "url": "https://open.spotify.com/track/2cdKOtINJDeRcLNIUNoG5V"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Demons of Rock'n'Roll",
-        "url": "https://open.spotify.com/album/5I1cpGDve7hskfUDVXMQlx"
-      },
-      "artists": [
-        {
-          "name": "Blood God",
-          "url": "https://open.spotify.com/artist/5ZUjLrcjhALbD3rB0Xjhvm"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "Raze Hell",
-      "url": "https://open.spotify.com/track/4qyQSAdpvnNfPadtkxMM5l"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Sting!",
-        "url": "https://open.spotify.com/album/4tGvsbbmfbFA6GEnlMRmiH"
-      },
-      "artists": [
-        {
-          "name": "Ravenface",
-          "url": "https://open.spotify.com/artist/29wZbXau9PTusfBKSu6fSS"
-        }
-      ],
-      "duration_ms": 206486,
-      "name": "Sting!",
-      "url": "https://open.spotify.com/track/3AFC1n9uwNOtPPf1sxxsiy"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Us Vs Them",
-        "url": "https://open.spotify.com/album/3KIW0vzrpDu64yWAoKYvZh"
-      },
-      "artists": [
-        {
-          "name": "Kind Eyes",
-          "url": "https://open.spotify.com/artist/5fykvz752c33lwg0PrTmUs"
-        },
-        {
-          "name": "Jason Butler",
-          "url": "https://open.spotify.com/artist/56ayAfQ4HSdYDw35Fhdigf"
-        }
-      ],
-      "duration_ms": 119854,
-      "name": "Us Vs Them",
-      "url": "https://open.spotify.com/track/67OkdXJFX8J7MD4V0OrLQ1"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Unbroken",
-        "url": "https://open.spotify.com/album/0VkvsseVb5a5LX9BQXcgTT"
-      },
-      "artists": [
-        {
-          "name": "The Curse Within",
-          "url": "https://open.spotify.com/artist/1ILgHQXlqAxKPwQZCJsSKH"
-        }
-      ],
-      "duration_ms": 303141,
-      "name": "Unbroken",
-      "url": "https://open.spotify.com/track/4LuqMPDlg9lk9J6v2tWPka"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/2HFtng6tI4cyZWlidahy4Y"
-      },
-      "artists": [
-        {
-          "name": "Viscaya",
-          "url": "https://open.spotify.com/artist/6DY7U02a4pR7XzB55SSQcE"
-        }
-      ],
-      "duration_ms": 216046,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/5IYXhGHgLqvHZCasQl0QjA"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "Surrender to the Blade",
-        "url": "https://open.spotify.com/album/3U9OPpl5oFf7b5E4B28Cr6"
-      },
-      "artists": [
-        {
-          "name": "I AM",
-          "url": "https://open.spotify.com/artist/7dQNPdkq99QGiUIMmRjqur"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Surrender to the Blade",
-      "url": "https://open.spotify.com/track/30ZeJkPQuXIBf5LNZX8FRI"
-    },
-    {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "OMNI+",
-        "url": "https://open.spotify.com/album/68rIGFibIUDXvzegRYj8eD"
-      },
-      "artists": [
-        {
-          "name": "Another Now",
-          "url": "https://open.spotify.com/artist/629YWM91DWvZIUKjKJvrMp"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Stream",
-      "url": "https://open.spotify.com/track/3H4Bqq2K1nrUn9WcPFwLKj"
+      "duration_ms": 220803,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/3kuM3vhs2S0nbsH8g9Kr2P"
     }
   ],
   "unique_name": "All New Metal",

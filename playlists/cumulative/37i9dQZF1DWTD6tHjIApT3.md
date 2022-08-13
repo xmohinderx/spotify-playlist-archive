@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Tokimeki Records
 
-581 songs - 1 day 14 hr 22 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+582 songs - 1 day 14 hr 26 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Innocent Prisoner](https://open.spotify.com/track/3Gs85wo5AHz5y5PC9EwWgM) | [Kaoru Tominaga](https://open.spotify.com/artist/7h8VFlFvY1tPKovx1mKTGE) | [Innocent Prisoner](https://open.spotify.com/album/1qbhu1nB8o0fSei5sgJ95C) | 3:46 | 2022-06-07 | 2022-06-14 |
 | [Insomnia](https://open.spotify.com/track/2hmz1sXv0Cu2kk0pwpmD2p) | [RINA](https://open.spotify.com/artist/5pIXhOHmNVlgv5K2BoKRuN) | [Insomnia](https://open.spotify.com/album/5kGZu7fPpwvbINL0KrETEi) | 3:33 | 2022-06-21 | 2022-06-24 |
 | [intersolid](https://open.spotify.com/track/21gAd3WVNMqP0mSaM04CdZ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [intersolid](https://open.spotify.com/album/31BTiDOOBfmQldZdl6vQgz) | 3:54 | 2022-05-31 | 2022-07-29 |
-| [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 | 2022-05-31 |  |
+| [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 | 2022-05-31 | 2022-08-13 |
 | [It's a Shame](https://open.spotify.com/track/3cJdbYNhTP0M1S39TE3HSQ) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [Hanah Spring](https://open.spotify.com/artist/4XFD2JYE1YxL1pmuigIb7s) | [I Want You / It's a Shame](https://open.spotify.com/album/2GXHmukXmPrIbESzJv4ZXm) | 4:26 | 2022-06-02 | 2022-06-05 |
 | [It's not too late](https://open.spotify.com/track/6msygryLZFEN7Fw7laGcAA) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [It's not too late](https://open.spotify.com/album/03Dx5bwpehJewD0236CHfe) | 4:33 | 2022-07-19 | 2022-08-03 |
 | [It's you](https://open.spotify.com/track/7bITBEdu6hFbJU0QlanOD2) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [JQ](https://open.spotify.com/artist/1ghv26dA3RvlYBaXzlZvJN) | [It's you](https://open.spotify.com/album/7fdtTcRkCV5dMjaRLhdpHz) | 4:18 | 2022-05-29 | 2022-07-29 |
@@ -461,6 +461,7 @@
 | [君は1000%](https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [君は1000%](https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr) | 4:17 | 2022-08-09 |  |
 | [君はボタニカル](https://open.spotify.com/track/7kvJPhoqyUc2vqwdghYFPx) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [君はボタニカル](https://open.spotify.com/album/6BxQM6Kwlo6DF5ARQMqvTH) | 3:20 | 2022-07-19 | 2022-07-27 |
 | [告白ステップス](https://open.spotify.com/track/7kii8SCoV3GQRTBQ0itL4U) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [告白ステップス](https://open.spotify.com/album/5GV4FMJ6ZYXhkmf1Jaf8tA) | 3:48 | 2022-06-02 | 2022-07-28 |
+| [呼応](https://open.spotify.com/track/0OMJowWWNkPNcN2ljEsHqA) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [呼応](https://open.spotify.com/album/4qLnMrut2t1aAVCbHXU4oU) | 4:37 | 2022-08-11 |  |
 | [嘘の味](https://open.spotify.com/track/7qB3KyOkrJvzDrraaHboAm) | [Ratrium](https://open.spotify.com/artist/59UKvPsBHApOzcsmKVk0PK) | [嘘の味](https://open.spotify.com/album/3H92kIsVbI9UCTBPcSeqBt) | 3:18 | 2022-06-14 | 2022-06-22 |
 | [四季ノ唄](https://open.spotify.com/track/4Ro7Z98TnW4ST3LyG2OKfJ) | [miu](https://open.spotify.com/artist/2QMEcA2HhzcfJX2eZLEEyp) | [四季ノ唄](https://open.spotify.com/album/5Y9q3yLcxi9AbrJfvBuKW7) | 3:51 | 2022-06-30 | 2022-07-03 |
 | [四色の声で話そう \- feat\. 他愛もない](https://open.spotify.com/track/1fVU8NMSnPsND39fZEq9rk) | [Fumihiro Kaneko](https://open.spotify.com/artist/7fBmQcPIpoEzf3oNcuhexz), [他愛もない](https://open.spotify.com/artist/2ltGr4iAy2veIBYCUmehLi) | [四色の声で話そう \(feat\. 他愛もない\)](https://open.spotify.com/album/2a3thgxQc0iFVsgt6YScC1) | 2:40 | 2022-08-09 |  |

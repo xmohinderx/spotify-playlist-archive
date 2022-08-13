@@ -963,7 +963,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 162709,
       "name": "City",
       "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
@@ -1663,7 +1663,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 278226,
       "name": "Forget You (Feat. Rainbow note, Louie)",
       "url": "https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC"
@@ -1979,6 +1979,28 @@
       "duration_ms": 223360,
       "name": "Headlight",
       "url": "https://open.spotify.com/track/0sphzVqEctdSudjBFLQLEA"
+    },
+    {
+      "album": {
+        "name": "OCEAN WAVE",
+        "url": "https://open.spotify.com/album/06jDTVrUOYysEijXi9eKOQ"
+      },
+      "artists": [
+        {
+          "name": "Kim Areum",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        },
+        {
+          "name": "Lee WonSeok",
+          "url": "https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260169,
+      "name": "Highteen (Feat. Lee Won Seok of Daybreak)",
+      "url": "https://open.spotify.com/track/0nw4fbuu6af0WA36f0IHiX"
     },
     {
       "album": {
@@ -3611,6 +3633,24 @@
       "duration_ms": 207250,
       "name": "Rule",
       "url": "https://open.spotify.com/track/3lq58jcmLzwtWkzzR5Ppls"
+    },
+    {
+      "album": {
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/2sfzPfHxZZ5zYro4dHuCjF"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200166,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN"
     },
     {
       "album": {

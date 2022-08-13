@@ -4,7 +4,7 @@
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-109 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/0FtiJzGWVQsaojRwqozUF7)
+110 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/0FtiJzGWVQsaojRwqozUF7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 | 2022-02-07 |  |
 | [Carismático](https://open.spotify.com/track/0JEoezwc786AUMKs2CBQRI) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Anoche](https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC) | 2:35 | 2022-02-07 |  |
 | [Chica de Oro](https://open.spotify.com/track/6J0VTqjC68XlfoCWRnIFZi) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/33szFJNdxgVGQa518rOohL) | 3:53 | 2022-02-07 | 2022-07-29 |
-| [Chica De Oro](https://open.spotify.com/track/7BUorbyLYeQD41wIQma3Dw) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastia Scorpio](https://open.spotify.com/album/0kKonx1ECQcHDDGoAfYveS) | 3:53 | 2022-02-07 |  |
+| [Chica de Oro](https://open.spotify.com/track/6gqqdXshLNeVIXUV7B5O6p) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 3:53 | 2022-02-07 |  |
+| [Chica De Oro](https://open.spotify.com/track/7BUorbyLYeQD41wIQma3Dw) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastia Scorpio](https://open.spotify.com/album/0kKonx1ECQcHDDGoAfYveS) | 3:53 | 2022-02-07 | 2022-08-13 |
 | [Ciudad](https://open.spotify.com/track/1bHVrk0HWrMRC4CHs5ZUgH) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY), [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [MIXTO](https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR) | 3:34 | 2022-02-07 |  |
 | [Ciudad De Pobres Corazones](https://open.spotify.com/track/7u790NCej7eouOmxol56WG) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Grandes Exitos](https://open.spotify.com/album/0YJ7YRpFCK2zrENuG51QQR) | 5:27 | 2022-02-07 | 2022-07-29 |
 | [Ciudad De Pobres Corazones](https://open.spotify.com/track/1PSsStvZmJsU3CiJg8hRAx) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Ciudad De Pobres Corazones](https://open.spotify.com/album/4GGCNfkWRUgyu6UjstHlJj) | 5:28 | 2022-02-07 |  |

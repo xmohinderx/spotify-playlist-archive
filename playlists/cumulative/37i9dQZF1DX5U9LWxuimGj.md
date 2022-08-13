@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-95 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+96 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [La Conoci en un Rodeo](https://open.spotify.com/track/5DNjj4JB73raxizHergZZZ) | [Lico Ochoa](https://open.spotify.com/artist/6qGC90DZp2CJj8yW2hzEEr) | [La Conoci en un Rodeo](https://open.spotify.com/album/0cysbWhtKWMyR4n8u5tNtv) | 3:55 | 2021-12-10 |  |
 | [La Prisión De Folsom \(Folsom Prison Blues\) \- Live At Folsom Prison](https://open.spotify.com/track/6h23gt9orDwsnjl2R1MGpN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Tigres Del Norte At Folsom Prison \(Original Soundtrack/Live\)](https://open.spotify.com/album/3vEowTdZIpdcVdbLlqZc6q) | 3:19 | 2021-12-10 |  |
 | [Laredo](https://open.spotify.com/track/2NrfHt0kmyH1l2C6k0cBxR) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Laredo](https://open.spotify.com/album/6UvkjIXN6hwu8xsfeFmtNV) | 3:56 | 2021-12-10 |  |
+| [Late](https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:52 | 2022-08-12 |  |
 | [Lighters](https://open.spotify.com/track/3LzYPwXiaFbqR205cqMvUY) | [Angel Edwards](https://open.spotify.com/artist/5aTxliDWUENg3Gv9UeAkPu) | [Lighters](https://open.spotify.com/album/1Vld8ReQcvI45bkoQxL1cu) | 3:25 | 2021-12-10 |  |
 | [Little Obsessed](https://open.spotify.com/track/2ZtgCMvuLICClTCq5UogMu) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Little Obsessed](https://open.spotify.com/album/2lG5vFafefPqL3g8UNNTVi) | 3:50 | 2021-12-10 |  |
 | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/track/6pNeLrBdPEkUG3f1jbrMG9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/album/6UheMHszVb1bG2O5AB7lkI) | 3:09 | 2021-12-10 |  |

@@ -4,7 +4,7 @@
 
 > Ambient's most enduring tracks from the 90's chillout room scene\. Cover: 808 State
 
-57 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
+59 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Emergence](https://open.spotify.com/track/2lXskERZ6yY6m4EZ4u66ep) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu) | [Journey To The Sun](https://open.spotify.com/album/70OSyM8j556xNzncAHDa3y) | 10:00 | 2021-11-12 |  |
 | [Eternal Lover](https://open.spotify.com/track/3sZOJOtdUUp4XEhS8jyMEB) | [Maarten van der Vleuten](https://open.spotify.com/artist/5HwNj7Dz7pgor5Ej6JswdB) | [Presents In\-Existence \- Moonwater](https://open.spotify.com/album/5d8kDWmIMWnWaDYIr0bJCE) | 15:19 | 2021-11-12 |  |
 | [Flow](https://open.spotify.com/track/0TuwHMb0z0iLhd059eIAiB) | [Dimension 5](https://open.spotify.com/artist/5lCKHFKVRWmb56TqQuhPZn) | [Transdimensional](https://open.spotify.com/album/0fU2gvSArMA4rDiqFidgyG) | 7:59 | 2021-11-12 |  |
+| [Freedom](https://open.spotify.com/track/0x7VTI544aPsTl4YZU569P) | [Children Of Dub](https://open.spotify.com/artist/5No8785XwNy7hKMurqjIWZ) | [Nemesis / Transcendental](https://open.spotify.com/album/5arGnn0j7PKDRv8d1m79O4) | 4:58 | 2022-08-12 |  |
 | [Garden Of Paradise](https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/4g631XQPF1MQrY5znRrc8D) | 23:14 | 2021-11-12 | 2022-07-29 |
 | [Garden Of Paradise \- 2006 Digital Remaster](https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz) | 23:14 | 2022-05-19 |  |
 | [Gong Bath](https://open.spotify.com/track/6JjQ14L39RjX9gPNaQOPOH) | [Slow Riffs](https://open.spotify.com/artist/1OM9xXTByZgCV0qUFQGnXF) | [Gong Bath](https://open.spotify.com/album/2FdT5FaH1WGrtWDH1UBcMF) | 9:59 | 2021-11-12 |  |
@@ -50,6 +51,7 @@
 | [Raxmus](https://open.spotify.com/track/7genqLMWdEZrpTMfNFuoTp) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Spanners](https://open.spotify.com/album/2xP369vU8kb1QJWIT9vSFH) | 3:04 | 2021-11-12 |  |
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2021-11-12 |  |
 | [School Of Fish](https://open.spotify.com/track/6vcGfhUigAp0sXzBUeLfNM) | [Pete Namlook](https://open.spotify.com/artist/1zdrhzkCEqTrUrIiRzVeQ3), [Mixmaster Morris](https://open.spotify.com/artist/4YuO08xFlO9FYWKC73zov9) | [Dreamfish](https://open.spotify.com/album/0YT22XVTkzZ61STHHpruVI) | 18:21 | 2021-11-12 |  |
+| [Shanti \- Ambient Dub Version](https://open.spotify.com/track/3mACLZ0ARIwViM9UiRa31a) | [Banco De Gaia](https://open.spotify.com/artist/5Z8mapYkacgBN46TkH9L3M) | [Rewritten Histories, Vol\. 1: 1992 \- 1995](https://open.spotify.com/album/3AiIZmdcqfOsKIrkumH5Z7) | 6:52 | 2022-08-12 |  |
 | [Shining Path](https://open.spotify.com/track/0SNeqvQXkfq4YNsbrCzYa7) | [Dreadzone](https://open.spotify.com/artist/2hrrhKOVsxoCIZb9H4ZBCZ) | [Second Light](https://open.spotify.com/album/7JCidY6IL2ddmIKQaglXr2) | 7:22 | 2022-05-19 |  |
 | [Shpongle Falls](https://open.spotify.com/track/33F3D9Al5ecWuEjztKcDGf) | [Shpongle](https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ) | [Are You Shpongled?](https://open.spotify.com/album/7fAOqI4aJxx5oTeCMLPONf) | 8:33 | 2021-11-12 |  |
 | [Snakedance](https://open.spotify.com/track/7yRZn8VlNReH0P04w1o0uv) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu), [Tim Floyd](https://open.spotify.com/artist/6kq8fkuEqOfcqZhUHa69KG) | [Drift](https://open.spotify.com/album/1ZP8ZRPWDYfj6aGWtJua11) | 8:35 | 2021-11-12 |  |

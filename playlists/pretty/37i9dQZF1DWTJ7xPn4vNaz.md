@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 
 > The biggest songs of the 1970s\. Cover: Olivia Newton\-John.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,732,499 likes - 150 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,734,155 likes - 150 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 | 149 | [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:20 |
 | 150 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
 
-Snapshot ID: `MTY2MDIwNDE5NiwwMDAwMDAwMDRhMjdiNzcwODI4ZTI1MTJkYmFiOWVlMjMyN2RlM2Vi`
+Snapshot ID: `MTY2MDMwMjQ0MSwwMDAwMDAwMGQ0OTAxMzhmYzdhZjIwYjNiYTQ4YmZhOTMzOTJkNzNk`

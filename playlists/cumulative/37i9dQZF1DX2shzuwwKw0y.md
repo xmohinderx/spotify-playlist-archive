@@ -2,7 +2,7 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Betillo Guerrero en portada.
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Fuerza Regida en portada.
 
 124 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
 

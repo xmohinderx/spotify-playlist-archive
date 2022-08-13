@@ -1,13 +1,29 @@
 {
-  "description": "For the Hard Rock and full volume lovers. Cover: Muse",
-  "num_followers": 264209,
+  "description": "For the Hard Rock and full volume lovers. Cover: Alter Bridge",
+  "num_followers": 264356,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcwNDQwMCwwMDAwMDAwMDg4Zjk4OGM1Y2I3N2QxMjM1NjBlNGFmOTc5ZDg1MTgy",
+  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMDlkZGNlZjViZmMyNjJkNzYwNTM0YWI3NzdlMWYwNmQ5",
   "tracks": [
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Pawns & Kings",
+        "url": "https://open.spotify.com/album/4GdmE5jEDgN7bI8H4BphBT"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 378313,
+      "name": "Pawns & Kings",
+      "url": "https://open.spotify.com/track/3MNZ79grelbBXsQcKUQZAh"
+    },
     {
       "added_at": "2022-08-05 13:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 299060,
       "name": "Kill Or Be Killed",
       "url": "https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "The Watcher",
+      "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
     },
     {
       "added_at": "2022-07-15 13:00:00",
@@ -81,6 +113,38 @@
       "url": "https://open.spotify.com/track/1qHlqRNBhg5dQ6JKI4ajZM"
     },
     {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/4gWScx9oKTfu3VNz0KBZMI"
+      },
+      "artists": [
+        {
+          "name": "Hell Fire",
+          "url": "https://open.spotify.com/artist/6hwtkhYiDooPPfKqzumCkb"
+        }
+      ],
+      "duration_ms": 285962,
+      "name": "It Ends Tonight",
+      "url": "https://open.spotify.com/track/1V1QWXnUZZlfcjqmdkylP9"
+    },
+    {
+      "added_at": "2022-08-05 13:00:00",
+      "album": {
+        "name": "The Dying Song (Time To Sing)",
+        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+    },
+    {
       "added_at": "2022-07-22 13:00:00",
       "album": {
         "name": "Ego Trip",
@@ -113,22 +177,6 @@
       "url": "https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0"
     },
     {
-      "added_at": "2022-08-05 13:00:00",
-      "album": {
-        "name": "The Dying Song (Time To Sing)",
-        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "The Dying Song (Time To Sing)",
-      "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
-    },
-    {
       "added_at": "2022-07-22 13:00:00",
       "album": {
         "name": "Zeit",
@@ -143,6 +191,22 @@
       "duration_ms": 218593,
       "name": "Dicke Titten",
       "url": "https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY"
+    },
+    {
+      "added_at": "2022-07-22 13:00:00",
+      "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Temple Of Ekur",
+      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
     },
     {
       "added_at": "2022-07-29 13:00:00",
@@ -175,22 +239,6 @@
       "duration_ms": 243977,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc"
-    },
-    {
-      "added_at": "2022-07-22 13:00:00",
-      "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Temple Of Ekur",
-      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
     },
     {
       "added_at": "2022-08-05 13:00:00",
@@ -323,22 +371,6 @@
       "duration_ms": 211440,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/3YLbIF9J9jtbmIeuBvzN4j"
-    },
-    {
-      "added_at": "2022-07-22 13:00:00",
-      "album": {
-        "name": "Vaxis II: A Window of the Waking Mind",
-        "url": "https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 228834,
-      "name": "The Liars Club",
-      "url": "https://open.spotify.com/track/5N2kRCVevaX7V87akBBLs1"
     },
     {
       "added_at": "2022-07-29 13:00:00",
@@ -509,22 +541,6 @@
       "url": "https://open.spotify.com/track/2KypRk2hIQxO8Z8EkQfhsB"
     },
     {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "I Know You Better",
-        "url": "https://open.spotify.com/album/5OntbXcFVPOqy4z1w1HQWk"
-      },
-      "artists": [
-        {
-          "name": "Lillasyster",
-          "url": "https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "I Know You Better",
-      "url": "https://open.spotify.com/track/7soKhTgZkQSzUxfdVOZKnY"
-    },
-    {
       "added_at": "2022-07-22 13:00:00",
       "album": {
         "name": "GLOW ON",
@@ -635,22 +651,6 @@
       "duration_ms": 252389,
       "name": "Sane",
       "url": "https://open.spotify.com/track/5OMu1X2ojAUZMo3fllEjVQ"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "That Ain't Livin'",
-        "url": "https://open.spotify.com/album/3ZXbICsdtqyiPGbfyFJZtB"
-      },
-      "artists": [
-        {
-          "name": "Ugly Kid Joe",
-          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
-        }
-      ],
-      "duration_ms": 257746,
-      "name": "That Ain't Livin'",
-      "url": "https://open.spotify.com/track/2jQWY8hMoD1Nt3fCDd6zZo"
     },
     {
       "added_at": "2022-07-22 13:00:00",

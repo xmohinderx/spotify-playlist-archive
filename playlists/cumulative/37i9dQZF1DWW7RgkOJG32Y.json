@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "35's",
+        "url": "https://open.spotify.com/album/0aQPvZHQLSNQhDhYvfnw0a"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174721,
+      "name": "35\u2019s",
+      "url": "https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO"
+    },
+    {
+      "album": {
         "name": "5 Foot 9",
         "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
@@ -95,7 +113,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 189780,
       "name": "5 Foot 9",
       "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
@@ -1482,6 +1500,24 @@
     },
     {
       "album": {
+        "name": "Hope It's Hot Out",
+        "url": "https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167345,
+      "name": "Hope It's Hot Out",
+      "url": "https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V"
+    },
+    {
+      "album": {
         "name": "How To Talk To Girls",
         "url": "https://open.spotify.com/album/4G7ZM1XjOlhHBpiCh2QctX"
       },
@@ -2243,7 +2279,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 179189,
       "name": "Never Been in Love",
       "url": "https://open.spotify.com/track/3gq98hzXfMGQ5VFIGJ1DoB"

@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-52 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/2pqytRMSyM7wvLaDeCih1G)
+53 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/2pqytRMSyM7wvLaDeCih1G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 | 2021-05-13 |  |
 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 | 2021-05-13 |  |
 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 | 2021-05-13 |  |
+| [Crimen](https://open.spotify.com/track/4rl7tALHULBjGV7V5gdtaS) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Crimen](https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i) | 4:00 | 2022-08-13 |  |
 | [Cuando Pase El Temblor](https://open.spotify.com/track/1oEKw4f4pihhfAkl6pHAVt) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Cuando Pase El Temblor](https://open.spotify.com/album/3t8lnRw3jMofkqoEogBO3d) | 4:56 | 2021-05-13 |  |
 | [De Musica Ligera](https://open.spotify.com/track/4t4WLbLGtGF8SLat7erPRI) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [De Musica Ligera](https://open.spotify.com/album/2WBqtI7ilp1ldg2eBIpMLO) | 3:10 | 2021-05-13 |  |
 | [Dejate Caer \- Unplugged Version](https://open.spotify.com/track/12J5Y7Ep2WgK91vtop1HHX) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 3:29 | 2021-05-13 |  |

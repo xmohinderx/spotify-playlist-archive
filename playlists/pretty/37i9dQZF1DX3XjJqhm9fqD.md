@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Francis Mercier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,959 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,975 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Baby Who](https://open.spotify.com/track/0BNZpLxBQFNgJTXhGmZEbs) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Melanin](https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp) | 3:07 |
 | 100 | [Papa Loko \(Arr\. N\. Joachim\) \- Interlude\. September 24, 1918](https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i), [Spektral Quartet](https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb) | [Fanm d'Ayiti](https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm) | 6:40 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMGZiMTM3YjVkYTkwZTI0OWMwNTVlMTUwNmQzYzhhYjVl`
+Snapshot ID: `MTY2MDMwMjEwMywwMDAwMDAwMDM5YzQxMmQyNWQ2NzlhYTA5NWE3ODRhZDJjODA4MmI2`

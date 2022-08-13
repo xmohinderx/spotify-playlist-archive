@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: JOPLYN
 
-121 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+122 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Can't Take This Silence](https://open.spotify.com/track/1IihN2MXusofF69y5OCDNP) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Rose](https://open.spotify.com/album/51EEO2MvJmchRb0b4V9Ii7) | 4:08 | 2021-12-16 | 2022-03-18 |
 | [Cigarette](https://open.spotify.com/track/5Brzg5PdxEwUbwfS2looQf) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Cigarette](https://open.spotify.com/album/4cVguILaTeTnjfcMhJx2Mz) | 3:18 | 2021-12-16 | 2022-04-08 |
 | [Confession](https://open.spotify.com/track/3SV6D7J2G3LUxhuybgHJg4) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Confession](https://open.spotify.com/album/6xg0GJEU0lf60zcSdsjCel) | 3:09 | 2022-06-30 |  |
+| [coq au vin](https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [coq au vin](https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM) | 3:44 | 2022-08-11 |  |
 | [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-21 |  |
 | [Daywalker](https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE](https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab) | 2:05 | 2022-03-24 | 2022-06-10 |
 | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/track/7w6HmxoHbohJ9S9lScjH1m) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/album/5WAnIlIOyTf5VJwMqB8DxF) | 2:23 | 2021-12-16 |  |

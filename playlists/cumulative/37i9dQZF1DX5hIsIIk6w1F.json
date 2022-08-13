@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Harry Nach.",
+  "description": "Este Flow tiene otro Flow. Foto: Young Cister & Pailita.",
   "name": "Reggaet\u00f3n Chileno",
   "published_playlist_ids": [
     "2FMJDC0qJwnjZnSiGHmfDy"
@@ -180,6 +180,28 @@
     },
     {
       "album": {
+        "name": "BADBITCH",
+        "url": "https://open.spotify.com/album/4sht24sghIeg901nOQ9nUO"
+      },
+      "artists": [
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160452,
+      "name": "BADBITCH",
+      "url": "https://open.spotify.com/track/6MNfA6yPOiSXci4xXcJ3I3"
+    },
+    {
+      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI"
       },
@@ -319,6 +341,28 @@
       "duration_ms": 188571,
       "name": "Calle y Pistola",
       "url": "https://open.spotify.com/track/2RvUFk33p2hfPF7S3MTjsd"
+    },
+    {
+      "album": {
+        "name": "Caminemos de la Mano",
+        "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214695,
+      "name": "Caminemos de la Mano",
+      "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
     },
     {
       "album": {
@@ -801,7 +845,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 240000,
       "name": "Encima de Mi",
       "url": "https://open.spotify.com/track/7qHH0VoBxzBF6NsCOpR9Xx"
@@ -837,7 +881,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 190080,
       "name": "Envidia",
       "url": "https://open.spotify.com/track/6aLAViUil5VF87A3bd7fl0"
@@ -1583,7 +1627,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 237551,
       "name": "MBG",
       "url": "https://open.spotify.com/track/3OZJOxPjhoB01opaziStI4"
@@ -1989,6 +2033,54 @@
       "duration_ms": 197802,
       "name": "M\u00e1s de una Vez",
       "url": "https://open.spotify.com/track/3gHAXAgFq66HuSmveJk8J5"
+    },
+    {
+      "album": {
+        "name": "Nalgona",
+        "url": "https://open.spotify.com/album/41P9vKICWvQcjRGZwc0kaP"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Sergio Acosta",
+          "url": "https://open.spotify.com/artist/76yOiYbsm9mQ9cPFUKWNFw"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189831,
+      "name": "Nalgona",
+      "url": "https://open.spotify.com/track/2TluUChIW39tfUZhrsJdGa"
+    },
+    {
+      "album": {
+        "name": "NO ERES SANTA",
+        "url": "https://open.spotify.com/album/2Ago8ElVy0vKd7izBKDxvC"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259090,
+      "name": "NO ERES SANTA",
+      "url": "https://open.spotify.com/track/3hK7qOPSyva12t0ldBvPqg"
     },
     {
       "album": {
@@ -2653,7 +2745,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 190022,
       "name": "Que Sera",
       "url": "https://open.spotify.com/track/4jEHs92Q6OtmZZwRyHKpa5"
@@ -2747,7 +2839,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 188387,
       "name": "RIKA",
       "url": "https://open.spotify.com/track/5VmIeEHBvuZ4DjhtbYELwP"
@@ -3333,6 +3425,24 @@
       "duration_ms": 168226,
       "name": "TU MANUAL",
       "url": "https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM"
+    },
+    {
+      "album": {
+        "name": "TU ME HACES PENSAR",
+        "url": "https://open.spotify.com/album/7lMPG3mFg9ARz8InsdrCrM"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "TU ME HACES PENSAR",
+      "url": "https://open.spotify.com/track/7eTFkW7ZPiecDkfAifEIGD"
     },
     {
       "album": {

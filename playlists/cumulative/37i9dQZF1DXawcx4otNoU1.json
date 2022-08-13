@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 183219,
       "name": "BELIEVE IT",
       "url": "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 149952,
       "name": "Bottles",
       "url": "https://open.spotify.com/track/3RxGQIPIfdlJbUxoNsOPrN"
@@ -2628,6 +2628,24 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/2DROrOtdP62RWxCiXnT1zF"
+      },
+      "artists": [
+        {
+          "name": "Calynn",
+          "url": "https://open.spotify.com/artist/3Z3fwHyjzkwiQKgZNrpodY"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146842,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/5FhcvuzMHoDYbcSTB1CsIf"
+    },
+    {
+      "album": {
         "name": "Need Luv",
         "url": "https://open.spotify.com/album/4s2lpY7AB9lsOFCPPdEbWz"
       },
@@ -3505,7 +3523,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 194634,
       "name": "Something Like This",
       "url": "https://open.spotify.com/track/71RHfbbUVoYNKNFtRomycM"
@@ -3841,7 +3859,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 221492,
       "name": "The Take (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/0Odu228D0yGcFySGuxU4rY"
@@ -4213,7 +4231,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 203144,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/4lsHZ92XCFOQfzJFBTluk8"

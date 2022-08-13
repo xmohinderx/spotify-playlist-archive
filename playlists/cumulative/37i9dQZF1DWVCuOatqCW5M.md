@@ -2,13 +2,14 @@
 
 ### [New Music Friday Hindi ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
 
-> New music from popular Hindi artists\. Cover\- Javed Ali
+> New music from popular Hindi artists\. Cover\- B Praak
 
-185 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
+188 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aakhir](https://open.spotify.com/track/6H3sAWLZRET9SblfxEvwRh) | [Rohan Pradhan](https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce), [Rohan Gokhale](https://open.spotify.com/artist/4ByvpTI0IccMuJ4HyAODlZ), [Rohan Rohan](https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE) | [Aakhir](https://open.spotify.com/album/12gT82y8lBN3SyrFctwVwH) | 3:19 | 2022-07-15 |  |
+| [Aankhon Wali Baatein](https://open.spotify.com/track/21VVLmm60b0AEzmBNoV4Wr) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Aankhon Wali Baatein](https://open.spotify.com/album/0G9A3yId2w5NBJcqwh31uv) | 3:41 | 2022-08-12 |  |
 | [Aao Balam](https://open.spotify.com/track/1pQAV6BF0PDqi9dXVGrBha) | [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez), [Shizty](https://open.spotify.com/artist/2yspd4yEUR2kgIHElgdwxQ), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Aao Balam](https://open.spotify.com/album/6ovFGWaFa3RtknCszs3gFJ) | 3:56 | 2022-07-15 | 2022-07-23 |
 | [Aao Naa](https://open.spotify.com/track/3SdnnjpGOQbueltPNHFTXI) | [Garima Yajnik](https://open.spotify.com/artist/0KjstUEJiTaMx2heTg8Odj), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Aao Naa](https://open.spotify.com/album/5DVCBfsRQA8e5Gl4mnLXsN) | 4:46 | 2022-05-27 | 2022-06-11 |
 | [Aarzoo](https://open.spotify.com/track/6E1xdTd2tWqjBLhSbnxuYk) | [Shom Chaterjjee](https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf), [Ashwin Srinivasan](https://open.spotify.com/artist/0b7kHhI5N93ZxMuMiBy7Tl) | [Aarzoo](https://open.spotify.com/album/73IOVRfYS4zCMfmUlW4MY6) | 7:13 | 2022-06-24 | 2022-07-16 |
@@ -63,6 +64,7 @@
 | [Dil Toota Hi Raha](https://open.spotify.com/track/6gXr7MHXGLGfb2Iz56LbV0) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY) | [Dil Toota Hi Raha](https://open.spotify.com/album/3dhUVHfbxYy5zUnEiXPpF4) | 3:34 | 2022-05-27 | 2022-07-09 |
 | [Dil Udeyaa](https://open.spotify.com/track/4b3COrf46CUyquZXBwPiAr) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Unoosha](https://open.spotify.com/artist/34Enq6xy317CqFsTw81JnC) | [Dil Udeyaa](https://open.spotify.com/album/2IBfUXkya05famCeryEimA) | 3:29 | 2022-06-10 | 2022-07-09 |
 | [Dooriyan](https://open.spotify.com/track/6YF15GgzNFCu3Xpf2JSqzJ) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Dooriyan](https://open.spotify.com/album/7GXUHcJc4b3G3KBojLSU7c) | 2:41 | 2022-06-17 | 2022-07-16 |
+| [Duniya](https://open.spotify.com/track/1oDwcIRY8GsNn7VZr8ladn) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Sunny Singh](https://open.spotify.com/artist/7DLinx8mI1KpCbQ5jpK7eX), [Saiee Manjrekar](https://open.spotify.com/artist/3vfboh3NO1IPZHJEuEFzaM) | [Duniya](https://open.spotify.com/album/0pY9e05RJ52zBkEI7kezYB) | 3:50 | 2022-08-12 |  |
 | [Ek Din](https://open.spotify.com/track/6hFeEa1XPaw2bbHi8eFt4x) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Ek Din](https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1) | 5:00 | 2022-08-05 |  |
 | [Faasle](https://open.spotify.com/track/094BU3jjywSq8kxWQ1xWsv) | [Bandish Projekt](https://open.spotify.com/artist/0nFWwB5eQCvOdqGRlWVqBK), [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB) | [Faasle](https://open.spotify.com/album/7JOMoGP7fzYXrmtoyihwH2) | 3:25 | 2022-06-24 | 2022-07-16 |
 | [Fakira, Episode 3](https://open.spotify.com/track/0O1C1dptfe5q7OLWyCK1tb) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Fakira, Episode 3](https://open.spotify.com/album/0pIizofsLWVDSnyT8sWnhR) | 3:16 | 2022-06-10 | 2022-06-18 |
@@ -88,6 +90,7 @@
 | [Jaana Hai Toh Jaa \- Artist Version](https://open.spotify.com/track/0cNBrkH8zboicRBqq8Htvi) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Siddharth Kasyap](https://open.spotify.com/artist/1hVoNjH5OEJ4B3Q4zSIURc), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Jaana Hai Toh Jaa \- Artist Version](https://open.spotify.com/album/3CUxzDshhuFZ8QpNzcsOoK) | 3:44 | 2022-06-03 | 2022-06-18 |
 | [Jaane De](https://open.spotify.com/track/6BFBH6s2N4fMA4Huwq88mB) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK) | [Jaane De](https://open.spotify.com/album/4Exxf3P4vKBpbJsyZEBj6c) | 3:00 | 2022-07-29 |  |
 | [Jaane Kaise](https://open.spotify.com/track/3kfq4RYXDjt2lS0004Uz0s) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI), [ANA](https://open.spotify.com/artist/4tqpVHY6GZqYwhNMFrhnkA) | [Jaane Kaise](https://open.spotify.com/album/2bLlrBEKtutYSzPi1DCvjO) | 3:09 | 2022-06-17 | 2022-07-30 |
+| [JAANIYA](https://open.spotify.com/track/171BpfIunw4saFc0pPJfDO) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB) | [JAANIYA](https://open.spotify.com/album/5D0XVqRiZGBTqjoy3SF1xQ) | 3:04 | 2022-08-12 |  |
 | [Jhootha](https://open.spotify.com/track/1IOPDC8MVzSncKYyNaqEUS) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Jhootha](https://open.spotify.com/album/6CfPxegjXJ540ABIQDT4Y5) | 2:09 | 2022-07-01 |  |
 | [Jhooti Si](https://open.spotify.com/track/622d1Z8ToHDwFLlcM03qSG) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH) | [Jhooti Si](https://open.spotify.com/album/4Ub1jx5nfoC9iZIPge9J09) | 2:45 | 2022-07-15 |  |
 | [Jo Hoga Accha Hoga, Episode 1](https://open.spotify.com/track/2F0EP8eofuAXpfu5usLizN) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Jo Hoga Accha Hoga, Episode 1](https://open.spotify.com/album/1xrMiiGBb2tuROMmdkgI0E) | 3:40 | 2022-05-27 | 2022-06-11 |

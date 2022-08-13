@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura. Cover: Clairmont The Second",
+  "description": "This is R&B in Canada, elevate your aura. Cover: JON VINYL",
   "name": "Mood Ring",
   "published_playlist_ids": [
     "5Scr3kl4jdyMwylCsvsI3D"
@@ -49,6 +49,32 @@
       "duration_ms": 202500,
       "name": "1440",
       "url": "https://open.spotify.com/track/2fbS0Ka9up4KbcndDi189l"
+    },
+    {
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/7DtDowNbgFYIyDYnp3ZfA0"
+      },
+      "artists": [
+        {
+          "name": "Maurice Moore",
+          "url": "https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws"
+        },
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "Jermaine Elliott",
+          "url": "https://open.spotify.com/artist/60jDnkxR5FyCUAGUX4zDNv"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221938,
+      "name": "22",
+      "url": "https://open.spotify.com/track/4U6yLrVw2BrPIzDQ5cDiEk"
     },
     {
       "album": {
@@ -667,7 +693,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 176017,
       "name": "Boys Don't Sob",
       "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
@@ -761,7 +787,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 172388,
       "name": "Burning Desire",
       "url": "https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4"
@@ -1047,7 +1073,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 213940,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/26xDpdbYyHQtL1VigJRkhD"
@@ -1467,7 +1493,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 225597,
       "name": "Ego",
       "url": "https://open.spotify.com/track/1FkhBbodK9uoe5Qt4X2gnz"
@@ -1572,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "Entice Me",
+        "url": "https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156874,
+      "name": "Entice Me",
+      "url": "https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE"
+    },
+    {
+      "album": {
         "name": "Ernesto (A COLORS SHOW)",
         "url": "https://open.spotify.com/album/6AYl9xxhzY8jenvkmipT4Y"
       },
@@ -1623,6 +1667,24 @@
       "duration_ms": 163728,
       "name": "Eve",
       "url": "https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20"
+    },
+    {
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245280,
+      "name": "Evergray",
+      "url": "https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo"
     },
     {
       "album": {
@@ -1685,7 +1747,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 233195,
       "name": "Favours",
       "url": "https://open.spotify.com/track/4r3KSUUR5ISWWCjr2wEdRL"
@@ -1869,6 +1931,24 @@
       "duration_ms": 160078,
       "name": "Function",
       "url": "https://open.spotify.com/track/0DYcMa43MF2cFqNWoCkfYC"
+    },
+    {
+      "album": {
+        "name": "GALAXY OF YOU",
+        "url": "https://open.spotify.com/album/5Jj0HugoqEcqa6YL3LFBVa"
+      },
+      "artists": [
+        {
+          "name": "steve breaux",
+          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "GALAXY OF YOU",
+      "url": "https://open.spotify.com/track/2GCWZIRarWaFTGVCDhdPv6"
     },
     {
       "album": {
@@ -2093,7 +2173,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 181616,
       "name": "GREENLIGHT",
       "url": "https://open.spotify.com/track/55wukDqh7RY770ebt0EAif"
@@ -3069,7 +3149,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
@@ -3381,7 +3461,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 209162,
       "name": "Lost Time",
       "url": "https://open.spotify.com/track/4zb78k2BG51tiRIsRd0HMR"
@@ -4410,6 +4490,24 @@
     },
     {
       "album": {
+        "name": "Outside (Soft Life)",
+        "url": "https://open.spotify.com/album/4vbyGbdGIxNVhr6jqyR8uA"
+      },
+      "artists": [
+        {
+          "name": "Juic3Boy",
+          "url": "https://open.spotify.com/artist/5wb69ju4N9tnD2Po57xNs5"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Outside (Soft Life)",
+      "url": "https://open.spotify.com/track/4isR8MCLeKvcRcGT2fLdaW"
+    },
+    {
+      "album": {
         "name": "Outta My Way",
         "url": "https://open.spotify.com/album/5KCEChVOHoleAJoyUzgK0f"
       },
@@ -4487,6 +4585,28 @@
       "duration_ms": 202451,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/7hRlTK3mgFTBEjX7DjqBsI"
+    },
+    {
+      "album": {
+        "name": "Overtime",
+        "url": "https://open.spotify.com/album/4kbdDJg0PiM9hoD8Y2uBw5"
+      },
+      "artists": [
+        {
+          "name": "Teon Gibbs",
+          "url": "https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121326,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/3JNR9w6Ac3WhiFvVUaYf2n"
     },
     {
       "album": {
@@ -5278,6 +5398,28 @@
     },
     {
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/2UERtxAQqjzTRpdTVHskpv"
+      },
+      "artists": [
+        {
+          "name": "Dimi",
+          "url": "https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161584,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/7meoGGpPJ24LwtIxvzTpfI"
+    },
+    {
+      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/1335ZraXDbHNdiknfgItJ5"
       },
@@ -5772,6 +5914,24 @@
     },
     {
       "album": {
+        "name": "17times",
+        "url": "https://open.spotify.com/album/1YKUvtffCi6eitGdDDsU2Z"
+      },
+      "artists": [
+        {
+          "name": "Kaeyae Alo",
+          "url": "https://open.spotify.com/artist/0cKNVzcCoRHwbRPBsAGDYI"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "The Price of Freedom",
+      "url": "https://open.spotify.com/track/6DsHgYc75ada8IYSHMFaA1"
+    },
+    {
+      "album": {
         "name": "Je Sais",
         "url": "https://open.spotify.com/album/4jmw5Q6kxTnkLyY5mCY6Fv"
       },
@@ -5979,6 +6139,24 @@
       "duration_ms": 170858,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/1znfamHM7SiXmxJOiQ5W1Z"
+    },
+    {
+      "album": {
+        "name": "Trust You Now",
+        "url": "https://open.spotify.com/album/6NZ26QeaZQsUeUwRoGOzNq"
+      },
+      "artists": [
+        {
+          "name": "Divine Lightbody",
+          "url": "https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182736,
+      "name": "Trust You Now",
+      "url": "https://open.spotify.com/track/1oVNPc9Cw5eFfjQLt8ezTt"
     },
     {
       "album": {
@@ -6463,7 +6641,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 235339,
       "name": "you know.",
       "url": "https://open.spotify.com/track/0GYpa6GYpJAOvC1ySnNRGE"

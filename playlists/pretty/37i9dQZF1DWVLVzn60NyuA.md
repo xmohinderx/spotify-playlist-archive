@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,440 likes - 180 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,653 likes - 180 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

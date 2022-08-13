@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: Nicolas Cage Fighter
+> Heavy new bands you need to have an eye on\. Cover: Chat Pile
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,692 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Static Abyss](https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ) | [Nicolas Cage Fighter](https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl) | [The Bones That Grew from Pain](https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe) | 3:47 |
+| 1 | [Slaughterhouse](https://open.spotify.com/track/6TbRUyqguhyHq4ZuM4Azf1) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Slaughterhouse](https://open.spotify.com/album/2hjoCyFS7hbm8DhUPuFBeL) | 4:12 |
 | 2 | [Siren's Calling](https://open.spotify.com/track/2Rid5rm3i8pAMWbMFTqFRT) | [Ginevra](https://open.spotify.com/artist/70jOf411lOeFa5k14DufSh) | [Siren's Calling](https://open.spotify.com/album/7BNlbfyuIkCpszLCo1exvi) | 3:40 |
 | 3 | [Imposter Syndrome](https://open.spotify.com/track/36fPtq8jWJtNKsYC71Hmjz) | [Neon Graves](https://open.spotify.com/artist/0p3c6u5PBPVsrl2UhZexDx) | [Imposter Syndrome](https://open.spotify.com/album/5aWPk94JZoe4ALrAmczFVg) | 2:01 |
 | 4 | [Smokes, Let's Go](https://open.spotify.com/track/0nCjt3hXKjGFbsqUDtMPOR) | [Don't Get Comfy](https://open.spotify.com/artist/5EE1DDFDPJTVYnJdLUXtfE) | [Smokes, Let's Go](https://open.spotify.com/album/6kv22qz0FjQJTRpbo0vADA) | 3:25 |
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 7 | [The Future Says Thank You](https://open.spotify.com/track/0ZJ2BP0U1H8uhy0LnYDXjk) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/6RHap8m4NlsvCq2v2fPvCP) | 3:38 |
 | 8 | [Empty Vessels](https://open.spotify.com/track/0uAFXFjrVi3Bd1LDDMl4vI) | [Graupel](https://open.spotify.com/artist/7vIC7DWLeeIk5kHTZosmg6) | [Empty Vessels](https://open.spotify.com/album/1Lz5DqGT3XU3Zlyp80T4pJ) | 2:40 |
 | 9 | [Reign of Error](https://open.spotify.com/track/6NLD3NrIUFALVqIK5VZgP6) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Reign of Error](https://open.spotify.com/album/4xaUhkUdiuUKb4aqIZPSOd) | 1:45 |
-| 10 | [Burning Throne](https://open.spotify.com/track/1GfayPeLaA9SNRp5kGG5b6) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/7banxw62PIcV3P4My3qr3k) | 3:27 |
-| 11 | [Call of the Witch](https://open.spotify.com/track/5THPCPokg7K1oN9VkT10nl) | [Kissing Candice](https://open.spotify.com/artist/2yt3OhRpNY6eVWDoJUlwjS) | [Call of the Witch](https://open.spotify.com/album/10FJOcVWSolAkejeUxpPSA) | 1:14 |
-| 12 | [Day One](https://open.spotify.com/track/0hG8zv8V3CAIx8Hud0c46z) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [Day One](https://open.spotify.com/album/0R0odwfRh10a2dWPwVGUHI) | 4:32 |
-| 13 | [FUCKYOU!](https://open.spotify.com/track/6BtDU1nkjCcc1Ko8ADERxM) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [FUCKYOU!](https://open.spotify.com/album/4Vdf6QbH9pCruj1FEfE7rc) | 1:17 |
-| 14 | [Do Your Job](https://open.spotify.com/track/3Qsf4DkfX8efJvJgGQ9Fhn) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Do Your Job](https://open.spotify.com/album/7LewPgcqn5DwaYzHfbnuhn) | 1:56 |
-| 15 | [NADA](https://open.spotify.com/track/3Hci2iLarYEtZxuQBfIgyZ) | [DEATHSTARE](https://open.spotify.com/artist/1Dr4YjNKFhztnwAIG5iPzC), [screwyounick](https://open.spotify.com/artist/5lDCPxWrmmxRuTpHdHT25a), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [NADA](https://open.spotify.com/album/3YRtscvxhy9ypjoZ1i4U2s) | 2:17 |
-| 16 | [Slaughterhouse](https://open.spotify.com/track/6TbRUyqguhyHq4ZuM4Azf1) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Slaughterhouse](https://open.spotify.com/album/2hjoCyFS7hbm8DhUPuFBeL) | 4:12 |
+| 10 | [Static Abyss](https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ) | [Nicolas Cage Fighter](https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl) | [The Bones That Grew from Pain](https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe) | 3:47 |
+| 11 | [Burning Throne](https://open.spotify.com/track/1GfayPeLaA9SNRp5kGG5b6) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/7banxw62PIcV3P4My3qr3k) | 3:27 |
+| 12 | [Call of the Witch](https://open.spotify.com/track/5THPCPokg7K1oN9VkT10nl) | [Kissing Candice](https://open.spotify.com/artist/2yt3OhRpNY6eVWDoJUlwjS) | [Call of the Witch](https://open.spotify.com/album/10FJOcVWSolAkejeUxpPSA) | 1:14 |
+| 13 | [Day One](https://open.spotify.com/track/0hG8zv8V3CAIx8Hud0c46z) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [Day One](https://open.spotify.com/album/0R0odwfRh10a2dWPwVGUHI) | 4:32 |
+| 14 | [FUCKYOU!](https://open.spotify.com/track/6BtDU1nkjCcc1Ko8ADERxM) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [FUCKYOU!](https://open.spotify.com/album/4Vdf6QbH9pCruj1FEfE7rc) | 1:17 |
+| 15 | [Do Your Job](https://open.spotify.com/track/3Qsf4DkfX8efJvJgGQ9Fhn) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Do Your Job](https://open.spotify.com/album/7LewPgcqn5DwaYzHfbnuhn) | 1:56 |
+| 16 | [NADA](https://open.spotify.com/track/3Hci2iLarYEtZxuQBfIgyZ) | [DEATHSTARE](https://open.spotify.com/artist/1Dr4YjNKFhztnwAIG5iPzC), [screwyounick](https://open.spotify.com/artist/5lDCPxWrmmxRuTpHdHT25a), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [NADA](https://open.spotify.com/album/3YRtscvxhy9ypjoZ1i4U2s) | 2:17 |
 | 17 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 |
 | 18 | [Misanthropist](https://open.spotify.com/track/0SK1Z1ewBm4jpfOJWTisIt) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj) | [Misanthropist](https://open.spotify.com/album/0oBeYD4S7Uqr6qHxup53BB) | 3:46 |
 | 19 | [Only](https://open.spotify.com/track/5N6h0dmnyZrrTf4sn6khPQ) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Only](https://open.spotify.com/album/7p2FtJJE5VQR7jJxCQCCZr) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 59 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 |
 | 60 | [Dead Man](https://open.spotify.com/track/49HNyY6mvpN3tk76BRgbFa) | [Kronowski](https://open.spotify.com/artist/7dDVspO1I80peFXK0xg610) | [Dead Man](https://open.spotify.com/album/0FHnalaUS1u9Qjw8srp0vC) | 3:36 |
 
-Snapshot ID: `MTY1OTcwNDQwMCwwMDAwMDAwMGI3YTE3MTQ5MDU5OTEwYzM5NDg1ZTFjNWU2YWFlNTMy`
+Snapshot ID: `MTY2MDMwOTIwMCwwMDAwMDAwMDdlN2Q3MDVjMGJmN2Y1ZWJiOGI4YTRjMzQ5NDNjODQ1`

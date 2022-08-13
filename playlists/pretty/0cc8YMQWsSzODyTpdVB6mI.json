@@ -1,13 +1,33 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42823,
+  "num_followers": 42829,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MjkxMCw0Mzg4N2Y3NjgzMWJlMmJkMjhkYTNlMWVlNzdjNWE3NjE5MzQ4YzFh",
+  "snapshot_id": "MjkxMyxkZGIyZTQyYjViNmU2MDM3MWRiODI2YjVlOGUxMDRjZWJkNWUzMDgy",
   "tracks": [
+    {
+      "added_at": "2022-08-12 08:18:47",
+      "album": {
+        "name": "Ren\u00e9 Laloux",
+        "url": "https://open.spotify.com/album/0Ai0eRRJWnJ8FnZv0IHdLn"
+      },
+      "artists": [
+        {
+          "name": "Hotel",
+          "url": "https://open.spotify.com/artist/1RfaBLjlSEdEMRMaj3dWwc"
+        },
+        {
+          "name": "Prince Matton",
+          "url": "https://open.spotify.com/artist/6QjIoVAOqLki2UAmoD5yuX"
+        }
+      ],
+      "duration_ms": 270199,
+      "name": "Ren\u00e9 Laloux",
+      "url": "https://open.spotify.com/track/74l4tSkfHX8iLW9Kc74ePm"
+    },
     {
       "added_at": "2022-08-08 08:25:07",
       "album": {
@@ -423,22 +443,6 @@
       "duration_ms": 170184,
       "name": "R A B O N A",
       "url": "https://open.spotify.com/track/2S369D2uttM1uwlfqtHhUw"
-    },
-    {
-      "added_at": "2022-06-06 08:08:40",
-      "album": {
-        "name": "Recharge",
-        "url": "https://open.spotify.com/album/6JnyLWPrZowsSOvW2yGTbR"
-      },
-      "artists": [
-        {
-          "name": "July 7",
-          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Recharge",
-      "url": "https://open.spotify.com/track/0jweI4ue2Q3FAcBEiz2Bf0"
     },
     {
       "added_at": "2021-11-05 15:47:43",

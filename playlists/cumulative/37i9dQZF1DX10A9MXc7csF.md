@@ -2,9 +2,9 @@
 
 ### [Música Mexicana Rising](https://open.spotify.com/playlist/37i9dQZF1DX10A9MXc7csF)
 
-> The new school of Música Mexicana\. Cover: Polo Gonzalez
+> The new school of Música Mexicana\. Cover: Estevan Plazola, Tony Loya.
 
-168 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
+170 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Pata](https://open.spotify.com/track/0nLK5ol9VxY6OzYhjNwyvy) | [Inoboiz](https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ) | [Trailer Park Boiz Vol\. 2](https://open.spotify.com/album/5lS9isCntFJm1oHRIn1rES) | 2:23 | 2022-05-14 | 2022-08-06 |
 | [Ahora Todo Es Diferente](https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ahora Todo Es Diferente](https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP) | 3:45 | 2022-05-14 |  |
 | [Airplanes](https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Proximo Nivel](https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk) | 3:10 | 2022-06-03 |  |
+| [Algo Bien](https://open.spotify.com/track/315eNKS2P0FPjd4TlmnoFO) | [Angel Yerena](https://open.spotify.com/artist/4maqFMlGcJ3IkEGhcD4tMb), [Grupo Nueva Sensacion](https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb) | [Algo Bien](https://open.spotify.com/album/1wHn57myq1O3YA2X5E4xnN) | 3:30 | 2022-08-12 |  |
 | [Algo Bien](https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Algo Bien](https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy) | 2:46 | 2022-05-14 |  |
 | [Amor De Cuentos](https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Proximo Paso](https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc) | 2:43 | 2022-05-14 | 2022-06-04 |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-05-14 | 2022-07-23 |
@@ -40,7 +41,7 @@
 | [Depresión](https://open.spotify.com/track/2Dg7FKGSZa7TKvyFfIt6Y7) | [Oswaldo\_NR](https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx) | [Depresión](https://open.spotify.com/album/2oPgq5nHxcSAfPAq3utk77) | 3:44 | 2022-08-05 |  |
 | [Deseandote](https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr) | [Tony Herrera](https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk) | [Deseandote](https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi) | 3:55 | 2022-07-22 |  |
 | [Dime](https://open.spotify.com/track/1TQcqiEvl4ODSHC5U2c5Vv) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF) | [En Mis Sentimientos](https://open.spotify.com/album/5v9xccgxf0enrvLt7XHmSK) | 3:27 | 2022-05-14 | 2022-07-23 |
-| [Dime Por Que](https://open.spotify.com/track/2J0L6Gktqr2LwrLeHJWwnq) | [Los Cerritenses de La H](https://open.spotify.com/artist/44lYQ4wtFZ0JBXRyCdzzta) | [Dime Por Que](https://open.spotify.com/album/3N7sx2Q7GQBgQ4FAcAtyQW) | 3:04 | 2022-08-05 |  |
+| [Dime Por Que](https://open.spotify.com/track/2J0L6Gktqr2LwrLeHJWwnq) | [Los Cerritenses de La H](https://open.spotify.com/artist/44lYQ4wtFZ0JBXRyCdzzta) | [Dime Por Que](https://open.spotify.com/album/3N7sx2Q7GQBgQ4FAcAtyQW) | 3:04 | 2022-08-05 | 2022-08-13 |
 | [Dolor Maquillado](https://open.spotify.com/track/6AgYfAUT7HKK2EGv4euZUV) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Historias Pa’ Contar](https://open.spotify.com/album/6i8fnbUdHbs68xHQKgjEpg) | 4:05 | 2022-05-14 |  |
 | [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 | 2022-05-14 |  |
 | [El Buda](https://open.spotify.com/track/6mjZRYz56d4j1tMpcj6ysL) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [El Buda](https://open.spotify.com/album/2sBSqEuw7BFMhMVjRt7hO0) | 5:05 | 2022-07-22 |  |
@@ -122,6 +123,7 @@
 | [Niña del Destino](https://open.spotify.com/track/42XgWTmnVapQUUhk2RiOQK) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Reflejo Nuevo, Vol\. 2](https://open.spotify.com/album/281j39YlQK9FqIwWihq82o) | 2:23 | 2022-05-14 | 2022-07-23 |
 | [No Falta Mas Tiempo](https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [No Falta Mas Tiempo](https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY) | 2:46 | 2022-05-14 | 2022-06-04 |
 | [No Me Vas a Convencer](https://open.spotify.com/track/7IvGeDoYKcrom8ebfev28U) | [Itzel Vida](https://open.spotify.com/artist/60PTHScdfpSSM2RcN0CpUC), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [No Me Vas a Convencer](https://open.spotify.com/album/4Y2nV2o9h5x7UidmFfUNRf) | 3:11 | 2022-05-14 |  |
+| [No Pienso Perdonarte](https://open.spotify.com/track/05GnkIRQEoOzODaGfPj8dO) | [Plan Exclusivo](https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8) | [No Pienso Perdonarte](https://open.spotify.com/album/0mC4DYeXiXfhw0w4M5UbYE) | 2:30 | 2022-08-12 |  |
 | [No Te Quiero](https://open.spotify.com/track/2QfltGe7dLyxbX0WaIC1iu) | [Doble J](https://open.spotify.com/artist/1LDX5jGGNPuegrnecFikow) | [No Te Quiero](https://open.spotify.com/album/7MOOGT46ED3uzZdCDbhggc) | 3:05 | 2022-05-14 | 2022-06-04 |
 | [Noches Sin Ti \(En Vivo\)](https://open.spotify.com/track/71uooiX4Jcq9j9u1lYoReq) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Lluvia Y Sol \(En Vivo\)](https://open.spotify.com/album/5a9QaQ88rAoJixZB8nzwec) | 4:48 | 2022-05-14 | 2022-06-04 |
 | [Nodal Y Belinda](https://open.spotify.com/track/4XOtOECT33nHfAchActNPb) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Nodal Y Belinda](https://open.spotify.com/album/48lQ4UjborGpBXUalmYkdR) | 2:39 | 2022-05-14 | 2022-06-04 |
@@ -140,7 +142,7 @@
 | [Querido San Valentin](https://open.spotify.com/track/57HGscNGYhq3wPuanfOsCY) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Querido San Valentin](https://open.spotify.com/album/7DXYF70y6fJvXd3HC0qahu) | 4:21 | 2022-05-14 | 2022-06-04 |
 | [Quiero Estar Contigo](https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7) | [Ekipo Inicial](https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ) | [Quiero Estar Contigo](https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu) | 4:31 | 2022-06-03 |  |
 | [Rolando En La Angelina](https://open.spotify.com/track/1xAkrUOFzkvnNZ5Sb0QqKr) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [Rolando En La Angelina](https://open.spotify.com/album/26iH8P8fQ5tvGQ6VoS2elm) | 2:08 | 2022-05-14 | 2022-07-23 |
-| [Sabor a Fresa](https://open.spotify.com/track/71h1ux9lFORYa5CTWV7vn9) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [CRISIS](https://open.spotify.com/album/4pVG8E79smfV0m2S1KUTGX) | 2:32 | 2022-08-05 |  |
+| [Sabor a Fresa](https://open.spotify.com/track/71h1ux9lFORYa5CTWV7vn9) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [CRISIS](https://open.spotify.com/album/4pVG8E79smfV0m2S1KUTGX) | 2:32 | 2022-08-05 | 2022-08-13 |
 | [Seguimos En El Refuego](https://open.spotify.com/track/6YZNJmVJafiS9dKdf9ZCKa) | [El De La H](https://open.spotify.com/artist/5JRFF4doyWWw1oWC4th6O1) | [Seguimos En El Refuego](https://open.spotify.com/album/0XAFLJnNTXtI3G7jyPxKzD) | 2:49 | 2022-06-10 |  |
 | [Sembrando](https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:08 | 2022-05-14 |  |
 | [Sentimental](https://open.spotify.com/track/1E7fM9oEA8irF9mFkvPAgY) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Sentimental](https://open.spotify.com/album/67cHoXvLUTqGmm1UWGdbms) | 2:11 | 2022-05-14 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The essential indie dance, featuring SBTRKT",
+  "description": "The essential indie dance, featuring Little Dragon",
   "name": "metropolis",
   "published_playlist_ids": [
     "6jBSzkiPzz4z9EGB6tLdZW"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 225733,
       "name": "5D",
       "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
@@ -399,6 +399,28 @@
       "duration_ms": 342053,
       "name": "Age of Phase",
       "url": "https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM"
+    },
+    {
+      "album": {
+        "name": "All Around The World (with Duckwrth)",
+        "url": "https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167540,
+      "name": "All Around The World (with Duckwrth)",
+      "url": "https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx"
     },
     {
       "album": {
@@ -1183,6 +1205,24 @@
       "duration_ms": 262643,
       "name": "Brooklyn Ballers",
       "url": "https://open.spotify.com/track/5rLvASDpyKgO9pP1tO6LEr"
+    },
+    {
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245120,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK"
     },
     {
       "album": {
@@ -3123,6 +3163,24 @@
       "duration_ms": 234493,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
+    },
+    {
+      "album": {
+        "name": "Frisco",
+        "url": "https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222911,
+      "name": "Frisco",
+      "url": "https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP"
     },
     {
       "album": {
@@ -5912,6 +5970,24 @@
     },
     {
       "album": {
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291721,
+      "name": "Mango Feedback",
+      "url": "https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9"
+    },
+    {
+      "album": {
         "name": "Mary Jane (Young Franco Remix)",
         "url": "https://open.spotify.com/album/73PV84Kf1waPhVoHNyCt78"
       },
@@ -7300,6 +7376,28 @@
     },
     {
       "album": {
+        "name": "Picture in my mind",
+        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176930,
+      "name": "Picture in my mind",
+      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+    },
+    {
+      "album": {
         "name": "Pink Rocket",
         "url": "https://open.spotify.com/album/4qZo5G5JEHkCHjLnDy374d"
       },
@@ -8117,7 +8215,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 480253,
       "name": "Scythe Master",
       "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
@@ -8135,7 +8233,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 262798,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
@@ -8215,6 +8313,24 @@
       "duration_ms": 204387,
       "name": "Shady",
       "url": "https://open.spotify.com/track/6MuqVtrSYOc2CQj65jv8JM"
+    },
+    {
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101560,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"
     },
     {
       "album": {
@@ -9233,7 +9349,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 239274,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
@@ -9567,7 +9683,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 193165,
       "name": "Things I Thought Were Mine",
       "url": "https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE"
@@ -10295,7 +10411,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 229266,
       "name": "Wake And Return - Little Dragon Remix",
       "url": "https://open.spotify.com/track/29tFNpwgCFOQDUUFJSk8Vw"

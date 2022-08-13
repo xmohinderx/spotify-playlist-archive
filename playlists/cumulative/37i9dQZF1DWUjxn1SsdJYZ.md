@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: Day1
 
-212 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+215 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [BIG BALLER BARS 3](https://open.spotify.com/track/25eWgXkoj3mDpVdqBJ40u5) | [Busty](https://open.spotify.com/artist/3Qm7e7t9J4v9tRIQkcmuUZ), [Wombat](https://open.spotify.com/artist/001o475CIcdKHkvgKc9t8H) | [Revenge SZN 2](https://open.spotify.com/album/6KqexBaC7d9wX9DsqKJJ3A) | 3:40 | 2022-06-30 |  |
 | [BIG BOP](https://open.spotify.com/track/47BDGmZwPcI77hvIq0YquL) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh), [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P) | [BIG BOP](https://open.spotify.com/album/7zD5a8hZ03r6cRSN3bVymJ) | 2:16 | 2022-03-21 |  |
 | [Birkin \(feat\. Lil Jaye\)](https://open.spotify.com/track/2oZUbZg6hHjf1wGiBIZhdw) | [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk), [Lil Jaye](https://open.spotify.com/artist/2lEJRLLPBCtAUdxVFl3qyl) | [Birkin \(feat\. Lil Jaye\)](https://open.spotify.com/album/7fbg8u1jK0XKtbFMoGeOCN) | 2:17 | 2022-06-23 |  |
+| [BL!P](https://open.spotify.com/track/1fRejLP4jAjKWD9jjRxXN0) | [Menarku'](https://open.spotify.com/artist/32oHm5EdLmXdut63QhEZZR) | [BL!P](https://open.spotify.com/album/3jQrRpgeCfb9lJhA8RvELG) | 2:03 | 2022-08-11 |  |
 | [Bold Man](https://open.spotify.com/track/71XmiyHa1Ix2OYKlSDFLeu) | [F.T.G](https://open.spotify.com/artist/01E7J3OcxFmYiWYEkWVKul), [Matt O'shae](https://open.spotify.com/artist/1erhhWH52S61nub1NB8SHE), [Bigg Pete](https://open.spotify.com/artist/7p7QzkHJQgOG1kXUAATDhu) | [Bold Man](https://open.spotify.com/album/0E3DfMrhpbxUfatIiE4bDA) | 4:00 | 2022-03-31 | 2022-06-14 |
 | [Bonnie & Clyde](https://open.spotify.com/track/5nFTc0k6AdZ4gEJvlNq8Dc) | [ZPLUTO](https://open.spotify.com/artist/3vMjTM3wg0sOZDDoc3FuEN) | [Bonnie & Clyde](https://open.spotify.com/album/0kqpdDv0IVgOhlBGIcmocb) | 2:21 | 2022-03-21 | 2022-05-13 |
 | [Bosque](https://open.spotify.com/track/4Wnnw2K8sZHxSn6aHDtZIZ) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Redback](https://open.spotify.com/artist/0cm54lBGuzyjIjJyGiTqY4), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M), [Vita](https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5) | [Bosque](https://open.spotify.com/album/0DbMMgvaRCVfvdOkoXzhDE) | 3:16 | 2022-03-31 | 2022-06-17 |
@@ -47,6 +48,7 @@
 | [Cruise Control](https://open.spotify.com/track/6XQHvN0W6OZnKB1b1wNnge) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Cruise Control](https://open.spotify.com/album/6d9gmxzE3xJnvHcKx3JjGQ) | 2:11 | 2022-05-12 |  |
 | [DASH \(feat\. T\-Pain\) \- T\-Mix](https://open.spotify.com/track/4xOjOPeY9SycyVG8J0xz9h) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [DASH \(feat\. T\-Pain\) \[T\-Mix\]](https://open.spotify.com/album/7HNd8Zsp8Duyvz65e0b1Fq) | 2:46 | 2022-06-09 | 2022-08-05 |
 | [Daughters & Sons](https://open.spotify.com/track/5ff3xc5gxH4mIFW896UIJQ) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN) | [Daughters & Sons](https://open.spotify.com/album/39J8CnKEHl0thX4wfi44nO) | 2:28 | 2022-03-21 | 2022-04-01 |
+| [Die Young \(Freestyle\)](https://open.spotify.com/track/31dmeMMLyx7IFTeydxC8Ed) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [New Wave](https://open.spotify.com/artist/1itGTqVfKk3HKGvYqFOy2s) | [Die Young \(Freestyle\)](https://open.spotify.com/album/7vNXmSOmVFDo7GnsKNrU2z) | 2:31 | 2022-08-11 |  |
 | [Don't Get Comfortable](https://open.spotify.com/track/522iAHYiLMmwUtC52S5Dae) | [Talakai](https://open.spotify.com/artist/1wgJmlMWk2CsiVCA7dyu8V) | [Don't Get Comfortable](https://open.spotify.com/album/0TM2tIXgE00r77Emcg7iWu) | 2:49 | 2022-05-12 | 2022-06-24 |
 | [DOWN UNDER](https://open.spotify.com/track/706YbVUDO1KTtyw0QhJvRc) | [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq), [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d) | [DOWN UNDER](https://open.spotify.com/album/3D2X6UdNVFth22STKx9SYN) | 2:58 | 2022-03-21 | 2022-05-19 |
 | [Dreaming Of This Day](https://open.spotify.com/track/1L1BWkb8FCKQg1V6UiQlT5) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Family Ties](https://open.spotify.com/album/08dsIAT8eSnUDxZdS6w50P) | 3:25 | 2022-03-21 | 2022-06-10 |
@@ -74,6 +76,7 @@
 | [GOTTA GET IT](https://open.spotify.com/track/17NTiRYELek2oBy1O8itwV) | [Txmmy](https://open.spotify.com/artist/5grusMtV0pDYCTusPLrWM2) | [GOTTA GET IT](https://open.spotify.com/album/3PDam9SE8QxMjI5uqlLWiE) | 2:37 | 2022-07-28 |  |
 | [GREEKo FREAKo](https://open.spotify.com/track/2PSChERR09PP6NXXIwmLOW) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [GREEKo FREAKo](https://open.spotify.com/album/0Qm3bjooBoS38mEE6rQbN3) | 2:24 | 2022-08-11 |  |
 | [Grime](https://open.spotify.com/track/6pXQRgHROE1GsSgE0Ey1pE) | [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH) | [Grime](https://open.spotify.com/album/0ENPqLod3mLWDwOAUVll6S) | 3:18 | 2022-03-21 | 2022-05-06 |
+| [Guap 2](https://open.spotify.com/track/66NM4endRHSnt6GpJ8sYA7) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [Guap 2](https://open.spotify.com/album/3MSWBG0Ib2V3Tz5DJlKzAX) | 2:24 | 2022-08-11 |  |
 | [Handle It](https://open.spotify.com/track/6fwQkSQnIuM6ihR1CH6rm7) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Handle It](https://open.spotify.com/album/2dF5XfyWIxHltWizNawVdL) | 3:02 | 2022-08-08 |  |
 | [Hard Labour](https://open.spotify.com/track/1cXdItUY1viHzqimdLkry2) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [The Proctor 2021](https://open.spotify.com/album/2BSruKVc0FBm0rmWbRmrAU) | 3:53 | 2022-07-28 | 2022-08-12 |
 | [Hard Labour](https://open.spotify.com/track/5paXlSDYWldSZLS3dilNul) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [The Proctor 2021](https://open.spotify.com/album/5dQ48B7z887gEkgcz3Euvf) | 3:53 | 2022-03-21 | 2022-07-29 |

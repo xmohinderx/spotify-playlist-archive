@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-872 songs - 1 day 20 hr 47 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+873 songs - 1 day 20 hr 51 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,7 +688,7 @@
 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 | 2021-08-29 | 2021-09-12 |
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2021-06-11 | 2021-08-29 |
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-20 | 2021-05-03 |
-| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-31 |  |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-31 | 2022-08-13 |
 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p) | 3:57 | 2022-07-16 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-15 |
 | [Sai Cosa C’è](https://open.spotify.com/track/3NI4VgVswVf503sOiZvv4m) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:29 | 2021-09-12 | 2021-11-12 |
@@ -793,6 +793,7 @@
 | [Ti raggiungerò](https://open.spotify.com/track/3cqu5fPwdsXZHIRpDeXPoh) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [Unico](https://open.spotify.com/album/10mL7dRowuOaQUjaS6MXB8) | 2:44 | 2021-07-04 | 2021-09-12 |
 | [Tienimi stanotte](https://open.spotify.com/track/3u9LnNtp8669srAZoQh7mZ) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Tienimi stanotte](https://open.spotify.com/album/5d52COljLG4cagyGZQfV9F) | 3:24 | 2022-05-17 | 2022-06-12 |
 | [Tirana \(feat\. Tony Effe\)](https://open.spotify.com/track/79FU3InrNdOKzYZWuNfvkg) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Tirana \(feat\. Tony Effe\)](https://open.spotify.com/album/1CbaXJxZOglEfZUidzG2Jr) | 2:18 | 2021-11-19 | 2021-11-20 |
+| [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-08-12 |  |
 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 | 2022-01-30 | 2022-02-04 |
 | [Todo De Ti](https://open.spotify.com/track/5RwV8BvLfX5injfqYodke9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:19 | 2021-08-01 | 2021-09-05 |
 | [Tony Montana \(feat\. Gucci Mane\)](https://open.spotify.com/track/5AGzdvzdG3EbHvFFMj2CKT) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 3:27 | 2021-06-06 | 2021-06-11 |

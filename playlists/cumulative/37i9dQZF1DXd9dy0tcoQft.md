@@ -4,12 +4,12 @@
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-112 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
+113 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [23](https://open.spotify.com/track/4jeUxze0mlpF0DzpyW8bCp) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [23](https://open.spotify.com/album/6dCV8A0XbZ0gcK6L27Se0o) | 2:58 | 2021-12-16 | 2022-07-18 |
-| [9](https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [9](https://open.spotify.com/album/52Of3CIb4EXdoyldUFg7An) | 4:31 | 2021-12-16 |  |
+| [9](https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [9](https://open.spotify.com/album/52Of3CIb4EXdoyldUFg7An) | 4:31 | 2021-12-16 | 2022-08-13 |
 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/04Kzi0STDwBvJm58evTrHa) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Ain't Gonna Let You Drown](https://open.spotify.com/album/5r7wkL2bFu44UQYzWCeoND) | 4:17 | 2021-12-16 | 2022-07-28 |
 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 | 2021-12-16 |  |
 | [Amnesia](https://open.spotify.com/track/1j06OXU6qM6Bq5n9d1s0xD) | [OCEAN](https://open.spotify.com/artist/6dZZqFC0UROpJL1eDyGV01) | [Amnesia](https://open.spotify.com/album/2dWlnRCDYED83zngRSSyJ8) | 3:02 | 2021-12-22 | 2022-05-28 |
@@ -108,6 +108,7 @@
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2022-05-20 |  |
 | [Waiting](https://open.spotify.com/track/6hHMFYsc4MM3VZJVtLt8QD) | [Noah Jaora](https://open.spotify.com/artist/55MeT25PvYzT71z71eWxVx) | [Waiting](https://open.spotify.com/album/2uTyteX0vPPmi0LQVXVgVx) | 2:29 | 2021-12-22 | 2022-07-16 |
 | [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 | 2022-04-13 |  |
+| [Where Were You](https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Ties](https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR) | 3:25 | 2022-05-20 |  |
 | [Where Were You](https://open.spotify.com/track/4lI4Q0EMFksyN79hx5DPbP) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/5RPP8SOWq7CJjwnkC1odTb) | 3:25 | 2021-12-16 | 2022-07-29 |
 | [Where Were You](https://open.spotify.com/track/5CWacF8meseoq1AHSvLslX) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/2fnxXQV2NF5bsaLBndaKsH) | 3:25 | 2022-05-20 | 2022-08-10 |
 | [Who Needs Words](https://open.spotify.com/track/6MR11qquWaP0BGc2FbXgNt) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Who Needs Words](https://open.spotify.com/album/6mIjvGFZ2vrY6a2C6XQXFS) | 3:30 | 2021-12-16 | 2022-07-29 |

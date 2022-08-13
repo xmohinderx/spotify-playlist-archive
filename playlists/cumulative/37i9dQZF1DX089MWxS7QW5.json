@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "1,2,3..",
+        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
+    },
+    {
+      "album": {
         "name": "EGO 90'S",
         "url": "https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw"
       },
@@ -191,6 +209,24 @@
       "duration_ms": 209506,
       "name": "Beautiful (Prod. Devine Channel)",
       "url": "https://open.spotify.com/track/07MMmXOiYcbCu4vuW42S83"
+    },
+    {
+      "album": {
+        "name": "Before you leave",
+        "url": "https://open.spotify.com/album/5WHFoTl5Kt1mcIDAq23opf"
+      },
+      "artists": [
+        {
+          "name": "BB",
+          "url": "https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183636,
+      "name": "Before you leave",
+      "url": "https://open.spotify.com/track/5jM1gEtRlJvL0wRr6mWwuC"
     },
     {
       "album": {
@@ -245,6 +281,24 @@
       "duration_ms": 213853,
       "name": "Blood Sign",
       "url": "https://open.spotify.com/track/7uNZkJWibKfa0tTPQ058qW"
+    },
+    {
+      "album": {
+        "name": "blanc",
+        "url": "https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195317,
+      "name": "boyhood",
+      "url": "https://open.spotify.com/track/6YpK7C7uz3LAjSDAW5pmga"
     },
     {
       "album": {
@@ -361,7 +415,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 217129,
       "name": "Dang",
       "url": "https://open.spotify.com/track/2OEeCgbcjrEo5mkXnc17iv"
@@ -629,7 +683,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 159973,
       "name": "Get Ya! (feat. pH-1)",
       "url": "https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr"
@@ -647,7 +701,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 208740,
       "name": "glass",
       "url": "https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN"
@@ -731,7 +785,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 183896,
       "name": "Hate this love",
       "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
@@ -749,7 +803,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 150250,
       "name": "Hero",
       "url": "https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82"

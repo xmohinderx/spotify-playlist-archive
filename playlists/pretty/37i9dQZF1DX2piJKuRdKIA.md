@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2piJKuRdKIA.md) - [plain]
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,430 likes - 48 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,859 likes - 48 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

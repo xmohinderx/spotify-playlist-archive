@@ -1,13 +1,29 @@
 {
   "description": "Discover your new favourite artists. Cover: Rio Rainz",
-  "num_followers": 122046,
+  "num_followers": 122033,
   "original_name": "RADAR: First Listen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1ODgwMCwwMDAwMDAwMGQ5N2U4OTZiZWM0Yjc3NGYyOGI4ZDljMWEzMTQ1MmEw",
+  "snapshot_id": "MTY2MDI1ODgwMCwwMDAwMDAwMDBjMDAxZDkyYjZlOWRiNmYxZWQ4M2JlYzk2ZThlMTQ4",
   "tracks": [
+    {
+      "added_at": "2022-08-11 23:00:00",
+      "album": {
+        "name": "withdrawal symptoms",
+        "url": "https://open.spotify.com/album/5Uj9bUqM83TDE0PJ2Dz7kT"
+      },
+      "artists": [
+        {
+          "name": "Rio Rainz",
+          "url": "https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C"
+        }
+      ],
+      "duration_ms": 161932,
+      "name": "nightmares",
+      "url": "https://open.spotify.com/track/5mnnsan9rtnYHjJoLVdD79"
+    },
     {
       "added_at": "2022-08-11 23:00:00",
       "album": {

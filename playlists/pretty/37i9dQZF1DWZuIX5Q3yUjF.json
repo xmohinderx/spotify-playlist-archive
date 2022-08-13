@@ -1,12 +1,12 @@
 {
   "description": "Il meglio dell'R&B italiano. Cover: Ama Dee",
-  "num_followers": 8947,
+  "num_followers": 8960,
   "original_name": "anima R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1NTI2MCwwMDAwMDAwMDZjOWM1MWZkMTk3MTI5ZGI1ZTkxM2NkNGUzOWY3YWFi",
+  "snapshot_id": "MTY2MDI1NTI2MCwwMDAwMDAwMDg2NmJlYzE3NDgwZDg2MTNhYTY3ZWRjMjljYzdiZTA1",
   "tracks": [
     {
       "added_at": "2022-08-11 22:01:00",
@@ -263,6 +263,26 @@
       "duration_ms": 160153,
       "name": "Brandy & Monica",
       "url": "https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Morsi",
+        "url": "https://open.spotify.com/album/2rZEMo1uGjBPEOnMCCL1GP"
+      },
+      "artists": [
+        {
+          "name": "Andrea Blanc",
+          "url": "https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4"
+        },
+        {
+          "name": "David Blank",
+          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
+        }
+      ],
+      "duration_ms": 209525,
+      "name": "Morsi",
+      "url": "https://open.spotify.com/track/5k0bWnsm97QQQHuMs0wIvG"
     },
     {
       "added_at": "2022-08-11 22:01:00",

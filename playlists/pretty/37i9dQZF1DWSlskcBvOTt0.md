@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,478 likes - 100 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,802 likes - 100 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 99 | [Le Crocodile](https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Le Crocodile](https://open.spotify.com/album/0GeA48MX9ataAMIBmQmN6H) | 4:23 |
 | 100 | [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDFjMzAxNGI1ODhkZjQxODIzNDc4ODMzZTljYWNhMDdk`
+Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDY3MmMzYTQ1NWIwNmU1NmM2MmRjZDQ5NGUyNzAzODJj`

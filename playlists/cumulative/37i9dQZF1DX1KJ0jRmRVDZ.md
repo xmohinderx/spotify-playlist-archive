@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-396 songs - 22 hr 41 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+397 songs - 22 hr 46 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [フラストレーション](https://open.spotify.com/track/3aaoTDRTussmilDLWkP47D) | [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [MYLIST](https://open.spotify.com/album/0AyL04AT8ZMlp7fltqnkqg) | 3:59 | 2022-06-09 | 2022-07-25 |
 | [ブランケット](https://open.spotify.com/track/7KWmvLYyfPfTonIDbNI2n2) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ブランケット](https://open.spotify.com/album/5sAcdFSJcZ3kLtzYDmQcm6) | 3:03 | 2022-06-09 | 2022-07-26 |
 | [プラネテス](https://open.spotify.com/track/5ugDd8e8AlZMUYvHTCEyz1) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [プラネテス](https://open.spotify.com/album/5nPYtI4EAPBpu1JlHuYjfc) | 4:40 | 2022-06-13 | 2022-07-27 |
+| [プロローグ](https://open.spotify.com/track/7xk7RN5lLRzJVcu0m8Y65O) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [EVAN](https://open.spotify.com/artist/6bzdpLlsMQUyZzsbyBe4k2) | [プロローグ](https://open.spotify.com/album/015y1Qu5wxZN3uvHG7Q5Rl) | 5:01 | 2022-08-11 |  |
 | [ヘビリンゴ](https://open.spotify.com/track/4uw4goMk2bvSFs04NuzTlf) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa), [ねね](https://open.spotify.com/artist/0S1GRfE1kpYSsOi08WkEet) | [ヘビリンゴ](https://open.spotify.com/album/5YtSut1smkxNZp810K5EC9) | 3:47 | 2022-06-21 | 2022-07-25 |
 | [ホーラ](https://open.spotify.com/track/50XSXcuibBs69Wzwpoy8mM) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [ホーラ](https://open.spotify.com/album/1UTgtOudDQjoJH0BUEGQRo) | 3:13 | 2022-06-13 | 2022-07-07 |
 | [マダ](https://open.spotify.com/track/5sT1HVShyWkWaKb16JP2px) | [うらたぬき](https://open.spotify.com/artist/72sQdYlvuZr27NBEcppyXe) | [Toni9ht](https://open.spotify.com/album/06jHnQM8LjAgU8oSGWXGcy) | 2:37 | 2022-07-05 | 2022-07-07 |
@@ -265,7 +266,7 @@
 | [命の行方](https://open.spotify.com/track/492GY9Jp8F8QK2eQfMDZXq) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [命の行方](https://open.spotify.com/album/02S9ytTyWvDtuZjDVOyxJY) | 3:20 | 2022-07-19 | 2022-07-21 |
 | [命は誰のもの](https://open.spotify.com/track/23FMtyW0cKVsHSOtp2TPTJ) | [Kami\-sama, I have noticed](https://open.spotify.com/artist/19hnen14uXCUMoBAnTmrCp) | [命は誰のもの](https://open.spotify.com/album/2CKCxf1W5yIcjzCJOz4PVG) | 3:11 | 2022-06-28 | 2022-07-27 |
 | [嘘ツキノウタ](https://open.spotify.com/track/56QO0Sq87klMjutZ8gNv3H) | [神谷志龍](https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX) | [嘘ツキノウタ](https://open.spotify.com/album/7svnuifGLIlmGWgLf59oZk) | 3:22 | 2022-07-04 | 2022-07-06 |
-| [嘘月](https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 | 2022-07-28 |  |
+| [嘘月](https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 | 2022-07-28 | 2022-08-13 |
 | [四月になること](https://open.spotify.com/track/01MiBCy710qP8jZwl0nhbC) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [四月になること](https://open.spotify.com/album/6BdwgP0RigqayuhcUYBNg9) | 3:20 | 2022-06-16 | 2022-07-28 |
 | [四阿語り](https://open.spotify.com/track/0WABONN2R1L0Sq2BGfqMNn) | [悒うつぼ](https://open.spotify.com/artist/46JcLfNgVQ8zNtSZU3vXB1) | [四阿語り](https://open.spotify.com/album/5vOKeH2jw0g17nq5VbDmca) | 1:57 | 2022-07-07 | 2022-07-11 |
 | [回る空うさぎ](https://open.spotify.com/track/5NITYjCmkHJEm03GUor1R1) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Remindful.One](https://open.spotify.com/album/0aYunc3nelpAKlZbf8MYDB) | 2:52 | 2022-07-28 |  |

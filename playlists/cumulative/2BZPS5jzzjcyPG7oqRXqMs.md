@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-141 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+143 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 | 2022-04-18 |  |
 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 | 2022-02-17 |  |
 | [He Believes In You](https://open.spotify.com/track/4aSEMyeOX4bORHIRToPcy0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [He Believes In You](https://open.spotify.com/album/4WndsUGUWi2hLMYH7xVbSD) | 4:01 | 2022-02-17 | 2022-07-02 |
+| [He Is With You](https://open.spotify.com/track/1lqBf8ukugE5e8vOQrw4pi) | [Adam Agee](https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl) | [He Is With You](https://open.spotify.com/album/20OH5FnNwSfVmBd7EC12xI) | 3:18 | 2022-08-12 |  |
 | [Headspace](https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 2:57 | 2022-02-17 |  |
 | [Headspace \- GOLDHOUSE Remix](https://open.spotify.com/track/7HcnT1waFtSq0Ul3kXwflW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Headspace](https://open.spotify.com/album/7y8Dzogy270AzjyhZU204y) | 3:08 | 2022-02-17 |  |
 | [Hey Girl](https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Hey Girl](https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv) | 3:08 | 2022-03-04 |  |
@@ -101,6 +102,7 @@
 | [Oasis](https://open.spotify.com/track/4v46PjKcRvS5UIzyOxwomh) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Stephen Stanley](https://open.spotify.com/album/52PGrNeJX0ICMI05KfAK7L) | 3:37 | 2022-02-17 |  |
 | [On And On](https://open.spotify.com/track/1pECacoxvlJZUOaaZl3Qlv) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [On And On](https://open.spotify.com/album/1jtk79QrzBfGaswpzCjPBk) | 5:34 | 2022-04-29 |  |
 | [On Repeat](https://open.spotify.com/track/5Bi3QUmWibSNUnvAAQ1OmK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [On Repeat](https://open.spotify.com/album/2unrWe1Pnq59gnq35fhYfC) | 4:31 | 2022-02-17 |  |
+| [Outside Looking In](https://open.spotify.com/track/4qDswSJVrEi2QnaYfOFbgh) | [Tommy Iceland](https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU) | [Outside Looking In](https://open.spotify.com/album/0wptfSjGbPJcMlU7L06dik) | 3:33 | 2022-08-12 |  |
 | [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 | 2022-04-29 |  |
 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/5OEmp9rJJkHBBR1LTK3gix) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Phenomena \(DA DA\) \[Live\]](https://open.spotify.com/album/6aKTFjYsuCibBJFyW7q1RN) | 2:42 | 2022-02-17 |  |
 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 | 2022-05-20 |  |

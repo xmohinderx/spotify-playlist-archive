@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-201 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
+203 songs - 17 hr 58 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Eolian](https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D) | [Xande \(IT\)](https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Eolian](https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87) | 6:21 | 2021-12-23 |  |
 | [Equator](https://open.spotify.com/track/5gEZQQouw7he8tF8bgu9u1) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [\#WhatWeDoAtNight 3 EP 2](https://open.spotify.com/album/4Kw9w1fROudZEdjuHKkl58) | 3:12 | 2022-04-04 | 2022-07-27 |
 | [Escape](https://open.spotify.com/track/2E78HhgMhRAYONtMktDgg7) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Escape](https://open.spotify.com/album/1O2xWBUjQB1bNVjxnEz3uq) | 3:04 | 2021-12-23 | 2022-07-27 |
-| [Escape](https://open.spotify.com/track/7hYT9hqQWoqV2FsCnd3eOX) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Escape](https://open.spotify.com/album/1xUg5I48NFmsizQGSNrcsP) | 3:04 | 2022-06-17 |  |
+| [Escape](https://open.spotify.com/track/7hYT9hqQWoqV2FsCnd3eOX) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Escape](https://open.spotify.com/album/1xUg5I48NFmsizQGSNrcsP) | 3:04 | 2022-06-17 | 2022-08-13 |
 | [Even Then](https://open.spotify.com/track/0JRRwIQv7doLRdWkwSOO1j) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [Even Then](https://open.spotify.com/album/4vnI3yJ5U0GpApdbecqtEm) | 6:00 | 2022-04-04 | 2022-07-27 |
 | [Eye of the Storm](https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Ivy Purple](https://open.spotify.com/artist/0kHMWR7Mbh9rkQGgjVtdOF) | [Eye of the Storm](https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw) | 7:38 | 2022-04-15 | 2022-06-25 |
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2021-12-23 |  |
@@ -72,6 +72,7 @@
 | [Foxglove \- PALLADIAN Remix](https://open.spotify.com/track/6mgD9X3y4hhy0mhKnlYF8B) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [PALLADIAN](https://open.spotify.com/artist/6XZx83KcYOarkuCd6fZBm3) | [Oasis Sky \(Remixes\)](https://open.spotify.com/album/0SPKzHlhMuoAeQoRwJWCgb) | 6:12 | 2022-02-18 | 2022-07-29 |
 | [Frisbee](https://open.spotify.com/track/6M5r8ctlz5fTmKMgHysoMj) | [Nico Stojan](https://open.spotify.com/artist/1SuKmGtjsRRJcGhTspfUnd), [Tooker](https://open.spotify.com/artist/4g8ii7UNqIRzb5NDJmjjqT) | [Frisbee](https://open.spotify.com/album/5dT5JJf74yWciX8bI1PcLM) | 7:24 | 2022-04-04 | 2022-07-24 |
 | [Get Down \- Short Edit](https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw) | [Alegant](https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [False Gods EP \(Short Edits\)](https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4) | 3:34 | 2021-12-23 |  |
+| [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 | 2022-08-12 |  |
 | [Goodbye](https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Goodbye](https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt) | 6:03 | 2021-12-23 |  |
 | [Graf Zahl](https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Graf Zahl](https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW) | 5:32 | 2021-12-23 |  |
 | [Harlem River](https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Harlem River / Falling](https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7) | 4:37 | 2021-12-23 | 2022-07-29 |
@@ -164,7 +165,8 @@
 | [Selbst](https://open.spotify.com/track/7zrGXNJu4nPoNQji9j8DcB) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Selbst](https://open.spotify.com/album/3uRBuLPxKD7vA97mlGkjB1) | 5:23 | 2021-12-23 | 2022-07-29 |
 | [Silence](https://open.spotify.com/track/4Y3dT7vcHTluw7f5adyHGx) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Space Food](https://open.spotify.com/artist/26N57YIjcZ0h3GDamTf9qn), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Silence](https://open.spotify.com/album/3ZvKGHY6QFlrgJbDdrA15t) | 6:10 | 2022-01-21 | 2022-07-08 |
 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 | 2021-12-23 | 2022-08-11 |
-| [Sky Is the Limit \- Edit](https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7) | [Westbam/ML](https://open.spotify.com/artist/0bIvvfPnM3YeHeORD57sAE), [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Sky Is the Limit](https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby) | 3:43 | 2021-12-23 |  |
+| [Sky Is the Limit \- Edit](https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7) | [Westbam/ML](https://open.spotify.com/artist/0bIvvfPnM3YeHeORD57sAE), [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Sky Is the Limit](https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby) | 3:43 | 2021-12-23 | 2022-08-13 |
+| [Solar Detroit](https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Solar Detroit](https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk) | 8:06 | 2022-08-12 |  |
 | [Sold Out](https://open.spotify.com/track/58nwhfE8ddy4lzQyntZoeG) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm) | [Sold Out](https://open.spotify.com/album/47pSSs06IIjDngoxwuCs7E) | 3:26 | 2022-04-04 | 2022-05-23 |
 | [Solo](https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Solo](https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th) | 4:53 | 2022-05-03 |  |
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2022-04-04 |  |

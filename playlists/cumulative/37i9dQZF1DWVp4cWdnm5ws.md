@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon.
 
-83 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+88 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,8 @@
 | [Call You](https://open.spotify.com/track/68k3V1OBcNslacVbU1HNXA) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Call You](https://open.spotify.com/album/4gwvRkM54QFDjeOXFAL2CX) | 3:03 | 2021-11-25 | 2022-03-25 |
 | [DADA](https://open.spotify.com/track/34GGrpp24dGP5boVzfC7kS) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [DADA](https://open.spotify.com/album/6Axji6cH6HTfoWPzVZjVwV) | 3:26 | 2021-11-25 | 2022-03-25 |
 | [Darling, Darling](https://open.spotify.com/track/0mgbFVGzXKO41p9oxoas0c) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Darling, Darling](https://open.spotify.com/album/1a72z6O7pUejkSYW8nRb7Z) | 4:50 | 2021-11-25 | 2022-03-25 |
+| [Demons](https://open.spotify.com/track/7w0GhApB7RA7DrJACVwvaN) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Demons](https://open.spotify.com/album/6s9DNbcTdOHtTpGKnlbr5b) | 2:58 | 2022-08-12 |  |
+| [Di Inakala](https://open.spotify.com/track/3o7dXlwWMntfxjkaqSRIkZ) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Di Inakala](https://open.spotify.com/album/6d0nKflenfco7FBVhksUtW) | 4:19 | 2022-08-12 |  |
 | [Dime Girls](https://open.spotify.com/track/5PxDyfqi8WA1j8irV3f2ks) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Alex Bruce](https://open.spotify.com/album/7c6dDiWcYxOAAoWn358ZyB) | 3:51 | 2022-03-24 |  |
 | [Diwa](https://open.spotify.com/track/5pQ6g1ZKnkg7Yi0NT6TAwl) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Diwa](https://open.spotify.com/album/3HynclQw8K5pH9gTKhWNA8) | 5:09 | 2021-11-25 | 2022-03-25 |
 | [Dream](https://open.spotify.com/track/4nQvPAV3gGFsOMSfQPdOT8) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Dream](https://open.spotify.com/album/1JsToJpmZ9t5GTJcSladwB) | 2:38 | 2022-03-24 |  |
@@ -36,6 +38,7 @@
 | [Golden Arrow](https://open.spotify.com/track/3GYrHsq8M1hc7G6P0OP4R8) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 3:47 | 2022-03-24 |  |
 | [Habang Buhay](https://open.spotify.com/track/0zANeX4R6uWb82gCQAguOD) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Habang Buhay](https://open.spotify.com/album/7Mp9hdsWS0vbxKvYkT77hS) | 4:04 | 2021-11-25 | 2022-03-25 |
 | [Happy w u \(feat\. Jason Dhakal\)](https://open.spotify.com/track/1n94XVEMS40MCW52AyLGDs) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Happy w u \(feat\. Jason Dhakal\)](https://open.spotify.com/album/6tNvMkhgMHVnKMgk5FdCvU) | 4:40 | 2021-11-25 | 2022-03-25 |
+| [Hara](https://open.spotify.com/track/7w92fQPnMISlyjKdkgnBjs) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Hara](https://open.spotify.com/album/79vrG3mCNVQaV5oQLPf1fr) | 3:29 | 2022-08-12 |  |
 | [He's Into Her](https://open.spotify.com/track/0j4l5cQYuAgEtF5RFKXJQJ) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [He's Into Her](https://open.spotify.com/album/08Ce2nedPujQAcDNezbq9x) | 4:01 | 2021-11-25 | 2022-03-25 |
 | [Higa](https://open.spotify.com/track/63qA4ydokzNOFpsaNlsYsC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/3H8htbv4nP3HIjpOCbxm67) | 4:05 | 2021-11-25 | 2022-03-25 |
 | [Himala](https://open.spotify.com/track/3v8EvCxPcfwlStnCKtlzfi) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Himala](https://open.spotify.com/album/11Fm9RQJskICPrsWdIcNaL) | 4:21 | 2021-11-25 | 2022-03-25 |
@@ -54,6 +57,7 @@
 | [kung nag\-aatubili](https://open.spotify.com/track/6sDrozuLsdLbePAesxDvNy) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [kung nag\-aatubili](https://open.spotify.com/album/0pjg8cFcbZyXiMnYLUx927) | 3:51 | 2021-11-25 | 2022-03-25 |
 | [Lagi](https://open.spotify.com/track/6nyr7jWOZb86Kzjj34buF8) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Lagi](https://open.spotify.com/album/6r0CiOvFP21ea0kuAjorcj) | 4:16 | 2022-06-23 |  |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-03-24 |  |
+| [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2022-08-12 |  |
 | [Maligayang Pagkunwari](https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Maligayang Pagkunwari](https://open.spotify.com/album/0NqV5yJbP7ngiQPY91J9dj) | 4:34 | 2022-04-01 |  |
 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 | 2021-11-25 | 2022-03-25 |
 | [Mariposa](https://open.spotify.com/track/0j452wGGiFFZzGzWWa4cqq) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA), [DB Tha Girl](https://open.spotify.com/artist/557z0T9CAn8BAPaTAZpDaG) | [Mariposa](https://open.spotify.com/album/6dSj3xF4g0MqpNAF7QBeAk) | 3:51 | 2021-11-25 | 2022-03-25 |
@@ -73,6 +77,7 @@
 | [Runnin'](https://open.spotify.com/track/7y0MRQ7VtQYoKUDcFo7xdT) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8), [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [Runnin'](https://open.spotify.com/album/1E3zxWGYuSM0ir8c29aBtK) | 3:28 | 2021-11-25 | 2022-03-25 |
 | [Samokan](https://open.spotify.com/track/5k8Qkzwec8v2QjFOdGJeHI) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Samokan / Called Ur Bluff](https://open.spotify.com/album/3HBAQ3u2uez5BFfrzyIkzA) | 2:57 | 2021-11-25 | 2022-03-25 |
 | [SEXBOMB GIRL](https://open.spotify.com/track/5TZATzxD16hCmPiuokUgaa) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [SEXBOMB GIRL](https://open.spotify.com/album/50iZdZCELPzNbVFDSgb9zF) | 3:27 | 2021-11-25 | 2022-03-25 |
+| [Sinag \(feat\. Samantha Benwick\)](https://open.spotify.com/track/5DARNIgi6aaJxGD5SKAUal) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Samantha Benwick](https://open.spotify.com/artist/2Zsn09Mt6kHdipblDeVaF9) | [Sinag \(feat\. Samantha Benwick\)](https://open.spotify.com/album/4gBNPqTdgUJr2Box5PO8WM) | 4:28 | 2022-08-12 |  |
 | [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 | 2022-03-24 | 2022-07-29 |
 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2022-03-24 |  |
 | [TAKE ALL THE LOVE](https://open.spotify.com/track/4feJnuMO1hnNLEWiKYDxOl) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/7w2WseM2SppYIXbS9jQ8QO) | 3:26 | 2021-11-25 | 2022-03-25 |

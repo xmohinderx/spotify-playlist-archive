@@ -2,7 +2,7 @@
 
 ### [Electronic + Dance Frequency](https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz)
 
-> Electronic + Dance making waves, every month\. Cover: TSHA.
+> Electronic + Dance making waves, every month\. Cover: Austin Millz.
 
 167 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/2TNmeY42vrKnq2dfH2dCEO)
 

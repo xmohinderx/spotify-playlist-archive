@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > A soft musical backdrop for your studies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,662,509 likes - 386 songs - 16 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,662,640 likes - 386 songs - 16 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 75 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 |
 | 76 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 |
 | 77 | [The Old Windmill](https://open.spotify.com/track/5YINZsov3qBPWjCEsWDDWX) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [The Old Windmill](https://open.spotify.com/album/441C9NGHHXjvEre4uFxUfn) | 2:02 |
-| 78 | [Patchouli](https://open.spotify.com/track/3PpvhHp9USOBQFFQ7pJwsy) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Patchouli](https://open.spotify.com/album/2IKEDd4NsJtezuTDjBqhDg) | 1:52 |
+| 78 | [Patchouli](https://open.spotify.com/track/3QIfNvbHw3XP1y6uN9mEeU) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Images](https://open.spotify.com/album/79tOBdX8qqoeTOMyb561af) | 1:52 |
 | 79 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 |
 | 80 | [Distances](https://open.spotify.com/track/3MJkEsmJfxO7JiOJjlEm8Z) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Distances](https://open.spotify.com/album/4zNCQM0oFO5KezvbLVlOZC) | 3:46 |
 | 81 | [Makeshift Dream](https://open.spotify.com/track/43DUAcgzPr2kbp2fWRt568) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Sweet Water](https://open.spotify.com/album/4pFfD5JJWub5rc1A7kflUG) | 3:35 |
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 183 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 |
 | 184 | [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 |
 | 185 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 |
-| 186 | [Postcards](https://open.spotify.com/track/5LHsps6yM7U1ogxSQpEsxM) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Postcards](https://open.spotify.com/album/3eEKFsABkKbQ4nlOZzmG0M) | 2:35 |
+| 186 | [Postcards](https://open.spotify.com/track/6CpwzWJVFzXbh1QRYeogzK) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Images](https://open.spotify.com/album/79tOBdX8qqoeTOMyb561af) | 2:35 |
 | 187 | [a new love](https://open.spotify.com/track/4DOUtqXfuYKR6RqZ3O6TIi) | [Albrecht Valiery](https://open.spotify.com/artist/3GyopzakL0G5uqjcv56M9h) | [a new love](https://open.spotify.com/album/1OCzduP701HjAIhRhGaBts) | 3:02 |
 | 188 | [Fine](https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7) | [Kristian Kamp](https://open.spotify.com/artist/2RojpFYmQCs2e8SNQAXah2) | [Fine](https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V) | 2:51 |
 | 189 | [Intermediate](https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [Intermediate](https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU) | 2:30 |
@@ -395,4 +395,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 385 | [Vitality](https://open.spotify.com/track/10tC4GQIfS6saBeCfXda1h) | [Jamie Troy](https://open.spotify.com/artist/6NJWSp0xcJQQPzR375b8B3) | [Vitality](https://open.spotify.com/album/5FciHHdDCIuNUnI1jt24nr) | 2:06 |
 | 386 | [Otherwise](https://open.spotify.com/track/3thkCuWvpE3yU7PtZiPGXs) | [Alexander Panagopoulos](https://open.spotify.com/artist/2ezAtjuRtLi4loC6Rmyv5p) | [Otherwise](https://open.spotify.com/album/3G6irmF2ZuYVEhY9EgfPaO) | 2:04 |
 
-Snapshot ID: `MTY2MDAzNjMzNywwMDAwMDAwMGM0NTQ3MTQyNzY4YThhN2M2ZmNjZWFjZGQyYTRhYmVk`
+Snapshot ID: `MTY2MDAzNjMzNywwMDAwMDAwMGMyNmMyM2EzYjU3NmZiNmY2OWE5MmQ4NWYyYjViMTc0`

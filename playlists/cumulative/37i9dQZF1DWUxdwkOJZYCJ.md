@@ -4,7 +4,7 @@
 
 > Energetic tracks from the 1990s to boost your running session.
 
-85 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/7D5evLIzQvkxIsF51nBPOm)
+87 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/7D5evLIzQvkxIsF51nBPOm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,11 @@
 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 | 2021-10-12 |  |
 | [Affirmation](https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:55 | 2022-05-12 |  |
 | [Affirmation](https://open.spotify.com/track/6CrMkIDzivEQ6N2yxe8ABn) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/67M8LSfsBxjM6AmxLjAzhT) | 4:56 | 2021-03-30 | 2022-07-29 |
-| [All or Nothing](https://open.spotify.com/track/4yWeYfdw5FR0vAMjtFfddA) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:58 | 2021-03-30 |  |
+| [All or Nothing](https://open.spotify.com/track/4yWeYfdw5FR0vAMjtFfddA) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:58 | 2021-03-30 | 2022-08-13 |
 | [Beautiful Life](https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Bridge](https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3) | 3:41 | 2021-03-30 |  |
 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 | 2021-03-30 |  |
 | [Black or White \- Single Version](https://open.spotify.com/track/6wdviVWctiZnY6tVn6bh6A) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 3:18 | 2021-03-30 |  |
+| [Blood on the Dance Floor](https://open.spotify.com/track/11lw4bWbmxWIETHitBU0Gc) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [BLOOD ON THE DANCE FLOOR/ HIStory In The Mix](https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ) | 4:13 | 2022-08-12 |  |
 | [C'est La Vie](https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [C'est la Vie: The Collection](https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn) | 2:53 | 2021-10-12 |  |
 | [Cruel Summer](https://open.spotify.com/track/1ntjFaRNVpC1V2cKekUnU5) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Flowers](https://open.spotify.com/album/4oXtR5JbdA9PLwbR49zx9Q) | 3:35 | 2021-03-30 | 2022-07-23 |
 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T) | [N\-Trance](https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Da Ya Think I'm Sexy?](https://open.spotify.com/album/1pXHEk0IX0foNN22eCe1h6) | 4:22 | 2021-12-20 | 2022-05-06 |
@@ -27,6 +28,7 @@
 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2022-05-12 |  |
 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 | 2021-03-30 |  |
 | [Free Your Mind](https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:53 | 2022-03-24 |  |
+| [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 | 2022-08-12 |  |
 | [Give It Up](https://open.spotify.com/track/1Hh5gDiXZGhtKfHzJYYhSJ) | [Cut 'N' Move](https://open.spotify.com/artist/2OQkm6IvTu9MeHkGQQ4cSK) | [Peace, Love & Harmony](https://open.spotify.com/album/6Dvs8Sy0kCLhx0yDWvIhym) | 4:25 | 2022-03-24 | 2022-07-29 |
 | [Go West \- 2003 Remaster](https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl) | 5:04 | 2021-03-30 | 2022-07-29 |
 | [Got the Feelin' \- Radio Edit](https://open.spotify.com/track/0HjeuAy5DCzkwmODn3tYpT) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [5ive](https://open.spotify.com/album/5qNfTjXiyNX9abxpcpR1jO) | 3:28 | 2021-03-30 | 2022-07-08 |
@@ -42,7 +44,7 @@
 | [It's My Life](https://open.spotify.com/track/6HdM7gzXVgcpepv276raog) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love \(2nd Edition\)](https://open.spotify.com/album/5YPI9qfm2uuMxlq4CEUOFu) | 3:59 | 2021-03-30 | 2022-07-29 |
 | [Joyride](https://open.spotify.com/track/1ILbD4eWKWvg8ub5qJyBTP) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Extended Version\)](https://open.spotify.com/album/5WVNP6IBwMSULc0wehXW8N) | 4:23 | 2021-03-30 |  |
 | [Keep On Movin'](https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:17 | 2021-03-30 |  |
-| [Killer / Papa Was a Rollin' Stone](https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:15 | 2021-03-30 |  |
+| [Killer / Papa Was a Rollin' Stone](https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:15 | 2021-03-30 | 2022-08-13 |
 | [Larger Than Life](https://open.spotify.com/track/5NlzGgA1empkx1vpPgSr7j) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5VHIlOEndogNL2zRjhKSBa) | 3:52 | 2021-03-30 | 2022-07-29 |
 | [Larger Than Life](https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:52 | 2022-05-12 |  |
 | [Let Me Entertain You](https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:22 | 2021-03-30 | 2022-07-29 |

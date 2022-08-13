@@ -1280,6 +1280,24 @@
     },
     {
       "album": {
+        "name": "Let's Get Loud",
+        "url": "https://open.spotify.com/album/3fX7jccVdL4ZuYkJ806fIR"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227124,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/3ujhnUL6rvA8CTGTj2qc3F"
+    },
+    {
+      "album": {
         "name": "Explosive (Deluxe)",
         "url": "https://open.spotify.com/album/1BOjQtnxLLlJupPGOKEeck"
       },

@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-63 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/3YgHxpdqRDtLNVGeLk32oI)
+64 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/3YgHxpdqRDtLNVGeLk32oI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Nikumbushe Yehova](https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO) | [Kurasini SDA Choir](https://open.spotify.com/artist/6iEYr3D5bI9cIgJWSYN0tM) | [Mtanitafuta Pande Zote](https://open.spotify.com/album/70wLfW5cfXi1h1JfIITRUp) | 2:45 | 2022-06-24 |  |
 | [Nimekubali](https://open.spotify.com/track/7w8ERAOQosktc8bJkVOeql) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4) | [Bwana Yesu](https://open.spotify.com/album/1PYHRwXBXzZ4Kz60MUB6OS) | 4:29 | 2022-06-24 |  |
 | [Nina Haja Nawe](https://open.spotify.com/track/6mwX6AqfESrCdVmxpXQc7Y) | [Doudou Manengu](https://open.spotify.com/artist/07RTKxQdPJhGVvu17fMYjd) | [Kumtegemea](https://open.spotify.com/album/1hih5ZsfuKJ1KSP3oAPcb0) | 5:41 | 2022-06-24 |  |
-| [Nitumie](https://open.spotify.com/track/5mApIp6LxaHq9htEK9g7KV) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Thamani](https://open.spotify.com/album/3OVn1ruXhSCBtQNjpgVHCL) | 3:56 | 2022-06-24 |  |
+| [Nitumie](https://open.spotify.com/track/336Jz0yGtnAvPfQbLjjlBo) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Thamani](https://open.spotify.com/album/5TdcUkGkE9Z4ZMiKJscBdF) | 3:56 | 2022-06-24 |  |
+| [Nitumie](https://open.spotify.com/track/5mApIp6LxaHq9htEK9g7KV) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Thamani](https://open.spotify.com/album/3OVn1ruXhSCBtQNjpgVHCL) | 3:56 | 2022-06-24 | 2022-08-13 |
 | [Niumbie Moyo Safi](https://open.spotify.com/track/43Bg1g38MwANRmhK8leUSq) | [Pastor Anthony Musembi](https://open.spotify.com/artist/5lkExVL0geY5mktCw5h69O) | [Ahadi Za Bwana](https://open.spotify.com/album/4aw7CJ3tySMMSWXWZOd5h7) | 7:47 | 2022-06-24 |  |
 | [Niwe Ngwenda](https://open.spotify.com/track/57chzVhBuTUqixdfALG5ft) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 5:20 | 2022-06-24 |  |
 | [Patakatifu Pako](https://open.spotify.com/track/0A5iR3HinWss1nwGvGn0hB) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:03 | 2022-06-24 |  |

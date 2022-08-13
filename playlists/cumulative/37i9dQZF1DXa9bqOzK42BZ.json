@@ -735,7 +735,7 @@
     {
       "album": {
         "name": "Thamani",
-        "url": "https://open.spotify.com/album/3OVn1ruXhSCBtQNjpgVHCL"
+        "url": "https://open.spotify.com/album/5TdcUkGkE9Z4ZMiKJscBdF"
       },
       "artists": [
         {
@@ -746,6 +746,24 @@
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236726,
+      "name": "Nitumie",
+      "url": "https://open.spotify.com/track/336Jz0yGtnAvPfQbLjjlBo"
+    },
+    {
+      "album": {
+        "name": "Thamani",
+        "url": "https://open.spotify.com/album/3OVn1ruXhSCBtQNjpgVHCL"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
       "duration_ms": 236726,
       "name": "Nitumie",
       "url": "https://open.spotify.com/track/5mApIp6LxaHq9htEK9g7KV"

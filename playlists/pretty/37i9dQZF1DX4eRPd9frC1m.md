@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,435,664 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,436,119 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Trap Anthem](https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Trap Anthem](https://open.spotify.com/album/2w12DfrAjOlweziwmo0W1P) | 2:27 |
 | 75 | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/track/3zJTXgtzn4mr9YYanvSGfp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Alexandar Smash](https://open.spotify.com/artist/2eheBZ3uhxzH8eBRvV0xtv) | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/album/0jbULvSiNGAHkiTrtoVZTR) | 3:26 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMGYyOTc3YTY3NWQ3MjhmNmQ3ZmFlMWRmODk3ZmM5YTQ0`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMGJjNGE3MGQ5YTFjNmU0MTMyMjBlNWUzODQ5ZWE1MzQ5`

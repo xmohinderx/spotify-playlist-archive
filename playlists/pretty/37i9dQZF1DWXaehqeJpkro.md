@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,061 likes - 148 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,051 likes - 148 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 100 | [Live Well](https://open.spotify.com/track/7ICInvaSc128iJAeA6F2E5) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Live Well](https://open.spotify.com/album/4NA7NJq9Twvt0cFyyu1gEU) | 3:23 |
 | 101 | [Making a new ending for this story](https://open.spotify.com/track/30H0FtOCtb5jESDvFcxqXZ) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 1st Digital Single "Making a new ending for this story"](https://open.spotify.com/album/5lvAt6IG8iOlKm4AVkxsqn) | 4:22 |
 | 102 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 |
-| 103 | [Try](https://open.spotify.com/track/221PQiYwFVxVWvY1kpYhtN) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [1 24](https://open.spotify.com/album/5gcChxYyrOXbI27SVjreej) | 4:23 |
+| 103 | [Try](https://open.spotify.com/track/221PQiYwFVxVWvY1kpYhtN) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [1/24](https://open.spotify.com/album/5gcChxYyrOXbI27SVjreej) | 4:23 |
 | 104 | [BLOOM](https://open.spotify.com/track/3bCDoZgeNf9s6Zmf9iz51h) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA](https://open.spotify.com/album/2tb2AzY9uac3ND3Wf8RQPL) | 3:52 |
 | 105 | [I Still love you a lot](https://open.spotify.com/track/3cZvGx80KaW9PrJ0OBez7o) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Still love you a lot](https://open.spotify.com/album/1vfkbNsnBmRRjI4q4dMAgR) | 4:35 |
 | 106 | [See you later](https://open.spotify.com/track/49YuuWJfFdTVQVAhIKJayp) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [See you later](https://open.spotify.com/album/3rCEmiDMGkp5ErKv218n6k) | 3:36 |

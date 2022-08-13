@@ -540,6 +540,32 @@
     },
     {
       "album": {
+        "name": "From a Vein",
+        "url": "https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu"
+      },
+      "artists": [
+        {
+          "name": "Shades",
+          "url": "https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK"
+        },
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        },
+        {
+          "name": "Eprom",
+          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/6XEL57IMhRLsT9Q4XiCF7W"
+    },
+    {
+      "album": {
         "name": "Woe & Bliss EP",
         "url": "https://open.spotify.com/album/1rwQMdcIf52wbSVG3YvmOH"
       },
@@ -3059,7 +3085,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 303942,
       "name": "Lankershim Stroll",
       "url": "https://open.spotify.com/track/3LHETC47Ll94QcwN1Y0gMx"
@@ -4204,6 +4230,24 @@
     },
     {
       "album": {
+        "name": "Oneness",
+        "url": "https://open.spotify.com/album/6g69zaN5wm9YhmTX9PUoNC"
+      },
+      "artists": [
+        {
+          "name": "Distance",
+          "url": "https://open.spotify.com/artist/1FvQZpPhaVvSoQnpslxnvb"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Oneness",
+      "url": "https://open.spotify.com/track/77PQJG1op6vWwJldyXIi0E"
+    },
+    {
+      "album": {
         "name": "Operation High Jump EP",
         "url": "https://open.spotify.com/album/6G1sToHWxMmSn8ul4tSvD4"
       },
@@ -4341,7 +4385,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 273454,
       "name": "Oxytocin - Original",
       "url": "https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Erland Cooper on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,852 likes - 200 songs - 15 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,963 likes - 200 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

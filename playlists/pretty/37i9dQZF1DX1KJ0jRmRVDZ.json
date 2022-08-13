@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 59432,
+  "num_followers": 59551,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzMDAwMCwwMDAwMDAwMGVhNGZhNzYzMzhmNWMzZDYxMzgxZWJkZGUwYjkwODIz",
+  "snapshot_id": "MTY2MDIzMDAwMCwwMDAwMDAwMDU3OGRjMGFlY2NhY2YwNjRmNjE2ODlmYTMyMDA2OTQ4",
   "tracks": [
     {
       "added_at": "2022-08-11 15:00:00",
@@ -535,6 +535,26 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
+        "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+        "url": "https://open.spotify.com/album/015y1Qu5wxZN3uvHG7Q5Rl"
+      },
+      "artists": [
+        {
+          "name": "UniteUp!",
+          "url": "https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo"
+        },
+        {
+          "name": "EVAN",
+          "url": "https://open.spotify.com/artist/6bzdpLlsMQUyZzsbyBe4k2"
+        }
+      ],
+      "duration_ms": 301319,
+      "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/7xk7RN5lLRzJVcu0m8Y65O"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
         "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
         "url": "https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv"
       },
@@ -631,22 +651,6 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "Remindful.One",
-        "url": "https://open.spotify.com/album/0aYunc3nelpAKlZbf8MYDB"
-      },
-      "artists": [
-        {
-          "name": "DAZBEE",
-          "url": "https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz"
-        }
-      ],
-      "duration_ms": 172753,
-      "name": "\u56de\u308b\u7a7a\u3046\u3055\u304e",
-      "url": "https://open.spotify.com/track/5NITYjCmkHJEm03GUor1R1"
-    },
-    {
-      "added_at": "2022-08-11 15:00:00",
-      "album": {
         "name": "Haru wo Tsugeru",
         "url": "https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ"
       },
@@ -659,6 +663,22 @@
       "duration_ms": 196497,
       "name": "Haru wo Tsugeru",
       "url": "https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "Remindful.One",
+        "url": "https://open.spotify.com/album/0aYunc3nelpAKlZbf8MYDB"
+      },
+      "artists": [
+        {
+          "name": "DAZBEE",
+          "url": "https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz"
+        }
+      ],
+      "duration_ms": 172753,
+      "name": "\u56de\u308b\u7a7a\u3046\u3055\u304e",
+      "url": "https://open.spotify.com/track/5NITYjCmkHJEm03GUor1R1"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -743,26 +763,6 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "CapSule",
-        "url": "https://open.spotify.com/album/6GsX8yyTYKzLxYoKoSdydQ"
-      },
-      "artists": [
-        {
-          "name": "Mori Calliope",
-          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
-        },
-        {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
-        }
-      ],
-      "duration_ms": 174842,
-      "name": "CapSule",
-      "url": "https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY"
-    },
-    {
-      "added_at": "2022-08-11 15:00:00",
-      "album": {
         "name": "First Love feat.natsumi",
         "url": "https://open.spotify.com/album/2agcpsXOnEyGDkRgqPEAHo"
       },
@@ -799,18 +799,22 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "\u5275\u4f5c",
-        "url": "https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH"
+        "name": "CapSule",
+        "url": "https://open.spotify.com/album/6GsX8yyTYKzLxYoKoSdydQ"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
         }
       ],
-      "duration_ms": 290466,
-      "name": "\u5618\u6708",
-      "url": "https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay"
+      "duration_ms": 174842,
+      "name": "CapSule",
+      "url": "https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY"
     },
     {
       "added_at": "2022-08-11 15:00:00",

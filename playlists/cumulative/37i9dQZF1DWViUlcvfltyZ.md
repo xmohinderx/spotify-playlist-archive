@@ -4,7 +4,7 @@
 
 > Chitarre più o meno distorte \(e in cover gli Antartica\)
 
-141 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+142 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [The Light Shedder](https://open.spotify.com/track/68qqIsRN1CXGr2OC0fZWwc) | [Laeds](https://open.spotify.com/artist/0hqZLWRcPUaQ6chCgYYi7g) | [The Light Shedder](https://open.spotify.com/album/0NQGhIUUHSi7EYUq9pue06) | 6:33 | 2022-06-09 | 2022-07-20 |
 | [TI DEVI ROVINARE](https://open.spotify.com/track/4867uScJp6gPGEckidOWk1) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TI DEVI ROVINARE](https://open.spotify.com/album/29mSkfiTOynaVBxBp2E4Vh) | 2:29 | 2022-05-09 | 2022-05-20 |
 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 | 2022-05-09 | 2022-06-10 |
+| [Trails of Me](https://open.spotify.com/track/0YYOvEXpjVsMPEJaUvFWG5) | [Laeds](https://open.spotify.com/artist/0hqZLWRcPUaQ6chCgYYi7g) | [Trails of Me](https://open.spotify.com/album/6wjDGE6rWctp7CZm69z9C7) | 4:19 | 2022-08-11 |  |
 | [Turnover](https://open.spotify.com/track/5Y2EMG7xInrfl5xeZI56A5) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Turnover](https://open.spotify.com/album/1aCpnw0VjbPYz38eNzdNWe) | 2:25 | 2022-06-30 |  |
 | [Ubi maior minor cessat](https://open.spotify.com/track/5yTZP8kf3715F8pyenn4WP) | [Rough Enough](https://open.spotify.com/artist/6b9jVW7JfqMLiRvoTYEA1i), [Ufo \(The Zen Circus\)](https://open.spotify.com/artist/2ut96FTqfxeNNiZyK4bdBL) | [Che la testa ti sia lieve](https://open.spotify.com/album/2RMy3VEmIUgiSWLsxnP48q) | 4:00 | 2022-05-19 |  |
 | [Un equilibrio da proteggere](https://open.spotify.com/track/3ddt91PaOtE9LQ4UCaN3ge) | [Il Corpo Docenti](https://open.spotify.com/artist/54fov0UfPlOOvOWid3VL7p) | [Un posto sicuro](https://open.spotify.com/album/2eocM3c7Mj3d9rx7DUmITa) | 2:54 | 2022-05-09 | 2022-05-13 |

@@ -706,6 +706,24 @@
     },
     {
       "album": {
+        "name": "Choosey",
+        "url": "https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq"
+      },
+      "artists": [
+        {
+          "name": "SixSaidIt",
+          "url": "https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "Choosey",
+      "url": "https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR"
+    },
+    {
+      "album": {
         "name": "City On Lock",
         "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
@@ -1229,10 +1247,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 181890,
       "name": "Gloss Up Broke Boy",
       "url": "https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3"
+    },
+    {
+      "album": {
+        "name": "Gloss Up Ms Bitch",
+        "url": "https://open.spotify.com/album/7xp7HjMNl7Kjq0VQm9sbMV"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162481,
+      "name": "Gloss Up Ms Bitch",
+      "url": "https://open.spotify.com/track/4nrTlaJHJWyoiuSkAS0cA3"
     },
     {
       "album": {
@@ -1631,7 +1667,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 109888,
       "name": "Milliana Flow",
       "url": "https://open.spotify.com/track/1CdvL17rWmbYCLUasyokVG"
@@ -1693,6 +1729,24 @@
       "duration_ms": 188014,
       "name": "Ms. Lick Back",
       "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
+    },
+    {
+      "album": {
+        "name": "Munch (Feelin\u2019 U)",
+        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104819,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
       "album": {
@@ -2583,7 +2637,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 137400,
       "name": "Swerve",
       "url": "https://open.spotify.com/track/074Ne9ipVodDPrWVmZvQKv"

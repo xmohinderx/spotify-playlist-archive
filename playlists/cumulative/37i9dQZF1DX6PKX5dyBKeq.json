@@ -1980,6 +1980,24 @@
     },
     {
       "album": {
+        "name": "Arrogant",
+        "url": "https://open.spotify.com/album/1oDxRgxS0Bj7atLNd7E7dr"
+      },
+      "artists": [
+        {
+          "name": "Sainte",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "Arrogant",
+      "url": "https://open.spotify.com/track/6fugJLhec4sxCmooCeklD9"
+    },
+    {
+      "album": {
         "name": "Auntie",
         "url": "https://open.spotify.com/album/0953RcIVpb65L5AmdAi2VF"
       },
@@ -10319,7 +10337,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 142752,
       "name": "Hood Favourite (Bando Basic)",
       "url": "https://open.spotify.com/track/21s0puT06ol5NNwHk1ZyKO"
@@ -13337,7 +13355,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 179548,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/3misJkA5entqkAdHPJ4vTP"
@@ -14243,7 +14261,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 383032,
       "name": "My 24th Birthday",
       "url": "https://open.spotify.com/track/5nXB98pCGSh1gXSovAlc0U"
@@ -16554,6 +16572,24 @@
     },
     {
       "album": {
+        "name": "Please Stay",
+        "url": "https://open.spotify.com/album/68qEH0gbGKySNcaM9xK8aS"
+      },
+      "artists": [
+        {
+          "name": "Fizzler",
+          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/4Zf9wD8sScwSHyl6upO9gg"
+    },
+    {
+      "album": {
         "name": "PLRK",
         "url": "https://open.spotify.com/album/4G32Y7v4HuvUopTU4bWVCq"
       },
@@ -17191,6 +17227,28 @@
       "duration_ms": 152685,
       "name": "Pump 101",
       "url": "https://open.spotify.com/track/4MKOj49FQ3dlI9gqCOIjIn"
+    },
+    {
+      "album": {
+        "name": "Pure Filth",
+        "url": "https://open.spotify.com/album/4Lyt54HRVYT9jQ2tenqatt"
+      },
+      "artists": [
+        {
+          "name": "Yung Fume",
+          "url": "https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o"
+        },
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186181,
+      "name": "Pure Filth",
+      "url": "https://open.spotify.com/track/4UpfEY1QgZUerJ2lAWUyuL"
     },
     {
       "album": {

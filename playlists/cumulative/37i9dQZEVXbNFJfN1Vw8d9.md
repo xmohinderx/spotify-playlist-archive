@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-444 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
+445 songs - 1 day 0 hr 43 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-05-23 |
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2022-06-15 | 2022-07-13 |
 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 | 2021-12-25 | 2022-05-08 |
-| [Pelé](https://open.spotify.com/track/42GxezaZ2IsakhDi6a3rsp) | [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb), [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O) | [Pelé](https://open.spotify.com/album/2tBxIsn2wqsOeQDWKa6fTk) | 2:42 | 2022-07-12 |  |
+| [Pelé](https://open.spotify.com/track/42GxezaZ2IsakhDi6a3rsp) | [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb), [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O) | [Pelé](https://open.spotify.com/album/2tBxIsn2wqsOeQDWKa6fTk) | 2:42 | 2022-07-12 | 2022-08-13 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-03 | 2022-03-21 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-07-11 | 2021-10-03 |
 | [Perra](https://open.spotify.com/track/5Q27cpHUDQPttnB0xH7oBh) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Perra](https://open.spotify.com/album/7M1SPgEQCGfYjyDfpfmAKh) | 3:36 | 2022-01-31 | 2022-02-09 |
@@ -373,6 +373,7 @@
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2022-08-06 |  |
 | [Si Te Veo](https://open.spotify.com/track/2TmT3wSwRf0CYJFGGaIXNB) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Si Te Veo](https://open.spotify.com/album/1g0enqdoT94Aw5vCJvubzd) | 4:15 | 2021-05-27 | 2021-06-20 |
 | [Si Tu Te Vas](https://open.spotify.com/track/1KALUbjXvefSgNhTYJHZZt) | [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K) | [Si Tu Te Vas](https://open.spotify.com/album/6o64BvtMCuoKXguXZtmQyr) | 3:12 | 2022-07-21 |  |
+| [Si Tú Te Vas \(feat\. Yung Beef\) \- Remix](https://open.spotify.com/track/5cp1Nx2K3FUWIH6Rzt8u33) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Si Tú Te Vas \(feat\. Yung Beef\) \[Remix\]](https://open.spotify.com/album/06if2TD3XBlZsDAg8OS9ch) | 3:35 | 2022-08-12 |  |
 | [Sigue](https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [K y B](https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f) | [Capítulo 1](https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb) | 3:31 | 2022-04-02 |  |
 | [Sin Frenos](https://open.spotify.com/track/1b62AO1IzcVr5SOgoguc9o) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:31 | 2021-12-05 | 2021-12-12 |
 | [Sin Señal](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Sin Señal](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 | 2022-07-23 |  |

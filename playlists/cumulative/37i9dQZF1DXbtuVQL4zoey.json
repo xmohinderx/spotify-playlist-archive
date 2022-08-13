@@ -146,6 +146,28 @@
     },
     {
       "album": {
+        "name": "Afternoon Wind",
+        "url": "https://open.spotify.com/album/0t3OwwDp5vnzPig21TJsH8"
+      },
+      "artists": [
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        },
+        {
+          "name": "luv pug",
+          "url": "https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Afternoon Wind",
+      "url": "https://open.spotify.com/track/2eMu2au8FVOaHemQfi7Sah"
+    },
+    {
+      "album": {
         "name": "Agua Clara",
         "url": "https://open.spotify.com/album/06J6FivKeqJty8XESLzAVA"
       },
@@ -915,6 +937,28 @@
       "duration_ms": 85874,
       "name": "candy",
       "url": "https://open.spotify.com/track/1VAA1DDsPBI5HtHKz71szq"
+    },
+    {
+      "album": {
+        "name": "Caribbean Latte",
+        "url": "https://open.spotify.com/album/1C1yDFumSDLh71qZzyxtac"
+      },
+      "artists": [
+        {
+          "name": "Mister Decaf",
+          "url": "https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY"
+        },
+        {
+          "name": "soave lofi",
+          "url": "https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Caribbean Latte",
+      "url": "https://open.spotify.com/track/5X9jS1tU1Hv2yPh4dGC1HH"
     },
     {
       "album": {

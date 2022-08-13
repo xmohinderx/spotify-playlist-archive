@@ -2712,6 +2712,24 @@
     },
     {
       "album": {
+        "name": "Come Around",
+        "url": "https://open.spotify.com/album/6tWDOvv8CoaWYBdnP11RBn"
+      },
+      "artists": [
+        {
+          "name": "frown line",
+          "url": "https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/4UsWjHgX1TBmBv9CiVjcSR"
+    },
+    {
+      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/1ixBdfxbLKDnkRLfpNJgir"
       },
@@ -3404,6 +3422,24 @@
     },
     {
       "album": {
+        "name": "Designated Driver",
+        "url": "https://open.spotify.com/album/3U7ZF5UANVBDXSOiSSHXhl"
+      },
+      "artists": [
+        {
+          "name": "Taylor Janzen",
+          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238946,
+      "name": "Designated Driver",
+      "url": "https://open.spotify.com/track/2sAUIlFLzyDMMI17TtohBf"
+    },
+    {
+      "album": {
         "name": "Dialtone (ft. Quiet Luke)",
         "url": "https://open.spotify.com/album/5efEMWTnI5NPDJ0fh55DG2"
       },
@@ -4093,6 +4129,24 @@
       "duration_ms": 220557,
       "name": "Edgewood",
       "url": "https://open.spotify.com/track/0LtwtBZ6zkKw4XOlqVQ9Wd"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135593,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID"
     },
     {
       "album": {
@@ -5898,6 +5952,24 @@
     },
     {
       "album": {
+        "name": "GROWN UP",
+        "url": "https://open.spotify.com/album/1PAJFnuUntrH4qzJpLI33s"
+      },
+      "artists": [
+        {
+          "name": "Raffaella",
+          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "GROWN UP",
+      "url": "https://open.spotify.com/track/5QwLklxCtdCBnSMBXt1Vmz"
+    },
+    {
+      "album": {
         "name": "Guard Down",
         "url": "https://open.spotify.com/album/5v6JyuSddGvPBgxxo04ljf"
       },
@@ -6205,6 +6277,24 @@
       "duration_ms": 190030,
       "name": "HEADSTART",
       "url": "https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI"
+    },
+    {
+      "album": {
+        "name": "Heartache & LSD: Act II",
+        "url": "https://open.spotify.com/album/7J5HDaAmLrKiecP8Qb9cGu"
+      },
+      "artists": [
+        {
+          "name": "Hauskey",
+          "url": "https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112665,
+      "name": "Heartache & LSD",
+      "url": "https://open.spotify.com/track/0KA6rBL9yNsGFBmujt1FZy"
     },
     {
       "album": {
@@ -8533,6 +8623,24 @@
       "duration_ms": 227904,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/5Kr72kgrS973p2pj2ljRt5"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/0nanElKiXhl3gLEyluduzv"
+      },
+      "artists": [
+        {
+          "name": "Emily Rowed",
+          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1DtdX9FfsysjfOXhVfGySB"
     },
     {
       "album": {
@@ -11097,7 +11205,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 208399,
       "name": "Path",
       "url": "https://open.spotify.com/track/1NKjucBIJZW67Q6MAD96dM"
@@ -11654,6 +11762,24 @@
     },
     {
       "album": {
+        "name": "pretty kids",
+        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159417,
+      "name": "pretty kids",
+      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
+    },
+    {
+      "album": {
         "name": "Producer Man",
         "url": "https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4"
       },
@@ -12059,6 +12185,24 @@
       "duration_ms": 167225,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/61BicZpuh5MfsFn8iqCP5h"
+    },
+    {
+      "album": {
+        "name": "Retriever",
+        "url": "https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI"
+      },
+      "artists": [
+        {
+          "name": "Braids",
+          "url": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569013,
+      "name": "Retriever",
+      "url": "https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07"
     },
     {
       "album": {
@@ -15212,6 +15356,24 @@
     },
     {
       "album": {
+        "name": "THREAT",
+        "url": "https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170793,
+      "name": "THREAT",
+      "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
+    },
+    {
+      "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/5AVyDFH7uijN9sXikqMzIT"
       },
@@ -16051,6 +16213,24 @@
       "duration_ms": 186891,
       "name": "war outside",
       "url": "https://open.spotify.com/track/7IXCfadpx5y8O37WojfLUp"
+    },
+    {
+      "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/6x5ktAlJxev8IvJhWDuMZn"
+      },
+      "artists": [
+        {
+          "name": "Stefani Kimber",
+          "url": "https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193973,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/2qDMEgMtjFbsQnnRigRBuu"
     },
     {
       "album": {
@@ -17113,6 +17293,24 @@
       "duration_ms": 170663,
       "name": "\u200etemperature",
       "url": "https://open.spotify.com/track/1VrZAeQzy6PL8rqWwJDnz2"
+    },
+    {
+      "album": {
+        "name": "\u200erubber \u200echecks",
+        "url": "https://open.spotify.com/album/6Rfaj1WW6a9B1wjjP77fpC"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145723,
+      "name": "\u200ewhiskey",
+      "url": "https://open.spotify.com/track/0bRq2UOu3CNuH0dvwukfMc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz"

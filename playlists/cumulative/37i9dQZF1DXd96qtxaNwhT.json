@@ -6994,6 +6994,24 @@
     },
     {
       "album": {
+        "name": "swan song",
+        "url": "https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220620,
+      "name": "swan song",
+      "url": "https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0"
+    },
+    {
+      "album": {
         "name": "Symptomatic (Acoustic)",
         "url": "https://open.spotify.com/album/1GlFnneEXDJ9TxquYq37r2"
       },

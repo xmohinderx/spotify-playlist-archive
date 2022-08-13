@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,286 likes - 103 songs - 5 hr 48 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,286 likes - 107 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,9 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 101 | [Into The Night](https://open.spotify.com/track/36NDrXStsbcDfQWVKlAj0p) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Eilish Gilligan](https://open.spotify.com/artist/65LDkZn0JiySoZODomsvVQ) | [Into The Night](https://open.spotify.com/album/37NLypcnxqNBPzPuoJYcVS) | 2:30 |
 | 102 | [Till The End](https://open.spotify.com/track/4Psbem3tgJxKbUj4NRh5EP) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Till The End](https://open.spotify.com/album/4JUSYSkveU192hf1FXHCSk) | 3:42 |
 | 103 | [fallforu](https://open.spotify.com/track/4PHm7uYgyYNQ5Kl2t4MU3D) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [intothedeep](https://open.spotify.com/album/39HS7epzzW2dowDQWJP047) | 2:36 |
+| 104 | [We Like To Wuki](https://open.spotify.com/track/61EyDcgpYujFLrvd60da0l) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj), [Yo Majesty](https://open.spotify.com/artist/02QcKlcRiv2tXgI669XopZ) | [We Like To Wuki](https://open.spotify.com/album/5gVIZpWenjQfrJXV7XZi5B) | 2:41 |
+| 105 | [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 |
+| 106 | [Beloved](https://open.spotify.com/track/3A0CuG6A2FsdwwLyva84r1) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 3:19 |
+| 107 | [love ya](https://open.spotify.com/track/1hTENYTuKFe5x0MRNqF2ET) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [love ya](https://open.spotify.com/album/26jcbTMMY51TUr1UVWyUVv) | 3:07 |
 
-Snapshot ID: `OTkxMyxlZmJhMzQyMTYzMmZkMmJiYzRkOWE4YTYzMzI5MjkyOWIzZmFlZjBm`
+Snapshot ID: `OTkxNyxjNThiNTk1N2VmOWMxY2FmZTY0M2E4MjZjMjYzZDczZjc0MzA2ODg1`

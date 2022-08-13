@@ -1,13 +1,97 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Kayla Rivera, Artwork: Isu Kim\n",
-  "num_followers": 50797,
+  "num_followers": 50812,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzMzYwMCwwMDAwMDAwMGUxZjA2NDljOTBkNjAxMTAwYmFhYzJmYWMwZTM5YzVm",
+  "snapshot_id": "MTY2MDIzMzYwMCwwMDAwMDAwMDYzMjcyMTMxZGFlMTU2YThiYTEzMTdlMTk5OTAyMTEx",
   "tracks": [
+    {
+      "added_at": "2022-08-11 16:00:00",
+      "album": {
+        "name": "Tahan Na",
+        "url": "https://open.spotify.com/album/1eXSXdzyjzdS0bhFur8QOt"
+      },
+      "artists": [
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Tahan Na",
+      "url": "https://open.spotify.com/track/0m7pOyvve4OIgOUUEQJCVo"
+    },
+    {
+      "added_at": "2022-08-11 16:00:00",
+      "album": {
+        "name": "Half Love",
+        "url": "https://open.spotify.com/album/6Nz6bQZN8Mgjs4xdZSQgxk"
+      },
+      "artists": [
+        {
+          "name": "Kayla Rivera",
+          "url": "https://open.spotify.com/artist/2RIwZQX2wtee7rC9HuAniF"
+        }
+      ],
+      "duration_ms": 254328,
+      "name": "Half Love",
+      "url": "https://open.spotify.com/track/4Oy1lxi9HUox4E81EWPqln"
+    },
+    {
+      "added_at": "2022-08-11 16:00:00",
+      "album": {
+        "name": "Kailan",
+        "url": "https://open.spotify.com/album/00yf5ep7bowGG37RbNtUAe"
+      },
+      "artists": [
+        {
+          "name": "Nikki Bagaporo",
+          "url": "https://open.spotify.com/artist/14ac78ehOboCnImB2jAjNm"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Kailan",
+      "url": "https://open.spotify.com/track/52Yq7wduDIG5MmFD38JlHK"
+    },
+    {
+      "added_at": "2022-08-11 16:00:00",
+      "album": {
+        "name": "Dalaga",
+        "url": "https://open.spotify.com/album/3rsXgjDLME4zZ9gZ6iVjP9"
+      },
+      "artists": [
+        {
+          "name": "Morning After",
+          "url": "https://open.spotify.com/artist/0COdFByZShouhAnOk4hOBr"
+        }
+      ],
+      "duration_ms": 269313,
+      "name": "Dalaga",
+      "url": "https://open.spotify.com/track/3BgjlW3RLTrT5hd46bQMWf"
+    },
+    {
+      "added_at": "2022-08-11 16:00:00",
+      "album": {
+        "name": "Makapangyarihang bakla",
+        "url": "https://open.spotify.com/album/6WbIH8tNF8olrQBXG8CV4h"
+      },
+      "artists": [
+        {
+          "name": "Mejico Legal",
+          "url": "https://open.spotify.com/artist/0Rf6qXeI20fxp70GIpwsSw"
+        },
+        {
+          "name": "JP Bacallan",
+          "url": "https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG"
+        }
+      ],
+      "duration_ms": 200711,
+      "name": "Makapangyarihang bakla",
+      "url": "https://open.spotify.com/track/2yVmk6TaxxWhzzhs5L3Fdm"
+    },
     {
       "added_at": "2022-08-11 16:00:00",
       "album": {
@@ -27,6 +111,22 @@
     {
       "added_at": "2022-08-11 16:00:00",
       "album": {
+        "name": "Hello Vegas",
+        "url": "https://open.spotify.com/album/6900aefLceRVtvlhjRZX9B"
+      },
+      "artists": [
+        {
+          "name": "february bank",
+          "url": "https://open.spotify.com/artist/69dHAdz8lUpJir75KFfdlY"
+        }
+      ],
+      "duration_ms": 243657,
+      "name": "Hello Vegas",
+      "url": "https://open.spotify.com/track/1I5ir36i4MUQclxp9PWZB9"
+    },
+    {
+      "added_at": "2022-08-11 16:00:00",
+      "album": {
         "name": "Mukhang Pera Sa'yo",
         "url": "https://open.spotify.com/album/1YhGYOTwLi6zi2r8zKak92"
       },
@@ -39,6 +139,42 @@
       "duration_ms": 227010,
       "name": "Mukhang Pera Sa'yo",
       "url": "https://open.spotify.com/track/24sab7SJGXla3e4Tkk26Nq"
+    },
+    {
+      "added_at": "2022-08-11 16:00:00",
+      "album": {
+        "name": "Itsapwera",
+        "url": "https://open.spotify.com/album/5gq2DESulguY6y1xjKJmDd"
+      },
+      "artists": [
+        {
+          "name": "Pik Nik",
+          "url": "https://open.spotify.com/artist/6sunnm33ZrsSZHQYYAVWoU"
+        },
+        {
+          "name": "Daniella Silab",
+          "url": "https://open.spotify.com/artist/4psqJNcqOn0RtOzMbCXkV6"
+        }
+      ],
+      "duration_ms": 217599,
+      "name": "Itsapwera",
+      "url": "https://open.spotify.com/track/2rjXoUtpKdlQyysKjtqjHX"
+    },
+    {
+      "added_at": "2022-08-11 16:00:00",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0gLZjk2jlHVQOPORfj9jh9"
+      },
+      "artists": [
+        {
+          "name": "Jace Roque",
+          "url": "https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/2BGVkX3mVS4bIoH43jupjY"
     },
     {
       "added_at": "2022-08-11 16:00:00",

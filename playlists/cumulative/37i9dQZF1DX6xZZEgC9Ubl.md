@@ -2,9 +2,9 @@
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> Emo rap feels for the misunderstood\. Cover: Brennan Savage
+> Emo rap feels for the misunderstood\. Cover: 347aidan
 
-711 songs - 1 day 8 hr 28 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+712 songs - 1 day 8 hr 30 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [fast life](https://open.spotify.com/track/1Nvwf85oHWAtYztjqy573y) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [fast life](https://open.spotify.com/album/0G8riNvPKOtCMzjMyLZDvr) | 2:27 | 2022-01-14 | 2022-07-29 |
 | [Faygo Dreams](https://open.spotify.com/track/2BoeDIEzoS9diuyaqqVaDh) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [6 Dogs](https://open.spotify.com/album/7MoQNK5aaepVd9ERN1bytY) | 2:51 | 2021-02-22 | 2021-03-06 |
 | [Feather](https://open.spotify.com/track/3TBKXtDKPVlL9dN6Am297J) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Feather](https://open.spotify.com/album/6BKwFWO9V8PJtyaxohWPt3) | 3:31 | 2021-01-15 | 2021-04-24 |
-| [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/track/2gfssLSjUEqJnrGyHMWemS) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/album/767SOFGVixK5ZGpKVPZhgn) | 2:44 | 2022-07-29 |  |
+| [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/track/2gfssLSjUEqJnrGyHMWemS) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/album/767SOFGVixK5ZGpKVPZhgn) | 2:44 | 2022-07-29 | 2022-08-13 |
 | [FEEL SOMETHING \(feat\. Marshmello\)](https://open.spotify.com/track/1yP6g2Ka4CisR3i2cuIcjK) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:19 | 2020-12-13\* |  |
 | [feelz](https://open.spotify.com/track/1wxlGbYus0B1Hx3ZRylTO4) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [feelz](https://open.spotify.com/album/6aajhaqtA4RbAQCWL86iXx) | 2:25 | 2022-05-20 | 2022-05-24 |
 | [Feline \(with Polo G & Trippie Redd\)](https://open.spotify.com/track/5R4Yrc2j4jw1itr4hKcN26) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:32 | 2021-12-10 | 2022-02-14 |
@@ -248,7 +248,7 @@
 | [GONE](https://open.spotify.com/track/565VkYvqOmtu7zNvj9Znm8) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [GONZO](https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw) | 2:46 | 2022-07-15 | 2022-07-28 |
 | [gone girl](https://open.spotify.com/track/3iH29NcCxYgI5shlkZrUoB) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Industry Plant](https://open.spotify.com/album/5UuzudgFxwLkxC1LFajC5e) | 2:16 | 2022-07-22 |  |
 | [gone girl](https://open.spotify.com/track/6G0FACzGN80Dj2v4ass5rq) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [gone girl](https://open.spotify.com/album/6ZhOC5xr3JOdr7hmQTSqyR) | 2:16 | 2020-12-13\* | 2021-07-01 |
-| [Good News](https://open.spotify.com/track/43SWVKMD9mVUAwx8pkmWbV) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Ode](https://open.spotify.com/album/20e4uXVD8PBrziY0YtsTPi) | 3:37 | 2022-07-29 |  |
+| [Good News](https://open.spotify.com/track/43SWVKMD9mVUAwx8pkmWbV) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Ode](https://open.spotify.com/album/20e4uXVD8PBrziY0YtsTPi) | 3:37 | 2022-07-29 | 2022-08-13 |
 | [gray!](https://open.spotify.com/track/5qQTnPNyBrOxHdDQ8W1sRF) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [gray!](https://open.spotify.com/album/6hjBai5R2bp2ID90RLTKO2) | 2:23 | 2021-04-30 | 2021-06-19 |
 | [great](https://open.spotify.com/track/3fMhB9MljklvNMjxokHoiJ) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [great](https://open.spotify.com/album/1Up5Jm0mcACjJNDBPFXQ2c) | 3:09 | 2021-12-17 | 2022-06-18 |
 | [Gtfo](https://open.spotify.com/track/5tHpWIBg2HIsTECsokcd4E) | [Brandon Taylor](https://open.spotify.com/artist/4Uf1sekxK8FGPkJJpTLWN1) | [Gtfo](https://open.spotify.com/album/6ylutEAwpUC4TRRGdwWOqs) | 2:23 | 2020-12-13\* | 2021-02-08 |
@@ -570,6 +570,7 @@
 | [SO BAD SO WHAT](https://open.spotify.com/track/1AKk2TFBIVfjHQBIm60Z3F) | [Colby Lafayette](https://open.spotify.com/artist/5D28O29XHRpautDpiaha2K) | [SO BAD SO WHAT](https://open.spotify.com/album/21VTVBAaGLYuLd5RBOklHo) | 2:36 | 2020-12-13\* | 2021-02-27 |
 | [SO DONE](https://open.spotify.com/track/5psEZhQu6lukjhavJo4AbC) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SO DONE](https://open.spotify.com/album/5fyH2H1o23bLNIxGu9JcMq) | 2:06 | 2020-12-13\* | 2022-04-23 |
 | [so long forgotten](https://open.spotify.com/track/7d45FbYPYdVwFqecKMjlrC) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Seon](https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8) | [so long forgotten](https://open.spotify.com/album/4GLLQ1Dx1I8k9DYb1MWTXt) | 3:19 | 2021-02-22 | 2021-03-14 |
+| [so what!](https://open.spotify.com/track/1UTnLtgadp10wkFrDWXn3u) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [so what!](https://open.spotify.com/album/600i38QcfI9f9rZZUNzRiA) | 2:04 | 2022-08-12 |  |
 | [Social Anxiety](https://open.spotify.com/track/0MZ2kETP6klE6mn7UlVoEP) | [Skye](https://open.spotify.com/artist/0sHIsJteyLhBYwKgF3Vfg2) | [Social Anxiety](https://open.spotify.com/album/4CiiKySVjaZGCqBqskiyzy) | 2:07 | 2020-12-13\* | 2021-07-01 |
 | [Someday](https://open.spotify.com/track/2GOihJe5nJysbyVYnoUf9N) | [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [Someday](https://open.spotify.com/album/1STShZXeJsVHLBR9FAnvqx) | 2:36 | 2021-08-07 | 2022-07-29 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-10 | 2022-04-02 |
@@ -661,7 +662,7 @@
 | [UNKNOWN](https://open.spotify.com/track/0Z8h8JgHnvyYXY0VLT0YXH) | [prettyboys](https://open.spotify.com/artist/2gEcnCymek6QgS9DfQF3UZ) | [UNKNOWN](https://open.spotify.com/album/3indV6cCInris0c4k2cWpy) | 3:32 | 2021-10-29 | 2022-04-17 |
 | [Up Up and Away](https://open.spotify.com/track/5MzAdOahVsGuDw40wOcZmJ) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Epochs](https://open.spotify.com/album/4F5BxxBPbLidRGBYdMsGug) | 3:34 | 2020-12-18 | 2021-04-24 |
 | [USED2KNOW](https://open.spotify.com/track/1AypGrF9hgXuCpvt2b8BEY) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [WITH OR WITHOUT YOU](https://open.spotify.com/album/34SV634wGtLESb5QalBf32) | 2:33 | 2022-01-28 | 2022-07-29 |
-| [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 | 2021-09-17 | 2022-08-09 |
+| [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 | 2021-09-17 |  |
 | [Vacant](https://open.spotify.com/track/23zIyee1HHriTZoZYn2APq) | [Nuski2Squad](https://open.spotify.com/artist/3uP53hX8J0OwqD4Qnbe59z) | [Vacant](https://open.spotify.com/album/6F5E14BlDPGq7JIkHJYR4u) | 2:20 | 2021-10-11 | 2021-10-13 |
 | [Vampire Diaries](https://open.spotify.com/track/186ZanMiBD5iuy9vfsi5lA) | [Bad Neighbors](https://open.spotify.com/artist/06q2qsH9V7Ayk2DQmM03Ez), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Vampire Diaries](https://open.spotify.com/album/6k7oTN81ZtUb2WH6qDlvYm) | 3:24 | 2022-04-11 | 2022-07-29 |
 | [VANISH](https://open.spotify.com/track/5rmHtbUCbjFqmeoOuP9b7B) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [VANISH](https://open.spotify.com/album/64SC9qBRHXTwA8bkN5yfVI) | 2:10 | 2021-10-29 | 2022-07-29 |

@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 149788,
       "name": "It's A Hard Knock Life - Prezioso Remix",
       "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
@@ -1955,7 +1955,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 184687,
       "name": "Kids (feat. MKLA)",
       "url": "https://open.spotify.com/track/3rgTS3933lMWoPiN6CW4qY"
@@ -2147,7 +2147,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 176388,
       "name": "Like Gold",
       "url": "https://open.spotify.com/track/5seWZTjT0U8a7cy3Y5NJQ9"
@@ -2305,6 +2305,24 @@
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe"
+    },
+    {
+      "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
     },
     {
       "album": {
@@ -2669,7 +2687,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 145320,
       "name": "One More Dance (with Alida)",
       "url": "https://open.spotify.com/track/2aOK6TRYn4DneIBHJOAQ4r"
@@ -3501,7 +3519,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 167015,
       "name": "Superpowers - Dimitri Vegas Edit",
       "url": "https://open.spotify.com/track/1eWsKIHgYzYCMRwSwnNVE9"

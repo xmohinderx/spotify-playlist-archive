@@ -2,7 +2,7 @@
 
 ### [Energy Booster: Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZixSclZdoFE)
 
-> Need to get your energy level up? This will help!
+> Need to get your energy level up?
 
 396 songs - 23 hr 29 min - [published](https://open.spotify.com/playlist/5CbAsG9fBWO5F8hAWrZOHQ)
 

@@ -1,13 +1,29 @@
 {
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Cedric Burnside",
-  "num_followers": 413164,
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
+  "num_followers": 413251,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDA4ZTQ3MjVjYjc5MDU0ZmFjMzE2MDI3OWRjZTYwMzU5",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGIyY2EyOGVhOTBmNTAwZGU2M2FhZDI1NDc1YzkwNmIy",
   "tracks": [
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Pensive Pop",
+        "url": "https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Chained To The Rhythm",
+      "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
+    },
     {
       "added_at": "2022-07-26 14:55:05",
       "album": {
@@ -41,40 +57,20 @@
       "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
-      "added_at": "2022-08-05 04:02:00",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Modern Songwriters Vol. 1 (Hiss Golden Messenger)",
-        "url": "https://open.spotify.com/album/6iLfP1B6qKkDUHG4MAyV5c"
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
       },
       "artists": [
         {
-          "name": "Andy Sydow",
-          "url": "https://open.spotify.com/artist/3wriMPzjc6B2yfJzzgIGhE"
-        },
-        {
-          "name": "AJ Fullerton",
-          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
         }
       ],
-      "duration_ms": 207135,
-      "name": "Standing In The Doorway",
-      "url": "https://open.spotify.com/track/4JxTF9cczFqEYFd1aJIl3W"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
+      "duration_ms": 193786,
+      "name": "Profit",
+      "url": "https://open.spotify.com/track/4kw9x3gkvWRNk3IIv6cYGW"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -93,52 +89,20 @@
       "url": "https://open.spotify.com/track/01AQQxjgUOsRJGiif0rzNj"
     },
     {
-      "added_at": "2022-08-05 04:02:00",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "The Battle of Atlanta",
-        "url": "https://open.spotify.com/album/3UmdOo3j5KVnz4KBCtzu9K"
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
       },
       "artists": [
         {
-          "name": "Lee Bains + The Glory Fires",
-          "url": "https://open.spotify.com/artist/1oTNCl6SRphYGb9NQ0toVE"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 316213,
-      "name": "The Battle of Atlanta",
-      "url": "https://open.spotify.com/track/6vwDgv1N8Iyv8YyMDpuUqx"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Hitchin' a Ride",
-        "url": "https://open.spotify.com/album/52GMS1garIMItzvmogm1MF"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 270820,
-      "name": "Hitchin' a Ride",
-      "url": "https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "What's Real",
-        "url": "https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF"
-      },
-      "artists": [
-        {
-          "name": "Drew Foust",
-          "url": "https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE"
-        }
-      ],
-      "duration_ms": 248051,
-      "name": "What's Real",
-      "url": "https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3"
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -155,6 +119,22 @@
       "duration_ms": 213136,
       "name": "Mad About You",
       "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "What's Real",
+        "url": "https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF"
+      },
+      "artists": [
+        {
+          "name": "Drew Foust",
+          "url": "https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE"
+        }
+      ],
+      "duration_ms": 248051,
+      "name": "What's Real",
+      "url": "https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -205,6 +185,22 @@
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
     },
     {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
+    },
+    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Sound & Color (Deluxe)",
@@ -223,18 +219,18 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 233413,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
+      "duration_ms": 242520,
+      "name": "Mrs.",
+      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -251,22 +247,6 @@
       "duration_ms": 334360,
       "name": "Hard To Stay Cool",
       "url": "https://open.spotify.com/track/5mkwcdqarspFI0bbMfzAum"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 242520,
-      "name": "Mrs.",
-      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -721,6 +701,22 @@
       "url": "https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5"
     },
     {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Hitchin' a Ride",
+        "url": "https://open.spotify.com/album/52GMS1garIMItzvmogm1MF"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 270820,
+      "name": "Hitchin' a Ride",
+      "url": "https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN"
+    },
+    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Black Widow",
@@ -751,6 +747,22 @@
       "duration_ms": 247478,
       "name": "Amen",
       "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
+    },
+    {
+      "added_at": "2022-07-26 14:55:05",
+      "album": {
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 130276,
+      "name": "Knew The Day Was Comin'",
+      "url": "https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -805,22 +817,6 @@
       "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
     },
     {
-      "added_at": "2022-07-26 14:55:05",
-      "album": {
-        "name": "Bloodline Maintenance",
-        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 130276,
-      "name": "Knew The Day Was Comin'",
-      "url": "https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "POWER",
@@ -853,22 +849,6 @@
       "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Face Your Fear",
@@ -899,6 +879,22 @@
       "duration_ms": 262426,
       "name": "Got Love - Made In Muscle Shoals",
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-01-28 05:01:00",

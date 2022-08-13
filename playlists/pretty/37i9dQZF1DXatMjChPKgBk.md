@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 
 > Dinner music that includes well known and new tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,172 likes - 250 songs - 15 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,303 likes - 250 songs - 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 | 249 | [Fool](https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 |
 | 250 | [Do It To Me](https://open.spotify.com/track/1tKxrKBYIIykuLvipSWfgy) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 6:03 |
 
-Snapshot ID: `MTY2MDIxMDY3MSwwMDAwMDAwMDJjNmUwZGQ5MDk2ZGM2NmRjYTc5ODk3MmNmYmQ0ZDMx`
+Snapshot ID: `MTY2MDI4OTE0MSwwMDAwMDAwMGQxNzI0YTA5ZDY1OGJkYzkxMjEzNmNhOGFkMTlkMDJj`

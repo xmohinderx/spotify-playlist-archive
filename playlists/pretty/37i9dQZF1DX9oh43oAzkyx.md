@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,662 likes - 76 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,299,747 likes - 76 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [Thump Shit](https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 3:46 |
 | 76 | [Need It](https://open.spotify.com/track/6mtjo5kIHKlboGE84lf1FJ) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Need It](https://open.spotify.com/album/3L3WBqghAN3LeGZa5eRIBk) | 3:15 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMDM0NTA1MGU4MjM0ZGMzZWE0YTdkYjYwOTY1OTQ0OTQ4`
+Snapshot ID: `MTY2MDI3NzcxMiwwMDAwMDAwMGVkM2RkMTEyNmFjNjgxNTgxZjg4MTI2MDhhMTcxNGUz`

@@ -2,9 +2,9 @@
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\. Cover: <a href="https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=iTVSZI1LTiuiQNsbEmFzuA"> Mr Eazi </a>
+> The hottest Afropop records on the planet\. Cover: <a href="https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW?si=ilnXOEf6RyCGlkb\_LCZl6Q"> Jux </a>
 
-181 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/4ro2D5NHaC1uSUC6UDaKRz)
+182 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/4ro2D5NHaC1uSUC6UDaKRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-06-16 | 2022-07-01 |
 | [Next To You \(feat\. Vedo\)](https://open.spotify.com/track/2Yf6VGTvUNVKQcECiBwzrC) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Love is Not Enough](https://open.spotify.com/album/3LDOSp8pfaY6IdKBVJKEs5) | 2:33 | 2022-03-31 | 2022-04-02 |
 | [Next To You \(feat\. Vedo\)](https://open.spotify.com/track/3YoJLY6wG8qs9DdaGaCQbX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Love is Not Enough](https://open.spotify.com/album/4tCH2crJruCSAnwVHO1vJZ) | 2:33 | 2022-04-04 | 2022-04-16 |
+| [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 | 2022-08-12 |  |
 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 | 2022-07-07 |  |
 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 | 2021-09-27 | 2022-05-06 |
 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 | 2021-12-09 |  |
@@ -171,7 +172,7 @@
 | [Stayelo](https://open.spotify.com/track/6zoxyLUVHnpdED14Chbaz9) | [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [Island Water](https://open.spotify.com/album/7wq5MyCcMLbq1xbYwh411f) | 2:46 | 2022-01-28 | 2022-05-29 |
 | [Stranger](https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 3:43 | 2021-10-28 | 2022-04-16 |
 | [Summer Love](https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Summer Love](https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8) | 2:59 | 2022-06-02 | 2022-06-27 |
-| [Summer YoMuthi](https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summer Yomuthi](https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW) | 4:33 | 2021-09-27 |  |
+| [Summer YoMuthi](https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summer Yomuthi](https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW) | 4:33 | 2021-09-27 | 2022-08-13 |
 | [Sweetah](https://open.spotify.com/track/5UaMqWZYeTwPnAPMmGWrDg) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Sweetah](https://open.spotify.com/album/45US1zurGmfatH0ewaKNuD) | 3:16 | 2021-11-15 | 2022-04-15 |
 | [Sáré](https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Sáré](https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az) | 2:34 | 2022-02-17 | 2022-07-29 |
 | [Themba Lami \(feat\. Ami Faku\)](https://open.spotify.com/track/3DYKpGOFY06AONuqytJlya) | [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Themba Lami \(feat\. Ami Faku\)](https://open.spotify.com/album/4Igrf5yLQM2d8fFSfgZZtt) | 3:25 | 2022-07-29 |  |

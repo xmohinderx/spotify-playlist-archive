@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Tyler Hubbard
 
-137 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+138 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [WOMAN AT THE WELL](https://open.spotify.com/track/2fqHlRhWsA4YyRysR7FR4v) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [WOMAN AT THE WELL](https://open.spotify.com/album/24Yth0NqR6gEVUhMyMHKiG) | 3:29 | 2021-12-10 |  |
 | [Working On Sunday](https://open.spotify.com/track/64ZqOZGfgq4OABx1qN8Ftd) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [Working On Sunday](https://open.spotify.com/album/3dPIlZag9xByUbPjvaO7ji) | 3:20 | 2021-12-10 |  |
 | [You and Jesus](https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus](https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT) | 2:50 | 2022-04-15 |  |
+| [You Are](https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Deluxe\)](https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI) | 2:56 | 2022-08-12 |  |
 | [You Can Rest](https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit) | [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [You Can Rest](https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF) | 4:48 | 2022-04-15 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

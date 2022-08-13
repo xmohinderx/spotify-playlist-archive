@@ -4,7 +4,7 @@
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop!
 
-475 songs - 1 day 0 hr 26 min - [published](https://open.spotify.com/playlist/5yfnaPkFyTj76hzrAjgLmZ)
+476 songs - 1 day 0 hr 30 min - [published](https://open.spotify.com/playlist/5yfnaPkFyTj76hzrAjgLmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 | 2022-03-25 | 2022-03-30 |
 | [After All](https://open.spotify.com/track/38UDoZyudPWXLzXRAb71oP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [After All](https://open.spotify.com/album/3kxT5SN1GQ3j3kS9NHOsYI) | 3:28 | 2022-03-25 | 2022-06-29 |
 | [airplane thoughts](https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [airplane thoughts](https://open.spotify.com/album/3k8juVCkkKg3IG8gNOttWH) | 3:30 | 2022-04-08 | 2022-04-20 |
-| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-04-08 |  |
+| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-04-08 | 2022-08-13 |
 | [All Around The World](https://open.spotify.com/track/4ZOc7tJHDuOxQUL2TvGYYo) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [All Around The World](https://open.spotify.com/album/3tvtpKveoPpXjRSfZ4AYsA) | 3:05 | 2022-02-18 | 2022-07-29 |
 | [All Comes Back To You](https://open.spotify.com/track/4AkCyd9Nlbt8JprQq9V6o2) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All Comes Back To You](https://open.spotify.com/album/5sF8cTLQirqDYQWJwzxq87) | 2:40 | 2022-03-25 | 2022-04-05 |
 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 | 2022-03-25 | 2022-04-05 |
@@ -294,6 +294,7 @@
 | [New Wave](https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [New Wave EP](https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte) | 3:10 | 2022-03-25 | 2022-03-28 |
 | [Next Thing \(Loverboy\)](https://open.spotify.com/track/3pKgOC7tlm4W0sCDLWPuPE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Next Thing \(Loverboy\)](https://open.spotify.com/album/3KAvR6XKFMYWnOlC7jzevW) | 3:03 | 2022-04-04 | 2022-04-11 |
 | [Next Year \(feat\. Windser\)](https://open.spotify.com/track/4zncVqi72AX54I2JVIUq0N) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Next Year \(feat\. Windser\)](https://open.spotify.com/album/6Xi4YURDn7YBTTX3OuWoZb) | 2:53 | 2022-03-25 | 2022-04-06 |
+| [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2022-08-12 |  |
 | [NO news on TV](https://open.spotify.com/track/3Cd1ZqAtV6YcAWg4Ed0x0q) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [NO news on TV](https://open.spotify.com/album/1dWwHrQts87iideFkQ8ogC) | 3:05 | 2022-03-25 | 2022-04-18 |
 | [No Other Way](https://open.spotify.com/track/2NLCLJstWwUxjEc0sgVPtv) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [No Other Way](https://open.spotify.com/album/2r0gxUcjoKqB8WrEEdCwwf) | 2:27 | 2022-03-25 | 2022-04-18 |
 | [No Roots](https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi) | 3:57 | 2022-03-25 | 2022-04-20 |

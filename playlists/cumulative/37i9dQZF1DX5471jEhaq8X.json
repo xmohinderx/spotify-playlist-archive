@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover: Herencia de Patrones",
+  "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover:  Aldo Trujillo, Betillo Guerrero.",
   "name": "Corridos 2022",
   "published_playlist_ids": [
     "6mIhFs7U6KoLfn5GxVWgA4"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 206208,
       "name": "Aqui Seguimos",
       "url": "https://open.spotify.com/track/0JeMF25cnyvmt0K1fEztIf"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 187478,
       "name": "Belico Y Tenebroso",
       "url": "https://open.spotify.com/track/49lu1CnlMDb1ZxMUShXooE"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195250,
       "name": "Bloody Steps",
       "url": "https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY"
@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "De Eso Se Trata",
+        "url": "https://open.spotify.com/album/4xf4CpJ7t9eFdEiWOowDm8"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208919,
+      "name": "De Eso Se Trata",
+      "url": "https://open.spotify.com/track/4flMkf6UihqV8CzBhjPTWY"
+    },
+    {
+      "album": {
         "name": "Del Barrio",
         "url": "https://open.spotify.com/album/63BoqY5Mcs2obz6ZLdWDN8"
       },
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 193187,
       "name": "El Chikillo Mafias - En Vivo",
       "url": "https://open.spotify.com/track/4zq7CTQNv37v2ghRWrTh2t"
@@ -1355,6 +1373,24 @@
       "duration_ms": 195750,
       "name": "El Fendi",
       "url": "https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY"
+    },
+    {
+      "album": {
+        "name": "El Fugitivo",
+        "url": "https://open.spotify.com/album/0BJXARzPuTj3mNYGRBs28t"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169145,
+      "name": "El Fugitivo",
+      "url": "https://open.spotify.com/track/3HevcnYdnqtS0MvtyWkOg5"
     },
     {
       "album": {
@@ -2442,6 +2478,28 @@
     },
     {
       "album": {
+        "name": "Huelo A Logro (Live)",
+        "url": "https://open.spotify.com/album/7bv10kqAw8E4ckAgGAE7ZF"
+      },
+      "artists": [
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        },
+        {
+          "name": "Tony Loya",
+          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302968,
+      "name": "Huelo A Logro (Live)",
+      "url": "https://open.spotify.com/track/4wQlgWVHhzzci6pkPrqK1G"
+    },
+    {
+      "album": {
         "name": "Huevos De Toro (En Vivo)",
         "url": "https://open.spotify.com/album/2gvSGbTUsG4EqtRFYwT1Sj"
       },
@@ -2864,6 +2922,28 @@
     },
     {
       "album": {
+        "name": "La Oferta",
+        "url": "https://open.spotify.com/album/28KxcUkrJupIVpYPn4RWgj"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165609,
+      "name": "La Oferta",
+      "url": "https://open.spotify.com/track/0mRiJmaycYKj6hO8lSTWqo"
+    },
+    {
+      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -3188,6 +3268,24 @@
     },
     {
       "album": {
+        "name": "Los Chilos Del Pueblo (En Vivo)",
+        "url": "https://open.spotify.com/album/4EOP7sFK2szTt3evJsqQQ4"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247466,
+      "name": "Los Chilos Del Pueblo - En Vivo",
+      "url": "https://open.spotify.com/track/6MGz853UtR79EUmRawZhSw"
+    },
+    {
+      "album": {
         "name": "El Mes de las Madres",
         "url": "https://open.spotify.com/album/2etqy6hrli7GLhrCNrbLeY"
       },
@@ -3337,7 +3435,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 144621,
       "name": "Mas Cabrona Que Bonita",
       "url": "https://open.spotify.com/track/47qaLsUxBVX56IgAV2fn6F"
@@ -3525,6 +3623,24 @@
       "duration_ms": 270971,
       "name": "Mr. Seal the Deal",
       "url": "https://open.spotify.com/track/0HIIT1vaPTt5CuYZ74sonO"
+    },
+    {
+      "album": {
+        "name": "Pinch3 Polo",
+        "url": "https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Muy Criticado",
+      "url": "https://open.spotify.com/track/0fVPo3kDYTcH4LNVgjK5K9"
     },
     {
       "album": {
@@ -4203,7 +4319,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 207098,
       "name": "Siempre Mas y Mas",
       "url": "https://open.spotify.com/track/4PAJgXkeMLpABckAFah1Mj"
@@ -4355,7 +4471,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 137697,
       "name": "Tirando El Rol",
       "url": "https://open.spotify.com/track/5ZtQ41JzNrJDIWNVuvBnnY"
@@ -4431,7 +4547,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 173568,
       "name": "Una Cruz",
       "url": "https://open.spotify.com/track/7EI3NvlzFohsgu0C418aJe"

@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-127 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+128 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Sunday Afternoon](https://open.spotify.com/track/2Wh7EN2hw9LMQ5yCDByuZY) | [Sam Edwards](https://open.spotify.com/artist/4LPoFO74bCM3VqcLryqJqZ) | [Venezia Dreams](https://open.spotify.com/album/3Mh1ys1CHwfETM4yE79in2) | 3:11 | 2022-03-03 |  |
 | [Sunny Day At The River](https://open.spotify.com/track/78wvzrH354CbXzyJOdz7vc) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Sunny Day At The River](https://open.spotify.com/album/4V28B4rAAoibvEkwH8ykbU) | 4:22 | 2022-03-03 |  |
 | [The Little Island Bossa](https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [The Little Island Bossa](https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW) | 4:06 | 2022-03-03 |  |
+| [The Tragic \(No\. 14, Op\. 60\)](https://open.spotify.com/track/2wzTmHfhti5MICzrnieisR) | [Ricardo Alves Pereira](https://open.spotify.com/artist/7D7x8UG2oPE8pG5t9FDJrF), [Fernando Sor](https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd) | [The Foundation \(Classical Guitar Works by Fernando Sor, Op\. 60\)](https://open.spotify.com/album/4wNM5zLKNB2aWrya7e1pmo) | 1:50 | 2022-08-12 |  |
 | [The Wholehearted \(No\. 19, Op\. 60, Fernando Sor\)](https://open.spotify.com/track/3ACIugQLGsqEEFP3cTMDCj) | [Ricardo Alves Pereira](https://open.spotify.com/artist/7D7x8UG2oPE8pG5t9FDJrF) | [The Wholehearted \(No\. 19, Op\. 60, Fernando Sor\)](https://open.spotify.com/album/4JlJJv2vgidqPJbCZ0qXCw) | 2:11 | 2022-07-22 |  |
 | [The Wizard of Oz \(arr\. J\. Carter\): Wizard of Oz: Epilogue \- Over the Rainbow](https://open.spotify.com/track/0dqTvunQcHw7WscGn3zoNv) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1), [John Stubberfield](https://open.spotify.com/artist/77ze7bd3cvDho2XbA7t8yg), [Martin Entwistle](https://open.spotify.com/artist/5F2HOKGYHiZ0ideI9s52yU) | [Carter Jason: Eclipse](https://open.spotify.com/album/0OksXOwEMDQKSZkPlwXtik) | 2:30 | 2022-07-29 |  |
 | [The Wizard of Oz: Wizard of Oz: Epilogue \- Over the Rainbow \(Arr\. J\. Carter\)](https://open.spotify.com/track/6OaQyNygMG3yPXorRWzIk9) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1), [John Stubberfield](https://open.spotify.com/artist/77ze7bd3cvDho2XbA7t8yg), [Martin Entwistle](https://open.spotify.com/artist/5F2HOKGYHiZ0ideI9s52yU) | [Carter Jason: Eclipse](https://open.spotify.com/album/06bFj3ozQnZXG8qg2Uk7rL) | 2:30 | 2022-03-03 | 2022-07-29 |

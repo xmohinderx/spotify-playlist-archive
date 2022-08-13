@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,361 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,380 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Sky](https://open.spotify.com/track/4cUIXgusfY382xu0JCIXrl) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Sky](https://open.spotify.com/album/1V3slxpwvt8VioYBmnzEdT) | 3:39 |
 | 50 | [Model House \(Feat\. Koonta\)](https://open.spotify.com/track/2au4vnPtLBMAHnjH6fmi93) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:25 |
 
-Snapshot ID: `MTY1OTUwOTgyNywwMDAwMDAwMDAwZDdhNDg5MDA3MmIxZTJkN2Q5OTgwYTI2ZjUxYjFm`
+Snapshot ID: `MTY2MDMyNzUwNSwwMDAwMDAwMDg5ZDA0MDQyZWVlNjM4MTgwZDdmMzQ1YjZmNDgxNThm`

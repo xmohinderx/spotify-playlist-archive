@@ -1,472 +1,452 @@
 {
-  "description": "A free space for Indigenous creators in Canada. Currently curated by Boslen",
-  "num_followers": 35549,
+  "description": "A free space for Indigenous creators in Canada. Currently curated by DJ Shub.",
+  "num_followers": 35630,
   "original_name": "Indigenous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA1MTM5MSwwMDAwMDAwMDhjM2Y5NzA2YWIxYjRmN2YzYjI5MjZkODcyNGExMDRl",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMGFjMmU0ZmI4OWU1OTFhY2RmYTE5Nzk1MTYzZDFiYzFh",
   "tracks": [
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "GONZO",
-        "url": "https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw"
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/5EavHFxLU5Gp3vqlnNV7XX"
       },
       "artists": [
         {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
         }
       ],
-      "duration_ms": 166238,
-      "name": "GONE",
-      "url": "https://open.spotify.com/track/565VkYvqOmtu7zNvj9Znm8"
+      "duration_ms": 226125,
+      "name": "We Were Here",
+      "url": "https://open.spotify.com/track/3nZeNdTDJEbueP1w5bWRRQ"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "TRAPLINE",
-        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
+        "name": "War Club",
+        "url": "https://open.spotify.com/album/4mVICgR5RgRAOZ63QgN2Pl"
       },
       "artists": [
+        {
+          "name": "DJ Shub",
+          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
+        },
         {
           "name": "Snotty Nose Rez Kids",
           "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        }
+      ],
+      "duration_ms": 175531,
+      "name": "War Club (feat. Snotty Nose Rez Kids)",
+      "url": "https://open.spotify.com/track/6TL5wswOlpK0Xgzgxpp1PN"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Mr. Tie",
+        "url": "https://open.spotify.com/album/3SsNmWZUbC8MAFb3jJARGN"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "duration_ms": 223449,
+      "name": "Mr. Tie",
+      "url": "https://open.spotify.com/track/1aox5MyZSW95mWLjyk2JIH"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Thunderbird",
+        "url": "https://open.spotify.com/album/404e7x6YmiTvr8fWZCLbII"
+      },
+      "artists": [
+        {
+          "name": "Leonard Sumner",
+          "url": "https://open.spotify.com/artist/0MYSpdiE9Jp6GBTsNvlZQ5"
+        }
+      ],
+      "duration_ms": 193032,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/6LD0gIqdueMxiH3xPDKWRE"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Penimitawe Ota",
+        "url": "https://open.spotify.com/album/086EnbvULCJAEmZ4YQghWA"
+      },
+      "artists": [
+        {
+          "name": "The Resilience",
+          "url": "https://open.spotify.com/artist/7I7yu4Dlg4XTxwDHORmjGs"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "Penimitawe Ota",
+      "url": "https://open.spotify.com/track/2QNYy4o5DGjCSZDNT5vfsQ"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Damage Control",
+        "url": "https://open.spotify.com/album/14GnYk2R70GPph03EC1Kof"
+      },
+      "artists": [
+        {
+          "name": "Nimkish",
+          "url": "https://open.spotify.com/artist/2wanSS60dzfQZZlkp8yswA"
         },
         {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+          "name": "Biawanna",
+          "url": "https://open.spotify.com/artist/6t0pwOjbOSSqIkIzVaDYtg"
         }
       ],
-      "duration_ms": 253752,
-      "name": "Creator Made an Animal",
-      "url": "https://open.spotify.com/track/0ky2juni62dPFJb6hkmDGR"
+      "duration_ms": 187013,
+      "name": "Fades",
+      "url": "https://open.spotify.com/track/5BpmwiFzXCe0qvpizRSLjB"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/2I6GTF6eseBJpbqev7tMLL"
+        "name": "Medicine Bundle",
+        "url": "https://open.spotify.com/album/2r3gLQ6odkvTowpP2RBdeQ"
       },
       "artists": [
         {
-          "name": "Dakota Bear",
-          "url": "https://open.spotify.com/artist/25MEoFUjbq3v7Tc66YHv48"
-        }
-      ],
-      "duration_ms": 188786,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/7h31AvBw5GmK1igxZCCYHN"
-    },
-    {
-      "added_at": "2022-07-05 19:38:49",
-      "album": {
-        "name": "Burn Me Down",
-        "url": "https://open.spotify.com/album/16Ic2gzlDMPhBZXSCX0AxF"
-      },
-      "artists": [
-        {
-          "name": "Inez Jasper",
-          "url": "https://open.spotify.com/artist/5PJWx3TLnKtKqldIHu2wsr"
+          "name": "Supaman",
+          "url": "https://open.spotify.com/artist/0GBYlnXBzFnCGiaH6dLb6j"
         },
         {
-          "name": "Fawn Wood",
-          "url": "https://open.spotify.com/artist/7HrK2HP1tJfnMW2HFDw4kb"
+          "name": "Walking Buffalo",
+          "url": "https://open.spotify.com/artist/168ar161aEMyzR8EZOs29Y"
         }
       ],
-      "duration_ms": 214632,
-      "name": "Fallen Soldier (feat. Fawn Wood)",
-      "url": "https://open.spotify.com/track/7dMhQQM8waDYuMWcjWzi0B"
+      "duration_ms": 148447,
+      "name": "Ethnocide",
+      "url": "https://open.spotify.com/track/2xibX6WortCNxkdOLH2wrD"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Lead Me",
-        "url": "https://open.spotify.com/album/5jyCgPqRxR4TekPCa5LJNJ"
+        "name": "R E Z I L I E N C E",
+        "url": "https://open.spotify.com/album/1wglvRncxSvnTuiHYI1bU7"
       },
       "artists": [
         {
-          "name": "Jayli Wolf",
-          "url": "https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx"
+          "name": "Neon Nativez",
+          "url": "https://open.spotify.com/artist/0XO3TAJW7HsdayTYqhYN9X"
         }
       ],
-      "duration_ms": 138543,
-      "name": "Lead Me",
-      "url": "https://open.spotify.com/track/1mPVcxe35dmGgiwMKNQjeg"
+      "duration_ms": 284055,
+      "name": "R E Z I L I E N T",
+      "url": "https://open.spotify.com/track/74JZVUBsbM4YbYKr577ISN"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Men in Black",
-        "url": "https://open.spotify.com/album/0Ha2g0Heis3ycec7KnHQpW"
+        "name": "Sing Me a Song",
+        "url": "https://open.spotify.com/album/5qccHZQbxaKW0rlUz8N37y"
       },
       "artists": [
         {
-          "name": "Prado",
-          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
-        }
-      ],
-      "duration_ms": 127422,
-      "name": "Men in Black",
-      "url": "https://open.spotify.com/track/7gVbn6CXC3lEvkUy27jsDV"
-    },
-    {
-      "added_at": "2022-07-05 19:38:49",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/0fuBc9pHKdFTrFeWy806K3"
-      },
-      "artists": [
-        {
-          "name": "Anklegod",
-          "url": "https://open.spotify.com/artist/3zXUfokHv4a7P69YGq4C8I"
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
         },
         {
-          "name": "SHARUK",
-          "url": "https://open.spotify.com/artist/2j6ddAkqinKKhL1JJkdQFx"
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
         }
       ],
-      "duration_ms": 181894,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/52YtcwNEZelM0P22wmllWa"
+      "duration_ms": 159567,
+      "name": "Sing Me a Song",
+      "url": "https://open.spotify.com/track/0LmMZe0g80Z60zoTqR3cai"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "It\u2019s OK",
-        "url": "https://open.spotify.com/album/7sSmYrOQg4qWa7YLox0mLh"
+        "name": "Big Pharma",
+        "url": "https://open.spotify.com/album/3AnUyMML0Fl0ItqIBvVMGj"
       },
       "artists": [
         {
-          "name": "Drezus",
-          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+          "name": "Zoon",
+          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
         }
       ],
-      "duration_ms": 141363,
-      "name": "It\u2019s OK",
-      "url": "https://open.spotify.com/track/4W1KwDbKmpyssINjfl8uDy"
+      "duration_ms": 189032,
+      "name": "Oil Pastel/Dope Sick (Ft. Cadence Weapon)",
+      "url": "https://open.spotify.com/track/6RfuyPf7WCQbboOZCNaaAh"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "ataataga",
-        "url": "https://open.spotify.com/album/4yIKNgqIzOy9Rl9leZYe1U"
+        "name": "nipiy",
+        "url": "https://open.spotify.com/album/3Jco6in23tJMrvZFLtLqyT"
       },
       "artists": [
         {
-          "name": "Riit",
-          "url": "https://open.spotify.com/artist/51rJGI9Wto6CZqOqLStQxO"
+          "name": "n\u00eahiyawak",
+          "url": "https://open.spotify.com/artist/1ABpOPFTkd957JpeQUN3U4"
         }
       ],
-      "duration_ms": 259435,
-      "name": "qaumajuapik",
-      "url": "https://open.spotify.com/track/2yyFJti9vmhHFwqgfC37zv"
+      "duration_ms": 196760,
+      "name": "somnambulist",
+      "url": "https://open.spotify.com/track/4qZKt7X9tbe90PqSQQLTmb"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "HGS",
-        "url": "https://open.spotify.com/album/0UVPpmcYtxVLHVZhDlEDjw"
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
       "artists": [
         {
-          "name": "Savage Family",
-          "url": "https://open.spotify.com/artist/4uTFYxlrNuY53KmCRtYD3R"
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 291892,
-      "name": "Way Of The Drum",
-      "url": "https://open.spotify.com/track/6sS3DO0uqkjJfLRfczrofe"
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "TRAPLINE",
-        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
+        "name": "It's My Way",
+        "url": "https://open.spotify.com/album/3xqpKfDsGJYbCdMndvxZmd"
       },
       "artists": [
         {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Cod'ine",
+      "url": "https://open.spotify.com/track/4vXGN2SVyia5i3vn0T8HOx"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Come with Me",
+        "url": "https://open.spotify.com/album/2pv9GaXPoccQFrxnSKwxQm"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Gaskin",
+          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
+        }
+      ],
+      "duration_ms": 198976,
+      "name": "Come with Me",
+      "url": "https://open.spotify.com/track/66WdwVenadYHgD0gvhdZwe"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Wolf Saga",
+        "url": "https://open.spotify.com/album/7unFc7wjufEqY5wxeKvWsr"
+      },
+      "artists": [
+        {
+          "name": "Wolf Saga",
+          "url": "https://open.spotify.com/artist/0Lwn2PjwIw7QaoN7gHyqCA"
+        }
+      ],
+      "duration_ms": 199752,
+      "name": "Through This Night",
+      "url": "https://open.spotify.com/track/66JhCZvm9NqeDGsEcuyZSS"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Shift from tha 902",
+        "url": "https://open.spotify.com/album/7zXlt6rA04zOZ8oehmD5wZ"
+      },
+      "artists": [
+        {
+          "name": "Shift from tha 902",
+          "url": "https://open.spotify.com/artist/0RVG6evK2qcwwTESTWl5bo"
+        }
+      ],
+      "duration_ms": 224339,
+      "name": "Me vs You",
+      "url": "https://open.spotify.com/track/6m9fWGO5DMMGbKdFYPJ59e"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Rock Your World (Handsome Tiger Remix)",
+        "url": "https://open.spotify.com/album/4nAFGZvuTwVMmkYolNffcY"
+      },
+      "artists": [
+        {
+          "name": "Chubby Cree",
+          "url": "https://open.spotify.com/artist/5ZpbycjHo6oFH1UmUBxMnh"
         },
         {
-          "name": "Tanya Tagaq",
-          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
+          "name": "Handsome Tiger",
+          "url": "https://open.spotify.com/artist/5mse6hwiW0xtsv1XCPN4sU"
         }
       ],
-      "duration_ms": 199186,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/62j3tPxGblK4dJX5QVggmZ"
+      "duration_ms": 210857,
+      "name": "Rock Your World - Handsome Tiger Remix",
+      "url": "https://open.spotify.com/track/3vMZvXjkzFvjnS7pj1efgF"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "GONZO",
-        "url": "https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw"
+        "name": "DVNCE FLOOR",
+        "url": "https://open.spotify.com/album/39IjUZ3F2Umw5YT48Gh8yM"
       },
       "artists": [
         {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+          "name": "DJ BLVCKSHEEP",
+          "url": "https://open.spotify.com/artist/3Eo6Q6es3WtM23eT9ECEdg"
         }
       ],
-      "duration_ms": 242854,
-      "name": "SCARS",
-      "url": "https://open.spotify.com/track/6t0El464LFbuloirqq6C2V"
+      "duration_ms": 139130,
+      "name": "DVNCE FLOOR",
+      "url": "https://open.spotify.com/track/7LfG40MddU0Eo8QN13D2tD"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "We Are the Halluci Nation",
-        "url": "https://open.spotify.com/album/2iQBWB6FgiNl1mrzNX7ei4"
+        "name": "War Club",
+        "url": "https://open.spotify.com/album/4mVICgR5RgRAOZ63QgN2Pl"
       },
       "artists": [
         {
-          "name": "The Halluci Nation",
-          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+          "name": "DJ Shub",
+          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
         },
         {
-          "name": "Yasiin Bey",
-          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
+          "name": "Boog\u00e1t",
+          "url": "https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Killa Soundboy (feat. Boogat)",
+      "url": "https://open.spotify.com/track/2jhaD7FhWnAUFEzKboThBV"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "We Miss You (Sean Beaver Remix)",
+        "url": "https://open.spotify.com/album/4chBf9agF2O7kB3tbZjM8z"
+      },
+      "artists": [
+        {
+          "name": "Neon Nativez",
+          "url": "https://open.spotify.com/artist/0XO3TAJW7HsdayTYqhYN9X"
         },
         {
-          "name": "Narcy",
-          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+          "name": "Talibah Begay",
+          "url": "https://open.spotify.com/artist/56wFLC90IP3aLFWiv4BKEd"
         },
         {
-          "name": "Black Bear",
-          "url": "https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7"
+          "name": "Sean Beaver",
+          "url": "https://open.spotify.com/artist/3bJdtnEF7QD2bxQXjIM2Zb"
         }
       ],
-      "duration_ms": 209981,
-      "name": "R.E.D.",
-      "url": "https://open.spotify.com/track/0E2ydjbrsOYbWFZzexOyYd"
+      "duration_ms": 418000,
+      "name": "We Miss You (Sean Beaver Remix)",
+      "url": "https://open.spotify.com/track/6vRSm6WOo1DAwS2y6ayh6L"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Nation II Nation",
-        "url": "https://open.spotify.com/album/5SKS3EwP2Ifv8ypqUrWB3h"
+        "name": "Great Ones (E's Up) feat. Kryple",
+        "url": "https://open.spotify.com/album/6RhPGfohYuhIFb5HBemoY6"
       },
       "artists": [
         {
-          "name": "The Halluci Nation",
-          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+          "name": "Plex",
+          "url": "https://open.spotify.com/artist/3ODCJ2tCgLMriIAmoSGHGt"
         },
         {
-          "name": "Black Bear",
-          "url": "https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7"
+          "name": "Kryple",
+          "url": "https://open.spotify.com/artist/02VsM8leqEgg5jrfvUgTIv"
         }
       ],
-      "duration_ms": 263160,
-      "name": "Bread & Cheese",
-      "url": "https://open.spotify.com/track/6DsP6w8eeyl1Hhef6NBVwC"
+      "duration_ms": 175574,
+      "name": "Great Ones (E's Up) feat. Kryple",
+      "url": "https://open.spotify.com/track/4gF4qRobSHE73zclscj4M6"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Child Of The Government",
-        "url": "https://open.spotify.com/album/6ivfvK9CGo2SbdOMsRag5L"
+        "name": "Deadman",
+        "url": "https://open.spotify.com/album/4wgVruIbA98zWPV0LXgCfa"
       },
       "artists": [
         {
-          "name": "Jayli Wolf",
-          "url": "https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx"
+          "name": "Logan Staats",
+          "url": "https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P"
         }
       ],
-      "duration_ms": 221392,
-      "name": "Child Of The Government",
-      "url": "https://open.spotify.com/track/2c9bXyhZiAco7lXNyugSl6"
+      "duration_ms": 224584,
+      "name": "Deadman",
+      "url": "https://open.spotify.com/track/45saT9CynzZGwGkqsJkQGx"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Setbacks",
-        "url": "https://open.spotify.com/album/3NGvP7CdGu9fwsNwK06OQr"
+        "name": "War Club",
+        "url": "https://open.spotify.com/album/4mVICgR5RgRAOZ63QgN2Pl"
       },
       "artists": [
         {
-          "name": "Dakota Bear",
-          "url": "https://open.spotify.com/artist/25MEoFUjbq3v7Tc66YHv48"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Setbacks",
-      "url": "https://open.spotify.com/track/1FNG3ZcoDzs0Al9CyFl4fQ"
-    },
-    {
-      "added_at": "2022-07-05 19:38:49",
-      "album": {
-        "name": "TRAPLINE",
-        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
-      },
-      "artists": [
-        {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+          "name": "DJ Shub",
+          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
         },
         {
-          "name": "Kimmortal",
-          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
+          "name": "Jewlz",
+          "url": "https://open.spotify.com/artist/2AUiEsaMkbV8wWBX56ExKO"
         }
       ],
-      "duration_ms": 293439,
-      "name": "Lost Tribe",
-      "url": "https://open.spotify.com/track/6ExFzpHmcznOjC4JpjkbZK"
+      "duration_ms": 179417,
+      "name": "Back to the Land (feat. Jewlz)",
+      "url": "https://open.spotify.com/track/1o8sny1Oduu7iRSzSruKVa"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "GONZO",
-        "url": "https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw"
+        "name": "Dreamweaver",
+        "url": "https://open.spotify.com/album/39gvn7LqSbcAVjl3nbvVWZ"
       },
       "artists": [
         {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+          "name": "Anachnid",
+          "url": "https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO"
         }
       ],
-      "duration_ms": 115473,
-      "name": "FIESTA",
-      "url": "https://open.spotify.com/track/5wTMS2FiYvostGLFg1LzeZ"
+      "duration_ms": 172785,
+      "name": "Summer Hunting",
+      "url": "https://open.spotify.com/track/0LuoQSfQix19Ej8xf4vNLQ"
     },
     {
-      "added_at": "2022-07-05 19:38:49",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "ELASTIC",
-        "url": "https://open.spotify.com/album/6DCtTHrowhDjpEwC0HgZuI"
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/3trrC8035F4ueYpGAh7eYn"
       },
       "artists": [
         {
-          "name": "ZDBT",
-          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
-        },
-        {
-          "name": "Prado",
-          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
-        },
-        {
-          "name": "Slim Media Player",
-          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
+          "name": "Kinnie Starr",
+          "url": "https://open.spotify.com/artist/209owUSIqCjOCdahzFWdl8"
         }
       ],
-      "duration_ms": 314754,
-      "name": "MEAN BOY",
-      "url": "https://open.spotify.com/track/4qYjy3A5Jk7YIcWTHWYPeC"
-    },
-    {
-      "added_at": "2022-07-05 19:38:49",
-      "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/337ZoinH7XFzrksMVYAK3z"
-      },
-      "artists": [
-        {
-          "name": "Anklegod",
-          "url": "https://open.spotify.com/artist/3zXUfokHv4a7P69YGq4C8I"
-        }
-      ],
-      "duration_ms": 163019,
-      "name": "Think I Need Some Syrup",
-      "url": "https://open.spotify.com/track/1UKhcMusoi9Xxn9liepsE6"
-    },
-    {
-      "added_at": "2022-07-05 19:38:49",
-      "album": {
-        "name": "TRAPLINE",
-        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
-      },
-      "artists": [
-        {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
-        },
-        {
-          "name": "Shanks Sioux",
-          "url": "https://open.spotify.com/artist/6STPU4rdo1rk3vnK1pmaRV"
-        }
-      ],
-      "duration_ms": 216142,
-      "name": "I Can't Remember My Name",
-      "url": "https://open.spotify.com/track/72pho9GVyZCElxgMFYhN2n"
-    },
-    {
-      "added_at": "2022-07-05 19:38:49",
-      "album": {
-        "name": "ELASTIC",
-        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
-      },
-      "artists": [
-        {
-          "name": "ZDBT",
-          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
-        },
-        {
-          "name": "Prado",
-          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
-        },
-        {
-          "name": "Slim Media Player",
-          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
-        }
-      ],
-      "duration_ms": 219508,
-      "name": "ELASTIC",
-      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
-    },
-    {
-      "added_at": "2022-07-05 19:38:49",
-      "album": {
-        "name": "Indian Summer",
-        "url": "https://open.spotify.com/album/240EnJaBvTLPCwCX7ux247"
-      },
-      "artists": [
-        {
-          "name": "Drezus",
-          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
-        }
-      ],
-      "duration_ms": 183615,
-      "name": "Warpath",
-      "url": "https://open.spotify.com/track/744B0eGBmmfnleCJ7nmKnT"
-    },
-    {
-      "added_at": "2022-07-05 19:38:49",
-      "album": {
-        "name": "Sedna",
-        "url": "https://open.spotify.com/album/4TnpF14Fst1uuRPzHk5He8"
-      },
-      "artists": [
-        {
-          "name": "Kelly Fraser",
-          "url": "https://open.spotify.com/artist/6tfktWLnyhNzZdUtGSChSW"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "Forgive Yourself",
-      "url": "https://open.spotify.com/track/4Ek4211HeSJkdjzdDOSFx6"
-    },
-    {
-      "added_at": "2022-07-05 19:38:49",
-      "album": {
-        "name": "The Average Savage",
-        "url": "https://open.spotify.com/album/1Zm19YQhpbR0Rk5KUmXdfl"
-      },
-      "artists": [
-        {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
-        },
-        {
-          "name": "Drezus",
-          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Savages (feat. Drezus)",
-      "url": "https://open.spotify.com/track/2v5nzcrK0AVYKLEzs7pz9j"
+      "duration_ms": 161373,
+      "name": "Big World",
+      "url": "https://open.spotify.com/track/7xo8ErTr4vsCBnq4SLib04"
     }
   ],
   "unique_name": "Indigenous",

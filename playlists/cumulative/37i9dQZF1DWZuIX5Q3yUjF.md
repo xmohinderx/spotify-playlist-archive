@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Ama Dee
 
-159 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+160 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Lunatica](https://open.spotify.com/track/5u7C2wWsB5iALTL6v4HNJs) | [Sofia Nuccio](https://open.spotify.com/artist/2yTbgDLtrIA7MFMoDFViVi) | [Lunatica](https://open.spotify.com/album/76Baf3jjsQ5NsoxQGPiim6) | 3:19 | 2022-05-05 |  |
 | [LUNES](https://open.spotify.com/track/3ux6HhWQNXS4fjTGuyZcru) | [Marianna Mancini](https://open.spotify.com/artist/5kEjbi0NY9b82y85keg2hY) | [LUNES](https://open.spotify.com/album/5rMv8OvpZ9HTyTn5UkGeO5) | 3:00 | 2022-05-05 |  |
 | [Monodose](https://open.spotify.com/track/4Doceb3PbB1O4Rdijrn2Qp) | [Chiara Ranieri](https://open.spotify.com/artist/3I0mGLOlyKCXxPSUD26Eu6) | [Monodose](https://open.spotify.com/album/2RrqdXnY3YzsJAQif4JcW7) | 2:47 | 2022-06-30 | 2022-07-15 |
+| [Morsi](https://open.spotify.com/track/5k0bWnsm97QQQHuMs0wIvG) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [Morsi](https://open.spotify.com/album/2rZEMo1uGjBPEOnMCCL1GP) | 3:29 | 2022-08-11 |  |
 | [Negli Occhi](https://open.spotify.com/track/6yS0Ps5RswhboZFM4vLOsE) | [Yung Florence](https://open.spotify.com/artist/6HjU7IxcwVniLK2h8VEcFd), [Logos.Lux](https://open.spotify.com/artist/3rGdjBtVPeHar0052yH97T) | [Negli Occhi](https://open.spotify.com/album/5kjmW3BcCHutYbwm7M2diZ) | 2:39 | 2022-05-05 | 2022-06-10 |
 | [Niente da dirti](https://open.spotify.com/track/6y2eneVA3eWA3WBADJjyBl) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Giorni che esplodono](https://open.spotify.com/album/1EL0DnhlJFQudSGdAwsHEl) | 4:01 | 2022-06-16 |  |
 | [No eh? Va be'](https://open.spotify.com/track/64kDlkqrSAg5vha3bK7I8A) | [DAEMIA](https://open.spotify.com/artist/2h1otCcxhWWTUQtcSg7I7X) | [No eh? Va be'](https://open.spotify.com/album/5SXnrkbFeNPOfFnEHChOX6) | 3:31 | 2022-05-05 |  |

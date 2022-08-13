@@ -2,7 +2,7 @@
 
 ### [Stoner Rock](https://open.spotify.com/playlist/37i9dQZF1DXdpVGstUksUC)
 
-> You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
+> You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Clutch
 
 252 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
 

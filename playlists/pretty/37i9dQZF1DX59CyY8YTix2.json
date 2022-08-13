@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. Cover: \u30ea\u30fc\u30ac\u30eb\u30ea\u30ea\u30fc (Regallily)",
-  "num_followers": 33995,
+  "num_followers": 34038,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzMDAwMCwwMDAwMDAwMDM1YWU1YjBmZGU0Y2M2ZDBhNDE0MzAzYzc5ZmQxYmE4",
+  "snapshot_id": "MTY2MDIzMDAwMCwwMDAwMDAwMDNhNjI0NTYyNWEzZjU5MWY4ZTY0ZTlkODNjOTFkODFk",
   "tracks": [
     {
       "added_at": "2022-08-11 15:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
+        "name": "Hey! Stay by my side!",
+        "url": "https://open.spotify.com/album/64DJ8QPZHszlBdA0R9SeZz"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Sunfist",
+          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
+        }
+      ],
+      "duration_ms": 147201,
+      "name": "Hey! Stay by my side!",
+      "url": "https://open.spotify.com/track/5IDfSmahBmnRrbbEZiOjNF"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
         "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
         "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 235866,
       "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
       "url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL"
-    },
-    {
-      "added_at": "2022-08-11 15:00:00",
-      "album": {
-        "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 249273,
-      "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -123,18 +123,18 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "Saiaku Saiai",
-        "url": "https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ"
+        "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
       },
       "artists": [
         {
-          "name": "Higuchi Ai",
-          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 229960,
-      "name": "Akuma no Ko",
-      "url": "https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ"
+      "duration_ms": 249273,
+      "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c"
+        "name": "Saiaku Saiai",
+        "url": "https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
         }
       ],
-      "duration_ms": 249426,
-      "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi"
+      "duration_ms": 229960,
+      "name": "Akuma no Ko",
+      "url": "https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "\u5f80\u3051",
-        "url": "https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx"
+        "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c"
       },
       "artists": [
         {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 228266,
-      "name": "\u5f80\u3051",
-      "url": "https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB"
+      "duration_ms": 249426,
+      "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "\u671d\u304c\u6765\u308b",
-        "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
+        "name": "\u5f80\u3051",
+        "url": "https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx"
       },
       "artists": [
         {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
         }
       ],
-      "duration_ms": 294933,
-      "name": "\u671d\u304c\u6765\u308b",
-      "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
+      "duration_ms": 228266,
+      "name": "\u5f80\u3051",
+      "url": "https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
+        "name": "\u671d\u304c\u6765\u308b",
+        "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 266373,
-      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
+      "duration_ms": 294933,
+      "name": "\u671d\u304c\u6765\u308b",
+      "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "\u8db3\u8de1",
-        "url": "https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq"
+        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
       },
       "artists": [
         {
-          "name": "the peggies",
-          "url": "https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 227973,
-      "name": "\u8db3\u8de1",
-      "url": "https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0"
+      "duration_ms": 266373,
+      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -475,6 +475,22 @@
       "duration_ms": 236960,
       "name": "\u52d8\u51b4\u3048\u3066\u6094\u3057\u3044\u308f",
       "url": "https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "\u8db3\u8de1",
+        "url": "https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq"
+      },
+      "artists": [
+        {
+          "name": "the peggies",
+          "url": "https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "\u8db3\u8de1",
+      "url": "https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -543,22 +559,6 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "\u30b9\u30dd\u30fc\u30c4",
-        "url": "https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Incidents",
-          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "\u9583\u5149\u5c11\u5973",
-      "url": "https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s"
-    },
-    {
-      "added_at": "2022-08-11 15:00:00",
-      "album": {
         "name": "\u30b5\u30fc\u30af\u30eb",
         "url": "https://open.spotify.com/album/7tKA1NE12YCS6v17Ebq2zx"
       },
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "\u30d5\u30a7\u30a4\u30af\u30ef\u30fc\u30eb\u30c9\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR"
+        "name": "\u30b9\u30dd\u30fc\u30c4",
+        "url": "https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU"
       },
       "artists": [
         {
-          "name": "Kinokoteikoku",
-          "url": "https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ"
+          "name": "Tokyo Incidents",
+          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
         }
       ],
-      "duration_ms": 227813,
-      "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
-      "url": "https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG"
+      "duration_ms": 177266,
+      "name": "\u9583\u5149\u5c11\u5973",
+      "url": "https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -603,6 +603,22 @@
       "duration_ms": 170311,
       "name": "LOVERS SOUL",
       "url": "https://open.spotify.com/track/2ouqrlgPcjc6JonLxdE1CB"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "\u30d5\u30a7\u30a4\u30af\u30ef\u30fc\u30eb\u30c9\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR"
+      },
+      "artists": [
+        {
+          "name": "Kinokoteikoku",
+          "url": "https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
+      "url": "https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG"
     },
     {
       "added_at": "2022-08-11 15:00:00",
@@ -759,22 +775,6 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
-        "name": "LITMUS",
-        "url": "https://open.spotify.com/album/3xZrKf9hGGyU6GPEmEJ2q7"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "LITMUS",
-      "url": "https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk"
-    },
-    {
-      "added_at": "2022-08-11 15:00:00",
-      "album": {
         "name": "Beyond Selves (feat. L)",
         "url": "https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-08-11 15:00:00",
       "album": {
+        "name": "LITMUS",
+        "url": "https://open.spotify.com/album/3xZrKf9hGGyU6GPEmEJ2q7"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "LITMUS",
+      "url": "https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
         "name": "JET CD",
         "url": "https://open.spotify.com/album/1Rfgzkyxu5BBqtVWncmH7C"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 168426,
       "name": "\u611b\u306e\u3057\u308b\u3057",
       "url": "https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP"
-    },
-    {
-      "added_at": "2022-08-11 15:00:00",
-      "album": {
-        "name": "d a n c i n g a l o n e",
-        "url": "https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN"
-      },
-      "artists": [
-        {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
-        }
-      ],
-      "duration_ms": 186620,
-      "name": "lemonade",
-      "url": "https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp"
     }
   ],
   "unique_name": "She Rocks",

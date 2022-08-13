@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Behemoth",
+  "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Dimmu Borgir",
   "name": "Black & Dark Metal",
   "published_playlist_ids": [
     "64Dcl2uRhYdNKoQxcWR2Lx"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 497740,
       "name": "Am Rande der Dunkelheit",
       "url": "https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F"
@@ -1222,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "Dissolve",
+        "url": "https://open.spotify.com/album/1cLVKutiND7BbiLO40lCp1"
+      },
+      "artists": [
+        {
+          "name": "Orthodox",
+          "url": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186663,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/61cEE5HRsqLvSjGAmVxd8h"
+    },
+    {
+      "album": {
         "name": "Godkiller",
         "url": "https://open.spotify.com/album/7LBSl4Et96Km08oDAa2kxP"
       },
@@ -2144,6 +2162,24 @@
     },
     {
       "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS"
+      },
+      "artists": [
+        {
+          "name": "Armed For Apocalypse",
+          "url": "https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179529,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp"
+    },
+    {
+      "album": {
         "name": "How Many Can Die",
         "url": "https://open.spotify.com/album/4sUjcJd3skHdB8RQ2C3nc6"
       },
@@ -2581,6 +2617,24 @@
       "duration_ms": 454920,
       "name": "Kagutsuchi",
       "url": "https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41"
+    },
+    {
+      "album": {
+        "name": "Kernos Crown",
+        "url": "https://open.spotify.com/album/0Z8HBHHTiuLkKqxQteBDZx"
+      },
+      "artists": [
+        {
+          "name": "Abduction",
+          "url": "https://open.spotify.com/artist/0giVCDcrvEldaPK8aCF1vp"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363908,
+      "name": "Kernos Crown",
+      "url": "https://open.spotify.com/track/0VOQukpxqz5osddw7ksJWq"
     },
     {
       "album": {
@@ -3255,7 +3309,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 390670,
       "name": "Of Beasts and Worms",
       "url": "https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN"
@@ -3547,6 +3601,24 @@
       "duration_ms": 186488,
       "name": "Puritania",
       "url": "https://open.spotify.com/track/0bKs1y9PTFBddM9qj0JGvb"
+    },
+    {
+      "album": {
+        "name": "Puritania (The Kolbotn Tapes)",
+        "url": "https://open.spotify.com/album/2zOvw7u5XelDbYsxQMPQDI"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169394,
+      "name": "Puritania - The Kolbotn Tapes",
+      "url": "https://open.spotify.com/track/69vWSqVEctJbTKD3qKaAnD"
     },
     {
       "album": {
@@ -4317,7 +4389,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 334826,
       "name": "The Fifth Illusion",
       "url": "https://open.spotify.com/track/7AYkjUqjPI3kDLLwKTQlYP"
@@ -4929,7 +5001,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 353645,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72"

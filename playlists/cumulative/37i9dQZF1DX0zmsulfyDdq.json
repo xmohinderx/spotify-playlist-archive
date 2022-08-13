@@ -1572,6 +1572,24 @@
     },
     {
       "album": {
+        "name": "Lady and The Tramp and Friends",
+        "url": "https://open.spotify.com/album/5nmEqzKRjL3WyA5X7Zppdc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96800,
+      "name": "La La Lu",
+      "url": "https://open.spotify.com/track/3Fou4O94pyR80OxdSj3pI8"
+    },
+    {
+      "album": {
         "name": "Disney Ukulele: Soothing",
         "url": "https://open.spotify.com/album/4s0t0BbmkfB9iESE8FGRaa"
       },

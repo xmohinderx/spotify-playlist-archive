@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-70 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+71 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Godo Godo](https://open.spotify.com/track/1o7k5eUEA0m6Q7H0A1tvyU) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Godo Godo](https://open.spotify.com/album/7gdUmmaUUZLYvD9KaLnSaV) | 2:39 | 2022-02-18 |  |
 | [Godomoué](https://open.spotify.com/track/4TG0I43Yci9DupAyFBUN1h) | [JN LE BOSS](https://open.spotify.com/artist/39lBGgf33GpI6pQ9DoqGBs), [Yanik Jones](https://open.spotify.com/artist/22f7okXAJWbCs8NJpHv6iG) | [Godomoué](https://open.spotify.com/album/5bFmQ5N0A6zLei6LWp330Y) | 2:48 | 2021-12-20 | 2022-05-21 |
 | [Je n'ai rien fait](https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs) | [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe), [Mani Bella](https://open.spotify.com/artist/2GLzNCMpJZYZaeAyhwuifS) | [Je n'ai rien fait](https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl) | 4:24 | 2021-12-20 | 2022-05-21 |
+| [Jonathan](https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Best Of DJ Arafat](https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK) | 4:36 | 2022-08-11 |  |
 | [Judas](https://open.spotify.com/track/7zzkXGRNhnkeqGMCKLkLyo) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Judas](https://open.spotify.com/album/5LH3Ut39XL9NEpKXLS2dwn) | 4:05 | 2021-12-20 | 2022-04-15 |
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 | 2022-08-12 |
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |

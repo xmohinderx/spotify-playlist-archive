@@ -4,7 +4,7 @@
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-161 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
+162 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Psychosis](https://open.spotify.com/track/0V36ohSgy0Fq4MyqNORyFO) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [The World Is Fvcked](https://open.spotify.com/album/4n4bolCBHA2HzbXyf64uI3) | 3:49 | 2022-02-18 | 2022-07-30 |
 | [Psyllium](https://open.spotify.com/track/3QjsXSuFz0FHLBZ4PCVIFP) | [Air Max '97](https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R) | [Psyllium / Eat The Rich](https://open.spotify.com/album/1ISLxE8MwmtpSOrJ4IMgyb) | 5:18 | 2022-02-18 | 2022-07-29 |
 | [Purple Jelly Disc](https://open.spotify.com/track/5TV3iyQjjitXlJBdIfHvZj) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Purple Jelly Disc](https://open.spotify.com/album/2eq0YvJEfcPmQNA49DqlxD) | 6:12 | 2022-05-23 |  |
+| [Rancor](https://open.spotify.com/track/4ZvtoneuGescYoD6fIMREr) | [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67), [X\-Tension](https://open.spotify.com/artist/19QuWp2q7u0osyIjh9qQkD) | [Rancor EP](https://open.spotify.com/album/3XsZFScRqSPpkGz2YwSUxa) | 6:45 | 2022-08-12 |  |
 | [Raptor](https://open.spotify.com/track/7wqoXaaYeYV6zR4jegMgF4) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [Raptor](https://open.spotify.com/album/023fZD6uYgvFdGOqG2HTli) | 3:17 | 2022-02-18 | 2022-07-30 |
 | [Rave Cloud](https://open.spotify.com/track/63rdwgPIWJLlf1ovWW8RRH) | [Yves Deruyter](https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt), [The Subs](https://open.spotify.com/artist/06h5xeeCDip3usS3go9zjI) | [Rave Cloud / Mind Attack](https://open.spotify.com/album/4Z8OZ2dE5NPTIr1uQi9VZE) | 6:09 | 2022-02-18 | 2022-07-30 |
 | [Razor Eater](https://open.spotify.com/track/25F6ujZLDQVxTbNLLUsHTN) | [Kilbourne](https://open.spotify.com/artist/2puJJyoBDCIvN9N7M4yRh3) | [Cathedrals EP](https://open.spotify.com/album/2VIlYy6xQJPhrzSAEQJMev) | 4:56 | 2022-02-18 | 2022-07-30 |

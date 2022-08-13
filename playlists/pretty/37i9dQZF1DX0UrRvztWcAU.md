@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 
 > Set the mood of your day with these awesome, happy songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332,465 likes - 150 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,332,479 likes - 150 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 | 145 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
 | 146 | [Castle on the Hill](https://open.spotify.com/track/66qlqxhEMpSHOzjRK4il0b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill](https://open.spotify.com/album/5YnGwVQx2OQ4CpcQeVDthP) | 4:21 |
 | 147 | [Wanted](https://open.spotify.com/track/1lGVyEkGHUz7Pg78QGaS4a) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Wanted](https://open.spotify.com/album/5sPC6RYCERdNCzHLRf9zHb) | 2:40 |
-| 148 | [S Club Party](https://open.spotify.com/track/21ixeD8mGouF993kgb4MER) | [S Club 7](https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX) | [S Club](https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5) | 3:30 |
-| 149 | [Hometown](https://open.spotify.com/track/4fCFuTPTLIh59R71vNKOkQ) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Watching The Sky](https://open.spotify.com/album/1wQJ3BLua9Lmy7lcFLHFjh) | 3:07 |
-| 150 | [Space For Two](https://open.spotify.com/track/07hBBiv9DqLCRECKmB0Q4n) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space For Two](https://open.spotify.com/album/6f0vesZuawgU9KzR62srFN) | 3:26 |
+| 148 | [Love the One You're With](https://open.spotify.com/track/3NNkJwiHucP5QyUEAIMXra) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Stephen Stills](https://open.spotify.com/album/2nkFniR6DseqFJLhxXV01T) | 3:04 |
+| 149 | [S Club Party](https://open.spotify.com/track/21ixeD8mGouF993kgb4MER) | [S Club 7](https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX) | [S Club](https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5) | 3:30 |
+| 150 | [Hometown](https://open.spotify.com/track/4fCFuTPTLIh59R71vNKOkQ) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Watching The Sky](https://open.spotify.com/album/1wQJ3BLua9Lmy7lcFLHFjh) | 3:07 |
 
-Snapshot ID: `MTY1OTcwMDgwMCwwMDAwMDAwMGE3YzY4Y2EwNjRjOGYyYTdiYWQyMTQ5NGIwYjQyZjYz`
+Snapshot ID: `MTY2MDMwMjUxOCwwMDAwMDAwMDg2YTdjMjJhMTFhZTJiYjc2MGE3MjQ4ZjE5NjFjMDFl`

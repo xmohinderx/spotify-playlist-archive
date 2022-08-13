@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-143 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+145 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,16 +34,18 @@
 | [Forgiveness](https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Oh, Mother](https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL) | 4:07 | 2021-04-19 |  |
 | [Frontlines](https://open.spotify.com/track/26G5UCxN0jtGKFETe2QM9m) | [Ripp + Rice](https://open.spotify.com/artist/60islalA9m7zDvmEGoz7Yu) | [Songs We Wrote on Tuesdays](https://open.spotify.com/album/1PpOJ157jhp4WRWIVIAcA4) | 1:47 | 2021-04-19 | 2022-04-29 |
 | [Giving You Up \- Acoustic](https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up \(Acoustic\)](https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD) | 3:52 | 2021-04-19 |  |
+| [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 | 2022-08-12 |  |
 | [Hares on the Mountain](https://open.spotify.com/track/1YEpmYM9X9wN2kCyYVGnhe) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Hummingbird](https://open.spotify.com/album/3hcolXZRr67fJfXlgdvrPt) | 4:22 | 2021-04-19 | 2022-07-02 |
 | [Heart in Me](https://open.spotify.com/track/3dd8oxITNLTLaRybjDTA4s) | [Leaving Thomas](https://open.spotify.com/artist/7Mlp2kTfQTVsAKG2tuOPhS) | [Leaving Thomas](https://open.spotify.com/album/21po9l566bWUa58JM9aJKf) | 3:47 | 2021-04-19 |  |
 | [Heart In Me](https://open.spotify.com/track/7yiV9vNPteAL9Y4U8810vh) | [Leaving Thomas](https://open.spotify.com/artist/7Mlp2kTfQTVsAKG2tuOPhS) | [Leaving Thomas](https://open.spotify.com/album/0Nc0yM6xYEelLRf0l4gR6B) | 3:47 | 2021-04-19 | 2022-07-29 |
+| [Hey Violet](https://open.spotify.com/track/3wtJr6QAJaMjH2IqBzQ4XY) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Hey Violet](https://open.spotify.com/album/3g8a0S9HAFSyz62YeIqpHu) | 2:53 | 2022-08-12 |  |
 | [Hindsight](https://open.spotify.com/track/0gPL0UolZWwAYTTLzStqmw) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Hindsight](https://open.spotify.com/album/0HohoNniglpDithTFEnqaW) | 4:01 | 2021-04-19 |  |
 | [History](https://open.spotify.com/track/17PRPgnKH4flrbnZmgSGzJ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:44 | 2021-04-19 | 2022-04-29 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-08-06 |  |
 | [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 | 2021-04-19 |  |
 | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/track/79MW6Qm22GDnUJ3i2vttxp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/album/6DtyHq5JfijIBqWvDdPtKw) | 2:26 | 2022-06-03 |  |
 | [I Don't Wanna See You Cryin' Anymore](https://open.spotify.com/track/75GzLKzGuCPSayNucAoSC6) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Plan On You](https://open.spotify.com/album/4W9M5fDfBHAPbq9ee8VLcW) | 3:43 | 2021-04-19 | 2022-04-29 |
-| [I Remember Everything](https://open.spotify.com/track/1eZAhlXyK6XMIQbrfgiGd5) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [I Remember Everything](https://open.spotify.com/album/4tpKYRzS2AZIB0N7s0Woms) | 2:41 | 2021-04-19 |  |
+| [I Remember Everything](https://open.spotify.com/track/1eZAhlXyK6XMIQbrfgiGd5) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [I Remember Everything](https://open.spotify.com/album/4tpKYRzS2AZIB0N7s0Woms) | 2:41 | 2021-04-19 | 2022-08-13 |
 | [I Will Stay](https://open.spotify.com/track/4Y0qZxIXZrb2CKonEwCDzf) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [What It Is](https://open.spotify.com/album/440AzTicFLovCInQhORffL) | 2:34 | 2021-04-19 |  |
 | [I'm Here](https://open.spotify.com/track/7Gj9uY2bWQOSl6ubnM7WZk) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc) | [I'm Here](https://open.spotify.com/album/3f3VCQQtms7Ns87vTJfvvU) | 2:58 | 2021-04-19 |  |
 | [If I’d Known](https://open.spotify.com/track/0ufHx8gigeu7UeWiYy7Ji4) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL) | [If I’d Known](https://open.spotify.com/album/2rteDz4KtPtni80tg2Kn72) | 3:23 | 2021-04-19 |  |
@@ -128,7 +130,7 @@
 | [These Walls](https://open.spotify.com/track/4Q1LDkmAOY2bs4U9A4jCOT) | [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [These Walls](https://open.spotify.com/album/1IgdpQxKTlJur7hcQoR4Pu) | 3:13 | 2021-04-19 |  |
 | [Things You Hate, Things I Love \(Acoustic\)](https://open.spotify.com/track/3ZNl15kE12wwsqSainoMpy) | [Stevenson Everett](https://open.spotify.com/artist/2VjaUsXjLqXvqNjLR08SyZ) | [Things You Hate, Things I Love \(Acoustic\)](https://open.spotify.com/album/5gbEV03eIWJTb3gjIwDjpX) | 3:26 | 2021-04-19 |  |
 | [This Feeling](https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 4:28 | 2021-12-03 |  |
-| [Til the River Takes Us Home](https://open.spotify.com/track/3EiIk1CUYBxFhDo2c38Elp) | [Sam Teskey](https://open.spotify.com/artist/5tXk98OKpmBXhjUkBsQxfZ) | [Til the River Takes Us Home](https://open.spotify.com/album/3fDaftBNXBv1wNCGUmi7Ms) | 4:21 | 2021-08-27 |  |
+| [Til the River Takes Us Home](https://open.spotify.com/track/3EiIk1CUYBxFhDo2c38Elp) | [Sam Teskey](https://open.spotify.com/artist/5tXk98OKpmBXhjUkBsQxfZ) | [Til the River Takes Us Home](https://open.spotify.com/album/3fDaftBNXBv1wNCGUmi7Ms) | 4:21 | 2021-08-27 | 2022-08-13 |
 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 | 2021-04-19 | 2022-04-29 |
 | [To Be Alone](https://open.spotify.com/track/2yqWZjDv5jJaBdco4z5kkp) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [To Be Alone](https://open.spotify.com/album/2weElGUGM0TUzRMLmpcayX) | 3:36 | 2022-03-11 |  |
 | [Troubled Soul](https://open.spotify.com/track/6jRlhzI3CNe4DOuEoF0rkw) | [Paper Wings](https://open.spotify.com/artist/42CYIYwKRNIYAHPrnjPvVn) | [Clementine](https://open.spotify.com/album/2xZS1wCPPJxPqRkTh8nhKB) | 3:54 | 2021-04-19 |  |

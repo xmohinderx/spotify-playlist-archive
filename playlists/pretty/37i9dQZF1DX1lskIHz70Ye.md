@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,335 likes - 81 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,373 likes - 82 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,13 +81,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 71 | [San Sebastien](https://open.spotify.com/track/6brr1dBt7PqEuuGckXew6A) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Into The Sunset](https://open.spotify.com/album/4cBzYpHUYX82WDoQuhYeRd) | 3:09 |
 | 72 | [Die Donau](https://open.spotify.com/track/2cZMVymCXBcY4KDr0Qag2f) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Die Donau](https://open.spotify.com/album/1hcqmGoCbBo79hyTfMLnl9) | 2:42 |
 | 73 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
-| 74 | [Estanys de Baiau](https://open.spotify.com/track/6JbPD7lazbivEBZbBiI9U0) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Abendrot](https://open.spotify.com/album/45UIG5yVX62bS76ybHXrG5) | 2:28 |
-| 75 | [Back In Vienna](https://open.spotify.com/track/7f5KoA0YwUSblUJJ1Fhgq3) | [Carey Bestwood](https://open.spotify.com/artist/2retIxvtHYYB3JXjfYLAOW) | [Back In Vienna](https://open.spotify.com/album/0BiRWf0kePadH7rrZNX6Lu) | 2:00 |
-| 76 | [Un Tambour sur les Roses](https://open.spotify.com/track/1oYGtB1E2bEjakyLElrdBX) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Réunion](https://open.spotify.com/album/3KduaJCpIteIgNVgo5GSAh) | 3:08 |
-| 77 | [Saint Valentine](https://open.spotify.com/track/1rIOkUQTk0LH9UM6tdRlFR) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Saint Valentine](https://open.spotify.com/album/1MbqX2EtuO7SnLnrKzEnkv) | 1:52 |
-| 78 | [Summer Walks](https://open.spotify.com/track/3PgpqddvtMosikFwFytr14) | [Walter David](https://open.spotify.com/artist/7DroDCkqomfRXj7zVYjiI3) | [Summer Walks](https://open.spotify.com/album/7C0PB7dfWUj7FLoXCYkSMQ) | 1:36 |
-| 79 | [El Camino De La Vida](https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:16 |
-| 80 | [High Tops](https://open.spotify.com/track/4Tp755Pl6kyXxnaA3CZY98) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [High Tops](https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA) | 2:53 |
-| 81 | [Karleken \(arr\. for guitar and double bass\): Kärleken](https://open.spotify.com/track/7076W3oIAwyydfx4WMU5sJ) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Monica Dominique](https://open.spotify.com/artist/4fXHTCH1eArZTamCjimXeT), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Sånger utan ord](https://open.spotify.com/album/69YsaSWpIzKGe85DuTtKw2) | 4:16 |
+| 74 | [The Tragic \(No\. 14, Op\. 60\)](https://open.spotify.com/track/2wzTmHfhti5MICzrnieisR) | [Ricardo Alves Pereira](https://open.spotify.com/artist/7D7x8UG2oPE8pG5t9FDJrF), [Fernando Sor](https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd) | [The Foundation \(Classical Guitar Works by Fernando Sor, Op\. 60\)](https://open.spotify.com/album/4wNM5zLKNB2aWrya7e1pmo) | 1:50 |
+| 75 | [Estanys de Baiau](https://open.spotify.com/track/6JbPD7lazbivEBZbBiI9U0) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Abendrot](https://open.spotify.com/album/45UIG5yVX62bS76ybHXrG5) | 2:28 |
+| 76 | [Back In Vienna](https://open.spotify.com/track/7f5KoA0YwUSblUJJ1Fhgq3) | [Carey Bestwood](https://open.spotify.com/artist/2retIxvtHYYB3JXjfYLAOW) | [Back In Vienna](https://open.spotify.com/album/0BiRWf0kePadH7rrZNX6Lu) | 2:00 |
+| 77 | [Un Tambour sur les Roses](https://open.spotify.com/track/1oYGtB1E2bEjakyLElrdBX) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Réunion](https://open.spotify.com/album/3KduaJCpIteIgNVgo5GSAh) | 3:08 |
+| 78 | [Saint Valentine](https://open.spotify.com/track/1rIOkUQTk0LH9UM6tdRlFR) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Saint Valentine](https://open.spotify.com/album/1MbqX2EtuO7SnLnrKzEnkv) | 1:52 |
+| 79 | [Summer Walks](https://open.spotify.com/track/3PgpqddvtMosikFwFytr14) | [Walter David](https://open.spotify.com/artist/7DroDCkqomfRXj7zVYjiI3) | [Summer Walks](https://open.spotify.com/album/7C0PB7dfWUj7FLoXCYkSMQ) | 1:36 |
+| 80 | [El Camino De La Vida](https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:16 |
+| 81 | [High Tops](https://open.spotify.com/track/4Tp755Pl6kyXxnaA3CZY98) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [High Tops](https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA) | 2:53 |
+| 82 | [Karleken \(arr\. for guitar and double bass\): Kärleken](https://open.spotify.com/track/7076W3oIAwyydfx4WMU5sJ) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Monica Dominique](https://open.spotify.com/artist/4fXHTCH1eArZTamCjimXeT), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Sånger utan ord](https://open.spotify.com/album/69YsaSWpIzKGe85DuTtKw2) | 4:16 |
 
-Snapshot ID: `MTY2MDI2MjQwMCwwMDAwMDAwMDExMjUyZGRmMDc3N2FjNzFjMDY0Y2YyZmZkOGZmNWIx`
+Snapshot ID: `MTY2MDI2MjQwMCwwMDAwMDAwMDAzM2ZmMDljZDQxYmEwOTVkNDA0ZjA1M2Q0N2M0NzM3`

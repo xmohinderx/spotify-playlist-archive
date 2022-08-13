@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,871 likes - 78 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,168 likes - 78 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

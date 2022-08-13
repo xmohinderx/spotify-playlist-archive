@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 
 > Elvis Presley's most romantic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,547 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,745 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 31 | [I Want You, I Need You, I Love You](https://open.spotify.com/track/60tEaPHRJLnMzbyOPTeh3A) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:39 |
 | 32 | [Loving You](https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:13 |
 | 33 | [It's Midnight](https://open.spotify.com/track/4pKfihh0OKoOfxirI6gmXR) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Promised Land](https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv) | 3:21 |
-| 34 | [Surrender](https://open.spotify.com/track/5D1uqXklYtlkIDO1qxmQgA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [If I Can Dream: The Very Best of Elvis](https://open.spotify.com/album/4nzoWPErEEVrZhTb13Rm7W) | 1:52 |
+| 34 | [Surrender](https://open.spotify.com/track/1aECQTfv5SO42lU4fvrdJJ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 1:52 |
 | 35 | [\(Let Me Be Your\) Teddy Bear](https://open.spotify.com/track/4FjkmQ9JYaIeh1NxeLEO80) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 1:46 |
 | 36 | [I Can't Stop Loving You \- Live at Convention Center Arena, San Antonio, TX \- April 18, 1972](https://open.spotify.com/track/27UvL4m5Si1QmlXdBIEaVt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis: Close Up](https://open.spotify.com/album/3kBT5ef0KWAuZokS4IWV7C) | 2:25 |
 
-Snapshot ID: `MTY1NTEyMTQ3MywwMDAwMDAwMDg2NTEyNjhlMDYwMjFiZjYzOTQ5ZWE4NWZjYTlkNGM3`
+Snapshot ID: `MTY1NTEyMTQ3MywwMDAwMDAwMGNlMTI1YjFlZTA0MzJlNmUyYjQ4ZmRhY2JmMjA2Yzhk`

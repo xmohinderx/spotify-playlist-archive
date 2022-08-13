@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-161 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
+163 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,12 +15,13 @@
 | [All The Noise](https://open.spotify.com/track/6azay3H49DoX9pXZ97e4kb) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [All The Noise](https://open.spotify.com/album/7LH23X0LiOonUK9TuLbKUN) | 3:37 | 2021-12-03 | 2022-07-29 |
 | [All We Have \(feat\. Lastlings\)](https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 6:50 | 2021-12-03 |  |
 | [alone < /3](https://open.spotify.com/track/7sKh83nj5qdw1bnXX6RY3r) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [alone < /3](https://open.spotify.com/album/3LpPVjsnxjU1OjQr5AETxc) | 3:01 | 2021-12-03 | 2022-07-28 |
-| [At the Party](https://open.spotify.com/track/47WxJ89JybSnYFswKjpaxx) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Nicole Kidman / Anne Hathaway](https://open.spotify.com/album/69JQT4Se7KeweFlgdmXNpA) | 2:37 | 2021-12-03 |  |
+| [At the Party](https://open.spotify.com/track/47WxJ89JybSnYFswKjpaxx) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Nicole Kidman / Anne Hathaway](https://open.spotify.com/album/69JQT4Se7KeweFlgdmXNpA) | 2:37 | 2021-12-03 | 2022-08-13 |
 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4) | 2:35 | 2021-12-03 |  |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-12-03 |  |
 | [Black Hole](https://open.spotify.com/track/0hZerqDIkaub67oHqFWjk8) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole \(Dan D’Lion Remix\)](https://open.spotify.com/album/30IVvHqLBq3tVycrSMTXlu) | 3:20 | 2021-12-03 | 2022-07-29 |
 | [Blossom](https://open.spotify.com/track/57u4qXUFPo9MtMPTjQXv8Y) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Blossom](https://open.spotify.com/album/6Iv9EOdA8QZEugV2V5X0yd) | 1:54 | 2021-12-03 | 2022-07-29 |
 | [Blush](https://open.spotify.com/track/3Yq6TLvajhIBIIGtx57r3N) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [Blush](https://open.spotify.com/album/5IwO8jLcDjEip9Y3t2t0tq) | 3:33 | 2021-12-03 |  |
+| [BLUSH!](https://open.spotify.com/track/3RbesFxKsq6J5NGVtm3ZRW) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [BLUSH!](https://open.spotify.com/album/2RCJtGEsBWrRxpDgeptGSF) | 2:34 | 2022-08-12 |  |
 | [Body](https://open.spotify.com/track/51vqvrBQaAruPhyowV2Z8V) | [Serena Sun](https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG) | [Body](https://open.spotify.com/album/6mGbgQSiEErQMR5Qrl7zGx) | 2:39 | 2022-03-11 | 2022-07-28 |
 | [bon iver](https://open.spotify.com/track/10Dm3hTVWVFhOcSo0pVB2R) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [bon iver](https://open.spotify.com/album/7fj2RvovFO6aRoQusbC8nf) | 3:16 | 2021-12-03 | 2022-07-29 |
 | [bon iver](https://open.spotify.com/track/2A6GfKINLJ2oN4sjUWj0g2) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s) | 3:16 | 2022-07-15 |  |
@@ -85,6 +86,7 @@
 | [I'm Every Woman \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [I'm Every Woman \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3) | 3:39 | 2021-12-03 |  |
 | [Ija \- TOKiMONSTA Remix](https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Ija \(TOKiMONSTA Remix\)](https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf) | 3:10 | 2021-12-03 | 2022-07-24 |
 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 | 2022-03-18 |  |
+| [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 | 2022-08-12 |  |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-03 |  |
 | [Kinda Hate U Kinda Love U](https://open.spotify.com/track/3g684aXyFCH7mGH00LLMDk) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Kinda Hate U Kinda Love U](https://open.spotify.com/album/4lh9iEtOSP6VD8X4mN4E1A) | 3:13 | 2022-07-15 |  |
 | [Kinda Hate U Kinda Love U](https://open.spotify.com/track/6y4A9PmtRYhK0wtldpb1Wo) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Kinda Hate U Kinda Love U](https://open.spotify.com/album/7KM2iRC5ZkdERil3MHJq9y) | 3:13 | 2021-12-03 | 2022-07-28 |
@@ -139,7 +141,7 @@
 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 | 2022-02-04 |  |
 | [Sublime](https://open.spotify.com/track/5hfn3tbQM78sjfEp0yRTlC) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Sublime](https://open.spotify.com/album/5fFw29w9WN8DowadchtaCr) | 3:30 | 2021-12-03 | 2022-07-29 |
 | [Sucker Punch](https://open.spotify.com/track/4wiTiQP1ZU5nTdU3Y8kx6Y) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Sucker Punch](https://open.spotify.com/album/7mMzUgInDnFHgHrcn65798) | 3:18 | 2021-12-03 | 2022-07-27 |
-| [Talk](https://open.spotify.com/track/62R6tHMZLTzqEvnNaqDXkz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Talk](https://open.spotify.com/album/2I3SLUZ8dt5RFxdKiBwUL8) | 3:02 | 2021-12-03 |  |
+| [Talk](https://open.spotify.com/track/62R6tHMZLTzqEvnNaqDXkz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Talk](https://open.spotify.com/album/2I3SLUZ8dt5RFxdKiBwUL8) | 3:02 | 2021-12-03 | 2022-08-13 |
 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 | 2021-12-03 |  |
 | [THAT'S ON YOU!](https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [THAT'S ON YOU!](https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK) | 2:39 | 2021-12-03 | 2022-07-29 |
 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 | 2022-07-15 |  |

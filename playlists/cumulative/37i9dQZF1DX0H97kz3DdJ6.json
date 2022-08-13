@@ -460,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o Gelado",
+        "url": "https://open.spotify.com/album/7eGJFopEpP5wmlAgSLECqu"
+      },
+      "artists": [
+        {
+          "name": "David iesu",
+          "url": "https://open.spotify.com/artist/6mfkFg4ZF8th47O0eKeRLH"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Cora\u00e7\u00e3o Gelado",
+      "url": "https://open.spotify.com/track/4TuhjX8VbmRYnsu4KatTyG"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/5UJ0C74v5OiSpAGc1efAbF"
       },
@@ -545,6 +563,24 @@
       "duration_ms": 149197,
       "name": "Deixa Queimar",
       "url": "https://open.spotify.com/track/3q7qqA2yQYMI1tJkJn9g1j"
+    },
+    {
+      "album": {
+        "name": "Del\u00edrio",
+        "url": "https://open.spotify.com/album/7vbu8aRXv5PoarQ1MEzPlr"
+      },
+      "artists": [
+        {
+          "name": "K8TIE",
+          "url": "https://open.spotify.com/artist/4E60gF2h5In3yPiP7actgA"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188861,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/6GqGwqeLGAI3jPZq3JuUrX"
     },
     {
       "album": {
@@ -1226,6 +1262,36 @@
     },
     {
       "album": {
+        "name": "Minha Alma Canta II",
+        "url": "https://open.spotify.com/album/67iDr3vGh8OGgheIA6CkKS"
+      },
+      "artists": [
+        {
+          "name": "Tiago Mac",
+          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "4555",
+          "url": "https://open.spotify.com/artist/2g8MdRUUgyYMiQyXgz15pa"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162923,
+      "name": "N\u00e3o \u00c9 Papo de Amor",
+      "url": "https://open.spotify.com/track/3JxYJnOrox7cNs1yv0JRZk"
+    },
+    {
+      "album": {
         "name": "Galos e Cer\u00e2micas: Uma Pe\u00e7a Sobre o Tempo",
         "url": "https://open.spotify.com/album/5QmkJORtLTOAvKHWlsaFhQ"
       },
@@ -1303,7 +1369,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 167411,
       "name": "Palavras",
       "url": "https://open.spotify.com/track/197guZOTz2ist1ccYRY0JO"
@@ -1795,7 +1861,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 186093,
       "name": "Voar",
       "url": "https://open.spotify.com/track/5MfsQMIZSGoSnqXsGGcLoD"

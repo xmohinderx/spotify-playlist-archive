@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-192 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+194 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Manito](https://open.spotify.com/track/3czR3Xu0Ld5moQlOntRH4E) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [Manito](https://open.spotify.com/album/755BUKp9HmjQUi1t1E8G5H) | 2:03 | 2022-06-24 | 2022-07-08 |
 | [Melrose](https://open.spotify.com/track/0Rgl3ZlwYRIqBXnlpswWTM) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Melrose](https://open.spotify.com/album/3tFXWxrKuIJFYu9iTTywXa) | 1:42 | 2022-06-03 | 2022-06-24 |
 | [modernity](https://open.spotify.com/track/2Gwx7C7INLa5Ze2OwOPs8O) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [modernity](https://open.spotify.com/album/1a097dX7Qga2xW0hQuYeXi) | 1:56 | 2022-05-27 | 2022-07-08 |
+| [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 | 2022-08-12 |  |
 | [Morning Glow](https://open.spotify.com/track/03UKH7unkeOer6mbroB56Q) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Morning Glow](https://open.spotify.com/album/2f4wtOv1lnMBQ09OY97sDJ) | 1:37 | 2022-05-27 | 2022-06-03 |
 | [Morning Thoughts](https://open.spotify.com/track/5BubJS4DjY6H6svy8jBrKG) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp) | [Morning Thoughts](https://open.spotify.com/album/6Rd9ehMR9rLsPziuNdK6Sz) | 1:21 | 2022-06-24 | 2022-07-01 |
 | [Motto](https://open.spotify.com/track/1ENJ8Fg32aGAxoh8mZdfCX) | [Happy Chap](https://open.spotify.com/artist/1a6c3Rh1y3kQ1KKfy58EyZ) | [Motto](https://open.spotify.com/album/0innXMWH0PqamCZQIFSTSa) | 3:52 | 2022-05-27 |  |
@@ -169,6 +170,7 @@
 | [study in lo\-fi hillshade](https://open.spotify.com/track/31QCr2Pvsq23hglCoKfVy2) | [Kathyline](https://open.spotify.com/artist/2gbD0B3Nzgzy0OQJwq3YBd) | [study in lo\-fi hillshade](https://open.spotify.com/album/2qGDXaVwBIer64qvkbIWRu) | 2:17 | 2022-05-27 |  |
 | [summer haze](https://open.spotify.com/track/2RKCKLaC3piFjxevi9iP6n) | [honeyglore](https://open.spotify.com/artist/3nhZn9q2FAqq7tsNe1icFY) | [summer haze](https://open.spotify.com/album/4oDT888zmVYN27yXVSBHlm) | 2:39 | 2022-06-10 |  |
 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 | 2022-06-24 |  |
+| [Summer Nights in Berlin](https://open.spotify.com/track/29qx3pWrRzp7O6BR0bgAze) | [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn), [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [Summer Nights in Berlin](https://open.spotify.com/album/6Y7zwPclMpDIJ5MfUIpQ4N) | 2:13 | 2022-08-12 |  |
 | [Sunrise Citi](https://open.spotify.com/track/7yBBeYGkFgASRI6LxKiLgJ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 1:58 | 2022-05-27 |  |
 | [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 | 2022-05-27 |  |
 | [Sunset Drive](https://open.spotify.com/track/0MhsUh9Rak7iwDCbvAJ9Rm) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [Sunset Drive](https://open.spotify.com/album/09dRVxe736p7foZEPu2cXn) | 3:04 | 2022-06-24 | 2022-07-15 |

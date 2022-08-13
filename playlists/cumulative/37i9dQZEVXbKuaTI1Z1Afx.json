@@ -2532,6 +2532,28 @@
     },
     {
       "album": {
+        "name": "Delirious",
+        "url": "https://open.spotify.com/album/0ktt8nyiccUBWvqKsmJdHQ"
+      },
+      "artists": [
+        {
+          "name": "Vistoso Bosses",
+          "url": "https://open.spotify.com/artist/1PwQodDnDYjun9ySkaucyi"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242866,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/0nH3kN1WXrbxZSptazFX1r"
+    },
+    {
+      "album": {
         "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
       },
@@ -5529,7 +5551,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 148490,
       "name": "I Love You Bitch",
       "url": "https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5"

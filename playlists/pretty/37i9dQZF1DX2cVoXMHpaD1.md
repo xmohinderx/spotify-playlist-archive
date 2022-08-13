@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,801 likes - 120 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,804 likes - 120 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 52 | [I Feel You](https://open.spotify.com/track/1gdTztk1x8HCDlxcSR8vp3) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:25 |
 | 53 | [Crazy](https://open.spotify.com/track/6GQbb43r52Z1m8Zs5mweIK) | [Song Ji Eun](https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8), [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [Crazy](https://open.spotify.com/album/2P6u0UyxHdJcfjSBsWzgR9) | 3:50 |
 | 54 | [Baby i'm sorry](https://open.spotify.com/track/7C3bb3oP3Hzov8Jof9FcqV) | [MYNAME](https://open.spotify.com/artist/1Q8ON7PhIGhFtgbfzx13CK) | [MYNAME 1ST MINI ALBUM](https://open.spotify.com/album/17jmoMlnl2lfkhKSbvRkye) | 3:42 |
-| 55 | [JANUS](https://open.spotify.com/track/2TnisrTHhBfZTlfPQa2M6v) | [BOYFRIEND](https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd) | [JANUS](https://open.spotify.com/album/452jBX9RIZQXPZoljxU2fP) | 3:28 |
+| 55 | [JANUS](https://open.spotify.com/track/2TnisrTHhBfZTlfPQa2M6v) | [BOYFRIEND](https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd) | [JANUS \(1\)](https://open.spotify.com/album/452jBX9RIZQXPZoljxU2fP) | 3:28 |
 | 56 | [FACE](https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:40 |
 | 57 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 |
 | 58 | [Far away… Young love](https://open.spotify.com/track/3sm4Y7jIMFIFsviVYo9xXr) | [C\-CLOWN](https://open.spotify.com/artist/5HBeCjZkFtwfLYD7X3kLwi) | [Young Love](https://open.spotify.com/album/5jWVvga8eohxe2jiYCZVp0) | 3:44 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 71 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 |
 | 72 | [Caffeine \(Feat\. Jun Hyung Yong Of BEAST\)](https://open.spotify.com/track/1XWHUMBimQATJmn5bg4T7P) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [The First Collage](https://open.spotify.com/album/3d45k3K0wPf2h1YkVeyOAr) | 3:35 |
 | 73 | [I GOT A BOY](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 4:31 |
-| 74 | [Special girl](https://open.spotify.com/track/0ef1V9YLnik4NIzfHQ1Zqn) | [INFINITE H](https://open.spotify.com/artist/6wG0oxTnYjwcjpdK3YRtR1), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [FLY HIGH](https://open.spotify.com/album/1sUMNikWB9JPT2oNXV2Mn5) | 4:08 |
+| 74 | [Special girl \(feat.Bumkey\)](https://open.spotify.com/track/0ef1V9YLnik4NIzfHQ1Zqn) | [INFINITE H](https://open.spotify.com/artist/6wG0oxTnYjwcjpdK3YRtR1), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [FLY HIGH](https://open.spotify.com/album/1sUMNikWB9JPT2oNXV2Mn5) | 4:08 |
 | 75 | [Ooh Ooh](https://open.spotify.com/track/6v6WTbgV4Hqjdjnd44ICYD) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [HOYA](https://open.spotify.com/artist/3bGzcepRQ7Zu1J6JDDAq1T) | [Ooh Ooh](https://open.spotify.com/album/4AFxO6gMtKC8O1ksxjFncV) | 3:15 |
 | 76 | [1, 2, 3, 4](https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [1,2,3,4](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) | 3:34 |
 | 77 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |

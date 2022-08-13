@@ -4,7 +4,7 @@
 
 > set your intentions at the highest of vibrations
 
-48 songs - 2 hr 45 min - not published yet
+48 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/4vkWwCrbGuZsCWpk6G5ezR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

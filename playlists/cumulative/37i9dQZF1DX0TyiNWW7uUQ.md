@@ -2,7 +2,7 @@
 
 ### [Kollywood Cream](https://open.spotify.com/playlist/37i9dQZF1DX0TyiNWW7uUQ)
 
-> Finest collection of Tamil Music from the past 5 years<br/>Cover : Anirudh Ravichander
+> Finest collection of Tamil Music from the past 5 years<br/>Cover : Viruman
 
 97 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/69GF5UsinX4QRifDXRVvJk)
 

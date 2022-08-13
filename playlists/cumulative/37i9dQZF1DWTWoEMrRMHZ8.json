@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Rachel Reis",
+  "description": "As belas novidades da MPB. Foto: Djavan",
   "name": "Divina MPB",
   "published_playlist_ids": [
     "01cf54AteUmLGb18bFZOzr"
@@ -2174,6 +2174,52 @@
     },
     {
       "album": {
+        "name": "D",
+        "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        },
+        {
+          "name": "Fl\u00e1via Viana",
+          "url": "https://open.spotify.com/artist/6kxOvJZErmIgGAtN78CEw6"
+        },
+        {
+          "name": "Max Viana",
+          "url": "https://open.spotify.com/artist/6dQWVUfSajf5RvjaQ6ujZk"
+        },
+        {
+          "name": "Jo\u00e3o Viana",
+          "url": "https://open.spotify.com/artist/0RAU3tHQiPCy261CdZ2Udx"
+        },
+        {
+          "name": "Sofia Viana",
+          "url": "https://open.spotify.com/artist/6yUNd8Qz8EvrBQ4hJ9HAPx"
+        },
+        {
+          "name": "In\u00e1cio Viana",
+          "url": "https://open.spotify.com/artist/7Gxv3Q7v810r6BVpSfCXHY"
+        },
+        {
+          "name": "Thomas Boljover",
+          "url": "https://open.spotify.com/artist/6TUthQ8UKDVOQEParcou9V"
+        },
+        {
+          "name": "Lui Viana",
+          "url": "https://open.spotify.com/artist/2SclPBM7tuuMLpcUVUVMbz"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268617,
+      "name": "Iluminado (feat. Fl\u00e1via Viana, Max Viana, Jo\u00e3o Viana, Sofia Viana, In\u00e1cio Viana, Thomas Boljover & Lui Viana)",
+      "url": "https://open.spotify.com/track/4PyckagqFTimt12aJrg71q"
+    },
+    {
+      "album": {
         "name": "Imploro",
         "url": "https://open.spotify.com/album/6p47z1qdRYcH9R6zl3yaWv"
       },
@@ -2543,7 +2589,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk"
@@ -3825,7 +3871,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 212307,
       "name": "Pra Me Benzer",
       "url": "https://open.spotify.com/track/4NOqJ2OsEUw5fm7YPfu7Be"
@@ -5501,6 +5547,24 @@
       "duration_ms": 191164,
       "name": "\u00cdndia",
       "url": "https://open.spotify.com/track/2xt5DJpvyf5BmUD9Q91LOc"
+    },
+    {
+      "album": {
+        "name": "Serotonina",
+        "url": "https://open.spotify.com/album/1BUJAgFFEA6ebbaFU8Fipc"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224041,
+      "name": "\u00d3rbita",
+      "url": "https://open.spotify.com/track/686veWKRzmwYCFpisNUulz"
     },
     {
       "album": {

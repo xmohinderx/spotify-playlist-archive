@@ -1,13 +1,65 @@
 {
   "description": "Featuring that new vintage. Cover: Sarah Kang",
-  "num_followers": 398802,
+  "num_followers": 398905,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDhiYjc5ZWZkMzI2ODAwYTQzODQ1ODU3YTViMTExZjgw",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDNkNzYzMDkzOTI3ZmZmN2I4ZGYwOTIxMGZiNWRjMDdi",
   "tracks": [
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "about time",
+        "url": "https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Takahiro Izumikawa",
+          "url": "https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D"
+        }
+      ],
+      "duration_ms": 193047,
+      "name": "about time",
+      "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
     {
       "added_at": "2022-07-22 04:02:00",
       "album": {
@@ -33,24 +85,40 @@
       "url": "https://open.spotify.com/track/7uYpvX8Gb7CUubdJcRt8E0"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-05-02 20:03:12",
       "album": {
-        "name": "about time",
-        "url": "https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u"
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
       "artists": [
         {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Takahiro Izumikawa",
-          "url": "https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 193047,
-      "name": "about time",
-      "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
+      "duration_ms": 214193,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Catch My Wave",
+        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Catch My Wave",
+      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -69,22 +137,6 @@
       "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Fall In Love Alone",
@@ -99,38 +151,6 @@
       "duration_ms": 205427,
       "name": "Fall In Love Alone",
       "url": "https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe"
-    },
-    {
-      "added_at": "2022-05-02 20:03:12",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "a lighter shade of blue",
-        "url": "https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "hurt",
-      "url": "https://open.spotify.com/track/2ULMkcWFhgiyuTQgdALlqC"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -157,6 +177,22 @@
       "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
     },
     {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "AMAZING",
+        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Until I Found You (Em Beihold Version)",
@@ -175,22 +211,6 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "AMAZING",
-        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1081,22 +1101,6 @@
       "url": "https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 181535,
-      "name": "I Don't Wanna Lie",
-      "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "WTSGD (with Alessia Cara)",
@@ -1115,6 +1119,22 @@
       "duration_ms": 244013,
       "name": "WTSGD (with Alessia Cara)",
       "url": "https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 181535,
+      "name": "I Don't Wanna Lie",
+      "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1335,22 +1355,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Moments in Between",
-        "url": "https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Sweet Chamomile",
-      "url": "https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "WE ARE (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
       },
@@ -1371,6 +1375,22 @@
       "duration_ms": 223815,
       "name": "ADULTHOOD",
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Moments in Between",
+        "url": "https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Sweet Chamomile",
+      "url": "https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1699,22 +1719,6 @@
       "duration_ms": 203415,
       "name": "Do That for You",
       "url": "https://open.spotify.com/track/6nxRxeYjAKJfwtWGO1CtjO"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Before & After Life",
-        "url": "https://open.spotify.com/album/0gbO5q0USgCkccD7CpCiwE"
-      },
-      "artists": [
-        {
-          "name": "Eric Hutchinson",
-          "url": "https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4"
-        }
-      ],
-      "duration_ms": 293500,
-      "name": "The Best Part",
-      "url": "https://open.spotify.com/track/00tGCgulE0lQHeJugDDNtl"
     }
   ],
   "unique_name": "Retro Pop",

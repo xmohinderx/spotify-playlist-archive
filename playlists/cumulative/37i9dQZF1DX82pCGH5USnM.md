@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-533 songs - 1 day 7 hr 58 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+539 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 | 2021-06-02 |  |
 | [Bamboo](https://open.spotify.com/track/38sgXe7I4fJwnYEqBcO7xT) | [Gleery](https://open.spotify.com/artist/6LXTSY43XhcV6XnVLANctK) | [Bamboo](https://open.spotify.com/album/1aj2hPr1ERvkV1oKJ0JPOH) | 3:36 | 2021-10-06 |  |
 | [Bandai Azuma Skyline](https://open.spotify.com/track/7oH2Pb9UGj80oSbn25YOh7) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Gazo Road](https://open.spotify.com/album/3Y7OzTyJlq3fKac9TQNygY) | 2:49 | 2020-04-03\* | 2020-04-14 |
+| [Base\-level Guilt](https://open.spotify.com/track/5zKasYyHSZ6oNpxdNGrGZg) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Base\-level Guilt](https://open.spotify.com/album/24d5RGnCIcRoIdcEzBHJMp) | 3:06 | 2022-08-12 |  |
 | [Beach & Towel](https://open.spotify.com/track/0S2WwkBNYpiXWssKc6Nwrf) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Beach & Towel](https://open.spotify.com/album/19IWLkyd4dr67RCRMbIyGG) | 2:40 | 2021-02-04 | 2022-06-24 |
 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2021-06-16 |  |
 | [Beautiful Mistakes](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z) | [Maurice Mills](https://open.spotify.com/artist/0ZcVnAa1FuqddOKuw0Ok6Q) | [Beautiful Mistakes](https://open.spotify.com/album/54b551w06UPS9Bt1a4yl6E) | 2:03 | 2021-06-02 |  |
@@ -167,6 +168,7 @@
 | [Float Through Forever](https://open.spotify.com/track/6uLv9L8zl6HO5tJtL9pe2B) | [Weedthief](https://open.spotify.com/artist/68nJ4u9Ksp29uysSXzGZQG), [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Float Through Forever](https://open.spotify.com/album/4ThIDWbrvPwaPnXRzZ8XgQ) | 2:00 | 2020-04-03\* | 2020-11-19 |
 | [Floating](https://open.spotify.com/track/76aN0A4w4L3dgZRjFZyMdO) | [Lightcore](https://open.spotify.com/artist/4AlA8vTiQdHHCKVBMJKHBg) | [Floating](https://open.spotify.com/album/5uytHbeCMXBfalRKmxrSM3) | 3:10 | 2020-04-03\* | 2020-12-24 |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2021-07-08 |  |
+| [Flume](https://open.spotify.com/track/53XQa4c87MqktZqgvNpnYh) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Flume](https://open.spotify.com/album/1jojVLaHmyhGzEU6kPoKxz) | 2:16 | 2022-08-12 |  |
 | [Focal Point](https://open.spotify.com/track/31tLOq9d1OzpVb9fxpCQ3p) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Target](https://open.spotify.com/album/3kI4ax7CduZsv6bqHvcbGK) | 3:05 | 2020-04-03\* | 2020-11-04 |
 | [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 | 2020-11-19 | 2021-08-20 |
 | [Follow Up](https://open.spotify.com/track/7sxfrgHZkrpl74e7UlJGNH) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Follow Up](https://open.spotify.com/album/7cjTvqHIXbcN0qmNmSfZmO) | 2:48 | 2020-05-28 | 2021-04-21 |
@@ -228,6 +230,7 @@
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2021-10-06 |  |
 | [In the Morning We Shine](https://open.spotify.com/track/0Mw8IH4cKB3Ldnuh61Ro5h) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Aerial Navigation](https://open.spotify.com/album/6jjVN8tN951F1YaJdYC6lw) | 5:50 | 2020-04-07 | 2020-05-06 |
 | [In This Together](https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [In This Together](https://open.spotify.com/album/3HZMaVLmEIXqSNjhsTjrmD) | 2:49 | 2020-04-03\* | 2022-04-06 |
+| [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 | 2022-08-12 |  |
 | [Indigo](https://open.spotify.com/track/5v5pd290c4Gfdc8zFg7b31) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Indigo](https://open.spotify.com/album/7FSDgHsFvuoSkLmJqWifn0) | 2:23 | 2022-08-05 |  |
 | [INFINITE](https://open.spotify.com/track/3soQNBnujuHVriffjZJ6jU) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Voyage](https://open.spotify.com/album/6tEXhsto6ziBVo7OLHUfPn) | 4:02 | 2020-04-03\* | 2021-03-06 |
 | [Inga\-lill \- Edit](https://open.spotify.com/track/2nw0tw9i8BCEwGQyQkXcT6) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Inga\-lill](https://open.spotify.com/album/42LrBaAf5xLDvMpFA1mqQJ) | 4:50 | 2020-04-03\* | 2020-12-09 |
@@ -442,6 +445,7 @@
 | [Strobe Alley](https://open.spotify.com/track/5d2xWaXb7Wyu0T9fSUPwJa) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Strobe Alley](https://open.spotify.com/album/0eigUdryKClncsWngNi64B) | 4:20 | 2020-12-02 | 2022-06-24 |
 | [Suburban Sunrise](https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Travellers](https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe) | 3:35 | 2020-04-03\* | 2022-04-15 |
 | [Suede](https://open.spotify.com/track/3L0h3F6legZt2hBN1h9KZg) | [Alexis Dex](https://open.spotify.com/artist/0cTgUITSZa5GgXygwDcyqV) | [Suede](https://open.spotify.com/album/4AxjnlN28EuaWC1tZyOGu1) | 3:03 | 2021-11-08 |  |
+| [Sumatra](https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Sumatra](https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2) | 3:17 | 2022-08-12 |  |
 | [Summer Daze](https://open.spotify.com/track/6IicRTrwqlLmP0d3s5cFra) | [Kev Twine](https://open.spotify.com/artist/00LMt4rvi6xkahRJ8UVKDU) | [Summer Daze](https://open.spotify.com/album/7IMNPhTvyJ524UefN6aTQW) | 2:19 | 2020-04-03\* | 2021-06-02 |
 | [Summer Places](https://open.spotify.com/track/4Ka2ARI8wlfOFYt2y1DwSg) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Summer Places](https://open.spotify.com/album/31EXbfQhVsixEG6RBrw5R4) | 3:43 | 2020-04-29 | 2020-05-13 |
 | [Summer Rain](https://open.spotify.com/track/7lQxkbFv1kvPld5x44w3RT) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Happiness Therapy LP01 : The Coast](https://open.spotify.com/album/4rde1PzuPvIf5kwBRuIFyW) | 6:12 | 2020-12-16 | 2021-01-05 |
@@ -454,6 +458,7 @@
 | [Sunny Daydream](https://open.spotify.com/track/3YqJWoEXBf9UQ0vxbB39av) | [Ocean Lights](https://open.spotify.com/artist/2rCoNCmsCtzV7fQyhKvQ8Z) | [Sunny Daydream](https://open.spotify.com/album/404mBSjQ9FRsqQoejpLaUe) | 2:46 | 2021-08-20 |  |
 | [Sunny Nelson \(Edit\)](https://open.spotify.com/track/7gLfZIkrjUTwypnhFp6Get) | [Abel Tasman](https://open.spotify.com/artist/4D2dWZ7uyVyqDj3Ah05Xtr) | [Sunny Nelson \(Edit\)](https://open.spotify.com/album/67hBb3jhTHYrHk9Dtfy5bR) | 3:48 | 2021-11-08 |  |
 | [Sunrider](https://open.spotify.com/track/57BjBUlKLXpzvveTapqUDP) | [Relŭm](https://open.spotify.com/artist/2KLneUbYr9ASsmFfZWIdYo) | [Sunrider](https://open.spotify.com/album/4TKpipN1yJhJO53XX1H9RA) | 2:08 | 2022-05-13 |  |
+| [Sunrise](https://open.spotify.com/track/3TYF3RI9u0EzSQZkjp4MZ6) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel), [O3L](https://open.spotify.com/artist/7wcEi954zzxLil4ihmxOZy) | [Sunrise](https://open.spotify.com/album/1jw1mgFBtQ5BAlBOOlyIEP) | 2:10 | 2022-08-12 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2021-03-06 |  |
 | [Sunset Skybar](https://open.spotify.com/track/5eqQtD31iK7C3KgNcFTM6Q) | [Palma Dreams](https://open.spotify.com/artist/6g6CC8hzY5pFe9trUEoty9) | [Dive In](https://open.spotify.com/album/3ITTHt0Eu1doM1Q4wh1I8U) | 2:40 | 2022-01-21 |  |
 | [Sunspray](https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Sunspray](https://open.spotify.com/album/3Ce6BDYrT48XYj5qX8bIdo) | 3:10 | 2021-03-06 | 2022-07-22 |
@@ -521,6 +526,7 @@
 | [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 | 2022-08-05 |  |
 | [Walking Over Me](https://open.spotify.com/track/7uYmG1Vxxr2FXcm78VwTBT) | [Zetbee](https://open.spotify.com/artist/7ju7u4UaASOSjl2Vm53ulN) | [Crossed Signals, Vol\. 11](https://open.spotify.com/album/3t6MUWKVa7P5AFtvzgpSeU) | 6:37 | 2021-01-27 | 2021-02-04 |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-08 |  |
+| [Wayless](https://open.spotify.com/track/2R4wZV3xXUK6ymYuutoCIL) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Wayless](https://open.spotify.com/album/5WeziXtaneAoMQHOI2GCo4) | 2:33 | 2022-08-12 |  |
 | [Weighted](https://open.spotify.com/track/469uSkgXM3zccp9Oz9ykJo) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Weighted](https://open.spotify.com/album/6NIy3wI2JPiGxTfwTePCPp) | 6:57 | 2021-01-18 | 2021-09-09 |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2021-11-08 |  |
 | [Wheels](https://open.spotify.com/track/1AJD4Fw58ImrWvBFybgggg) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Summer](https://open.spotify.com/album/3iEJDeVcMLzAFJToGcih34) | 3:06 | 2020-04-29 | 2020-05-13 |

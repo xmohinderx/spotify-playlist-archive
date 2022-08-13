@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 
 > 8月6日公開<a href="https://www.onepiece\-film.jp/">『ONE PIECE FILM RED』</a>公式プレイリスト。「ONE PIECE」映画作品の主題歌集。The official playlist for "ONE PIECE FILM RED"\.  ©尾田栄一郎／2022「ワンピース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,958 likes - 22 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,406 likes - 22 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 | 21 | [怒りをくれよ](https://open.spotify.com/track/2FXtYLpJKHEbtLuCDGpRrr) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Next One](https://open.spotify.com/album/7e4Ohezjjyg28roi8wFxhZ) | 3:28 |
 | 22 | [GONG](https://open.spotify.com/track/4TFUsim1NVJGvQjE2Ppeno) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 4:28 |
 
-Snapshot ID: `MTY2MDA1NzIwMCwwMDAwMDAwMGE3MTEwMGQ3YTMyZmI4MGYwODg0Yjk2YzY5ZWQ0MjBi`
+Snapshot ID: `MTY2MDMwNTk2NywwMDAwMDAwMGNkZWE5YjEzMDUwNGFkZmY1OTcxZmMxOGU5NWI1YmQy`

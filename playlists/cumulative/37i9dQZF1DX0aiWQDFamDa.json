@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 339826,
       "name": "A Certain Sadness",
       "url": "https://open.spotify.com/track/3rNEyZg9zAnT5djNUpsUSc"
@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230690,
+      "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
+    },
+    {
+      "album": {
         "name": "The Secret Between the Shadow and the Soul",
         "url": "https://open.spotify.com/album/21Jrn9lGRwkXZyFz2bJjaf"
       },
@@ -819,6 +837,28 @@
       "duration_ms": 763466,
       "name": "Gloomy Sunday",
       "url": "https://open.spotify.com/track/1E8CLofdHL6FVq4PXIIw9x"
+    },
+    {
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Gloomy Sunday (with Teddy Wilson & His Orchestra) - Take 1",
+      "url": "https://open.spotify.com/track/41CHb7F7SXcmkj0h8wekeF"
     },
     {
       "album": {
@@ -1519,7 +1559,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 467236,
       "name": "In a Sentimental Mood",
       "url": "https://open.spotify.com/track/0fv2YFvTsKNLK0X7PNvXqM"

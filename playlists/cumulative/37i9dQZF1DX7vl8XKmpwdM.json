@@ -1070,6 +1070,32 @@
     },
     {
       "album": {
+        "name": "Sippara Rippara (From \"Paramporul\")",
+        "url": "https://open.spotify.com/album/6oZ2UEmDDb6dxJqUKuYAR1"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Amitash",
+          "url": "https://open.spotify.com/artist/5f1RvHCGNLIQam2LS3q2vQ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238923,
+      "name": "Sippara Rippara - From \"Paramporul\"",
+      "url": "https://open.spotify.com/track/4LH4s5TutFlFWqIrGuzrSi"
+    },
+    {
+      "album": {
         "name": "Kannum Kannum Kollaiyadithaal",
         "url": "https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug"
       },

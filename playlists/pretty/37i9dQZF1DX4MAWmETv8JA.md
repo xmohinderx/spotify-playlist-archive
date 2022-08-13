@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,871 likes - 64 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,891 likes - 64 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

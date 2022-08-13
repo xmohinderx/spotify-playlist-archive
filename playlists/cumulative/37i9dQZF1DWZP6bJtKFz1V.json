@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "alternative hits of today, tomorrow, and then some. Cover: The Regrettes",
+  "description": "alternative hits of today, tomorrow, and then some. Cover: Dayglow",
   "name": "Et Alt",
   "published_playlist_ids": [
     "1wVw7z1lWnvceI3e0NeFmp"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 160435,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/5fnYDXLhFOioudAeiQGOPD"
@@ -928,6 +928,24 @@
     },
     {
       "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
+    },
+    {
+      "album": {
         "name": "C O O L Santa Ana",
         "url": "https://open.spotify.com/album/0Ij15Oka2Kqeb9PSl7wpd9"
       },
@@ -1091,6 +1109,24 @@
       "duration_ms": 193299,
       "name": "Chapstick",
       "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
+    },
+    {
+      "album": {
+        "name": "Charlie",
+        "url": "https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184797,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD"
     },
     {
       "album": {
@@ -1979,7 +2015,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 236184,
       "name": "Eyes Don\u2019t Lie",
       "url": "https://open.spotify.com/track/2RSqIGxbnTQQjZIS5Iyakn"
@@ -2105,7 +2141,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 140280,
       "name": "Flavor of the Month",
       "url": "https://open.spotify.com/track/5cCuxmNLdzcPZT7hUsOQ6j"
@@ -2863,7 +2899,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 162782,
       "name": "I'M NOT SORRY",
       "url": "https://open.spotify.com/track/1RcHsx2rw6ojtQyFlLr99O"
@@ -3307,7 +3343,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 170563,
       "name": "Lies",
       "url": "https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI"
@@ -3963,7 +3999,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 174620,
       "name": "Mr Regular",
       "url": "https://open.spotify.com/track/1P4zbuZbTKc12UxXXZJohl"
@@ -4831,7 +4867,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 232444,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/115AuyL9TvemxBhMkaR5r4"
@@ -4921,7 +4957,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 210608,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs"
@@ -5047,7 +5083,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 211493,
       "name": "Same Team",
       "url": "https://open.spotify.com/track/2GAFfaQTUULj1YVfbuKuRb"
@@ -5177,7 +5213,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 232653,
       "name": "See You When The End's Near",
       "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
@@ -5877,7 +5913,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 203972,
       "name": "the idea",
       "url": "https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr"
@@ -6007,6 +6043,24 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "album": {
+        "name": "The Rodeo",
+        "url": "https://open.spotify.com/album/3VPtca7a7ZIpDiAlP6WITv"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "The Rodeo",
+      "url": "https://open.spotify.com/track/3Yx28qSrbZupaKw9pUBHfu"
     },
     {
       "album": {
@@ -6216,6 +6270,28 @@
     },
     {
       "album": {
+        "name": "toxic energy",
+        "url": "https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191559,
+      "name": "toxic energy (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI"
       },
@@ -6289,7 +6365,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 161200,
       "name": "TVI",
       "url": "https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5"
@@ -6608,6 +6684,24 @@
     },
     {
       "album": {
+        "name": "What Does That Make Me?",
+        "url": "https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173641,
+      "name": "What Does That Make Me?",
+      "url": "https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz"
+    },
+    {
+      "album": {
         "name": "What, Me Worry?",
         "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
@@ -6681,7 +6775,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 225128,
       "name": "Where Are You Now? (feat. girlhouse)",
       "url": "https://open.spotify.com/track/6yqCz1a30TyBBkLQrAcs7L"

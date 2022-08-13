@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-792 songs - 1 day 13 hr 5 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+793 songs - 1 day 13 hr 7 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Cheat Code](https://open.spotify.com/track/4K0ELLoquGS6aTRRom52zv) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Sense Of Human](https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm) | 2:12 | 2021-10-17 | 2021-10-18 |
 | [Christmas EveL](https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 2:58 | 2021-12-02 | 2021-12-03 |
 | [Close Eyes](https://open.spotify.com/track/7BNWWI6aZPLkYCfRat8HuD) | [Chego1963](https://open.spotify.com/artist/5UkiJi6aTQnJeqCrsGEAt7), [onurxt](https://open.spotify.com/artist/1Sl3NqTA49ay9Cb1ANXQog), [Rylixe](https://open.spotify.com/artist/57wNgV40K2oSH5KyzvVw1F) | [Close Eyes](https://open.spotify.com/album/6phw9EwZgc6h5tmiIRndVe) | 2:12 | 2022-04-10 | 2022-04-22 |
-| [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-06-27 |  |
+| [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-06-27 | 2022-08-13 |
 | [Close Eyes](https://open.spotify.com/track/4cboAOd9H48uPTWknVyLBq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/5A4ufdNeSzNjZePkkZrhcO) | 2:12 | 2021-06-16 | 2021-06-27 |
 | [Close Eyes](https://open.spotify.com/track/220oA415Hr87iYECBgabgE) | [KaSuo](https://open.spotify.com/artist/5XzfL0Zz0gVDDw9aOEtlhn) | [Close Eyes](https://open.spotify.com/album/6vTv8avMRDNfVHZQPAH9aN) | 2:12 | 2022-04-28 | 2022-04-30 |
 | [Codeinoslav](https://open.spotify.com/track/0pgbIUVOfAUml2rYrf4hcz) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [Codeinoslav](https://open.spotify.com/album/5lbBiquAaFHQq63Q9lpcSY) | 1:49 | 2022-07-23 |  |
@@ -419,6 +419,7 @@
 | [Большая Мама](https://open.spotify.com/track/53jhZoXXeGYrznjerkEQlh) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [DIGITAL FANTAZY](https://open.spotify.com/album/5QtUYUoSG9HPhYnAro9GYj) | 2:16 | 2021-10-10 | 2021-10-14 |
 | [Большие Бабки](https://open.spotify.com/track/2ptLn7vjymoB8oTBgKCiZz) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Пропаганда денег](https://open.spotify.com/album/5LfOhXW4R8BAtuE1rGkK54) | 2:20 | 2022-04-16 | 2022-04-18 |
 | [Босс](https://open.spotify.com/track/3kxqYEJ96YrLS8rs0BMBn0) | [JONY](https://open.spotify.com/artist/2ISiyx4DLCMAMBCvPesCoq), [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7) | [Босс](https://open.spotify.com/album/3v1aJT6Gd88ItACHHndt0n) | 2:58 | 2021-09-26 | 2021-10-17 |
+| [боі стули пельку](https://open.spotify.com/track/5ZNmRNEc0i3o8sP9NKqsvQ) | [jockii druce](https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94) | [боі стули пельку](https://open.spotify.com/album/5R6hstw0oWUTdJbehcdH8w) | 1:19 | 2022-08-12 |  |
 | [БРАТВА НА СВЯЗИ](https://open.spotify.com/track/432iEnUQPm1FB2P5oJXNZS) | [SQWOZ BAB](https://open.spotify.com/artist/5U2ISoieRzT6TaqiXumcXl), [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi), [blago white](https://open.spotify.com/artist/5UlVY7KwBwUPvHs1JtmUqy) | [БРАТВА НА СВЯЗИ](https://open.spotify.com/album/5JG7kn0SqA5zoyuixnhftt) | 3:13 | 2021-08-29 | 2021-08-30 |
 | [Бригада](https://open.spotify.com/track/2d7vK6m69cyq29nK1eDUCL) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:19 | 2021-08-15 | 2021-08-16 |
 | [БРИЛЛИАНТЫ VVS](https://open.spotify.com/track/6sqUZDHeNvQ6OAheh0PZ7i) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh), [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [БРИЛЛИАНТЫ VVS](https://open.spotify.com/album/3HC2MtBmf1EK0uHpw0dWxf) | 2:59 | 2021-09-26 | 2021-10-12 |

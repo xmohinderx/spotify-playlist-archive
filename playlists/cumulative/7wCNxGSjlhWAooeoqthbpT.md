@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records.
 
-95 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/6P9X9MwCBeNsFzdG2NDQp3)
+96 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/6P9X9MwCBeNsFzdG2NDQp3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Baccwood](https://open.spotify.com/track/5If13CIfsTGrzOcT2FOa1t) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Baccwood](https://open.spotify.com/album/6XC3qtcbgl4Lq25cCAtw94) | 1:27 | 2022-06-10 | 2022-07-16 |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2022-06-24 |  |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-04 |  |
+| [BEAM \(feat\. Dougie B & KALIQ\)](https://open.spotify.com/track/3CG9KBVHm20sqYDpNMFeHe) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [KALIQ](https://open.spotify.com/artist/0jEh2LSTBnGfUf6A0zefdR) | [BEAM \(feat\. Dougie B & KALIQ\)](https://open.spotify.com/album/5tRtIAhnIprppyv4if1GAB) | 2:12 | 2022-08-12 |  |
 | [Blessings \(feat\. Chronixx\)](https://open.spotify.com/track/0VoCmyKz6GRRl6AuT7if6t) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Blessings \(feat\. Chronixx\)](https://open.spotify.com/album/59eVgCnvJgjlEX4vLiOSHm) | 3:44 | 2022-01-07 | 2022-07-09 |
 | [Bradley Beal](https://open.spotify.com/track/0Nc9IKSP3I0e8NWuqJetKc) | [ADÉ](https://open.spotify.com/artist/5pDY9dgZO8O1yNZDARb62q), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Bradley Beal](https://open.spotify.com/album/7gkje8lNZkA2Jaa30SYrPb) | 3:00 | 2021-09-10 | 2022-07-16 |
 | [Came In the Scene](https://open.spotify.com/track/4SkIdCA9Vp7XXSAlYGtohn) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Came In the Scene](https://open.spotify.com/album/6A4nLaxBv36jA24lb6CmBO) | 3:05 | 2022-05-06 | 2022-06-18 |
@@ -98,7 +99,7 @@
 | [TRU RELIGION](https://open.spotify.com/track/0DyDLDwnMWWBDNw3cTM37f) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [TRU RELIGION](https://open.spotify.com/album/2KVJYvcbFijqVQZCMEBQvH) | 2:57 | 2022-05-06 | 2022-06-11 |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-29 |  |
 | [Weatherman](https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq) | 2:25 | 2022-02-18 | 2022-07-16 |
-| [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 | 2021-08-24 |  |
+| [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 | 2021-08-24 | 2022-08-13 |
 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 | 2021-07-30 |  |
 | [WIN](https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WIN](https://open.spotify.com/album/4CenGyZ0UR5yccbM5b7Zk1) | 2:49 | 2022-01-14 | 2022-06-11 |
 | [Wishin \(feat\. B\-Lovee\)](https://open.spotify.com/track/4brjhS8jM6awvONNexpSG0) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Wishin \(feat\. B\-Lovee\)](https://open.spotify.com/album/2o1fNtQx2GK6ezyeTZXaRc) | 2:43 | 2022-07-08 |  |

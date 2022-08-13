@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eAsdXwbE4f.md) - [plain]
 
 > Relax to the sound of birds singing in the rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,838 likes - 109 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,849 likes - 109 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

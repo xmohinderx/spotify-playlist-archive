@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 222314,
       "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
       "url": "https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx"
@@ -1843,7 +1843,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 235562,
       "name": "Cookie",
       "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
@@ -1919,7 +1919,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 231497,
       "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
       "url": "https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM"
@@ -3241,7 +3241,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 264480,
       "name": "For Youth",
       "url": "https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5"
@@ -4964,6 +4964,28 @@
     },
     {
       "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        },
+        {
+          "name": "Thanh Bui",
+          "url": "https://open.spotify.com/artist/2q8305j8iKRCQr7Tn6woin"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240500,
+      "name": "kh\u00f4ng m\u1ed9t b\u00e0i h\u00e1t n\u00e0o c\u00f3 th\u1ec3 di\u1ec5n t\u1ea3 c\u1ea3m x\u00fac c\u1ee7a em l\u00fac n\u00e0y. (feat. Thanh Bui)",
+      "url": "https://open.spotify.com/track/2AA4UcXp2WRvsU9cyHT6Vy"
+    },
+    {
+      "album": {
         "name": "Rap Vi\u1ec7t Season 2 - T\u1eadp 1",
         "url": "https://open.spotify.com/album/4euaz1yN2icsNuzCDUauAV"
       },
@@ -5313,6 +5335,28 @@
       "duration_ms": 214253,
       "name": "LILAC",
       "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "album": {
+        "name": "Li\u1ec7u Gi\u1edd",
+        "url": "https://open.spotify.com/album/1aRGbHftmJqclyoYJT8q6c"
+      },
+      "artists": [
+        {
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
+        },
+        {
+          "name": "V\u0103n",
+          "url": "https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258668,
+      "name": "Li\u1ec7u Gi\u1edd",
+      "url": "https://open.spotify.com/track/2EZtTS76x5M6hK96CLclPd"
     },
     {
       "album": {
@@ -6439,7 +6483,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 254476,
       "name": "N\u00e0ng Th\u01a1",
       "url": "https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt"
@@ -7631,6 +7675,24 @@
       "duration_ms": 194600,
       "name": "SCIENTIST",
       "url": "https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa"
+    },
+    {
+      "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185002,
+      "name": "See T\u00ecnh",
+      "url": "https://open.spotify.com/track/307iMiCYAKX6sUG7P4UKWt"
     },
     {
       "album": {

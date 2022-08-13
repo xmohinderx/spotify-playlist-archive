@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: La Mambanegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,925 likes - 84 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,952 likes - 84 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 3 | [Pa' la Calle](https://open.spotify.com/track/0iZet9i0d0BTnnNF8g0bxY) | [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ), [Jacobo Velez](https://open.spotify.com/artist/28uB7GB7QbKBPMCZqLPA5y) | [Pa' la Calle](https://open.spotify.com/album/76Pyqr2IuLi0w45sBkdNgU) | 3:30 |
 | 4 | [Afrocumbia](https://open.spotify.com/track/1jFlWNnMgnj70vLipPSDQh) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:01 |
 | 5 | [La Vamo a Tumbá](https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [La Vamo a Tumbá](https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV) | 4:20 |
-| 6 | [Poniéndote a Gozar](https://open.spotify.com/track/4pHiVeIatSlwNiLHMtCIGT) | [Rancho Aparte](https://open.spotify.com/artist/2YQc5vx5VbiKcc3oudaHoW) | [Rancho Aparte](https://open.spotify.com/album/2QsEO6AUWwk0A5rmDSzv3V) | 4:18 |
+| 6 | [Lágrimas Negras](https://open.spotify.com/track/3r71UoGicsU90BSDylT9Mh) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [Vida, Porque Solo Hay Una \(Soundtrack Oficial\)](https://open.spotify.com/album/2yheBqj8Rgo6NyMzUX6KDW) | 2:40 |
 | 7 | [Volver a Verte \(feat\. Cali y El Dandee\)](https://open.spotify.com/track/0LGhVLgkwlP2FIXSwrdRFg) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 2:49 |
 | 8 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 | 9 | [Estoy Enamorao](https://open.spotify.com/track/1DVAYuOMOaKn7Usi7j2TmR) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Estoy Enamorao](https://open.spotify.com/album/1Nmqx99fuiE1CPNmtLUJUu) | 3:05 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 83 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
 | 84 | [Alguien Me Gusta](https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Alguien Me Gusta](https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9) | 2:48 |
 
-Snapshot ID: `MTY1NjY1NjQyMiwwMDAwMDAwMDI0ZDA5MDVkYjRkNTIwMWExZTg0YmI5MGMxYjRlMzM0`
+Snapshot ID: `MTY2MDI4MjUwMCwwMDAwMDAwMDdjNWRjZGM1Y2E1NWQ1YmE2ZjAxOGJjZWUzNDdlNzgy`

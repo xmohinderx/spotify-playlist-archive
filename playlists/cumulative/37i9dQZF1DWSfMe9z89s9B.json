@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "These progressive R&B and soul tracks can't be put in a box. Cover: Dreamer Isioma",
+  "description": "These progressive R&B and soul tracks can't be put in a box. Cover: Greek",
   "name": "Alternative R&B",
   "published_playlist_ids": [
     "5LTt78znSTM3vwYtfHo5Kh"
@@ -2050,6 +2050,28 @@
     },
     {
       "album": {
+        "name": "City of Angels",
+        "url": "https://open.spotify.com/album/7LuzVcbZIaIH3MYWo81k2q"
+      },
+      "artists": [
+        {
+          "name": "Nesta",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130619,
+      "name": "City of Angels",
+      "url": "https://open.spotify.com/track/6dQ2LusAx9Lr7NwkwHkYIC"
+    },
+    {
+      "album": {
         "name": "Clear My Mind",
         "url": "https://open.spotify.com/album/7DWz3qJP7YjXwhoEknFpz0"
       },
@@ -2457,7 +2479,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 237473,
       "name": "Daughter Of The Sun",
       "url": "https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B"
@@ -3362,6 +3384,24 @@
     },
     {
       "album": {
+        "name": "Free Range",
+        "url": "https://open.spotify.com/album/4PkMA4iPLj1RcwMpMKmYxg"
+      },
+      "artists": [
+        {
+          "name": "Shaolinn",
+          "url": "https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135714,
+      "name": "Free Range",
+      "url": "https://open.spotify.com/track/04Mb1bvxcOUuYNnHwV4RqP"
+    },
+    {
+      "album": {
         "name": "Freezing",
         "url": "https://open.spotify.com/album/2jaC3frsSh9AZ84E9tFXPU"
       },
@@ -3729,6 +3769,28 @@
       "duration_ms": 227619,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/6UyPSZ3eoofOB67QbrlGTx"
+    },
+    {
+      "album": {
+        "name": "GODDESS REIGN (FEAT AMBER MARK)",
+        "url": "https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209773,
+      "name": "GODDESS REIGN (FEAT AMBER MARK)",
+      "url": "https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys"
     },
     {
       "album": {
@@ -6729,7 +6791,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 312104,
       "name": "Nothing & Everything",
       "url": "https://open.spotify.com/track/21olzr6m9aB9ZvfquKzdFh"
@@ -7005,7 +7067,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 165544,
       "name": "Outta This World",
       "url": "https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww"
@@ -8650,6 +8712,24 @@
     },
     {
       "album": {
+        "name": "PARTY AT THE IVORY TOWER",
+        "url": "https://open.spotify.com/album/0DdcPRidAseNvSmaUOZaRj"
+      },
+      "artists": [
+        {
+          "name": "Bobby Earth",
+          "url": "https://open.spotify.com/artist/2oFkvZLEnTdEeGlkwT4aC8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Sputnik",
+      "url": "https://open.spotify.com/track/12PiiW8Kbvjl8P64KI8rCD"
+    },
+    {
+      "album": {
         "name": "Starting To Get To You",
         "url": "https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO"
       },
@@ -9631,7 +9711,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 153000,
       "name": "Through The Dark",
       "url": "https://open.spotify.com/track/4GlMuZ2gHZfAPxEji04pdA"

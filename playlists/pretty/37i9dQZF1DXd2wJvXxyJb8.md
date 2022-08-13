@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > Tudo o que está bombando e viralizando por aí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,865 likes - 90 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,719 likes - 90 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 70 | [Pegada de Malvado](https://open.spotify.com/track/2Ho2vEEJAZOAnpxl9GsFYR) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm) | [Pegada de Malvado](https://open.spotify.com/album/2CiaR4gIfXUDR2SB0K07oP) | 1:47 |
 | 71 | [Replay](https://open.spotify.com/track/0iQqPYigV7PYN1BQa3uYaF) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ) | [Replay](https://open.spotify.com/album/4Kex8YQqmWOb5HhCCcLmJt) | 3:17 |
 | 72 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
-| 73 | [Voltei Pra Cachorrada](https://open.spotify.com/track/3fRvT5duPFMwQ6MiXVIA36) | [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [DJ Cyclone](https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi) | [Voltei Pra Cachorrada](https://open.spotify.com/album/4yH4u8yBTw52klnu7mhALX) | 3:26 |
+| 73 | [Voltei pra Cachorrada](https://open.spotify.com/track/1yDct8mBgo25FwphztHzBK) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Cyclone](https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi) | [Voltei pra Cachorrada](https://open.spotify.com/album/1GJpHpIn2jwo7Bo5eGd2f7) | 3:26 |
 | 74 | [Bota a Mão no Chão](https://open.spotify.com/track/3Lw41pfko5XMrsHRtlbo2k) | [Felipe Cardoso DJ](https://open.spotify.com/artist/0MkyYYm0OKY2rZohgy750o), [Mc Fopi](https://open.spotify.com/artist/07BaHE7dzguDOawZRVWCsR) | [Bota a Mão no Chão](https://open.spotify.com/album/6SMo6kzL8OXwpQaKFSOFDX) | 1:58 |
 | 75 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
 | 76 | [No Lie](https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:41 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 89 | [Depende](https://open.spotify.com/track/2OsPujKDKv0PgbfsMHtU7m) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR) | [Depende](https://open.spotify.com/album/3UuIipzzWhzr5ynZN4oMbW) | 2:36 |
 | 90 | [Calma, Respira](https://open.spotify.com/track/1HPHKZKHAShXxkXTtVC5at) | [Mc Jajau](https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy), [Guga Divulga](https://open.spotify.com/artist/7544SbhjpkivsclUPtG1ej) | [Calma, Respira](https://open.spotify.com/album/5WFg54m5Bh3DVbgLom0Kl8) | 2:30 |
 
-Snapshot ID: `MTY2MDIyODIzNSwwMDAwMDAwMDI3Y2ExMjBlYjM4YTcwZGVhNmM0ZmMyYzNhMmNmYTI2`
+Snapshot ID: `MTY2MDIyODIzNSwwMDAwMDAwMDI5YTBmMmFiZjg0ODhlZGRiOGM0OTBjMTBlYTkxYTUz`

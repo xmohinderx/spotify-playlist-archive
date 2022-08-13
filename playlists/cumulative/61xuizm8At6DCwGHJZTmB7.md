@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-181 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+182 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Nothing Else](https://open.spotify.com/track/5KXVeVXTMuCJnkK8YSC3FC) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 6:33 | 2022-05-27 |  |
 | [Nothing Else \- Live](https://open.spotify.com/track/57dUp3vW3nluggWiA6WQlQ) | [Rick Pino](https://open.spotify.com/artist/1qTF7MRkOV8LNFgxejBPD5), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Nothing Else \(Live\)](https://open.spotify.com/album/2qmfvjhGKvjSLj3nmDC3Mg) | 9:09 | 2022-02-17 | 2022-04-02 |
 | [Now I See](https://open.spotify.com/track/0kNc1boEFyhIp9HEnzlf0c) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK) | [Whatever May Come \(Deluxe\)](https://open.spotify.com/album/1ub4VbbnapiajjUCskwGLe) | 4:53 | 2022-02-17 | 2022-06-10 |
+| [O Lord, You’re Beautiful \(with Steffany Gretzinger\)](https://open.spotify.com/track/37Ms9rdo26omDpCINsHhui) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [O Lord, You're Beautiful](https://open.spotify.com/album/6gIib347YLlHGDMqpOHBL8) | 3:55 | 2022-08-12 |  |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2022-05-27 |  |
 | [Oceans \(Where Feet May Fail\) \- Live from Madison Square Garden](https://open.spotify.com/track/0GTfVXhvbhO4AhaEfzPhU6) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The People Tour: Live from Madison Square Garden](https://open.spotify.com/album/2KAJsrTtWloQtFaStadvbB) | 7:23 | 2022-02-17 | 2022-05-28 |
 | [Oh Lord, You're Beautiful](https://open.spotify.com/track/24wGP6FgMDBZhvok5H0MD5) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [Wanna Go Back To Egypt](https://open.spotify.com/album/107ZqsdHOQIh80R68dPqLf) | 4:16 | 2022-04-05 |  |

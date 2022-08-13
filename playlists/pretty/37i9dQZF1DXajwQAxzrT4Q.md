@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: UNIIQU3.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,894 likes - 100 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,922 likes - 100 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 99 | [SHAWTY \(Mvntana Remix\)](https://open.spotify.com/track/41425sATIEwlRMiancX0MS) | [Yung Bambi](https://open.spotify.com/artist/2y8GmZ4zTMAEd5OuenMZdX), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki) | [SHAWTY](https://open.spotify.com/album/1dochdMLdJsihe9p3WCr3D) | 2:10 |
 | 100 | [For You \- DJ Taj Jersey Mix](https://open.spotify.com/track/0EWOt9lZ1yvpGCWTeIjwsp) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [5th Element Jersey Club Remixes](https://open.spotify.com/album/3RWldjbDfsE9DUalUXLACQ) | 2:01 |
 
-Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMDJlMmZhOGZjOWM2MDE3OWExM2VhMDI5ZjAxZDg5Y2Rl`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGU5MzBhMzg1MmY0OGVjZmRkZjhhMWZkNDA5YTllMmFj`

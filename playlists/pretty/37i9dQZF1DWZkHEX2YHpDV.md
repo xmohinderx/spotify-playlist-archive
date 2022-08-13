@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > Pop\-punk, emo, post\-hardcore, alternative \- it's whatever you want it to be\. Cover: Sueco
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,718 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,812 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 99 | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU) | 2:19 |
 | 100 | [Coke Nose](https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled Vol\. 1](https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a) | 2:44 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGNiMjI5NzEwODE4YzBiYWM3OGMxM2FiMjYzNjdhYzIz`
+Snapshot ID: `MTY2MDMyODg0MSwwMDAwMDAwMDRhYjAxMGI3MWVkNzRhYTU4Y2M3MjcwMDQ5MTkyNGQ5`

@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-177 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+178 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Day & Night](https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Day & Night](https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE) | 4:07 | 2020-10-30 |  |
 | [Delight](https://open.spotify.com/track/36kaImsnzRzsU6L4cvWP6s) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Octavia Rose](https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9) | [Delight](https://open.spotify.com/album/61jQJZcSYFp8Qm6zNJoy6m) | 5:44 | 2020-10-30 |  |
 | [Demon Kitty Rag \- Electro Swing Version](https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR) | [Tori & Dean](https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX) | [Demon Kitty Rag \(Electro Swing Version\)](https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ) | 3:35 | 2020-11-20 |  |
-| [Dixie Biscuit \- Radio Edit](https://open.spotify.com/track/1ImjgOgKUZwZfpLRoYV4ED) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Dixie Biscuit "The Shanghai Tapes"](https://open.spotify.com/album/0sWVVpEQ3hB7NVAXoZJ7Pd) | 3:19 | 2020-10-30 |  |
+| [Dixie Biscuit \- Radio Edit](https://open.spotify.com/track/1ImjgOgKUZwZfpLRoYV4ED) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Dixie Biscuit "The Shanghai Tapes"](https://open.spotify.com/album/0sWVVpEQ3hB7NVAXoZJ7Pd) | 3:19 | 2020-10-30 | 2022-08-13 |
 | [Dixie Biscuit \- Radio Edit](https://open.spotify.com/track/34aycmeaxuuxipebrdkLUP) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Dixie Biscuit "The Shanghai Tapes"](https://open.spotify.com/album/1K8SDSlPA3NlSCI4dyuDny) | 3:19 | 2020-10-30 | 2022-07-29 |
 | [Don't Stop](https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Don't Stop](https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2) | 3:02 | 2021-04-16 | 2022-07-29 |
 | [Doo uap, doo uap, doo uap \- Radio edit](https://open.spotify.com/track/68j2rXimsXQYezvQn2Ot4c) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ) | [Hôtel Costes 5](https://open.spotify.com/album/4yuBlJyKxO1AcBFQ9umCIS) | 3:35 | 2020-10-30 |  |
@@ -124,6 +124,7 @@
 | [Pingu \(Game Sessions\)](https://open.spotify.com/track/0b0KLvIue75k7HzPb2n59G) | [Balkan Paradise Orchestra](https://open.spotify.com/artist/5tWhPlOVHAdgPbtzTR95Hs), [Arnau Altimir](https://open.spotify.com/artist/147urXJ1DAPRW1TRtVGWar), [Magalí Sare](https://open.spotify.com/artist/4yU06ZMQgomPONCGeO0HgE) | [Pingu \(Game Sessions\)](https://open.spotify.com/album/1FSdi1V08eZUBrt3EpRI6X) | 3:45 | 2021-06-25 | 2022-07-29 |
 | [Ponder \- Betty Booom Remix](https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8) | [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Ponder \(Betty Booom Remix\)](https://open.spotify.com/album/3glSK3ZZ9cn74XCkJpSzME) | 3:21 | 2022-07-15 |  |
 | [POP SONG](https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [POP SONG](https://open.spotify.com/album/0pok5Oa8DgsXdZpsnpAbqX) | 3:19 | 2022-02-11 |  |
+| [Posture \- Wolfgang Lohr Remix](https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv) | [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Posture \(Wolfgang Lohr Remix\)](https://open.spotify.com/album/33cm8hJKxHtcFELOZB2eJy) | 3:56 | 2022-08-12 |  |
 | [Pressure \- Klischée Remix](https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB), [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg) | [Pressure \(Klischée Remix\)](https://open.spotify.com/album/0l4U1q6dwgAYVSQq4YwwlK) | 3:23 | 2022-03-11 |  |
 | [Re\-Charleston \(Radio Edit\)](https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Re\-Charleston \(Electro Swing\)](https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo) | 2:47 | 2020-10-30 |  |
 | [Rose](https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Rose](https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl) | 3:33 | 2021-01-22 |  |

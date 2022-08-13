@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Steve Lacy
 
-216 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+217 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Space](https://open.spotify.com/track/5SLvWGcGM2aQ1FHAkQRsGD) | [Morgan Munroe](https://open.spotify.com/artist/41K03x2QpJG4rJJ84LceST) | [Space](https://open.spotify.com/album/3KpYADcTT3HW1S0yjNIkEG) | 2:26 | 2022-06-16 |  |
 | [Spit Up](https://open.spotify.com/track/5ninsjB30htfz4V2EHhT5F) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Spit Up](https://open.spotify.com/album/0qxXNClkynGMG0zKnMRb21) | 3:53 | 2022-04-28 |  |
 | [Stacy](https://open.spotify.com/track/6EbK8OLEbYvj6wWNik3A1f) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Stacy](https://open.spotify.com/album/4w0hYug61vOLQ6pSq8EMeO) | 2:24 | 2021-12-16 | 2022-02-11 |
-| [Stages](https://open.spotify.com/track/4oElBWNxGX0Lg8wD1k5uHx) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Adi Oasis](https://open.spotify.com/album/0W8Rm6qBMnykppCswQyMTO) | 3:47 | 2021-12-16 |  |
+| [Stages](https://open.spotify.com/track/4oElBWNxGX0Lg8wD1k5uHx) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Adi Oasis](https://open.spotify.com/album/0W8Rm6qBMnykppCswQyMTO) | 3:47 | 2021-12-16 | 2022-08-13 |
+| [Stages](https://open.spotify.com/track/5R4uz2XHdDJ2lCirZIRwCf) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 3:47 | 2022-07-28 |  |
 | [Stayback](https://open.spotify.com/track/1eaaALv53LViUGtOQ63jEn) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stayback](https://open.spotify.com/album/2ZnoQZiVe89PHupw5S0Atk) | 2:39 | 2021-12-16 | 2022-01-14 |
 | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB) | 3:08 | 2021-12-16 | 2022-02-11 |
 | [Stop Calling](https://open.spotify.com/track/3iuU4Jg2XftluSKfSv22KL) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Stop Calling](https://open.spotify.com/album/1wvNp6UtLDiudcC94mauni) | 3:23 | 2021-12-16 | 2022-07-07 |

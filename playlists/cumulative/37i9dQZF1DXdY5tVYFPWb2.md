@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-248 songs - 16 hr 22 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+250 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [After Party](https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [After Party](https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i) | 4:32 | 2022-06-16 |  |
 | [Airride](https://open.spotify.com/track/0EacIYze2OP47UWmOBAmVB) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Airride](https://open.spotify.com/album/7MTn4tE9aED70gybfxYMBg) | 3:48 | 2022-05-24 | 2022-07-20 |
 | [Almond](https://open.spotify.com/track/0AEx6W2Aju7o0jPTl3O9R8) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [樹影](https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye) | 3:29 | 2022-08-02 | 2022-08-10 |
-| [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2022-06-07 |  |
+| [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2022-06-07 | 2022-08-13 |
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-05-24 | 2022-07-28 |
 | [Aquarium Summer](https://open.spotify.com/track/5A4zrqYxmkTCHR4rVecd4w) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ヨシカワミノリ](https://open.spotify.com/artist/5JnrRCxGkwDPN8LKxVfn4e) | [Summer Deja Vu](https://open.spotify.com/album/4Vk77i4FhPszz6f2Pf52zq) | 3:16 | 2022-08-02 | 2022-08-10 |
 | [Atami](https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 3:58 | 2022-07-27 |  |
@@ -53,7 +53,7 @@
 | [error](https://open.spotify.com/track/3uvlV1OsLs1MzJDO7HdI3y) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Bimi](https://open.spotify.com/artist/5iwvrALwQlyajHU3vcwAIf), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [error](https://open.spotify.com/album/5D1RTl6tH5l0ZoiQoztNdx) | 3:13 | 2022-05-24 | 2022-07-06 |
 | [Fall in Love Again](https://open.spotify.com/track/5no4xNiJ6VeLluO7XVal5Z) | [古市コータロー](https://open.spotify.com/artist/5suI35kgzWE87EsoKCzduV) | [Yesterday, Today & Tomorrow](https://open.spotify.com/album/1KSTsnnx8kNyGPASHaMXbV) | 3:45 | 2022-07-19 | 2022-07-21 |
 | [FANTASY](https://open.spotify.com/track/0ODFwt700hdQ8oLqvJYHT6) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [swing in the dark](https://open.spotify.com/album/5CTADoSfMQnu66awJEeqgl) | 3:28 | 2022-07-26 | 2022-07-28 |
-| [Far Away](https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Far Away](https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q) | 3:27 | 2022-05-24 |  |
+| [Far Away](https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Far Away](https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q) | 3:27 | 2022-05-24 | 2022-08-13 |
 | [feel my hush \- English ver](https://open.spotify.com/track/6qrE61VzlfJMPGbu8xNdo7) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [feel my hush \(English ver.\)](https://open.spotify.com/album/439p5AHGxgLyC8uSH7W0SO) | 3:28 | 2022-06-21 | 2022-06-29 |
 | [FLACTAL](https://open.spotify.com/track/0OxtwA0COQaKppo54YwFn5) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Let's Go! DSDC!](https://open.spotify.com/album/4TzvYfWz8YKSKBMK82XScS) | 3:23 | 2022-05-24 | 2022-06-16 |
 | [Flannel](https://open.spotify.com/track/6NIpHfEzWU9MGQddGBNGq1) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [Flannel](https://open.spotify.com/album/52DpZlVpQrktxXRlM3X7f1) | 3:31 | 2022-07-14 | 2022-07-17 |
@@ -126,6 +126,7 @@
 | [SEPTEMBER](https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [SEPTEMBER](https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn) | 4:35 | 2022-05-24 |  |
 | [Shinin' World, Ridin' Road](https://open.spotify.com/track/25YgZdoImkhYt1PaFc7qTT) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [サン・キスド・レディー](https://open.spotify.com/album/5fq9VwMtARVCoqj2f5TD8z) | 3:50 | 2022-07-05 | 2022-08-04 |
 | [Signpost](https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Signpost](https://open.spotify.com/album/0wwZ8gbLXAvOMDSSB11UgH) | 3:32 | 2022-08-02 | 2022-08-11 |
+| [Skyline](https://open.spotify.com/track/7u5wxfkU6ubjvqS1DxLxAP) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Skyline](https://open.spotify.com/album/4mIF1JqEOSRbWISwDR1Ud9) | 4:52 | 2022-08-11 |  |
 | [Smoking Time](https://open.spotify.com/track/4lArdXTdlROm7xXtVYgEM6) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Smoking Time](https://open.spotify.com/album/7EjmHYZ0G6p7GpXRanHJ9A) | 4:29 | 2022-06-07 | 2022-07-27 |
 | [SOSOGU](https://open.spotify.com/track/54x8nltyUeJxylMzAev90H) | [陽真](https://open.spotify.com/artist/6Kn0OX8yBp3EqLM5PaLgN2) | [SOSOGU](https://open.spotify.com/album/1FERVrFwHGs6S6BoEd0q64) | 3:24 | 2022-05-31 | 2022-06-07 |
 | [Space Traveler](https://open.spotify.com/track/6Vw38ZQiy5cfij2BOokGk1) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Space Traveler](https://open.spotify.com/album/4iMHcf6TLvNG69OLPxwdjK) | 4:25 | 2022-05-24 | 2022-07-25 |
@@ -214,6 +215,7 @@
 | [優しい手 \~ Gentle Hands](https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [優しい手 \~ Gentle Hands](https://open.spotify.com/album/411gDNgCzrBfYYiQgxMdu3) | 4:12 | 2022-07-26 | 2022-07-29 |
 | [君は1000%](https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [君は1000%](https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr) | 4:17 | 2022-08-09 |  |
 | [君は幻](https://open.spotify.com/track/1YEGUAQz96PSwUL9FGAV1Z) | [Koki Okamoto](https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i) | [君は幻](https://open.spotify.com/album/0wbSh6gSs5M9riJ38XAExS) | 3:27 | 2022-06-02 | 2022-07-26 |
+| [呼応](https://open.spotify.com/track/0OMJowWWNkPNcN2ljEsHqA) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [呼応](https://open.spotify.com/album/4qLnMrut2t1aAVCbHXU4oU) | 4:37 | 2022-08-11 |  |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-06-16 |  |
 | [土曜日の「あ」](https://open.spotify.com/track/3MSmWJTa8MHAELp7Sm4tx9) | [Akabane New Romantica](https://open.spotify.com/artist/0dtId6LlA1ZzD8PcoZaRVi) | [土曜日の「あ」](https://open.spotify.com/album/08JuGZMnQU4TKkENGMtpCZ) | 3:10 | 2022-06-16 | 2022-07-20 |
 | [夏夜のマジック](https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME TOWN \~Cover Songs\~](https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi) | 5:04 | 2022-05-24 |  |

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 271054,
       "name": "9",
       "url": "https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N"
@@ -1897,6 +1897,24 @@
       "duration_ms": 166363,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm"
+    },
+    {
+      "album": {
+        "name": "Ties",
+        "url": "https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR"
+      },
+      "artists": [
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205911,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8"
     },
     {
       "album": {

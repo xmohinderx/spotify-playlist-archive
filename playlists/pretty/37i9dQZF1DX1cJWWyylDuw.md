@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Upon A Burning Body
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,217 likes - 120 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,604 likes - 120 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

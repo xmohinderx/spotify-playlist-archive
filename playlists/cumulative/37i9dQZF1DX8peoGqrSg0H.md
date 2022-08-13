@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
 
-195 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
+196 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [ให้ลืมได้ไง](https://open.spotify.com/track/2hT18XXbbUSPuu8jRWzIhj) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [ให้ลืมได้ไง](https://open.spotify.com/album/15wHbinXVWnLH0n2NgQ4EI) | 4:18 | 2022-05-26 |  |
 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-06-09 |  |
 | [ได้แต่นึกถึง](https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ได้แต่นึกถึง](https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof) | 4:24 | 2022-05-26 |  |
+| [ไม่ต้องคิดถึงฉัน](https://open.spotify.com/track/2cfCJjWrK5z2cYg9hzjSx2) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [ไม่ต้องคิดถึงฉัน](https://open.spotify.com/album/1Gx38T6KW5mqd0sl8MSBn3) | 3:39 | 2022-08-11 |  |
 | [ไม่น่ารักรึเปล่า \(Naughty boy\) Feat\. BONNADOL](https://open.spotify.com/track/0G8DwcIYO47JA5KcW1QwcO) | [CINCIN IRADA](https://open.spotify.com/artist/3bqEpQrRxvblzV4PopBbgK) | [ไม่น่ารักรึเปล่า \(Naughty boy\) Feat\. BONNADOL](https://open.spotify.com/album/4YkMIz5y4V4bsE3THOuEwY) | 3:46 | 2022-05-26 | 2022-06-03 |
 | [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 | 2022-05-26 |  |
 | [ไม่ยินดี](https://open.spotify.com/track/4OHu1M6xtQLkgTSao8nYS3) | [SAMBLACK](https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C) | [ไม่ยินดี](https://open.spotify.com/album/0Ifu2SC417RilqteSg2vns) | 3:53 | 2022-05-26 |  |

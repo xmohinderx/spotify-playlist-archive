@@ -1460,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "withdrawal symptoms",
+        "url": "https://open.spotify.com/album/5Uj9bUqM83TDE0PJ2Dz7kT"
+      },
+      "artists": [
+        {
+          "name": "Rio Rainz",
+          "url": "https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161932,
+      "name": "nightmares",
+      "url": "https://open.spotify.com/track/5mnnsan9rtnYHjJoLVdD79"
+    },
+    {
+      "album": {
         "name": "2 Sides",
         "url": "https://open.spotify.com/album/5o8IgzG9di21TFESYuU5jD"
       },

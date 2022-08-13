@@ -598,6 +598,24 @@
     },
     {
       "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/0Sp6AZTcrjkNEDQcuL5VWA"
+      },
+      "artists": [
+        {
+          "name": "KOYOTE",
+          "url": "https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208080,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/7lK9XQFIMihBvPy2jIpqXy"
+    },
+    {
+      "album": {
         "name": "YUNU IN THE HOUSE",
         "url": "https://open.spotify.com/album/3rDbsIFKjrkptbHxxftXA3"
       },

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 164529,
       "name": "12345",
       "url": "https://open.spotify.com/track/0fxUGOzBYJGKgs5ZKw1Em5"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 200000,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
@@ -1660,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "How Do I Lose You",
+        "url": "https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO"
+      },
+      "artists": [
+        {
+          "name": "ella jane",
+          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182375,
+      "name": "How Do I Lose You",
+      "url": "https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV"
+    },
+    {
+      "album": {
         "name": "Hurting Me",
         "url": "https://open.spotify.com/album/4I7zCvns4CQ7r3MxCLKqVC"
       },
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 176970,
       "name": "I'm Okay",
       "url": "https://open.spotify.com/track/13G75440eEdoAYBxpvx7iJ"
@@ -1889,6 +1907,24 @@
       "duration_ms": 241200,
       "name": "jordan",
       "url": "https://open.spotify.com/track/77wdEr25RcwuesF8ejXJhL"
+    },
+    {
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "Keeping Tabs",
+      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
     },
     {
       "album": {
@@ -3261,6 +3297,28 @@
       "duration_ms": 156580,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/0MH5FOAb8S35Lqdt6Jjrly"
+    },
+    {
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
       "album": {

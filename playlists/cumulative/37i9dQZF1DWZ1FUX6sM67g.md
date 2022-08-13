@@ -4,7 +4,7 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: ROSALÍA
 
-69 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/16anPiH3Ulo6h6pHaV7pop)
+70 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/16anPiH3Ulo6h6pHaV7pop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Como Tu No Hay Dos \- Acoustic Version](https://open.spotify.com/track/4CpPFzhamJ5cuxZmBL8NTd) | [Buxxi](https://open.spotify.com/artist/08Cb5OwPZ7SrS19MNYaHqz), [Jacob Bush](https://open.spotify.com/artist/5pTsrFcYLR8Uy9f1wMUXDz) | [Como Tu No Hay Dos \(Acoustic Version\)](https://open.spotify.com/album/6LxvokuIy4HhATjbxNAXzH) | 2:50 | 2022-05-20 |  |
 | [Con el Pompi Pa' 'Rriba](https://open.spotify.com/track/0JDzPjKDsfxRR0OqBrxOxY) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [La Vaca](https://open.spotify.com/album/362VvoXxnrHRg6FLhwRdHC) | 3:28 | 2022-05-20 | 2022-05-27 |
 | [Convénceme](https://open.spotify.com/track/12oFSoib1tf0r2rd1Fgsfe) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Convénceme](https://open.spotify.com/album/6oxouERjg3yRQALERagHVx) | 3:28 | 2022-05-20 |  |
+| [Cumbia Del Corazón](https://open.spotify.com/track/4dURe03os9BAxIO0RThU28) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Cumbia Del Corazón](https://open.spotify.com/album/3mfwypID037UHlutwTYINo) | 3:17 | 2022-08-12 |  |
 | [Danza Negra](https://open.spotify.com/track/1g3uCv2BINkWHSnlkTgH1g) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Maestro Lucho](https://open.spotify.com/album/06MO7kElzwx7ET2sc0gN00) | 2:17 | 2022-05-20 |  |
 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 | 2022-05-20 |  |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-28 |  |
@@ -41,7 +42,7 @@
 | [Escúchame Mi Amor \- \(Versión Salsa\)](https://open.spotify.com/track/3ls8JeVnVqZjgxBUQ6dFmN) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP) | [Escúchame Mi Amor](https://open.spotify.com/album/2JLsZ8rCJFCnjNIkepUej0) | 3:45 | 2022-05-20 |  |
 | [Háblame de Miami](https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Háblame de Miami](https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE) | 2:38 | 2022-05-20 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-05-26 |  |
-| [La Carta](https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Carta](https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv) | 2:37 | 2022-05-20 |  |
+| [La Carta](https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Carta](https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv) | 2:37 | 2022-05-20 | 2022-08-13 |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/2yWjS7QcpqtDI5KmmQyxkn) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/4tzJ6ghCYh5fZ61k5s8k5G) | 4:29 | 2022-05-20 | 2022-07-29 |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/62WQGsG4lHE0gQhLjBeAO6) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/0WWfQgz8vCAqLeg7TcdBMJ) | 4:29 | 2022-07-28 |  |
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2022-05-20 |  |

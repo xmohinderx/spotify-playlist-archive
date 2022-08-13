@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-135 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+136 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Wandering Ways](https://open.spotify.com/track/1qPxBxzTbnJ7PCVAyBsy1R) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Skyline](https://open.spotify.com/album/6P9qlf4qE0QkQ58yTaQnUK) | 2:48 | 2021-12-13 | 2022-07-29 |
 | [Whatever You Are](https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Memories of Love](https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa) | 5:00 | 2021-12-13 |  |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-03-10 |  |
-| [Whisper My Name](https://open.spotify.com/track/1qc5dn8Ou7plbR0SxH1pzD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Whisper My Name](https://open.spotify.com/album/6ELf7lXd7luKkRCDjZ9wzg) | 4:00 | 2022-04-28 |  |
+| [Whisper My Name](https://open.spotify.com/track/1qc5dn8Ou7plbR0SxH1pzD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Whisper My Name](https://open.spotify.com/album/6ELf7lXd7luKkRCDjZ9wzg) | 4:00 | 2022-04-28 | 2022-08-13 |
+| [Whisper My Name](https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:01 | 2022-07-05 |  |
 | [Wish The Love Never Died](https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP) | 3:01 | 2021-12-13 |  |
 | [With You](https://open.spotify.com/track/3JPFtBDSWygqLCZ07DVsNQ) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Bussin'](https://open.spotify.com/album/5ZOHGWB0OgDwVMojCv2vNR) | 4:07 | 2021-12-13 | 2022-07-06 |
 | [With You](https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c) | 4:08 | 2021-12-13 | 2022-07-29 |

@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 196707,
       "name": "Memorize You - Acoustic",
       "url": "https://open.spotify.com/track/3iQRMV1RML1TBMioordUI5"
@@ -2103,7 +2103,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 204900,
       "name": "One Percent (Acoustic)",
       "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
@@ -3286,6 +3286,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Sessions EP",
+        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251170,
+      "name": "Wilder Days - Acoustic",
+      "url": "https://open.spotify.com/track/7dkCnDAjnTNTCvpb9xMHXU"
+    },
+    {
+      "album": {
         "name": "Wildfire (Acoustic)",
         "url": "https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW"
       },
@@ -3319,6 +3337,24 @@
       "duration_ms": 295000,
       "name": "Woman Of My Word",
       "url": "https://open.spotify.com/track/6F9sPxH3E2o3orwHljR43X"
+    },
+    {
+      "album": {
+        "name": "You (Acoustic)",
+        "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "You - Acoustic",
+      "url": "https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ"
     },
     {
       "album": {

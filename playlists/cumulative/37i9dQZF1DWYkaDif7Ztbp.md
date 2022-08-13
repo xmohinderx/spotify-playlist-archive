@@ -4,7 +4,7 @@
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E?si=JrNZ6wG4TDG\_vlftBSUXMQ"> Mr JazziQ </a>
 
-160 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
+161 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 | 2021-10-22 | 2022-02-11 |
 | [My Man](https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA) | 3:38 | 2022-04-07 | 2022-06-24 |
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-06-16 | 2022-07-08 |
+| [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 | 2022-08-11 |  |
 | [Nkao Tempela](https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Nkao Tempela](https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE) | 6:01 | 2022-01-13 | 2022-04-01 |
 | [Oga](https://open.spotify.com/track/08VqaGj8UrSeO6QeYAwdY2) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u) | [Oga](https://open.spotify.com/album/4ikCqtLjgppUAO0b5mpCN5) | 3:19 | 2021-11-18 | 2021-12-24 |
 | [Ojuju](https://open.spotify.com/track/1JvW2HjzFdEcaFrpsEeq0e) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Ojuju](https://open.spotify.com/album/1cYo9eumR211el6QbRzW2m) | 3:07 | 2021-10-22 | 2022-02-18 |

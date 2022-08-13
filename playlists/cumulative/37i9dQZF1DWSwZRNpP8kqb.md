@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-90 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
+91 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,12 +15,13 @@
 | [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 | 2022-01-14 |  |
 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 | 2022-01-14 |  |
 | [Ay Chiquita](https://open.spotify.com/track/3tr24uGSSephvL4AqPxmfT) | [Alejandra Sosa](https://open.spotify.com/artist/4UW2J8cMmrhltV0CqKKIPO) | [Desde el Alba](https://open.spotify.com/album/01gWQ34wnl9b9q8B6YwhLQ) | 2:55 | 2022-01-14 |  |
-| [Baguala para las dos](https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx) | [Irupé Tarragó Ros](https://open.spotify.com/artist/5gE09c2quqhnwBx1nqqRbH), [Laura Ros](https://open.spotify.com/artist/2NZq21Z6d2LUqrGV8TCpeK) | [Jazmín](https://open.spotify.com/album/3CifXREMYGTc2t92VDe4k3) | 3:58 | 2022-01-14 |  |
+| [Baguala para las dos](https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx) | [Irupé Tarragó Ros](https://open.spotify.com/artist/5gE09c2quqhnwBx1nqqRbH), [Laura Ros](https://open.spotify.com/artist/2NZq21Z6d2LUqrGV8TCpeK) | [Jazmín](https://open.spotify.com/album/3CifXREMYGTc2t92VDe4k3) | 3:58 | 2022-01-14 | 2022-08-13 |
 | [Bendiciones](https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl) | 3:30 | 2022-04-08 |  |
 | [Cambá Galleta](https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP) | [Dúo Bote](https://open.spotify.com/artist/0L2SCJoosQOW5BRqi9fEgL), [Abel Tesoriere](https://open.spotify.com/artist/6E68tprZpx0EA8mXQaUaQS), [Flor Bobadilla Oliva](https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j) | [Ysyry](https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn) | 2:34 | 2022-01-14 |  |
 | [Canción del Jangadero](https://open.spotify.com/track/1GokYA618P2QtqtSVWrgaS) | [Patricia Gómez](https://open.spotify.com/artist/5kWUnk8ne4Gi2bzrwk95vc), [Mariano Peresón](https://open.spotify.com/artist/3mcRXU6lVquKxkjYh20oIf) | [Canción del Jangadero](https://open.spotify.com/album/4dnGcfrrrdc0fgUVhDIBwS) | 5:11 | 2022-01-14 |  |
 | [Canto Enamorado](https://open.spotify.com/track/7BRno8jhBTQXCQbqJNFGrq) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Canto Enamorado](https://open.spotify.com/album/4j9cLwpYYtEVoHxQTNmNrZ) | 3:04 | 2022-01-14 |  |
 | [Chacarera del Santiagueño](https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn) | [Hilda Herrera](https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI) | [La Diablera](https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS) | 2:11 | 2022-01-14 |  |
+| [Corazón de Agua](https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Corazón de Agua](https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst) | 4:23 | 2022-08-12 |  |
 | [Cuando Llegue el Alba](https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI) | [Yamila Cafrune](https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV) | [Herencia](https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ) | 3:57 | 2022-07-08 |  |
 | [Cuando Llegue el Alba](https://open.spotify.com/track/77hNwkwupXzT2hiMFjkhOB) | [Yamila Cafrune](https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV) | [Herencia](https://open.spotify.com/album/03kAdjjhZySWGj6617vyub) | 3:57 | 2022-01-14 | 2022-07-29 |
 | [Cuando Me Abandone el Alma](https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 3:24 | 2022-01-14 |  |

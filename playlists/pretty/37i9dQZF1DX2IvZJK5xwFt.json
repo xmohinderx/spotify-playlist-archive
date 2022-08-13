@@ -1,12 +1,12 @@
 {
   "description": "Only the best rock in the world. Cover: M\u00e5neskin",
-  "num_followers": 113364,
+  "num_followers": 113456,
   "original_name": "Just Rock!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzIwMCwwMDAwMDAwMDQwNGM4YWI4OWU4OWFkZWQ5YThiYzMwNGNjMTBjOGI0",
+  "snapshot_id": "MTY2MDIzNzIwMCwwMDAwMDAwMDViZjc2YjlhMWU0NTFhYzVhMDY1MzQ4M2YzNTgyYTYw",
   "tracks": [
     {
       "added_at": "2022-08-11 17:00:00",
@@ -123,6 +123,22 @@
       "duration_ms": 239346,
       "name": "Lost Honor",
       "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
+    },
+    {
+      "added_at": "2022-08-11 17:00:00",
+      "album": {
+        "name": "Chaos In Bloom",
+        "url": "https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "Going Crazy",
+      "url": "https://open.spotify.com/track/4roPy7UCHujegMBkutBawy"
     },
     {
       "added_at": "2022-08-11 17:00:00",
@@ -267,6 +283,54 @@
       "duration_ms": 226046,
       "name": "Free Fall (Theme From KinnPorsche The Series)",
       "url": "https://open.spotify.com/track/6MDtS6MzlIzGUjbC1rapa4"
+    },
+    {
+      "added_at": "2022-08-11 17:00:00",
+      "album": {
+        "name": "Hotel Kalifornia",
+        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 163752,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
+    },
+    {
+      "added_at": "2022-08-11 17:00:00",
+      "album": {
+        "name": "Hammersmith (UK Bonus Track)",
+        "url": "https://open.spotify.com/album/4iNZZ3NSc0FIlfJ9j88KdR"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 224079,
+      "name": "Hammersmith - UK Bonus Track",
+      "url": "https://open.spotify.com/track/6k9LUdX6Tf4ZY8xqb2cE1q"
+    },
+    {
+      "added_at": "2022-08-11 17:00:00",
+      "album": {
+        "name": "Soldier On! / Night Stalkers / We\u2019ll Be Back",
+        "url": "https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 294426,
+      "name": "Soldier On!",
+      "url": "https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt"
     },
     {
       "added_at": "2022-08-11 17:00:00",

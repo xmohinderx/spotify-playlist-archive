@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK
 
-109 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+110 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Dispidida](https://open.spotify.com/track/5vll1bdUAaPHYRHvY1jv3g) | [Nico La Famy](https://open.spotify.com/artist/6OiYd1OPsZnLedI7cdmX6O), [Dany g](https://open.spotify.com/artist/51Dqw2yS6ekQfQJBHdGEGq), [Djahmurai](https://open.spotify.com/artist/4BeApFZpdJXDqnPoM4yCuY) | [Dispidida](https://open.spotify.com/album/0jwnSwco7vUoVawsqtR4uB) | 4:02 | 2022-07-07 |  |
 | [Driller na Boutique](https://open.spotify.com/track/6nRqDpdmgR7DYRoRvIRARV) | [rms.](https://open.spotify.com/artist/3gOtGy9h55g510tgGGyDt1) | [Driller na Boutique](https://open.spotify.com/album/2SbFy5ADm4X0euNkxJj4A9) | 2:55 | 2022-07-07 |  |
 | [Duas Balas](https://open.spotify.com/track/6faUVqYSGKcJ4Q7die1oyY) | [Phedilson](https://open.spotify.com/artist/0Hl3YB8bwQ8anDJkvXo6he) | [Duas Balas](https://open.spotify.com/album/6XvcoIeQ1yLPorBLlpb7JA) | 4:07 | 2022-07-07 |  |
+| [Dunk](https://open.spotify.com/track/39ppox5R4tcJUn4PSexrjl) | [Malta](https://open.spotify.com/artist/6D3YG918J8Ee3nyRHELsCC) | [Dunk](https://open.spotify.com/album/7Kbm9DHEwIn6wXNoxkWbJj) | 1:44 | 2022-08-11 |  |
 | [Elizabeth](https://open.spotify.com/track/5LIzUa3a0UnqveHFrKoRKC) | [GBz\-UK](https://open.spotify.com/artist/4LRrEPvtZgg1I1SSEDac70) | [Elizabeth](https://open.spotify.com/album/3uGcqJ8AmJgCUqeASNshTj) | 4:20 | 2022-07-07 |  |
 | [Essa Vida é Louca](https://open.spotify.com/track/5hzf5KBjznLeEgSlsYqpRi) | [New Mister](https://open.spotify.com/artist/5XdRPgQRB3I1mRJmcmzf2r), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Essa Vida é Louca](https://open.spotify.com/album/3qs08ewXLj2RbX7uE75973) | 3:39 | 2022-07-07 | 2022-07-22 |
 | [Estrela](https://open.spotify.com/track/4yf1Fj734jtCNDl9k3IuKw) | [Ângela Polícia](https://open.spotify.com/artist/74x38c8gsGWjatfGzES9FA), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Stone Jones](https://open.spotify.com/artist/4H7q2a75WxPjfhEu4L7NSu) | [Estrela](https://open.spotify.com/album/2vUAJmh4JYgV6270tkjIjT) | 4:48 | 2022-08-01 |  |

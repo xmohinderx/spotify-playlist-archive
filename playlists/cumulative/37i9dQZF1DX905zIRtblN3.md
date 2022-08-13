@@ -2,7 +2,7 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Yuridia & Banda MS, al millón con La Reina.
+> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Grupo Marca Registrada & Junior H, al millón con La Reina.
 
 161 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 

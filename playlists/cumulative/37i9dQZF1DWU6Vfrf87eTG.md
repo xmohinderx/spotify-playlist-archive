@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-163 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
+164 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Bella Marie](https://open.spotify.com/track/6A0p1XuHe4wd8FQEFiod7T) | [Megafaun](https://open.spotify.com/artist/0o1wK6uAmkrixovsE80lMR) | [Gather, Form & Fly](https://open.spotify.com/album/7eIn0DBntIsCUSotnjepUh) | 1:29 | 2020-07-13 |  |
 | [Bellwoods Park](https://open.spotify.com/track/2rknjj7MqyOPIif150QmXg) | [Shawn William Clarke](https://open.spotify.com/artist/654buPExx4Mk8xVddb8zgs) | [William](https://open.spotify.com/album/3PrhKqEzYomIrCmiSKpoVR) | 3:35 | 2020-07-13 |  |
 | [Bewley In Grey](https://open.spotify.com/track/4UgfhLbk4GAPMK1bHAD4z1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR) | 1:41 | 2020-07-13 |  |
-| [Blood Branches \- Live Version](https://open.spotify.com/track/2trltfWOMoiAnw6tgQlxX8) | [Halves](https://open.spotify.com/artist/2bDSmI1grs5rMzqFUPFoO6) | [Other Voices: Series 7, Vol\. 2 \(Live\)](https://open.spotify.com/album/1L6vZcdk3m5aoPZStRR6xV) | 3:32 | 2020-07-13 |  |
+| [Blood Branches \- Live Version](https://open.spotify.com/track/26cSdLVg4jABkjVIpW85f2) | [Halves](https://open.spotify.com/artist/2bDSmI1grs5rMzqFUPFoO6) | [The Best of Other Voices](https://open.spotify.com/album/5TUez2vnQRHBxr6ImbGyL6) | 3:32 | 2020-07-13 |  |
+| [Blood Branches \- Live Version](https://open.spotify.com/track/2trltfWOMoiAnw6tgQlxX8) | [Halves](https://open.spotify.com/artist/2bDSmI1grs5rMzqFUPFoO6) | [Other Voices: Series 7, Vol\. 2 \(Live\)](https://open.spotify.com/album/1L6vZcdk3m5aoPZStRR6xV) | 3:32 | 2020-07-13 | 2022-08-13 |
 | [Blood Branches \- Live Version](https://open.spotify.com/track/4YzBw6TuBou23iaiTzABqm) | [Halves](https://open.spotify.com/artist/2bDSmI1grs5rMzqFUPFoO6) | [Other Voices: Series 7, Vol\. 2 \(Live\)](https://open.spotify.com/album/7tJJogkNeB0JkgISaJXZle) | 3:32 | 2020-07-13 | 2022-07-29 |
 | [Bowspirit](https://open.spotify.com/track/48PkrDxRgOLNf1eCgpAMA4) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Constellations](https://open.spotify.com/album/5csMlFUFiTq2VsPsmKU0u2) | 5:17 | 2020-07-13 | 2022-07-29 |
 | [Bowsprit](https://open.spotify.com/track/04Fcjafu59OwzIYYVXJjbU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Constellations](https://open.spotify.com/album/5nlIENUVFPbOEobbADbJZV) | 5:17 | 2020-07-13 |  |

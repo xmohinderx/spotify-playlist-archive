@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. deathbyromy
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,230 likes - 81 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,373 likes - 82 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [Faces Change](https://open.spotify.com/track/1oC5DiAccEfq3fXUw7mDvY) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Playground Antics](https://open.spotify.com/album/3FBT0vTCbLIYCk9NIln76M) | 3:35 |
 | 80 | [no more](https://open.spotify.com/track/46RrAbibdqv8FpIgoEwSkL) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more](https://open.spotify.com/album/67x9FY7e6O6PEfZnBUOUFy) | 2:44 |
 | 81 | [We're All Going To Die](https://open.spotify.com/track/6jQmhIdemWV7Sp9STU55Fp) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [I Hate People On The Internet](https://open.spotify.com/album/0e8Mkw2QbxOROl9ktrjQDJ) | 3:22 |
+| 82 | [Fighting Fate](https://open.spotify.com/track/4PNPN7lA1UMYbKtTco1JtB) | [Yung'cid](https://open.spotify.com/artist/1It5FG5hReUrQInrg7Be1Q), [Baby Doll](https://open.spotify.com/artist/4htyNjCI51sL6pterwxVCq) | [Fighting Fate](https://open.spotify.com/album/7nFQVDz1vhFcxnnr3ylX5K) | 3:09 |
 
-Snapshot ID: `MTY2MDI1ODgwMCwwMDAwMDAwMDQyYTFmNzhiZjAyNDU0ZGExNDg2MDkxOTQ4ODE4MWFh`
+Snapshot ID: `MTY2MDI1ODgwMCwwMDAwMDAwMGQyM2NjNjQ1ZDgwZDRjNzY2M2M4ZmM3YzFiNTkzNzdl`

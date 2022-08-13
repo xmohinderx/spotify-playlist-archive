@@ -4806,6 +4806,24 @@
     },
     {
       "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
+    },
+    {
+      "album": {
         "name": "Complete Them (1964-1967) (feat. Van Morrison)",
         "url": "https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z"
       },
@@ -12673,7 +12691,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 210653,
       "name": "These Days",
       "url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs"

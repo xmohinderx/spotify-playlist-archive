@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,942 likes - 98 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,103 likes - 98 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

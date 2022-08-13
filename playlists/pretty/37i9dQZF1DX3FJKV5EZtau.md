@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electro tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,620 likes - 125 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,650 likes - 125 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 102 | [where u been](https://open.spotify.com/track/3rnIWluqxgrUezYZ0I7SGu) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [ilo ilo](https://open.spotify.com/artist/0rSZHzeyKxdfnQLoTIbq6U) | [COLOR BLIND](https://open.spotify.com/album/6eNQ3KPfctSXB2jO0pfmKi) | 3:10 |
 | 103 | [Ocean's End](https://open.spotify.com/track/3L7eNE6i3bCJxX9xUHNp0X) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx), [BELELA](https://open.spotify.com/artist/6nPKt2CGXcKHtmbMq8Sq62) | [Virtual Paradise](https://open.spotify.com/album/5dTsAGwJrgSvsg2YRAaU2i) | 2:51 |
 | 104 | [Don't Need You](https://open.spotify.com/track/0se8mCFDYQohVqP6cFoToK) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Don't Need You](https://open.spotify.com/album/76yfAYufLuG6wYQRRnJTx5) | 3:17 |
-| 105 | [Somebody Else](https://open.spotify.com/track/7qXFLa1RfT8aYBVvTHcfzH) | [xander.](https://open.spotify.com/artist/0z8ZGdT4fiPtchApITrSsS) | [Somebody Else](https://open.spotify.com/album/0RzdjXDnexGsG8JM2oSGEl) | 4:02 |
+| 105 | [Somebody Else](https://open.spotify.com/track/7qXFLa1RfT8aYBVvTHcfzH) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Somebody Else](https://open.spotify.com/album/0RzdjXDnexGsG8JM2oSGEl) | 4:02 |
 | 106 | [Rainbow](https://open.spotify.com/track/0XkXMAna7lk1tTJmIMxT6O) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1), [Trifect](https://open.spotify.com/artist/0TIGDhG2md2oyRrYK2bSPQ), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Rainbow](https://open.spotify.com/album/4vYiBFwPZZOjoQtB9EY94s) | 3:06 |
 | 107 | [Find Yourself](https://open.spotify.com/track/0TBWdzXPZX8bGAqDY0Xxn0) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [World Famous Tour](https://open.spotify.com/album/3WXeQznuGDKqbGn9VUbeVE) | 3:53 |
 | 108 | [With Clouds Below](https://open.spotify.com/track/7hwSaTdDujbwXGGp72hssA) | [Outwild](https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W) | [With Clouds Below](https://open.spotify.com/album/7wsIfcNt1Muj6dgNpuDldC) | 3:29 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [Ocean of Tears \- umru Remix](https://open.spotify.com/track/6G29rbLvSRsax4LD4BMftv) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [Ocean of Tears \(umru Remix\)](https://open.spotify.com/album/1Cq9dMKDPy8rcvHDZ1mkrN) | 3:05 |
 | 125 | [Sweet Treasure](https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte) | [Wave Meow](https://open.spotify.com/artist/7h1lUkkaG2VBNY5p99Zf3K) | [Sweet Treasure](https://open.spotify.com/album/4VC1dO9Yfq9GamuzVcmIip) | 3:23 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDkyNDAxNWM2YjIxODc0NzNkM2Y4MGJiMjE1NTY1NTRk`
+Snapshot ID: `MTY2MDMwMjA4MiwwMDAwMDAwMDkxNTA2Zjg4NGQ5ZDRjZjA0NTVmZDRmMTE3NGJhYjdl`

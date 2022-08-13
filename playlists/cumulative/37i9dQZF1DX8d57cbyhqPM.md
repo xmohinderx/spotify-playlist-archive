@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Moonshine
+> From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Fally Ipupa
 
-93 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+98 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2xt](https://open.spotify.com/track/3OJsrBDnnP0KuMvHJbD2Xk) | [Big Molimo AK](https://open.spotify.com/artist/5rv1KON2TIHnOPhQYYDIEp) | [2xt](https://open.spotify.com/album/140TfqfjBZ0RrgdQHzpJjf) | 2:06 | 2022-06-30 |  |
 | [Achour](https://open.spotify.com/track/4qPofy87agRAPWFW7ZofXO) | [Mike LeMillionaire](https://open.spotify.com/artist/4U7uidgCCK3Q7KsLzT3muv) | [Achour](https://open.spotify.com/album/2UsKaMwVBCtXLRAotSqu0c) | 2:53 | 2022-06-30 | 2022-07-09 |
 | [Affection](https://open.spotify.com/track/7mbjCt8jJCCdHJGiw8a9TL) | [J\. Amany](https://open.spotify.com/artist/0v1MvNe9B8eYtoZdfAPyAe) | [Affection](https://open.spotify.com/album/29rzeyxIjhDvwo5Ht5mezJ) | 4:11 | 2022-06-30 |  |
+| [Africa](https://open.spotify.com/track/0HOdXa3PPnJhNRBlgO7Jhr) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Africa](https://open.spotify.com/album/5oVYOWGSA1iXbviwW3SnTH) | 2:33 | 2022-08-12 |  |
 | [Amani Bombe](https://open.spotify.com/track/7qGZsPHy5NAkvtNeet3GXk) | [Huguette Tolinga](https://open.spotify.com/artist/13gEoV3xYprWdVPCSznG1O) | [Amani Bombe](https://open.spotify.com/album/7mrSqIQMuLxX6OQmYaT7kL) | 3:27 | 2022-07-29 |  |
 | [Atalaku](https://open.spotify.com/track/4f45BUGMPheVBmtxg5jVAf) | [Mike LeMillionaire](https://open.spotify.com/artist/4U7uidgCCK3Q7KsLzT3muv) | [Atalaku](https://open.spotify.com/album/6z4rOtn4oWJmSISqwXYhpE) | 1:04 | 2022-06-30 |  |
 | [Ba Koti](https://open.spotify.com/track/6CbDfWbO76SoXmiGj2V01w) | [DYNAMICTHECOOLKID](https://open.spotify.com/artist/7sLYoyyIgfb4wxx76SalS2), [Shotea](https://open.spotify.com/artist/5f5MAEFbc1NIKsPA4XePXS) | [Ba Koti](https://open.spotify.com/album/2X9h36btJkpeFwlcYVgoQz) | 3:39 | 2022-06-30 |  |
@@ -26,6 +27,7 @@
 | [Bébé](https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 4:05 | 2022-06-30 |  |
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-06-30 |  |
 | [CDQ](https://open.spotify.com/track/0CjGQyX0YHYibChVyStSnj) | [Arnaud Ndongala](https://open.spotify.com/artist/4MxUaA8AFEgDdjLIQKP3j8) | [CDQ](https://open.spotify.com/album/7e50CSpqBejmMVBRhMDIKy) | 2:52 | 2022-06-30 | 2022-07-16 |
+| [Champion](https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Champion](https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl) | 3:10 | 2022-08-12 |  |
 | [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-30 |  |
 | [Determine](https://open.spotify.com/track/4UkJjtS8GCk1A0KDhV0K79) | [Rui Reis Maia](https://open.spotify.com/artist/2Wgx2i22tok6zOYMXfV5Ug), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [White Berry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o4UdtYpFLzBSGIuAPiBDU) | 1:32 | 2022-07-29 |  |
 | [Diemba \(Balançoire\) \- Générique](https://open.spotify.com/track/423bpv5RaWC3xEm2j2iAjv) | [Werrason](https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU) | [7 jours de la semaine](https://open.spotify.com/album/2rmeu6hYfpX84iyOKLjzsy) | 5:31 | 2022-06-30 |  |
@@ -38,6 +40,7 @@
 | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/track/0TBRFyidKDV8Gswfc4haxh) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/album/1u1FkfGwN92at9xyF791nf) | 4:05 | 2022-06-30 |  |
 | [Eloko Oyo](https://open.spotify.com/track/2nOxzPAtTsUBmzShpGbpfj) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Tokooos](https://open.spotify.com/album/6IeIf8IVQfLGaYSckKPPsN) | 4:46 | 2022-06-30 | 2022-08-06 |
 | [Faya](https://open.spotify.com/track/4UuBi6buMUZ0kOlYHEIn1m) | [Dyss MK](https://open.spotify.com/artist/5omTTGUh0GnhAXY8ovFqDq), [DJ Jordan MasterBoy](https://open.spotify.com/artist/2xD0xzBe6BVwqLJDxliXd9) | [Faya](https://open.spotify.com/album/3xFXM7xa6al9Fgxn0m608C) | 3:38 | 2022-07-29 |  |
+| [Francis Manuana](https://open.spotify.com/track/6itPjCyrWM9XyRfPRV36rb) | [Bozi Boziana](https://open.spotify.com/artist/3Nrcdm5eONeqS70qbKKtYx), [Anti Choc](https://open.spotify.com/artist/23TUUdlpMJSvFzGAQVQsRk) | [Désir féminin](https://open.spotify.com/album/19zapMhSNUbX8HBbP9nm0s) | 5:53 | 2022-08-12 |  |
 | [Gbadolite](https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [Gbadolite](https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN) | 4:26 | 2022-06-30 |  |
 | [Good Girl](https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr) | [BMK](https://open.spotify.com/artist/7glinXeNR9Fs1UXGRcrbDk) | [Good Girl](https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7) | 2:40 | 2022-06-30 |  |
 | [Holla](https://open.spotify.com/track/02KE9xq0mTKsOaZhSOQ2Gp) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Holla](https://open.spotify.com/album/4t8mt3i5hTBN8scNtYXY6w) | 3:35 | 2022-08-05 |  |
@@ -86,6 +89,7 @@
 | [Solola bien](https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ) | [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Maison mère](https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU) | 7:02 | 2022-06-30 |  |
 | [Techno malewa mécanique](https://open.spotify.com/track/5O34o7gWa08iA4giYbY6mS) | [Werrason](https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU), [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Techno malewa, vol\. 1 : sans cesse](https://open.spotify.com/album/6Zt11836h7D2abgRex1UXR) | 12:18 | 2022-06-30 | 2022-07-09 |
 | [Tibo Tisipa](https://open.spotify.com/track/74M1wN8Zv3mVZehAARrsU2) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7) | [SMS for Location, Vol\. 4](https://open.spotify.com/album/6wTdl91po1VgHgLsFa6YJk) | 3:02 | 2022-06-30 |  |
+| [Tlb](https://open.spotify.com/track/5MbgvVfSVON5bRng2iuboW) | [JDL](https://open.spotify.com/artist/3aSOqB03AcdniBDFyhaQBq) | [Tlb](https://open.spotify.com/album/4xKh0zkc1agvKgK3bIgLyT) | 2:41 | 2022-08-12 |  |
 | [Toleka](https://open.spotify.com/track/1KEROJ9ebYie5dficNGUFD) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Toleka](https://open.spotify.com/album/6WKNnYnQRTex7lPuYM8PE8) | 3:18 | 2022-06-30 |  |
 | [Trop c'est trop](https://open.spotify.com/track/6GvLQgYTEwmgTjadj3Agsw) | [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Trop c'est trop](https://open.spotify.com/album/1wL4WyHqFJwnS9F1IgxeFW) | 6:43 | 2022-06-30 |  |
 | [Trop d'style](https://open.spotify.com/track/3psZCp00KQYDNUEFomZuMt) | [Jobooy](https://open.spotify.com/artist/3zBTnQu40I1ZWfsDDoeBDH) | [Trop d'style](https://open.spotify.com/album/1JK3DwucZnzPmNqeRhcNID) | 2:51 | 2022-06-30 |  |
@@ -93,6 +97,7 @@
 | [Trouvez\-la moi](https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 5:51 | 2022-07-15 |  |
 | [Tu M'as Tout Donné \- Extended Version](https://open.spotify.com/track/3jt07FhLh159y0nT9sjP7R) | [Luc Evarist](https://open.spotify.com/artist/46tjw4Tkvp0ZfQlC3OGmOJ) | [Tu M'as Tout Donné \(Extended Version\)](https://open.spotify.com/album/77PWsjBJ56uVOvjZDE1zIT) | 4:00 | 2022-06-30 |  |
 | [Wake up](https://open.spotify.com/track/4qRgqWuM5PNKiuD7x3UPP9) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Wake Up](https://open.spotify.com/album/0isIGnIWJ4lVVmG2rvXF7I) | 6:49 | 2022-06-30 |  |
+| [Who Dembi](https://open.spotify.com/track/4TMimp5DUch0hydlFQbzph) | [Gn Breezy](https://open.spotify.com/artist/3Q9vYABYmVbX8Tv541J3eT), [Mestre Dangui](https://open.spotify.com/artist/0FqTHBfTk71N4hZXndB6E2) | [Who Dembi](https://open.spotify.com/album/1FA9LlthaSq66VHen2U2c6) | 3:40 | 2022-08-12 |  |
 | [Wosso](https://open.spotify.com/track/1BXm3Tq7FI0ZViLTQUaZM0) | [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb) | [Wosso](https://open.spotify.com/album/4PZ3zMNWTBompKMYzwJYWj) | 6:37 | 2022-06-30 |  |
 | [Yo Pe \(Remix\)](https://open.spotify.com/track/4VPPV88siS7jGQpAwOkkoP) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Achour](https://open.spotify.com/album/6PwgM6SebKf7TRONUcGMc6) | 4:33 | 2022-06-30 | 2022-07-29 |
 | [Yo Pe \- Remix](https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yo Pe \(Remix\)](https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV) | 4:32 | 2022-07-15 |  |

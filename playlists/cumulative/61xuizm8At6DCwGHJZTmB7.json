@@ -2374,6 +2374,28 @@
     },
     {
       "album": {
+        "name": "O Lord, You're Beautiful",
+        "url": "https://open.spotify.com/album/6gIib347YLlHGDMqpOHBL8"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235599,
+      "name": "O Lord, You\u2019re Beautiful (with Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/37Ms9rdo26omDpCINsHhui"
+    },
+    {
+      "album": {
         "name": "Zion (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
       },

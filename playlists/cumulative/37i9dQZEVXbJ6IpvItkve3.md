@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-480 songs - 1 day 2 hr 51 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+481 songs - 1 day 2 hr 54 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,10 +437,11 @@
 | [עין גדי](https://open.spotify.com/track/5FQM81JrmeXHkFi5o43cVL) | [Ori Shochat](https://open.spotify.com/artist/4PchTbUVHVpAsqAd3970dJ), [Vibe Ish](https://open.spotify.com/artist/29AFXzlGto8fiywTMqEYHj), [Teddy Neguse](https://open.spotify.com/artist/1SOCXWLgBvXDqNobiSnGM7), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [שוחטודה](https://open.spotify.com/album/7cVrJJU7QnRf1jjZjM3qTu) | 3:40 | 2022-04-27 | 2022-04-29 |
 | [על מה בנות חושבות בלילה](https://open.spotify.com/track/7LegYLbISvXJFtAr4xDljO) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3) | [על מה בנות חושבות בלילה](https://open.spotify.com/album/462wpJ2OhZmO2cdcgcwpyq) | 3:14 | 2021-03-27\* | 2021-08-04 |
 | [פילטרים יפים](https://open.spotify.com/track/4F5i9rkN4DBMysvhzzEHoh) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt), [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [פילטרים יפים](https://open.spotify.com/album/0uqfFF7ulAju4K9JKP3rnW) | 3:02 | 2021-12-08 | 2022-04-22 |
+| [פנתרה](https://open.spotify.com/track/5A3bEckI7AjWTguGqZOzUm) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [פנתרה](https://open.spotify.com/album/25E9FesbHAUYUxUJCswURR) | 2:53 | 2022-08-12 |  |
 | [פסקול חיי](https://open.spotify.com/track/2qmJ2h1UdncRMPI2DMRWvK) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [The 8](https://open.spotify.com/album/5dMa0I7cyLtXLn47oxGpph) | 3:15 | 2021-03-27\* | 2021-08-18 |
 | [פעמון](https://open.spotify.com/track/4DgyTAwiSJsT5u5EljsImB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [פעמון](https://open.spotify.com/album/5wQZzk2q5CM90DIvSB7LRH) | 3:00 | 2022-03-24 |  |
 | [פרי גנך](https://open.spotify.com/track/5NtnjAmjgrQnpaIDBLtVZ8) | [Aviva Avidan](https://open.spotify.com/artist/02lzslgWuwHAt9319f49Tc) | [יהיה בסדר](https://open.spotify.com/album/1uaPbHeFNFNSlKjzz4UL9Q) | 5:22 | 2022-05-05 | 2022-05-07 |
-| [פרימיטיבי](https://open.spotify.com/track/3yrRbZeS9ZKLRi2QDRXyrc) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [פרימיטיבי](https://open.spotify.com/album/6OLfMd1jTe6EbfWoknNPzt) | 3:25 | 2022-08-03 |  |
+| [פרימיטיבי](https://open.spotify.com/track/3yrRbZeS9ZKLRi2QDRXyrc) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [פרימיטיבי](https://open.spotify.com/album/6OLfMd1jTe6EbfWoknNPzt) | 3:25 | 2022-08-03 | 2022-08-13 |
 | [פרצופים](https://open.spotify.com/track/09PZuKctf7D3RAdaegN7zu) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [פרצופים](https://open.spotify.com/album/4AQtxbh9BLct9Al6PotQlw) | 2:46 | 2021-04-24 | 2021-10-12 |
 | [קַקטוּס](https://open.spotify.com/track/7nq3ae13EXiQE1AADT5GOA) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [קַקטוּס](https://open.spotify.com/album/3HFOto3KuEor5MTBx1pYeg) | 2:22 | 2021-04-03 | 2021-05-11 |
 | [קאטליה](https://open.spotify.com/track/5NUkfQjmoeTwJgpyImlLSe) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3) | [קאטליה](https://open.spotify.com/album/0CTAq5gissWkHDhFhMq4BI) | 2:15 | 2021-08-01 | 2021-08-08 |

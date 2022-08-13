@@ -4,7 +4,7 @@
 
 > ¡Y suena y suena..\. MS!
 
-130 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/4aLGMwMufY0fSYhU1Oevnh)
+131 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/4aLGMwMufY0fSYhU1Oevnh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Lo Mejor \- Versión Acústica](https://open.spotify.com/track/7c35IABO5BCymbBoxpCdRD) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Positivo](https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM) | 3:01 | 2022-05-26 |  |
 | [A Mí Me Esta Doliendo](https://open.spotify.com/track/01dVdmSV7eaVgRzUAi6o13) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 3:45 | 2022-05-26 |  |
 | [A Mí Me Está Doliendo](https://open.spotify.com/track/5VZ7bLHUmR3lLvPvav0rNK) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy) | 3:45 | 2022-05-26 | 2022-07-29 |
-| [Al Despertar \- Versión Acústica](https://open.spotify.com/track/4v3iVijH4Ms5xYRfjOdc5H) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Al Despertar \(Versión Acústica\)](https://open.spotify.com/album/57s38NYjHuY9ARU6M9s7jX) | 2:44 | 2022-05-26 |  |
+| [Al Despertar \- Versión Acústica](https://open.spotify.com/track/4v3iVijH4Ms5xYRfjOdc5H) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Al Despertar \(Versión Acústica\)](https://open.spotify.com/album/57s38NYjHuY9ARU6M9s7jX) | 2:44 | 2022-05-26 | 2022-08-13 |
 | [Altamente Probable](https://open.spotify.com/track/0RFxSN4HcsjQF80fkH1q78) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Altamente Probable](https://open.spotify.com/album/5YgaW4C5RzO939vG04yBdV) | 3:00 | 2022-05-26 |  |
 | [Amigos ¿De Quién?](https://open.spotify.com/track/472RYrDoNry11jkmJIWeat) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amigos ¿De Quién?](https://open.spotify.com/album/3RNl5xBdlJA02tSLV3fSeL) | 2:45 | 2022-05-26 |  |
 | [Amor Express \- En Vivo](https://open.spotify.com/track/5re4p4Vuou12spvIZsc91A) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6) | 3:35 | 2022-05-26 |  |
@@ -49,6 +49,7 @@
 | [Háblame de Ti](https://open.spotify.com/track/4YCWsVdCoVQieev0hyeesj) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1ktsCeaosI2GPvhk2igVO9) | 3:10 | 2022-05-26 | 2022-07-29 |
 | [Increíble](https://open.spotify.com/track/2vlIZuftr5G7S3VYYzxYww) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Las Bandas Románticas](https://open.spotify.com/album/0ENViT87wqrx5RiQKtLO8U) | 2:48 | 2022-05-26 | 2022-07-29 |
 | [Increíble](https://open.spotify.com/track/240IA16ruWe9xOjPy16lJy) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 2:48 | 2022-05-26 |  |
+| [Jalo](https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Jalo](https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc) | 2:25 | 2022-08-12 |  |
 | [La Amistad No Cuesta](https://open.spotify.com/track/71K1ZMlNRkjdiqXLRNIeUB) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Amistad No Cuesta](https://open.spotify.com/album/0xtfcf7tNKDoeRLHKzIp0E) | 3:28 | 2022-05-26 |  |
 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 | 2022-05-26 |  |
 | [La Sacamos Del Estadio](https://open.spotify.com/track/4UMEfSlU8YwRDHfXQWDYxc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:25 | 2022-05-26 |  |

@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Abby Anderson
 
-252 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+254 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-12-10 | 2022-06-04 |
 | [Drink Had Me](https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:36 | 2021-12-10 |  |
 | [Drinkin' Drinks](https://open.spotify.com/track/7DjNEHu28F1cObsPQOUFDH) | [Urban Outlaws](https://open.spotify.com/artist/0OIe9J3WmpoAQsISHsj26F), [Kurt Stevens](https://open.spotify.com/artist/3hxWaqOFMEKfbdxs3O9Iwj) | [Drinkin' Drinks](https://open.spotify.com/album/0eMUBRcNkWpMUjqpNTOeQh) | 2:40 | 2022-04-29 |  |
+| [Dutton Ranch Freestyle](https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA) | 2:23 | 2022-08-12 |  |
 | [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 | 2022-04-15 |  |
 | [Effortless](https://open.spotify.com/track/6cxnYQWZdZDlfJiCtI1vnr) | [Salemtown](https://open.spotify.com/artist/6Lblad81pn8Lhh6OKNiax2) | [Effortless](https://open.spotify.com/album/2Afegl9NLgCYGQCHfYjSVd) | 3:24 | 2021-12-10 | 2022-05-20 |
 | [Everything Changes](https://open.spotify.com/track/5qDERSuqkR2swJWGkH2Oox) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Everything Changes](https://open.spotify.com/album/3u1603AetS0Vg1TWSRIU1N) | 3:10 | 2021-12-10 | 2022-02-26 |
@@ -214,6 +215,7 @@
 | [Stuck](https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Stuck](https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM) | 3:09 | 2021-12-10 | 2022-01-08 |
 | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/track/0MmVE2K5YbUxx54Kke0mWY) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/album/25ymYbAX8kx0LwzoDUSPzt) | 3:08 | 2022-07-22 |  |
 | [Summer In A Small Town](https://open.spotify.com/track/2WgY7GjYq1SLIgOLhqrczP) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Summer In A Small Town](https://open.spotify.com/album/0JubqhaKGIbLxtG8IUBG95) | 2:57 | 2021-12-10 | 2022-02-26 |
+| [Sunroof \(feat\. Thomas Rhett\)](https://open.spotify.com/track/2xRPwGneUj9S6UNC2TthyJ) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Sunroof \(Remixes\)](https://open.spotify.com/album/2Lm0F5MpahWZ4vb0k4MiHj) | 2:43 | 2022-08-12 |  |
 | [Tailgate Queen](https://open.spotify.com/track/4hztsDzyfQclyDAlivrogd) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Tailgate Queen](https://open.spotify.com/album/1inQMIpxbhWs12ExHyOZQt) | 3:23 | 2021-12-10 |  |
 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 | 2021-12-10 |  |
 | [Tell You Everything](https://open.spotify.com/track/6q8BR4D8pvhSMVcIfrDHwS) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Tell You Everything](https://open.spotify.com/album/7gjPWAq21I5fMsQCroL3Zv) | 2:55 | 2021-12-10 | 2022-02-26 |

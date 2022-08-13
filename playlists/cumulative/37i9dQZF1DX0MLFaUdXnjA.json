@@ -1875,7 +1875,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 213766,
       "name": "blue",
       "url": "https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL"
@@ -2357,6 +2357,24 @@
       "duration_ms": 213070,
       "name": "Butterfly Pen",
       "url": "https://open.spotify.com/track/2xkEFQ4u7H4aMmAfWrhPoD"
+    },
+    {
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx"
     },
     {
       "album": {
@@ -5330,6 +5348,24 @@
     },
     {
       "album": {
+        "name": "Falling Behind",
+        "url": "https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e"
+    },
+    {
+      "album": {
         "name": "CTV3: Cool Tape Vol. 3",
         "url": "https://open.spotify.com/album/2NuZ1TloomufyKf57ZLBQn"
       },
@@ -5955,7 +5991,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 241080,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/4QyG5ATNtJcpTUNkmsyggh"
@@ -8898,6 +8934,32 @@
     },
     {
       "album": {
+        "name": "isn't it enough",
+        "url": "https://open.spotify.com/album/2MFBRTKP6bGJ9Mh3p6Jr6O"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Albert Posis",
+          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222095,
+      "name": "isn't it enough",
+      "url": "https://open.spotify.com/track/6LFCiV3TmCozEgy51rp9aa"
+    },
+    {
+      "album": {
         "name": "It Takes Two",
         "url": "https://open.spotify.com/album/314mIakb1sF5Lfl23kmibT"
       },
@@ -9267,6 +9329,24 @@
       "duration_ms": 193894,
       "name": "Kinda Hate U Kinda Love U",
       "url": "https://open.spotify.com/track/6y4A9PmtRYhK0wtldpb1Wo"
+    },
+    {
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "album": {
@@ -9746,6 +9826,28 @@
     },
     {
       "album": {
+        "name": "Light (with BENEE)",
+        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+      },
+      "artists": [
+        {
+          "name": "Finn Falcon",
+          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Light (with BENEE)",
+      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
+    },
+    {
+      "album": {
         "name": "Light Of My Life",
         "url": "https://open.spotify.com/album/2IMYa5ygz6GiEoN6nbVkVU"
       },
@@ -9793,7 +9895,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 193749,
       "name": "Lights Are On",
       "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
@@ -9963,6 +10065,24 @@
       "duration_ms": 146837,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/74mU4zNiHJl990F6gqBG4p"
+    },
+    {
+      "album": {
+        "name": "Living In Symphony",
+        "url": "https://open.spotify.com/album/4BbHI3lGZG68Q3ANzOJFQI"
+      },
+      "artists": [
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264080,
+      "name": "Living In Symphony",
+      "url": "https://open.spotify.com/track/3yRcxFz0tlcm45Uc46tUPl"
     },
     {
       "album": {
@@ -10853,7 +10973,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
@@ -15385,7 +15505,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 213213,
       "name": "Step On Flowers",
       "url": "https://open.spotify.com/track/7156NTCsRSyw7A2si4sm5e"
@@ -18237,7 +18357,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 172490,
       "name": "What's Been On Your Mind?",
       "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"

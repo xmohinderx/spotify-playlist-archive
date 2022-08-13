@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Pahua en portada.
 
-154 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+155 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 | 2021-10-05 |  |
 | [En Cantos](https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En Cantos](https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl) | 3:32 | 2021-10-05 | 2022-03-31 |
 | [Esdrújulos Epítetos](https://open.spotify.com/track/5lfR2MyYvuUvBGmQrE95sT) | [Doble Pletina](https://open.spotify.com/artist/3Hmfaw0SGZ6YBlH9ZkcUvC) | [Stop](https://open.spotify.com/album/5iL6nnsBFGeqsmE9OLN3Y0) | 2:56 | 2021-10-05 | 2022-04-06 |
+| [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 | 2022-08-12 |  |
 | [Flores de Abril](https://open.spotify.com/track/0QrVadfaRJIApi1dRE1FZL) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Flores de Abril](https://open.spotify.com/album/0mIiqJar5L73vhvrklUzIV) | 4:17 | 2022-03-04 | 2022-05-28 |
 | [Frutas](https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw) | [Sin Color](https://open.spotify.com/artist/666CSPv8WKGQkAgI6wtBop) | [Frutas](https://open.spotify.com/album/1Kmmeh36eI13U3nltNhFhD) | 4:19 | 2021-10-05 |  |
 | [Futurista](https://open.spotify.com/track/1qAtVevO8XshdRHFt9dND2) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2kk7QC1wMowvV1AvEhANcg) | 2:59 | 2022-02-15 |  |
@@ -75,7 +76,7 @@
 | [Kiss the frog](https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0) | [Afrodita](https://open.spotify.com/artist/63b3XLtJeDkzJqg6yQWCYm), [Asagi Saundo](https://open.spotify.com/artist/54X6HgtuXxwfT1QBhwwgMU) | [New Latam Beats from Mexico Curated by Diguital Trip](https://open.spotify.com/album/3T4SxLhzVaweReuWbisvrz) | 7:14 | 2022-04-12 |  |
 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 | 2021-10-05 |  |
 | [La Jefa](https://open.spotify.com/track/236wgliGujRrMfPPCzncbd) | [Nancy Sanchez](https://open.spotify.com/artist/3FnN68S1l5aiLy9TMpGx8i), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [La Jefa](https://open.spotify.com/album/3vQExkPfg4cunfATYrGwc5) | 2:27 | 2022-03-10 | 2022-04-21 |
-| [La Loba \(Form Remix\)](https://open.spotify.com/track/6jtmeWIJr0i2rxrDIgBq7q) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [FORM](https://open.spotify.com/artist/5vIivtYjEPjPJm6328wI2A) | [La Loba \(Form Remix\)](https://open.spotify.com/album/38SHj0DIbo9hNxJaydKeuP) | 3:20 | 2022-01-21 |  |
+| [La Loba \(Form Remix\)](https://open.spotify.com/track/6jtmeWIJr0i2rxrDIgBq7q) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [FORM](https://open.spotify.com/artist/5vIivtYjEPjPJm6328wI2A) | [La Loba \(Form Remix\)](https://open.spotify.com/album/38SHj0DIbo9hNxJaydKeuP) | 3:20 | 2022-01-21 | 2022-08-13 |
 | [La Loba \(Trooko Remix\)](https://open.spotify.com/track/4h1Y0K73QoylJoXQAnUikz) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [La Loba \(Remixes\)](https://open.spotify.com/album/3hUyUAq0S8ccXaHsRGXXwa) | 4:16 | 2022-03-18 |  |
 | [La Loba \- Trooko Remix](https://open.spotify.com/track/5eFI4a7q8Ln0HDZ0lbIPhr) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [La Loba \(Remixes\)](https://open.spotify.com/album/6DV5ObthuIgftL8GaJqwKx) | 4:16 | 2022-03-18 | 2022-07-29 |
 | [la luz\(Fín\) \- Buscabulla Remix](https://open.spotify.com/track/1QJxM8vOkfCyZP1YNzGjw3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [la luz\(Fín\) \[Buscabulla Remix\]](https://open.spotify.com/album/02KAzGHL7vMOdxZXKZVzxa) | 3:22 | 2022-05-27 | 2022-07-12 |

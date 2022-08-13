@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-305 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
+306 songs - 18 hr 58 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Hate Me](https://open.spotify.com/track/632Xl9n1wHgMKoxD07WZHW) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Mis\-An\-Thrope](https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1) | 3:02 | 2021-11-12 | 2022-07-28 |
 | [Heaven](https://open.spotify.com/track/1GxZnEcrRsvk6m7ur6MR4u) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Brothers](https://open.spotify.com/album/3BFVZvWXK3WW25oO9DjBNj) | 3:38 | 2022-06-17 |  |
 | [Heaven](https://open.spotify.com/track/4lF3jqrokwLCfjg8puOe7E) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Heaven](https://open.spotify.com/album/11aq59SooqMzFxTtH811U0) | 3:38 | 2021-11-12 | 2022-07-29 |
+| [HEAVEN DON'T CRY](https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [HEAVEN DON'T CRY](https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX) | 4:25 | 2022-08-12 |  |
 | [Hell March \- Remastered](https://open.spotify.com/track/53TvfXxbbHi1zHsxDeebei) | [Frank Klepacki](https://open.spotify.com/artist/0DGqabk3gsZWS8zEdgt1m5), [The Tiberian Sons](https://open.spotify.com/artist/25aiEkyELb7lgxJjn3F2gz) | [Frank Klepacki & The Tiberian Sons: Celebrating 25 Years of Command & Conquer \(Remastered\)](https://open.spotify.com/album/1BdrAyFCmYxsu3aGzQwIt0) | 3:34 | 2021-11-12 | 2022-07-29 |
 | [Here Comes The Boom](https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 4:11 | 2021-11-12 | 2022-07-15 |
 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 | 2021-11-12 |  |
@@ -259,7 +260,7 @@
 | [That Day](https://open.spotify.com/track/2iENCWE4DYyyAh9hXrxIb1) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/0cc0ETfgELM6PpCc9rz6yE) | 3:30 | 2022-07-13 | 2022-07-29 |
 | [That Day](https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN) | 3:30 | 2022-07-13 |  |
 | [That's My Jam](https://open.spotify.com/track/2WxJwVefvzqhGui9a2bMFz) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [That's My Jam](https://open.spotify.com/album/7w6uv3otp1CRCd8XjGtZOo) | 3:16 | 2022-04-04 | 2022-07-14 |
-| [The Antidote](https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:59 | 2022-07-13 |  |
+| [The Antidote](https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:59 | 2022-07-13 | 2022-08-13 |
 | [The Bottom](https://open.spotify.com/track/4vpJYmoqQ2bGkC1IKVWeIG) | [Devour the Day](https://open.spotify.com/artist/4olk2DDoPvzAJlJBonZFHk) | [S.O.A.R](https://open.spotify.com/album/5OsKZSMhvAjBb47m8zakxI) | 3:02 | 2022-07-13 | 2022-07-15 |
 | [The Cage](https://open.spotify.com/track/2u15Avqt6Dr3fgq1XLSqeg) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [The Cage](https://open.spotify.com/album/6jRJxHg5DovKXA27ntMyUG) | 3:20 | 2021-11-12 | 2022-07-29 |
 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 | 2021-11-12 | 2022-07-29 |

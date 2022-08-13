@@ -1722,6 +1722,24 @@
     },
     {
       "album": {
+        "name": "Ternura",
+        "url": "https://open.spotify.com/album/7rQKkMoi3oWcfpQzoBUQoE"
+      },
+      "artists": [
+        {
+          "name": "Kathekon",
+          "url": "https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105047,
+      "name": "Ternura",
+      "url": "https://open.spotify.com/track/1iXvVzkyogXKfdr6IJqyd7"
+    },
+    {
+      "album": {
         "name": "October Roads",
         "url": "https://open.spotify.com/album/3Ms99VQwBTFGwgxroh8Cpr"
       },

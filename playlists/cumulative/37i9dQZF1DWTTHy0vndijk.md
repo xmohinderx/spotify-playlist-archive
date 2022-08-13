@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: YENA\(최예나\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-318 songs - 17 hr 59 min - [published](https://open.spotify.com/playlist/54sOlxCE1pFDWuNfDv9xNV)
+319 songs - 18 hr 3 min - [published](https://open.spotify.com/playlist/54sOlxCE1pFDWuNfDv9xNV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [CLOVER](https://open.spotify.com/track/3NMNdvHprM0MoV1sAWO7LK) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Day](https://open.spotify.com/album/09r6g4aYjC6WqIxmTNHaZx) | 3:21 | 2022-01-04 | 2022-07-16 |
 | [Coloring Book](https://open.spotify.com/track/1PhrSUBNfKgUX7wMMURdTI) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [COLORING BOOK](https://open.spotify.com/album/38AAuqV2wFULToBRMPn3Ne) | 3:05 | 2022-02-14 | 2022-04-14 |
 | [Come to me](https://open.spotify.com/track/4CHmF2PI3RANWv15qkyKdB) | [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [Come to me](https://open.spotify.com/album/2AdhqhSHycIJ7Jm0rPJwxI) | 3:36 | 2021-11-29 | 2022-07-23 |
+| [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 | 2022-08-12 |  |
 | [Copycat](https://open.spotify.com/track/3eRXnVROQcJxwzovKyLTnd) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [Copycat](https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE) | 3:24 | 2022-07-12 |  |
 | [Crescendo](https://open.spotify.com/track/6BMb5LbcfRAiiHl9PyLdcb) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [NEWTRO](https://open.spotify.com/album/3CBgvajr0lz1fOIGIydiZ3) | 3:42 | 2021-11-29 | 2022-04-19 |
 | [Crossroads](https://open.spotify.com/track/3ZWCWArPYr1v0iF763oSOz) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:LABYRINTH](https://open.spotify.com/album/6FVK3km0FtSdGF4ZdWkrVH) | 3:22 | 2021-11-29 | 2022-07-27 |
@@ -76,7 +77,7 @@
 | [Do you wanna get down](https://open.spotify.com/track/3pkreie3kWVsVhu1Dcz3Fn) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [Do you wanna get down](https://open.spotify.com/album/3yJjpb5pvVGa3ViMv4NL98) | 3:20 | 2022-06-09 | 2022-06-29 |
 | [Don't Let Me Go](https://open.spotify.com/track/0Kk0pgIE1YUImnnybYA825) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:59 | 2022-03-21 | 2022-04-22 |
 | [Don't U Wait No More](https://open.spotify.com/track/6RKpcgjYeiC5crivVGNNrZ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 2:51 | 2022-03-29 | 2022-04-20 |
-| [Door](https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:19 | 2021-11-29 |  |
+| [Door](https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:19 | 2021-11-29 | 2022-08-13 |
 | [Dream Candy](https://open.spotify.com/track/4h4O04FMZxSaZLtz8IGEzg) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 1st Mini Album 'Dreaming'](https://open.spotify.com/album/2J8yCHHlqK1XKPr2PoYza5) | 3:36 | 2021-11-29 | 2022-07-01 |
 | [Dreams Come True](https://open.spotify.com/track/1qpcqhkwZqCJAu4JxEhute) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Dream your dream](https://open.spotify.com/album/6PfJc6U6hFSmFs0AxaTEeY) | 3:45 | 2021-11-29 | 2022-07-07 |
 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 | 2022-07-28 |  |
@@ -228,7 +229,7 @@
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-08 | 2022-07-29 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-23 |  |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-29 |  |
-| [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-28 |  |
+| [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-28 | 2022-08-13 |
 | [Secret Garden](https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 4:04 | 2021-11-29 | 2022-07-28 |
 | [SEMINA](https://open.spotify.com/track/0wVLIpc1C3nSwvKNtkPrq3) | [gugudan SEMINA](https://open.spotify.com/artist/794b07X4OdSxB97S6X3NaP) | [Semina](https://open.spotify.com/album/65sFFFCBlzpksWDFLKLbEu) | 3:07 | 2021-11-29 | 2022-07-28 |
 | [Shine](https://open.spotify.com/track/2qJjNAljfrYm7slPCXzRtC) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:36 | 2022-01-26 | 2022-04-11 |
@@ -261,7 +262,7 @@
 | [SWEET TALKER](https://open.spotify.com/track/3J10xA3LIiMmaPxKC9h0Jq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What is Love?](https://open.spotify.com/album/5NObA8Cx4Ri5cATR1DLTjj) | 3:27 | 2022-01-04 | 2022-07-05 |
 | [Sweety](https://open.spotify.com/track/1acb10rHw0NpgPhcNs3Enn) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND Summer Mini Album 'Sunny Summer'](https://open.spotify.com/album/65HAyK45TFC2MJSufJwzji) | 3:13 | 2022-04-04 | 2022-07-29 |
 | [Swim Away](https://open.spotify.com/track/0ejKDNqpEx3Dx2umKGk2lD) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Plant](https://open.spotify.com/album/5aUgxOcv6bo9gvuMZweqNb) | 2:38 | 2021-11-29 | 2022-07-26 |
-| [Talk & Talk](https://open.spotify.com/track/6Q5e2XpyGzMLgA3ul491pu) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Talk & Talk](https://open.spotify.com/album/3GxaqNCf6F7KAs1aDBSLVe) | 3:40 | 2021-11-29 | 2022-07-29 |
+| [Talk & Talk](https://open.spotify.com/track/6Q5e2XpyGzMLgA3ul491pu) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Talk & Talk](https://open.spotify.com/album/3GxaqNCf6F7KAs1aDBSLVe) | 3:40 | 2021-11-29 |  |
 | [Talk to me](https://open.spotify.com/track/2wcFM3ZJwOjE09L6K2rBLc) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [SUMMER DREAM](https://open.spotify.com/album/2HLeKfrHYquFIoM6VArIzJ) | 3:13 | 2021-11-29 | 2022-07-22 |
 | [Tasty Tasty Tasty](https://open.spotify.com/track/1Tzcbnj2VqwHwvwJtVdpWe) | [Heyne](https://open.spotify.com/artist/3VIi3w8QEz7SHLBg5XM8c5) | [Tiny Bits of Life, Pt\. 10](https://open.spotify.com/album/1WpoE8sMwNk2I918nxcrk0) | 3:05 | 2021-11-29 | 2022-06-12 |
 | [Temptation](https://open.spotify.com/track/153Q9DPESoV9PfJXHMnAFH) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 4th Mini Album Heal](https://open.spotify.com/album/2bEKOTFTxk07CU3O2sk9BX) | 3:27 | 2021-11-29 | 2022-04-21 |

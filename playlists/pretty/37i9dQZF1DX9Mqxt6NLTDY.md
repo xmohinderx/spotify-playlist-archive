@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 
 > Post\-hardcore\. Post\-punk\. Post\-rock\. Post\-everything\. Cover: Metz
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,228 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,321 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

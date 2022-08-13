@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX854liIXcOyw.md) - [plain]
 
 > The tracks sticking us together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,549 likes - 200 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,678 likes - 200 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

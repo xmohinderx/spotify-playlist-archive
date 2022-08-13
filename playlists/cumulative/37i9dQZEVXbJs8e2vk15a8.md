@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-312 songs - 17 hr 57 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+313 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Pensandote](https://open.spotify.com/track/70tBlRh8oOY0v5swyQquDI) | [FiltraKing](https://open.spotify.com/artist/02tSgGoPaKu9vDTA30O6Wd), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Pensandote](https://open.spotify.com/album/0YhCAaofNnnLnE4vb8k1yc) | 3:05 | 2022-05-03 | 2022-06-01 |
 | [Pensándolo Bien](https://open.spotify.com/track/4yBCA5pdup6QG3qkXrojKP) | [Clemente Schaerer](https://open.spotify.com/artist/4gzfzjIWONC4k6Tqvg2LeJ) | [Pensándolo Bien](https://open.spotify.com/album/3RMo1apDOyPUfgfR4aBtfq) | 3:58 | 2022-06-19 |  |
 | [Phillie y Botella \(Remix\)](https://open.spotify.com/track/0yc0Cewx8JTFPjiOVLfzkS) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Phillie y Botella \(Remix\)](https://open.spotify.com/album/5hFSRmx61JquqPA5NnbyF8) | 4:48 | 2022-04-15 | 2022-04-20 |
+| [Physical \- Remastered 2021](https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Physical \(Deluxe Edition\)](https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH) | 3:45 | 2022-08-12 |  |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-04-19 | 2022-05-04 |
 | [Plug](https://open.spotify.com/track/74SYp4GFxYqEBtt1BiwJWZ) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Plug](https://open.spotify.com/album/4SAqpEUq1mZ1hAYH5qZncu) | 2:25 | 2022-07-19 |  |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-07-19 |  |
@@ -260,7 +261,7 @@
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-06-23 | 2022-07-31 |
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 |  |
 | [SNAP \- High and Fast](https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:15 | 2022-07-26 | 2022-07-31 |
-| [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 | 2022-07-30 |  |
+| [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 | 2022-07-30 | 2022-08-13 |
 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 | 2022-07-27 | 2022-08-06 |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-04-19 | 2022-05-11 |
 | [Sufriendo](https://open.spotify.com/track/3afAUVkCzAtkjiDxrtq6K1) | [MYLØ](https://open.spotify.com/artist/5TpsDaHB9KPoIzkWpub8Zh), [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [Sufriendo](https://open.spotify.com/album/3N1bcRqm5JIAzST7cejp0g) | 2:44 | 2022-04-24 | 2022-06-26 |

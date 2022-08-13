@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-122 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/5epGcI3jwXpExjEdCjz20Q)
+125 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/5epGcI3jwXpExjEdCjz20Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,12 +54,14 @@
 | [If You New](https://open.spotify.com/track/4YTjvImG7MPjIOKTPI6P3X) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 5:01 | 2022-05-06 |  |
 | [If You Want Me To Stay](https://open.spotify.com/track/1cqZpEMt5vbMXKl3NThaWn) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Grand Central](https://open.spotify.com/album/4mePfZ9tMKs3UQ5tssOeiZ) | 6:02 | 2022-05-06 |  |
 | [In The City](https://open.spotify.com/track/5sjpxYrH0KVtDs6mWGbY7C) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Dreams](https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df) | 5:22 | 2022-05-06 |  |
+| [In The City Life](https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ) | [Gota](https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ) | [Smooth Jazz Radio Hits Volume Two](https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS) | 3:36 | 2022-08-12 |  |
 | [Inside Out](https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:32 | 2022-05-06 |  |
 | [It Ain't Over BWB](https://open.spotify.com/track/2S7XYSL5qyBoJVQqm2mogJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:37 | 2022-06-14 | 2022-08-11 |
-| [It's All Good](https://open.spotify.com/track/1aXysFRgZfghWtgteEVQIz) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 5:14 | 2022-05-06 |  |
+| [It's All Good](https://open.spotify.com/track/1aXysFRgZfghWtgteEVQIz) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 5:14 | 2022-05-06 | 2022-08-13 |
 | [Kicks](https://open.spotify.com/track/2DRXRN3kBgwGYZtLc5yFcM) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:05 | 2022-05-06 | 2022-07-28 |
 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 | 2022-05-06 | 2022-08-11 |
-| [Lights Down Low](https://open.spotify.com/track/7uHtZIoR7GnrvKrupnSICf) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Seduction](https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D) | 4:32 | 2022-05-06 |  |
+| [Lights Down Low](https://open.spotify.com/track/7uHtZIoR7GnrvKrupnSICf) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Seduction](https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D) | 4:32 | 2022-05-06 | 2022-08-13 |
+| [Liquid Soul](https://open.spotify.com/track/36TH6l0hRy22WrYiQXXR8q) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 6:07 | 2022-08-12 |  |
 | [Lost and Found](https://open.spotify.com/track/58bVhACMXuFvNVfojvvDKC) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 4:22 | 2022-05-06 | 2022-07-29 |
 | [Lost and Found](https://open.spotify.com/track/71cTTSVVkCmbIJ04Kl5jgg) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 4:22 | 2022-06-28 |  |
 | [Love To All](https://open.spotify.com/track/3JixMzROP010wvqclHnxr2) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Listen](https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL) | 5:08 | 2022-05-06 |  |
@@ -80,6 +82,7 @@
 | [No Woman No Cry](https://open.spotify.com/track/0uGRWcUBryGGCFYI9lC3dj) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Reflections](https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5) | 4:57 | 2022-05-06 |  |
 | [Northern Lights](https://open.spotify.com/track/6G5qp0GZJKFTEHLGsJqIcm) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters 1](https://open.spotify.com/album/74wFUQc9LIgVzeYMvIOCJm) | 5:38 | 2022-05-06 | 2022-07-29 |
 | [Northern Lights](https://open.spotify.com/track/2vNbXqk8usOSYRlH9OfTHH) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [The Collection](https://open.spotify.com/album/7HNTBKiVNU2MBWJ0WnJDez) | 5:40 | 2022-06-28 |  |
+| [Ocean Way](https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 5:03 | 2022-08-12 |  |
 | [Old School](https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 4:26 | 2022-05-06 |  |
 | [On The Beach](https://open.spotify.com/track/6X0XzLsQZHLfOeoWUjRAye) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Do It Again](https://open.spotify.com/album/2fIm34Of6gQfOrLrdM02Lw) | 4:42 | 2022-05-06 | 2022-06-09 |
 | [Pacific Breeze](https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Nelson Braxton](https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt) | [Pearls](https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF) | 3:44 | 2022-05-06 |  |
@@ -91,7 +94,7 @@
 | [Read Between the Lines](https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:22 | 2022-05-06 |  |
 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 | 2022-05-06 |  |
 | [Rozil](https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Journey](https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI) | 5:29 | 2022-05-06 |  |
-| [Saturday Cool](https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:37 | 2022-05-06 |  |
+| [Saturday Cool](https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:37 | 2022-05-06 | 2022-08-13 |
 | [Secret Affair](https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 5:39 | 2022-05-06 |  |
 | [Sky Watcher](https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:02 | 2022-05-06 |  |
 | [So Beautiful](https://open.spotify.com/track/4ffJ3kxKr4XP5pjfFm6uZR) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Ride](https://open.spotify.com/album/5x5eUg69ezurxlTfSriyjv) | 4:21 | 2022-05-06 |  |

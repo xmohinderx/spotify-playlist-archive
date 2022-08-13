@@ -2,9 +2,9 @@
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere\. Cover: beabadoobee.
+> Illuminating Asian artists everywhere\. Cover: NIKI.
 
-254 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+255 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 | 2022-05-27 |  |
 | [Blue \(feat\. msftz\)](https://open.spotify.com/track/33boBTXa0glODWaz0jdqQg) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Blue \(feat\. msftz\)](https://open.spotify.com/album/00adV4zPSUtZJQkko7t0Wc) | 3:37 | 2022-05-27 | 2022-07-29 |
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-24 |  |
+| [BLUSH!](https://open.spotify.com/track/3RbesFxKsq6J5NGVtm3ZRW) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [BLUSH!](https://open.spotify.com/album/2RCJtGEsBWrRxpDgeptGSF) | 2:34 | 2022-08-12 |  |
 | [Bottled Up](https://open.spotify.com/track/2KUoWQZDFiLtWjCvj5pr8Q) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Bottled Up](https://open.spotify.com/album/75IWMBGtImuaXh5qS35u2r) | 3:09 | 2022-05-27 | 2022-07-28 |
 | [Breathe](https://open.spotify.com/track/6KHGSUYKkKS959jRJ1KD8D) | [Takkin](https://open.spotify.com/artist/6YJXZoTvzi4NK03J19R73d) | [Breathe](https://open.spotify.com/album/2tQdlqHpf2UoAv6gfxQB11) | 3:03 | 2022-07-22 | 2022-07-27 |
 | [Butterfly](https://open.spotify.com/track/4chq9VXft5AQy5ytIjh9jE) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Butterfly](https://open.spotify.com/album/59aMdKZVNkLZzYHkg9YIwU) | 3:32 | 2022-05-27 | 2022-07-29 |
@@ -155,7 +156,7 @@
 | [Madonna \(with Audrey Mika\)](https://open.spotify.com/track/7xU12s4CHm1wT2M3YMmCqg) | [Deux Twins](https://open.spotify.com/artist/7t39GP2opSKuK107Dp0Iae), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Madonna \(with Audrey Mika\)](https://open.spotify.com/album/3Rrfdu8t7w0fn8h0c6YRwI) | 2:42 | 2022-07-01 |  |
 | [Make A Move](https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y2](https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX) | 3:13 | 2022-05-27 |  |
 | [Making Me Sick!](https://open.spotify.com/track/0VTM61Pe3WBw79oEXTbhWE) | [SAMMii](https://open.spotify.com/artist/1QFyA2fQ8oYPgn6Mih9mrc) | [Making Me Sick!](https://open.spotify.com/album/5BR2hx0RWzvUJ2KfRksdo5) | 3:22 | 2022-05-27 | 2022-07-29 |
-| [Man Who Loves You](https://open.spotify.com/track/68dUmGSHlVI88mej6pb418) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2) | 3:29 | 2022-07-22 | 2022-08-12 |
+| [Man Who Loves You](https://open.spotify.com/track/68dUmGSHlVI88mej6pb418) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2) | 3:29 | 2022-07-22 |  |
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2022-06-10 | 2022-06-22 |
 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 | 2022-07-22 |  |
 | [Me & Mrs\. Wong](https://open.spotify.com/track/0v0iiy4gktlrDWb6P0w1Xx) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Me & Mrs\. Wong](https://open.spotify.com/album/416QmA6TRGNkxjKp4i9b8b) | 3:50 | 2022-05-27 | 2022-07-29 |
@@ -183,7 +184,7 @@
 | [people i love \(hurt me\)](https://open.spotify.com/track/2GqbmGCGPEpkM0x2QAwhsh) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [people i love \(hurt me\)](https://open.spotify.com/album/02UqfJY6ZbmmSzoSdHRRRq) | 2:44 | 2022-05-27 | 2022-07-29 |
 | [Picture Myself](https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Picture Myself](https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT) | 3:31 | 2022-05-27 |  |
 | [pieces](https://open.spotify.com/track/1EJLqTbCBWrXIZsWoJ9XPy) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [pieces](https://open.spotify.com/album/00wsSw2OSFR2jpJLQEiQPr) | 2:24 | 2022-05-27 |  |
-| [Please Baby Please](https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Please Baby Please](https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx) | 3:31 | 2022-05-27 |  |
+| [Please Baby Please](https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Please Baby Please](https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx) | 3:31 | 2022-05-27 | 2022-08-13 |
 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-07-22 |  |
 | [prologue](https://open.spotify.com/track/2CIe5Uv5DAXdozg8zj8VMn) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [okhissa](https://open.spotify.com/artist/3i1USTaXHzTXXET7iT7KeQ) | [prologue](https://open.spotify.com/album/6TtNPXL5qZCzMlamYm4fmU) | 3:20 | 2022-05-27 | 2022-07-29 |
 | [Puzzle](https://open.spotify.com/track/55pSVqJsuWGmktWi3W81W1) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Puzzle](https://open.spotify.com/album/5M036X9ie02v6htGvb6aJN) | 2:58 | 2022-05-27 | 2022-07-29 |
@@ -213,7 +214,7 @@
 | [so wrong but so right.](https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [so wrong but so right.](https://open.spotify.com/album/2APeiOBwLGStg3JvL8VLmq) | 2:59 | 2022-05-27 |  |
 | [social anxiety](https://open.spotify.com/track/7vdTmNVBvv7SXVk8WAsN7l) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [social anxiety](https://open.spotify.com/album/7fDqFxWbSym5KDEL32HWhc) | 1:31 | 2022-05-27 | 2022-07-28 |
 | [Someday \(feat\. Sam Kim\)](https://open.spotify.com/track/3qLB2wOemocrMXmjoL1QQw) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Someday \(feat\. Sam Kim\)](https://open.spotify.com/album/4ItcJtnRE5VsN9jJVk9CRA) | 4:10 | 2022-05-27 |  |
-| [Somehow We Lost It All](https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [Somehow We Lost It All](https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4) | 2:59 | 2022-07-22 |  |
+| [Somehow We Lost It All](https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [Somehow We Lost It All](https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4) | 2:59 | 2022-07-22 | 2022-08-13 |
 | [Space](https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Space](https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9) | 3:13 | 2022-05-27 | 2022-08-06 |
 | [Spirits](https://open.spotify.com/track/60T49w6pqDRRVJQ2hWUd1c) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spirits](https://open.spotify.com/album/546Fl3Gns3Fttgm5bdRO1Y) | 3:14 | 2022-05-27 | 2022-06-25 |
 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 | 2022-05-27 |  |

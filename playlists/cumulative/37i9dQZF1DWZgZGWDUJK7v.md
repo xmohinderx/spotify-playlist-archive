@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular animation & webtoon OSTs now! \(Cover: MOONBIN&SANHA\(문빈&산하\(ASTRO\)\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
+> Meet the popular animation & webtoon OSTs now! \(Cover: Discovery of Love\(연애의 발견\)\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
 
-80 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+82 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,10 @@
 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 | 2022-05-09 |  |
 | [I'm into you, I mean Love you](https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i) | [Webtoon YeonNom OST Part.4](https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT) | 4:04 | 2022-05-09 |  |
 | [In this world](https://open.spotify.com/track/2vXa3jnw1puqq9mRw4Nuit) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [In this world \(Webtoon'Plainwalker of Stigmatization' X KIMJAEJOONG\) \(Original Soundtrack\)](https://open.spotify.com/album/5efMyrzwotQXz5qxucXZQA) | 3:57 | 2022-08-02 |  |
+| [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 | 2022-08-12 |  |
 | [JAMSOO](https://open.spotify.com/track/66iI9spr5VTGqkdmdjKz3G) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Chanju](https://open.spotify.com/artist/0NRIbW4KwwagasAJw8GfTm) | [JAMSOO \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/7DaBWuXwdIRQtlzI5aKbsi) | 3:23 | 2022-05-09 |  |
 | [Just stay with me \(Feat\. Swan\)](https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [Just stay with me \(Feat\. Swan\) \(Webtoon 'Marriage Or Death' X San E\)](https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd) | 3:15 | 2022-05-09 |  |
+| [Last Sword Dance \(Feat\. Koonta\)](https://open.spotify.com/track/5lRbrmGzrBFqDRNS95yY9l) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Webtoon 'Return of the Blossoming Blade' Part\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3YQ7TbgFOVsiWt3nneBhFm) | 3:27 | 2022-08-12 |  |
 | [Last trip \(The stairway of Time X Kim Namjoo \(Apink\)\)](https://open.spotify.com/track/1knhMBYdhLHleCJwPbJtvi) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [The stairway of Time OST Part 2\. Last trip](https://open.spotify.com/album/52xTAL9ScEQC9OzO2tCdLm) | 4:05 | 2022-05-09 |  |
 | [Leaving you \(From "Tomb Raider King"\)](https://open.spotify.com/track/15SkcMXeM3kBDqC0ckm7Bq) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Tomb Raider King \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/1ABAgDrnDMD9MzWVBOuLJA) | 4:01 | 2022-07-20 |  |
 | [Leaving you \(From "Tomb Raider King"\)](https://open.spotify.com/track/6BnQTBEWTioAJ8wVUQXthB) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Tomb Raider King \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/2HKIoDcbh22DS3R1xxEe88) | 4:01 | 2022-05-09 | 2022-07-29 |

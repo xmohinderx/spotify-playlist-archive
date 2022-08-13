@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: YENA",
+  "description": "Future K-Pop hits! Cover: CRAVITY",
   "name": "K-Pop Rising",
   "published_playlist_ids": [
     "365X6AQFdYqkXtDjWksHVf"
@@ -698,6 +698,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "album": {
         "name": "TRAVEL",
         "url": "https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu"
       },
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
@@ -1275,6 +1293,24 @@
       "duration_ms": 219586,
       "name": "Bon voyage",
       "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
+    },
+    {
+      "album": {
+        "name": "Boogie Woogie",
+        "url": "https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190889,
+      "name": "Boogie Woogie",
+      "url": "https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP"
     },
     {
       "album": {
@@ -2015,7 +2051,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 202306,
       "name": "Clink Clink",
       "url": "https://open.spotify.com/track/7rvgQ3kGUqwVkt0V5JpPeT"
@@ -2409,7 +2445,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 220716,
       "name": "DARARI",
       "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
@@ -3543,7 +3579,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 177373,
       "name": "Flip That",
       "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
@@ -4584,6 +4620,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "album": {
         "name": "I Am Yours",
         "url": "https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L"
       },
@@ -5177,7 +5231,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 184117,
       "name": "JIKJIN",
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
@@ -5289,6 +5343,24 @@
       "duration_ms": 225280,
       "name": "KINGDOM COME",
       "url": "https://open.spotify.com/track/10BJxp4qvLLBEHtsY72piK"
+    },
+    {
+      "album": {
+        "name": "LEVIOSA",
+        "url": "https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5"
+      },
+      "artists": [
+        {
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185026,
+      "name": "KISS",
+      "url": "https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv"
     },
     {
       "album": {
@@ -7053,7 +7125,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
@@ -7419,7 +7491,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 182800,
       "name": "Parade",
       "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
@@ -7953,6 +8025,24 @@
       "duration_ms": 211999,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2MO6sxfNbVBkGvZRPJCPbe"
+    },
+    {
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm"
+      },
+      "artists": [
+        {
+          "name": "Golden Child",
+          "url": "https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207506,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds"
     },
     {
       "album": {
@@ -9635,7 +9725,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 168146,
       "name": "TANK",
       "url": "https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW"

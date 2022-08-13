@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4o1oenSJRJd.md) - [plain]
 
 > The biggest songs of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,209,045 likes - 150 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,211,835 likes - 150 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

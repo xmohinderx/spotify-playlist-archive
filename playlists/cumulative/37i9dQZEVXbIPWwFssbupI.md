@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-895 songs - 2 day 0 hr 16 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+896 songs - 2 day 0 hr 19 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2022-01-12 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-07-01 | 2021-10-31 |
 | [Badman Trip](https://open.spotify.com/track/72sNoilzbclWcY1eRVAaJr) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:11 | 2021-11-14 | 2021-11-19 |
-| [Baila Pa Mi](https://open.spotify.com/track/2GS9AEoOjgbztBfIbCJ2mr) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Baila Pa Mi](https://open.spotify.com/album/5UnOLBXoGj0MKejGINxn24) | 2:40 | 2022-07-17 |  |
+| [Baila Pa Mi](https://open.spotify.com/track/2GS9AEoOjgbztBfIbCJ2mr) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Baila Pa Mi](https://open.spotify.com/album/5UnOLBXoGj0MKejGINxn24) | 2:40 | 2022-07-17 | 2022-08-13 |
 | [Bailamos](https://open.spotify.com/track/0mAinALNSl5TurTs9ZPUMp) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Bailamos](https://open.spotify.com/album/57ZU8aB5wPjYmMBfa1SKcB) | 2:53 | 2021-04-19 | 2021-07-06 |
 | [Baise le monde](https://open.spotify.com/track/3XAtvKDjSweKY7Hxx6K6ou) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:45 | 2021-11-21 | 2021-12-05 |
 | [Balade à deux](https://open.spotify.com/track/57acLvkLlixZ4wm6DBhLEu) | [Mastu](https://open.spotify.com/artist/4V9vRZSqYVOgad1sDuDPHb) | [Balade à deux](https://open.spotify.com/album/641gaOBAPvtEVBd5NQX0gs) | 2:57 | 2022-07-25 | 2022-07-29 |
@@ -223,6 +223,7 @@
 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-03-29 | 2022-04-03 |
 | [Dernier verre](https://open.spotify.com/track/0Vaqh10JzIrxfDCWJXwLa5) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:23 | 2021-11-21 | 2021-12-03 |
 | [Derrière nos tours \(feat\. Maes\)](https://open.spotify.com/track/4nOtenqNZNIRYYjBBf8A11) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:04 | 2021-09-19 | 2021-09-25 |
+| [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-12 |  |
 | [Deux frères](https://open.spotify.com/track/6hzi3AGB39FjxFqcjgbWs7) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Deux frères](https://open.spotify.com/album/2JtKf1aFxqS0M3QIj98nG5) | 4:07 | 2022-05-06 | 2022-07-03 |
 | [DEUX TOILES DE MER](https://open.spotify.com/track/7yN9Qx1HtE4c1fhakBz8Ay) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF](https://open.spotify.com/album/62f3yVpi23o1YepGRLsSQI) | 5:15 | 2021-05-03 | 2021-05-09 |
 | [Deïdo](https://open.spotify.com/track/4hBQmspTt5YsTPWsyui02q) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Aquanaute](https://open.spotify.com/album/5xFIrXrCK3AVjotjoRGe1h) | 4:02 | 2022-01-27 | 2022-01-29 |

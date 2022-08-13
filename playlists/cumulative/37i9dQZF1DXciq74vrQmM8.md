@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. deathbyromy
 
-269 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+270 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-04-29 | 2022-08-05 |
 | [Fat Lip](https://open.spotify.com/track/4KY5HkCPZKa57sCZZk8yiG) | [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB), [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Fat Lip](https://open.spotify.com/album/1PJrYQWFtxTgNRuWiMOhWJ) | 1:57 | 2022-04-19 | 2022-04-29 |
 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 | 2022-04-19 |  |
+| [Fighting Fate](https://open.spotify.com/track/4PNPN7lA1UMYbKtTco1JtB) | [Yung'cid](https://open.spotify.com/artist/1It5FG5hReUrQInrg7Be1Q), [Baby Doll](https://open.spotify.com/artist/4htyNjCI51sL6pterwxVCq) | [Fighting Fate](https://open.spotify.com/album/7nFQVDz1vhFcxnnr3ylX5K) | 3:09 | 2022-08-11 |  |
 | [fleahouse](https://open.spotify.com/track/6OZ1omuRpM3kc2XKmhRuUf) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Rouge Carpet Disaster](https://open.spotify.com/album/1mIKtxf39TuoDhurzIijt3) | 3:02 | 2022-05-26 | 2022-08-05 |
 | [flesh](https://open.spotify.com/track/1BAIlAqftLfHlpvhfgVwrm) | [babychaos](https://open.spotify.com/artist/5sW5suu6saLZkj0anZtZyg) | [flesh](https://open.spotify.com/album/11RxEPz4jDAJZGaHkJ9z6K) | 2:53 | 2022-04-14 |  |
 | [Flesh](https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [N / O / I / S / E](https://open.spotify.com/album/2W5rUof3EANdwzqAMtAWhF) | 1:19 | 2021-12-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 
 > Get happy with today's dose of feel\-good songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,233,744 likes - 76 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,234,697 likes - 76 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 | 75 | [Big Energy](https://open.spotify.com/track/5lHxARJJrZc3ss4ZVmGWfz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/4tY28Pau74a3kkOEQGGS0b) | 2:53 |
 | 76 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/6PdCbJwSOeovMX7kfwiAxb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:45 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDgzMDg3NDU4N2ZjOGNjNzk5NjE0ZjE1NjZhODlkN2M4`
+Snapshot ID: `MTY2MDMzMTM5MywwMDAwMDAwMDk1N2E0ZjRjMzY0Njg3YTBkZWUxMzRkZTg5ZmQ2N2Rj`

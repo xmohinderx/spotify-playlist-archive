@@ -2,7 +2,7 @@
 
 ### [Country Favourites](https://open.spotify.com/playlist/37i9dQZF1DX13ZzXoot6Jc)
 
-> A collection of hits that will have you singing every word\. Cover: Dustin Lynch
+> A collection of hits that will have you singing every word\. Cover: Lee Brice
 
 104 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/5Q1iirswdRnV2OItF004D6)
 

@@ -1,13 +1,69 @@
 {
   "description": "Texas music breaking waves. Cover, Beyonce",
-  "num_followers": 3589,
+  "num_followers": 3590,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxMzcyNSwwMDAwMDAwMGJlNDMzZjI5ZjUyYjY2MDEwMmUwNGM1Mjk3Y2RlMTI2",
+  "snapshot_id": "MTY2MDMyNDQxNSwwMDAwMDAwMGYwZDE0MDgwMWJkNDE5OWNjN2ZiZTJkYjkxYWExNmY1",
   "tracks": [
+    {
+      "added_at": "2022-08-12 17:13:35",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "name": "Lil\u2019 Keke",
+          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "name": "Big Pokey",
+          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Southside Royalty Freestyle (feat. Sauce Walka, Big Pokey & Lil Keke)",
+      "url": "https://open.spotify.com/track/27Wwwbdh9pKL9n23FOJH9z"
+    },
+    {
+      "added_at": "2022-08-12 17:13:35",
+      "album": {
+        "name": "LORD FORGIVE ME",
+        "url": "https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "LORD FORGIVE ME",
+      "url": "https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW"
+    },
     {
       "added_at": "2022-08-05 15:35:24",
       "album": {
@@ -73,6 +129,22 @@
       "url": "https://open.spotify.com/track/4UeBhUCW6Z7dPEYelWQQ9i"
     },
     {
+      "added_at": "2022-08-12 17:13:35",
+      "album": {
+        "name": "Bad Azz Yella Boy",
+        "url": "https://open.spotify.com/album/4bmDbAXGlnOSJrvVh759Rx"
+      },
+      "artists": [
+        {
+          "name": "Yella Beezy",
+          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
+        }
+      ],
+      "duration_ms": 186409,
+      "name": "DFWM",
+      "url": "https://open.spotify.com/track/7l5Fq0rRW2typ68pMfA5cp"
+    },
+    {
       "added_at": "2022-08-05 15:35:24",
       "album": {
         "name": "MORE BLACK SUPERHEROES",
@@ -95,50 +167,6 @@
       "duration_ms": 196294,
       "name": "CAN'T GET OVER YOU (feat. Smino & Teezo Touchdown)",
       "url": "https://open.spotify.com/track/0u0Wg5JO7Aza12fQJMIZ6Q"
-    },
-    {
-      "added_at": "2022-07-29 19:38:06",
-      "album": {
-        "name": "Pressurelicious (feat. Future)",
-        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 173061,
-      "name": "Pressurelicious (feat. Future)",
-      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
-    },
-    {
-      "added_at": "2022-08-05 15:35:24",
-      "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 150941,
-      "name": "Messy (feat. Teezo Touchdown & Bktherula)",
-      "url": "https://open.spotify.com/track/79D8MCSEt4fr3qq9XZuTLd"
     },
     {
       "added_at": "2022-07-22 19:49:57",
@@ -201,6 +229,22 @@
       "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
     },
     {
+      "added_at": "2022-08-12 17:13:35",
+      "album": {
+        "name": "Spread The Opps",
+        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 181795,
+      "name": "Spread The Opps",
+      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
+    },
+    {
       "added_at": "2022-07-29 19:38:06",
       "album": {
         "name": "Fuck Alone (Remix) [feat. Kaash Paige]",
@@ -219,6 +263,26 @@
       "duration_ms": 219861,
       "name": "Fuck Alone (Remix) [feat. Kaash Paige]",
       "url": "https://open.spotify.com/track/5fFoGKU6y3121VH0kHE3us"
+    },
+    {
+      "added_at": "2022-07-22 19:49:57",
+      "album": {
+        "name": "Supercharge (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/07ODE2Qy9EfewM8DVkW7ST"
+      },
+      "artists": [
+        {
+          "name": "Lil Jairmy",
+          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 174021,
+      "name": "Supercharge (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5UoKOaI2Dg2a9Qgw5TsStq"
     },
     {
       "added_at": "2022-07-29 19:38:06",
@@ -259,26 +323,6 @@
     {
       "added_at": "2022-07-22 19:49:57",
       "album": {
-        "name": "Supercharge (feat. Moneybagg Yo)",
-        "url": "https://open.spotify.com/album/07ODE2Qy9EfewM8DVkW7ST"
-      },
-      "artists": [
-        {
-          "name": "Lil Jairmy",
-          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 174021,
-      "name": "Supercharge (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/5UoKOaI2Dg2a9Qgw5TsStq"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
         "name": "Don Julio",
         "url": "https://open.spotify.com/album/7LlaZNYJSASqBm7rNNsu41"
       },
@@ -291,42 +335,6 @@
       "duration_ms": 149815,
       "name": "Don Julio",
       "url": "https://open.spotify.com/track/06SxEkpBBcjsoaB9woR7kQ"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "Sauce Body",
-        "url": "https://open.spotify.com/album/4NbgQYK3taGjeS04mCKjg5"
-      },
-      "artists": [
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Sauce Body",
-      "url": "https://open.spotify.com/track/01q8fSPaqOHmxFfmGSPxuf"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "Let's Do A Drill",
-        "url": "https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl"
-      },
-      "artists": [
-        {
-          "name": "Asian Doll",
-          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
-        },
-        {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
-        }
-      ],
-      "duration_ms": 152064,
-      "name": "Down South",
-      "url": "https://open.spotify.com/track/1l5QrPFA5bJvcNEBM2vpqt"
     },
     {
       "added_at": "2022-07-22 19:49:57",
@@ -359,26 +367,6 @@
       "duration_ms": 256202,
       "name": "Feelings 4 You",
       "url": "https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 219107,
-      "name": "DESTRUCTION",
-      "url": "https://open.spotify.com/track/662fx96N2fceyGSFhx5VII"
     },
     {
       "added_at": "2022-07-22 19:49:57",
@@ -513,6 +501,22 @@
       "url": "https://open.spotify.com/track/4tI2LkEpzGrh3DYCg0hYPt"
     },
     {
+      "added_at": "2022-08-12 17:13:35",
+      "album": {
+        "name": "MINE",
+        "url": "https://open.spotify.com/album/4pY3QqSRrATv2KH7mPvP37"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "duration_ms": 119172,
+      "name": "Love It Here",
+      "url": "https://open.spotify.com/track/2l0OaPp5Mpg20MPGX6g6nE"
+    },
+    {
       "added_at": "2022-07-22 19:49:57",
       "album": {
         "name": "STUNNA",
@@ -565,6 +569,26 @@
       "url": "https://open.spotify.com/track/5hVGZQJaeYB3CjIK5vaJ20"
     },
     {
+      "added_at": "2022-08-12 17:13:35",
+      "album": {
+        "name": "LOST IN HERE",
+        "url": "https://open.spotify.com/album/4URIzfA3qieoUfUmBRTwFS"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        },
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "STEP BACK (FEAT. MIKE DIMES)",
+      "url": "https://open.spotify.com/track/1OwD4SeTFdUYZaJkbGcPuv"
+    },
+    {
       "added_at": "2022-07-22 19:49:57",
       "album": {
         "name": "Worst Way",
@@ -583,26 +607,6 @@
       "duration_ms": 196649,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/2J5OXVUkl6cIqFi40NX4PY"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "Any Attack",
-        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 113051,
-      "name": "Any Attack",
-      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
     },
     {
       "added_at": "2022-07-01 03:55:04",
@@ -667,26 +671,6 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
-    },
-    {
-      "added_at": "2022-07-01 03:55:04",
-      "album": {
-        "name": "Summer Moon (feat. Kevin Kaarl)",
-        "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 177673,
-      "name": "Summer Moon (feat. Kevin Kaarl)",
-      "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
     },
     {
       "added_at": "2022-07-22 19:49:57",
@@ -911,22 +895,6 @@
     {
       "added_at": "2022-05-13 20:10:20",
       "album": {
-        "name": "I Miss You... Nvm",
-        "url": "https://open.spotify.com/album/2bs1tI01AYtkwIbhOMQhSO"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "I Miss You... Nvm",
-      "url": "https://open.spotify.com/track/26AcRlHdYnATPkHfJzWGTz"
-    },
-    {
-      "added_at": "2022-05-13 20:10:20",
-      "album": {
         "name": "Blat Blat",
         "url": "https://open.spotify.com/album/1MfqBtzA1yn6343XmXTW8E"
       },
@@ -995,26 +963,6 @@
       "duration_ms": 169259,
       "name": "Habits",
       "url": "https://open.spotify.com/track/28aVccxsboUGyBZnkJGkJL"
-    },
-    {
-      "added_at": "2022-04-29 17:04:27",
-      "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/32fQhU6FdfYH4rYf5Vdzze"
-      },
-      "artists": [
-        {
-          "name": "Tyler Royale",
-          "url": "https://open.spotify.com/artist/2BuWUjcrVmPvsObJKb3nzR"
-        },
-        {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
-        }
-      ],
-      "duration_ms": 187080,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0RL5ZDytG4aZ3IeS711Cfm"
     },
     {
       "added_at": "2022-04-29 17:04:27",
@@ -1107,22 +1055,6 @@
       "duration_ms": 232110,
       "name": "I\u2019m Not Kidding",
       "url": "https://open.spotify.com/track/5lkO0aXdKXWJXujSfSXKd4"
-    },
-    {
-      "added_at": "2022-07-01 03:55:04",
-      "album": {
-        "name": "Who Do",
-        "url": "https://open.spotify.com/album/7hQEAJdHOrnsSVapYVdzmj"
-      },
-      "artists": [
-        {
-          "name": "Yella Beezy",
-          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Who Do",
-      "url": "https://open.spotify.com/track/5TBEzhlJqpBFwalNZ3FUpx"
     }
   ],
   "unique_name": "Ripple Effect: Texas",

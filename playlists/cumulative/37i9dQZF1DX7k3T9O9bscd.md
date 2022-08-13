@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-224 songs - 18 hr 16 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+225 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 | 2021-11-12 |  |
 | [See](https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [A Round of Applause](https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw) | 4:25 | 2022-08-03 |  |
 | [See You There](https://open.spotify.com/track/4I9nM23gQdVXJC4x3uR5rF) | [Psychic Ills](https://open.spotify.com/artist/0BdrIHWUDg179f9H7pjJMC) | [One Track Mind](https://open.spotify.com/album/62cOtP1qQXl7KdLHC4AO7R) | 5:03 | 2021-11-12 | 2022-07-06 |
-| [Seven Eight](https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o) | [Ghost Funk Orchestra](https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT) | [A Song For Paul](https://open.spotify.com/album/0w6knr7boQarN35qErXXeu) | 3:12 | 2021-11-12 |  |
+| [Seven Eight](https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o) | [Ghost Funk Orchestra](https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT) | [A Song For Paul](https://open.spotify.com/album/0w6knr7boQarN35qErXXeu) | 3:12 | 2021-11-12 | 2022-08-13 |
 | [Seven Eight](https://open.spotify.com/track/6ZWmdXphddI7g3FJqESxmw) | [Ghost Funk Orchestra](https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT) | [Seven Eight](https://open.spotify.com/album/2Up9pGOglkRN9isg1phnVD) | 3:12 | 2021-11-12 | 2022-07-28 |
 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 | 2022-04-12 |  |
 | [Shell Island](https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:23 | 2021-11-12 |  |
@@ -224,6 +224,7 @@
 | [We Were Kings](https://open.spotify.com/track/30aDz3teCTudFi7VsQDWua) | [Hollow Ship](https://open.spotify.com/artist/3bPcnmJ1Lk6fQlhxGV3Apx) | [We Were Kings](https://open.spotify.com/album/1cRF2kiIYvrJPE89XwkMMN) | 4:54 | 2021-11-12 | 2022-07-23 |
 | [What's Holding You?](https://open.spotify.com/track/1zGVHAHmNeYkdt51T9pgtD) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Chambers](https://open.spotify.com/album/0c7Cw0CWToZYkq8I3JNNJv) | 4:59 | 2021-11-12 | 2022-07-29 |
 | [Who dreams of cats?](https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Something Else](https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc) | 3:34 | 2021-11-12 |  |
+| [Without a Trace](https://open.spotify.com/track/3kHTbTT9qOITWhR9OGPlpU) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Without a Trace](https://open.spotify.com/album/27UKpA4WsdR8mCfPjYByJj) | 4:07 | 2022-08-13 |  |
 | [X\-3\(Knuckelheads In Space\)/The Getaway Special](https://open.spotify.com/track/6HbochKHcfnk41bnDCuFeg) | [Motorpsycho](https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T) | [Heavy Metal Fruit](https://open.spotify.com/album/3u9cH6AlFWuQQBHYjxYoaL) | 9:03 | 2021-11-12 | 2022-07-05 |
 | [Yellowblack](https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Yellowblack](https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx) | 2:34 | 2021-11-12 | 2022-07-28 |
 | [you\\me\\everyone](https://open.spotify.com/track/4WlmkQ21wCWmkxfeFjGylA) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 3:39 | 2021-11-12 |  |

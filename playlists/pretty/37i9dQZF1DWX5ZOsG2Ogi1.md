@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5ZOsG2Ogi1.md) - [plain]
 
 > ¡Perreo del bueno! For those who like it raw.<br/>Cover: Alexis Y Fido
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265,121 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,265,265 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ"
+    },
+    {
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -329,7 +347,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 226848,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/6V8IY1khSjXlgvG6mbIyXQ"
@@ -517,6 +535,24 @@
       "duration_ms": 233533,
       "name": "Blue Hours",
       "url": "https://open.spotify.com/track/1StG1oKqWmy9wxNHC6GE2T"
+    },
+    {
+      "album": {
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "Blue Hours",
+      "url": "https://open.spotify.com/track/4qYbMiuCfrmlwgyhbciuAN"
     },
     {
       "album": {
@@ -1237,7 +1273,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 199480,
       "name": "Garden of Eden",
       "url": "https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud"
@@ -2303,7 +2339,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 195991,
       "name": "Nice",
       "url": "https://open.spotify.com/track/0dMIDyuC4EjrXxMTGArX4A"
@@ -2437,6 +2473,24 @@
       "duration_ms": 200000,
       "name": "Orange Yellow Orange",
       "url": "https://open.spotify.com/track/17jfYLXe142NlABSFWJpl3"
+    },
+    {
+      "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
     },
     {
       "album": {
@@ -2615,6 +2669,28 @@
       "duration_ms": 198250,
       "name": "Pink Pools",
       "url": "https://open.spotify.com/track/2RR5kSUsSzde2ybCa2VOhP"
+    },
+    {
+      "album": {
+        "name": "Please Don't Hide Yourself Away",
+        "url": "https://open.spotify.com/album/5HFkJLsDlD7eudQ2DQNRIx"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        },
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190458,
+      "name": "Please Don't Hide Yourself Away",
+      "url": "https://open.spotify.com/track/4BeOtHTrVDazx007bGFFNL"
     },
     {
       "album": {
@@ -3163,10 +3239,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 228253,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC"
+    },
+    {
+      "album": {
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228253,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
     },
     {
       "album": {
@@ -3585,7 +3679,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 284809,
       "name": "u v v p (feat. Buck Meek)",
       "url": "https://open.spotify.com/track/3WjjfLHUHM2an4j5NkjGUa"

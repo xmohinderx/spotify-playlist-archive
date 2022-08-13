@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: \b\bDPR IAN)",
+  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: \b\bJUNNY(\uc8fc\ub2c8))",
   "name": "TrenChill K-R&B",
   "published_playlist_ids": [
     "3joqGbdyT1iJwODdo3szax"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "1, 2, 3",
+        "url": "https://open.spotify.com/album/6wFkV8mhP1oLUKNOTck5Cz"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179840,
+      "name": "1, 2, 3 (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/2hIHcImzcUtUjc947xqCZK"
+    },
     {
       "album": {
         "name": "High-teen",
@@ -307,7 +329,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 181880,
       "name": "All Your Fault (Feat. GRAY)",
       "url": "https://open.spotify.com/track/4PP4siQamrO7i5Me9GOpqQ"
@@ -448,6 +470,24 @@
     },
     {
       "album": {
+        "name": "1,2,3..",
+        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
+    },
+    {
+      "album": {
         "name": "Apollo 11 (feat. Jay Park)",
         "url": "https://open.spotify.com/album/560eyB9eHh656ZiDHnAsdl"
       },
@@ -583,7 +623,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 192585,
       "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
       "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
@@ -927,7 +967,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 180960,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2s4pzQWSxqfOcMauQ2dMcW"
@@ -1061,7 +1101,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 203409,
       "name": "Bye bye my blue",
       "url": "https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7"
@@ -1411,6 +1451,24 @@
       "duration_ms": 206582,
       "name": "complicated",
       "url": "https://open.spotify.com/track/2G7V0W5otiWX4B2W8dmpIu"
+    },
+    {
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
     },
     {
       "album": {
@@ -1795,7 +1853,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 191191,
       "name": "Distance (Feat. I.M of MONSTA X)",
       "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
@@ -2430,6 +2488,28 @@
     },
     {
       "album": {
+        "name": "4th Mini Album ?=3 GENEZIS3",
+        "url": "https://open.spotify.com/album/2KHj5gzlNgcDyDSwfuC3si"
+      },
+      "artists": [
+        {
+          "name": "DAVII",
+          "url": "https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195667,
+      "name": "Flying (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/7gJcMXrSgaj0L9HN65Hkdd"
+    },
+    {
+      "album": {
         "name": "flying to the moon",
         "url": "https://open.spotify.com/album/3ovuuQKTgY1W6BbF5Qx78g"
       },
@@ -2772,6 +2852,24 @@
     },
     {
       "album": {
+        "name": "GREEN",
+        "url": "https://open.spotify.com/album/4V2QOe9G0YV5vXLHfY6b7J"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174590,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/3gpLvfmxRFV7HjnC4iQPFb"
+    },
+    {
+      "album": {
         "name": "Gunner",
         "url": "https://open.spotify.com/album/7bVEPchL7QCLHtcnqG8dwm"
       },
@@ -3073,6 +3171,24 @@
       "duration_ms": 277216,
       "name": "Hug me",
       "url": "https://open.spotify.com/track/0DR5f8q121WNyg0Sbc1FCD"
+    },
+    {
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
     },
     {
       "album": {
@@ -3505,7 +3621,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 188146,
       "name": "Layin' Low (feat. Jooyoung)",
       "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
@@ -4650,6 +4766,24 @@
     },
     {
       "album": {
+        "name": "blanc",
+        "url": "https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236396,
+      "name": "Not About You",
+      "url": "https://open.spotify.com/track/4fVyrplBcb6lVgij1b8pIO"
+    },
+    {
+      "album": {
         "name": "Not Anymore",
         "url": "https://open.spotify.com/album/1qen2YeRQZv51XhBBcie3X"
       },
@@ -5702,6 +5836,28 @@
     },
     {
       "album": {
+        "name": "SESAME",
+        "url": "https://open.spotify.com/album/4RBVQrJucNKAx0LkutK7Vv"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        },
+        {
+          "name": "Bell The Blu",
+          "url": "https://open.spotify.com/artist/6pOhX5ApPPaAPPkBjsDMcp"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "SESAME",
+      "url": "https://open.spotify.com/track/3pUzXCDNb9Zt2W6WOqGEm2"
+    },
+    {
+      "album": {
         "name": "She is",
         "url": "https://open.spotify.com/album/1o06vrnnHvOREmYI49q8MY"
       },
@@ -5843,7 +5999,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 152666,
       "name": "Slow Mo",
       "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
@@ -6151,6 +6307,24 @@
       "duration_ms": 186333,
       "name": "SUGAR",
       "url": "https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM"
+    },
+    {
+      "album": {
+        "name": "Sweeet",
+        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177999,
+      "name": "Sugardance",
+      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
     },
     {
       "album": {
@@ -6865,7 +7039,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
@@ -7085,7 +7259,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 185737,
       "name": "Whenever it rains (feat. Nason & amin)",
       "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"

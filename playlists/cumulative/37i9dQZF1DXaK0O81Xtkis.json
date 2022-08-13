@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27"
+      },
+      "artists": [
+        {
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169823,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi"
+    },
+    {
+      "album": {
         "name": "1990something",
         "url": "https://open.spotify.com/album/7cCB1WAPcvnpnT0BRHDfSE"
       },
@@ -577,7 +599,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 100012,
       "name": "bedroom",
       "url": "https://open.spotify.com/track/4UXPKAbY2EoCWcbN57En0A"
@@ -1009,7 +1031,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 168336,
       "name": "Chelsea's Coming Over",
       "url": "https://open.spotify.com/track/3HmmoFYkenukJHgHFUf38A"
@@ -1027,7 +1049,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 149501,
       "name": "CIGARETTES",
       "url": "https://open.spotify.com/track/2e1SliQSsHs1YutpnfuNYC"
@@ -1417,7 +1439,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 151664,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p"
@@ -1807,7 +1829,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 153181,
       "name": "Friend Right Now",
       "url": "https://open.spotify.com/track/1525qKTOc3G2KJNYRG3rSQ"
@@ -1945,6 +1967,24 @@
       "duration_ms": 163602,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/1h9cnXG82LBUy9l1FnYPCA"
+    },
+    {
+      "album": {
+        "name": "Give Me A Kiss",
+        "url": "https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169204,
+      "name": "Give Me A Kiss",
+      "url": "https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h"
     },
     {
       "album": {
@@ -2647,7 +2687,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 188000,
       "name": "I Could Do This All Night",
       "url": "https://open.spotify.com/track/4MYVPz0rYU0jhT5HtFQni3"
@@ -3333,7 +3373,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -4090,6 +4130,32 @@
     },
     {
       "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2"
+      },
+      "artists": [
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        },
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        },
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169569,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ"
+    },
+    {
+      "album": {
         "name": "it's a little complicated, but i'm okay.",
         "url": "https://open.spotify.com/album/4nrSgAxs8tzf8RPIN9lc4Q"
       },
@@ -4433,7 +4499,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 174866,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/3ONd0dyKjNU4Rm63byFPbT"
@@ -4848,6 +4914,24 @@
     },
     {
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/635j5Fdn0ZKF7fhPhJU7e6"
+      },
+      "artists": [
+        {
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166569,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/5DYZiEZfIKBEEwhiTXhLND"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/1Td33W13Kvh7xAam42b2pK"
       },
@@ -5043,6 +5127,24 @@
       "duration_ms": 187576,
       "name": "She's Not You",
       "url": "https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz"
+    },
+    {
+      "album": {
+        "name": "I hope you're well in these crazy times",
+        "url": "https://open.spotify.com/album/4jJpB6oqm4IiyyUYqetD7i"
+      },
+      "artists": [
+        {
+          "name": "courtship.",
+          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182590,
+      "name": "Sheryl Crow",
+      "url": "https://open.spotify.com/track/3YDMI9nKu5mbYYt0ODKkSu"
     },
     {
       "album": {
@@ -5593,7 +5695,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 170226,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/5QWa0fcJrAZIv9jtcHUg4J"
@@ -5900,6 +6002,28 @@
     },
     {
       "album": {
+        "name": "WHO HURT YOU?",
+        "url": "https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216194,
+      "name": "The Look (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh"
+    },
+    {
+      "album": {
         "name": "gg bb xx (deluxe)",
         "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
       },
@@ -6041,7 +6165,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 184760,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
@@ -6135,6 +6259,28 @@
       "duration_ms": 186035,
       "name": "Track Shoes",
       "url": "https://open.spotify.com/track/7hMUIwPmSkuGMHli2ZV1qQ"
+    },
+    {
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/08UKPRDFopACdPdjkdZ52G"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148712,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5zsMuiYeqw2JoSBulihbwo"
     },
     {
       "album": {
@@ -6359,7 +6505,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 172490,
       "name": "What's Been On Your Mind?",
       "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"
@@ -6561,7 +6707,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 105779,
       "name": "WTF",
       "url": "https://open.spotify.com/track/3QURQWfDKCipGVFTf5hd2k"

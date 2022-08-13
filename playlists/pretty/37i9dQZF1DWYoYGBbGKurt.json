@@ -1,12 +1,12 @@
 {
   "description": "Instrumental beats to chill to.",
-  "num_followers": 360735,
+  "num_followers": null,
   "original_name": "lofi + chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMDM5NzYxMjlkZTM5MDFhMGNjN2FmMzAwZjc5ZmM1NDkw",
+  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMDI3NzM1ODlmNWQzODkxMGY3MTYzNDUzYjBkMzZkOGVh",
   "tracks": [
     {
       "added_at": "2022-08-12 00:00:00",
@@ -5515,6 +5515,22 @@
     {
       "added_at": "2022-08-12 00:00:00",
       "album": {
+        "name": "blink and you miss it",
+        "url": "https://open.spotify.com/album/4VnaIF5oMF8nPKO9lGYQ7i"
+      },
+      "artists": [
+        {
+          "name": "Dogman Chill",
+          "url": "https://open.spotify.com/artist/24bL1XqEUecJLJp9V1jzd2"
+        }
+      ],
+      "duration_ms": 116871,
+      "name": "blink and you miss it",
+      "url": "https://open.spotify.com/track/2meSDzvMEnYy4T6C8MLw2A"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2coLQZDpPcnQICGRsHbRe0"
       },
@@ -5543,6 +5559,26 @@
       "duration_ms": 157414,
       "name": "if only",
       "url": "https://open.spotify.com/track/6vEw2PhEewj76Ndt8Tw3Cw"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Seashells",
+        "url": "https://open.spotify.com/album/5AfevN1CGGC4Rr95nqENJ8"
+      },
+      "artists": [
+        {
+          "name": "Kuba",
+          "url": "https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo"
+        },
+        {
+          "name": "Late Night Tones",
+          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Seashells",
+      "url": "https://open.spotify.com/track/3I2rmy8VESXX2hn29CKMVW"
     },
     {
       "added_at": "2022-08-12 00:00:00",
@@ -5583,6 +5619,22 @@
     {
       "added_at": "2022-08-12 00:00:00",
       "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/1G4NXOeEyfNFRlUSppCt4D"
+      },
+      "artists": [
+        {
+          "name": "Bequem",
+          "url": "https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy"
+        }
+      ],
+      "duration_ms": 111909,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/181vF7ohbmnh5wBRmx7Ju6"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
         "name": "Sultry",
         "url": "https://open.spotify.com/album/6TcTnnYs2mkXcTuMUHoLBh"
       },
@@ -5599,6 +5651,58 @@
     {
       "added_at": "2022-08-12 00:00:00",
       "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/0F2Ud9yIQ3ZnApUTZzk8Qr"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "duration_ms": 112874,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/2gvsi7Bzui2Jzj3CJT4nP0"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Aviary",
+        "url": "https://open.spotify.com/album/3lk5iCsLEyEHEiNypGMmwF"
+      },
+      "artists": [
+        {
+          "name": "Maadrhino",
+          "url": "https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "duration_ms": 134250,
+      "name": "Aviary",
+      "url": "https://open.spotify.com/track/2giDcUZGybbvJljKtgxgnY"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Recollect",
+        "url": "https://open.spotify.com/album/6zg5JmEHQEDJrFhW6redDJ"
+      },
+      "artists": [
+        {
+          "name": "Plant Guy",
+          "url": "https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH"
+        }
+      ],
+      "duration_ms": 161769,
+      "name": "Recollect",
+      "url": "https://open.spotify.com/track/5GTOEsVsbky5UWwdtRut1F"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/3X6tebSYE2bQJLuNDAsFqa"
       },
@@ -5611,6 +5715,46 @@
       "duration_ms": 175250,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4LVgQFrUNdI6J19KVTVjh6"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/0zYPC62JczTLWNKGzaKZF8"
+      },
+      "artists": [
+        {
+          "name": "Ol Wallace",
+          "url": "https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c"
+        },
+        {
+          "name": "chill.exe",
+          "url": "https://open.spotify.com/artist/34JrELkAIMQcrtVqaA2WQl"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        }
+      ],
+      "duration_ms": 128470,
+      "name": "Organic",
+      "url": "https://open.spotify.com/track/69dcPtNoURZ8SzOTD2Z1yt"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Safe and Sound",
+        "url": "https://open.spotify.com/album/3lLpKjgwSljg32gbQQKcQD"
+      },
+      "artists": [
+        {
+          "name": "Devon Rea",
+          "url": "https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/4nz74ILBRpGRGOGwxNot3M"
     },
     {
       "added_at": "2022-08-12 00:00:00",
@@ -5635,6 +5779,46 @@
     {
       "added_at": "2022-08-12 00:00:00",
       "album": {
+        "name": "Escape To The Sky",
+        "url": "https://open.spotify.com/album/1KYq3bCj42k7VqMJ8nZNhU"
+      },
+      "artists": [
+        {
+          "name": "Dimension 32",
+          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Escape To The Sky",
+      "url": "https://open.spotify.com/track/68R0fvE7qpHxdTtMFRnn9W"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/3eYupVErUCArn2ltlYQ3NA"
+      },
+      "artists": [
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        },
+        {
+          "name": "Strong.AL&",
+          "url": "https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1"
+        },
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/6almDaOLy2R0MAMTLmNIBb"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
         "name": "Postcards",
         "url": "https://open.spotify.com/album/0kWCRHkbNdNKU0K9uNB3hK"
       },
@@ -5647,6 +5831,26 @@
       "duration_ms": 168750,
       "name": "Missing u",
       "url": "https://open.spotify.com/track/3FxlyGB6aP9hpmgIoOmYlr"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/4wdRbP9gWomep2FSfXmzvw"
+      },
+      "artists": [
+        {
+          "name": "damaa.beats",
+          "url": "https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        }
+      ],
+      "duration_ms": 135533,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/4YUc6tkuelseSDsLupiaUq"
     },
     {
       "added_at": "2022-08-12 00:00:00",

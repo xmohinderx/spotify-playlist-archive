@@ -1,13 +1,101 @@
 {
-  "description": "The best of today's dance hits. Cover: Kaytranada",
-  "num_followers": 302716,
+  "description": "The best of today's dance hits. Cover: Zeds Dead & MKLA",
+  "num_followers": 302726,
   "original_name": "mint Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGY3YzNlNGFjMTI1NmJlYTA2MWZhYTQyMjMyZjU4M2Q5",
+  "snapshot_id": "MTY2MDMyNDIwOSwwMDAwMDAwMDY1OTg1M2ExZTA0YjRjN2JmMzk5MTJhYzk4MjM2YjNh",
   "tracks": [
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/6SvEYBtyhQaaP7cwegjReW"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 163695,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/0JKg9Fk6tvcwiYTmRrEnTQ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Turn On The Lights again.. (feat. Future)",
+        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Turn On The Lights again.. (feat. Future)",
+      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "World Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 178304,
+      "name": "World Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
+    },
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
@@ -45,28 +133,24 @@
       "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "World Hold On (FISHER Rework)",
-        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
+        "name": "Picture in my mind",
+        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 178304,
-      "name": "World Hold On - FISHER Rework",
-      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
+      "duration_ms": 176930,
+      "name": "Picture in my mind",
+      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -137,26 +221,6 @@
       "url": "https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Kinda Funny (feat. Audrey Mika)",
-        "url": "https://open.spotify.com/album/2fdpHqEU8XfNlKmM5P9uH6"
-      },
-      "artists": [
-        {
-          "name": "Young Bombs",
-          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 121951,
-      "name": "Kinda Funny (feat. Audrey Mika)",
-      "url": "https://open.spotify.com/track/1FxHNKoRql64kL15iccqz1"
-    },
-    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Waste My Love (feat. Georgi Kay)",
@@ -177,30 +241,6 @@
       "url": "https://open.spotify.com/track/2lQb0fKNvxhsWBD4Jbo5mk"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Turn On The Lights again.. (feat. Future)",
-        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Turn On The Lights again.. (feat. Future)",
-      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Say It",
@@ -215,26 +255,6 @@
       "duration_ms": 158709,
       "name": "Say It",
       "url": "https://open.spotify.com/track/3gdmmqrJ2shUjqE3aq48cC"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2022-07-01 04:30:00",
@@ -409,6 +429,22 @@
       "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Psychedelic Highway",
+        "url": "https://open.spotify.com/album/6685L9FV6zexZJ1ATlGnva"
+      },
+      "artists": [
+        {
+          "name": "Sydney Blu",
+          "url": "https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb"
+        }
+      ],
+      "duration_ms": 396774,
+      "name": "Psychedelic Highway - Original Mix",
+      "url": "https://open.spotify.com/track/5Hs9f3joqVyndsgDDZItOr"
+    },
+    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Eternity",
@@ -489,6 +525,50 @@
       "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Reckless (Frank Walker Remix)",
+        "url": "https://open.spotify.com/album/0PSQG3avI9b8cFzyNvD4dj"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        }
+      ],
+      "duration_ms": 198188,
+      "name": "Reckless (feat. M\u00d8) - Frank Walker Remix",
+      "url": "https://open.spotify.com/track/6DsFsXFLcOzz3XO9retatZ"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Kinda Funny (feat. Audrey Mika)",
+        "url": "https://open.spotify.com/album/2fdpHqEU8XfNlKmM5P9uH6"
+      },
+      "artists": [
+        {
+          "name": "Young Bombs",
+          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 121951,
+      "name": "Kinda Funny (feat. Audrey Mika)",
+      "url": "https://open.spotify.com/track/1FxHNKoRql64kL15iccqz1"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Lost Without You (with Dean Lewis)",
@@ -507,6 +587,30 @@
       "duration_ms": 203609,
       "name": "Lost Without You (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Just A Touch",
+        "url": "https://open.spotify.com/album/70v3rXSHz6bXMivudeUxrK"
+      },
+      "artists": [
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        },
+        {
+          "name": "Coopex",
+          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
+        }
+      ],
+      "duration_ms": 128639,
+      "name": "Just A Touch",
+      "url": "https://open.spotify.com/track/1naVywXKFJRCbTjZLnvsOV"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -531,6 +635,26 @@
       "duration_ms": 224515,
       "name": "My Feelings For You - Mark Knight Remix",
       "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Can't Get Over It",
+        "url": "https://open.spotify.com/album/0ooyjvsUgs6bj3vPijGncb"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        },
+        {
+          "name": "Dead Space",
+          "url": "https://open.spotify.com/artist/7J0vmZ5neXBGAoa8s79R9b"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Can't Get Over It",
+      "url": "https://open.spotify.com/track/6wAx9MSumgFDUTW62vTs8L"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -667,26 +791,6 @@
       "duration_ms": 148095,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
-    },
-    {
-      "added_at": "2022-05-27 05:57:37",
-      "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -917,6 +1021,30 @@
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
     },
     {
+      "added_at": "2022-08-12 17:10:09",
+      "album": {
+        "name": "Day N Night",
+        "url": "https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk"
+      },
+      "artists": [
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 179199,
+      "name": "Day N Night",
+      "url": "https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2"
+    },
+    {
       "added_at": "2022-05-27 05:57:37",
       "album": {
         "name": "Time to Groove (feat. Non\u00f4)",
@@ -975,26 +1103,6 @@
       "duration_ms": 199680,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/0TEiOUYQYGeDsoBqVSZYIQ"
-    },
-    {
-      "added_at": "2022-05-27 05:57:37",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1103,22 +1211,6 @@
       "duration_ms": 165517,
       "name": "Seven Letters",
       "url": "https://open.spotify.com/track/2yy2Ya5RSyrE7vs2qsVsMG"
-    },
-    {
-      "added_at": "2022-07-01 04:30:00",
-      "album": {
-        "name": "I Took A Ride",
-        "url": "https://open.spotify.com/album/0fdk3hxMlzrbL9DjRmBcl9"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 224183,
-      "name": "I Took A Ride",
-      "url": "https://open.spotify.com/track/4iX3NZghkIK04tLz3ooh8P"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1773,26 +1865,6 @@
       "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Round N Round",
-        "url": "https://open.spotify.com/album/0wHtWW77BIrll2RFk7Be3K"
-      },
-      "artists": [
-        {
-          "name": "Cloverdale",
-          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
-        },
-        {
-          "name": "SQWAD",
-          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Round N Round",
-      "url": "https://open.spotify.com/track/5wqFVHgtgMV0AE6akJyH8u"
-    },
-    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Deep Inside Of Me",
@@ -1811,42 +1883,6 @@
       "duration_ms": 181676,
       "name": "Deep Inside Of Me",
       "url": "https://open.spotify.com/track/7j5eg5Mb7n5iapdqY1T74A"
-    },
-    {
-      "added_at": "2022-06-03 04:16:25",
-      "album": {
-        "name": "Rush On Me",
-        "url": "https://open.spotify.com/album/2uAiBwbIYtmK6Sm4ZDN6G1"
-      },
-      "artists": [
-        {
-          "name": "Famba",
-          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
-        },
-        {
-          "name": "Cloverdale",
-          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Rush On Me",
-      "url": "https://open.spotify.com/track/5xvPZAGYF0X4xvK0YDXfLM"
-    },
-    {
-      "added_at": "2022-05-27 05:57:37",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/0EFIwWwG4sYc7EgiwhsJUc"
-      },
-      "artists": [
-        {
-          "name": "Jack Trades",
-          "url": "https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/2P1qXej8tafqWWLxNVT0bV"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1907,22 +1943,6 @@
       "duration_ms": 384893,
       "name": "Ubumnandi (feat. Nia Pearl & MDU a.k.a TRP)",
       "url": "https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD"
-    },
-    {
-      "added_at": "2022-05-27 05:57:37",
-      "album": {
-        "name": "back2u",
-        "url": "https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 174310,
-      "name": "back2u",
-      "url": "https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8"
     },
     {
       "added_at": "2022-06-17 04:00:00",

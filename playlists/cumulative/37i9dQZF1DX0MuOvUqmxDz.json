@@ -2458,6 +2458,24 @@
     },
     {
       "album": {
+        "name": "Country Christmas 2022",
+        "url": "https://open.spotify.com/album/5pFDju5wugUFFulMYNaWxh"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "Run Run Rudolph",
+      "url": "https://open.spotify.com/track/4DnqnG7XbsCsipJU5jqprG"
+    },
+    {
+      "album": {
         "name": "Run Run Rudolph",
         "url": "https://open.spotify.com/album/0nmKLkVAR3pua1BwHWVU0S"
       },
@@ -2487,7 +2505,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 174360,
       "name": "Run Run Rudolph",
       "url": "https://open.spotify.com/track/6jSGVIEjnRhOl2c8JNx5cS"

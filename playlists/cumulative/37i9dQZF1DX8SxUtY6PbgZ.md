@@ -4,7 +4,7 @@
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-82 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/7uxp56zGiSEJTuIfzdU3G9)
+83 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/7uxp56zGiSEJTuIfzdU3G9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Imagining Buffalo](https://open.spotify.com/track/7DTNppXH1FmXdSos20cwqP) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52ADh5kEUzdTYKGCACXhWo) | 2:39 | 2022-05-27 | 2022-07-29 |
 | [Imagining Buffalo](https://open.spotify.com/track/1vtQUwCYHqLouqhnKPCZAX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 2:39 | 2022-05-27 |  |
 | [Is That What Everybody Wants](https://open.spotify.com/track/3ZohDI0H3LUGKg43A5ne9f) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 2:48 | 2022-05-27 |  |
+| [It Catches up With You](https://open.spotify.com/track/2cryrajucGmbV6mwNUhQPB) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [The Social Network](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) | 1:39 | 2022-08-12 |  |
 | [It's Good To Die](https://open.spotify.com/track/2QgFQNYCpalmxDAHlzhW8x) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Miles Hankins](https://open.spotify.com/artist/4tqMA2ZNL5HvWLy3OKUia6) | [Nine Perfect Strangers \(Original Series Soundtrack\)](https://open.spotify.com/album/6IEFqwgyEboJzqneOMkJiA) | 1:12 | 2022-05-27 |  |
 | [Ivan's Chance](https://open.spotify.com/track/5moqgAplFVb8WuMucLjGLf) | [Jay Wadley](https://open.spotify.com/artist/2PeCz2k4MORlxOMjTXFp6o) | [I Carry You With Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hw7AHVyCJwscdUkeT8d1a) | 3:38 | 2022-05-27 |  |
 | [Joe's Life](https://open.spotify.com/track/6YQrZEPXUz18Bi5kyOAZgw) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:40 | 2022-05-27 |  |

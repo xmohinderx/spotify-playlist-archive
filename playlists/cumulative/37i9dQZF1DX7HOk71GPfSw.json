@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 212505,
       "name": "480",
       "url": "https://open.spotify.com/track/3UWLOdQnXEVK4CNikztTsp"
@@ -3612,6 +3612,24 @@
     },
     {
       "album": {
+        "name": "boythots",
+        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137844,
+      "name": "boythots",
+      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
+    },
+    {
+      "album": {
         "name": "Bozo bozo bozo (carolesdaughter Version)",
         "url": "https://open.spotify.com/album/6SejkbqnyThvvqGpMa3C1R"
       },
@@ -6615,7 +6633,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 179666,
       "name": "dragging",
       "url": "https://open.spotify.com/track/5fkcpy3dkfXhMmSyAzCh4h"
@@ -9529,7 +9547,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 144419,
       "name": "glass",
       "url": "https://open.spotify.com/track/3uSzUWPz1uSvPAI9c3RVIA"
@@ -12067,6 +12085,28 @@
       "duration_ms": 184273,
       "name": "I'm the Worst!!",
       "url": "https://open.spotify.com/track/2vRrZ4GQXTUh9jiub3DjIo"
+    },
+    {
+      "album": {
+        "name": "halations",
+        "url": "https://open.spotify.com/album/22iB6R5m950b7RgSc3FE3M"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166437,
+      "name": "i/o",
+      "url": "https://open.spotify.com/track/4ggnthekytPDW8k0APUPVY"
     },
     {
       "album": {
@@ -14882,6 +14922,24 @@
     },
     {
       "album": {
+        "name": "LOVEU/LOVESICK",
+        "url": "https://open.spotify.com/album/6rEBprf7aCll2zqEGJSp7q"
+      },
+      "artists": [
+        {
+          "name": "yergurl",
+          "url": "https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "LOVEU/LOVESICK",
+      "url": "https://open.spotify.com/track/3ZSjiVsGwPqhUV9ZmZ14kl"
+    },
+    {
+      "album": {
         "name": "lucifer",
         "url": "https://open.spotify.com/album/6uXAN6k5CtYcRrkkrqADWL"
       },
@@ -15223,7 +15281,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 192560,
       "name": "make me feel so... (feat. Dadi Freyr)",
       "url": "https://open.spotify.com/track/4NgaH6iLk9uJuGGiY67LBY"
@@ -21618,6 +21676,24 @@
     },
     {
       "album": {
+        "name": "silver",
+        "url": "https://open.spotify.com/album/5QAJHNdXBVvcW9qBFvVMaF"
+      },
+      "artists": [
+        {
+          "name": "Atlas in Motion",
+          "url": "https://open.spotify.com/artist/1N9JxmOPJqhMCw219uoEi8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111307,
+      "name": "silver",
+      "url": "https://open.spotify.com/track/6IG2Gz1o84JKJD9Mbf3bST"
+    },
+    {
+      "album": {
         "name": "SIMP",
         "url": "https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa"
       },
@@ -24258,6 +24334,24 @@
     },
     {
       "album": {
+        "name": "the scientific method",
+        "url": "https://open.spotify.com/album/59gK8Z2prc5QKClxNy7M66"
+      },
+      "artists": [
+        {
+          "name": "torr",
+          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169957,
+      "name": "the scientific method",
+      "url": "https://open.spotify.com/track/4AnAUtt0YB4ZP33mew7Z3L"
+    },
+    {
+      "album": {
         "name": "TURN OFF THE LIGHT",
         "url": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
       },
@@ -24849,7 +24943,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"

@@ -4,7 +4,7 @@
 
 > Let the music flow through you...
 
-120 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
+121 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Him](https://open.spotify.com/track/3s7QggkEE59CK0qBAhPOjO) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Him](https://open.spotify.com/album/0TejA7LPDCrMzlyYpaK4wA) | 3:46 | 2022-06-02 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 | 2022-06-02 |  |
 | [Hold onto Me](https://open.spotify.com/track/6E7sHQsSqLUWOkNA9jqQvn) | [Nga Kete Aronui](https://open.spotify.com/artist/02HfHlBGA0xK2ExjMkMGri) | [Challenge the New Dawn](https://open.spotify.com/album/3r39lg81Xfv7qSGo4tKACS) | 3:45 | 2022-06-09 |  |
+| [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 | 2022-08-11 |  |
 | [Human](https://open.spotify.com/track/2tzy3WUax7kpANoToMN3tW) | [Anieszka](https://open.spotify.com/artist/0V8Un1gkMYKYp2Hq3yqmhY) | [Human](https://open.spotify.com/album/2H562jzwhTkWC3Em88k8XV) | 3:42 | 2022-06-23 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-06-02 |  |
 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 | 2022-06-02 |  |

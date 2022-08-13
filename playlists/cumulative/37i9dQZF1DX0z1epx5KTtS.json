@@ -568,6 +568,24 @@
     },
     {
       "album": {
+        "name": "Best Of DJ Arafat",
+        "url": "https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK"
+      },
+      "artists": [
+        {
+          "name": "DJ Arafat",
+          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276900,
+      "name": "Jonathan",
+      "url": "https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO"
+    },
+    {
+      "album": {
         "name": "Judas",
         "url": "https://open.spotify.com/album/5LH3Ut39XL9NEpKXLS2dwn"
       },

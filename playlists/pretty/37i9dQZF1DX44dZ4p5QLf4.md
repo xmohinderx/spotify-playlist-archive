@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,629 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,750 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 78 | [Futurity](https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Futurity](https://open.spotify.com/album/4HasQy2DqL3IGHXn50QGGi) | 4:14 |
 | 79 | [Every Part of Me \(feat\. Ari Lennox\)](https://open.spotify.com/track/3fo5i7RCEyLycp8dsn7Pa1) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [BLK2LIFE \|\| A FUTURE PAST](https://open.spotify.com/album/5ULA4LSxoFzpCPERRiNuRT) | 3:10 |
 | 80 | [MIDSKY](https://open.spotify.com/track/7zsNh2wvCUxcXYmKbPjoAW) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [MIDSKY](https://open.spotify.com/album/0FCsCJFEaPYwToH79yo6ES) | 3:36 |
-| 81 | [Stages](https://open.spotify.com/track/4oElBWNxGX0Lg8wD1k5uHx) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Adi Oasis](https://open.spotify.com/album/0W8Rm6qBMnykppCswQyMTO) | 3:47 |
+| 81 | [Stages](https://open.spotify.com/track/5R4uz2XHdDJ2lCirZIRwCf) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 3:47 |
 | 82 | [Relay](https://open.spotify.com/track/7cHLutQTiJ5cMfVI5Bg7nQ) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Relay](https://open.spotify.com/album/43skczn9Io3vAXh97760qM) | 3:05 |
 | 83 | [Superstar](https://open.spotify.com/track/3c46fXVjVArsPheex1R7AI) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J), [Caleborate](https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et) | [Superstar](https://open.spotify.com/album/7EWhJMY64EezShQPMD2zf4) | 2:57 |
 | 84 | [Not Easy Love \(feat\. Demae\)](https://open.spotify.com/track/33Of2CworbU1G1G08eMtdA) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Not Easy Love \(feat\. Demae\)](https://open.spotify.com/album/3WtpXMzF2W52quvJO7mMMN) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 99 | [Kerosene](https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Kerosene](https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY) | 3:29 |
 | 100 | [You Comfort Me \(with EARTHGANG\)](https://open.spotify.com/track/516Qt2A8vGrMBaMqafVOEm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [You Comfort Me \(with EARTHGANG\)](https://open.spotify.com/album/5rXXKTYEW34LQHzjUDpqkC) | 3:22 |
 
-Snapshot ID: `MTY1OTA0NTYwMCwwMDAwMDAwMGNlMTBkNzI2ZGJjYWFhNDIzYjNlMTVlZmNhZWU0OWJl`
+Snapshot ID: `MTY1OTA0NTYwMCwwMDAwMDAwMGUxZWRhNGRhZjQyNWVkZjc1ZmEzNzEwNjY3YTlkN2Rm`

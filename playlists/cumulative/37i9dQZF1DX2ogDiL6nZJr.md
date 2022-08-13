@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-248 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
+250 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [A.M\. RADIO](https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [A.M\. RADIO](https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz) | 3:57 | 2021-12-09 | 2022-07-29 |
 | [All Fall Down](https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [All Fall Down](https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT) | 3:27 | 2021-12-09 | 2022-07-01 |
 | [All is good](https://open.spotify.com/track/467WHgKM4R7mpsJfNJxQk9) | [Friska Viljor](https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul) | [All is good](https://open.spotify.com/album/6AioobHoCPBsYhnKfkTjqj) | 3:43 | 2021-12-09 | 2022-07-29 |
-| [All That You Are](https://open.spotify.com/track/7G1EM2JFj32L6UBsPJrhoH) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [All That You Are](https://open.spotify.com/album/5QKtAAUxkQLhKT1hLX910o) | 4:11 | 2021-12-09 |  |
+| [All That You Are](https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 4:10 | 2022-08-11 |  |
+| [All That You Are](https://open.spotify.com/track/7G1EM2JFj32L6UBsPJrhoH) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [All That You Are](https://open.spotify.com/album/5QKtAAUxkQLhKT1hLX910o) | 4:11 | 2021-12-09 | 2022-08-13 |
 | [Alright](https://open.spotify.com/track/3ZWW7SuBWXOHv24nZmfPLF) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:02 | 2022-04-14 | 2022-04-20 |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-21 |  |
 | [Arms Of Who](https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms of Who](https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2) | 4:07 | 2021-12-09 |  |
@@ -166,6 +167,7 @@
 | [Only For A Moment](https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Only For A Moment](https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV) | 2:47 | 2021-12-09 |  |
 | [Orion](https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Orion](https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9) | 3:37 | 2021-12-09 | 2022-07-29 |
 | [Our New World \- with Kyson](https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Our New World \(with Kyson\)](https://open.spotify.com/album/4hotjToQtwMlzRD0XQeYvB) | 3:39 | 2021-12-09 |  |
+| [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-11 |  |
 | [Outer Sunset](https://open.spotify.com/track/6MUuMaiREbhGc2HvvBYFik) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:10 | 2022-04-14 | 2022-04-21 |
 | [Paper Cup \- Edit](https://open.spotify.com/track/6ttrFq4adJwxBaWUz2H7EC) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [The Main Thing](https://open.spotify.com/album/1UKlb2Lb7CW1trU8ultvGr) | 3:47 | 2022-04-14 | 2022-04-21 |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2021-12-09 | 2022-04-20 |
@@ -209,7 +211,7 @@
 | [Spark](https://open.spotify.com/track/79Ga5G6Prf9gdZTBdpKsfr) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Oceanic](https://open.spotify.com/album/4wF8vOTtUdUzSDuRVf0B5V) | 4:24 | 2021-12-09 | 2022-07-29 |
 | [Speaking of the End](https://open.spotify.com/track/05WcicrMesButARnfWkrJe) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Speaking of the End](https://open.spotify.com/album/4a5PcKfE79MAbm89YNtEVN) | 3:08 | 2021-12-09 | 2022-07-28 |
 | [Speaking of the End](https://open.spotify.com/track/0VgTi18CjUoI1frSMsNXWT) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:08 | 2022-07-21 |  |
-| [Spiders](https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Spiders](https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK) | 3:48 | 2022-01-21 |  |
+| [Spiders](https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Spiders](https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK) | 3:48 | 2022-01-21 | 2022-08-13 |
 | [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 | 2021-12-09 |  |
 | [Stay High](https://open.spotify.com/track/3fDqdR9QqcsgFTRFqy14Ki) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High](https://open.spotify.com/album/4gb0j034W6vgCDwRO2N88c) | 3:11 | 2022-04-14 | 2022-04-20 |
 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 | 2022-07-21 |  |

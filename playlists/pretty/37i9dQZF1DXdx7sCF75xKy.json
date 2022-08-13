@@ -1,13 +1,29 @@
 {
   "description": "Listen to women from Singapore and Malaysia at full volume. Cover: Ffion",
-  "num_followers": 2596,
+  "num_followers": 2598,
   "original_name": "EQUAL Singapore & Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzMzYwMCwwMDAwMDAwMDljOWQwZDdjYzNlNmQzNTZlNTVmYmViMGY3NTEwOTI5",
+  "snapshot_id": "MTY2MDIzMzYwMCwwMDAwMDAwMGY1Yzc0MzMxMjdkYmNkNWNmNWNkYjI2YjI1MjlmZGI5",
   "tracks": [
+    {
+      "added_at": "2022-08-11 16:00:00",
+      "album": {
+        "name": "camera roll",
+        "url": "https://open.spotify.com/album/5jVDpgn7eKVImYq2Ff7oCb"
+      },
+      "artists": [
+        {
+          "name": "Ffion",
+          "url": "https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "camera roll",
+      "url": "https://open.spotify.com/track/4qPx1LnNuGSFUnNnIZnYfN"
+    },
     {
       "added_at": "2022-08-02 16:00:00",
       "album": {

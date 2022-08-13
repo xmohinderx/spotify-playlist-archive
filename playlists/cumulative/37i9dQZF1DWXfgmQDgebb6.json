@@ -660,6 +660,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "album": {
         "name": "DIOR",
         "url": "https://open.spotify.com/album/4jjOq9OwpI57jy16o6ZtCk"
       },
@@ -1017,6 +1035,24 @@
       "duration_ms": 107906,
       "name": "Espresso Build",
       "url": "https://open.spotify.com/track/3yfHXif4GgssiGkUTy8OIA"
+    },
+    {
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245280,
+      "name": "Evergray",
+      "url": "https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo"
     },
     {
       "album": {
@@ -1928,6 +1964,32 @@
     },
     {
       "album": {
+        "name": "KIRBY CLUB BABY",
+        "url": "https://open.spotify.com/album/7G8AH8CmcBZqWyMAuvmyOy"
+      },
+      "artists": [
+        {
+          "name": "Lil Kirby",
+          "url": "https://open.spotify.com/artist/0AyTTFMP8EFKZJ9VUNEBq1"
+        },
+        {
+          "name": "LuvAnge1",
+          "url": "https://open.spotify.com/artist/7sggMnjjQiVmWk1mddjVkl"
+        },
+        {
+          "name": "GOLDBUUDA",
+          "url": "https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "KIRBY CLUB BABY (Feat. LuvAnge1, GOLDBUUDA)",
+      "url": "https://open.spotify.com/track/6Y3pgqVje9iFrkCTEig30h"
+    },
+    {
+      "album": {
         "name": "Mart Invader",
         "url": "https://open.spotify.com/album/7pRaiXDCEMFZxJKTL2Mjbj"
       },
@@ -2483,7 +2545,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 172417,
       "name": "onoff",
       "url": "https://open.spotify.com/track/0Irane2MDLNYyoU5qC7phF"
@@ -2621,7 +2683,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 181639,
       "name": "Power Rangers (feat. Mudd the student, Tyron\u00e9 Laurent)",
       "url": "https://open.spotify.com/track/0re5DUvnUH3rD6DMUsn0lS"
@@ -3415,7 +3477,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 142530,
       "name": "Tallgrass",
       "url": "https://open.spotify.com/track/3ejKDgWyYihU4hKlzjgwlm"
@@ -3531,6 +3593,24 @@
       "duration_ms": 252853,
       "name": "Too Old to Die Young",
       "url": "https://open.spotify.com/track/5iI0tp0KVruemN3fYxtAHy"
+    },
+    {
+      "album": {
+        "name": "TOUCH",
+        "url": "https://open.spotify.com/album/0oWu5pZekjFtOiMJverkSS"
+      },
+      "artists": [
+        {
+          "name": "Malitabu",
+          "url": "https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203317,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2xSMlL2I4yhoH31tl3xCY4"
     },
     {
       "album": {
@@ -3927,7 +4007,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 209999,
       "name": "YOLO!!",
       "url": "https://open.spotify.com/track/7CzlruoUvMHw2ilEEXjPRL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Salaga, Clara Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,052 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,185 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 45 | [Imaginar](https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Imaginar](https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x) | 2:20 |
 | 46 | [Polo](https://open.spotify.com/track/0qZCXSCeZZB238Vmk28XMC) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Trap de Quebra \(Deluxe\)](https://open.spotify.com/album/19fuY6ljpmJaymifBNFqDf) | 2:05 |
 | 47 | [Madrugada](https://open.spotify.com/track/2Lqt0JMtbWwiDrzNIrsPYc) | [Lupper](https://open.spotify.com/artist/6xa7IcwSnl1KJSj4i7Om4Q) | [Madrugada](https://open.spotify.com/album/5hLiaDKMdkJrAYKXaMfBoc) | 2:20 |
-| 48 | [DONO DO JOGO](https://open.spotify.com/track/2u10VBlhnKLsA3fmTjVIoa) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv), [Turtle Flame](https://open.spotify.com/artist/2HHCU5N6OLMXvb3xXKKesI) | [DONO DO JOGO](https://open.spotify.com/album/751hlP8rAl3H55RBx5IilQ) | 2:34 |
-| 49 | [Volvo](https://open.spotify.com/track/2MfvRyM7Z8MVj8XSRBFEsR) | [Jhow](https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Volvo](https://open.spotify.com/album/4YyGlum109B6TRYQaIinWc) | 2:31 |
-| 50 | [Corre das Notas](https://open.spotify.com/track/7LObCoP4wxMuZojWAfj4aU) | [Daprata](https://open.spotify.com/artist/0TNwnZ9FoxBDnbWDGM4NIx), [Kaeni Mc](https://open.spotify.com/artist/7ClbJj6Is5f1XDvYHQgeBd) | [Corre das Notas](https://open.spotify.com/album/2nWaDrdvQyYsULVDcEZt5T) | 2:49 |
+| 48 | [Volvo](https://open.spotify.com/track/2MfvRyM7Z8MVj8XSRBFEsR) | [Jhow](https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Volvo](https://open.spotify.com/album/4YyGlum109B6TRYQaIinWc) | 2:31 |
+| 49 | [Corre das Notas](https://open.spotify.com/track/7LObCoP4wxMuZojWAfj4aU) | [Daprata](https://open.spotify.com/artist/0TNwnZ9FoxBDnbWDGM4NIx), [Kaeni Mc](https://open.spotify.com/artist/7ClbJj6Is5f1XDvYHQgeBd) | [Corre das Notas](https://open.spotify.com/album/2nWaDrdvQyYsULVDcEZt5T) | 2:49 |
+| 50 | [Pelo Menos](https://open.spotify.com/track/7xDJNNmC7AAEVQ3L8oUmlL) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Pelo Menos](https://open.spotify.com/album/7wNqJIviCTyNGuWTzigUrU) | 3:07 |
 
-Snapshot ID: `MTY2MDA1MzgwMiwwMDAwMDAwMGNlNWRjYTdmN2ZmY2M4NTBkYzM5OGMyNThkOGM5ZjM2`
+Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMDZmZTUwYTI2YjkyNjZmNGVhMTA3NTQ1OGU2YzVhN2Y2`

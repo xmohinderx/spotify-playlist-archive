@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,891 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,931 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [Runners](https://open.spotify.com/track/4tQ5wivXoTknZ8PQrgtaYn) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:28 |
 | 60 | [Castaway](https://open.spotify.com/track/0asJ8jxqqNFT5Fxr5vNSPt) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Interlude](https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK) | 3:14 |
 
-Snapshot ID: `MTY2MDA2NDE5MCwwMDAwMDAwMDEzM2QyM2E3ZDEwNGQ1MGI5MWQwNGM3MzcyOGU1ZTA0`
+Snapshot ID: `MTY2MDMzMDE1NSwwMDAwMDAwMDFmNjg1MmFkYmEzYzhmZmVmZWQ4NmQ3ZjliNmQ2MjBi`

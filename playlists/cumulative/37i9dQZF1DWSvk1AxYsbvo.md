@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-122 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
+123 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2022-05-03 |  |
 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 | 2022-07-04 |  |
 | [Good Night](https://open.spotify.com/track/1CVcNHLd6oSMpI5zt8y15e) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 2:45 | 2022-05-03 | 2022-06-18 |
+| [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 | 2022-08-12 |  |
 | [Greetings rain](https://open.spotify.com/track/4ngEkVwwoXVioWGwla4NKX) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Greetings rain](https://open.spotify.com/album/4xC9UnFviL7DNmGzCBFRFv) | 3:57 | 2022-07-08 | 2022-07-20 |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-18 |  |
 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(Original Television Soundtrack\) \(O′PENing\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 | 2022-07-04 |  |
@@ -113,7 +114,7 @@
 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 | 2022-05-03 | 2022-07-25 |
 | [Transcendence](https://open.spotify.com/track/5EYZN2W4qk20IOQ9c3JZ6K) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [My Home](https://open.spotify.com/album/4Q7GAqOIHSNtkJtD2uYntT) | 3:13 | 2022-05-03 | 2022-07-27 |
 | [Tropical night](https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk) | [여동생](https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1) | [Tropical night](https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK) | 5:11 | 2022-07-08 |  |
-| [Use Me](https://open.spotify.com/track/2u6CuICoBLDdCVYzyQi9E6) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Use Me](https://open.spotify.com/album/5y6rbOkVDqjWIQhu4hfF7b) | 2:25 | 2022-05-03 |  |
+| [Use Me](https://open.spotify.com/track/2u6CuICoBLDdCVYzyQi9E6) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Use Me](https://open.spotify.com/album/5y6rbOkVDqjWIQhu4hfF7b) | 2:25 | 2022-05-03 | 2022-08-13 |
 | [Voice Of The Forest \- Guitar Version](https://open.spotify.com/track/6NV58PolVIW1nEqXfbsPid) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Voice Of The Forest](https://open.spotify.com/album/6MbzdZpJjL2CXVOuPEVLmb) | 3:53 | 2022-05-03 | 2022-07-29 |
 | [Waters of March](https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:37 | 2022-05-03 |  |
 | [We loved each other so much](https://open.spotify.com/track/2AX4ZtamEjVF2j8Ujt9AQ5) | [Savina & Drones](https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7) | [We loved each other so much](https://open.spotify.com/album/0iTcaeKTHyPEawNCHukYa2) | 3:47 | 2022-06-18 | 2022-08-12 |

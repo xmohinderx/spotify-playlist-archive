@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 175000,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 274951,
       "name": "Accra (feat. Akan)",
       "url": "https://open.spotify.com/track/70VDlfsvRSVu5WrtfqCC0N"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 145882,
       "name": "Blood Hot",
       "url": "https://open.spotify.com/track/3ocQ7frjALF31yCx5eMhTz"
@@ -784,6 +784,28 @@
     },
     {
       "album": {
+        "name": "Fire (Remix)",
+        "url": "https://open.spotify.com/album/3rex4m0MhEg1FzcUPcyT0K"
+      },
+      "artists": [
+        {
+          "name": "Kwame Vybz",
+          "url": "https://open.spotify.com/artist/16MxvE6X1uGG7ddY3XLgdY"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208144,
+      "name": "Fire - Remix",
+      "url": "https://open.spotify.com/track/27413RLXJwf8qnCuJynC66"
+    },
+    {
+      "album": {
         "name": "Paedae Drop a Flow",
         "url": "https://open.spotify.com/album/604se8iMB1MPJW9VGpSYkk"
       },
@@ -904,6 +926,28 @@
     },
     {
       "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0qtfszOOxWhtQlfXR7jESB"
+      },
+      "artists": [
+        {
+          "name": "Mo'Gunz",
+          "url": "https://open.spotify.com/artist/51uO29xURTztKkoKSG1fA7"
+        },
+        {
+          "name": "IDVH",
+          "url": "https://open.spotify.com/artist/2qcqlQCkD2OXhCIKEGQRja"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208689,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/0MQ5OfIujoBV1D6MmQkTUp"
+    },
+    {
+      "album": {
         "name": "Gone Far",
         "url": "https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO"
       },
@@ -919,6 +963,28 @@
       "duration_ms": 148692,
       "name": "Gone Far",
       "url": "https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6"
+    },
+    {
+      "album": {
+        "name": "Hey! - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6ChwUKdWh13psgCZEY3NCN"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Tera K\u00f2r\u00e1",
+          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157100,
+      "name": "Hey! - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP"
     },
     {
       "album": {
@@ -1005,6 +1071,24 @@
       "duration_ms": 164808,
       "name": "Holy Gee",
       "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4PKXI1kFAKNwWgU1P0ruMC"
+      },
+      "artists": [
+        {
+          "name": "Nemisis Loso",
+          "url": "https://open.spotify.com/artist/1TFtIpOdyzFIEiuEagyGi4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197196,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3P2OZnZ6xpFYI7bWMB28ui"
     },
     {
       "album": {
@@ -1380,6 +1464,28 @@
     },
     {
       "album": {
+        "name": "Ethos",
+        "url": "https://open.spotify.com/album/42RCa1kgdXRaHGQmEXiSic"
+      },
+      "artists": [
+        {
+          "name": "A-Q",
+          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+        },
+        {
+          "name": "Brymo",
+          "url": "https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Ni Temi",
+      "url": "https://open.spotify.com/track/6fswXLtlUpvGPbb0G9S1Ij"
+    },
+    {
+      "album": {
         "name": "Non Stop",
         "url": "https://open.spotify.com/album/5MJX3wuUeSpFqqI3aRpIAn"
       },
@@ -1399,6 +1505,24 @@
       "duration_ms": 170187,
       "name": "Non Stop",
       "url": "https://open.spotify.com/track/4frYjcru01K8WkQZYc3KqX"
+    },
+    {
+      "album": {
+        "name": "Nuff Chat",
+        "url": "https://open.spotify.com/album/1YtqOsHQccqkJmZzDdCFJm"
+      },
+      "artists": [
+        {
+          "name": "Korshi T",
+          "url": "https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "Nuff Chat",
+      "url": "https://open.spotify.com/track/2IgxOCeRiJ0Qm9RDDsNhN0"
     },
     {
       "album": {
@@ -1479,6 +1603,28 @@
       "duration_ms": 175412,
       "name": "ONIPA",
       "url": "https://open.spotify.com/track/2KKwU8ObJcEGD5pnFZzbcI"
+    },
+    {
+      "album": {
+        "name": "Oro Aje 2",
+        "url": "https://open.spotify.com/album/5Z6lUHzNnX21K3t2ZSz00k"
+      },
+      "artists": [
+        {
+          "name": "Oritse Femi",
+          "url": "https://open.spotify.com/artist/01ukVEa5Q8UkHjqgiFZsIW"
+        },
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "Oro Aje 2",
+      "url": "https://open.spotify.com/track/7EOmj8A1Hfg26dUVE5isPc"
     },
     {
       "album": {
@@ -1585,7 +1731,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 181463,
       "name": "Poppin'",
       "url": "https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM"
@@ -1749,7 +1895,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 203093,
       "name": "Ring My Line (feat. Headie One)",
       "url": "https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4"
@@ -1785,7 +1931,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 164705,
       "name": "Royal Rumble",
       "url": "https://open.spotify.com/track/2If4yVXLFbGksTtbn260Se"

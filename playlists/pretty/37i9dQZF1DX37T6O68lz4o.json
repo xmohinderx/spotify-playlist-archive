@@ -1,28 +1,60 @@
 {
   "description": "New England music breaking waves. Cover, KHARY",
-  "num_followers": 1023,
+  "num_followers": 1025,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcyOTQ5MywwMDAwMDAwMDk3OWM1ZjI3MjUxMjdhYzQyODM5OTg0ZDUwMWVmMDI2",
+  "snapshot_id": "MTY2MDMyNDMxNCwwMDAwMDAwMDNhOTkyYmFmZTAxYjA4NWI4NGViYmIyOThhZWRjMDZl",
   "tracks": [
     {
-      "added_at": "2022-07-18 21:17:51",
+      "added_at": "2022-08-12 17:11:54",
       "album": {
-        "name": "Blueberry Biscotti",
-        "url": "https://open.spotify.com/album/26n48B6Svxy9Wsp5hzrmQ4"
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/53wyqQJQiepVRsh7FTJGMc"
       },
       "artists": [
         {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+          "name": "PxRRY",
+          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
         }
       ],
-      "duration_ms": 128785,
-      "name": "Blueberry Biscotti",
-      "url": "https://open.spotify.com/track/4Jdz6B3w69AHsWHBg80SZK"
+      "duration_ms": 160907,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/2jroBJH3oP3Ra6aWC5EDzJ"
+    },
+    {
+      "added_at": "2022-06-07 21:56:35",
+      "album": {
+        "name": "Simplicity",
+        "url": "https://open.spotify.com/album/1P44V2EWQyzp6PHaA2XNzO"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "Simplicity",
+      "url": "https://open.spotify.com/track/3dh3wF8WAbIEdXTIpbisxk"
+    },
+    {
+      "added_at": "2022-07-22 20:03:23",
+      "album": {
+        "name": "Si T\u00fa Supieras",
+        "url": "https://open.spotify.com/album/5hW4kaoVtDGVa8KcodO2uE"
+      },
+      "artists": [
+        {
+          "name": "Nino Francis",
+          "url": "https://open.spotify.com/artist/3V6C0b6qW61rD8dNhBgKdr"
+        }
+      ],
+      "duration_ms": 157986,
+      "name": "Si T\u00fa Supieras",
+      "url": "https://open.spotify.com/track/59712iD8O2nhx1lgAKQ0Gc"
     },
     {
       "added_at": "2022-07-18 21:17:51",
@@ -165,20 +197,20 @@
       "url": "https://open.spotify.com/track/0Mxh4inXATNeyzreyU0GrA"
     },
     {
-      "added_at": "2022-06-07 21:56:35",
+      "added_at": "2022-07-18 21:17:51",
       "album": {
-        "name": "Simplicity",
-        "url": "https://open.spotify.com/album/1P44V2EWQyzp6PHaA2XNzO"
+        "name": "Blueberry Biscotti",
+        "url": "https://open.spotify.com/album/26n48B6Svxy9Wsp5hzrmQ4"
       },
       "artists": [
         {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
         }
       ],
-      "duration_ms": 167400,
-      "name": "Simplicity",
-      "url": "https://open.spotify.com/track/3dh3wF8WAbIEdXTIpbisxk"
+      "duration_ms": 128785,
+      "name": "Blueberry Biscotti",
+      "url": "https://open.spotify.com/track/4Jdz6B3w69AHsWHBg80SZK"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -195,22 +227,6 @@
       "duration_ms": 151813,
       "name": "Say You Love Me",
       "url": "https://open.spotify.com/track/7jvpSnEPKnHEtplo2uEBrT"
-    },
-    {
-      "added_at": "2022-07-22 20:03:23",
-      "album": {
-        "name": "Si T\u00fa Supieras",
-        "url": "https://open.spotify.com/album/5hW4kaoVtDGVa8KcodO2uE"
-      },
-      "artists": [
-        {
-          "name": "Nino Francis",
-          "url": "https://open.spotify.com/artist/3V6C0b6qW61rD8dNhBgKdr"
-        }
-      ],
-      "duration_ms": 157986,
-      "name": "Si T\u00fa Supieras",
-      "url": "https://open.spotify.com/track/59712iD8O2nhx1lgAKQ0Gc"
     },
     {
       "added_at": "2022-04-15 08:01:02",
@@ -263,22 +279,6 @@
       "duration_ms": 90044,
       "name": "No Joke",
       "url": "https://open.spotify.com/track/2qwmssqUiBzwrXrk2lhMYO"
-    },
-    {
-      "added_at": "2022-08-05 19:58:13",
-      "album": {
-        "name": "Like Bill",
-        "url": "https://open.spotify.com/album/5FB1SI2U8IOPk8kEAnQLPb"
-      },
-      "artists": [
-        {
-          "name": "euro",
-          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
-        }
-      ],
-      "duration_ms": 132976,
-      "name": "Like Bill",
-      "url": "https://open.spotify.com/track/1U0z1CFCqSWAYA5O4oKpeC"
     },
     {
       "added_at": "2022-07-18 21:17:51",
@@ -441,10 +441,10 @@
       "url": "https://open.spotify.com/track/2YI2Br6DGTPP07iWxilZyX"
     },
     {
-      "added_at": "2022-07-18 21:17:51",
+      "added_at": "2022-08-12 17:11:54",
       "album": {
-        "name": "outdoors",
-        "url": "https://open.spotify.com/album/2zAbvzp3cEgpLwrTFjwGo7"
+        "name": "2night",
+        "url": "https://open.spotify.com/album/2al0pIykJl5DpLSQcqU0aE"
       },
       "artists": [
         {
@@ -452,9 +452,29 @@
           "url": "https://open.spotify.com/artist/5CBvG98FGlAMc4Pi9Mc7LV"
         }
       ],
-      "duration_ms": 167758,
-      "name": "outdoors",
-      "url": "https://open.spotify.com/track/5qNB0ENuzUd3InnB610YG9"
+      "duration_ms": 152926,
+      "name": "2night",
+      "url": "https://open.spotify.com/track/0ccds5C86PU7kPquqqy7Gk"
+    },
+    {
+      "added_at": "2022-08-12 17:11:54",
+      "album": {
+        "name": "MOMMA i MAKE ART: SEE YOUR BOY IS NOT A LOSER!",
+        "url": "https://open.spotify.com/album/6uDLjfr1RrtYJOxkivdSFs"
+      },
+      "artists": [
+        {
+          "name": "WHYTRI",
+          "url": "https://open.spotify.com/artist/4z1mmeq6Dsr43uwzLiTXys"
+        },
+        {
+          "name": "Jon Glass",
+          "url": "https://open.spotify.com/artist/1u2PrmG6RI8ldR2974GdMn"
+        }
+      ],
+      "duration_ms": 167532,
+      "name": "TIPPIN LIKE JOHN CENA",
+      "url": "https://open.spotify.com/track/5f6HNkGwjGfljrXa165S5G"
     },
     {
       "added_at": "2021-12-01 18:09:33",
@@ -491,6 +511,22 @@
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/5myb2mYtD7r7unMLd6ldng"
+    },
+    {
+      "added_at": "2022-08-12 17:11:54",
+      "album": {
+        "name": "Big Man",
+        "url": "https://open.spotify.com/album/3rF84Wo4MswRmCabQdBf0Q"
+      },
+      "artists": [
+        {
+          "name": "Kevin George",
+          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
+        }
+      ],
+      "duration_ms": 99789,
+      "name": "BIG MAN",
+      "url": "https://open.spotify.com/track/3jAFw1z2NnST0yQp28VUvX"
     },
     {
       "added_at": "2022-07-22 20:03:23",
@@ -545,22 +581,6 @@
       "url": "https://open.spotify.com/track/0TztxVGAoatcgqhUR7K3qI"
     },
     {
-      "added_at": "2022-04-02 00:02:24",
-      "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/4XPyU0ekJANgR3wzqumlhf"
-      },
-      "artists": [
-        {
-          "name": "DTheFlyest",
-          "url": "https://open.spotify.com/artist/18SKljhXdcarieKi9GxK1y"
-        }
-      ],
-      "duration_ms": 191123,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/1qF9FN0iO80AJDHW1Njq2a"
-    },
-    {
       "added_at": "2022-07-18 21:17:51",
       "album": {
         "name": "HOOT GOSPEL",
@@ -597,26 +617,6 @@
       "url": "https://open.spotify.com/track/7aHzEZTz87BY3HGQ9ce27C"
     },
     {
-      "added_at": "2022-07-29 19:36:45",
-      "album": {
-        "name": "All Talk (feat. Theo Martins)",
-        "url": "https://open.spotify.com/album/6fdhxpkaT1FMC7poB2tD3H"
-      },
-      "artists": [
-        {
-          "name": "Cereal & Such",
-          "url": "https://open.spotify.com/artist/6afutSLix029sXA7ZIrCYC"
-        },
-        {
-          "name": "Theo Martins",
-          "url": "https://open.spotify.com/artist/0tjTmItQq8Eo1hsVvOf83D"
-        }
-      ],
-      "duration_ms": 173507,
-      "name": "All Talk - Instrumental (feat. Theo Martins)",
-      "url": "https://open.spotify.com/track/2hxAm6BFHpwwdMWzzsIUwF"
-    },
-    {
       "added_at": "2022-05-13 20:20:24",
       "album": {
         "name": "TOUCH",
@@ -631,30 +631,6 @@
       "duration_ms": 164246,
       "name": "TOUCH",
       "url": "https://open.spotify.com/track/2FFTcZlVcJgix9SKcTg7Sy"
-    },
-    {
-      "added_at": "2022-07-18 21:17:51",
-      "album": {
-        "name": "A Hero's Revenge! (Remix)",
-        "url": "https://open.spotify.com/album/3GXXTQeOB1dcF2DlbYAVbF"
-      },
-      "artists": [
-        {
-          "name": "WHYTRI",
-          "url": "https://open.spotify.com/artist/4z1mmeq6Dsr43uwzLiTXys"
-        },
-        {
-          "name": "Airospace",
-          "url": "https://open.spotify.com/artist/6gnWD8bGyUUn1H9j87F0B1"
-        },
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/2ED7MMsMWd8NUHtTY0ywgi"
-        }
-      ],
-      "duration_ms": 217241,
-      "name": "A Hero's Revenge! (Remix)",
-      "url": "https://open.spotify.com/track/1Z1WknchyOHg5CU6PM8DKL"
     },
     {
       "added_at": "2022-04-02 00:02:24",
@@ -673,22 +649,6 @@
       "url": "https://open.spotify.com/track/7IE6VIEvNkDEtht3MPur8n"
     },
     {
-      "added_at": "2022-06-07 21:56:35",
-      "album": {
-        "name": "The Remains (Stripped)",
-        "url": "https://open.spotify.com/album/5E5YtcnzUuehUs3MZjlZnd"
-      },
-      "artists": [
-        {
-          "name": "Kayla Thompson",
-          "url": "https://open.spotify.com/artist/0Sflq5MAqI4tTFfqIOpar3"
-        }
-      ],
-      "duration_ms": 185608,
-      "name": "The Remains (Stripped)",
-      "url": "https://open.spotify.com/track/0A6tma4S2etG8kNinNTkZ2"
-    },
-    {
       "added_at": "2022-02-18 22:25:03",
       "album": {
         "name": "More Than A Little Bit",
@@ -703,6 +663,22 @@
       "duration_ms": 194157,
       "name": "More Than A Little Bit",
       "url": "https://open.spotify.com/track/2haIQVgu4075Yx0QhAJgCQ"
+    },
+    {
+      "added_at": "2022-08-12 17:11:54",
+      "album": {
+        "name": "First Warning",
+        "url": "https://open.spotify.com/album/00VFqJE0acrwKOB0Fy9yrr"
+      },
+      "artists": [
+        {
+          "name": "snowsa",
+          "url": "https://open.spotify.com/artist/1CjeZeV3TnH5XUlUGMqedu"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "First Warning",
+      "url": "https://open.spotify.com/track/4p51QROZkN1BXzKCwQx8fe"
     },
     {
       "added_at": "2022-07-18 21:17:51",
@@ -835,6 +811,22 @@
       "duration_ms": 182786,
       "name": "Chez Vous",
       "url": "https://open.spotify.com/track/3IXLux9HHfxT2kogNpCzZm"
+    },
+    {
+      "added_at": "2022-08-12 17:11:54",
+      "album": {
+        "name": "Where I\u2019m From",
+        "url": "https://open.spotify.com/album/0N2fLU9GsPBb7GGYwhMtAe"
+      },
+      "artists": [
+        {
+          "name": "C. Wells",
+          "url": "https://open.spotify.com/artist/4gfQutFlhH2GGtixg1ItOw"
+        }
+      ],
+      "duration_ms": 183902,
+      "name": "Major Fact (Bonus)",
+      "url": "https://open.spotify.com/track/5qigctoNr6xPS4M418rvCp"
     },
     {
       "added_at": "2022-07-18 21:17:51",

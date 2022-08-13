@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-698 songs - 1 day 13 hr 59 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
+699 songs - 1 day 14 hr 3 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Dead Of Night](https://open.spotify.com/track/6jzAkKTa5sRAcIG4N1DkV6) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/4sypyREAQc69dg2X5XY4Df) | 3:59 | 2022-01-14 | 2022-02-25 |
 | [Dear Alcohol](https://open.spotify.com/track/1BbUq9wc4N2q53fR9S6NsZ) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Dear Alcohol](https://open.spotify.com/album/4mn4We0lZSZam33G1UQP0d) | 3:56 | 2022-04-05 | 2022-05-24 |
 | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/track/1oPdIqXhjswpTnA5PPQs0K) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/album/3AocIGXpIRlNgd2BSoETUH) | 3:01 | 2021-12-27 | 2022-01-05 |
+| [Delirious](https://open.spotify.com/track/0nH3kN1WXrbxZSptazFX1r) | [Vistoso Bosses](https://open.spotify.com/artist/1PwQodDnDYjun9ySkaucyi), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Delirious](https://open.spotify.com/album/0ktt8nyiccUBWvqKsmJdHQ) | 4:02 | 2022-08-12 |  |
 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 | 2022-07-02 | 2022-07-10 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-04-22 | 2022-05-11 |
 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 | 2022-05-24 | 2022-06-22 |
@@ -291,7 +292,7 @@
 | [I Hope You're Happy](https://open.spotify.com/track/3hVsjwJWXLZDVi3SaOD7rU) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [I Hope You're Happy](https://open.spotify.com/album/3l2IrLIJKskE3AHZL1mMCU) | 2:59 | 2022-01-22 | 2022-01-27 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-28 | 2022-07-11 |
 | [I Look Good](https://open.spotify.com/track/79aQX5Uq6t8apowFe5uueL) | [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [I Look Good](https://open.spotify.com/album/2AqcOLyhqhrNMLCawOsMpo) | 1:41 | 2022-02-04 | 2022-02-23 |
-| [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 | 2022-08-09 |  |
+| [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 | 2022-08-09 | 2022-08-13 |
 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 | 2022-04-10 | 2022-04-13 |
 | [I Swear](https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK) | [The Minions](https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 1:38 | 2022-07-14 |  |
 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 | 2022-05-28 | 2022-06-10 |

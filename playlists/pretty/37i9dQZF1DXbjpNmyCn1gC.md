@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,963 likes - 112 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,277 likes - 112 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

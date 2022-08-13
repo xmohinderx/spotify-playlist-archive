@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 674800,
       "name": "Bags' Groove - RVG Remaster",
       "url": "https://open.spotify.com/track/5RQqoEIkp6XsYyULz7AlAS"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 268506,
       "name": "Comin' Down",
       "url": "https://open.spotify.com/track/60EjvhLsxvgFbkQR6s4Jsx"
@@ -1066,6 +1066,28 @@
     },
     {
       "album": {
+        "name": "Diane",
+        "url": "https://open.spotify.com/album/0FNrlhmr94IAOIFCNCvoDp"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Paul Bley",
+          "url": "https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436426,
+      "name": "If I should lose you",
+      "url": "https://open.spotify.com/track/37YN6evH0mNQjgyvKPXJcy"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
       },
@@ -1189,7 +1211,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 211693,
       "name": "Just in Time",
       "url": "https://open.spotify.com/track/3AjGVZ8bkiAj5LQWWyxY0K"
@@ -1583,7 +1605,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 275960,
       "name": "Orbits",
       "url": "https://open.spotify.com/track/5AO8TeKZeo6ouwNaDn8xVE"
@@ -1623,6 +1645,24 @@
       "duration_ms": 426480,
       "name": "Paul's Pal - Rudy Van Gelder Edition/Digital Remaster/2006",
       "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
+    },
+    {
+      "album": {
+        "name": "Bitches Brew",
+        "url": "https://open.spotify.com/album/3Q0zkOZEOC855ErOOJ1AdO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1204066,
+      "name": "Pharaoh's Dance",
+      "url": "https://open.spotify.com/track/7eEp1mm5xRfPMpilLFUKwX"
     },
     {
       "album": {
@@ -1873,6 +1913,28 @@
       "duration_ms": 352520,
       "name": "Solar",
       "url": "https://open.spotify.com/track/0inE6nSUt8DmS8WzIQ8B9g"
+    },
+    {
+      "album": {
+        "name": "Sketches of Spain",
+        "url": "https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD"
+      },
+      "artists": [
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 734764,
+      "name": "Solea",
+      "url": "https://open.spotify.com/track/07EI4s3foxxuMdQTkk6MZA"
     },
     {
       "album": {
@@ -2237,6 +2299,28 @@
       "duration_ms": 250173,
       "name": "Tranquillity - Remastered 1998",
       "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
+    },
+    {
+      "album": {
+        "name": "Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934",
+        "url": "https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Earl Hines",
+          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161933,
+      "name": "Weather Bird",
+      "url": "https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR"
     },
     {
       "album": {

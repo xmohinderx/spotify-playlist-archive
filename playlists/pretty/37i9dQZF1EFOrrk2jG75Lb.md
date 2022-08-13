@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5ZhOMhIvZkv2S7fBPcxQ1t">Gloria Trevi </a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 854 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 855 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 13 | [Habla Blah Blah](https://open.spotify.com/track/1ki575hbZbZ6nkBrfpzD0b) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:49 |
 | 14 | [Mudanza de Hormiga](https://open.spotify.com/track/5k380k6DE6SbYlYBKMRd9m) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 2:31 |
 | 15 | [Psicofonía](https://open.spotify.com/track/593jvsVjjnD2ufgxf0aRs1) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/4VzxQe0r3lY0JZ5edFaHli) | 3:45 |
-| 16 | [Tu Ángel de la Guarda](https://open.spotify.com/track/3V4HgNmFdIW82DVFuRTK1Y) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:58 |
-| 17 | [Lo Que Una Chica Por Amor Es Capaz](https://open.spotify.com/track/6DNZig6OeXqhRuSrbYuFmZ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC) | 3:49 |
+| 16 | [Lo Que Una Chica Por Amor Es Capaz](https://open.spotify.com/track/6DNZig6OeXqhRuSrbYuFmZ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC) | 3:49 |
+| 17 | [Tu Ángel de la Guarda](https://open.spotify.com/track/3V4HgNmFdIW82DVFuRTK1Y) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:58 |
 | 18 | [Nos Volvimos Locos](https://open.spotify.com/track/5U44C9jqIDz5wdSUIOLnpA) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 2:56 |
 | 19 | [Yo Soy Su Vida](https://open.spotify.com/track/5KkXuQaCuB2tAGpCRY6suu) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:39 |
 | 20 | [Despiértame](https://open.spotify.com/track/7qzvFgCueFG0T3qJDC4GlV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:20 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 50 | [Ojos De Fuego](https://open.spotify.com/track/2CD3R2whD46r746lsyvfBc) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:20 |
 | 51 | [Aurora](https://open.spotify.com/track/3wUKXujHMVw2HzSEqTRMwe) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:54 |
 
-Snapshot ID: `Mjc2NzExMDcsMDAwMDAwMDAzMzI0MjNjZTQ0OTM2YzViOWFjMzExZTBiNDE3OTY5ZQ==`
+Snapshot ID: `Mjc2NzI1NDgsMDAwMDAwMDAwZjYxOGU5NmU5ZjYwNWQxM2Y0ZmUxN2IwNTY2MWZmNA==`

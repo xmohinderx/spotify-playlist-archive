@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean acoustic tunes. (Cover: \b MRT(\ub9c8\ub9ac\ud0f1)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
+  "description": "Chillout to the coolest Korean acoustic tunes. (Cover: \b Sojeong(\uc18c\uc815)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
   "name": "K-Pop Acoustic",
   "published_playlist_ids": [
     "6ycQZelJsg1QvKdkpuvD2Q"
@@ -854,6 +854,24 @@
     },
     {
       "album": {
+        "name": "blanc",
+        "url": "https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195317,
+      "name": "boyhood",
+      "url": "https://open.spotify.com/track/6YpK7C7uz3LAjSDAW5pmga"
+    },
+    {
+      "album": {
         "name": "Take care",
         "url": "https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB"
       },
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 200999,
       "name": "Dark Hearts Will Pass Away Tonight (Prod. by OKDAL)",
       "url": "https://open.spotify.com/track/6bUUMau43KRkNpYmhkG9qW"
@@ -2468,6 +2486,24 @@
     },
     {
       "album": {
+        "name": "Poong, the Joseon Psychiatrist OST Part.2",
+        "url": "https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209373,
+      "name": "I Guess I Like You",
+      "url": "https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG"
+    },
+    {
+      "album": {
         "name": "I guess it's like this",
         "url": "https://open.spotify.com/album/3b5t5JOqloKBosUjcmfwbx"
       },
@@ -3233,7 +3269,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 166997,
       "name": "Jungle Bike",
       "url": "https://open.spotify.com/track/58NiYwHiOAsrl9ayiRYQXE"
@@ -3678,6 +3714,24 @@
     },
     {
       "album": {
+        "name": "maybe you can fix me",
+        "url": "https://open.spotify.com/album/4WUQXSwMum7tOgiFrIuhEo"
+      },
+      "artists": [
+        {
+          "name": "G. Nine",
+          "url": "https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177261,
+      "name": "maybe you can fix me",
+      "url": "https://open.spotify.com/track/2X2TEJ3hJcN2QXqwXNtYQI"
+    },
+    {
+      "album": {
         "name": "The Dream Chapter: ETERNITY",
         "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
       },
@@ -4069,6 +4123,28 @@
       "duration_ms": 225168,
       "name": "Not too Distance Day",
       "url": "https://open.spotify.com/track/4S9AzdgnqZS9dj83JCL81T"
+    },
+    {
+      "album": {
+        "name": "Ocean (feat. Aden)",
+        "url": "https://open.spotify.com/album/1pGgckc3VwImx2Ka1wfZcX"
+      },
+      "artists": [
+        {
+          "name": "Sumsher",
+          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203590,
+      "name": "Ocean (feat. Aden)",
+      "url": "https://open.spotify.com/track/1RaY3cmtdqTJS1dOd3rTEV"
     },
     {
       "album": {
@@ -4647,7 +4723,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 217626,
       "name": "Reason (Vocal by Kim Seonho)",
       "url": "https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12"
@@ -4723,6 +4799,28 @@
       "duration_ms": 205683,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk"
+    },
+    {
+      "album": {
+        "name": "Blank",
+        "url": "https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Room for You (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
     },
     {
       "album": {
@@ -5800,6 +5898,24 @@
     },
     {
       "album": {
+        "name": "The song I loved",
+        "url": "https://open.spotify.com/album/2UslwgipRYxtXWqZOtdfuD"
+      },
+      "artists": [
+        {
+          "name": "Sojeong",
+          "url": "https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "The song I loved",
+      "url": "https://open.spotify.com/track/6xws4sUjz31jER0OusRzQh"
+    },
+    {
+      "album": {
         "name": "The Acoustic Forest",
         "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
       },
@@ -6567,7 +6683,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
@@ -6947,7 +7063,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 216725,
       "name": "You're My Pretty Star",
       "url": "https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw"
@@ -7053,7 +7169,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 258961,
       "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"

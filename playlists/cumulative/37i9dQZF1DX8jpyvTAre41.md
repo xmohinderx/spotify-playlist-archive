@@ -2,9 +2,9 @@
 
 ### [Rock Your Block](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The hottest tunes in rock\. Crank it up! Cover: Panic! At The Disco
+> The hottest tunes in rock\. Crank it up! Cover: Pale Waves
 
-400 songs - 22 hr 33 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
+401 songs - 22 hr 36 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [It Ain't Over](https://open.spotify.com/track/46NnMrWFwS0P6HyJ8tgNi8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [It Ain't Over](https://open.spotify.com/album/4Jbu5TQmeAmE1pdLkZQGng) | 3:48 | 2022-04-29 | 2022-05-14 |
 | [It Starts With This;](https://open.spotify.com/track/7dbhuuryIxSnELOwaePwXj) | [Manic.](https://open.spotify.com/artist/5pUbTFEwwaqTjC5qkHnIxr) | [It Starts With This;](https://open.spotify.com/album/0b8zHhZFxWd430a52tK8OT) | 3:26 | 2021-12-31 | 2022-03-05 |
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2021-12-31 | 2022-02-26 |
+| [Jealousy](https://open.spotify.com/track/2ZdEHxr2L0Dj5zJOdt3Dql) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:12 | 2022-08-12 |  |
 | [Joy](https://open.spotify.com/track/2sgaLqnHB6a3yjqEEeZI8n) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Joy](https://open.spotify.com/album/29UMaGZHrrz6EsgDUVlPs5) | 3:46 | 2021-12-31 | 2022-04-23 |
 | [Judged](https://open.spotify.com/track/5rYYglvkaU6H8RuzTlbVKu) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Judged](https://open.spotify.com/album/1auMaxs0lMueYI8YQktVkG) | 1:39 | 2022-01-07 | 2022-01-22 |
 | [Julia](https://open.spotify.com/track/2YDE0tqWm0fR1Hpv1tdefZ) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Julia](https://open.spotify.com/album/62YEeyuU5wGyMRPy6OWUVJ) | 2:31 | 2021-12-31 | 2022-01-08 |

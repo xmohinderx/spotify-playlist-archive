@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-200 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
+203 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 | 2022-05-20 |  |
 | [Extramundane](https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [Extramundane](https://open.spotify.com/album/7iw6EuNKOKSBonMQ4iqE2c) | 2:32 | 2022-05-20 |  |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2022-05-20 |  |
+| [Far Away](https://open.spotify.com/track/5nLzKWIMBakd1zvZXgaph7) | [Pancake Cult](https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb) | [Far Away](https://open.spotify.com/album/3oEUzvMUFz4hABHlpYSlIe) | 3:09 | 2022-08-12 |  |
 | [Faro](https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V) | [Afonso Jardim](https://open.spotify.com/artist/42tsH6bAB8RIb2qAZ2Y612) | [Faro](https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4) | 2:23 | 2022-05-20 |  |
 | [Feel Di Pulse](https://open.spotify.com/track/62cI9iC267K3nx3yYr7oCG) | [Cascaix](https://open.spotify.com/artist/7cVHoN5a6NjZ2LC8v0sFvJ) | [Feel Di Pulse](https://open.spotify.com/album/34vjADdXvNHFi71V0j6fPr) | 2:07 | 2022-05-20 |  |
 | [Feelings](https://open.spotify.com/track/6BfSu2jmPD8qk4tl3Wre3u) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Feelings](https://open.spotify.com/album/4XhTYWqq6hs3uWBdYDXdyw) | 2:31 | 2022-05-20 | 2022-06-24 |
@@ -73,6 +74,7 @@
 | [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-20 |  |
 | [Frivolous](https://open.spotify.com/track/1fVj0isyvpOfiLYonUNnte) | [Joe Franzoni](https://open.spotify.com/artist/0hgnhbFQrceUMjdC3L3Ugn) | [Frivolous](https://open.spotify.com/album/0aRy2vynizabbfMoWyIHLC) | 3:18 | 2022-05-20 |  |
 | [Frizzante](https://open.spotify.com/track/4Z3LHseTfnS6ruxRdaamd4) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Frizzante](https://open.spotify.com/album/46dTeuPN4j59oS7Of3Pw0q) | 2:46 | 2022-05-20 |  |
+| [Frozen Melon](https://open.spotify.com/track/4aDawTeN0gQDjEfnjOypys) | [MAXM2](https://open.spotify.com/artist/5H0WR0bBJr7k7UAanv28if) | [Frozen Melon](https://open.spotify.com/album/1rKg16pg1RinubPEpLoYzy) | 2:52 | 2022-08-12 |  |
 | [Gambia](https://open.spotify.com/track/3dFgvv8ft1DHbW28Akce50) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Gambia](https://open.spotify.com/album/6MBaL1snqhQFgwVM5SwaFT) | 3:57 | 2022-05-20 |  |
 | [Gemini 4](https://open.spotify.com/track/37KOVFK6gSmgBTcDysJdSa) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Gemini 4](https://open.spotify.com/album/7sSJF6N7CktJMLjBn8FWGo) | 2:57 | 2022-05-20 |  |
 | [Get in Line](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get in Line](https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS) | 3:24 | 2022-05-20 |  |
@@ -126,6 +128,7 @@
 | [Monday Beat](https://open.spotify.com/track/4LmN2h64LJHhN8ZiiwiwOY) | [Carl & Calitto](https://open.spotify.com/artist/4tMgaZrsUhfgvphSrUDEiD) | [Monday Beat](https://open.spotify.com/album/6eQDuOdTk1UOXNRdQ0cHNX) | 2:55 | 2022-05-20 |  |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2022-05-20 |  |
 | [Moving On](https://open.spotify.com/track/4tIkzYzGCbHfv5VdmbXst5) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Moving On](https://open.spotify.com/album/6gMvsM5ZxUKFh1GLkSiAfO) | 2:48 | 2022-05-20 |  |
+| [My Desert](https://open.spotify.com/track/6A6VvlEjLnN48BPkw8AhKC) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [My Desert](https://open.spotify.com/album/4Iey1mzYZ0GoovJxQa08ho) | 2:58 | 2022-08-12 |  |
 | [Myst](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Myst](https://open.spotify.com/album/4qHIVZJHIcxTexR7fHC3zv) | 3:02 | 2022-05-20 |  |
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2022-05-20 | 2022-08-05 |
 | [New Begs](https://open.spotify.com/track/4rODkpSqMBFfnBpw9V8Zln) | [RaFa Orchestra](https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips) | [New Begs EP](https://open.spotify.com/album/4F3J30MOpILKFohP0IfrFx) | 3:50 | 2022-05-20 |  |

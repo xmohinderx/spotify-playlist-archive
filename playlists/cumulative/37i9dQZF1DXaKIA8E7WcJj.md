@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-805 songs - 1 day 18 hr 5 min - [published](https://open.spotify.com/playlist/5DcefufghevVf1SGhXA5NO)
+806 songs - 1 day 18 hr 8 min - [published](https://open.spotify.com/playlist/5DcefufghevVf1SGhXA5NO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Hello, Dolly!](https://open.spotify.com/track/23GIXiltwHUWhPCPwQ08av) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/7uP6iCdzfkjE6bnRAAnN5s) | 2:24 | 2019-06-24 | 2019-08-05 |
 | [Hello, I Love You \- 2018 Remaster](https://open.spotify.com/track/73uTAbsl0iwA2Aj0d4oCPp) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Hello I Love You](https://open.spotify.com/album/1nWr5gdlIKa7D5IvjtVC1q) | 2:16 | 2019-06-21 | 2019-07-24 |
 | [Help! \- Remastered 2009](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:19 | 2020-12-22 | 2021-10-16 |
+| [Helplessly Hoping \- 2005 Remaster](https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 2:37 | 2022-08-12 |  |
 | [Here Comes the Night \(feat\. Van Morrison\)](https://open.spotify.com/track/3OfttbJAJNvkI4VwtZD2E7) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Complete Them \(1964\-1967\) \(feat\. Van Morrison\)](https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z) | 2:47 | 2019-05-26\* | 2020-06-12 |
 | [Here Comes the Sun](https://open.spotify.com/track/4oSl4Ga2ecVNnV9vsdNOpZ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s](https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR) | 3:33 | 2019-07-17 | 2022-05-06 |
 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 | 2019-05-26\* | 2022-07-29 |
@@ -703,7 +704,7 @@
 | [There! I've Said It Again](https://open.spotify.com/track/3mwiyHBHfAzOe89MwqJeEb) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [There I've Said It Again](https://open.spotify.com/album/6H2obkE8t9qlR7hMjIdveT) | 2:24 | 2019-07-22 | 2019-08-02 |
 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:42 | 2020-12-22 | 2021-10-13 |
 | [These Boots Are Made For Walkin'](https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M) | 2:46 | 2019-07-17 | 2019-08-27 |
-| [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 | 2022-06-08 |  |
+| [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 | 2022-06-08 | 2022-08-13 |
 | [These Days](https://open.spotify.com/track/2ZRBKVRMQ9OK4EeTaMHHSY) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/48F2kUB0xFkajs3zKUEzHv) | 3:30 | 2019-06-22 | 2021-05-27 |
 | [These Eyes](https://open.spotify.com/track/5lEyMg4GNKnMbaarvT4sRd) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Wheatfield Soul](https://open.spotify.com/album/5AXYslqV5fXOt8ayqflk4g) | 3:45 | 2019-06-25 | 2021-05-27 |
 | [Things](https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Things & Other Things](https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3) | 2:31 | 2020-12-22 | 2022-06-07 |

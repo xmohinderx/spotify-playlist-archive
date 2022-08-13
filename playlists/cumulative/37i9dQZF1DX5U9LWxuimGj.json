@@ -966,6 +966,24 @@
     },
     {
       "album": {
+        "name": "Getcha Some",
+        "url": "https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU"
+      },
+      "artists": [
+        {
+          "name": "Frank Ray",
+          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232640,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF"
+    },
+    {
+      "album": {
         "name": "Lighters",
         "url": "https://open.spotify.com/album/1Vld8ReQcvI45bkoQxL1cu"
       },

@@ -4,7 +4,7 @@
 
 > Nuove scoperte della scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:1B52Dud7YBQYoGLt2QxckH">Alice Pisano</a>
 
-326 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+327 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Lucido](https://open.spotify.com/track/0wWHA2fRW21xXpPprVWxdc) | [ZANNA](https://open.spotify.com/artist/0F9jANZdmAJKEXyha9ELv2) | [Lucido](https://open.spotify.com/album/4Nr8JYO6KoWqJ7ylP1vYIZ) | 3:07 | 2022-05-05 | 2022-06-03 |
 | [Luna Park \- Extended Version](https://open.spotify.com/track/26bRiFPeWj5FJvuNRjfLjH) | [fear](https://open.spotify.com/artist/7uYz8KI7EFdecCYUPADrVF), [tommi](https://open.spotify.com/artist/4KFl2C3e3YmJnIGt0MBBQd) | [Luna Park \(Extended Version\)](https://open.spotify.com/album/18rKku8UVZb7Le2GFCw51Z) | 2:09 | 2022-03-03 | 2022-04-20 |
 | [luna rossa](https://open.spotify.com/track/5dwVc13MCj15LIUso2HHzL) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [b.estye](https://open.spotify.com/artist/2YaXROXiWeqPA4fG5od6bU) | [Pseudotape vol\. 1](https://open.spotify.com/album/49S2vrecAR7bV0Vf6CWrW9) | 4:05 | 2022-01-06 | 2022-02-18 |
+| [LUNa!](https://open.spotify.com/track/5qTtF6151q9YE9LWNOIpQE) | [pikkoloATTIKO !! !](https://open.spotify.com/artist/3XClM6ocC58yvHFylO94Wy), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [LUNa!](https://open.spotify.com/album/2LAasDRBMXkgieRneqsqSF) | 2:34 | 2022-08-11 |  |
 | [Lunatico](https://open.spotify.com/track/7tS7fSQ34xZzMkWNNo1Sfm) | [Sparta](https://open.spotify.com/artist/0uxHBhXizaruxZJ58AgOiP) | [Lunatico](https://open.spotify.com/album/0SRb5UQmEezMHYkB4j0rCi) | 2:31 | 2022-07-22 |  |
 | [Lunedì](https://open.spotify.com/track/3jQUogw3M7Nq6JhSQgw4X8) | [MIRKOO](https://open.spotify.com/artist/0qthfxPXJqy58XnlzyODrS) | [Lunedì](https://open.spotify.com/album/50d0mSA6TNMf7eq7vSUrNb) | 3:07 | 2022-06-30 |  |
 | [LUNES](https://open.spotify.com/track/3ux6HhWQNXS4fjTGuyZcru) | [Marianna Mancini](https://open.spotify.com/artist/5kEjbi0NY9b82y85keg2hY) | [LUNES](https://open.spotify.com/album/5rMv8OvpZ9HTyTn5UkGeO5) | 3:00 | 2022-05-05 | 2022-06-03 |

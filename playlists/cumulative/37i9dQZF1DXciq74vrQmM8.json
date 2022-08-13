@@ -1478,6 +1478,28 @@
     },
     {
       "album": {
+        "name": "Fighting Fate",
+        "url": "https://open.spotify.com/album/7nFQVDz1vhFcxnnr3ylX5K"
+      },
+      "artists": [
+        {
+          "name": "Yung'cid",
+          "url": "https://open.spotify.com/artist/1It5FG5hReUrQInrg7Be1Q"
+        },
+        {
+          "name": "Baby Doll",
+          "url": "https://open.spotify.com/artist/4htyNjCI51sL6pterwxVCq"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189583,
+      "name": "Fighting Fate",
+      "url": "https://open.spotify.com/track/4PNPN7lA1UMYbKtTco1JtB"
+    },
+    {
+      "album": {
         "name": "Rouge Carpet Disaster",
         "url": "https://open.spotify.com/album/1mIKtxf39TuoDhurzIijt3"
       },

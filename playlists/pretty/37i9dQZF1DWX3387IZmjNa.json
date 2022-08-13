@@ -1,37 +1,13 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Vory",
-  "num_followers": 1899629,
+  "num_followers": 1899693,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTgxMzM1NywwMDAwMDAwMDQ5NjYxMGYzNGYyMDIyMWNhMmJkMWQzYjIxZTdlYWY1",
+  "snapshot_id": "MTY2MDM0ODMyNSwwMDAwMDAwMDA0ZjkwMjA4MGU4Y2JlZjExMjM5ZmEwYjIwYTM2NDky",
   "tracks": [
-    {
-      "added_at": "2022-08-06 19:15:57",
-      "album": {
-        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
-    },
     {
       "added_at": "2022-04-29 19:58:09",
       "album": {
@@ -85,42 +61,6 @@
       "url": "https://open.spotify.com/track/0h55heB6xDNh4hpWmtH71v"
     },
     {
-      "added_at": "2022-08-06 19:15:57",
-      "album": {
-        "name": "The Last Slimeto",
-        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203917,
-      "name": "My Go To (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/17GwUSpTy04lYWHHmwMvTD"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Light Breeze",
-        "url": "https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
-    },
-    {
       "added_at": "2022-04-29 19:58:09",
       "album": {
         "name": "I NEVER LIKED YOU",
@@ -145,6 +85,66 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Light Breeze",
+        "url": "https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
+    },
+    {
+      "added_at": "2022-08-06 19:15:57",
+      "album": {
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
+    {
+      "added_at": "2022-08-06 19:15:57",
+      "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203917,
+      "name": "My Go To (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/17GwUSpTy04lYWHHmwMvTD"
+    },
+    {
       "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Come Home The Kids Miss You",
@@ -165,22 +165,6 @@
       "url": "https://open.spotify.com/track/1hs54MGy1J69I52GvzsrbB"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Love is\u2026",
-        "url": "https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 230016,
-      "name": "Love is...",
-      "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
-    },
-    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "The Big 3",
@@ -195,6 +179,42 @@
       "duration_ms": 174786,
       "name": "No Mop",
       "url": "https://open.spotify.com/track/74d9XLd9OMpvb4RaXCmeVM"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Can't Stop Won't Stop (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ"
+      },
+      "artists": [
+        {
+          "name": "King Combs",
+          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Can't Stop Won't Stop (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 213288,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/557DLyFeg06jCV2cpT005C"
     },
     {
       "added_at": "2022-08-06 19:15:57",
@@ -233,30 +253,6 @@
       "url": "https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "B.I.B.L.E.",
-        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 201398,
-      "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
-      "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
-    },
-    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Only Us (feat. Babyface Ray)",
@@ -277,6 +273,22 @@
       "url": "https://open.spotify.com/track/2ui0S7VkIT47mTGLlioGsw"
     },
     {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/1iDbFnOk4j0LweI76Qs01n"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 176728,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6B2Uwx4edHAudfLdL82tlT"
+    },
+    {
       "added_at": "2022-07-29 20:22:55",
       "album": {
         "name": "Vibe Forever",
@@ -293,40 +305,40 @@
       "url": "https://open.spotify.com/track/4yt9MUm0zxEgx6m0Nml7M9"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
+      "added_at": "2022-08-12 23:52:05",
       "album": {
-        "name": "Can't Stop Won't Stop (feat. Kodak Black)",
-        "url": "https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ"
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
       "artists": [
         {
-          "name": "King Combs",
-          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         },
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 158350,
-      "name": "Can't Stop Won't Stop (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0"
+      "duration_ms": 220422,
+      "name": "Consistency (feat. Jhene Aiko)",
+      "url": "https://open.spotify.com/track/0pA1KdUSZEDAL0swN18Mh8"
     },
     {
-      "added_at": "2022-07-29 20:22:55",
+      "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "DIE FOR MY BITCH",
-        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+        "name": "Love is\u2026",
+        "url": "https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
         }
       ],
-      "duration_ms": 172672,
-      "name": "HONEST",
-      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
+      "duration_ms": 230016,
+      "name": "Love is...",
+      "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -351,6 +363,38 @@
       "duration_ms": 183019,
       "name": "IYKYK (feat. Ella Mai & A Boogie Wit Da Hoodie)",
       "url": "https://open.spotify.com/track/76Nm6QNruFMrQc3HWTfreR"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Lost Souls",
+        "url": "https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 217218,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/7Itze7sYhdjEQ4yD1qS1Ox"
+    },
+    {
+      "added_at": "2022-08-12 23:52:05",
+      "album": {
+        "name": "Pretty In Black (Deluxe)",
+        "url": "https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "WILDIN",
+      "url": "https://open.spotify.com/track/0SyHqKuXo2wuDgPJiHD2wx"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -449,36 +493,20 @@
       "url": "https://open.spotify.com/track/6lhlzSra6YxSPWw5lzv7hG"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-07-29 20:22:55",
       "album": {
-        "name": "Lost Souls",
-        "url": "https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2"
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
       "artists": [
         {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 217218,
-      "name": "Mind Games",
-      "url": "https://open.spotify.com/track/7Itze7sYhdjEQ4yD1qS1Ox"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/5uAbArq49FcSJ2MYILUHzE"
-      },
-      "artists": [
-        {
-          "name": "Melii",
-          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
-        }
-      ],
-      "duration_ms": 154815,
-      "name": "Ain't Loyal",
-      "url": "https://open.spotify.com/track/4VEw8rQd6cf21tRR8b8xSO"
+      "duration_ms": 172672,
+      "name": "HONEST",
+      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     },
     {
       "added_at": "2022-07-08 04:00:00",
@@ -499,6 +527,22 @@
       "duration_ms": 159263,
       "name": "Toxic Traits (with KB Mike)",
       "url": "https://open.spotify.com/track/3ip51s5ui2OEur1fzCKsaJ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Feelin In Love",
+        "url": "https://open.spotify.com/album/1zAX0e1mf3k3qrTXJE8XPt"
+      },
+      "artists": [
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        }
+      ],
+      "duration_ms": 113801,
+      "name": "Feelin In Love",
+      "url": "https://open.spotify.com/track/6IT91mLNfih39B6W2YmjMe"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -745,22 +789,6 @@
       "url": "https://open.spotify.com/track/1rqK157myRkURNm2M4mGOH"
     },
     {
-      "added_at": "2022-04-04 04:04:33",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 135264,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Non Judgmental",
@@ -775,22 +803,6 @@
       "duration_ms": 182487,
       "name": "Non Judgmental",
       "url": "https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7tjRox37rHj7fswCyScyZz"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/0h8DsuI2FBTgu2FKP0XkUs"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -817,22 +829,6 @@
       "url": "https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "By MySelf",
-        "url": "https://open.spotify.com/album/58QPTOR2nMzNFsfWX7iAEB"
-      },
-      "artists": [
-        {
-          "name": "TyFontaine",
-          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
-        }
-      ],
-      "duration_ms": 161578,
-      "name": "By MySelf",
-      "url": "https://open.spotify.com/track/6htZCLDzCJUePPPjVCDBEv"
-    },
-    {
       "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "HITGIRL",
@@ -853,26 +849,6 @@
       "url": "https://open.spotify.com/track/0ZiEInpnUrUD0T3WIFMIW9"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Trendsetter",
-        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Overthinking (with H.E.R.)",
-      "url": "https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9"
-    },
-    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "Mr. Morale & The Big Steppers",
@@ -891,22 +867,6 @@
       "duration_ms": 341307,
       "name": "We Cry Together",
       "url": "https://open.spotify.com/track/67XC51nlZncNpHmZ8rOU9a"
-    },
-    {
-      "added_at": "2022-04-27 20:43:36",
-      "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Every Good Girl",
-      "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -971,30 +931,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Beauty In The Madness",
-        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 223668,
-      "name": "Beauty In The Madness",
-      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "7220",
         "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
@@ -1011,26 +947,6 @@
       "duration_ms": 193396,
       "name": "Difference Is (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Non-Perishable",
-        "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
-      },
-      "artists": [
-        {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 194172,
-      "name": "2hrs+ (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/51qu8Dd4FeYsfpSRWnGJJq"
     }
   ],
   "unique_name": "B.A.E.",

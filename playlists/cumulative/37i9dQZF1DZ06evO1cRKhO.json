@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 412294,
       "name": "All Creatures Get It",
       "url": "https://open.spotify.com/track/175dH359woZbiN6qTMQdwR"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 204698,
       "name": "Arc Hive",
       "url": "https://open.spotify.com/track/3MyJ4MYNczi8sjZb4eiJrF"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 123266,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/5bvxJ8sY9LsMo9qR0HfNoS"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 811323,
       "name": "How We Got Here",
       "url": "https://open.spotify.com/track/0db0kwA4hfvlXVIBiXbIFK"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 563373,
       "name": "III Of IV",
       "url": "https://open.spotify.com/track/5v2R74iTgntgSFm1kYS9d1"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 199991,
       "name": "Information National Forest",
       "url": "https://open.spotify.com/track/0qaoSyRrXkLz7H2SBMmpvh"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 1159800,
       "name": "Once again / Buchla piece",
       "url": "https://open.spotify.com/track/7aYvl8UYWp9SynkYBzGb22"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 635413,
       "name": "Procession",
       "url": "https://open.spotify.com/track/07UUzMNgw4G1z7e9Vwv20C"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 245384,
       "name": "Several More Happened",
       "url": "https://open.spotify.com/track/14KI3MCgh7scFAQkA5aNBW"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 427607,
       "name": "Succisa Pratensis",
       "url": "https://open.spotify.com/track/6HkF93DbaFVQiG4n8x2Th5"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 1651080,
       "name": "Tara's Room",
       "url": "https://open.spotify.com/track/2BcRnZTZbFmvEBSDoBc8z4"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 1955746,
       "name": "The Day I Disconnected the Erase Head and Forgot to Reconnect It",
       "url": "https://open.spotify.com/track/6qUYhygDMux5rd3Lfkwz00"
@@ -1233,6 +1233,28 @@
       "duration_ms": 441102,
       "name": "The Longest Song in the World",
       "url": "https://open.spotify.com/track/1BM7lk6k0LDimeSaolCKpW"
+    },
+    {
+      "album": {
+        "name": "Sounding / Way",
+        "url": "https://open.spotify.com/album/2qRV5N1e4qq3UuWwpHHK2F"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Guy Klucevsek",
+          "url": "https://open.spotify.com/artist/50mFgMH4q8f1c15dCjg0fd"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1031005,
+      "name": "The Tuning Meditation",
+      "url": "https://open.spotify.com/track/7og45P78QTfoA6ipqhnFAt"
     },
     {
       "album": {
@@ -1309,7 +1331,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 480225,
       "name": "Three of a Mind",
       "url": "https://open.spotify.com/track/4y3wgiAx0GbD28bnNxHTEQ"

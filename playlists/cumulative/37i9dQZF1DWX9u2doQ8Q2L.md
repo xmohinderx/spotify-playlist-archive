@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-219 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+221 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [blue blur feat\. mabanua](https://open.spotify.com/track/6ujjpnDMz0qD3oPUC3ypJ4) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [blue blur feat\. mabanua](https://open.spotify.com/album/0qoOskYNEbSlL75idOrOGi) | 4:32 | 2022-06-09 | 2022-07-27 |
 | [BLUEMOON](https://open.spotify.com/track/37kvXE6pY1XzSW74q7yWdT) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [empath](https://open.spotify.com/album/7vNnPAKcr9QyuVDRdxrXz8) | 3:40 | 2022-05-26 | 2022-06-15 |
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2022-05-26 |  |
+| [Carrion](https://open.spotify.com/track/51v4uvCuVT39JvgOsN9s7T) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [EP1 TSTST](https://open.spotify.com/album/4IeKAzgiVWHu82BIm2QktQ) | 5:07 | 2022-08-11 |  |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-06-28 | 2022-07-29 |
 | [Change](https://open.spotify.com/track/2FM1aNnqVfUsBkyTcxQmVm) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Change](https://open.spotify.com/album/7ybRhDFyFV9bRXMIGW6wbl) | 3:24 | 2022-08-03 |  |
 | [Citadel](https://open.spotify.com/track/59WMM6wfOhm7mLs5yxrGjt) | [CHAILD](https://open.spotify.com/artist/5ryFgnGvydhbBTJWoiIjL2) | [Citadel](https://open.spotify.com/album/2dvus8y7rORaQ6S2euxBmh) | 5:54 | 2022-07-19 |  |
@@ -199,6 +200,7 @@
 | [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 | 2022-05-26 | 2022-06-07 |
 | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/track/02efWP5LqFY0FvzxoZ14VJ) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/album/69oBKwavCpQBOGiuHDYzZY) | 3:26 | 2022-05-26 | 2022-06-08 |
 | [君の歯ブラシ](https://open.spotify.com/track/5ZIPeyU0h13vZgCifDVPxp) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [君の歯ブラシ](https://open.spotify.com/album/0FOZQaABYtZiBHJd6WLKQ5) | 3:21 | 2022-06-16 | 2022-07-27 |
+| [呼応](https://open.spotify.com/track/0OMJowWWNkPNcN2ljEsHqA) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [呼応](https://open.spotify.com/album/4qLnMrut2t1aAVCbHXU4oU) | 4:37 | 2022-08-11 |  |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-05-26 | 2022-07-29 |
 | [変身](https://open.spotify.com/track/1MjUD23Qfdvi9CRXgzeik9) | [Satoru Ono With Tenniscoats](https://open.spotify.com/artist/4Li2M8XCt1DOuwhzxAs0DA), [SATORU ONO](https://open.spotify.com/artist/5xBMRwFjjO2ymFLt97ymMg), [Tenniscoats](https://open.spotify.com/artist/1srUxd7Sj9tebPN1O8wEi8) | [ポケットシンフォニー EP](https://open.spotify.com/album/15oRbVjaf1jY6pOzsUPEh4) | 3:30 | 2022-07-12 | 2022-08-05 |
 | [夏に溺れたい](https://open.spotify.com/track/3VHHhp7Si9eA8F6AvkrTUM) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf), [Asami Izawa](https://open.spotify.com/artist/4CSFDF5CSlREXqaXG0pGh4) | [夏に溺れたい](https://open.spotify.com/album/3HfFRjMsM5dfUvaE6RfhcK) | 3:31 | 2022-06-30 |  |

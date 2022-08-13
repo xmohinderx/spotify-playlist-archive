@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-601 songs - 1 day 13 hr 8 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+602 songs - 1 day 13 hr 12 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [Happy](https://open.spotify.com/track/1MQTPiAPGHdMFVYUYWGOb3) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Happy](https://open.spotify.com/album/4TBot14PdnqGrUvQpLtXwM) | 2:32 | 2022-04-29 | 2022-05-04 |
 | [Happy \(Acoustic\)](https://open.spotify.com/track/1x1gLI1YkA90lPp9QZ9PQQ) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [UnCovered](https://open.spotify.com/album/4MjJg3GMvdo85uZkpInk5D) | 2:36 | 2021-10-20 | 2022-06-07 |
 | [Harvest Moon](https://open.spotify.com/track/4C9rhLT37Gv6VMVtFCb7O1) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Harvest Moon](https://open.spotify.com/album/27PWE1Iu1njLcflbD8mfbw) | 4:07 | 2021-10-20 | 2022-07-29 |
-| [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Heart Of Glass / Midnight Sky](https://open.spotify.com/album/4shNUtOEh07Rco2Jy5ArAF) | 3:33 | 2022-06-10 |  |
+| [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5GK1GYXH16RdfmltogHhAk) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:33 | 2022-06-10 |  |
+| [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Heart Of Glass / Midnight Sky](https://open.spotify.com/album/4shNUtOEh07Rco2Jy5ArAF) | 3:33 | 2022-06-10 | 2022-08-13 |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2021-10-20 |  |
 | [Heaven Help The Child](https://open.spotify.com/track/1FkGD5BKk9uaFrNxuLBc6b) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | ["Heaven Help The Child"](https://open.spotify.com/album/3WveYXV6ceBK1AOoB7Vy8H) | 5:07 | 2021-10-20 | 2022-07-21 |
 | [Hello](https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [Hello \(Adele Cover\)](https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW) | 3:50 | 2021-10-20 |  |

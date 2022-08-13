@@ -1,12 +1,12 @@
 {
   "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: TWICE",
-  "num_followers": 224489,
+  "num_followers": 224697,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzMDAwMCwwMDAwMDAwMDhhYzkyMzFhNTM5ZTliOGEyOWUxODg5ZjU2MTZhNTM0",
+  "snapshot_id": "MTY2MDIzMDAwMCwwMDAwMDAwMDg2MTkyYzBkMjc3NmRjMjNkNmMxYThiNDM4YTI3ZmEz",
   "tracks": [
     {
       "added_at": "2022-08-11 15:00:00",
@@ -311,6 +311,22 @@
       "duration_ms": 192000,
       "name": "Maldives",
       "url": "https://open.spotify.com/track/4bW8isfLZkQaHBSJxdMOEq"
+    },
+    {
+      "added_at": "2022-08-11 15:00:00",
+      "album": {
+        "name": "Boogie Woogie",
+        "url": "https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "duration_ms": 190889,
+      "name": "Boogie Woogie",
+      "url": "https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP"
     },
     {
       "added_at": "2022-08-11 15:00:00",

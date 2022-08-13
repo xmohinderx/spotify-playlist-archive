@@ -4,7 +4,7 @@
 
 > De playlist voor magic, motion en summer vibes! Cover: Rotjoch
 
-120 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+121 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Nerdesin](https://open.spotify.com/track/2SwQShWjZsxoGviEyaEMOX) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Nerdesin](https://open.spotify.com/album/56FIQvpIezTtGm1j8yjX9q) | 2:56 | 2022-07-21 |  |
 | [Nerdesin](https://open.spotify.com/track/3PAMPpiORJKXAIxMhfDp66) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Nerdesin](https://open.spotify.com/album/7pRjDa4x9Nzr3KGXeTSGb1) | 2:56 | 2022-07-21 | 2022-07-29 |
 | [No Mercy](https://open.spotify.com/track/7CCU1OSz9EJEHx0coLgLtR) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN) | [No Mercy](https://open.spotify.com/album/7wmThwufw03rjQoDUi5xeH) | 2:41 | 2022-07-28 |  |
+| [OK](https://open.spotify.com/track/1iOuMmgWQGonnhIwvow7Ac) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [OK](https://open.spotify.com/album/6KDkAd47FLbeLIaymhkiYG) | 2:00 | 2022-08-11 |  |
 | [Op De Bon](https://open.spotify.com/track/4q1sGBJkvEfuHyAdB7c47h) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Op De Bon](https://open.spotify.com/album/6gwo7GHawe5c1mZxztIysP) | 2:27 | 2022-07-14 |  |
 | [Out Of Control](https://open.spotify.com/track/5ZlSFGaevnfwXW4qPLGWI9) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [Defano Holwijn](https://open.spotify.com/artist/5pGeI9pmfUEoHGn9w3NjqM), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Ghana Must Go](https://open.spotify.com/album/6wWGSDH4HF7kacTVIBCzCi) | 3:16 | 2022-07-28 |  |
 | [Outside \(feat\. Architrackz\)](https://open.spotify.com/track/1BNJ9qClLhDJuMdliul9ae) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Doe Het Nou Gewoon](https://open.spotify.com/album/3ZPWoeM33VGg8mFopTBihQ) | 2:38 | 2022-07-25 | 2022-08-03 |

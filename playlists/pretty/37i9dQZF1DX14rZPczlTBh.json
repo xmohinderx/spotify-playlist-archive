@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for your Party.\nCover : Nithiin",
-  "num_followers": 24756,
+  "num_followers": 24770,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDAzOGYwMmVhNWQyN2M5YmFkZGM5OWE4ZmU1ODQ3MzBh",
+  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMGQ2OGFhMmY4ZGYyMzhlZDQ0Y2E0MzZhZjhkNzVlYzg1",
   "tracks": [
     {
       "added_at": "2022-06-03 13:02:58",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Rose Day Special",
-        "url": "https://open.spotify.com/album/2WTkfR52IqbmEj9gySNNdH"
-      },
-      "artists": [
-        {
-          "name": "Dinakar",
-          "url": "https://open.spotify.com/artist/5Tce6h7cDIRqezZzHrOYhR"
-        }
-      ],
-      "duration_ms": 200644,
-      "name": "Freak Pilla",
-      "url": "https://open.spotify.com/track/1oaApC2ZrcPGBN2ElEjCH4"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Sardaar Gabbar Singh (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0eDneMCb0bc5xa2lYgxNUU"
       },
@@ -1227,6 +1211,26 @@
       "duration_ms": 265163,
       "name": "Tauba Tauba",
       "url": "https://open.spotify.com/track/6jeTxPEe1RBt3SVKnpZXvo"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Jawaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5DfsGKVbm4zYOnEiGmJMW0"
+      },
+      "artists": [
+        {
+          "name": "Saketh",
+          "url": "https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ"
+        },
+        {
+          "name": "Mohana Bhogaraju",
+          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
+        }
+      ],
+      "duration_ms": 212822,
+      "name": "Bomma Adirindhi",
+      "url": "https://open.spotify.com/track/6C973InqBs20JEt5n71BY6"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1251,26 +1255,6 @@
       "duration_ms": 218741,
       "name": "Miami Dj Remix",
       "url": "https://open.spotify.com/track/1P6GZJqUtFQ2Wv2gXuSmf4"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Jawaan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5DfsGKVbm4zYOnEiGmJMW0"
-      },
-      "artists": [
-        {
-          "name": "Saketh",
-          "url": "https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ"
-        },
-        {
-          "name": "Mohana Bhogaraju",
-          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
-        }
-      ],
-      "duration_ms": 212822,
-      "name": "Bomma Adirindhi",
-      "url": "https://open.spotify.com/track/6C973InqBs20JEt5n71BY6"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1327,6 +1311,26 @@
       "duration_ms": 210396,
       "name": "Kiss Me Baby",
       "url": "https://open.spotify.com/track/3aM2juY0azR4PZ9BtQdq29"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Lovers Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4gUIECPXhyYSekLbAexlHK"
+      },
+      "artists": [
+        {
+          "name": "Dinakar",
+          "url": "https://open.spotify.com/artist/2g6YRAePxQ1H27zigqdtZH"
+        },
+        {
+          "name": "Neethu Naduvathettu",
+          "url": "https://open.spotify.com/artist/7md9on9sWhaP0lj7992HBs"
+        }
+      ],
+      "duration_ms": 198379,
+      "name": "Listen to Story - Freak Pilla",
+      "url": "https://open.spotify.com/track/3FslWKeri9zykXECz92NlL"
     }
   ],
   "unique_name": "EDM Telugu",

@@ -1,13 +1,65 @@
 {
   "description": "Neighborhood Storytellers. Cover: Hotboii",
-  "num_followers": 50642,
+  "num_followers": 50670,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk5ODc3OCwwMDAwMDAwMDk0ZTg5ZTgyMTUyOGI4M2VjYTZiODkzZGQ3ODg5Zjhm",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDAwZGNlZTZkNzNiZmM1ZTU2MDMxMzMwNGU5Y2VjZWUw",
   "tracks": [
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Yungen (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "TOUGH SKIN",
+        "url": "https://open.spotify.com/album/0hbJNPVO0hMzpJcIf5lioa"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 168256,
+      "name": "TOUGH SKIN",
+      "url": "https://open.spotify.com/track/1KYxtEzzTOVHceP30W0QV7"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Vette Motors",
+        "url": "https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "Vette Motors",
+      "url": "https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P"
+    },
     {
       "added_at": "2022-07-08 01:21:55",
       "album": {
@@ -27,6 +79,26 @@
       "duration_ms": 180002,
       "name": "Live Life Die Faster (with Kodak Black)",
       "url": "https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Love of the Money (feat. Hotboii)",
+        "url": "https://open.spotify.com/album/2jHHkewIxIxHCBoGOSJJCU"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        },
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        }
+      ],
+      "duration_ms": 181435,
+      "name": "Love of the Money (feat. Hotboii)",
+      "url": "https://open.spotify.com/track/6yo90VmiX3oiCAZJfZQspi"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -63,22 +135,6 @@
       "duration_ms": 200470,
       "name": "In A Minute",
       "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Vette Motors",
-        "url": "https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 173419,
-      "name": "Vette Motors",
-      "url": "https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -121,26 +177,6 @@
       "url": "https://open.spotify.com/track/1hiyJ4CYoH3Cve19V7ZYoa"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Love of the Money (feat. Hotboii)",
-        "url": "https://open.spotify.com/album/2jHHkewIxIxHCBoGOSJJCU"
-      },
-      "artists": [
-        {
-          "name": "BigWalkDog",
-          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
-        },
-        {
-          "name": "Hotboii",
-          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
-        }
-      ],
-      "duration_ms": 181435,
-      "name": "Love of the Money (feat. Hotboii)",
-      "url": "https://open.spotify.com/track/6yo90VmiX3oiCAZJfZQspi"
-    },
-    {
       "added_at": "2022-08-05 04:00:00",
       "album": {
         "name": "Blinded By Death",
@@ -155,6 +191,22 @@
       "duration_ms": 176191,
       "name": "Tell Me Bout It",
       "url": "https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3PYk89I5WHZTLJhc1cWFS3"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 191158,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1WZSTEcC48PcrQZliCZj2y"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -317,36 +369,20 @@
       "url": "https://open.spotify.com/track/2oX9VjMLgO8hYMZ3Mh4J8o"
     },
     {
-      "added_at": "2022-08-05 04:00:00",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3zSACdYWSh5TPr5fn0YO0T"
+        "name": "Ticket",
+        "url": "https://open.spotify.com/album/6hCPmcflDrWUkT8j2gFd3p"
       },
       "artists": [
         {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
         }
       ],
-      "duration_ms": 323720,
-      "name": "Going Through Things",
-      "url": "https://open.spotify.com/track/1QLroFtslxVkJ9vfSadxAJ"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Small Town Hero",
-        "url": "https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J"
-      },
-      "artists": [
-        {
-          "name": "Lil Darius",
-          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
-        }
-      ],
-      "duration_ms": 177236,
-      "name": "Small Town Hero",
-      "url": "https://open.spotify.com/track/1uJlJyphY1YXiFWzsTo8qe"
+      "duration_ms": 190680,
+      "name": "Ticket",
+      "url": "https://open.spotify.com/track/65RuMTQsaooIJInitg18O4"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -487,6 +523,22 @@
       "duration_ms": 171996,
       "name": "Borderline (feat. EST Gee)",
       "url": "https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3zSACdYWSh5TPr5fn0YO0T"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 323720,
+      "name": "Going Through Things",
+      "url": "https://open.spotify.com/track/1QLroFtslxVkJ9vfSadxAJ"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -821,22 +873,6 @@
       "url": "https://open.spotify.com/track/1E6xPYt9FyvkMnDeyVHLby"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Cold December",
-        "url": "https://open.spotify.com/album/6PHg4EsRdFC1eG24NJPk2K"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 192021,
-      "name": "Cold December",
-      "url": "https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9"
-    },
-    {
       "added_at": "2022-03-04 05:00:00",
       "album": {
         "name": "Street Poetry",
@@ -881,22 +917,6 @@
       "url": "https://open.spotify.com/track/08og296rmaUkk6oBZEV122"
     },
     {
-      "added_at": "2022-01-28 20:27:47",
-      "album": {
-        "name": "Mud Baby",
-        "url": "https://open.spotify.com/album/4LxpOCez3cFyGXLqJKDiYv"
-      },
-      "artists": [
-        {
-          "name": "Lil PJ",
-          "url": "https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv"
-        }
-      ],
-      "duration_ms": 152659,
-      "name": "Mud Baby",
-      "url": "https://open.spotify.com/track/4r2zX0usg7evmM4lzxiiY4"
-    },
-    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Hollywood Hills",
@@ -911,26 +931,6 @@
       "duration_ms": 134570,
       "name": "Hollywood Hills",
       "url": "https://open.spotify.com/track/1UpELy8EIVtIJnvg5rmd5x"
-    },
-    {
-      "added_at": "2022-01-07 05:00:00",
-      "album": {
-        "name": "Sing For Real",
-        "url": "https://open.spotify.com/album/5dpIM6j42GJiZctZmHcZ8T"
-      },
-      "artists": [
-        {
-          "name": "True Story Gee",
-          "url": "https://open.spotify.com/artist/6fMLt27jSiBVuciQOYZGwm"
-        },
-        {
-          "name": "Majornine",
-          "url": "https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE"
-        }
-      ],
-      "duration_ms": 205432,
-      "name": "Sing For Real",
-      "url": "https://open.spotify.com/track/5ezqQbvb0Pj1yVbVJWBLyn"
     }
   ],
   "unique_name": "Street Soul",

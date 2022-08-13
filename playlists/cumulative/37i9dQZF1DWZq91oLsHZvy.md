@@ -4,7 +4,7 @@
 
 > Run to indie and alternative hits.
 
-156 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
+160 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al) | 3:24 | 2022-01-21 | 2022-07-29 |
 | [Alive](https://open.spotify.com/track/5WBnKCEsPwsvWHUZmLjS3s) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/1olQuvonXXUEourYrj6daN) | 3:24 | 2022-03-31 |  |
 | [Baby I'm Yours](https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:35 | 2022-01-21 |  |
-| [Backseat Valentine](https://open.spotify.com/track/0QxemWQcwq8AoSmKPc4rcc) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Backseat Valentine](https://open.spotify.com/album/2awaPq7Eq3zv1FuGkSYLqe) | 3:25 | 2022-03-11 |  |
+| [Backseat Valentine](https://open.spotify.com/track/0QxemWQcwq8AoSmKPc4rcc) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Backseat Valentine](https://open.spotify.com/album/2awaPq7Eq3zv1FuGkSYLqe) | 3:25 | 2022-03-11 | 2022-08-13 |
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2022-01-21 |  |
 | [Balance](https://open.spotify.com/track/189gb58kHUdS5MdLBcz18f) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/14Ft0hbGJbcM9vYVW0RJTu) | 4:06 | 2022-01-21 | 2022-07-29 |
 | [Balance](https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk) | 4:06 | 2022-03-31 |  |
@@ -35,6 +35,7 @@
 | [Burning](https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 3:11 | 2022-03-31 |  |
 | [Call A Friend](https://open.spotify.com/track/2JoNqjOOEn1VsiDMS3BQ85) | [Lukae](https://open.spotify.com/artist/0nr5bZCgtf6iFnxuqax6hf) | [Call A Friend](https://open.spotify.com/album/0Jbje8lsvFcHUhXSovEQn2) | 2:52 | 2022-04-08 | 2022-07-29 |
 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 | 2022-01-21 |  |
+| [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 | 2022-08-12 |  |
 | [Cannons](https://open.spotify.com/track/1tgLMyNVmgtLJcOfE0wbyJ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:44 | 2022-03-31 |  |
 | [Cannons](https://open.spotify.com/track/2q4gGYNmNYNyqgpVmGJH0c) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/0mcvDycoex7ANLZOmVVRoD) | 3:44 | 2022-01-21 | 2022-07-29 |
 | [Car Crash](https://open.spotify.com/track/65cbALAFiczk5VQvzn0VOe) | [Happyalone.](https://open.spotify.com/artist/07cGsRL23DtuPJnawMKACY) | [Car Crash](https://open.spotify.com/album/5HN1L24YbwQxmS5IB8u2Ul) | 2:00 | 2022-04-08 | 2022-07-29 |
@@ -71,6 +72,7 @@
 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2022-01-21 |  |
 | [Flashlight](https://open.spotify.com/track/0xR5ZhiksJK6lMRdI6S2A4) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [The Front Bottoms](https://open.spotify.com/album/1UjGcb3EMf1QyLHHoCroU7) | 4:57 | 2022-01-21 | 2022-07-29 |
 | [Flashlight](https://open.spotify.com/track/5VeX28xDZhSgs7NWIR1Owp) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [The Front Bottoms](https://open.spotify.com/album/5pCQUIEmbZveYwLmO3Iedv) | 4:57 | 2022-03-31 |  |
+| [Francis Forever](https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:29 | 2022-08-12 |  |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2022-01-21 |  |
 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 | 2022-01-21 |  |
 | [Get Out](https://open.spotify.com/track/3TNz5pqBMHctxlb1fNU95G) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Get Out / Been Drinking](https://open.spotify.com/album/343PAtpc7ORaevuOhtiT8I) | 3:32 | 2022-02-25 |  |
@@ -86,7 +88,7 @@
 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 | 2022-03-31 |  |
 | [HandClap](https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums](https://open.spotify.com/album/7HBKKw5pJLNj6mdRLb1KG3) | 3:13 | 2022-01-21 | 2022-04-21 |
 | [Heavy, California](https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:04 | 2022-01-21 |  |
-| [Heavyweight Champion of the World](https://open.spotify.com/track/2BCOcciJz6LhG3i6HUUJs5) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e) | [Best Of](https://open.spotify.com/album/2OYlTSaQ41GVdO5MdtU18d) | 3:24 | 2022-03-31 |  |
+| [Heavyweight Champion of the World](https://open.spotify.com/track/2BCOcciJz6LhG3i6HUUJs5) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e) | [Best Of](https://open.spotify.com/album/2OYlTSaQ41GVdO5MdtU18d) | 3:24 | 2022-03-31 | 2022-08-13 |
 | [Heavyweight Champion of the World](https://open.spotify.com/track/6BveiUac0BhnHB14wgi1lg) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e) | [The State of Things](https://open.spotify.com/album/27M9sBMAePJK5rcsVxn3l1) | 3:25 | 2022-01-21 | 2022-07-29 |
 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 | 2022-01-21 |  |
 | [High And Low](https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 3:44 | 2022-03-31 |  |
@@ -97,6 +99,7 @@
 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 | 2022-03-24 |  |
 | [In The Morning](https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Alternative Rock Anthems](https://open.spotify.com/album/6HqFU3JhIwBSjpnGYVI3E7) | 3:41 | 2022-03-31 |  |
 | [In The Morning](https://open.spotify.com/track/64IcdRqfcN5rwqSqJpQDDe) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorlight](https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj) | 3:42 | 2022-01-21 | 2022-07-29 |
+| [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-08-12 |  |
 | [Jealous \(I Ain't With It\)](https://open.spotify.com/track/0CaHZUniQtDRZleX6XK9p7) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/0U78mbujuFjpprS0G9QcTx) | 3:48 | 2022-01-21 | 2022-04-21 |
 | [Jealous \(I Ain't With It\)](https://open.spotify.com/track/3R5FA1Ay1NxgtwbElR78by) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 3:48 | 2022-03-31 |  |
 | [Junk Of The Heart \(Happy\)](https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 3:07 | 2022-01-21 |  |
@@ -112,6 +115,7 @@
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-03-31 |  |
 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 | 2022-01-21 | 2022-07-29 |
 | [One Minute More](https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu), [Sebu Simonian](https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:22 | 2022-01-21 |  |
+| [One Thing Left to Try](https://open.spotify.com/track/52pWggDlN5mVeX111i06PP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:20 | 2022-08-12 |  |
 | [Our Own House](https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:52 | 2022-01-21 |  |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2022-03-31 |  |
 | [Oysters in My Pocket](https://open.spotify.com/track/5nkeTRV4E4ZAlc4s1aRgYK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters in My Pocket](https://open.spotify.com/album/4NLfJvUyJCT7itpeVvHY0K) | 2:42 | 2022-03-11 | 2022-07-29 |
@@ -136,7 +140,7 @@
 | [Sleepyhead](https://open.spotify.com/track/47NoCaEOxlLifJ86Pr3hb8) | [Hunter Moreau](https://open.spotify.com/artist/18E7vRs277FpAIZelUzoCQ) | [Sleepyhead](https://open.spotify.com/album/1jefPRHYXgymDYCwHFnqZf) | 2:58 | 2022-02-07 |  |
 | [Soundcheck](https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:21 | 2022-01-21 |  |
 | [Speak Loud](https://open.spotify.com/track/6irQlJurQFK1OqKun57XUq) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [Speak Loud](https://open.spotify.com/album/7IPQgTmojnOGuVESJbNwny) | 4:23 | 2022-03-11 | 2022-07-29 |
-| [Speeddance](https://open.spotify.com/track/1gdO3q99cYhaFg3WaP27JQ) | [Reptile Youth](https://open.spotify.com/artist/0XoZwt2DsmzVvOe5GRSYDC) | [Reptile Youth](https://open.spotify.com/album/70diW1bHdn1h7FUvjz7W2o) | 2:57 | 2022-03-16 |  |
+| [Speeddance](https://open.spotify.com/track/1gdO3q99cYhaFg3WaP27JQ) | [Reptile Youth](https://open.spotify.com/artist/0XoZwt2DsmzVvOe5GRSYDC) | [Reptile Youth](https://open.spotify.com/album/70diW1bHdn1h7FUvjz7W2o) | 2:57 | 2022-03-16 | 2022-08-13 |
 | [Take It or Leave It](https://open.spotify.com/track/7LeIYh4gDj5l8mJ7kNsHIv) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Take It or Leave It](https://open.spotify.com/album/73MbtLT9YW5OjklHAOg9a9) | 3:03 | 2022-01-21 |  |
 | [Talk Your Mind](https://open.spotify.com/track/20krpapUhjjte9bIXJKOaZ) | [Riscas](https://open.spotify.com/artist/6C6cCRdINVR9zbGmuYaRij) | [Talk Your Mind](https://open.spotify.com/album/5EE9LUuLoKeR5kEsb9tpIs) | 2:47 | 2022-01-21 | 2022-07-29 |
 | [Talk Your Mind](https://open.spotify.com/track/3yfI1O9gzffOZdfkVfZ5uC) | [Riscas](https://open.spotify.com/artist/6C6cCRdINVR9zbGmuYaRij) | [Talk Your Mind](https://open.spotify.com/album/56PmhQn0A6maAwgKhLjojZ) | 2:49 | 2022-03-31 |  |
@@ -162,7 +166,7 @@
 | [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 3:11 | 2022-03-31 |  |
 | [XOXO](https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 4:51 | 2022-01-21 |  |
 | [You Stupid Bitch](https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:15 | 2022-01-21 |  |
-| [Young Boy](https://open.spotify.com/track/3shVhrenvBjnqA3t8CdS0W) | [snny](https://open.spotify.com/artist/33QLeK0AvK6Cj5CQ0hp5sa) | [Learning To Swim](https://open.spotify.com/album/2dqw002N9DsqH7vWZGVRXJ) | 2:18 | 2022-03-31 |  |
+| [Young Boy](https://open.spotify.com/track/3shVhrenvBjnqA3t8CdS0W) | [snny](https://open.spotify.com/artist/33QLeK0AvK6Cj5CQ0hp5sa) | [Learning To Swim](https://open.spotify.com/album/2dqw002N9DsqH7vWZGVRXJ) | 2:18 | 2022-03-31 | 2022-08-13 |
 | [Young Boy](https://open.spotify.com/track/4HweRSn24gNSItPdWUCZoc) | [snny](https://open.spotify.com/artist/33QLeK0AvK6Cj5CQ0hp5sa) | [Learning to Swim](https://open.spotify.com/album/0FiMBiGhfrSu61WF68EMHx) | 2:18 | 2022-01-21 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

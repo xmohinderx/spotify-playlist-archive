@@ -2,9 +2,9 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Smooth joints\. Cover: DOMi & JD BECK
+> Smooth joints\. Cover: KAYTRANADA
 
-707 songs - 1 day 17 hr 42 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+708 songs - 1 day 17 hr 47 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Made Me Fly \(with Beth Hirsch\)](https://open.spotify.com/track/6oJ8a3uzuEkqM4dz15kEm5) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Made Me Fly \(with Beth Hirsch\)](https://open.spotify.com/album/21TxxKttUSfYMmb19rpck0) | 3:16 | 2020-01-18 | 2020-02-20 |
 | [Make A Difference](https://open.spotify.com/track/1nR9WBJZhcHbgUZ7yrZ4ym) | [Steve Arrington](https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM) | [Make A Difference](https://open.spotify.com/album/06tjQliwnAwX5cFnNN57FZ) | 3:21 | 2020-09-04 | 2020-09-29 |
 | [Make Me Feel](https://open.spotify.com/track/48Usv8uRZybwaqjMDxOlEk) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Make Me Feel](https://open.spotify.com/album/3gQrh2SPsvEyoIXTdGZWqp) | 3:31 | 2019-09-29\* | 2019-10-15 |
+| [Make Me Say It Again, Girl](https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Make Me Say It Again, Girl](https://open.spotify.com/album/52b0FH5bRs92vajujszHo0) | 5:14 | 2022-08-12 |  |
 | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 | 2022-06-10 |  |
 | [March](https://open.spotify.com/track/2WaOx20XCG5xJOEf9iQg4k) | [witSmusic](https://open.spotify.com/artist/6H4uK8igktMYWfXX3PNEEW), [Smitty!](https://open.spotify.com/artist/00TaZGl8Kvw51LwO8NpImG) | [March](https://open.spotify.com/album/4Dx6SIaNvuVjtIfS6AFB1B) | 2:30 | 2021-03-07 | 2021-03-17 |
 | [Mariposa](https://open.spotify.com/track/3mypbA7EVmhlhHDZy9THNm) | [Radiant Children](https://open.spotify.com/artist/2e0Bkreg0zzfE5umvfKQXf) | [Mariposa](https://open.spotify.com/album/7rVnSPLiQFa4EVj4JfbovJ) | 3:04 | 2020-07-14 | 2020-07-18 |
@@ -701,7 +702,7 @@
 | [With You Now for This](https://open.spotify.com/track/5mJQZOr4eubxljEEo3VHj0) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT), [Lucey Way](https://open.spotify.com/artist/2wLX2D4Y82gemGsSO0Ep3m) | [Umbrella Drinks / WYNFT](https://open.spotify.com/album/2zvelwNzXU5uS5rZqeuNkL) | 3:54 | 2021-07-27 | 2022-07-29 |
 | [Woman](https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/5xLroFHEvbfDUBqsiYgk5Z) | 4:29 | 2021-05-11 | 2022-07-29 |
 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-07-22 |  |
-| [Woman Like Me](https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Woman Like Me](https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf) | 3:22 | 2022-08-05 |  |
+| [Woman Like Me](https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Woman Like Me](https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf) | 3:22 | 2022-08-05 | 2022-08-13 |
 | [Won't Get Far](https://open.spotify.com/track/5Cl0KJjrKVqdVWqjC2ah6T) | [Mensing](https://open.spotify.com/artist/6ZDONpXSFquORDgdY6exLo), [Loux](https://open.spotify.com/artist/4tytgvhDpwF3119PFA1XRh) | [Won't Get Far](https://open.spotify.com/album/39m6P8dtQZrgWAaXc0DvJK) | 3:05 | 2021-10-10 | 2022-04-17 |
 | [Wonderful](https://open.spotify.com/track/5ua26DyJQQjTT5nDdFJGCu) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Wonderful](https://open.spotify.com/album/5d4kZu2NTyeW7qzHUYrhid) | 2:58 | 2019-11-22 | 2020-01-11 |
 | [Work It All Out](https://open.spotify.com/track/03FeQLI6yD3hMeAcbJwLc3) | [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [Work It All Out](https://open.spotify.com/album/7sB7yOYALbVnZ1XBMBFixT) | 2:39 | 2020-03-23 | 2020-04-24 |

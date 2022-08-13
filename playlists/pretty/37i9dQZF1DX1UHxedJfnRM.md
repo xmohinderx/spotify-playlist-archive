@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,036 likes - 80 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,159 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FOR SALE](https://open.spotify.com/track/68Pz7iMzCrCoHQcocNwvAi) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [FOR SALE](https://open.spotify.com/album/4MYIOezZeoePIZ8LAS084W) | 4:43 |
+| 1 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste](https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W) | 4:26 |
 | 2 | [A Cuánto Me Quedé](https://open.spotify.com/track/7Bg5Z8VwnRxVVvq5C4qcRN) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [A Cuánto Me Quedé](https://open.spotify.com/album/5jiT2Juwh9DbK5xjvlj6uX) | 4:29 |
 | 3 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 |
 | 4 | [Por Ese Hombre](https://open.spotify.com/track/4lc937nnV8vRbIF7oJznNU) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 4:37 |
-| 5 | [En Peligro de Extinción](https://open.spotify.com/track/2zPUGkFAw3gCMcEqWLLWpP) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP), [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [En Peligro de Extinción](https://open.spotify.com/album/7FmHYPGkYb9Ojdfxg5eNRC) | 4:01 |
-| 6 | [No Te Contaron Mal](https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [No Te Contaron Mal](https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86) | 4:36 |
-| 7 | [Fuera](https://open.spotify.com/track/34QE9OSoB5EMflRXe6n0uo) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 5:05 |
-| 8 | [Algo Que Se Quede](https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 3:40 |
-| 9 | [Hoy He Vuelto a Ver al Amor](https://open.spotify.com/track/23ZaC0z4gQ7mhAGTUSFWj0) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Y No Hay Más Na](https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X) | 5:34 |
-| 10 | [Vacilando Rico Con Zaperoko](https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Vacilando Rico Con Zaperoko](https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9) | 14:09 |
-| 11 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 |
-| 12 | [Mami](https://open.spotify.com/track/6q4l4MRRrqwtkrjlwHcAwg) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Mami](https://open.spotify.com/album/7z1Bjl01ywsdKdAX5KYw6F) | 3:00 |
-| 13 | [Pa' Enamorarte](https://open.spotify.com/track/2W0xrI3o6CdAXjBSAftgBA) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Pa' Enamorarte](https://open.spotify.com/album/30lOGegK4wLQpeS8Zslcbl) | 4:04 |
+| 5 | [El Dolor De Mi Vida \- Versión Salsa](https://open.spotify.com/track/3WSAA6uLjnYNAnYACNa5F7) | [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Dolor De Mi Vida \(Versión Salsa\)](https://open.spotify.com/album/0ZN7GfXpjhltsNAgaYum5U) | 3:56 |
+| 6 | [En Peligro de Extinción](https://open.spotify.com/track/2zPUGkFAw3gCMcEqWLLWpP) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP), [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [En Peligro de Extinción](https://open.spotify.com/album/7FmHYPGkYb9Ojdfxg5eNRC) | 4:01 |
+| 7 | [No Te Contaron Mal](https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [No Te Contaron Mal](https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86) | 4:36 |
+| 8 | [Fuera](https://open.spotify.com/track/34QE9OSoB5EMflRXe6n0uo) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 5:05 |
+| 9 | [Algo Que Se Quede](https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 3:40 |
+| 10 | [Hoy He Vuelto a Ver al Amor](https://open.spotify.com/track/23ZaC0z4gQ7mhAGTUSFWj0) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Y No Hay Más Na](https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X) | 5:34 |
+| 11 | [Vacilando Rico Con Zaperoko](https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Vacilando Rico Con Zaperoko](https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9) | 14:09 |
+| 12 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 |
+| 13 | [Mami](https://open.spotify.com/track/6q4l4MRRrqwtkrjlwHcAwg) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Mami](https://open.spotify.com/album/7z1Bjl01ywsdKdAX5KYw6F) | 3:00 |
 | 14 | [Sobrio](https://open.spotify.com/track/29GaFL3B4650i21U2rbC6h) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Sobrio](https://open.spotify.com/album/3dlegWqWB5ChqSrQKLiR6h) | 4:11 |
 | 15 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 |
 | 16 | [Loque Nunca Sera](https://open.spotify.com/track/0MvdpnIcWNngj2nm4AnGzQ) | [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr) | [Lo Que Nunca Sera](https://open.spotify.com/album/5WauGYtyRPbBS1kOy38aBv) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Hablame de Ti](https://open.spotify.com/track/7eCE1RHUfuYQUJEBAoIGK7) | [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Hablame de Ti](https://open.spotify.com/album/1gOzjKHK9YBiKQWz87rxhB) | 4:30 |
 | 80 | [Vamos a Escapar \- Salsa Version](https://open.spotify.com/track/1A474NyT5UKjqElE2JN6Km) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Vamos a Escapar](https://open.spotify.com/album/1QB4xPIhfndD41wrNJhXKw) | 4:34 |
 
-Snapshot ID: `MTY1Nzg2MTE0OSwwMDAwMDAwMDc1NGY5NjY1MzRmNmQ2Yzk2MzUyOGNhZGRhYjJmOTM3`
+Snapshot ID: `MTY2MDI4MDQwMCwwMDAwMDAwMDM2ODhiNDYzNTA1NjNiZjQ4MDZmMWYxNzc5ODA0YWUx`

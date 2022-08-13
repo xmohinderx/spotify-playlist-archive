@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,594 songs - 3 day 21 hr 4 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,596 songs - 3 day 21 hr 10 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1064,6 +1064,7 @@
 | [Out Of My Mind](https://open.spotify.com/track/2FSvmq9jktuOnl6H45zEaD) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Out Of My Mind](https://open.spotify.com/album/6V0uuxw9BnRBlZRjUw30Fa) | 2:36 | 2022-06-03 | 2022-06-19 |
 | [Out of My Mind](https://open.spotify.com/track/5zKluRquKA67eJR7BnwT2C) | [Mister Green](https://open.spotify.com/artist/2aNES9DaZYm5tJZVxuxttg) | [Out of My Mind](https://open.spotify.com/album/2wJ6Vahh3JjXx1pKQUN1vC) | 3:48 | 2022-04-28 | 2022-05-16 |
 | [Out of My Way](https://open.spotify.com/track/5jzuCo7VKqfDQ7z6gFyGQy) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Out of My Way](https://open.spotify.com/album/7pSjA7boBHxSt3RyR5h4NE) | 3:46 | 2021-09-18 | 2021-10-04 |
+| [Out of the Ordinary](https://open.spotify.com/track/1FJqAKNOgodJlyBZnKpkPj) | [Jonny Lucas](https://open.spotify.com/artist/2Pr3lE9vqRXylZnrVqdHxC) | [Out of the Ordinary](https://open.spotify.com/album/1VXs9wvFRvQ5zk5Dc8pxN8) | 3:16 | 2022-08-12 |  |
 | [Outrageous](https://open.spotify.com/track/2DA5ttNg4GagqYheWK3idj) | [ZØYA ](https://open.spotify.com/artist/7l78f3ti1vKrEORMmQV3fg) | [Outrageous](https://open.spotify.com/album/3zEWdbQODUN0Tl9oqXaxnD) | 3:26 | 2020-11-06 | 2021-03-20 |
 | [Outrageous \- NATIIVE Remix](https://open.spotify.com/track/3BBSn2r31bk0SauGi3oBXu) | [ZØYA ](https://open.spotify.com/artist/7l78f3ti1vKrEORMmQV3fg), [NATIIVE](https://open.spotify.com/artist/7iHTJPF1k1e9SF1BwqbAe0) | [Outrageous \(NATIIVE Remix\)](https://open.spotify.com/album/6Zm0xi9FBm1cPvN19xxDUy) | 2:59 | 2020-11-06 | 2020-11-21 |
 | [Outta My Head](https://open.spotify.com/track/6hYsdQ4Ud56goejoqZSj3L) | [Rawdolff](https://open.spotify.com/artist/1uOdznwRu5THtldbzDFTGX), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Outta My Head](https://open.spotify.com/album/40v4LbJn8Vi7iCMlNspM7v) | 2:52 | 2021-05-21 | 2021-06-06 |
@@ -1340,6 +1341,7 @@
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/0FlfN5cbUUpIHCRH8X1M44) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 5:04 | 2020-12-20 |  |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/0XS2rOeAPNEoi23fS7K5TO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/2Q8nhGOz0h2HJraU44goUF) | 5:05 | 2020-08-20 | 2021-07-12 |
 | [Take Five](https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:24 | 2022-07-26 |  |
+| [Take From Me](https://open.spotify.com/track/0AOVNj7BINTEuDscgRWNIf) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Take From Me](https://open.spotify.com/album/21B1bKtLablUHW7nCX8PdY) | 3:13 | 2022-08-12 |  |
 | [Take Me](https://open.spotify.com/track/74XDXyjAIUm7KVaQa0jUqq) | [Kady Rain](https://open.spotify.com/artist/3YF3JuP8XYLsZHsUFYC1Gg), [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY) | [Take Me](https://open.spotify.com/album/2zoGlSptiXwk1ev1wzfF4K) | 3:04 | 2021-05-28 | 2021-06-13 |
 | [Take Me Back](https://open.spotify.com/track/5r9iymIlEJih0OVjgGGs0Q) | [Void Stryker](https://open.spotify.com/artist/4EF0OkMexIuc6vcV3VeBLm) | [Take Me Back](https://open.spotify.com/album/2T3ZPvtJjFEANQUv7Bj7vv) | 3:11 | 2022-07-01 | 2022-07-19 |
 | [Take Me Back Home](https://open.spotify.com/track/29kSnQ0yWFXfEGJ2giuRnU) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Take Me Back Home](https://open.spotify.com/album/28ID5LWSXOH50iH4MJL2Hv) | 3:57 | 2021-05-14 | 2021-05-30 |

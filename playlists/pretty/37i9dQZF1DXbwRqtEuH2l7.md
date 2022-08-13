@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 
 > Long, dark and sustained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,386 likes - 60 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,428 likes - 60 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

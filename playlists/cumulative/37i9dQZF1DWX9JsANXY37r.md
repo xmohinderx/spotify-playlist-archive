@@ -4,7 +4,7 @@
 
 > Conforto para beber gin tônica, mojito ou caipirinha sem precisar levantar do sofá.
 
-209 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/1auBputQiLOUbjD4e5chlL)
+210 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/1auBputQiLOUbjD4e5chlL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1j4hUdpOJd5qIXN3LJeHjj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/3nQQifh95U988ME5zJMSyi) | 2:48 | 2022-03-02 | 2022-07-28 |
 | [Cold Call](https://open.spotify.com/track/5TTI2mMWjIK6f9oYXjO2rS) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7) | [Groove!](https://open.spotify.com/album/5Ca3iUbx6dIf66frTpx5Hd) | 3:49 | 2022-03-25 | 2022-04-10 |
 | [Come As You Are](https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Come As You Are](https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm) | 2:36 | 2022-03-04 | 2022-07-29 |
-| [Come Over](https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 5:21 | 2022-03-25 |  |
+| [Come Over](https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 5:21 | 2022-03-25 | 2022-08-13 |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2022-02-18 |  |
 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 | 2022-02-18 | 2022-07-26 |
 | [Dans la hess](https://open.spotify.com/track/06nMeoeJumuAenz7XKhHYw) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Gore](https://open.spotify.com/album/7e9inFYUpFSKmTFbj2xrCS) | 2:49 | 2022-03-04 | 2022-04-21 |
@@ -203,6 +203,7 @@
 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 | 2022-02-18 |  |
 | [Used To Love You](https://open.spotify.com/track/6BGB0heZVGWDOisMVMIj5S) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chapters \(Deluxe\)](https://open.spotify.com/album/7xmZhwCMmkqP70vLh7Kzmz) | 3:29 | 2022-03-25 | 2022-04-13 |
 | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/track/1SGhreIdQO3v7z6SOgEEHC) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/album/1XQYewNWBnVBFFxLv4BFeR) | 2:31 | 2022-03-22 | 2022-04-18 |
+| [VIRGO'S GROOVE](https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 6:08 | 2022-08-12 |  |
 | [Waiting \(feat\. Madelyn Grant\)](https://open.spotify.com/track/2v4maFtMJuNjiXGUurC9h4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Madelyn Grant](https://open.spotify.com/artist/7kdIgG6b9e3DZVmroWzu9w) | [Take Off \- EP](https://open.spotify.com/album/0A2R7gz1Qvq9IUgmKhnHDu) | 4:22 | 2022-03-25 | 2022-04-18 |
 | [Wake Up Love](https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [Wake Up Love](https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR) | 3:35 | 2022-03-25 | 2022-04-15 |
 | [What Do I Know](https://open.spotify.com/track/5vxMm3COhu046aV1MFVwbG) | [Jordan Lee](https://open.spotify.com/artist/44SQjq9FW4yPRpMxGIO0Em), [Tim Gustave](https://open.spotify.com/artist/0XFe8EaiJNIdwOPlikGKuM) | [Highlights](https://open.spotify.com/album/4nIdvGsWLIoaLhBWa34TM4) | 4:06 | 2022-03-04 | 2022-06-18 |

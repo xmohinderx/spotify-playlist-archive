@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata\. Cover: Ivy Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,817,967 likes - 130 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,818,174 likes - 130 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

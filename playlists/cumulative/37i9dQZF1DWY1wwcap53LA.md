@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Tanner Adell
 
-96 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+97 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 | 2021-12-03 |  |
 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 | 2021-12-03 |  |
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 |  |
+| [Used to Love That Song](https://open.spotify.com/track/6uSKxEhO9JKYkrPUhPBSa9) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Sink with the Sun](https://open.spotify.com/album/1CI87J6036yNvbzyksedMH) | 2:59 | 2022-08-12 |  |
 | [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 | 2022-02-04 | 2022-07-29 |
 | [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 | 2022-07-22 |  |
 | [Well Enough Alone](https://open.spotify.com/track/4JTj5ojPkqqpPJhtU2Nw7E) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [The Back Porch Sessions](https://open.spotify.com/album/6DIHouNFkzvVbGVSm0DbCd) | 3:04 | 2021-12-03 |  |

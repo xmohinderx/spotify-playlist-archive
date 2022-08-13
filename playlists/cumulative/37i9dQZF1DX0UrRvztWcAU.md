@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these awesome, happy songs!
 
-378 songs - 21 hr 18 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
+379 songs - 21 hr 21 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2022-01-07 | 2022-03-01 |
 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 | 2022-04-11 |  |
 | [Love Song](https://open.spotify.com/track/4E8u5JsVnF3qPXbNiR9m25) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Love Song](https://open.spotify.com/album/2h923OwdUtaMcC7QKcakgH) | 3:18 | 2022-03-15 | 2022-04-21 |
+| [Love the One You're With](https://open.spotify.com/track/3NNkJwiHucP5QyUEAIMXra) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Stephen Stills](https://open.spotify.com/album/2nkFniR6DseqFJLhxXV01T) | 3:04 | 2022-08-12 |  |
 | [Love Warning](https://open.spotify.com/track/75jC2iGlGyS0f2dEkd5FE9) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Love Warning](https://open.spotify.com/album/7lxYLbpNrfnTxocu2VN9ql) | 3:39 | 2022-03-29 | 2022-07-29 |
 | [Love You Like That](https://open.spotify.com/track/2IClzYyvgwrsmVVipYsx5T) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Love You Like That](https://open.spotify.com/album/4bQ7I6MzchpBs3tJh1mwoW) | 2:57 | 2022-07-08 |  |
 | [Love You Like That](https://open.spotify.com/track/3205YaV6srWWF1WmebkLdA) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Love You Like That](https://open.spotify.com/album/7pp9j4t8jVbTtBATKAI9Wk) | 2:57 | 2021-12-16 | 2022-07-29 |
@@ -296,7 +297,7 @@
 | [Somebody I'm Not](https://open.spotify.com/track/4w7aLWzTe5FmvHSbuunVsl) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Bjørnskov](https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8) | [Somebody I'm Not](https://open.spotify.com/album/4SelcitqSJ9tQYYhKRYT5H) | 2:47 | 2021-12-16 | 2022-07-29 |
 | [Sometimes](https://open.spotify.com/track/7MbZIh0vnrayVbdaXCOyo1) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [KES KROSS](https://open.spotify.com/artist/6INR7y82RLRv1uKwfortrB), [Jackson Penn](https://open.spotify.com/artist/0RIQOtjWn0zYKSKfDYgukS) | [Sometimes](https://open.spotify.com/album/0TO6MSBkwXUSZrbkR5nOkS) | 3:13 | 2021-12-16 | 2022-07-29 |
 | [South of the Border \(feat\. Camila Cabello & Cardi B\)](https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 | 2021-12-16 |  |
-| [Space For Two](https://open.spotify.com/track/07hBBiv9DqLCRECKmB0Q4n) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space For Two](https://open.spotify.com/album/6f0vesZuawgU9KzR62srFN) | 3:26 | 2022-07-08 |  |
+| [Space For Two](https://open.spotify.com/track/07hBBiv9DqLCRECKmB0Q4n) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space For Two](https://open.spotify.com/album/6f0vesZuawgU9KzR62srFN) | 3:26 | 2022-07-08 | 2022-08-13 |
 | [Space for Two](https://open.spotify.com/track/2vNyWYQtbrgOKcSG64SZMJ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space for Two](https://open.spotify.com/album/6QdFacG9oVksFA7py1AltG) | 3:26 | 2021-12-16 | 2022-04-21 |
 | [Stay the Night](https://open.spotify.com/track/7FFl1IHSsPWsfUCladsCl9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Some Kind of Trouble \(Deluxe Edition\)](https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W) | 3:36 | 2022-04-11 |  |
 | [Stayin' Alive \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/32NqW4lERGa0uTQLXeXh65) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Tales From The Brothers Gibb](https://open.spotify.com/album/0rGrmrf9XKC54uU8VR5D2s) | 4:41 | 2022-04-11 | 2022-04-21 |

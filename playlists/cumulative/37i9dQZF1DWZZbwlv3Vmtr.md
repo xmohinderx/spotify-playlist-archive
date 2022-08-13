@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-471 songs - 18 hr 38 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+477 songs - 18 hr 52 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [180 Gram](https://open.spotify.com/track/3mpF3RIt6EfMnQPuFqcTwI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [180 Gram](https://open.spotify.com/album/2ejjB1ZMhxYv88ydHXYdxE) | 2:28 | 2022-04-15 | 2022-07-01 |
 | [2nd Street](https://open.spotify.com/track/4PWPgaEdMz3I27n5dYqnUm) | [Audio Avenues](https://open.spotify.com/artist/0iZT2heKINuMrvU92ce9yj) | [2nd Street](https://open.spotify.com/album/6M3AHZbb57FSvAYcxgFYBC) | 2:15 | 2022-04-15 |  |
 | [6pm in madrid](https://open.spotify.com/track/2QRIB4sCxfeFP3hoG3Z8MJ) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:39 | 2022-04-15 | 2022-05-20 |
+| [8th grade high](https://open.spotify.com/track/7bnOjrsU23UQk9lof4OLTg) | [junyii.](https://open.spotify.com/artist/5V9nIniPnGHfOIEQrPiAre), [Chill Children](https://open.spotify.com/artist/1HIUSy6Z18XvHfvsGPSWYx) | [8th grade high](https://open.spotify.com/album/7v0ygWKnudUMhHGa0kcnm3) | 1:32 | 2022-08-12 |  |
 | [<3 \(for sara\)](https://open.spotify.com/track/6O3y78TmOGlEWcW31IOskE) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [<3 \(for sara\)](https://open.spotify.com/album/1jeXIdSfzh8psOkKTJPlEi) | 2:11 | 2022-04-15 |  |
 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 | 2022-04-15 |  |
 | [A New Point Of View](https://open.spotify.com/track/1dUeNKbbSLpsi0SG8QUq2g) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [A New Point Of View](https://open.spotify.com/album/79je3L7llHxNAIrWxQu0Ms) | 2:33 | 2022-04-15 | 2022-07-22 |
@@ -87,6 +88,7 @@
 | [Controlled Chaos](https://open.spotify.com/track/0pZJVnPfaV3TgYLDGzrHeX) | [LazyBlaze](https://open.spotify.com/artist/0UU3MtrctLPXvQy6Puj7v1) | [Controlled Chaos](https://open.spotify.com/album/2LcmG3z9Yx1KJnMnFeHpni) | 2:13 | 2022-04-15 |  |
 | [Coral](https://open.spotify.com/track/55RpiZ4sQaEEbcGAOukL3S) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Coral](https://open.spotify.com/album/7hIWp2pPbMvTSQw7btmWWz) | 2:33 | 2022-04-15 | 2022-06-10 |
 | [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2022-04-15 | 2022-07-29 |
+| [crying in the coupe](https://open.spotify.com/track/5oWdA9tf8u8nBdMscpKtTx) | [boone](https://open.spotify.com/artist/7k8Bmj6nhufgVpoVrGDKib) | [crying in the coupe](https://open.spotify.com/album/4hcVFgwEJOb2bchyx3GOBp) | 2:24 | 2022-08-12 |  |
 | [Culture](https://open.spotify.com/track/1B7wvelX2nDAarrtxhX77P) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Culture](https://open.spotify.com/album/5XnvcAwLq5Ex3dA63zB1SP) | 2:12 | 2022-07-08 |  |
 | [Da Wes Sht](https://open.spotify.com/track/2WOugRtzn1QKmCarSqavnM) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Da Wes Sht](https://open.spotify.com/album/2EBTIvmgYgyBaedPfL70ps) | 2:19 | 2022-04-15 | 2022-07-22 |
 | [Dandys Dream](https://open.spotify.com/track/3BzvqhEYrXURKShUqdKHId) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Josh Tarzi](https://open.spotify.com/artist/1gutZI9LT5hRqrgKE20uEl) | [Moontape 02](https://open.spotify.com/album/199UPhNxxHoISxibHPidnY) | 1:51 | 2022-04-15 | 2022-06-25 |
@@ -166,6 +168,7 @@
 | [Highly Blessed](https://open.spotify.com/track/6JdfFM5WBrLpLDJ6p5aiEi) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Highly Blessed](https://open.spotify.com/album/1Rv4B8EwsTM4a1cYqfVv6r) | 1:38 | 2022-05-20 |  |
 | [Hollie Would](https://open.spotify.com/track/1Am4BvMjQ8iFBOq1w8V1XM) | [SkiDs](https://open.spotify.com/artist/43FpyHh0x1EX3z9kAi2huJ) | [Hollie Would](https://open.spotify.com/album/7z8CAYtyyKgjKdPwWOHAsP) | 1:55 | 2022-04-15 |  |
 | [Holy Smokes](https://open.spotify.com/track/0rQsaAlvPA5hJhOJKyUuUv) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Holy Smokes](https://open.spotify.com/album/2NIMu0HL4nNuoXMagc9CJQ) | 1:31 | 2022-04-15 |  |
+| [Home](https://open.spotify.com/track/32Hrw97j98LOmfSYQNEVn3) | [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt), [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Home](https://open.spotify.com/album/6aGMnEpcDRVRSO8Q86pDzY) | 2:24 | 2022-08-12 |  |
 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 | 2022-04-15 |  |
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2022-04-15 |  |
 | [Hustler's Courage](https://open.spotify.com/track/3MOlfHny79AeRL5z2GRN2b) | [Calvin TDC](https://open.spotify.com/artist/2NOFqkaFBqJknsnxnlXdbM) | [Hustler's Courage](https://open.spotify.com/album/3uejTrt5AwvLTXER4bYwbV) | 2:11 | 2022-07-29 | 2022-08-12 |
@@ -266,6 +269,7 @@
 | [NI](https://open.spotify.com/track/50lsn0khM1dfoMMSUaTGPy) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [NI](https://open.spotify.com/album/4ViJ12dBADvGUWNkwWy7Ym) | 2:41 | 2022-04-15 |  |
 | [night bumps](https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [night bumps](https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr) | 2:04 | 2022-06-17 |  |
 | [Night Session](https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Night Session](https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY) | 2:05 | 2022-05-27 |  |
+| [night waves](https://open.spotify.com/track/7DvDMIiYaDzzwTtM09pdp3) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/7MJCRCppqd1CEz04TmeoEu) | 1:34 | 2022-08-12 |  |
 | [nightdrive](https://open.spotify.com/track/0fOOBR8JW4u6D8jF6GNhFF) | [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [nightdrive](https://open.spotify.com/album/5WgyOVLv9DShm6xXKwJ3LZ) | 2:02 | 2022-04-15 | 2022-05-27 |
 | [Nightfall](https://open.spotify.com/track/1U4SM2KN49g01Q4G42wBU3) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Nightfall](https://open.spotify.com/album/5GnUgFtiNggX7qZf7fBkoC) | 2:18 | 2022-07-29 | 2022-08-12 |
 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 | 2022-04-15 | 2022-07-01 |
@@ -465,7 +469,8 @@
 | [we finally met](https://open.spotify.com/track/3zhjHhvPEeqhZJKTk4spfh) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [cute.a](https://open.spotify.com/artist/4M2GOXttGFdgK95pZtvy5b) | [we finally met](https://open.spotify.com/album/5OIHEQznDbyTbpcQ98lqhH) | 2:04 | 2022-05-13 |  |
 | [Westminster](https://open.spotify.com/track/4xJIJavUzBatJRvs8v48dF) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [Westminster](https://open.spotify.com/album/2QC94ST7Lx4VaHNarIk6zc) | 2:44 | 2022-04-15 |  |
 | [What If](https://open.spotify.com/track/3yOtycmjxt0lO2LAr7h1fI) | [Ten Tin Trumpets](https://open.spotify.com/artist/1uPhaXGb4PrQKmNnKXm0GI) | [What If](https://open.spotify.com/album/5iJfrGAdF8CrmcUypBd008) | 3:36 | 2022-04-15 | 2022-05-14 |
-| [Who You Are](https://open.spotify.com/track/4k1o4RLLU5Qp8Qc3iWwCnp) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Who You Are](https://open.spotify.com/album/5lOG2MHQezQxpHV7HVlC2Z) | 4:09 | 2022-04-15 |  |
+| [Who You Are](https://open.spotify.com/track/3uJCI9hrlUdjgmPh2yuv3W) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Who You Are](https://open.spotify.com/album/17SOzJd9UJnDQzDZpOWyqF) | 4:09 | 2022-08-12 |  |
+| [Who You Are](https://open.spotify.com/track/4k1o4RLLU5Qp8Qc3iWwCnp) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Who You Are](https://open.spotify.com/album/5lOG2MHQezQxpHV7HVlC2Z) | 4:09 | 2022-04-15 | 2022-08-13 |
 | [Who's World Is This?](https://open.spotify.com/track/6dL7z10QINju4SHT3O3cxC) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Who's World Is This](https://open.spotify.com/album/19Hp7di22vmwP4DrX1y6ex) | 2:36 | 2022-05-13 |  |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-15 |  |
 | [Wine To The Plants](https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Wine To The Plants](https://open.spotify.com/album/3V0GXWAPQnhMiYuWnr8jzi) | 2:27 | 2022-04-15 | 2022-07-08 |
@@ -478,6 +483,7 @@
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2022-04-15 | 2022-06-10 |
 | [yaaas](https://open.spotify.com/track/7FAktFGtxzYbcE6ceIyYzn) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [yaaas](https://open.spotify.com/album/0ftJW9wygyS41Fa3h7RNE0) | 2:35 | 2022-04-15 | 2022-06-10 |
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-04-15 |  |
+| [Your Glow](https://open.spotify.com/track/7wig0c7koqSvDiincDAEXX) | [Prime Suspect](https://open.spotify.com/artist/5YQhFX1KlOhn5yZJL22mAR) | [Your Glow](https://open.spotify.com/album/1xuQYgF21HQ9va023HWgod) | 1:52 | 2022-08-12 |  |
 | [ágata](https://open.spotify.com/track/2oRTRdGTrB0uF0DoL71sV4) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [ágata](https://open.spotify.com/album/3RlKaLL7si7ZmHMURLNNPS) | 2:20 | 2022-06-03 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

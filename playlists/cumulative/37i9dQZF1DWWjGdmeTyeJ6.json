@@ -15186,24 +15186,6 @@
     },
     {
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/3cQ5YF4ZK4E7lrhBLBAHc9"
-      },
-      "artists": [
-        {
-          "name": "Fairbrother",
-          "url": "https://open.spotify.com/artist/7nCnDKl8A5fs3W0GwDhEIc"
-        }
-      ],
-      "date_added": "2022-08-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 274887,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5ky1N5AItID6Y1mOGlpL9x"
-    },
-    {
-      "album": {
         "name": "HEADSBASS VOLUME 9 - PART 3",
         "url": "https://open.spotify.com/album/16diJ3vx3ydssr1nsDDor7"
       },
@@ -15219,6 +15201,24 @@
       "duration_ms": 271217,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/4lMnXCUdpsjAhpBOEXktkI"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/3cQ5YF4ZK4E7lrhBLBAHc9"
+      },
+      "artists": [
+        {
+          "name": "Fairbrother",
+          "url": "https://open.spotify.com/artist/7nCnDKl8A5fs3W0GwDhEIc"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274887,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/5ky1N5AItID6Y1mOGlpL9x"
     },
     {
       "album": {

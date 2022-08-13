@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. Photo: Connor Seidel \(1969 Collective\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,972 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,987 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [writer in ny](https://open.spotify.com/track/5EIEzisvJrHWYaBTXtQ8zd) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 3:19 |
 | 100 | [Milles fois par jour](https://open.spotify.com/track/3KNWGc3CrZFWML2P9jNE9r) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:26 |
 
-Snapshot ID: `MTY1NzI1MjgwMCwwMDAwMDAwMDI3YWE5YzQ4YjgwYjg2NDQ3MmI1MDFiOGJlZmViYTNk`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDIyOWU0OGY0MWUxM2EyOGY1YjUzNmRhZjY3N2NlYzA3`

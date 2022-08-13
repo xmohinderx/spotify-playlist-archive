@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-494 songs - 1 day 1 hr 58 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+495 songs - 1 day 2 hr 0 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Dress](https://open.spotify.com/track/26ORKiTdampbfuv4Zno5su) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:23 | 2022-07-07 |  |
 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 | 2022-03-17 | 2022-07-26 |
 | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/track/3PgrntbrI5racVaswTt6Ms) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/album/5itvLffAqxFdNjEmbtPMvo) | 3:09 | 2022-03-17 | 2022-07-28 |
-| [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-24 |  |
+| [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-24 | 2022-08-13 |
 | [Dullshine](https://open.spotify.com/track/2ndDKpjgNOFDl6ZH63arC4) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [Dullshine](https://open.spotify.com/album/47yoU0ZF9KINsCzrDBbC3b) | 3:51 | 2022-03-24 | 2022-04-19 |
 | [Dying Breed](https://open.spotify.com/track/1cS6quzGhImyJPMiNxfxkA) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Dying Breed](https://open.spotify.com/album/3UL8kVLqJVXaS3tYsYpqf2) | 4:06 | 2022-03-24 | 2022-04-19 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-03-17 |  |
@@ -242,6 +242,7 @@
 | [If You’re Too Shy \(Let Me Know\) \- Edit](https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 3:59 | 2022-03-24 | 2022-04-18 |
 | [Imaginary Friends](https://open.spotify.com/track/276FYBBORL5s6Ob4XJ6eN8) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Imaginary Friends](https://open.spotify.com/album/6yx184mN6SndwRgl6PZlLc) | 2:52 | 2022-03-17 | 2022-07-29 |
 | [In My Head \(ft\. Josh Dun\)](https://open.spotify.com/track/06EkBgJuvf0zIPCeYwx3vP) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Josh Dun](https://open.spotify.com/artist/1DTwvOULHkUfXGwfJybYga) | [In My Head](https://open.spotify.com/album/0IuGpDVzTsxVpgXyc7qhJR) | 3:08 | 2022-03-24 | 2022-07-29 |
+| [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-12 |  |
 | [Insomniac](https://open.spotify.com/track/5TdbSCRdrZDC8yK19l7fou) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Insomniac](https://open.spotify.com/album/0nGHS3N9YU1HBB53ls0gcH) | 2:10 | 2022-03-17 | 2022-07-25 |
 | [Instant History \- Single Version](https://open.spotify.com/track/78Whqvk23AqxailSEMv83F) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Instant History](https://open.spotify.com/album/2zRS3sRmhixjg6MvO1yxh2) | 3:17 | 2022-03-24 | 2022-04-19 |
 | [Intro](https://open.spotify.com/track/2ClJu45cS0Gu8QMgm0u16V) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Intro](https://open.spotify.com/album/3zjQLCpXlFRFNEmS0exFSg) | 2:54 | 2022-03-24 | 2022-07-18 |

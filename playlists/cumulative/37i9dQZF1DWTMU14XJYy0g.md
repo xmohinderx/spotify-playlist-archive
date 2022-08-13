@@ -2,9 +2,9 @@
 
 ### [Rock Nacional](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Estelares.
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Gustavo Cerati.
 
-121 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
+122 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 | 2022-06-24 |  |
 | [Que Hable de Vos](https://open.spotify.com/track/1kfM4ZZgDUND726SNezoFM) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Nube Rosa](https://open.spotify.com/album/1Sf4010TDLEZ5yeCPJ0GJM) | 3:05 | 2022-06-24 |  |
 | [Qué Tal Si](https://open.spotify.com/track/1nymd0Q8wlYw8GO6qpFFzz) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Qué Tal Si](https://open.spotify.com/album/4XHpR6MehJc55fHzZ9jzre) | 3:50 | 2022-06-24 |  |
+| [Raíz \(Sinfónico en Vivo\)](https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 4:07 | 2022-08-12 |  |
 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 | 2022-07-08 |  |
 | [Rugido de Cien Mil Dragones](https://open.spotify.com/track/4n2NJgfghIDakkGEShfQEm) | [Willy Quiroga](https://open.spotify.com/artist/2qQX5DzzT2p5Uhf5nVkTyE), [Claudio Marciello](https://open.spotify.com/artist/4gHjWV2oalYMkHYfBCt3Lr), [Gustavo "Chizzo" Napoli](https://open.spotify.com/artist/7r4ICA6MTzRjaAZoeBZ66E) | [Rugido de Cien Mil Dragones](https://open.spotify.com/album/2USasy5iVrMq5FNwnUuZT4) | 3:30 | 2022-06-24 |  |
 | [Se Va](https://open.spotify.com/track/7Hs3Jvpa7H24HoX6tp9uLg) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Marciano Cantero](https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO) | [Se Va](https://open.spotify.com/album/5nIqPSvmByeLfANeu84fEW) | 3:41 | 2022-07-15 |  |
@@ -108,7 +109,7 @@
 | [Suerte](https://open.spotify.com/track/45i5W1vz9hd0Msl6YjNJHO) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Suerte](https://open.spotify.com/album/4CT2Ci1lR8I4bjnd4nZyUB) | 3:03 | 2022-06-24 | 2022-07-09 |
 | [Sur Vigente](https://open.spotify.com/track/6ZHQobo4G0Ig3i8ZTYzQla) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Sur Vigente](https://open.spotify.com/album/6GV5oNdTZmTpaD4D4HhzES) | 3:42 | 2022-07-01 |  |
 | [Tanto Tonto](https://open.spotify.com/track/74Z4on1nCgnIHgzN9XoARd) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 1:49 | 2022-06-24 | 2022-07-16 |
-| [Te Hace Feliz](https://open.spotify.com/track/45RClYhxCpueeYrBZjcVp9) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Revolución de la Alegría](https://open.spotify.com/album/32V4V7NQhMw5yMFF2tqs1c) | 2:55 | 2022-07-15 |  |
+| [Te Hace Feliz](https://open.spotify.com/track/45RClYhxCpueeYrBZjcVp9) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Revolución de la Alegría](https://open.spotify.com/album/32V4V7NQhMw5yMFF2tqs1c) | 2:55 | 2022-07-15 | 2022-08-13 |
 | [Te Hace Feliz](https://open.spotify.com/track/67DE2XvSfMvYnuFD31E2We) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Revolución de la Alegria](https://open.spotify.com/album/6XESoePuuRP2X2H2kpPYxf) | 2:55 | 2022-06-24 | 2022-07-29 |
 | [Teoria Espacial](https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Teoria Espacial](https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi) | 3:50 | 2022-06-24 |  |
 | [Tiempo Sin Sueños \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/2CuikRtiqFulp7zXdrayni) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Tiempo Sin Sueños \(feat\. Conociendo Rusia\)](https://open.spotify.com/album/0MqkE7OCyGvPSF7RfFiQLP) | 4:02 | 2022-06-24 | 2022-07-09 |

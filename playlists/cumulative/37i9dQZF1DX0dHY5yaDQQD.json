@@ -2178,6 +2178,28 @@
     },
     {
       "album": {
+        "name": "Rancor EP",
+        "url": "https://open.spotify.com/album/3XsZFScRqSPpkGz2YwSUxa"
+      },
+      "artists": [
+        {
+          "name": "Rebekah",
+          "url": "https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67"
+        },
+        {
+          "name": "X-Tension",
+          "url": "https://open.spotify.com/artist/19QuWp2q7u0osyIjh9qQkD"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405800,
+      "name": "Rancor",
+      "url": "https://open.spotify.com/track/4ZvtoneuGescYoD6fIMREr"
+    },
+    {
+      "album": {
         "name": "Raptor",
         "url": "https://open.spotify.com/album/023fZD6uYgvFdGOqG2HTli"
       },

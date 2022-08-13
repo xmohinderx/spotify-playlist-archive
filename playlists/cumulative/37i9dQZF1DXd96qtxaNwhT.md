@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-446 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+447 songs - 1 day 1 hr 8 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Stuck In A Bubble \- Stripped Back](https://open.spotify.com/track/4ujpSHFEeR9rkgPCilUENQ) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Stuck In A Bubble \(Stripped Back\)](https://open.spotify.com/album/4HsyJlKlIbroBz9E0NN9xj) | 3:14 | 2020-10-09 | 2021-07-23 |
 | [Suitcase](https://open.spotify.com/track/5HlFO9E6TgsCpJWVjguZDl) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Suitcase](https://open.spotify.com/album/6h3PNka0gyNBOX2yVuW3JN) | 3:34 | 2019-07-29\* | 2020-02-11 |
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2020-04-14 | 2021-04-07 |
+| [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2022-08-12 |  |
 | [Symptomatic \- Acoustic](https://open.spotify.com/track/73rmLSDAnRIwME7Z2eobSM) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Symptomatic \(Acoustic\)](https://open.spotify.com/album/1GlFnneEXDJ9TxquYq37r2) | 3:02 | 2021-07-23 | 2022-04-29 |
 | [Take Me Back](https://open.spotify.com/track/0r6ccEU9IVpXTUG6CLdDNX) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Take Me Back](https://open.spotify.com/album/0JtLCcaCSa1hdUOq8FUexO) | 3:20 | 2020-06-05 | 2021-04-24 |
 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 | 2022-02-03 |  |

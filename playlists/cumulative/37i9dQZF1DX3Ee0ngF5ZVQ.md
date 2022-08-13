@@ -4,7 +4,7 @@
 
 > From the Dance Halls and Honky Tonks across America to the World! Cover: Wade Bowen
 
-333 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+335 songs - 20 hr 0 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Breaking Every Heart In Texas](https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Breaking Every Heart In Texas](https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz) | 3:26 | 2021-12-17 |  |
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-15 |  |
 | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/track/4AMELibNEGPOQOFNfkdvZj) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/album/5pBKLo2o48EUjRjWiFUmhE) | 3:50 | 2021-12-17 | 2022-01-22 |
+| [Buckle of the Bible Belt](https://open.spotify.com/track/03zP9TiVkMyNul9NArPx6R) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Buckle of the Bible Belt](https://open.spotify.com/album/1dkJmdPnl2W9WoQgrkXFlD) | 3:00 | 2022-08-12 |  |
 | [Build You a Bar](https://open.spotify.com/track/5ipv5YkZIyYCW6h7zjfjKs) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Build You a Bar](https://open.spotify.com/album/3cJepIdRwtbAUJYzTykBQK) | 3:48 | 2022-04-08 | 2022-08-10 |
 | [Build Your Wings](https://open.spotify.com/track/7DvJPzzF30oE4k6YI2tDrf) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Wilder Blue](https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg) | 3:42 | 2022-03-25 | 2022-07-19 |
 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 | 2022-01-07 |  |
@@ -101,7 +102,7 @@
 | [Don't Do It In Texas](https://open.spotify.com/track/0fCzJ0moRAJyt03FFbdZT3) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Don't Do It In Texas](https://open.spotify.com/album/2jPUGtTyhOEhG9V6sy5SeP) | 4:25 | 2022-05-20 |  |
 | [Don't Hold Your Breath](https://open.spotify.com/track/120dlF8jwNeOKgjmLsL25m) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Don't Hold Your Breath](https://open.spotify.com/album/6G12HHIVDRBxhwVEHf6xJz) | 3:46 | 2022-03-11 | 2022-07-25 |
 | [Don't It Make You Wanna Dance?](https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Josh Abbott Band and Friends, Vol\. 1](https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl) | 4:39 | 2022-07-29 |  |
-| [Down in Flames](https://open.spotify.com/track/2P0oaaPrziT3qhjyZCSp2f) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Cody Hibbard](https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K) | 3:35 | 2021-12-17 |  |
+| [Down in Flames](https://open.spotify.com/track/2P0oaaPrziT3qhjyZCSp2f) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Cody Hibbard](https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K) | 3:35 | 2021-12-17 | 2022-08-13 |
 | [Drink Straight](https://open.spotify.com/track/2FdCMLvUosqCi5ABtfNL8F) | [Colby Keeling](https://open.spotify.com/artist/2cdVR4tZs4ErwejZVTqcnL) | [Drink Straight](https://open.spotify.com/album/4kVar6beWi8Q9e4l0lv3l4) | 3:21 | 2022-05-20 | 2022-07-15 |
 | [Drink to That](https://open.spotify.com/track/5bS0EQrItTRmdNCAmdTIpG) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Drink to That](https://open.spotify.com/album/6JBWJvkpMTe4vxTQRT5Kqe) | 3:47 | 2021-12-17 | 2022-06-25 |
 | [Dust](https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw) | 3:06 | 2022-02-04 |  |
@@ -156,6 +157,7 @@
 | [Highways](https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 3:24 | 2022-02-18 |  |
 | [Hits a Little Different](https://open.spotify.com/track/2yOYqHpfCZQjv7u9dfnK5W) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hits a Little Different](https://open.spotify.com/album/676lVWRKGoaQ9lTBmzPCu9) | 2:54 | 2021-12-17 | 2022-01-08 |
 | [Hometown Hero](https://open.spotify.com/track/03CL7YkJByZRIjciH0uQq1) | [Austin Alexander](https://open.spotify.com/artist/65qp4f5zNeT1bHgikTsc5y) | [Hometown Hero](https://open.spotify.com/album/2EmcaUORGDhzpeYqqSE9AV) | 3:52 | 2022-05-27 | 2022-07-09 |
+| [Honky Tonk Roll](https://open.spotify.com/track/4nTBZTi0GQqzX5zbCgCxV8) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Somewhere Between the Secret and the Truth](https://open.spotify.com/album/542S5ZarJgZcBbyLXYSpzj) | 3:48 | 2022-08-12 |  |
 | [Honky Tonk Tonight](https://open.spotify.com/track/1NM3qJCL6qlJP6L29jtl2S) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Honky Tonk Tonight](https://open.spotify.com/album/2eaKZqwCA1vSPGSKN5L6HI) | 2:57 | 2022-04-29 | 2022-07-09 |
 | [Horses in Heaven](https://open.spotify.com/track/5ymisOfkphZPfkPGd2l5Df) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Horses in Heaven](https://open.spotify.com/album/2oBVd4wvuvjmWmNVkG4l3Q) | 4:07 | 2021-12-17 | 2022-03-19 |
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2021-12-17 |  |
@@ -278,7 +280,7 @@
 | [Telling on My Heart](https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 3:37 | 2022-03-25 |  |
 | [Tequila](https://open.spotify.com/track/47KeamTpEfJdN2Dp0cSH6D) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL), [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Tequila](https://open.spotify.com/album/23mpLewIgdoLQrOFT8TcMn) | 3:00 | 2022-05-20 | 2022-07-12 |
 | [Terrifying Nature \- Radio Edit](https://open.spotify.com/track/3mZmMGoGqyVjjLRkR9ZP1l) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/2wbryQP9ji9Bfy1b91NcT1) | 3:47 | 2022-04-01 | 2022-07-09 |
-| [Texas](https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Texas](https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5) | 3:42 | 2022-08-05 |  |
+| [Texas](https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Texas](https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5) | 3:42 | 2022-08-05 | 2022-08-13 |
 | [Texas & You](https://open.spotify.com/track/1rXVMnFigwPfk8tNnLLj3z) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas & You](https://open.spotify.com/album/4DxxgoQzzyA7tAPzAXemCQ) | 3:41 | 2022-03-04 |  |
 | [The Good Ol' U.S\. of A.](https://open.spotify.com/track/0GjSVSf4E80qZQFuRBADZs) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [The Good Ol' U.S\. of A.](https://open.spotify.com/album/12KYJ6Y3Z60POCITCFz6nN) | 3:40 | 2021-12-17 | 2022-03-19 |
 | [The Highway Kind](https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:59 | 2022-08-05 |  |

@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-386 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+388 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Silhouettes](https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [When I Was Younger](https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN) | 2:57 | 2022-06-27 |  |
 | [Simple Things](https://open.spotify.com/track/5XmLP99v54O4zV9vrlBKVS) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Simple Things](https://open.spotify.com/album/0GBbL0Npms5tBYMj8R2yXj) | 2:51 | 2021-07-16 | 2022-07-29 |
 | [Someone to Love](https://open.spotify.com/track/6HLMC8SZVCjGgg7pzdjMsG) | [Atomic Tom](https://open.spotify.com/artist/3HNbNrsIGbM7G63I7UNvze) | [Era](https://open.spotify.com/album/4p1MJGyZJilkfjxYmn7lc0) | 3:42 | 2022-03-11 | 2022-04-19 |
-| [Something Here](https://open.spotify.com/track/7hVJdledWUXvvHlw8SzXxM) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Something Here](https://open.spotify.com/album/1LOtxwfLkAvDmrl0YXISKw) | 4:05 | 2022-03-11 |  |
+| [Something Here](https://open.spotify.com/track/7hVJdledWUXvvHlw8SzXxM) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Something Here](https://open.spotify.com/album/1LOtxwfLkAvDmrl0YXISKw) | 4:05 | 2022-03-11 | 2022-08-13 |
 | [Sometimes](https://open.spotify.com/track/28hGvG19dyLRNHIQbUrZjF) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Sometimes](https://open.spotify.com/album/5DgWHL3rlCEjpiu3HYmOH8) | 3:41 | 2022-03-11 | 2022-04-21 |
 | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK) | 2:51 | 2021-07-30 |  |
 | [Spaceman](https://open.spotify.com/track/1TPevUpxC1UyroBJWuMDtF) | [FITZ](https://open.spotify.com/artist/7FgfVur1vT0yQyKIi0feNB), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Head Up High](https://open.spotify.com/album/0NcUgJYxrZwbrccKZLbmqD) | 2:34 | 2021-03-26 |  |
@@ -314,6 +314,7 @@
 | [Stop it](https://open.spotify.com/track/21K4Irg91lZvVifnBxVdVZ) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Stop it](https://open.spotify.com/album/3us1VOBUhYMEdUcHVeoM71) | 3:48 | 2022-04-08 | 2022-05-05 |
 | [Strange Clouds](https://open.spotify.com/track/7o9fFaoToMlmcTftxZmgMs) | [ufo ufo](https://open.spotify.com/artist/1TsvuGn3XJ4F04fRavTonu) | [Strange Clouds](https://open.spotify.com/album/2FcvJRPcDvWy9SHNTOosii) | 3:26 | 2021-03-10 | 2022-07-30 |
 | [Strangers](https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Strangers](https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui) | 3:13 | 2021-03-10 |  |
+| [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 | 2022-08-12 |  |
 | [Stuck](https://open.spotify.com/track/0x8VeSHmhbRl9EUAdsEx6A) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I Don't Like Being Honest](https://open.spotify.com/album/5kZtMQfFg0BMibHRGi6ghX) | 3:26 | 2022-06-27 |  |
 | [Stuck](https://open.spotify.com/track/7wRXGqMQpTacDEGbJDg8tw) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Stuck](https://open.spotify.com/album/0ij5wkWYJKSxVzROOPRzdU) | 3:26 | 2022-03-11 | 2022-06-22 |
 | [Stumblin' Home](https://open.spotify.com/track/01oyRIMjNlMSN00ETiVduQ) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Stumblin' Home](https://open.spotify.com/album/3vcxSBQfluGFgBjLtHHg0E) | 2:59 | 2021-03-10 | 2022-05-04 |
@@ -333,7 +334,7 @@
 | [Sweet Disaster](https://open.spotify.com/track/1cCF6PzZddhyJgYjN8w5qu) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Sweet Disaster](https://open.spotify.com/album/0zwgTEEMeWgAYOZRRNToC7) | 3:25 | 2022-03-11 | 2022-04-20 |
 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-05-27 |  |
 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 | 2022-03-11 |  |
-| [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-06-27 |  |
+| [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-06-27 | 2022-08-13 |
 | [Take It Easy](https://open.spotify.com/track/1hshQOs2OcbICfroZCu1UD) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW) | [Take It Easy](https://open.spotify.com/album/7g9U3VPeWOeWe6pP7Q4Ayu) | 2:43 | 2021-03-10 | 2022-07-29 |
 | [Talk Too Much](https://open.spotify.com/track/7FX3ZWE70VRjsprg5oeECc) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Talk Too Much](https://open.spotify.com/album/1S6679M19iLZfuoAgtCD1g) | 3:07 | 2021-03-10 | 2022-05-04 |
 | [Talking is Hard](https://open.spotify.com/track/0r733vlPgYPpZ6y6BnFK3U) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Pillows & Therapy](https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG) | 3:17 | 2021-08-13 | 2022-07-29 |
@@ -346,6 +347,7 @@
 | [The Outfield](https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [The Night Game](https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN) | 3:52 | 2022-07-29 |  |
 | [The Outfield](https://open.spotify.com/track/3O2hDxP5BeV4bH99nRvgym) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [The Outfield](https://open.spotify.com/album/6yKzyZeg8EUYBZbw7M2f0V) | 3:59 | 2022-03-11 | 2022-04-20 |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:41 | 2022-07-29 |  |
+| [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2022-08-12 |  |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-27 |  |
 | [This Party](https://open.spotify.com/track/7isDQC5HH4ev21Ma6L8UGg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [This Party](https://open.spotify.com/album/7sXYHSchuHIHgBY9mIG1Xn) | 3:13 | 2022-03-11 | 2022-04-18 |
 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 | 2021-12-20 |  |

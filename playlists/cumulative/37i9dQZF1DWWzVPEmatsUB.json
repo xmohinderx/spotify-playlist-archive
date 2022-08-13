@@ -1508,6 +1508,28 @@
     },
     {
       "album": {
+        "name": "Hardware Store",
+        "url": "https://open.spotify.com/album/2JqETGqzMgqVLHwFjhW29P"
+      },
+      "artists": [
+        {
+          "name": "Victoria Victoria",
+          "url": "https://open.spotify.com/artist/7HCC7kE2A7UW1IGOzajebg"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219292,
+      "name": "Hardware Store",
+      "url": "https://open.spotify.com/track/7L8kWzZYrlXkSNwHgLjYo8"
+    },
+    {
+      "album": {
         "name": "Have It Your Way",
         "url": "https://open.spotify.com/album/46YLWCQYjiqZ3M1lC40fym"
       },
@@ -1937,7 +1959,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 217718,
       "name": "I Might Be In Love With You",
       "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
@@ -2759,6 +2781,24 @@
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+    },
+    {
+      "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/0cb33rdz5GzgW9R8zj6CAo"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172830,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/3ka3EiIf8D2kffzcQkdwdp"
     },
     {
       "album": {
@@ -4591,7 +4631,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 216482,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/3iWv5jxk4Qq2339O29I5lJ"

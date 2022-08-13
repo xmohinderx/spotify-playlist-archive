@@ -1,28 +1,72 @@
 {
-  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de MC Davo.",
-  "num_followers": 562443,
+  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Santa Fe Klan.",
+  "num_followers": 564609,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1NDAwMCwwMDAwMDAwMDYwMTk3MWVjZDdhZDdmYzk4ZDYzNTRmYjg1OWE4NGIx",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMGFjMjgwYjJlNmIzMGUwYmU2OGJlMTAyYTZmMDQ1NDJi",
   "tracks": [
     {
-      "added_at": "2022-08-04 23:00:00",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/1h4Z8hvxf9BIlEysjDv6Bv"
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 181318,
-      "name": "Invencible",
-      "url": "https://open.spotify.com/track/5pakuQIl6IqFHdh7WgTQx8"
+      "duration_ms": 181765,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/1dWLpH4Z7QFzSTyjEM5WIi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 220318,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/5B26ba8DVAD18tstVEwcOW"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Suena En Mi Barrio",
+        "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Suena En Mi Barrio",
+      "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -71,26 +115,18 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Canciones Mamalonas 2",
-        "url": "https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO"
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/1h4Z8hvxf9BIlEysjDv6Bv"
       },
       "artists": [
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
         }
       ],
-      "duration_ms": 202597,
-      "name": "No Que No Eras Fan",
-      "url": "https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N"
+      "duration_ms": 181318,
+      "name": "Invencible",
+      "url": "https://open.spotify.com/track/5pakuQIl6IqFHdh7WgTQx8"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -111,6 +147,30 @@
       "duration_ms": 256334,
       "name": "Somos Varios",
       "url": "https://open.spotify.com/track/2hFYvGaFDdcv6tNPFtbBPi"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "No Que No Eras Fan",
+      "url": "https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N"
     },
     {
       "added_at": "2022-08-04 23:00:00",

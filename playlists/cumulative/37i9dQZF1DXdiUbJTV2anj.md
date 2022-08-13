@@ -2,7 +2,7 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: Nicolas Cage Fighter
+> Heavy new bands you need to have an eye on\. Cover: Chat Pile
 
 60 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 

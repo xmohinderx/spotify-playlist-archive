@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-146 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
+148 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [I Know You Know \- 電視劇《我的真朋友》主題曲](https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK) | [李治廷](https://open.spotify.com/artist/5RkHWm6vOA31T32qyjQxgd) | [I Know You Know\-電視劇《我的真朋友》主題曲](https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ) | 4:04 | 2022-06-02 |  |
 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 | 2022-06-16 |  |
 | [It's Time \- 影集《2049》插曲](https://open.spotify.com/track/7JNR8qb7kaTnutgjnZntOY) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [It's Time \(影集《2049》插曲\)](https://open.spotify.com/album/64n8dIEZz7Wy94nkT3rxIe) | 3:19 | 2022-06-10 | 2022-07-27 |
+| [Long Long Way](https://open.spotify.com/track/4HybKmCMLUaejSe7gXVtet) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 4:34 | 2022-08-11 |  |
 | [Maybe It’s for the Best](https://open.spotify.com/track/0xUULqd08ANKwp1u7Fh6Oz) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [Nothing is Under Control](https://open.spotify.com/album/6t6g0WbY1pim62oRUmxF2D) | 3:40 | 2022-06-10 | 2022-07-11 |
 | [Midnight Sun \- Acoustic](https://open.spotify.com/track/59g2Rii8PghTk5gwUgYwrP) | [Brian Yoong](https://open.spotify.com/artist/4lH5eW1YgDycEJoI3LHt8R), [Joel](https://open.spotify.com/artist/15VtB8EsjO97HFzbDsW129) | [Midnight Sun \(Acoustic\)](https://open.spotify.com/album/2oZbwitCD52R9ffOJN5xOe) | 4:01 | 2022-06-27 | 2022-07-01 |
 | [Remember \- 電影《跟你老婆去旅行》插曲](https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [Remember \(電影《跟你老婆去旅行》插曲\)](https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW) | 3:13 | 2022-06-02 |  |
@@ -28,13 +29,14 @@
 | [Twisted](https://open.spotify.com/track/3Qg03Ze6ifmmAGznwr1Xm5) | [Electrico](https://open.spotify.com/artist/4DxELhGCnHXSqYwq6fbcmv) | [Twisted](https://open.spotify.com/album/6T13N7kZpv449TROnEk40y) | 3:17 | 2022-06-16 | 2022-06-23 |
 | [What if..?](https://open.spotify.com/track/4Bia9GoL6kHh0By80gxB6k) | [MiLK](https://open.spotify.com/artist/0NgRZYjBqL5GG9NVxiYLKS) | [What if..? \(Side A\)](https://open.spotify.com/album/7G6FUjpT0xLFIaiZHLQR63) | 5:15 | 2022-07-15 | 2022-07-21 |
 | [一年後的故事](https://open.spotify.com/track/0Cr52aceiNO1ssiC3v1PMx) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Present](https://open.spotify.com/album/4K9vimMcfuuVIK9aMVIQKr) | 4:22 | 2022-06-02 | 2022-07-08 |
-| [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 |  |
+| [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 | 2022-08-13 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2022-07-28 |  |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/7KAhj1obJrK5Avezca7YVL) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/4q7WSRlVNR02cyiCrCj2bo) | 4:00 | 2022-06-02 | 2022-07-29 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/5QGgJpeO4EHR1KTa0L8yKK) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/7xBe5EKRxZk4icCZw91SMM) | 3:41 | 2022-06-02 | 2022-07-29 |
 | [不用告訴我 \- 東森戲劇台韓劇「巧克力」片尾曲](https://open.spotify.com/track/1GWsEPe6pIYlqrNFEMExdX) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Sounds of My Life](https://open.spotify.com/album/2LmBCs61pclie64NIWqPWS) | 4:28 | 2022-06-02 |  |
 | [不能寂寞的人](https://open.spotify.com/track/7yI3EmfG2SCjoB1PkjcwrX) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [愚者](https://open.spotify.com/album/4GtICvnqTjOdv9htYsqqG7) | 5:30 | 2022-06-02 | 2022-07-21 |
 | [不該擁有的事情 \(孤單版\) \[傻傻愛你,傻傻愛我 電影主題曲\]](https://open.spotify.com/track/2KKG5iSWFTEDhXj4plGNJD) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [不該擁有的事情 \(傻傻愛你,傻傻愛我 電影主題曲\)](https://open.spotify.com/album/0rjpWpqLzccQOVG7X5hnZu) | 5:22 | 2022-06-02 | 2022-06-10 |
+| [为自己而微笑 \- Bonus Track](https://open.spotify.com/track/1dorFJsUrP4jgo8a96PQgV) | [Ben Hum](https://open.spotify.com/artist/4ATqdfAOYsKwaVVPEktade) | [为自己而微笑 \(Bonus Track\)](https://open.spotify.com/album/740fp6IsyxCpa9y5ChyyJQ) | 3:52 | 2022-08-11 |  |
 | [人什麼的最麻煩了](https://open.spotify.com/track/6AbXNaq2f9MDbhSY8RpUlo) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/2ocw8ufNH6dO7QLMLidKk1) | 4:28 | 2022-06-10 | 2022-06-17 |
 | [人類廢品\(電視劇《誰在你身邊Who’s By Your Side》片尾曲\)](https://open.spotify.com/track/61AGtV0vo7qb6kZkHoENlC) | [Morrison 馬仕釗](https://open.spotify.com/artist/1M9G5HbEeGkueCTaHNsGUN) | [電視劇《誰在你身邊》](https://open.spotify.com/album/6ulvcKBI9kZKuskV1GA7IT) | 3:53 | 2022-06-16 | 2022-07-07 |
 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 | 2022-07-28 |  |
@@ -75,7 +77,7 @@
 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 | 2022-08-11 |  |
 | [想和你一起](https://open.spotify.com/track/5fktrJ3Sds9nmhyVva2irU) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [如果你也愛我就好了](https://open.spotify.com/album/5s3lkz5pkdwPir6BwFqFDb) | 3:53 | 2022-06-02 | 2022-07-29 |
 | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/track/3m51Vc66fUIorBDsck4LwC) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/album/79uriKWKqmAdmFaSed84rV) | 3:52 | 2022-06-23 | 2022-07-12 |
-| [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 | 2022-06-02 |  |
+| [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 | 2022-06-02 | 2022-08-13 |
 | [想把空白的日子留给你](https://open.spotify.com/track/4Mw26chMpfO6JvbFgFpKUF) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [想把空白的日子留给你](https://open.spotify.com/album/0yMMA9HWHFVFGkkOs8nxSI) | 4:19 | 2022-06-02 | 2022-07-29 |
 | [愛你\-十周年版](https://open.spotify.com/track/4l6MkYf4FSw9kFQqSUktx5) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [愛你\-十周年版](https://open.spotify.com/album/6ZEYMuyw0GYjJg6GgjS31O) | 3:29 | 2022-07-21 | 2022-07-27 |
 | [愛在黎明破曉時](https://open.spotify.com/track/5t43GhQjOmgb7w87aB2PAY) | [郭蘅祈](https://open.spotify.com/artist/4MgyXYuewRjb1b6ennlLMo) | [愛在黎明破曉時](https://open.spotify.com/album/6AOX0LUghg1RAjgdwaNzxl) | 4:30 | 2022-06-30 | 2022-07-09 |

@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-128 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/5d9UavNO8FyfxzAd916POx)
+130 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/5d9UavNO8FyfxzAd916POx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,12 +33,14 @@
 | [Buenos Días, Tardes Ya](https://open.spotify.com/track/2R199UIEVC34Nou5YQahMj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Buenos Días, Tardes Ya](https://open.spotify.com/album/5yelo0AalKgvc2TzyOXbJ2) | 4:12 | 2022-01-28 |  |
 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 | 2022-02-25 |  |
 | [Califórnica](https://open.spotify.com/track/50gjhPjZCyQpya1Bcq2BNe) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Monarca](https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw) | 3:30 | 2022-04-26 |  |
+| [Como Quiero Que Me Quieras](https://open.spotify.com/track/71NIlviM9agiffcoqAVKE1) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Como Quiero Que Me Quieras](https://open.spotify.com/album/3xTH9gNXwR0KJgkEKEP7Si) | 3:54 | 2022-08-13 |  |
 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 | 2022-07-01 |  |
 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 | 2022-04-26 |  |
 | [Compartir](https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z) | 4:19 | 2022-01-28 |  |
 | [Contour](https://open.spotify.com/track/3YY5FrLS9mnYOBnhr4uVoX) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Contour](https://open.spotify.com/album/7BBg5lA5vQOoiUWnrVWj86) | 3:44 | 2022-08-01 |  |
 | [Corazón Atómico](https://open.spotify.com/track/0axbGyJYPGhzVaxzm6cHcq) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 3:54 | 2022-01-28 |  |
 | [Corazón Atómico](https://open.spotify.com/track/5gEepcBJx2Y7upzg5fkCxn) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/7d8ZXzEcGuiFOJSpLsfcTB) | 3:54 | 2022-01-28 | 2022-07-29 |
+| [Crimen](https://open.spotify.com/track/4rl7tALHULBjGV7V5gdtaS) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Crimen](https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i) | 4:00 | 2022-08-13 |  |
 | [Cuando](https://open.spotify.com/track/2zLpAVqDJ2YfxIFNGMS8y0) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 3:26 | 2022-04-26 |  |
 | [Cámara De Faltas](https://open.spotify.com/track/6O3D5ai8UmEHwyicBq07pk) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enjambre Y Los Huéspedes Del Orbe](https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP) | 3:43 | 2022-04-26 |  |
 | [Departamento](https://open.spotify.com/track/2RGk67GArzQcQa3AWSulJb) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Departamento](https://open.spotify.com/album/2ye38S3VSsbseIzQgtTP40) | 3:54 | 2022-01-28 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Parkway Drive on top of the biggest Metal playlist!",
+  "description": "Amon Amarth on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -748,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Cursed to Die",
+        "url": "https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0"
+      },
+      "artists": [
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Cursed to Die",
+      "url": "https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L"
+    },
+    {
+      "album": {
         "name": "Cut Throat",
         "url": "https://open.spotify.com/album/4NKyOHHQpw04ELBF9w5bur"
       },
@@ -1010,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "Jackpot Juicer",
+        "url": "https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221282,
+      "name": "Die Another Day",
+      "url": "https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV"
+    },
+    {
+      "album": {
         "name": "Dismantled",
         "url": "https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T"
       },
@@ -1227,7 +1263,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 234149,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F"
@@ -1343,10 +1379,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 173187,
       "name": "Filth Upon Filth",
       "url": "https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN"
+    },
+    {
+      "album": {
+        "name": "The Great Heathen Army",
+        "url": "https://open.spotify.com/album/49RfDv9BawZQq8hJq0V5wB"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270613,
+      "name": "Find a Way or Make One",
+      "url": "https://open.spotify.com/track/4NtpLuz8QFPrCofWmeBYy8"
     },
     {
       "album": {
@@ -2463,7 +2517,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 398253,
       "name": "Night Stalkers",
       "url": "https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN"
@@ -2921,7 +2975,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 243312,
       "name": "Radiant Ascension",
       "url": "https://open.spotify.com/track/6dej08jlv9hjFgfYRiCT3b"
@@ -3232,6 +3286,24 @@
     },
     {
       "album": {
+        "name": "Silver Tongue",
+        "url": "https://open.spotify.com/album/60gDJXh5wx8VyyvFkt7fbf"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258786,
+      "name": "Silver Tongue",
+      "url": "https://open.spotify.com/track/7l3WTEY9owUL3kRgna75Bd"
+    },
+    {
+      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx"
       },
@@ -3345,6 +3417,24 @@
       "duration_ms": 218000,
       "name": "Soldier of Heaven",
       "url": "https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG"
+    },
+    {
+      "album": {
+        "name": "Soldier On! / Night Stalkers / We\u2019ll Be Back",
+        "url": "https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294426,
+      "name": "Soldier On!",
+      "url": "https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt"
     },
     {
       "album": {
@@ -3489,7 +3579,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 238187,
       "name": "State Of Slow Decay",
       "url": "https://open.spotify.com/track/4CbZ37zpHKk3FQuV7bRVHB"
@@ -3813,10 +3903,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 203586,
       "name": "The Dying Song (Time To Sing)",
       "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+    },
+    {
+      "album": {
+        "name": "The Great Deceiver",
+        "url": "https://open.spotify.com/album/7z9CvBMKxahud7VulgomWT"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225314,
+      "name": "The Great Deceiver",
+      "url": "https://open.spotify.com/track/1rnNJckSOjUlvoCw3gV5ob"
     },
     {
       "album": {

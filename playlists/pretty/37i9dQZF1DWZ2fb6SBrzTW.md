@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,582 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,607 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [My Everything](https://open.spotify.com/track/2t4dEWxR7CaMAlM6TMIMT3) | [Jay Moore](https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [My Everything](https://open.spotify.com/album/58caLgwj61i831LmHAu6kU) | 2:37 |
 | 60 | [Hennessy \- Remix](https://open.spotify.com/track/6B6yXEraBwQVlTdqtT03Lx) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Hennessy \(Remix\)](https://open.spotify.com/album/0nZh7vzE6SPFK7qQckplwZ) | 3:03 |
 
-Snapshot ID: `MTY1OTkzMzgzOCwwMDAwMDAwMDE3MDliYjc4ZmNiMjhiZTA3NzU1ZGVjMzhkZjI2NjFh`
+Snapshot ID: `MTY2MDI4Mjk5OCwwMDAwMDAwMDhkOTY4YTIxM2VlNzczMTlmMzY2N2NjZTEzNzE1Y2I0`

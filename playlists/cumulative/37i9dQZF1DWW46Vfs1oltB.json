@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#DONMALIKSMTM11",
+        "url": "https://open.spotify.com/album/705lZ6ZDJSAFhL7xpEPXPs"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134360,
+      "name": "#DONMALIKSMTM11",
+      "url": "https://open.spotify.com/track/1rzhbR6ZTIUe9a35Q53bBb"
+    },
+    {
+      "album": {
         "name": "Drop The Bit The 3rd round Pt. 2",
         "url": "https://open.spotify.com/album/4k7Dv3Ffof2s8VLbFTPGiO"
       },
@@ -485,7 +503,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 114920,
       "name": "@rollingloud",
       "url": "https://open.spotify.com/track/1BaPN9BN5zMTX9V7CYPc84"
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 198226,
       "name": "B.B.B (Feat. The Quiett)",
       "url": "https://open.spotify.com/track/0PCthiXmn3MFXzvn0eAiBY"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 179658,
       "name": "Bad Neighbors",
       "url": "https://open.spotify.com/track/1Z3U1Q3fH8NY34NWBor9Tu"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 187200,
       "name": "Big Vibes",
       "url": "https://open.spotify.com/track/1K72CWGjzSeHyx13Lja99g"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 207293,
       "name": "Cloudy",
       "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
@@ -2597,7 +2615,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 253800,
       "name": "Django (Feat. OUREALGOAT, lobonabeat!, Gwangil Jo)",
       "url": "https://open.spotify.com/track/7uGO4ntCROPoSs1VmzklAt"
@@ -2777,7 +2795,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 135120,
       "name": "Don\u2032t do That",
       "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
@@ -3043,6 +3061,32 @@
       "duration_ms": 177972,
       "name": "Drunk All Night",
       "url": "https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs"
+    },
+    {
+      "album": {
+        "name": "END OF PUBERTY",
+        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
+      },
+      "artists": [
+        {
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        },
+        {
+          "name": "Dbo",
+          "url": "https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283106,
+      "name": "E MINOR FREESTYLE",
+      "url": "https://open.spotify.com/track/7FQeQXRLz0mHpPiCwdDRw8"
     },
     {
       "album": {
@@ -4495,7 +4539,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 203624,
       "name": "Hair Style (feat. DON MALIK & Hannah)",
       "url": "https://open.spotify.com/track/5Wwr9KJMb6QrF8CxeFp1RH"
@@ -4547,7 +4591,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 224867,
       "name": "HANDSOME (Feat. B.I, Nucksal, Kid Milli, Gaeko)",
       "url": "https://open.spotify.com/track/7nOhwguQZznQfy562P5VlV"
@@ -4699,7 +4743,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 128000,
       "name": "HEY ! (feat. BE'O)",
       "url": "https://open.spotify.com/track/4a31DL5YaZZMq14Li20RhQ"
@@ -5959,6 +6003,28 @@
       "duration_ms": 447724,
       "name": "Last Station",
       "url": "https://open.spotify.com/track/3xQ45ceckza2UflpZsvpMC"
+    },
+    {
+      "album": {
+        "name": "Webtoon 'Return of the Blossoming Blade' Part. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3YQ7TbgFOVsiWt3nneBhFm"
+      },
+      "artists": [
+        {
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+        },
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "Last Sword Dance (Feat. Koonta)",
+      "url": "https://open.spotify.com/track/5lRbrmGzrBFqDRNS95yY9l"
     },
     {
       "album": {
@@ -7263,7 +7329,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 193750,
       "name": "Move Up (Prod. by Deepflow & Van Ruther)",
       "url": "https://open.spotify.com/track/69QwCU3FaWdRLfU9YMKe5G"
@@ -7315,7 +7381,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 193333,
       "name": "Mr. FOSHO (feat. OXYNOVA, Polodared & KHAN)",
       "url": "https://open.spotify.com/track/2QAb4EOQoy8QshiTBAaCH2"
@@ -7579,7 +7645,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 217733,
       "name": "Next Up (Feat. Gwangil Jo, walo)",
       "url": "https://open.spotify.com/track/74GvPNvJlrovH9rhlTaPSI"
@@ -7627,6 +7693,28 @@
       "duration_ms": 196500,
       "name": "nirvana",
       "url": "https://open.spotify.com/track/6lwnaua89XJozpusT4mirf"
+    },
+    {
+      "album": {
+        "name": "NNF",
+        "url": "https://open.spotify.com/album/336ugqpZP6UFw65P20Esew"
+      },
+      "artists": [
+        {
+          "name": "lobonabeat!",
+          "url": "https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169852,
+      "name": "nnf (no new friends) ft. Paloalto",
+      "url": "https://open.spotify.com/track/0Yd8wygb0bKGDVF4UeNCRi"
     },
     {
       "album": {
@@ -7909,7 +7997,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 186720,
       "name": "On and on (feat. FANA)",
       "url": "https://open.spotify.com/track/5Nlr3ZAz0J3N0IJSVeEe6g"
@@ -7953,7 +8041,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 196956,
       "name": "one (feat. Paul Blanco, Kim Seungmin)",
       "url": "https://open.spotify.com/track/6AWXGKo1zTjMV1WNjIpwhx"
@@ -8733,7 +8821,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 180934,
       "name": "RACHA!",
       "url": "https://open.spotify.com/track/56esqTuj8kbbyuo2nRtAnW"
@@ -8821,7 +8909,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 186168,
       "name": "Rebuild The World (feat. GARY & BILL STAX)",
       "url": "https://open.spotify.com/track/1MHQj1DDhsDNbpdDV6J7Fk"
@@ -9259,7 +9347,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 276394,
       "name": "Room Rapper Cypher (Prod. Catnip)",
       "url": "https://open.spotify.com/track/44ZkGGIMy1OLzgfvbtuskh"
@@ -9487,7 +9575,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 248000,
       "name": "Seat Belt (Feat. Dynamic Duo)",
       "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
@@ -9569,6 +9657,28 @@
       "duration_ms": 251040,
       "name": "Set me Free (Feat. Loopy, Jvcki Wai)",
       "url": "https://open.spotify.com/track/5vV2KCFpZUM3WVsnBDxojc"
+    },
+    {
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/5KBCqZ94VTGyw9RIKtJD7y"
+      },
+      "artists": [
+        {
+          "name": "CHANHYUN",
+          "url": "https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209893,
+      "name": "Shhh (Feat.Leellamarz) (Prod.GRAY)",
+      "url": "https://open.spotify.com/track/0x3WxddWUurD9VTkgcFt9a"
     },
     {
       "album": {
@@ -10205,7 +10315,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 218520,
       "name": "STAY",
       "url": "https://open.spotify.com/track/3bTARPmSqeHFftWTBx51dT"
@@ -10647,6 +10757,28 @@
       "duration_ms": 195312,
       "name": "Tattoo (feat. Jayci yucca, YongYong)",
       "url": "https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG"
+    },
+    {
+      "album": {
+        "name": "TEAM NY In The House",
+        "url": "https://open.spotify.com/album/2UmGWWFcYHCzPijx7zKEgu"
+      },
+      "artists": [
+        {
+          "name": "TEAM NY",
+          "url": "https://open.spotify.com/artist/6l1aV2YBZdFqWnNlsobpl7"
+        },
+        {
+          "name": "PUFF DAEHEE",
+          "url": "https://open.spotify.com/artist/3JZuQV3uJJtoDkkWDNt1oJ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249133,
+      "name": "TEAM NY In The House (Feat. PUFF DAEHEE)",
+      "url": "https://open.spotify.com/track/54h9zrzO1pw5EdOwKV4dCO"
     },
     {
       "album": {
@@ -11269,7 +11401,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 183157,
       "name": "UDUDSTND (Feat. unofficialboyy, The Quiett)",
       "url": "https://open.spotify.com/track/1smZ7W4gwWb8VezmLM6YRr"
@@ -11473,7 +11605,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 216293,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
@@ -12275,7 +12407,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 235000,
       "name": "\ub69d\ub69d\ub69d",
       "url": "https://open.spotify.com/track/6qqOz5LS19krVTFAvcSD3A"

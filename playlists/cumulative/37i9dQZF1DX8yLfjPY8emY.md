@@ -4,7 +4,7 @@
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-128 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/3NPFPzywLrReMGONHDdRqu)
+129 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/3NPFPzywLrReMGONHDdRqu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Carola](https://open.spotify.com/track/6dcm0TIdy8FXJFiX0m5yk2) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Colección 100 Éxitos de Rodolfo Aicardi](https://open.spotify.com/album/5VywhvVETbUeEedl9aBVCb) | 2:53 | 2022-04-22 | 2022-07-29 |
 | [Cómo Te Voy a Olvidar](https://open.spotify.com/track/1YHiq5iuXraptr8feJfEZn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Cómo Te Voy a Olvidar](https://open.spotify.com/album/3ERz9oKdZXefGVnDajDR5m) | 4:20 | 2021-09-14 | 2022-07-27 |
 | [Culpable o No](https://open.spotify.com/track/1GbJ9RLOTvjSbSgIL4nlxL) | [Arturo Jaimes Y Los Cantantes](https://open.spotify.com/artist/4LOxW5D6hIgOAAOh1jedrx), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Culpable o No](https://open.spotify.com/album/49igeZ8QndVCzyJZQjfco8) | 3:31 | 2022-01-24 | 2022-05-05 |
+| [Cumbia Del Corazón](https://open.spotify.com/track/4dURe03os9BAxIO0RThU28) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Cumbia Del Corazón](https://open.spotify.com/album/3mfwypID037UHlutwTYINo) | 3:17 | 2022-08-12 |  |
 | [Cumbia en la Playa](https://open.spotify.com/track/1CVEnTYdDbuIoiPqSIMObW) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Evolución](https://open.spotify.com/album/0mMxjOcOGuYYIB4h6SxXJl) | 5:26 | 2022-04-22 | 2022-06-23 |
 | [Cumbia Negra para el Amor](https://open.spotify.com/track/3FjKUSOS87FkDdVcrMz849) | [Jaison Neutra](https://open.spotify.com/artist/0tzIRowoKOf2XyvvuSBRWf) | [Cumbia Negra para el Amor](https://open.spotify.com/album/0Q8Uu1FOuKubvPWdidkMqv) | 3:38 | 2022-01-24 | 2022-02-15 |
 | [Cumbia Pa' Gozar](https://open.spotify.com/track/34KCj9Hh9W4RoDu9KJZghy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [20 Exitos..\. Historia Musical](https://open.spotify.com/album/5GNYu7Z0JkSIDJGp10Vwjd) | 3:27 | 2022-01-24 | 2022-01-30 |
@@ -31,7 +32,7 @@
 | [De quen chon](https://open.spotify.com/track/65zdTPcK0TnGzg6T5Hd3AO) | [Chico Che](https://open.spotify.com/artist/0OTssa9UMMb9qf6NxI3Ysx), [La Crisis](https://open.spotify.com/artist/4tFlOZDZ7DPc0X2Vinjh5R) | [El Ritmo De Chico Che Y La Crisis](https://open.spotify.com/album/5vZud9R730Mke578pFH3fD) | 2:47 | 2021-09-14 | 2022-07-07 |
 | [Debería Odiarte](https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:28 | 2021-09-14 | 2022-01-25 |
 | [Destilando Amor](https://open.spotify.com/track/1VL6n94ZDAHk3nwyqIGgTp) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Destilando Amor](https://open.spotify.com/album/0jXhlN1DHW662aZCXUGxYH) | 3:37 | 2021-09-14 | 2022-07-29 |
-| [Destilando Amor](https://open.spotify.com/track/4aeteklsGBPXRfZPKN4NS5) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Piel A Piel](https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA) | 3:39 | 2022-04-22 |  |
+| [Destilando Amor](https://open.spotify.com/track/4aeteklsGBPXRfZPKN4NS5) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Piel A Piel](https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA) | 3:39 | 2022-04-22 | 2022-08-13 |
 | [Dr\. Psiquiatra](https://open.spotify.com/track/7lcEnkQEdNzjGGswqrZu6V) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 3:22 | 2021-09-14 | 2022-07-27 |
 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 | 2021-09-14 | 2022-07-29 |
 | [Echarme Al Olvido](https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 4:41 | 2022-04-22 |  |

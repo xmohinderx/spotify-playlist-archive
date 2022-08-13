@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 
 > This Sunday, let's tune out the words.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,339 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,330 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

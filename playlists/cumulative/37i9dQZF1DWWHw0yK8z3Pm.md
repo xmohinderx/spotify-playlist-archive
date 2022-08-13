@@ -2,9 +2,9 @@
 
 ### [Renegade Folk](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Singer\-songwriters who colour outside the lines\. Cover: Bella White
+> Singer\-songwriters who colour outside the lines\. Cover: Mariel Buckley
 
-152 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+155 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,11 +44,12 @@
 | [Danger](https://open.spotify.com/track/4Fy2cDn5ULDvWSBtZ4uEFd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:25 | 2022-05-13 |  |
 | [Deadman](https://open.spotify.com/track/45saT9CynzZGwGkqsJkQGx) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [Deadman](https://open.spotify.com/album/4wgVruIbA98zWPV0LXgCfa) | 3:44 | 2022-05-13 |  |
 | [December](https://open.spotify.com/track/1mXGajS1lGOU7GHZuOIVYk) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Other Way Home](https://open.spotify.com/album/18LCsG2QzCUtQhtP3p34yd) | 4:25 | 2022-06-17 |  |
+| [Deep Talk](https://open.spotify.com/track/1967H4f0q93QGFHyB14mZa) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Deep Talk](https://open.spotify.com/album/5vRPv5tGYxtzNdyYwZTTg3) | 4:34 | 2022-08-12 |  |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-05-13 | 2022-07-23 |
 | [Do About Her](https://open.spotify.com/track/71ALgRSQ1neaZmRT2Ivj0P) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [The Spaces In Between](https://open.spotify.com/album/7m0pjaaLCwCqT7dnF6uTfi) | 3:33 | 2022-05-27 |  |
 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 | 2022-05-13 |  |
 | [Drips and Drops](https://open.spotify.com/track/3sobW38S1XKJ8RyWeckrW1) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [Drips and Drops](https://open.spotify.com/album/1dbuSXkDC1bnfOEd3rzhse) | 4:01 | 2022-06-17 |  |
-| [Driving Around](https://open.spotify.com/track/0UskdLSFEqspr1gMKADP27) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Driving Around](https://open.spotify.com/album/5qOU27Kapl0stO8FTbgClv) | 3:48 | 2022-07-08 |  |
+| [Driving Around](https://open.spotify.com/track/0UskdLSFEqspr1gMKADP27) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Driving Around](https://open.spotify.com/album/5qOU27Kapl0stO8FTbgClv) | 3:48 | 2022-07-08 | 2022-08-13 |
 | [Dusty Bottles](https://open.spotify.com/track/79eXcwwGDoGby7NxPOW0vw) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dusty Bottles](https://open.spotify.com/album/1O0K1b7OZDchLrM0ifo9d9) | 3:30 | 2022-05-13 | 2022-07-29 |
 | [Dusty Bottles](https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 3:30 | 2022-07-22 |  |
 | [Everyday](https://open.spotify.com/track/4MhSHMQnlowD8yrHmnK6j9) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Everyday](https://open.spotify.com/album/0dgI0FRXO5KR5jdKhE7q4c) | 3:21 | 2022-05-13 | 2022-07-23 |
@@ -67,7 +68,7 @@
 | [Headlines](https://open.spotify.com/track/0RIVsm9eMXUAhUgrQ7NeFj) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Highs in the Minuses](https://open.spotify.com/album/2zR97oZdXueACHFn00iuR7) | 3:41 | 2022-05-13 | 2022-07-29 |
 | [Headlines](https://open.spotify.com/track/2fFsZaYABWElJixFWJkqlN) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Highs in the Minuses](https://open.spotify.com/album/1Az1xkr19Qdy3guiCl7YyF) | 3:41 | 2022-07-22 |  |
 | [Heaven and Light](https://open.spotify.com/track/1MDJjLqAdQ7anWrYvDVOZ1) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Heaven and Light](https://open.spotify.com/album/7vRJrhetiOy3OurJ2Gqw0o) | 3:15 | 2022-05-13 | 2022-06-25 |
-| [Heaven's Touch](https://open.spotify.com/track/3bHfBsUAC23VN6oHwvLCwZ) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Heaven's Touch](https://open.spotify.com/album/2ebFuRMHOl8YI6pH6cZAJx) | 3:17 | 2022-05-13 |  |
+| [Heaven's Touch](https://open.spotify.com/track/3bHfBsUAC23VN6oHwvLCwZ) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Heaven's Touch](https://open.spotify.com/album/2ebFuRMHOl8YI6pH6cZAJx) | 3:17 | 2022-05-13 | 2022-08-13 |
 | [Hot Sun](https://open.spotify.com/track/7boU5TwZT4PNnBFKvj64i0) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [Hot Sun](https://open.spotify.com/album/5zsMjaSXlfETTQhVwDHnMj) | 3:01 | 2022-06-27 |  |
 | [How Do You Love with a Broken Heart?](https://open.spotify.com/track/5VFIPHbkvSyVp2kANgpSVg) | [Leeroy Stagger](https://open.spotify.com/artist/3ltVtf7QHIwJBNQHqjb9UI) | [Dystopian Weekends](https://open.spotify.com/album/6nA8bcaAUOF4iTEtIPWjk2) | 3:48 | 2022-05-13 |  |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-07-22 |  |
@@ -103,6 +104,7 @@
 | [My Best Western](https://open.spotify.com/track/6fKhdMy7iJhOQPDVgzGcqh) | [Yesterday's Ring](https://open.spotify.com/artist/7z76KyK7conOi6VHDiEPk6) | [Goodbye Nightlife](https://open.spotify.com/album/37nVbLsncw7oAuUPtkwObQ) | 3:15 | 2022-07-22 |  |
 | [My Darlin'](https://open.spotify.com/track/4X0FKaG7iuwTpCPyEs5HFp) | [CALICO](https://open.spotify.com/artist/3Up8jTurMilOn2IKFTm7o2) | [My Darlin'](https://open.spotify.com/album/2g8mVKzOZoDbsgbCTjCy7q) | 2:57 | 2022-05-13 | 2022-07-30 |
 | [Nautical Disaster](https://open.spotify.com/track/6wazfCfvmYBOprq7Zq6kLL) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Nautical Disaster](https://open.spotify.com/album/3NLfuDDCC5hvsUEVgknel2) | 5:00 | 2022-05-13 | 2022-05-20 |
+| [Neon Blue](https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be](https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV) | 4:19 | 2022-08-12 |  |
 | [Next Somewhere](https://open.spotify.com/track/2BUHojp3DLIExIWPB7fHCZ) | [Sweet Alibi](https://open.spotify.com/artist/1g4g3e7KmtiCWGIazim0A4) | [Make A Scene](https://open.spotify.com/album/6t71WvBFQJpWzVeg2IWA3h) | 4:09 | 2022-05-13 |  |
 | [Nobody](https://open.spotify.com/track/3S1jrpvGleaEv1KQ8mXCpK) | [David James Allen](https://open.spotify.com/artist/3a1RtSeqazHL2kYLbhydx3) | [Nobody](https://open.spotify.com/album/3No89K9dFtQ4UQGyq1IPL2) | 2:53 | 2022-05-13 |  |
 | [North of the Border](https://open.spotify.com/track/1on5aZH6WRLgP0UZsvy680) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [North of the Border](https://open.spotify.com/album/7q3LN4jWho4NMiBXa4EPoi) | 4:24 | 2022-07-22 |  |
@@ -124,7 +126,7 @@
 | [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-29 |  |
 | [She Calls Me](https://open.spotify.com/track/7M86EjRimOoo0BGWZckC4X) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:54 | 2022-06-24 |  |
 | [Shooting at the Moon](https://open.spotify.com/track/6BiT0rQrxNTbglW7jBPd5D) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Shooting at the Moon](https://open.spotify.com/album/1WoVKktys2ml21iQ7nPFum) | 3:19 | 2022-06-03 | 2022-07-09 |
-| [Shreveport to L.A.](https://open.spotify.com/track/71HLRGiyMmw9G3dUeDDDJz) | [Mike Plume](https://open.spotify.com/artist/2bTUu34JOWSVnqOSeFmCcr) | [Shreveport to L.A.](https://open.spotify.com/album/0O6x0qmrGiS0FGYavcaCQH) | 3:59 | 2022-05-13 |  |
+| [Shreveport to L.A.](https://open.spotify.com/track/71HLRGiyMmw9G3dUeDDDJz) | [Mike Plume](https://open.spotify.com/artist/2bTUu34JOWSVnqOSeFmCcr) | [Shreveport to L.A.](https://open.spotify.com/album/0O6x0qmrGiS0FGYavcaCQH) | 3:59 | 2022-05-13 | 2022-08-13 |
 | [Somebody Like You](https://open.spotify.com/track/3wlO7uuhoREZLDQtbnXjqu) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Somebody Like You](https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ) | 3:21 | 2022-05-13 | 2022-08-06 |
 | [Souvenir](https://open.spotify.com/track/0DZM7vZBFKRkXnPpq17siT) | [Pharis & Jason Romero](https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS) | [Souvenir B/W Pale Morning](https://open.spotify.com/album/0Gsju9lPWoExFjkRdz0izK) | 3:23 | 2022-05-13 |  |
 | [Staring Down the North](https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg) | [Tylor & the Train Robbers](https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F) | [Non\-Typical Find](https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7) | 4:49 | 2022-07-22 |  |
@@ -155,6 +157,7 @@
 | [Water From A Stone](https://open.spotify.com/track/3Zc9Z0RrfZfof3QKZwM5Zc) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Amy Sky](https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb) | [Water From A Stone](https://open.spotify.com/album/3LwJ8hTTXCKzW4Trh9ZpCn) | 4:24 | 2022-05-13 |  |
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-23 |
 | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/track/2t9ALXxbk3N6jwSgpUqehE) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/album/4T39qyzsn7ZeFcq6SqmPoT) | 3:35 | 2022-07-15 |  |
+| [Wide Awake](https://open.spotify.com/track/1j0yLM2bq8IXOmkahkV22Z) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Wide Awake](https://open.spotify.com/album/0CuE6LWfLi55IwDchyGEDp) | 4:15 | 2022-08-12 |  |
 | [Windows](https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:20 | 2022-05-13 |  |
 | [With You](https://open.spotify.com/track/1WoAQ1TRwi47BqUTt5hLNV) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [With You](https://open.spotify.com/album/1tqgfhub2RpAfGqXBC89EV) | 2:21 | 2022-05-13 | 2022-07-23 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2022-05-13 |  |

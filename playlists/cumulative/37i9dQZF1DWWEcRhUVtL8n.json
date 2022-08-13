@@ -2088,6 +2088,24 @@
     },
     {
       "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/0JH3NgJkj2IKNxHpiK0wLh"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chahayed",
+          "url": "https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186480,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/5BHVCWxWlSioC7ASxSyLsV"
+    },
+    {
+      "album": {
         "name": "Beluga Baby",
         "url": "https://open.spotify.com/album/4Hzq3RmqiOLSH6nKkg6AhZ"
       },
@@ -8646,6 +8664,24 @@
     },
     {
       "album": {
+        "name": "GROWN UP",
+        "url": "https://open.spotify.com/album/1PAJFnuUntrH4qzJpLI33s"
+      },
+      "artists": [
+        {
+          "name": "Raffaella",
+          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "GROWN UP",
+      "url": "https://open.spotify.com/track/5QwLklxCtdCBnSMBXt1Vmz"
+    },
+    {
+      "album": {
         "name": "Guess I'm Going To Hell",
         "url": "https://open.spotify.com/album/6K8XkU7IREanr9fx3vjbxD"
       },
@@ -10513,7 +10549,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 231626,
       "name": "I Miss When I Smelled Like You",
       "url": "https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX"
@@ -16721,7 +16757,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 169717,
       "name": "Peaceful In My Mind",
       "url": "https://open.spotify.com/track/6pQcqaoZlGKF3zvglt6tvc"
@@ -17259,6 +17295,24 @@
       "duration_ms": 218035,
       "name": "Pretty Girl Lie",
       "url": "https://open.spotify.com/track/0M85Og8M7oRFB9KqimQe51"
+    },
+    {
+      "album": {
+        "name": "pretty kids",
+        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159417,
+      "name": "pretty kids",
+      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
     },
     {
       "album": {
@@ -23455,7 +23509,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 316507,
       "name": "When It's Just You & I",
       "url": "https://open.spotify.com/track/2Q0EvIXGFk2OcdDGfrbFVo"

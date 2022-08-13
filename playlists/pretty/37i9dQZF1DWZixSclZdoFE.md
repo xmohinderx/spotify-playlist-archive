@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 
 ### [Energy Booster: Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZixSclZdoFE)
 
-> Need to get your energy level up? This will help!
+> Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,265 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,906 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 | 149 | [Both \(feat\. Drake\)](https://open.spotify.com/track/5tFep7dXGd7vEJ668wTPux) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [The Return of East Atlanta Santa](https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB) | 3:10 |
 | 150 | [Tiimmy Turner](https://open.spotify.com/track/3NJG6vMH1ZsectZkocMEm0) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner](https://open.spotify.com/album/7zf9kyxc3ZhJv79HrjTRir) | 3:59 |
 
-Snapshot ID: `MTY2MDIxNzI2MiwwMDAwMDAwMGUwZTg2NzljNWE2ODJlZDk0MWJjZjBiNjFhMmVjYmJm`
+Snapshot ID: `MTY2MDMwNzMxNCwwMDAwMDAwMDUwODg3ODk0ZGM3ODUzMWEyMTU3NmFkZjI3M2JjNTVh`

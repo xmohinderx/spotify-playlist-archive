@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-01",
-  "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Sof\u00eda Reyes, Los Angeles Azules, Esteman",
+  "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Los \u00c1ngeles Azules, Carlos Vives.",
   "name": "Super Cumbias",
   "published_playlist_ids": [
     "4hXhb06SfkzPU69NYrwfU0"
@@ -435,6 +435,28 @@
       "duration_ms": 198613,
       "name": "Cumbia De La Cobra",
       "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+    },
+    {
+      "album": {
+        "name": "Cumbia Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3mfwypID037UHlutwTYINo"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Cumbia Del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4dURe03os9BAxIO0RThU28"
     },
     {
       "album": {
@@ -883,7 +905,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 215600,
       "name": "Esa Parte De M\u00ed",
       "url": "https://open.spotify.com/track/2KGPEwZmxkTb3ibPeIq0Pv"

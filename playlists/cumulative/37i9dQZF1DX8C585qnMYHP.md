@@ -4,7 +4,7 @@
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Hatis Noit / Boku to Georges Artwork: Thami Nabil
 
-974 songs - 3 day 8 hr 0 min - [published](https://open.spotify.com/playlist/7vHfjk9LwMkQlbKUYS7lDl)
+975 songs - 3 day 8 hr 4 min - [published](https://open.spotify.com/playlist/7vHfjk9LwMkQlbKUYS7lDl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -866,6 +866,7 @@
 | [Tloque Nahuaque](https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5) | [Uriel VIllalobos Alva](https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA), [Uriel Villalobos](https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu), [Orquesta Invisible de Lagos de Moreno](https://open.spotify.com/artist/4uCE0x1AQV3x4VGBV18WRW) | [Tloque Nahuaque](https://open.spotify.com/album/4Jb0KPq6u9VcGkGPuaio7N) | 6:31 | 2022-06-29 | 2022-08-11 |
 | [To Be Banned from Rome \- Main Theme](https://open.spotify.com/track/2jNF57dNhOEWh10SQ7MS6L) | [Bienoise](https://open.spotify.com/artist/3Cjbunxhy70lidSe6tOPum) | [To Be Banned from Rome \(Main Theme\)](https://open.spotify.com/album/1v4dlErgMCkvg3mrFOkrsm) | 15:58 | 2020-11-15 | 2022-01-17 |
 | [to fill the quiet!](https://open.spotify.com/track/0ZgWsTr3OuQ79hE88oINvT) | [OHYUNG](https://open.spotify.com/artist/15Va8zoP4v4Z3T8qwCYAXG) | [imagine naked!](https://open.spotify.com/album/4lh0aaeNMTfhI5I10edLmb) | 5:19 | 2022-05-18 | 2022-07-28 |
+| [Todos Mis Labios](https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97) | [Fenna Frei](https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw) | [Todos Mis Labios](https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB) | 3:49 | 2022-08-03 |  |
 | [Toska](https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Toska](https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer) | 5:42 | 2021-08-05 | 2022-03-10 |
 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 | 2022-03-30 | 2022-05-19 |
 | [Translucent](https://open.spotify.com/track/7nXlwdROvJxmmtdkPNggfR) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7), [Jeremy Blake](https://open.spotify.com/artist/1FnFDLE1iq1L5Md8tm1cXO) | [Home Stories](https://open.spotify.com/album/3TuDpNfwEGpVr666kvj4uW) | 4:40 | 2021-09-16 | 2021-12-02 |

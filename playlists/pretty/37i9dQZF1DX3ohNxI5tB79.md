@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,689 likes - 92 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,843 likes - 92 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 40 | [honest](https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [SINTHA](https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU) | 3:53 |
 | 41 | [Another Day](https://open.spotify.com/track/65N5mnAk0WOubXkCryAxEe) | [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Jim](https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab) | 3:48 |
 | 42 | [Belong To You](https://open.spotify.com/track/6pda92NQRMnWwbOgQhYhtw) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Belong To You](https://open.spotify.com/album/4zvlLzjTjhSzZeINzOcp5Q) | 3:05 |
-| 43 | [Whisper My Name](https://open.spotify.com/track/1qc5dn8Ou7plbR0SxH1pzD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Whisper My Name](https://open.spotify.com/album/6ELf7lXd7luKkRCDjZ9wzg) | 4:00 |
+| 43 | [Whisper My Name](https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:01 |
 | 44 | [No Reply](https://open.spotify.com/track/4i1s3lKM6OAS8ilMNeo9Gq) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/5Qv9B38upc7RdFq8J08mnV) | 2:57 |
 | 45 | [Nothing Can Tear Us Apart](https://open.spotify.com/track/7AU4jI516r2a9ZxnoCmA5k) | [Das Sound Kollektiv](https://open.spotify.com/artist/2bKpcqe6vWzB9YvzoLVm2B), [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [These Ways](https://open.spotify.com/album/1BAvPtcPcurtLpH9WgCsrq) | 3:55 |
 | 46 | [Inside You](https://open.spotify.com/track/0fEcztdrrEaiBpEVkfggd2) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Heritage \(Reissue\)](https://open.spotify.com/album/2BtLI4D4seuSwWDaAu8L9z) | 4:52 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 91 | [Do You Really](https://open.spotify.com/track/4vt4JoGfQ1QaDeHXKxTpUI) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Do You Really](https://open.spotify.com/album/176nPDYntjkybucUj1VlJt) | 3:30 |
 | 92 | [He's Been Gone](https://open.spotify.com/track/7Apu2VeNNUlKivnI6BatoV) | [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [Speak Up EP](https://open.spotify.com/album/5L0WOwTwEoXYlb4pC4IcZM) | 2:48 |
 
-Snapshot ID: `MTY1NzAyNzg4NiwwMDAwMDAwMDkwYjkyYTgwNjEzYzVlMWU5MjkxODg3OTdlMTQ4ZTI4`
+Snapshot ID: `MTY1NzAyNzg4NiwwMDAwMDAwMGNmNzhmYjFhYWEzMmRlMDE3OWM5ZTc2OGI2YmJhNWY1`

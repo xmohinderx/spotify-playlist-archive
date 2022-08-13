@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: girlpuppy
 
-559 songs - 1 day 7 hr 52 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+564 songs - 1 day 8 hr 10 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Balloon](https://open.spotify.com/track/0B6oBwvkyLptGexpwJVz7c) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb) | 3:05 | 2022-04-29 | 2022-06-19 |
 | [Ballroom Dance Scene](https://open.spotify.com/track/12AvvUwWyOQJEW7YTLzG5M) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Ballroom Dance Scene](https://open.spotify.com/album/6AH9ryaXe4mZBDlAXiEMdo) | 3:28 | 2022-03-04 | 2022-04-29 |
 | [Beach Coma \- Spotify Singles](https://open.spotify.com/track/38xxi0A7cpJIGzbCT2fXlm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Beach Coma \- Spotify Singles](https://open.spotify.com/album/18BvE652GjG0fEMgDJ4LCU) | 3:40 | 2021-11-12 | 2022-04-29 |
+| [Before Dawn](https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Before Dawn](https://open.spotify.com/album/1yXSX2NYq0beXees0O5EXg) | 4:17 | 2022-08-12 |  |
 | [Ben Zaidi's Blues.](https://open.spotify.com/track/0XNkyRJljDqKrNnj13k8Sm) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [Ben Zaidi's Blues.](https://open.spotify.com/album/2DnDKPt9XSd4w2z3AqnRCW) | 4:52 | 2021-08-13 | 2022-04-29 |
 | [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 | 2021-06-02 | 2022-03-22 |
 | [Better Distractions](https://open.spotify.com/track/4sPh466Pk3l706g10DO1FO) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Better Distractions](https://open.spotify.com/album/1JskWQrQLVLDi6jpT7Nqcd) | 4:09 | 2021-03-05 | 2022-04-29 |
@@ -89,6 +90,7 @@
 | [car freshener aftershave](https://open.spotify.com/track/3WjJsxVGgv338WTJjqMMUo) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [car freshener aftershave](https://open.spotify.com/album/4bttNVeiW21axEo78V9n6B) | 4:03 | 2021-04-02 | 2022-03-27 |
 | [Caviar](https://open.spotify.com/track/2W0Jv4zgTdHVrT4VtnoycW) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Hideaway](https://open.spotify.com/album/2Sq7Bt3s2vPY9HgWYlTbEX) | 3:47 | 2022-04-29 | 2022-06-25 |
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-09-10 | 2022-04-29 |
+| [Chainsaw the Door](https://open.spotify.com/track/1OPM1BmEoywWzFfQxMRj7L) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Chainsaw the Door](https://open.spotify.com/album/4QSb6tII3D5Y9BIW2sTMi9) | 2:28 | 2022-08-12 |  |
 | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/track/0pFx0KHtJVFzfjrQQB1FoR) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Jesse](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/album/5n3pUtUIrPAV5CqujbDGh1) | 3:29 | 2021-07-16 | 2022-04-17 |
 | [changes](https://open.spotify.com/track/7J3dgWROCXy7RwM19W7fhU) | [sqip](https://open.spotify.com/artist/6DL4rhjtux4udnPtjnFy1B) | [battery](https://open.spotify.com/album/6qj4cOCtxW37c5uFNrztZS) | 2:27 | 2022-03-04 | 2022-04-29 |
 | [Cheers](https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Cheers](https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR) | 3:15 | 2021-04-30 | 2022-07-29 |
@@ -331,6 +333,7 @@
 | [Love Song for the Haters](https://open.spotify.com/track/5PNmLOkhsm69IfOdHknhmR) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Love Song for the Haters](https://open.spotify.com/album/7bU1jffvaKgQ7QKtzoph3Q) | 4:38 | 2021-03-05 | 2022-04-29 |
 | [Love333](https://open.spotify.com/track/0wAQl7JsYX4PgX3YCBf8RN) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Forgiveness](https://open.spotify.com/album/1rkbaI9xnf7yi70SyGNKi2) | 3:09 | 2022-04-29 | 2022-05-17 |
 | [Low Era](https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 4:14 | 2022-06-02 |  |
+| [lust](https://open.spotify.com/track/4rQfKnYd88L1mu9NEZn1kp) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [lust](https://open.spotify.com/album/5UVCryBuK6Pv0IilUHXqL0) | 2:05 | 2022-08-12 |  |
 | [Make It Right](https://open.spotify.com/track/3YIo8llthdNC8Si3W2CIPP) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Make It Right](https://open.spotify.com/album/0v9yjEYZpMSHh7DAtfNwy7) | 2:33 | 2022-03-04 | 2022-04-20 |
 | [MANGO](https://open.spotify.com/track/0a5szJBZfMo2ijE68r5oAR) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [MANGO](https://open.spotify.com/album/16xXUwfYa80OKyuLpqD5Pp) | 3:05 | 2021-04-02 | 2022-02-09 |
 | [MANY FACES](https://open.spotify.com/track/27cWalfVkjaY21WxHiR426) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [MANY FACES](https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc) | 2:33 | 2021-03-19 | 2022-03-27 |
@@ -372,6 +375,7 @@
 | [nrvs again](https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [nrvs again](https://open.spotify.com/album/4vaILOzSe7nAFfwzMho1Wq) | 3:38 | 2021-03-05 | 2022-04-27 |
 | [numb or something](https://open.spotify.com/track/0pFlhJEMOoC4HUgRZTFJg2) | [MAYA LUCIA](https://open.spotify.com/artist/5Ttuy2He3faVKwepReA6U3) | [numb or something](https://open.spotify.com/album/1yxvBUFNaSSRJwTjqQMkVz) | 4:07 | 2022-07-29 |  |
 | [off the grid](https://open.spotify.com/track/2vxL1OQU2xlv4q2FGTFTdT) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/0NKBvnl8MUkjXR9takqRVI) | 2:55 | 2022-05-20 |  |
+| [Ohm](https://open.spotify.com/track/1Wo5tkzxPBoqOfwoTSMNJU) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Been Stellar](https://open.spotify.com/album/2GJ26CJoley2UA0ytkHteu) | 5:29 | 2022-08-12 |  |
 | [Ok on My Own](https://open.spotify.com/track/76gAbSOSA7zC1w90wOWGAW) | [Comfort Club](https://open.spotify.com/artist/21G9CpO300CeQxXo8R3FXw) | [Ok on My Own](https://open.spotify.com/album/4U7hgHFYrPFSDWhSGk9Rkx) | 3:20 | 2021-03-05 | 2022-01-05 |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-06-10 |  |
 | [Once More](https://open.spotify.com/track/3pI9rsup0vcma9YE0PI10t) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Once More](https://open.spotify.com/album/33MciQPUWvqtKSCb1WPRG7) | 3:24 | 2022-07-08 |  |
@@ -504,6 +508,7 @@
 | [there for you](https://open.spotify.com/track/6dOC2Qg8JgQgNwFUMedglz) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [forest avenue](https://open.spotify.com/album/5n1cTgcLYpugGWHNQJqAba) | 2:52 | 2022-03-04 | 2022-04-26 |
 | [These Kids We Knew](https://open.spotify.com/track/6wDsrOCRrgQhLXySBOaUcC) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [These Kids We Knew](https://open.spotify.com/album/1otew6tcC33qdKae8c8mqr) | 2:28 | 2021-03-05 | 2022-04-29 |
 | [Threatening Each Other re: Capitalism](https://open.spotify.com/track/4lUVbiWiti2F0oOU8SqV1u) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Threatening Each Other re: Capitalism](https://open.spotify.com/album/4ktz8o1d44KMsltBIBzu8L) | 4:43 | 2021-09-10 | 2022-03-22 |
+| [through your window](https://open.spotify.com/track/0Kw8SXw92PXokAfPPaP2Ot) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pg.4 a picture of three hedges/through your window](https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB) | 3:44 | 2022-08-12 |  |
 | [Thy Mission](https://open.spotify.com/track/7LcmuGeSXQzQlteW3yGtWb) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Thy Mission](https://open.spotify.com/album/7JxyWvp7fQlLNdrTUDBtHo) | 3:41 | 2022-03-26 |  |
 | [Time to Melt](https://open.spotify.com/track/49csj8JI9bpJ0aFBeRGmpN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Time to Melt](https://open.spotify.com/album/0kPkiCZNV7EY487616MHDt) | 3:51 | 2021-09-17 | 2022-04-29 |
 | [Time Walk](https://open.spotify.com/track/3sU3dsN3etkC0Teh3IZU9S) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Everything](https://open.spotify.com/album/0O5kzFuZOVnamq7gpSVmqU) | 1:33 | 2022-04-29 | 2022-05-20 |

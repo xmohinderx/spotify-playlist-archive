@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-179 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/1WAyEUZtOSwZyUwFQKR52M)
+183 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/1WAyEUZtOSwZyUwFQKR52M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Brown Noise for Sleepy Eyes](https://open.spotify.com/track/0wLaPda0ARSiifV6YWrKzk) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Sleepy Eyes](https://open.spotify.com/album/5MrGxKyGm5EbXn9APxh7u2) | 3:12 | 2022-01-07 |  |
 | [Brown Noise for the Sleep Deprived](https://open.spotify.com/track/43qwdaLc45ICgUQDkrHtRU) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [Sleep Gravity](https://open.spotify.com/album/4y50i4pFfW9v9vAvxuLFBw) | 3:39 | 2022-01-21 |  |
 | [Brown Noise Helps Me Sleep](https://open.spotify.com/track/4XyfFduXLf6t14nDhxf4CJ) | [The Sleep Phasers](https://open.spotify.com/artist/7EU2uWLUyhig1j1rbwfiGT) | [Brown Noise Relaxation](https://open.spotify.com/album/03sa3kRpeh8gyYEmThUstR) | 3:41 | 2022-02-03 |  |
+| [Brown Noise im Schlafzimmer](https://open.spotify.com/track/0EStjkii0oUbsVcdxTplpk) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Brown Noise Schlafhilfe](https://open.spotify.com/album/0c7OruYVs7vAxUVSAYeLO5) | 3:44 | 2022-08-12 |  |
 | [Brown Noise in a Cave](https://open.spotify.com/track/7J4fKu2rJSP5zS2jyUgZuk) | [The Sleep Phasers](https://open.spotify.com/artist/7EU2uWLUyhig1j1rbwfiGT) | [Brown Noise near the Baby Crib](https://open.spotify.com/album/0BGay7OcIt7wkDdIktSYa4) | 3:36 | 2022-07-29 |  |
 | [Brown Noise in Montreux](https://open.spotify.com/track/1ihJaVUnBGYB3hc01W3xkz) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Stream](https://open.spotify.com/album/1MVMJYj22Jd7qwQC1blZ2q) | 3:34 | 2022-05-20 |  |
 | [Brown Noise In My Ears](https://open.spotify.com/track/2qv9tpHBIDfwJqA6egLinF) | [Sleepy Parents](https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj) | [Brown Noise Ocean](https://open.spotify.com/album/6PlKH2ZMZvz9u0AfGjmZfH) | 4:23 | 2022-05-05 |  |
@@ -78,6 +79,7 @@
 | [Brown Noise REM](https://open.spotify.com/track/6i0UjMkl7g9TcP7cLGyMND) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Brown Noise Deep Sleep](https://open.spotify.com/album/1TVk7P9fQqEmHbUlDkyvWj) | 3:00 | 2022-01-07 |  |
 | [Brown Noise Rest](https://open.spotify.com/track/0MK7bo0qZ5f26yF8P7qfxr) | [Fix Torn](https://open.spotify.com/artist/1ocPUhME4QG6jautAL8Opl) | [Subtraction of Sound](https://open.spotify.com/album/1uEigkCG7CkDhyf1xGxibC) | 3:00 | 2022-01-07 |  |
 | [Brown Noise River](https://open.spotify.com/track/3vQOmQzXu7NTj989yxonZt) | [The Sleep Phasers](https://open.spotify.com/artist/7EU2uWLUyhig1j1rbwfiGT) | [Brown Noise Chill](https://open.spotify.com/album/3ci5cgq0RIVpMB7ZTWubIh) | 3:34 | 2022-06-14 |  |
+| [Brown Noise Schlafhilfe](https://open.spotify.com/track/52BYh1ck3NbzTBQVwZUaVv) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Brown Noise Schlafhilfe](https://open.spotify.com/album/0c7OruYVs7vAxUVSAYeLO5) | 3:42 | 2022-08-12 |  |
 | [Brown Noise Schlaflied](https://open.spotify.com/track/20E4TmrXUCQeSAVqtFZU2N) | [Sleepy Mind](https://open.spotify.com/artist/5ZDe3pLjx7eSn3lIZpVCxE) | [Brown Noise Schlaflied](https://open.spotify.com/album/5gAeWz3JMEsTmGndtpglzq) | 3:11 | 2022-01-21 |  |
 | [Brown Noise Sleep](https://open.spotify.com/track/1wvBsgAAOSOsGvedOeoAPP) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Relax with Brown Noise](https://open.spotify.com/album/5vkFV8CLrYIXm5ag9bwdto) | 3:38 | 2022-01-07 |  |
 | [Brown Noise Sleep Cabin](https://open.spotify.com/track/4MCOs3Y6t8V3LsILS5PRSw) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [The Sleeper's Brown Noise](https://open.spotify.com/album/7juH0tExuVfyJAPjr2cyHQ) | 3:32 | 2022-06-14 |  |
@@ -153,6 +155,7 @@
 | [Relaxing Brown Noise](https://open.spotify.com/track/61eLujIwgBncxdEbguVeLw) | [Meteorologist](https://open.spotify.com/artist/7syFj0lLEE6rl1UI9IKK70) | [Focusing](https://open.spotify.com/album/0regAi4e9coDganmi0L1pP) | 1:40 | 2022-01-07 |  |
 | [Relaxing Brown Noise 256 Hz Smooth Q](https://open.spotify.com/track/1gwLjpvAbu6IVmVdAfPJ0G) | [Jane Color](https://open.spotify.com/artist/5IHSYO8kKxpkIphS2vmEuX) | [Relaxing Brown Noise 256 Hz](https://open.spotify.com/album/7y17IKdJ8sgnE1l38ov0xb) | 2:59 | 2022-07-29 |  |
 | [Rested brown noise](https://open.spotify.com/track/28Eji4hXXLvLuMzCRFUP3V) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:43 | 2022-06-14 |  |
+| [Restoration Brown Noise](https://open.spotify.com/track/4KqX2GZBJbEwmYEFS86hZg) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Restoration Brown Noise](https://open.spotify.com/album/1t69WTHUY6CAcibei0QPBc) | 3:37 | 2022-08-12 |  |
 | [Rich Orange & White Noise \- 364hz](https://open.spotify.com/track/4sFkIzdLAYsXpRAJUmXZpF) | [Astral Noise](https://open.spotify.com/artist/6ukbhEhFk72rEfygTKIdIE) | [Intergalactic Sleep Sounds](https://open.spotify.com/album/1dKAPcNK146NsW8Aqkqr4F) | 1:04 | 2022-01-07 | 2022-06-15 |
 | [Rolling Deep](https://open.spotify.com/track/74z73AMsEbOWSffQB4IIHl) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:05 | 2022-01-07 |  |
 | [Ruido Meditativo](https://open.spotify.com/track/2RgRInLV5rO74Wb1a3QbWK) | [Secuencialidad](https://open.spotify.com/artist/7hbqab6ona7RgcCsBsHDob) | [Ruido Meditativo](https://open.spotify.com/album/5vVUDuXwQEblnkNWjDGZKK) | 2:29 | 2022-01-07 |  |
@@ -162,6 +165,7 @@
 | [Sleepy Brown 130 Hz \- Seamless](https://open.spotify.com/track/13Ke2nWjtjlpI4UrUqzJSQ) | [Jane Color](https://open.spotify.com/artist/5IHSYO8kKxpkIphS2vmEuX) | [Sleepy Brown 130 Hz](https://open.spotify.com/album/31pG9nKBlc4H9a3EVhZyrg) | 2:51 | 2022-07-29 |  |
 | [Slow filter mod brown noise](https://open.spotify.com/track/2tPuH3k0qMJNHNaYs4bMdF) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:49 | 2022-06-14 |  |
 | [Smooth Brown Noise](https://open.spotify.com/track/2uNhEkrXnvpSZRMNi0MhNo) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Brown Noise Relaxation](https://open.spotify.com/album/6Ebja7i0qo75APOZKqSxbu) | 2:27 | 2022-07-29 |  |
+| [Smooth Brown Noise 219Hz](https://open.spotify.com/track/29Y48jL66EpMWCxr2m6K8K) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Restoration Brown Noise](https://open.spotify.com/album/1t69WTHUY6CAcibei0QPBc) | 3:37 | 2022-08-12 |  |
 | [Snoozing Time Noise](https://open.spotify.com/track/42LNbpBw2HAfoaUY2YISyu) | [Noisy Moons](https://open.spotify.com/artist/0k3gHx5lz3Qkev3OjKZGvl) | [Snoozing Time Noise](https://open.spotify.com/album/4U2f6FsBJ2NsllkP4Bwezq) | 1:50 | 2022-01-07 |  |
 | [Soft Brown Noise \- Seamless](https://open.spotify.com/track/01BuGDsak2sRcIFCZuwFFZ) | [Oasis Magna](https://open.spotify.com/artist/644swZfx5CWX5B1g3njvr1) | [Soft Brown Noise](https://open.spotify.com/album/4dTSxzW8BjI83W1HsjBAAX) | 2:54 | 2022-06-14 |  |
 | [Soft Noise](https://open.spotify.com/track/7zFEaYPifMRKdllCixP61H) | [NoiseZ](https://open.spotify.com/artist/0sfBeyU3aHvVFEGrPBU3xq) | [Universal Sleep Noise](https://open.spotify.com/album/0K7WGFAOLM8IHYYk6wMaSv) | 2:46 | 2022-01-07 |  |

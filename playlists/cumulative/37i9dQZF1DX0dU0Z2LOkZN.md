@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-172 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+174 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Happy Hours](https://open.spotify.com/track/2E3sQrE7A1yT7bbN5lQfT7) | [Dre Dilla](https://open.spotify.com/artist/3iEZGJz6uRmSbCbtxR4Zde) | [Happy Hours](https://open.spotify.com/album/7bhVGjoaVsXVwkHt9rUkst) | 2:26 | 2022-07-08 |  |
 | [Harm's Way](https://open.spotify.com/track/3bgX4bSODZ1ccFP9eNnZAw) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [Harm's Way](https://open.spotify.com/album/7rkIUoh4KcdAXEH4zPfz7k) | 3:12 | 2022-07-01 |  |
 | [Healing Properties \(Instrumental\)](https://open.spotify.com/track/6rYn94cWqS5YrEcEkhPWoH) | [Dfonk](https://open.spotify.com/artist/3gB7Y7q2B1ei9XKXnOwRlW), [Craig G](https://open.spotify.com/artist/6PHq7gqoQmOD05QBJ69IC0) | [Healing Properties \(Instrumental\)](https://open.spotify.com/album/1UNOhQI7gKpvkA5nuaVc3Y) | 3:03 | 2022-06-17 |  |
+| [HEAT HAZE](https://open.spotify.com/track/2HzBmH6HJMeHTWXAFcfm6T) | [trog'low](https://open.spotify.com/artist/10z5adFMMTwTKn9unto6QB), [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [HEAT HAZE](https://open.spotify.com/album/4tRiK4v0Lm3OTg3nJBS1LC) | 2:28 | 2022-08-12 |  |
 | [High Blossom](https://open.spotify.com/track/3P9nPdI80qLU6i4PCu9utx) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [High Blossom](https://open.spotify.com/album/39ugvLGxxkcuJxlDJutvU9) | 2:29 | 2021-11-11 |  |
 | [Higher](https://open.spotify.com/track/646uaJeMJuuwKA5u769awi) | [Nuble](https://open.spotify.com/artist/2zBqV404liOJKn4DW0rYAa) | [Higher](https://open.spotify.com/album/4OJYXTQoqln2MHOuL91WCC) | 3:37 | 2021-11-11 |  |
 | [Highly Blessed](https://open.spotify.com/track/6JdfFM5WBrLpLDJ6p5aiEi) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Highly Blessed](https://open.spotify.com/album/1Rv4B8EwsTM4a1cYqfVv6r) | 1:38 | 2022-05-20 |  |
@@ -178,6 +179,7 @@
 | [Watch Your Back](https://open.spotify.com/track/2sVVZJS9andmMIl1zg7EOj) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Watch Your Back](https://open.spotify.com/album/4PTaa4d2ehxeXGLWfXRfE5) | 2:12 | 2021-11-11 |  |
 | [Wax Poetry](https://open.spotify.com/track/2CEKenDIPepmr8rdOhfilr) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Wax Poetry](https://open.spotify.com/album/0iepUkNqUGDPxkKcC2Uwo8) | 1:57 | 2021-11-11 |  |
 | [what if](https://open.spotify.com/track/2fTviLwYcLdsLTYEve0hBL) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [what if](https://open.spotify.com/album/6lWBGR6bwzRmt6Lx4lXiFp) | 2:01 | 2022-08-05 |  |
+| [window seat](https://open.spotify.com/track/1rxgwnuqrVnkn2lnufJOmw) | [Kobe Banks](https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [window seat](https://open.spotify.com/album/4YJ3RlfBsOU7XuimlXWpnv) | 2:29 | 2022-08-12 |  |
 | [Workitout](https://open.spotify.com/track/2qI1MNDL7NtvX5FMPhQh0A) | [Hands](https://open.spotify.com/artist/0N1Cn6TEMkmCdlt2YQkK9N) | [Workitout](https://open.spotify.com/album/3n0ssOLM368uyujZkNkm60) | 1:52 | 2022-06-24 |  |
 | [Yoshi](https://open.spotify.com/track/4zDcINxFFVDoydWC6aTnGu) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Video Game](https://open.spotify.com/album/2gPfF174IL4VZNvvx04Sud) | 1:27 | 2021-11-11 |  |
 

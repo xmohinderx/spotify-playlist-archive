@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: Pedropiedra + Cancamusa.",
+  "description": "Todo el sonido indie de Chile. Foto: Angel Maul\u00e9n.",
   "name": "Indie Chile",
   "published_playlist_ids": [
     "1gsuQWHZM7TnxSlSgVrIUw"
@@ -153,6 +153,24 @@
       "duration_ms": 189000,
       "name": "Al Borde del Abismo",
       "url": "https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp"
+    },
+    {
+      "album": {
+        "name": "Al Norte",
+        "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173336,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
     },
     {
       "album": {
@@ -333,6 +351,36 @@
       "duration_ms": 228000,
       "name": "Barreras de Cart\u00f3n",
       "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
+    },
+    {
+      "album": {
+        "name": "Besitos Ricos",
+        "url": "https://open.spotify.com/album/6yWANGpHTE5T3w6aOnoTBw"
+      },
+      "artists": [
+        {
+          "name": "Ignacia Pez",
+          "url": "https://open.spotify.com/artist/7xpqrJntvkNTlOwayCHgho"
+        },
+        {
+          "name": "Broken Pupil",
+          "url": "https://open.spotify.com/artist/5JAaAOkiGzGNIKi53DlGKE"
+        },
+        {
+          "name": "Gato Seco",
+          "url": "https://open.spotify.com/artist/2NLUJSt3guR3neAYbIkoeN"
+        },
+        {
+          "name": "Walki",
+          "url": "https://open.spotify.com/artist/0Z62JhOUGFNa5cFs1Fr4O0"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167524,
+      "name": "Besitos Ricos",
+      "url": "https://open.spotify.com/track/2xszQFLHyFgVKDFobxCjRG"
     },
     {
       "album": {
@@ -3186,6 +3234,24 @@
     },
     {
       "album": {
+        "name": "El Pulso",
+        "url": "https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q"
+      },
+      "artists": [
+        {
+          "name": "Angel Maul\u00e9n",
+          "url": "https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221709,
+      "name": "Por Qu\u00e9 Me Tratas Tan Bien",
+      "url": "https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo"
+    },
+    {
+      "album": {
         "name": "Mismas Viejas Costumbres",
         "url": "https://open.spotify.com/album/7jpQdWHHBjRWlya8DcYBWO"
       },
@@ -3833,7 +3899,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 204027,
       "name": "Tan en el Aire",
       "url": "https://open.spotify.com/track/4C1cMrk5wEER5Z519lMPnL"
@@ -4155,7 +4221,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 213725,
       "name": "Turista",
       "url": "https://open.spotify.com/track/0RWzD9ilb1cKJaEOXo2jTZ"
@@ -4361,7 +4427,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 218532,
       "name": "Viajar",
       "url": "https://open.spotify.com/track/4b0ZUkdR9I3gzheXwGpNum"

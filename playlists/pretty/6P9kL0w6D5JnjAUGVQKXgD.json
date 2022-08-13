@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, Kx5, deadmau5, Kaskade, Hayla",
-  "num_followers": 48474,
+  "num_followers": 48473,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTM2NSxmMjY0M2ZhZTk3MDUzNzRhNWU5M2YyNWRkYmFiZDM0MzExMzczNjc3",
+  "snapshot_id": "MTM2NixmMjBjMjQwZDliM2U0OGI4Nzk4ZjViMDhhY2I5NmViOTZhZjhlOGI4",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -139,6 +139,26 @@
       "duration_ms": 160645,
       "name": "This Good",
       "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
+    },
+    {
+      "added_at": "2022-08-12 15:41:02",
+      "album": {
+        "name": "Just Me & You",
+        "url": "https://open.spotify.com/album/4VBdvAu9fnmYoE9RuYd4e3"
+      },
+      "artists": [
+        {
+          "name": "DJ Phellix",
+          "url": "https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV"
+        },
+        {
+          "name": "AndyBear",
+          "url": "https://open.spotify.com/artist/3PTvL4CPoyATF3fct0pQtc"
+        }
+      ],
+      "duration_ms": 130819,
+      "name": "Just Me & You",
+      "url": "https://open.spotify.com/track/0UVlIrfKC5mRs6IeUaicWL"
     },
     {
       "added_at": "2022-03-18 15:41:03",
@@ -1987,22 +2007,6 @@
       "duration_ms": 141453,
       "name": "LIGHTWAVES",
       "url": "https://open.spotify.com/track/46JbXTR6VNrnnoJJAsn6gN"
-    },
-    {
-      "added_at": "2022-06-22 15:41:03",
-      "album": {
-        "name": "INTO THE UNKNOWN",
-        "url": "https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 238125,
-      "name": "INTO THE UNKNOWN",
-      "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
     }
   ],
   "unique_name": "EDM Top 100",

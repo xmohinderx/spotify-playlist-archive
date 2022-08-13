@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,981 likes - 63 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,039 likes - 63 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

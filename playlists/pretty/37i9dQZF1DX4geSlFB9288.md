@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 
 > Indie music to keep your gaming session properly soundtracked.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,717 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,022 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 99 | [welcome and goodbye](https://open.spotify.com/track/0CWfsGlbmT0ZcAV3WetvPf) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [welcome and goodbye](https://open.spotify.com/album/4DE2vpqTIdffe08Xj691XI) | 2:20 |
 | 100 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 
-Snapshot ID: `MTY1OTcxMzk1OCwwMDAwMDAwMDI2MzE0NDc3MWFjYTgyYjJmYjNiMTJjOTc3ZmNlOWZm`
+Snapshot ID: `MTY2MDMzMzcxMSwwMDAwMDAwMDlhNzBlYWYzZWIzOTFmYjdlODZhYjU4MWFkOWI3NjBj`

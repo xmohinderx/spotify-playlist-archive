@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 231555,
       "name": "Different Directions",
       "url": "https://open.spotify.com/track/30QM80woaoPtONO99xRyyw"
@@ -753,6 +753,28 @@
       "duration_ms": 207096,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/6Zoi8MTQJ5UZ28Xra0FAAn"
+    },
+    {
+      "album": {
+        "name": "First Thing",
+        "url": "https://open.spotify.com/album/1qrXPJPrjcri9XEocz9rQO"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239681,
+      "name": "First Thing",
+      "url": "https://open.spotify.com/track/6W3s4OcqdCN49QDzIVItzR"
     },
     {
       "album": {
@@ -1840,6 +1862,24 @@
     },
     {
       "album": {
+        "name": "r u sure?",
+        "url": "https://open.spotify.com/album/16S9K4WiAG8JTcq4fbGU63"
+      },
+      "artists": [
+        {
+          "name": "moanday",
+          "url": "https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "too good to be true",
+      "url": "https://open.spotify.com/track/3fdpFnoBfov64278JqhDHX"
+    },
+    {
+      "album": {
         "name": "why u gotta do me like that",
         "url": "https://open.spotify.com/album/4KEUpcjbXpqWxzkd4Wr9B9"
       },
@@ -1851,7 +1891,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 169000,
       "name": "too good to be true",
       "url": "https://open.spotify.com/track/6Mvwjlm2S7CBP1aGOrO1rE"

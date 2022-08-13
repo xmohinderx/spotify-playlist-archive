@@ -1,13 +1,33 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 112638,
+  "num_followers": 112710,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzMzYzNywwMDAwMDAwMDEzZjBjNGVlNTllNjUwNTQ3MDZhNGRhYTA2ODk3ZjJk",
+  "snapshot_id": "MTY2MDM1MjYxOCwwMDAwMDAwMDU1ODU3N2U5ZGE2YTRkMTE3ODU2MDY0OTdmODFjZjU3",
   "tracks": [
+    {
+      "added_at": "2022-08-13 00:53:45",
+      "album": {
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
+        }
+      ],
+      "duration_ms": 286640,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
+    },
     {
       "added_at": "2022-03-18 05:57:00",
       "album": {
@@ -39,22 +59,6 @@
       "duration_ms": 222000,
       "name": "Dust It Off",
       "url": "https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Reward",
-        "url": "https://open.spotify.com/album/2fUtxQpH69v67AXow7YLIK"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 327198,
-      "name": "Home to You",
-      "url": "https://open.spotify.com/track/2YqA1ZZ62XKJry0BoQwNSx"
     },
     {
       "added_at": "2022-08-02 14:49:54",
@@ -93,20 +97,36 @@
       "url": "https://open.spotify.com/track/0auzo1bD9DMIP7bcvClRS9"
     },
     {
-      "added_at": "2022-07-15 05:20:53",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "K\u00fcbler-Ross",
-        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
+        "name": "Reward",
+        "url": "https://open.spotify.com/album/2fUtxQpH69v67AXow7YLIK"
       },
       "artists": [
         {
-          "name": "K\u00fcbler-Ross",
-          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
         }
       ],
-      "duration_ms": 258174,
-      "name": "Victims of Victimless Crimes",
-      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
+      "duration_ms": 327198,
+      "name": "Home to You",
+      "url": "https://open.spotify.com/track/2YqA1ZZ62XKJry0BoQwNSx"
+    },
+    {
+      "added_at": "2022-08-13 00:36:29",
+      "album": {
+        "name": "Saturdays",
+        "url": "https://open.spotify.com/album/26yeOGjAAvWuonpIdyDBcO"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 187413,
+      "name": "Saturdays",
+      "url": "https://open.spotify.com/track/6ZHPwqdzTslbKAYOsWnHCQ"
     },
     {
       "added_at": "2022-01-14 00:51:04",
@@ -145,22 +165,6 @@
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
     },
     {
-      "added_at": "2022-07-15 05:42:57",
-      "album": {
-        "name": "Robot Riot",
-        "url": "https://open.spotify.com/album/4dnVdfbC0z2EkLPC9D2MJ4"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 176952,
-      "name": "Robot Riot",
-      "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
-    },
-    {
       "added_at": "2022-07-14 12:42:06",
       "album": {
         "name": "Mapa",
@@ -177,20 +181,20 @@
       "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
     },
     {
-      "added_at": "2022-07-15 05:42:04",
+      "added_at": "2022-07-15 05:42:57",
       "album": {
-        "name": "Arkhon",
-        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
+        "name": "Robot Riot",
+        "url": "https://open.spotify.com/album/4dnVdfbC0z2EkLPC9D2MJ4"
       },
       "artists": [
         {
-          "name": "Zola Jesus",
-          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
         }
       ],
-      "duration_ms": 204262,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
+      "duration_ms": 176952,
+      "name": "Robot Riot",
+      "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -229,20 +233,20 @@
       "url": "https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr"
     },
     {
-      "added_at": "2022-05-12 20:11:25",
+      "added_at": "2022-08-03 02:31:18",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f"
+        "name": "Todos Mis Labios",
+        "url": "https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB"
       },
       "artists": [
         {
-          "name": "Elephant Gym",
-          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+          "name": "Fenna Frei",
+          "url": "https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw"
         }
       ],
-      "duration_ms": 231422,
-      "name": "Witches",
-      "url": "https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ"
+      "duration_ms": 229500,
+      "name": "Todos Mis Labios",
+      "url": "https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97"
     },
     {
       "added_at": "2022-07-15 05:46:40",
@@ -277,6 +281,22 @@
       "url": "https://open.spotify.com/track/55IuMUUnz2pohyH3fmLRwn"
     },
     {
+      "added_at": "2022-05-12 20:11:25",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "duration_ms": 231422,
+      "name": "Witches",
+      "url": "https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Designer",
@@ -309,6 +329,22 @@
       "url": "https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd"
     },
     {
+      "added_at": "2022-08-03 03:08:55",
+      "album": {
+        "name": "Have You Felt Lately?",
+        "url": "https://open.spotify.com/album/2xJpkYv3kleK0HDFznrpn9"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Have You Felt Lately?",
+      "url": "https://open.spotify.com/track/6UQAuCPxNBIbVcKG2cgAsX"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Mahi Mahi",
@@ -333,20 +369,36 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
-      "added_at": "2022-08-03 03:08:55",
+      "added_at": "2022-08-13 01:03:38",
       "album": {
-        "name": "Have You Felt Lately?",
-        "url": "https://open.spotify.com/album/2xJpkYv3kleK0HDFznrpn9"
+        "name": "When We Knew Less",
+        "url": "https://open.spotify.com/album/38XjHKpVkTU4RaTznhqln8"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+          "name": "Haich Ber Na",
+          "url": "https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd"
         }
       ],
-      "duration_ms": 234160,
-      "name": "Have You Felt Lately?",
-      "url": "https://open.spotify.com/track/6UQAuCPxNBIbVcKG2cgAsX"
+      "duration_ms": 184637,
+      "name": "Knew You Better",
+      "url": "https://open.spotify.com/track/4JXicRysL3kGWGRV1UFFmC"
+    },
+    {
+      "added_at": "2022-07-15 05:42:04",
+      "album": {
+        "name": "Arkhon",
+        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
+      },
+      "artists": [
+        {
+          "name": "Zola Jesus",
+          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+        }
+      ],
+      "duration_ms": 204262,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
       "added_at": "2022-03-04 01:52:10",
@@ -397,54 +449,6 @@
       "url": "https://open.spotify.com/track/4dZoE86OgZ0LrFWAsrAXNP"
     },
     {
-      "added_at": "2022-04-06 03:34:19",
-      "album": {
-        "name": "Time Bazaar",
-        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Time Bazaar",
-      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
-    },
-    {
-      "added_at": "2022-04-26 23:34:36",
-      "album": {
-        "name": "Ba Sing Se",
-        "url": "https://open.spotify.com/album/5ipx9NCdjrY02yzzqkjQaK"
-      },
-      "artists": [
-        {
-          "name": "Vera Nois",
-          "url": "https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG"
-        }
-      ],
-      "duration_ms": 246225,
-      "name": "Ba Sing Se",
-      "url": "https://open.spotify.com/track/48cnlcfe8AjLDYfUj5w41R"
-    },
-    {
-      "added_at": "2022-03-16 16:59:09",
-      "album": {
-        "name": "Petunia",
-        "url": "https://open.spotify.com/album/1Q7Vtfnna0m7ZCwf9nwEWj"
-      },
-      "artists": [
-        {
-          "name": "Tonstartssbandht",
-          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
-        }
-      ],
-      "duration_ms": 422240,
-      "name": "What Has Happened",
-      "url": "https://open.spotify.com/track/5JkXLujwK0t6zq2qwo5bon"
-    },
-    {
       "added_at": "2022-02-04 15:20:01",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -463,6 +467,38 @@
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
+    },
+    {
+      "added_at": "2022-04-06 03:34:19",
+      "album": {
+        "name": "Time Bazaar",
+        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
+      },
+      "artists": [
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Time Bazaar",
+      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
+    },
+    {
+      "added_at": "2022-03-16 16:59:09",
+      "album": {
+        "name": "Petunia",
+        "url": "https://open.spotify.com/album/1Q7Vtfnna0m7ZCwf9nwEWj"
+      },
+      "artists": [
+        {
+          "name": "Tonstartssbandht",
+          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
+        }
+      ],
+      "duration_ms": 422240,
+      "name": "What Has Happened",
+      "url": "https://open.spotify.com/track/5JkXLujwK0t6zq2qwo5bon"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -645,22 +681,6 @@
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 280181,
-      "name": "Homing",
-      "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
-    },
-    {
       "added_at": "2022-02-08 17:25:13",
       "album": {
         "name": "Pompeii",
@@ -675,6 +695,22 @@
       "duration_ms": 268128,
       "name": "Dirt on the Bed",
       "url": "https://open.spotify.com/track/1mhVCuP7ebwpmfCc2zE64U"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 280181,
+      "name": "Homing",
+      "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -885,22 +921,6 @@
       "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
     },
     {
-      "added_at": "2022-06-22 18:28:42",
-      "album": {
-        "name": "Playing Dead",
-        "url": "https://open.spotify.com/album/4d2mhZN25j5zY3ErTpfOBZ"
-      },
-      "artists": [
-        {
-          "name": "Haepa",
-          "url": "https://open.spotify.com/artist/2WTFWNdpppTNeGZmRZLaLi"
-        }
-      ],
-      "duration_ms": 175120,
-      "name": "I'm Finally a Ghost",
-      "url": "https://open.spotify.com/track/5973GTo2ourdiDPVQuwwvf"
-    },
-    {
       "added_at": "2022-07-04 22:42:30",
       "album": {
         "name": "Plexiglass",
@@ -981,30 +1001,6 @@
       "url": "https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF"
     },
     {
-      "added_at": "2022-04-09 04:57:00",
-      "album": {
-        "name": "Al Rev\u00e9s (feat. Petite Amie)",
-        "url": "https://open.spotify.com/album/4VP9sto7vsed9Qi6wjmklj"
-      },
-      "artists": [
-        {
-          "name": "Charles Spearin",
-          "url": "https://open.spotify.com/artist/3PEieAx7awxOPIdseRJuFb"
-        },
-        {
-          "name": "iiis",
-          "url": "https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D"
-        },
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 195312,
-      "name": "Al Rev\u00e9s - feat. Petite Amie",
-      "url": "https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4"
-    },
-    {
       "added_at": "2022-03-30 04:28:53",
       "album": {
         "name": "Sans oublier",
@@ -1035,6 +1031,22 @@
       "duration_ms": 214322,
       "name": "Bella Kali",
       "url": "https://open.spotify.com/track/3WxgxW4qjDCL3MZzzWuwff"
+    },
+    {
+      "added_at": "2022-07-15 05:20:53",
+      "album": {
+        "name": "K\u00fcbler-Ross",
+        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
+      },
+      "artists": [
+        {
+          "name": "K\u00fcbler-Ross",
+          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
+        }
+      ],
+      "duration_ms": 258174,
+      "name": "Victims of Victimless Crimes",
+      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
       "added_at": "2022-03-30 04:25:00",
@@ -1069,22 +1081,6 @@
       "url": "https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf"
     },
     {
-      "added_at": "2022-02-25 04:13:48",
-      "album": {
-        "name": "Marrow",
-        "url": "https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff"
-      },
-      "artists": [
-        {
-          "name": "Joyful Joyful",
-          "url": "https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90"
-        }
-      ],
-      "duration_ms": 279464,
-      "name": "Marrow",
-      "url": "https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR"
-    },
-    {
       "added_at": "2022-05-24 01:31:24",
       "album": {
         "name": "Golden Air",
@@ -1099,6 +1095,22 @@
       "duration_ms": 342520,
       "name": "Golden Air",
       "url": "https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr"
+    },
+    {
+      "added_at": "2022-02-25 04:13:48",
+      "album": {
+        "name": "Marrow",
+        "url": "https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff"
+      },
+      "artists": [
+        {
+          "name": "Joyful Joyful",
+          "url": "https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90"
+        }
+      ],
+      "duration_ms": 279464,
+      "name": "Marrow",
+      "url": "https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1207,6 +1219,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "The Revolution Of Super Visions",
+        "url": "https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 301153,
+      "name": "The Revolution Of Super Visions",
+      "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Hildegard",
         "url": "https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV"
       },
@@ -1303,22 +1331,6 @@
       "duration_ms": 157588,
       "name": "Lothl\u00f3rien",
       "url": "https://open.spotify.com/track/1qXJzwa3DJxVJT5Ql4T3mE"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Revolution Of Super Visions",
-        "url": "https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "The Revolution Of Super Visions",
-      "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
     },
     {
       "added_at": "2022-03-11 04:34:08",

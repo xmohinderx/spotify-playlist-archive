@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "The Best of Other Voices",
+        "url": "https://open.spotify.com/album/5TUez2vnQRHBxr6ImbGyL6"
+      },
+      "artists": [
+        {
+          "name": "Halves",
+          "url": "https://open.spotify.com/artist/2bDSmI1grs5rMzqFUPFoO6"
+        }
+      ],
+      "date_added": "2020-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212731,
+      "name": "Blood Branches - Live Version",
+      "url": "https://open.spotify.com/track/26cSdLVg4jABkjVIpW85f2"
+    },
+    {
+      "album": {
         "name": "Other Voices: Series 7, Vol. 2 (Live)",
         "url": "https://open.spotify.com/album/1L6vZcdk3m5aoPZStRR6xV"
       },
@@ -329,7 +347,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 212731,
       "name": "Blood Branches - Live Version",
       "url": "https://open.spotify.com/track/2trltfWOMoiAnw6tgQlxX8"

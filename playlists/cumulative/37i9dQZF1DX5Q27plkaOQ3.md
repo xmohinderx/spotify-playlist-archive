@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Zomboy.
 
-216 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+217 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Moshpit](https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7) | [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Moshpit / Comin For Ya Neck](https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6) | 2:57 | 2021-12-17 |  |
 | [Muscleville](https://open.spotify.com/track/0mL9QPL0XnecyPgnbnTKh0) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [MUSCLEVILLE EP](https://open.spotify.com/album/75UPb2lnvwv4Qp83kESQKV) | 2:23 | 2021-12-17 | 2022-03-12 |
 | [My Life](https://open.spotify.com/track/6GpLFDZhw5svOfUVOfW97H) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [My Life](https://open.spotify.com/album/10saBaDXwzC1maffKpTPPM) | 3:15 | 2022-05-13 |  |
+| [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 | 2022-08-12 |  |
 | [Narnia](https://open.spotify.com/track/6TtlXUQmYG6cbK1P6RRYuY) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Dark Wobble](https://open.spotify.com/album/611ud8ds3KSf8ufyFGg5gV) | 4:37 | 2021-12-17 | 2022-05-07 |
 | [No Cap](https://open.spotify.com/track/4T8OzVj1mcE5LNC3deHs4l) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Cap](https://open.spotify.com/album/1ZyE0svTRVJRACo7uDRnjK) | 2:40 | 2021-12-17 | 2022-03-12 |
 | [NO LOVE](https://open.spotify.com/track/3x9RokAqos6LqGni4E0TyB) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [NO LOVE](https://open.spotify.com/album/5T2DMQH1Ru2R9FMgpklg4h) | 3:22 | 2021-12-17 |  |
@@ -221,7 +222,7 @@
 | [Wasted](https://open.spotify.com/track/2RrgPY4yRUewW4pHmudoyl) | [eugene](https://open.spotify.com/artist/32B4m0OTNUKzhgYGCCvTZw) | [Wasted](https://open.spotify.com/album/2frjhKXWiR4CVeowMBHCF5) | 3:53 | 2021-12-17 |  |
 | [Watch Me \- Jon Casey](https://open.spotify.com/track/22tYNfFswhekyfe3VACcgr) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF), [Syrene Favero](https://open.spotify.com/artist/56IdNeBYveH8c0Slqu1bef), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Watch Me \(Jon Casey Remix\)](https://open.spotify.com/album/2d8Yu1o6IroS09gvyMWCA7) | 3:31 | 2022-04-01 | 2022-07-27 |
 | [Welcome to the Party](https://open.spotify.com/track/0LRwDYp3DGJBCEPLvOog40) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Sam Nelson](https://open.spotify.com/artist/3PjJuYoEAZcozJezfxdvPK) | [Welcome to the Party](https://open.spotify.com/album/5vLSvzvpAyKDilhEeqAuRu) | 2:44 | 2022-02-11 |  |
-| [Who's In Charge](https://open.spotify.com/track/3MIcrZ8GZy7ckksxs3lGLd) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Who's In Charge](https://open.spotify.com/album/2cSO4UYABmZYQdFAZPVSIP) | 2:51 | 2022-03-18 |  |
+| [Who's In Charge](https://open.spotify.com/track/3MIcrZ8GZy7ckksxs3lGLd) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Who's In Charge](https://open.spotify.com/album/2cSO4UYABmZYQdFAZPVSIP) | 2:51 | 2022-03-18 | 2022-08-13 |
 | [Wraith](https://open.spotify.com/track/3E7FMdM62FVjxwTYqgLbyu) | [Kenzi Sway](https://open.spotify.com/artist/4ai47NrkqM67M55bS2ziHN) | [Wraith](https://open.spotify.com/album/6r7O4TukHQsv0wtQlkdOUa) | 2:35 | 2022-01-07 | 2022-01-12 |
 | [頭をかち割る \(Split 200 000\)](https://open.spotify.com/track/3zTqOlekJDI38osbQXT73z) | [Dizelkraft](https://open.spotify.com/artist/7M0riT0CRD7caslbS9CD0U) | [頭をかち割る \(Split 200 000\)](https://open.spotify.com/album/26IlNtkRFn0xP2r1Xz7K34) | 3:32 | 2022-05-27 | 2022-07-22 |
 

@@ -4,7 +4,7 @@
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Ffion
 
-390 songs - 22 hr 35 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
+391 songs - 22 hr 37 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Burn](https://open.spotify.com/track/5P07UCXsc2QJI3qKNYNm92) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj) | [Alpha](https://open.spotify.com/album/2Apt6eGvcYabmvhsQg6kdw) | 3:04 | 2022-07-07 | 2022-08-03 |
 | [CahayaMu](https://open.spotify.com/track/4wUAArkEOiDdq9ZIE3RLnu) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [CahayaMu](https://open.spotify.com/album/1c3nxW9IvpCUpPM8hhaASd) | 3:21 | 2022-05-03 | 2022-06-01 |
 | [Call Out](https://open.spotify.com/track/5cnCKbndudY9uSCzmDY6rG) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [Call Out](https://open.spotify.com/album/2r8OpLaGO0nOtI27wTaBfH) | 3:18 | 2022-02-02 | 2022-03-08 |
+| [camera roll](https://open.spotify.com/track/4qPx1LnNuGSFUnNnIZnYfN) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [camera roll](https://open.spotify.com/album/5jVDpgn7eKVImYq2Ff7oCb) | 2:07 | 2022-08-11 |  |
 | [Canggung](https://open.spotify.com/track/2m0T1WuciPTO7ClIbRJqrB) | [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Canggung](https://open.spotify.com/album/488QbDqTZZFl6yyCD1mn5p) | 3:06 | 2022-01-04 | 2022-02-03 |
 | [CANNIBAL \(feat\. Hey Violet\)](https://open.spotify.com/track/4RHifj6LEVUa7ckGqZ07ul) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz), [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [CANNIBAL \(feat\. Hey Violet\)](https://open.spotify.com/album/2KAWhdCh5zqXAFNj1bz2M8) | 2:50 | 2022-06-01 | 2022-07-08 |
 | [Caught Up In Your Head](https://open.spotify.com/track/4pPgwWIxHYZNtso47GXUob) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [Caught Up In Your Head](https://open.spotify.com/album/4mvGpe3RbO9OLW8Z3zvr7R) | 3:27 | 2022-07-07 | 2022-08-03 |

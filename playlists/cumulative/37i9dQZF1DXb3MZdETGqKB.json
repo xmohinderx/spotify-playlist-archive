@@ -504,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Pensive Pop",
+        "url": "https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262693,
+      "name": "Chained To The Rhythm",
+      "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
+    },
+    {
+      "album": {
         "name": "Cheats and Liars",
         "url": "https://open.spotify.com/album/0KvQMS4pJ9rmvBfFyKCcll"
       },
@@ -2141,6 +2159,24 @@
       "duration_ms": 199786,
       "name": "State of Mind",
       "url": "https://open.spotify.com/track/2Y6FugxQpIz6Nj88w4Bfd5"
+    },
+    {
+      "album": {
+        "name": "Stay away from me",
+        "url": "https://open.spotify.com/album/443tvXMsfPqlt82b5VmyzT"
+      },
+      "artists": [
+        {
+          "name": "Puff Kennedy",
+          "url": "https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162622,
+      "name": "Stay away from me",
+      "url": "https://open.spotify.com/track/77iBCaVqdOSmXtHk5OcwUg"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> This is the new Core at its finest\. Cover: August Burns Red
+> This is the new Core at its finest\. Cover: Norma Jean
 
-569 songs - 1 day 11 hr 47 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+572 songs - 1 day 12 hr 1 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A Bloodsoaked Symphony](https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [A Bloodsoaked Symphony](https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X) | 4:28 | 2022-07-13 | 2022-07-23 |
 | [A Cross to Bear](https://open.spotify.com/track/2qqPqcbTiAtpITQswoN3Nv) | [Medeia](https://open.spotify.com/artist/5KNeODkE372TZMRiUB78YN), [Mike Pilat](https://open.spotify.com/artist/0IXMeMkxxTD3eMRMmSCnXg) | [A Cross to Bear](https://open.spotify.com/album/258gwGp8DFqlqwkNm6ehvP) | 4:01 | 2022-07-13 | 2022-07-20 |
 | [A Form of Protest](https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [A Form of Protest](https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA) | 3:09 | 2022-05-20 |  |
-| [A King To Rise](https://open.spotify.com/track/4bc7Ag4yPuuUlLRmew6HjW) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [A King To Rise](https://open.spotify.com/album/4T9qyGOab2jMhedAUMMdJG) | 3:08 | 2022-06-10 |  |
+| [A Killing Word](https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Deathrattle Sing for Me](https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As) | 4:44 | 2022-08-12 |  |
+| [A King To Rise](https://open.spotify.com/track/4bc7Ag4yPuuUlLRmew6HjW) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [A King To Rise](https://open.spotify.com/album/4T9qyGOab2jMhedAUMMdJG) | 3:08 | 2022-06-10 | 2022-08-13 |
 | [A Night in Hell](https://open.spotify.com/track/78dflnXmmb9kBDNk7XIdYn) | [Deathbeds AU](https://open.spotify.com/artist/2CA3NHP7ecfgsgczb2TApg), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [A Night in Hell](https://open.spotify.com/album/1W4QsTaFs8zjnQg2mhizEk) | 3:32 | 2022-07-13 | 2022-07-23 |
 | [A Shot in the Dark](https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Shot in the Dark](https://open.spotify.com/album/7dcfDgnDbBf6BVtrltPw9u) | 3:12 | 2022-04-08 | 2022-05-21 |
 | [A Stranger I Remain](https://open.spotify.com/track/0YOGApjOdX5BrFKxmccUyT) | [GO!! Light Up!](https://open.spotify.com/artist/1hIAVfmKI8rbfgdO1EQG1c) | [A Stranger I Remain](https://open.spotify.com/album/3apA50v3LWM6VILq8yl1Zj) | 3:33 | 2022-04-01 | 2022-06-11 |
@@ -207,7 +208,7 @@
 | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf) | 5:01 | 2022-03-18 | 2022-07-23 |
 | [Far from Heaven](https://open.spotify.com/track/2KQBhix4n2X6ZYF5L3yvX5) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Far from Heaven](https://open.spotify.com/album/2KhNzM1tf9KAlrP40tKB6c) | 4:44 | 2022-07-13 | 2022-07-23 |
 | [Fatal Attraction](https://open.spotify.com/track/1FEz1LN0PjucQ4u4F8LuCn) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Fatal Attraction](https://open.spotify.com/album/46pve0XL3092Xxog7YUyrF) | 4:05 | 2022-07-13 | 2022-07-23 |
-| [Fault Line](https://open.spotify.com/track/3dbLhhWTAh1JcezKuttLFo) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Fault Line](https://open.spotify.com/album/1uOILLHZaV1sjCVHVyS4JA) | 3:30 | 2022-06-24 |  |
+| [Fault Line](https://open.spotify.com/track/3dbLhhWTAh1JcezKuttLFo) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Fault Line](https://open.spotify.com/album/1uOILLHZaV1sjCVHVyS4JA) | 3:30 | 2022-06-24 | 2022-08-13 |
 | [Fear In Non Fiction](https://open.spotify.com/track/153FWt6E2faYmjfoHanfoU) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX) | [Fear In Non Fiction](https://open.spotify.com/album/0lvacv6dOWb6SjsWZB62Kh) | 3:24 | 2022-01-28 | 2022-02-26 |
 | [Fear Tomorrow](https://open.spotify.com/track/113EVghey6uEB0wyplsY5F) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Fear Tomorrow](https://open.spotify.com/album/5Zp2KRLuMqZiUbq04wpDD8) | 4:29 | 2022-07-13 | 2022-07-23 |
 | [Fearless](https://open.spotify.com/track/5L0iZHVg5zs3bKVpzokKJL) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/3pBJEqLBZpxkZszKcc3tDj) | 4:17 | 2022-07-13 | 2022-07-23 |
@@ -515,8 +516,10 @@
 | [The Soil](https://open.spotify.com/track/1B5N4Uv5ueJw5rbiga5asV) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [The Soil](https://open.spotify.com/album/5NrHpWyWCGVya29slLU2QG) | 3:29 | 2022-07-13 | 2022-07-19 |
 | [The Tyrannt's Covenant](https://open.spotify.com/track/4HX43R8UeIPjEPpTzKQb3P) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Kyle Anderson](https://open.spotify.com/artist/74GuAuCz0mWRUiqL4KPJKh) | [The Tyrannt's Covenant](https://open.spotify.com/album/6t9Q5AZw9LyXEqVvdVZbfP) | 3:21 | 2022-07-13 | 2022-07-23 |
 | [The War Within](https://open.spotify.com/track/0e4wJqC4fthZp6yUCUaCmh) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Jamie Graham](https://open.spotify.com/artist/23lPSllEOA8jXD0bXzzlyM) | [Praenuntius Infiniti](https://open.spotify.com/album/1pmqc1OZ7VYMqjtG8zCAMz) | 4:14 | 2022-07-13 | 2022-07-19 |
+| [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 | 2022-08-12 |  |
 | [Thick As Blood](https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Price Of Dreaming](https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4) | 4:40 | 2022-05-27 |  |
 | [Thinking in Tongues](https://open.spotify.com/track/4bWxvvHZSbnCERC2liTnIq) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Thinking in Tongues](https://open.spotify.com/album/4rWZPzKJnGLtNyTxVGLFEh) | 3:24 | 2022-07-13 | 2022-07-23 |
+| [This Means War](https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:55 | 2022-08-12 |  |
 | [Throne](https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Throne](https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA) | 3:27 | 2022-06-24 |  |
 | [Through Life and Death](https://open.spotify.com/track/3WQBZ03AEnce4fHmLyEcy4) | [Eyes Wide Open](https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po) | [Through Life and Death](https://open.spotify.com/album/1FSSug8vSM8W1oCR61ZWfA) | 3:46 | 2021-12-17 | 2022-02-18 |
 | [Tidal Wave](https://open.spotify.com/track/6vLIcvjjLPftlcadH1hbTu) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Tidal Wave](https://open.spotify.com/album/2e766ojr5NmFTOtULHrZGN) | 4:16 | 2022-04-08 | 2022-06-11 |
@@ -561,7 +564,7 @@
 | [When The World Awakens](https://open.spotify.com/track/0EykvSNrnnaC6usNnkIuVN) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [When The World Awakens](https://open.spotify.com/album/2aL557gcof6jc3qMEuqwD4) | 3:17 | 2022-03-11 | 2022-04-09 |
 | [Where Millions Have Come to Die](https://open.spotify.com/track/52af9CWTZlmXbkR0qLUCdi) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Where Millions Have Come to Die](https://open.spotify.com/album/39etS8zmHojH5CgZ8urdGl) | 4:23 | 2022-07-13 | 2022-07-23 |
 | [White Eyes](https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [White Eyes](https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo) | 3:36 | 2022-06-24 |  |
-| [White Rabbit](https://open.spotify.com/track/48gotqEngeagErLW3C1FUs) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b) | [White Rabbit](https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci) | 3:50 | 2022-05-13 |  |
+| [White Rabbit](https://open.spotify.com/track/48gotqEngeagErLW3C1FUs) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b) | [White Rabbit](https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci) | 3:50 | 2022-05-13 | 2022-08-13 |
 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 | 2022-07-01 |  |
 | [Who's fault?](https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87) | [DEXCORE](https://open.spotify.com/artist/5M8Z8Dlx2uLSH88WgxLlG4) | [\-18\-](https://open.spotify.com/album/4njBljf92NKv5NBIh6xA9s) | 4:35 | 2022-01-21 | 2022-04-09 |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-07-13 | 2022-07-23 |

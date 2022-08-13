@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-149 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+150 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [F2020](https://open.spotify.com/track/3HZuxQ80VWOsBWws8XQdFB) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [F2020](https://open.spotify.com/album/0bwBpa7inaWZChPEOnVTIk) | 3:01 | 2022-01-25 | 2022-07-09 |
 | [Facetime](https://open.spotify.com/track/3yXe8o61TRW5iSkq2BloyN) | [Broderick Jones](https://open.spotify.com/artist/6qotp0EA1aHJPk6YnbVtGK) | [Facetime](https://open.spotify.com/album/2UTVRpVGSJUwqIQenvmDV7) | 3:21 | 2022-01-25 | 2022-03-18 |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-02-25 | 2022-07-09 |
-| [Fotiá](https://open.spotify.com/track/2lvpx8iTGmC7MD9GaJ0ga0) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Fotiá](https://open.spotify.com/album/4iZ4ThnqPWQoCgE3djEoER) | 2:54 | 2022-01-25 |  |
+| [Fotiá](https://open.spotify.com/track/2lvpx8iTGmC7MD9GaJ0ga0) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Fotiá](https://open.spotify.com/album/4iZ4ThnqPWQoCgE3djEoER) | 2:54 | 2022-01-25 | 2022-08-13 |
 | [Fuck Up the Friendship](https://open.spotify.com/track/1ddKUwm3UuvcMWLLAgOIcX) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Fuck Up the Friendship](https://open.spotify.com/album/6OYKLdkagNi7b1cANWVAMg) | 2:52 | 2022-01-25 |  |
 | [Girlfriends](https://open.spotify.com/track/0gq2ZnHkaO16VIW3LLBJIN) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Girlfriends](https://open.spotify.com/album/3qOnAxbk9v0N20ouQjw2tL) | 2:21 | 2022-01-25 |  |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-03-18 |  |
@@ -65,6 +65,7 @@
 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 | 2022-01-25 |  |
 | [Hands On You](https://open.spotify.com/track/1c03f9YZmO792D7hRjZMYi) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Hands On You](https://open.spotify.com/album/7AwODiyS5ghh0uhXt4v2tj) | 2:35 | 2022-01-25 |  |
 | [Hard Lessons](https://open.spotify.com/track/5MPsbkNc7N4q9swlqocgez) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Hard Lessons](https://open.spotify.com/album/1IYAKdzj48aCTLSGkem1LK) | 2:10 | 2022-01-25 | 2022-03-18 |
+| [Heart on Fire](https://open.spotify.com/track/0NzgX6oHNy0Wy0VCLX1u90) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Heart on Fire](https://open.spotify.com/album/4gyrk2gUPVY88ODmiPcBRH) | 3:32 | 2022-08-12 |  |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-01-25 |  |
 | [Hold On](https://open.spotify.com/track/5KEhdsd6R49DlFWL43raBt) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36) | [Hold On](https://open.spotify.com/album/6JELjBe5Xm0WkgPSzwRobv) | 4:14 | 2022-02-25 |  |
 | [Homicide](https://open.spotify.com/track/3bMkX7fBy3yTmZVKY8ko6B) | [Ani Brava](https://open.spotify.com/artist/5nSfjpspE3LUNZyQFw5Xj4) | [Homicide](https://open.spotify.com/album/10voDa9fbZTOyzhEg5mw2T) | 2:49 | 2022-01-25 |  |

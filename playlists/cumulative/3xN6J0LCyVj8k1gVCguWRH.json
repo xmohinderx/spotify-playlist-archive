@@ -20328,6 +20328,24 @@
     },
     {
       "album": {
+        "name": "Out of the Ordinary",
+        "url": "https://open.spotify.com/album/1VXs9wvFRvQ5zk5Dc8pxN8"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lucas",
+          "url": "https://open.spotify.com/artist/2Pr3lE9vqRXylZnrVqdHxC"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196439,
+      "name": "Out of the Ordinary",
+      "url": "https://open.spotify.com/track/1FJqAKNOgodJlyBZnKpkPj"
+    },
+    {
+      "album": {
         "name": "Outrageous",
         "url": "https://open.spotify.com/album/3zEWdbQODUN0Tl9oqXaxnD"
       },
@@ -25545,6 +25563,24 @@
       "duration_ms": 324133,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
+    },
+    {
+      "album": {
+        "name": "Take From Me",
+        "url": "https://open.spotify.com/album/21B1bKtLablUHW7nCX8PdY"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Take From Me",
+      "url": "https://open.spotify.com/track/0AOVNj7BINTEuDscgRWNIf"
     },
     {
       "album": {

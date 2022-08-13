@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Drill scenes connect. Cover: Fivio Foreign & Jnr Choi",
+  "description": "Drill scenes connect. Cover: Ice Spice",
   "name": "City to City",
   "published_playlist_ids": [
     "7CePQXk9T7nhNQbo5PKUkn"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 118441,
       "name": "Brotherly Love (Pt. 2) (feat. Dougie B & B-Lovee)",
       "url": "https://open.spotify.com/track/7awx72vZdHjV6xoCBveAK5"
@@ -2377,7 +2377,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 87272,
       "name": "Drill Foot",
       "url": "https://open.spotify.com/track/2Iz7wAaXmO35sgKqMiLeWG"
@@ -3555,7 +3555,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 128800,
       "name": "Hood Celebrity (Shake it)",
       "url": "https://open.spotify.com/track/3MJ8iBdGoL3qMg0fhSsMgq"
@@ -3687,6 +3687,28 @@
       "duration_ms": 128450,
       "name": "I Get That",
       "url": "https://open.spotify.com/track/5b9qArPaYpmfQiDy1NyOnk"
+    },
+    {
+      "album": {
+        "name": "I Told Her (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/1llYHboVMsUMORLIq5CssO"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142759,
+      "name": "I Told Her (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6PF4penvueXSemUAILV3Bd"
     },
     {
       "album": {
@@ -4470,6 +4492,24 @@
     },
     {
       "album": {
+        "name": "Munch (Feelin\u2019 U)",
+        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104819,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
+    },
+    {
+      "album": {
         "name": "My City",
         "url": "https://open.spotify.com/album/02Ieh9XLIlsdxQht4Owvv7"
       },
@@ -5233,7 +5273,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 248936,
       "name": "Only You Freestyle",
       "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"

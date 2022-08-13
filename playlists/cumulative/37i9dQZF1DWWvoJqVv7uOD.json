@@ -2890,6 +2890,24 @@
     },
     {
       "album": {
+        "name": "motions",
+        "url": "https://open.spotify.com/album/4jAn6mafgFFDrghg6EfKsC"
+      },
+      "artists": [
+        {
+          "name": "Mitch James",
+          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213622,
+      "name": "motions",
+      "url": "https://open.spotify.com/track/5QTPZNq8wnpDIoxHx0dkif"
+    },
+    {
+      "album": {
         "name": "Who Do You Pray To?",
         "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
       },
@@ -3147,7 +3165,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 167219,
       "name": "Regret Not Loving You",
       "url": "https://open.spotify.com/track/524MUS7LyH3OszVS2A5VLC"
@@ -3679,6 +3697,28 @@
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "album": {
+        "name": "WHO HURT YOU?",
+        "url": "https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216194,
+      "name": "The Look (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh"
     },
     {
       "album": {

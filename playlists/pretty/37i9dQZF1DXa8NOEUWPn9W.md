@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: FISHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,660,254 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,660,995 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 99 | [Its Time to Move](https://open.spotify.com/track/4qK9g7RGoHCUpfbGu3Mlf4) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/0oj8l35AnHn2buWFdhFHJy) | 4:00 |
 | 100 | [Closer \- Edit](https://open.spotify.com/track/6PslLP8aOsBre5vzdXKEQr) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Closer](https://open.spotify.com/album/6XVwl4AeJhcFWOLlZiKsgO) | 2:56 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMGQ2N2JhMTViZjA4ZGQzYTc5MWUzMzcyNGQ3OWE2MTZm`
+Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMGNlODQwNGE5MjJhYjA1NzIyNzBkNWM0MWE4MzkzZTM2`

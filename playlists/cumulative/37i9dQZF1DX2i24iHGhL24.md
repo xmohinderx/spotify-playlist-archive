@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Avril Lavigne
 
-308 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+311 songs - 17 hr 49 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Anyone](https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Anyone](https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8) | 2:52 | 2021-12-17 |  |
 | [Anyone](https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Wedding Songs](https://open.spotify.com/album/3e2GfHTpoxEbCUdCj5TRzl) | 3:51 | 2022-07-29 |  |
 | [Arcade \- Acoustic Cover](https://open.spotify.com/track/7fwfXft2yM3Sz1ZI2uXYUP) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Arcade \(Acoustic Cover\)](https://open.spotify.com/album/5DVgSeCgxDTFm9PU81dpQt) | 3:04 | 2022-05-06 |  |
+| [As It Was](https://open.spotify.com/track/5SNMqFlOLURnth98KwSe8s) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [As It Was](https://open.spotify.com/album/1WTy67zxmMsbrc69eItWdu) | 3:07 | 2022-08-12 |  |
 | [As Long as You Love Me](https://open.spotify.com/track/1tlYEixIaixxBrsEYFOEQ4) | [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9) | [As Long as You Love Me](https://open.spotify.com/album/3jyAmeckEV9bX0N7Nw3iqD) | 3:24 | 2021-12-17 | 2022-04-16 |
 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 | 2021-12-17 | 2022-05-02 |
 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 | 2021-12-17 |  |
@@ -114,6 +115,7 @@
 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2021-12-17 |  |
 | [Forever Young](https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Forever Young \(From The McDonald's Christmas Advert 2020\)](https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw) | 2:58 | 2021-12-17 |  |
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2021-12-17 |  |
+| [glimpse of us](https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [glimpse of us](https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ) | 3:42 | 2022-08-12 |  |
 | [Go Your Own Way](https://open.spotify.com/track/0DLVUfWdF4MptlOeYQsRkk) | [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Go Your Own Way](https://open.spotify.com/album/23adg4MHzuH1gjIp6COp5h) | 2:21 | 2022-03-25 | 2022-04-15 |
 | [God Is A Woman \- Yours Truly: 2018](https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [God Is A Woman \(Yours Truly: 2018\)](https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ) | 3:37 | 2021-12-17 |  |
 | [God Only Knows](https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [God Only Knows](https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi) | 3:04 | 2021-12-17 |  |
@@ -155,6 +157,7 @@
 | [I'm A Believer](https://open.spotify.com/track/2nh8erBozDNU7vOEnmWsS7) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [I'm A Believer](https://open.spotify.com/album/4r9DrMEpm9ixgaxFhZH0YS) | 2:26 | 2021-12-17 | 2022-01-15 |
 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 | 2021-12-17 |  |
 | [I'm Not the Only One \- Live from Spotify, London](https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Spotify Session](https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz) | 3:15 | 2021-12-17 |  |
+| [I'm With You](https://open.spotify.com/track/3zLsU8qJbhTnd2QUu7pLtJ) | [Alex Goot](https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [I'm With You](https://open.spotify.com/album/3Omupu2Y8hvpJk9cinOi4a) | 2:53 | 2022-08-12 |  |
 | [If I Ain't Got You](https://open.spotify.com/track/60Upg4NK79iFTP77w9O6E7) | [caravan](https://open.spotify.com/artist/7I9GI1IG7pfLC4ENoLVJ5e), [Valentin](https://open.spotify.com/artist/7Fy5VsWKRZYoXc3M18O85p) | [If I Ain't Got You](https://open.spotify.com/album/05xqadEYFt4VvusqQACQ4E) | 3:10 | 2021-12-17 |  |
 | [If I Were A Boy](https://open.spotify.com/track/13dtX3TNkdeo126Ccib6CA) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [If I Were A Boy](https://open.spotify.com/album/7C7uRn4p2HhauHrzjb486u) | 4:04 | 2021-12-17 |  |
 | [In Da Club](https://open.spotify.com/track/4NDvqNg11hSuNpiGUtnlRU) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [In Da Club](https://open.spotify.com/album/7JAUDSWptc3QlTIuqGT3lN) | 3:24 | 2021-12-17 |  |

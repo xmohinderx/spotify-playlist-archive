@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-73 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+74 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,9 +58,10 @@
 | [Playboy](https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN) | [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Playboy](https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC) | 3:29 | 2022-06-20 |  |
 | [R A B O N A](https://open.spotify.com/track/2S369D2uttM1uwlfqtHhUw) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [R A B O N A](https://open.spotify.com/album/18mWb3oJws5PhyH8aETKZs) | 2:50 | 2022-06-08 |  |
 | [Recall \(Young Man\)](https://open.spotify.com/track/3qn8vCHlKfZiiZaQZHFwYI) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Omolola](https://open.spotify.com/artist/2oiwI74vU7D2J3F8bNqf0Z) | [Recall \(Young Man\)](https://open.spotify.com/album/2A787Mr8PzkjC2lUjwOxAb) | 5:17 | 2022-06-23 |  |
-| [Recharge](https://open.spotify.com/track/0jweI4ue2Q3FAcBEiz2Bf0) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Recharge](https://open.spotify.com/album/6JnyLWPrZowsSOvW2yGTbR) | 2:40 | 2022-06-06 |  |
+| [Recharge](https://open.spotify.com/track/0jweI4ue2Q3FAcBEiz2Bf0) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Recharge](https://open.spotify.com/album/6JnyLWPrZowsSOvW2yGTbR) | 2:40 | 2022-06-06 | 2022-08-13 |
 | [Red Flashing Lights](https://open.spotify.com/track/7olPKz81JZoeIWZnSUkN8S) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [Red Flashing Lights](https://open.spotify.com/album/7ER0D6S1r91Ts0TCnZ8DhO) | 2:46 | 2022-04-06 | 2022-06-16 |
 | [Reflection](https://open.spotify.com/track/1WMAmiHJjj3jiQlPMFFdGi) | [Hi Frisco](https://open.spotify.com/artist/6ifRAgjl7vu0M5DsSbtp2i), [CHERITON](https://open.spotify.com/artist/31RwGrkcLmgHGRSOK2gIKB) | [Reflection](https://open.spotify.com/album/6hRNO6aIMwgR1WIdvyCqk5) | 4:15 | 2022-05-11 | 2022-07-21 |
+| [René Laloux](https://open.spotify.com/track/74l4tSkfHX8iLW9Kc74ePm) | [Hotel](https://open.spotify.com/artist/1RfaBLjlSEdEMRMaj3dWwc), [Prince Matton](https://open.spotify.com/artist/6QjIoVAOqLki2UAmoD5yuX) | [René Laloux](https://open.spotify.com/album/0Ai0eRRJWnJ8FnZv0IHdLn) | 4:30 | 2022-08-12 |  |
 | [Roses](https://open.spotify.com/track/379cChcS43x1BGboAC6QUI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Kitsuné Maison Compilation 18: The Hysterical Advisory Issue](https://open.spotify.com/album/6fCFZtSy5xJs3t87nPriYZ) | 2:52 | 2021-11-05 |  |
 | [Run Away](https://open.spotify.com/track/2JZD1lj0NVmde3z5xpeUjb) | [Luc de la Croixx](https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59), [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [Run Away](https://open.spotify.com/album/61bcm5fOZcG1zLc0XVfSp6) | 3:04 | 2022-04-08 | 2022-06-18 |
 | [Saint](https://open.spotify.com/track/0CGl71PsT1460rkbfUdbef) | [Tobias.wav](https://open.spotify.com/artist/5uMPzdNRQFj0lZ6h95gyxN) | [Saint](https://open.spotify.com/album/37iu4n6JCr1jz4KXEjTaMc) | 2:00 | 2022-06-13 |  |

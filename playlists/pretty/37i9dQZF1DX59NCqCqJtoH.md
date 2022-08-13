@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,242 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,228 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 99 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 |
 | 100 | [Jesus Christ](https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 5:18 |
 
-Snapshot ID: `MTY2MDA1ODEwNCwwMDAwMDAwMDczY2I5NDVjZjA4YjRhYjdhMTZiM2Q3MDMzM2NhYWRj`
+Snapshot ID: `MTY2MDMzMzU5NiwwMDAwMDAwMDE3MmU2ZDVlN2I3NGM1NTAyNzYxZTE3ZjM0YmQwOWFj`

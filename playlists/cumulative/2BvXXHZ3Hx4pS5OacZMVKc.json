@@ -1862,6 +1862,24 @@
     },
     {
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0msuqg81uxdZOmmFkS3ot7"
+      },
+      "artists": [
+        {
+          "name": "Tobu",
+          "url": "https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242739,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/3I4i9lPdYexRsU79R7KnoM"
+    },
+    {
+      "album": {
         "name": "Met You",
         "url": "https://open.spotify.com/album/4KfC8XxPaONYiApcN5uV5i"
       },
@@ -3117,6 +3135,24 @@
       "duration_ms": 186703,
       "name": "Superhero In My Sleep",
       "url": "https://open.spotify.com/track/1BHhgOM82RNW9fjZS6cPVs"
+    },
+    {
+      "album": {
+        "name": "Symbolism pt. III",
+        "url": "https://open.spotify.com/album/2W3HSyUgF9aoXOUIxB5xyx"
+      },
+      "artists": [
+        {
+          "name": "Electro-Light",
+          "url": "https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246500,
+      "name": "Symbolism pt. III",
+      "url": "https://open.spotify.com/track/3j9repS7j0ic94QnkmBWow"
     },
     {
       "album": {

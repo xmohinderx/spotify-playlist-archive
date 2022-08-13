@@ -6,8 +6,136 @@
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTQ0MCxhYTJiOGIzYzdkMTk3YTVlMTM3YThlYjhkNDFiNDgzYTM4NDcwZWZi",
+  "snapshot_id": "NTQ1MSwyOTYwY2FkZjIxOTNjOGZmZmQ0ODk4NzZlOGNkMzc5MDA3YTEyYjBh",
   "tracks": [
+    {
+      "added_at": "2022-08-12 14:53:49",
+      "album": {
+        "name": "BREAK MY SOUL (THE QUEENS REMIX)",
+        "url": "https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "BREAK MY SOUL - THE QUEENS REMIX",
+      "url": "https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr"
+    },
+    {
+      "added_at": "2022-08-12 14:54:39",
+      "album": {
+        "name": "Sunroof (Remixes)",
+        "url": "https://open.spotify.com/album/2Lm0F5MpahWZ4vb0k4MiHj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 163025,
+      "name": "Sunroof (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/2xRPwGneUj9S6UNC2TthyJ"
+    },
+    {
+      "added_at": "2022-08-12 14:54:53",
+      "album": {
+        "name": "so what!",
+        "url": "https://open.spotify.com/album/600i38QcfI9f9rZZUNzRiA"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 124187,
+      "name": "so what!",
+      "url": "https://open.spotify.com/track/1UTnLtgadp10wkFrDWXn3u"
+    },
+    {
+      "added_at": "2022-08-12 14:55:02",
+      "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "added_at": "2022-08-12 14:55:24",
+      "album": {
+        "name": "only in the night (feat. Sarcastic Sounds)",
+        "url": "https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 130369,
+      "name": "only in the night (feat. Sarcastic Sounds)",
+      "url": "https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z"
+    },
+    {
+      "added_at": "2022-08-12 14:56:27",
+      "album": {
+        "name": "Motordrome (The D\u00f8dstrom Edition)",
+        "url": "https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 163936,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW"
+    },
+    {
+      "added_at": "2022-08-12 14:56:47",
+      "album": {
+        "name": "XANAX & CHAMPAGNE",
+        "url": "https://open.spotify.com/album/43msAeuWOzOYtoGF3Ts2qT"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Wild",
+          "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "XANAX & CHAMPAGNE",
+      "url": "https://open.spotify.com/track/2PwO2Le2ExxYWbwMScVBti"
+    },
     {
       "added_at": "2022-08-05 14:46:53",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Chill, tropical vibes only.",
-  "num_followers": 273162,
+  "num_followers": 273250,
   "original_name": "Sunny Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMGQwYWYxY2Q3NTk2NmZkZTEzZTcxZmE1M2E2OWJiOGEx",
+  "snapshot_id": "MTY2MDI2MjQwMCwwMDAwMDAwMGVjM2QxMmZhNmQxY2QyODRiN2NhY2M1NDAxZDkwZGRj",
   "tracks": [
     {
       "added_at": "2022-08-12 00:00:00",
@@ -2459,6 +2459,46 @@
       "duration_ms": 164000,
       "name": "The New Day",
       "url": "https://open.spotify.com/track/1y2zDUWWkG4P97pDjWGrDi"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Caribbean Latte",
+        "url": "https://open.spotify.com/album/1C1yDFumSDLh71qZzyxtac"
+      },
+      "artists": [
+        {
+          "name": "Mister Decaf",
+          "url": "https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY"
+        },
+        {
+          "name": "soave lofi",
+          "url": "https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Caribbean Latte",
+      "url": "https://open.spotify.com/track/5X9jS1tU1Hv2yPh4dGC1HH"
+    },
+    {
+      "added_at": "2022-08-12 00:00:00",
+      "album": {
+        "name": "Afternoon Wind",
+        "url": "https://open.spotify.com/album/0t3OwwDp5vnzPig21TJsH8"
+      },
+      "artists": [
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        },
+        {
+          "name": "luv pug",
+          "url": "https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "Afternoon Wind",
+      "url": "https://open.spotify.com/track/2eMu2au8FVOaHemQfi7Sah"
     },
     {
       "added_at": "2022-08-12 00:00:00",

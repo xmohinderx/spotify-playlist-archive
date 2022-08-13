@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-254 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
+256 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0UKq41XlbwiSpEqt1dQ2aS) | [Melvin Miller Jones](https://open.spotify.com/artist/0sgnTaXjVPQ8n5PXBxPC38) | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/album/5o9NyGHoyaDkHOTXHWTh99) | 2:26 | 2021-06-04 |  |
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0crhvasDtSsXpLX2dlnb7Z) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Gamma Brainwaves](https://open.spotify.com/album/2VjUMYURryhVfw79wYpTHI) | 3:16 | 2020-12-03 | 2020-12-10 |
 | [Binaural Gamma Sinus Smooth](https://open.spotify.com/track/1Mb9AEykvFRq17KcIgtJ3v) | [Relax Sound Hub](https://open.spotify.com/artist/4g69iUFVXXHTCtzFC9V7pQ) | [Binaural Gamma Sinus Smooth](https://open.spotify.com/album/5akLn1Xm10Ei7cm2f5uBVB) | 1:48 | 2021-02-03 |  |
+| [Binaural Sines 7hz Alpha \- 58hz \- 65hz](https://open.spotify.com/track/2DbwsaYDvznsSkh4c5XgmI) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [Assembly of Sines](https://open.spotify.com/album/4BrlUJIq4Bb0ZoOQcvpIcy) | 2:40 | 2022-08-12 |  |
 | [Birds Touch \- Gamma](https://open.spotify.com/track/19TGWSV1jpgTRxb6N37BdA) | [Meditative Souls](https://open.spotify.com/artist/6nyLL1OEFX7G7DUL3Wiyul) | [Birds Touch \- Gamma](https://open.spotify.com/album/0wFeuyeCcAOFVZrcPNmbUw) | 1:41 | 2021-02-03 | 2021-12-09 |
 | [Breathe \(Alpha 10 Hz\)](https://open.spotify.com/track/1yPHyeOZIcFCsY4xPKYwge) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [Breathe](https://open.spotify.com/album/4dvLP2NgD04TxQmE5yhBzY) | 2:40 | 2021-08-05 | 2022-05-06 |
 | [Bridge Alpha Sinus \- 147 hz \- 148 hz](https://open.spotify.com/track/1ml9cNlcbmwytBtl0eEadf) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Sinus Moments](https://open.spotify.com/album/7HbRDOMi06vfQgudWIeIIK) | 3:29 | 2021-08-05 |  |
@@ -237,6 +238,7 @@
 | [Reset of the mind \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/1zDzm7luV055pHODOnGjeC) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 2:36 | 2021-06-18 |  |
 | [Sinus 100 Hz \- L 114 Hz \- R Drone](https://open.spotify.com/track/7vHODRL4ZfNcnU6YJjMdT7) | [Subtracters](https://open.spotify.com/artist/5zX5hB6Cf6jfDhz8M5n7A7) | [Beta 14\-30 Hz Drones](https://open.spotify.com/album/6wf0S6noQKzlOvSmph9XaB) | 3:24 | 2019-05-26\* | 2020-09-08 |
 | [Sinus 90 Hz \- L 120 Hz \- R Drone](https://open.spotify.com/track/0v2mApJ0py4fN6dqzkBJ5t) | [Subtracters](https://open.spotify.com/artist/5zX5hB6Cf6jfDhz8M5n7A7) | [Beta 14\-30 Hz Drones](https://open.spotify.com/album/6wf0S6noQKzlOvSmph9XaB) | 3:28 | 2019-05-26\* | 2020-06-03 |
+| [Sleepy Mountains \(Binaural Alpha 128Hz \- 133Hz\)](https://open.spotify.com/track/5Wp0TFlJeChDBh4HY5z022) | [Flying Rivers](https://open.spotify.com/artist/0dpYklrmz6pA7Yc3w48IPk) | [Sleepy Mountains \(Binaural Alpha 128Hz \- 133Hz\)](https://open.spotify.com/album/5NkVmf5vBPzHfQJXgdg76M) | 2:36 | 2022-08-12 |  |
 | [Smooth Gamma](https://open.spotify.com/track/0uRm6jCU2HMQmrIeqOfJC7) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Binaural Delta Minds](https://open.spotify.com/album/1cPEUroeyLUqzPsDBRQyyw) | 3:28 | 2020-08-12 |  |
 | [Snow Valley \- Alpha Sinus 117Hz \- 125Hz](https://open.spotify.com/track/5YQrkEoSX6e7vH0vnAeXir) | [Weightless Light](https://open.spotify.com/artist/71K8pRSp653sdTp9NS2rS9) | [Ocean of Beauty](https://open.spotify.com/album/6JOxajCyVgdEOcQw4k1jAG) | 4:09 | 2021-02-24 | 2021-06-18 |
 | [Solutions \(Gamma Waves\)](https://open.spotify.com/track/1vgFYFKf5GYUmHtT1mdvNv) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Deepest Dream \(Binaural Beats\)](https://open.spotify.com/album/6nv46CNtutXIqarQSn4XnR) | 2:46 | 2020-03-12 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Unplugged versions of your favorite rock & alt songs. Cover: Wolf Alice",
+  "description": "Rock unplugged. Cover: Wolf Alice",
   "name": "Stripped Down",
   "published_playlist_ids": [
     "4pmqASXT6N1jKQdZeUqEyI"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 198400,
       "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
       "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
@@ -827,6 +827,28 @@
       "duration_ms": 229466,
       "name": "Loveless",
       "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
+    },
+    {
+      "album": {
+        "name": "mainstream sellout (life in pink deluxe)",
+        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174991,
+      "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
+      "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
     },
     {
       "album": {
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 99226,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
@@ -1101,6 +1123,24 @@
       "duration_ms": 200066,
       "name": "Swing Life Away",
       "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
+    },
+    {
+      "album": {
+        "name": "Synchronize (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "Synchronize - Acoustic Version",
+      "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
     },
     {
       "album": {
@@ -1227,6 +1267,24 @@
       "duration_ms": 181893,
       "name": "The Messenger",
       "url": "https://open.spotify.com/track/45CFyww2OsnABfrBg6FzRY"
+    },
+    {
+      "album": {
+        "name": "The Shower Scene (Acoustic)",
+        "url": "https://open.spotify.com/album/1fJpbgIL7RfQnS50yio6T2"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182883,
+      "name": "The Shower Scene - Acoustic",
+      "url": "https://open.spotify.com/track/3VIekKbo9oVfXMs4vsRl0w"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-353 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+355 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 | 2022-05-20 |  |
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2022-05-20 | 2022-07-01 |
 | [Acrylic](https://open.spotify.com/track/5slcOZGvvt488R61ph95IP) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Acrylic](https://open.spotify.com/album/1v8SwfuVFz6qiNfceWzoaD) | 2:25 | 2022-06-24 |  |
+| [Afternoon Wind](https://open.spotify.com/track/2eMu2au8FVOaHemQfi7Sah) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Afternoon Wind](https://open.spotify.com/album/0t3OwwDp5vnzPig21TJsH8) | 2:04 | 2022-08-12 |  |
 | [Agua Clara](https://open.spotify.com/track/6bnhuU80WPonEPeS5Alskr) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Agua Clara](https://open.spotify.com/album/06J6FivKeqJty8XESLzAVA) | 2:11 | 2022-08-12 |  |
 | [Agua de Coco](https://open.spotify.com/track/4lgsYg7OxR2vwtlZQ55CMK) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Agua de Coco](https://open.spotify.com/album/30QZOYyCdPZIlthnT29gla) | 2:37 | 2022-05-20 |  |
 | [Alter Witz](https://open.spotify.com/track/4FO8ygXmPAxWeU8xX0JiVT) | [Hairklep](https://open.spotify.com/artist/7hIODasG8UClMMJFKxA8IZ) | [Alter Witz](https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU) | 1:26 | 2022-05-20 |  |
@@ -55,6 +56,7 @@
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2022-05-20 |  |
 | [Can We Just Vibe?](https://open.spotify.com/track/0wmr45zDNsSMy9cRgddm4E) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Can We Just Vibe?](https://open.spotify.com/album/5WsSwxseHP6HV4DVWl0CVn) | 2:44 | 2022-05-20 |  |
 | [candy](https://open.spotify.com/track/1VAA1DDsPBI5HtHKz71szq) | [whknws.](https://open.spotify.com/artist/7ppgTDZ2LUf9ArtdgkZnX3) | [candy](https://open.spotify.com/album/04CTvp4lpryXBremwXAnKt) | 1:25 | 2022-06-17 |  |
+| [Caribbean Latte](https://open.spotify.com/track/5X9jS1tU1Hv2yPh4dGC1HH) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Caribbean Latte](https://open.spotify.com/album/1C1yDFumSDLh71qZzyxtac) | 2:18 | 2022-08-12 |  |
 | [Caribs](https://open.spotify.com/track/77IvFp174yhWdvqwBYkphA) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Caribs](https://open.spotify.com/album/26hrmwEdbhGyQSKcJ6nu1w) | 2:07 | 2022-05-20 |  |
 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 | 2022-05-20 |  |
 | [Celebrate You](https://open.spotify.com/track/5ZmTz0zMu1ENE9ksmNKuBi) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Celebrate You](https://open.spotify.com/album/6mur5z1CltJszyCwJFjLJx) | 2:22 | 2022-05-20 |  |

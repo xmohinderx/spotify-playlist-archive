@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50psLleaFxR.md) - [plain]
 
 > Brother/sister duo <a href="spotify:artist:4Siyzg8kWayQfPQsPSl6JI">Shermanology</a> bring their energy to a fun, house\-filled mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,096 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,106 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

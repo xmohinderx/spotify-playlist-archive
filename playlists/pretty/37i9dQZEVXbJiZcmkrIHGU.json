@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Germany.",
-  "num_followers": 2113845,
+  "num_followers": 2114262,
   "original_name": "Top 50 - Germany",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEzNTMxNjE2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEzNjIwNjQ0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Nachts wach",
         "url": "https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0g2leZuI3jD5pRsrRIDvYe"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Layla (Dutch Version)",
         "url": "https://open.spotify.com/album/0FzJ3c7iD03TfPeRnsrgwu"
@@ -49,23 +49,7 @@
       "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "MIXED FEELINGS",
-        "url": "https://open.spotify.com/album/1ldWJtQGYdE34MP627RCBc"
-      },
-      "artists": [
-        {
-          "name": "Liaze",
-          "url": "https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "PARADISE (MIT DIR)",
-      "url": "https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Sommer",
         "url": "https://open.spotify.com/album/2zl5g045U3qSeeScr0aVuT"
@@ -85,7 +69,23 @@
       "url": "https://open.spotify.com/track/5pUhMwmYr4gf6Lt3U5qsHz"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "MIXED FEELINGS",
+        "url": "https://open.spotify.com/album/1ldWJtQGYdE34MP627RCBc"
+      },
+      "artists": [
+        {
+          "name": "Liaze",
+          "url": "https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "PARADISE (MIT DIR)",
+      "url": "https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Beautiful Girl",
         "url": "https://open.spotify.com/album/2dG0GF5ikINJmc7nTRKSBk"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/2XRn6Qu0Wd1KvOND8JbaTx"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
@@ -141,31 +141,7 @@
       "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/7luOpgE6z2jUos0U6uVwc4"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 145013,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/2cg9zDi0rvj3HjKxvv2tvY"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "In Liebe, Ion",
         "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
@@ -189,7 +165,47 @@
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/7luOpgE6z2jUos0U6uVwc4"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 145013,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/2cg9zDi0rvj3HjKxvv2tvY"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "duration_ms": 151690,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6"
@@ -209,39 +225,7 @@
       "url": "https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Frozen Tears",
-        "url": "https://open.spotify.com/album/5pJiXMEhtyXo3v9wfJcDAA"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 208282,
-      "name": "Frozen Tears",
-      "url": "https://open.spotify.com/track/4yNNFapUZM7aTElXE2JveQ"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
@@ -261,23 +245,23 @@
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
       "artists": [
         {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 151690,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU"
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -293,7 +277,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
@@ -309,43 +293,39 @@
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
-        "name": "Letztes Mal",
-        "url": "https://open.spotify.com/album/0R5Kegf7xSgEDNiW6kswoE"
+        "name": "Frozen Tears",
+        "url": "https://open.spotify.com/album/5pJiXMEhtyXo3v9wfJcDAA"
       },
       "artists": [
         {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         }
       ],
-      "duration_ms": 165781,
-      "name": "Letztes Mal",
-      "url": "https://open.spotify.com/track/7k6aVgrtJqNTMVqk5yMWKD"
+      "duration_ms": 208282,
+      "name": "Frozen Tears",
+      "url": "https://open.spotify.com/track/4yNNFapUZM7aTElXE2JveQ"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/6TWKnFXOEU0AOXe8pSUnS8"
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
       },
       "artists": [
         {
-          "name": "Theo Junior",
-          "url": "https://open.spotify.com/artist/4Q8tZV1nlCycCfu1RFAsJO"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 159360,
-      "name": "Ups & Downs",
-      "url": "https://open.spotify.com/track/53g6tgjn3Ex6o3Q8hcIxkG"
+      "duration_ms": 206384,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Percocet Party",
         "url": "https://open.spotify.com/album/47nHXYjntjPhI7lf8lVCLH"
@@ -365,7 +345,75 @@
       "url": "https://open.spotify.com/track/3JXdzlvJJrKlmfBfoCLsOo"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/6TWKnFXOEU0AOXe8pSUnS8"
+      },
+      "artists": [
+        {
+          "name": "Theo Junior",
+          "url": "https://open.spotify.com/artist/4Q8tZV1nlCycCfu1RFAsJO"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/53g6tgjn3Ex6o3Q8hcIxkG"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Letztes Mal",
+        "url": "https://open.spotify.com/album/0R5Kegf7xSgEDNiW6kswoE"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 165781,
+      "name": "Letztes Mal",
+      "url": "https://open.spotify.com/track/7k6aVgrtJqNTMVqk5yMWKD"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Ohne Benzin",
+        "url": "https://open.spotify.com/album/44qXZ6KEzcKrp9E9jaxpH0"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "duration_ms": 155136,
+      "name": "Ohne Benzin",
+      "url": "https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Ticket nach Ketama (feat. Liaze)",
         "url": "https://open.spotify.com/album/1VzaGDvMcgi3PbBZhfrbLV"
@@ -385,55 +433,7 @@
       "url": "https://open.spotify.com/track/7KWwQ8SokgUDO7es6Q4ZGW"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Ohne Benzin",
-        "url": "https://open.spotify.com/album/44qXZ6KEzcKrp9E9jaxpH0"
-      },
-      "artists": [
-        {
-          "name": "Domiziana",
-          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
-        }
-      ],
-      "duration_ms": 155136,
-      "name": "Ohne Benzin",
-      "url": "https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206384,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Kleiner Prinz",
         "url": "https://open.spotify.com/album/4YITfxc90E7TGp1WSgWUAf"
@@ -449,27 +449,7 @@
       "url": "https://open.spotify.com/track/0y8lwLPXBsenbF5WAZhlbL"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "LEBENSLANG (HBz Remix)",
         "url": "https://open.spotify.com/album/1jW5P0yu4tE2EUwJWNkfRs"
@@ -493,7 +473,7 @@
       "url": "https://open.spotify.com/track/4FXX4P3dxc1JMBx5wVRJ5N"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
@@ -509,23 +489,27 @@
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/5Ujb3RDkOHs2v8rOyoi0E6"
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
       },
       "artists": [
         {
-          "name": "Olexesh",
-          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/7LaVWcyzHTqoBFPolNiuyz"
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Boys Do Cry",
         "url": "https://open.spotify.com/album/1lIjKOmyguCKZFuPyDZp6h"
@@ -541,7 +525,23 @@
       "url": "https://open.spotify.com/track/3tjoq1CMR4YtSUegC5sbU8"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -557,39 +557,23 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
-        "name": "HEAVEN",
-        "url": "https://open.spotify.com/album/7ufW8uOPWZXscMnz3r0POl"
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/5Ujb3RDkOHs2v8rOyoi0E6"
       },
       "artists": [
         {
-          "name": "PA Sports",
-          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
         }
       ],
-      "duration_ms": 157615,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/3wOfTyr0VCDkWkTJlt8wPR"
+      "duration_ms": 164360,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/7LaVWcyzHTqoBFPolNiuyz"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Survival Mode (Intro)",
-        "url": "https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0"
-      },
-      "artists": [
-        {
-          "name": "badm\u00f3mzjay",
-          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
-        }
-      ],
-      "duration_ms": 213028,
-      "name": "Survival Mode (Intro)",
-      "url": "https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
@@ -609,23 +593,55 @@
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/7ufW8uOPWZXscMnz3r0POl"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
         }
       ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+      "duration_ms": 157615,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/3wOfTyr0VCDkWkTJlt8wPR"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Survival Mode (Intro)",
+        "url": "https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "duration_ms": 213028,
+      "name": "Survival Mode (Intro)",
+      "url": "https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -641,7 +657,63 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
+      },
+      "artists": [
+        {
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+        }
+      ],
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "61 Grad (Deep House RMX)",
+        "url": "https://open.spotify.com/album/1nKs8Er1df14iV7EHSydim"
+      },
+      "artists": [
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        },
+        {
+          "name": "TM",
+          "url": "https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "61 Grad (Deep House RMX)",
+      "url": "https://open.spotify.com/track/5gRXyFtArVXYk8OOSWIXBO"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
@@ -665,79 +737,7 @@
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Je M'appelle",
-        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
-      },
-      "artists": [
-        {
-          "name": "Benzz",
-          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
-        }
-      ],
-      "duration_ms": 139574,
-      "name": "Je M'appelle",
-      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "61 Grad (Deep House RMX)",
-        "url": "https://open.spotify.com/album/1nKs8Er1df14iV7EHSydim"
-      },
-      "artists": [
-        {
-          "name": "Endzone",
-          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
-        },
-        {
-          "name": "TM",
-          "url": "https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "61 Grad (Deep House RMX)",
-      "url": "https://open.spotify.com/track/5gRXyFtArVXYk8OOSWIXBO"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -753,95 +753,7 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 147007,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Sommergewitter",
-        "url": "https://open.spotify.com/album/0y1jv7eymP0ZOITC6hQHyP"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Sommergewitter",
-      "url": "https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/67bLwGrXGnZrC1YUdsLzle"
-      },
-      "artists": [
-        {
-          "name": "Dhurata Dora",
-          "url": "https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/5dj7Il9BkdU1gMfIveNrVH"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
-      "album": {
-        "name": "1996",
-        "url": "https://open.spotify.com/album/1uJ0u1MAN1yfCnc2O7edPO"
-      },
-      "artists": [
-        {
-          "name": "Emilio",
-          "url": "https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF"
-        }
-      ],
-      "duration_ms": 148973,
-      "name": "AUSMACHT",
-      "url": "https://open.spotify.com/track/6sDfeHgrQvvBFdg88Qq8TM"
-    },
-    {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
@@ -865,23 +777,75 @@
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
       "album": {
-        "name": "Adam & Eva",
-        "url": "https://open.spotify.com/album/57fxNocBpqmI58p35gMDvS"
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
       },
       "artists": [
         {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 169280,
-      "name": "Adam & Eva",
-      "url": "https://open.spotify.com/track/2p9S2Xo9UxKjChh7OuApEy"
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Sommergewitter",
+        "url": "https://open.spotify.com/album/0y1jv7eymP0ZOITC6hQHyP"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "Sommergewitter",
+      "url": "https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv"
+      },
+      "artists": [
+        {
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+        }
+      ],
+      "duration_ms": 147007,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/1uJ0u1MAN1yfCnc2O7edPO"
+      },
+      "artists": [
+        {
+          "name": "Emilio",
+          "url": "https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF"
+        }
+      ],
+      "duration_ms": 148973,
+      "name": "AUSMACHT",
+      "url": "https://open.spotify.com/track/6sDfeHgrQvvBFdg88Qq8TM"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Der Zug hat keine Bremse (Mallorcastyle Edition)",
         "url": "https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ"
@@ -905,7 +869,27 @@
       "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
     },
     {
-      "added_at": "2022-08-11 11:13:36",
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/67bLwGrXGnZrC1YUdsLzle"
+      },
+      "artists": [
+        {
+          "name": "Dhurata Dora",
+          "url": "https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/5dj7Il9BkdU1gMfIveNrVH"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
       "album": {
         "name": "Bora / OEO",
         "url": "https://open.spotify.com/album/19uovrLfbW0AcgJClgRpMN"
@@ -927,6 +911,22 @@
       "duration_ms": 147372,
       "name": "OEO",
       "url": "https://open.spotify.com/track/5iRaaDJo5uz0ysY02Xedgz"
+    },
+    {
+      "added_at": "2022-08-12 11:57:24",
+      "album": {
+        "name": "Adam & Eva",
+        "url": "https://open.spotify.com/album/57fxNocBpqmI58p35gMDvS"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 169280,
+      "name": "Adam & Eva",
+      "url": "https://open.spotify.com/track/2p9S2Xo9UxKjChh7OuApEy"
     }
   ],
   "unique_name": "Top 50 - Germany",

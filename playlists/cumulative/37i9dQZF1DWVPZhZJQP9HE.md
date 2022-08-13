@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-164 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+166 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Poonja Kannazhagi](https://open.spotify.com/track/74y0lQHkzOnpvDQsuJAh3a) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Reshma Shyam](https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB) | [Poonja Kannazhagi](https://open.spotify.com/album/1fgtgVhu9fLSb1wWYJdqlJ) | 4:10 | 2021-12-01 | 2022-08-12 |
 | [Rendu Bottle Vodka \- From "Cosmo Kadhal"](https://open.spotify.com/track/54cWlnscttOqFY0tsNLNLW) | [Josh Vivian](https://open.spotify.com/artist/0C48t0nOfxy7ZymGQVpEP8), [Roe Vincent](https://open.spotify.com/artist/5FP2oei0td30JwMSj5jm2f), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Rendu Bottle Vodka \(From "Cosmo Kadhal"\)](https://open.spotify.com/album/5rXK24JqIrZzCRZZhgpDpQ) | 3:40 | 2022-04-07 | 2022-08-12 |
 | [Rider Fighter](https://open.spotify.com/track/1wMJESbiqngTGJvDNhy4Xi) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | [Rider Fighter](https://open.spotify.com/album/5qikTzQxzJT79i2Ng3yhbI) | 3:53 | 2022-02-01 | 2022-07-18 |
+| [Rubaiyat Kavithai](https://open.spotify.com/track/7Lgbhyegdkv1ZUjTkgO1eS) | [Shabir](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng) | [Rubaiyat Kavithai](https://open.spotify.com/album/3S8cLJs8WJ68DWYl72zRcI) | 3:10 | 2022-08-12 |  |
 | [Saaya\-Tamil](https://open.spotify.com/track/6uizpDr1wwR7xQS4Jkw6mm) | [Mithun Eshwar](https://open.spotify.com/artist/65kwHSDhFp1Umu9Vd1pQVv), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Saaya\-Tamil](https://open.spotify.com/album/0NxKRbraH7cPudwyZy5Ika) | 3:59 | 2022-01-17 | 2022-07-16 |
 | [Saayai](https://open.spotify.com/track/640AcZ81A5sJAO4lFB7Kx0) | [Cheran](https://open.spotify.com/artist/12DO0YTSF7rvb0StUlUTU4) | [Saayai](https://open.spotify.com/album/1rAxjPAKFe0hAnS88KSN22) | 4:09 | 2022-05-11 | 2022-07-16 |
 | [Saree Pop](https://open.spotify.com/track/7BpecExcXrWvvgna0gbuSL) | [Daddy Prince](https://open.spotify.com/artist/10w7hLvjbpcCBEE9OmcSa4), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Saree Pop](https://open.spotify.com/album/4n885BClN8wlrtg4NUylyZ) | 2:33 | 2022-04-22 |  |
@@ -171,6 +172,7 @@
 | [Vizhu Ezhu \(Original Soundtrack From Get Away\)](https://open.spotify.com/track/5TdCEMpU2BFdnwI3SrSiP7) | [Barath Veeraraghavan](https://open.spotify.com/artist/4ETiJc9RAbA86dY1xqbCcS), [Aishwerya Radhakrishnan](https://open.spotify.com/artist/4vbMPVLk4phK2SiYRsqLCD) | [Vizhu Ezhu \(Original Soundtrack From Get Away\)](https://open.spotify.com/album/0gwQFZ5QUyfFVnLhN1Y8qa) | 2:34 | 2022-07-27 |  |
 | [Yaar Aval](https://open.spotify.com/track/26nKSZ9JA35IvycEPU6yRg) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval \- Single](https://open.spotify.com/album/20jBpXqfoQpgpTM0rvSd4i) | 3:10 | 2022-06-09 |  |
 | [Yaar Aval](https://open.spotify.com/track/3dMz1QpT8FmcIh8ERRmidI) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval](https://open.spotify.com/album/2Qc4Cb9CZRPZVYqgaqsYn1) | 3:10 | 2022-06-09 | 2022-07-29 |
+| [Yaar Solvaaro](https://open.spotify.com/track/6DFAhCjI8WXgEzjdZLBfwv) | [C.B\. Karty](https://open.spotify.com/artist/2lM8YzcI1hZuuUd0dtRPTL), [S\. Subramanian](https://open.spotify.com/artist/6SVbybcQvMWUq4UdqgJjki) | [Yaar Solvaaro](https://open.spotify.com/album/0DGEWRA09FNgXO3WwrIYy7) | 4:26 | 2022-08-12 |  |
 | [Yaaropole Neeyum Yaaropole Naanum \(From "Chota"\)](https://open.spotify.com/track/14K8atqpMOPHkqwSVECjZJ) | [P.S\. Ashwin](https://open.spotify.com/artist/0QeMt74YcTUUxJebGV58Vv), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Yaaropole Neeyum Yaaropole Naanum \(From "Chota"\)](https://open.spotify.com/album/4QF4CLBDzeconmu7xcwKTX) | 3:59 | 2022-04-04 | 2022-07-18 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

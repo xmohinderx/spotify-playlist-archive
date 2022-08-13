@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Crimen",
+        "url": "https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Toussaint",
+          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/4rl7tALHULBjGV7V5gdtaS"
+    },
+    {
+      "album": {
         "name": "Cuando Pase El Temblor",
         "url": "https://open.spotify.com/album/3t8lnRw3jMofkqoEogBO3d"
       },

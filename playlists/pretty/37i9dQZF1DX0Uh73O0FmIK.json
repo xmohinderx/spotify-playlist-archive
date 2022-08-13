@@ -1,12 +1,12 @@
 {
   "description": "01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100",
-  "num_followers": 71414,
+  "num_followers": 71735,
   "original_name": "metaverses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwMzk1NiwwMDAwMDAwMDE1MzVhM2JhMDI0YTlmYTcyZTRmZTg3MTEyMzEyZmNk",
+  "snapshot_id": "MTY1OTEwMzk1NiwwMDAwMDAwMDAxMTdhYjk1ODk0YzFmNGFkYmI5YjQ0MjE3OWFhNTg2",
   "tracks": [
     {
       "added_at": "2022-07-29 14:11:31",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-07-29 14:11:31",
       "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
+      },
+      "artists": [
+        {
+          "name": "Timecop1983",
+          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
+        }
+      ],
+      "duration_ms": 300836,
+      "name": "On the Run",
+      "url": "https://open.spotify.com/track/6COsFwxCkIpXBYw4iiVWH4"
+    },
+    {
+      "added_at": "2022-07-29 14:11:31",
+      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
       },
@@ -436,7 +452,7 @@
       },
       "artists": [
         {
-          "name": "Cream Soda",
+          "name": "CREAM SODA",
           "url": "https://open.spotify.com/artist/0QTO0QZDjoyXxRtIgAU4GY"
         }
       ],

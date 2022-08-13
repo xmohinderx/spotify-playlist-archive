@@ -2596,6 +2596,24 @@
     },
     {
       "album": {
+        "name": "New Creation (Deluxe)",
+        "url": "https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176099,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT"
+    },
+    {
+      "album": {
         "name": "You Can Rest",
         "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
       },

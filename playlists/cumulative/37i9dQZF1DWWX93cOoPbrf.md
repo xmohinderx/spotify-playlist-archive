@@ -2,7 +2,7 @@
 
 ### [Corridos Nuevos 2022](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
 
-> Lo más fresco de la cosecha 2022\. Grupo H\-100 en portada.
+> Lo más fresco de la cosecha 2022\. Grupo Clasificado en portada.
 
 97 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
 

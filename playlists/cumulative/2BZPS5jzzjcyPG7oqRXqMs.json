@@ -902,6 +902,24 @@
     },
     {
       "album": {
+        "name": "He Is With You",
+        "url": "https://open.spotify.com/album/20OH5FnNwSfVmBd7EC12xI"
+      },
+      "artists": [
+        {
+          "name": "Adam Agee",
+          "url": "https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198648,
+      "name": "He Is With You",
+      "url": "https://open.spotify.com/track/1lqBf8ukugE5e8vOQrw4pi"
+    },
+    {
+      "album": {
         "name": "Godsend",
         "url": "https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2"
       },
@@ -1763,6 +1781,24 @@
       "duration_ms": 271379,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/5Bi3QUmWibSNUnvAAQ1OmK"
+    },
+    {
+      "album": {
+        "name": "Outside Looking In",
+        "url": "https://open.spotify.com/album/0wptfSjGbPJcMlU7L06dik"
+      },
+      "artists": [
+        {
+          "name": "Tommy Iceland",
+          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213903,
+      "name": "Outside Looking In",
+      "url": "https://open.spotify.com/track/4qDswSJVrEi2QnaYfOFbgh"
     },
     {
       "album": {

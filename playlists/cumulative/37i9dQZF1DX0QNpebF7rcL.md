@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Kirk Fletcher
 
-212 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+213 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Giving Up On Your Love](https://open.spotify.com/track/1b4iMXi38xiZM6emdMlU0O) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [The Big Sound of Lil' Ed & The Blues Imperials](https://open.spotify.com/album/0bgCN0pFtQMEfoaiNRaoCR) | 3:39 | 2021-04-13 | 2022-04-23 |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-01-14 | 2022-04-23 |
 | [Great Minds Drink Alike \- With Horns](https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Great Minds Drink Alike \(With Horns\)](https://open.spotify.com/album/6pcpzddprnaCd9UfPN1vtt) | 3:57 | 2022-04-22 |  |
+| [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 | 2022-08-12 |  |
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2021-06-04 |  |
 | [Healing Time](https://open.spotify.com/track/1TnboUz1hVeZvqubDBQcHM) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH) | 4:35 | 2022-04-29 |  |
 | [Heartache by the Pound](https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Heartache by the Pound](https://open.spotify.com/album/29Zs8tvzNxlKHIHjqHAW1N) | 3:09 | 2022-07-15 |  |

@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Thiruchitrambalam
 
-76 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+77 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Kannaatti \- From "Nooru Kodi Vaanavil"](https://open.spotify.com/track/078WZFboD5e0uQeYR2xpqd) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Kannaatti \(From "Nooru Kodi Vaanavil"\)](https://open.spotify.com/album/3nqzwf8h7PsjuurResxVIp) | 3:21 | 2022-03-11 |  |
 | [Kone Komaane](https://open.spotify.com/track/0pgcemvSQD0ZdZBDtZqY5o) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 5:35 | 2022-05-31 | 2022-08-08 |
 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 | 2021-11-29 |  |
+| [Kylaa \- From "Captain"](https://open.spotify.com/track/6QCx1Fq1kwpLQZaHySfVEH) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Kylaa \(From "Captain"\)](https://open.spotify.com/album/1t1JfkhPB3F0ulqq1MYmNg) | 4:26 | 2022-08-12 |  |
 | [Little Little](https://open.spotify.com/track/6Crs0KY6mHL9e1YEKNYUAl) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Galatta Kalyaanam](https://open.spotify.com/album/4gAUrEjPH7kC6Hwtnx5uhj) | 4:17 | 2021-12-13 |  |
 | [Maayakari](https://open.spotify.com/track/7sKeH5mCZs8JhHA22PHqfD) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 4:42 | 2022-05-31 | 2022-06-29 |
 | [Madura Veeran](https://open.spotify.com/track/3eFoAIpRrhGCEISQxnoNFI) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8) | [Viruman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Rwd1j6rdOs7M9PLCkqcOi) | 3:49 | 2022-08-03 |  |

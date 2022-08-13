@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,473 likes - 114 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,456 likes - 114 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 93 | [California Traveler](https://open.spotify.com/track/0FMkEykWCe2vpzv6H3Dsx5) | [California](https://open.spotify.com/artist/0UBBCi1bn7VkMnNPh3NEfi) | [United States Bluegrass Songs](https://open.spotify.com/album/4hfc6HPyUgo3AwevUahukM) | 5:08 |
 | 94 | [Smoothie Song](https://open.spotify.com/track/0ndCPlYIOLh54JMzW7tCjl) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Bluegrass All Stars \- Sixteen Grand Slams From Sugar Hill Records](https://open.spotify.com/album/1oQVtdPYyJZEPUreiUU9HY) | 3:20 |
 | 95 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
-| 96 | [Blood Branches \- Live Version](https://open.spotify.com/track/2trltfWOMoiAnw6tgQlxX8) | [Halves](https://open.spotify.com/artist/2bDSmI1grs5rMzqFUPFoO6) | [Other Voices: Series 7, Vol\. 2 \(Live\)](https://open.spotify.com/album/1L6vZcdk3m5aoPZStRR6xV) | 3:32 |
+| 96 | [Blood Branches \- Live Version](https://open.spotify.com/track/26cSdLVg4jABkjVIpW85f2) | [Halves](https://open.spotify.com/artist/2bDSmI1grs5rMzqFUPFoO6) | [The Best of Other Voices](https://open.spotify.com/album/5TUez2vnQRHBxr6ImbGyL6) | 3:32 |
 | 97 | [Bowsprit](https://open.spotify.com/track/04Fcjafu59OwzIYYVXJjbU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Constellations](https://open.spotify.com/album/5nlIENUVFPbOEobbADbJZV) | 5:17 |
 | 98 | [Colony Theme](https://open.spotify.com/track/7MWxuZMLPtcC0oUlQabHxW) | [Clogs](https://open.spotify.com/artist/12BDNYhvDp2RIeF9pabPzv) | [Veil Waltz](https://open.spotify.com/album/6u7QsDt1OyTk6W29X8PNwr) | 3:17 |
 | 99 | [Guitar 13](https://open.spotify.com/track/3N4qrkxpoy27Yt8CKj428G) | [Clogs](https://open.spotify.com/artist/12BDNYhvDp2RIeF9pabPzv) | [Veil Waltz](https://open.spotify.com/album/6u7QsDt1OyTk6W29X8PNwr) | 1:45 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 113 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 114 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MTYxNTMxNzY2NiwwMDAwMDAwMGZkNzgyODEzYzkwMWNhYzY2MzgwMzNiNWNhMjFjZjQw`
+Snapshot ID: `MTYxNTMxNzY2NiwwMDAwMDAwMGMxODM2ZmU5YzgzYmQ4NmE2YTcxYTg1ODUyNmZjNWI3`

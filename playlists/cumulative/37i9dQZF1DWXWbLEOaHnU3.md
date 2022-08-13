@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-184 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+185 songs - 17 hr 7 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Foresight](https://open.spotify.com/track/3Gu3dF2xLaOI3fVPlJmMxw) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Thorment](https://open.spotify.com/artist/1NnRsALz6e8q4avnRof6cd), [Synna](https://open.spotify.com/artist/1vBNxnNqXVC0oY4W7iOKNr) | [Foresight](https://open.spotify.com/album/5h8eQnis3E78Hf5n9hUFPa) | 5:03 | 2022-04-22 | 2022-07-25 |
 | [Formula](https://open.spotify.com/track/3iCmMzhUFzYQpWFchFrDyW) | [Dzp](https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D), [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B) | [Formula](https://open.spotify.com/album/5g4xZHRd0TKUyCTkhYwbXJ) | 4:31 | 2022-07-07 |  |
 | [Fragments of Insanity](https://open.spotify.com/track/3ufcdGKKbcNZq2bZ183HiI) | [Gaudium](https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg) | [Fragments of Insanity](https://open.spotify.com/album/59G4Gwp024K3NUgdK5soeO) | 7:28 | 2022-04-15 | 2022-07-29 |
-| [Fragments of Insanity](https://open.spotify.com/track/3wzc6WSnx2HvJLHm5URrU3) | [Gaudium](https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg) | [Confused Miracles](https://open.spotify.com/album/4fCpDzJSNpYNsId0tNCadn) | 7:28 | 2022-07-28 |  |
+| [Fragments of Insanity](https://open.spotify.com/track/3wzc6WSnx2HvJLHm5URrU3) | [Gaudium](https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg) | [Confused Miracles](https://open.spotify.com/album/4fCpDzJSNpYNsId0tNCadn) | 7:28 | 2022-07-28 | 2022-08-13 |
 | [Free Magic](https://open.spotify.com/track/2v8Pb78jpwnPo47qbIForS) | [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2), [Lollypop Lane](https://open.spotify.com/artist/6OBSrFdcO8PTjgCPqYB9FS) | [Free Magic](https://open.spotify.com/album/2y71Dbu0HEP3JI2uQJnVCi) | 2:36 | 2022-04-15 | 2022-04-29 |
 | [Freetown](https://open.spotify.com/track/4JqZGVmqFQMMezLeIdcClY) | [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN), [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn) | [Freetown](https://open.spotify.com/album/2s45Lf1MC6IGJNRccgN8WU) | 6:29 | 2022-04-15 |  |
 | [Frequency \- Aura Vortex Remix](https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I) | [Day Din](https://open.spotify.com/artist/1YzhPssoLV65PIChO3Uri9), [Coming Soon!!!](https://open.spotify.com/artist/4Iht6hiRR5kov66LO7fcOu), [Aura Vortex](https://open.spotify.com/artist/5T6ATRUoiqVQpcQTK94ies) | [Frequency \(Aura Vortex Remix\)](https://open.spotify.com/album/0YCowgi0iH0oCjtfFtuWUS) | 7:15 | 2022-04-15 |  |
@@ -127,6 +127,7 @@
 | [Psychedelic Inception](https://open.spotify.com/track/1yl8FxmVKpQ5JKn42kWyA6) | [Cotrax](https://open.spotify.com/artist/1MuP9IM97AIy1ZFFkrriyo) | [Psychedelic Inception](https://open.spotify.com/album/1nGUSX54JXJvyp0oZbz1Pk) | 6:08 | 2022-04-15 | 2022-07-29 |
 | [Raanjhan \- Volcano On Mars Remix](https://open.spotify.com/track/0sLQmY8HkdvurjTvfe0Oaa) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Volcano On Mars](https://open.spotify.com/artist/4zQwbmuw1EcxLjA4ItvWk4) | [Raanjhan \(Volcano on Mars Remix\)](https://open.spotify.com/album/2npjCxeaomyl2lvDMMvRfr) | 6:08 | 2022-06-16 | 2022-06-25 |
 | [Rain \- Off Limits Remix](https://open.spotify.com/track/3F3SpNYeqT1vTgE2L5wAAx) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD), [Off Limits](https://open.spotify.com/artist/3lfps4zRbW0NyfIptTYmvn) | [Rain](https://open.spotify.com/album/4MuSalrhg5oFyxqlxQCfp7) | 6:40 | 2022-06-30 | 2022-07-20 |
+| [Rapture](https://open.spotify.com/track/16V8meQabrUEUI5GRC8x4K) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Mira Feder](https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL) | [Rapture](https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz) | 3:21 | 2022-08-11 |  |
 | [Rebellion](https://open.spotify.com/track/1JpwB9AGXsCLbjH0VkI1ML) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB) | [Rebellion](https://open.spotify.com/album/0NqdDrzON4opvlSLZ8hMNh) | 4:04 | 2022-04-15 |  |
 | [remote flow dynamics](https://open.spotify.com/track/1AR79Gd3IRhRIQgR1Od96Y) | [PTU](https://open.spotify.com/artist/70UHL8BEGqoUNmXfXi0nGr) | [Remote Flow Dynamics](https://open.spotify.com/album/3Cw4XpDmekACMWQk6FG1sJ) | 4:12 | 2022-04-15 | 2022-04-21 |
 | [Riot](https://open.spotify.com/track/6ITJJfjs52aEB6MVbGcmzc) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22) | [Riot](https://open.spotify.com/album/7yVr8cUBPP4FC0yJpEzvSM) | 2:51 | 2022-07-28 |  |

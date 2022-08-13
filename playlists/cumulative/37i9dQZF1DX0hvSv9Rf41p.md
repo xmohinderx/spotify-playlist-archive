@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Ace Aura.
 
-319 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
+322 songs - 19 hr 6 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bad](https://open.spotify.com/track/3t7Zhr4y9osHilpdq6OHTQ) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Bad](https://open.spotify.com/album/5OEGVD1H1td8HGMBNS3EAW) | 3:31 | 2021-12-17 | 2022-03-12 |
 | [Badman](https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Badman](https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT) | 4:33 | 2022-06-03 |  |
 | [Bang Harder](https://open.spotify.com/track/6TokZjKiCwAFSmA7pdWTaK) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Bang Harder](https://open.spotify.com/album/244J1SCEVhFlmilwONiEL4) | 2:44 | 2022-04-15 |  |
+| [Bass Music](https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [TVBOO](https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW) | [Bass Music](https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28) | 4:06 | 2022-08-12 |  |
 | [Bastille](https://open.spotify.com/track/48S8uCvM4Oii7SJiVrhYh6) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Bastille](https://open.spotify.com/album/2wQT8QMeqnfA3XTjbx0SH6) | 4:24 | 2022-02-18 |  |
 | [Better Without You](https://open.spotify.com/track/4YG0PU5Vz1niAxS8OM2Fii) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Better Without You](https://open.spotify.com/album/44xSYPvPXTzkT7kOdwDqYR) | 4:11 | 2021-12-17 | 2022-02-19 |
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2022-07-08 |  |
@@ -180,8 +181,10 @@
 | [Moods](https://open.spotify.com/track/0oEi7MQ5smqE9ahj75MjJR) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Moods](https://open.spotify.com/album/3asWZDjuiU2ED1GoVphwLr) | 2:36 | 2021-12-17 | 2022-02-19 |
 | [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 | 2021-12-17 | 2022-02-19 |
 | [Murda](https://open.spotify.com/track/2FZgVtcQhxPTeWJw7TZy3q) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Murda](https://open.spotify.com/album/7t7YPn1MESHyMBP28k7Oq1) | 3:00 | 2021-12-17 | 2022-07-16 |
+| [My Heart Has Teeth \(feat\. Skylar Grey\) \- From “Resident Evil”](https://open.spotify.com/track/4HQaCBLA2fpYlcQNZxNg4F) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [My Heart Has Teeth \(feat\. Skylar Grey\) \[From “Resident Evil”\]](https://open.spotify.com/album/6jkxA0LypeL8VGXLtZkkAG) | 4:49 | 2022-08-12 |  |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-02-25 | 2022-07-16 |
 | [myyyy medssss](https://open.spotify.com/track/6eLn8mebeYCnCoFOaSPXhg) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [myyyy medssss](https://open.spotify.com/album/33e0eMQ3sTYJBIMHszQr8A) | 4:19 | 2021-12-17 | 2022-07-16 |
+| [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 | 2022-08-12 |  |
 | [Neon Angel \(feat\. Leah Culver\)](https://open.spotify.com/track/00G9JbHRx6G6QVn0DYFpgu) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [LeKtriQue](https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy), [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Neon Angel \(feat\. Leah Culver\)](https://open.spotify.com/album/4sGO26ZSpLfo3yZv0mwJ8w) | 4:44 | 2021-12-17 | 2022-03-12 |
 | [Never Change](https://open.spotify.com/track/6u4jJAfHp0TPTqO0LWzUWq) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Never Change](https://open.spotify.com/album/0thLviAiyZ5cmURikXDoSM) | 4:22 | 2021-12-17 | 2022-03-12 |
 | [New Day](https://open.spotify.com/track/0B9aBa926M7kus4kDZyLEd) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [New Day](https://open.spotify.com/album/43HIQqkZxfKvGAHY9txU4u) | 2:38 | 2022-03-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-[Spotify](https://open.spotify.com/user/spotify) - 280 likes - 60 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 288 likes - 60 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 5 | [Chanzo \- Live](https://open.spotify.com/track/5iG9Kx1j49PZxAgr9G7CAw) | [Rehema Simfukwe](https://open.spotify.com/artist/7qVRVoyILJ5XLMChYXIkKu) | [Chanzo \(Live\)](https://open.spotify.com/album/3GuJna16plebttcjo2CWWG) | 9:42 |
 | 6 | [Aliyeniokoa \(Live\)](https://open.spotify.com/track/11dKptDVqtcyi1E36m8o02) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/3koeYsqfzhwDXkmrHmdKna) | 7:17 |
 | 7 | [Vinakamilika](https://open.spotify.com/track/2ZIO3PTsc9fPcReItUXTb3) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Vinakamilika](https://open.spotify.com/album/1rWb2lyPR9VE2kaJsFzYDA) | 6:53 |
-| 8 | [Nitumie](https://open.spotify.com/track/5mApIp6LxaHq9htEK9g7KV) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Thamani](https://open.spotify.com/album/3OVn1ruXhSCBtQNjpgVHCL) | 3:56 |
+| 8 | [Nitumie](https://open.spotify.com/track/336Jz0yGtnAvPfQbLjjlBo) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Thamani](https://open.spotify.com/album/5TdcUkGkE9Z4ZMiKJscBdF) | 3:56 |
 | 9 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 |
 | 10 | [Umezungukwa Na Sifa](https://open.spotify.com/track/6vR5SlKDAVTPGVfgtxR0Qs) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 9:58 |
 | 11 | [Niguse Tena \(Live\)](https://open.spotify.com/track/0NiEmNgV7TmOHjbZ3DdK75) | [Krystaal Music](https://open.spotify.com/artist/3Xkc3xqeLJZWgVDDIbvhNo), [Next Level Choir](https://open.spotify.com/artist/5j7HOenL3dSS981E1ARENs) | [Krystaal Live in Dar Es Salaam \(Deluxe Album\)](https://open.spotify.com/album/2pFOj4BuABj7x4y4PapIgs) | 6:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 59 | [Wewe Pekee](https://open.spotify.com/track/28IQhL2pviXFkWXMz4sxn3) | [Alice Kamande](https://open.spotify.com/artist/4jmGHeX5bemV98UWtA3nuJ) | [Wewe Pekee](https://open.spotify.com/album/1eP2tdKCLnJbBPuXiMiL2j) | 4:57 |
 | 60 | [Anatengeneza](https://open.spotify.com/track/52C9ZVQeeeVUb9q9hXe0f7) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 8:28 |
 
-Snapshot ID: `MTY1NjA5MjQ3MywwMDAwMDAwMGE0NWRiNzQwZTcwZWQ1ZjM1YWE1YmQ3MmE5YjZlOGIz`
+Snapshot ID: `MTY1NjA5MjQ3MywwMDAwMDAwMGYzZjM0N2I0MTI1NTNjZmYxZWFmNjYyZTQwMWJiZWNj`

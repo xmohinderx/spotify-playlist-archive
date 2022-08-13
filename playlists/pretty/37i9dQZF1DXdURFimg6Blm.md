@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 
 > Dance tracks for a big workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,335 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,406 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 | 74 | [Superstars](https://open.spotify.com/track/3Nsa1lYqkuyQwFcSjG9xPj) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Kid Vincent](https://open.spotify.com/artist/6p2OJnQ2LD6Yp58rUULMle) | [Superstars](https://open.spotify.com/album/3GahNbth3Pt8Txu3kIXl4A) | 2:57 |
 | 75 | [Tell It To My Heart \(feat\. Hozier\) \- Tiësto Remix](https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Tell It To My Heart \(Tiësto Remix\)](https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30) | 2:55 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDliYzJlODkzMDZhOTg1MTM0ZmVhMGMyZGE4ZmU0NTZi`
+Snapshot ID: `MTY2MDI4MDQ0NywwMDAwMDAwMDdmNjFhM2E5Mzg2ZjkzYmFiMmUxN2M0ODkwZDU2M2Qz`

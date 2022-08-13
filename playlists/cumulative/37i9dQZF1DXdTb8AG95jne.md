@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Black Skirt\(검정치마\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-494 songs - 1 day 6 hr 19 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
+495 songs - 1 day 6 hr 23 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-08 | 2022-08-05 |
 | [lost](https://open.spotify.com/track/53zgUNqd4DCRSRQUn4J4aJ) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [lost](https://open.spotify.com/album/3IAAhPOt3Ui36lJQ93Y7x8) | 3:50 | 2022-03-31 | 2022-07-27 |
 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 | 2022-06-08 |  |
-| [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 |  |
+| [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 | 2022-08-13 |
 | [Love Story](https://open.spotify.com/track/7GxrwmjHuHr7F5wjp8O5Ti) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [Love Story](https://open.spotify.com/album/3k9RocwRCD9q5HS1Io53s3) | 4:02 | 2022-06-18 | 2022-06-30 |
 | [Love Wave](https://open.spotify.com/track/1Z5XuXbFW6dl8wlLnqxu6l) | [Lovewave](https://open.spotify.com/artist/54On25RhdQIrqHwWj3JO3T) | [Love Wave](https://open.spotify.com/album/7dFGuAqh6O68Q5xof0qAXm) | 4:09 | 2021-12-21 | 2022-07-28 |
 | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/track/4SWki9wQIvFyyzoEu9ye3T) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/album/0o5tn8fdskeD9nrx0eYJ5A) | 3:41 | 2022-03-31 | 2022-04-06 |
@@ -267,6 +267,7 @@
 | [Milan Blue](https://open.spotify.com/track/2B64LQET1AVf85fVJDTOXD) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Milan Blue](https://open.spotify.com/album/48HY4uejjgB10O0dIRcxDB) | 4:50 | 2022-02-18 | 2022-07-24 |
 | [Milky Way Love](https://open.spotify.com/track/4z9Xk5Yh7ZmA2lGPSrsG9n) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Milky Way Love](https://open.spotify.com/album/2cJ4lRsviJYOqZXiwrfLa4) | 3:51 | 2021-12-12 | 2022-07-26 |
 | [MIMI](https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4) | 3:27 | 2021-12-12 |  |
+| [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2022-08-12 |  |
 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 | 2022-06-20 | 2022-07-05 |
 | [Moment](https://open.spotify.com/track/3jYl9vCYKeVDawBCu5iHK5) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Moment](https://open.spotify.com/album/5UUtfxQNNJknc3HwxZRQTO) | 3:37 | 2022-03-31 | 2022-04-20 |
 | [Money like \(feat\. meenoi\)](https://open.spotify.com/track/5U5QitagofLaXFkoVO1oLF) | [HOSIN](https://open.spotify.com/artist/3XOcDV9I5btpQqBqkEQWuU), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Money like](https://open.spotify.com/album/67YuFY9QZKY3loKA6634Sv) | 4:02 | 2022-07-04 | 2022-07-09 |

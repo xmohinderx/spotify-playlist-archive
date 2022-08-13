@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Almas
 
-293 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+294 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Galactique](https://open.spotify.com/track/53pSQJP7qVhz9HDbTcTX4J) | [MAYA VI](https://open.spotify.com/artist/56e98wB8v0F4YUayj1tF7d) | [Galactique](https://open.spotify.com/album/5zigO1sNqarEOiLICUJt5d) | 3:12 | 2021-12-23 | 2022-03-02 |
 | [Ghalta](https://open.spotify.com/track/6zIXv7ielLKUY5dNI1lqCl) | [Areej Al Sayed](https://open.spotify.com/artist/2CwLASpkyh9txI9Z6NvCsU) | [Ghalta](https://open.spotify.com/album/0RD988uyh03VVuMCJD1b22) | 3:12 | 2021-12-23 | 2022-02-27 |
 | [Goulou Amine](https://open.spotify.com/track/2DM4pswuIVG3qFuayz6R5a) | [Asmaa Bassite](https://open.spotify.com/artist/3M26ulb3cwk9qglRwt9SEa) | [Goulou Amine](https://open.spotify.com/album/5D2y2JGnRHybPkvll0ShbF) | 4:04 | 2021-12-23 | 2022-03-02 |
+| [Haja Ma Doum](https://open.spotify.com/track/5mLY8dRJv0jLTTJCJmDu1l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 3:32 | 2022-08-11 |  |
 | [Hala Taraa](https://open.spotify.com/track/6GX6qOGlZEXmUYkGyoTkMb) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Hala Taraa](https://open.spotify.com/album/7q1RxHFLDWNJ6hpUKbkie4) | 3:31 | 2021-12-23 | 2022-02-28 |
 | [Harzaneh](https://open.spotify.com/track/3w62kuwirrkLwiwKvNqvwk) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Harzaneh](https://open.spotify.com/album/41oUkibRsn7EQ84wIAfpYB) | 2:52 | 2021-12-23 | 2022-03-02 |
 | [Heliocentric](https://open.spotify.com/track/1tFslnzbhAJck0C28stKBR) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Dream 23](https://open.spotify.com/album/45zDr1B6qUmDcsH3clyp2O) | 2:56 | 2021-12-23 | 2022-02-28 |
@@ -228,7 +229,7 @@
 | [Walo](https://open.spotify.com/track/2AdPThXwkFigPti9gjp7Ro) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Walo](https://open.spotify.com/album/0R6jvhG8YgqrkDNI2HyWiJ) | 2:42 | 2021-12-23 | 2022-03-02 |
 | [Wana](https://open.spotify.com/track/0JggYhzdak2vD47gkP9K4U) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Wana](https://open.spotify.com/album/0bY1O5psyu1iG4NtHqQqZn) | 2:36 | 2021-12-23 | 2022-03-02 |
 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 | 2021-12-23 | 2022-03-02 |
-| [Weino 2](https://open.spotify.com/track/25v0ao9Pk1RMagxyVCbJNZ) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino 2](https://open.spotify.com/album/5UWBb35l9fnUGCAeFJqYB7) | 2:10 | 2022-03-01 |  |
+| [Weino 2](https://open.spotify.com/track/25v0ao9Pk1RMagxyVCbJNZ) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino 2](https://open.spotify.com/album/5UWBb35l9fnUGCAeFJqYB7) | 2:10 | 2022-03-01 | 2022-08-13 |
 | [Wesh Jak](https://open.spotify.com/track/0xe1ffmycRFIiA0B8uBtGb) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Wesh Jak](https://open.spotify.com/album/1L9YrwHLZizSXgvSyPQVUx) | 2:49 | 2021-12-30 | 2022-02-27 |
 | [Weslat Al Fekra](https://open.spotify.com/track/6Dolz1cbu6hURxPnpLyNYM) | [Nadine Fahad](https://open.spotify.com/artist/4vloTyzi91BkV0RhnGwsji) | [Weslat Al Fekra](https://open.spotify.com/album/7izEIo3KT8uqKWnx9Cm6xP) | 3:57 | 2021-12-23 | 2022-03-02 |
 | [What She Does](https://open.spotify.com/track/5DvvVvt9tJT3WQYgnNKPKi) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [What She Does](https://open.spotify.com/album/1LCRN8aHHEwH4efSZLmH1c) | 2:41 | 2021-12-23 | 2022-03-01 |

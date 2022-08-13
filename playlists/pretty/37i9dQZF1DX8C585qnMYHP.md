@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Hatis Noit / Boku to Georges Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,694 likes - 99 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,769 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 97 | [百年は孤独](https://open.spotify.com/track/7uQ0I7K2ntZ7QF30RJ03IA) | [Boku to Georges](https://open.spotify.com/artist/2977kdIaYljU33WWtK8ZDI), [Himeno Tama](https://open.spotify.com/artist/3SlQMcAkPmn94PeFYCKarT), [佐藤優介](https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L) | [百年は孤独](https://open.spotify.com/album/0CGBOXG7KwPSrHfZgvm2DQ) | 3:14 |
 | 98 | [Extasi Exile](https://open.spotify.com/track/7dbOOWFqW9kbc70J2wxjNQ) | [VISIO](https://open.spotify.com/artist/4Wlca9PlSpN4Tt3qgtuwlV) | [Extasi Exile](https://open.spotify.com/album/54ToWFytyN9hSpThLOQZop) | 3:12 |
 | 99 | [Emptiness Follows \(Dreams of Our Love\)](https://open.spotify.com/track/6zaIYGW4whKe85V6d3FP8h) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Emptiness Follows](https://open.spotify.com/album/7BjL3EfbYyA0x88w5uPXr7) | 4:28 |
+| 100 | [Todos Mis Labios](https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97) | [Fenna Frei](https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw) | [Todos Mis Labios](https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB) | 3:49 |
 
-Snapshot ID: `MTY2MDEwNDAwMCwwMDAwMDAwMDg5ZjBjNjAwODFlZmVkZWY2YTlkNmM2ODE0ZmU2NDk5`
+Snapshot ID: `MTY2MDEwNDAwMCwwMDAwMDAwMGU2YzBkNjE3MTE4OGY3ZGVkZmRmZWRjNjU2MmI2YTk4`

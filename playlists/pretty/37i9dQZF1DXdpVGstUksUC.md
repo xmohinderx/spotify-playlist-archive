@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 ### [Stoner Rock](https://open.spotify.com/playlist/37i9dQZF1DXdpVGstUksUC)
 
-> You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
+> You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Clutch
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,689 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,931 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 |
 | 100 | [Let the Devil In](https://open.spotify.com/track/21rITaX79TuUXMxCQRdgB6) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Let the Devil In](https://open.spotify.com/album/1ia1XTFIDxefTkgoLGXoWo) | 5:00 |
 
-Snapshot ID: `MTY1ODUwMzY2NCwwMDAwMDAwMDcyZTY0Mjg0ODI1NWY1YjA1M2VkZTM2OTYyYTI1ZDFl`
+Snapshot ID: `MTY2MDMwOTIwMCwwMDAwMDAwMGRiNWIzOWU4ZmU3OGQyZTYzN2FhZWY1NDIwZTU2Y2Yw`

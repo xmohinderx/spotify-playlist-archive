@@ -2,9 +2,9 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Gros Big
+> Voici les hits du moment\. Photo: Nicki Minaj
 
-93 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/2nCUfA3MhQxNQozCiwBfG4)
+94 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/2nCUfA3MhQxNQozCiwBfG4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Ici\-bas](https://open.spotify.com/track/0ylDKFr0R8Z4waaequfXux) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Les antipodes](https://open.spotify.com/album/5VJagZjgSNlplSMKQ1PzdI) | 4:07 | 2022-07-09 |  |
 | [IDGAF](https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES), [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [IDGAF](https://open.spotify.com/album/38m4T8X8yQJJ788BM2yJVx) | 2:21 | 2022-07-09 |  |
 | [Les avions de Mirabel](https://open.spotify.com/track/70L2pzDrtjjpvhBjjhoR6r) | [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [Les avions de Mirabel](https://open.spotify.com/album/1S3TfUWrkgA82sf15gzXkZ) | 3:40 | 2022-07-09 |  |
-| [Les lumières dans le ciel](https://open.spotify.com/track/28Jedg7kYNAgpN10eEjvJV) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Les lumières dans le ciel](https://open.spotify.com/album/5UslcyDEB1UOUFawWBTi01) | 3:52 | 2022-07-09 |  |
+| [Les lumières dans le ciel](https://open.spotify.com/track/28Jedg7kYNAgpN10eEjvJV) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Les lumières dans le ciel](https://open.spotify.com/album/5UslcyDEB1UOUFawWBTi01) | 3:52 | 2022-07-09 | 2022-08-13 |
 | [Lil Bit \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/33aow0AcXYvT1FoWNzMcqN) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 3:15 | 2022-07-09 |  |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 | 2022-07-09 |  |
 | [Lullaby](https://open.spotify.com/track/1J2Lndxqp2Xlp6OShqaZpH) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:42 | 2022-07-09 |  |
@@ -86,6 +86,7 @@
 | [Start Over](https://open.spotify.com/track/17xfpZekr8Gg79yvqhTNC4) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Start Over](https://open.spotify.com/album/6duVW5TmNORItMR1x7xoXr) | 2:38 | 2022-07-09 |  |
 | [Suavemente](https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:39 | 2022-07-09 |  |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-07-09 |  |
+| [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-12 |  |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-07-09 |  |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-07-22 |  |
 | [Thinkin' We're In Love \- Version Française](https://open.spotify.com/track/6TIv5muaL2CenP27M7whq1) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Thinkin' We're In Love](https://open.spotify.com/album/2xgnv0PA9ibnyNbjrksmww) | 3:48 | 2022-07-09 |  |

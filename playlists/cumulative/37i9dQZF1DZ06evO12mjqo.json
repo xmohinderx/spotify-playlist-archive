@@ -693,6 +693,24 @@
     {
       "album": {
         "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245160,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/1dgO96QXgopptwjnaeIC5l"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
         "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
       "artists": [
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 245160,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/7HbyELpx9fepfB4Flz20CG"

@@ -386,6 +386,28 @@
     },
     {
       "album": {
+        "name": "Banana Song (London Session)",
+        "url": "https://open.spotify.com/album/1AKH3J9C87k1jMKgUFEqR8"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        },
+        {
+          "name": "The Swingles",
+          "url": "https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334205,
+      "name": "Banana Song - London Session",
+      "url": "https://open.spotify.com/track/2vF0e9iDV7B3WSAzxzWW5p"
+    },
+    {
+      "album": {
         "name": "Years",
         "url": "https://open.spotify.com/album/4iucJnSKmWG79eEsu0GxyB"
       },
@@ -1215,7 +1237,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 244285,
       "name": "Follow The Light",
       "url": "https://open.spotify.com/track/3FqvCSW4LXjdJJPxpna5AH"
@@ -1535,7 +1557,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 189357,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG"
@@ -2325,10 +2347,50 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 193946,
       "name": "Maintain - Jafunk Remix",
       "url": "https://open.spotify.com/track/1FEGSFfL4Iz62fe2ew8CgX"
+    },
+    {
+      "album": {
+        "name": "Maintain (Jafunk Remix)",
+        "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193946,
+      "name": "Maintain - Jafunk Remix",
+      "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
+    },
+    {
+      "album": {
+        "name": "Major Love",
+        "url": "https://open.spotify.com/album/2GZtc9I9wmJDPpLDOwCGo6"
+      },
+      "artists": [
+        {
+          "name": "Quincy Mumford",
+          "url": "https://open.spotify.com/artist/5SuvllnauIOmQexrVDf3yZ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136773,
+      "name": "Major Love",
+      "url": "https://open.spotify.com/track/5YwslI1NOE5ZIs99KYtO0z"
     },
     {
       "album": {
@@ -3085,7 +3147,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 226645,
       "name": "Snack Food",
       "url": "https://open.spotify.com/track/3jj5yMOcG5AwOGBwAUijff"
@@ -3259,7 +3321,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 175040,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/64wAH19hAGbzdmrRoBzAcq"
@@ -3303,6 +3365,24 @@
       "duration_ms": 252725,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf"
+    },
+    {
+      "album": {
+        "name": "The Funk Prevails",
+        "url": "https://open.spotify.com/album/2y85M1ELVKXIzG7Nij06Tw"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165900,
+      "name": "The Funk Prevails",
+      "url": "https://open.spotify.com/track/1GBlKpgFl7gYxfoooq0il6"
     },
     {
       "album": {

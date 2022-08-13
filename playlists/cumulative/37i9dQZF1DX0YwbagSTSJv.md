@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-118 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+119 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-05-19 |  |
 | [Enlightened Soul](https://open.spotify.com/track/6jUsf401hTcC0wRbzehzb6) | [Bakshi Breeze](https://open.spotify.com/artist/3x4SAtpZRUbY58nKIXTjSt) | [Positivity](https://open.spotify.com/album/716VE9ewUzN8m0TzuypI4W) | 3:43 | 2021-12-23 |  |
 | [Eternity and Beyond](https://open.spotify.com/track/0D8bO0kfpOsdxZ8fLLp38A) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Eternity and Beyond](https://open.spotify.com/album/5eyxjz1D0sA4KPH7wrOa05) | 4:11 | 2021-12-23 |  |
+| [Ethereal Ease](https://open.spotify.com/track/1Frq45fT42aD8tOdxzH6gn) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Ethereal Ease](https://open.spotify.com/album/5wp6m5rlnmPYBALjPvMnG1) | 3:53 | 2022-08-12 |  |
 | [Eudaimonia](https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Eudaimonia](https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw) | 3:05 | 2022-02-18 |  |
 | [Far And Away](https://open.spotify.com/track/44DKn5hqvnO4912GLZqHYI) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:04 | 2021-12-23 |  |
 | [Fiction](https://open.spotify.com/track/2cQJCXUhGKilLJT7OE40w0) | [Drifting Phonetics](https://open.spotify.com/artist/31Ai45YFkzvuP30R2HBDQy) | [Fiction](https://open.spotify.com/album/5DdCboBXyuP9VJDaiJ3Y61) | 3:31 | 2022-07-22 |  |

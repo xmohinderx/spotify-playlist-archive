@@ -1,13 +1,129 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Larry June",
-  "num_followers": 1108297,
+  "num_followers": 1108753,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDI1OWFhNTNkNzBkYjk2MDEwODcxMTE3OTA0YjQwYWMx",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDUwNmI4ZjhiM2FiNjQ4YWFiODllMDljNDc5MWYyYTFk",
   "tracks": [
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Yungen (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v"
+    },
+    {
+      "added_at": "2022-07-15 04:15:57",
+      "album": {
+        "name": "Zipcodes",
+        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Zipcodes",
+      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
+    },
+    {
+      "added_at": "2022-07-08 04:03:39",
+      "album": {
+        "name": "Peace \"Fly\" God",
+        "url": "https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Derrick Boleman",
+      "url": "https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 309327,
+      "name": "Churchill Downs (feat. Drake)",
+      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2022-06-29 20:41:54",
+      "album": {
+        "name": "Montega",
+        "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 177788,
+      "name": "Kind of Girl",
+      "url": "https://open.spotify.com/track/39HH3TTdJOxcklLvocgemQ"
+    },
+    {
+      "added_at": "2022-07-22 19:09:04",
+      "album": {
+        "name": "THE VISION (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 137634,
+      "name": "THE VISION (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3"
+    },
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
@@ -33,42 +149,6 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Immaculate",
-        "url": "https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Immaculate",
-      "url": "https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3"
-    },
-    {
-      "added_at": "2022-07-22 19:09:04",
-      "album": {
-        "name": "THE VISION (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm"
-      },
-      "artists": [
-        {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 137634,
-      "name": "THE VISION (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3"
-    },
-    {
       "added_at": "2022-07-15 04:15:57",
       "album": {
         "name": "Private Valet",
@@ -83,22 +163,6 @@
       "duration_ms": 149074,
       "name": "Private Valet",
       "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
-    },
-    {
-      "added_at": "2022-07-15 04:15:57",
-      "album": {
-        "name": "Zipcodes",
-        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Zipcodes",
-      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
     },
     {
       "added_at": "2022-07-22 19:09:04",
@@ -133,46 +197,6 @@
       "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
     },
     {
-      "added_at": "2022-07-08 04:03:39",
-      "album": {
-        "name": "Peace \"Fly\" God",
-        "url": "https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Derrick Boleman",
-      "url": "https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24"
-    },
-    {
-      "added_at": "2022-06-29 20:41:54",
-      "album": {
-        "name": "Montega",
-        "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 177788,
-      "name": "Kind of Girl",
-      "url": "https://open.spotify.com/track/39HH3TTdJOxcklLvocgemQ"
-    },
-    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "Cooped Up",
@@ -193,30 +217,34 @@
       "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:01:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 309327,
-      "name": "Churchill Downs (feat. Drake)",
-      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+      "duration_ms": 329295,
+      "name": "Purple Hearts",
+      "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
     },
     {
-      "added_at": "2022-06-29 20:41:54",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Violence",
-        "url": "https://open.spotify.com/album/0fwBR8BraCZRRlmX8sS4H3"
+        "name": "DRILLMATIC Heart vs. Mind",
+        "url": "https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ"
       },
       "artists": [
         {
@@ -224,29 +252,13 @@
           "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
         },
         {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 234089,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/06r4k5ncgrDmgrf9mlncR4"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Stone Rolling",
-        "url": "https://open.spotify.com/album/7al2qlrlND8C2sA1UGaYDF"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Stone Rolling",
-      "url": "https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF"
+      "duration_ms": 230625,
+      "name": "Save The Best For Last (Feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/6iCZg6uWwwtdJHZ7LzQKxU"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -285,48 +297,64 @@
       "url": "https://open.spotify.com/track/5AwF7f9aYqOsIbiLOZHCjf"
     },
     {
-      "added_at": "2022-07-15 04:15:57",
+      "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "FOOTBALL HEADS (feat. Benny The Butcher)",
-        "url": "https://open.spotify.com/album/213xNC4Hq3tKhvCzXFVuKu"
+        "name": "You Take the Credit, We'll Take the Check",
+        "url": "https://open.spotify.com/album/6ZlKCpsFjC1uQToTdwcIkc"
       },
       "artists": [
         {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
         },
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         }
       ],
-      "duration_ms": 190684,
-      "name": "FOOTBALL HEADS (feat. Benny The Butcher)",
-      "url": "https://open.spotify.com/track/5sSiwYy1FPH8pJVzbD1B5K"
+      "duration_ms": 117894,
+      "name": "Pacific Coast Highway",
+      "url": "https://open.spotify.com/track/0o7Tdf8WP4Xf4g70LEyyeJ"
     },
     {
-      "added_at": "2022-05-13 04:01:00",
+      "added_at": "2022-06-29 20:41:54",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+        "name": "Violence",
+        "url": "https://open.spotify.com/album/0fwBR8BraCZRRlmX8sS4H3"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
         }
       ],
-      "duration_ms": 329295,
-      "name": "Purple Hearts",
-      "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
+      "duration_ms": 234089,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/06r4k5ncgrDmgrf9mlncR4"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Immaculate",
+        "url": "https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Immaculate",
+      "url": "https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -401,6 +429,26 @@
       "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
     },
     {
+      "added_at": "2022-07-15 04:15:57",
+      "album": {
+        "name": "FOOTBALL HEADS (feat. Benny The Butcher)",
+        "url": "https://open.spotify.com/album/213xNC4Hq3tKhvCzXFVuKu"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 190684,
+      "name": "FOOTBALL HEADS (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/5sSiwYy1FPH8pJVzbD1B5K"
+    },
+    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "7220",
@@ -421,6 +469,26 @@
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
     },
     {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Never End Up Broke Pt. 2 (feat. Pusha T)",
+        "url": "https://open.spotify.com/album/6gVgQxn4oG3WXmcLhK4sBX"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 162651,
+      "name": "Never End Up Broke Pt. 2 (feat. Pusha T)",
+      "url": "https://open.spotify.com/track/3pPpHxBDoEqEcP4NyPp1iT"
+    },
+    {
       "added_at": "2022-07-08 04:03:39",
       "album": {
         "name": "Mannequin",
@@ -435,6 +503,22 @@
       "duration_ms": 234664,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Stone Rolling",
+        "url": "https://open.spotify.com/album/7al2qlrlND8C2sA1UGaYDF"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Stone Rolling",
+      "url": "https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF"
     },
     {
       "added_at": "2022-06-29 20:41:54",
@@ -489,6 +573,22 @@
       "url": "https://open.spotify.com/track/2Sg5W2srrqlMwC6bqE0qsx"
     },
     {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/5BPr4MWTg1GmevzURudA8B"
+      },
+      "artists": [
+        {
+          "name": "Phora",
+          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+        }
+      ],
+      "duration_ms": 145956,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/107u1om4m4zTfzWx4BtW6R"
+    },
+    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "FATHER'S DAY",
@@ -523,30 +623,6 @@
       "duration_ms": 189773,
       "name": "CORSA",
       "url": "https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "You Take the Credit, We'll Take the Check",
-        "url": "https://open.spotify.com/album/6ZlKCpsFjC1uQToTdwcIkc"
-      },
-      "artists": [
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 117894,
-      "name": "Pacific Coast Highway",
-      "url": "https://open.spotify.com/track/0o7Tdf8WP4Xf4g70LEyyeJ"
     },
     {
       "added_at": "2022-04-29 04:30:50",
@@ -1221,26 +1297,6 @@
       "url": "https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR"
     },
     {
-      "added_at": "2021-09-10 04:00:00",
-      "album": {
-        "name": "Friday Activities",
-        "url": "https://open.spotify.com/album/6g5Ztk1usaEbRPNoW4kGDO"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Friday Activities",
-      "url": "https://open.spotify.com/track/4QxTfL8i7rAou5zZqyOWVE"
-    },
-    {
       "added_at": "2022-03-25 04:52:36",
       "album": {
         "name": "THE PRICE EP",
@@ -1363,22 +1419,6 @@
       "duration_ms": 280004,
       "name": "Walkin",
       "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "The House Is Burning",
-        "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 158050,
-      "name": "RIP Young",
-      "url": "https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1763,46 +1803,6 @@
       "duration_ms": 286503,
       "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
       "url": "https://open.spotify.com/track/2Ri3R5tB1FlZhYgLMqTjSn"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "I Deserve (w/ NOS.)",
-        "url": "https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "NOS.",
-          "url": "https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB"
-        }
-      ],
-      "duration_ms": 162858,
-      "name": "I Deserve (w/ NOS.)",
-      "url": "https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl"
-    },
-    {
-      "added_at": "2021-12-03 05:00:00",
-      "album": {
-        "name": "From a Birds Eye View",
-        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 146926,
-      "name": "Sinister (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/68B0wu3z0t7N8p9lpko4Ak"
     },
     {
       "added_at": "2022-04-22 04:22:12",

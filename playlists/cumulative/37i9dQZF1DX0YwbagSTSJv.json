@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Ease",
+        "url": "https://open.spotify.com/album/5wp6m5rlnmPYBALjPvMnG1"
+      },
+      "artists": [
+        {
+          "name": "Aloen",
+          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233514,
+      "name": "Ethereal Ease",
+      "url": "https://open.spotify.com/track/1Frq45fT42aD8tOdxzH6gn"
+    },
+    {
+      "album": {
         "name": "Eudaimonia",
         "url": "https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw"
       },

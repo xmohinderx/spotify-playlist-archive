@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Boogie Woogie",
+        "url": "https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190889,
+      "name": "Boogie Woogie",
+      "url": "https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP"
+    },
+    {
+      "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/6s4NdCPDBhDHL7i0P2OjBC"
       },

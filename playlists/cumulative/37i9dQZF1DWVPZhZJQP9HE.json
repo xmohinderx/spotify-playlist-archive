@@ -2580,6 +2580,24 @@
     },
     {
       "album": {
+        "name": "Rubaiyat Kavithai",
+        "url": "https://open.spotify.com/album/3S8cLJs8WJ68DWYl72zRcI"
+      },
+      "artists": [
+        {
+          "name": "Shabir",
+          "url": "https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Rubaiyat Kavithai",
+      "url": "https://open.spotify.com/track/7Lgbhyegdkv1ZUjTkgO1eS"
+    },
+    {
+      "album": {
         "name": "Saaya-Tamil",
         "url": "https://open.spotify.com/album/0NxKRbraH7cPudwyZy5Ika"
       },
@@ -3583,6 +3601,28 @@
       "duration_ms": 190171,
       "name": "Yaar Aval",
       "url": "https://open.spotify.com/track/3dMz1QpT8FmcIh8ERRmidI"
+    },
+    {
+      "album": {
+        "name": "Yaar Solvaaro",
+        "url": "https://open.spotify.com/album/0DGEWRA09FNgXO3WwrIYy7"
+      },
+      "artists": [
+        {
+          "name": "C.B. Karty",
+          "url": "https://open.spotify.com/artist/2lM8YzcI1hZuuUd0dtRPTL"
+        },
+        {
+          "name": "S. Subramanian",
+          "url": "https://open.spotify.com/artist/6SVbybcQvMWUq4UdqgJjki"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266181,
+      "name": "Yaar Solvaaro",
+      "url": "https://open.spotify.com/track/6DFAhCjI8WXgEzjdZLBfwv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUv0cTKdT8jJ.md) - [plain]
 
 > Crank it up to full volume and enjoy the best rock music \- all day, everyday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,030 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,143 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

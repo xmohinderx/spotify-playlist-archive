@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,632 likes - 61 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,814 likes - 61 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 45 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
 | 46 | [Mr\. Jukebox](https://open.spotify.com/track/3SPEV9v2fGKbGBIqYxoZUa) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Mr\. Jukebox](https://open.spotify.com/album/0QDlhf1XxRbMUwGEneXXXi) | 3:16 |
 | 47 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
-| 48 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/0pOTulwDdrsOLLbYtmTcZE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [If I Can Dream: The Very Best of Elvis](https://open.spotify.com/album/4nzoWPErEEVrZhTb13Rm7W) | 3:33 |
+| 48 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/3j4viUIDSuB4xfYYlp3Lpa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:33 |
 | 49 | [Come On, Let's Go](https://open.spotify.com/track/3wbZ4SLakqTZqV76czDeuZ) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Rhino Hi\-Five: Ritchie Valens](https://open.spotify.com/album/2UoXVAKOOVZjmVfTUidEHs) | 2:05 |
 | 50 | [Lil' Girl's Name](https://open.spotify.com/track/7DOy4C7xmGC45axYUrxDm5) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome as a Shadow](https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE) | 2:01 |
 | 51 | [I Wonder Why](https://open.spotify.com/track/5XOzpTZGe4onY74BFK0ziS) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:05 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 60 | [You Really Got A Hold On Me \- Remastered 2009](https://open.spotify.com/track/7rgUYidQh5tH0YlXCoKaYJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 3:01 |
 | 61 | [All I've Got To Do \- Remastered 2009](https://open.spotify.com/track/5tztLBvTlNC15Np2tnQ5Ll) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:02 |
 
-Snapshot ID: `MTY1MTg2NDY3NCwwMDAwMDAwMGU4NTU3MDcyNTJjOWMzOGM2YTI5ODFiOGE5NGUxMDI5`
+Snapshot ID: `MTY1MTg2NDY3NCwwMDAwMDAwMDk3MzUwNTNhM2MyMjY4MzNiNjgzMTEzMmNkNzE3MmRh`

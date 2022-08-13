@@ -213,7 +213,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 386583,
       "name": "Anomynous (Bonus Track) - 2020 Remaster",
       "url": "https://open.spotify.com/track/7CrWyrb9ueT6koXfBABJJJ"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 244369,
       "name": "Bonita Applebum (Daylight)",
       "url": "https://open.spotify.com/track/7lJUAQCxvZVIUA6W0UgnYT"
@@ -2266,6 +2266,24 @@
     },
     {
       "album": {
+        "name": "Influencias Latinas",
+        "url": "https://open.spotify.com/album/21OBXWjYU6CPzncXXHjCKk"
+      },
+      "artists": [
+        {
+          "name": "Lo Greco Bros",
+          "url": "https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316998,
+      "name": "Miami Dream",
+      "url": "https://open.spotify.com/track/1aIANWtddXVxegatVZWDBv"
+    },
+    {
+      "album": {
         "name": "Pigna",
         "url": "https://open.spotify.com/album/5v0rRHYTEggTCkUQSWIqxl"
       },
@@ -3205,6 +3223,32 @@
       "duration_ms": 242226,
       "name": "Sir Somebody",
       "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
+    },
+    {
+      "album": {
+        "name": "Sky View",
+        "url": "https://open.spotify.com/album/3APv0egvjU4DiD1k77I4R4"
+      },
+      "artists": [
+        {
+          "name": "Duochrome",
+          "url": "https://open.spotify.com/artist/7oEPPw9oIE9daEBxJ4qRlB"
+        },
+        {
+          "name": "Brian Thomas",
+          "url": "https://open.spotify.com/artist/5J2bWNW9crLgcvyNNjPtdz"
+        },
+        {
+          "name": "Jared Sims",
+          "url": "https://open.spotify.com/artist/7vO0dxaCLvGlRAqCl47d7X"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385000,
+      "name": "Sky View",
+      "url": "https://open.spotify.com/track/58IGukkmCJqIlTrrb4g4xO"
     },
     {
       "album": {

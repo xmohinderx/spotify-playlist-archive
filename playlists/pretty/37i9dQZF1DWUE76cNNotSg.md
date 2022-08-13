@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,640 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,962 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [The Trees](https://open.spotify.com/track/4q6OvSJnqxZZ3N13QRRzrX) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [North Coast](https://open.spotify.com/album/4LRkbvKAgFBh1DtKUXb9rV) | 4:42 |
 | 80 | [Pili Pili](https://open.spotify.com/track/74N9cnVOhruZpoZUt4Ky5z) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/10H4nbqjbmrGo4bG23dfWK) | 4:10 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDkwNmJjN2ZmZWRmZmZjNDE0ZThhOWYxYWU2Yzg4NmEz`
+Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDM1ZWNhNjc5ZTBmODhkZWVlZGNhMTQ5NzU2OTE3Yjdh`

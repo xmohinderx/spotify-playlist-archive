@@ -4,13 +4,13 @@
 
 > The best new alternative rock tracks.
 
-170 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+173 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1% Milk](https://open.spotify.com/track/6eQvhUB3F3TzmFjmL00PPx) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [1% Milk](https://open.spotify.com/album/6aP8d9w80CWYhWH66TCvS8) | 2:42 | 2021-12-16 | 2022-01-14 |
 | [20 Signs](https://open.spotify.com/track/6wASObGcDb27c5dvv2wu5F) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [20 Signs](https://open.spotify.com/album/2A8fYB1Ma4Nih3N0lr8SPu) | 2:32 | 2022-03-24 |  |
-| [25](https://open.spotify.com/track/4BVhT8hPa0RVTl5fixJlBR) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [25](https://open.spotify.com/album/3EafDY5hu3gxtoLfn2TKDL) | 3:07 | 2022-06-23 |  |
+| [25](https://open.spotify.com/track/4BVhT8hPa0RVTl5fixJlBR) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [25](https://open.spotify.com/album/3EafDY5hu3gxtoLfn2TKDL) | 3:07 | 2022-06-23 | 2022-08-13 |
 | [45](https://open.spotify.com/track/5USjlCAmUe7ujh6bgfgqi9) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [45](https://open.spotify.com/album/2S1Wn20X7sX2bk5AnVlwkv) | 3:05 | 2021-12-16 | 2022-01-28 |
 | [A Hunger In Your Haunt](https://open.spotify.com/track/3SCDUKP0PpE3ePJwNDoCyL) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [The Myth of The Happily Ever After](https://open.spotify.com/album/79TV8acvMeGKGbsBUKvwCI) | 3:49 | 2021-12-16 | 2022-04-01 |
 | [Airborne Panic Attack](https://open.spotify.com/track/14TdZYBmuK8aKl9yTAQ9ud) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Airborne Panic Attack](https://open.spotify.com/album/5FdmmdyUz9j9B4sE3iRZ1v) | 3:14 | 2021-12-16 | 2022-03-25 |
@@ -32,6 +32,7 @@
 | [Bones](https://open.spotify.com/track/0mjdhNsbHL8ZkY9ZlYKqjI) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Bones](https://open.spotify.com/album/6PHUR1v2nc0nH5IVfgtZyb) | 2:41 | 2022-03-10 | 2022-04-22 |
 | [Bored Again](https://open.spotify.com/track/3QQwKlLs6j1pcLcg5rllCp) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Bored Again](https://open.spotify.com/album/7kL4uWsTVVZEr2BPdh5lNi) | 3:27 | 2022-06-30 |  |
 | [Boy](https://open.spotify.com/track/6N21ZBtnE0DoofBpoqpNed) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/27l9RTaXrZdE3FL4wTjenz) | 3:21 | 2021-12-16 | 2022-03-25 |
+| [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2022-08-12 |  |
 | [Brother](https://open.spotify.com/track/3lIC6gFTx2XwCIAdhs88qU) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Brother](https://open.spotify.com/album/5AwS7TwR4bOMzej8FqAniP) | 3:18 | 2021-12-16 | 2022-03-11 |
 | [Brother of Mine](https://open.spotify.com/track/03Idtt3AjQG0X7IyoXpuw6) | [Spielbergs](https://open.spotify.com/artist/1PTXobwsxwhjcIajCjV8u4) | [Brother of Mine](https://open.spotify.com/album/4b4WAaunBaI9dRwsTpnbMG) | 4:14 | 2022-03-24 | 2022-06-17 |
 | [Bubblegum Infinity](https://open.spotify.com/track/5tJFhreXnGMbEzobeAnHTI) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Bubblegum Infinity](https://open.spotify.com/album/1sIkmuMAHX0LDBwDOmr8QE) | 3:10 | 2022-02-03 | 2022-06-10 |
@@ -46,6 +47,7 @@
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-27 |  |
 | [Ce n'est Rien](https://open.spotify.com/track/0bJ3tEUaUQewD9EUTuh2XX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic II](https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY) | 3:00 | 2021-12-16 | 2022-02-22 |
 | [Center](https://open.spotify.com/track/7KKLJ8OHLHaUWFjUSzMuYK) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Center](https://open.spotify.com/album/0tvQT9SCiGfZjHf7cf56j8) | 4:02 | 2022-01-13 | 2022-04-15 |
+| [Charlie Bronson](https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Charlie Bronson](https://open.spotify.com/album/4epVkITSRbajj8VlnOIWvN) | 3:24 | 2022-08-12 |  |
 | [Chasms](https://open.spotify.com/track/1icQihnClFMeGQgKrSGehY) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [Chasms](https://open.spotify.com/album/6pAvsIwYWDB7iVTVGT4SYA) | 4:48 | 2021-12-16 | 2022-02-18 |
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-04-14 |  |
 | [Clean Hands](https://open.spotify.com/track/5u4RZp5KS6Kbl70xPtJYCv) | [The Darling Fire](https://open.spotify.com/artist/280ynciDmBOnHdsAwrewis) | [Clean Hands](https://open.spotify.com/album/05UaLB7zgQ8lcjLlnVIXcz) | 4:14 | 2022-06-30 |  |
@@ -63,7 +65,7 @@
 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-07-31 |  |
 | [Didn’t Know](https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Future Me](https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ) | 3:07 | 2022-06-09 |  |
 | [Digital Atlas](https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Digital Atlas](https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8) | 3:02 | 2022-02-03 | 2022-06-10 |
-| [Disgusting](https://open.spotify.com/track/37DRi2hcNwEhlT0jEnyLAX) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Disgusting](https://open.spotify.com/album/6AfbbjvJ5clKLalUyNZ4Dv) | 3:09 | 2022-06-16 |  |
+| [Disgusting](https://open.spotify.com/track/37DRi2hcNwEhlT0jEnyLAX) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Disgusting](https://open.spotify.com/album/6AfbbjvJ5clKLalUyNZ4Dv) | 3:09 | 2022-06-16 | 2022-08-13 |
 | [Dive](https://open.spotify.com/track/0ToSPOjmd4sl1ABWa3nEvl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Dive](https://open.spotify.com/album/7F0bAW23xFNyiFeC3OKJd8) | 3:35 | 2022-01-20 | 2022-02-25 |
 | [Down4ever](https://open.spotify.com/track/6wTgRF97V3ewzivhYSVBGL) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Down4ever](https://open.spotify.com/album/3L6Nyy6vDuIuUxZ75BI6f0) | 3:27 | 2021-12-16 | 2022-01-07 |
 | [Earth Is A Black Hole](https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:55 | 2021-12-16 | 2022-05-27 |
@@ -121,7 +123,7 @@
 | [New England](https://open.spotify.com/track/6Xc7LinCrQ5qwqVihDXrtr) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [New England](https://open.spotify.com/album/7jSPhpCKF0PXgZ2ntVWSnn) | 3:38 | 2022-01-06 | 2022-05-27 |
 | [NEW HEART DESIGN](https://open.spotify.com/track/6J2Y5iz8C5b83ndoPun6aF) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:27 | 2022-06-30 |  |
 | [New Low](https://open.spotify.com/track/0YsGHQXC0LCALA4b36QYA5) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Low](https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT) | 4:23 | 2022-06-23 |  |
-| [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 | 2022-06-09 |  |
+| [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 | 2022-06-09 | 2022-08-13 |
 | [Normal People](https://open.spotify.com/track/5fHTf9ZTdBkN3HTT3qLr4c) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal People](https://open.spotify.com/album/6HEPp8hIR1ax1cLTMDBLbL) | 2:58 | 2021-12-16 | 2022-01-21 |
 | [Nothing](https://open.spotify.com/track/1xtm5LyLJsOcCqyGY0qnTn) | [bloodmoon](https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB) | [Nothing](https://open.spotify.com/album/1SqK00QPYl2QcZe3HD1pel) | 3:59 | 2022-06-16 |  |
 | [Nothing Is Real](https://open.spotify.com/track/3XWIRyN53ELqIgJJFsB7Vx) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/4O8ZUAxWtfxWxxkGqRaAbZ) | 4:33 | 2022-07-31 |  |
@@ -135,6 +137,7 @@
 | [Queen](https://open.spotify.com/track/6FoB7cNbQ28gsKhh24YI4I) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Queen](https://open.spotify.com/album/3ZTodB8gVsIWAzYb6znSl7) | 3:13 | 2022-03-10 |  |
 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 | 2022-06-02 |  |
 | [Reckoning](https://open.spotify.com/track/3qAqVQU4bf1ycHQvgqTzYm) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Reckoning](https://open.spotify.com/album/6qaCXwtvRmnz3xuU0dLzzt) | 4:33 | 2022-05-12 |  |
+| [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 | 2022-08-12 |  |
 | [Rinse and Repeat](https://open.spotify.com/track/5TFCatIcfeNVhoUpqHIlHg) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [Rinse and Repeat](https://open.spotify.com/album/59LnOVTUi3AkP948nZ54BS) | 4:31 | 2022-03-24 | 2022-04-22 |
 | [Roses](https://open.spotify.com/track/3lG1KQ70mUNVbYoOF21oUl) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Roses](https://open.spotify.com/album/0GBaXfDNx3iAuOLsw9szJ6) | 3:15 | 2022-02-03 | 2022-03-11 |
 | [Royal Blue](https://open.spotify.com/track/3LoCslgbT6Z1hG0ZbrQahG) | [Suntitle](https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS) | [Royal Blue](https://open.spotify.com/album/2dVUZqatr2wPgg1M8r0DRz) | 2:56 | 2021-12-16 | 2022-04-01 |
